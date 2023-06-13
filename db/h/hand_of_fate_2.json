@@ -3,12 +3,12 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 452,
-  "Ranking_Popularity": 431,
+  "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,7 +850,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657828,
+  "EOS_Progressed": 657834,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
@@ -5830,6 +5830,11 @@
       "Time": "2023-06-13T14:05:33.2176199+00:00",
       "NumProgressed": 657828,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-13T16:07:24.0704683+00:00",
+      "NumProgressed": 657834,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -5841,7 +5846,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473636
+      "UsersEstimate": 473640
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -5849,7 +5854,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381540
+      "UsersEstimate": 381544
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -5857,7 +5862,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151300
+      "UsersEstimate": 151302
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -5881,7 +5886,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52626
+      "UsersEstimate": 52627
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -5929,7 +5934,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32891
+      "UsersEstimate": 32892
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -5977,7 +5982,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151300
+      "UsersEstimate": 151302
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -5985,7 +5990,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92096
+      "UsersEstimate": 92097
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -5993,7 +5998,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111831
+      "UsersEstimate": 111832
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -6009,7 +6014,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52626
+      "UsersEstimate": 52627
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -6017,7 +6022,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32891
+      "UsersEstimate": 32892
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -6065,7 +6070,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52626
+      "UsersEstimate": 52627
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -6081,7 +6086,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78939
+      "UsersEstimate": 78940
     },
     {
       "ID": "Achievement_32_Karma",
@@ -6105,7 +6110,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164457
+      "UsersEstimate": 164458
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -6137,7 +6142,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52626
+      "UsersEstimate": 52627
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -6193,7 +6198,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -6224,15 +6229,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657828,
+      "Progressed": 657834,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:31.258359+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:24.0704677+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:47.1826609+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:33.7692427+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:31.2584222+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:58:02.8335198+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:24.0705435+00:00"
 }

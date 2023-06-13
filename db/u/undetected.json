@@ -3,9 +3,9 @@
   "Name": "Undetected",
   "ProductSlug": "undetected-834ba5",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-30T16:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.4442762+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.5121147+00:00",
   "LastChanged": "2023-03-31T05:58:28.4442763+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:21.6181466+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:10.8510977+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:19.3874499+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:25.0809454+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:21.6181492+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:48.8656683+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:10.8511024+00:00"
 }

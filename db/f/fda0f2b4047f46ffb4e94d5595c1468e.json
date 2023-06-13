@@ -3,9 +3,9 @@
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T19:56:58.2543502+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:05.0560965+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:02:21.8608284+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:57:19.635939+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:03:28.7073274+00:00"
 }

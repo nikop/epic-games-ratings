@@ -50,8 +50,8 @@
 | Giantess Challenge | 0.00% | ~0 |
 | Warden Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 347)  
-Completed: 0 (0.00%) (Ranked 217)  
+Progressed: 18 (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

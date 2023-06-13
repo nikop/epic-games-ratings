@@ -3,9 +3,9 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-20T15:00:00+00:00",
     "PcReleaseDate": "2023-06-20T15:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:16.5720848+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:03.9647616+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:46.9704033+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:01.1237543+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:16.5720873+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:12.9575193+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:03.9647641+00:00"
 }

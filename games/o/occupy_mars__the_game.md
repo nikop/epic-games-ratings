@@ -5,22 +5,22 @@ Rating: 3.85 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~504 |
-| Electrician | 34.00% | ~418 |
-| Fear my botany powers, Mars | 32.00% | ~393 |
-| Zero Waste | 29.00% | ~356 |
-| Bob The Builder | 29.00% | ~356 |
-| I am the greatest botanist on this planet. | 28.00% | ~344 |
+| I don't feel so good | 41.00% | ~505 |
+| Electrician | 34.00% | ~419 |
+| Fear my botany powers, Mars | 32.00% | ~394 |
+| Zero Waste | 29.00% | ~357 |
+| Bob The Builder | 29.00% | ~357 |
+| I am the greatest botanist on this planet. | 28.00% | ~345 |
 | Gardener | 24.00% | ~295 |
 | Miner | 24.00% | ~295 |
-| Occupy Mars! | 22.00% | ~270 |
-| Houston we have a problem | 21.00% | ~258 |
-| Detective | 18.00% | ~221 |
-| The Collector | 15.00% | ~184 |
+| Occupy Mars! | 22.00% | ~271 |
+| Houston we have a problem | 21.00% | ~259 |
+| Detective | 18.00% | ~222 |
+| The Collector | 15.00% | ~185 |
 | Get your hands dirty | 9.00% | ~111 |
 | Space Forest | 7.00% | ~86 |
 | All Wheel Trouble | 6.00% | ~74 |
-| ITS crash site | 5.00% | ~61 |
+| ITS crash site | 5.00% | ~62 |
 | DeDust | 4.00% | ~49 |
 | “Aliens” | 3.00% | ~37 |
 | Hard Landing | 2.00% | ~25 |
@@ -28,7 +28,7 @@ Rating: 3.85 (Ranked 923)
 | To infinity and beyond! | 2.00% | ~25 |
 | Driver's License | 1.00% | ~12 |
 | Explosive Miner | 0.90% | ~11 |
-| Rocket Jump | 0.80% | ~10 |
+| Rocket Jump | 0.90% | ~11 |
 | Thunderstruck | 0.70% | ~9 |
 | Caveman | 0.60% | ~7 |
 | 5G Network | 0.50% | ~6 |
@@ -54,8 +54,8 @@ Rating: 3.85 (Ranked 923)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,229 (Ranked 167)  
-Completed: 0 (0.00%) (Ranked 217)  
+Progressed: 1,231 (Ranked 167)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 1,195 | 0 |
 | 2023-06-11 | 1,210 | 0 |
 | 2023-06-12 | 1,221 | 0 |
-| 2023-06-13 | 1,229 | 0 |
+| 2023-06-13 | 1,231 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6776,
+  "EOS_Progressed": 6777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4224,6 +4224,11 @@
       "Time": "2023-06-13T15:05:38.0559124+00:00",
       "NumProgressed": 6776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T16:07:32.566348+00:00",
+      "NumProgressed": 6777,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4305,9 +4310,9 @@
       "ID": "0010",
       "SetID": "2n2feee",
       "Name": "Social of Solace",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 542
     },
     {
       "ID": "0011",
@@ -4331,7 +4336,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "0014",
@@ -4363,7 +4368,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "0018",
@@ -4387,7 +4392,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "0021",
@@ -4459,7 +4464,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "0030",
@@ -4522,7 +4527,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6776,
+      "Progressed": 6777,
       "Completed": 0
     }
   ],
@@ -4530,8 +4535,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:38.0559119+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:32.5663474+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:15.5285782+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:38.0559625+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:34.2374024+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:32.5664219+00:00"
 }

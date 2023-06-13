@@ -6,16 +6,16 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,356 |
-| Tutti Eroi! | 54.00% | ~3,356 |
+| Peak Performance | 54.00% | ~3,357 |
+| Tutti Eroi! | 54.00% | ~3,357 |
 | You Shall Not Pass | 52.00% | ~3,232 |
-| Avanti Savoia! | 47.00% | ~2,921 |
-| Conrad von Hotzensocks | 36.00% | ~2,237 |
-| Mamma Mia! | 36.00% | ~2,237 |
+| Avanti Savoia! | 47.00% | ~2,922 |
+| Conrad von Hotzensocks | 36.00% | ~2,238 |
+| Mamma Mia! | 36.00% | ~2,238 |
 | Gabriele D'Annunzio | 32.00% | ~1,989 |
 | Silver Lining | 28.00% | ~1,740 |
-| Aurelio Baruzzi | 22.00% | ~1,367 |
-| Veni Vidi Vici | 22.00% | ~1,367 |
+| Aurelio Baruzzi | 22.00% | ~1,368 |
+| Veni Vidi Vici | 22.00% | ~1,368 |
 | Decimation | 20.00% | ~1,243 |
 | Donatello | 20.00% | ~1,243 |
 | Insubordination | 19.00% | ~1,181 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,215 (Ranked 124)  
+Progressed: 6,216 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 8 (0.13%) (Ranked 163)
 | 2023-06-10 | 6,159 | 8 |
 | 2023-06-11 | 6,189 | 8 |
 | 2023-06-12 | 6,208 | 8 |
-| 2023-06-13 | 6,215 | 8 |
+| 2023-06-13 | 6,216 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 245 (Ranked 345)  

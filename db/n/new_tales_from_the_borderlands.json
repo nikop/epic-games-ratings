@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3424,
+  "EOS_Progressed": 3425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -498,6 +498,11 @@
       "Time": "2023-06-12T07:06:21.1650882+00:00",
       "NumProgressed": 3424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T16:07:24.1188985+00:00",
+      "NumProgressed": 3425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -603,9 +608,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 993
+      "UsersEstimate": 959
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -613,7 +618,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -685,7 +690,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -716,7 +721,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3424,
+      "Progressed": 3425,
       "Completed": 0
     }
   ],
@@ -724,8 +729,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:31.4064372+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:24.1188974+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.8421349+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:05.8075592+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:31.4064586+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:20.0036683+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:24.1189186+00:00"
 }

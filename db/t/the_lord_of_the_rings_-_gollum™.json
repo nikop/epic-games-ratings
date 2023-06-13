@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 63,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
@@ -820,6 +820,11 @@
       "Time": "2023-06-13T13:11:51.9422509+00:00",
       "NumProgressed": 433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T16:07:12.6098182+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -855,7 +860,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Chapter10",
@@ -1007,7 +1012,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Murderer",
@@ -1109,23 +1114,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:22.8159818+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:12.6098177+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:39.1448824+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:22.816012+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:58:10.6119139+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:12.6098514+00:00"
 }

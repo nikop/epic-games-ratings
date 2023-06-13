@@ -2,13 +2,13 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "ProductSlug": "the-outer-worlds",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2019-10-25T15:00:00+00:00",
     "PcReleaseDate": "2019-10-25T15:00:00+00:00",
@@ -2104,10 +2104,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3569,
       "NumberOfAwardsMax": 1746
+    },
+    {
+      "Time": "2023-06-13T16:00:24.2123339+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3570,
+      "NumberOfAwardsMax": 1746
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3569,
+  "NumberOfAwards": 3570,
   "NumberOfAwardsMax": 1746,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2157,7 +2163,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2195,8 +2201,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2023-06-13T07:00:15.1917895+00:00",
+  "LastChanged": "2023-06-13T16:00:24.2123337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:57.6963775+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:08.5065104+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:04:38.1963215+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:24.2123344+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:06:10.5518251+00:00"
 }

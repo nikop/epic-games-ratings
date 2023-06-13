@@ -5,31 +5,31 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,219 |
-| No more cages! | 92.00% | ~2,149 |
-| Everfrost | 77.00% | ~1,799 |
-| Pentakill | 76.00% | ~1,775 |
-| Dark Forest | 76.00% | ~1,775 |
-| The use of petricite | 73.00% | ~1,705 |
-| You can pet the dog | 60.00% | ~1,402 |
+| For Demacia | 95.00% | ~2,221 |
+| No more cages! | 92.00% | ~2,151 |
+| Everfrost | 77.00% | ~1,800 |
+| Pentakill | 76.00% | ~1,777 |
+| Dark Forest | 76.00% | ~1,777 |
+| The use of petricite | 73.00% | ~1,707 |
+| You can pet the dog | 60.00% | ~1,403 |
 | Big Helmet Bro | 35.00% | ~818 |
 | Clarion Cove | 35.00% | ~818 |
-| Past trauma | 34.00% | ~794 |
-| Thornbarrow | 33.00% | ~771 |
-| Ternmoat Headquarters | 33.00% | ~771 |
+| Past trauma | 34.00% | ~795 |
+| Thornbarrow | 33.00% | ~772 |
+| Ternmoat Headquarters | 33.00% | ~772 |
 | Elemental master | 32.00% | ~748 |
 | Cypress Glen Headquarters | 32.00% | ~748 |
-| Old friend | 28.00% | ~654 |
-| Petricite Burst | 28.00% | ~654 |
+| Old friend | 28.00% | ~655 |
+| Petricite Burst | 28.00% | ~655 |
 | Devineur | 27.00% | ~631 |
-| Whispers in the Woods I | 26.00% | ~607 |
-| Hijack | 26.00% | ~607 |
+| Whispers in the Woods I | 26.00% | ~608 |
+| Hijack | 26.00% | ~608 |
 | Ancient power | 24.00% | ~561 |
 | I chose my shackles | 22.00% | ~514 |
 | Sacred Woods | 21.00% | ~491 |
 | Capelworth | 21.00% | ~491 |
-| Little light | 20.00% | ~467 |
-| Iffighain Headquarters | 20.00% | ~467 |
+| Little light | 20.00% | ~468 |
+| Iffighain Headquarters | 20.00% | ~468 |
 | Glyndemere | 19.00% | ~444 |
 | Full equipped | 19.00% | ~444 |
 | Whispers in the Woods II | 16.00% | ~374 |
@@ -59,8 +59,8 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,336 (Ranked 150)  
-Completed: 1 (0.04%) (Ranked 189)  
+Progressed: 2,338 (Ranked 150)  
+Completed: 1 (0.04%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 1 (0.04%) (Ranked 189)
 | 2023-06-10 | 2,317 | 1 |
 | 2023-06-11 | 2,331 | 1 |
 | 2023-06-12 | 2,334 | 1 |
-| 2023-06-13 | 2,336 | 1 |
+| 2023-06-13 | 2,338 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

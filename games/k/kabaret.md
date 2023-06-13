@@ -23,11 +23,11 @@
 | Strangers You Meet | 27.00% | ~3 |
 | Losing A Small, Good Thing | 27.00% | ~3 |
 | True Potential Unlocked | 27.00% | ~3 |
+| Guli Novice | 27.00% | ~3 |
 | In Service Of Others | 27.00% | ~3 |
 | I Sit On The Beach, Watching The Tide Leave | 27.00% | ~3 |
 | Squashed Bug | 27.00% | ~3 |
 | An End To History | 27.00% | ~3 |
-| Guli Novice | 18.00% | ~2 |
 | Guli Pro | 18.00% | ~2 |
 | Guli Master | 18.00% | ~2 |
 | Congkak Legend | 18.00% | ~2 |
@@ -49,6 +49,7 @@
 | The World Is Mine, And I Don't Want It | 18.00% | ~2 |
 | Faithful Follower | 9.00% | ~1 |
 | Rebel To God | 9.00% | ~1 |
+| True Devourer | 9.00% | ~1 |
 | Human Supremacy | 9.00% | ~1 |
 | Uncommitted | 9.00% | ~1 |
 | Thou Art Naive | 9.00% | ~1 |
@@ -62,7 +63,6 @@
 | Top Of The Food Chain | 9.00% | ~1 |
 | I Take The Tiger Upon Myself | 9.00% | ~1 |
 | I See The Truth | 0.00% | ~0 |
-| True Devourer | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |
 | Sweetheart | 0.00% | ~0 |
 | I Don't Want To Dirty My Hands | 0.00% | ~0 |
@@ -73,7 +73,7 @@
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 366)  
-Completed: 0 (0.00%) (Ranked 217)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

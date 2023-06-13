@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,7 +614,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15174,
+  "EOS_Progressed": 15179,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
@@ -3754,6 +3754,11 @@
       "Time": "2023-06-13T15:03:59.2961893+00:00",
       "NumProgressed": 15174,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-13T16:05:14.3784696+00:00",
+      "NumProgressed": 15179,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3781,7 +3786,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3797,7 +3802,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3829,7 +3834,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3869,7 +3874,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3877,7 +3882,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "KILL_2HEAD",
@@ -3901,7 +3906,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3933,7 +3938,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3941,7 +3946,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3949,7 +3954,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3957,7 +3962,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3973,7 +3978,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "STORY_HANGAR",
@@ -4084,13 +4089,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15174,
+      "Progressed": 15179,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3100,
+      "Progressed": 3105,
       "Completed": 29
     }
   ],
@@ -4098,8 +4103,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:03:59.2961889+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:05:14.3784691+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:46.3402523+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:03:59.296238+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:58:21.3147871+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:05:14.3785233+00:00"
 }

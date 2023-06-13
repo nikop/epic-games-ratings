@@ -3,9 +3,9 @@
   "Name": "Cubzh",
   "ProductSlug": "cubzh-3cc767",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T14:00:00+00:00",
     "PcReleaseDate": "2021-10-24T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T10:57:17.3590836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.939498+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:15.5852565+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:04:04.7730318+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:57:35.2340379+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:05:22.3403983+00:00"
 }

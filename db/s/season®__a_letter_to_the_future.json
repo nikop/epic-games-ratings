@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1036,
+  "EOS_Progressed": 1037,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-06-13T15:05:19.1645721+00:00",
       "NumProgressed": 1036,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-13T16:07:07.5092127+00:00",
+      "NumProgressed": 1037,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 16,
@@ -1365,7 +1370,7 @@
       "Name": "Deep Listener",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1373,7 +1378,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -1419,9 +1424,9 @@
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 850
+      "UsersEstimate": 861
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1461,7 +1466,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_THEEND",
@@ -1484,7 +1489,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1036,
+      "Progressed": 1037,
       "Completed": 39
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:19.1645718+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:07.5092122+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:58:24.0895122+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:19.1645923+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:59:16.8701067+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:07.5092355+00:00"
 }

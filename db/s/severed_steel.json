@@ -6,7 +6,7 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -242,9 +242,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 415244,
+  "EOS_Progressed": 415252,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2534,
+  "EOS_NewPlayers": 2522,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5902,6 +5902,11 @@
       "Time": "2023-06-13T15:02:28.6875707+00:00",
       "NumProgressed": 415244,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-13T16:03:38.4896295+00:00",
+      "NumProgressed": 415252,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 52,
@@ -5921,7 +5926,7 @@
       "Name": "100 KILLS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 49829
+      "UsersEstimate": 49830
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -5929,7 +5934,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 29067
+      "UsersEstimate": 29068
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -5937,7 +5942,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 45677
+      "UsersEstimate": 45678
     },
     {
       "ID": "BIGUPS",
@@ -5977,7 +5982,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37372
+      "UsersEstimate": 37373
     },
     {
       "ID": "CHAPTER2",
@@ -6001,7 +6006,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "CHAPTER5",
@@ -6025,7 +6030,7 @@
       "Name": "CHURCH",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "COMMAND",
@@ -6073,7 +6078,7 @@
       "Name": "FIREFIGHT LEVEL 40",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "FIREFIGHT50 LEVEL (0-50)",
@@ -6121,7 +6126,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "FRESH",
@@ -6177,7 +6182,7 @@
       "Name": "NEW GAME PLUS",
       "Percentage": 0.2,
       "XP": 115,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "OFFTHEHINGES",
@@ -6289,7 +6294,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37372
+      "UsersEstimate": 37373
     },
     {
       "ID": "SOUL",
@@ -6328,7 +6333,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 415244,
+      "Progressed": 415252,
       "Completed": 33
     }
   ],
@@ -6336,8 +6341,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-06T18:59:44.6369603+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:02:28.6875702+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:03:38.4896271+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:56.3588144+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:07.7993091+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:02:28.6876661+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:23.0536021+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:03:38.4897085+00:00"
 }

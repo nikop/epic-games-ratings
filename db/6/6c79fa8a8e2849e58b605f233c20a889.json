@@ -3,9 +3,9 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1500,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 1502,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 163,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-05-16T14:00:54.9607357+00:00",
@@ -1916,6 +1916,11 @@
       "Time": "2023-06-13T15:03:33.5267892+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T16:04:37.068709+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -1959,15 +1964,15 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "EXPRESS_YOURSELF",
       "SetID": "8lhbnh7",
       "Name": "Express Yourself",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "FACE_FACE",
@@ -1997,9 +2002,9 @@
       "ID": "FEUD_GRANDMASTER",
       "SetID": "8lhbnh7",
       "Name": "Grandmaster",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "FEUD_NOVICE",
@@ -2007,7 +2012,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2031,23 +2036,23 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ISOLATION_MASTER",
       "SetID": "8lhbnh7",
       "Name": "Manipulator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "KING_MASTERY",
@@ -2069,17 +2074,17 @@
       "ID": "MEDIC_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Chief Physician",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REGICIDE_MASTER",
       "SetID": "8lhbnh7",
       "Name": "Assassin",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SMARTER_THAN_A_BEAR",
@@ -2087,29 +2092,29 @@
       "Name": "Smarter than a Bear",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WIZARD_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Archwizard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1500,
-      "Completed": 0
+      "Progressed": 1502,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:03:33.5267888+00:00",
-  "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:07.0593257+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:03:33.5268163+00:00"
+  "LastChanged_Achievements": "2023-06-13T16:04:37.0687084+00:00",
+  "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
+  "LastUpdate_Ratings": "2023-06-13T15:57:22.7072177+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:04:37.0687407+00:00"
 }

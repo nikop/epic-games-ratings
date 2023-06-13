@@ -13,7 +13,7 @@ Rating: 3.44 (Ranked 939)
 | ICU | 44.00% | ~739 |
 | Catch and Release | 43.00% | ~722 |
 | Peek-a-boo | 42.00% | ~706 |
-| Sucks To Be You | 41.00% | ~689 |
+| Sucks To Be You | 42.00% | ~706 |
 | Welcome to the Neighborhood | 36.00% | ~605 |
 | Fly Fisher | 34.00% | ~571 |
 | Throw The First Stone | 33.00% | ~554 |
@@ -73,7 +73,7 @@ Rating: 3.44 (Ranked 939)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,680 (Ranked 156)  
-Completed: 0 (0.00%) (Ranked 217)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.57 (Ranked 441)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 17.00% | ~445 |
+| Wakey Wakey | 17.00% | ~446 |
 | Sputnik 2049 | 15.00% | ~393 |
 | Without Breaking Some Eggs... | 14.00% | ~367 |
 | Infinite Growth... | 14.00% | ~367 |
@@ -39,11 +39,11 @@ Rating: 4.58 (Ranked 421)
 | Mutual Loyalty | 1.00% | ~26 |
 | Sustainable Energy | 1.00% | ~26 |
 | Praise the Hull! | 1.00% | ~26 |
+| Space Greenhouse | 1.00% | ~26 |
 | Delivery! | 1.00% | ~26 |
 | Pedal to the Metal | 1.00% | ~26 |
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~24 |
-| Space Greenhouse | 0.90% | ~24 |
 | Help of the Forgotten Member | 0.90% | ~24 |
 | Tiqqun Contender | 0.80% | ~21 |
 | You Had One Job... | 0.80% | ~21 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 421)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,620 (Ranked 147)  
-Completed: 0 (0.00%) (Ranked 217)  
+Progressed: 2,621 (Ranked 147)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 2,570 | 0 |
 | 2023-06-11 | 2,591 | 0 |
 | 2023-06-12 | 2,609 | 0 |
-| 2023-06-13 | 2,620 | 0 |
+| 2023-06-13 | 2,621 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -161,3 +161,4 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-07 | 4.56 | 0 | 0 |
 | 2023-06-08 | 4.57 | 0 | 0 |
 | 2023-06-12 | 4.58 | 0 | 0 |
+| 2023-06-13 | 4.57 | 0 | 0 |

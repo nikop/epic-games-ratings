@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 370,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -63,6 +63,11 @@
     {
       "Time": "2023-06-08T21:05:55.008054+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T16:07:41.4894593+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -177,7 +182,7 @@
       "ID": "ach_levels_00",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 levels",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "ach_levels_01",
       "SetID": "8jkn3bi",
       "Name": "Complete 50 levels",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "ach_levels_02",
       "SetID": "8jkn3bi",
       "Name": "Complete 100 levels",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "ach_levels_size_00",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 6x6 levels",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -385,7 +390,7 @@
       "ID": "ach_switchoff_00",
       "SetID": "8jkn3bi",
       "Name": "Switch off the light",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -393,7 +398,7 @@
       "ID": "ach_usehints_00",
       "SetID": "8jkn3bi",
       "Name": "Use 10 hints",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -401,7 +406,7 @@
       "ID": "ach_usehints_01",
       "SetID": "8jkn3bi",
       "Name": "Use 20 hints",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -409,7 +414,7 @@
       "ID": "ach_usehints_02",
       "SetID": "8jkn3bi",
       "Name": "Use 50 hints",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -418,13 +423,13 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:45.0203316+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:41.4894587+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:11.4981499+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:00:01.6282399+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:45.0203588+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:01:44.3895254+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:41.4894959+00:00"
 }

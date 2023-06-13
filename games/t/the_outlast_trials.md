@@ -1,14 +1,14 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.66 (Ranked 277)  
 ## Awards
-Max (Quickly Understood Controls): 50  (Ranked 393)  
-Sum: 298 (Ranked 329)  
-Diff (max vs sum): 64  
+Max (Quickly Understood Controls): 52  (Ranked 388)  
+Sum: 300 (Ranked 329)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 50 |
+| This game has Quickly Understood Controls | 52 |
 | This game has Amazing Storytelling | 47 |
 | This game is Extremely Fun | 41 |
 | This game is Highly Recommended | 40 |
@@ -42,4 +42,4 @@ Diff (max vs sum): 64
 | 2023-06-10 | 4.66 | 46 | 275 |
 | 2023-06-11 | 4.66 | 50 | 293 |
 | 2023-06-12 | 4.66 | 50 | 302 |
-| 2023-06-13 | 4.67 | 50 | 298 |
+| 2023-06-13 | 4.67 | 52 | 300 |

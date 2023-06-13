@@ -12,13 +12,15 @@
 | Like Phileas Fogg | 11.00% | ~9 |
 | No Room for Improvement | 7.00% | ~6 |
 | Start Your Engines | 7.00% | ~6 |
+| Lone Wolf | 7.00% | ~6 |
+| Nerd | 6.00% | ~5 |
 | Highly Qualified | 6.00% | ~5 |
 | Upgradeaholic | 6.00% | ~5 |
-| Lone Wolf | 6.00% | ~5 |
 | Playing God | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
-| Nerd | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
+| POI Hunter | 4.00% | ~3 |
+| Gotta Go Fast! | 4.00% | ~3 |
 | Say My Name | 4.00% | ~3 |
 | First and Foremost | 4.00% | ~3 |
 | Made Mother Proud | 4.00% | ~3 |
@@ -26,9 +28,7 @@
 | Tailor-Made | 4.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
-| POI Hunter | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
-| Gotta Go Fast! | 2.00% | ~2 |
 | Geek | 2.00% | ~2 |
 | Last One Standing | 2.00% | ~2 |
 | The Immortal One | 2.00% | ~2 |

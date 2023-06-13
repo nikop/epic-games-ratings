@@ -3,9 +3,9 @@
   "Name": "Soda Story - Brewing Tycoon",
   "ProductSlug": "soda-story-brewing-tycoon-29063a",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-12T14:30:00+00:00",
     "PcReleaseDate": "2022-07-20T14:30:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:23.6279387+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:12.9680475+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:06:59.4817172+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:58.1691145+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:41.2666356+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:12.9680494+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:58:13.9615332+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:06:59.4817262+00:00"
 }

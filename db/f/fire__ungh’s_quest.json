@@ -2,9 +2,9 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -430,9 +430,9 @@
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Level_completed_005_003",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:30.6270541+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:23.2015445+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:25.577476+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:30.6270745+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:49.8286836+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:23.201568+00:00"
 }

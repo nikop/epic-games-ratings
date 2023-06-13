@@ -5,35 +5,35 @@ Rating: 3.82 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,900 |
-| No Half Measures | 88.00% | ~13,802 |
-| Personal Matter | 87.00% | ~13,645 |
-| But You Have Heard of Me | 72.00% | ~11,292 |
-| Double the Barrels, double the Fun | 55.00% | ~8,626 |
-| Pimp My Glide | 47.00% | ~7,371 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,430 |
-| House Party! | 33.00% | ~5,176 |
-| Make It Rain | 23.00% | ~3,607 |
+| Eeligally Ambitious | 95.00% | ~14,904 |
+| No Half Measures | 88.00% | ~13,805 |
+| Personal Matter | 87.00% | ~13,649 |
+| But You Have Heard of Me | 72.00% | ~11,295 |
+| Double the Barrels, double the Fun | 55.00% | ~8,628 |
+| Pimp My Glide | 47.00% | ~7,373 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,432 |
+| House Party! | 33.00% | ~5,177 |
+| Make It Rain | 23.00% | ~3,608 |
 | Curse of the Seven Seas | 21.00% | ~3,294 |
-| Head First | 16.00% | ~2,509 |
-| To the World's End | 12.00% | ~1,882 |
-| Table for Six | 11.00% | ~1,725 |
-| Sharing Is Caring | 10.00% | ~1,568 |
+| Head First | 16.00% | ~2,510 |
+| To the World's End | 12.00% | ~1,883 |
+| Table for Six | 11.00% | ~1,726 |
+| Sharing Is Caring | 10.00% | ~1,569 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,255 |
 | Morally Flexible | 6.00% | ~941 |
 | Fishing for Compliments | 5.00% | ~784 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~314 |
 | A True Dandy | 2.00% | ~314 |
 | A New Legend Awaits | 1.00% | ~157 |
-| Pirate King | 0.80% | ~125 |
+| Pirate King | 0.80% | ~126 |
 | Oooh, We're Half Way There | 0.70% | ~110 |
 | Devilishly Talented | 0.10% | ~16 |
 | Heavy Tunaing | 0.10% | ~16 |
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,684 (Ranked 100)  
-Completed: 0 (0.00%) (Ranked 217)  
+Progressed: 15,688 (Ranked 100)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 15,633 | 0 |
 | 2023-06-11 | 15,664 | 0 |
 | 2023-06-12 | 15,675 | 0 |
-| 2023-06-13 | 15,684 | 0 |
+| 2023-06-13 | 15,688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

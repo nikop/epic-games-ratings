@@ -5,18 +5,18 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,276 |
-| The Outer Way | 14.00% | ~2,124 |
+| Flesh Wound | 15.00% | ~2,277 |
+| The Outer Way | 14.00% | ~2,125 |
 | Desperate Times | 13.00% | ~1,973 |
-| Paper Jams | 11.00% | ~1,669 |
-| Reforged | 10.00% | ~1,517 |
+| Paper Jams | 11.00% | ~1,670 |
+| Reforged | 10.00% | ~1,518 |
 | Chew 'Em Up | 9.00% | ~1,366 |
 | Workplace Hazard | 9.00% | ~1,366 |
 | If the SHU Fits... | 9.00% | ~1,366 |
-| Giving Back | 7.00% | ~1,062 |
-| Get a Grip | 7.00% | ~1,062 |
-| Without A Paddle | 7.00% | ~1,062 |
-| Terminated | 6.00% | ~910 |
+| Giving Back | 7.00% | ~1,063 |
+| Get a Grip | 7.00% | ~1,063 |
+| Without A Paddle | 7.00% | ~1,063 |
+| Terminated | 6.00% | ~911 |
 | Two Heads Are Better Than One | 5.00% | ~759 |
 | Float Like A Butterfly | 5.00% | ~759 |
 | In the Pipe, Five by Five | 5.00% | ~759 |
@@ -29,9 +29,9 @@ Rating: 4.18 (Ranked 843)
 | Big Game Hunter | 4.00% | ~124 |
 | The Commonality | 3.00% | ~455 |
 | Bear Trap | 3.00% | ~93 |
-| I Do Belong Here | 2.00% | ~303 |
-| In Striking Distance | 2.00% | ~303 |
-| Mugshot | 2.00% | ~303 |
+| I Do Belong Here | 2.00% | ~304 |
+| In Striking Distance | 2.00% | ~304 |
+| Mugshot | 2.00% | ~304 |
 | Big Spender | 2.00% | ~62 |
 | Parole Denied | 1.00% | ~31 |
 | Hoard Mode | 1.00% | ~31 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,174 (Ranked 104)  
+Progressed: 15,179 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 54 (0.36%) (Ranked 125)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,174 | 54 |
+| 2023-06-13 | 15,179 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 9.00% | ~60 |
 | Treasure Trove | 8.00% | ~54 |
+| Rail Rat | 8.00% | ~54 |
 | Cartographer | 8.00% | ~54 |
 | Immaculate Aim | 8.00% | ~54 |
 | The Steel Shadow | 7.00% | ~47 |
 | The Mysterious Stranger | 7.00% | ~47 |
 | The Man Who Shattered Time | 7.00% | ~47 |
-| Rail Rat | 7.00% | ~47 |
 | Make Up For Lost Time | 7.00% | ~47 |
 | No, Thanks! | 7.00% | ~47 |
 | Breaking Down Barriers | 7.00% | ~47 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672 (Ranked 190)  
+Progressed: 672 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |

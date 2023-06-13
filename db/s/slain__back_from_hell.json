@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25535,
+  "EOS_Progressed": 25540,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1234,
+  "EOS_NewPlayers": 1235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5846,6 +5846,11 @@
       "Time": "2023-06-13T15:05:29.3903841+00:00",
       "NumProgressed": 25535,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-13T16:07:21.6052145+00:00",
+      "NumProgressed": 25540,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5865,7 +5870,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6001,7 +6006,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -6088,7 +6093,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25535,
+      "Progressed": 25540,
       "Completed": 19
     }
   ],
@@ -6096,8 +6101,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:29.3903835+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:21.6052139+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:31.3954815+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:29.3904357+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:00:57.972329+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:21.6052996+00:00"
 }

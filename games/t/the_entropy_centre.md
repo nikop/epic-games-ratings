@@ -11,8 +11,8 @@
 | This is a Wall | 42.00% | ~75 |
 | Extendable Bridges | 36.00% | ~64 |
 | 48 Attempts | 32.00% | ~57 |
+| Man's Best Friend | 30.00% | ~53 |
 | Chain Reaction | 30.00% | ~53 |
-| Man's Best Friend | 29.00% | ~52 |
 | Handyman | 20.00% | ~36 |
 | No Time To Relax | 15.00% | ~27 |
 | Bad Robots | 13.00% | ~23 |
@@ -33,7 +33,7 @@
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 178 (Ranked 258)  
-Completed: 0 (0.00%) (Ranked 217)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

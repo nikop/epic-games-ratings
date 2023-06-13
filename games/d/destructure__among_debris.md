@@ -18,9 +18,9 @@
 | Ball Protector | 4.00% | ~6 |
 | Legendary Destructor | 4.00% | ~6 |
 | Ticking Clock | 4.00% | ~6 |
+| Detoxed | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~3 |
 | Collector | 2.00% | ~3 |
-| Detoxed | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
 | Medium Rare | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |

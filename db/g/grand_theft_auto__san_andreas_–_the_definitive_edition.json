@@ -2,20 +2,20 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 407,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -368,6 +368,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 163,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2023-06-13T16:01:19.0557445+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 163,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
@@ -382,9 +388,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10415,
+  "EOS_Progressed": 10416,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4607,6 +4613,11 @@
       "Time": "2023-06-13T15:05:42.3261479+00:00",
       "NumProgressed": 10415,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-13T16:07:38.3783682+00:00",
+      "NumProgressed": 10416,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4618,7 +4629,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8332
+      "UsersEstimate": 8333
     },
     {
       "ID": "ACH02",
@@ -4674,7 +4685,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "ACH09",
@@ -4714,7 +4725,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH14",
@@ -4794,7 +4805,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "ACH24",
@@ -4897,16 +4908,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10415,
+      "Progressed": 10416,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-06-11T14:59:43.8934917+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:05:42.3261475+00:00",
+  "LastChanged": "2023-06-13T16:01:19.0557443+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:07:38.3783677+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:59:45.1541218+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:05:42.3261967+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:01:19.0557449+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:07:38.3784302+00:00"
 }

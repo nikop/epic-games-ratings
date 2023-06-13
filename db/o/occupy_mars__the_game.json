@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1229,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1926,6 +1926,11 @@
       "Time": "2023-06-13T13:10:18.3354494+00:00",
       "NumProgressed": 1229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T16:04:55.252256+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2009,7 +2014,7 @@
       "Name": "The Collector",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -2017,7 +2022,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2057,7 +2062,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2089,7 +2094,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2113,7 +2118,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2153,7 +2158,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2161,7 +2166,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2169,7 +2174,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -2193,7 +2198,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2209,7 +2214,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2247,9 +2252,9 @@
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
       "SetID": "l546gc",
       "Name": "Rocket Jump",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -2297,7 +2302,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2320,7 +2325,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1229,
+      "Progressed": 1231,
       "Completed": 0
     }
   ],
@@ -2328,8 +2333,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-13T13:03:50.7193106+00:00",
-  "LastChanged_Achievements": "2023-06-13T15:03:46.1411115+00:00",
+  "LastChanged_Achievements": "2023-06-13T16:04:55.2522555+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-13T14:57:22.4859978+00:00",
-  "LastUpdate_Achievements": "2023-06-13T15:03:46.1411634+00:00"
+  "LastUpdate_Ratings": "2023-06-13T15:57:45.4792268+00:00",
+  "LastUpdate_Achievements": "2023-06-13T16:04:55.2523046+00:00"
 }

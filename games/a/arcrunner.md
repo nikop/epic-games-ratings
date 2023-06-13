@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~408 |
-| Terminated I | 82.00% | ~353 |
-| Challenge Accepted | 79.00% | ~340 |
-| Nanonic I | 77.00% | ~331 |
-| Unlocked and Loaded | 73.00% | ~314 |
-| Terminated II | 64.00% | ~275 |
-| The City | 49.00% | ~211 |
-| Terminated III | 40.00% | ~172 |
-| Challenge Mastered | 39.00% | ~168 |
-| Nanonic II | 32.00% | ~138 |
-| Rookie | 27.00% | ~116 |
-| Supply Run | 23.00% | ~99 |
-| Starship Docks | 21.00% | ~90 |
-| Nanonic III | 20.00% | ~86 |
-| Cybernetic | 17.00% | ~73 |
-| The Bigger They Are | 14.00% | ~60 |
-| Up Close And Personal | 14.00% | ~60 |
-| Eden Heights | 11.00% | ~47 |
-| Outer Core | 8.00% | ~34 |
+| Augmented | 95.00% | ~413 |
+| Terminated I | 81.00% | ~352 |
+| Challenge Accepted | 78.00% | ~339 |
+| Nanonic I | 77.00% | ~335 |
+| Unlocked and Loaded | 73.00% | ~318 |
+| Terminated II | 64.00% | ~278 |
+| The City | 49.00% | ~213 |
+| Terminated III | 41.00% | ~178 |
+| Challenge Mastered | 40.00% | ~174 |
+| Nanonic II | 32.00% | ~139 |
+| Rookie | 26.00% | ~113 |
+| Supply Run | 24.00% | ~104 |
+| Starship Docks | 20.00% | ~87 |
+| Nanonic III | 20.00% | ~87 |
+| Cybernetic | 17.00% | ~74 |
+| The Bigger They Are | 14.00% | ~61 |
+| Up Close And Personal | 14.00% | ~61 |
+| Eden Heights | 11.00% | ~48 |
+| Outer Core | 8.00% | ~35 |
 | Trickshot | 6.00% | ~26 |
 | Inner Core | 4.00% | ~17 |
 | Integration | 3.00% | ~13 |
@@ -33,8 +33,8 @@
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 217)  
+Progressed: 435 (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 321 | 0 |
 | 2023-06-11 | 376 | 0 |
 | 2023-06-12 | 415 | 0 |
-| 2023-06-13 | 430 | 0 |
+| 2023-06-13 | 435 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

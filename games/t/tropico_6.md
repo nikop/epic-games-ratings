@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,745 |
-| Un-Lonely Island | 48.00% | ~1,734 |
-| The Beginning of a Servantship | 45.00% | ~1,625 |
-| Trade Is My Trait | 37.00% | ~1,336 |
-| Number 18 | 25.00% | ~903 |
-| We Don't Have Time For That | 20.00% | ~722 |
-| The Governator | 18.00% | ~650 |
-| The Legend of Langostino | 17.00% | ~614 |
+| Just One...More...Term... | 76.00% | ~2,747 |
+| Un-Lonely Island | 48.00% | ~1,735 |
+| The Beginning of a Servantship | 45.00% | ~1,627 |
+| Trade Is My Trait | 37.00% | ~1,338 |
+| Number 18 | 25.00% | ~904 |
+| We Don't Have Time For That | 20.00% | ~723 |
+| The Governator | 18.00% | ~651 |
+| The Legend of Langostino | 17.00% | ~615 |
 | Caribbean Comrade | 16.00% | ~578 |
 | The Dreamer of Dreams | 16.00% | ~578 |
-| Happy Ending? | 11.00% | ~397 |
-| Go Sovereigns! | 11.00% | ~397 |
-| For Science! | 11.00% | ~397 |
-| Of Seals And Men | 10.00% | ~361 |
-| Shackadelic | 10.00% | ~361 |
+| Happy Ending? | 11.00% | ~398 |
+| Go Sovereigns! | 11.00% | ~398 |
+| For Science! | 11.00% | ~398 |
+| Of Seals And Men | 10.00% | ~362 |
+| Shackadelic | 10.00% | ~362 |
 | Double Trouble | 8.00% | ~289 |
 | Firestarter | 8.00% | ~289 |
 | Make Tropico Great Again! | 8.00% | ~289 |
@@ -32,7 +32,7 @@ Number of Ratings: 398  (23.09.2022)
 | Fairy Tale Come True | 6.00% | ~217 |
 | Viva Tropico! | 5.00% | ~181 |
 | Computer Says "No" | 5.00% | ~181 |
-| Apocalypso | 4.00% | ~144 |
+| Apocalypso | 4.00% | ~145 |
 | Been there, Done That | 3.00% | ~108 |
 | Narcissist | 3.00% | ~108 |
 | Promising Endeavors | 3.00% | ~108 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612 (Ranked 135)  
-Completed: 1 (0.03%) (Ranked 194)  
+Progressed: 3,615 (Ranked 135)  
+Completed: 1 (0.03%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 1 (0.03%) (Ranked 194)
 | 2023-06-10 | 3,547 | 1 |
 | 2023-06-11 | 3,572 | 1 |
 | 2023-06-12 | 3,598 | 1 |
-| 2023-06-13 | 3,612 | 1 |
+| 2023-06-13 | 3,615 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 338)  
 Sum: 653 (Ranked 275)  
