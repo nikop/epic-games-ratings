@@ -192,6 +192,7 @@
 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](../games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 39 | 1,000 |
 | [Chess Ultra](../games/c/chess_ultra.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
+| [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 |
