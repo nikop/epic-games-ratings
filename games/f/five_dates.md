@@ -8,20 +8,20 @@
 | Digital Casanova | 95.00% | ~408 |
 | Hold my Beer | 63.00% | ~270 |
 | Nueva Beginnings | 36.00% | ~154 |
+| We Go Again | 32.00% | ~137 |
 | Only Thyme Will Tell | 31.00% | ~133 |
-| We Go Again | 31.00% | ~133 |
 | Not Alone | 30.00% | ~129 |
 | In Contempt of Duvet | 28.00% | ~120 |
 | Booty Call | 27.00% | ~116 |
 | Planting the Seed | 21.00% | ~90 |
 | Light Sleepers | 17.00% | ~73 |
 | Smooth Criminal | 8.00% | ~34 |
-| Sore Loser | 7.00% | ~30 |
+| Sore Loser | 8.00% | ~34 |
 | Interrogation | 4.00% | ~17 |
 | Crash and Burn | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 429 (Ranked 210)  
-Completed: 4 (0.93%) (Ranked 92)  
+Completed: 4 (0.93%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

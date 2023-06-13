@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 15.2,
+  "EOS_Completed_Percentage": 15.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1473,6 +1473,11 @@
       "Time": "2023-06-13T09:07:20.1477317+00:00",
       "NumProgressed": 329,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-13T12:06:34.4557204+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 22,
@@ -1484,7 +1489,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "LEVEL_002",
@@ -1498,9 +1503,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 217
+      "UsersEstimate": 214
     },
     {
       "ID": "LEVEL_004",
@@ -1508,7 +1513,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEVEL_005",
@@ -1524,7 +1529,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_007",
@@ -1572,7 +1577,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_013",
@@ -1580,7 +1585,7 @@
       "Name": "Elevated ring",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_014",
@@ -1634,9 +1639,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_021",
@@ -1644,7 +1649,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_022",
@@ -1652,14 +1657,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 50
     }
   ],
@@ -1667,8 +1672,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:25.886469+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:06:34.4557191+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:50.8900956+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:25.8864961+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:15.3580422+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:06:34.455759+00:00"
 }

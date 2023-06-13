@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 43.00% | ~187 |
+| Self Defense | 43.00% | ~188 |
 | Grand Opening | 38.00% | ~166 |
 | Circus Electrique Proudly Presents... | 38.00% | ~166 |
 | Path of Learning | 38.00% | ~166 |
@@ -14,9 +14,9 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 27.00% | ~118 |
 | Perfect Illusion | 22.00% | ~96 |
 | Hundred Percent First | 22.00% | ~96 |
-| Fan Service | 17.00% | ~74 |
 | Dirty Dozen | 17.00% | ~74 |
 | Lion Tamer | 16.00% | ~70 |
+| Fan Service | 16.00% | ~70 |
 | King of District 1 | 14.00% | ~61 |
 | Amazing! | 14.00% | ~61 |
 | Flawless Presentation | 13.00% | ~57 |
@@ -30,11 +30,11 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 3 | 8.00% | ~35 |
 | Club Member | 7.00% | ~31 |
 | Hundred Percent Second | 6.00% | ~26 |
-| King of District 4 | 6.00% | ~26 |
 | Spirits High | 6.00% | ~26 |
 | Mobile Infantry | 6.00% | ~26 |
 | Around the Clock | 5.00% | ~22 |
 | Club Champion | 5.00% | ~22 |
+| King of District 4 | 5.00% | ~22 |
 | King of District 5 | 4.00% | ~17 |
 | Accomplished Veteran | 3.00% | ~13 |
 | Hundred Percent Third | 3.00% | ~13 |
@@ -57,8 +57,8 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436 (Ranked 207)  
-Completed: 1 (0.23%) (Ranked 142)  
+Progressed: 437 (Ranked 207)  
+Completed: 1 (0.23%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 1 (0.23%) (Ranked 142)
 | 2023-06-10 | 432 | 1 |
 | 2023-06-11 | 433 | 1 |
 | 2023-06-12 | 436 | 1 |
+| 2023-06-13 | 437 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

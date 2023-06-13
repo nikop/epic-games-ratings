@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -615,17 +615,17 @@
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
@@ -640,8 +640,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:03:50.1224418+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:04:17.8624898+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:54.6424833+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:03:50.1224565+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:20.9810582+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:04:17.8625107+00:00"
 }

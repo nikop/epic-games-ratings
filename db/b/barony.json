@@ -4,11 +4,11 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 195,
   "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 291,
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_PopularitySum": 290,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -909,10 +909,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 545,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-06-13T11:57:25.0424295+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 546,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 545,
+  "NumberOfAwards": 546,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -962,7 +968,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has a Creative Community",
@@ -982,8 +988,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-06-10T13:00:15.4761654+00:00",
+  "LastChanged": "2023-06-13T11:57:25.0424293+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:24.0995337+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:17.2968681+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:03:55.5412752+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:57:25.0424299+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:04:25.3328844+00:00"
 }

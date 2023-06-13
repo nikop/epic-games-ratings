@@ -6,27 +6,27 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~523 |
-| My little farm | 64.00% | ~413 |
+| Cabin boy | 81.00% | ~524 |
+| My little farm | 64.00% | ~414 |
 | Every beginning is difficult | 62.00% | ~401 |
-| 3, 2, 1, mine | 55.00% | ~355 |
-| Gofer | 55.00% | ~355 |
-| Seafarer | 53.00% | ~342 |
-| O Captain! My Captain! | 53.00% | ~342 |
-| Greed for gold | 42.00% | ~271 |
+| 3, 2, 1, mine | 55.00% | ~356 |
+| Gofer | 55.00% | ~356 |
+| Seafarer | 53.00% | ~343 |
+| O Captain! My Captain! | 53.00% | ~343 |
+| Greed for gold | 42.00% | ~272 |
 | Intangible | 41.00% | ~265 |
-| I'm out of here for a while | 40.00% | ~258 |
+| I'm out of here for a while | 40.00% | ~259 |
 | In a mint condition | 37.00% | ~239 |
 | Licence to Kill | 34.00% | ~220 |
-| Pirates! | 33.00% | ~213 |
+| Pirates! | 34.00% | ~220 |
 | Collectionitis | 28.00% | ~181 |
 | Megalomania | 28.00% | ~181 |
 | Christening | 26.00% | ~168 |
-| Groundskeeper | 24.00% | ~155 |
+| Groundskeeper | 25.00% | ~162 |
 | Wholesale | 21.00% | ~136 |
 | Walk the plank | 20.00% | ~129 |
 | My precious! | 17.00% | ~110 |
-| Pearly gates | 16.00% | ~103 |
+| Pearly gates | 16.00% | ~104 |
 | Conquistador | 12.00% | ~78 |
 | Panic buying | 11.00% | ~71 |
 | Just a scratch | 9.00% | ~58 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 194)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 647 (Ranked 194)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 635 | 0 |
 | 2023-06-11 | 641 | 0 |
 | 2023-06-12 | 644 | 0 |
-| 2023-06-13 | 646 | 0 |
+| 2023-06-13 | 647 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

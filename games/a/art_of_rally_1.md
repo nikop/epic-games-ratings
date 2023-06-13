@@ -24,8 +24,8 @@ Number of Ratings: 56  (23.09.2022)
 | car wash | 14.00% | ~1,417 |
 | monster | 14.00% | ~1,417 |
 | perkele | 13.00% | ~1,316 |
+| night ride | 13.00% | ~1,316 |
 | the artist | 13.00% | ~1,316 |
-| night ride | 12.00% | ~1,214 |
 | snorkel | 12.00% | ~1,214 |
 | where is the stage? | 11.00% | ~1,113 |
 | maximum attack | 11.00% | ~1,113 |
@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,120 (Ranked 111)  
-Completed: 9 (0.09%) (Ranked 172)  
+Completed: 9 (0.09%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

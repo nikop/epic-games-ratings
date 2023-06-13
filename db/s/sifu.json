@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -4578,9 +4578,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709068,
+  "EOS_Progressed": 709081,
   "EOS_Completed": 12768,
-  "EOS_NewPlayers": 1422,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9668,6 +9668,11 @@
       "Time": "2023-06-13T11:05:50.1209036+00:00",
       "NumProgressed": 709068,
       "NumCompleted": 12768
+    },
+    {
+      "Time": "2023-06-13T12:07:07.0729198+00:00",
+      "NumProgressed": 709081,
+      "NumCompleted": 12768
     }
   ],
   "TotalAchievements": 50,
@@ -9839,7 +9844,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -9871,7 +9876,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "26_ShrineSpirit",
@@ -9911,7 +9916,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "31_ComboHigh",
@@ -10039,7 +10044,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -10055,7 +10060,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -10078,21 +10083,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18369,
+      "Progressed": 18382,
       "Completed": 10261
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709068,
+      "Progressed": 709081,
       "Completed": 12768
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-13T02:09:44.3853194+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:50.120903+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:07:07.0729183+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:58:38.9853444+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:50.1209792+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:59:28.2715839+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:07:07.0730457+00:00"
 }

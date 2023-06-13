@@ -17,8 +17,8 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 20.00% | ~205 |
 | Death to the Oppressor! | 14.00% | ~144 |
 | The Gang's All Here | 12.00% | ~123 |
+| One by One | 11.00% | ~113 |
 | Your Answer | 11.00% | ~113 |
-| One by One | 10.00% | ~103 |
 | The Big Bertha | 9.00% | ~92 |
 | Game Over | 8.00% | ~82 |
 | Lock, Stock | 6.00% | ~62 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,027 (Ranked 176)  
-Completed: 1 (0.10%) (Ranked 166)  
+Completed: 1 (0.10%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

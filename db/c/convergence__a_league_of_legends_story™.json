@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 670,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1291,9 +1291,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 40
     },
     {
       "ID": "ClovemaryGift",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:08.9594819+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:06:10.6710937+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:58:56.9772376+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:08.959539+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:59:55.5176007+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:06:10.6711579+00:00"
 }

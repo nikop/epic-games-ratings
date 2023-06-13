@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -158,6 +158,11 @@
       "Time": "2023-06-11T16:05:44.2143355+00:00",
       "NumProgressed": 82,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T12:07:00.2734148+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -167,7 +172,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -223,7 +228,7 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -231,9 +236,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement18",
@@ -271,7 +276,7 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -279,7 +284,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -327,7 +332,7 @@
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 7
     }
@@ -336,7 +341,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 1
     }
   ],
@@ -344,8 +349,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:45.1925393+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:07:00.2734137+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.0729891+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:59:38.2866603+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:45.1925569+00:00"
+  "LastUpdate_Ratings": "2023-06-13T12:00:56.1963353+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:07:00.27345+00:00"
 }

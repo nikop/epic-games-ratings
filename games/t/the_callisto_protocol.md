@@ -16,12 +16,12 @@ Rating: 4.18 (Ranked 843)
 | Giving Back | 7.00% | ~1,062 |
 | Get a Grip | 7.00% | ~1,062 |
 | Without A Paddle | 7.00% | ~1,062 |
-| Two Heads Are Better Than One | 5.00% | ~758 |
-| Terminated | 5.00% | ~758 |
-| Float Like A Butterfly | 5.00% | ~758 |
-| In the Pipe, Five by Five | 5.00% | ~758 |
-| Crash Site | 5.00% | ~758 |
-| Power Up | 5.00% | ~758 |
+| Two Heads Are Better Than One | 5.00% | ~759 |
+| Terminated | 5.00% | ~759 |
+| Float Like A Butterfly | 5.00% | ~759 |
+| In the Pipe, Five by Five | 5.00% | ~759 |
+| Crash Site | 5.00% | ~759 |
+| Power Up | 5.00% | ~759 |
 | You Need a Gun | 4.00% | ~607 |
 | What Lies Beneath | 4.00% | ~607 |
 | Full Circle | 4.00% | ~607 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,170 (Ranked 104)  
-Completed: 54 (0.36%) (Ranked 124)  
+Progressed: 15,171 (Ranked 104)  
+Completed: 54 (0.36%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 54 (0.36%) (Ranked 124)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,170 | 54 |
+| 2023-06-13 | 15,171 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

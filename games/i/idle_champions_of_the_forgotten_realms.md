@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.20% | ~114 |
 | Friends and Foes | 0.20% | ~114 |
 | Nightmare Rats! | 0.20% | ~114 |
+| An Unexpected Geist | 0.20% | ~114 |
 | Back to Nature | 0.20% | ~114 |
 | The Witchlight Carnival | 0.20% | ~114 |
 | A Monarch Among Us | 0.20% | ~114 |
@@ -329,7 +330,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.20% | ~181 |
 | Keep Your Friends Close | 0.10% | ~57 |
 | And Your Enemies Closer | 0.10% | ~57 |
-| An Unexpected Geist | 0.10% | ~57 |
 | The Spire of Iriolarthas | 0.10% | ~57 |
 | Always Watching | 0.10% | ~57 |
 | The Fall of Ythryn | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,609 (Ranked 64)  
-Completed: 1,930 (2.13%) (Ranked 65)  
+Progressed: 90,610 (Ranked 64)  
+Completed: 1,930 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,609 | 1,930 |
+| 2023-06-13 | 90,610 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,089 (Ranked 37)  

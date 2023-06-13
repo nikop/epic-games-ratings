@@ -3,6 +3,31 @@
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
 Rating: 4.76 (Ranked 117)  
 Number of Ratings: 1,396  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Goofy's Investor | 75.00% | ~122 |
+| Photographer | 69.00% | ~112 |
+| Valley's Helper | 66.00% | ~107 |
+| Constructor | 56.00% | ~91 |
+| Renovator | 53.00% | ~86 |
+| Bestest Friend | 51.00% | ~83 |
+| Banker | 50.00% | ~81 |
+| Gardener | 39.00% | ~63 |
+| Chef Cook | 28.00% | ~45 |
+| Generous | 27.00% | ~44 |
+| Miner | 14.00% | ~23 |
+| Angler | 11.00% | ~18 |
+| Duty Bound | 10.00% | ~16 |
+| Thorn Cleaner | 8.00% | ~13 |
+| Chit Chatter | 7.00% | ~11 |
+## Popularity (Based on EOS Achievements)
+Progressed: 162 (Ranked 262)  
+Completed: 5 (3.09%) (Ranked 48)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-13 | 162 | 5 |
 ## Awards
 Max (Great for Beginners): 863  (Ranked 145)  
 Sum: 7,134 (Ranked 104)  

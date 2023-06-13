@@ -16,6 +16,7 @@
 | The Prince in Heels | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
 | Right On Time | 6.00% | ~40 |
+| Like Clockwork | 6.00% | ~40 |
 | The Betrayer | 6.00% | ~40 |
 | The Man Who Shattered Time | 6.00% | ~40 |
 | The Loose Cannon | 6.00% | ~40 |
@@ -28,7 +29,6 @@
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
 | The Family Fortune | 6.00% | ~40 |
-| Like Clockwork | 5.00% | ~34 |
 | Street Style | 5.00% | ~34 |
 | Whiz Kid | 5.00% | ~34 |
 | Check Your Pulse | 5.00% | ~34 |
@@ -59,7 +59,7 @@
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 670 (Ranked 190)  
-Completed: 1 (0.15%) (Ranked 157)  
+Completed: 1 (0.15%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

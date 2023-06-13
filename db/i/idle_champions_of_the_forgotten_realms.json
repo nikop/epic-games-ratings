@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
@@ -4252,9 +4252,9 @@
       "Count": 3249
     }
   ],
-  "EOS_Progressed": 90609,
+  "EOS_Progressed": 90610,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9777,6 +9777,11 @@
       "Time": "2023-06-13T11:05:57.7752085+00:00",
       "NumProgressed": 90609,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-06-13T12:07:16.546651+00:00",
+      "NumProgressed": 90610,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 493,
@@ -9874,9 +9879,9 @@
       "ID": "objective_completed_1052",
       "SetID": "415jc5c",
       "Name": "An Unexpected Geist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_1053",
@@ -13731,21 +13736,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56883,
+      "Progressed": 56884,
       "Completed": 2788
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90609,
+      "Progressed": 90610,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-13T08:58:58.4168086+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:57.775208+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:07:16.5466499+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:52.55483+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:57.7777518+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:17.6535056+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:07:16.5512261+00:00"
 }

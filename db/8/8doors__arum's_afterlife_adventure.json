@@ -2,10 +2,10 @@
   "ID": "fecb9d2197354127a6947453f1701d5b",
   "Name": "8Doors: Arum\u0027s Afterlife Adventure",
   "ProductSlug": "8doors-arums-afterlife-adventure",
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-08-19T12:30:00+00:00",
     "PcReleaseDate": "2020-06-17T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.6971824+00:00",
   "LastChanged": "2023-03-31T05:58:43.6971825+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.6534512+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:58:20.0390498+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:02:25.8918093+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:59.18615+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:02:22.0119104+00:00"
 }

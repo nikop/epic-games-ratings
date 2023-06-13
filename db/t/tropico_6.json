@@ -6,9 +6,9 @@
   "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3606,
+  "EOS_Progressed": 3608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4328,6 +4328,11 @@
       "Time": "2023-06-13T11:02:17.4131563+00:00",
       "NumProgressed": 3606,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T12:02:09.6680587+00:00",
+      "NumProgressed": 3608,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4347,7 +4352,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -4355,7 +4360,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4393,9 +4398,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 613
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4435,7 +4440,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4467,7 +4472,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4499,7 +4504,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4523,7 +4528,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4595,7 +4600,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4611,7 +4616,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4619,7 +4624,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4643,7 +4648,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4658,15 +4663,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3606,
+      "Progressed": 3608,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:02:17.4131559+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:02:09.6680577+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:59:34.531078+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:02:17.4132045+00:00"
+  "LastUpdate_Ratings": "2023-06-13T12:00:50.6185458+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:02:09.6681457+00:00"
 }

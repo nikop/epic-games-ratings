@@ -78,8 +78,8 @@
 | Wu-wei | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 277)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 101 (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

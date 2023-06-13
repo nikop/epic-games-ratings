@@ -5,10 +5,10 @@
   "Ranking_Rating": 407,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 215,
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -2778,10 +2778,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1489,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2023-06-13T12:00:11.9798664+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1493,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1489,
+  "NumberOfAwards": 1493,
   "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2807,7 +2813,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 132
+      "Count": 134
     },
     {
       "Text": "This game is Relaxing",
@@ -2837,7 +2843,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 119
+      "Count": 121
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2870,8 +2876,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-13T07:00:21.8199165+00:00",
+  "LastChanged": "2023-06-13T12:00:11.9798662+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:04.0693791+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:59:08.168593+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:00:02.5788396+00:00"
+  "LastUpdate_Ratings": "2023-06-13T12:00:11.9798669+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:01:35.6354395+00:00"
 }

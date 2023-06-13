@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~125 |
-| Starting Skyward | 52.00% | ~110 |
-| Grime is Not Good | 47.00% | ~100 |
+| In the Black | 59.00% | ~126 |
+| Starting Skyward | 52.00% | ~111 |
+| Grime is Not Good | 46.00% | ~98 |
 | Campaign Launch | 40.00% | ~85 |
 | Floor Galore | 38.00% | ~81 |
 | Dinner Dash | 38.00% | ~81 |
-| Need a Consult | 35.00% | ~74 |
-| It's Technical | 35.00% | ~74 |
+| Need a Consult | 35.00% | ~75 |
+| It's Technical | 35.00% | ~75 |
 | Upgrade Unlock | 34.00% | ~72 |
 | Delegate Maintenance | 34.00% | ~72 |
-| Proper Walls | 33.00% | ~70 |
-| Destination Destiny | 28.00% | ~59 |
+| Proper Walls | 32.00% | ~68 |
+| Destination Destiny | 28.00% | ~60 |
 | Happy Tenants | 25.00% | ~53 |
 | Your Prestige is Rising | 23.00% | ~49 |
 | Potent Potables | 23.00% | ~49 |
@@ -24,16 +24,16 @@
 | Lux Living | 22.00% | ~47 |
 | Leveled Up Shops | 22.00% | ~47 |
 | People Mover | 21.00% | ~45 |
-| Don't Feel a Loan | 20.00% | ~42 |
-| Emporium Empire | 20.00% | ~42 |
-| Get Electrified | 20.00% | ~42 |
+| Don't Feel a Loan | 20.00% | ~43 |
+| Emporium Empire | 20.00% | ~43 |
+| Get Electrified | 20.00% | ~43 |
 | Rehab Expert | 19.00% | ~40 |
 | Tasty Profits | 19.00% | ~40 |
 | We Don't Need No Education | 19.00% | ~40 |
 | Artfully Done | 18.00% | ~38 |
-| Under One Roof | 17.00% | ~36 |
-| Cashflow Chief | 17.00% | ~36 |
+| Under One Roof | 16.00% | ~34 |
 | Established Fame | 16.00% | ~34 |
+| Cashflow Chief | 16.00% | ~34 |
 | Boutique Benefits | 15.00% | ~32 |
 | Terrifically Trashed | 15.00% | ~32 |
 | Thrilled Tenants | 15.00% | ~32 |
@@ -63,9 +63,9 @@
 | Baron of Business | 5.00% | ~11 |
 | Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
-| Luxury Boutiques | 4.00% | ~8 |
-| Three of a Kind | 4.00% | ~8 |
-| Sandbagger | 4.00% | ~8 |
+| Luxury Boutiques | 4.00% | ~9 |
+| Three of a Kind | 4.00% | ~9 |
+| Sandbagger | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~6 |
 | Apartment Awareness | 3.00% | ~6 |
 | Loft Life | 3.00% | ~6 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 246)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 213 (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 209 | 0 |
 | 2023-06-11 | 211 | 0 |
 | 2023-06-12 | 212 | 0 |
+| 2023-06-13 | 213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "dac7703b33934c838e8e7c0423fe0322",
   "Name": "The King\u0027s Bird",
   "ProductSlug": "the-kings-bird-a5b589",
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-17T14:00:00+00:00",
     "PcReleaseDate": "2018-08-22T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.249333+00:00",
   "LastChanged": "2023-03-31T05:57:34.2493331+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.3241765+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:58:05.5489968+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:59:58.4332681+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:37.2231993+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:01:29.1031315+00:00"
 }

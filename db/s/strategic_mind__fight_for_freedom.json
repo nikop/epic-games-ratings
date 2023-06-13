@@ -2,10 +2,10 @@
   "ID": "4697bcec275e485a9add029c6affc50b",
   "Name": "Strategic Mind: Fight for Freedom",
   "ProductSlug": "strategic-mind-fight-for-freedom-c1b241",
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-01-19T16:00:00+00:00",
     "PcReleaseDate": "2021-05-21T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:59.2736754+00:00",
   "LastChanged": "2023-03-31T05:57:59.2736755+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:53.9366467+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:37.3918887+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:03:52.1673656+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:57:54.5609743+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:04:20.8071242+00:00"
 }

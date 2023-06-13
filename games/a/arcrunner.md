@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~399 |
-| Terminated I | 81.00% | ~340 |
-| Challenge Accepted | 80.00% | ~336 |
-| Nanonic I | 77.00% | ~323 |
-| Unlocked and Loaded | 73.00% | ~307 |
-| Terminated II | 63.00% | ~265 |
-| The City | 49.00% | ~206 |
-| Challenge Mastered | 40.00% | ~168 |
-| Terminated III | 40.00% | ~168 |
-| Nanonic II | 31.00% | ~130 |
-| Rookie | 27.00% | ~113 |
+| Augmented | 95.00% | ~402 |
+| Terminated I | 81.00% | ~343 |
+| Challenge Accepted | 79.00% | ~334 |
+| Nanonic I | 77.00% | ~326 |
+| Unlocked and Loaded | 73.00% | ~309 |
+| Terminated II | 63.00% | ~266 |
+| The City | 49.00% | ~207 |
+| Terminated III | 41.00% | ~173 |
+| Challenge Mastered | 39.00% | ~165 |
+| Nanonic II | 31.00% | ~131 |
+| Rookie | 27.00% | ~114 |
 | Supply Run | 23.00% | ~97 |
-| Nanonic III | 21.00% | ~88 |
-| Starship Docks | 20.00% | ~84 |
-| Cybernetic | 17.00% | ~71 |
+| Nanonic III | 21.00% | ~89 |
+| Starship Docks | 20.00% | ~85 |
+| Cybernetic | 17.00% | ~72 |
 | The Bigger They Are | 14.00% | ~59 |
 | Up Close And Personal | 14.00% | ~59 |
-| Eden Heights | 11.00% | ~46 |
+| Eden Heights | 11.00% | ~47 |
 | Outer Core | 8.00% | ~34 |
 | Trickshot | 6.00% | ~25 |
-| Inner Core | 5.00% | ~21 |
+| Inner Core | 4.00% | ~17 |
 | Integration | 3.00% | ~13 |
 | Destruction | 2.00% | ~8 |
 | Fully Modded | 2.00% | ~8 |
 | Ripperdoc | 2.00% | ~8 |
-| Hard Boiled | 1.00% | ~4 |
+| Hard Boiled | 0.90% | ~4 |
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 423 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 321 | 0 |
 | 2023-06-11 | 376 | 0 |
 | 2023-06-12 | 415 | 0 |
-| 2023-06-13 | 420 | 0 |
+| 2023-06-13 | 423 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

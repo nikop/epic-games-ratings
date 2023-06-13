@@ -5,10 +5,10 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 104,
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2118,29 +2118,156 @@
       "Count": 472
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 162,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 3.09,
+  "EosHistory": [
+    {
+      "Time": "2023-06-13T12:05:01.9582543+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 5
+    }
+  ],
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Angler",
+      "SetID": "chapdi4",
+      "Name": "Angler",
+      "Percentage": 11,
+      "XP": 75,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "Banker",
+      "SetID": "chapdi4",
+      "Name": "Banker",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 81
+    },
+    {
+      "ID": "Bestest_Friend",
+      "SetID": "chapdi4",
+      "Name": "Bestest Friend",
+      "Percentage": 51,
+      "XP": 75,
+      "UsersEstimate": 83
+    },
+    {
+      "ID": "Chef_Cook",
+      "SetID": "chapdi4",
+      "Name": "Chef Cook",
+      "Percentage": 28,
+      "XP": 75,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "Chit_Chatter",
+      "SetID": "chapdi4",
+      "Name": "Chit Chatter",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "Constructor",
+      "SetID": "chapdi4",
+      "Name": "Constructor",
+      "Percentage": 56,
+      "XP": 50,
+      "UsersEstimate": 91
+    },
+    {
+      "ID": "Duty_Bound",
+      "SetID": "chapdi4",
+      "Name": "Duty Bound",
+      "Percentage": 10,
+      "XP": 100,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "Gardener",
+      "SetID": "chapdi4",
+      "Name": "Gardener",
+      "Percentage": 39,
+      "XP": 75,
+      "UsersEstimate": 63
+    },
+    {
+      "ID": "Generous",
+      "SetID": "chapdi4",
+      "Name": "Generous",
+      "Percentage": 27,
+      "XP": 50,
+      "UsersEstimate": 44
+    },
+    {
+      "ID": "Goofys_Investor",
+      "SetID": "chapdi4",
+      "Name": "Goofy\u0027s Investor",
+      "Percentage": 75,
+      "XP": 75,
+      "UsersEstimate": 122
+    },
+    {
+      "ID": "Miner",
+      "SetID": "chapdi4",
+      "Name": "Miner",
+      "Percentage": 14,
+      "XP": 75,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "Photographer",
+      "SetID": "chapdi4",
+      "Name": "Photographer",
+      "Percentage": 69,
+      "XP": 25,
+      "UsersEstimate": 112
+    },
+    {
+      "ID": "Renovator",
+      "SetID": "chapdi4",
+      "Name": "Renovator",
+      "Percentage": 53,
+      "XP": 100,
+      "UsersEstimate": 86
+    },
+    {
+      "ID": "Thorn_Cleaner",
+      "SetID": "chapdi4",
+      "Name": "Thorn Cleaner",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "Valleys_Helper",
+      "SetID": "chapdi4",
+      "Name": "Valley\u0027s Helper",
+      "Percentage": 66,
+      "XP": 100,
+      "UsersEstimate": 107
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 162,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-06-13T06:58:25.8870777+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:04:21.3893065+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:05:01.9582529+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.6016514+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:52.1971183+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:04:21.3893116+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:17.2562922+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:05:01.9582701+00:00"
 }

@@ -13,7 +13,7 @@
 | The individualist | 20.00% | ~49 |
 | The nice guy | 13.00% | ~32 |
 | The debonair | 11.00% | ~27 |
-| Picky, Picky! | 9.00% | ~22 |
+| Picky, Picky! | 10.00% | ~24 |
 | The lad | 8.00% | ~20 |
 | More than browsing | 7.00% | ~17 |
 | The techie | 7.00% | ~17 |
@@ -25,7 +25,7 @@
 | Muggy Misha | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 245 (Ranked 240)  
-Completed: 3 (1.22%) (Ranked 83)  
+Completed: 3 (1.22%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

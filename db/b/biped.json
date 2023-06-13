@@ -3,9 +3,9 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3169,
+  "EOS_Progressed": 3173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3871,6 +3871,11 @@
       "Time": "2023-06-13T11:05:22.8946304+00:00",
       "NumProgressed": 3169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T12:06:29.939727+00:00",
+      "NumProgressed": 3173,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3882,7 +3887,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1396
     },
     {
       "ID": "10",
@@ -3938,7 +3943,7 @@
       "Name": "Dense Forest",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "3",
@@ -3946,7 +3951,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "4",
@@ -3954,7 +3959,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "5",
@@ -3976,9 +3981,9 @@
       "ID": "7",
       "SetID": "1dkhij4",
       "Name": "Blue Rapids",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 190
     },
     {
       "ID": "8",
@@ -4001,7 +4006,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3169,
+      "Progressed": 3173,
       "Completed": 0
     }
   ],
@@ -4009,8 +4014,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:22.8946297+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:06:29.9397263+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.95723+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:52.0619635+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:22.8946648+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:16.9049401+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:06:29.9397655+00:00"
 }

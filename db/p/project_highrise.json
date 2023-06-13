@@ -3,9 +3,9 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -317,6 +317,11 @@
       "Time": "2023-06-12T13:11:56.9648585+00:00",
       "NumProgressed": 212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T12:07:11.8791264+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -366,9 +371,9 @@
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_art",
@@ -464,7 +469,7 @@
       "Name": "Need a Consult",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_consultant_1",
@@ -528,15 +533,15 @@
       "Name": "Luxury Boutiques",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_drones",
@@ -600,7 +605,7 @@
       "Name": "Three of a Kind",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -616,7 +621,7 @@
       "Name": "Sandbagger",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -632,7 +637,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_floors_1",
@@ -662,9 +667,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_grime_1",
@@ -696,7 +701,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_mod_1",
@@ -728,7 +733,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_office_2",
@@ -792,7 +797,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_profit_1",
@@ -880,7 +885,7 @@
       "Name": "Emporium Empire",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_retail_3",
@@ -902,9 +907,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_revs_2",
@@ -1000,7 +1005,7 @@
       "Name": "Get Electrified",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_util_water",
@@ -1024,14 +1029,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 0
     }
   ],
@@ -1039,8 +1044,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-13T11:05:53.9482905+00:00",
+  "LastChanged_Achievements": "2023-06-13T12:07:11.8791256+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:17.1008322+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:57:53.3064227+00:00",
-  "LastUpdate_Achievements": "2023-06-13T11:05:53.9483993+00:00"
+  "LastUpdate_Ratings": "2023-06-13T11:58:18.996128+00:00",
+  "LastUpdate_Achievements": "2023-06-13T12:07:11.8793094+00:00"
 }

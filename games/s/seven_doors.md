@@ -22,8 +22,8 @@
 | The Last Skull | 0.00% | ~0 |
 | Master of Riddles | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 420)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 1 (Ranked 421)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

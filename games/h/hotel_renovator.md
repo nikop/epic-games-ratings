@@ -13,7 +13,7 @@ Rating: 4.52 (Ranked 515)
 | I think you dropped this | 54.00% | ~441 |
 | Soulmate? | 52.00% | ~425 |
 | Excellent service | 48.00% | ~392 |
-| Roll with it | 45.00% | ~368 |
+| Roll with it | 46.00% | ~376 |
 | Humble beginnings | 43.00% | ~351 |
 | Love is in the air | 43.00% | ~351 |
 | Fine, I'll do it myself | 41.00% | ~335 |
@@ -34,7 +34,7 @@ Rating: 4.52 (Ranked 515)
 | Top spot in town | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 817 (Ranked 185)  
-Completed: 15 (1.84%) (Ranked 70)  
+Completed: 15 (1.84%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

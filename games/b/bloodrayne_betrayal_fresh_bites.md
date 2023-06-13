@@ -29,8 +29,8 @@
 | Collateral | 0.00% | ~0 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 216)  
+Progressed: 50 (Ranked 309)  
+Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
