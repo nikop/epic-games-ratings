@@ -23,23 +23,23 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.05% |
-| 27 | [Scorn](games/s/scorn.md) | 6.77% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
+| 27 | [Scorn](games/s/scorn.md) | 6.82% |
 | 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.53% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.91% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
-| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.76% |
+| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.73% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.62% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
@@ -56,8 +56,8 @@
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 55 | [Lamentum](games/l/lamentum.md) | 2.76% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
-| 58 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
+| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.59% |
+| 58 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
@@ -87,11 +87,11 @@
 | 85 | [Chorus](games/c/chorus.md) | 1.14% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.11% |
-| 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
+| 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.98% |
 | 91 | [Sable](games/s/sable.md) | 0.95% |
-| 92 | [Five Dates](games/f/five_dates.md) | 0.94% |
+| 92 | [Five Dates](games/f/five_dates.md) | 0.93% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Adios](games/a/adios.md) | 0.86% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
@@ -102,8 +102,8 @@
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.72% |
-| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.71% |
 | 103 | [Haven](games/h/haven.md) | 0.71% |
+| 104 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.70% |
 | 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.69% |
 | 107 | [Train Valley](games/t/train_valley.md) | 0.67% |
