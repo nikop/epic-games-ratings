@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1109,9 +1109,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     }
   ],
   "AchievementSets": [
@@ -1124,8 +1124,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:23.607984+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:22.8159818+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:57:37.9057777+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:23.608008+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:57:39.1448824+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:22.816012+00:00"
 }

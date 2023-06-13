@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,985 |
-| Biggest Communism Builder | 24.00% | ~29,130 |
-| The World's Most Laughable Centrist | 20.00% | ~24,275 |
-| Il Coppo Del'Arte! | 18.00% | ~21,848 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,420 |
-| Hyperstellar Law Official | 15.00% | ~18,206 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,992 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,779 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,779 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,351 |
+| Goodest Of The Good Cops | 28.00% | ~33,987 |
+| Biggest Communism Builder | 24.00% | ~29,131 |
+| The World's Most Laughable Centrist | 20.00% | ~24,276 |
+| Il Coppo Del'Arte! | 18.00% | ~21,849 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,421 |
+| Hyperstellar Law Official | 15.00% | ~18,207 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,993 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,780 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,780 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,352 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,924 |
 | Unbelievably Boring **** | 8.00% | ~9,710 |
 | Enemy Of The Physical Realm | 8.00% | ~9,710 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,375 (Ranked 59)  
+Progressed: 121,381 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,10 @@ Completed: 25 (0.02%) (Ranked 200)
 | 2023-06-10 | 121,075 | 25 |
 | 2023-06-11 | 121,213 | 25 |
 | 2023-06-12 | 121,328 | 25 |
-| 2023-06-13 | 121,375 | 25 |
+| 2023-06-13 | 121,381 | 25 |
 ## Awards
 Max (Character Customization): 696  (Ranked 158)  
-Sum: 1,055 (Ranked 231)  
+Sum: 1,056 (Ranked 231)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
@@ -113,8 +113,8 @@ Diff (max vs sum): -73
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 40 |
+| This game has Amazing Characters | 36 |
 | This game has Unique Visuals | 35 |
-| This game has Amazing Characters | 35 |
 | This game is Relaxing | 34 |
 | This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 30 |
@@ -226,3 +226,4 @@ Diff (max vs sum): -73
 | 2023-06-09 | 4.86 | - | 694 | 1,053 |
 | 2023-06-11 | 4.86 | - | 695 | 1,054 |
 | 2023-06-12 | 4.86 | - | 696 | 1,055 |
+| 2023-06-13 | 4.86 | - | 696 | 1,056 |

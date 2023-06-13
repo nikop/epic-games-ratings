@@ -4,9 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cartographer | 9.00% | ~60 |
 | Time Heals All Wounds | 9.00% | ~60 |
 | Treasure Trove | 8.00% | ~54 |
+| Cartographer | 8.00% | ~54 |
+| Immaculate Aim | 8.00% | ~54 |
 | The Steel Shadow | 7.00% | ~47 |
 | The Mysterious Stranger | 7.00% | ~47 |
 | The Man Who Shattered Time | 7.00% | ~47 |
@@ -26,7 +27,6 @@
 | Honest Mistake | 6.00% | ~40 |
 | Golem Chaser | 6.00% | ~40 |
 | Fast Learner | 6.00% | ~40 |
-| Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
 | The Family Fortune | 6.00% | ~40 |
 | Street Style | 5.00% | ~34 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670 (Ranked 190)  
+Progressed: 672 (Ranked 190)  
 Completed: 1 (0.15%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 1 (0.15%) (Ranked 158)
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
-| 2023-06-13 | 670 | 1 |
+| 2023-06-13 | 672 | 1 |

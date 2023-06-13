@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4169,
+  "EOS_Progressed": 4170,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-06-12T10:07:33.3039768+00:00",
       "NumProgressed": 4169,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-13T15:05:50.4756653+00:00",
+      "NumProgressed": 4170,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1061,9 +1066,9 @@
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
       "SetID": "9eacipp",
       "Name": "Eureka!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1518,15 +1523,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4169,
+      "Progressed": 4170,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:52.2323602+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:50.4756649+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.0031057+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:57:52.9658795+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:52.2324575+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:57:53.9923291+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:50.4758084+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 672,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2023-06-13T02:16:42.4778344+00:00",
       "NumProgressed": 670,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T15:05:01.3701733+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1443,9 +1448,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "NoCritterSump",
@@ -1619,17 +1624,17 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "WatcherFought",
@@ -1668,14 +1673,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 672,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:02.0131527+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:01.370173+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:58:59.3245378+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:02.013194+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:59:02.1304605+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:01.3702198+00:00"
 }

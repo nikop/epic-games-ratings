@@ -5,10 +5,10 @@ Rating: 4.32 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~342 |
+| It Wasn’t a Burglary | 90.00% | ~346 |
 | Luc Piette | 75.00% | ~288 |
 | Angeline Van den Bosch | 73.00% | ~280 |
-| Elizabeth Padget | 69.00% | ~265 |
+| Elizabeth Padget | 70.00% | ~269 |
 | Little Grey Cells | 68.00% | ~261 |
 | The Bracelet | 65.00% | ~250 |
 | The Blackmail | 55.00% | ~211 |
@@ -19,9 +19,9 @@ Rating: 4.32 (Ranked 752)
 | The Altercation | 49.00% | ~188 |
 | Truth from Within | 48.00% | ~184 |
 | The Major | 47.00% | ~180 |
-| Comtesse Margaux de Vos | 44.00% | ~169 |
+| Comtesse Margaux de Vos | 45.00% | ~173 |
 | Curious and Beautiful | 43.00% | ~165 |
-| Jacqueline “Jackie” Conrad | 42.00% | ~161 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~165 |
 | The Interrogations | 42.00% | ~161 |
 | Well-acquainted | 40.00% | ~154 |
 | Zakariya Demir | 40.00% | ~154 |

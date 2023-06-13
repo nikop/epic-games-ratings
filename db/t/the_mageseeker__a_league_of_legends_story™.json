@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2335,
+  "EOS_Progressed": 2336,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2543,6 +2543,11 @@
       "Time": "2023-06-13T09:07:42.8674852+00:00",
       "NumProgressed": 2335,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T15:05:35.9518606+00:00",
+      "NumProgressed": 2336,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2602,7 +2607,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2618,7 +2623,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2634,7 +2639,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2658,7 +2663,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2738,7 +2743,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2762,7 +2767,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2786,7 +2791,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2794,7 +2799,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2802,7 +2807,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2818,7 +2823,7 @@
       "Name": "Capelworth",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2858,7 +2863,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2898,7 +2903,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2962,7 +2967,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2977,7 +2982,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2335,
+      "Progressed": 2336,
       "Completed": 1
     }
   ],
@@ -2985,8 +2990,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:37.7869098+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:35.95186+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:57:30.7118179+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:37.7869575+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:57:31.6461755+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:35.9519191+00:00"
 }

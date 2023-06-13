@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2023-06-12T17:06:46.068344+00:00",
       "NumProgressed": 480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T15:05:30.2935647+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -927,7 +932,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Devoted",
@@ -1077,9 +1082,9 @@
       "ID": "Specialist",
       "SetID": "2aagp3d",
       "Name": "Specialist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "SpringCleaning",
@@ -1150,7 +1155,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 1
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:32.3704257+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:30.2935643+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:57:44.7219739+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:32.370447+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:57:45.6885614+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:30.2935918+00:00"
 }

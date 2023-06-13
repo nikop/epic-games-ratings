@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2984,
+  "EOS_Progressed": 2985,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2023-06-13T09:07:48.8301607+00:00",
       "NumProgressed": 2984,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-13T15:05:40.7887547+00:00",
+      "NumProgressed": 2985,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2246,7 +2251,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "campaign20",
@@ -2270,15 +2275,15 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 537
     },
     {
       "ID": "campaign6",
@@ -2318,15 +2323,15 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "scenario2",
       "SetID": "2h56gn1",
       "Name": "Full Employment",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 567
     },
     {
       "ID": "scenario3",
@@ -2373,7 +2378,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2984,
+      "Progressed": 2985,
       "Completed": 9
     }
   ],
@@ -2381,8 +2386,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:42.9641343+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:40.7887542+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:59:38.6374175+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:42.9641635+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:59:41.5872459+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:40.7887907+00:00"
 }

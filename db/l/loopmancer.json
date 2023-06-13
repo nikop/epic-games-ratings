@@ -143,9 +143,9 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -159,9 +159,9 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 102,
+      "Percentage": 103,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -543,9 +543,9 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
@@ -608,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:04:00.9034969+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:04:00.1236337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.1229523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:59:12.7426581+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:04:00.9035363+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:59:14.8616686+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:04:00.1236838+00:00"
 }

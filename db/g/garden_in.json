@@ -4,7 +4,7 @@
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -247,6 +247,11 @@
     {
       "Time": "2023-06-10T22:05:38.3062361+00:00",
       "NumProgressed": 175,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T15:05:30.5570157+00:00",
+      "NumProgressed": 176,
       "NumCompleted": 0
     }
   ],
@@ -506,7 +511,7 @@
     {
       "ID": "95o50of",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:32.5663994+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:30.5570152+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0077863+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:59:07.6920225+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:32.566418+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:59:10.0147853+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:30.5570384+00:00"
 }

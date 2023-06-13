@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1911,6 +1911,11 @@
       "Time": "2023-06-13T14:03:32.8817708+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T15:03:33.5267892+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -2026,7 +2031,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "GUARD_MAKER",
@@ -2066,7 +2071,7 @@
       "Name": "Chief Physician",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -2097,14 +2102,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:03:32.8817703+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:03:33.5267888+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:57:06.5823254+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:03:32.8817915+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:57:07.0593257+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:03:33.5268163+00:00"
 }

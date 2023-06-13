@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 44.00% | ~1,402 |
-| Dense Forest | 36.00% | ~1,147 |
+| Dense Forest | 37.00% | ~1,179 |
 | Cactus Vally | 27.00% | ~860 |
 | Rainy Ruins | 16.00% | ~510 |
 | Telepathic | 11.00% | ~350 |
 | Snowy Peak | 10.00% | ~319 |
 | High Treetops | 8.00% | ~255 |
 | Speed walkers | 8.00% | ~255 |
-| Blue Rapids | 6.00% | ~191 |
+| Blue Rapids | 7.00% | ~223 |
 | Sunset Ridge | 4.00% | ~127 |
 | Robot lives matter too | 0.10% | ~3 |
 | Trend hunters | 0.10% | ~3 |

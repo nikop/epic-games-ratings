@@ -7,7 +7,7 @@ Rating: 4.67 (Ranked 257)
 | ---- | ---------- | ----- |
 | Tooth fairy | 25.00% | ~120 |
 | Dental maturity | 19.00% | ~91 |
-| Devil's in the details | 13.00% | ~62 |
+| Devil's in the details | 13.00% | ~63 |
 | Uprooting | 11.00% | ~53 |
 | Forbidden techniques | 11.00% | ~53 |
 | Slavic squatter | 9.00% | ~43 |
@@ -25,10 +25,10 @@ Rating: 4.67 (Ranked 257)
 | The word around is... | 3.00% | ~14 |
 | Both sides | 3.00% | ~14 |
 | Queen | 3.00% | ~14 |
-| Specialist | 3.00% | ~14 |
 | Witch's cookbook | 3.00% | ~14 |
 | Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |
+| Specialist | 2.00% | ~10 |
 | Always worth a try | 2.00% | ~10 |
 | Toxic | 2.00% | ~10 |
 | Bad apple | 1.00% | ~5 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Mushrooming enthusiast | 0.40% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 202)  
+Progressed: 481 (Ranked 202)  
 Completed: 1 (0.21%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.21%) (Ranked 147)
 | 2023-06-10 | 473 | 1 |
 | 2023-06-11 | 476 | 1 |
 | 2023-06-12 | 480 | 1 |
+| 2023-06-13 | 481 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4578,10 +4578,10 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709105,
+  "EOS_Progressed": 709114,
   "EOS_Completed": 12768,
-  "EOS_NewPlayers": 1442,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1443,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9683,6 +9683,11 @@
       "Time": "2023-06-13T14:05:45.9107489+00:00",
       "NumProgressed": 709105,
       "NumCompleted": 12768
+    },
+    {
+      "Time": "2023-06-13T15:05:43.7765729+00:00",
+      "NumProgressed": 709114,
+      "NumCompleted": 12768
     }
   ],
   "TotalAchievements": 50,
@@ -9884,9 +9889,9 @@
       "ID": "25_ShrineMind",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Mind",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4964
+      "UsersEstimate": 5673
     },
     {
       "ID": "26_ShrineSpirit",
@@ -10038,7 +10043,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10093,21 +10098,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18406,
-      "Completed": 10261
+      "Progressed": 18415,
+      "Completed": 10262
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709105,
+      "Progressed": 709114,
       "Completed": 12768
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-13T02:09:44.3853194+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:45.9107484+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:43.7765725+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:58:40.7714955+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:45.910805+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:58:43.5735911+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:43.7766421+00:00"
 }

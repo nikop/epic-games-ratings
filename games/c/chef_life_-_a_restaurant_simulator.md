@@ -19,8 +19,8 @@
 | Rolling in Dough | 4.00% | ~15 |
 | Culinary Arts | 3.00% | ~11 |
 | Leaning Tower of Pizza | 3.00% | ~11 |
-| Chef, Yes Chef! | 0.60% | ~2 |
-| The Bigger the Better | 0.60% | ~2 |
+| Chef, Yes Chef! | 0.50% | ~2 |
+| The Bigger the Better | 0.50% | ~2 |
 | Teamwork | 0.30% | ~1 |
 | Eco Warrior | 0.30% | ~1 |
 | Codename: Arrabbiata | 0.30% | ~1 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 221)  
+Progressed: 364 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 339 | 0 |
 | 2023-06-11 | 350 | 0 |
 | 2023-06-12 | 359 | 0 |
-| 2023-06-13 | 363 | 0 |
+| 2023-06-13 | 364 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,29 +5,29 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,218 |
-| No more cages! | 92.00% | ~2,148 |
-| Everfrost | 77.00% | ~1,798 |
+| For Demacia | 95.00% | ~2,219 |
+| No more cages! | 92.00% | ~2,149 |
+| Everfrost | 77.00% | ~1,799 |
 | Pentakill | 76.00% | ~1,775 |
 | Dark Forest | 76.00% | ~1,775 |
 | The use of petricite | 73.00% | ~1,705 |
-| You can pet the dog | 60.00% | ~1,401 |
-| Big Helmet Bro | 35.00% | ~817 |
-| Clarion Cove | 35.00% | ~817 |
+| You can pet the dog | 60.00% | ~1,402 |
+| Big Helmet Bro | 35.00% | ~818 |
+| Clarion Cove | 35.00% | ~818 |
 | Past trauma | 34.00% | ~794 |
 | Thornbarrow | 33.00% | ~771 |
 | Ternmoat Headquarters | 33.00% | ~771 |
-| Elemental master | 32.00% | ~747 |
-| Cypress Glen Headquarters | 32.00% | ~747 |
+| Elemental master | 32.00% | ~748 |
+| Cypress Glen Headquarters | 32.00% | ~748 |
 | Old friend | 28.00% | ~654 |
 | Petricite Burst | 28.00% | ~654 |
-| Devineur | 27.00% | ~630 |
+| Devineur | 27.00% | ~631 |
 | Whispers in the Woods I | 26.00% | ~607 |
 | Hijack | 26.00% | ~607 |
-| Ancient power | 24.00% | ~560 |
+| Ancient power | 24.00% | ~561 |
 | I chose my shackles | 22.00% | ~514 |
-| Sacred Woods | 21.00% | ~490 |
-| Capelworth | 21.00% | ~490 |
+| Sacred Woods | 21.00% | ~491 |
+| Capelworth | 21.00% | ~491 |
 | Little light | 20.00% | ~467 |
 | Iffighain Headquarters | 20.00% | ~467 |
 | Glyndemere | 19.00% | ~444 |
@@ -55,11 +55,11 @@ Rating: 4.80 (Ranked 80)
 | Do you trust me? | 8.00% | ~187 |
 | You can pet the... horse | 8.00% | ~187 |
 | Spellcrafting | 8.00% | ~187 |
-| The great mage rebellion starts now | 7.00% | ~163 |
+| The great mage rebellion starts now | 7.00% | ~164 |
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,335 (Ranked 150)  
+Progressed: 2,336 (Ranked 150)  
 Completed: 1 (0.04%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1 (0.04%) (Ranked 189)
 | 2023-06-10 | 2,317 | 1 |
 | 2023-06-11 | 2,331 | 1 |
 | 2023-06-12 | 2,334 | 1 |
-| 2023-06-13 | 2,335 | 1 |
+| 2023-06-13 | 2,336 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,7 +15,7 @@ Rating: 3.82 (Ranked 927)
 | House Party! | 33.00% | ~5,176 |
 | Make It Rain | 23.00% | ~3,607 |
 | Curse of the Seven Seas | 21.00% | ~3,294 |
-| Head First | 15.00% | ~2,353 |
+| Head First | 16.00% | ~2,509 |
 | To the World's End | 12.00% | ~1,882 |
 | Table for Six | 11.00% | ~1,725 |
 | Sharing Is Caring | 10.00% | ~1,568 |

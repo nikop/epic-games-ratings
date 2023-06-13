@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -91,6 +91,11 @@
       "Time": "2023-06-12T20:06:39.6874082+00:00",
       "NumProgressed": 130,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-13T15:05:23.9183518+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -110,7 +115,7 @@
       "Name": "Beginning of the End",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Bling",
@@ -118,7 +123,7 @@
       "Name": "Bling",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Bloodlust",
@@ -172,17 +177,17 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "MasterCrafter",
       "SetID": "4nce15l",
       "Name": "Master Crafter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 130,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "MasterTrader",
@@ -196,25 +201,25 @@
       "ID": "MysteriesOfRin",
       "SetID": "4nce15l",
       "Name": "Mysteries of Rin",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "Patience",
@@ -228,15 +233,15 @@
       "ID": "ReadyToRock",
       "SetID": "4nce15l",
       "Name": "Ready to Rock",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 101
     },
@@ -269,7 +274,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 4
     }
   ],
@@ -277,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-13T14:05:24.8096703+00:00",
+  "LastChanged_Achievements": "2023-06-13T15:05:23.9183514+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:58:39.3883095+00:00",
-  "LastUpdate_Achievements": "2023-06-13T14:05:24.8096816+00:00"
+  "LastUpdate_Ratings": "2023-06-13T14:58:41.9722092+00:00",
+  "LastUpdate_Achievements": "2023-06-13T15:05:23.9183657+00:00"
 }
