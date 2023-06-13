@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.51% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.81% |
@@ -61,7 +61,7 @@
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
-| 62 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.41% |
+| 62 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.38% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
@@ -263,6 +263,7 @@
 | 216 | [Deceive Inc.](games/d/deceive_inc..md) | 0.00% |
 | 216 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 216 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
+| 216 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 0.00% |
 | 216 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 216 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 0.00% |
 | 216 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
