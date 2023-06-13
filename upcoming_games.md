@@ -110,6 +110,7 @@
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | - |  | - | - |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | - |  | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | - |  | - | - |
+| [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | - |  | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
@@ -421,7 +422,6 @@
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | - |  | 4.27 | 297 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |  | - | - |
-| [The Lamplighters League](games/t/the_lamplighters_league.md) | 2099-08-08 | - |  | - | - |
 | [Dark Deception - Monsters & Mortals](games/d/dark_deception_-_monsters_&_mortals.md) | 2099-08-10 | - |  | - | 0 |
 | [Warhammer 40,000: Shootas Blood & Teef](games/w/warhammer_40,000__shootas_blood_&_teef.md) | 2099-10-20 | - |  | - | 0 |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2099-12-08 | - |  | - | - |
