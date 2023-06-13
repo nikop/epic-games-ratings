@@ -4,8 +4,8 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2023-06-10T19:04:44.737798+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T14:04:00.9034972+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -138,7 +143,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 90
     },
@@ -154,7 +159,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 103,
+      "Percentage": 102,
       "XP": 5,
       "UsersEstimate": 96
     },
@@ -162,7 +167,7 @@
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -178,7 +183,7 @@
       "ID": "ACH_DEFEAT_SBY_XFGZ_TPSN",
       "SetID": "6d82akp",
       "Name": "Still A Chance",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -186,7 +191,7 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -274,7 +279,7 @@
       "ID": "ACH_ENDING_WIFE_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Walking into a Trap",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 20
     },
@@ -298,7 +303,7 @@
       "ID": "ACH_FULLY_UPGRADED_MANY_ARMS",
       "SetID": "6d82akp",
       "Name": "Achieving Excellence",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -306,7 +311,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 62
     },
@@ -426,7 +431,7 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -434,7 +439,7 @@
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -442,7 +447,7 @@
       "ID": "ACH_SAVE_WIFE",
       "SetID": "6d82akp",
       "Name": "Reunion",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -474,7 +479,7 @@
       "ID": "ACH_UNLOCK_ALL_CLOTHES",
       "SetID": "6d82akp",
       "Name": "Fashionista",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -538,7 +543,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 5,
       "UsersEstimate": 89
     },
@@ -556,7 +561,7 @@
       "Name": "Growth",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_UNPLUG_EBRAIN",
@@ -578,7 +583,7 @@
       "ID": "ACH_WEILONG_NANOKILL",
       "SetID": "6d82akp",
       "Name": "Neutralize",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -595,7 +600,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 0
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:10:32.3689233+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:04:00.9034969+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.1229523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:39.4721414+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:10:32.3689775+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:12.7426581+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:04:00.9035363+00:00"
 }

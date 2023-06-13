@@ -2360,7 +2360,7 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15299,
+  "EOS_Progressed": 15301,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
@@ -5295,6 +5295,11 @@
       "Time": "2023-06-13T12:07:08.0020302+00:00",
       "NumProgressed": 15299,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-13T14:05:46.7067992+00:00",
+      "NumProgressed": 15301,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5370,7 +5375,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MetalChain",
@@ -5384,9 +5389,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 306
     },
     {
       "ID": "WinFirstGame",
@@ -5602,7 +5607,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WinPrestige20",
@@ -5634,7 +5639,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WinWithEvents",
@@ -5650,7 +5655,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WinWithRuins",
@@ -5705,15 +5710,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15299,
+      "Progressed": 15301,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-13T08:01:00.2240295+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:12:14.2627541+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:05:46.7067989+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:55.0294796+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:12:14.2628151+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:28.2474718+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:05:46.7068461+00:00"
 }

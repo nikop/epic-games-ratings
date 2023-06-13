@@ -7,6 +7,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No Deaths | 3.00% | ~459 |
+| Homesick | 2.00% | ~306 |
 | First Real Expedition | 2.00% | ~306 |
 | Overcoming Difficulty | 2.00% | ~306 |
 | Bandit Camp | 2.00% | ~306 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 2.00% | ~306 |
 | Taking Action | 2.00% | ~306 |
 | Refinery | 1.00% | ~153 |
-| Homesick | 1.00% | ~153 |
 | Against All Odds | 1.00% | ~153 |
 | Barren Lands | 1.00% | ~153 |
 | Ancient Battleground | 1.00% | ~153 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Fishmen Ritual Site | 0.60% | ~92 |
-| Efficient Explorer | 0.50% | ~76 |
-| Prestigious Expedition | 0.50% | ~76 |
-| Blood Flower Farmer | 0.50% | ~76 |
-| Victory through Prosperity | 0.50% | ~76 |
+| Efficient Explorer | 0.50% | ~77 |
+| Prestigious Expedition | 0.50% | ~77 |
+| Blood Flower Farmer | 0.50% | ~77 |
+| Victory through Prosperity | 0.50% | ~77 |
 | Lizard Utopia | 0.40% | ~61 |
 | Feeding The People | 0.30% | ~46 |
 | Beaver Utopia | 0.30% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,299 (Ranked 102)  
+Progressed: 15,301 (Ranked 102)  
 Completed: 34 (0.22%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 34 (0.22%) (Ranked 146)
 | 2023-06-10 | 15,263 | 34 |
 | 2023-06-11 | 15,283 | 34 |
 | 2023-06-12 | 15,296 | 34 |
-| 2023-06-13 | 15,299 | 34 |
+| 2023-06-13 | 15,301 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 198)  
 Sum: 3,041 (Ranked 153)  

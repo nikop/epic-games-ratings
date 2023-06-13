@@ -9,6 +9,7 @@
 | Treasure Trove | 8.00% | ~54 |
 | The Steel Shadow | 7.00% | ~47 |
 | The Mysterious Stranger | 7.00% | ~47 |
+| The Man Who Shattered Time | 7.00% | ~47 |
 | Rail Rat | 7.00% | ~47 |
 | Make Up For Lost Time | 7.00% | ~47 |
 | No, Thanks! | 7.00% | ~47 |
@@ -18,7 +19,6 @@
 | Right On Time | 6.00% | ~40 |
 | Like Clockwork | 6.00% | ~40 |
 | The Betrayer | 6.00% | ~40 |
-| The Man Who Shattered Time | 6.00% | ~40 |
 | The Loose Cannon | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |

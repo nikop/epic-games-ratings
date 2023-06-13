@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3610,
+  "EOS_Progressed": 3612,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4338,6 +4338,11 @@
       "Time": "2023-06-13T13:09:08.86665+00:00",
       "NumProgressed": 3610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T14:02:04.8110937+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4397,7 +4402,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -4413,7 +4418,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4445,7 +4450,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4469,7 +4474,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4509,7 +4514,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4605,7 +4610,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4668,15 +4673,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3610,
+      "Progressed": 3612,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:09:08.8666488+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:02:04.8110933+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:06:03.7545758+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:08.8667039+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:36.9555622+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:02:04.8111339+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 52,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 329,
-  "Ranking_EOS_Progress": 448,
+  "Ranking_PopularitySum": 330,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-16T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -627,6 +627,6 @@
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
   "LastChanged": "2023-06-09T09:01:28.2402511+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.6084974+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:06:20.7595209+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:22.5155125+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:54.2969491+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:02:18.3274923+00:00"
 }

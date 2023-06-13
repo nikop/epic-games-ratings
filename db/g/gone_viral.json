@@ -2,10 +2,10 @@
   "ID": "fc3850a91fb14145b4f4f6f3ed037a8b",
   "Name": "Gone Viral",
   "ProductSlug": "gone-viral-c60635",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-25T07:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.9693494+00:00",
   "LastChanged": "2023-03-31T05:58:04.9693495+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:11.5728631+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:00.6208432+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:11:01.9401248+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:58:32.86874+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:04:31.984325+00:00"
 }

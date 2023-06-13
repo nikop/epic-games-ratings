@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -1284,9 +1284,9 @@
       "ID": "ACH_ANCIENT_CURSE",
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 662
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1405,8 +1405,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-05T22:00:26.3420461+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:01:58.9636222+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:00:00.6284978+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:52.2679563+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:06:11.0325396+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:01:58.9636475+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:44.4608771+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:00:00.6285349+00:00"
 }

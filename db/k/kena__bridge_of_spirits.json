@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425968,
+  "EOS_Progressed": 425969,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5015,6 +5015,11 @@
       "Time": "2023-06-13T12:03:31.2347873+00:00",
       "NumProgressed": 425968,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-06-13T14:03:12.8065776+00:00",
+      "NumProgressed": 425969,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 41,
@@ -5082,7 +5087,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127790
+      "UsersEstimate": 127791
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -5162,7 +5167,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 195945
+      "UsersEstimate": 195946
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -5194,7 +5199,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404670
+      "UsersEstimate": 404671
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -5210,7 +5215,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306697
+      "UsersEstimate": 306698
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -5218,7 +5223,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157608
+      "UsersEstimate": 157609
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -5226,7 +5231,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293918
+      "UsersEstimate": 293919
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -5242,7 +5247,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340774
+      "UsersEstimate": 340775
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -5258,7 +5263,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34077
+      "UsersEstimate": 34078
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -5298,7 +5303,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115011
+      "UsersEstimate": 115012
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -5306,7 +5311,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238542
+      "UsersEstimate": 238543
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -5314,7 +5319,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183166
+      "UsersEstimate": 183167
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -5330,7 +5335,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115011
+      "UsersEstimate": 115012
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -5353,15 +5358,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425968,
+      "Progressed": 425969,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-06T10:58:32.2891951+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:09:45.6729371+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:03:12.8065772+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5917744+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:04:33.628156+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:45.6729932+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:58:05.1947882+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:03:12.8066195+00:00"
 }

@@ -272,6 +272,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Trials | 0.20% | ~114 |
 | The Lost Hollyphant | 0.20% | ~114 |
 | Alterdeep | 0.20% | ~114 |
+| Elder Rune Attack | 0.20% | ~114 |
 | The Gargoyle | 0.20% | ~114 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~114 |
 | The Wandering Emporium | 0.20% | ~114 |
@@ -443,7 +444,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ireena von Zarovich | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
-| Elder Rune Attack | 0.10% | ~57 |
 | Madcap Adventures Redux | 0.10% | ~57 |
 | When the Going Gets Tough | 0.10% | ~57 |
 | Show of Strength | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,615 (Ranked 64)  
-Completed: 1,930 (2.13%) (Ranked 66)  
+Progressed: 90,617 (Ranked 64)  
+Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 66)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,615 | 1,930 |
+| 2023-06-13 | 90,617 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,091 (Ranked 37)  

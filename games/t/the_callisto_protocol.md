@@ -16,8 +16,8 @@ Rating: 4.18 (Ranked 843)
 | Giving Back | 7.00% | ~1,062 |
 | Get a Grip | 7.00% | ~1,062 |
 | Without A Paddle | 7.00% | ~1,062 |
+| Terminated | 6.00% | ~910 |
 | Two Heads Are Better Than One | 5.00% | ~759 |
-| Terminated | 5.00% | ~759 |
 | Float Like A Butterfly | 5.00% | ~759 |
 | In the Pipe, Five by Five | 5.00% | ~759 |
 | Crash Site | 5.00% | ~759 |

@@ -1379,9 +1379,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "GadgetCompletion1",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:11:31.6971217+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:05:02.0131527+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:27.2767527+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:11:31.6971763+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:58:59.3245378+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:05:02.013194+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4603,
+  "EOS_Progressed": 4604,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3770,6 +3770,11 @@
       "Time": "2023-06-13T13:10:49.7879145+00:00",
       "NumProgressed": 4603,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T14:04:18.9149942+00:00",
+      "NumProgressed": 4604,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 44,
@@ -3781,7 +3786,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "10",
@@ -3797,7 +3802,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "12",
@@ -3845,7 +3850,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "18",
@@ -3861,7 +3866,7 @@
       "Name": "The Creator",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "2",
@@ -3877,7 +3882,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "21",
@@ -3893,7 +3898,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "23",
@@ -3901,7 +3906,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "24",
@@ -3909,7 +3914,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "25",
@@ -3917,7 +3922,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "26",
@@ -3941,7 +3946,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "29",
@@ -3973,7 +3978,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "32",
@@ -3981,7 +3986,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "33",
@@ -3989,7 +3994,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "34",
@@ -3997,7 +4002,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "35",
@@ -4013,7 +4018,7 @@
       "Name": "Fiery Friend",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "37",
@@ -4053,7 +4058,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "41",
@@ -4132,13 +4137,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4603,
-      "Completed": 4603
+      "Progressed": 4604,
+      "Completed": 4604
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4603,
+      "Progressed": 4604,
       "Completed": 2
     }
   ],
@@ -4146,8 +4151,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-10T19:59:37.6294765+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:10:49.787914+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:04:18.9149936+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:29.5208967+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:10:49.7879734+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:59:02.2601913+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:04:18.9151249+00:00"
 }

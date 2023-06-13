@@ -1,13 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.52 (Ranked 515)  
+Rating: 4.53 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~831 |
+| Meeting Resistance | 30.00% | ~832 |
 | Confirming Suspicions | 25.00% | ~693 |
-| The Kraken Wakes | 20.00% | ~554 |
+| The Kraken Wakes | 20.00% | ~555 |
 | It's Starting to Crack | 18.00% | ~499 |
 | Lord of War | 15.00% | ~416 |
 | Change the Channel | 15.00% | ~416 |
@@ -17,20 +17,20 @@ Rating: 4.52 (Ranked 515)
 | Target America | 11.00% | ~305 |
 | As Quiet as a Mouse | 10.00% | ~277 |
 | The Kraken Sleeps | 10.00% | ~277 |
-| Liberté | 9.00% | ~249 |
+| Liberté | 9.00% | ~250 |
 | Enemy at the Gates | 8.00% | ~222 |
 | Just a Flesh Wound | 8.00% | ~222 |
 | Gunslinger | 8.00% | ~222 |
 | Sharpshooter | 8.00% | ~222 |
 | Explosive Efficiency | 8.00% | ~222 |
 | Opposing Force | 7.00% | ~194 |
+| Climbing the Ladder | 6.00% | ~166 |
 | Fields of Glory | 6.00% | ~166 |
 | Die Nussknacker Sweet! | 6.00% | ~166 |
 | Der Geist | 6.00% | ~166 |
 | Close Quarters | 6.00% | ~166 |
 | Snake in the Grass | 6.00% | ~166 |
 | Brains of the Operation | 6.00% | ~166 |
-| Climbing the Ladder | 5.00% | ~139 |
 | No Stone Unturned | 5.00% | ~139 |
 | Skirmisher | 5.00% | ~139 |
 | Set Europe Ablaze | 5.00% | ~139 |
@@ -46,9 +46,9 @@ Rating: 4.52 (Ranked 515)
 | Don't hold your breath | 1.00% | ~28 |
 | Herr Today, Gone Tomorrow | 1.00% | ~27 |
 | Operation Foxley | 1.00% | ~27 |
-| Last Resort | 0.90% | ~24 |
-| Siegebreaker | 0.90% | ~24 |
-| Ghost of Falaise | 0.90% | ~24 |
+| Last Resort | 0.90% | ~25 |
+| Siegebreaker | 0.90% | ~25 |
+| Ghost of Falaise | 0.90% | ~25 |
 | Burn after reading | 0.80% | ~22 |
 | From Paris with Love | 0.60% | ~17 |
 | Souvenir hunter | 0.60% | ~17 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 515)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,771 (Ranked 144)  
+Progressed: 2,773 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,771 | 2 |
+| 2023-06-13 | 2,773 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -178,3 +178,4 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-08 | 4.50 | 0 | 0 |
 | 2023-06-09 | 4.52 | 0 | 0 |
 | 2023-06-12 | 4.52 | 0 | 0 |
+| 2023-06-13 | 4.53 | 0 | 0 |

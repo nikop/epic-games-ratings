@@ -1,27 +1,27 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.52 (Ranked 515)  
+Rating: 4.52 (Ranked 516)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 79.00% | ~1,318 |
-| Become King | 71.00% | ~1,184 |
-| Defeat 25 Frogs | 61.00% | ~1,017 |
+| Complete Guard Faction | 79.00% | ~1,319 |
+| Become King | 71.00% | ~1,185 |
+| Defeat 25 Frogs | 61.00% | ~1,018 |
 | Ranged Weapon | 60.00% | ~1,001 |
 | Collect Monster Parts | 57.00% | ~951 |
-| Two Handed Weapon | 55.00% | ~917 |
+| Two Handed Weapon | 55.00% | ~918 |
 | Defeat 25 Grubs | 51.00% | ~851 |
 | Rescue Redgi's Brothers | 51.00% | ~851 |
-| Collect Iron Ore | 46.00% | ~767 |
-| Kitchen Ready To Cook | 46.00% | ~767 |
+| Collect Iron Ore | 46.00% | ~768 |
+| Kitchen Ready To Cook | 46.00% | ~768 |
 | Defeat 25 Mozis | 45.00% | ~751 |
 | Collect Gold | 44.00% | ~734 |
 | Smithy Ready to Craft | 44.00% | ~734 |
 | Fix the Travellers Wagon | 42.00% | ~701 |
-| Complete Elder Faction | 40.00% | ~667 |
-| End of the Mozis | 36.00% | ~600 |
-| Throne Room Fit For A King | 36.00% | ~600 |
+| Complete Elder Faction | 40.00% | ~668 |
+| End of the Mozis | 36.00% | ~601 |
+| Throne Room Fit For A King | 36.00% | ~601 |
 | Meet the Creatures from the Deep | 34.00% | ~567 |
 | Return Power To The Depths | 34.00% | ~567 |
 | Defeat Ratnor Rodentson | 28.00% | ~467 |
@@ -32,11 +32,11 @@ Rating: 4.52 (Ranked 515)
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~317 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~300 |
 | Complete Arena Faction | 15.00% | ~250 |
-| Complete Redgi's Armory | 8.00% | ~133 |
+| Complete Redgi's Armory | 8.00% | ~134 |
 | King of Kings | 7.00% | ~117 |
 | A new Warchief rises | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,668 (Ranked 157)  
+Progressed: 1,669 (Ranked 157)  
 Completed: 8 (0.48%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 8 (0.48%) (Ranked 118)
 | 2023-06-10 | 1,643 | 7 |
 | 2023-06-11 | 1,661 | 8 |
 | 2023-06-12 | 1,666 | 8 |
-| 2023-06-13 | 1,668 | 8 |
+| 2023-06-13 | 1,669 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

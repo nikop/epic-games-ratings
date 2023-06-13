@@ -5,10 +5,10 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 155,
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -2733,10 +2733,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 2943,
       "NumberOfAwardsMax": 339
+    },
+    {
+      "Time": "2023-06-13T13:58:53.3413559+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2946,
+      "NumberOfAwardsMax": 339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2943,
+  "NumberOfAwards": 2946,
   "NumberOfAwardsMax": 339,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2768,7 +2774,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 274
+      "Count": 276
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2804,7 +2810,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2836,8 +2842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-06-13T09:59:15.2610004+00:00",
+  "LastChanged": "2023-06-13T13:58:53.3413558+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:40.760564+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:20.9935195+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:26.0172887+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:58:53.3413563+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:02:21.9361428+00:00"
 }

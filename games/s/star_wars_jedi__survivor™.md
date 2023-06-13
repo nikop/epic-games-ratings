@@ -4,7 +4,7 @@
 Rating: 4.47 (Ranked 592)  
 ## Awards
 Max (Great Boss Battles): 1,636  (Ranked 113)  
-Sum: 2,128 (Ranked 182)  
+Sum: 2,131 (Ranked 182)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -69
 | This game has Amazing Characters | 63 |
 | This game has Diverse Characters | 61 |
 | This game is Relaxing | 59 |
-| This game has Challenging Combat | 44 |
+| This game has Challenging Combat | 47 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |

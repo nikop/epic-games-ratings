@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6464,
+  "EOS_Progressed": 6466,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3489,6 +3489,11 @@
       "Time": "2023-06-13T05:06:04.7335129+00:00",
       "NumProgressed": 6464,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-13T14:05:18.3174856+00:00",
+      "NumProgressed": 6466,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3516,7 +3521,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3524,7 +3529,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3548,7 +3553,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3652,7 +3657,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "THING",
@@ -3667,7 +3672,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6464,
+      "Progressed": 6466,
       "Completed": 24
     }
   ],
@@ -3675,8 +3680,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:11:46.839241+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:05:18.3174849+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:04:15.8314219+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:11:46.8392761+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:57:47.1774702+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:05:18.3175109+00:00"
 }

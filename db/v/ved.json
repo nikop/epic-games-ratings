@@ -2,10 +2,10 @@
   "ID": "c75abc5bf2f54b24ac7bd7aa9628c007",
   "Name": "VED",
   "ProductSlug": "ved-a4f9dc",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.5060537+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:05:01.9592098+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:10:18.5043019+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:58:33.8176958+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:03:46.177079+00:00"
 }

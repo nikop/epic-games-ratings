@@ -18,8 +18,8 @@
 | Lumberjack | 13.00% | ~49 |
 | Orcs Must Die! | 13.00% | ~49 |
 | The End | 13.00% | ~49 |
-| Gladiator | 12.00% | ~45 |
-| Troubleshooter | 12.00% | ~45 |
+| Gladiator | 12.00% | ~46 |
+| Troubleshooter | 12.00% | ~46 |
 | Money Swag | 8.00% | ~30 |
 | Oops | 7.00% | ~27 |
 | Shield Crusher | 7.00% | ~27 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 217)  
+Progressed: 380 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 370 | 0 |
 | 2023-06-11 | 375 | 0 |
 | 2023-06-12 | 378 | 0 |
-| 2023-06-13 | 379 | 0 |
+| 2023-06-13 | 380 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

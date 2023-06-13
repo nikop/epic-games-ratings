@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -375,9 +375,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -503,9 +503,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -575,9 +575,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -888,8 +888,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:12:18.1421889+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:05:50.6767861+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:03:53.0561464+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:12:18.1422678+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:57:24.0133676+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:05:50.6768448+00:00"
 }

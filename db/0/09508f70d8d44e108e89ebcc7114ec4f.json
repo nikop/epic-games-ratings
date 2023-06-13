@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 271,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
@@ -861,9 +861,9 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "wood",
@@ -884,8 +884,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-13T13:09:52.7874055+00:00",
+  "LastChanged_Achievements": "2023-06-13T14:03:20.2732395+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:03:32.588872+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:52.7874266+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:57:03.6487624+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:03:20.2732585+00:00"
 }

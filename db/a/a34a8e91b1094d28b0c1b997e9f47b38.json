@@ -2,10 +2,10 @@
   "ID": "a34a8e91b1094d28b0c1b997e9f47b38",
   "Name": "Shadows. Price For Our Sins",
   "ProductSlug": "shadows-price-for-our-sins-29e42e",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-29T21:00:00+00:00",
     "PcReleaseDate": "2021-10-26T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-02T02:15:19.044153+00:00",
   "LastUpdate_AppInfo": "2023-06-06T13:57:01.9048104+00:00",
-  "LastUpdate_Ratings": "2023-06-13T13:03:27.934354+00:00",
-  "LastUpdate_Achievements": "2023-06-13T13:09:50.4514034+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:56:59.0288799+00:00",
+  "LastUpdate_Achievements": "2023-06-13T14:03:17.8346215+00:00"
 }
