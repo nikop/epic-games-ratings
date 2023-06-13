@@ -4258,9 +4258,9 @@
       "Count": 3249
     }
   ],
-  "EOS_Progressed": 90635,
+  "EOS_Progressed": 90636,
   "EOS_Completed": 1931,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9818,6 +9818,11 @@
       "Time": "2023-06-13T18:06:57.3576102+00:00",
       "NumProgressed": 90635,
       "NumCompleted": 1931
+    },
+    {
+      "Time": "2023-06-13T19:07:39.1546235+00:00",
+      "NumProgressed": 90636,
+      "NumCompleted": 1931
     }
   ],
   "TotalAchievements": 493,
@@ -11219,9 +11224,9 @@
       "ID": "objective_completed_214",
       "SetID": "cc37lbc",
       "Name": "Haunted Fortunes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_215",
@@ -13627,9 +13632,9 @@
       "ID": "objective_completed_923",
       "SetID": "415jc5c",
       "Name": "Encroaching Madness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_924",
@@ -13772,21 +13777,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56909,
+      "Progressed": 56910,
       "Completed": 2789
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90635,
+      "Progressed": 90636,
       "Completed": 1931
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-13T13:04:22.3863092+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:57.3576099+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:39.154623+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:21.7269309+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:57.3600302+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:58:58.5135404+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:39.1567015+00:00"
 }

@@ -15,8 +15,8 @@ Rating: 4.76 (Ranked 117)
 | Clay Pigeon | 6.00% | ~388 |
 | Historian | 6.00% | ~388 |
 | Soul-Canon | 6.00% | ~388 |
-| Iconoclast | 5.00% | ~323 |
-| Shredder | 5.00% | ~323 |
+| Iconoclast | 5.00% | ~324 |
+| Shredder | 5.00% | ~324 |
 | Happy Camper | 4.00% | ~259 |
 | Liberator | 4.00% | ~259 |
 | Live Wire | 4.00% | ~259 |
@@ -27,7 +27,7 @@ Rating: 4.76 (Ranked 117)
 | Ça de Wizz! | 1.00% | ~65 |
 | Thing | 1.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,469 (Ranked 122)  
+Progressed: 6,471 (Ranked 122)  
 Completed: 24 (0.37%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 24 (0.37%) (Ranked 123)
 | 2023-06-10 | 6,414 | 23 |
 | 2023-06-11 | 6,438 | 24 |
 | 2023-06-12 | 6,460 | 24 |
-| 2023-06-13 | 6,469 | 24 |
+| 2023-06-13 | 6,471 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

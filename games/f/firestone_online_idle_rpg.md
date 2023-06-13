@@ -55,8 +55,8 @@ Rating: 4.05 (Ranked 891)
 | Missions Dedication | 4.00% | ~56 |
 | Blueprint Upgrades | 3.00% | ~42 |
 | Dragon Slayer | 3.00% | ~42 |
+| Sailor | 3.00% | ~42 |
 | Ebony Jungle Liberator | 2.00% | ~28 |
-| Sailor | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |
 | What lies behind the bush | 2.00% | ~28 |
 | Active Member | 1.00% | ~14 |

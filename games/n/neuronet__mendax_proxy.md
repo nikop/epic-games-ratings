@@ -10,7 +10,7 @@
 | The Real Beginning | 63.00% | ~12 |
 | Shook Up | 53.00% | ~10 |
 | The Birds and the Bees | 53.00% | ~10 |
-| Vaccinated | 47.00% | ~9 |
+| Vaccinated | 53.00% | ~10 |
 | A Light in the Dark | 42.00% | ~8 |
 | The Guardian | 42.00% | ~8 |
 | Busybody | 42.00% | ~8 |
@@ -41,9 +41,9 @@
 | Overseer | 16.00% | ~3 |
 | Ring of Fire | 16.00% | ~3 |
 | The Provocateur | 16.00% | ~3 |
+| The Spice of Life | 16.00% | ~3 |
 | The Mentor | 11.00% | ~2 |
 | Tastes Like Regret | 11.00% | ~2 |
-| The Spice of Life | 11.00% | ~2 |
 | Wilful Ignorance | 11.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 5.00% | ~1 |
 | Double Agent | 5.00% | ~1 |

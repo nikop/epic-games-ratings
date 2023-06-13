@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,571 |
-| Worth it | 63.00% | ~29,922 |
-| Eagle Eye | 55.00% | ~26,122 |
-| Corpseman I | 40.00% | ~18,998 |
-| Blast fishing | 37.00% | ~17,573 |
-| Not alone | 32.00% | ~15,198 |
-| Headhunter I | 27.00% | ~12,824 |
-| Manual Labour I | 25.00% | ~11,874 |
-| Developers, Developers, Developers | 24.00% | ~11,399 |
-| Basic Training | 24.00% | ~11,399 |
-| Furchtlos und Treu | 13.00% | ~6,174 |
-| Gott Mit Uns | 12.00% | ~5,699 |
+| Setting an example | 77.00% | ~36,577 |
+| Worth it | 63.00% | ~29,927 |
+| Eagle Eye | 55.00% | ~26,127 |
+| Corpseman I | 40.00% | ~19,001 |
+| Blast fishing | 37.00% | ~17,576 |
+| Not alone | 32.00% | ~15,201 |
+| Headhunter I | 27.00% | ~12,826 |
+| Manual Labour I | 25.00% | ~11,876 |
+| Developers, Developers, Developers | 24.00% | ~11,401 |
+| Basic Training | 24.00% | ~11,401 |
+| Furchtlos und Treu | 13.00% | ~6,175 |
+| Gott Mit Uns | 12.00% | ~5,700 |
 | This We'll Defend! | 9.00% | ~4,275 |
 | Anker wirf! | 9.00% | ~4,275 |
 | Providentiea Memor | 9.00% | ~4,275 |
@@ -52,21 +52,21 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~475 |
 | Corpseman III | 1.00% | ~475 |
 | Elite Player | 0.80% | ~380 |
-| War is better with friends II | 0.30% | ~142 |
-| Manual Labour III | 0.30% | ~142 |
-| Buddy | 0.30% | ~142 |
-| Gold Collector | 0.10% | ~47 |
-| Gold Hoarder | 0.10% | ~47 |
-| Silver Collector | 0.10% | ~47 |
-| Silver Hoarder | 0.10% | ~47 |
-| War is better with friends III | 0.10% | ~47 |
-| War is better with friends IV | 0.10% | ~47 |
-| Aimbot | 0.10% | ~47 |
-| Headhunter III | 0.10% | ~47 |
-| Comrade | 0.10% | ~47 |
-| Blood Brother | 0.10% | ~47 |
+| War is better with friends II | 0.30% | ~143 |
+| Manual Labour III | 0.30% | ~143 |
+| Buddy | 0.30% | ~143 |
+| Gold Collector | 0.10% | ~48 |
+| Gold Hoarder | 0.10% | ~48 |
+| Silver Collector | 0.10% | ~48 |
+| Silver Hoarder | 0.10% | ~48 |
+| War is better with friends III | 0.10% | ~48 |
+| War is better with friends IV | 0.10% | ~48 |
+| Aimbot | 0.10% | ~48 |
+| Headhunter III | 0.10% | ~48 |
+| Comrade | 0.10% | ~48 |
+| Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,495 (Ranked 81)  
+Progressed: 47,503 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,11 +120,11 @@ Completed: 4 (0.01%) (Ranked 208)
 | 2023-06-10 | 47,141 | 4 |
 | 2023-06-11 | 47,287 | 4 |
 | 2023-06-12 | 47,416 | 4 |
-| 2023-06-13 | 47,495 | 4 |
+| 2023-06-13 | 47,503 | 4 |
 ## Awards
-Max (Highly Recommended): 94  (Ranked 336)  
+Max (Highly Recommended): 94  (Ranked 337)  
 Sum: 747 (Ranked 256)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 94 |

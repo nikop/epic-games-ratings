@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1670,
+  "EOS_Progressed": 1671,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-06-13T18:02:14.3184123+00:00",
       "NumProgressed": 1670,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-13T19:03:12.5180901+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1565,7 +1570,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1605,7 +1610,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "CompleteChefsBook",
@@ -1619,9 +1624,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 652
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1629,7 +1634,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1661,7 +1666,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1685,7 +1690,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "GetRangedWeapon",
@@ -1693,7 +1698,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "GetTHWeapon",
@@ -1747,9 +1752,9 @@
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 752
     },
     {
       "ID": "RepairSmith",
@@ -1765,7 +1770,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "RescueBrothers",
@@ -1788,22 +1793,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1670,
+      "Progressed": 1671,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 311,
-      "Completed": 311
+      "Progressed": 312,
+      "Completed": 312
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:02:14.3184119+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:03:12.5180898+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:39.9131769+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:02:14.3184412+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:16.3529211+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:03:12.5181137+00:00"
 }

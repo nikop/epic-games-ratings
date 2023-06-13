@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -588,9 +588,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ACT7",
@@ -628,9 +628,9 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -717,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:24.7819581+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:07.7823197+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:57:45.243733+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:24.7819802+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:58:22.5849362+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:07.7823365+00:00"
 }

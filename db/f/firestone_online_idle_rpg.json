@@ -3511,9 +3511,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "scientist",
@@ -3704,8 +3704,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:43.2206221+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:25.628507+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:19.7684382+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:43.2207147+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:58:56.5621284+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:25.6285782+00:00"
 }

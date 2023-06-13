@@ -10,7 +10,7 @@ Number of Ratings: 36  (23.09.2022)
 | It’s Heating up! | 69.00% | ~525 |
 | Let’s patch things up | 66.00% | ~502 |
 | I can fix it! | 63.00% | ~479 |
-| Post No Bills | 54.00% | ~411 |
+| Post No Bills | 55.00% | ~419 |
 | Truly Shocking! | 46.00% | ~350 |
 | Critical Thinker | 34.00% | ~259 |
 | Always Finding Your Mark | 28.00% | ~213 |

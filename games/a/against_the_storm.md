@@ -38,9 +38,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~153 |
 | Into the Forest | 1.00% | ~153 |
 | Forsaken Gods Temple | 0.90% | ~138 |
+| Defying the Crown | 0.90% | ~138 |
 | Ruined Armory | 0.80% | ~122 |
 | Forbidden Lands | 0.80% | ~122 |
-| Defying the Crown | 0.80% | ~122 |
 | Fishmen Ritual Site | 0.60% | ~92 |
 | Efficient Explorer | 0.50% | ~77 |
 | Prestigious Expedition | 0.50% | ~77 |

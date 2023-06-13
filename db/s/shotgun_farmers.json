@@ -616,9 +616,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -704,9 +704,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -832,9 +832,9 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -888,9 +888,9 @@
       "ID": "ach_x_victims_using_rocket_launcher",
       "SetID": "cmg602e",
       "Name": "Carrocketeer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_x_victims_using_shotgun",
@@ -1072,7 +1072,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -1159,8 +1159,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:03:42.8159774+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:04:25.3582881+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:37.6971541+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:03:42.816066+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:14.1446906+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:04:25.3583506+00:00"
 }

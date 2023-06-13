@@ -12,9 +12,9 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 65.00% | ~53 |
 | Livin' in a dwarven paradise | 63.00% | ~52 |
 | Déjà vu | 59.00% | ~48 |
+| Way of the Wimp | 54.00% | ~44 |
 | GG EZ | 54.00% | ~44 |
 | DM intervention | 54.00% | ~44 |
-| Way of the Wimp | 52.00% | ~43 |
 | Oh, when I'll be level 10... | 50.00% | ~41 |
 | Speedrun | 48.00% | ~39 |
 | I am the night | 45.00% | ~37 |
@@ -58,8 +58,8 @@ Number of Ratings: 118  (23.09.2022)
 | Super-Ultra-Lydian | 7.00% | ~6 |
 | Inception | 7.00% | ~6 |
 | Holistic Adventuring Party | 6.00% | ~5 |
+| Elite Adventurers | 6.00% | ~5 |
 | Insult to injury | 6.00% | ~5 |
-| Elite Adventurers | 5.00% | ~4 |
 | Friendly fire | 4.00% | ~3 |
 | I'd rather... Just... Sing! | 4.00% | ~3 |
 | Deep changes | 4.00% | ~3 |

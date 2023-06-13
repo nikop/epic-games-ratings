@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -564,10 +564,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-06-13T18:58:48.4593908+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
+  "NumberOfAwards": 307,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -593,7 +599,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -614,10 +620,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15189,
-  "EOS_Completed": 54,
-  "EOS_NewPlayers": 568,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 15192,
+  "EOS_Completed": 55,
+  "EOS_NewPlayers": 567,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -3769,6 +3775,11 @@
       "Time": "2023-06-13T18:04:45.3847045+00:00",
       "NumProgressed": 15189,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-13T19:05:28.7892923+00:00",
+      "NumProgressed": 15192,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3812,7 +3823,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3900,7 +3911,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3916,7 +3927,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3940,7 +3951,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3972,7 +3983,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3996,7 +4007,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4020,7 +4031,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "STORY_TOWER",
@@ -4036,7 +4047,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "DISMEMBER_100",
@@ -4068,7 +4079,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4099,22 +4110,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15189,
-      "Completed": 54
+      "Progressed": 15192,
+      "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3115,
+      "Progressed": 3118,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:04:45.3847042+00:00",
+  "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:05:28.7892918+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:11.6838858+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:04:45.384756+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:58:48.4593911+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:05:28.7893307+00:00"
 }

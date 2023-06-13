@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,278 |
-| The Outer Way | 14.00% | ~2,126 |
+| Flesh Wound | 15.00% | ~2,279 |
+| The Outer Way | 14.00% | ~2,127 |
 | Desperate Times | 13.00% | ~1,975 |
 | Paper Jams | 11.00% | ~1,671 |
 | Reforged | 10.00% | ~1,519 |
@@ -16,19 +16,19 @@ Rating: 4.18 (Ranked 843)
 | Giving Back | 7.00% | ~1,063 |
 | Get a Grip | 7.00% | ~1,063 |
 | Without A Paddle | 7.00% | ~1,063 |
-| Terminated | 6.00% | ~911 |
-| Two Heads Are Better Than One | 5.00% | ~759 |
-| Float Like A Butterfly | 5.00% | ~759 |
-| In the Pipe, Five by Five | 5.00% | ~759 |
-| Crash Site | 5.00% | ~759 |
-| Power Up | 5.00% | ~759 |
+| Terminated | 6.00% | ~912 |
+| Two Heads Are Better Than One | 5.00% | ~760 |
+| Float Like A Butterfly | 5.00% | ~760 |
+| In the Pipe, Five by Five | 5.00% | ~760 |
+| Crash Site | 5.00% | ~760 |
+| Power Up | 5.00% | ~760 |
 | You Need a Gun | 4.00% | ~608 |
 | What Lies Beneath | 4.00% | ~608 |
 | Full Circle | 4.00% | ~608 |
 | Instigator | 4.00% | ~125 |
 | Big Game Hunter | 4.00% | ~125 |
 | The Commonality | 3.00% | ~456 |
-| Bear Trap | 3.00% | ~93 |
+| Bear Trap | 3.00% | ~94 |
 | I Do Belong Here | 2.00% | ~304 |
 | In Striking Distance | 2.00% | ~304 |
 | Mugshot | 2.00% | ~304 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,189 (Ranked 104)  
-Completed: 54 (0.36%) (Ranked 126)  
+Progressed: 15,192 (Ranked 104)  
+Completed: 55 (0.36%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,17 +99,17 @@ Completed: 54 (0.36%) (Ranked 126)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,189 | 54 |
+| 2023-06-13 | 15,192 | 55 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
-Sum: 306 (Ranked 328)  
+Sum: 307 (Ranked 328)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 53 |
 | This game has Quickly Understood Controls | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Amazing Characters | 48 |
+| This game has Amazing Characters | 49 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
@@ -179,3 +179,4 @@ Diff (max vs sum): 58
 | 2023-06-09 | 4.18 | 52 | 301 |
 | 2023-06-10 | 4.18 | 52 | 302 |
 | 2023-06-11 | 4.18 | 53 | 306 |
+| 2023-06-13 | 4.18 | 53 | 307 |

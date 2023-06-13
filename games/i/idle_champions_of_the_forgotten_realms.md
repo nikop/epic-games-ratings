@@ -183,6 +183,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Werewolves in the Mist | 0.20% | ~181 |
 | We're not in Faerûn Anymore | 0.20% | ~181 |
 | Family Entanglements | 0.20% | ~181 |
+| Haunted Fortunes | 0.20% | ~181 |
 | Poor Fortune | 0.20% | ~181 |
 | Relentless Misfortune | 0.20% | ~181 |
 | Chatty Nobles | 0.20% | ~181 |
@@ -325,6 +326,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.20% | ~114 |
 | Tekeli-li's Hunt | 0.20% | ~114 |
 | Neutral No More | 0.20% | ~114 |
+| Encroaching Madness | 0.20% | ~114 |
 | The Rite of the Arcane Octad | 0.20% | ~114 |
 | An Icewind Dale Reunion | 0.20% | ~114 |
 | The Netherese Necropolis | 0.20% | ~114 |
@@ -370,7 +372,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
-| Haunted Fortunes | 0.10% | ~91 |
 | This Quest Stinks! | 0.10% | ~57 |
 | Hold for the Red Wizards | 0.10% | ~91 |
 | Form Ranks | 0.10% | ~91 |
@@ -493,14 +494,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Working for the Weak End | 0.10% | ~57 |
 | Fungal Excitation | 0.10% | ~57 |
 | Crimson Perception | 0.10% | ~57 |
-| Encroaching Madness | 0.10% | ~57 |
 | Watchful Eyes | 0.10% | ~57 |
 | Maroon Madness | 0.10% | ~57 |
 | Alien Allies | 0.10% | ~57 |
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,635 (Ranked 64)  
+Progressed: 90,636 (Ranked 64)  
 Completed: 1,931 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 1,931 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,635 | 1,931 |
+| 2023-06-13 | 90,636 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,091 (Ranked 37)  

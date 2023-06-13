@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-06-13T15:05:45.9311738+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-13T19:07:32.47877+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1270,7 +1275,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHV_03",
@@ -1286,7 +1291,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHV_05",
@@ -1302,7 +1307,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHV_07",
@@ -1366,7 +1371,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHV_15",
@@ -1414,7 +1419,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHV_21",
@@ -1462,7 +1467,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACHV_27",
@@ -1510,7 +1515,7 @@
       "Name": "Remote Surgery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHV_33",
@@ -1550,7 +1555,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHV_38",
@@ -1566,7 +1571,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACHV_40",
@@ -1590,7 +1595,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHV_43",
@@ -1606,7 +1611,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHV_45",
@@ -1614,7 +1619,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHV_46",
@@ -1654,7 +1659,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHV_51",
@@ -1670,7 +1675,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHV_53",
@@ -1717,7 +1722,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1771,
       "Completed": 10
     }
   ],
@@ -1725,8 +1730,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-11T19:00:01.1883541+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:50.2138571+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:32.4787695+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-13T18:00:44.7616617+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:50.2139113+00:00"
+  "LastUpdate_Ratings": "2023-06-13T19:01:23.3181095+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:32.4788156+00:00"
 }

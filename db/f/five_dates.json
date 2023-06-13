@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -512,6 +512,11 @@
       "Time": "2023-06-13T16:04:46.3482914+00:00",
       "NumProgressed": 431,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-13T19:05:05.4659677+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -523,7 +528,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "booty_call",
@@ -531,7 +536,7 @@
       "Name": "Booty Call",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "crash_and_burn",
@@ -547,7 +552,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "hold_my_beer",
@@ -587,7 +592,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "nueva_beginnings",
@@ -595,7 +600,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "only_thyme_will_tell",
@@ -619,7 +624,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "sore_loser",
@@ -627,22 +632,22 @@
       "Name": "Sore Loser",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 4
     }
   ],
@@ -650,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:04:22.3370566+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:05:05.465967+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:24.6068042+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:04:22.3370694+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:01.3217788+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:05:05.4659778+00:00"
 }

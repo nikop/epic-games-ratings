@@ -5,9 +5,9 @@
   "Ranking_Rating": 746,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -100,7 +100,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -1685,6 +1685,11 @@
       "Time": "2023-06-13T18:03:30.9046613+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T19:04:14.0373969+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1712,7 +1717,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1774,9 +1779,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 469
     },
     {
       "ID": "CRUELTY",
@@ -1808,7 +1813,7 @@
       "Name": "Limp Richard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1880,7 +1885,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1904,7 +1909,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "GIANT_KILLER",
@@ -1912,7 +1917,7 @@
       "Name": "Giant Killer",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "GOAL",
@@ -1928,7 +1933,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1960,7 +1965,7 @@
       "Name": "Lumberjack",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1984,7 +1989,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2000,7 +2005,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "RECYCLER",
@@ -2008,7 +2013,7 @@
       "Name": "Recycler",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "RUTHLESS",
@@ -2064,7 +2069,7 @@
       "Name": "Technophobe",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2103,7 +2108,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 0
     }
   ],
@@ -2111,8 +2116,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-12T21:58:22.0358678+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:03:30.904661+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:04:14.0373964+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:36.037502+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:03:30.9047151+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:12.7178039+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:04:14.0374494+00:00"
 }

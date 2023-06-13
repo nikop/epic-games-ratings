@@ -10,10 +10,10 @@
 | First Blood | 40.00% | ~46 |
 | Triple Kill | 37.00% | ~43 |
 | Early Survivor | 36.00% | ~23 |
-| No Diggity | 35.00% | ~23 |
+| No Diggity | 36.00% | ~23 |
 | No Asperascope | 33.00% | ~38 |
 | Cornivore | 32.00% | ~37 |
-| I Believe I Can Fly | 30.00% | ~34 |
+| I Believe I Can Fly | 31.00% | ~36 |
 | Amateur Survivor | 26.00% | ~17 |
 | Bouncemato | 23.00% | ~15 |
 | This Is My Boomstick | 20.00% | ~13 |
@@ -24,16 +24,16 @@
 | Grave Digger | 17.00% | ~11 |
 | Drinking Problem | 14.00% | ~16 |
 | Summers Here | 11.00% | ~7 |
+| Eggtraordinary | 10.00% | ~12 |
 | Oh My Gourd | 10.00% | ~6 |
 | Pyromaniac | 10.00% | ~6 |
-| Eggtraordinary | 9.00% | ~10 |
 | Skin Of Your Teeth | 8.00% | ~9 |
+| Quit Horsin' Around | 7.00% | ~8 |
 | Perfect | 7.00% | ~5 |
 | Expert Survivor | 7.00% | ~5 |
 | Quadsparagus | 7.00% | ~5 |
-| Quit Horsin' Around | 6.00% | ~7 |
 | Pork Chop Express | 6.00% | ~7 |
-| Carrocketeer | 5.00% | ~6 |
+| Carrocketeer | 6.00% | ~7 |
 | Master Survivor | 5.00% | ~3 |
 | Bring Home The Bacon | 4.00% | ~5 |
 | Fresh Pancake | 4.00% | ~5 |

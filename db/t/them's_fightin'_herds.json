@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 49,
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223881,
+  "EOS_Progressed": 223884,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5718,6 +5718,11 @@
       "Time": "2023-06-13T18:06:35.4257461+00:00",
       "NumProgressed": 223881,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-13T19:07:18.037473+00:00",
+      "NumProgressed": 223884,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -5793,7 +5798,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80597
+      "UsersEstimate": 80598
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -5873,7 +5878,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76120
+      "UsersEstimate": 76121
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -5897,7 +5902,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6716
+      "UsersEstimate": 6717
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -5952,7 +5957,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 223881,
+      "Progressed": 223884,
       "Completed": 3
     }
   ],
@@ -5960,8 +5965,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-10T22:59:11.5974265+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:35.4257457+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:18.0374725+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:17.4929198+00:00",
-  "LastUpdate_Ratings": "2023-06-13T18:00:08.1750886+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:35.4257969+00:00"
+  "LastUpdate_Ratings": "2023-06-13T19:00:46.449332+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:18.0375139+00:00"
 }

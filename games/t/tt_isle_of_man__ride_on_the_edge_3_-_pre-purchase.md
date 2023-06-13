@@ -18,6 +18,7 @@
 | Nerd | 6.00% | ~5 |
 | Upgradeaholic | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
+| Tailor-Made | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | POI Hunter | 4.00% | ~3 |
 | Gotta Go Fast! | 4.00% | ~3 |
@@ -25,7 +26,6 @@
 | First and Foremost | 4.00% | ~3 |
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |
-| Tailor-Made | 4.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |

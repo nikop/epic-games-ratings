@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 3122,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3527,9 +3527,9 @@
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach053",
@@ -3622,8 +3622,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-11T20:58:10.3583526+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:47.6032187+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:29.8962285+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:50.8173194+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:51.8188965+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:47.6032954+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:28.1302724+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:29.8962848+00:00"
 }

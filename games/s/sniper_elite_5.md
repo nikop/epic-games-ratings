@@ -5,24 +5,24 @@ Rating: 4.53 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~835 |
-| Confirming Suspicions | 25.00% | ~696 |
-| The Kraken Wakes | 20.00% | ~557 |
-| It's Starting to Crack | 18.00% | ~501 |
+| Meeting Resistance | 30.00% | ~836 |
+| Confirming Suspicions | 25.00% | ~697 |
+| The Kraken Wakes | 20.00% | ~558 |
+| It's Starting to Crack | 18.00% | ~502 |
 | Lord of War | 15.00% | ~418 |
 | Change the Channel | 15.00% | ~418 |
 | Resourceful | 13.00% | ~362 |
 | Taking it back | 13.00% | ~362 |
-| Organ Grinder | 11.00% | ~306 |
-| Target America | 11.00% | ~306 |
-| As Quiet as a Mouse | 10.00% | ~278 |
-| The Kraken Sleeps | 10.00% | ~278 |
+| Organ Grinder | 11.00% | ~307 |
+| Target America | 11.00% | ~307 |
+| As Quiet as a Mouse | 10.00% | ~279 |
+| The Kraken Sleeps | 10.00% | ~279 |
 | Liberté | 9.00% | ~251 |
 | Sharpshooter | 9.00% | ~251 |
+| Explosive Efficiency | 9.00% | ~251 |
 | Enemy at the Gates | 8.00% | ~223 |
 | Just a Flesh Wound | 8.00% | ~223 |
 | Gunslinger | 8.00% | ~223 |
-| Explosive Efficiency | 8.00% | ~223 |
 | Opposing Force | 7.00% | ~195 |
 | Climbing the Ladder | 6.00% | ~167 |
 | Fields of Glory | 6.00% | ~167 |
@@ -34,7 +34,7 @@ Rating: 4.53 (Ranked 503)
 | Brains of the Operation | 6.00% | ~167 |
 | No Stone Unturned | 5.00% | ~139 |
 | Set Europe Ablaze | 5.00% | ~139 |
-| Precision Is Key | 4.00% | ~111 |
+| Precision Is Key | 4.00% | ~112 |
 | Rigged to Blow | 3.00% | ~84 |
 | My Little Friend | 3.00% | ~84 |
 | The Long Game | 2.00% | ~56 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,784 (Ranked 144)  
+Progressed: 2,788 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,784 | 2 |
+| 2023-06-13 | 2,788 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

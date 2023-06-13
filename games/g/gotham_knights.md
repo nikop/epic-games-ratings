@@ -10,19 +10,20 @@ Rating: 4.17 (Ranked 851)
 | Har, Har, Har, Very Funny | 3.00% | ~1,946 |
 | Knighthood | 3.00% | ~1,946 |
 | Loose Ends | 3.00% | ~1,946 |
-| The Batman Family | 2.00% | ~1,297 |
-| Protector of Gotham | 2.00% | ~1,297 |
-| Something in the Clay | 2.00% | ~1,297 |
-| The Show Mud Go On | 2.00% | ~1,297 |
-| Quartzer Life Crisis | 2.00% | ~1,297 |
-| Snow Problem | 2.00% | ~1,297 |
-| Get ReQ'd | 2.00% | ~1,297 |
-| Working Hard or Harley Working? | 2.00% | ~1,297 |
-| Unstoppable Force | 2.00% | ~1,297 |
-| Whispered Words | 2.00% | ~1,297 |
-| Lock and Key | 2.00% | ~1,297 |
-| Bad Apples in Every Orchard | 2.00% | ~1,297 |
-| From Inside Gotham's Walls | 2.00% | ~1,297 |
+| The Batman Family | 2.00% | ~1,298 |
+| Protector of Gotham | 2.00% | ~1,298 |
+| Something in the Clay | 2.00% | ~1,298 |
+| The Show Mud Go On | 2.00% | ~1,298 |
+| Quartzer Life Crisis | 2.00% | ~1,298 |
+| Snow Problem | 2.00% | ~1,298 |
+| Get ReQ'd | 2.00% | ~1,298 |
+| Working Hard or Harley Working? | 2.00% | ~1,298 |
+| Universal Health Scare | 2.00% | ~1,298 |
+| Unstoppable Force | 2.00% | ~1,298 |
+| Whispered Words | 2.00% | ~1,298 |
+| Lock and Key | 2.00% | ~1,298 |
+| Bad Apples in Every Orchard | 2.00% | ~1,298 |
+| From Inside Gotham's Walls | 2.00% | ~1,298 |
 | End of an Era | 1.00% | ~649 |
 | In Your Element | 1.00% | ~649 |
 | Rock and a Hard Place | 1.00% | ~649 |
@@ -30,7 +31,6 @@ Rating: 4.17 (Ranked 851)
 | Bulldozed | 1.00% | ~649 |
 | Shock Til They Drop | 1.00% | ~649 |
 | Cooldown | 1.00% | ~649 |
-| Universal Health Scare | 1.00% | ~649 |
 | Voiceless | 1.00% | ~649 |
 | Seeking Asylum | 1.00% | ~649 |
 | Gotham Knight | 1.00% | ~649 |
@@ -43,7 +43,7 @@ Rating: 4.17 (Ranked 851)
 | Expert Crime Fighter | 0.60% | ~389 |
 | A Worthy Successor | 0.60% | ~389 |
 | Dressed to Impress | 0.50% | ~324 |
-| A Momentum Occasion | 0.40% | ~259 |
+| A Momentum Occasion | 0.40% | ~260 |
 | He'd Be So Proud of You | 0.30% | ~195 |
 | Bat Out of Hell | 0.30% | ~195 |
 | Hammer and Icicle | 0.20% | ~70 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,872 (Ranked 70)  
+Progressed: 64,875 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,10 +121,10 @@ Completed: 95 (0.15%) (Ranked 158)
 | 2023-06-10 | 64,465 | 95 |
 | 2023-06-11 | 64,650 | 95 |
 | 2023-06-12 | 64,767 | 95 |
-| 2023-06-13 | 64,872 | 95 |
+| 2023-06-13 | 64,875 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
-Sum: 3,853 (Ranked 137)  
+Sum: 3,854 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -134,7 +134,7 @@ Diff (max vs sum): -39
 | This game has Quickly Understood Controls | 197 |
 | This game has Amazing Characters | 194 |
 | This game has Diverse Characters | 187 |
-| This game has Amazing Storytelling | 184 |
+| This game has Amazing Storytelling | 185 |
 | This game is Great for Beginners | 182 |
 | This game is Highly Recommended | 182 |
 | This game is Great for Quick Sessions | 60 |
@@ -253,4 +253,4 @@ Diff (max vs sum): -39
 | 2023-06-10 | 4.18 | 2,317 | 3,830 |
 | 2023-06-11 | 4.17 | 2,321 | 3,838 |
 | 2023-06-12 | 4.17 | 2,325 | 3,845 |
-| 2023-06-13 | 4.17 | 2,331 | 3,853 |
+| 2023-06-13 | 4.17 | 2,331 | 3,854 |

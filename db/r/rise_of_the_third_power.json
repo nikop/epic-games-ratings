@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Geared",
@@ -177,9 +177,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "MasterCrafter",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:24.5738664+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:07.7748918+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:59:18.1270554+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:24.5738798+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:55.0841221+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:07.7749044+00:00"
 }

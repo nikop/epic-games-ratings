@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corporal | 48.00% | ~15 |
-| Covert Operative | 45.00% | ~14 |
-| Stocking Up | 45.00% | ~14 |
-| Facility Online | 42.00% | ~13 |
-| Sergeant | 42.00% | ~13 |
-| It's Good to have Allies | 42.00% | ~13 |
-| On Target | 42.00% | ~13 |
-| Defenses Online | 42.00% | ~13 |
-| Getting Deployment | 32.00% | ~10 |
-| Lieutenant | 29.00% | ~9 |
-| Fighting for Survival | 23.00% | ~7 |
-| Brothers in Arms | 23.00% | ~7 |
-| Silver Competitor | 19.00% | ~6 |
-| Keeping Busy | 19.00% | ~6 |
-| Infantry Reporting | 16.00% | ~5 |
-| Exterminator | 13.00% | ~4 |
-| Moving On Up | 10.00% | ~3 |
+| Corporal | 53.00% | ~19 |
+| Facility Online | 50.00% | ~18 |
+| It's Good to have Allies | 47.00% | ~17 |
+| Covert Operative | 47.00% | ~17 |
+| Defenses Online | 44.00% | ~16 |
+| Sergeant | 39.00% | ~14 |
+| Stocking Up | 39.00% | ~14 |
+| On Target | 36.00% | ~13 |
+| Getting Deployment | 28.00% | ~10 |
+| Lieutenant | 25.00% | ~9 |
+| Fighting for Survival | 19.00% | ~7 |
+| Brothers in Arms | 19.00% | ~7 |
+| Silver Competitor | 17.00% | ~6 |
+| Keeping Busy | 17.00% | ~6 |
+| Infantry Reporting | 14.00% | ~5 |
+| Exterminator | 11.00% | ~4 |
+| Moving On Up | 8.00% | ~3 |
 | Player Betrayer | 6.00% | ~2 |
 | Advanced Warfare | 6.00% | ~2 |
 | Captain | 6.00% | ~2 |
@@ -43,9 +43,9 @@
 | Resourceful | 0.00% | ~0 |
 | Shock Troops | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 331)  
+Progressed: 36 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-13 | 31 | 0 |
+| 2023-06-13 | 36 | 0 |

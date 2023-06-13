@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2784,
+  "EOS_Progressed": 2788,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3453,6 +3453,11 @@
       "Time": "2023-06-13T18:06:39.3480879+00:00",
       "NumProgressed": 2784,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T19:07:22.0444705+00:00",
+      "NumProgressed": 2788,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3528,7 +3533,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3544,7 +3549,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3624,7 +3629,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3632,7 +3637,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3662,9 +3667,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 251
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3704,7 +3709,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3712,7 +3717,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3776,7 +3781,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3856,7 +3861,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3872,7 +3877,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4031,13 +4036,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2735,
+      "Progressed": 2739,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2784,
+      "Progressed": 2788,
       "Completed": 2
     }
   ],
@@ -4045,8 +4050,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:39.3480877+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:22.0444701+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T18:00:49.4606215+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:39.3481753+00:00"
+  "LastUpdate_Ratings": "2023-06-13T19:01:27.9122308+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:22.0445401+00:00"
 }

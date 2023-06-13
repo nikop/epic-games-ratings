@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-06-13T18:03:54.2916331+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T19:04:36.2881773+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1710,7 +1715,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "RecipeDifferent30",
@@ -1766,7 +1771,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TrattoriaSet",
@@ -1829,7 +1834,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
@@ -1837,8 +1842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:03:54.2916327+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:04:36.2881768+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:42.3791268+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:03:54.291671+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:18.632902+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:04:36.2882078+00:00"
 }

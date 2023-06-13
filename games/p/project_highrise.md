@@ -27,10 +27,10 @@
 | Don't Feel a Loan | 20.00% | ~43 |
 | Emporium Empire | 20.00% | ~43 |
 | Get Electrified | 20.00% | ~43 |
+| Artfully Done | 19.00% | ~40 |
 | Rehab Expert | 19.00% | ~40 |
 | Tasty Profits | 19.00% | ~40 |
 | We Don't Need No Education | 19.00% | ~40 |
-| Artfully Done | 18.00% | ~38 |
 | Under One Roof | 16.00% | ~34 |
 | Established Fame | 16.00% | ~34 |
 | Cashflow Chief | 16.00% | ~34 |
@@ -40,7 +40,7 @@
 | Starred Dining | 14.00% | ~30 |
 | Smooth Operator | 13.00% | ~28 |
 | Swimming in Surplus | 13.00% | ~28 |
-| 28 Days Later | 11.00% | ~23 |
+| 28 Days Later | 12.00% | ~26 |
 | Master of Puppets | 10.00% | ~21 |
 | Plaza Plan | 9.00% | ~19 |
 | Refined Palates | 9.00% | ~19 |

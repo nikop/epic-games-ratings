@@ -2822,9 +2822,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9830,
+  "EOS_Progressed": 9831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6422,6 +6422,11 @@
       "Time": "2023-06-13T18:06:53.2557504+00:00",
       "NumProgressed": 9830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T19:07:35.6011886+00:00",
+      "NumProgressed": 9831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6439,9 +6444,9 @@
       "ID": "02_BurningCity",
       "SetID": "989of5o",
       "Name": "Burning City",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1180
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -7360,21 +7365,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8612,
+      "Progressed": 8613,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9830,
+      "Progressed": 9831,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-13T09:58:18.3593996+00:00",
-  "LastChanged_Achievements": "2023-06-13T18:06:53.2557498+00:00",
+  "LastChanged_Achievements": "2023-06-13T19:07:35.601188+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:58:37.9457483+00:00",
-  "LastUpdate_Achievements": "2023-06-13T18:06:53.255933+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:59:14.3619725+00:00",
+  "LastUpdate_Achievements": "2023-06-13T19:07:35.6013483+00:00"
 }
