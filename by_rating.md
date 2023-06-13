@@ -17,7 +17,7 @@
 | 14 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 496 |
 | 14 | [Firework](games/f/firework.md) | 4.89 | 0 | 496 |
 | 14 | [RimWorld](games/r/rimworld.md) | 4.89 | 412 | 201 |
-| 14 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,810 | 20 |
+| 14 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,860 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 298 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 259 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,056 | 75 |
@@ -137,9 +137,9 @@
 | 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 471 |
 | 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,184 | 62 |
 | 135 | [Diabotical](games/d/diabotical.md) | 4.75 | 268 | 238 |
-| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 479 | 189 |
+| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 482 | 188 |
 | 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 318 |
-| 135 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,659 | 49 |
+| 135 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,660 | 49 |
 | 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 482 | 188 |
 | 135 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 413 |
 | 135 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 496 |
@@ -487,21 +487,21 @@
 | 473 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 0 | 496 |
 | 473 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 343 |
 | 473 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 496 |
+| 473 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 295 | 230 |
 | 473 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,179 | 127 |
-| 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,419 | 69 |
-| 489 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
-| 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,128 | 130 |
-| 489 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.54 | 0 | 496 |
-| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
-| 489 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
-| 489 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 496 |
-| 489 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 496 |
-| 489 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 499 | 187 |
-| 489 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 496 |
-| 489 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 496 |
-| 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 295 | 230 |
-| 489 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 496 |
-| 489 | [VALORANT](games/v/valorant.md) | 4.54 | 56,410 | 11 |
+| 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,419 | 69 |
+| 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
+| 490 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,128 | 130 |
+| 490 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.54 | 0 | 496 |
+| 490 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
+| 490 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
+| 490 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 496 |
+| 490 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 496 |
+| 490 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 499 | 187 |
+| 490 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 496 |
+| 490 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 496 |
+| 490 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 496 |
+| 490 | [VALORANT](games/v/valorant.md) | 4.54 | 56,410 | 11 |
 | 503 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
 | 503 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
 | 503 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,177 | 17 |
@@ -623,7 +623,7 @@
 | 618 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,531 | 34 |
 | 618 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 496 |
 | 618 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 496 |
-| 618 | [SMITE](games/s/smite.md) | 4.45 | 3,884 | 77 |
+| 618 | [SMITE](games/s/smite.md) | 4.45 | 3,888 | 77 |
 | 618 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 496 |
 | 618 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 465 |
 | 618 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 314 |
