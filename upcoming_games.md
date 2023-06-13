@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [maze horror～迷宮ホラー～](games/9/9f81aca67daf4d269ae06257d7b6d460.md) | 2023-06-13 | - |  | - | - |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 10 (1,000 XP) | 5 | - | - |
 | [Metro Simulator](games/d/d1c8b68acafc466d9b393b5ff6797dc4.md) | 2023-06-14 | - |  | - | - |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 2023-06-14 | - |  | - | - |
@@ -182,7 +181,7 @@
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2023-12-31 | - |  | - | - |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-12-31 | - |  | - | - |
 | [Train World](games/t/train_world.md) | 2023-12-31 | - |  | - | - |
-| [UFO ROBOT GRENDIZER - THE FEAST OF THE WOLVES](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-12-31 | - |  | - | - |
+| [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2023-12-31 | - |  | - | - |
 | [Venatur](games/a/ac4ba4393ede46f1960596d753b6222c.md) | 2023-12-31 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
