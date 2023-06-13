@@ -1,8 +1,8 @@
 | Game | Total Achievements | Total XP |
 | ---- | ------------------ | -------- |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 220 | 5,265 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 214 | 5,105 |
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 |
