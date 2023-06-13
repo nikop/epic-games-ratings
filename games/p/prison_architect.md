@@ -80,7 +80,7 @@ Completed: 5 (0.00%) (Ranked 218)
 | 2023-06-13 | 135,170 | 5 |
 ## Awards
 Max (Extremely Fun): 437  (Ranked 195)  
-Sum: 3,423 (Ranked 145)  
+Sum: 3,424 (Ranked 145)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): 50
 | This game has Diverse Characters | 374 |
 | This game has Amazing Storytelling | 363 |
 | This game has Amazing Characters | 347 |
-| This game has a Creative Community | 271 |
+| This game has a Creative Community | 272 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -241,4 +241,4 @@ Diff (max vs sum): 50
 | 2023-06-09 | 4.61 | - | 434 | 3,410 |
 | 2023-06-10 | 4.61 | - | 436 | 3,417 |
 | 2023-06-12 | 4.61 | - | 437 | 3,421 |
-| 2023-06-13 | 4.61 | - | 437 | 3,423 |
+| 2023-06-13 | 4.61 | - | 437 | 3,424 |

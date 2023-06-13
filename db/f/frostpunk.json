@@ -3,12 +3,12 @@
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
   "Ranking_Rating": 144,
-  "Ranking_Popularity": 151,
+  "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -3768,11 +3768,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 6541,
       "NumberOfAwardsMax": 777
+    },
+    {
+      "Time": "2023-06-13T19:57:37.6202679+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6544,
+      "NumberOfAwardsMax": 779
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6541,
-  "NumberOfAwardsMax": 777,
+  "NumberOfAwards": 6544,
+  "NumberOfAwardsMax": 779,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3785,7 +3791,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 777
+      "Count": 779
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3821,7 +3827,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 584
+      "Count": 585
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3861,9 +3867,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-06-13T04:57:50.8352941+00:00",
-  "LastChanged_Achievements": "2023-06-13T19:06:51.4857116+00:00",
+  "LastChanged": "2023-06-13T19:57:37.6202677+00:00",
+  "LastChanged_Achievements": "2023-06-13T20:05:08.4101285+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.4628553+00:00",
-  "LastUpdate_Ratings": "2023-06-13T18:58:36.1843514+00:00",
-  "LastUpdate_Achievements": "2023-06-13T19:06:51.4857141+00:00"
+  "LastUpdate_Ratings": "2023-06-13T19:57:37.6202683+00:00",
+  "LastUpdate_Achievements": "2023-06-13T20:05:08.4101313+00:00"
 }
