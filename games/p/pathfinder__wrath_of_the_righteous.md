@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,668 |
-| A Spark | 12.00% | ~1,177 |
-| Burning City | 11.00% | ~1,079 |
-| Mythic Choices | 10.00% | ~981 |
-| Defender's Heart | 10.00% | ~981 |
+| Devoured by Darkness | 17.00% | ~1,669 |
+| A Spark | 12.00% | ~1,178 |
+| Burning City | 11.00% | ~1,080 |
+| Mythic Choices | 10.00% | ~982 |
+| Defender's Heart | 10.00% | ~982 |
 | Banner over the Citadel | 9.00% | ~883 |
 | Queen's Gratitude | 8.00% | ~785 |
 | Fifth Crusade | 5.00% | ~491 |
-| Embrace of the Abyss | 4.00% | ~392 |
-| Path of the Angel | 4.00% | ~392 |
-| Demonic and Divine | 4.00% | ~392 |
+| Embrace of the Abyss | 4.00% | ~393 |
+| Path of the Angel | 4.00% | ~393 |
+| Demonic and Divine | 4.00% | ~393 |
 | Path of the Azata | 3.00% | ~294 |
 | Transformation | 3.00% | ~294 |
 | The Legacy | 3.00% | ~294 |
@@ -45,7 +45,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 1.00% | ~98 |
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~88 |
-| The Final Threshold | 0.80% | ~78 |
+| The Final Threshold | 0.80% | ~79 |
 | This Wall Won't Fall | 0.80% | ~69 |
 | Not the Last Sarkorian | 0.80% | ~69 |
 | Strategic Victory | 0.70% | ~69 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,811 (Ranked 112)  
+Progressed: 9,816 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,11 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 9,745 | 0 |
 | 2023-06-11 | 9,782 | 0 |
 | 2023-06-12 | 9,811 | 0 |
+| 2023-06-13 | 9,816 | 0 |
 ## Awards
-Max (Character Customization): 1,660  (Ranked 111)  
+Max (Character Customization): 1,660  (Ranked 112)  
 Sum: 6,740 (Ranked 109)  
-Diff (max vs sum): 2  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,660 |

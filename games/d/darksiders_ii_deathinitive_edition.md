@@ -1,12 +1,12 @@
 # Darksiders II Deathinitive Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders2)  
 [View Rawdata](../../db/d/darksiders_ii_deathinitive_edition.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 827  (23.09.2022)  
 ## Awards
 Max (Character Customization): 377  (Ranked 208)  
-Sum: 582 (Ranked 286)  
-Diff (max vs sum): -78  
+Sum: 582 (Ranked 287)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 377 |

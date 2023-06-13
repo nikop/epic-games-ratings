@@ -18,7 +18,7 @@ Rating: 3.44 (Ranked 939)
 | Fly Fisher | 34.00% | ~571 |
 | Throw The First Stone | 33.00% | ~554 |
 | Enter of Your Own Free Will | 31.00% | ~520 |
-| Heart Attack | 30.00% | ~504 |
+| Heart Attack | 31.00% | ~520 |
 | Skin of Their Teeth | 30.00% | ~504 |
 | Grounded | 23.00% | ~386 |
 | Bad Wiring | 20.00% | ~336 |
@@ -59,9 +59,9 @@ Rating: 3.44 (Ranked 939)
 | So Anyway I Started Blasting | 0.70% | ~12 |
 | Someplace to Be | 0.40% | ~7 |
 | Good Samaritan | 0.40% | ~7 |
+| A Cry in the Dark | 0.20% | ~3 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
-| A Cry in the Dark | 0.10% | ~2 |
 | Eagle Eyes | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |

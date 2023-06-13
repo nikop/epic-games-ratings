@@ -2,12 +2,12 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -2034,18 +2034,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 2647,
       "NumberOfAwardsMax": 1226
+    },
+    {
+      "Time": "2023-06-13T02:11:22.985976+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2657,
+      "NumberOfAwardsMax": 1234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2647,
-  "NumberOfAwardsMax": 1226,
+  "NumberOfAwards": 2657,
+  "NumberOfAwardsMax": 1234,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1226
+      "Count": 1234
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2099,7 +2105,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 81
+      "Count": 83
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2120,8 +2126,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-06-12T22:00:05.6946523+00:00",
+  "LastChanged": "2023-06-13T02:11:22.9859758+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.4018604+00:00",
-  "LastUpdate_Ratings": "2023-06-12T23:00:02.0274755+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:02:01.988775+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:11:22.9859765+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:13:26.1481941+00:00"
 }

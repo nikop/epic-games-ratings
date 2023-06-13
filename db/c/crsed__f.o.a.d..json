@@ -4,10 +4,10 @@
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 728,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -1003,10 +1003,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 623,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-06-13T02:10:27.4613287+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 624,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 623,
+  "NumberOfAwards": 624,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1038,7 +1044,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1100,8 +1106,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-06-08T23:00:05.8325274+00:00",
+  "LastChanged": "2023-06-13T02:10:27.4613283+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:02.7279175+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:23.0756302+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:04:34.3489224+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:10:27.4613292+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:16:13.6147266+00:00"
 }

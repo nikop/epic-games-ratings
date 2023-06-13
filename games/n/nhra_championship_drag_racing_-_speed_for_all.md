@@ -11,8 +11,8 @@
 | I didn't know you where there! | 31.00% | ~220 |
 | Participation trophy | 24.00% | ~170 |
 | Whole again | 12.00% | ~85 |
+| Getting the job done | 8.00% | ~57 |
 | Cash Rules Everything Around Me | 8.00% | ~57 |
-| Getting the job done | 7.00% | ~50 |
 | Risky business | 6.00% | ~43 |
 | Ready to Mingle | 5.00% | ~35 |
 | First one tastes better | 4.00% | ~28 |

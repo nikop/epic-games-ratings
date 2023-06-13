@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.56,
+  "EOS_Completed_Percentage": 7.53,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -3009,6 +3009,11 @@
       "Time": "2023-06-12T22:05:24.481977+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-06-13T02:17:01.5424663+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 5,
@@ -3020,7 +3025,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1075
     },
     {
       "ID": "2",
@@ -3036,7 +3041,7 @@
       "Name": "Jill the Brave",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "4",
@@ -3044,7 +3049,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "5",
@@ -3059,7 +3064,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1075,
       "Completed": 81
     }
   ],
@@ -3067,8 +3072,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:17.8657049+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:01.5424656+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.2761767+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:13.3199108+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:17.8657303+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:07:29.2866971+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:01.5425082+00:00"
 }

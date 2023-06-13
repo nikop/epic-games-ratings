@@ -5,64 +5,64 @@ Rating: 4.52 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~824 |
-| Confirming Suspicions | 24.00% | ~659 |
-| The Kraken Wakes | 20.00% | ~549 |
-| It's Starting to Crack | 17.00% | ~467 |
-| Lord of War | 15.00% | ~412 |
-| Change the Channel | 15.00% | ~412 |
-| Resourceful | 13.00% | ~357 |
-| Taking it back | 13.00% | ~357 |
-| Organ Grinder | 11.00% | ~302 |
-| Target America | 11.00% | ~302 |
-| As Quiet as a Mouse | 10.00% | ~274 |
-| The Kraken Sleeps | 10.00% | ~274 |
-| Liberté | 9.00% | ~247 |
+| Meeting Resistance | 30.00% | ~825 |
+| Confirming Suspicions | 24.00% | ~660 |
+| The Kraken Wakes | 20.00% | ~550 |
+| It's Starting to Crack | 17.00% | ~468 |
+| Lord of War | 15.00% | ~413 |
+| Change the Channel | 15.00% | ~413 |
+| Resourceful | 13.00% | ~358 |
+| Taking it back | 13.00% | ~358 |
+| Organ Grinder | 11.00% | ~303 |
+| Target America | 11.00% | ~303 |
+| As Quiet as a Mouse | 10.00% | ~275 |
+| The Kraken Sleeps | 10.00% | ~275 |
+| Liberté | 9.00% | ~248 |
 | Enemy at the Gates | 8.00% | ~220 |
 | Just a Flesh Wound | 8.00% | ~220 |
 | Gunslinger | 8.00% | ~220 |
 | Sharpshooter | 8.00% | ~220 |
 | Explosive Efficiency | 8.00% | ~220 |
-| Opposing Force | 7.00% | ~192 |
+| Opposing Force | 7.00% | ~193 |
 | Fields of Glory | 6.00% | ~165 |
 | Die Nussknacker Sweet! | 6.00% | ~165 |
 | Der Geist | 6.00% | ~165 |
 | Close Quarters | 6.00% | ~165 |
 | Snake in the Grass | 6.00% | ~165 |
 | Brains of the Operation | 6.00% | ~165 |
-| Climbing the Ladder | 5.00% | ~137 |
-| No Stone Unturned | 5.00% | ~137 |
-| Skirmisher | 5.00% | ~137 |
-| Set Europe Ablaze | 5.00% | ~137 |
+| Climbing the Ladder | 5.00% | ~138 |
+| No Stone Unturned | 5.00% | ~138 |
+| Skirmisher | 5.00% | ~138 |
+| Set Europe Ablaze | 5.00% | ~138 |
 | Precision Is Key | 4.00% | ~110 |
-| Rigged to Blow | 3.00% | ~82 |
-| My Little Friend | 3.00% | ~82 |
+| Rigged to Blow | 3.00% | ~83 |
+| My Little Friend | 3.00% | ~83 |
 | The Long Game | 2.00% | ~55 |
 | It'll Buff Right Out | 2.00% | ~55 |
-| Strategist | 1.00% | ~27 |
-| Tinkerer | 1.00% | ~27 |
-| Locomotion Commotion | 1.00% | ~27 |
-| Road Rage | 1.00% | ~27 |
-| Don't hold your breath | 1.00% | ~27 |
+| Strategist | 1.00% | ~28 |
+| Tinkerer | 1.00% | ~28 |
+| Locomotion Commotion | 1.00% | ~28 |
+| Road Rage | 1.00% | ~28 |
+| Don't hold your breath | 1.00% | ~28 |
 | Herr Today, Gone Tomorrow | 1.00% | ~27 |
 | Operation Foxley | 1.00% | ~27 |
 | Last Resort | 0.90% | ~24 |
 | Siegebreaker | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
 | Burn after reading | 0.70% | ~19 |
-| From Paris with Love | 0.60% | ~16 |
-| Souvenir hunter | 0.60% | ~16 |
+| From Paris with Love | 0.60% | ~17 |
+| Souvenir hunter | 0.60% | ~17 |
 | Up close and personal | 0.50% | ~14 |
 | Shoot for the Moon | 0.50% | ~14 |
-| If You Go Down To The Woods Today | 0.50% | ~13 |
-| Fight Another Day | 0.50% | ~13 |
+| If You Go Down To The Woods Today | 0.50% | ~14 |
+| Fight Another Day | 0.50% | ~14 |
 | Eagle Eyed | 0.40% | ~11 |
 | Can't Outrun A Bullet | 0.40% | ~11 |
 | Sight Beyond Sights | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~8 |
 | Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
-| Best of the Best | 0.20% | ~5 |
+| Best of the Best | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~5 |
 | Das Familienjuwel | 0.20% | ~5 |
 | Master of Pistols | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 515)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,745 (Ranked 145)  
+Progressed: 2,751 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
+| 2023-06-13 | 2,751 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

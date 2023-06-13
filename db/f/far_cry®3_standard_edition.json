@@ -2,12 +2,12 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 504,
   "RatingHistory": [
     {
@@ -843,6 +843,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 405,
       "NumberOfAwardsMax": 360
+    },
+    {
+      "Time": "2023-06-13T02:10:51.1203189+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 405,
+      "NumberOfAwardsMax": 360
     }
   ],
   "ReviewsDisabled": false,
@@ -880,8 +886,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-06-12T02:21:16.1005393+00:00",
+  "LastChanged": "2023-06-13T02:10:51.1203188+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:25.0557612+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:40.4391045+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:04:46.6466437+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:10:51.1203193+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:16:31.4718041+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 103,
@@ -617,9 +617,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:03:07.2703373+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:14:09.2284371+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:58:45.4871888+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:03:07.2703744+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:09:33.6535293+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:14:09.2284992+00:00"
 }

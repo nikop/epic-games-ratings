@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -663,6 +663,11 @@
       "Time": "2023-06-12T14:01:45.0602594+00:00",
       "NumProgressed": 141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T02:11:53.6428257+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -680,9 +685,9 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "back_from_the_dead",
@@ -706,7 +711,7 @@
       "Name": "Ball Galore",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ball_protector",
@@ -744,7 +749,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 104
     },
@@ -762,7 +767,7 @@
       "Name": "Graduation",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -840,9 +845,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "scrap_collector",
@@ -921,7 +926,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 1
     }
   ],
@@ -929,8 +934,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:00:24.0217932+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:11:53.642825+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:41.0741064+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:00:24.0218244+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:10:51.6932155+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:11:53.6428772+00:00"
 }

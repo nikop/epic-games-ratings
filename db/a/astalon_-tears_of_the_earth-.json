@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -63,17 +63,17 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Beat_Game_BK",
@@ -215,9 +215,9 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Defeat_Solaria",
@@ -255,17 +255,17 @@
       "ID": "Get_100_Item_Completion",
       "SetID": "4f0g260",
       "Name": "Relic Collector",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Unlock_All_Secrets",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:03:31.2171342+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:14:43.2336377+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.1738285+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:58:19.055576+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:03:31.2171571+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:08:56.6798592+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:14:43.2336723+00:00"
 }

@@ -11,26 +11,26 @@
 | The Mysterious Stranger | 7.00% | ~47 |
 | Rail Rat | 7.00% | ~47 |
 | Make Up For Lost Time | 7.00% | ~47 |
+| Breaking Down Barriers | 7.00% | ~47 |
 | The Prince in Heels | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
+| The Betrayer | 6.00% | ~40 |
 | The Man Who Shattered Time | 6.00% | ~40 |
+| The Loose Cannon | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | No, Thanks! | 6.00% | ~40 |
-| Breaking Down Barriers | 6.00% | ~40 |
 | The Wicked Twins | 6.00% | ~40 |
 | Golem Chaser | 6.00% | ~40 |
 | Fast Learner | 6.00% | ~40 |
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
 | The Family Fortune | 6.00% | ~40 |
-| Right On Time | 5.00% | ~33 |
-| Like Clockwork | 5.00% | ~33 |
-| Street Style | 5.00% | ~33 |
-| The Betrayer | 5.00% | ~33 |
-| The Loose Cannon | 5.00% | ~33 |
-| Honest Mistake | 5.00% | ~33 |
-| Check Your Pulse | 5.00% | ~33 |
+| Right On Time | 5.00% | ~34 |
+| Like Clockwork | 5.00% | ~34 |
+| Street Style | 5.00% | ~34 |
+| Honest Mistake | 5.00% | ~34 |
+| Check Your Pulse | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
 | Whiz Kid | 4.00% | ~27 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669 (Ranked 190)  
+Progressed: 670 (Ranked 190)  
 Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,3 +84,4 @@ Completed: 1 (0.15%) (Ranked 157)
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
+| 2023-06-13 | 670 | 1 |

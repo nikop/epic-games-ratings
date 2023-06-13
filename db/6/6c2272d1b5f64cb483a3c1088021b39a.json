@@ -1193,9 +1193,9 @@
       "ID": "conqueror_2",
       "SetID": "53c1p3k",
       "Name": "Conqueror 2",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "conqueror_3",
@@ -1209,9 +1209,9 @@
       "ID": "diehard_1",
       "SetID": "53c1p3k",
       "Name": "Diehard 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "diehard_2",
@@ -1600,8 +1600,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:03:09.0092719+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:14:11.5869855+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:00.897994+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:03:09.0093383+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:07:13.2686923+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:14:11.5871043+00:00"
 }

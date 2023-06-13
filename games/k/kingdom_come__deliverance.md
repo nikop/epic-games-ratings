@@ -6,44 +6,44 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,066 |
-| Cavalier | 25.00% | ~196,827 |
-| Fatso | 23.00% | ~181,081 |
-| Awakening | 20.00% | ~157,462 |
-| Ranger | 20.00% | ~157,462 |
-| Scrooge | 20.00% | ~157,462 |
-| Anorectic | 16.00% | ~125,969 |
-| Firestarter | 15.00% | ~118,096 |
-| Bookworm | 14.00% | ~110,223 |
-| Insomniac | 13.00% | ~102,350 |
-| Buddy | 11.00% | ~86,604 |
-| Sinner | 11.00% | ~86,604 |
-| Thief | 11.00% | ~86,604 |
-| Convict | 10.00% | ~78,731 |
-| Traveller | 10.00% | ~78,731 |
-| Haggler | 9.00% | ~70,858 |
-| McLovin | 7.00% | ~55,112 |
-| Runt | 7.00% | ~55,112 |
-| Casanova | 6.00% | ~47,239 |
-| Bad Trip | 5.00% | ~39,365 |
-| Monk | 5.00% | ~39,365 |
-| Serial Killer | 5.00% | ~39,365 |
-| Bastard | 4.00% | ~31,492 |
-| Hunter | 4.00% | ~31,492 |
-| Plague Doctor | 4.00% | ~31,492 |
-| Bard | 3.00% | ~23,619 |
-| Conqueror | 3.00% | ~23,619 |
-| Ginger in a Pickle | 3.00% | ~23,619 |
-| Kingdom did not come | 3.00% | ~23,619 |
-| Completionist | 2.00% | ~15,746 |
-| Death by splinter | 2.00% | ~15,746 |
-| King Charming | 2.00% | ~15,746 |
-| Knightrider | 2.00% | ~15,746 |
-| Level Cap | 2.00% | ~15,746 |
-| Arena Master | 2.00% | ~15,746 |
-| Robber Baron | 2.00% | ~15,746 |
-| Talmberger | 2.00% | ~15,746 |
-| The End | 2.00% | ~15,746 |
+| Blacksmith's Son | 31.00% | ~244,071 |
+| Cavalier | 25.00% | ~196,832 |
+| Fatso | 23.00% | ~181,085 |
+| Awakening | 20.00% | ~157,465 |
+| Ranger | 20.00% | ~157,465 |
+| Scrooge | 20.00% | ~157,465 |
+| Anorectic | 16.00% | ~125,972 |
+| Firestarter | 15.00% | ~118,099 |
+| Bookworm | 14.00% | ~110,226 |
+| Insomniac | 13.00% | ~102,352 |
+| Buddy | 11.00% | ~86,606 |
+| Sinner | 11.00% | ~86,606 |
+| Thief | 11.00% | ~86,606 |
+| Convict | 10.00% | ~78,733 |
+| Traveller | 10.00% | ~78,733 |
+| Haggler | 9.00% | ~70,859 |
+| McLovin | 7.00% | ~55,113 |
+| Runt | 7.00% | ~55,113 |
+| Casanova | 6.00% | ~47,240 |
+| Bad Trip | 5.00% | ~39,366 |
+| Monk | 5.00% | ~39,366 |
+| Serial Killer | 5.00% | ~39,366 |
+| Bastard | 4.00% | ~31,493 |
+| Hunter | 4.00% | ~31,493 |
+| Plague Doctor | 4.00% | ~31,493 |
+| Bard | 3.00% | ~23,620 |
+| Conqueror | 3.00% | ~23,620 |
+| Ginger in a Pickle | 3.00% | ~23,620 |
+| Kingdom did not come | 3.00% | ~23,620 |
+| Completionist | 2.00% | ~15,747 |
+| Death by splinter | 2.00% | ~15,747 |
+| King Charming | 2.00% | ~15,747 |
+| Knightrider | 2.00% | ~15,747 |
+| Level Cap | 2.00% | ~15,747 |
+| Arena Master | 2.00% | ~15,747 |
+| Robber Baron | 2.00% | ~15,747 |
+| Talmberger | 2.00% | ~15,747 |
+| The End | 2.00% | ~15,747 |
 | Woman's Lot | 1.00% | ~7,873 |
 | Chivalrous Soul | 1.00% | ~7,873 |
 | Spoilsport | 1.00% | ~7,873 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,873 |
 | Master Huntsman | 1.00% | ~7,873 |
 | Stealth Killer | 1.00% | ~7,873 |
-| Bailiff | 0.80% | ~6,298 |
-| Tracker | 0.80% | ~6,298 |
+| Bailiff | 0.80% | ~6,299 |
+| Tracker | 0.80% | ~6,299 |
 | David Horak | 0.70% | ~5,511 |
 | Mercenary's Honour | 0.70% | ~5,511 |
 | Saviour | 0.70% | ~5,511 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~787 |
 | Wingman | 0.10% | ~787 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787,309 (Ranked 15)  
+Progressed: 787,326 (Ranked 15)  
 Completed: 40 (0.01%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,15 +143,16 @@ Completed: 40 (0.01%) (Ranked 206)
 | 2023-06-10 | 786,727 | 40 |
 | 2023-06-11 | 787,072 | 40 |
 | 2023-06-12 | 787,309 | 40 |
+| 2023-06-13 | 787,326 | 40 |
 ## Awards
 Max (Character Customization): 7,240  (Ranked 45)  
-Sum: 27,045 (Ranked 43)  
+Sum: 27,046 (Ranked 43)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,240 |
 | This game has Great Boss Battles | 5,325 |
-| This game has Challenging Combat | 1,698 |
+| This game has Challenging Combat | 1,699 |
 | This game has Amazing Storytelling | 1,659 |
 | This game is Extremely Fun | 1,632 |
 | This game has Diverse Characters | 1,631 |
@@ -303,3 +304,4 @@ Diff (max vs sum): 2
 | 2023-06-10 | 4.71 | - | 7,230 | 27,027 |
 | 2023-06-11 | 4.71 | - | 7,233 | 27,032 |
 | 2023-06-12 | 4.71 | - | 7,240 | 27,045 |
+| 2023-06-13 | 4.71 | - | 7,240 | 27,046 |

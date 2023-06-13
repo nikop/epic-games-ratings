@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blunga 1 | 99.00% | ~197 |
-| Mjam-Mjam | 97.00% | ~193 |
-| Onk Boga I | 95.00% | ~189 |
+| Mjam-Mjam | 98.00% | ~195 |
+| Onk Boga I | 96.00% | ~191 |
 | Sniarb! | 91.00% | ~181 |
-| Blunga 5 | 64.00% | ~127 |
-| Onk Boga II | 60.00% | ~119 |
-| Bzzzzzz | 54.00% | ~107 |
+| Blunga 5 | 65.00% | ~129 |
+| Onk Boga II | 61.00% | ~121 |
+| Bzzzzzz | 55.00% | ~109 |
 | Onk Boga III | 46.00% | ~92 |
 | Danka, Lagga, Wonwon | 39.00% | ~78 |
 | Onk Boga IV | 39.00% | ~78 |

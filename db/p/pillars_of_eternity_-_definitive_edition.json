@@ -3,11 +3,11 @@
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 296,
-  "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 128,
+  "Ranking_Popularity": 106,
+  "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2502,9 +2502,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2547,6 +2547,11 @@
       "Time": "2023-06-02T18:05:33.2985623+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-13T02:17:17.2484853+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2558,7 +2563,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_02",
@@ -2574,7 +2579,7 @@
       "Name": "Completed Act III",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_04",
@@ -2774,7 +2779,7 @@
       "Name": "First 5 Levels of Od Nua",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_29",
@@ -2830,7 +2835,7 @@
       "Name": "Fish Guts and Murder",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_36",
@@ -2838,7 +2843,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "achievement_37",
@@ -2941,15 +2946,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-06-10T17:57:40.3904941+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:29.738101+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:17.2484846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.0452957+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:33.8541341+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:29.7381455+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:07:53.9445789+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:17.2485578+00:00"
 }

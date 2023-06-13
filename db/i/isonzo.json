@@ -628,7 +628,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6208,
+  "EOS_Progressed": 6209,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -2648,6 +2648,11 @@
       "Time": "2023-06-12T22:03:20.5447465+00:00",
       "NumProgressed": 6208,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-13T02:14:01.2675075+00:00",
+      "NumProgressed": 6209,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2659,7 +2664,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -2851,7 +2856,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2867,7 +2872,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2907,7 +2912,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2939,7 +2944,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -2955,7 +2960,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2987,7 +2992,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3011,14 +3016,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6208,
+      "Progressed": 6209,
       "Completed": 8
     }
   ],
@@ -3026,8 +3031,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:03:01.3843782+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:14:01.2675069+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:27.5215544+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:03:01.3844265+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:07:45.3331698+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:14:01.2676264+00:00"
 }

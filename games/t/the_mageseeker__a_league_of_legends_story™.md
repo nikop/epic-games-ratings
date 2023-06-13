@@ -18,13 +18,13 @@ Rating: 4.80 (Ranked 80)
 | Thornbarrow | 33.00% | ~770 |
 | Ternmoat Headquarters | 33.00% | ~770 |
 | Elemental master | 32.00% | ~747 |
-| Cypress Glen Headquarters | 31.00% | ~724 |
+| Cypress Glen Headquarters | 32.00% | ~747 |
 | Old friend | 28.00% | ~654 |
 | Petricite Burst | 28.00% | ~654 |
 | Devineur | 27.00% | ~630 |
 | Whispers in the Woods I | 26.00% | ~607 |
 | Hijack | 26.00% | ~607 |
-| Ancient power | 23.00% | ~537 |
+| Ancient power | 24.00% | ~560 |
 | I chose my shackles | 22.00% | ~513 |
 | Sacred Woods | 21.00% | ~490 |
 | Capelworth | 21.00% | ~490 |

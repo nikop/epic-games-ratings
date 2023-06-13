@@ -1,17 +1,17 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 26.00% | ~153 |
-| Imprint | 26.00% | ~153 |
+| Taste | 26.00% | ~154 |
+| Imprint | 26.00% | ~154 |
 | The Hunt | 22.00% | ~130 |
 | Ravenous | 22.00% | ~130 |
 | Weeper | 20.00% | ~118 |
-| Devourer | 15.00% | ~88 |
+| Devourer | 15.00% | ~89 |
 | Harmless | 13.00% | ~77 |
 | Silenced Whispers | 13.00% | ~77 |
 | Yank | 13.00% | ~77 |
@@ -20,36 +20,36 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 12.00% | ~71 |
 | Jawcrab | 11.00% | ~65 |
 | Feast | 11.00% | ~65 |
-| Host | 10.00% | ~17 |
+| Host | 10.00% | ~18 |
+| Jawstag | 10.00% | ~59 |
 | Shapely | 9.00% | ~53 |
-| Jawstag | 9.00% | ~53 |
 | Celebration | 8.00% | ~47 |
 | Watcher | 8.00% | ~47 |
 | Inevitable | 7.00% | ~41 |
 | Predator | 7.00% | ~41 |
 | Dream | 7.00% | ~12 |
-| Assimilation | 6.00% | ~35 |
-| Hunt Down | 6.00% | ~35 |
-| Artisan | 6.00% | ~35 |
-| Hush | 6.00% | ~35 |
-| All-Seeing | 6.00% | ~35 |
+| Assimilation | 6.00% | ~36 |
+| Hunt Down | 6.00% | ~36 |
+| Artisan | 6.00% | ~36 |
+| Hush | 6.00% | ~36 |
+| All-Seeing | 6.00% | ~36 |
+| Kin | 6.00% | ~10 |
 | Kinship | 5.00% | ~30 |
 | Unwrap the Gift | 5.00% | ~30 |
 | Passage | 5.00% | ~30 |
-| Kin | 5.00% | ~9 |
 | Breathsmith | 4.00% | ~24 |
 | Proportions | 4.00% | ~24 |
 | Bloodhunter | 3.00% | ~18 |
 | Breath | 3.00% | ~18 |
 | Weakness | 3.00% | ~18 |
 | Listen | 3.00% | ~5 |
-| Zygote | 2.00% | ~3 |
+| Zygote | 2.00% | ~4 |
 | Generous | 2.00% | ~12 |
 | Skinmaker | 1.00% | ~6 |
 | Instruments | 0.80% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 590 (Ranked 198)  
+Progressed: 592 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 582 | 0 |
 | 2023-06-11 | 587 | 0 |
 | 2023-06-12 | 590 | 0 |
+| 2023-06-13 | 592 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

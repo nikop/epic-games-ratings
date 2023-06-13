@@ -6,10 +6,10 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~886 |
-| Completed Act I | 30.00% | ~324 |
+| Kickstarter Backer | 82.00% | ~887 |
+| Completed Act I | 30.00% | ~325 |
 | 5 Upgrades in Stronghold | 26.00% | ~281 |
-| First 5 Levels of Od Nua | 24.00% | ~259 |
+| First 5 Levels of Od Nua | 24.00% | ~260 |
 | Make an Adventurer | 23.00% | ~249 |
 | Completed Act II | 16.00% | ~173 |
 | Enchanter | 15.00% | ~162 |
@@ -26,8 +26,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Trappy | 9.00% | ~97 |
 | Herald of the Old Flame | 9.00% | ~97 |
 | Watcher at the Breach | 9.00% | ~97 |
-| Completed Act III | 8.00% | ~86 |
-| Fish Guts and Murder | 8.00% | ~86 |
+| Completed Act III | 8.00% | ~87 |
+| Fish Guts and Murder | 8.00% | ~87 |
 | Alchemist | 7.00% | ~76 |
 | The Siege of Crägholdt | 7.00% | ~76 |
 | A Voice from the Deep | 6.00% | ~65 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081 (Ranked 173)  
+Progressed: 1,082 (Ranked 173)  
 Completed: 4 (0.37%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,9 +67,10 @@ Completed: 4 (0.37%) (Ranked 121)
 | 2023-05-18 | 1,078 | 4 |
 | 2023-05-28 | 1,080 | 4 |
 | 2023-06-02 | 1,081 | 4 |
+| 2023-06-13 | 1,082 | 4 |
 ## Awards
-Max (Character Customization): 1,881  (Ranked 105)  
-Sum: 4,618 (Ranked 128)  
+Max (Character Customization): 1,881  (Ranked 106)  
+Sum: 4,618 (Ranked 129)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |

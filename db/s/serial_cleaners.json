@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -226,6 +226,11 @@
       "Time": "2023-06-12T20:06:49.2954563+00:00",
       "NumProgressed": 192,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-13T02:17:25.165977+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -301,7 +306,7 @@
       "Name": "Small-time Finder",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DIE_1_TIME",
@@ -379,9 +384,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -411,9 +416,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "VIPER_HACKING",
@@ -428,13 +433,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 5
     }
   ],
@@ -442,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:35.4710236+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:25.1659763+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:35.0981495+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:02.3325671+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:35.4710425+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:09:57.0293001+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:25.1660082+00:00"
 }

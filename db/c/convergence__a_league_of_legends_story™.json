@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
@@ -1229,6 +1229,11 @@
       "Time": "2023-06-12T20:06:11.2753552+00:00",
       "NumProgressed": 669,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T02:16:42.4778344+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1272,7 +1277,7 @@
       "Name": "Right On Time",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1288,7 +1293,7 @@
       "Name": "Like Clockwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ClovemaryGift",
@@ -1312,7 +1317,7 @@
       "Name": "Street Style",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CultivairChests1",
@@ -1366,9 +1371,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1422,9 +1427,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "LacunaCompleted",
@@ -1502,9 +1507,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1536,7 +1541,7 @@
       "Name": "Honest Mistake",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1600,7 +1605,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TheaterChests1",
@@ -1663,14 +1668,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:04.4018969+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:16:42.4778338+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:12.7075721+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:04.4019538+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:10:11.9927595+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:16:42.477922+00:00"
 }

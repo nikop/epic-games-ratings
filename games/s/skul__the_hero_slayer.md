@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,234 |
-| What should I buy? | 83.00% | ~6,456 |
-| Focus! | 62.00% | ~4,822 |
-| Rescued Elder Ent | 62.00% | ~4,822 |
-| The End of the Gold Mane Knights | 47.00% | ~3,656 |
-| False Goddess, Disappear | 39.00% | ~3,033 |
-| Rules of Etiquette | 39.00% | ~3,033 |
+| The Legend Begins | 93.00% | ~7,235 |
+| What should I buy? | 83.00% | ~6,457 |
+| Focus! | 62.00% | ~4,824 |
+| Rescued Elder Ent | 62.00% | ~4,824 |
+| The End of the Gold Mane Knights | 47.00% | ~3,657 |
+| False Goddess, Disappear | 39.00% | ~3,034 |
+| Rules of Etiquette | 39.00% | ~3,034 |
 | Quick Movements | 33.00% | ~2,567 |
 | Inventory Management | 33.00% | ~2,567 |
 | The Fall of the Leonia Order | 29.00% | ~2,256 |
-| The Hero Killer | 27.00% | ~2,100 |
-| Go Home... | 26.00% | ~2,022 |
-| The Final Battle of the First Hero | 25.00% | ~1,944 |
-| Brain at Full Throttle | 22.00% | ~1,711 |
+| The Hero Killer | 27.00% | ~2,101 |
+| Go Home... | 26.00% | ~2,023 |
+| The Final Battle of the First Hero | 25.00% | ~1,945 |
+| Brain at Full Throttle | 22.00% | ~1,712 |
 | Rookies Welcome | 20.00% | ~1,556 |
 | Deadly Power | 15.00% | ~1,167 |
 | Castle Restoration Plans | 14.00% | ~1,089 |
-| The Dwarven Chandelier | 12.00% | ~933 |
+| The Dwarven Chandelier | 12.00% | ~934 |
 | Master of Speed | 9.00% | ~700 |
 | The Levitator | 6.00% | ~467 |
 | The God of Battle | 3.00% | ~233 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~78 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,778 (Ranked 116)  
+Progressed: 7,780 (Ranked 116)  
 Completed: 12 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 12 (0.15%) (Ranked 157)
 | 2023-06-10 | 7,740 | 11 |
 | 2023-06-11 | 7,765 | 12 |
 | 2023-06-12 | 7,778 | 12 |
+| 2023-06-13 | 7,780 | 12 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 313)  
 Sum: 761 (Ranked 255)  

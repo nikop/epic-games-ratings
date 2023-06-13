@@ -1,15 +1,15 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 32.00% | ~328 |
+| E1M1 | 32.00% | ~329 |
 | War Never Changes | 31.00% | ~318 |
 | Grenadier | 30.00% | ~308 |
-| Heroes Never Die | 28.00% | ~287 |
+| Heroes Never Die | 28.00% | ~288 |
 | Mosquito bite | 27.00% | ~277 |
 | Spice It Up | 24.00% | ~246 |
 | Agent 47 | 20.00% | ~205 |
@@ -26,8 +26,8 @@ Number of Ratings: 98  (23.09.2022)
 | No Witness | 4.00% | ~41 |
 | Strategist | 2.00% | ~21 |
 | Unbreakable Wall | 1.00% | ~10 |
+| Do a Barrel Roll! | 0.90% | ~9 |
 | Experienced Strategist | 0.90% | ~9 |
-| Do a Barrel Roll! | 0.80% | ~8 |
 | How?! | 0.50% | ~5 |
 | Tough as Nails | 0.30% | ~3 |
 | We Weren't There | 0.20% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,026 (Ranked 176)  
+Progressed: 1,027 (Ranked 176)  
 Completed: 1 (0.10%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 1 (0.10%) (Ranked 166)
 | 2023-06-10 | 1,014 | 1 |
 | 2023-06-11 | 1,020 | 1 |
 | 2023-06-12 | 1,026 | 1 |
+| 2023-06-13 | 1,027 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

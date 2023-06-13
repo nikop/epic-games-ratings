@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,594 |
-| Before the Downfall | 93.00% | ~17,645 |
-| Money like Water | 91.00% | ~17,265 |
-| Minimalist | 90.00% | ~17,076 |
-| Builder | 82.00% | ~15,558 |
-| Eraser | 70.00% | ~13,281 |
-| Pocket of Trains | 65.00% | ~12,332 |
-| Inspector | 59.00% | ~11,194 |
-| Going the Distance | 54.00% | ~10,245 |
+| Trevithick's Legacy | 98.00% | ~18,595 |
+| Before the Downfall | 93.00% | ~17,646 |
+| Money like Water | 91.00% | ~17,266 |
+| Minimalist | 90.00% | ~17,077 |
+| Builder | 82.00% | ~15,559 |
+| Eraser | 70.00% | ~13,282 |
+| Pocket of Trains | 65.00% | ~12,333 |
+| Inspector | 59.00% | ~11,195 |
+| Going the Distance | 54.00% | ~10,246 |
 | Oil Baron | 42.00% | ~7,969 |
 | Loads-a-Money | 42.00% | ~7,969 |
-| Helper of the People | 39.00% | ~7,399 |
+| Helper of the People | 39.00% | ~7,400 |
 | Simplification | 34.00% | ~6,451 |
 | Box of Trains | 33.00% | ~6,261 |
-| Let There be Light | 32.00% | ~6,071 |
+| Let There be Light | 32.00% | ~6,072 |
 | Hot Water | 31.00% | ~5,882 |
 | Indecisive | 29.00% | ~5,502 |
 | The scenic route | 27.00% | ~5,123 |
-| Industrialist | 25.00% | ~4,743 |
+| Industrialist | 25.00% | ~4,744 |
 | Perfectionist | 23.00% | ~4,364 |
 | Trains over Pipes | 23.00% | ~4,364 |
 | 8K is Enough for Everyone | 22.00% | ~4,174 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,973 (Ranked 99)  
+Progressed: 18,974 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 30 (0.16%) (Ranked 152)
 | 2023-06-10 | 18,937 | 30 |
 | 2023-06-11 | 18,958 | 30 |
 | 2023-06-12 | 18,973 | 30 |
+| 2023-06-13 | 18,974 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 345)  
 Sum: 651 (Ranked 276)  

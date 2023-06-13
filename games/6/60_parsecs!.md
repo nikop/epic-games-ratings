@@ -16,7 +16,7 @@
 | All Seats Taken | 36.00% | ~227 |
 | For Science! | 32.00% | ~202 |
 | Meet the Petersons | 31.00% | ~195 |
-| Stay Cool | 27.00% | ~170 |
+| Stay Cool | 28.00% | ~176 |
 | KIA | 26.00% | ~164 |
 | Mutiny in making | 23.00% | ~145 |
 | Et tu, Astrocitizen? | 19.00% | ~120 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630 (Ranked 195)  
+Progressed: 630 (Ranked 196)  
 Completed: 1 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |

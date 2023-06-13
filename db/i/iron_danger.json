@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "ACH_ENEMY_KILLER",
       "SetID": "ao59f0i",
       "Name": "Champion of Kalevala",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FORAGER",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:39.6134036+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:30.5891921+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.445644+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:45.0601652+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:39.6134185+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:10:57.5747868+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:30.5892119+00:00"
 }

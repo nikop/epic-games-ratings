@@ -2127,9 +2127,9 @@
       "ID": "Achievement_036",
       "SetID": "6b34g18",
       "Name": "A Cry in the Dark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_037",
@@ -2159,9 +2159,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_041",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:00:20.1566142+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:11:48.0410652+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:49.3929405+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:00:20.1566978+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:08:17.4887869+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:11:48.0412126+00:00"
 }

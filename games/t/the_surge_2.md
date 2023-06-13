@@ -5,43 +5,43 @@ Rating: 4.25 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,411 |
-| Don't I Know You...? | 77.00% | ~1,358 |
-| Jailbreak | 65.00% | ~1,147 |
-| Suited and Booted | 38.00% | ~670 |
-| HEADSHOT! | 37.00% | ~653 |
-| Sleeping With The Fishes | 35.00% | ~617 |
-| High Performance | 30.00% | ~529 |
+| Rigged And Ready | 80.00% | ~1,414 |
+| Don't I Know You...? | 77.00% | ~1,361 |
+| Jailbreak | 65.00% | ~1,149 |
+| Suited and Booted | 38.00% | ~671 |
+| HEADSHOT! | 37.00% | ~654 |
+| Sleeping With The Fishes | 35.00% | ~618 |
+| High Performance | 30.00% | ~530 |
 | Overheated | 29.00% | ~512 |
-| Powered Up | 28.00% | ~494 |
-| Studied The Blade | 24.00% | ~423 |
-| Home Invasion | 22.00% | ~388 |
-| Luminary | 22.00% | ~388 |
-| It's a Trap | 22.00% | ~388 |
-| True Survivor | 21.00% | ~370 |
-| Shocking | 20.00% | ~353 |
-| Court Martial | 19.00% | ~335 |
-| Offensive Defense | 19.00% | ~335 |
-| Unforeseeable Consequences | 19.00% | ~335 |
+| Powered Up | 28.00% | ~495 |
+| Studied The Blade | 24.00% | ~424 |
+| Home Invasion | 22.00% | ~389 |
+| Luminary | 22.00% | ~389 |
+| It's a Trap | 22.00% | ~389 |
+| True Survivor | 21.00% | ~371 |
+| Court Martial | 19.00% | ~336 |
+| Offensive Defense | 19.00% | ~336 |
+| Shocking | 19.00% | ~336 |
+| Unforeseeable Consequences | 19.00% | ~336 |
 | Dead Again | 18.00% | ~318 |
 | Clean Cut | 18.00% | ~318 |
 | Full Arsenal | 17.00% | ~300 |
 | Can't Trust Banks | 15.00% | ~265 |
-| Mommy Dearest | 13.00% | ~229 |
-| Bad Dog | 13.00% | ~229 |
-| Where It All Began | 13.00% | ~229 |
-| Risk Tolerant | 13.00% | ~229 |
-| What A Catchy Song | 13.00% | ~229 |
+| Mommy Dearest | 13.00% | ~230 |
+| Bad Dog | 13.00% | ~230 |
+| Where It All Began | 13.00% | ~230 |
+| Risk Tolerant | 13.00% | ~230 |
+| What A Catchy Song | 13.00% | ~230 |
 | Marked For Success | 12.00% | ~212 |
 | Sorry, Didn't See You There | 12.00% | ~212 |
 | Corrupted Beauty | 11.00% | ~194 |
-| Stimulating The Local Economy | 10.00% | ~176 |
-| Triplets | 10.00% | ~176 |
-| Defense in Depth | 9.00% | ~159 |
+| Stimulating The Local Economy | 10.00% | ~177 |
+| Triplets | 10.00% | ~177 |
 | A Little Banged Up | 8.00% | ~141 |
 | Denying Prophecy | 8.00% | ~141 |
 | Following In Their Footsteps | 8.00% | ~141 |
-| Reverse Engineering | 7.00% | ~123 |
+| Defense in Depth | 8.00% | ~141 |
+| Reverse Engineering | 7.00% | ~124 |
 | Turbo Booster | 6.00% | ~106 |
 | Squid Pro Quo | 6.00% | ~106 |
 | Reborn | 5.00% | ~88 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,764 (Ranked 155)  
+Progressed: 1,767 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-10 | 1,748 | 10 |
 | 2023-06-11 | 1,756 | 10 |
 | 2023-06-12 | 1,764 | 10 |
+| 2023-06-13 | 1,767 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

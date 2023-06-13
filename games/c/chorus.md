@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 85.00% | ~819 |
+| Space Traveler | 79.00% | ~762 |
 | Voices from the Past | 78.00% | ~752 |
-| Space Traveler | 78.00% | ~752 |
 | Demigod | 76.00% | ~733 |
 | The Great Destroyer | 74.00% | ~713 |
 | Shields Down | 73.00% | ~704 |
@@ -24,7 +24,7 @@ Number of Ratings: 58  (23.09.2022)
 | Relentless | 48.00% | ~463 |
 | The Path Forward | 45.00% | ~434 |
 | Disruption | 44.00% | ~424 |
-| Phoenix | 43.00% | ~415 |
+| Phoenix | 44.00% | ~424 |
 | Cult Slayer | 41.00% | ~395 |
 | Origin | 40.00% | ~386 |
 | It Was An Accident | 39.00% | ~376 |

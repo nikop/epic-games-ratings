@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 1111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1690,9 +1690,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 811
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1778,9 +1778,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 278
     },
     {
       "ID": "DEAD_DICK",
@@ -1906,9 +1906,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 755
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1930,9 +1930,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 267
     },
     {
       "ID": "LUMBERJACK",
@@ -2091,8 +2091,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-12T21:58:22.0358678+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:02:06.3652754+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:13:32.3080704+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:58:15.3087169+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:02:06.3653294+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:08:51.3530251+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:13:32.3081596+00:00"
 }

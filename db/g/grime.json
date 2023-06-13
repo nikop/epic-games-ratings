@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-06-12T22:00:18.7644003+00:00",
       "NumProgressed": 590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T02:11:47.453727+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -565,7 +570,7 @@
       "Name": "Assimilation",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -581,7 +586,7 @@
       "Name": "Zygote",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -605,7 +610,7 @@
       "Name": "Taste",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -621,7 +626,7 @@
       "Name": "Hunt Down",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -629,7 +634,7 @@
       "Name": "Artisan",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -661,7 +666,7 @@
       "Name": "Host",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -669,7 +674,7 @@
       "Name": "Hush",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -691,9 +696,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -741,7 +746,7 @@
       "Name": "Devourer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -749,7 +754,7 @@
       "Name": "All-Seeing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -757,7 +762,7 @@
       "Name": "Imprint",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -851,9 +856,9 @@
       "ID": "QUEST_KIN",
       "SetID": "72k7oh",
       "Name": "Kin",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "QUEST_LISTENER",
@@ -876,21 +881,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:00:19.7070894+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:11:47.4537248+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-12T23:00:04.4783238+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:00:19.7071279+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:11:25.845164+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:11:47.4537841+00:00"
 }

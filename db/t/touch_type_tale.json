@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2979,
+  "EOS_Progressed": 2981,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-06-12T16:05:53.5354269+00:00",
       "NumProgressed": 2979,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-13T02:17:36.4747953+00:00",
+      "NumProgressed": 2981,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2138,7 +2143,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2683
     },
     {
       "ID": "campaign10",
@@ -2226,7 +2231,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2355
     },
     {
       "ID": "campaign20",
@@ -2242,7 +2247,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1938
     },
     {
       "ID": "campaign4",
@@ -2250,7 +2255,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "campaign5",
@@ -2258,7 +2263,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "campaign6",
@@ -2274,7 +2279,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "campaign8",
@@ -2282,7 +2287,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "campaign9",
@@ -2298,7 +2303,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "scenario2",
@@ -2353,7 +2358,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2979,
+      "Progressed": 2981,
       "Completed": 9
     }
   ],
@@ -2361,8 +2366,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:44.1381847+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:36.4747945+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:59:53.4467531+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:44.1382205+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:11:10.6608194+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:36.4748584+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2609,
+  "EOS_Progressed": 2611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2644,6 +2644,11 @@
       "Time": "2023-06-12T22:05:42.9184811+00:00",
       "NumProgressed": 2609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T02:17:27.0515274+00:00",
+      "NumProgressed": 2611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2719,7 +2724,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_BASE_19",
@@ -2767,7 +2772,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_BASE_25",
@@ -2789,9 +2794,9 @@
       "ID": "ACH_BASE_27",
       "SetID": "92iocjf",
       "Name": "A Hunk of Junk",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_BASE_28",
@@ -2823,7 +2828,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_BASE_31",
@@ -3110,13 +3115,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 790,
+      "Progressed": 792,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2609,
+      "Progressed": 2611,
       "Completed": 0
     }
   ],
@@ -3124,8 +3129,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-12T15:58:18.411081+00:00",
-  "LastChanged_Achievements": "2023-06-12T23:05:37.0599856+00:00",
+  "LastChanged_Achievements": "2023-06-13T02:17:27.0515267+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:58:24.0536246+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:05:37.0600559+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:09:04.1879268+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:17:27.0516511+00:00"
 }

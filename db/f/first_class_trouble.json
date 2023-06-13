@@ -2,12 +2,12 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -928,10 +928,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 534,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-06-13T02:07:50.8783526+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 609,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 534,
+  "NumberOfAwards": 609,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -963,7 +969,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 72
+      "Count": 75
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1008,8 +1014,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-06-12T02:18:08.2201609+00:00",
+  "LastChanged": "2023-06-13T02:07:50.8783522+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:35.390847+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:57:31.5509998+00:00",
-  "LastUpdate_Achievements": "2023-06-12T23:00:46.4928808+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:07:50.8783531+00:00",
+  "LastUpdate_Achievements": "2023-06-13T02:13:05.2722067+00:00"
 }

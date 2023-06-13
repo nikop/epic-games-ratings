@@ -6,20 +6,20 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,323 |
-| Keeping it classy | 24.00% | ~577 |
-| Welcome to the family | 18.00% | ~433 |
-| The finer things in life | 16.00% | ~385 |
-| Backpacker | 11.00% | ~265 |
+| You're free now! | 55.00% | ~1,326 |
+| Keeping it classy | 24.00% | ~578 |
+| Welcome to the family | 18.00% | ~434 |
+| The finer things in life | 16.00% | ~386 |
+| Backpacker | 12.00% | ~289 |
 | Go with the Flow | 11.00% | ~265 |
 | Plastic Surgeon | 9.00% | ~217 |
-| Keep the dream alive | 8.00% | ~192 |
-| The flip trick crown jewel | 8.00% | ~192 |
-| The hard way | 8.00% | ~192 |
-| Good vibes | 7.00% | ~168 |
-| Upfront shredder | 7.00% | ~168 |
-| Finally he zips it | 6.00% | ~144 |
-| That pinch! | 6.00% | ~144 |
+| Keep the dream alive | 8.00% | ~193 |
+| The flip trick crown jewel | 8.00% | ~193 |
+| The hard way | 8.00% | ~193 |
+| Good vibes | 7.00% | ~169 |
+| Upfront shredder | 7.00% | ~169 |
+| Finally he zips it | 6.00% | ~145 |
+| That pinch! | 6.00% | ~145 |
 | Bottom ply killer | 5.00% | ~120 |
 | Fashionista | 5.00% | ~120 |
 | Fulfilled the dream | 5.00% | ~120 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,406 (Ranked 149)  
+Progressed: 2,410 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 2,362 | 0 |
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
+| 2023-06-13 | 2,410 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  

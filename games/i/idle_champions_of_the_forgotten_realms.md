@@ -10,15 +10,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 1.00% | ~906 |
 | The Cursed Farmer | 1.00% | ~906 |
 | The Mad Wizard | 1.00% | ~906 |
+| The Ring of Regeneration | 0.90% | ~815 |
 | The Court of Storms | 0.90% | ~512 |
-| The Ring of Regeneration | 0.80% | ~725 |
 | Beware the Jabberwock | 0.80% | ~455 |
 | Were-verpowered | 0.70% | ~634 |
 | Seeking Allies | 0.70% | ~634 |
 | Are Ya Chicken? | 0.70% | ~634 |
-| A Persistent Buzzing | 0.60% | ~543 |
-| Mad Cow Disease | 0.60% | ~543 |
-| Friendly Imps | 0.60% | ~543 |
+| A Persistent Buzzing | 0.60% | ~544 |
+| Mad Cow Disease | 0.60% | ~544 |
+| Friendly Imps | 0.60% | ~544 |
 | Coasting to the Finish | 0.60% | ~341 |
 | Checkmate | 0.50% | ~284 |
 | Vecna Out! | 0.50% | ~284 |
@@ -178,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~181 |
 | The Hunt for Owl-y | 0.20% | ~181 |
 | Werewolves in the Mist | 0.20% | ~181 |
+| We're not in Faerûn Anymore | 0.20% | ~181 |
 | Family Entanglements | 0.20% | ~181 |
 | Poor Fortune | 0.20% | ~181 |
 | Relentless Misfortune | 0.20% | ~181 |
@@ -361,7 +362,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
-| We're not in Faerûn Anymore | 0.10% | ~91 |
 | Haunted Fortunes | 0.10% | ~91 |
 | This Quest Stinks! | 0.10% | ~57 |
 | Hold for the Red Wizards | 0.10% | ~91 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,575 (Ranked 64)  
+Progressed: 90,589 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,13 +554,14 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
+| 2023-06-13 | 90,589 | 1,930 |
 ## Awards
-Max (Diverse Characters): 4,934  (Ranked 64)  
-Sum: 30,084 (Ranked 37)  
+Max (Diverse Characters): 4,937  (Ranked 64)  
+Sum: 30,087 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,934 |
+| This game has Diverse Characters | 4,937 |
 | This game is Great for Beginners | 4,864 |
 | This game has Quickly Understood Controls | 4,614 |
 | This game is Relaxing | 4,512 |
@@ -708,3 +709,4 @@ Diff (max vs sum): 27
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
+| 2023-06-13 | 4.06 | - | 4,937 | 30,087 |

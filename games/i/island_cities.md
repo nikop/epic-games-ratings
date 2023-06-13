@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Welcome! | 98.00% | ~321 |
 | A tiny town | 85.00% | ~279 |
-| Buildings, roads, cars, ...and people | 65.00% | ~213 |
+| Buildings, roads, cars, ...and people | 66.00% | ~216 |
 | Great view from the beach and from the hill | 55.00% | ~180 |
 | Bridges to come and go | 48.00% | ~157 |
 | Found an oasis | 41.00% | ~134 |
 | Burger or pizza? | 37.00% | ~121 |
 | Passion for sports | 31.00% | ~102 |
 | Who loves trains? | 27.00% | ~89 |
-| Easy and steady climb | 26.00% | ~85 |
+| Easy and steady climb | 27.00% | ~89 |
 | At the heart of the city | 23.00% | ~75 |
 | Calm neighborhood | 22.00% | ~72 |
 | Elevated ring | 22.00% | ~72 |

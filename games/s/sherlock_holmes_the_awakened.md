@@ -13,9 +13,9 @@
 | History Check | 48.00% | ~209 |
 | The New World | 46.00% | ~200 |
 | Lock, Stock, And Barrel | 45.00% | ~196 |
+| Gaze Into The Abyss | 44.00% | ~191 |
 | Open Sesame | 44.00% | ~191 |
 | Sticky Fingers | 44.00% | ~191 |
-| Gaze Into The Abyss | 43.00% | ~187 |
 | Knives Out | 43.00% | ~187 |
 | Back In The Saddle | 42.00% | ~183 |
 | Land, Ho! | 42.00% | ~183 |
@@ -27,7 +27,7 @@
 | Fhtagn! | 36.00% | ~157 |
 | Let Me Be Frank | 34.00% | ~148 |
 | Brain Food | 32.00% | ~139 |
-| No Stone Unturned | 30.00% | ~130 |
+| No Stone Unturned | 31.00% | ~135 |
 | Curiosity Killed The Cat | 21.00% | ~91 |
 | Read It And Weep | 18.00% | ~78 |
 | Big Breakthrough | 15.00% | ~65 |
