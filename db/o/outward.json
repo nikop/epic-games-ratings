@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2892,
+  "EOS_Progressed": 2893,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-06-13T02:14:11.2723125+00:00",
       "NumProgressed": 2892,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T03:03:40.1123754+00:00",
+      "NumProgressed": 2893,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2571,7 +2576,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Eureka_23",
@@ -2627,7 +2632,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -2643,7 +2648,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "LightofLevant_18",
@@ -2707,7 +2712,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2739,7 +2744,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2763,7 +2768,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -2835,7 +2840,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2850,15 +2855,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2892,
+      "Progressed": 2893,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:14:11.2723117+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:03:40.1123749+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:08:14.1732245+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:14:11.2723778+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:57:52.706885+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:03:40.1124119+00:00"
 }

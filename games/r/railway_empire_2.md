@@ -28,8 +28,8 @@ Rating: 4.22 (Ranked 814)
 | Full Steam ahead | 29.00% | ~335 |
 | Bull and bear | 29.00% | ~335 |
 | Mole | 26.00% | ~300 |
+| All mine | 25.00% | ~289 |
 | Financial Shark | 25.00% | ~289 |
-| All mine | 24.00% | ~277 |
 | Socializer | 24.00% | ~277 |
 | Seven at one stroke | 22.00% | ~254 |
 | General Manager | 22.00% | ~254 |

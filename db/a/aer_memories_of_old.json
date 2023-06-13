@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12257,
+  "EOS_Progressed": 12258,
   "EOS_Completed": 256,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5774,6 +5774,11 @@
       "Time": "2023-06-13T02:17:24.6834899+00:00",
       "NumProgressed": 12257,
       "NumCompleted": 256
+    },
+    {
+      "Time": "2023-06-13T03:06:24.5277671+00:00",
+      "NumProgressed": 12258,
+      "NumCompleted": 256
     }
   ],
   "TotalAchievements": 20,
@@ -5897,7 +5902,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "INTRO_FINISHED",
@@ -5905,7 +5910,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -5944,15 +5949,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12257,
+      "Progressed": 12258,
       "Completed": 256
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:17:24.683489+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:06:24.5277667+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:11:07.0186795+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:17:24.6835691+00:00"
+  "LastUpdate_Ratings": "2023-06-13T03:00:15.7911938+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:06:24.5278045+00:00"
 }

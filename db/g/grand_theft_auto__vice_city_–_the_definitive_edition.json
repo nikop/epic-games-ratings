@@ -424,9 +424,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 8335,
+  "EOS_Progressed": 8337,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4419,6 +4419,11 @@
       "Time": "2023-06-13T02:11:42.6253213+00:00",
       "NumProgressed": 8335,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-13T03:00:46.3548164+00:00",
+      "NumProgressed": 8337,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 34,
@@ -4534,7 +4539,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "ACH15",
@@ -4588,9 +4593,9 @@
       "ID": "ACH21",
       "SetID": "9llo822",
       "Name": "Legal Counsel",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3668
     },
     {
       "ID": "ACH22",
@@ -4598,7 +4603,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH23",
@@ -4606,7 +4611,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH24",
@@ -4662,7 +4667,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH31",
@@ -4701,7 +4706,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8335,
+      "Progressed": 8337,
       "Completed": 30
     }
   ],
@@ -4709,8 +4714,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:11:42.6253195+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:00:46.3548159+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:08:48.2422129+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:11:42.6255175+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:58:20.7556007+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:00:46.3548581+00:00"
 }

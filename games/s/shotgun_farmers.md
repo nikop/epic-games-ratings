@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 56.00% | ~63 |
-| Aspairagus | 53.00% | ~33 |
+| Seeds of War | 55.00% | ~63 |
+| Aspairagus | 53.00% | ~34 |
 | Survivor | 46.00% | ~29 |
-| First Blood | 41.00% | ~46 |
+| First Blood | 40.00% | ~46 |
 | Triple Kill | 37.00% | ~42 |
 | Early Survivor | 36.00% | ~23 |
 | No Diggity | 35.00% | ~22 |
-| No Asperascope | 34.00% | ~38 |
-| Cornivore | 33.00% | ~37 |
+| No Asperascope | 33.00% | ~38 |
+| Cornivore | 32.00% | ~36 |
 | I Believe I Can Fly | 31.00% | ~35 |
-| Amateur Survivor | 27.00% | ~17 |
-| Bouncemato | 23.00% | ~14 |
+| Amateur Survivor | 26.00% | ~17 |
+| Bouncemato | 23.00% | ~15 |
 | This Is My Boomstick | 20.00% | ~13 |
 | Quick-Draw Pod | 19.00% | ~12 |
-| Professional Survivor | 19.00% | ~12 |
-| 10K | 18.00% | ~20 |
-| Grave Digger | 18.00% | ~11 |
+| 10K | 18.00% | ~21 |
+| Professional Survivor | 18.00% | ~12 |
+| Grave Digger | 18.00% | ~12 |
 | 15K | 17.00% | ~19 |
 | Drinking Problem | 14.00% | ~16 |
-| Summers Here | 12.00% | ~8 |
 | Oh My Gourd | 11.00% | ~7 |
+| Summers Here | 11.00% | ~7 |
 | Pyromaniac | 10.00% | ~6 |
 | Eggtraordinary | 9.00% | ~10 |
 | Skin Of Your Teeth | 8.00% | ~9 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 273)  
+Progressed: 114 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 104 | 0 |
 | 2023-06-11 | 107 | 0 |
 | 2023-06-12 | 112 | 0 |
-| 2023-06-13 | 113 | 0 |
+| 2023-06-13 | 114 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

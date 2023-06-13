@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4302,
+  "EOS_Progressed": 4304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3223,6 +3223,11 @@
       "Time": "2023-06-13T02:14:16.3131265+00:00",
       "NumProgressed": 4302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T03:03:44.3214117+00:00",
+      "NumProgressed": 4304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3234,7 +3239,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3228
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3242,7 +3247,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2109
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3250,7 +3255,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2798
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3258,7 +3263,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -3274,7 +3279,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3282,7 +3287,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3290,7 +3295,7 @@
       "Name": "Scaling up",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3346,7 +3351,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3394,7 +3399,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3513,13 +3518,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4302,
+      "Progressed": 4304,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3674,
+      "Progressed": 3676,
       "Completed": 112
     }
   ],
@@ -3527,8 +3532,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:14:16.3131256+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:03:44.3214113+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:10:41.1957215+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:14:16.313201+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:59:53.9489799+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:03:44.3214436+00:00"
 }

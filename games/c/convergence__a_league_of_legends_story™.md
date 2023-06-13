@@ -29,11 +29,11 @@
 | Right On Time | 5.00% | ~34 |
 | Like Clockwork | 5.00% | ~34 |
 | Street Style | 5.00% | ~34 |
+| Whiz Kid | 5.00% | ~34 |
 | Honest Mistake | 5.00% | ~34 |
 | Check Your Pulse | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
-| Whiz Kid | 4.00% | ~27 |
 | Sump Explorer | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
 | Good Neighbor | 4.00% | ~27 |

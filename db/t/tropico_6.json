@@ -918,9 +918,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3599,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4303,6 +4303,11 @@
       "Time": "2023-06-13T02:12:18.7033539+00:00",
       "NumProgressed": 3599,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T03:02:16.8851024+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4368,17 +4373,17 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 612
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4474,7 +4479,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2737
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4633,15 +4638,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3599,
+      "Progressed": 3601,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:12:18.7033533+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:02:16.8851012+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:11:08.2410519+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:12:18.7034399+00:00"
+  "LastUpdate_Ratings": "2023-06-13T03:00:16.7822401+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:02:16.8851416+00:00"
 }

@@ -1990,9 +1990,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 31958,
+  "EOS_Progressed": 31959,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7515,6 +7515,11 @@
       "Time": "2023-06-13T02:17:44.1226798+00:00",
       "NumProgressed": 31958,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-13T03:06:41.4059137+00:00",
+      "NumProgressed": 31959,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 75,
@@ -7558,7 +7563,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18216
+      "UsersEstimate": 18217
     },
     {
       "ID": "achievements_14",
@@ -7574,7 +7579,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 15020
+      "UsersEstimate": 15021
     },
     {
       "ID": "achievements_17",
@@ -7582,7 +7587,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11185
+      "UsersEstimate": 11186
     },
     {
       "ID": "achievements_19",
@@ -7590,7 +7595,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 8948
+      "UsersEstimate": 8949
     },
     {
       "ID": "achievements_2",
@@ -7606,7 +7611,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7350
+      "UsersEstimate": 7351
     },
     {
       "ID": "achievements_21",
@@ -7654,7 +7659,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13422
+      "UsersEstimate": 13423
     },
     {
       "ID": "achievements_27",
@@ -7734,7 +7739,7 @@
       "Name": "Means of Recovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievements_36",
@@ -7774,7 +7779,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 21092
+      "UsersEstimate": 21093
     },
     {
       "ID": "achievements_40",
@@ -7806,7 +7811,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7350
+      "UsersEstimate": 7351
     },
     {
       "ID": "achievements_44",
@@ -7830,7 +7835,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 27164
+      "UsersEstimate": 27165
     },
     {
       "ID": "achievements_47",
@@ -7846,7 +7851,7 @@
       "Name": "Master of Magic",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievements_49",
@@ -7886,7 +7891,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13422
+      "UsersEstimate": 13423
     },
     {
       "ID": "achievements_53",
@@ -7894,7 +7899,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18216
+      "UsersEstimate": 18217
     },
     {
       "ID": "achievements_54",
@@ -8102,7 +8107,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 23329
+      "UsersEstimate": 23330
     },
     {
       "ID": "achievements_8",
@@ -8110,7 +8115,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9587
+      "UsersEstimate": 9588
     },
     {
       "ID": "achievements_9",
@@ -8125,15 +8130,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 31958,
+      "Progressed": 31959,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-09T11:59:51.2581598+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:17:44.1226791+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:06:41.4059132+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:08.7743101+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:09:28.6998364+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:17:44.1228942+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:58:54.4505338+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:06:41.4060084+00:00"
 }

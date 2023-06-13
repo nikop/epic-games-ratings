@@ -5,9 +5,9 @@
   "Ranking_Rating": 752,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-06-12T22:05:43.5266576+00:00",
       "NumProgressed": 993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T03:06:26.866129+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -892,7 +897,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 667
     },
     {
       "ID": "06",
@@ -900,7 +905,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "07",
@@ -908,7 +913,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "08",
@@ -916,7 +921,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "09",
@@ -924,7 +929,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "10",
@@ -988,7 +993,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "18",
@@ -996,7 +1001,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "19",
@@ -1004,7 +1009,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "20",
@@ -1043,7 +1048,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 995,
       "Completed": 0
     }
   ],
@@ -1051,8 +1056,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-13T02:17:27.5708654+00:00",
+  "LastChanged_Achievements": "2023-06-13T03:06:26.8661286+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:10:34.1298165+00:00",
-  "LastUpdate_Achievements": "2023-06-13T02:17:27.5708985+00:00"
+  "LastUpdate_Ratings": "2023-06-13T02:59:48.1055325+00:00",
+  "LastUpdate_Achievements": "2023-06-13T03:06:26.8661482+00:00"
 }

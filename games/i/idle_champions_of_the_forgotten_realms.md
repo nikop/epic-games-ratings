@@ -251,6 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Smooth Talkers | 0.20% | ~114 |
 | An Illithid Undertaking | 0.20% | ~114 |
 | An Illithid Ambush | 0.20% | ~114 |
+| Misty Undermountain | 0.20% | ~114 |
 | An Owlbear of an Undertaking | 0.20% | ~114 |
 | Déjà Vu | 0.20% | ~114 |
 | Wait, What? | 0.20% | ~114 |
@@ -290,6 +291,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~181 |
 | Dwarven Rumors | 0.20% | ~114 |
 | Frozen in Fear | 0.20% | ~114 |
+| It's Cold Out There Today | 0.20% | ~114 |
 | Sunblight | 0.20% | ~114 |
 | Fortress Assault | 0.20% | ~114 |
 | Hats off to you! | 0.20% | ~114 |
@@ -437,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Displaced Anger | 0.10% | ~91 |
 | Ettercap Swarm | 0.10% | ~57 |
 | Relay Race | 0.10% | ~91 |
-| Misty Undermountain | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.10% | ~57 |
 | Rickety Rubble | 0.10% | ~57 |
 | Mimic Perception | 0.10% | ~57 |
-| It's Cold Out There Today | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,589 (Ranked 64)  
+Progressed: 90,590 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,589 | 1,930 |
+| 2023-06-13 | 90,590 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,087 (Ranked 37)  
