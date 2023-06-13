@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -50,7 +50,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
@@ -1825,6 +1825,11 @@
       "Time": "2023-06-13T12:07:06.3485731+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T13:12:12.8187423+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1836,7 +1841,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "A01",
@@ -1844,7 +1849,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "A02",
@@ -1868,7 +1873,7 @@
       "Name": "Go West",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "A05",
@@ -1916,7 +1921,7 @@
       "Name": "From X to Y",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "A11",
@@ -1932,7 +1937,7 @@
       "Name": "Departure",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "A13",
@@ -1940,7 +1945,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "A14",
@@ -1948,7 +1953,7 @@
       "Name": "A new Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 826
     },
     {
       "ID": "A15",
@@ -1972,7 +1977,7 @@
       "Name": "Facility Manager",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "A18",
@@ -1980,7 +1985,7 @@
       "Name": "General Manager",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "A19",
@@ -1996,7 +2001,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A21",
@@ -2004,7 +2009,7 @@
       "Name": "Country Life",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "A22",
@@ -2012,7 +2017,7 @@
       "Name": "Brainstorm",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "A23",
@@ -2028,7 +2033,7 @@
       "Name": "Access granted",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "A25",
@@ -2058,9 +2063,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 744
     },
     {
       "ID": "A29",
@@ -2068,7 +2073,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "A30",
@@ -2076,7 +2081,7 @@
       "Name": "All mine",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "A31",
@@ -2084,7 +2089,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "A32",
@@ -2108,7 +2113,7 @@
       "Name": "Producer",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "A35",
@@ -2124,7 +2129,7 @@
       "Name": "Way of Iron",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 791
     },
     {
       "ID": "A37",
@@ -2132,7 +2137,7 @@
       "Name": "All around the World",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "A38",
@@ -2140,7 +2145,7 @@
       "Name": "Poor Devil",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "A39",
@@ -2154,9 +2159,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 721
     },
     {
       "ID": "A41",
@@ -2164,7 +2169,7 @@
       "Name": "Right through the middle",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "A42",
@@ -2172,7 +2177,7 @@
       "Name": "Bridge Builder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "A43",
@@ -2188,7 +2193,7 @@
       "Name": "Breaking Ground",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "A45",
@@ -2204,7 +2209,7 @@
       "Name": "Mystery Tour",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 768
     },
     {
       "ID": "A47",
@@ -2212,7 +2217,7 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "A48",
@@ -2228,7 +2233,7 @@
       "Name": "Financial Shark",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "A50",
@@ -2275,7 +2280,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1163,
       "Completed": 0
     }
   ],
@@ -2283,8 +2288,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:07:06.3485721+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:12:12.8187419+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:58:18.0530315+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:07:06.3486742+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:22.6431832+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:12:12.8188014+00:00"
 }

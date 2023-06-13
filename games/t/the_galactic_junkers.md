@@ -13,9 +13,9 @@
 | Salvager | 38.00% | ~15 |
 | You're Hired! | 26.00% | ~10 |
 | Expert Miner | 21.00% | ~8 |
-| Expert Firefighter | 13.00% | ~5 |
+| Expert Firefighter | 15.00% | ~6 |
+| Pancake Day | 13.00% | ~5 |
 | Master Mechanic | 10.00% | ~4 |
-| Pancake Day | 10.00% | ~4 |
 | Notorious Pirate | 5.00% | ~2 |
 | Master Firefighter | 5.00% | ~2 |
 | Ray of Sunshine | 5.00% | ~2 |

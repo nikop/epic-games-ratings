@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -502,6 +502,11 @@
       "Time": "2023-06-13T07:04:31.4616124+00:00",
       "NumProgressed": 429,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-13T13:10:12.3773805+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -513,7 +518,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "booty_call",
@@ -545,7 +550,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -585,7 +590,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "only_thyme_will_tell",
@@ -625,14 +630,14 @@
       "Name": "We Go Again",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 4
     }
   ],
@@ -640,8 +645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:04:17.8624898+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:10:12.3773799+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:58:20.9810582+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:04:17.8625107+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:24.6072193+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:10:12.3773979+00:00"
 }

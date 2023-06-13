@@ -31,9 +31,9 @@
 | Frog Facts! | 36.00% | ~358 |
 | All That Glistens | 36.00% | ~358 |
 | Spellbound | 35.00% | ~348 |
+| Extinct Again! | 35.00% | ~348 |
 | All Skilled Up! | 35.00% | ~348 |
 | It's Pointy! | 35.00% | ~348 |
-| Extinct Again! | 34.00% | ~338 |
 | Bird of Prey | 34.00% | ~338 |
 | Stardust | 34.00% | ~338 |
 | Heartbreaker | 34.00% | ~338 |

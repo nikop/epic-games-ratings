@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -262,6 +262,11 @@
       "Time": "2023-06-13T05:06:28.2479701+00:00",
       "NumProgressed": 490,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-13T13:12:06.9467118+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -281,7 +286,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "deadly_secret",
@@ -361,7 +366,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "free_champagne",
@@ -369,7 +374,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "kamikaze",
@@ -377,7 +382,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "kindar_surprise",
@@ -409,7 +414,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -417,7 +422,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "tough_decision",
@@ -425,14 +430,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 16
     }
   ],
@@ -440,8 +445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:06:59.4647222+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:12:06.9467114+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:16.4637132+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:59.4647453+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:03:40.4980079+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:12:06.9467281+00:00"
 }

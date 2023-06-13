@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~613 |
-| And so it begins | 72.00% | ~588 |
+| Good start | 75.00% | ~614 |
+| And so it begins | 72.00% | ~589 |
 | No pressure | 69.00% | ~564 |
-| Memento | 61.00% | ~498 |
+| Memento | 61.00% | ~499 |
 | Let there be light | 58.00% | ~474 |
-| I think you dropped this | 54.00% | ~441 |
+| I think you dropped this | 54.00% | ~442 |
 | Soulmate? | 52.00% | ~425 |
-| Excellent service | 48.00% | ~392 |
+| Excellent service | 48.00% | ~393 |
 | Roll with it | 46.00% | ~376 |
-| Humble beginnings | 43.00% | ~351 |
-| Love is in the air | 43.00% | ~351 |
-| Fine, I'll do it myself | 41.00% | ~335 |
+| Humble beginnings | 43.00% | ~352 |
+| Love is in the air | 43.00% | ~352 |
 | Moving up | 41.00% | ~335 |
-| No need to call anyone | 38.00% | ~310 |
-| Big fortune | 32.00% | ~261 |
+| Fine, I'll do it myself | 40.00% | ~327 |
+| No need to call anyone | 38.00% | ~311 |
+| Big fortune | 32.00% | ~262 |
 | Still more work ahead | 28.00% | ~229 |
 | Hotel sleuthing | 27.00% | ~221 |
-| Aesop's fable | 26.00% | ~212 |
+| Aesop's fable | 26.00% | ~213 |
 | Kaboom | 25.00% | ~204 |
 | Nearly there | 24.00% | ~196 |
 | Broken heart | 22.00% | ~180 |
-| Island boy | 20.00% | ~163 |
-| Unstoppable | 18.00% | ~147 |
+| Island boy | 20.00% | ~164 |
 | You're a star | 18.00% | ~147 |
+| Unstoppable | 17.00% | ~139 |
 | Reunited | 17.00% | ~139 |
 | King of hospitality | 11.00% | ~90 |
 | Top spot in town | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817 (Ranked 185)  
-Completed: 15 (1.84%) (Ranked 71)  
+Progressed: 818 (Ranked 185)  
+Completed: 15 (1.83%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 15 (1.84%) (Ranked 71)
 | 2023-06-10 | 808 | 14 |
 | 2023-06-11 | 812 | 15 |
 | 2023-06-12 | 814 | 15 |
-| 2023-06-13 | 817 | 15 |
+| 2023-06-13 | 818 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

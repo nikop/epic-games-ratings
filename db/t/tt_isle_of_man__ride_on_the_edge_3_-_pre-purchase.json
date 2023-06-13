@@ -4,8 +4,8 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -424,6 +424,11 @@
       "Time": "2023-06-13T08:03:51.4386725+00:00",
       "NumProgressed": 84,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T13:09:35.0624804+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -449,9 +454,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -699,7 +704,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -729,9 +734,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "gagif7",
       "Name": "Lone Wolf",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -746,14 +751,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:03:16.8710876+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:09:35.0624798+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:45.9583233+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:46.7386335+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:03:16.8711426+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:01.171292+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:09:35.0625162+00:00"
 }

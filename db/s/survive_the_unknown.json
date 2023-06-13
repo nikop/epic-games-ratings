@@ -2,10 +2,10 @@
   "ID": "51687a551c5b468999d50525ec6febd2",
   "Name": "Survive The Unknown",
   "ProductSlug": "survive-the-unknown-f1e77a",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.8102974+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:44.5931283+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:03:20.1284205+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:03:59.6961276+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:09:37.5624603+00:00"
 }

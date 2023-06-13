@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 17.00% | ~444 |
-| Sputnik 2049 | 15.00% | ~392 |
+| Wakey Wakey | 17.00% | ~445 |
+| Sputnik 2049 | 15.00% | ~393 |
 | Without Breaking Some Eggs... | 14.00% | ~366 |
 | Infinite Growth... | 14.00% | ~366 |
-| Space Society | 9.00% | ~235 |
-| A Thousand Strong | 9.00% | ~235 |
-| Ready for a New World | 9.00% | ~235 |
+| Space Society | 9.00% | ~236 |
+| A Thousand Strong | 9.00% | ~236 |
+| Ready for a New World | 9.00% | ~236 |
 | Guy de Borderlands | 7.00% | ~183 |
 | Fully Recycled | 7.00% | ~183 |
 | Permanent Redesigns | 7.00% | ~183 |
@@ -23,12 +23,12 @@ Rating: 4.58 (Ranked 421)
 | Exceeding Capacity | 5.00% | ~131 |
 | Power Outage | 4.00% | ~105 |
 | Please Make it Stop! | 4.00% | ~105 |
-| Man's Best Friend | 3.00% | ~78 |
-| Sightseeing | 3.00% | ~78 |
-| Access Granted | 3.00% | ~78 |
-| Necessary Enhancement | 3.00% | ~78 |
-| Convenient Transport | 3.00% | ~78 |
-| From the Past | 3.00% | ~78 |
+| Man's Best Friend | 3.00% | ~79 |
+| Sightseeing | 3.00% | ~79 |
+| Access Granted | 3.00% | ~79 |
+| Necessary Enhancement | 3.00% | ~79 |
+| Convenient Transport | 3.00% | ~79 |
+| From the Past | 3.00% | ~79 |
 | Oats | 2.00% | ~52 |
 | What They Hide From Us | 2.00% | ~52 |
 | ...  in a finite world | 2.00% | ~52 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 421)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,614 (Ranked 147)  
+Progressed: 2,617 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 2,570 | 0 |
 | 2023-06-11 | 2,591 | 0 |
 | 2023-06-12 | 2,609 | 0 |
-| 2023-06-13 | 2,614 | 0 |
+| 2023-06-13 | 2,617 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

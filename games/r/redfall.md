@@ -35,13 +35,13 @@ Rating: 3.44 (Ranked 939)
 | Revelations | 3.00% | ~50 |
 | Sic Transit Umbra | 3.00% | ~50 |
 | Silence Is Golden | 3.00% | ~50 |
+| Good Morning | 3.00% | ~50 |
 | Check, Please! | 3.00% | ~50 |
 | Right This Way | 3.00% | ~50 |
 | Enemy of My Enemy | 3.00% | ~50 |
 | Contingency Plans | 2.00% | ~34 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
-| Good Morning | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
 | Harvest’s End | 2.00% | ~34 |
 | Blacklight Down | 2.00% | ~34 |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~81 |
-| To Each Their Own | 46.00% | ~39 |
+| You're Going Down! | 96.00% | ~82 |
+| To Each Their Own | 47.00% | ~40 |
 | Onwards and Upwards | 20.00% | ~17 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~15 |
 | Serial Winner | 12.00% | ~10 |
@@ -14,11 +14,11 @@
 | Start Your Engines | 7.00% | ~6 |
 | Highly Qualified | 6.00% | ~5 |
 | Upgradeaholic | 6.00% | ~5 |
+| Lone Wolf | 6.00% | ~5 |
 | Playing God | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
 | Nerd | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
-| Lone Wolf | 5.00% | ~4 |
 | Say My Name | 4.00% | ~3 |
 | First and Foremost | 4.00% | ~3 |
 | Made Mother Proud | 4.00% | ~3 |
@@ -44,8 +44,8 @@
 | Playing Favourites | 2.00% | ~2 |
 | Tempus Fugit | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 286)  
-Completed: 2 (2.38%) (Ranked 63)  
+Progressed: 85 (Ranked 286)  
+Completed: 2 (2.35%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,4 +81,4 @@ Completed: 2 (2.38%) (Ranked 63)
 | 2023-06-09 | 79 | 2 |
 | 2023-06-10 | 82 | 2 |
 | 2023-06-11 | 83 | 2 |
-| 2023-06-13 | 84 | 2 |
+| 2023-06-13 | 85 | 2 |

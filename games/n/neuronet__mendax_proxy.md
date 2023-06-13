@@ -8,8 +8,8 @@
 | Hello World | 63.00% | ~12 |
 | I Think, Therefore I Am | 63.00% | ~12 |
 | The Real Beginning | 63.00% | ~12 |
+| Shook Up | 53.00% | ~10 |
 | The Birds and the Bees | 53.00% | ~10 |
-| Shook Up | 47.00% | ~9 |
 | Vaccinated | 47.00% | ~9 |
 | A Light in the Dark | 42.00% | ~8 |
 | The Guardian | 42.00% | ~8 |
@@ -23,24 +23,24 @@
 | The Counsellor | 42.00% | ~8 |
 | Warning: Fragile | 42.00% | ~8 |
 | An Acquired Taste | 37.00% | ~7 |
+| A Real Headache | 32.00% | ~6 |
 | Blood Begets Blood | 32.00% | ~6 |
 | Everyone Needs a Break | 32.00% | ~6 |
 | That One Doesn't Count | 32.00% | ~6 |
-| A Real Headache | 26.00% | ~5 |
+| They Flock to Him | 32.00% | ~6 |
 | A Total Riot | 26.00% | ~5 |
 | Full Coverage | 26.00% | ~5 |
 | Job Creator | 26.00% | ~5 |
 | Knock Knock | 26.00% | ~5 |
-| They Flock to Him | 26.00% | ~5 |
 | A Little Eccentric | 21.00% | ~4 |
 | Quidnunc | 21.00% | ~4 |
 | Social Butterfly | 21.00% | ~4 |
 | Zonk! | 21.00% | ~4 |
 | Leave It to the Professionals | 16.00% | ~3 |
 | Obligatory Fraudulent Baking | 16.00% | ~3 |
+| Overseer | 16.00% | ~3 |
 | Ring of Fire | 16.00% | ~3 |
 | The Provocateur | 16.00% | ~3 |
-| Overseer | 11.00% | ~2 |
 | The Mentor | 11.00% | ~2 |
 | Tastes Like Regret | 11.00% | ~2 |
 | The Spice of Life | 11.00% | ~2 |

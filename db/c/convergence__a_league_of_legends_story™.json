@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:06:10.6710937+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:11:31.6971217+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:59:55.5176007+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:10.6711579+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:27.2767527+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:11:31.6971763+00:00"
 }

@@ -25,7 +25,7 @@ Rating: 4.27 (Ranked 786)
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
 | The Unruly Ones | 1.00% | ~9 |
-| The Council | 0.80% | ~7 |
+| The Council | 0.90% | ~8 |
 | The Mad | 0.70% | ~6 |
 | Charismatic Leader | 0.50% | ~4 |
 | Like the dream | 0.50% | ~4 |

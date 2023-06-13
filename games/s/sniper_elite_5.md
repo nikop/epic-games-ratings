@@ -6,11 +6,11 @@ Rating: 4.52 (Ranked 515)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~831 |
-| Confirming Suspicions | 25.00% | ~692 |
+| Confirming Suspicions | 25.00% | ~693 |
 | The Kraken Wakes | 20.00% | ~554 |
-| It's Starting to Crack | 18.00% | ~498 |
-| Lord of War | 15.00% | ~415 |
-| Change the Channel | 15.00% | ~415 |
+| It's Starting to Crack | 18.00% | ~499 |
+| Lord of War | 15.00% | ~416 |
+| Change the Channel | 15.00% | ~416 |
 | Resourceful | 13.00% | ~360 |
 | Taking it back | 13.00% | ~360 |
 | Organ Grinder | 11.00% | ~305 |
@@ -30,10 +30,10 @@ Rating: 4.52 (Ranked 515)
 | Close Quarters | 6.00% | ~166 |
 | Snake in the Grass | 6.00% | ~166 |
 | Brains of the Operation | 6.00% | ~166 |
-| Climbing the Ladder | 5.00% | ~138 |
-| No Stone Unturned | 5.00% | ~138 |
-| Skirmisher | 5.00% | ~138 |
-| Set Europe Ablaze | 5.00% | ~138 |
+| Climbing the Ladder | 5.00% | ~139 |
+| No Stone Unturned | 5.00% | ~139 |
+| Skirmisher | 5.00% | ~139 |
+| Set Europe Ablaze | 5.00% | ~139 |
 | Precision Is Key | 4.00% | ~111 |
 | Rigged to Blow | 3.00% | ~83 |
 | My Little Friend | 3.00% | ~83 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 515)
 | Siegebreaker | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
 | Burn after reading | 0.80% | ~22 |
-| From Paris with Love | 0.70% | ~19 |
+| From Paris with Love | 0.60% | ~17 |
 | Souvenir hunter | 0.60% | ~17 |
 | Eagle Eyed | 0.50% | ~14 |
 | Up close and personal | 0.50% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 515)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,769 (Ranked 144)  
+Progressed: 2,771 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,769 | 2 |
+| 2023-06-13 | 2,771 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,50 +6,50 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,927 |
-| That's a Grand Army | 8.00% | ~4,380 |
-| That is mine! | 8.00% | ~4,380 |
-| Victorious! | 8.00% | ~4,380 |
-| Brothers in Arms | 6.00% | ~3,285 |
-| That's a Grand Navy | 6.00% | ~3,285 |
-| Seriously?! | 6.00% | ~3,285 |
-| For the Glory | 5.00% | ~2,737 |
-| Cold War | 4.00% | ~2,190 |
-| True Catholic | 4.00% | ~2,190 |
-| Defender of the Faith | 3.00% | ~1,642 |
-| It's all about the money | 3.00% | ~1,642 |
-| Respected | 3.00% | ~1,642 |
-| Truly Divine Ruler | 3.00% | ~1,642 |
-| Agressive Expander | 2.00% | ~1,095 |
-| Blockader | 2.00% | ~1,095 |
-| Combined Arms | 2.00% | ~1,095 |
-| Double the Love | 2.00% | ~1,095 |
-| Gentle Persuasion | 2.00% | ~1,095 |
-| It's all about luck | 2.00% | ~1,095 |
-| My armies are invincible! | 2.00% | ~1,095 |
-| Queen of Conquest | 2.00% | ~1,095 |
-| Royal Authority | 2.00% | ~1,095 |
-| The Princess is in this Castle | 2.00% | ~1,095 |
-| Total Control | 2.00% | ~1,095 |
-| All That's Thine Shall Be Mine | 1.00% | ~547 |
-| Azur semé de lis or | 1.00% | ~547 |
-| Bright Spark | 1.00% | ~547 |
-| City of Cities | 1.00% | ~547 |
-| Factionalism | 1.00% | ~547 |
-| A Golden Empire | 1.00% | ~547 |
-| The Five Colonies | 1.00% | ~547 |
-| This navy can take it all | 1.00% | ~547 |
+| Until death do us apart | 9.00% | ~4,930 |
+| That's a Grand Army | 8.00% | ~4,383 |
+| That is mine! | 8.00% | ~4,383 |
+| Victorious! | 8.00% | ~4,383 |
+| Brothers in Arms | 6.00% | ~3,287 |
+| That's a Grand Navy | 6.00% | ~3,287 |
+| Seriously?! | 6.00% | ~3,287 |
+| For the Glory | 5.00% | ~2,739 |
+| Cold War | 4.00% | ~2,191 |
+| True Catholic | 4.00% | ~2,191 |
+| Defender of the Faith | 3.00% | ~1,643 |
+| It's all about the money | 3.00% | ~1,643 |
+| Respected | 3.00% | ~1,643 |
+| Truly Divine Ruler | 3.00% | ~1,643 |
+| Agressive Expander | 2.00% | ~1,096 |
+| Blockader | 2.00% | ~1,096 |
+| Combined Arms | 2.00% | ~1,096 |
+| Double the Love | 2.00% | ~1,096 |
+| Gentle Persuasion | 2.00% | ~1,096 |
+| It's all about luck | 2.00% | ~1,096 |
+| My armies are invincible! | 2.00% | ~1,096 |
+| Queen of Conquest | 2.00% | ~1,096 |
+| Royal Authority | 2.00% | ~1,096 |
+| The Princess is in this Castle | 2.00% | ~1,096 |
+| Total Control | 2.00% | ~1,096 |
+| All That's Thine Shall Be Mine | 1.00% | ~548 |
+| Azur semé de lis or | 1.00% | ~548 |
+| Bright Spark | 1.00% | ~548 |
+| City of Cities | 1.00% | ~548 |
+| Factionalism | 1.00% | ~548 |
+| A Golden Empire | 1.00% | ~548 |
+| The Five Colonies | 1.00% | ~548 |
+| This navy can take it all | 1.00% | ~548 |
 | The Emperors new clothes | 0.90% | ~493 |
 | Isn't this the way to India? | 0.90% | ~493 |
 | Market Control | 0.90% | ~493 |
 | Down Under | 0.80% | ~438 |
 | Trustworthy | 0.80% | ~438 |
-| All belongs to Mother Russia | 0.60% | ~328 |
-| At every continent | 0.60% | ~328 |
-| Early-Modern Warfare | 0.60% | ~328 |
-| Electable! | 0.60% | ~328 |
-| Populists in Government | 0.60% | ~328 |
-| Time Bandit | 0.60% | ~328 |
+| All belongs to Mother Russia | 0.60% | ~329 |
+| At every continent | 0.60% | ~329 |
+| Early-Modern Warfare | 0.60% | ~329 |
+| Electable! | 0.60% | ~329 |
+| Populists in Government | 0.60% | ~329 |
+| Time Bandit | 0.60% | ~329 |
 | One Family to Rule them All | 0.50% | ~274 |
 | Ruina Imperii | 0.50% | ~274 |
 | The pen is mightier than the sword | 0.50% | ~274 |
@@ -82,15 +82,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.30% | ~164 |
 | Wonderful | 0.30% | ~164 |
 | World Discoverer | 0.30% | ~164 |
-| A Protected Market | 0.20% | ~109 |
-| AAA Credit | 0.20% | ~109 |
-| An early Reich | 0.20% | ~109 |
-| Fine Financials | 0.20% | ~109 |
-| A Fine Goosestep | 0.20% | ~109 |
-| Imperio español | 0.20% | ~109 |
-| Industrial Powerhouse | 0.20% | ~109 |
-| Magellan’s Voyage | 0.20% | ~109 |
-| We bled for this | 0.20% | ~109 |
+| A Protected Market | 0.20% | ~110 |
+| AAA Credit | 0.20% | ~110 |
+| An early Reich | 0.20% | ~110 |
+| Fine Financials | 0.20% | ~110 |
+| A Fine Goosestep | 0.20% | ~110 |
+| Full House | 0.20% | ~110 |
+| Imperio español | 0.20% | ~110 |
+| Industrial Powerhouse | 0.20% | ~110 |
+| Magellan’s Voyage | 0.20% | ~110 |
+| We bled for this | 0.20% | ~110 |
 | The 52 Garhs | 0.10% | ~55 |
 | I don't like sand | 0.10% | ~55 |
 | A Blessed Nation | 0.10% | ~55 |
@@ -162,7 +163,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.10% | ~55 |
 | Frozen Assets | 0.10% | ~55 |
 | Fugger Banking | 0.10% | ~55 |
-| Full House | 0.10% | ~55 |
 | Ganges Khan | 0.10% | ~55 |
 | Georgia on my Mind | 0.10% | ~55 |
 | God Tier | 0.10% | ~55 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,749 (Ranked 77)  
+Progressed: 54,782 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,10 +415,10 @@ Completed: 0 (0.00%) (Ranked 217)
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
-| 2023-06-13 | 54,749 | 0 |
+| 2023-06-13 | 54,782 | 0 |
 ## Awards
 Max (Educational): 5,386  (Ranked 61)  
-Sum: 44,480 (Ranked 27)  
+Sum: 44,482 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -427,7 +427,7 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 5,128 |
 | This game is Extremely Fun | 5,093 |
 | This game has Diverse Characters | 5,069 |
-| This game is Relaxing | 4,992 |
+| This game is Relaxing | 4,994 |
 | This game has Competitive Players | 4,844 |
 | This game has Amazing Storytelling | 4,574 |
 | This game has Amazing Characters | 4,230 |
@@ -582,4 +582,4 @@ Diff (max vs sum): 34
 | 2023-06-10 | 4.68 | - | 5,376 | 44,395 |
 | 2023-06-11 | 4.68 | - | 5,376 | 44,434 |
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
-| 2023-06-13 | 4.68 | - | 5,386 | 44,480 |
+| 2023-06-13 | 4.68 | - | 5,386 | 44,482 |

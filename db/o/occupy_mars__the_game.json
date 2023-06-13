@@ -2,20 +2,20 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.83,
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2023-05-17T09:57:13.2048269+00:00",
@@ -124,13 +124,19 @@
       "Rating": 3.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-13T13:03:50.7193108+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -1915,6 +1921,11 @@
       "Time": "2023-06-13T12:04:26.3704572+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T13:10:18.3354494+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2180,9 +2191,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 516
+      "UsersEstimate": 504
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2309,16 +2320,16 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged": "2023-06-12T13:02:51.5238485+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:04:26.3704562+00:00",
+  "LastChanged": "2023-06-13T13:03:50.7193106+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:10:18.3354489+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:31.0900421+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:04:26.3705435+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:03:50.7193118+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:10:18.3355017+00:00"
 }

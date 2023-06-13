@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -1062,9 +1062,9 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -1167,8 +1167,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:06:48.8345644+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:11:58.7053335+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:52.9650429+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:53.0010672+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:48.8346313+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:05.5384496+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:11:58.7053761+00:00"
 }

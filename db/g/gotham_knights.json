@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1520,9 +1520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64830,
+  "EOS_Progressed": 64834,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6165,6 +6165,11 @@
       "Time": "2023-06-13T12:07:08.3201647+00:00",
       "NumProgressed": 64830,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-13T13:12:14.6043149+00:00",
+      "NumProgressed": 64834,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6392,7 +6397,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "FREEZE_1",
@@ -6528,7 +6533,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -6656,20 +6661,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64830,
+      "Progressed": 64834,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35110,
+      "Progressed": 35114,
       "Completed": 2646
     }
   ],
@@ -6677,8 +6682,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-13T09:59:43.4757545+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:07:08.3201638+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:12:14.6043143+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-13T12:00:20.6981056+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:07:08.3202702+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:43.6861285+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:12:14.604406+00:00"
 }

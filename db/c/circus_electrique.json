@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -76,7 +76,7 @@
   "Tags": [],
   "EOS_Progressed": 437,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -411,9 +411,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "631ndc2",
       "Name": "Fan Service",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -732,8 +732,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:07:04.577833+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:12:10.3693171+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:59:19.8810728+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:07:04.5779624+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:03.8102958+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:12:10.3693667+00:00"
 }

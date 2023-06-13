@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,988 |
-| Copacetic Coordination | 16.00% | ~51,474 |
-| Fronting the Money | 14.00% | ~45,040 |
-| The Dawn of Automation | 14.00% | ~45,040 |
-| Extraordinary Logistics | 14.00% | ~45,040 |
-| Dirty Money | 13.00% | ~41,823 |
-| Family First | 13.00% | ~41,823 |
-| Cleaning House | 12.00% | ~38,606 |
-| Room in the Back | 12.00% | ~38,606 |
-| Booze Baron | 11.00% | ~35,389 |
-| Beating the Heat | 10.00% | ~32,171 |
-| Friends on the Force | 10.00% | ~32,171 |
-| Neighborhood Watch | 10.00% | ~32,171 |
-| Core Corps | 8.00% | ~25,737 |
-| Sizeable Stash | 7.00% | ~22,520 |
-| Street Fighter | 7.00% | ~22,520 |
-| Friendly Gestures | 7.00% | ~22,520 |
-| People Person | 7.00% | ~22,520 |
-| Liquor Lord | 6.00% | ~19,303 |
-| Show ‘em the Sugar | 6.00% | ~19,303 |
+| Corner Clout | 46.00% | ~147,995 |
+| Copacetic Coordination | 16.00% | ~51,477 |
+| Fronting the Money | 14.00% | ~45,042 |
+| The Dawn of Automation | 14.00% | ~45,042 |
+| Extraordinary Logistics | 14.00% | ~45,042 |
+| Dirty Money | 13.00% | ~41,825 |
+| Family First | 13.00% | ~41,825 |
+| Cleaning House | 12.00% | ~38,607 |
+| Room in the Back | 12.00% | ~38,607 |
+| Booze Baron | 11.00% | ~35,390 |
+| Beating the Heat | 10.00% | ~32,173 |
+| Friends on the Force | 10.00% | ~32,173 |
+| Neighborhood Watch | 10.00% | ~32,173 |
+| Core Corps | 8.00% | ~25,738 |
+| Sizeable Stash | 7.00% | ~22,521 |
+| Street Fighter | 7.00% | ~22,521 |
+| Friendly Gestures | 7.00% | ~22,521 |
+| People Person | 7.00% | ~22,521 |
+| Liquor Lord | 6.00% | ~19,304 |
+| Show ‘em the Sugar | 6.00% | ~19,304 |
 | Street Knowledge | 5.00% | ~16,086 |
 | Oh Captain | 5.00% | ~16,086 |
 | Branching Out | 5.00% | ~16,086 |
@@ -41,26 +41,26 @@ Rating: 4.25 (Ranked 794)
 | An Affront to the Enemy | 4.00% | ~12,869 |
 | Friends from Back Home | 4.00% | ~12,869 |
 | Half Century Mark | 4.00% | ~12,869 |
-| Corner Opportunities | 3.00% | ~9,651 |
-| 2122 North Clark Street | 3.00% | ~9,651 |
-| Copious Cabbage | 3.00% | ~9,651 |
-| Sockdolager | 3.00% | ~9,651 |
-| Still Stalwart | 3.00% | ~9,651 |
-| Bees Knees Bootlegger | 3.00% | ~9,651 |
-| Tighten the Screws | 3.00% | ~9,651 |
-| One of Us | 2.00% | ~6,434 |
-| Baker’s Dozen | 2.00% | ~6,434 |
-| Dropping the Dime | 2.00% | ~6,434 |
-| Spiffy Speakeasies | 2.00% | ~6,434 |
-| Keeping Your Word | 2.00% | ~6,434 |
+| Corner Opportunities | 3.00% | ~9,652 |
+| 2122 North Clark Street | 3.00% | ~9,652 |
+| Copious Cabbage | 3.00% | ~9,652 |
+| Sockdolager | 3.00% | ~9,652 |
+| Still Stalwart | 3.00% | ~9,652 |
+| Bees Knees Bootlegger | 3.00% | ~9,652 |
+| Tighten the Screws | 3.00% | ~9,652 |
+| One of Us | 2.00% | ~6,435 |
+| Baker’s Dozen | 2.00% | ~6,435 |
+| Dropping the Dime | 2.00% | ~6,435 |
+| Spiffy Speakeasies | 2.00% | ~6,435 |
+| Keeping Your Word | 2.00% | ~6,435 |
 | Boxing Them In | 1.00% | ~3,217 |
 | Backroom Empire | 1.00% | ~3,217 |
 | Corner Control | 1.00% | ~3,217 |
 | Full House | 1.00% | ~3,217 |
 | The Rubber Meets the Road | 1.00% | ~3,217 |
 | Cat’s Meow Clubs | 1.00% | ~3,217 |
-| Determined Deliveries | 0.90% | ~2,895 |
-| Stepping It Up | 0.90% | ~2,895 |
+| Determined Deliveries | 0.90% | ~2,896 |
+| Stepping It Up | 0.90% | ~2,896 |
 | Crossing Over | 0.80% | ~2,574 |
 | Boots in the Ground | 0.70% | ~2,252 |
 | Getting Fancy | 0.70% | ~2,252 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 794)
 | High Pillow | 0.10% | ~322 |
 | Station Master | 0.10% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,714 (Ranked 40)  
+Progressed: 321,729 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,15 +140,15 @@ Completed: 4 (0.00%) (Ranked 217)
 | 2023-06-10 | 321,047 | 4 |
 | 2023-06-11 | 321,356 | 4 |
 | 2023-06-12 | 321,601 | 4 |
-| 2023-06-13 | 321,714 | 4 |
+| 2023-06-13 | 321,729 | 4 |
 ## Awards
-Max (Highly Recommended): 25  (Ranked 468)  
-Sum: 91 (Ranked 409)  
-Diff (max vs sum): 59  
+Max (Relaxing): 25  (Ranked 468)  
+Sum: 93 (Ranked 407)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 25 |
-| This game is Relaxing | 23 |
+| This game is Relaxing | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
@@ -200,3 +200,4 @@ Diff (max vs sum): 59
 | 2023-05-30 | 4.25 | 24 | 89 |
 | 2023-05-31 | 4.25 | 24 | 90 |
 | 2023-06-10 | 4.25 | 25 | 91 |
+| 2023-06-13 | 4.25 | 25 | 93 |

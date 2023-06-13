@@ -2,10 +2,10 @@
   "ID": "kestrel",
   "Name": "Donut County",
   "ProductSlug": "donut-county",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2018-08-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.9799364+00:00",
   "LastChanged": "2023-03-31T05:57:19.9799365+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:03.583186+00:00",
-  "LastUpdate_Ratings": "2023-06-13T12:01:13.998232+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:14.5985177+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:06:19.9058759+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:11:34.3257966+00:00"
 }

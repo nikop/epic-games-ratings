@@ -4,11 +4,11 @@
   "ProductSlug": "shadowrun-hong-kong",
   "Ranking_Rating": 503,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 408,
-  "Ranking_EOS_Progress": 447,
+  "Ranking_PopularitySum": 409,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -401,6 +401,6 @@
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
   "LastChanged": "2023-03-14T01:54:40.3884035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:35.8935776+00:00",
-  "LastUpdate_Ratings": "2023-06-13T12:00:46.0932805+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:01:46.3877984+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:06:00.7762626+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:06:42.8280194+00:00"
 }

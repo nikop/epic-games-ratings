@@ -2,10 +2,10 @@
   "ID": "5438c8546c6a4230851cc614af4bda6a",
   "Name": "Mage Math",
   "ProductSlug": "mage-math-b7ca14",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-15T11:00:00+00:00",
     "PcReleaseDate": "2023-05-15T11:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-07T18:57:26.3929555+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:08.1377754+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:01:32.8880946+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:03:34.9111909+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:06:33.4644051+00:00"
 }

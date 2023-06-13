@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 1.00% | ~906 |
 | The Cursed Farmer | 1.00% | ~906 |
 | The Mad Wizard | 1.00% | ~906 |
-| The Ring of Regeneration | 0.90% | ~815 |
+| The Ring of Regeneration | 0.90% | ~816 |
 | The Court of Storms | 0.90% | ~512 |
 | Beware the Jabberwock | 0.80% | ~455 |
 | Were-verpowered | 0.70% | ~634 |
@@ -193,6 +193,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.20% | ~181 |
 | The Wyrmheart Mine | 0.20% | ~181 |
 | Tower on the Lake | 0.20% | ~181 |
+| Only the Strong Survive | 0.20% | ~181 |
 | Seeds of Deceit | 0.20% | ~181 |
 | Visions of Strahd | 0.20% | ~181 |
 | The Gargoyle's Apprentice | 0.20% | ~181 |
@@ -375,7 +376,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~91 |
 | Distribute Your Weight | 0.10% | ~91 |
 | Mongrelfolk Incursion | 0.10% | ~57 |
-| Only the Strong Survive | 0.10% | ~91 |
 | Shorty's Day Off | 0.10% | ~91 |
 | Intelligence Hunt | 0.10% | ~91 |
 | Seeds of Corruption | 0.10% | ~91 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,610 (Ranked 64)  
+Progressed: 90,615 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,19 +554,19 @@ Completed: 1,930 (2.13%) (Ranked 66)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,610 | 1,930 |
+| 2023-06-13 | 90,615 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
-Sum: 30,089 (Ranked 37)  
+Sum: 30,091 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,937 |
 | This game is Great for Beginners | 4,864 |
-| This game has Quickly Understood Controls | 4,614 |
+| This game has Quickly Understood Controls | 4,615 |
 | This game is Relaxing | 4,512 |
 | This game is Highly Recommended | 3,960 |
-| This game has Amazing Characters | 3,953 |
+| This game has Amazing Characters | 3,954 |
 | This game has Playful Visuals | 3,249 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -709,4 +709,4 @@ Diff (max vs sum): 27
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
-| 2023-06-13 | 4.06 | - | 4,937 | 30,089 |
+| 2023-06-13 | 4.06 | - | 4,937 | 30,091 |

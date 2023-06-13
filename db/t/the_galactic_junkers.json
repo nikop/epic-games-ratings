@@ -4,8 +4,8 @@
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -182,9 +182,9 @@
       "ID": "A_Extinguish_10_Fires",
       "SetID": "56632p4",
       "Name": "Expert Firefighter",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_Extinguish_1_Fire",
@@ -278,9 +278,9 @@
       "ID": "A_Pancake_Day",
       "SetID": "56632p4",
       "Name": "Pancake Day",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_Ray_Of_Sunshine",
@@ -335,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:02:00.5375888+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:09:02.3758315+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.0529187+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:59:22.3485232+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:02:00.5376169+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:05.0135492+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:09:02.3758509+00:00"
 }

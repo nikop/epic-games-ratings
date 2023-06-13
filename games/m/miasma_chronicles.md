@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 746)
 | Savior | 17.00% | ~189 |
 | Newtonian Knockout | 15.00% | ~167 |
 | The Watchers | 15.00% | ~167 |
-| Ruthless | 12.00% | ~133 |
+| Ruthless | 13.00% | ~145 |
 | Dr Jones | 11.00% | ~122 |
 | Chaos Theory | 10.00% | ~111 |
 | Commando | 9.00% | ~100 |

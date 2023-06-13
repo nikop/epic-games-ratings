@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -815,6 +815,11 @@
       "Time": "2023-06-13T12:06:39.8532667+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T13:11:51.9422509+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -850,7 +855,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Chapter10",
@@ -866,7 +871,7 @@
       "Name": "The Maggot",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Chapter3",
@@ -882,7 +887,7 @@
       "Name": "The Veteran",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Chapter5",
@@ -890,7 +895,7 @@
       "Name": "The Traitor",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Chapter6",
@@ -928,9 +933,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 216
     },
     {
       "ID": "Collectibles2",
@@ -978,7 +983,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GollumChoices",
@@ -994,7 +999,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Memories",
@@ -1010,7 +1015,7 @@
       "Name": "Murderer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NoDamage",
@@ -1104,23 +1109,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 216
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 433,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:06:39.8532654+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:11:51.9422501+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:57:54.8897624+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:39.8533184+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:06.7983693+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:11:51.9422828+00:00"
 }

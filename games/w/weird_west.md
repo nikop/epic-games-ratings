@@ -6,25 +6,25 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,427 |
-| Self-Improvement | 71.00% | ~1,164 |
-| Perky | 65.00% | ~1,066 |
-| Let’s Ride | 60.00% | ~984 |
+| Unforgiven | 87.00% | ~1,428 |
+| Self-Improvement | 71.00% | ~1,165 |
+| Perky | 65.00% | ~1,067 |
+| Let’s Ride | 60.00% | ~985 |
 | Welcome to the Weird West | 57.00% | ~935 |
-| Dead or Alive | 55.00% | ~902 |
-| Full House | 36.00% | ~590 |
-| Off the Trail | 33.00% | ~541 |
+| Dead or Alive | 55.00% | ~903 |
+| Full House | 36.00% | ~591 |
+| Off the Trail | 33.00% | ~542 |
 | Justice Served | 28.00% | ~459 |
-| Chain Reaction | 26.00% | ~426 |
-| Dishonored | 25.00% | ~410 |
+| Chain Reaction | 26.00% | ~427 |
 | Scholar | 25.00% | ~410 |
 | Through Their Eyes | 25.00% | ~410 |
+| Dishonored | 24.00% | ~394 |
 | Rain of Death | 24.00% | ~394 |
 | The Great Escape | 23.00% | ~377 |
 | That’s All, Folks | 18.00% | ~295 |
-| Fallen Star | 16.00% | ~262 |
-| Here Comes Santa Claus | 16.00% | ~262 |
-| Winds of War | 16.00% | ~262 |
+| Fallen Star | 16.00% | ~263 |
+| Here Comes Santa Claus | 16.00% | ~263 |
+| Winds of War | 16.00% | ~263 |
 | For Balance | 15.00% | ~246 |
 | Dog Days | 13.00% | ~213 |
 | Workers' Rights | 13.00% | ~213 |
@@ -32,8 +32,8 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 12.00% | ~197 |
 | Power Behind the Pulpit | 12.00% | ~197 |
 | Turning the Tables | 12.00% | ~197 |
-| Something Wicked This Way Comes… | 11.00% | ~180 |
-| There is Hope | 11.00% | ~180 |
+| Something Wicked This Way Comes… | 11.00% | ~181 |
+| There is Hope | 11.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~148 |
 | Mystery Machine | 9.00% | ~148 |
 | The Philosopher’s Stone | 9.00% | ~148 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,640 (Ranked 158)  
+Progressed: 1,641 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.12%) (Ranked 165)
 | 2023-06-10 | 1,628 | 2 |
 | 2023-06-11 | 1,631 | 2 |
 | 2023-06-12 | 1,636 | 2 |
-| 2023-06-13 | 1,640 | 2 |
+| 2023-06-13 | 1,641 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 471)  
 Sum: 24 (Ranked 477)  

@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-06-12T16:05:53.0663134+00:00",
       "NumProgressed": 378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T13:12:09.1501693+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -532,9 +537,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "BugHunter",
@@ -542,7 +547,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Cryomancer",
@@ -566,7 +571,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Gladiator",
@@ -582,7 +587,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Hardboiled",
@@ -678,7 +683,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "OrcMustDie",
@@ -702,7 +707,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Roughneck",
@@ -726,7 +731,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SlingOfDavid",
@@ -766,7 +771,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TheTrio",
@@ -782,7 +787,7 @@
       "Name": "Trap Master",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TreasureHunter",
@@ -790,7 +795,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Troubleshooter",
@@ -821,7 +826,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 0
     }
   ],
@@ -829,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:07:02.5902583+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:12:09.1501688+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-13T12:00:06.5416515+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:07:02.5903153+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:34.1406412+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:12:09.1502034+00:00"
 }

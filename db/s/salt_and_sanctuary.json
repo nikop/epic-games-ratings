@@ -2271,9 +2271,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 524359,
+  "EOS_Progressed": 524364,
   "EOS_Completed": 1447,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 767,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7836,6 +7836,11 @@
       "Time": "2023-06-13T12:06:43.3004277+00:00",
       "NumProgressed": 524359,
       "NumCompleted": 1447
+    },
+    {
+      "Time": "2023-06-13T13:11:54.4684793+00:00",
+      "NumProgressed": 524364,
+      "NumCompleted": 1447
     }
   ],
   "TotalAchievements": 37,
@@ -7863,7 +7868,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157308
+      "UsersEstimate": 157309
     },
     {
       "ID": "DEVOTED",
@@ -7903,7 +7908,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 435218
+      "UsersEstimate": 435222
     },
     {
       "ID": "HONED",
@@ -7911,7 +7916,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20974
+      "UsersEstimate": 20975
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -7919,7 +7924,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20974
+      "UsersEstimate": 20975
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -7959,7 +7964,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209744
+      "UsersEstimate": 209746
     },
     {
       "ID": "THE_CASTLE",
@@ -7967,7 +7972,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57679
+      "UsersEstimate": 57680
     },
     {
       "ID": "THE_CAVE",
@@ -7991,7 +7996,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20974
+      "UsersEstimate": 20975
     },
     {
       "ID": "THE_DOME",
@@ -7999,7 +8004,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47192
+      "UsersEstimate": 47193
     },
     {
       "ID": "THE_FOREST",
@@ -8007,7 +8012,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73410
+      "UsersEstimate": 73411
     },
     {
       "ID": "THE_IMPOSTER",
@@ -8023,7 +8028,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94385
+      "UsersEstimate": 94386
     },
     {
       "ID": "THE_KEEP",
@@ -8055,7 +8060,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 20974
+      "UsersEstimate": 20975
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -8071,7 +8076,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47192
+      "UsersEstimate": 47193
     },
     {
       "ID": "THE_RUINS",
@@ -8103,7 +8108,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 335590
+      "UsersEstimate": 335593
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -8119,7 +8124,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83897
+      "UsersEstimate": 83898
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -8142,15 +8147,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 524359,
+      "Progressed": 524364,
       "Completed": 1447
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-12T19:59:56.0503134+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:06:43.3004266+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:11:54.4684784+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:43.6844726+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:59:51.4320853+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:06:43.3005315+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:05:24.2318893+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:11:54.4685425+00:00"
 }

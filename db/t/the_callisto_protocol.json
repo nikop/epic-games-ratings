@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,7 +614,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15171,
+  "EOS_Progressed": 15173,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
@@ -3744,6 +3744,11 @@
       "Time": "2023-06-13T12:04:44.7849851+00:00",
       "NumProgressed": 15171,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-13T13:10:31.6998057+00:00",
+      "NumProgressed": 15173,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3883,7 +3888,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "KILL_ROBOT",
@@ -3899,7 +3904,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3955,7 +3960,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "STORY_HABITAT",
@@ -4074,13 +4079,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15171,
+      "Progressed": 15173,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3097,
+      "Progressed": 3099,
       "Completed": 29
     }
   ],
@@ -4088,8 +4093,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-13T12:04:44.7849843+00:00",
+  "LastChanged_Achievements": "2023-06-13T13:10:31.6998052+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-13T11:58:05.5276408+00:00",
-  "LastUpdate_Achievements": "2023-06-13T12:04:44.785073+00:00"
+  "LastUpdate_Ratings": "2023-06-13T13:04:13.9645206+00:00",
+  "LastUpdate_Achievements": "2023-06-13T13:10:31.6998595+00:00"
 }
