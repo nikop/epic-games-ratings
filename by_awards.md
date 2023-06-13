@@ -89,9 +89,9 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,151 | 4.69 | 219 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,125 | 4.57 | 442 |
 | 89 | [Hades](games/h/hades.md) | 3,114 | 4.92 | 4 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,753 | 4.67 | 257 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,760 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,510 | 4.61 | 361 |
-| 92 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.27 | 784 |
+| 92 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 780 |
 | 93 | [Among Us](games/a/among_us.md) | 2,460 | 4.57 | 442 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,431 | 4.50 | 545 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,389 | 4.79 | 89 |
@@ -111,7 +111,7 @@
 | 109 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,783 | 4.56 | 452 |
 | 110 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,752 | 4.57 | 442 |
 | 111 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,746 | 4.63 | 333 |
-| 112 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,660 | 4.76 | 117 |
+| 112 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,661 | 4.76 | 117 |
 | 113 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,614 | 4.47 | 592 |
 | 114 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,606 | 4.51 | 530 |
 | 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,598 | 4.70 | 195 |
@@ -211,7 +211,7 @@
 | 209 | [Nuclear Throne](games/n/nuclear_throne.md) | 371 | 4.79 | 89 |
 | 210 | [For The King](games/f/for_the_king.md) | 370 | 4.70 | 195 |
 | 210 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 370 | 3.99 | 905 |
-| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 360 | 4.71 | 179 |
+| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 363 | 4.71 | 179 |
 | 213 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 357 | 4.62 | 346 |
 | 214 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 347 | 4.31 | 760 |
 | 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 346 | 4.60 | 386 |
@@ -227,7 +227,7 @@
 | 225 | [The Messenger](games/t/the_messenger.md) | 317 | 4.80 | 80 |
 | 226 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 156 |
 | 227 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 333 |
-| 228 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 784 |
+| 228 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 785 |
 | 229 | [House Flipper](games/h/house_flipper.md) | 296 | 4.69 | 219 |
 | 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 295 | 4.55 | 473 |
 | 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 284 | 4.59 | 407 |
@@ -428,7 +428,7 @@
 | 424 | [Returnal™](games/r/returnal™.md) | 37 | 4.60 | 386 |
 | 424 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 37 | 4.77 | 107 |
 | 428 | [20XX](games/2/20xx.md) | 36 | 4.61 | 361 |
-| 428 | [Steelrising](games/s/steelrising.md) | 36 | 4.27 | 784 |
+| 428 | [Steelrising](games/s/steelrising.md) | 36 | 4.27 | 785 |
 | 428 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.49 | 565 |
 | 431 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 179 |
 | 431 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 452 |
@@ -469,7 +469,7 @@
 | 465 | [The Surge](games/t/the_surge.md) | 26 | 4.45 | 618 |
 | 468 | [City of Gangsters](games/c/city_of_gangsters.md) | 25 | 4.25 | 794 |
 | 468 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 719 |
-| 468 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 25 | 4.27 | 784 |
+| 468 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 25 | 4.27 | 785 |
 | 471 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 135 |
 | 471 | [ELEX](games/e/elex.md) | 24 | 4.44 | 630 |
 | 471 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 313 |

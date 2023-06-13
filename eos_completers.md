@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 15.20% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
-| 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
+| 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
@@ -23,12 +23,12 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.51% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.81% |
 | 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
-| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
+| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.53% |
@@ -78,7 +78,7 @@
 | 76 | [Somerville](games/s/somerville.md) | 1.58% |
 | 77 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 78 | [Night Book](games/n/night_book.md) | 1.51% |
+| 79 | [Night Book](games/n/night_book.md) | 1.50% |
 | 80 | [Frogun](games/f/frogun.md) | 1.46% |
 | 81 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.23% |
@@ -134,13 +134,13 @@
 | 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
+| 133 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.29% |
 | 133 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 133 | [The Surge](games/t/the_surge.md) | 0.29% |
-| 137 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
-| 138 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
-| 140 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 140 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.25% |
+| 138 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 139 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
+| 139 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
+| 141 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 142 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 142 | [Filament](games/f/filament.md) | 0.23% |
 | 142 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.23% |

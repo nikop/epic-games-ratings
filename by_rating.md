@@ -126,7 +126,7 @@
 | 117 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 0 | 496 |
 | 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 496 |
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 496 |
-| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,660 | 112 |
+| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,661 | 112 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 45 | 406 |
 | 117 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 496 |
 | 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,619 | 38 |
@@ -180,7 +180,7 @@
 | 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 496 |
 | 179 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 496 |
 | 179 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 342 | 216 |
-| 179 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 360 | 212 |
+| 179 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 363 | 212 |
 | 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 496 |
 | 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,469 | 50 |
 | 179 | [Fez](games/f/fez.md) | 4.71 | 23 | 475 |
@@ -274,7 +274,7 @@
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 496 |
 | 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 86 | 346 |
 | 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 496 |
-| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,753 | 90 |
+| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,760 | 90 |
 | 257 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 93 | 338 |
 | 277 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 413 |
 | 277 | [Crashlands](games/c/crashlands.md) | 4.66 | 190 | 267 |
@@ -780,14 +780,14 @@
 | 771 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
 | 771 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 296 |
 | 780 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 496 |
+| 780 | [RAGE 2](games/r/rage_2.md) | 4.28 | 2,475 | 92 |
 | 780 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 303 |
 | 780 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 278 |
 | 780 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.28 | 0 | 496 |
-| 784 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 496 |
-| 784 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,475 | 92 |
-| 784 | [Steelrising](games/s/steelrising.md) | 4.27 | 36 | 428 |
-| 784 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.27 | 25 | 468 |
-| 784 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 228 |
+| 785 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 496 |
+| 785 | [Steelrising](games/s/steelrising.md) | 4.27 | 36 | 428 |
+| 785 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.27 | 25 | 468 |
+| 785 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 228 |
 | 789 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 496 |
 | 789 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 496 |
 | 789 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 496 |
