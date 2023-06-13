@@ -146,6 +146,7 @@
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
 | [Isonzo](../games/i/isonzo.md) | 45 | 1,000 |
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
+| [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Poker Club](../games/p/poker_club.md) | 45 | 1,000 |
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
@@ -402,6 +403,7 @@
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |
+| [Disney Dreamlight Valley](../games/d/disney_dreamlight_valley.md) | 15 | 1,000 |
 | [Five Dates](../games/f/five_dates.md) | 15 | 1,000 |
 | [Fusion Paradox](../games/f/fusion_paradox.md) | 15 | 1,000 |
 | [Grim Nights](../games/g/grim_nights.md) | 15 | 1,000 |

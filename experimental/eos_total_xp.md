@@ -136,6 +136,7 @@
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
+| [Disney Dreamlight Valley](../games/d/disney_dreamlight_valley.md) | 15 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
 | [Dolmenjord - Viking Islands](../games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 11 | 1,000 |
 | [Don't Byte Your Tongue](../games/d/don't_byte_your_tongue.md) | 31 | 1,000 |
@@ -296,6 +297,7 @@
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
+| [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |

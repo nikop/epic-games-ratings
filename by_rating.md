@@ -244,7 +244,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,152 | 47 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,819 | 78 |
 | 238 | [Dead Space](games/d/dead_space.md) | 4.68 | 63 | 375 |
-| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,381 | 61 |
+| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,386 | 61 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,739 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 182,048 | 5 |
 | 238 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 0 | 496 |
@@ -296,7 +296,7 @@
 | 277 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 192 |
 | 277 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 496 |
 | 296 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 496 |
-| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,684 | 66 |
+| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,692 | 66 |
 | 296 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 281 |
 | 296 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 325 | 222 |
 | 296 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 0 | 496 |
@@ -358,7 +358,7 @@
 | 346 | [NORCO](games/n/norco.md) | 4.62 | 0 | 496 |
 | 346 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 496 |
 | 346 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 323 |
-| 346 | [Prey](games/p/prey.md) | 4.62 | 5,574 | 58 |
+| 346 | [Prey](games/p/prey.md) | 4.62 | 5,576 | 58 |
 | 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 63 | 375 |
 | 361 | [20XX](games/2/20xx.md) | 4.61 | 36 | 428 |
 | 361 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 496 |
@@ -501,7 +501,7 @@
 | 490 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 496 |
 | 490 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 496 |
 | 490 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 496 |
-| 490 | [VALORANT](games/v/valorant.md) | 4.54 | 56,410 | 11 |
+| 490 | [VALORANT](games/v/valorant.md) | 4.54 | 56,542 | 11 |
 | 503 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
 | 503 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
 | 503 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,177 | 17 |
@@ -549,7 +549,7 @@
 | 545 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 40 | 416 |
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 343 |
 | 545 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 496 |
-| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,820 | 13 |
+| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,851 | 13 |
 | 545 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 496 |
 | 545 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 97 | 331 |
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,431 | 94 |
@@ -908,7 +908,7 @@
 | 905 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,621 | 67 |
 | 905 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 496 |
 | 908 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 496 |
-| 908 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,246 | 100 |
+| 908 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,261 | 100 |
 | 910 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 496 |
 | 911 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 496 |
 | 912 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 406 |
