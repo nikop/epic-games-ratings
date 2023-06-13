@@ -399,7 +399,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,768 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,769 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
@@ -426,3 +426,4 @@
 | [Warhammer 40,000: Shootas Blood & Teef](games/w/warhammer_40,000__shootas_blood_&_teef.md) | 2099-10-20 | - |  | - | 0 |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2099-12-08 | - |  | - | - |
 | [Superior](games/s/superior.md) | 2099-12-13 | - |  | - | - |
+| [Lab Rat](games/l/lab_rat.md) | 2099-12-31 | - |  | - | - |
