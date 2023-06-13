@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1502,
+  "EOS_Progressed": 1503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-06-13T16:04:37.068709+00:00",
       "NumProgressed": 1502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T17:04:18.1180724+00:00",
+      "NumProgressed": 1503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -1978,9 +1983,9 @@
       "ID": "FACE_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Face",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 75
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -2036,7 +2041,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "GUARD_MAKER",
@@ -2107,14 +2112,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1502,
+      "Progressed": 1503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:04:37.0687084+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:04:18.1180717+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:57:22.7072177+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:04:37.0687407+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:57:30.3816012+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:04:18.1181153+00:00"
 }

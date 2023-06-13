@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,639 |
+| A Wonderful Discovery | 79.00% | ~3,640 |
 | Realm Estate | 76.00% | ~3,501 |
-| Secret Technique | 75.00% | ~3,454 |
-| Walls Cannot Stop Us | 73.00% | ~3,362 |
-| From Friends to Family | 69.00% | ~3,178 |
-| Magical Synergy | 65.00% | ~2,994 |
+| Secret Technique | 75.00% | ~3,455 |
+| Walls Cannot Stop Us | 73.00% | ~3,363 |
+| From Friends to Family | 69.00% | ~3,179 |
+| Magical Synergy | 65.00% | ~2,995 |
 | Bone Peddler | 61.00% | ~2,810 |
-| Stronger Together | 56.00% | ~2,579 |
-| Full Ascension | 55.00% | ~2,533 |
+| Stronger Together | 56.00% | ~2,580 |
+| Full Ascension | 55.00% | ~2,534 |
 | There Can Only Be One! | 48.00% | ~2,211 |
 | Seat of Power | 48.00% | ~2,211 |
 | Intimidation Tactics | 45.00% | ~2,073 |
 | My Final Form | 44.00% | ~2,027 |
 | Valley of Wonders | 43.00% | ~1,981 |
-| In a Liege of Your Own | 39.00% | ~1,796 |
+| In a Liege of Your Own | 39.00% | ~1,797 |
 | Return of the Wizard King | 32.00% | ~1,474 |
 | Against the Odds | 32.00% | ~1,474 |
 | Digging for Treasure | 31.00% | ~1,428 |
@@ -50,8 +50,8 @@ Rating: 4.57 (Ranked 441)
 | Returning Circle | 0.40% | ~18 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,606 (Ranked 129)  
-Completed: 2 (0.04%) (Ranked 190)  
+Progressed: 4,607 (Ranked 129)  
+Completed: 3 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 2 (0.04%) (Ranked 190)
 | 2023-06-10 | 4,524 | 1 |
 | 2023-06-11 | 4,571 | 2 |
 | 2023-06-12 | 4,595 | 2 |
-| 2023-06-13 | 4,606 | 2 |
+| 2023-06-13 | 4,607 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

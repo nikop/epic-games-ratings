@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.50% | ~3,546 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,546 |
 | Detective Story | 0.50% | ~3,546 |
-| Prodigal Child | 0.40% | ~2,836 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,836 |
-| Sword Stained With Blood | 0.40% | ~2,836 |
+| Prodigal Child | 0.40% | ~2,837 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,837 |
+| Sword Stained With Blood | 0.40% | ~2,837 |
 | Martial Hub | 0.40% | ~74 |
 | Secure, Protect, Leave | 0.40% | ~74 |
 | Drunken Fighter | 0.30% | ~2,127 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,418 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,125 (Ranked 17)  
+Progressed: 709,136 (Ranked 17)  
 Completed: 12,769 (1.80%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 12,769 (1.80%) (Ranked 72)
 | 2023-06-10 | 708,593 | 12,764 |
 | 2023-06-11 | 708,823 | 12,766 |
 | 2023-06-12 | 708,992 | 12,767 |
-| 2023-06-13 | 709,125 | 12,769 |
+| 2023-06-13 | 709,136 | 12,769 |
 ## Awards
 Max (Great Boss Battles): 6,168  (Ranked 52)  
 Sum: 10,527 (Ranked 78)  

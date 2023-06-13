@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 7.04,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2023-06-13T02:17:13.2639176+00:00",
       "NumProgressed": 994,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-06-13T17:06:34.2987162+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 50,
@@ -2373,7 +2378,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "10",
@@ -2403,9 +2408,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 338
     },
     {
       "ID": "14",
@@ -2445,7 +2450,7 @@
       "Name": "Surprise!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "19",
@@ -2461,7 +2466,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "20",
@@ -2549,7 +2554,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "30",
@@ -2565,7 +2570,7 @@
       "Name": "Little Shop",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "32",
@@ -2581,7 +2586,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "34",
@@ -2605,7 +2610,7 @@
       "Name": "Dance Master",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "37",
@@ -2637,7 +2642,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "40",
@@ -2645,7 +2650,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "41",
@@ -2669,7 +2674,7 @@
       "Name": "An Actor!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "44",
@@ -2693,7 +2698,7 @@
       "Name": "Flower Power",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "47",
@@ -2709,7 +2714,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "49",
@@ -2723,9 +2728,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 388
     },
     {
       "ID": "50",
@@ -2749,7 +2754,7 @@
       "Name": "Fun Guy",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "8",
@@ -2765,14 +2770,14 @@
       "Name": "Curtain Call",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 70
     }
   ],
@@ -2780,8 +2785,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:07:13.4378074+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:06:34.2987155+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:57:46.621624+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:07:13.4378921+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:57:51.4310015+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:06:34.2987767+00:00"
 }

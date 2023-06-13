@@ -5,14 +5,14 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,277 |
-| The Outer Way | 14.00% | ~2,125 |
-| Desperate Times | 13.00% | ~1,973 |
+| Flesh Wound | 15.00% | ~2,278 |
+| The Outer Way | 14.00% | ~2,126 |
+| Desperate Times | 13.00% | ~1,974 |
 | Paper Jams | 11.00% | ~1,670 |
 | Reforged | 10.00% | ~1,518 |
-| Chew 'Em Up | 9.00% | ~1,366 |
-| Workplace Hazard | 9.00% | ~1,366 |
-| If the SHU Fits... | 9.00% | ~1,366 |
+| Chew 'Em Up | 9.00% | ~1,367 |
+| Workplace Hazard | 9.00% | ~1,367 |
+| If the SHU Fits... | 9.00% | ~1,367 |
 | Giving Back | 7.00% | ~1,063 |
 | Get a Grip | 7.00% | ~1,063 |
 | Without A Paddle | 7.00% | ~1,063 |
@@ -27,7 +27,7 @@ Rating: 4.18 (Ranked 843)
 | Full Circle | 4.00% | ~607 |
 | Instigator | 4.00% | ~124 |
 | Big Game Hunter | 4.00% | ~124 |
-| The Commonality | 3.00% | ~455 |
+| The Commonality | 3.00% | ~456 |
 | Bear Trap | 3.00% | ~93 |
 | I Do Belong Here | 2.00% | ~304 |
 | In Striking Distance | 2.00% | ~304 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,179 (Ranked 104)  
-Completed: 54 (0.36%) (Ranked 125)  
+Progressed: 15,185 (Ranked 104)  
+Completed: 54 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 54 (0.36%) (Ranked 125)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,179 | 54 |
+| 2023-06-13 | 15,185 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

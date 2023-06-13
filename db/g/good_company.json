@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4986,
+  "EOS_Progressed": 4988,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1589,6 +1589,11 @@
       "Time": "2023-06-13T14:05:45.460381+00:00",
       "NumProgressed": 4986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T17:06:58.5375443+00:00",
+      "NumProgressed": 4988,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1712,7 +1717,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1752,7 +1757,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ach_campaign_special10",
@@ -1856,7 +1861,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_campaign_special6",
@@ -1944,7 +1949,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_frp_high_networth",
@@ -1960,7 +1965,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -1992,7 +1997,7 @@
       "Name": "Salesperson",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_frp_many_products3",
@@ -2207,15 +2212,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4986,
+      "Progressed": 4988,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:07:39.6225434+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:06:58.5375439+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:59:40.7398777+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:07:39.6226377+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:59:29.0898579+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:06:58.5376431+00:00"
 }

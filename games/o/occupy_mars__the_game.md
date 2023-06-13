@@ -11,8 +11,8 @@ Rating: 3.85 (Ranked 923)
 | Zero Waste | 29.00% | ~357 |
 | Bob The Builder | 29.00% | ~357 |
 | I am the greatest botanist on this planet. | 28.00% | ~345 |
-| Gardener | 24.00% | ~295 |
-| Miner | 24.00% | ~295 |
+| Gardener | 24.00% | ~296 |
+| Miner | 24.00% | ~296 |
 | Occupy Mars! | 22.00% | ~271 |
 | Houston we have a problem | 21.00% | ~259 |
 | Detective | 18.00% | ~222 |
@@ -54,7 +54,7 @@ Rating: 3.85 (Ranked 923)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,231 (Ranked 167)  
+Progressed: 1,232 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 1,195 | 0 |
 | 2023-06-11 | 1,210 | 0 |
 | 2023-06-12 | 1,221 | 0 |
-| 2023-06-13 | 1,231 | 0 |
+| 2023-06-13 | 1,232 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

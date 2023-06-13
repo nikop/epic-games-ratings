@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "631ndc2",
       "Name": "Bar Brawler",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -451,9 +451,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -659,9 +659,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "631ndc2",
       "Name": "Amazing!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -732,8 +732,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:07:37.4701663+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:06:56.8275155+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:59:37.8015958+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:07:37.4702176+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:59:26.5921061+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:06:56.8275941+00:00"
 }

@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31292,
+  "EOS_Progressed": 31293,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5946,6 +5946,11 @@
       "Time": "2023-06-13T16:02:18.6057189+00:00",
       "NumProgressed": 31292,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-13T17:02:03.390991+00:00",
+      "NumProgressed": 31293,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -6157,7 +6162,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ach_legacyrival",
@@ -6173,7 +6178,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ach_legacyshipmate",
@@ -6189,7 +6194,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ach_portbell",
@@ -6301,7 +6306,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ach_sweetheart",
@@ -6388,15 +6393,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 31292,
+      "Progressed": 31293,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:02:18.6057182+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:02:03.3909906+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.1062336+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:00:30.4781061+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:02:18.6058088+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:00:12.7379001+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:02:03.3910746+00:00"
 }

@@ -14,10 +14,10 @@ Rating: 4.67 (Ranked 257)
 | Devoted | 8.00% | ~38 |
 | Gold rush | 6.00% | ~29 |
 | Spirit animal | 6.00% | ~29 |
+| Fishing fanatic | 5.00% | ~24 |
 | A friend in need... | 5.00% | ~24 |
 | Sneak peek | 4.00% | ~19 |
 | Favorite | 4.00% | ~19 |
-| Fishing fanatic | 4.00% | ~19 |
 | Liar Liar | 4.00% | ~19 |
 | The cycle acknowledged | 4.00% | ~19 |
 | Baba Yaga | 4.00% | ~19 |

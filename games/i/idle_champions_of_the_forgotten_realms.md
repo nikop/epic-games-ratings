@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,812 |
+| A Brief Tour of the Realms | 2.00% | ~1,813 |
 | Beast Intentions | 1.00% | ~906 |
 | The Cursed Farmer | 1.00% | ~906 |
 | The Mad Wizard | 1.00% | ~906 |
@@ -20,26 +20,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.60% | ~544 |
 | Friendly Imps | 0.60% | ~544 |
 | Coasting to the Finish | 0.60% | ~341 |
-| Checkmate | 0.50% | ~284 |
-| Vecna Out! | 0.50% | ~284 |
+| Checkmate | 0.50% | ~285 |
+| Vecna Out! | 0.50% | ~285 |
 | Terror in the Dark | 0.50% | ~453 |
 | Unearthed Evil | 0.50% | ~453 |
 | The Crumbling Temple | 0.50% | ~453 |
 | Exploring Port Nyanzaru | 0.50% | ~453 |
 | Pure Energy | 0.50% | ~453 |
-| Quick or Quack | 0.50% | ~284 |
-| Maddening | 0.40% | ~362 |
+| Quick or Quack | 0.50% | ~285 |
+| Maddening | 0.40% | ~363 |
 | Owlbear Necessities | 0.40% | ~228 |
 | Best Thay Ever | 0.40% | ~228 |
-| Beast Mode | 0.40% | ~362 |
-| Low Initiative | 0.40% | ~362 |
-| A Mysterious Summons | 0.40% | ~362 |
-| Building Trust | 0.40% | ~362 |
-| Useless Allies | 0.40% | ~362 |
-| Running of the Saurs | 0.40% | ~362 |
-| The Contagious Curse | 0.40% | ~362 |
-| Escort to Waterdeep | 0.40% | ~362 |
-| Waterdeep Detours | 0.40% | ~362 |
+| Beast Mode | 0.40% | ~363 |
+| Low Initiative | 0.40% | ~363 |
+| A Mysterious Summons | 0.40% | ~363 |
+| Building Trust | 0.40% | ~363 |
+| Useless Allies | 0.40% | ~363 |
+| Running of the Saurs | 0.40% | ~363 |
+| The Contagious Curse | 0.40% | ~363 |
+| Escort to Waterdeep | 0.40% | ~363 |
+| Waterdeep Detours | 0.40% | ~363 |
 | Tall Tales | 0.30% | ~171 |
 | Third Third Out | 0.30% | ~171 |
 | The Silken Swamp | 0.30% | ~272 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,624 (Ranked 64)  
-Completed: 1,930 (2.13%) (Ranked 65)  
+Progressed: 90,632 (Ranked 64)  
+Completed: 1,931 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,624 | 1,930 |
+| 2023-06-13 | 90,632 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,091 (Ranked 37)  

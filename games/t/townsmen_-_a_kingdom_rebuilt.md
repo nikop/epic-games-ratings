@@ -70,8 +70,8 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
 | Treat her well… | 0.80% | ~33 |
+| I've been everywhere II | 0.80% | ~33 |
 | When there's fire... | 0.70% | ~29 |
-| I've been everywhere II | 0.70% | ~29 |
 | Last man standing | 0.60% | ~25 |
 | Builder V | 0.60% | ~25 |
 | Ten-Hut! | 0.60% | ~25 |

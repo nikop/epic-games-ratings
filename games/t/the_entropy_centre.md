@@ -13,11 +13,11 @@
 | 48 Attempts | 32.00% | ~57 |
 | Man's Best Friend | 30.00% | ~53 |
 | Chain Reaction | 30.00% | ~53 |
-| Handyman | 20.00% | ~36 |
+| Handyman | 21.00% | ~37 |
 | No Time To Relax | 15.00% | ~27 |
 | Bad Robots | 13.00% | ~23 |
 | Running Boots | 12.00% | ~21 |
-| Archivist | 11.00% | ~20 |
+| Archivist | 12.00% | ~21 |
 | Fashionista | 11.00% | ~20 |
 | Looper | 10.00% | ~18 |
 | Kaboom! | 8.00% | ~14 |

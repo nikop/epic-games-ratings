@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2783,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3443,6 +3443,11 @@
       "Time": "2023-06-13T16:07:30.4227997+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T17:06:50.2371519+00:00",
+      "NumProgressed": 2783,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3494,7 +3499,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3510,7 +3515,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3534,7 +3539,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3574,23 +3579,23 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 250
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3622,7 +3627,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3654,7 +3659,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3678,7 +3683,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3702,7 +3707,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3766,7 +3771,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3822,7 +3827,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4021,13 +4026,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2730,
+      "Progressed": 2734,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2783,
       "Completed": 2
     }
   ],
@@ -4035,8 +4040,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:07:30.4227989+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:06:50.2371512+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:01:37.7736112+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:07:30.4228826+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:01:08.300315+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:06:50.2372978+00:00"
 }

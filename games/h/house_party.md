@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,562 (Ranked 126)  
-Completed: 3 (0.05%) (Ranked 186)  
+Progressed: 5,563 (Ranked 126)  
+Completed: 3 (0.05%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 3 (0.05%) (Ranked 186)
 | 2023-06-10 | 5,515 | 3 |
 | 2023-06-11 | 5,535 | 3 |
 | 2023-06-12 | 5,553 | 3 |
-| 2023-06-13 | 5,562 | 3 |
+| 2023-06-13 | 5,563 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

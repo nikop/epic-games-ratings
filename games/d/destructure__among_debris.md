@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 80.00% | ~114 |
+| Graduation | 79.00% | ~113 |
 | You Have Been Deaded | 73.00% | ~104 |
 | Rookie | 68.00% | ~97 |
 | Apprentice Destructor | 26.00% | ~37 |
@@ -14,11 +14,11 @@
 | Ball Galore | 6.00% | ~9 |
 | Easy Victory | 6.00% | ~9 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
-| Back From The Dead | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
-| Legendary Destructor | 4.00% | ~6 |
-| Ticking Clock | 4.00% | ~6 |
+| Back From The Dead | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
+| Legendary Destructor | 3.00% | ~4 |
+| Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~3 |
 | Collector | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 267)  
+Progressed: 143 (Ranked 267)  
 Completed: 1 (0.70%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.70%) (Ranked 105)
 | 2023-06-10 | 137 | 1 |
 | 2023-06-11 | 140 | 1 |
 | 2023-06-12 | 141 | 1 |
-| 2023-06-13 | 142 | 1 |
+| 2023-06-13 | 143 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

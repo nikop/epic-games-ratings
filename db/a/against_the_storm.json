@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2360,9 +2360,9 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15301,
+  "EOS_Progressed": 15302,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5300,6 +5300,11 @@
       "Time": "2023-06-13T14:05:46.7067992+00:00",
       "NumProgressed": 15301,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-13T17:06:59.775555+00:00",
+      "NumProgressed": 15302,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5309,9 +5314,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 153
     },
     {
       "ID": "AllFood",
@@ -5677,9 +5682,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 306
     },
     {
       "ID": "WinWithoutDeath",
@@ -5701,24 +5706,24 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15301,
+      "Progressed": 15302,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-13T08:01:00.2240295+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:07:40.8808192+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:06:59.7755542+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:00:57.7705671+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:07:40.8808771+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:00:35.2486792+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:06:59.7756419+00:00"
 }

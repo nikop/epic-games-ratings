@@ -10,13 +10,13 @@
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~16 |
 | Serial Winner | 12.00% | ~10 |
 | Like Phileas Fogg | 11.00% | ~9 |
+| Highly Qualified | 7.00% | ~6 |
 | No Room for Improvement | 7.00% | ~6 |
 | Start Your Engines | 7.00% | ~6 |
 | Lone Wolf | 7.00% | ~6 |
+| Playing God | 7.00% | ~6 |
 | Nerd | 6.00% | ~5 |
-| Highly Qualified | 6.00% | ~5 |
 | Upgradeaholic | 6.00% | ~5 |
-| Playing God | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | POI Hunter | 4.00% | ~3 |

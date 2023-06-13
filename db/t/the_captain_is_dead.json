@@ -2,7 +2,7 @@
   "ID": "2ea60d62cadd4ebd84f7b6c3dc6b1842",
   "Name": "The Captain is Dead",
   "ProductSlug": "the-captain-is-dead-b35c02",
-  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 104,
@@ -326,8 +326,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:02.588189+00:00",
-  "LastChanged_Achievements": "2023-06-13T16:04:23.027642+00:00",
+  "LastChanged_Achievements": "2023-06-13T17:04:05.1360793+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.2750004+00:00",
-  "LastUpdate_Ratings": "2023-06-13T15:58:06.1430053+00:00",
-  "LastUpdate_Achievements": "2023-06-13T16:04:23.0276702+00:00"
+  "LastUpdate_Ratings": "2023-06-13T16:58:08.0178087+00:00",
+  "LastUpdate_Achievements": "2023-06-13T17:04:05.1361141+00:00"
 }

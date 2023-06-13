@@ -14,15 +14,15 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 27.00% | ~118 |
 | Perfect Illusion | 22.00% | ~96 |
 | Hundred Percent First | 22.00% | ~96 |
+| Dirty Dozen | 18.00% | ~79 |
 | Fan Service | 17.00% | ~74 |
-| Dirty Dozen | 17.00% | ~74 |
 | Lion Tamer | 16.00% | ~70 |
+| Amazing! | 15.00% | ~66 |
 | King of District 1 | 14.00% | ~61 |
-| Amazing! | 14.00% | ~61 |
+| Bar Brawler | 13.00% | ~57 |
 | Flawless Presentation | 13.00% | ~57 |
 | One More Thing... | 12.00% | ~52 |
 | Lucky Day | 12.00% | ~52 |
-| Bar Brawler | 12.00% | ~52 |
 | King of District 2 | 11.00% | ~48 |
 | Time Travel! | 10.00% | ~44 |
 | Marketing Manager | 9.00% | ~39 |
