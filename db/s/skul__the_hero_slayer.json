@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7780,
+  "EOS_Progressed": 7781,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -2793,6 +2793,11 @@
       "Time": "2023-06-13T02:17:10.1006486+00:00",
       "NumProgressed": 7780,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-13T08:07:04.4729578+00:00",
+      "NumProgressed": 7781,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2852,7 +2857,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2916,7 +2921,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "RookieWelcome",
@@ -2940,7 +2945,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "SkeletonKing",
@@ -2956,7 +2961,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "TheLegendBegins",
@@ -2964,7 +2969,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7235
+      "UsersEstimate": 7236
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2988,22 +2993,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6457
+      "UsersEstimate": 6458
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7780,
+      "Progressed": 7781,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:06:51.8062309+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:07:04.4729569+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:59:31.1548323+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:06:51.806261+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:59:44.391351+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:07:04.4730064+00:00"
 }

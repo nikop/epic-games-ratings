@@ -1514,9 +1514,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64812,
+  "EOS_Progressed": 64817,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6134,6 +6134,11 @@
       "Time": "2023-06-13T07:07:22.7633846+00:00",
       "NumProgressed": 64812,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-13T08:07:35.1388853+00:00",
+      "NumProgressed": 64817,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6329,7 +6334,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6369,7 +6374,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "FREEZE_1_5",
@@ -6449,7 +6454,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "HARLEY_2",
@@ -6521,7 +6526,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -6537,7 +6542,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "MYSTERY_02",
@@ -6609,7 +6614,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -6632,13 +6637,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64812,
+      "Progressed": 64817,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35092,
+      "Progressed": 35097,
       "Completed": 2646
     }
   ],
@@ -6646,8 +6651,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-13T04:00:14.5555716+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:07:22.763384+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:07:35.1388843+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:00:30.6584947+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:07:22.7634827+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:00:43.1231772+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:07:35.1390372+00:00"
 }

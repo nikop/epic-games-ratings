@@ -2,10 +2,10 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 100,
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 102,
@@ -3741,6 +3741,6 @@
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
   "LastChanged": "2023-06-13T06:58:01.1967819+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:51.6360952+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:58:01.1967827+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:05:04.7363817+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:58:14.1761487+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:05:16.4447566+00:00"
 }

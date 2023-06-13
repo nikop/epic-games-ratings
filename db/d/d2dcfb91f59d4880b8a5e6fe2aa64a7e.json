@@ -224,9 +224,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EVADER",
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:04:32.7413683+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:04:43.837184+00:00",
   "LastUpdate_AppInfo": "2023-06-06T20:57:05.9575099+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:57:10.6765337+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:04:32.741389+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:57:24.0985543+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:04:43.8372075+00:00"
 }

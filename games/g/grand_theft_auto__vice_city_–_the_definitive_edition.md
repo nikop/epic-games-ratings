@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,590 |
+| Legal Counsel | 43.00% | ~3,591 |
 | Greasy Palms | 40.00% | ~3,340 |
 | South American Connection | 24.00% | ~2,004 |
 | Life of the Party | 18.00% | ~1,503 |
@@ -15,16 +15,16 @@ Rating: 4.61 (Ranked 361)
 | Salutations My Little Friend | 10.00% | ~835 |
 | Iron-y | 9.00% | ~752 |
 | Gun for Hire | 8.00% | ~668 |
-| Mischief Managed | 7.00% | ~584 |
+| Mischief Managed | 7.00% | ~585 |
 | Vice City Mogul | 6.00% | ~501 |
 | Bloodstained Hands | 6.00% | ~501 |
 | Catch Me if You Can | 5.00% | ~418 |
 | Grand Theft Auto | 5.00% | ~418 |
 | Not my First Time | 4.00% | ~334 |
-| Point A to Point B | 3.00% | ~250 |
-| High Quality H2O | 3.00% | ~250 |
-| Pie Guy | 3.00% | ~250 |
-| Don't Need Roads | 3.00% | ~250 |
+| Point A to Point B | 3.00% | ~251 |
+| High Quality H2O | 3.00% | ~251 |
+| Pie Guy | 3.00% | ~251 |
+| Don't Need Roads | 3.00% | ~251 |
 | Running Rampant | 2.00% | ~167 |
 | Bull in a China Shop | 2.00% | ~167 |
 | Somebody Call the Wambulance? | 2.00% | ~167 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 361)
 | Done it All | 0.70% | ~58 |
 | Kingpin | 0.40% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,350 (Ranked 115)  
+Progressed: 8,351 (Ranked 115)  
 Completed: 30 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 30 (0.36%) (Ranked 124)
 | 2023-06-10 | 8,173 | 29 |
 | 2023-06-11 | 8,264 | 29 |
 | 2023-06-12 | 8,321 | 30 |
-| 2023-06-13 | 8,350 | 30 |
+| 2023-06-13 | 8,351 | 30 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 388)  
 Sum: 52 (Ranked 438)  

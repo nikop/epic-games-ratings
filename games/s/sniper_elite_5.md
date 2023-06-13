@@ -5,14 +5,14 @@ Rating: 4.52 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~827 |
+| Meeting Resistance | 30.00% | ~828 |
 | Confirming Suspicions | 24.00% | ~662 |
-| The Kraken Wakes | 20.00% | ~551 |
-| It's Starting to Crack | 18.00% | ~496 |
+| The Kraken Wakes | 20.00% | ~552 |
+| It's Starting to Crack | 18.00% | ~497 |
 | Lord of War | 15.00% | ~414 |
 | Change the Channel | 15.00% | ~414 |
-| Resourceful | 13.00% | ~358 |
-| Taking it back | 13.00% | ~358 |
+| Resourceful | 13.00% | ~359 |
+| Taking it back | 13.00% | ~359 |
 | Organ Grinder | 11.00% | ~303 |
 | Target America | 11.00% | ~303 |
 | As Quiet as a Mouse | 10.00% | ~276 |
@@ -24,12 +24,12 @@ Rating: 4.52 (Ranked 515)
 | Sharpshooter | 8.00% | ~221 |
 | Explosive Efficiency | 8.00% | ~221 |
 | Opposing Force | 7.00% | ~193 |
-| Fields of Glory | 6.00% | ~165 |
-| Die Nussknacker Sweet! | 6.00% | ~165 |
-| Der Geist | 6.00% | ~165 |
-| Close Quarters | 6.00% | ~165 |
-| Snake in the Grass | 6.00% | ~165 |
-| Brains of the Operation | 6.00% | ~165 |
+| Fields of Glory | 6.00% | ~166 |
+| Die Nussknacker Sweet! | 6.00% | ~166 |
+| Der Geist | 6.00% | ~166 |
+| Close Quarters | 6.00% | ~166 |
+| Snake in the Grass | 6.00% | ~166 |
+| Brains of the Operation | 6.00% | ~166 |
 | Climbing the Ladder | 5.00% | ~138 |
 | No Stone Unturned | 5.00% | ~138 |
 | Skirmisher | 5.00% | ~138 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 515)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,757 (Ranked 145)  
+Progressed: 2,759 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,757 | 2 |
+| 2023-06-13 | 2,759 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

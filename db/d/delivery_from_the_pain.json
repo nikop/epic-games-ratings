@@ -2,7 +2,7 @@
   "ID": "808b7e84dc7145adac359cd19ac2442e",
   "Name": "Delivery from the Pain",
   "ProductSlug": "delivery-from-the-pain-73198e",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 102,
@@ -19,26 +19,681 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-06-13T08:03:18.8821149+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 81,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "b90k33f",
+      "Name": "Bad Ending 1",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "b90k33f",
+      "Name": "Dr. Duke Durability",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "b90k33f",
+      "Name": "Desperate Truths",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "b90k33f",
+      "Name": "Die in Diet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "b90k33f",
+      "Name": "Misfire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "b90k33f",
+      "Name": "Miller Mauled",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "b90k33f",
+      "Name": "Die before Heal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "b90k33f",
+      "Name": "Those Against Me",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "b90k33f",
+      "Name": "Miller\u0027s Leftovers",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "b90k33f",
+      "Name": "Miller Time",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "b90k33f",
+      "Name": "Road to Revenge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "b90k33f",
+      "Name": "Special Ending",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "b90k33f",
+      "Name": "Travesty \u0026 Tragedy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "b90k33f",
+      "Name": "Angel\u0027s Tread",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "b90k33f",
+      "Name": "Women\u0027s War",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "b90k33f",
+      "Name": "War of Attrition",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "b90k33f",
+      "Name": "Moira Moreover",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "b90k33f",
+      "Name": "Mother \u0026 Daughter Dawn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "b90k33f",
+      "Name": "Disservice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "b90k33f",
+      "Name": "Inviolable",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "b90k33f",
+      "Name": "Adamant",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "b90k33f",
+      "Name": "Behind Lurks",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "b90k33f",
+      "Name": "Bad Ending 2",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "b90k33f",
+      "Name": "Loke Lives!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "b90k33f",
+      "Name": "Avery Averted",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "b90k33f",
+      "Name": "Discontinued",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "b90k33f",
+      "Name": "Strange Change",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "b90k33f",
+      "Name": "Last Bullet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "b90k33f",
+      "Name": "Avery Always",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "b90k33f",
+      "Name": "Valhalla Bound",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "37",
+      "SetID": "b90k33f",
+      "Name": "Big Brother Begins",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "38",
+      "SetID": "b90k33f",
+      "Name": "Eye for an Eye",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "39",
+      "SetID": "b90k33f",
+      "Name": "Evermore",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "b90k33f",
+      "Name": "Good Ending",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40",
+      "SetID": "b90k33f",
+      "Name": "No survivor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41",
+      "SetID": "b90k33f",
+      "Name": "Amazing Grace",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "42",
+      "SetID": "b90k33f",
+      "Name": "Weird Scientist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "43",
+      "SetID": "b90k33f",
+      "Name": "Exterminator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "44",
+      "SetID": "b90k33f",
+      "Name": "Seek \u0026 Find",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "45",
+      "SetID": "b90k33f",
+      "Name": "Kill the Engine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "46",
+      "SetID": "b90k33f",
+      "Name": "Gift of Gab",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "47",
+      "SetID": "b90k33f",
+      "Name": "Voltage Vamoose",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "48",
+      "SetID": "b90k33f",
+      "Name": "In the Thick of It",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "49",
+      "SetID": "b90k33f",
+      "Name": "The homebody\u0027s love",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "b90k33f",
+      "Name": "Bad Ending 3",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50",
+      "SetID": "b90k33f",
+      "Name": "Twist of Fate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51",
+      "SetID": "b90k33f",
+      "Name": "Tobey",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "52",
+      "SetID": "b90k33f",
+      "Name": "Eat or be Eaten",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "53",
+      "SetID": "b90k33f",
+      "Name": "Binding Ties",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "54",
+      "SetID": "b90k33f",
+      "Name": "Little princess",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "55",
+      "SetID": "b90k33f",
+      "Name": "Sweet Dream",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "56",
+      "SetID": "b90k33f",
+      "Name": "Northbound",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "57",
+      "SetID": "b90k33f",
+      "Name": "Odd Odds",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "58",
+      "SetID": "b90k33f",
+      "Name": "Black \u0026 White",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "59",
+      "SetID": "b90k33f",
+      "Name": "Ulterior Motive",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "b90k33f",
+      "Name": "Endless Pain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60",
+      "SetID": "b90k33f",
+      "Name": "Best Laid Plan",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61",
+      "SetID": "b90k33f",
+      "Name": "Big Bang \u0026 Small Gang",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "62",
+      "SetID": "b90k33f",
+      "Name": "Cat Fight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "63",
+      "SetID": "b90k33f",
+      "Name": "Timely Arrival",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "64",
+      "SetID": "b90k33f",
+      "Name": "Beware Monsters",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "65",
+      "SetID": "b90k33f",
+      "Name": "2nd Chances",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "66",
+      "SetID": "b90k33f",
+      "Name": "Residual Value",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "67",
+      "SetID": "b90k33f",
+      "Name": "Unmissed Mist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "68",
+      "SetID": "b90k33f",
+      "Name": "Fetch \u0026 Carry",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "69",
+      "SetID": "b90k33f",
+      "Name": "Glitzy Girl",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "b90k33f",
+      "Name": "Wasted Effort",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70",
+      "SetID": "b90k33f",
+      "Name": "Sincerity",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71",
+      "SetID": "b90k33f",
+      "Name": "Upbeat Uplink",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "72",
+      "SetID": "b90k33f",
+      "Name": "Unveiled",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "73",
+      "SetID": "b90k33f",
+      "Name": "Tactless Tactics",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "74",
+      "SetID": "b90k33f",
+      "Name": "Gimme Gets",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "75",
+      "SetID": "b90k33f",
+      "Name": "Heart of the Matter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "76",
+      "SetID": "b90k33f",
+      "Name": "Just Say No",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "77",
+      "SetID": "b90k33f",
+      "Name": "Last Rites",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "78",
+      "SetID": "b90k33f",
+      "Name": "Unforgiven",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "79",
+      "SetID": "b90k33f",
+      "Name": "Bonds of Brotherhood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "b90k33f",
+      "Name": "Fragile Psyche",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "80",
+      "SetID": "b90k33f",
+      "Name": "Splash of blood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "81",
+      "SetID": "b90k33f",
+      "Name": "Hey! Here I am",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "b90k33f",
+      "Name": "Science Frontier",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b90k33f",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-06T03:16:17.7528576+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:02:26.6810175+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:03:18.8821143+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.7608115+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:58:58.6807115+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:02:26.6810206+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:59:11.7766155+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:03:18.882214+00:00"
 }

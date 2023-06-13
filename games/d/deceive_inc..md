@@ -5,33 +5,33 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,333 |
-| Mainframe Hacker | 47.00% | ~3,182 |
-| Tomorrow Never Dyes | 47.00% | ~3,182 |
-| The Spy who eliminated me | 47.00% | ~3,182 |
-| Never Say Loser Again | 41.00% | ~2,776 |
-| For your Eyes only | 39.00% | ~2,640 |
-| From the Vault with Love | 37.00% | ~2,505 |
-| Tailor-Made | 37.00% | ~2,505 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,334 |
+| Mainframe Hacker | 47.00% | ~3,183 |
+| Tomorrow Never Dyes | 47.00% | ~3,183 |
+| The Spy who eliminated me | 47.00% | ~3,183 |
+| Never Say Loser Again | 41.00% | ~2,777 |
+| For your Eyes only | 39.00% | ~2,641 |
+| From the Vault with Love | 37.00% | ~2,506 |
+| Tailor-Made | 37.00% | ~2,506 |
 | Fully Decked Out | 35.00% | ~2,370 |
-| You Only Live Twice | 33.00% | ~2,234 |
+| You Only Live Twice | 33.00% | ~2,235 |
 | A view to Win | 28.00% | ~1,896 |
-| Private Collection | 25.00% | ~1,692 |
-| Hostile Takeover | 25.00% | ~1,692 |
-| Smells Like Trouble | 25.00% | ~1,692 |
+| Private Collection | 25.00% | ~1,693 |
+| Hostile Takeover | 25.00% | ~1,693 |
+| Smells Like Trouble | 25.00% | ~1,693 |
 | Assistant Accountant | 24.00% | ~1,625 |
 | The Living Portrait | 24.00% | ~1,625 |
 | My Motto, My Creed | 24.00% | ~1,625 |
 | Killer Looks | 24.00% | ~1,625 |
-| Keycards Royale | 23.00% | ~1,557 |
-| Dr. No Kill | 23.00% | ~1,557 |
-| In It to Win It | 22.00% | ~1,489 |
+| Keycards Royale | 23.00% | ~1,558 |
+| Dr. No Kill | 23.00% | ~1,558 |
+| In It to Win It | 22.00% | ~1,490 |
 | Security Supervisor | 10.00% | ~677 |
 | Social of Solace | 9.00% | ~609 |
 | License to Thrill | 8.00% | ~542 |
 | Safe Withdrawal | 6.00% | ~406 |
-| Live and let lie | 5.00% | ~338 |
-| Call Me Maybe | 5.00% | ~338 |
+| Live and let lie | 5.00% | ~339 |
+| Call Me Maybe | 5.00% | ~339 |
 | PHD in VIP | 4.00% | ~271 |
 | Branch Manager | 3.00% | ~203 |
 | The terminals are not enough | 2.00% | ~135 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,770 (Ranked 119)  
+Progressed: 6,772 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 6,727 | 0 |
 | 2023-06-11 | 6,748 | 0 |
 | 2023-06-12 | 6,767 | 0 |
-| 2023-06-13 | 6,770 | 0 |
+| 2023-06-13 | 6,772 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

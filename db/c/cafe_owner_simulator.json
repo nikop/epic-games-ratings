@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -1613,6 +1613,11 @@
       "Time": "2023-06-12T22:05:29.9179225+00:00",
       "NumProgressed": 658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T08:07:03.2883376+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1632,7 +1637,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "CHIEF",
@@ -1640,7 +1645,7 @@
       "Name": "CHIEF",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CLEANER",
@@ -1648,7 +1653,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "DEBTOR",
@@ -1664,7 +1669,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "FIRST_100K",
@@ -1735,7 +1740,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 0
     }
   ],
@@ -1743,8 +1748,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:06:50.8371539+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:07:03.2883368+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.242026+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:00:05.5270208+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:06:50.8371884+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:00:18.2115538+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:07:03.2883658+00:00"
 }

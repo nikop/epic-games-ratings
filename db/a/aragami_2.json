@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34733,
+  "EOS_Progressed": 34734,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -5154,6 +5154,11 @@
       "Time": "2023-06-13T07:01:44.1364103+00:00",
       "NumProgressed": 34733,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-06-13T08:01:55.5910187+00:00",
+      "NumProgressed": 34734,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 44,
@@ -5285,7 +5290,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 28134
+      "UsersEstimate": 28135
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -5357,7 +5362,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12851
+      "UsersEstimate": 12852
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5389,7 +5394,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 19450
+      "UsersEstimate": 19451
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -5437,7 +5442,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 23618
+      "UsersEstimate": 23619
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -5501,7 +5506,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 32302
+      "UsersEstimate": 32303
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -5509,14 +5514,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 18061
+      "UsersEstimate": 18062
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34733,
+      "Progressed": 34734,
       "Completed": 170
     }
   ],
@@ -5524,8 +5529,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:01:44.1364096+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:01:55.5910178+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:58:48.5338396+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:01:44.1365099+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:59:01.8267483+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:01:55.5911209+00:00"
 }

@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2761,
+  "EOS_Progressed": 2762,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
@@ -2550,6 +2550,11 @@
       "Time": "2023-06-13T03:04:14.5682273+00:00",
       "NumProgressed": 2761,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-13T08:04:47.7320249+00:00",
+      "NumProgressed": 2762,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 24,
@@ -2649,7 +2654,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "20",
@@ -2665,7 +2670,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "22",
@@ -2673,7 +2678,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "23",
@@ -2697,7 +2702,7 @@
       "Name": "FRIENDLY",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "4",
@@ -2752,13 +2757,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2761,
+      "Progressed": 2762,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:04:36.5803356+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:04:47.7320238+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:59:33.6381556+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:04:36.5803694+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:59:46.8419229+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:04:47.7320784+00:00"
 }

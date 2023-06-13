@@ -7,27 +7,27 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~734 |
-| Project Arena | 3.00% | ~550 |
-| The Old Grandmaster | 1.00% | ~7,090 |
-| The Assault | 1.00% | ~7,090 |
-| The Hateful Pole Fighter | 1.00% | ~7,090 |
-| A Lady's Blood in the Snow | 1.00% | ~7,090 |
-| Lady Wing Chun | 1.00% | ~7,090 |
-| Furious Fists | 1.00% | ~7,090 |
-| Kill Nil | 1.00% | ~7,090 |
-| Stuntmaster | 1.00% | ~7,090 |
-| Street Fighting | 1.00% | ~7,090 |
-| Life is your teacher | 1.00% | ~7,090 |
-| State of constant learning | 1.00% | ~7,090 |
-| Qi Gong: Breath | 1.00% | ~7,090 |
-| Qi Gong: Essence | 1.00% | ~7,090 |
-| Old Child | 1.00% | ~7,090 |
-| Lightning Hands | 1.00% | ~7,090 |
-| Path of the Prospect | 1.00% | ~7,090 |
-| Rumble in the Hangar | 1.00% | ~7,090 |
-| Take damage to save time | 1.00% | ~7,090 |
-| Bloody Sport | 1.00% | ~183 |
-| The best strikes are the ones we avoid | 1.00% | ~183 |
+| Project Arena | 3.00% | ~551 |
+| The Old Grandmaster | 1.00% | ~7,091 |
+| The Assault | 1.00% | ~7,091 |
+| The Hateful Pole Fighter | 1.00% | ~7,091 |
+| A Lady's Blood in the Snow | 1.00% | ~7,091 |
+| Lady Wing Chun | 1.00% | ~7,091 |
+| Furious Fists | 1.00% | ~7,091 |
+| Kill Nil | 1.00% | ~7,091 |
+| Stuntmaster | 1.00% | ~7,091 |
+| Street Fighting | 1.00% | ~7,091 |
+| Life is your teacher | 1.00% | ~7,091 |
+| State of constant learning | 1.00% | ~7,091 |
+| Qi Gong: Breath | 1.00% | ~7,091 |
+| Qi Gong: Essence | 1.00% | ~7,091 |
+| Old Child | 1.00% | ~7,091 |
+| Lightning Hands | 1.00% | ~7,091 |
+| Path of the Prospect | 1.00% | ~7,091 |
+| Rumble in the Hangar | 1.00% | ~7,091 |
+| Take damage to save time | 1.00% | ~7,091 |
+| Bloody Sport | 1.00% | ~184 |
+| The best strikes are the ones we avoid | 1.00% | ~184 |
 | Scareless | 0.80% | ~5,672 |
 | Kung-Fu Tussle | 0.80% | ~5,672 |
 | Dance of the Praying Mantis | 0.70% | ~4,963 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,418 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,046 (Ranked 17)  
+Progressed: 709,053 (Ranked 17)  
 Completed: 12,768 (1.80%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 12,768 (1.80%) (Ranked 72)
 | 2023-06-10 | 708,593 | 12,764 |
 | 2023-06-11 | 708,823 | 12,766 |
 | 2023-06-12 | 708,992 | 12,767 |
-| 2023-06-13 | 709,046 | 12,768 |
+| 2023-06-13 | 709,053 | 12,768 |
 ## Awards
 Max (Great Boss Battles): 6,168  (Ranked 52)  
 Sum: 10,527 (Ranked 78)  

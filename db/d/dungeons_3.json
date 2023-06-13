@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2182,9 +2182,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 20058,
+  "EOS_Progressed": 20059,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -7682,6 +7682,11 @@
       "Time": "2023-06-13T07:05:32.9427629+00:00",
       "NumProgressed": 20058,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-06-13T08:05:44.7720176+00:00",
+      "NumProgressed": 20059,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 60,
@@ -7693,7 +7698,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 11834
+      "UsersEstimate": 11835
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -7701,7 +7706,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 9427
+      "UsersEstimate": 9428
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -7733,7 +7738,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4614
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -7789,7 +7794,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -7805,7 +7810,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 10029
+      "UsersEstimate": 10030
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -7837,7 +7842,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -7861,7 +7866,7 @@
       "Name": "Prepare the grave",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -7877,7 +7882,7 @@
       "Name": "Angel of Fire",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -7917,7 +7922,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 7421
+      "UsersEstimate": 7422
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -7925,7 +7930,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 8424
+      "UsersEstimate": 8425
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -8005,7 +8010,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -8021,7 +8026,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6018
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -8101,7 +8106,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -8149,7 +8154,7 @@
       "Name": "Lifeguard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -8172,15 +8177,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 20058,
+      "Progressed": 20059,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-10T18:59:48.1048312+00:00",
-  "LastChanged_Achievements": "2023-06-13T07:05:32.9427623+00:00",
+  "LastChanged_Achievements": "2023-06-13T08:05:44.7720168+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:33.2587756+00:00",
-  "LastUpdate_Ratings": "2023-06-13T06:59:48.7861877+00:00",
-  "LastUpdate_Achievements": "2023-06-13T07:05:32.9428693+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:00:01.7354696+00:00",
+  "LastUpdate_Achievements": "2023-06-13T08:05:44.7721113+00:00"
 }

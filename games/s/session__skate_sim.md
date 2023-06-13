@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 24.00% | ~579 |
 | Welcome to the family | 18.00% | ~434 |
 | The finer things in life | 16.00% | ~386 |
-| Backpacker | 12.00% | ~289 |
+| Backpacker | 12.00% | ~290 |
 | Go with the Flow | 11.00% | ~265 |
 | Plastic Surgeon | 9.00% | ~217 |
 | Keep the dream alive | 8.00% | ~193 |
@@ -27,18 +27,18 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~121 |
 | Sup widdit big dog! | 5.00% | ~121 |
 | Tight lipslides | 5.00% | ~121 |
-| Commence the Hijinx! | 4.00% | ~96 |
-| DIY Boss | 4.00% | ~96 |
-| Globetrotter | 4.00% | ~96 |
-| Laid back | 4.00% | ~96 |
-| Lines for days | 4.00% | ~96 |
-| Manny Destroys All | 4.00% | ~96 |
-| NAHELL! | 4.00% | ~96 |
-| Prince of Philly | 4.00% | ~96 |
-| Purple passion | 4.00% | ~96 |
-| Renaissance man | 4.00% | ~96 |
-| Tank commander | 4.00% | ~96 |
-| Trick shot marksman | 4.00% | ~96 |
+| Commence the Hijinx! | 4.00% | ~97 |
+| DIY Boss | 4.00% | ~97 |
+| Globetrotter | 4.00% | ~97 |
+| Laid back | 4.00% | ~97 |
+| Lines for days | 4.00% | ~97 |
+| Manny Destroys All | 4.00% | ~97 |
+| NAHELL! | 4.00% | ~97 |
+| Prince of Philly | 4.00% | ~97 |
+| Purple passion | 4.00% | ~97 |
+| Renaissance man | 4.00% | ~97 |
+| Tank commander | 4.00% | ~97 |
+| Trick shot marksman | 4.00% | ~97 |
 | Cops called! | 3.00% | ~72 |
 | G.O.A.T. status | 3.00% | ~72 |
 | Hoarder | 3.00% | ~72 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,412 (Ranked 149)  
+Progressed: 2,413 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 2,362 | 0 |
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
-| 2023-06-13 | 2,412 | 0 |
+| 2023-06-13 | 2,413 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  
