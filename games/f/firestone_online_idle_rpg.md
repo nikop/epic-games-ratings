@@ -6,14 +6,14 @@ Rating: 4.05 (Ranked 892)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,308 |
-| World Map | 80.00% | ~1,113 |
+| World Map | 80.00% | ~1,114 |
 | Temple of Eternals | 57.00% | ~793 |
-| Prestigious | 53.00% | ~737 |
-| Fellowship Power | 41.00% | ~570 |
+| Prestigious | 53.00% | ~738 |
+| Fellowship Power | 41.00% | ~571 |
 | Guild Power | 24.00% | ~334 |
 | Prestigious x10 | 21.00% | ~292 |
-| The game is on | 18.00% | ~250 |
-| Exotic Merchant | 17.00% | ~236 |
+| The game is on | 18.00% | ~251 |
+| Exotic Merchant | 17.00% | ~237 |
 | Dragon Clicker | 16.00% | ~223 |
 | Inspection | 15.00% | ~209 |
 | Miner Clicker | 15.00% | ~209 |
@@ -38,8 +38,8 @@ Rating: 4.05 (Ranked 892)
 | Frostfire Liberator | 7.00% | ~97 |
 | Mastery | 7.00% | ~97 |
 | Moving Up The Ladder | 7.00% | ~97 |
-| Four Leaf Clover | 6.00% | ~83 |
-| Trader | 6.00% | ~83 |
+| Four Leaf Clover | 6.00% | ~84 |
+| Trader | 6.00% | ~84 |
 | Here We Go Again | 5.00% | ~70 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 892)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,391 (Ranked 164)  
+Progressed: 1,392 (Ranked 164)  
 Completed: 1 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.07%) (Ranked 180)
 | 2023-06-11 | 1,376 | 1 |
 | 2023-06-12 | 1,385 | 1 |
 | 2023-06-13 | 1,390 | 1 |
-| 2023-06-14 | 1,391 | 1 |
+| 2023-06-14 | 1,392 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

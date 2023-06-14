@@ -9,7 +9,7 @@ Rating: 3.46 (Ranked 939)
 | Home Is Where the Heart Is | 59.00% | ~992 |
 | Ne Plus Ultra | 59.00% | ~992 |
 | Wounded Whispers | 59.00% | ~992 |
-| Blood Will Have Blood | 48.00% | ~807 |
+| Blood Will Have Blood | 49.00% | ~824 |
 | ICU | 44.00% | ~740 |
 | Catch and Release | 43.00% | ~723 |
 | Peek-a-boo | 42.00% | ~706 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 939)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,681 (Ranked 156)  
+Progressed: 1,681 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |

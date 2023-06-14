@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 630)  
+Rating: 4.44 (Ranked 629)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 32  (23.09.2022)
 | Daily Life Begins Anew | 81.00% | ~188 |
 | Our World Now | 81.00% | ~188 |
 | Never Saw It Coming | 66.00% | ~153 |
-| Coup de Grace | 57.00% | ~132 |
+| Coup de Grace | 58.00% | ~135 |
 | Go-Home Club Activities START! | 48.00% | ~111 |
 | Philanthropist | 40.00% | ~93 |
 | Test Your Luck | 34.00% | ~79 |

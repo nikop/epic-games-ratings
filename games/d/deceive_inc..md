@@ -1,21 +1,21 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 313)  
+Rating: 4.64 (Ranked 314)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,346 |
-| Mainframe Hacker | 47.00% | ~3,192 |
-| Tomorrow Never Dyes | 47.00% | ~3,192 |
-| The Spy who eliminated me | 47.00% | ~3,192 |
-| Never Say Loser Again | 40.00% | ~2,716 |
-| For your Eyes only | 39.00% | ~2,648 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,348 |
+| Mainframe Hacker | 47.00% | ~3,193 |
+| Tomorrow Never Dyes | 47.00% | ~3,193 |
+| The Spy who eliminated me | 47.00% | ~3,193 |
+| Never Say Loser Again | 40.00% | ~2,717 |
+| For your Eyes only | 39.00% | ~2,649 |
 | From the Vault with Love | 37.00% | ~2,513 |
 | Tailor-Made | 37.00% | ~2,513 |
-| Fully Decked Out | 35.00% | ~2,377 |
-| You Only Live Twice | 33.00% | ~2,241 |
-| A view to Win | 28.00% | ~1,901 |
+| Fully Decked Out | 35.00% | ~2,378 |
+| You Only Live Twice | 33.00% | ~2,242 |
+| A view to Win | 28.00% | ~1,902 |
 | Private Collection | 25.00% | ~1,698 |
 | Smells Like Trouble | 25.00% | ~1,698 |
 | Assistant Accountant | 24.00% | ~1,630 |
@@ -29,7 +29,7 @@ Rating: 4.64 (Ranked 313)
 | Security Supervisor | 10.00% | ~679 |
 | License to Thrill | 8.00% | ~543 |
 | Social of Solace | 8.00% | ~543 |
-| Safe Withdrawal | 6.00% | ~407 |
+| Safe Withdrawal | 6.00% | ~408 |
 | Live and let lie | 5.00% | ~340 |
 | Call Me Maybe | 5.00% | ~340 |
 | PHD in VIP | 4.00% | ~272 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,791 (Ranked 119)  
+Progressed: 6,793 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 6,748 | 0 |
 | 2023-06-12 | 6,767 | 0 |
 | 2023-06-13 | 6,791 | 0 |
+| 2023-06-14 | 6,793 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

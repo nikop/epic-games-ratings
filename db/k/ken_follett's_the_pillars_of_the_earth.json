@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13235,
+  "EOS_Progressed": 13236,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-06-13T23:05:19.9586385+00:00",
       "NumProgressed": 13235,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-14T02:15:57.7366393+00:00",
+      "NumProgressed": 13236,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4126,7 +4131,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "tpote_achievement_12",
@@ -4406,7 +4411,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "tpote_achievement_7",
@@ -4414,7 +4419,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "tpote_achievement_8",
@@ -4430,22 +4435,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13235,
+      "Progressed": 13236,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:06:53.6889344+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:15:57.7366386+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-14T00:00:43.5683223+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:06:53.6890008+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:10:04.8868824+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:15:57.7367028+00:00"
 }

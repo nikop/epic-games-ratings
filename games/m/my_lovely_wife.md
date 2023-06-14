@@ -8,22 +8,22 @@ Number of Ratings: 25  (23.09.2022)
 | ---- | ---------- | ----- |
 | Objective Complete | 97.00% | ~563 |
 | I did it! | 94.00% | ~545 |
+| Economical | 92.00% | ~534 |
 | Learner | 91.00% | ~528 |
-| Economical | 91.00% | ~528 |
 | Devout | 89.00% | ~516 |
 | The Love Martyr | 87.00% | ~505 |
 | Frugal | 85.00% | ~493 |
 | Dilligent | 82.00% | ~476 |
 | I... I did it? | 80.00% | ~464 |
-| Adored | 75.00% | ~435 |
+| Adored | 76.00% | ~441 |
 | The Hobbyist | 65.00% | ~377 |
 | A Forked Tongue | 54.00% | ~313 |
 | Between Two Fires | 51.00% | ~296 |
-| The Admirer | 50.00% | ~290 |
+| The Admirer | 51.00% | ~296 |
 | Precious | 44.00% | ~255 |
 | Devoted | 41.00% | ~238 |
 | The Farmer | 38.00% | ~220 |
-| Ever After | 35.00% | ~203 |
+| Ever After | 36.00% | ~209 |
 | Mandatory Sacrifice | 28.00% | ~162 |
 | Loyal | 27.00% | ~157 |
 | The Collector | 24.00% | ~139 |

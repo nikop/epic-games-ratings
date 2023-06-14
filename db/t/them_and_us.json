@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -563,6 +563,11 @@
       "Time": "2023-06-13T19:04:44.3774893+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T02:13:37.001977+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -582,7 +587,7 @@
       "Name": "Alone In The Dark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -590,7 +595,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -678,7 +683,7 @@
       "Name": "Them and Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -726,7 +731,7 @@
       "Name": "Open Sesame",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ETUA_OutRage",
@@ -734,7 +739,7 @@
       "Name": "OUTRAGE",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_PTD",
@@ -750,7 +755,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_Researcher",
@@ -780,9 +785,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ETUA_StayDead",
@@ -886,14 +891,14 @@
       "Name": "What have I done!?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 1
     }
   ],
@@ -901,8 +906,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:04:27.7485173+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:13:37.0019762+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:57:55.7148433+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:04:27.7485507+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:07:13.8985864+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:13:37.0020163+00:00"
 }

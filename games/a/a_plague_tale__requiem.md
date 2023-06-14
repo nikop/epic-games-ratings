@@ -5,24 +5,24 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,603 |
-| Newcomers | 77.00% | ~8,874 |
-| A Burden of Blood | 72.00% | ~8,298 |
-| Protector's Duty | 68.00% | ~7,837 |
+| Under a New Sun | 92.00% | ~10,604 |
+| Newcomers | 77.00% | ~8,875 |
+| A Burden of Blood | 72.00% | ~8,299 |
+| Protector's Duty | 68.00% | ~7,838 |
 | Alchemist | 67.00% | ~7,722 |
-| In our Wake | 66.00% | ~7,606 |
+| In our Wake | 66.00% | ~7,607 |
 | Leaving all Behind | 63.00% | ~7,261 |
-| Felons | 60.00% | ~6,915 |
-| A Sea of Promises | 58.00% | ~6,684 |
+| Felons | 60.00% | ~6,916 |
+| A Sea of Promises | 58.00% | ~6,685 |
 | Tales and Revelations | 55.00% | ~6,339 |
-| Bloodline | 50.00% | ~5,762 |
+| Bloodline | 50.00% | ~5,763 |
 | The Cradle of Centuries | 46.00% | ~5,302 |
 | The Life We Deserve | 44.00% | ~5,071 |
-| Night guard | 42.00% | ~4,840 |
-| Nothing Left | 37.00% | ~4,264 |
+| Night guard | 42.00% | ~4,841 |
+| Nothing Left | 37.00% | ~4,265 |
 | Healing our Wounds | 35.00% | ~4,034 |
 | Dying Sun | 31.00% | ~3,573 |
-| Improved crossbow | 26.00% | ~2,996 |
+| Improved crossbow | 26.00% | ~2,997 |
 | King Hugo | 23.00% | ~2,651 |
 | Mercy | 23.00% | ~2,651 |
 | Perfect shot | 22.00% | ~2,536 |
@@ -37,11 +37,11 @@ Rating: 4.73 (Ranked 156)
 | Ornithologist | 5.00% | ~576 |
 | Sneaky | 4.00% | ~461 |
 | Immortal memories | 3.00% | ~346 |
-| Old protector | 2.00% | ~230 |
+| Old protector | 2.00% | ~231 |
 | Explorer | 1.00% | ~115 |
 | Malignant | 1.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,525 (Ranked 109)  
+Progressed: 11,526 (Ranked 109)  
 Completed: 33 (0.29%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 33 (0.29%) (Ranked 138)
 | 2023-06-11 | 11,449 | 33 |
 | 2023-06-12 | 11,494 | 33 |
 | 2023-06-13 | 11,524 | 33 |
-| 2023-06-14 | 11,525 | 33 |
+| 2023-06-14 | 11,526 | 33 |
 ## Awards
 Max (Great Boss Battles): 405  (Ranked 203)  
 Sum: 581 (Ranked 288)  

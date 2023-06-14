@@ -53,17 +53,17 @@
       "ID": "ACH_ActivateGrace",
       "SetID": "aao9n96",
       "Name": "It\u0027s alive! It\u0027s alive!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AlignRelay",
       "SetID": "aao9n96",
       "Name": "Don\u0027t cross the streams",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AllRooms",
@@ -157,9 +157,9 @@
       "ID": "ACH_EnterHeaven",
       "SetID": "aao9n96",
       "Name": "I\u0027ve a feeling we\u0027re not in Kansas anymore",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EscapeTrap",
@@ -197,9 +197,9 @@
       "ID": "ACH_GraceEnding",
       "SetID": "aao9n96",
       "Name": "The hardest choices require the strongest wills",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 140,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HeldBreath",
@@ -221,9 +221,9 @@
       "ID": "ACH_Keeper",
       "SetID": "aao9n96",
       "Name": "Speak Friend and Enter",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LongJump",
@@ -253,9 +253,9 @@
       "ID": "ACH_OverridePanel",
       "SetID": "aao9n96",
       "Name": "Mess with the best, die like the rest",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_QuestionControl",
@@ -269,9 +269,9 @@
       "ID": "ACH_ResetRelay",
       "SetID": "aao9n96",
       "Name": "When we fix something it stays fixed",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Shortcut",
@@ -339,8 +339,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:05:21.8105756+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:14:29.6066655+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3812548+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:57:52.4701028+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:05:21.8106+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:07:10.6134558+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:14:29.6066945+00:00"
 }

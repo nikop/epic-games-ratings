@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 489,
   "Ranking_Popularity": 130,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
@@ -4849,10 +4849,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8729,
       "NumberOfAwardsMax": 1129
+    },
+    {
+      "Time": "2023-06-14T02:07:33.1482624+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8742,
+      "NumberOfAwardsMax": 1129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8729,
+  "NumberOfAwards": 8742,
   "NumberOfAwardsMax": 1129,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4890,13 +4896,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 994
+      "Count": 1001
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 966
+      "Count": 972
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4928,8 +4934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-06-13T21:57:48.9100742+00:00",
+  "LastChanged": "2023-06-14T02:07:33.1482622+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:38.4664287+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:58:14.8312843+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:04:56.7439634+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:07:33.148263+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:14:05.1882259+00:00"
 }

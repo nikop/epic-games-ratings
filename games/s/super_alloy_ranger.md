@@ -26,6 +26,7 @@
 | Decapitation Strike | 5.00% | ~2 |
 | The Deep Frozen Conqueror | 3.00% | ~1 |
 | The Infinite Train Conqueror | 3.00% | ~1 |
+| The Zero Dimensional Capital Conqueror | 3.00% | ~1 |
 | The Inactivated Frozen Conqueror | 3.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
 | Death Bringer Conqueror | 3.00% | ~1 |
@@ -37,7 +38,6 @@
 | Clean Sweep | 3.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Fortress Conqueror | 0.00% | ~0 |
-| The Zero Dimensional Capital Conqueror | 0.00% | ~0 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Break Through the Forbidden | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |

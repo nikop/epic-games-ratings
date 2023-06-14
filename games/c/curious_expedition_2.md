@@ -6,7 +6,7 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~187 |
+| The Adventure Begins | 60.00% | ~190 |
 | Cartographer | 53.00% | ~168 |
 | A Strange Artefact | 49.00% | ~155 |
 | Insomnia | 44.00% | ~139 |

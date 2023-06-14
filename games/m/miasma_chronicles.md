@@ -12,14 +12,14 @@ Rating: 4.32 (Ranked 751)
 | I am the law! | 60.00% | ~671 |
 | Lumberjack | 47.00% | ~525 |
 | Croaked | 43.00% | ~481 |
-| Limp Richard | 41.00% | ~458 |
+| Limp Richard | 42.00% | ~470 |
 | From Darkness to Light | 41.00% | ~458 |
 | Editor Adept | 40.00% | ~447 |
 | Exorcist | 40.00% | ~447 |
 | Firestarter | 38.00% | ~425 |
 | Giant Killer | 36.00% | ~402 |
 | Sensei | 35.00% | ~391 |
-| The meaning of Kain | 33.00% | ~369 |
+| The meaning of Kain | 34.00% | ~380 |
 | Technophobe | 31.00% | ~347 |
 | Recycler | 29.00% | ~324 |
 | Are you not entertained? | 25.00% | ~280 |
@@ -32,7 +32,7 @@ Rating: 4.32 (Ranked 751)
 | There Can Be Only One! | 20.00% | ~224 |
 | Hold The Line | 19.00% | ~212 |
 | Endgame | 18.00% | ~201 |
-| Savior | 17.00% | ~190 |
+| Savior | 18.00% | ~201 |
 | Newtonian Knockout | 15.00% | ~168 |
 | The Watchers | 15.00% | ~168 |
 | Ruthless | 12.00% | ~134 |

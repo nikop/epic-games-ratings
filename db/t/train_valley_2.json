@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -475,6 +475,11 @@
     {
       "Time": "2023-06-12T13:08:34.7801092+00:00",
       "NumProgressed": 735,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T02:13:43.4380768+00:00",
+      "NumProgressed": 736,
       "NumCompleted": 1
     }
   ],
@@ -711,7 +716,7 @@
       "Name": "Individual delivery",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -861,9 +866,9 @@
       "ID": "AchievementNonStop",
       "SetID": "76o014g",
       "Name": "Non-Stop",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "AchievementOneWay",
@@ -999,7 +1004,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AchievementTourismAge",
@@ -1086,21 +1091,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:04:33.3391282+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:13:43.4380759+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.4072923+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:58:13.6840989+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:04:33.3392107+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:07:32.0306345+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:13:43.4381573+00:00"
 }

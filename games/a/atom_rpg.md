@@ -1,21 +1,21 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 603)  
+Rating: 4.46 (Ranked 602)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Atom Agent | 99.00% | ~951 |
+| Wanderer | 35.00% | ~336 |
 | One HIT wonder | 34.00% | ~327 |
-| Wanderer | 34.00% | ~327 |
 | One shot, one kill | 28.00% | ~269 |
 | Traveler | 24.00% | ~231 |
 | Explorer | 18.00% | ~173 |
 | Head Burst | 18.00% | ~173 |
 | Grave Robber | 17.00% | ~163 |
 | Double agent | 15.00% | ~144 |
-| Paranoia | 14.00% | ~135 |
+| Paranoia | 15.00% | ~144 |
 | Kraina Grzybow | 9.00% | ~86 |
 | Love Guru | 9.00% | ~86 |
 | Savant | 9.00% | ~86 |

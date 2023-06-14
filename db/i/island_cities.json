@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 15.36,
+  "EOS_Completed_Percentage": 15.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1493,6 +1493,11 @@
       "Time": "2023-06-13T22:06:25.3521293+00:00",
       "NumProgressed": 332,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-14T02:15:53.5955709+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 22,
@@ -1504,7 +1509,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "LEVEL_002",
@@ -1520,7 +1525,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_004",
@@ -1536,7 +1541,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_006",
@@ -1544,7 +1549,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_007",
@@ -1574,9 +1579,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_011",
@@ -1592,7 +1597,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_013",
@@ -1600,7 +1605,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_014",
@@ -1616,7 +1621,7 @@
       "Name": "Monumental tribute",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_016",
@@ -1679,7 +1684,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 51
     }
   ],
@@ -1687,8 +1692,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:06:49.1729226+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:15:53.5955704+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:58:45.1700307+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:06:49.1729799+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:08:04.7902918+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:15:53.5955979+00:00"
 }

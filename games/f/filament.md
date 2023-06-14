@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 751)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~181,644 |
-| Snooper. | 10.00% | ~19,324 |
-| You have to start somewhere, right? | 7.00% | ~13,527 |
-| So you're saying I don't touch these ones? | 6.00% | ~11,594 |
-| Corrupted. | 5.00% | ~9,662 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,662 |
-| Answers can be found amongst the stars | 3.00% | ~5,797 |
-| Bend to the will of the arrows. | 3.00% | ~5,797 |
+| Boarded! | 94.00% | ~181,658 |
+| Snooper. | 10.00% | ~19,325 |
+| You have to start somewhere, right? | 7.00% | ~13,528 |
+| So you're saying I don't touch these ones? | 6.00% | ~11,595 |
+| Corrupted. | 5.00% | ~9,663 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,663 |
+| Answers can be found amongst the stars | 3.00% | ~5,798 |
+| Bend to the will of the arrows. | 3.00% | ~5,798 |
 | You've been through a lot. | 2.00% | ~3,865 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,865 |
 | I hope your remember your colour theory. | 2.00% | ~3,865 |
@@ -24,18 +24,18 @@ Rating: 4.32 (Ranked 751)
 | They're like really flat pillars. | 2.00% | ~3,865 |
 | That's a wrap. | 2.00% | ~3,865 |
 | In balance. | 2.00% | ~3,865 |
-| I hope you're ready. | 1.00% | ~1,932 |
+| I hope you're ready. | 1.00% | ~1,933 |
 | Cockpit | 0.70% | ~1,353 |
 | Names to faces. | 0.70% | ~1,353 |
 | Witness it. | 0.70% | ~1,353 |
-| Bridge crossed. | 0.60% | ~1,159 |
-| A full deck. | 0.60% | ~1,159 |
-| 14237b6509eafd8c | 0.60% | ~1,159 |
+| Bridge crossed. | 0.60% | ~1,160 |
+| A full deck. | 0.60% | ~1,160 |
+| 14237b6509eafd8c | 0.60% | ~1,160 |
 | No Anchor too great. | 0.50% | ~966 |
 | Snooper + | 0.40% | ~773 |
 | Corrupted + | 0.30% | ~580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,238 (Ranked 51)  
+Progressed: 193,253 (Ranked 51)  
 Completed: 437 (0.23%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 437 (0.23%) (Ranked 145)
 | 2023-06-11 | 193,035 | 435 |
 | 2023-06-12 | 193,136 | 436 |
 | 2023-06-13 | 193,233 | 437 |
-| 2023-06-14 | 193,238 | 437 |
+| 2023-06-14 | 193,253 | 437 |
 ## Awards
 Max (Challenging Puzzles): 554  (Ranked 179)  
 Sum: 668 (Ranked 268)  

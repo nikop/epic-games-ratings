@@ -6,25 +6,25 @@ Rating: 4.52 (Ranked 516)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 79.00% | ~1,322 |
-| Become King | 71.00% | ~1,188 |
+| Become King | 71.00% | ~1,189 |
 | Defeat 25 Frogs | 61.00% | ~1,021 |
 | Ranged Weapon | 60.00% | ~1,004 |
 | Collect Monster Parts | 57.00% | ~954 |
-| Two Handed Weapon | 55.00% | ~920 |
-| Defeat 25 Grubs | 51.00% | ~853 |
-| Rescue Redgi's Brothers | 51.00% | ~853 |
+| Two Handed Weapon | 55.00% | ~921 |
+| Defeat 25 Grubs | 51.00% | ~854 |
+| Rescue Redgi's Brothers | 51.00% | ~854 |
 | Collect Iron Ore | 46.00% | ~770 |
 | Defeat 25 Mozis | 45.00% | ~753 |
 | Kitchen Ready To Cook | 45.00% | ~753 |
-| Collect Gold | 44.00% | ~736 |
-| Smithy Ready to Craft | 44.00% | ~736 |
+| Collect Gold | 44.00% | ~737 |
+| Smithy Ready to Craft | 44.00% | ~737 |
 | Fix the Travellers Wagon | 42.00% | ~703 |
-| Complete Elder Faction | 40.00% | ~669 |
-| End of the Mozis | 36.00% | ~602 |
-| Throne Room Fit For A King | 36.00% | ~602 |
+| Complete Elder Faction | 39.00% | ~653 |
+| End of the Mozis | 36.00% | ~603 |
+| Throne Room Fit For A King | 36.00% | ~603 |
 | Meet the Creatures from the Deep | 34.00% | ~569 |
 | Return Power To The Depths | 34.00% | ~569 |
-| Defeat Ratnor Rodentson | 28.00% | ~468 |
+| Defeat Ratnor Rodentson | 28.00% | ~469 |
 | Return the Statues | 25.00% | ~418 |
 | Defeat Rattus Augustail | 25.00% | ~418 |
 | Complete the Chefs Book | 23.00% | ~385 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 516)
 | King of Kings | 7.00% | ~117 |
 | A new Warchief rises | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,673 (Ranked 157)  
+Progressed: 1,674 (Ranked 158)  
 Completed: 8 (0.48%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 8 (0.48%) (Ranked 119)
 | 2023-06-11 | 1,661 | 8 |
 | 2023-06-12 | 1,666 | 8 |
 | 2023-06-13 | 1,673 | 8 |
+| 2023-06-14 | 1,674 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

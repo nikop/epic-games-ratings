@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 1118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1827,9 +1827,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 470
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2043,9 +2043,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 190
+      "UsersEstimate": 201
     },
     {
       "ID": "SENSEI",
@@ -2099,9 +2099,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 380
     },
     {
       "ID": "THE_WATCHERS",
@@ -2132,8 +2132,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:03:38.691445+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:13:08.493711+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:59:01.2152642+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:03:38.6915408+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:08:21.8006968+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:13:08.4937778+00:00"
 }

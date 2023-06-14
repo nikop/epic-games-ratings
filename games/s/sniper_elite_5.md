@@ -5,33 +5,33 @@ Rating: 4.53 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~841 |
-| Confirming Suspicions | 25.00% | ~701 |
-| The Kraken Wakes | 20.00% | ~561 |
-| It's Starting to Crack | 18.00% | ~505 |
-| Lord of War | 15.00% | ~420 |
-| Change the Channel | 15.00% | ~420 |
-| Resourceful | 13.00% | ~364 |
-| Taking it back | 13.00% | ~364 |
-| Organ Grinder | 11.00% | ~308 |
-| Target America | 11.00% | ~308 |
-| As Quiet as a Mouse | 10.00% | ~280 |
-| The Kraken Sleeps | 10.00% | ~280 |
-| Liberté | 9.00% | ~252 |
-| Sharpshooter | 9.00% | ~252 |
-| Explosive Efficiency | 9.00% | ~252 |
-| Enemy at the Gates | 8.00% | ~224 |
-| Just a Flesh Wound | 8.00% | ~224 |
-| Gunslinger | 8.00% | ~224 |
-| Opposing Force | 7.00% | ~196 |
-| Climbing the Ladder | 6.00% | ~168 |
-| Fields of Glory | 6.00% | ~168 |
-| Skirmisher | 6.00% | ~168 |
-| Die Nussknacker Sweet! | 6.00% | ~168 |
-| Der Geist | 6.00% | ~168 |
-| Close Quarters | 6.00% | ~168 |
-| Snake in the Grass | 6.00% | ~168 |
-| Brains of the Operation | 6.00% | ~168 |
+| Meeting Resistance | 30.00% | ~843 |
+| Confirming Suspicions | 25.00% | ~702 |
+| The Kraken Wakes | 20.00% | ~562 |
+| It's Starting to Crack | 18.00% | ~506 |
+| Lord of War | 15.00% | ~421 |
+| Change the Channel | 15.00% | ~421 |
+| Resourceful | 13.00% | ~365 |
+| Taking it back | 13.00% | ~365 |
+| Organ Grinder | 11.00% | ~309 |
+| Target America | 11.00% | ~309 |
+| As Quiet as a Mouse | 10.00% | ~281 |
+| The Kraken Sleeps | 10.00% | ~281 |
+| Liberté | 9.00% | ~253 |
+| Sharpshooter | 9.00% | ~253 |
+| Explosive Efficiency | 9.00% | ~253 |
+| Enemy at the Gates | 8.00% | ~225 |
+| Just a Flesh Wound | 8.00% | ~225 |
+| Gunslinger | 8.00% | ~225 |
+| Opposing Force | 7.00% | ~197 |
+| Climbing the Ladder | 6.00% | ~169 |
+| Fields of Glory | 6.00% | ~169 |
+| Skirmisher | 6.00% | ~169 |
+| Die Nussknacker Sweet! | 6.00% | ~169 |
+| Der Geist | 6.00% | ~169 |
+| Close Quarters | 6.00% | ~169 |
+| Snake in the Grass | 6.00% | ~169 |
+| Brains of the Operation | 6.00% | ~169 |
 | No Stone Unturned | 5.00% | ~140 |
 | Set Europe Ablaze | 5.00% | ~140 |
 | Precision Is Key | 4.00% | ~112 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,803 (Ranked 144)  
+Progressed: 2,809 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 180)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,803 | 2 |
+| 2023-06-14 | 2,809 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

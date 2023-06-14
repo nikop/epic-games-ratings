@@ -2,7 +2,7 @@
   "ID": "f7dc1618d0bd4810a61f50d44333900e",
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
-  "Ranking_Rating": 80,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 450,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 1209,
   "RatingHistory": [
     {
@@ -1399,6 +1399,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 1154,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2023-06-14T02:08:40.5445584+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1154,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
@@ -1484,8 +1490,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2023-06-07T02:20:33.8457337+00:00",
+  "LastChanged": "2023-06-14T02:08:40.5445582+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:54.2081834+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:59:20.3674525+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:03:06.1361176+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:08:40.5445588+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:12:17.3741668+00:00"
 }

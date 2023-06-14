@@ -223,6 +223,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flame(skull) War | 0.20% | ~181 |
 | Enter the Sargauth | 0.20% | ~181 |
 | Elder Rune Madness | 0.20% | ~181 |
+| The Madness Grows | 0.20% | ~181 |
 | Who Lurks in Lurkwood | 0.20% | ~181 |
 | Orcs Are Wild | 0.20% | ~181 |
 | A Tale of Two Fiends | 0.20% | ~181 |
@@ -406,7 +407,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~91 |
 | Tanking Expectations | 0.10% | ~57 |
 | Servants of the Demon Prince | 0.10% | ~57 |
-| The Madness Grows | 0.10% | ~91 |
 | The Madness Peaks | 0.10% | ~57 |
 | Bullywugs in the Bog | 0.10% | ~91 |
 | Modrons in the Mud | 0.10% | ~91 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,654 (Ranked 64)  
+Progressed: 90,662 (Ranked 64)  
 Completed: 1,931 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 1,931 (2.13%) (Ranked 66)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,654 | 1,931 |
+| 2023-06-14 | 90,662 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,095 (Ranked 37)  

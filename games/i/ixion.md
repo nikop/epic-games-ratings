@@ -29,13 +29,13 @@ Rating: 4.57 (Ranked 441)
 | Necessary Enhancement | 3.00% | ~79 |
 | Convenient Transport | 3.00% | ~79 |
 | From the Past | 3.00% | ~79 |
-| Oats | 2.00% | ~52 |
-| What They Hide From Us | 2.00% | ~52 |
-| ...  in a finite world | 2.00% | ~52 |
-| In Dolos We Trust | 2.00% | ~52 |
-| BRAWL! | 2.00% | ~52 |
-| All in Good Health | 2.00% | ~52 |
-| What the Ruins Teach Us | 2.00% | ~52 |
+| Oats | 2.00% | ~53 |
+| What They Hide From Us | 2.00% | ~53 |
+| ...  in a finite world | 2.00% | ~53 |
+| In Dolos We Trust | 2.00% | ~53 |
+| BRAWL! | 2.00% | ~53 |
+| All in Good Health | 2.00% | ~53 |
+| What the Ruins Teach Us | 2.00% | ~53 |
 | Mutual Loyalty | 1.00% | ~26 |
 | Sustainable Energy | 1.00% | ~26 |
 | Praise the Hull! | 1.00% | ~26 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,625 (Ranked 147)  
+Progressed: 2,626 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 2,591 | 0 |
 | 2023-06-12 | 2,609 | 0 |
 | 2023-06-13 | 2,625 | 0 |
+| 2023-06-14 | 2,626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

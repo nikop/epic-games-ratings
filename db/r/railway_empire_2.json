@@ -50,9 +50,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1855,6 +1855,11 @@
       "Time": "2023-06-13T22:06:53.1353797+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T02:16:20.4488516+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1866,7 +1871,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "A01",
@@ -1946,7 +1951,7 @@
       "Name": "From X to Y",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "A11",
@@ -1962,7 +1967,7 @@
       "Name": "Departure",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "A13",
@@ -1978,7 +1983,7 @@
       "Name": "A new Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "A15",
@@ -1994,7 +1999,7 @@
       "Name": "Traffic Jam",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "A17",
@@ -2026,7 +2031,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "A21",
@@ -2034,7 +2039,7 @@
       "Name": "Country Life",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "A22",
@@ -2090,7 +2095,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "A29",
@@ -2138,7 +2143,7 @@
       "Name": "Producer",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "A35",
@@ -2146,7 +2151,7 @@
       "Name": "Traffic Junction",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "A36",
@@ -2186,7 +2191,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "A41",
@@ -2234,7 +2239,7 @@
       "Name": "Mystery Tour",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "A47",
@@ -2242,7 +2247,7 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "A48",
@@ -2305,7 +2310,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 0
     }
   ],
@@ -2313,8 +2318,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:07:17.208496+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:16:20.4488507+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-13T23:58:47.3741764+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:07:17.208553+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:08:07.3109366+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:16:20.4489213+00:00"
 }

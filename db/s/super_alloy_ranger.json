@@ -270,9 +270,9 @@
       "ID": "Achi_07",
       "SetID": "51a97k7",
       "Name": "The Zero Dimensional Capital Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_08",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-14T00:07:16.8929322+00:00",
+  "LastChanged_Achievements": "2023-06-14T02:16:20.1277964+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:24.0987529+00:00",
-  "LastUpdate_Ratings": "2023-06-14T00:00:39.568758+00:00",
-  "LastUpdate_Achievements": "2023-06-14T00:07:16.8929873+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:10:00.8396375+00:00",
+  "LastUpdate_Achievements": "2023-06-14T02:16:20.1278467+00:00"
 }
