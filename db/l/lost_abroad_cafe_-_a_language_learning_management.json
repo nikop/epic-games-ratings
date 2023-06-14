@@ -358,9 +358,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "coffee_100",
@@ -398,9 +398,9 @@
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "tea_100",
@@ -428,8 +428,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:05:53.4334838+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:05:19.6029389+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.1471766+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:59:13.5630802+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:05:44.8062502+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:58:57.6173671+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:05:19.6029486+00:00"
 }

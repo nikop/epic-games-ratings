@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -909,6 +909,11 @@
       "Time": "2023-06-14T13:13:10.1786701+00:00",
       "NumProgressed": 485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T21:06:14.9638525+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -982,9 +987,9 @@
       "ID": "Favourite",
       "SetID": "2aagp3d",
       "Name": "Favorite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "FisherKing",
@@ -1014,9 +1019,9 @@
       "ID": "GossipGirl",
       "SetID": "2aagp3d",
       "Name": "The word around is...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -1078,9 +1083,9 @@
       "ID": "Queen",
       "SetID": "2aagp3d",
       "Name": "Queen",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "Rats",
@@ -1134,9 +1139,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "Toxic",
@@ -1175,7 +1180,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 1
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:07:04.7065574+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:06:14.9638514+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:58:17.4357189+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:07:04.7065862+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:58:21.3357329+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:06:14.9638926+00:00"
 }

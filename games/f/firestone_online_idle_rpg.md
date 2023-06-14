@@ -49,12 +49,12 @@ Rating: 4.05 (Ranked 894)
 | Ancient Knowledge | 4.00% | ~56 |
 | Background Story | 4.00% | ~56 |
 | Crystal Mining | 4.00% | ~56 |
+| Dragon Slayer | 4.00% | ~56 |
 | Enchanting skill | 4.00% | ~56 |
 | Engineer Mastery | 4.00% | ~56 |
 | Lock And Load | 4.00% | ~56 |
 | Missions Dedication | 4.00% | ~56 |
 | Blueprint Upgrades | 3.00% | ~42 |
-| Dragon Slayer | 3.00% | ~42 |
 | Sailor | 3.00% | ~42 |
 | Arena Challenger | 2.00% | ~28 |
 | Ebony Jungle Liberator | 2.00% | ~28 |

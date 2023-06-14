@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2843,
+  "EOS_Progressed": 2848,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3548,6 +3548,11 @@
       "Time": "2023-06-14T20:07:13.7271285+00:00",
       "NumProgressed": 2843,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T21:06:21.0715971+00:00",
+      "NumProgressed": 2848,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3599,7 +3604,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3615,7 +3620,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3639,7 +3644,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3679,7 +3684,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3727,7 +3732,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3767,7 +3772,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3789,9 +3794,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3799,7 +3804,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3807,15 +3812,15 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3871,7 +3876,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3895,7 +3900,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3933,9 +3938,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3949,9 +3954,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 313
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3967,7 +3972,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4126,13 +4131,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2794,
+      "Progressed": 2799,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2843,
+      "Progressed": 2848,
       "Completed": 2
     }
   ],
@@ -4140,8 +4145,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:07:13.727128+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:06:21.0715964+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:01:36.0519775+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:07:13.7272164+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:00:32.695425+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:06:21.0717352+00:00"
 }

@@ -39,15 +39,15 @@
 | Heartbreaker | 34.00% | ~339 |
 | Kidnapped! | 34.00% | ~339 |
 | Pull the Plug | 33.00% | ~329 |
+| All Heart | 33.00% | ~329 |
 | Trick Question! | 33.00% | ~329 |
 | Soul Slayer | 32.00% | ~319 |
 | The Downfall | 32.00% | ~319 |
-| All Heart | 32.00% | ~319 |
 | Final Showdown | 32.00% | ~319 |
 | Spot of Tea? | 32.00% | ~319 |
 | Going Home | 32.00% | ~319 |
 | Extraordinary! | 31.00% | ~309 |
-| Mirror, Mirror | 29.00% | ~289 |
+| Mirror, Mirror | 30.00% | ~299 |
 | Flower Power | 26.00% | ~259 |
 | Shopping Spree! | 24.00% | ~240 |
 | Crowned | 22.00% | ~220 |

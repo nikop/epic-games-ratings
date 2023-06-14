@@ -5,21 +5,21 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,661 |
-| Realm Estate | 76.00% | ~3,522 |
+| A Wonderful Discovery | 79.00% | ~3,662 |
+| Realm Estate | 76.00% | ~3,523 |
 | Secret Technique | 75.00% | ~3,476 |
-| Walls Cannot Stop Us | 73.00% | ~3,383 |
-| From Friends to Family | 69.00% | ~3,197 |
-| Magical Synergy | 65.00% | ~3,012 |
+| Walls Cannot Stop Us | 73.00% | ~3,384 |
+| From Friends to Family | 69.00% | ~3,198 |
+| Magical Synergy | 65.00% | ~3,013 |
 | Bone Peddler | 61.00% | ~2,827 |
-| Stronger Together | 56.00% | ~2,595 |
+| Stronger Together | 56.00% | ~2,596 |
 | Full Ascension | 55.00% | ~2,549 |
-| There Can Only Be One! | 48.00% | ~2,224 |
-| Seat of Power | 48.00% | ~2,224 |
-| Intimidation Tactics | 45.00% | ~2,085 |
+| There Can Only Be One! | 48.00% | ~2,225 |
+| Seat of Power | 48.00% | ~2,225 |
+| Intimidation Tactics | 45.00% | ~2,086 |
 | My Final Form | 44.00% | ~2,039 |
 | Valley of Wonders | 43.00% | ~1,993 |
-| In a Liege of Your Own | 39.00% | ~1,807 |
+| In a Liege of Your Own | 39.00% | ~1,808 |
 | Return of the Wizard King | 32.00% | ~1,483 |
 | Against the Odds | 32.00% | ~1,483 |
 | Digging for Treasure | 31.00% | ~1,437 |
@@ -35,8 +35,8 @@ Rating: 4.58 (Ranked 421)
 | The Goddess of Nature | 15.00% | ~695 |
 | Fiery Friend | 15.00% | ~695 |
 | Lord of Chaos | 14.00% | ~649 |
-| The Eternal Court | 10.00% | ~463 |
-| Pruning for Progress | 10.00% | ~463 |
+| The Eternal Court | 10.00% | ~464 |
+| Pruning for Progress | 10.00% | ~464 |
 | Jack of All Tomes | 9.00% | ~417 |
 | I've Got Everything I Need Right Here | 7.00% | ~324 |
 | Grexolis | 5.00% | ~232 |
@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 421)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,634 (Ranked 129)  
+Progressed: 4,635 (Ranked 129)  
 Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 3 (0.06%) (Ranked 189)
 | 2023-06-11 | 4,571 | 2 |
 | 2023-06-12 | 4,595 | 2 |
 | 2023-06-13 | 4,615 | 3 |
-| 2023-06-14 | 4,634 | 3 |
+| 2023-06-14 | 4,635 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

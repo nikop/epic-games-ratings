@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6478,
+  "EOS_Progressed": 6479,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
@@ -3544,6 +3544,11 @@
       "Time": "2023-06-14T19:06:55.7192297+00:00",
       "NumProgressed": 6478,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-14T21:06:02.0769223+00:00",
+      "NumProgressed": 6479,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3571,7 +3576,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3603,7 +3608,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3722,7 +3727,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6478,
+      "Progressed": 6479,
       "Completed": 24
     }
   ],
@@ -3730,8 +3735,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:06:47.0170655+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:06:02.0769218+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:58:21.3379519+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:06:47.0171008+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:58:23.9283091+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:06:02.0769591+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,232 |
+| For Demacia | 96.00% | ~2,255 |
 | No more cages! | 92.00% | ~2,161 |
 | Everfrost | 77.00% | ~1,809 |
 | Pentakill | 76.00% | ~1,785 |
@@ -37,10 +37,10 @@ Rating: 4.80 (Ranked 80)
 | No more holding back | 15.00% | ~352 |
 | Whispers in the Woods III | 14.00% | ~329 |
 | True power | 14.00% | ~329 |
+| Meltridge | 14.00% | ~329 |
 | Terbisia | 14.00% | ~329 |
 | My heart and sword always for Demacia | 13.00% | ~305 |
 | Friendly fire | 13.00% | ~305 |
-| Meltridge | 13.00% | ~305 |
 | The Central Headquarters | 13.00% | ~305 |
 | Cloven Dell Headquarters | 13.00% | ~305 |
 | Embrace the darkness | 11.00% | ~258 |

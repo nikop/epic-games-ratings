@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4634,
+  "EOS_Progressed": 4635,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3866,6 +3866,11 @@
       "Time": "2023-06-14T20:05:26.1676565+00:00",
       "NumProgressed": 4634,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T21:05:03.8331307+00:00",
+      "NumProgressed": 4635,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3893,7 +3898,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "12",
@@ -3989,7 +3994,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "23",
@@ -3997,7 +4002,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "24",
@@ -4013,7 +4018,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "26",
@@ -4037,7 +4042,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "29",
@@ -4045,7 +4050,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "3",
@@ -4069,7 +4074,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3012
+      "UsersEstimate": 3013
     },
     {
       "ID": "32",
@@ -4085,7 +4090,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "34",
@@ -4093,7 +4098,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "35",
@@ -4141,7 +4146,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "40",
@@ -4149,7 +4154,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "41",
@@ -4181,7 +4186,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "5",
@@ -4228,13 +4233,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4634,
-      "Completed": 4634
+      "Progressed": 4635,
+      "Completed": 4635
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4634,
+      "Progressed": 4635,
       "Completed": 3
     }
   ],
@@ -4242,8 +4247,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-14T09:59:02.8248749+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:05:26.1676556+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:05:03.8331297+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:00:16.0379415+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:05:26.1677161+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:59:40.0996255+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:05:03.8332349+00:00"
 }

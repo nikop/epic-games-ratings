@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,991 |
-| That's a Grand Army | 8.00% | ~4,436 |
-| That is mine! | 8.00% | ~4,436 |
-| Victorious! | 8.00% | ~4,436 |
-| Brothers in Arms | 6.00% | ~3,327 |
-| That's a Grand Navy | 6.00% | ~3,327 |
-| Seriously?! | 6.00% | ~3,327 |
-| For the Glory | 5.00% | ~2,773 |
-| Cold War | 4.00% | ~2,218 |
-| True Catholic | 4.00% | ~2,218 |
+| Until death do us apart | 9.00% | ~4,993 |
+| That's a Grand Army | 8.00% | ~4,439 |
+| That is mine! | 8.00% | ~4,439 |
+| Victorious! | 8.00% | ~4,439 |
+| Brothers in Arms | 6.00% | ~3,329 |
+| That's a Grand Navy | 6.00% | ~3,329 |
+| Seriously?! | 6.00% | ~3,329 |
+| For the Glory | 5.00% | ~2,774 |
+| Cold War | 4.00% | ~2,219 |
+| True Catholic | 4.00% | ~2,219 |
 | Defender of the Faith | 3.00% | ~1,664 |
 | It's all about the money | 3.00% | ~1,664 |
 | Respected | 3.00% | ~1,664 |
 | Truly Divine Ruler | 3.00% | ~1,664 |
-| Agressive Expander | 2.00% | ~1,109 |
-| Blockader | 2.00% | ~1,109 |
-| Combined Arms | 2.00% | ~1,109 |
-| Double the Love | 2.00% | ~1,109 |
-| Gentle Persuasion | 2.00% | ~1,109 |
-| It's all about luck | 2.00% | ~1,109 |
-| My armies are invincible! | 2.00% | ~1,109 |
-| Queen of Conquest | 2.00% | ~1,109 |
-| Royal Authority | 2.00% | ~1,109 |
-| The Princess is in this Castle | 2.00% | ~1,109 |
-| Total Control | 2.00% | ~1,109 |
+| Agressive Expander | 2.00% | ~1,110 |
+| Blockader | 2.00% | ~1,110 |
+| Combined Arms | 2.00% | ~1,110 |
+| Double the Love | 2.00% | ~1,110 |
+| Gentle Persuasion | 2.00% | ~1,110 |
+| It's all about luck | 2.00% | ~1,110 |
+| My armies are invincible! | 2.00% | ~1,110 |
+| Queen of Conquest | 2.00% | ~1,110 |
+| Royal Authority | 2.00% | ~1,110 |
+| The Princess is in this Castle | 2.00% | ~1,110 |
+| Total Control | 2.00% | ~1,110 |
 | All That's Thine Shall Be Mine | 1.00% | ~555 |
 | Azur semé de lis or | 1.00% | ~555 |
 | Bright Spark | 1.00% | ~555 |
@@ -64,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.40% | ~222 |
 | Grand Coalition | 0.40% | ~222 |
 | In the Name of the Father | 0.40% | ~222 |
+| Italian Ambition | 0.40% | ~222 |
 | Just a Little Patience | 0.40% | ~222 |
 | Live Long and Prosper | 0.40% | ~222 |
 | One Night in Paris | 0.40% | ~222 |
@@ -72,7 +73,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Decent Reserve | 0.30% | ~166 |
 | A Pile of Gold | 0.30% | ~166 |
 | Grand Duchy | 0.30% | ~166 |
-| Italian Ambition | 0.30% | ~166 |
 | Multiculturalism | 0.30% | ~166 |
 | No Pirates in my Caribbean | 0.30% | ~166 |
 | Not so sad a state... | 0.30% | ~166 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,454 (Ranked 76)  
+Progressed: 55,483 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
-| 2023-06-14 | 55,454 | 0 |
+| 2023-06-14 | 55,483 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
 Sum: 44,546 (Ranked 27)  

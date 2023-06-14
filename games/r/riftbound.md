@@ -10,8 +10,8 @@
 | Getting Good At This | 18.00% | ~7 |
 | Evolution Revolution | 11.00% | ~4 |
 | Five Of A Kind | 8.00% | ~3 |
+| I'm A Wizard | 8.00% | ~3 |
 | Hold The Line | 5.00% | ~2 |
-| I'm A Wizard | 5.00% | ~2 |
 | Ender Ender | 3.00% | ~1 |
 | Full House | 3.00% | ~1 |
 | Over 9000 | 3.00% | ~1 |

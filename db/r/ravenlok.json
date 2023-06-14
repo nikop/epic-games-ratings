@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2511,9 +2511,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 329
     },
     {
       "ID": "24",
@@ -2663,9 +2663,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 299
     },
     {
       "ID": "41",
@@ -2800,8 +2800,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:06:55.9891913+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:06:08.6211099+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:57:43.976992+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:06:55.9892474+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:57:59.3960646+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:06:08.6212095+00:00"
 }

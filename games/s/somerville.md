@@ -9,8 +9,8 @@ Rating: 4.20 (Ranked 827)
 | Worlds best dad. | 13.00% | ~206 |
 | Resignation Reprise. | 9.00% | ~142 |
 | War of the worlds. | 7.00% | ~111 |
+| Resignation. | 6.00% | ~95 |
 | Admiring the view. | 6.00% | ~95 |
-| Resignation. | 5.00% | ~79 |
 | Blues Jam. | 3.00% | ~47 |
 | Family First. | 3.00% | ~47 |
 | Understanding. | 3.00% | ~47 |

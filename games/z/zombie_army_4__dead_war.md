@@ -6,41 +6,41 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,098 |
-| Say goodbye, creep! | 65.00% | ~27,814 |
-| Blood splattered | 65.00% | ~27,814 |
-| Choo choo! | 62.00% | ~26,530 |
-| Groovy | 61.00% | ~26,103 |
-| Cleanup on aisle 4! | 57.00% | ~24,391 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,099 |
+| Say goodbye, creep! | 65.00% | ~27,815 |
+| Blood splattered | 65.00% | ~27,815 |
+| Choo choo! | 62.00% | ~26,532 |
+| Groovy | 61.00% | ~26,104 |
+| Cleanup on aisle 4! | 57.00% | ~24,392 |
 | Gold | 50.00% | ~21,396 |
-| The boat can leave now...tell the crew | 48.00% | ~20,540 |
-| Stand back boy! | 47.00% | ~20,112 |
-| Give me something to shoot! | 46.00% | ~19,684 |
-| Weird science | 44.00% | ~18,828 |
-| Chain reaction | 44.00% | ~18,828 |
-| Look mummy! A shark! | 41.00% | ~17,544 |
-| What did you say, Blain? | 41.00% | ~17,544 |
+| The boat can leave now...tell the crew | 48.00% | ~20,541 |
+| Give me something to shoot! | 46.00% | ~19,685 |
+| Stand back boy! | 46.00% | ~19,685 |
+| Weird science | 44.00% | ~18,829 |
+| Chain reaction | 44.00% | ~18,829 |
+| Look mummy! A shark! | 41.00% | ~17,545 |
+| What did you say, Blain? | 41.00% | ~17,545 |
 | In the dark dark woods... | 38.00% | ~16,261 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,261 |
 | Double tap | 37.00% | ~15,833 |
 | Cranial blowout! | 36.00% | ~15,405 |
 | Zombie killin' machine | 36.00% | ~15,405 |
 | Every bullet counts | 36.00% | ~15,405 |
-| All of this has happened before… | 35.00% | ~14,977 |
-| You've got red on you | 34.00% | ~14,549 |
-| All roads lead to Rome | 33.00% | ~14,121 |
-| You're all going to die down here | 31.00% | ~13,265 |
-| He did Nazi that coming | 31.00% | ~13,265 |
-| Kill of the week | 31.00% | ~13,265 |
-| I never liked them anyway | 30.00% | ~12,837 |
-| Is it over? | 28.00% | ~11,981 |
+| All of this has happened before… | 35.00% | ~14,978 |
+| You've got red on you | 34.00% | ~14,550 |
+| All roads lead to Rome | 33.00% | ~14,122 |
+| You're all going to die down here | 31.00% | ~13,266 |
+| He did Nazi that coming | 31.00% | ~13,266 |
+| Kill of the week | 31.00% | ~13,266 |
+| I never liked them anyway | 30.00% | ~12,838 |
+| Is it over? | 28.00% | ~11,982 |
 | Got your back | 27.00% | ~11,554 |
 | Gore soaked | 24.00% | ~10,270 |
 | Shock therapy | 22.00% | ~9,414 |
 | Leave the limbs you've lost | 22.00% | ~9,414 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,702 |
-| Take them down screaming | 18.00% | ~7,702 |
-| Weapons expert | 17.00% | ~7,274 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,703 |
+| Take them down screaming | 18.00% | ~7,703 |
+| Weapons expert | 17.00% | ~7,275 |
 | Bad Blood | 16.00% | ~6,847 |
 | The bigger they are... | 15.00% | ~6,419 |
 | I'm going deeper underground | 14.00% | ~5,991 |
@@ -49,17 +49,17 @@ Number of Ratings: 743  (23.09.2022)
 | Damnedbusters | 9.00% | ~3,851 |
 | I can do anything I want. I got guns | 8.00% | ~3,423 |
 | Send me an angel | 8.00% | ~3,423 |
-| Plane sailing | 7.00% | ~2,995 |
-| This is no Sunday School picnic! | 7.00% | ~2,995 |
-| I never redoubted you! | 7.00% | ~2,995 |
-| Gotcha, didn't I? | 7.00% | ~2,995 |
-| A gross gross | 7.00% | ~2,995 |
-| Hail to the king, baby! | 7.00% | ~2,995 |
-| Something wicked this way comes | 6.00% | ~2,567 |
-| Not today you won't | 6.00% | ~2,567 |
-| Take a little bit of Italy with you | 6.00% | ~2,567 |
-| Staring at Shadows | 6.00% | ~2,567 |
-| Hoarder | 6.00% | ~2,567 |
+| Plane sailing | 7.00% | ~2,996 |
+| This is no Sunday School picnic! | 7.00% | ~2,996 |
+| I never redoubted you! | 7.00% | ~2,996 |
+| Gotcha, didn't I? | 7.00% | ~2,996 |
+| A gross gross | 7.00% | ~2,996 |
+| Hail to the king, baby! | 7.00% | ~2,996 |
+| Something wicked this way comes | 6.00% | ~2,568 |
+| Not today you won't | 6.00% | ~2,568 |
+| Take a little bit of Italy with you | 6.00% | ~2,568 |
+| Staring at Shadows | 6.00% | ~2,568 |
+| Hoarder | 6.00% | ~2,568 |
 | Kali Ma | 5.00% | ~2,140 |
 | I told you we should have gone to the beach | 5.00% | ~2,140 |
 | Have you tried turning it off and on again? | 5.00% | ~2,140 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~428 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,791 (Ranked 84)  
+Progressed: 42,793 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 25 (0.06%) (Ranked 189)
 | 2023-06-11 | 42,752 | 25 |
 | 2023-06-12 | 42,766 | 25 |
 | 2023-06-13 | 42,783 | 25 |
-| 2023-06-14 | 42,791 | 25 |
+| 2023-06-14 | 42,793 | 25 |
 ## Awards
 Max (Great Boss Battles): 789  (Ranked 149)  
 Sum: 2,407 (Ranked 168)  

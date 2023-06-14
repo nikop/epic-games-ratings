@@ -5,37 +5,37 @@ Rating: 4.25 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,149 |
-| Copacetic Coordination | 16.00% | ~51,530 |
-| Fronting the Money | 14.00% | ~45,089 |
-| The Dawn of Automation | 14.00% | ~45,089 |
-| Extraordinary Logistics | 14.00% | ~45,089 |
-| Dirty Money | 13.00% | ~41,868 |
-| Family First | 13.00% | ~41,868 |
-| Cleaning House | 12.00% | ~38,648 |
-| Room in the Back | 12.00% | ~38,648 |
-| Booze Baron | 11.00% | ~35,427 |
-| Beating the Heat | 10.00% | ~32,206 |
-| Friends on the Force | 10.00% | ~32,206 |
-| Neighborhood Watch | 10.00% | ~32,206 |
-| Core Corps | 8.00% | ~25,765 |
-| Sizeable Stash | 7.00% | ~22,544 |
-| Street Fighter | 7.00% | ~22,544 |
-| Friendly Gestures | 7.00% | ~22,544 |
-| People Person | 7.00% | ~22,544 |
-| Liquor Lord | 6.00% | ~19,324 |
-| Show ‘em the Sugar | 6.00% | ~19,324 |
-| Street Knowledge | 5.00% | ~16,103 |
-| Oh Captain | 5.00% | ~16,103 |
-| Branching Out | 5.00% | ~16,103 |
-| Improvement Missions | 5.00% | ~16,103 |
-| Opportunity Knocked | 5.00% | ~16,103 |
-| City of Big Shoulders | 5.00% | ~16,103 |
-| Safety in Numbers | 5.00% | ~16,103 |
-| Moving Experiences | 5.00% | ~16,103 |
-| Mission Mastery | 5.00% | ~16,103 |
-| Wise Head | 5.00% | ~16,103 |
-| Killing Them Softly | 5.00% | ~16,103 |
+| Corner Clout | 46.00% | ~148,156 |
+| Copacetic Coordination | 16.00% | ~51,532 |
+| Fronting the Money | 14.00% | ~45,091 |
+| The Dawn of Automation | 14.00% | ~45,091 |
+| Extraordinary Logistics | 14.00% | ~45,091 |
+| Dirty Money | 13.00% | ~41,870 |
+| Family First | 13.00% | ~41,870 |
+| Cleaning House | 12.00% | ~38,649 |
+| Room in the Back | 12.00% | ~38,649 |
+| Booze Baron | 11.00% | ~35,429 |
+| Beating the Heat | 10.00% | ~32,208 |
+| Friends on the Force | 10.00% | ~32,208 |
+| Neighborhood Watch | 10.00% | ~32,208 |
+| Core Corps | 8.00% | ~25,766 |
+| Sizeable Stash | 7.00% | ~22,545 |
+| Street Fighter | 7.00% | ~22,545 |
+| Friendly Gestures | 7.00% | ~22,545 |
+| People Person | 7.00% | ~22,545 |
+| Liquor Lord | 6.00% | ~19,325 |
+| Show ‘em the Sugar | 6.00% | ~19,325 |
+| Street Knowledge | 5.00% | ~16,104 |
+| Oh Captain | 5.00% | ~16,104 |
+| Branching Out | 5.00% | ~16,104 |
+| Improvement Missions | 5.00% | ~16,104 |
+| Opportunity Knocked | 5.00% | ~16,104 |
+| City of Big Shoulders | 5.00% | ~16,104 |
+| Safety in Numbers | 5.00% | ~16,104 |
+| Moving Experiences | 5.00% | ~16,104 |
+| Mission Mastery | 5.00% | ~16,104 |
+| Wise Head | 5.00% | ~16,104 |
+| Killing Them Softly | 5.00% | ~16,104 |
 | Considerable Clams | 4.00% | ~12,883 |
 | Gin Joint | 4.00% | ~12,883 |
 | An Affront to the Enemy | 4.00% | ~12,883 |
@@ -48,11 +48,11 @@ Rating: 4.25 (Ranked 796)
 | Still Stalwart | 3.00% | ~9,662 |
 | Bees Knees Bootlegger | 3.00% | ~9,662 |
 | Tighten the Screws | 3.00% | ~9,662 |
-| One of Us | 2.00% | ~6,441 |
-| Baker’s Dozen | 2.00% | ~6,441 |
-| Dropping the Dime | 2.00% | ~6,441 |
-| Spiffy Speakeasies | 2.00% | ~6,441 |
-| Keeping Your Word | 2.00% | ~6,441 |
+| One of Us | 2.00% | ~6,442 |
+| Baker’s Dozen | 2.00% | ~6,442 |
+| Dropping the Dime | 2.00% | ~6,442 |
+| Spiffy Speakeasies | 2.00% | ~6,442 |
+| Keeping Your Word | 2.00% | ~6,442 |
 | Boxing Them In | 1.00% | ~3,221 |
 | Backroom Empire | 1.00% | ~3,221 |
 | Corner Control | 1.00% | ~3,221 |
@@ -62,8 +62,8 @@ Rating: 4.25 (Ranked 796)
 | Determined Deliveries | 0.90% | ~2,899 |
 | Stepping It Up | 0.90% | ~2,899 |
 | Crossing Over | 0.80% | ~2,577 |
-| Boots in the Ground | 0.70% | ~2,254 |
-| Getting Fancy | 0.70% | ~2,254 |
+| Boots in the Ground | 0.70% | ~2,255 |
+| Getting Fancy | 0.70% | ~2,255 |
 | Homemade Hooch | 0.40% | ~1,288 |
 | Still Dreaming | 0.40% | ~1,288 |
 | High End Booze | 0.40% | ~1,288 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 796)
 | High Pillow | 0.10% | ~322 |
 | Station Master | 0.10% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322,063 (Ranked 40)  
+Progressed: 322,078 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 5 (0.00%) (Ranked 223)
 | 2023-06-11 | 321,356 | 4 |
 | 2023-06-12 | 321,601 | 4 |
 | 2023-06-13 | 321,865 | 5 |
-| 2023-06-14 | 322,063 | 5 |
+| 2023-06-14 | 322,078 | 5 |
 ## Awards
 Max (Relaxing): 25  (Ranked 470)  
 Sum: 93 (Ranked 408)  

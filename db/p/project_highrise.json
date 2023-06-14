@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -332,6 +332,11 @@
       "Time": "2023-06-14T11:05:52.0613848+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T21:06:32.4411331+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -359,7 +364,7 @@
       "Name": "Lux Living",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_apartments_2",
@@ -383,7 +388,7 @@
       "Name": "Under One Roof",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_art",
@@ -429,9 +434,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_campaigns_1",
@@ -653,9 +658,9 @@
       "ID": "ach_floors_1",
       "SetID": "b8gh1fi",
       "Name": "Careful Constructor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_floors_2",
@@ -743,7 +748,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_office_2",
@@ -783,7 +788,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_prestige_2",
@@ -791,7 +796,7 @@
       "Name": "Established Fame",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_prestige_3",
@@ -805,9 +810,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_profit_1",
@@ -871,7 +876,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_restaurants_5",
@@ -887,7 +892,7 @@
       "Name": "Retail Revenue",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_retail_2",
@@ -903,7 +908,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_retail_4",
@@ -919,7 +924,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_revs_2",
@@ -967,7 +972,7 @@
       "Name": "Smooth Service",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_trash_1",
@@ -989,17 +994,17 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_util_gas",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s a Gas",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_util_phone",
@@ -1046,7 +1051,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:07:27.3082049+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:06:32.4411325+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:17.1008322+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:58:32.9430193+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:07:27.308343+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:58:31.129315+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:06:32.4412478+00:00"
 }

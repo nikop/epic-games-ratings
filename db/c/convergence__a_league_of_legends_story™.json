@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 688,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1482,9 +1482,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     },
     {
       "ID": "LacunaCompleted",
@@ -1578,9 +1578,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "RewindDamage1",
@@ -1666,9 +1666,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1682,9 +1682,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "WatcherFought",
@@ -1729,8 +1729,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:06:26.1746332+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:05:48.0259278+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:00:12.6891254+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:06:26.1746873+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:59:37.5303099+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:05:48.0259872+00:00"
 }

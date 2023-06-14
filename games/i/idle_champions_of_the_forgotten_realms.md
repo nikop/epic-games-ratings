@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.40% | ~363 |
 | Owlbear Necessities | 0.40% | ~228 |
 | Best Thay Ever | 0.40% | ~228 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~228 |
 | Beast Mode | 0.40% | ~363 |
 | Low Initiative | 0.40% | ~363 |
 | A Mysterious Summons | 0.40% | ~363 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.30% | ~171 |
 | Frail Doesn't Mean Broken | 0.30% | ~171 |
 | The Castle of a Thousand Vecnas | 0.30% | ~171 |
-| Unreasonable Doesn't Mean Stupid | 0.30% | ~171 |
 | The Sanctum of the Sword | 0.30% | ~171 |
 | Get Back In The Castle | 0.30% | ~171 |
 | Pin and Skewer | 0.30% | ~171 |
@@ -158,6 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~114 |
 | Clowning Around | 0.20% | ~114 |
 | Xanathaaaaaaar! | 0.20% | ~114 |
+| A Whale of a Time | 0.20% | ~114 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
 | Struggling Toward Omu | 0.20% | ~181 |
 | Not Very Charming | 0.20% | ~181 |
@@ -368,7 +369,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~57 |
 | G. O. A. T. | 0.10% | ~57 |
 | Strength of Character | 0.10% | ~57 |
-| A Whale of a Time | 0.10% | ~57 |
 | Wagon Train | 0.10% | ~91 |
 | Taking Responsibility | 0.10% | ~91 |
 | Between a Brigganock and a Hard Place | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,707 (Ranked 64)  
+Progressed: 90,711 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,15 +555,15 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,707 | 1,934 |
+| 2023-06-14 | 90,711 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
-Sum: 30,106 (Ranked 37)  
+Sum: 30,110 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,941 |
-| This game is Great for Beginners | 4,867 |
+| This game is Great for Beginners | 4,871 |
 | This game has Quickly Understood Controls | 4,618 |
 | This game is Relaxing | 4,513 |
 | This game is Highly Recommended | 3,960 |
@@ -711,4 +711,4 @@ Diff (max vs sum): 27
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
 | 2023-06-13 | 4.06 | - | 4,937 | 30,095 |
-| 2023-06-14 | 4.06 | - | 4,941 | 30,106 |
+| 2023-06-14 | 4.06 | - | 4,941 | 30,110 |

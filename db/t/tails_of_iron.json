@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1682,
+  "EOS_Progressed": 1683,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1588,6 +1588,11 @@
       "Time": "2023-06-14T20:01:56.2473209+00:00",
       "NumProgressed": 1682,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T21:00:47.7863287+00:00",
+      "NumProgressed": 1683,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1599,7 +1604,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "Collect20Gold",
@@ -1607,7 +1612,7 @@
       "Name": "Collect Gold",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "Collect20Iron",
@@ -1631,7 +1636,7 @@
       "Name": "Return the Statues",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -1679,7 +1684,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1687,7 +1692,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "CompleteStoryDM",
@@ -1727,7 +1732,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -1735,7 +1740,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "GetRangedWeapon",
@@ -1743,7 +1748,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "GetTHWeapon",
@@ -1751,7 +1756,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "Kill25Bugs",
@@ -1767,7 +1772,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "Kill25Mozi",
@@ -1807,7 +1812,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "RepairThroneRoom",
@@ -1838,22 +1843,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1682,
+      "Progressed": 1683,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 323,
-      "Completed": 323
+      "Progressed": 324,
+      "Completed": 324
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-14T20:01:56.2473205+00:00",
+  "LastChanged_Achievements": "2023-06-14T21:00:47.7863281+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:58:54.2624427+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:01:56.247359+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:58:45.6068385+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:00:47.7863648+00:00"
 }

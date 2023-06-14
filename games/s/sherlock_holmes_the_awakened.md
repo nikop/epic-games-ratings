@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~285 |
-| Read Between The Lines | 61.00% | ~280 |
-| High Profile | 55.00% | ~252 |
-| Whispers In The Dark | 53.00% | ~243 |
+| Read Between The Lines | 60.00% | ~276 |
+| High Profile | 55.00% | ~253 |
+| Whispers In The Dark | 53.00% | ~244 |
 | Fond Memories | 49.00% | ~225 |
-| A Method To His Madness | 48.00% | ~220 |
+| A Method To His Madness | 48.00% | ~221 |
 | History Check | 47.00% | ~216 |
 | Lock, Stock, And Barrel | 44.00% | ~202 |
 | The New World | 44.00% | ~202 |
-| Gaze Into The Abyss | 43.00% | ~197 |
+| Gaze Into The Abyss | 43.00% | ~198 |
 | Open Sesame | 42.00% | ~193 |
 | Sticky Fingers | 42.00% | ~193 |
 | Knives Out | 42.00% | ~193 |
-| Back In The Saddle | 41.00% | ~188 |
-| Land, Ho! | 41.00% | ~188 |
+| Back In The Saddle | 41.00% | ~189 |
+| Land, Ho! | 41.00% | ~189 |
 | No Man Is An Island | 39.00% | ~179 |
-| At Wits' End | 38.00% | ~174 |
-| Bookworm | 36.00% | ~165 |
-| Up In Flames | 36.00% | ~165 |
+| At Wits' End | 38.00% | ~175 |
+| Bookworm | 36.00% | ~166 |
 | Going Once... | 35.00% | ~161 |
+| Up In Flames | 35.00% | ~161 |
 | Fhtagn! | 35.00% | ~161 |
-| Let Me Be Frank | 33.00% | ~151 |
+| Let Me Be Frank | 33.00% | ~152 |
 | Brain Food | 32.00% | ~147 |
 | No Stone Unturned | 30.00% | ~138 |
 | Curiosity Killed The Cat | 20.00% | ~92 |
@@ -33,8 +33,8 @@
 | Big Breakthrough | 14.00% | ~64 |
 | Reawakened | 5.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 205)  
-Completed: 18 (3.92%) (Ranked 37)  
+Progressed: 460 (Ranked 205)  
+Completed: 18 (3.91%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 18 (3.92%) (Ranked 37)
 | 2023-06-11 | 431 | 17 |
 | 2023-06-12 | 435 | 17 |
 | 2023-06-13 | 447 | 18 |
-| 2023-06-14 | 459 | 18 |
+| 2023-06-14 | 460 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

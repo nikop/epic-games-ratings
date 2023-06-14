@@ -3,11 +3,11 @@
   "Name": "Faeria",
   "ProductSlug": "faeria",
   "Ranking_Rating": 603,
-  "Ranking_Popularity": 321,
+  "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-02-13T16:00:00+00:00",
@@ -480,18 +480,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 323,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-06-14T21:00:23.3928803+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 324,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -553,8 +559,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2023-06-14T10:59:54.2630973+00:00",
+  "LastChanged": "2023-06-14T21:00:23.39288+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:54.0722216+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:01:23.1797869+00:00",
-  "LastUpdate_Achievements": "2023-06-14T20:06:22.2780699+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:00:23.3928807+00:00",
+  "LastUpdate_Achievements": "2023-06-14T21:05:45.2930811+00:00"
 }

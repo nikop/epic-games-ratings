@@ -38,7 +38,7 @@ Number of Ratings: 209  (23.09.2022)
 | Guard Distracted | 80.00% | ~1,671 |
 | Translocator | 79.00% | ~1,650 |
 | Inner Peace | 77.00% | ~1,609 |
-| Diamond Pickaxe | 76.00% | ~1,588 |
+| Diamond Pickaxe | 77.00% | ~1,609 |
 | Killed them all | 76.00% | ~1,588 |
 | Trickle Down Economy | 76.00% | ~1,588 |
 | Win | 75.00% | ~1,567 |
@@ -50,7 +50,7 @@ Number of Ratings: 209  (23.09.2022)
 | Plumbster | 60.00% | ~1,253 |
 | Faster | 60.00% | ~1,253 |
 | Much Magic | 57.00% | ~1,191 |
-| Chest Detector | 54.00% | ~1,128 |
+| Chest Detector | 55.00% | ~1,149 |
 | Flames | 52.00% | ~1,086 |
 | Momentum | 45.00% | ~940 |
 | You're unsure if you broke the game or not | 42.00% | ~877 |
