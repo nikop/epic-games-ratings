@@ -22,8 +22,8 @@ Number of Ratings: 62  (23.09.2022)
 | I Choose You | 17.00% | ~750 |
 | Nothing to Lose | 17.00% | ~750 |
 | Big Sister | 15.00% | ~662 |
+| Gear Up | 15.00% | ~662 |
 | SENTINEL | 15.00% | ~662 |
-| Gear Up | 14.00% | ~618 |
 | The Black Cerberus | 12.00% | ~530 |
 | Watchman | 12.00% | ~530 |
 | Core Power | 12.00% | ~530 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6474,
+  "EOS_Progressed": 6475,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
@@ -3524,6 +3524,11 @@
       "Time": "2023-06-14T03:05:35.3395215+00:00",
       "NumProgressed": 6474,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-14T04:05:26.1484991+00:00",
+      "NumProgressed": 6475,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3543,7 +3548,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "AUDIOPHILE",
@@ -3559,7 +3564,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3671,7 +3676,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "SOUL_CANON",
@@ -3702,7 +3707,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6474,
+      "Progressed": 6475,
       "Completed": 24
     }
   ],
@@ -3710,8 +3715,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-14T03:05:35.339521+00:00",
+  "LastChanged_Achievements": "2023-06-14T04:05:26.1484984+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:57:58.9178846+00:00",
-  "LastUpdate_Achievements": "2023-06-14T03:05:35.3395548+00:00"
+  "LastUpdate_Ratings": "2023-06-14T03:58:07.762836+00:00",
+  "LastUpdate_Achievements": "2023-06-14T04:05:26.1485343+00:00"
 }

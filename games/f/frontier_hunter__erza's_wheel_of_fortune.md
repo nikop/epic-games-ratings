@@ -33,8 +33,8 @@
 | Cave Master | 48.00% | ~10 |
 | Master Artificer | 43.00% | ~9 |
 | Master Cook | 33.00% | ~7 |
+| Berserker Slayer | 24.00% | ~5 |
 | Boss challenge | 19.00% | ~4 |
-| Berserker Slayer | 19.00% | ~4 |
 | Giantess Slayer | 14.00% | ~3 |
 | Big Face Goalkeeper Challenge | 10.00% | ~2 |
 | Warden Slayer | 10.00% | ~2 |
@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 0.00% | ~0 |
 | Warden Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 343)  
+Progressed: 21 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |

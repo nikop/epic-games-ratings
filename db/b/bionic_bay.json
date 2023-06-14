@@ -2,7 +2,7 @@
   "ID": "e2a4b564e6484d48a410b88eedfe0e7e",
   "Name": "Bionic Bay",
   "ProductSlug": "bionic-bay-93dd7c",
-  "Ranking_EOS_Progress": 450,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.6517821+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:57:47.7346632+00:00",
-  "LastUpdate_Achievements": "2023-06-14T03:04:44.7434904+00:00"
+  "LastUpdate_Ratings": "2023-06-14T03:57:56.6367807+00:00",
+  "LastUpdate_Achievements": "2023-06-14T04:04:36.9979733+00:00"
 }

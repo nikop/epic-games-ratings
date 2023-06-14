@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Never around when you need them | 36.00% | ~5 |
+| Never around when you need them | 43.00% | ~6 |
 | Became the new Maker | 14.00% | ~2 |
 | Where's the air conditioner? | 14.00% | ~2 |
 | You got all endings! | 7.00% | ~1 |

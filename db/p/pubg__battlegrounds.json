@@ -2176,9 +2176,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 393272,
+  "EOS_Progressed": 393273,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7252,
+  "EOS_NewPlayers": 7231,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7916,6 +7916,11 @@
       "Time": "2023-06-14T03:05:45.9805886+00:00",
       "NumProgressed": 393272,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-14T04:05:35.9777487+00:00",
+      "NumProgressed": 393273,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -7951,7 +7956,7 @@
       "Name": "Marksman Novice",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78654
+      "UsersEstimate": 78655
     },
     {
       "ID": "13",
@@ -7999,7 +8004,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 121914
+      "UsersEstimate": 121915
     },
     {
       "ID": "19",
@@ -8007,7 +8012,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 294954
+      "UsersEstimate": 294955
     },
     {
       "ID": "2",
@@ -8167,7 +8172,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 176972
+      "UsersEstimate": 176973
     },
     {
       "ID": "4",
@@ -8215,14 +8220,14 @@
       "Name": "CQB Novice",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35394
+      "UsersEstimate": 35395
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 393272,
+      "Progressed": 393273,
       "Completed": 10
     }
   ],
@@ -8230,8 +8235,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-06-13T20:58:52.7350748+00:00",
-  "LastChanged_Achievements": "2023-06-14T03:05:45.9805881+00:00",
+  "LastChanged_Achievements": "2023-06-14T04:05:35.9777482+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:54.9087832+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:58:32.3231331+00:00",
-  "LastUpdate_Achievements": "2023-06-14T03:05:45.9806479+00:00"
+  "LastUpdate_Ratings": "2023-06-14T03:58:40.9800231+00:00",
+  "LastUpdate_Achievements": "2023-06-14T04:05:35.9778115+00:00"
 }

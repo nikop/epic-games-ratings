@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,149 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,150 |
 | First Class Student | 8.00% | ~22,355 |
 | Troll with the Punches | 8.00% | ~22,355 |
-| Grappling with a Graphorn | 7.00% | ~19,560 |
-| The One Who Mastered Memories | 7.00% | ~19,560 |
-| The Hallowed Hero | 7.00% | ~19,560 |
-| The Hero of Hogwarts | 7.00% | ~19,560 |
-| The Defender of Dragons | 7.00% | ~19,560 |
-| A Keen Sense of Spell | 7.00% | ~19,560 |
-| Loom for Improvement | 7.00% | ~19,560 |
-| A Talent for Spending | 7.00% | ~19,560 |
-| Coasting Along | 7.00% | ~19,560 |
-| That's a Keeper | 7.00% | ~19,560 |
+| Grappling with a Graphorn | 7.00% | ~19,561 |
+| The One Who Mastered Memories | 7.00% | ~19,561 |
+| The Hallowed Hero | 7.00% | ~19,561 |
+| The Hero of Hogwarts | 7.00% | ~19,561 |
+| The Defender of Dragons | 7.00% | ~19,561 |
+| A Keen Sense of Spell | 7.00% | ~19,561 |
+| Loom for Improvement | 7.00% | ~19,561 |
+| A Talent for Spending | 7.00% | ~19,561 |
+| Coasting Along | 7.00% | ~19,561 |
+| That's a Keeper | 7.00% | ~19,561 |
 | Challenge Accepted | 6.00% | ~16,766 |
 | Followed the Butterflies | 6.00% | ~16,766 |
 | The Spell Master | 6.00% | ~16,766 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 107)
 | Beast Friends | 5.00% | ~13,972 |
 | A Sallow Grave | 5.00% | ~13,972 |
 | Flight the Good Flight | 5.00% | ~13,972 |
-| The Seeker of Knowledge | 4.00% | ~11,177 |
-| The Root of the Problem | 4.00% | ~11,177 |
-| Third Time's a Charm | 4.00% | ~11,177 |
-| Raising Expectations | 4.00% | ~11,177 |
+| The Seeker of Knowledge | 4.00% | ~11,178 |
+| The Root of the Problem | 4.00% | ~11,178 |
+| Third Time's a Charm | 4.00% | ~11,178 |
+| Raising Expectations | 4.00% | ~11,178 |
 | The Toast of the Town | 3.00% | ~8,383 |
 | Going Through the Potions | 3.00% | ~8,383 |
 | Room with a View | 3.00% | ~8,383 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,397 |
 | Collector's Edition | 0.20% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,433 (Ranked 41)  
+Progressed: 279,441 (Ranked 41)  
 Completed: 405 (0.14%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 405 (0.14%) (Ranked 163)
 | 2023-06-11 | 278,675 | 401 |
 | 2023-06-12 | 279,048 | 403 |
 | 2023-06-13 | 279,378 | 405 |
-| 2023-06-14 | 279,433 | 405 |
+| 2023-06-14 | 279,441 | 405 |
 ## Awards
 Max (Character Customization): 19,915  (Ranked 18)  
 Sum: 36,915 (Ranked 32)  

@@ -2,10 +2,10 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 50,
-  "Ranking_EOS_Progress": 450,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 6675,
   "RatingHistory": [
     {
@@ -6240,10 +6240,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 23279,
       "NumberOfAwardsMax": 7194
+    },
+    {
+      "Time": "2023-06-14T04:00:09.4995204+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 23283,
+      "NumberOfAwardsMax": 7194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23279,
+  "NumberOfAwards": 23283,
   "NumberOfAwardsMax": 7194,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6287,7 +6293,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1213
+      "Count": 1217
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6331,8 +6337,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-06-14T02:10:32.54826+00:00",
+  "LastChanged": "2023-06-14T04:00:09.4995203+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1755751+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:00:03.0105988+00:00",
-  "LastUpdate_Achievements": "2023-06-14T03:00:34.3964393+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:00:09.4995208+00:00",
+  "LastUpdate_Achievements": "2023-06-14T04:00:42.3429907+00:00"
 }

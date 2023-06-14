@@ -6,24 +6,24 @@ Rating: 4.17 (Ranked 851)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 5.00% | ~3,246 |
-| To the Victor Go the Spoils | 3.00% | ~1,947 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,947 |
-| Knighthood | 3.00% | ~1,947 |
-| Loose Ends | 3.00% | ~1,947 |
-| The Batman Family | 2.00% | ~1,298 |
-| Protector of Gotham | 2.00% | ~1,298 |
-| Something in the Clay | 2.00% | ~1,298 |
-| The Show Mud Go On | 2.00% | ~1,298 |
-| Quartzer Life Crisis | 2.00% | ~1,298 |
-| Snow Problem | 2.00% | ~1,298 |
-| Get ReQ'd | 2.00% | ~1,298 |
-| Working Hard or Harley Working? | 2.00% | ~1,298 |
-| Universal Health Scare | 2.00% | ~1,298 |
-| Unstoppable Force | 2.00% | ~1,298 |
-| Whispered Words | 2.00% | ~1,298 |
-| Lock and Key | 2.00% | ~1,298 |
-| Bad Apples in Every Orchard | 2.00% | ~1,298 |
-| From Inside Gotham's Walls | 2.00% | ~1,298 |
+| To the Victor Go the Spoils | 3.00% | ~1,948 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,948 |
+| Knighthood | 3.00% | ~1,948 |
+| Loose Ends | 3.00% | ~1,948 |
+| The Batman Family | 2.00% | ~1,299 |
+| Protector of Gotham | 2.00% | ~1,299 |
+| Something in the Clay | 2.00% | ~1,299 |
+| The Show Mud Go On | 2.00% | ~1,299 |
+| Quartzer Life Crisis | 2.00% | ~1,299 |
+| Snow Problem | 2.00% | ~1,299 |
+| Get ReQ'd | 2.00% | ~1,299 |
+| Working Hard or Harley Working? | 2.00% | ~1,299 |
+| Universal Health Scare | 2.00% | ~1,299 |
+| Unstoppable Force | 2.00% | ~1,299 |
+| Whispered Words | 2.00% | ~1,299 |
+| Lock and Key | 2.00% | ~1,299 |
+| Bad Apples in Every Orchard | 2.00% | ~1,299 |
+| From Inside Gotham's Walls | 2.00% | ~1,299 |
 | End of an Era | 1.00% | ~649 |
 | In Your Element | 1.00% | ~649 |
 | Rock and a Hard Place | 1.00% | ~649 |
@@ -35,13 +35,13 @@ Rating: 4.17 (Ranked 851)
 | Seeking Asylum | 1.00% | ~649 |
 | Gotham Knight | 1.00% | ~649 |
 | Gotham City Confidential | 1.00% | ~649 |
+| Out of Their League | 0.90% | ~584 |
 | Drone You Out | 0.90% | ~584 |
 | Solid Alibi | 0.90% | ~584 |
-| Out of Their League | 0.80% | ~519 |
 | Fusion Expert | 0.70% | ~454 |
 | Family Meeting | 0.70% | ~454 |
-| Expert Crime Fighter | 0.60% | ~389 |
-| A Worthy Successor | 0.60% | ~389 |
+| Expert Crime Fighter | 0.60% | ~390 |
+| A Worthy Successor | 0.60% | ~390 |
 | Dressed to Impress | 0.50% | ~325 |
 | A Momentum Occasion | 0.40% | ~260 |
 | He'd Be So Proud of You | 0.30% | ~195 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,915 (Ranked 70)  
+Progressed: 64,927 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 95 (0.15%) (Ranked 159)
 | 2023-06-11 | 64,650 | 95 |
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
-| 2023-06-14 | 64,915 | 95 |
+| 2023-06-14 | 64,927 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
 Sum: 3,854 (Ranked 137)  

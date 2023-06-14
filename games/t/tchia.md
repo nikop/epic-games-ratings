@@ -9,7 +9,7 @@ Rating: 4.76 (Ranked 117)
 | Energy Saver | 16.00% | ~1,036 |
 | The Journey Onwards | 13.00% | ~842 |
 | Globe Trotter | 11.00% | ~712 |
-| Body and Soul | 10.00% | ~647 |
+| Body and Soul | 10.00% | ~648 |
 | Ahem Ahem | 9.00% | ~583 |
 | Audiophile | 7.00% | ~453 |
 | Clay Pigeon | 6.00% | ~388 |
@@ -22,12 +22,12 @@ Rating: 4.76 (Ranked 117)
 | Live Wire | 4.00% | ~259 |
 | Fashion Faux-Pas | 3.00% | ~194 |
 | Fashion Victim | 3.00% | ~194 |
-| Arrr! | 2.00% | ~129 |
-| Snip Snip | 2.00% | ~129 |
+| Arrr! | 2.00% | ~130 |
+| Snip Snip | 2.00% | ~130 |
 | Ça de Wizz! | 1.00% | ~65 |
 | Thing | 1.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,474 (Ranked 122)  
+Progressed: 6,475 (Ranked 122)  
 Completed: 24 (0.37%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 24 (0.37%) (Ranked 125)
 | 2023-06-11 | 6,438 | 24 |
 | 2023-06-12 | 6,460 | 24 |
 | 2023-06-13 | 6,472 | 24 |
-| 2023-06-14 | 6,474 | 24 |
+| 2023-06-14 | 6,475 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

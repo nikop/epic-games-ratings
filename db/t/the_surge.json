@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -1387,9 +1387,9 @@
       "ID": "ID_ACHIEV_12",
       "SetID": "98bke8c",
       "Name": "Gear Up",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 662
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1843,8 +1843,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-14T03:00:16.3527563+00:00",
+  "LastChanged_Achievements": "2023-06-14T04:00:24.4650483+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:58:02.0053416+00:00",
-  "LastUpdate_Achievements": "2023-06-14T03:00:16.3528351+00:00"
+  "LastUpdate_Ratings": "2023-06-14T03:58:10.9358548+00:00",
+  "LastUpdate_Achievements": "2023-06-14T04:00:24.4651306+00:00"
 }
