@@ -10,7 +10,7 @@
 | Souvenirs | 34.00% | ~101 |
 | This is Not Heavy Metal! | 19.00% | ~56 |
 | Welcome to the Garage | 19.00% | ~56 |
-| Truthseeker | 15.00% | ~44 |
+| Truthseeker | 16.00% | ~47 |
 | 86's Nightmare | 10.00% | ~30 |
 | Partners in Crime | 9.00% | ~27 |
 | Friendzone | 9.00% | ~27 |

@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,657 |
-| Worth it | 63.00% | ~29,992 |
-| Eagle Eye | 55.00% | ~26,184 |
-| Corpseman I | 40.00% | ~19,043 |
-| Blast fishing | 37.00% | ~17,615 |
-| Not alone | 32.00% | ~15,234 |
-| Headhunter I | 26.00% | ~12,378 |
-| Manual Labour I | 25.00% | ~11,902 |
-| Developers, Developers, Developers | 24.00% | ~11,426 |
-| Basic Training | 24.00% | ~11,426 |
-| Furchtlos und Treu | 13.00% | ~6,189 |
+| Setting an example | 77.00% | ~36,661 |
+| Worth it | 63.00% | ~29,996 |
+| Eagle Eye | 55.00% | ~26,187 |
+| Corpseman I | 40.00% | ~19,045 |
+| Blast fishing | 37.00% | ~17,616 |
+| Not alone | 32.00% | ~15,236 |
+| Headhunter I | 26.00% | ~12,379 |
+| Manual Labour I | 25.00% | ~11,903 |
+| Developers, Developers, Developers | 24.00% | ~11,427 |
+| Basic Training | 24.00% | ~11,427 |
+| Furchtlos und Treu | 13.00% | ~6,190 |
 | Gott Mit Uns | 12.00% | ~5,713 |
 | This We'll Defend! | 9.00% | ~4,285 |
 | Anker wirf! | 9.00% | ~4,285 |
 | Providentiea Memor | 9.00% | ~4,285 |
 | For King and Country | 9.00% | ~4,285 |
 | Battle hardened | 8.00% | ~3,809 |
-| Semper Fidelis! | 7.00% | ~3,332 |
-| Honneur et Patrie | 7.00% | ~3,332 |
-| In Treue Fest | 5.00% | ~2,380 |
-| Voor De Koning | 5.00% | ~2,380 |
-| Extreme Headhunter | 5.00% | ~2,380 |
+| Semper Fidelis! | 7.00% | ~3,333 |
+| Honneur et Patrie | 7.00% | ~3,333 |
+| In Treue Fest | 5.00% | ~2,381 |
+| Voor De Koning | 5.00% | ~2,381 |
+| Extreme Headhunter | 5.00% | ~2,381 |
 | Advance Australia | 4.00% | ~1,904 |
 | We Stand on Guard | 4.00% | ~1,904 |
 | Sidi Brahim | 4.00% | ~1,904 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,607 (Ranked 81)  
+Progressed: 47,612 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 4 (0.01%) (Ranked 211)
 | 2023-06-11 | 47,287 | 4 |
 | 2023-06-12 | 47,416 | 4 |
 | 2023-06-13 | 47,523 | 4 |
-| 2023-06-14 | 47,607 | 4 |
+| 2023-06-14 | 47,612 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 338)  
 Sum: 747 (Ranked 256)  

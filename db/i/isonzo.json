@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6238,
+  "EOS_Progressed": 6239,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2738,6 +2738,11 @@
       "Time": "2023-06-14T20:03:49.2898333+00:00",
       "NumProgressed": 6238,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T22:03:31.4072455+00:00",
+      "NumProgressed": 6239,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2757,7 +2762,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -2885,7 +2890,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2925,7 +2930,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -2957,7 +2962,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2995,9 +3000,9 @@
       "ID": "ISONZO_ACH_SILVER_LINING",
       "SetID": "akchbl3",
       "Name": "Silver Lining",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1747
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3045,7 +3050,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3093,7 +3098,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3108,7 +3113,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6238,
+      "Progressed": 6239,
       "Completed": 8
     }
   ],
@@ -3116,8 +3121,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:03:45.0682745+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:03:31.407245+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:57:58.1865325+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:03:45.0683327+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:57:20.7564192+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:03:31.4072914+00:00"
 }

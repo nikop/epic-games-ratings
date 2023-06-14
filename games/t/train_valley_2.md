@@ -15,17 +15,17 @@ Number of Ratings: 87  (23.09.2022)
 | Non-Stop | 6.00% | ~44 |
 | Close call! | 5.00% | ~37 |
 | Common cause | 5.00% | ~37 |
+| Get out my way | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
 | Builder | 4.00% | ~29 |
 | Critical care | 4.00% | ~29 |
-| Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
+| Multilevel road | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
 | Pink Ruby | 4.00% | ~3 |
 | Upgrade complete | 4.00% | ~29 |
 | Bridgemania | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
-| Multilevel road | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |

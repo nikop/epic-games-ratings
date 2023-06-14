@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 56.00% | ~1,360 |
-| Keeping it classy | 25.00% | ~607 |
-| Welcome to the family | 18.00% | ~437 |
+| You're free now! | 55.00% | ~1,337 |
+| Keeping it classy | 25.00% | ~608 |
+| Welcome to the family | 18.00% | ~438 |
 | The finer things in life | 16.00% | ~389 |
-| Backpacker | 12.00% | ~291 |
+| Backpacker | 12.00% | ~292 |
 | Go with the Flow | 11.00% | ~267 |
 | Plastic Surgeon | 9.00% | ~219 |
 | Keep the dream alive | 8.00% | ~194 |
@@ -20,13 +20,13 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 7.00% | ~170 |
 | Finally he zips it | 6.00% | ~146 |
 | That pinch! | 6.00% | ~146 |
-| Bottom ply killer | 5.00% | ~121 |
-| Fashionista | 5.00% | ~121 |
-| Fulfilled the dream | 5.00% | ~121 |
-| G'Day Mate! | 5.00% | ~121 |
-| Squad goals | 5.00% | ~121 |
-| Sup widdit big dog! | 5.00% | ~121 |
-| Tight lipslides | 5.00% | ~121 |
+| Bottom ply killer | 5.00% | ~122 |
+| Fashionista | 5.00% | ~122 |
+| Fulfilled the dream | 5.00% | ~122 |
+| G'Day Mate! | 5.00% | ~122 |
+| Squad goals | 5.00% | ~122 |
+| Sup widdit big dog! | 5.00% | ~122 |
+| Tight lipslides | 5.00% | ~122 |
 | Commence the Hijinx! | 4.00% | ~97 |
 | DIY Boss | 4.00% | ~97 |
 | Globetrotter | 4.00% | ~97 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,429 (Ranked 150)  
+Progressed: 2,431 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
 | 2023-06-13 | 2,418 | 0 |
-| 2023-06-14 | 2,429 | 0 |
+| 2023-06-14 | 2,431 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 402)  
 Sum: 421 (Ranked 302)  

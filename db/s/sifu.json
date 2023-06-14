@@ -4602,9 +4602,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709324,
+  "EOS_Progressed": 709332,
   "EOS_Completed": 12770,
-  "EOS_NewPlayers": 1425,
+  "EOS_NewPlayers": 1426,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9847,6 +9847,11 @@
       "Time": "2023-06-14T21:06:28.3579635+00:00",
       "NumProgressed": 709324,
       "NumCompleted": 12770
+    },
+    {
+      "Time": "2023-06-14T22:06:03.6897308+00:00",
+      "NumProgressed": 709332,
+      "NumCompleted": 12770
     }
   ],
   "TotalAchievements": 50,
@@ -10218,7 +10223,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -10234,7 +10239,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -10257,21 +10262,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18625,
+      "Progressed": 18633,
       "Completed": 10267
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709324,
+      "Progressed": 709332,
       "Completed": 12770
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-14T17:59:09.6545664+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:06:28.3579629+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:06:03.6897303+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:59:17.7246276+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:06:28.3580407+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:58:43.1257637+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:06:03.6898009+00:00"
 }

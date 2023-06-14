@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,600 |
-| Photogenic | 88.00% | ~6,383 |
-| Surge Gauntlet Jockey | 85.00% | ~6,165 |
+| Let's Get This Party Started | 91.00% | ~6,601 |
+| Photogenic | 88.00% | ~6,384 |
+| Surge Gauntlet Jockey | 85.00% | ~6,166 |
 | Plug It In | 84.00% | ~6,093 |
-| Adventure Time | 80.00% | ~5,802 |
-| Playing With Power | 77.00% | ~5,585 |
-| Coup d'Etat | 59.00% | ~4,279 |
+| Adventure Time | 80.00% | ~5,803 |
+| Playing With Power | 77.00% | ~5,586 |
+| Coup d'Etat | 59.00% | ~4,280 |
 | You're Fired | 58.00% | ~4,207 |
 | Get Furious | 56.00% | ~4,062 |
-| Gunplay And Cosplay | 55.00% | ~3,989 |
+| Gunplay And Cosplay | 55.00% | ~3,990 |
 | Hacks In Stacks | 54.00% | ~3,917 |
-| Meching Enemies | 48.00% | ~3,481 |
+| Meching Enemies | 48.00% | ~3,482 |
 | Ticket Toddler | 45.00% | ~3,264 |
 | Booty Bashing | 43.00% | ~3,119 |
 | Field Medic | 37.00% | ~2,684 |
 | Here Comes a New Challenger | 37.00% | ~2,684 |
-| Rapid Response | 33.00% | ~2,393 |
-| Guardian Angel | 31.00% | ~2,248 |
-| The Full Monty | 31.00% | ~2,248 |
-| Surge Ahead | 30.00% | ~2,176 |
-| Poppin Noggins | 25.00% | ~1,813 |
+| Rapid Response | 33.00% | ~2,394 |
+| Guardian Angel | 31.00% | ~2,249 |
+| Surge Ahead | 31.00% | ~2,249 |
+| The Full Monty | 31.00% | ~2,249 |
+| Poppin Noggins | 25.00% | ~1,814 |
 | Clips and Crits | 21.00% | ~1,523 |
 | Grey Goo | 19.00% | ~1,378 |
 | Boss of Bosses | 15.00% | ~1,088 |
-| The Final Blow | 14.00% | ~1,015 |
+| The Final Blow | 14.00% | ~1,016 |
 | Light My Fire | 13.00% | ~943 |
 | Seasoned Adventurer | 12.00% | ~870 |
 | To Be Continued | 12.00% | ~870 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~29 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,253 (Ranked 117)  
+Progressed: 7,254 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 7,197 | 0 |
 | 2023-06-12 | 7,217 | 0 |
 | 2023-06-13 | 7,239 | 0 |
-| 2023-06-14 | 7,253 | 0 |
+| 2023-06-14 | 7,254 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 379)  
 Sum: 485 (Ranked 296)  

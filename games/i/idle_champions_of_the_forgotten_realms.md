@@ -304,6 +304,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~114 |
 | Durable Deep | 0.20% | ~181 |
 | The Sibriex | 0.20% | ~114 |
+| The Archduke's Blessing | 0.20% | ~114 |
 | Wrecked Flying Fortress | 0.20% | ~114 |
 | Expert Opinion | 0.20% | ~181 |
 | Dwarven Rumors | 0.20% | ~114 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.10% | ~57 |
 | The Taunting Lord | 0.10% | ~57 |
 | Lone Wolf Party | 0.10% | ~57 |
-| The Archduke's Blessing | 0.10% | ~57 |
 | A Neutral Party | 0.10% | ~57 |
 | Relentless Peril | 0.10% | ~57 |
 | Rickety Rubble | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,711 (Ranked 64)  
+Progressed: 90,717 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,711 | 1,934 |
+| 2023-06-14 | 90,717 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,110 (Ranked 37)  

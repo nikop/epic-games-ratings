@@ -632,9 +632,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15266,
+  "EOS_Progressed": 15273,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3897,6 +3897,11 @@
       "Time": "2023-06-14T20:04:59.0585039+00:00",
       "NumProgressed": 15266,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T22:04:22.1193777+00:00",
+      "NumProgressed": 15273,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3930,9 +3935,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 611
+      "UsersEstimate": 764
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3940,7 +3945,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4028,7 +4033,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4052,7 +4057,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4068,7 +4073,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4084,7 +4089,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4100,7 +4105,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4108,7 +4113,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "STORY_HABITAT",
@@ -4164,7 +4169,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "DISMEMBER_100",
@@ -4227,13 +4232,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15266,
+      "Progressed": 15273,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3192,
+      "Progressed": 3199,
       "Completed": 29
     }
   ],
@@ -4241,8 +4246,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-14T19:58:18.578391+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:04:43.5061605+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:04:22.1193769+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:58:22.1704851+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:04:43.5062144+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:57:45.9222738+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:04:22.1194308+00:00"
 }

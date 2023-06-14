@@ -1,27 +1,27 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.71 (Ranked 179)  
+Rating: 4.71 (Ranked 180)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,262 |
-| What should I buy? | 83.00% | ~6,481 |
+| The Legend Begins | 93.00% | ~7,263 |
+| What should I buy? | 83.00% | ~6,482 |
 | Focus! | 62.00% | ~4,842 |
 | Rescued Elder Ent | 62.00% | ~4,842 |
-| The End of the Gold Mane Knights | 47.00% | ~3,670 |
+| The End of the Gold Mane Knights | 47.00% | ~3,671 |
 | False Goddess, Disappear | 39.00% | ~3,046 |
 | Rules of Etiquette | 39.00% | ~3,046 |
 | Quick Movements | 33.00% | ~2,577 |
 | Inventory Management | 33.00% | ~2,577 |
 | The Fall of the Leonia Order | 29.00% | ~2,265 |
-| The Hero Killer | 27.00% | ~2,108 |
-| Go Home... | 26.00% | ~2,030 |
+| The Hero Killer | 27.00% | ~2,109 |
+| Go Home... | 26.00% | ~2,031 |
 | The Final Battle of the First Hero | 25.00% | ~1,952 |
 | Brain at Full Throttle | 22.00% | ~1,718 |
 | Rookies Welcome | 20.00% | ~1,562 |
-| Deadly Power | 15.00% | ~1,171 |
+| Deadly Power | 15.00% | ~1,172 |
 | Castle Restoration Plans | 14.00% | ~1,093 |
 | The Dwarven Chandelier | 12.00% | ~937 |
 | Master of Speed | 9.00% | ~703 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~78 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,809 (Ranked 116)  
+Progressed: 7,810 (Ranked 116)  
 Completed: 12 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 12 (0.15%) (Ranked 161)
 | 2023-06-11 | 7,765 | 12 |
 | 2023-06-12 | 7,778 | 12 |
 | 2023-06-13 | 7,792 | 12 |
-| 2023-06-14 | 7,809 | 12 |
+| 2023-06-14 | 7,810 | 12 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 314)  
 Sum: 761 (Ranked 255)  

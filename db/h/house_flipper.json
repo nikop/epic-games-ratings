@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1578,9 +1578,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19624,
+  "EOS_Progressed": 19625,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4533,6 +4533,11 @@
       "Time": "2023-06-14T21:06:10.1520134+00:00",
       "NumProgressed": 19624,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-14T22:05:45.7067799+00:00",
+      "NumProgressed": 19625,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4592,7 +4597,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18447
+      "UsersEstimate": 18448
     },
     {
       "ID": "GameOver",
@@ -4704,7 +4709,7 @@
       "Name": "Strongman",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5888
     },
     {
       "ID": "VeronicaLiptson",
@@ -4727,15 +4732,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19624,
+      "Progressed": 19625,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:06:10.1520127+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:05:45.7067794+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:59:39.1714498+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:06:10.152075+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:59:03.7817669+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:05:45.7068139+00:00"
 }

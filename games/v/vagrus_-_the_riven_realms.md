@@ -16,6 +16,7 @@
 | Fight Another Day | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
+| Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Xevarian Gambit | 1.00% | ~1 |
@@ -25,7 +26,6 @@
 | Acquaintance | 1.00% | ~1 |
 | Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
-| Pilgrimage's End | 1.00% | ~1 |
 | Merchant | 1.00% | ~1 |
 | Trouble at Fort Larius | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |

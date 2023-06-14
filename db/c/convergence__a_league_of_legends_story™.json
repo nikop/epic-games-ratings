@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1306,9 +1306,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1346,9 +1346,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     },
     {
       "ID": "ClovemaryGift",
@@ -1450,9 +1450,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 41
     },
     {
       "ID": "GrindingTime1",
@@ -1490,9 +1490,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "MapCompletion1",
@@ -1729,8 +1729,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:05:48.0259278+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:05:23.1523777+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:59:37.5303099+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:05:48.0259872+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:59:02.3776039+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:05:23.1524289+00:00"
 }

@@ -8,7 +8,7 @@
 | Read Between The Lines | 60.00% | ~276 |
 | High Profile | 55.00% | ~253 |
 | Whispers In The Dark | 53.00% | ~244 |
-| Fond Memories | 49.00% | ~225 |
+| Fond Memories | 50.00% | ~230 |
 | A Method To His Madness | 48.00% | ~221 |
 | History Check | 47.00% | ~216 |
 | Lock, Stock, And Barrel | 44.00% | ~202 |
@@ -22,8 +22,8 @@
 | No Man Is An Island | 39.00% | ~179 |
 | At Wits' End | 38.00% | ~175 |
 | Bookworm | 36.00% | ~166 |
+| Up In Flames | 36.00% | ~166 |
 | Going Once... | 35.00% | ~161 |
-| Up In Flames | 35.00% | ~161 |
 | Fhtagn! | 35.00% | ~161 |
 | Let Me Be Frank | 33.00% | ~152 |
 | Brain Food | 32.00% | ~147 |

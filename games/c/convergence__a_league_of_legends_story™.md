@@ -5,20 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 11.00% | ~76 |
+| The Steel Shadow | 9.00% | ~62 |
 | Treasure Trove | 9.00% | ~62 |
 | The Mysterious Stranger | 9.00% | ~62 |
 | Rail Rat | 9.00% | ~62 |
+| Make Up For Lost Time | 9.00% | ~62 |
 | Cartographer | 9.00% | ~62 |
 | The Prince in Heels | 9.00% | ~62 |
 | Immaculate Aim | 9.00% | ~62 |
-| The Steel Shadow | 8.00% | ~55 |
-| Make Up For Lost Time | 8.00% | ~55 |
 | Time Flies | 8.00% | ~55 |
 | The Harder They Fall | 8.00% | ~55 |
 | No, Thanks! | 8.00% | ~55 |
 | Breaking Down Barriers | 8.00% | ~55 |
 | Immaculate Aim | 8.00% | ~55 |
 | The Brass Boss | 8.00% | ~55 |
+| Like Clockwork | 7.00% | ~48 |
 | The Betrayer | 7.00% | ~48 |
 | The Man Who Shattered Time | 7.00% | ~48 |
 | The Loose Cannon | 7.00% | ~48 |
@@ -27,12 +28,11 @@
 | Golem Chaser | 7.00% | ~48 |
 | Fast Learner | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
-| Like Clockwork | 6.00% | ~41 |
 | Street Style | 6.00% | ~41 |
+| Whiz Kid | 6.00% | ~41 |
 | Check Your Pulse | 6.00% | ~41 |
 | The Family Fortune | 6.00% | ~41 |
 | Family Memories | 5.00% | ~34 |
-| Whiz Kid | 5.00% | ~34 |
 | Ask Questions Later | 5.00% | ~34 |
 | Good Neighbor | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~28 |

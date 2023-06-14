@@ -20,11 +20,11 @@
 | Starship Docks | 23.00% | ~104 |
 | Cybernetic | 18.00% | ~81 |
 | The Bigger They Are | 17.00% | ~77 |
-| Up Close And Personal | 15.00% | ~68 |
+| Up Close And Personal | 16.00% | ~72 |
 | Eden Heights | 14.00% | ~63 |
 | Outer Core | 10.00% | ~45 |
+| Inner Core | 6.00% | ~27 |
 | Trickshot | 6.00% | ~27 |
-| Inner Core | 5.00% | ~23 |
 | Integration | 4.00% | ~18 |
 | Ripperdoc | 3.00% | ~14 |
 | Destruction | 2.00% | ~9 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5588,
+  "EOS_Progressed": 5589,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -2631,6 +2631,11 @@
       "Time": "2023-06-14T21:04:27.3513684+00:00",
       "NumProgressed": 5588,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T22:04:04.1227563+00:00",
+      "NumProgressed": 5589,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2656,9 +2661,9 @@
       "ID": "Amy_Scav",
       "SetID": "bmkn7o4",
       "Name": "Amy: Scavenger Hunt",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "Ashley",
@@ -3000,9 +3005,9 @@
       "ID": "SO_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Ashley",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "SO_Madison",
@@ -3193,21 +3198,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2627,
+      "Progressed": 2628,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5588,
+      "Progressed": 5589,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:04:27.3513677+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:04:04.1227556+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:57:55.3413534+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:04:27.3515203+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:57:17.7655221+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:04:04.1228355+00:00"
 }

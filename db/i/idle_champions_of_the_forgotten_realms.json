@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4300,7 +4300,7 @@
       "Count": 3250
     }
   ],
-  "EOS_Progressed": 90711,
+  "EOS_Progressed": 90717,
   "EOS_Completed": 1934,
   "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 12,
@@ -9965,6 +9965,11 @@
       "Time": "2023-06-14T21:06:36.1283226+00:00",
       "NumProgressed": 90711,
       "NumCompleted": 1934
+    },
+    {
+      "Time": "2023-06-14T22:06:11.8938067+00:00",
+      "NumProgressed": 90717,
+      "NumCompleted": 1934
     }
   ],
   "TotalAchievements": 493,
@@ -13286,9 +13291,9 @@
       "ID": "objective_completed_813",
       "SetID": "415jc5c",
       "Name": "The Archduke\u0027s Blessing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_814",
@@ -13919,21 +13924,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56985,
+      "Progressed": 56991,
       "Completed": 2791
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90711,
+      "Progressed": 90717,
       "Completed": 1934
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-14T20:58:30.1978496+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:06:36.128322+00:00",
+  "LastChanged_Achievements": "2023-06-14T22:06:11.8938062+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T20:58:30.1978504+00:00",
-  "LastUpdate_Achievements": "2023-06-14T21:06:36.1313557+00:00"
+  "LastUpdate_Ratings": "2023-06-14T21:57:54.7386401+00:00",
+  "LastUpdate_Achievements": "2023-06-14T22:06:11.8965123+00:00"
 }
