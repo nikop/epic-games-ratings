@@ -7,7 +7,7 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.36% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.32% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.16% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -34,18 +34,18 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.51% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.03% |
+| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.19% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.68% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [ZZT!](games/z/zzt!.md) | 3.30% |
+| 46 | [ZZT!](games/z/zzt!.md) | 3.29% |
 | 47 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -74,9 +74,9 @@
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
 | 73 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 74 | [Sifu](games/s/sifu.md) | 1.80% |
-| 75 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
-| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
-| 77 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
+| 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 76 | [Poosh XL](games/p/poosh_xl.md) | 1.65% |
 | 78 | [Somerville](games/s/somerville.md) | 1.58% |
 | 79 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 80 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -108,7 +108,7 @@
 | 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 107 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.68% |
 | 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
-| 109 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.66% |
+| 109 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.65% |
 | 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 111 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
