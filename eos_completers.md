@@ -34,8 +34,8 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.02% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
+| 36 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.96% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -333,6 +333,7 @@
 | 222 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.00% |
 | 222 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 222 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
+| 222 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 0.00% |
 | 222 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 0.00% |
 | 222 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 0.00% |
 | 222 | [Model Builder](games/m/model_builder.md) | 0.00% |
