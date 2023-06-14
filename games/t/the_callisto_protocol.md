@@ -7,15 +7,15 @@ Rating: 4.18 (Ranked 845)
 | ---- | ---------- | ----- |
 | Flesh Wound | 15.00% | ~2,290 |
 | The Outer Way | 14.00% | ~2,137 |
-| Desperate Times | 13.00% | ~1,984 |
+| Desperate Times | 13.00% | ~1,985 |
 | Paper Jams | 11.00% | ~1,679 |
-| Reforged | 10.00% | ~1,526 |
-| Chew 'Em Up | 9.00% | ~1,374 |
+| Chew 'Em Up | 10.00% | ~1,527 |
+| Reforged | 10.00% | ~1,527 |
 | Workplace Hazard | 9.00% | ~1,374 |
 | If the SHU Fits... | 9.00% | ~1,374 |
-| Giving Back | 7.00% | ~1,068 |
-| Get a Grip | 7.00% | ~1,068 |
-| Without A Paddle | 7.00% | ~1,068 |
+| Giving Back | 7.00% | ~1,069 |
+| Get a Grip | 7.00% | ~1,069 |
+| Without A Paddle | 7.00% | ~1,069 |
 | Terminated | 6.00% | ~916 |
 | In the Pipe, Five by Five | 6.00% | ~916 |
 | Crash Site | 6.00% | ~916 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 845)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,264 (Ranked 103)  
+Progressed: 15,266 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,17 +100,17 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
-| 2023-06-14 | 15,264 | 55 |
+| 2023-06-14 | 15,266 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
-Sum: 308 (Ranked 329)  
+Sum: 311 (Ranked 329)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 54 |
 | This game has Quickly Understood Controls | 52 |
+| This game has Amazing Characters | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Amazing Characters | 49 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
@@ -181,4 +181,4 @@ Diff (max vs sum): 58
 | 2023-06-10 | 4.18 | 52 | 302 |
 | 2023-06-11 | 4.18 | 53 | 306 |
 | 2023-06-13 | 4.18 | 53 | 307 |
-| 2023-06-14 | 4.18 | 54 | 308 |
+| 2023-06-14 | 4.18 | 54 | 311 |

@@ -39,8 +39,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~153 |
 | Into the Forest | 1.00% | ~153 |
 | Defying the Crown | 0.90% | ~138 |
-| Ruined Armory | 0.80% | ~122 |
-| Forbidden Lands | 0.80% | ~122 |
+| Ruined Armory | 0.80% | ~123 |
+| Forbidden Lands | 0.80% | ~123 |
 | Fishmen Ritual Site | 0.60% | ~92 |
 | Efficient Explorer | 0.50% | ~77 |
 | Prestigious Expedition | 0.50% | ~77 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,311 (Ranked 102)  
+Progressed: 15,314 (Ranked 102)  
 Completed: 34 (0.22%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 34 (0.22%) (Ranked 149)
 | 2023-06-11 | 15,283 | 34 |
 | 2023-06-12 | 15,296 | 34 |
 | 2023-06-13 | 15,303 | 34 |
-| 2023-06-14 | 15,311 | 34 |
+| 2023-06-14 | 15,314 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,042 (Ranked 153)  

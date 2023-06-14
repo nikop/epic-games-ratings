@@ -2,10 +2,10 @@
   "ID": "a6ec40c07ed2404687698a3ea8de36ce",
   "Name": "The Bookwalker: Thief of Tales",
   "ProductSlug": "the-bookwalker-cd43ce",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-22T00:00:00+00:00",
     "PcReleaseDate": "2023-06-22T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:02:17.6505345+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:02:11.1705609+00:00",
   "LastUpdate_AppInfo": "2023-06-14T09:56:55.4324753+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:57:24.0247555+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:02:17.6505374+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:13.7928699+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:02:11.1705647+00:00"
 }

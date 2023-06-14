@@ -10,8 +10,8 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 79.00% | ~769 |
 | Voices from the Past | 78.00% | ~759 |
 | Demigod | 76.00% | ~739 |
-| The Great Destroyer | 74.00% | ~720 |
-| Shields Down | 72.00% | ~701 |
+| The Great Destroyer | 75.00% | ~730 |
+| Shields Down | 73.00% | ~710 |
 | Safe Home | 68.00% | ~662 |
 | Helping Hand | 67.00% | ~652 |
 | Paragon | 63.00% | ~613 |
@@ -24,7 +24,7 @@ Number of Ratings: 58  (23.09.2022)
 | Relentless | 48.00% | ~467 |
 | The Path Forward | 46.00% | ~448 |
 | Disruption | 44.00% | ~428 |
-| Phoenix | 43.00% | ~418 |
+| Phoenix | 44.00% | ~428 |
 | Cult Slayer | 41.00% | ~399 |
 | Origin | 40.00% | ~389 |
 | It Was An Accident | 39.00% | ~379 |

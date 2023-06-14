@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 688,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1284,6 +1284,11 @@
       "Time": "2023-06-14T19:06:35.4899099+00:00",
       "NumProgressed": 685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T20:06:26.1746351+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1311,7 +1316,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ChestCompletion1",
@@ -1461,17 +1466,17 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "InxChromaInTheatre",
       "SetID": "a9e499d",
       "Name": "Fitting In",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "JinxDefeated",
@@ -1533,9 +1538,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "ParryBoss",
@@ -1583,7 +1588,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "RewindParry",
@@ -1639,7 +1644,7 @@
       "Name": "Sump Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SyronGift",
@@ -1647,7 +1652,7 @@
       "Name": "Syron for Hope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1661,9 +1666,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1701,9 +1706,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1718,14 +1723,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 688,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:06:35.4899094+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:06:26.1746332+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:00:20.9855806+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:06:35.4899546+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:00:12.6891254+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:06:26.1746873+00:00"
 }

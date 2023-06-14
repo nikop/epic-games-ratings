@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.32 (Ranked 753)  
+Rating: 4.32 (Ranked 752)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,16 +21,16 @@ Rating: 4.32 (Ranked 753)
 | The Major | 46.00% | ~178 |
 | Comtesse Margaux de Vos | 44.00% | ~170 |
 | Curious and Beautiful | 43.00% | ~166 |
-| Jacqueline “Jackie” Conrad | 42.00% | ~162 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~166 |
 | The Interrogations | 42.00% | ~162 |
-| Well-acquainted | 40.00% | ~154 |
+| Well-acquainted | 41.00% | ~158 |
 | Zakariya Demir | 40.00% | ~154 |
 | Well-read | 38.00% | ~147 |
 | Cassandra Van den Bosch | 36.00% | ~139 |
-| The Secret | 35.00% | ~135 |
-| Gedeon Demir | 33.00% | ~127 |
+| The Secret | 36.00% | ~139 |
+| Gedeon Demir | 34.00% | ~131 |
 | Rehana Piette | 33.00% | ~127 |
-| Instinct is Marvellous | 31.00% | ~120 |
+| Instinct is Marvellous | 32.00% | ~124 |
 | Ernesto da Silva | 31.00% | ~120 |
 | Inge Frank | 30.00% | ~116 |
 | The Search | 29.00% | ~112 |

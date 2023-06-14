@@ -21,10 +21,10 @@ Rating: 4.67 (Ranked 257)
 | The word around is... | 4.00% | ~19 |
 | Liar Liar | 4.00% | ~19 |
 | The cycle acknowledged | 4.00% | ~19 |
+| Queen | 4.00% | ~19 |
 | Baba Yaga | 4.00% | ~19 |
 | Extensive retelling | 3.00% | ~15 |
 | Both sides | 3.00% | ~15 |
-| Queen | 3.00% | ~15 |
 | Witch's cookbook | 3.00% | ~15 |
 | Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |

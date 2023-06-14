@@ -394,9 +394,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10496,
+  "EOS_Progressed": 10501,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4749,6 +4749,11 @@
       "Time": "2023-06-14T19:07:29.2562083+00:00",
       "NumProgressed": 10496,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-14T20:07:20.0825048+00:00",
+      "NumProgressed": 10501,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 35,
@@ -4760,7 +4765,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8397
+      "UsersEstimate": 8401
     },
     {
       "ID": "ACH02",
@@ -4784,7 +4789,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH05",
@@ -4808,7 +4813,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACH08",
@@ -4816,7 +4821,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5145
     },
     {
       "ID": "ACH09",
@@ -4856,7 +4861,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH14",
@@ -4880,7 +4885,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH17",
@@ -4936,7 +4941,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH24",
@@ -4984,7 +4989,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH30",
@@ -5000,7 +5005,7 @@
       "Name": "Chick Magnet",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH32",
@@ -5039,7 +5044,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10496,
+      "Progressed": 10501,
       "Completed": 18
     }
   ],
@@ -5047,8 +5052,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-14T16:00:31.2333058+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:29.2562079+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:20.0825039+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:01:24.8926089+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:29.2562639+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:01:16.8415605+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:20.0825563+00:00"
 }

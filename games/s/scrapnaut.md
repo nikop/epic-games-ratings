@@ -1,30 +1,30 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.31 (Ranked 762)  
+Rating: 4.31 (Ranked 761)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 60.00% | ~160 |
 | Scrap Gatherer | 57.00% | ~152 |
-| Mushroom Picker | 55.00% | ~146 |
+| Mushroom Picker | 56.00% | ~149 |
 | Scrapper | 48.00% | ~128 |
 | Cook | 41.00% | ~109 |
 | Teleport | 40.00% | ~106 |
 | Scrap Master | 38.00% | ~101 |
 | Smelter | 36.00% | ~96 |
 | Electro-Scrap Gatherer | 34.00% | ~90 |
-| Digger | 32.00% | ~85 |
+| Digger | 33.00% | ~88 |
 | Survivor | 32.00% | ~85 |
 | Robot Destroyer | 31.00% | ~82 |
-| Herbalist | 28.00% | ~74 |
+| Herbalist | 29.00% | ~77 |
 | Lumberjack | 26.00% | ~69 |
 | Prepper | 26.00% | ~69 |
 | Electro-Scrap Master | 24.00% | ~64 |
 | Robot Hunter | 21.00% | ~56 |
 | Advanced Survivalist | 19.00% | ~51 |
-| Master Of Technology | 17.00% | ~45 |
+| Master Of Technology | 18.00% | ~48 |
 | Treasure Hunter | 17.00% | ~45 |
 | Blacksmith | 12.00% | ~32 |
 | Mythical Smelter | 12.00% | ~32 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -116,7 +116,7 @@
   "Tags": [],
   "EOS_Progressed": 4285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2066,9 +2066,9 @@
       "ID": "ACH_NAYSAYER",
       "SetID": "5nj1ea3",
       "Name": "Naysayer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_NORMAL",
@@ -2227,8 +2227,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:35.3191398+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:25.956437+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:52.6519642+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:01:30.4237343+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:35.3192038+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:01:23.0600425+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:25.9565084+00:00"
 }

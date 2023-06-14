@@ -5,21 +5,21 @@ Rating: 4.53 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~851 |
-| Confirming Suspicions | 25.00% | ~709 |
-| The Kraken Wakes | 20.00% | ~567 |
-| It's Starting to Crack | 18.00% | ~511 |
+| Meeting Resistance | 30.00% | ~853 |
+| Confirming Suspicions | 25.00% | ~711 |
+| The Kraken Wakes | 20.00% | ~569 |
+| It's Starting to Crack | 18.00% | ~512 |
 | Lord of War | 15.00% | ~426 |
 | Change the Channel | 15.00% | ~426 |
-| Resourceful | 13.00% | ~369 |
-| Taking it back | 13.00% | ~369 |
-| Target America | 12.00% | ~340 |
-| Organ Grinder | 11.00% | ~312 |
+| Resourceful | 13.00% | ~370 |
+| Taking it back | 13.00% | ~370 |
+| Target America | 12.00% | ~341 |
+| Organ Grinder | 11.00% | ~313 |
 | As Quiet as a Mouse | 10.00% | ~284 |
 | The Kraken Sleeps | 10.00% | ~284 |
-| Liberté | 9.00% | ~255 |
-| Sharpshooter | 9.00% | ~255 |
-| Explosive Efficiency | 9.00% | ~255 |
+| Liberté | 9.00% | ~256 |
+| Sharpshooter | 9.00% | ~256 |
+| Explosive Efficiency | 9.00% | ~256 |
 | Enemy at the Gates | 8.00% | ~227 |
 | Just a Flesh Wound | 8.00% | ~227 |
 | Gunslinger | 8.00% | ~227 |
@@ -27,15 +27,15 @@ Rating: 4.53 (Ranked 502)
 | Der Geist | 7.00% | ~199 |
 | Close Quarters | 7.00% | ~199 |
 | Brains of the Operation | 7.00% | ~199 |
-| Climbing the Ladder | 6.00% | ~170 |
-| Fields of Glory | 6.00% | ~170 |
-| Skirmisher | 6.00% | ~170 |
-| Die Nussknacker Sweet! | 6.00% | ~170 |
-| Snake in the Grass | 6.00% | ~170 |
-| No Stone Unturned | 5.00% | ~142 |
+| Climbing the Ladder | 6.00% | ~171 |
+| No Stone Unturned | 6.00% | ~171 |
+| Fields of Glory | 6.00% | ~171 |
+| Skirmisher | 6.00% | ~171 |
+| Die Nussknacker Sweet! | 6.00% | ~171 |
+| Snake in the Grass | 6.00% | ~171 |
 | Set Europe Ablaze | 5.00% | ~142 |
-| Precision Is Key | 4.00% | ~113 |
-| Rigged to Blow | 4.00% | ~113 |
+| Precision Is Key | 4.00% | ~114 |
+| Rigged to Blow | 4.00% | ~114 |
 | My Little Friend | 3.00% | ~85 |
 | The Long Game | 2.00% | ~57 |
 | It'll Buff Right Out | 2.00% | ~57 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 502)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,837 (Ranked 144)  
+Progressed: 2,843 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,837 | 2 |
+| 2023-06-14 | 2,843 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

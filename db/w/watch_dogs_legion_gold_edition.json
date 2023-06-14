@@ -1,10 +1,10 @@
 {
   "ID": "a140ff4439624f99a32934a151a6d914",
   "Name": "Watch Dogs Legion Gold Edition",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:35.0804242+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:00:18.8856146+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:05:58.5231922+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:00:10.5725844+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:05:49.9418576+00:00"
 }

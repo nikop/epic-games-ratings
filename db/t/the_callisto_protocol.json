@@ -576,10 +576,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-14T19:58:18.5783912+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 308,
+  "NumberOfAwards": 311,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -605,7 +611,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -626,9 +632,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15264,
+  "EOS_Progressed": 15266,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3886,6 +3892,11 @@
       "Time": "2023-06-14T19:05:07.3821623+00:00",
       "NumProgressed": 15264,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T20:04:59.0585039+00:00",
+      "NumProgressed": 15266,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3913,7 +3924,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4001,7 +4012,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -4023,9 +4034,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1527
     },
     {
       "ID": "KILL_ROBOT",
@@ -4065,7 +4076,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4105,7 +4116,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "STORY_HANGAR",
@@ -4129,7 +4140,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4216,22 +4227,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15264,
+      "Progressed": 15266,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3190,
+      "Progressed": 3192,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-14T18:58:28.0730013+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:05:07.3821617+00:00",
+  "LastChanged": "2023-06-14T19:58:18.578391+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:04:59.0585035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:58:28.0730019+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:05:07.3822065+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:58:18.5783922+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:04:59.0585641+00:00"
 }

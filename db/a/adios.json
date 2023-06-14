@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -60,10 +60,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61484,
-  "EOS_Completed": 532,
-  "EOS_NewPlayers": 1252,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 61489,
+  "EOS_Completed": 533,
+  "EOS_NewPlayers": 1241,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
@@ -5860,6 +5860,11 @@
       "Time": "2023-06-14T19:07:16.9513831+00:00",
       "NumProgressed": 61484,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-06-14T20:07:08.8223459+00:00",
+      "NumProgressed": 61489,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 25,
@@ -5887,7 +5892,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11067
+      "UsersEstimate": 11068
     },
     {
       "ID": "Audiophile",
@@ -5903,7 +5908,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12912
+      "UsersEstimate": 12913
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -5911,7 +5916,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10452
+      "UsersEstimate": 10453
     },
     {
       "ID": "Butcher",
@@ -5919,7 +5924,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "Cut Call",
@@ -5943,7 +5948,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12297
+      "UsersEstimate": 12298
     },
     {
       "ID": "Hearty",
@@ -5967,7 +5972,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "Master, Commander",
@@ -5975,7 +5980,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12297
+      "UsersEstimate": 12298
     },
     {
       "ID": "Meaty",
@@ -5991,7 +5996,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11682
+      "UsersEstimate": 11683
     },
     {
       "ID": "Nice Try",
@@ -5999,7 +6004,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9837
+      "UsersEstimate": 9838
     },
     {
       "ID": "Nothing Left to Say",
@@ -6015,7 +6020,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "Right On Target",
@@ -6023,7 +6028,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7993
+      "UsersEstimate": 7994
     },
     {
       "ID": "Sniper",
@@ -6039,7 +6044,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "Taco Toto",
@@ -6070,16 +6075,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61484,
-      "Completed": 532
+      "Progressed": 61489,
+      "Completed": 533
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-10T22:00:06.058838+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:16.9513827+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:08.8223455+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.9949874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:01:42.6551213+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:16.9514303+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:01:35.2947142+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:08.8224008+00:00"
 }

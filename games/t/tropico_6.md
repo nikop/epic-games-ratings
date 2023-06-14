@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,763 |
-| Un-Lonely Island | 48.00% | ~1,745 |
-| The Beginning of a Servantship | 46.00% | ~1,672 |
-| Trade Is My Trait | 36.00% | ~1,309 |
-| Number 18 | 25.00% | ~909 |
-| We Don't Have Time For That | 20.00% | ~727 |
-| The Governator | 18.00% | ~654 |
+| Just One...More...Term... | 76.00% | ~2,765 |
+| Un-Lonely Island | 48.00% | ~1,746 |
+| The Beginning of a Servantship | 45.00% | ~1,637 |
+| Trade Is My Trait | 36.00% | ~1,310 |
+| Number 18 | 25.00% | ~910 |
+| We Don't Have Time For That | 20.00% | ~728 |
+| The Governator | 18.00% | ~655 |
 | The Legend of Langostino | 17.00% | ~618 |
 | Caribbean Comrade | 16.00% | ~582 |
 | The Dreamer of Dreams | 16.00% | ~582 |
@@ -25,14 +25,14 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 8.00% | ~291 |
 | Make Tropico Great Again! | 8.00% | ~291 |
 | French Connection | 8.00% | ~291 |
-| Don't Panic! | 7.00% | ~254 |
+| Don't Panic! | 7.00% | ~255 |
 | Beware The Betman | 6.00% | ~218 |
 | I Owe You Nothing | 6.00% | ~218 |
 | Watch The World Burn | 6.00% | ~218 |
 | Viva Tropico! | 5.00% | ~182 |
 | Computer Says "No" | 5.00% | ~182 |
 | Fairy Tale Come True | 5.00% | ~182 |
-| Apocalypso | 4.00% | ~145 |
+| Apocalypso | 4.00% | ~146 |
 | Been there, Done That | 3.00% | ~109 |
 | Narcissist | 3.00% | ~109 |
 | Promising Endeavors | 3.00% | ~109 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,635 (Ranked 135)  
+Progressed: 3,638 (Ranked 135)  
 Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-11 | 3,572 | 1 |
 | 2023-06-12 | 3,598 | 1 |
 | 2023-06-13 | 3,621 | 1 |
-| 2023-06-14 | 3,635 | 1 |
+| 2023-06-14 | 3,638 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 653 (Ranked 275)  

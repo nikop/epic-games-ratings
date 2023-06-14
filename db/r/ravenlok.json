@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2439,9 +2439,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 329
     },
     {
       "ID": "16",
@@ -2800,8 +2800,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:04.4400255+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:06:55.9891913+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:57:53.52438+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:04.4400745+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:43.976992+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:06:55.9892474+00:00"
 }

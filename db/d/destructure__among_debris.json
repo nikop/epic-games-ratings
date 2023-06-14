@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -949,8 +949,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:03:11.1231723+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:03:14.0610964+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:01:01.6336175+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:03:11.1231967+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:00:52.8437537+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:03:14.0611264+00:00"
 }

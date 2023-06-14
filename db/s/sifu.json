@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4602,10 +4602,10 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709305,
-  "EOS_Completed": 12769,
-  "EOS_NewPlayers": 1415,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 709316,
+  "EOS_Completed": 12770,
+  "EOS_NewPlayers": 1422,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9837,6 +9837,11 @@
       "Time": "2023-06-14T19:07:31.5565151+00:00",
       "NumProgressed": 709305,
       "NumCompleted": 12769
+    },
+    {
+      "Time": "2023-06-14T20:07:22.2781554+00:00",
+      "NumProgressed": 709316,
+      "NumCompleted": 12770
     }
   ],
   "TotalAchievements": 50,
@@ -9936,7 +9941,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "13_LowAge",
@@ -10040,7 +10045,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "26_ShrineSpirit",
@@ -10080,7 +10085,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "31_ComboHigh",
@@ -10120,7 +10125,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -10184,7 +10189,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10192,7 +10197,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10247,21 +10252,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18606,
+      "Progressed": 18617,
       "Completed": 10267
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709305,
-      "Completed": 12769
+      "Progressed": 709316,
+      "Completed": 12770
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-14T17:59:09.6545664+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:31.5565147+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:22.2781545+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:59:52.0845374+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:31.556592+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:59:43.8894536+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:22.2782311+00:00"
 }

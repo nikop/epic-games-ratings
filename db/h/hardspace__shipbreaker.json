@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1109,9 +1109,9 @@
       "ID": "ACH_BREAKING_THE_ICE",
       "SetID": "108h92c",
       "Name": "Breaking the Ice",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1262,8 +1262,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:03:35.3211678+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:03:37.8868598+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:58:00.7380638+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:03:35.3211909+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:51.2137885+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:03:37.8868796+00:00"
 }

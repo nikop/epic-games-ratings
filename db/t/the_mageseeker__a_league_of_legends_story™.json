@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2593,6 +2593,11 @@
       "Time": "2023-06-14T17:05:50.3198403+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T20:07:13.2096901+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2612,7 +2617,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2644,7 +2649,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2652,7 +2657,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2666,9 +2671,9 @@
       "ID": "STB_DEFEAT_GAREN_I",
       "SetID": "3pe2bac",
       "Name": "For Demacia",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2232
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2684,7 +2689,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2724,7 +2729,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2740,7 +2745,7 @@
       "Name": "Old friend",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2780,7 +2785,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2788,7 +2793,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2820,7 +2825,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2948,7 +2953,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2980,7 +2985,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3020,14 +3025,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 2
     }
   ],
@@ -3035,8 +3040,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:21.5200131+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:13.2096896+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:58:05.7003017+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:21.5200759+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:56.5185824+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:13.2097531+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1002,9 +1002,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 730
     },
     {
       "ID": "MasteryOfCombat",
@@ -1154,9 +1154,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 710
     },
     {
       "ID": "MissionScavengingJob",
@@ -1258,9 +1258,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 428
     },
     {
       "ID": "VisitAllLocations",
@@ -1290,8 +1290,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:31.0501665+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:21.7664399+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:01:05.9715285+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:31.0502076+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:00:57.2645589+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:21.7664795+00:00"
 }

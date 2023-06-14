@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,706 (Ranked 64)  
+Progressed: 90,707 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,16 +555,16 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,706 | 1,934 |
+| 2023-06-14 | 90,707 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
-Sum: 30,103 (Ranked 37)  
+Sum: 30,106 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,941 |
 | This game is Great for Beginners | 4,867 |
-| This game has Quickly Understood Controls | 4,615 |
+| This game has Quickly Understood Controls | 4,618 |
 | This game is Relaxing | 4,513 |
 | This game is Highly Recommended | 3,960 |
 | This game has Amazing Characters | 3,957 |
@@ -711,4 +711,4 @@ Diff (max vs sum): 27
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
 | 2023-06-13 | 4.06 | - | 4,937 | 30,095 |
-| 2023-06-14 | 4.06 | - | 4,941 | 30,103 |
+| 2023-06-14 | 4.06 | - | 4,941 | 30,106 |

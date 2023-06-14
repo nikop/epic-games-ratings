@@ -40,11 +40,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~59 |
 | Win as the Navigators | 0.90% | ~53 |
 | Win as Torians | 0.90% | ~53 |
+| Win as the Manti | 0.80% | ~48 |
 | Win as Xeloxi | 0.80% | ~48 |
 | Win as the Drath | 0.70% | ~42 |
 | Win as the Drengin | 0.70% | ~42 |
 | Win as the Krynn | 0.70% | ~42 |
-| Win as the Manti | 0.70% | ~42 |
 | Diplomatic Victory! | 0.70% | ~42 |
 | Win as the Iconians | 0.60% | ~36 |
 | Win as the Iridium | 0.60% | ~36 |

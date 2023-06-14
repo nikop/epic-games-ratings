@@ -13,12 +13,12 @@
 | The Van | 68.00% | ~45 |
 | Road-Trip | 62.00% | ~41 |
 | A Musical Pause | 61.00% | ~40 |
-| Briget's | 48.00% | ~32 |
+| Briget's | 50.00% | ~33 |
 | Sound of Noise | 47.00% | ~31 |
 | Big City Music | 45.00% | ~30 |
-| Love at First Sight | 42.00% | ~28 |
-| First Kiss | 36.00% | ~24 |
-| A Bigger Band | 33.00% | ~22 |
+| Love at First Sight | 44.00% | ~29 |
+| First Kiss | 38.00% | ~25 |
+| A Bigger Band | 35.00% | ~23 |
 | Symbiosis | 33.00% | ~22 |
 | Fuel | 27.00% | ~18 |
 | Alone Together | 26.00% | ~17 |
@@ -59,7 +59,7 @@
 | Pinewood | 2.00% | ~1 |
 | Love is All | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 302)  
+Progressed: 66 (Ranked 303)  
 Completed: 1 (1.52%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |

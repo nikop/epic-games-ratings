@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 11.00% | ~75 |
+| Time Heals All Wounds | 11.00% | ~76 |
 | Treasure Trove | 9.00% | ~62 |
 | The Mysterious Stranger | 9.00% | ~62 |
 | Rail Rat | 9.00% | ~62 |
 | Cartographer | 9.00% | ~62 |
 | The Steel Shadow | 8.00% | ~55 |
 | Make Up For Lost Time | 8.00% | ~55 |
+| Time Flies | 8.00% | ~55 |
 | The Harder They Fall | 8.00% | ~55 |
 | No, Thanks! | 8.00% | ~55 |
 | Breaking Down Barriers | 8.00% | ~55 |
 | The Prince in Heels | 8.00% | ~55 |
 | Immaculate Aim | 8.00% | ~55 |
 | Immaculate Aim | 8.00% | ~55 |
+| The Brass Boss | 8.00% | ~55 |
 | The Betrayer | 7.00% | ~48 |
 | The Man Who Shattered Time | 7.00% | ~48 |
-| Time Flies | 7.00% | ~48 |
 | The Wicked Twins | 7.00% | ~48 |
 | Honest Mistake | 7.00% | ~48 |
 | Golem Chaser | 7.00% | ~48 |
 | Fast Learner | 7.00% | ~48 |
-| The Brass Boss | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
 | Like Clockwork | 6.00% | ~41 |
 | Street Style | 6.00% | ~41 |
@@ -35,21 +35,21 @@
 | Whiz Kid | 5.00% | ~34 |
 | Ask Questions Later | 5.00% | ~34 |
 | Good Neighbor | 5.00% | ~34 |
-| Chaincrawler Explorer | 4.00% | ~27 |
-| Sump Explorer | 4.00% | ~27 |
-| Syron for Hope | 4.00% | ~27 |
-| Theater Explorer | 4.00% | ~27 |
+| Chaincrawler Explorer | 4.00% | ~28 |
+| Sump Explorer | 4.00% | ~28 |
+| Syron for Hope | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |
 | Cultivair Explorer | 3.00% | ~21 |
 | Entresol Explorer | 3.00% | ~21 |
 | Factorywood Explorer | 3.00% | ~21 |
 | Fairgrounds Explorer | 3.00% | ~21 |
+| Theater Explorer | 3.00% | ~21 |
 | Clovemary for Remembering | 2.00% | ~14 |
+| Hexlock for Protection | 2.00% | ~14 |
 | Golem Hunter | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |
-| Hexlock for Protection | 1.00% | ~7 |
-| Fitting In | 0.90% | ~6 |
+| Fitting In | 1.00% | ~7 |
 | Thinking Two Steps Ahead | 0.60% | ~4 |
 | Wunderkind | 0.60% | ~4 |
 | Wildlife Protection | 0.30% | ~2 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685 (Ranked 191)  
+Progressed: 688 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 1 (0.15%) (Ranked 161)
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
-| 2023-06-14 | 685 | 1 |
+| 2023-06-14 | 688 | 1 |

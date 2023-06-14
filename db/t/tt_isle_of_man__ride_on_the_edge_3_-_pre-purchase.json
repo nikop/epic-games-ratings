@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -678,9 +678,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:02:12.1426187+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:02:05.3196745+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:45.9583233+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:58:08.8686031+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:02:12.1426515+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:59.3892247+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:02:05.319711+00:00"
 }

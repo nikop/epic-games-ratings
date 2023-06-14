@@ -2,10 +2,10 @@
   "ID": "cc4af47bd1374ea99148e5d73869cf43",
   "Name": "Unalive 010",
   "ProductSlug": "unalive-010-7855ad",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-17T00:00:00+00:00",
     "PcReleaseDate": "2023-05-12T06:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-14T17:57:17.6934855+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:57:28.0852002+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:01:52.8971357+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:57:18.2884015+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:01:46.7403327+00:00"
 }

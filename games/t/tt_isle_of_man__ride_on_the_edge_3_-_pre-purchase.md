@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 96.00% | ~82 |
 | To Each Their Own | 47.00% | ~40 |
-| You Get An Upgrade, You Get An Upgrade! | 20.00% | ~17 |
+| You Get An Upgrade, You Get An Upgrade! | 21.00% | ~18 |
 | Onwards and Upwards | 20.00% | ~17 |
 | Serial Winner | 13.00% | ~11 |
 | Like Phileas Fogg | 12.00% | ~10 |
 | Highly Qualified | 8.00% | ~7 |
+| No Room for Improvement | 8.00% | ~7 |
 | Start Your Engines | 8.00% | ~7 |
-| No Room for Improvement | 7.00% | ~6 |
 | Upgradeaholic | 7.00% | ~6 |
 | Lone Wolf | 7.00% | ~6 |
 | Playing God | 7.00% | ~6 |

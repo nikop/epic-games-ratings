@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 1276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2100,9 +2100,9 @@
       "ID": "achFirstElectricTrainArrived",
       "SetID": "dgl390n",
       "Name": "First electric train arrived",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 612
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2364,8 +2364,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-14T19:07:35.6363761+00:00",
+  "LastChanged_Achievements": "2023-06-14T20:07:26.3874008+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.0789003+00:00",
-  "LastUpdate_Ratings": "2023-06-14T19:00:38.9841633+00:00",
-  "LastUpdate_Achievements": "2023-06-14T19:07:35.6364424+00:00"
+  "LastUpdate_Ratings": "2023-06-14T20:00:29.995314+00:00",
+  "LastUpdate_Achievements": "2023-06-14T20:07:26.3874847+00:00"
 }

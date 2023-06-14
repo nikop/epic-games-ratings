@@ -58,8 +58,8 @@ Rating: 4.64 (Ranked 316)
 | Cuckoo's nest | 0.70% | ~30 |
 | Bughunter | 0.70% | ~30 |
 | Cat Lady | 0.70% | ~30 |
+| Naysayer | 0.60% | ~26 |
 | Pro gamer | 0.60% | ~26 |
-| Naysayer | 0.50% | ~21 |
 | Manhattan Project | 0.40% | ~17 |
 | Fair Exchange | 0.40% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~9 |
