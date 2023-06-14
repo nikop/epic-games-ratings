@@ -26,15 +26,15 @@
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
-| 27 | [Scorn](games/s/scorn.md) | 6.89% |
+| 27 | [Scorn](games/s/scorn.md) | 6.88% |
 | 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.18% |
+| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.14% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
@@ -130,11 +130,11 @@
 | 128 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 128 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 130 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 131 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 131 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 131 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 135 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 134 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 134 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 136 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 138 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
@@ -259,6 +259,7 @@
 | 222 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
 | 222 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
 | 222 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
+| 222 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.00% |
 | 222 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
 | 222 | [Crayta](games/c/crayta.md) | 0.00% |
 | 222 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
