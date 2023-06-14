@@ -119,7 +119,7 @@
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,498 | 22 |
 | 117 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 347 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 496 |
-| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,224 | 86 |
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,229 | 86 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 863 | 146 |
 | 117 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 413 |
 | 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,131 | 73 |
@@ -221,6 +221,7 @@
 | 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 3,151 | 87 |
 | 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,131 | 8 |
 | 219 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 496 |
+| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,386 | 61 |
 | 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 296 | 229 |
 | 219 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 496 |
 | 219 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 496 |
@@ -237,25 +238,24 @@
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 496 |
 | 219 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 496 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 788 | 149 |
-| 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 82 |
-| 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 496 |
-| 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 369 |
-| 238 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 496 |
-| 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,152 | 47 |
-| 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,819 | 78 |
-| 238 | [Dead Space](games/d/dead_space.md) | 4.68 | 63 | 375 |
-| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,386 | 61 |
-| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,789 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 182,972 | 5 |
-| 238 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 0 | 496 |
-| 238 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 496 |
-| 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 199 |
-| 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 559 | 176 |
-| 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 669 | 162 |
-| 238 | [Revita](games/r/revita.md) | 4.68 | 0 | 496 |
-| 238 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 176 | 274 |
-| 238 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 459 |
-| 238 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 496 |
+| 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 82 |
+| 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 496 |
+| 239 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 369 |
+| 239 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 496 |
+| 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,152 | 47 |
+| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,819 | 78 |
+| 239 | [Dead Space](games/d/dead_space.md) | 4.68 | 63 | 375 |
+| 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,789 | 3 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 182,972 | 5 |
+| 239 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 0 | 496 |
+| 239 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 496 |
+| 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 199 |
+| 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 559 | 176 |
+| 239 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 669 | 162 |
+| 239 | [Revita](games/r/revita.md) | 4.68 | 0 | 496 |
+| 239 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 176 | 274 |
+| 239 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 459 |
+| 239 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 496 |
 | 257 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 496 |
 | 257 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 650 | 164 |
 | 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 496 |
@@ -534,7 +534,7 @@
 | 530 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
 | 530 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 496 |
 | 530 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 320 |
-| 530 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 185 | 270 |
+| 530 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 186 | 269 |
 | 530 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,234 | 126 |
 | 530 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 496 |
 | 530 | [Sable](games/s/sable.md) | 4.51 | 0 | 496 |
