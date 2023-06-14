@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 668,
+  "Ranking_Rating": 669,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 6,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523006,
+  "EOS_Progressed": 1523010,
   "EOS_Completed": 621,
-  "EOS_NewPlayers": 1583,
+  "EOS_NewPlayers": 1581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6145,6 +6145,11 @@
       "Time": "2023-06-14T05:03:37.2791069+00:00",
       "NumProgressed": 1523006,
       "NumCompleted": 621
+    },
+    {
+      "Time": "2023-06-14T06:04:16.2591582+00:00",
+      "NumProgressed": 1523010,
+      "NumCompleted": 621
     }
   ],
   "TotalAchievements": 20,
@@ -6164,7 +6169,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106610
+      "UsersEstimate": 106611
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -6268,7 +6273,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121840
+      "UsersEstimate": 121841
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6315,15 +6320,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523006,
+      "Progressed": 1523010,
       "Completed": 621
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:03:37.2791065+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:04:16.2591577+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:59:27.1984858+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:03:37.2791445+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:00:25.7919142+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:04:16.2592083+00:00"
 }

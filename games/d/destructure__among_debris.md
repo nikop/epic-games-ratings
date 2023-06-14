@@ -18,11 +18,11 @@
 | Back From The Dead | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
 | Legendary Destructor | 3.00% | ~4 |
+| Medium Rare | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~3 |
 | Collector | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
-| Medium Rare | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |
 | Nomad | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |

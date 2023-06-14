@@ -12,7 +12,7 @@
 | Terminated II | 64.00% | ~282 |
 | The City | 49.00% | ~216 |
 | Terminated III | 41.00% | ~180 |
-| Challenge Mastered | 39.00% | ~172 |
+| Challenge Mastered | 40.00% | ~176 |
 | Nanonic II | 34.00% | ~150 |
 | Rookie | 27.00% | ~119 |
 | Supply Run | 24.00% | ~106 |

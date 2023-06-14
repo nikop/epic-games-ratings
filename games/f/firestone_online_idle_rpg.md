@@ -1,16 +1,16 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 892)  
+Rating: 4.05 (Ranked 893)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,309 |
-| World Map | 80.00% | ~1,114 |
-| Temple of Eternals | 57.00% | ~794 |
-| Prestigious | 53.00% | ~738 |
-| Fellowship Power | 41.00% | ~571 |
-| Guild Power | 24.00% | ~334 |
+| Victor | 94.00% | ~1,310 |
+| World Map | 80.00% | ~1,115 |
+| Temple of Eternals | 57.00% | ~795 |
+| Prestigious | 53.00% | ~739 |
+| Fellowship Power | 41.00% | ~572 |
+| Guild Power | 24.00% | ~335 |
 | Prestigious x10 | 21.00% | ~293 |
 | The game is on | 18.00% | ~251 |
 | Exotic Merchant | 17.00% | ~237 |
@@ -28,12 +28,12 @@ Rating: 4.05 (Ranked 892)
 | Superior | 11.00% | ~153 |
 | Milestone collector | 10.00% | ~139 |
 | Scientist | 9.00% | ~125 |
-| Challenger | 8.00% | ~111 |
-| Daily Quest Completionist | 8.00% | ~111 |
-| Hunter | 8.00% | ~111 |
-| Relic Of The Past | 8.00% | ~111 |
-| Scroll Master | 8.00% | ~111 |
-| The power of Awakening | 8.00% | ~111 |
+| Challenger | 8.00% | ~112 |
+| Daily Quest Completionist | 8.00% | ~112 |
+| Hunter | 8.00% | ~112 |
+| Relic Of The Past | 8.00% | ~112 |
+| Scroll Master | 8.00% | ~112 |
+| The power of Awakening | 8.00% | ~112 |
 | Doing My Part | 7.00% | ~98 |
 | Frostfire Liberator | 7.00% | ~98 |
 | Mastery | 7.00% | ~98 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 892)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,393 (Ranked 164)  
+Progressed: 1,394 (Ranked 164)  
 Completed: 1 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.07%) (Ranked 180)
 | 2023-06-11 | 1,376 | 1 |
 | 2023-06-12 | 1,385 | 1 |
 | 2023-06-13 | 1,390 | 1 |
-| 2023-06-14 | 1,393 | 1 |
+| 2023-06-14 | 1,394 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
@@ -620,7 +620,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15223,
+  "EOS_Progressed": 15226,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 1,
@@ -3815,6 +3815,11 @@
       "Time": "2023-06-14T05:03:51.8919514+00:00",
       "NumProgressed": 15223,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T06:04:33.2517583+00:00",
+      "NumProgressed": 15226,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3858,7 +3863,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3890,7 +3895,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3922,7 +3927,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -3938,7 +3943,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "KILL_2HEAD",
@@ -3962,7 +3967,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3994,7 +3999,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4010,7 +4015,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -4018,7 +4023,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4042,7 +4047,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4066,7 +4071,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "STORY_TOWER",
@@ -4106,7 +4111,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4114,7 +4119,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4122,7 +4127,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -4145,13 +4150,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15223,
+      "Progressed": 15226,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3149,
+      "Progressed": 3152,
       "Completed": 29
     }
   ],
@@ -4159,8 +4164,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:03:51.891951+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:04:33.2517575+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:57:41.8389588+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:03:51.8919906+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:58:12.3215014+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:04:33.2518147+00:00"
 }

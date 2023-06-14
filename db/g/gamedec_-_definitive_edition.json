@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 747,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 44,
@@ -348,9 +348,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 231773,
+  "EOS_Progressed": 231777,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1424,
+  "EOS_NewPlayers": 1423,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6063,6 +6063,11 @@
       "Time": "2023-06-14T05:05:24.3648898+00:00",
       "NumProgressed": 231773,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-14T06:06:25.1388301+00:00",
+      "NumProgressed": 231777,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 52,
@@ -6074,7 +6079,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62579
+      "UsersEstimate": 62580
     },
     {
       "ID": "ACH_AON",
@@ -6130,7 +6135,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -6146,7 +6151,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -6210,7 +6215,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_ISTARTED",
@@ -6218,7 +6223,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64896
+      "UsersEstimate": 64898
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -6226,7 +6231,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -6274,7 +6279,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -6322,7 +6327,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -6330,7 +6335,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -6354,7 +6359,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13906
+      "UsersEstimate": 13907
     },
     {
       "ID": "ACH_MEMORY5",
@@ -6394,7 +6399,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 57943
+      "UsersEstimate": 57944
     },
     {
       "ID": "ACH_SOREAD",
@@ -6450,7 +6455,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -6489,7 +6494,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 231773,
+      "Progressed": 231777,
       "Completed": 6
     }
   ],
@@ -6497,8 +6502,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-09T19:58:05.9453311+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:24.3648894+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:25.1388296+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:10.0505523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:57:45.8997192+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:24.3649366+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:58:17.5951631+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:25.1389128+00:00"
 }

@@ -472,9 +472,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-kill-hyenas",
@@ -600,9 +600,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "ach-redElk",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:37.0972698+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:39.1772071+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:59:53.9179685+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:37.0973129+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:01:00.2725499+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:39.1772618+00:00"
 }

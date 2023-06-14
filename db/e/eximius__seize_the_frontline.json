@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 53,
@@ -252,7 +252,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189057,
+  "EOS_Progressed": 189061,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
@@ -5922,6 +5922,11 @@
       "Time": "2023-06-14T05:05:14.1521951+00:00",
       "NumProgressed": 189057,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-14T06:06:13.4018838+00:00",
+      "NumProgressed": 189061,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5941,7 +5946,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134230
+      "UsersEstimate": 134233
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5965,7 +5970,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34030
+      "UsersEstimate": 34031
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -6060,7 +6065,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 189057,
+      "Progressed": 189061,
       "Completed": 4
     }
   ],
@@ -6068,8 +6073,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:14.1521941+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:13.4018834+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.5602508+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:59:10.0389154+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:14.1522416+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:00:04.0627329+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:13.4019347+00:00"
 }

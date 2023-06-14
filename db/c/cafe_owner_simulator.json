@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1690,9 +1690,9 @@
       "ID": "BUSINESS_OWNER",
       "SetID": "64e5lgf",
       "Name": "BUSINESS OWNER",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 661
     },
     {
       "ID": "CHIEF",
@@ -1803,8 +1803,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:11.0537685+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:09.9227648+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.242026+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:58:56.0721622+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:11.0537842+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:59:46.5647679+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:09.9227877+00:00"
 }

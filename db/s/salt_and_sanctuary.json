@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2271,9 +2271,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 524432,
+  "EOS_Progressed": 524434,
   "EOS_Completed": 1447,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7906,6 +7906,11 @@
       "Time": "2023-06-14T05:05:16.0165802+00:00",
       "NumProgressed": 524432,
       "NumCompleted": 1447
+    },
+    {
+      "Time": "2023-06-14T06:06:15.7116876+00:00",
+      "NumProgressed": 524434,
+      "NumCompleted": 1447
     }
   ],
   "TotalAchievements": 37,
@@ -7973,7 +7978,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 435279
+      "UsersEstimate": 435280
     },
     {
       "ID": "HONED",
@@ -8029,7 +8034,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209773
+      "UsersEstimate": 209774
     },
     {
       "ID": "THE_CASTLE",
@@ -8077,7 +8082,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73420
+      "UsersEstimate": 73421
     },
     {
       "ID": "THE_IMPOSTER",
@@ -8173,7 +8178,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 335636
+      "UsersEstimate": 335638
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -8212,15 +8217,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 524432,
+      "Progressed": 524434,
       "Completed": 1447
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-12T19:59:56.0503134+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:16.0165795+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:15.7116872+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:43.6844726+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:58:53.4754327+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:16.0166277+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:59:43.1022844+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:15.7117519+00:00"
 }

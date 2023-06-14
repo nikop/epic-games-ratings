@@ -2,7 +2,7 @@
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
   "ProductSlug": "pubg-59c1d9",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 38,
@@ -2176,9 +2176,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 393280,
+  "EOS_Progressed": 393284,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7205,
+  "EOS_NewPlayers": 7184,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7926,6 +7926,11 @@
       "Time": "2023-06-14T05:05:18.5697111+00:00",
       "NumProgressed": 393280,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-14T06:06:18.7684923+00:00",
+      "NumProgressed": 393284,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -7961,7 +7966,7 @@
       "Name": "Marksman Novice",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78656
+      "UsersEstimate": 78657
     },
     {
       "ID": "13",
@@ -8009,7 +8014,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 121917
+      "UsersEstimate": 121918
     },
     {
       "ID": "19",
@@ -8017,7 +8022,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 294960
+      "UsersEstimate": 294963
     },
     {
       "ID": "2",
@@ -8065,7 +8070,7 @@
       "Name": "First Blood",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 55059
+      "UsersEstimate": 55060
     },
     {
       "ID": "25",
@@ -8129,7 +8134,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 153379
+      "UsersEstimate": 153381
     },
     {
       "ID": "32",
@@ -8161,7 +8166,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 161245
+      "UsersEstimate": 161246
     },
     {
       "ID": "36",
@@ -8177,7 +8182,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 176976
+      "UsersEstimate": 176978
     },
     {
       "ID": "4",
@@ -8185,7 +8190,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 82589
+      "UsersEstimate": 82590
     },
     {
       "ID": "5",
@@ -8193,7 +8198,7 @@
       "Name": "Top 10",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 55059
+      "UsersEstimate": 55060
     },
     {
       "ID": "6",
@@ -8225,14 +8230,14 @@
       "Name": "CQB Novice",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35395
+      "UsersEstimate": 35396
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 393280,
+      "Progressed": 393284,
       "Completed": 10
     }
   ],
@@ -8240,8 +8245,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-06-13T20:58:52.7350748+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:18.5697106+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:18.7684918+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:54.9087832+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:58:17.0594561+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:18.5697599+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:58:56.8913796+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:18.7685581+00:00"
 }

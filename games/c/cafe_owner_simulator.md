@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BUSINESS OWNER | 97.00% | ~654 |
+| BUSINESS OWNER | 98.00% | ~661 |
 | CLEANER | 93.00% | ~627 |
 | OH NO, HE'S LEAVING! | 75.00% | ~506 |
 | FIREFIGHTER | 54.00% | ~364 |

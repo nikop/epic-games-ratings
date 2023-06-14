@@ -1,23 +1,23 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 908)  
+Rating: 3.98 (Ranked 909)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~294,960 |
-| Health Junkie | 45.00% | ~176,976 |
-| You Complete Me | 41.00% | ~161,245 |
-| Guardian Angel | 39.00% | ~153,379 |
-| Devil Inside Me | 31.00% | ~121,917 |
+| Blood on My Hands | 75.00% | ~294,963 |
+| Health Junkie | 45.00% | ~176,978 |
+| You Complete Me | 41.00% | ~161,246 |
+| Guardian Angel | 39.00% | ~153,381 |
+| Devil Inside Me | 31.00% | ~121,918 |
 | Killing Spree | 22.00% | ~86,522 |
-| Fantastic Four | 21.00% | ~82,589 |
-| Marksman Novice | 20.00% | ~78,656 |
-| First Blood | 14.00% | ~55,059 |
-| Top 10 | 14.00% | ~55,059 |
+| Fantastic Four | 21.00% | ~82,590 |
+| Marksman Novice | 20.00% | ~78,657 |
+| First Blood | 14.00% | ~55,060 |
+| Top 10 | 14.00% | ~55,060 |
 | Now You See Me, Now You Don't | 12.00% | ~47,194 |
 | Marksman Expert | 10.00% | ~39,328 |
-| CQB Novice | 9.00% | ~35,395 |
+| CQB Novice | 9.00% | ~35,396 |
 | Collateral Damage | 7.00% | ~27,530 |
 | Airborne | 6.00% | ~23,597 |
 | Pacifist | 6.00% | ~23,597 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 908)
 | Nade King Expert | 0.10% | ~393 |
 | Shoot the Knee | 0.10% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,280 (Ranked 38)  
+Progressed: 393,284 (Ranked 38)  
 Completed: 10 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 10 (0.00%) (Ranked 222)
 | 2023-06-11 | 391,344 | 8 |
 | 2023-06-12 | 392,291 | 8 |
 | 2023-06-13 | 393,233 | 10 |
-| 2023-06-14 | 393,280 | 10 |
+| 2023-06-14 | 393,284 | 10 |
 ## Awards
 Max (Competitive Players): 2,261  (Ranked 100)  
 Sum: 7,340 (Ranked 101)  

@@ -6,16 +6,16 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,590 |
-| Photogenic | 88.00% | ~6,373 |
-| Surge Gauntlet Jockey | 85.00% | ~6,156 |
-| Plug It In | 84.00% | ~6,083 |
+| Let's Get This Party Started | 91.00% | ~6,591 |
+| Photogenic | 88.00% | ~6,374 |
+| Surge Gauntlet Jockey | 85.00% | ~6,157 |
+| Plug It In | 84.00% | ~6,084 |
 | Adventure Time | 80.00% | ~5,794 |
-| Playing With Power | 77.00% | ~5,576 |
+| Playing With Power | 77.00% | ~5,577 |
 | Coup d'Etat | 59.00% | ~4,273 |
-| You're Fired | 58.00% | ~4,200 |
+| You're Fired | 58.00% | ~4,201 |
 | Get Furious | 56.00% | ~4,056 |
-| Gunplay And Cosplay | 55.00% | ~3,983 |
+| Gunplay And Cosplay | 55.00% | ~3,984 |
 | Hacks In Stacks | 54.00% | ~3,911 |
 | Meching Enemies | 49.00% | ~3,549 |
 | Ticket Toddler | 45.00% | ~3,259 |
@@ -26,12 +26,12 @@ Number of Ratings: 801  (23.09.2022)
 | Guardian Angel | 31.00% | ~2,245 |
 | Surge Ahead | 31.00% | ~2,245 |
 | The Full Monty | 31.00% | ~2,245 |
-| Poppin Noggins | 25.00% | ~1,810 |
+| Poppin Noggins | 25.00% | ~1,811 |
 | Clips and Crits | 21.00% | ~1,521 |
 | Grey Goo | 19.00% | ~1,376 |
 | Boss of Bosses | 15.00% | ~1,086 |
 | The Final Blow | 14.00% | ~1,014 |
-| Light My Fire | 13.00% | ~941 |
+| Light My Fire | 13.00% | ~942 |
 | Seasoned Adventurer | 12.00% | ~869 |
 | To Be Continued | 12.00% | ~869 |
 | 1.21 Gigawatts | 11.00% | ~797 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~29 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,242 (Ranked 117)  
+Progressed: 7,243 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 7,197 | 0 |
 | 2023-06-12 | 7,217 | 0 |
 | 2023-06-13 | 7,239 | 0 |
-| 2023-06-14 | 7,242 | 0 |
+| 2023-06-14 | 7,243 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 378)  
 Sum: 485 (Ranked 295)  

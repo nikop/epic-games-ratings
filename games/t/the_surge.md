@@ -29,7 +29,7 @@ Number of Ratings: 62  (23.09.2022)
 | Core Power | 12.00% | ~530 |
 | CREO Killed the Video Star | 11.00% | ~485 |
 | Who's in Charge Here? | 11.00% | ~485 |
-| Shall Not Pass | 10.00% | ~441 |
+| Shall Not Pass | 11.00% | ~485 |
 | Right Tool for the Job | 10.00% | ~441 |
 | Raging Drones | 9.00% | ~397 |
 | Overconfident | 9.00% | ~397 |

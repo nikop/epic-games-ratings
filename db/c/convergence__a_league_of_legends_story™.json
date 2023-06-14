@@ -1596,9 +1596,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "SpeedRun",
@@ -1636,9 +1636,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1699,8 +1699,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:04:53.1894127+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:05:48.5002837+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:58:56.0345824+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:04:53.1894544+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:59:46.4694609+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:05:48.5003675+00:00"
 }

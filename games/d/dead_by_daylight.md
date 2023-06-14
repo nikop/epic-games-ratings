@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~552 |
 | Adept Gabriel | 0.10% | ~552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,035 (Ranked 27)  
+Progressed: 552,139 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 42 (0.01%) (Ranked 210)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 552,035 | 42 |
+| 2023-06-14 | 552,139 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
 Sum: 226,959 (Ranked 12)  

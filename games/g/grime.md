@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 26.00% | ~154 |
 | Imprint | 26.00% | ~154 |
+| Ravenous | 23.00% | ~136 |
 | The Hunt | 22.00% | ~130 |
-| Ravenous | 22.00% | ~130 |
-| Weeper | 20.00% | ~118 |
+| Weeper | 20.00% | ~119 |
 | Devourer | 15.00% | ~89 |
 | Harmless | 13.00% | ~77 |
 | Silenced Whispers | 13.00% | ~77 |
@@ -25,15 +25,15 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 9.00% | ~53 |
 | Celebration | 8.00% | ~47 |
 | Watcher | 8.00% | ~47 |
-| Inevitable | 7.00% | ~41 |
-| Predator | 7.00% | ~41 |
+| Inevitable | 7.00% | ~42 |
+| Predator | 7.00% | ~42 |
 | Dream | 7.00% | ~12 |
 | Assimilation | 6.00% | ~36 |
 | Hunt Down | 6.00% | ~36 |
 | Artisan | 6.00% | ~36 |
 | Hush | 6.00% | ~36 |
 | All-Seeing | 6.00% | ~36 |
-| Kin | 6.00% | ~10 |
+| Kin | 6.00% | ~11 |
 | Kinship | 5.00% | ~30 |
 | Unwrap the Gift | 5.00% | ~30 |
 | Passage | 5.00% | ~30 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592 (Ranked 199)  
+Progressed: 593 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 587 | 0 |
 | 2023-06-12 | 590 | 0 |
 | 2023-06-13 | 592 | 0 |
+| 2023-06-14 | 593 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

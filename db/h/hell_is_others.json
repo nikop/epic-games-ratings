@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 648,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 42,
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251061,
+  "EOS_Progressed": 251064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5974,6 +5974,11 @@
       "Time": "2023-06-14T04:03:29.0336961+00:00",
       "NumProgressed": 251061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T06:03:40.7309006+00:00",
+      "NumProgressed": 251064,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5993,7 +5998,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10042
+      "UsersEstimate": 10043
     },
     {
       "ID": "Act3",
@@ -6033,7 +6038,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77829
+      "UsersEstimate": 77830
     },
     {
       "ID": "BackHomeNTimes",
@@ -6049,7 +6054,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10042
+      "UsersEstimate": 10043
     },
     {
       "ID": "BreakNWindows",
@@ -6057,7 +6062,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10042
+      "UsersEstimate": 10043
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -6273,7 +6278,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55233
+      "UsersEstimate": 55234
     },
     {
       "ID": "KillOthers2",
@@ -6329,7 +6334,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "NewFloor",
@@ -6353,7 +6358,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10042
+      "UsersEstimate": 10043
     },
     {
       "ID": "Patrimony2",
@@ -6432,7 +6437,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251061,
+      "Progressed": 251064,
       "Completed": 1
     }
   ],
@@ -6440,8 +6445,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-12T19:00:41.1633075+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:03:07.0277563+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:03:40.7308997+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:59:38.304894+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:03:07.0278228+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:00:40.2071795+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:03:40.730985+00:00"
 }

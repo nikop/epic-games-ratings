@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-06-13T17:03:25.7468025+00:00",
       "NumProgressed": 761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T06:03:23.6146474+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1014,7 +1019,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1036,9 +1041,9 @@
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
       "SetID": "108h92c",
       "Name": "Always Finding Your Mark",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 221
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1054,7 +1059,7 @@
       "Name": "A successful procedure!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1070,7 +1075,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1078,7 +1083,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1094,7 +1099,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1150,7 +1155,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1158,7 +1163,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1166,15 +1171,15 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1182,7 +1187,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1220,16 +1225,16 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 0
     }
   ],
@@ -1237,8 +1242,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:02:22.5264497+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:03:23.6146468+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:57:23.9758295+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:02:22.5264681+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:57:49.7005524+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:03:23.6146763+00:00"
 }

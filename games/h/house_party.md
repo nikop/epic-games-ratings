@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 751)  
+Rating: 4.32 (Ranked 752)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,570 (Ranked 126)  
+Progressed: 5,571 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 3 (0.05%) (Ranked 190)
 | 2023-06-11 | 5,535 | 3 |
 | 2023-06-12 | 5,553 | 3 |
 | 2023-06-13 | 5,567 | 3 |
-| 2023-06-14 | 5,570 | 3 |
+| 2023-06-14 | 5,571 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

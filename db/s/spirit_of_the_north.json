@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 719,
+  "Ranking_Rating": 720,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 75,
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 58113,
+  "EOS_Progressed": 58114,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5996,6 +5996,11 @@
       "Time": "2023-06-14T05:05:15.4418466+00:00",
       "NumProgressed": 58113,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-06-14T06:06:15.0350269+00:00",
+      "NumProgressed": 58114,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 24,
@@ -6039,7 +6044,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15109
+      "UsersEstimate": 15110
     },
     {
       "ID": "ERADICATE",
@@ -6079,7 +6084,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 10460
+      "UsersEstimate": 10461
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -6183,7 +6188,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -6198,7 +6203,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 58113,
+      "Progressed": 58114,
       "Completed": 291
     }
   ],
@@ -6206,8 +6211,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:15.4418463+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:06:15.0350261+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:50.4565048+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:58:58.2895266+00:00",
-  "LastUpdate_Achievements": "2023-06-14T05:05:15.4418811+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:59:49.3781791+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:06:15.0350827+00:00"
 }

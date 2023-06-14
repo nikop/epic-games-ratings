@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
@@ -5962,10 +5962,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 28586,
       "NumberOfAwardsMax": 12294
+    },
+    {
+      "Time": "2023-06-14T05:57:51.7580886+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28588,
+      "NumberOfAwardsMax": 12294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28586,
+  "NumberOfAwards": 28588,
   "NumberOfAwardsMax": 12294,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6021,7 +6027,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 991
+      "Count": 993
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6053,8 +6059,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-06-13T19:57:31.1523319+00:00",
+  "LastChanged": "2023-06-14T05:57:51.7580883+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.5387153+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:57:25.5564518+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:03:22.5035713+00:00"
+  "LastUpdate_Ratings": "2023-06-14T05:57:51.758089+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:01:03.6843319+00:00"
 }

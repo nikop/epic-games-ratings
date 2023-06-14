@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-06-13T02:11:47.453727+00:00",
       "NumProgressed": 592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T06:01:07.8195373+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -618,7 +623,7 @@
       "Name": "Weeper",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -714,7 +719,7 @@
       "Name": "Inevitable",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -770,7 +775,7 @@
       "Name": "Predator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -816,9 +821,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -858,7 +863,7 @@
       "Name": "Kin",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "QUEST_LISTENER",
@@ -881,21 +886,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:59:58.1084915+00:00",
+  "LastChanged_Achievements": "2023-06-14T06:01:07.8195366+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:59:45.3368145+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:59:58.1085617+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:00:49.1210867+00:00",
+  "LastUpdate_Achievements": "2023-06-14T06:01:07.8195874+00:00"
 }
