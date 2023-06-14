@@ -21,7 +21,7 @@
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.20% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
-| 20 | [Time Loader](games/t/time_loader.md) | 7.69% |
+| 22 | [Time Loader](games/t/time_loader.md) | 7.62% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.09% |
+| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.02% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
@@ -55,7 +55,7 @@
 | 53 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [Lamentum](games/l/lamentum.md) | 2.76% |
+| 56 | [Lamentum](games/l/lamentum.md) | 2.75% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
@@ -70,13 +70,13 @@
 | 68 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
 | 69 | [Iron Danger](games/i/iron_danger.md) | 1.97% |
 | 70 | [Frogun](games/f/frogun.md) | 1.94% |
-| 71 | [JARS](games/j/jars.md) | 1.89% |
+| 71 | [JARS](games/j/jars.md) | 1.85% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
 | 73 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 74 | [Sifu](games/s/sifu.md) | 1.80% |
-| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
-| 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 76 | [Poosh XL](games/p/poosh_xl.md) | 1.65% |
+| 75 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.65% |
+| 75 | [Poosh XL](games/p/poosh_xl.md) | 1.65% |
 | 78 | [Somerville](games/s/somerville.md) | 1.58% |
 | 79 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 80 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
