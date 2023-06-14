@@ -226,7 +226,7 @@
   "Tags": [],
   "EOS_Progressed": 34821,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5422,9 +5422,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "db84117",
       "Name": "Get Over Here",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -5639,8 +5639,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:02:03.2443367+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:00:23.5440443+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:58:09.5674571+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:02:03.2444058+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:58:14.6120766+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:00:23.5441126+00:00"
 }

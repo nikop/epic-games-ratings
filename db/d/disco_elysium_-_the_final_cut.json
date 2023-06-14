@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1139,9 +1139,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121460,
+  "EOS_Progressed": 121461,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6334,6 +6334,11 @@
       "Time": "2023-06-14T10:05:43.5743157+00:00",
       "NumProgressed": 121460,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-14T11:05:38.2728744+00:00",
+      "NumProgressed": 121461,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6401,7 +6406,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29150
+      "UsersEstimate": 29151
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -6561,7 +6566,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17004
+      "UsersEstimate": 17005
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6664,15 +6669,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121460,
+      "Progressed": 121461,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-13T14:58:46.2792638+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:43.5743149+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:38.2728737+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:58:44.1895931+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:43.5743751+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:58:50.9613311+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:38.2729392+00:00"
 }

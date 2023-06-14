@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -355,9 +355,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -426,8 +426,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:03:06.0945405+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:02:17.0461049+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.3955715+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:50.2747475+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:03:06.0945693+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:57.8855758+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:02:17.0461339+00:00"
 }

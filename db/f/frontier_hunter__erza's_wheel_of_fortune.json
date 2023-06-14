@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -156,25 +156,25 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:35.7517012+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:30.4210794+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.1623296+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:14.0356578+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:35.7517421+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:20.7392811+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:30.4211204+00:00"
 }

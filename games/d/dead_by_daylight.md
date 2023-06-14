@@ -6,11 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Wounded Healer | 0.20% | ~1,105 |
 | Healthy Obsession | 0.20% | ~1,105 |
 | Resurgence | 0.20% | ~1,105 |
 | Close Shave | 0.20% | ~1,105 |
 | Preemptive Strike | 0.20% | ~1,105 |
 | Humanitarian | 0.20% | ~1,105 |
+| Flight to Freedom | 0.20% | ~1,105 |
 | The Grand Sacrifice | 0.10% | ~553 |
 | A bite for the Entity | 0.10% | ~553 |
 | A feast for the Entity | 0.10% | ~553 |
@@ -123,7 +125,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.10% | ~553 |
 | Terminal Illness | 0.10% | ~553 |
 | Adept Plague | 0.10% | ~553 |
-| Wounded Healer | 0.10% | ~553 |
 | Shrine Apparatus | 0.10% | ~553 |
 | Adept Jane | 0.10% | ~553 |
 | Cutting Out | 0.10% | ~553 |
@@ -188,7 +189,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.10% | ~553 |
 | Adept Artist | 0.10% | ~553 |
 | With Scars to Show | 0.10% | ~553 |
-| Flight to Freedom | 0.10% | ~553 |
 | Adept Jonah | 0.10% | ~553 |
 | Viral Video | 0.10% | ~553 |
 | Ghost in the Machine | 0.10% | ~553 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~553 |
 | Adept Gabriel | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,525 (Ranked 27)  
+Progressed: 552,652 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 42 (0.01%) (Ranked 210)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 552,525 | 42 |
+| 2023-06-14 | 552,652 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
 Sum: 226,959 (Ranked 12)  

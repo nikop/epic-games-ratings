@@ -8,13 +8,13 @@
 | Missing data | 80.00% | ~43 |
 | It fits. IT FITS! | 76.00% | ~41 |
 | Uncle will be happy | 72.00% | ~39 |
-| The child of the night | 69.00% | ~37 |
+| The child of the night | 70.00% | ~38 |
 | I have an army! | 67.00% | ~36 |
 | Sticky fingers | 44.00% | ~24 |
 | A horrible thing will happen... | 39.00% | ~21 |
 | Vampires | 37.00% | ~20 |
 | Bloody stream | 33.00% | ~18 |
-| Fangs | 19.00% | ~10 |
+| Fangs | 20.00% | ~11 |
 | Mirrors | 11.00% | ~6 |
 | At least there is something to read | 4.00% | ~2 |
 | Coat | 4.00% | ~2 |

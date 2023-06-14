@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -544,9 +544,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 460565,
+  "EOS_Progressed": 460568,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5979,6 +5979,11 @@
       "Time": "2023-06-14T10:05:54.7916727+00:00",
       "NumProgressed": 460565,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-14T11:05:49.5586294+00:00",
+      "NumProgressed": 460568,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6510,7 +6515,7 @@
       "Name": "The Blade",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_unlock_officer_phalanx_2",
@@ -6518,7 +6523,7 @@
       "Name": "The Ghost",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_unlock_officer_pragmah_1",
@@ -6526,7 +6531,7 @@
       "Name": "The Extractor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_unlock_officer_pragmah_2",
@@ -6534,7 +6539,7 @@
       "Name": "The Executioner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_unlock_phalanx_battleship",
@@ -6542,7 +6547,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -6550,7 +6555,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -6558,7 +6563,7 @@
       "Name": "Savior",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
@@ -6566,7 +6571,7 @@
       "Name": "The God of War",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
@@ -6574,7 +6579,7 @@
       "Name": "Horus Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_hard",
@@ -6582,7 +6587,7 @@
       "Name": "Horus Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
@@ -6590,7 +6595,7 @@
       "Name": "Kronos Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_hard",
@@ -6598,7 +6603,7 @@
       "Name": "Kronos Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_run_with_phalanx",
@@ -6606,7 +6611,7 @@
       "Name": "Horus Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_win_run_with_pragmah",
@@ -6614,28 +6619,28 @@
       "Name": "Kronos Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4499,
+      "Progressed": 4502,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460565,
+      "Progressed": 460568,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-09T17:00:00.6034674+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:54.7916722+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:49.5586288+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.8583019+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:58:53.1479093+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:54.7917768+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:00.1109838+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:49.5587725+00:00"
 }

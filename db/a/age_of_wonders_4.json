@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4621,
+  "EOS_Progressed": 4622,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 3,
@@ -3831,6 +3831,11 @@
       "Time": "2023-06-14T07:05:11.1929785+00:00",
       "NumProgressed": 4621,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T11:04:25.2140687+00:00",
+      "NumProgressed": 4622,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3858,7 +3863,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "12",
@@ -3866,15 +3871,15 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 971
     },
     {
       "ID": "14",
@@ -3954,7 +3959,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "23",
@@ -3978,7 +3983,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "26",
@@ -4002,7 +4007,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "29",
@@ -4026,7 +4031,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "31",
@@ -4042,7 +4047,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "33",
@@ -4050,7 +4055,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "34",
@@ -4058,7 +4063,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "35",
@@ -4114,7 +4119,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "41",
@@ -4193,13 +4198,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4621,
-      "Completed": 4621
+      "Progressed": 4622,
+      "Completed": 4622
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4621,
+      "Progressed": 4622,
       "Completed": 3
     }
   ],
@@ -4207,8 +4212,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-14T09:59:02.8248749+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:04:32.4593552+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:04:25.214068+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:02.8248755+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:04:32.4594129+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:09.2934952+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:04:25.2141291+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 617,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -6545,10 +6545,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 85824,
       "NumberOfAwardsMax": 10536
+    },
+    {
+      "Time": "2023-06-14T10:58:03.5634466+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 85827,
+      "NumberOfAwardsMax": 10536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85824,
+  "NumberOfAwards": 85827,
   "NumberOfAwardsMax": 10536,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6604,7 +6610,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6230
+      "Count": 6233
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6630,8 +6636,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-06-14T08:58:08.3462397+00:00",
+  "LastChanged": "2023-06-14T10:58:03.5634465+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:21.6081292+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:57:58.85075+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:04:18.5967824+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:58:03.5634471+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:04:11.0897737+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2815,
+  "EOS_Progressed": 2818,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3503,6 +3503,11 @@
       "Time": "2023-06-14T10:05:46.6942046+00:00",
       "NumProgressed": 2815,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T11:05:41.2176436+00:00",
+      "NumProgressed": 2818,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3522,7 +3527,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3594,7 +3599,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3650,7 +3655,7 @@
       "Name": "Sharpshooter",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3706,7 +3711,7 @@
       "Name": "My Little Friend",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -3714,7 +3719,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3722,7 +3727,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3762,15 +3767,15 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3850,7 +3855,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4081,13 +4086,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2766,
+      "Progressed": 2769,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2815,
+      "Progressed": 2818,
       "Completed": 2
     }
   ],
@@ -4095,8 +4100,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:46.6942039+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:41.217643+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:55.1509518+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:46.6942946+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:00:03.3747074+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:41.2177305+00:00"
 }

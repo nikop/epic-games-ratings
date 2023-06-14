@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6407,9 +6407,9 @@
       "Count": 21647
     }
   ],
-  "EOS_Progressed": 552525,
+  "EOS_Progressed": 552652,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30464,
+  "EOS_NewPlayers": 30465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12182,6 +12182,11 @@
       "Time": "2023-06-14T10:05:59.9292401+00:00",
       "NumProgressed": 552525,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-14T11:05:54.6575683+00:00",
+      "NumProgressed": 552652,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13087,9 +13092,9 @@
       "ID": "ACH_113",
       "SetID": "16jml5b",
       "Name": "Wounded Healer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_114",
@@ -13647,9 +13652,9 @@
       "ID": "ACH_186",
       "SetID": "16jml5b",
       "Name": "Flight to Freedom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_187",
@@ -13952,21 +13957,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 552525,
+      "Progressed": 552652,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 552525,
+      "Progressed": 552652,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-14T02:10:22.3717035+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:59.9292392+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:54.6575676+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:43.1871006+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:59.9298865+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:51.1060057+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:54.6580867+00:00"
 }

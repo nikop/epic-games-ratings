@@ -6,32 +6,32 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 78.00% | ~1,607 |
-| Photographer | 76.00% | ~1,566 |
-| Valley's Helper | 72.00% | ~1,483 |
-| Constructor | 64.00% | ~1,318 |
-| Renovator | 61.00% | ~1,257 |
-| Bestest Friend | 60.00% | ~1,236 |
-| Banker | 53.00% | ~1,092 |
-| Gardener | 41.00% | ~845 |
-| Generous | 30.00% | ~618 |
-| Chef Cook | 26.00% | ~536 |
-| Miner | 13.00% | ~268 |
-| Duty Bound | 9.00% | ~185 |
-| Angler | 8.00% | ~165 |
-| Thorn Cleaner | 5.00% | ~103 |
-| Chit Chatter | 4.00% | ~82 |
+| Goofy's Investor | 78.00% | ~1,633 |
+| Photographer | 76.00% | ~1,591 |
+| Valley's Helper | 72.00% | ~1,508 |
+| Constructor | 64.00% | ~1,340 |
+| Renovator | 61.00% | ~1,277 |
+| Bestest Friend | 60.00% | ~1,256 |
+| Banker | 53.00% | ~1,110 |
+| Gardener | 42.00% | ~879 |
+| Generous | 31.00% | ~649 |
+| Chef Cook | 26.00% | ~544 |
+| Miner | 13.00% | ~272 |
+| Duty Bound | 9.00% | ~188 |
+| Angler | 8.00% | ~168 |
+| Thorn Cleaner | 5.00% | ~105 |
+| Chit Chatter | 4.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,060 (Ranked 154)  
-Completed: 80 (3.88%) (Ranked 37)  
+Progressed: 2,094 (Ranked 153)  
+Completed: 81 (3.87%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-13 | 1,574 | 74 |
-| 2023-06-14 | 2,060 | 80 |
+| 2023-06-14 | 2,094 | 81 |
 ## Awards
 Max (Great for Beginners): 863  (Ranked 147)  
-Sum: 7,136 (Ranked 104)  
+Sum: 7,138 (Ranked 104)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -40,7 +40,7 @@ Diff (max vs sum): 43
 | This game is Highly Recommended | 762 |
 | This game has Amazing Characters | 758 |
 | This game has Diverse Characters | 753 |
-| This game has Amazing Storytelling | 730 |
+| This game has Amazing Storytelling | 732 |
 | This game has Quickly Understood Controls | 718 |
 | This game is Extremely Fun | 712 |
 | This game has a Creative Community | 593 |
@@ -148,3 +148,4 @@ Diff (max vs sum): 43
 | 2023-06-11 | 4.76 | - | 860 | 7,119 |
 | 2023-06-12 | 4.76 | - | 860 | 7,128 |
 | 2023-06-13 | 4.76 | - | 863 | 7,136 |
+| 2023-06-14 | 4.76 | - | 863 | 7,138 |

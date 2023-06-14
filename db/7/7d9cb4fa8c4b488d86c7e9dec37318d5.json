@@ -4,8 +4,8 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2023-06-14T03:04:14.5350441+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T11:04:02.476611+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -63,7 +68,7 @@
       "ID": "Donut",
       "SetID": "1fffk9d",
       "Name": "Was it good?",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -79,9 +84,9 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Game Completed",
@@ -103,7 +108,7 @@
       "ID": "Statue Collector Intermediate",
       "SetID": "1fffk9d",
       "Name": "10 Suicide Guy statues",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "Statue Collector beginner",
       "SetID": "1fffk9d",
       "Name": "5 Suicide Guy statues",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -127,9 +132,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "The Breaker",
@@ -144,13 +149,13 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:04:10.3158119+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:04:02.4766103+00:00",
   "LastUpdate_AppInfo": "2023-06-13T18:57:46.2736297+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:57:07.2684199+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:04:10.3158226+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:57:10.324414+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:04:02.4766212+00:00"
 }

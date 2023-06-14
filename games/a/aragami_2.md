@@ -34,9 +34,9 @@ Number of Ratings: 88  (23.09.2022)
 | Master Ninja | 10.00% | ~3,482 |
 | Hatching | 9.00% | ~3,134 |
 | Bonds | 9.00% | ~3,134 |
+| Get Over Here | 9.00% | ~3,134 |
 | The Hidden Village | 9.00% | ~3,134 |
 | Denouement | 8.00% | ~2,786 |
-| Get Over Here | 8.00% | ~2,786 |
 | A Pleasant Stay | 8.00% | ~2,786 |
 | Pilgrimage | 7.00% | ~2,437 |
 | The Lookout | 5.00% | ~1,741 |

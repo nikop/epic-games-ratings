@@ -388,9 +388,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10471,
+  "EOS_Progressed": 10474,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4698,6 +4698,11 @@
       "Time": "2023-06-14T10:05:51.8472496+00:00",
       "NumProgressed": 10471,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-14T11:05:46.3956525+00:00",
+      "NumProgressed": 10474,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 35,
@@ -4709,7 +4714,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8377
+      "UsersEstimate": 8379
     },
     {
       "ID": "ACH02",
@@ -4757,7 +4762,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACH08",
@@ -4765,7 +4770,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "ACH09",
@@ -4805,7 +4810,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ACH14",
@@ -4813,7 +4818,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH15",
@@ -4885,7 +4890,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "ACH24",
@@ -4933,7 +4938,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH30",
@@ -4988,7 +4993,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10471,
+      "Progressed": 10474,
       "Completed": 18
     }
   ],
@@ -4996,8 +5001,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-13T16:01:19.0557443+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:05:51.8472488+00:00",
+  "LastChanged_Achievements": "2023-06-14T11:05:46.3956516+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-14T09:59:42.6693176+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:05:51.8473022+00:00"
+  "LastUpdate_Ratings": "2023-06-14T10:59:50.6353005+00:00",
+  "LastUpdate_Achievements": "2023-06-14T11:05:46.3957065+00:00"
 }
