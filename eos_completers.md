@@ -12,18 +12,18 @@
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.05% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.76% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.27% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.33% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.22% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.27% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.06% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
@@ -114,11 +114,11 @@
 | 112 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 113 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 113 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
-| 115 | [Grindstone](games/g/grindstone.md) | 0.53% |
-| 116 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.51% |
-| 117 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 117 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.50% |
-| 117 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 115 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.54% |
+| 116 | [Grindstone](games/g/grindstone.md) | 0.53% |
+| 117 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.51% |
+| 118 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 118 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 120 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 120 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
 | 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
@@ -131,11 +131,11 @@
 | 129 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 129 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 131 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 131 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 131 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 133 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 133 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
-| 133 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 133 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
+| 134 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 134 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
+| 134 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 137 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 138 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 139 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
