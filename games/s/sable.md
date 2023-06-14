@@ -6,21 +6,21 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~24,015 |
+| Simoon | 35.00% | ~24,016 |
 | Just The Two of Us | 33.00% | ~22,643 |
 | Up On High | 25.00% | ~17,154 |
 | Under The Hood | 25.00% | ~17,154 |
-| Got Your Nose | 24.00% | ~16,467 |
-| The Gift of Gab | 24.00% | ~16,467 |
-| Wrapping Up | 22.00% | ~15,095 |
+| Got Your Nose | 24.00% | ~16,468 |
+| The Gift of Gab | 24.00% | ~16,468 |
+| Wrapping Up | 22.00% | ~15,096 |
 | Badge Hobbyist | 18.00% | ~12,351 |
 | More Than A Box Of Sand | 18.00% | ~12,351 |
-| Chum Novice | 17.00% | ~11,664 |
-| The Dunboyne | 17.00% | ~11,664 |
-| Sticky Paws | 17.00% | ~11,664 |
-| Thread The Needle | 16.00% | ~10,978 |
-| Silver-Tongued Sable | 16.00% | ~10,978 |
-| Bubble Up | 16.00% | ~10,978 |
+| Chum Novice | 17.00% | ~11,665 |
+| The Dunboyne | 17.00% | ~11,665 |
+| Sticky Paws | 17.00% | ~11,665 |
+| Thread The Needle | 16.00% | ~10,979 |
+| Silver-Tongued Sable | 16.00% | ~10,979 |
+| Bubble Up | 16.00% | ~10,979 |
 | Power to the People | 15.00% | ~10,292 |
 | Take That! | 13.00% | ~8,920 |
 | Nesting Giant | 13.00% | ~8,920 |
@@ -30,10 +30,10 @@ Number of Ratings: 43  (23.09.2022)
 | Quite The Catch | 12.00% | ~8,234 |
 | Rowleys Way | 11.00% | ~7,548 |
 | Playing Dress Up | 11.00% | ~7,548 |
-| The Machinist Mask | 10.00% | ~6,861 |
-| The Cartographer Mask | 10.00% | ~6,861 |
-| Balfron Connection | 10.00% | ~6,861 |
-| Ceiling Of Stars | 10.00% | ~6,861 |
+| The Machinist Mask | 10.00% | ~6,862 |
+| The Cartographer Mask | 10.00% | ~6,862 |
+| Balfron Connection | 10.00% | ~6,862 |
+| Ceiling Of Stars | 10.00% | ~6,862 |
 | Many Different Faces | 9.00% | ~6,175 |
 | Trellick's Pillar | 9.00% | ~6,175 |
 | Centre Of Brunswick | 9.00% | ~6,175 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,058 |
 | Vivacious Vivarium | 2.00% | ~1,372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,614 (Ranked 68)  
+Progressed: 68,616 (Ranked 68)  
 Completed: 650 (0.95%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 650 (0.95%) (Ranked 92)
 | 2023-06-11 | 68,032 | 646 |
 | 2023-06-12 | 68,336 | 647 |
 | 2023-06-13 | 68,614 | 650 |
+| 2023-06-14 | 68,616 | 650 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

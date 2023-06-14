@@ -1,19 +1,19 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.69 (Ranked 219)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~4,956 |
-| That's a Grand Army | 8.00% | ~4,405 |
-| That is mine! | 8.00% | ~4,405 |
-| Victorious! | 8.00% | ~4,405 |
+| That's a Grand Army | 8.00% | ~4,406 |
+| That is mine! | 8.00% | ~4,406 |
+| Victorious! | 8.00% | ~4,406 |
 | Brothers in Arms | 6.00% | ~3,304 |
 | That's a Grand Navy | 6.00% | ~3,304 |
 | Seriously?! | 6.00% | ~3,304 |
-| For the Glory | 5.00% | ~2,753 |
+| For the Glory | 5.00% | ~2,754 |
 | Cold War | 4.00% | ~2,203 |
 | True Catholic | 4.00% | ~2,203 |
 | Defender of the Faith | 3.00% | ~1,652 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,064 (Ranked 77)  
+Progressed: 55,072 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,14 +416,15 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
+| 2023-06-14 | 55,072 | 0 |
 ## Awards
 Max (Educational): 5,386  (Ranked 61)  
-Sum: 44,506 (Ranked 27)  
+Sum: 44,511 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,386 |
-| This game is Highly Recommended | 5,164 |
+| This game is Highly Recommended | 5,169 |
 | This game has Challenging Combat | 5,136 |
 | This game is Extremely Fun | 5,093 |
 | This game has Diverse Characters | 5,069 |
@@ -582,4 +583,4 @@ Diff (max vs sum): 34
 | 2023-06-10 | 4.68 | - | 5,376 | 44,395 |
 | 2023-06-11 | 4.68 | - | 5,376 | 44,434 |
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
-| 2023-06-13 | 4.68 | - | 5,386 | 44,506 |
+| 2023-06-13 | 4.69 | - | 5,386 | 44,511 |

@@ -44,7 +44,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 1.00% | ~98 |
 | Capitulation Is Now Moot | 1.00% | ~98 |
 | Truly Important Deed | 1.00% | ~98 |
-| Abyssal Conspiracy | 0.90% | ~88 |
+| Abyssal Conspiracy | 0.90% | ~89 |
 | The Final Threshold | 0.80% | ~79 |
 | This Wall Won't Fall | 0.80% | ~69 |
 | Not the Last Sarkorian | 0.80% | ~69 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.60% | ~59 |
 | Dreadful Dragon | 0.50% | ~49 |
 | Masterful Charge | 0.40% | ~39 |
-| Prelate's Nemesis | 0.30% | ~29 |
+| Prelate's Nemesis | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
 | Ashes to Ashes | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,833 (Ranked 112)  
+Progressed: 9,834 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 9,782 | 0 |
 | 2023-06-12 | 9,811 | 0 |
 | 2023-06-13 | 9,833 | 0 |
+| 2023-06-14 | 9,834 | 0 |
 ## Awards
 Max (Character Customization): 1,661  (Ranked 112)  
 Sum: 6,742 (Ranked 109)  

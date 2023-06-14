@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 40.00% | ~2 |
+| Grand Re-Opening | 40.00% | ~2 |
 | Pup Pup Boogie | 40.00% | ~2 |
-| Grand Re-Opening | 20.00% | ~1 |
-| Mr. Porter | 20.00% | ~1 |
-| Break Time | 20.00% | ~1 |
-| Master of the Rope | 20.00% | ~1 |
-| Summer Day | 20.00% | ~1 |
+| Mr. Porter | 40.00% | ~2 |
+| Break Time | 40.00% | ~2 |
+| Master of the Rope | 40.00% | ~2 |
+| Summer Day | 40.00% | ~2 |
 | In the Air | 20.00% | ~1 |
 | Clear the Road | 20.00% | ~1 |
 | You Have Been Everywhere | 20.00% | ~1 |
@@ -18,6 +18,9 @@
 | Risky Rescue | 20.00% | ~1 |
 | Carlos Is Tangled | 20.00% | ~1 |
 | Mandy Family | 20.00% | ~1 |
+| Don’t Miss Any | 20.00% | ~1 |
+| Mountain and Ice | 20.00% | ~1 |
+| Adventure Bay’s Citizen | 20.00% | ~1 |
 | King of the Mountain | 0.00% | ~0 |
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
@@ -31,9 +34,6 @@
 | Pup Treat Master | 0.00% | ~0 |
 | Paw patrol member | 0.00% | ~0 |
 | Robot Out of Control | 0.00% | ~0 |
-| Don’t Miss Any | 0.00% | ~0 |
-| Mountain and Ice | 0.00% | ~0 |
-| Adventure Bay’s Citizen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 222)  

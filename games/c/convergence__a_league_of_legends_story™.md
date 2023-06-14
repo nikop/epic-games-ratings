@@ -19,6 +19,7 @@
 | No, Thanks! | 7.00% | ~47 |
 | Breaking Down Barriers | 7.00% | ~47 |
 | The Wicked Twins | 7.00% | ~47 |
+| Fast Learner | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
 | The Brass Boss | 7.00% | ~47 |
 | Right On Time | 6.00% | ~41 |
@@ -28,7 +29,6 @@
 | The Loose Cannon | 6.00% | ~41 |
 | Honest Mistake | 6.00% | ~41 |
 | Golem Chaser | 6.00% | ~41 |
-| Fast Learner | 6.00% | ~41 |
 | Check Your Pulse | 6.00% | ~41 |
 | The Family Fortune | 6.00% | ~41 |
 | Whiz Kid | 5.00% | ~34 |
@@ -49,7 +49,7 @@
 | Golem Hunter | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |
 | Hexlock for Protection | 1.00% | ~7 |
-| Fitting In | 0.70% | ~5 |
+| Fitting In | 0.90% | ~6 |
 | Thinking Two Steps Ahead | 0.60% | ~4 |
 | Wunderkind | 0.40% | ~3 |
 | Wildlife Protection | 0.30% | ~2 |

@@ -213,9 +213,9 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Keeper",
@@ -237,9 +237,9 @@
       "ID": "ACH_MomWalk",
       "SetID": "aao9n96",
       "Name": "I want to tell you my secret now",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MoonSurface",
@@ -285,9 +285,9 @@
       "ID": "ACH_Siege",
       "SetID": "aao9n96",
       "Name": "Let them come",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Spire",
@@ -339,8 +339,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:04:07.8145372+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:05:21.8105756+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3812548+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:08.7320318+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:04:07.814569+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:57:52.4701028+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:05:21.8106+00:00"
 }

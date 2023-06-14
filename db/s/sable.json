@@ -318,9 +318,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68614,
+  "EOS_Progressed": 68616,
   "EOS_Completed": 650,
-  "EOS_NewPlayers": 2203,
+  "EOS_NewPlayers": 2199,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -6038,6 +6038,11 @@
       "Time": "2023-06-13T23:05:37.7349843+00:00",
       "NumProgressed": 68614,
       "NumCompleted": 650
+    },
+    {
+      "Time": "2023-06-14T00:07:14.469707+00:00",
+      "NumProgressed": 68616,
+      "NumCompleted": 650
     }
   ],
   "TotalAchievements": 56,
@@ -6089,7 +6094,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -6145,7 +6150,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ach_013_collect_masks",
@@ -6161,7 +6166,7 @@
       "Name": "Chum Novice",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 11664
+      "UsersEstimate": 11665
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -6177,7 +6182,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11664
+      "UsersEstimate": 11665
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -6217,7 +6222,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -6225,7 +6230,7 @@
       "Name": "Thread The Needle",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10978
+      "UsersEstimate": 10979
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -6249,7 +6254,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -6305,7 +6310,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16467
+      "UsersEstimate": 16468
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -6361,7 +6366,7 @@
       "Name": "Simoon",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24015
+      "UsersEstimate": 24016
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -6377,7 +6382,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16467
+      "UsersEstimate": 16468
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -6385,7 +6390,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10978
+      "UsersEstimate": 10979
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -6393,7 +6398,7 @@
       "Name": "Sticky Paws",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11664
+      "UsersEstimate": 11665
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -6433,7 +6438,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10978
+      "UsersEstimate": 10979
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -6449,7 +6454,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 15095
+      "UsersEstimate": 15096
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -6496,15 +6501,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 68614,
+      "Progressed": 68616,
       "Completed": 650
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-06-07T17:59:46.5100715+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:37.7349839+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:07:14.4697063+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.3134737+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:58:57.6483925+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:37.7350656+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:00:08.2417788+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:07:14.4697903+00:00"
 }

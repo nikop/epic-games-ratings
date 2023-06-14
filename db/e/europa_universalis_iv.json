@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 77,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 8414,
   "RatingHistory": [
     {
@@ -5842,10 +5842,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 44506,
       "NumberOfAwardsMax": 5386
+    },
+    {
+      "Time": "2023-06-13T23:58:01.9270547+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 44511,
+      "NumberOfAwardsMax": 5386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44506,
+  "NumberOfAwards": 44511,
   "NumberOfAwardsMax": 5386,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5853,7 +5859,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5164
+      "Count": 5169
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5916,9 +5922,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 55064,
+  "EOS_Progressed": 55072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3871,
+  "EOS_NewPlayers": 3866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11636,6 +11642,11 @@
       "Time": "2023-06-13T23:05:47.881407+00:00",
       "NumProgressed": 55064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T00:07:26.1971545+00:00",
+      "NumProgressed": 55072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -12479,7 +12490,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     },
     {
       "ID": "achievement_forever_golden",
@@ -12647,7 +12658,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "achievement_grand_coalition",
@@ -13927,7 +13938,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -14343,7 +14354,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -14478,21 +14489,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 55064,
+      "Progressed": 55072,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 55064,
+      "Progressed": 55072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-06-13T18:58:13.1429085+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:47.8814065+00:00",
+  "LastChanged": "2023-06-13T23:58:01.9270545+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:07:26.1971541+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.3541845+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:16.3022767+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:47.8825496+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:58:01.9270551+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:07:26.1983289+00:00"
 }

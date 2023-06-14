@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 998,
+  "EOS_Progressed": 999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -869,6 +869,11 @@
       "Time": "2023-06-13T17:06:46.4337257+00:00",
       "NumProgressed": 998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T00:07:07.148552+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -936,7 +941,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "09",
@@ -1016,7 +1021,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "19",
@@ -1063,7 +1068,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 998,
+      "Progressed": 999,
       "Completed": 0
     }
   ],
@@ -1071,8 +1076,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:31.0025262+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:07:07.1485515+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:59:11.8421671+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:31.0025465+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:00:26.1972013+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:07:07.1485736+00:00"
 }

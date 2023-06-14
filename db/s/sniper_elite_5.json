@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2801,
+  "EOS_Progressed": 2803,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3473,6 +3473,11 @@
       "Time": "2023-06-13T23:05:33.9249594+00:00",
       "NumProgressed": 2801,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T00:07:10.5863877+00:00",
+      "NumProgressed": 2803,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3564,7 +3569,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3652,7 +3657,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3732,7 +3737,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3796,7 +3801,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4051,13 +4056,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2752,
+      "Progressed": 2754,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2801,
+      "Progressed": 2803,
       "Completed": 2
     }
   ],
@@ -4065,8 +4070,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:33.9249591+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:07:10.5863873+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:59:51.5244278+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:33.9250422+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:01:15.8013339+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:07:10.5864869+00:00"
 }

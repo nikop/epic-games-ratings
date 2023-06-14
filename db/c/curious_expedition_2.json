@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-06-12T19:06:44.3338003+00:00",
       "NumProgressed": 316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T00:07:19.9902454+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -269,7 +274,7 @@
       "Name": "A Familiar Figure",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-butterflies",
@@ -347,9 +352,9 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-campaign-story3",
@@ -357,7 +362,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-cartography-complete",
@@ -365,7 +370,7 @@
       "Name": "A Perfect Map",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-diceChallenges",
@@ -373,7 +378,7 @@
       "Name": "Roll to Save",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach-discover-locations",
@@ -381,7 +386,7 @@
       "Name": "Cartographer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ach-discover-locations-high",
@@ -429,7 +434,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ach-hardExpeditions",
@@ -437,7 +442,7 @@
       "Name": "Risk/Reward",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-interspeciesLove",
@@ -445,7 +450,7 @@
       "Name": "It\u0027s Complicated",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -453,7 +458,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-keepHighStanding",
@@ -467,9 +472,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-kill-hyenas",
@@ -485,7 +490,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-learn-traits",
@@ -541,15 +546,15 @@
       "Name": "Look Ma, No Equipment!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 139
     },
     {
       "ID": "ach-pacifist-goals",
@@ -581,7 +586,7 @@
       "Name": "From Whence we Came",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach-promotion",
@@ -613,7 +618,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-rob-shrines",
@@ -621,7 +626,7 @@
       "Name": "Plunderer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-salamanderPrince",
@@ -629,7 +634,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-spendNoMoney",
@@ -637,7 +642,7 @@
       "Name": "Frugal",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-totalFame",
@@ -645,7 +650,7 @@
       "Name": "I Set Forth Again... and Again... and Again...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -669,7 +674,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-wearHat",
@@ -684,7 +689,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 1
     }
   ],
@@ -692,8 +697,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:42.5564973+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:07:19.9902451+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:59:54.8055538+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:42.5565518+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:01:19.849635+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:07:19.9903237+00:00"
 }

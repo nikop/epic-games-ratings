@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,813 |
-| Beast Intentions | 1.00% | ~906 |
-| The Cursed Farmer | 1.00% | ~906 |
-| The Mad Wizard | 1.00% | ~906 |
+| Beast Intentions | 1.00% | ~907 |
+| The Cursed Farmer | 1.00% | ~907 |
+| The Mad Wizard | 1.00% | ~907 |
 | The Ring of Regeneration | 0.90% | ~816 |
 | The Court of Storms | 0.90% | ~512 |
 | Beware the Jabberwock | 0.80% | ~455 |
@@ -300,6 +300,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.20% | ~114 |
 | Expert Opinion | 0.20% | ~181 |
 | Dwarven Rumors | 0.20% | ~114 |
+| Mimic Perception | 0.20% | ~114 |
 | Frozen in Fear | 0.20% | ~114 |
 | It's Cold Out There Today | 0.20% | ~114 |
 | Sunblight | 0.20% | ~114 |
@@ -472,7 +473,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~57 |
 | Relentless Peril | 0.10% | ~57 |
 | Rickety Rubble | 0.10% | ~57 |
-| Mimic Perception | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,650 (Ranked 64)  
+Progressed: 90,654 (Ranked 64)  
 Completed: 1,931 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,9 +555,10 @@ Completed: 1,931 (2.13%) (Ranked 66)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
+| 2023-06-14 | 90,654 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
-Sum: 30,094 (Ranked 37)  
+Sum: 30,095 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -567,7 +568,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,512 |
 | This game is Highly Recommended | 3,960 |
 | This game has Amazing Characters | 3,954 |
-| This game has Playful Visuals | 3,249 |
+| This game has Playful Visuals | 3,250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -709,4 +710,4 @@ Diff (max vs sum): 27
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
-| 2023-06-13 | 4.06 | - | 4,937 | 30,094 |
+| 2023-06-13 | 4.06 | - | 4,937 | 30,095 |

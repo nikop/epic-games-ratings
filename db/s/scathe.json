@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
     {
       "Time": "2023-06-13T22:01:07.724654+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T00:01:34.1487181+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -118,7 +123,7 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
       "SetID": "2ff85j2",
       "Name": "Half a Life",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -303,7 +308,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -311,8 +316,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:00:04.666159+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:01:34.1487176+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.4813119+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:27.6961517+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:00:04.6661859+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:58:16.3031374+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:01:34.1487416+00:00"
 }

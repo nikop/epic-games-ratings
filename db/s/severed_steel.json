@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 37,
@@ -242,9 +242,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 415338,
+  "EOS_Progressed": 415345,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 2513,
+  "EOS_NewPlayers": 2511,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5937,6 +5937,11 @@
       "Time": "2023-06-13T23:03:02.977287+00:00",
       "NumProgressed": 415338,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-14T00:04:01.6596298+00:00",
+      "NumProgressed": 415345,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 52,
@@ -5972,7 +5977,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 45687
+      "UsersEstimate": 45688
     },
     {
       "ID": "BIGUPS",
@@ -6012,7 +6017,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37380
+      "UsersEstimate": 37381
     },
     {
       "ID": "CHAPTER2",
@@ -6020,7 +6025,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24920
+      "UsersEstimate": 24921
     },
     {
       "ID": "CHAPTER3",
@@ -6028,7 +6033,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24920
+      "UsersEstimate": 24921
     },
     {
       "ID": "CHAPTER4",
@@ -6324,7 +6329,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37380
+      "UsersEstimate": 37381
     },
     {
       "ID": "SOUL",
@@ -6363,7 +6368,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 415338,
+      "Progressed": 415345,
       "Completed": 34
     }
   ],
@@ -6371,8 +6376,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-06T18:59:44.6369603+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:03:02.9772866+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:04:01.6596294+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:56.3588144+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:59:03.0668369+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:03:02.9773617+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:00:14.9573391+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:04:01.6597666+00:00"
 }

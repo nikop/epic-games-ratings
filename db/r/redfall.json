@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2047,9 +2047,9 @@
       "ID": "Achievement_024",
       "SetID": "6b34g18",
       "Name": "Good Morning",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement_025",
@@ -2239,9 +2239,9 @@
       "ID": "Achievement_050",
       "SetID": "6b34g18",
       "Name": "So Anyway I Started Blasting",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_051",
@@ -2408,8 +2408,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:00:12.3608498+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:01:43.651866+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:41.9830645+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:00:12.3609906+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:58:33.9635027+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:01:43.6519791+00:00"
 }

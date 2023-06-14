@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4412,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-06-13T22:03:36.2048611+00:00",
       "NumProgressed": 4412,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-14T00:01:23.7392516+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1296,7 +1301,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1304,7 +1309,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1320,7 +1325,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -1344,7 +1349,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1352,7 +1357,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1360,7 +1365,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1368,7 +1373,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1392,7 +1397,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -1480,7 +1485,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -1512,7 +1517,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1542,9 +1547,9 @@
       "ID": "ID_ACHIEV_32",
       "SetID": "98bke8c",
       "Name": "Butcher\u0027s Bill",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2383
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1640,7 +1645,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1728,7 +1733,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -1816,7 +1821,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -1831,15 +1836,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4412,
+      "Progressed": 4413,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-13T22:03:36.2048603+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:01:23.7392508+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:49.4783585+00:00",
-  "LastUpdate_Achievements": "2023-06-13T22:03:36.2049943+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:58:42.9472507+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:01:23.7394076+00:00"
 }

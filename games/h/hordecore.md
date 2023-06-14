@@ -16,7 +16,7 @@
 | That’s What Friends Are For | 21.00% | ~71 |
 | Poker-Man | 21.00% | ~71 |
 | Blow ‘Em Up | 21.00% | ~71 |
-| FOR THE GAUNTLET! | 19.00% | ~64 |
+| FOR THE GAUNTLET! | 20.00% | ~68 |
 | Untapped Potential | 17.00% | ~58 |
 | Played by Gramps | 14.00% | ~47 |
 | Size Doesn’t Matter | 13.00% | ~44 |

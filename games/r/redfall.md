@@ -36,12 +36,12 @@ Rating: 3.46 (Ranked 939)
 | Revelations | 3.00% | ~50 |
 | Sic Transit Umbra | 3.00% | ~50 |
 | Silence Is Golden | 3.00% | ~50 |
+| Good Morning | 3.00% | ~50 |
 | Check, Please! | 3.00% | ~50 |
 | Enemy of My Enemy | 3.00% | ~50 |
 | Contingency Plans | 2.00% | ~34 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
-| Good Morning | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
 | Harvest’s End | 2.00% | ~34 |
 | Blacklight Down | 2.00% | ~34 |
@@ -54,9 +54,9 @@ Rating: 3.46 (Ranked 939)
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~13 |
+| So Anyway I Started Blasting | 0.80% | ~13 |
 | Sisterhood | 0.70% | ~12 |
 | What Lies Below | 0.70% | ~12 |
-| So Anyway I Started Blasting | 0.70% | ~12 |
 | Someplace to Be | 0.40% | ~7 |
 | Good Samaritan | 0.40% | ~7 |
 | A Cry in the Dark | 0.20% | ~3 |

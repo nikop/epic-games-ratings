@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,6 +488,11 @@
       "Time": "2023-06-13T21:06:16.7992913+00:00",
       "NumProgressed": 179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T00:06:55.4097473+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -499,7 +504,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_ACT10",
@@ -571,7 +576,7 @@
       "Name": "Command Centre",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ACT4",
@@ -579,7 +584,7 @@
       "Name": "This is a Wall",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ACT5",
@@ -587,15 +592,15 @@
       "Name": "Extendable Bridges",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ACT7",
@@ -619,7 +624,7 @@
       "Name": "Running Boots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ARCHIVIST",
@@ -627,7 +632,7 @@
       "Name": "Archivist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -635,15 +640,15 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -691,7 +696,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -714,7 +719,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 0
     }
   ],
@@ -722,8 +727,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:21.4509924+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:06:55.4097469+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:57:23.6289718+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:21.4510119+00:00"
+  "LastUpdate_Ratings": "2023-06-13T23:58:11.180329+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:06:55.4097852+00:00"
 }

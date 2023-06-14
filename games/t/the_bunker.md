@@ -10,8 +10,8 @@
 | Failure | 74.00% | ~75 |
 | Replace Fuse | 66.00% | ~67 |
 | Alarm | 64.00% | ~65 |
-| Air Filtration | 62.00% | ~63 |
-| Broken | 60.00% | ~61 |
+| Air Filtration | 63.00% | ~64 |
+| Broken | 61.00% | ~62 |
 | Radiation | 58.00% | ~59 |
 | Descent | 57.00% | ~58 |
 | Awakenings | 56.00% | ~57 |
@@ -21,13 +21,13 @@
 | Doctor | 48.00% | ~49 |
 | Leave | 47.00% | ~48 |
 | Commissioner | 47.00% | ~48 |
-| Engineer | 46.00% | ~47 |
+| Engineer | 47.00% | ~48 |
 | Soldier | 46.00% | ~47 |
 | Press Play | 36.00% | ~37 |
 | Bookworm | 23.00% | ~23 |
 | General | 23.00% | ~23 |
 | Stay | 15.00% | ~15 |
-| Floppy Disk Finder | 12.00% | ~12 |
+| Floppy Disk Finder | 13.00% | ~13 |
 | Nurse | 12.00% | ~12 |
 | Friends | 5.00% | ~5 |
 | No Page Unturned | 4.00% | ~4 |

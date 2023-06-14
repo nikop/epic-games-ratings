@@ -2,9 +2,9 @@
   "ID": "8ee9de55298245e4bfe187dd50560f3c",
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
-  "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:18.5107292+00:00",
@@ -91,6 +91,11 @@
       "Time": "2023-06-10T14:06:31.1137287+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T00:06:52.5808888+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 9,
@@ -108,15 +113,15 @@
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENDING_1",
       "SetID": "2a8fdfo",
       "Name": "Became the new Maker",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -140,7 +145,7 @@
       "ID": "ACH_ENDING_4",
       "SetID": "2a8fdfo",
       "Name": "Where\u0027s the air conditioner?",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -173,14 +178,14 @@
     {
       "ID": "2a8fdfo",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-10T10:59:21.1089045+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-06-13T23:05:19.0601387+00:00",
+  "LastChanged_Achievements": "2023-06-14T00:06:52.5808879+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:02.207901+00:00",
-  "LastUpdate_Ratings": "2023-06-13T22:59:06.5929011+00:00",
-  "LastUpdate_Achievements": "2023-06-13T23:05:19.0601458+00:00"
+  "LastUpdate_Ratings": "2023-06-14T00:00:19.5956687+00:00",
+  "LastUpdate_Achievements": "2023-06-14T00:06:52.5809012+00:00"
 }
