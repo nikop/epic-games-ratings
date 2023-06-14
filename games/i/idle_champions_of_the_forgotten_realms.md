@@ -235,6 +235,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Feigned Weakness | 0.20% | ~181 |
 | Waterdeep Under Siege | 0.20% | ~181 |
 | Crowded Streets | 0.20% | ~181 |
+| The Sunless Citadel | 0.20% | ~181 |
 | Patience is Key | 0.20% | ~181 |
 | The Darkness Runs Deeper | 0.20% | ~181 |
 | Troublesome Prisoner | 0.20% | ~181 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~91 |
 | Sober Up | 0.10% | ~91 |
 | In The Beginning | 0.10% | ~57 |
-| The Sunless Citadel | 0.10% | ~91 |
 | Veteran Brigade | 0.10% | ~91 |
 | Social Grace | 0.10% | ~57 |
 | Evergreens with an Evergreen | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,672 (Ranked 64)  
+Progressed: 90,674 (Ranked 64)  
 Completed: 1,932 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 1,932 (2.13%) (Ranked 66)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,672 | 1,932 |
+| 2023-06-14 | 90,674 | 1,932 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,096 (Ranked 37)  

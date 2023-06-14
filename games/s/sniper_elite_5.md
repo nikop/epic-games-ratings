@@ -35,7 +35,7 @@ Rating: 4.53 (Ranked 503)
 | No Stone Unturned | 5.00% | ~141 |
 | Set Europe Ablaze | 5.00% | ~141 |
 | Precision Is Key | 4.00% | ~112 |
-| Rigged to Blow | 3.00% | ~84 |
+| Rigged to Blow | 4.00% | ~112 |
 | My Little Friend | 3.00% | ~84 |
 | The Long Game | 2.00% | ~56 |
 | It'll Buff Right Out | 2.00% | ~56 |

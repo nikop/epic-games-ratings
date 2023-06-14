@@ -3,8 +3,8 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 79,
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34818,
+  "EOS_Progressed": 34819,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5259,6 +5259,11 @@
       "Time": "2023-06-14T07:01:32.8405987+00:00",
       "NumProgressed": 34818,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-06-14T08:01:02.7318948+00:00",
+      "NumProgressed": 34819,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 44,
@@ -5270,7 +5275,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19846
+      "UsersEstimate": 19847
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5278,7 +5283,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10445
+      "UsersEstimate": 10446
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -5334,7 +5339,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -5414,7 +5419,7 @@
       "Name": "Get Over Here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -5486,7 +5491,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 8356
+      "UsersEstimate": 8357
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -5494,7 +5499,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 19498
+      "UsersEstimate": 19499
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -5510,7 +5515,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21935
+      "UsersEstimate": 21936
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -5526,7 +5531,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -5542,7 +5547,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 23676
+      "UsersEstimate": 23677
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -5574,7 +5579,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 15668
+      "UsersEstimate": 15669
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -5606,7 +5611,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 32381
+      "UsersEstimate": 32382
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -5614,14 +5619,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 18105
+      "UsersEstimate": 18106
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34818,
+      "Progressed": 34819,
       "Completed": 173
     }
   ],
@@ -5629,8 +5634,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:01:32.840598+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:01:02.7318943+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:42.4620167+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:01:32.8406575+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:30.6475313+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:01:02.7319921+00:00"
 }

@@ -99,8 +99,8 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-13 | 4,321 | 0 |
 | 2023-06-14 | 4,325 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 442)  
-Sum: 158 (Ranked 380)  
+Max (Relaxing): 32  (Ranked 443)  
+Sum: 158 (Ranked 381)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |

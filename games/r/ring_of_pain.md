@@ -46,8 +46,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 26.00% | ~59,990 |
 | Save Our Souls | 24.00% | ~55,375 |
 | To The Death! | 20.00% | ~46,146 |
+| Just Chilling | 20.00% | ~46,146 |
 | Well Prepared | 19.00% | ~43,839 |
-| Just Chilling | 19.00% | ~43,839 |
 | Stop Hitting Yourself | 19.00% | ~43,839 |
 | All Consuming | 18.00% | ~41,532 |
 | Shadow Spreads | 16.00% | ~36,917 |

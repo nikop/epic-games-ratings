@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "12_Purrfect",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:06:40.2791166+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:06:05.069079+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9565261+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:11.6080124+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:06:40.279133+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:03.632054+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:06:05.0691034+00:00"
 }

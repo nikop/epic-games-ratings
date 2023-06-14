@@ -3,11 +3,11 @@
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
   "Ranking_Rating": 52,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5113,
+  "EOS_Progressed": 5114,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -555,6 +555,11 @@
       "Time": "2023-06-13T22:06:54.775035+00:00",
       "NumProgressed": 5113,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-14T08:06:24.3371768+00:00",
+      "NumProgressed": 5114,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -598,7 +603,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -694,7 +699,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -702,7 +707,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -718,7 +723,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -742,7 +747,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -774,7 +779,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -806,7 +811,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -814,7 +819,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -854,7 +859,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -950,22 +955,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5113,
+      "Progressed": 5114,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:07:00.7779486+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:06:24.3371765+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.2240138+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:00:39.8550468+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:07:00.7779834+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:00:14.8307345+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:06:24.3372187+00:00"
 }

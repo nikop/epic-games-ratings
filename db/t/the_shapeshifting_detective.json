@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "heavy_rayne",
@@ -295,9 +295,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "voyeur",
@@ -328,8 +328,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:04:05.3720486+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:03:45.5194267+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:04.6957456+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:59:09.7225224+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:04:05.3720607+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:54.3961265+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:03:45.5194428+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d705b04f61c04c5ebe30c7314d34a377",
   "Name": "Operation Polygon Storm",
   "ProductSlug": "operation-polygon-storm-65c37e",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.2746535+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:59:02.2270989+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:04:34.9587475+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:47.7410042+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:04:12.1494803+00:00"
 }

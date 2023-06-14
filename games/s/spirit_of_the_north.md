@@ -6,24 +6,24 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,938 |
-| INFUSED WITH LIGHT | 52.00% | ~30,221 |
-| FOXIN' AROUND | 28.00% | ~16,273 |
-| FETCH | 27.00% | ~15,692 |
-| BLOOMS OF LIGHT | 26.00% | ~15,110 |
-| BEST FRIENDS | 22.00% | ~12,786 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,941 |
+| INFUSED WITH LIGHT | 52.00% | ~30,223 |
+| FOXIN' AROUND | 28.00% | ~16,274 |
+| FETCH | 27.00% | ~15,693 |
+| BLOOMS OF LIGHT | 26.00% | ~15,111 |
+| BEST FRIENDS | 22.00% | ~12,787 |
 | AWAKEN | 21.00% | ~12,205 |
-| ERADICATE | 20.00% | ~11,623 |
-| SPIRIT BARK | 20.00% | ~11,623 |
-| GARDEN OF LIGHT | 18.00% | ~10,461 |
+| ERADICATE | 20.00% | ~11,624 |
+| SPIRIT BARK | 20.00% | ~11,624 |
+| GARDEN OF LIGHT | 18.00% | ~10,462 |
 | SPIRIT FORM | 16.00% | ~9,299 |
 | UPROOTING DARKNESS | 15.00% | ~8,718 |
 | WRITTEN IN STONE | 15.00% | ~8,718 |
 | WEIGHTLESS | 11.00% | ~6,393 |
 | SPIRIT DASH | 10.00% | ~5,812 |
-| OLD COMPANION | 8.00% | ~4,649 |
-| PLAGUE DOCTOR | 8.00% | ~4,649 |
-| SPIRITED AWAY | 8.00% | ~4,649 |
+| OLD COMPANION | 8.00% | ~4,650 |
+| PLAGUE DOCTOR | 8.00% | ~4,650 |
+| SPIRITED AWAY | 8.00% | ~4,650 |
 | MATCH MAKER | 7.00% | ~4,068 |
 | NORTHERN LIGHTS | 7.00% | ~4,068 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,325 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,162 |
 | KINDRED SPIRITS | 0.60% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,117 (Ranked 75)  
+Progressed: 58,121 (Ranked 75)  
 Completed: 292 (0.50%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,10 +86,10 @@ Completed: 292 (0.50%) (Ranked 116)
 | 2023-06-11 | 57,842 | 290 |
 | 2023-06-12 | 57,972 | 290 |
 | 2023-06-13 | 58,084 | 291 |
-| 2023-06-14 | 58,117 | 292 |
+| 2023-06-14 | 58,121 | 292 |
 ## Awards
-Max (Extremely Fun): 25  (Ranked 469)  
-Sum: 93 (Ranked 407)  
+Max (Extremely Fun): 25  (Ranked 470)  
+Sum: 93 (Ranked 408)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |

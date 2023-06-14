@@ -3,12 +3,12 @@
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
   "Ranking_Rating": 361,
-  "Ranking_Popularity": 195,
+  "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -3600,9 +3600,9 @@
       "Count": 272
     }
   ],
-  "EOS_Progressed": 135319,
+  "EOS_Progressed": 135326,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3496,
+  "EOS_NewPlayers": 3485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9330,6 +9330,11 @@
       "Time": "2023-06-14T07:04:34.9875884+00:00",
       "NumProgressed": 135319,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-14T08:04:12.4108136+00:00",
+      "NumProgressed": 135326,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -9341,7 +9346,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "Achievement_1",
@@ -9373,7 +9378,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 23004
+      "UsersEstimate": 23005
     },
     {
       "ID": "Achievement_13",
@@ -9421,7 +9426,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 35183
+      "UsersEstimate": 35185
     },
     {
       "ID": "Achievement_5",
@@ -9468,15 +9473,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 135319,
+      "Progressed": 135326,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-06-14T04:58:12.3589549+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:04:34.9875878+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:04:12.4108133+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:47.1389116+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:52.8521486+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:04:34.9876266+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:39.3534378+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:04:12.4108552+00:00"
 }

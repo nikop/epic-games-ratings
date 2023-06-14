@@ -4276,7 +4276,7 @@
       "Count": 3250
     }
   ],
-  "EOS_Progressed": 90672,
+  "EOS_Progressed": 90674,
   "EOS_Completed": 1932,
   "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 10,
@@ -9881,6 +9881,11 @@
       "Time": "2023-06-14T06:06:45.6314357+00:00",
       "NumProgressed": 90672,
       "NumCompleted": 1932
+    },
+    {
+      "Time": "2023-06-14T08:06:32.4433522+00:00",
+      "NumProgressed": 90674,
+      "NumCompleted": 1932
     }
   ],
   "TotalAchievements": 493,
@@ -12186,9 +12191,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_561",
@@ -13835,21 +13840,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56946,
+      "Progressed": 56948,
       "Completed": 2791
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90672,
+      "Progressed": 90674,
       "Completed": 1932
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-14T04:57:50.2174661+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:07:09.8041451+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:06:32.4433518+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:21.3766341+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:07:09.8063191+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:12.3988458+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:06:32.4461473+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "bff546f2926945d8a5524ac76e311a0f",
   "Name": "Another World - 20th Anniversary",
   "ProductSlug": "another-world-20th-anniversary-edition-64660d",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-18T00:00:00+00:00",
     "PcReleaseDate": "2013-04-04T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.1063276+00:00",
   "LastChanged": "2023-03-31T05:57:57.1063277+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.2453518+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:51.2133499+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:03:43.7040234+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:37.9691539+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:03:34.7568937+00:00"
 }

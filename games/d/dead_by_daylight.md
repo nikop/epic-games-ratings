@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.20% | ~1,104 |
-| Resurgence | 0.20% | ~1,104 |
-| Preemptive Strike | 0.20% | ~1,104 |
-| Humanitarian | 0.20% | ~1,104 |
+| Healthy Obsession | 0.20% | ~1,105 |
+| Resurgence | 0.20% | ~1,105 |
+| Preemptive Strike | 0.20% | ~1,105 |
+| Humanitarian | 0.20% | ~1,105 |
 | The Grand Sacrifice | 0.10% | ~552 |
 | A bite for the Entity | 0.10% | ~552 |
 | A feast for the Entity | 0.10% | ~552 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~552 |
 | Adept Gabriel | 0.10% | ~552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,227 (Ranked 27)  
+Progressed: 552,302 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 42 (0.01%) (Ranked 210)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 552,227 | 42 |
+| 2023-06-14 | 552,302 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
 Sum: 226,959 (Ranked 12)  

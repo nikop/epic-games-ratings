@@ -2,10 +2,10 @@
   "ID": "80f331fb9dba4df49435cf86f1ff9676",
   "Name": "Night Loops",
   "ProductSlug": "night-loops-aa3cc2",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:58:12.0871129+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:16.9369483+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:05:21.8633184+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:08.1860725+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:04:54.12693+00:00"
 }

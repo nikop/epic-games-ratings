@@ -6,17 +6,17 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,011 |
-| The Journey Begins | 98.00% | ~5,011 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,988 |
-| There is No Escape | 71.00% | ~3,630 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,170 |
-| Royal Flush | 62.00% | ~3,170 |
+| Quinceañera Time | 98.00% | ~5,012 |
+| The Journey Begins | 98.00% | ~5,012 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,989 |
+| There is No Escape | 71.00% | ~3,631 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,171 |
+| Royal Flush | 62.00% | ~3,171 |
 | Timber! | 60.00% | ~3,068 |
 | Survive the Bombsequences | 59.00% | ~3,017 |
 | Killed 20 Jerks | 53.00% | ~2,710 |
 | Death Defied | 53.00% | ~2,710 |
-| Fortunate Soul | 49.00% | ~2,505 |
+| Fortunate Soul | 49.00% | ~2,506 |
 | Jerk-Slayer | 43.00% | ~2,199 |
 | Employee of the Month | 37.00% | ~1,892 |
 | I Believe I Can Fly | 37.00% | ~1,892 |
@@ -27,9 +27,9 @@ Number of Ratings: 63  (23.09.2022)
 | Humerus Achievement | 31.00% | ~1,585 |
 | Ghost Facers! | 27.00% | ~1,381 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,074 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~920 |
-| Can't Touch This | 18.00% | ~920 |
-| Royal Flush, Again | 18.00% | ~920 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~921 |
+| Can't Touch This | 18.00% | ~921 |
+| Royal Flush, Again | 18.00% | ~921 |
 | Yummy! | 16.00% | ~818 |
 | That Was Quick | 16.00% | ~818 |
 | Goldrush Glory Days | 15.00% | ~767 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,113 (Ranked 127)  
+Progressed: 5,114 (Ranked 127)  
 Completed: 27 (0.53%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 27 (0.53%) (Ranked 114)
 | 2023-06-11 | 5,109 | 27 |
 | 2023-06-12 | 5,110 | 27 |
 | 2023-06-13 | 5,113 | 27 |
+| 2023-06-14 | 5,114 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

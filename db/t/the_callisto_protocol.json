@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 844,
-  "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 328,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 80,
@@ -620,7 +620,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15229,
+  "EOS_Progressed": 15230,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 1,
@@ -3825,6 +3825,11 @@
       "Time": "2023-06-14T07:04:45.3544675+00:00",
       "NumProgressed": 15229,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T08:04:21.5619238+00:00",
+      "NumProgressed": 15230,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3956,7 +3961,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3996,7 +4001,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4092,7 +4097,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "DISMEMBER_100",
@@ -4155,13 +4160,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15229,
+      "Progressed": 15230,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3155,
+      "Progressed": 3156,
       "Completed": 29
     }
   ],
@@ -4169,8 +4174,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:04:45.3544671+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:04:21.5619234+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:09.4129659+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:04:45.3545061+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:58:01.6309433+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:04:21.5620341+00:00"
 }

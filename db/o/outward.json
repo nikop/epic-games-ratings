@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 346,
+  "Ranking_Popularity": 450,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2564,6 +2564,11 @@
       "Time": "2023-06-14T07:03:36.2170306+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T08:03:28.103991+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2631,7 +2636,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Eureka_23",
@@ -2687,7 +2692,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -2703,7 +2708,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LightofLevant_18",
@@ -2767,7 +2772,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2823,7 +2828,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -2895,7 +2900,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2910,15 +2915,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:03:36.2170301+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:03:28.1039907+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:58:02.4108873+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:03:36.2170667+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:57:55.8073925+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:03:28.104038+00:00"
 }

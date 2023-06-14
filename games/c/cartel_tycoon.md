@@ -7,7 +7,7 @@ Number of Ratings: 101  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Our Man | 83.00% | ~324 |
-| Take-Off | 77.00% | ~300 |
+| Take-Off | 78.00% | ~304 |
 | Hokey-Pokey | 70.00% | ~273 |
 | Camellos | 56.00% | ~218 |
 | Bad Trip | 45.00% | ~176 |
@@ -18,7 +18,7 @@ Number of Ratings: 101  (23.09.2022)
 | Don't Let Mom Know You're A Druglord | 29.00% | ~113 |
 | Architect of Fortunes | 25.00% | ~98 |
 | Pampered Life | 25.00% | ~98 |
-| Bite the Blow | 22.00% | ~86 |
+| Bite the Blow | 23.00% | ~90 |
 | Spreading Fear | 9.00% | ~35 |
 | I'm Going To Call You Kitty | 8.00% | ~31 |
 | Follow the Money | 7.00% | ~27 |

@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,962 |
-| That's a Grand Army | 8.00% | ~4,411 |
-| That is mine! | 8.00% | ~4,411 |
-| Victorious! | 8.00% | ~4,411 |
-| Brothers in Arms | 6.00% | ~3,308 |
-| That's a Grand Navy | 6.00% | ~3,308 |
-| Seriously?! | 6.00% | ~3,308 |
+| Until death do us apart | 9.00% | ~4,963 |
+| That's a Grand Army | 8.00% | ~4,412 |
+| That is mine! | 8.00% | ~4,412 |
+| Victorious! | 8.00% | ~4,412 |
+| Brothers in Arms | 6.00% | ~3,309 |
+| That's a Grand Navy | 6.00% | ~3,309 |
+| Seriously?! | 6.00% | ~3,309 |
 | For the Glory | 5.00% | ~2,757 |
-| Cold War | 4.00% | ~2,205 |
-| True Catholic | 4.00% | ~2,205 |
+| Cold War | 4.00% | ~2,206 |
+| True Catholic | 4.00% | ~2,206 |
 | Defender of the Faith | 3.00% | ~1,654 |
 | It's all about the money | 3.00% | ~1,654 |
 | Respected | 3.00% | ~1,654 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,133 (Ranked 77)  
+Progressed: 55,146 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,10 +416,10 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
-| 2023-06-14 | 55,133 | 0 |
+| 2023-06-14 | 55,146 | 0 |
 ## Awards
 Max (Educational): 5,386  (Ranked 61)  
-Sum: 44,511 (Ranked 27)  
+Sum: 44,516 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -427,7 +427,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,169 |
 | This game has Challenging Combat | 5,136 |
 | This game is Extremely Fun | 5,093 |
-| This game has Diverse Characters | 5,069 |
+| This game has Diverse Characters | 5,074 |
 | This game is Relaxing | 4,994 |
 | This game has Competitive Players | 4,852 |
 | This game has Amazing Storytelling | 4,578 |
@@ -584,3 +584,4 @@ Diff (max vs sum): 34
 | 2023-06-11 | 4.68 | - | 5,376 | 44,434 |
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
+| 2023-06-14 | 4.68 | - | 5,386 | 44,516 |

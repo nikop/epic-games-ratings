@@ -20,8 +20,8 @@
 | Act 3 | 21.00% | ~22 |
 | Here we go again | 20.00% | ~21 |
 | Flyer | 17.00% | ~18 |
+| It’s in the Vault | 15.00% | ~16 |
 | Dr. Antivirus | 15.00% | ~16 |
-| It’s in the Vault | 14.00% | ~15 |
 | Access protocol | 14.00% | ~15 |
 | Time Capsule | 13.00% | ~14 |
 | Photo | 13.00% | ~14 |

@@ -6,7 +6,7 @@ Rating: 4.32 (Ranked 752)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~1,018 |
-| Ranidaphobia | 75.00% | ~839 |
+| Ranidaphobia | 76.00% | ~850 |
 | Aspiring Editor | 73.00% | ~817 |
 | Gun for Hire | 68.00% | ~761 |
 | I am the law! | 60.00% | ~671 |
@@ -36,8 +36,8 @@ Rating: 4.32 (Ranked 752)
 | Newtonian Knockout | 15.00% | ~168 |
 | The Watchers | 15.00% | ~168 |
 | Ruthless | 12.00% | ~134 |
+| Chaos Theory | 11.00% | ~123 |
 | Dr Jones | 11.00% | ~123 |
-| Chaos Theory | 10.00% | ~112 |
 | Commando | 10.00% | ~112 |
 | Chain Reaction | 8.00% | ~90 |
 | Curveball | 7.00% | ~78 |

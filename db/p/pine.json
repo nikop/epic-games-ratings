@@ -3,12 +3,12 @@
   "Name": "Pine",
   "ProductSlug": "pine",
   "Ranking_Rating": 861,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 451,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-05-06T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -600,6 +600,6 @@
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
   "LastChanged": "2023-03-31T05:57:41.466466+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:49.5751355+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:00:58.0911369+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:01:22.7364903+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:00:30.9156014+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:00:53.5045601+00:00"
 }

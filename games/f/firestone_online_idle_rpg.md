@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 893)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,311 |
-| World Map | 80.00% | ~1,116 |
-| Temple of Eternals | 57.00% | ~795 |
-| Prestigious | 53.00% | ~739 |
+| Victor | 94.00% | ~1,312 |
+| World Map | 80.00% | ~1,117 |
+| Temple of Eternals | 57.00% | ~796 |
+| Prestigious | 53.00% | ~740 |
 | Fellowship Power | 41.00% | ~572 |
 | Guild Power | 24.00% | ~335 |
 | Prestigious x10 | 21.00% | ~293 |
@@ -21,11 +21,11 @@ Rating: 4.05 (Ranked 893)
 | Dragon Master | 13.00% | ~181 |
 | Enlightenment | 13.00% | ~181 |
 | Hero inspection | 13.00% | ~181 |
-| Lieutenant | 12.00% | ~167 |
-| Natural Talent | 12.00% | ~167 |
-| The Unstoppable | 12.00% | ~167 |
-| Mysterious Rock | 11.00% | ~153 |
-| Superior | 11.00% | ~153 |
+| Lieutenant | 12.00% | ~168 |
+| Natural Talent | 12.00% | ~168 |
+| The Unstoppable | 12.00% | ~168 |
+| Mysterious Rock | 11.00% | ~154 |
+| Superior | 11.00% | ~154 |
 | Milestone collector | 10.00% | ~140 |
 | Scientist | 9.00% | ~126 |
 | Challenger | 8.00% | ~112 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 893)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,395 (Ranked 164)  
+Progressed: 1,396 (Ranked 164)  
 Completed: 1 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.07%) (Ranked 180)
 | 2023-06-11 | 1,376 | 1 |
 | 2023-06-12 | 1,385 | 1 |
 | 2023-06-13 | 1,390 | 1 |
-| 2023-06-14 | 1,395 | 1 |
+| 2023-06-14 | 1,396 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

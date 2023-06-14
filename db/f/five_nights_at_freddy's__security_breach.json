@@ -3,12 +3,12 @@
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 485,
-  "Ranking_PopularitySum": 433,
-  "Ranking_EOS_Progress": 451,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 434,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
     "PcReleaseDate": "2021-12-16T00:00:00+00:00",
@@ -536,6 +536,6 @@
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
   "LastChanged": "2023-06-11T19:59:51.1386041+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.3308327+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:01:08.0283957+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:01:45.3473803+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:00:39.326517+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:01:13.898847+00:00"
 }

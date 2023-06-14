@@ -26,19 +26,19 @@
 | Mutant And Proud | 36.00% | ~55 |
 | The Emperor's New Clothes | 32.00% | ~49 |
 | Happy Little Home | 30.00% | ~46 |
+| Final Evolution | 30.00% | ~46 |
+| You Shall Not Pass | 29.00% | ~45 |
 | Godlike Power | 29.00% | ~45 |
 | Undying Skin | 29.00% | ~45 |
 | Fight Me! | 29.00% | ~45 |
-| Final Evolution | 29.00% | ~45 |
-| You Shall Not Pass | 28.00% | ~43 |
 | Mommy's Very Angry | 27.00% | ~42 |
 | Animal Lover | 27.00% | ~42 |
 | Supremacy | 27.00% | ~42 |
 | Immortal Skin | 23.00% | ~35 |
-| Loyal Companion | 22.00% | ~34 |
+| Loyal Companion | 23.00% | ~35 |
 | Back To The Future | 21.00% | ~32 |
 | Fire Beacon | 21.00% | ~32 |
-| Lunch Before The Lunch | 19.00% | ~29 |
+| Lunch Before The Lunch | 20.00% | ~31 |
 | Building Blocks | 18.00% | ~28 |
 | From Here To Eternity | 17.00% | ~26 |
 | Octopostructure | 16.00% | ~25 |

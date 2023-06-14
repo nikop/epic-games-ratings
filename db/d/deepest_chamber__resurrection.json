@@ -2,10 +2,10 @@
   "ID": "1d0a0391733c42fb9fd78d74a875c859",
   "Name": "Deepest Chamber: Resurrection",
   "ProductSlug": "deepest-chamber-f7085f",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-07-22T17:00:00+00:00",
     "PcReleaseDate": "2021-07-22T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.3193935+00:00",
   "LastChanged": "2023-03-31T05:58:33.3193936+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.8058518+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:01:12.1557317+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:06:17.0529133+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:00:42.8998849+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:05:43.6211216+00:00"
 }

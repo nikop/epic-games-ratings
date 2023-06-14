@@ -16,10 +16,10 @@
 | Phew! | 15.00% | ~6 |
 | Toe to Toe | 13.00% | ~5 |
 | Mr. Want It All | 10.00% | ~4 |
+| Grand Escape | 8.00% | ~3 |
 | The Hidden Secret | 8.00% | ~3 |
 | The Abyss Conqueror | 5.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
-| Grand Escape | 5.00% | ~2 |
 | Space Warrior: Prologue | 5.00% | ~2 |
 | Antaeus | 5.00% | ~2 |
 | Air Interception | 5.00% | ~2 |
@@ -31,6 +31,7 @@
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
 | Death Bringer Conqueror | 3.00% | ~1 |
 | he Ultra Fortress Conqueror | 3.00% | ~1 |
+| Space Ranger: Prologue | 3.00% | ~1 |
 | Easy Peasy | 3.00% | ~1 |
 | Rapidfire | 3.00% | ~1 |
 | Keep it Up, rookie! | 3.00% | ~1 |
@@ -41,7 +42,6 @@
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Break Through the Forbidden | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
-| Space Ranger: Prologue | 0.00% | ~0 |
 | Breaking the Limit | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
 | The Truth? | 0.00% | ~0 |

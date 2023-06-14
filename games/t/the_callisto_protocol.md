@@ -19,9 +19,9 @@ Rating: 4.18 (Ranked 844)
 | Terminated | 6.00% | ~914 |
 | In the Pipe, Five by Five | 6.00% | ~914 |
 | Crash Site | 6.00% | ~914 |
-| Two Heads Are Better Than One | 5.00% | ~761 |
-| Float Like A Butterfly | 5.00% | ~761 |
-| Power Up | 5.00% | ~761 |
+| Two Heads Are Better Than One | 5.00% | ~762 |
+| Float Like A Butterfly | 5.00% | ~762 |
+| Power Up | 5.00% | ~762 |
 | You Need a Gun | 4.00% | ~609 |
 | What Lies Beneath | 4.00% | ~609 |
 | Full Circle | 4.00% | ~609 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 844)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,229 (Ranked 104)  
+Progressed: 15,230 (Ranked 104)  
 Completed: 55 (0.36%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,10 +100,10 @@ Completed: 55 (0.36%) (Ranked 128)
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
-| 2023-06-14 | 15,229 | 55 |
+| 2023-06-14 | 15,230 | 55 |
 ## Awards
-Max (Amazing Storytelling): 53  (Ranked 386)  
-Sum: 307 (Ranked 328)  
+Max (Amazing Storytelling): 53  (Ranked 387)  
+Sum: 307 (Ranked 329)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |

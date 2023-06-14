@@ -3,8 +3,8 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 720,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 407,
+  "Ranking_Popularity": 470,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 60,
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 58117,
+  "EOS_Progressed": 58121,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6006,6 +6006,11 @@
       "Time": "2023-06-14T07:06:36.9250619+00:00",
       "NumProgressed": 58117,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-06-14T08:06:02.0900271+00:00",
+      "NumProgressed": 58121,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 24,
@@ -6033,7 +6038,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 38938
+      "UsersEstimate": 38941
     },
     {
       "ID": "BEST_FRIENDS",
@@ -6041,7 +6046,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 12786
+      "UsersEstimate": 12787
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -6049,7 +6054,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15110
+      "UsersEstimate": 15111
     },
     {
       "ID": "ERADICATE",
@@ -6057,7 +6062,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11624
     },
     {
       "ID": "FETCH",
@@ -6065,7 +6070,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15692
+      "UsersEstimate": 15693
     },
     {
       "ID": "FOXIN_AROUND",
@@ -6073,7 +6078,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 16273
+      "UsersEstimate": 16274
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -6089,7 +6094,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 10461
+      "UsersEstimate": 10462
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -6097,7 +6102,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 30221
+      "UsersEstimate": 30223
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -6137,7 +6142,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -6145,7 +6150,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -6153,7 +6158,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "SPIRIT_BARK",
@@ -6161,7 +6166,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11624
     },
     {
       "ID": "SPIRIT_DASH",
@@ -6208,7 +6213,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 58117,
+      "Progressed": 58121,
       "Completed": 292
     }
   ],
@@ -6216,8 +6221,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-14T07:06:36.9250612+00:00",
+  "LastChanged_Achievements": "2023-06-14T08:06:02.0900266+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:50.4565048+00:00",
-  "LastUpdate_Ratings": "2023-06-14T06:59:57.9648112+00:00",
-  "LastUpdate_Achievements": "2023-06-14T07:06:36.9251008+00:00"
+  "LastUpdate_Ratings": "2023-06-14T07:59:37.4390269+00:00",
+  "LastUpdate_Achievements": "2023-06-14T08:06:02.0900917+00:00"
 }
