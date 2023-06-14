@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -1589,9 +1589,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1368
     },
     {
       "ID": "ACHV_40",
@@ -1750,8 +1750,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-11T19:00:01.1883541+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:49.920135+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:49.2635634+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:58.7991232+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:49.9201937+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:52.3533722+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:49.2636248+00:00"
 }

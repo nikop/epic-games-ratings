@@ -21,6 +21,7 @@
 | The Harder They Fall | 7.00% | ~47 |
 | The Wicked Twins | 7.00% | ~47 |
 | Honest Mistake | 7.00% | ~47 |
+| Golem Chaser | 7.00% | ~47 |
 | Fast Learner | 7.00% | ~47 |
 | The Brass Boss | 7.00% | ~47 |
 | Right On Time | 6.00% | ~41 |
@@ -28,7 +29,6 @@
 | Street Style | 6.00% | ~41 |
 | The Betrayer | 6.00% | ~41 |
 | The Loose Cannon | 6.00% | ~41 |
-| Golem Chaser | 6.00% | ~41 |
 | Check Your Pulse | 6.00% | ~41 |
 | The Family Fortune | 6.00% | ~41 |
 | Family Memories | 5.00% | ~34 |
@@ -58,8 +58,8 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 191)  
-Completed: 1 (0.15%) (Ranked 159)  
+Progressed: 678 (Ranked 192)  
+Completed: 1 (0.15%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

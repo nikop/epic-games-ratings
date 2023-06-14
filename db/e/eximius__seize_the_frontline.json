@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -252,7 +252,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189082,
+  "EOS_Progressed": 189088,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 0,
@@ -5952,6 +5952,11 @@
       "Time": "2023-06-14T11:05:28.102977+00:00",
       "NumProgressed": 189082,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-14T12:05:27.0321893+00:00",
+      "NumProgressed": 189088,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5971,7 +5976,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134248
+      "UsersEstimate": 134252
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5987,7 +5992,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5672
+      "UsersEstimate": 5673
     },
     {
       "ID": "ACH_INITIATION",
@@ -5995,7 +6000,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34035
+      "UsersEstimate": 34036
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -6090,7 +6095,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 189082,
+      "Progressed": 189088,
       "Completed": 4
     }
   ],
@@ -6098,8 +6103,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:28.1029757+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:27.0321889+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.5602508+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:20.8089927+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:28.1030272+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:15.7778011+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:27.0322353+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5625,9 +5625,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44048,
+  "EOS_Progressed": 44049,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10300,6 +10300,11 @@
       "Time": "2023-06-14T11:05:38.3135266+00:00",
       "NumProgressed": 44048,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-14T12:05:37.994778+00:00",
+      "NumProgressed": 44049,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10407,7 +10412,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26869
+      "UsersEstimate": 26870
     },
     {
       "ID": "DeliveryGrapes",
@@ -10447,7 +10452,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26869
+      "UsersEstimate": 26870
     },
     {
       "ID": "Harvested",
@@ -10463,7 +10468,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33476
+      "UsersEstimate": 33477
     },
     {
       "ID": "HorseJumps",
@@ -10511,7 +10516,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16738
+      "UsersEstimate": 16739
     },
     {
       "ID": "Money",
@@ -10519,7 +10524,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23345
+      "UsersEstimate": 23346
     },
     {
       "ID": "NumBeehives",
@@ -10535,7 +10540,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17619
+      "UsersEstimate": 17620
     },
     {
       "ID": "NumPlaceables",
@@ -10543,7 +10548,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19381
+      "UsersEstimate": 19382
     },
     {
       "ID": "NumProductionPoints",
@@ -10575,7 +10580,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12333
+      "UsersEstimate": 12334
     },
     {
       "ID": "PlayTime",
@@ -10583,7 +10588,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25988
+      "UsersEstimate": 25989
     },
     {
       "ID": "Sow",
@@ -10599,7 +10604,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27750
+      "UsersEstimate": 27751
     },
     {
       "ID": "Stones",
@@ -10631,7 +10636,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11452
+      "UsersEstimate": 11453
     },
     {
       "ID": "VehicleRepair",
@@ -10654,15 +10659,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44048,
+      "Progressed": 44049,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-14T04:59:07.9831299+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:38.3135255+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:37.9947772+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.5023398+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:19.0385897+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:38.3135915+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:14.0513812+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:37.9948383+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 436,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-06-13T16:07:12.6098182+00:00",
       "NumProgressed": 434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T12:05:27.2700493+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -836,7 +841,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BreakLegs",
@@ -858,9 +863,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 266
     },
     {
       "ID": "Chapter10",
@@ -884,7 +889,7 @@
       "Name": "The Breeder",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Chapter4",
@@ -908,7 +913,7 @@
       "Name": "The Spider",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Chapter7",
@@ -932,7 +937,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Collectibles1",
@@ -940,7 +945,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Collectibles2",
@@ -988,7 +993,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "GollumChoices",
@@ -1108,7 +1113,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WelcomeToMordor",
@@ -1116,21 +1121,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 436,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:28.1082596+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:27.2700488+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:57:43.2627079+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:28.1082922+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:57:40.4234957+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:27.2700791+00:00"
 }

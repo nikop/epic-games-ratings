@@ -21,7 +21,7 @@ Rating: 4.05 (Ranked 893)
 | Dragon Master | 13.00% | ~181 |
 | Enlightenment | 13.00% | ~181 |
 | Hero inspection | 13.00% | ~181 |
-| Lieutenant | 12.00% | ~168 |
+| Lieutenant | 13.00% | ~181 |
 | Natural Talent | 12.00% | ~168 |
 | The Unstoppable | 12.00% | ~168 |
 | Mysterious Rock | 11.00% | ~154 |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 893)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,396 (Ranked 164)  
-Completed: 1 (0.07%) (Ranked 180)  
+Completed: 1 (0.07%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

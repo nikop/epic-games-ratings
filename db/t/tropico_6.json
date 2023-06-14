@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -918,7 +918,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3625,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -4383,6 +4383,11 @@
       "Time": "2023-06-14T11:00:28.0640243+00:00",
       "NumProgressed": 3625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T12:02:02.0169244+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4394,7 +4399,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -4474,7 +4479,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -4506,7 +4511,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -4546,7 +4551,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4554,7 +4559,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4570,7 +4575,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -4594,7 +4599,7 @@
       "Name": "My Ways",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_NARCISSIST",
@@ -4618,7 +4623,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -4634,7 +4639,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -4642,7 +4647,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -4706,22 +4711,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:00:28.0640236+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:02:02.0169239+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:45.5313566+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:00:28.0640786+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:39.2004181+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:02:02.0169755+00:00"
 }

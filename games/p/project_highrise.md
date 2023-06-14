@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~125 |
+| In the Black | 59.00% | ~127 |
 | Starting Skyward | 52.00% | ~112 |
 | Grime is Not Good | 46.00% | ~99 |
 | Campaign Launch | 40.00% | ~86 |

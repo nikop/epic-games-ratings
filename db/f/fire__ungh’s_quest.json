@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "15_Coins",
@@ -446,9 +446,9 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Level_completed_007_006",
@@ -486,9 +486,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:34.8320231+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:34.4307672+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:30.5878727+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:34.8320443+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:25.043394+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:34.4307883+00:00"
 }

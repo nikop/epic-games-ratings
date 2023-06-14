@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1001,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2023-06-14T09:05:40.0169704+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T12:05:37.418238+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -951,7 +956,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "09",
@@ -1031,7 +1036,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "19",
@@ -1078,7 +1083,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1001,
+      "Progressed": 1002,
       "Completed": 0
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:37.8707238+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:05:37.4182372+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:59:21.3442543+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:05:37.8707453+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:59:16.2550813+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:05:37.4182565+00:00"
 }

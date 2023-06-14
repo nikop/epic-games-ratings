@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -25,9 +25,122 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CH1_FATHER",
+      "SetID": "6d348d1",
+      "Name": "What a Mess!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH1_FIRST",
+      "SetID": "6d348d1",
+      "Name": "On a Journey!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH1_MOTHER",
+      "SetID": "6d348d1",
+      "Name": "Mother\u0027s song",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH1_TRAIN",
+      "SetID": "6d348d1",
+      "Name": "A Kid\u0027s Toy",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH2_PLANE",
+      "SetID": "6d348d1",
+      "Name": "Winds of Change",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH2_SPIDER",
+      "SetID": "6d348d1",
+      "Name": "A Light in the Darkness",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH2_UNDERGROUND",
+      "SetID": "6d348d1",
+      "Name": "Secret Lair",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH3_FLOWER",
+      "SetID": "6d348d1",
+      "Name": "The Flower",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH3_OOPS",
+      "SetID": "6d348d1",
+      "Name": "Oops!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH3_PICTURE",
+      "SetID": "6d348d1",
+      "Name": "Vague Memories",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH4_CLOAKROOM",
+      "SetID": "6d348d1",
+      "Name": "The Last Drawing",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH4_ROOF",
+      "SetID": "6d348d1",
+      "Name": "The Pieces",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH4_SWING",
+      "SetID": "6d348d1",
+      "Name": "The Swing Set",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH5_SHADOW",
+      "SetID": "6d348d1",
+      "Name": "The Finale",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6d348d1",
@@ -37,8 +150,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-06-14T10:02:21.1345037+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:00:02.6187114+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6224343+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:57:03.1069318+00:00",
-  "LastUpdate_Achievements": "2023-06-14T10:02:21.134507+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:57:02.176478+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:00:02.6190056+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6230,
+  "EOS_Progressed": 6231,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2718,6 +2718,11 @@
       "Time": "2023-06-14T11:03:15.9577819+00:00",
       "NumProgressed": 6230,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T12:03:16.5042319+00:00",
+      "NumProgressed": 6231,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2745,7 +2750,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2921,7 +2926,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2977,7 +2982,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3025,7 +3030,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3057,7 +3062,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3088,7 +3093,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6230,
+      "Progressed": 6231,
       "Completed": 8
     }
   ],
@@ -3096,8 +3101,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:03:15.9577812+00:00",
+  "LastChanged_Achievements": "2023-06-14T12:03:16.5042314+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-14T10:57:25.6384664+00:00",
-  "LastUpdate_Achievements": "2023-06-14T11:03:15.9578348+00:00"
+  "LastUpdate_Ratings": "2023-06-14T11:57:24.1264802+00:00",
+  "LastUpdate_Achievements": "2023-06-14T12:03:16.5042789+00:00"
 }
