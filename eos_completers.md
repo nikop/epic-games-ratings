@@ -22,7 +22,7 @@
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 20 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
@@ -66,7 +66,7 @@
 | 64 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 65 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 68 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
 | 69 | [Iron Danger](games/i/iron_danger.md) | 1.97% |
 | 70 | [Frogun](games/f/frogun.md) | 1.94% |
