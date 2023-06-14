@@ -138,7 +138,7 @@
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 268 | 239 |
 | 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 485 | 189 |
 | 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 319 |
-| 134 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,660 | 49 |
+| 134 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,664 | 49 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 485 | 189 |
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 497 |
 | 134 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 414 |
@@ -469,7 +469,7 @@
 | 452 | [Observation](games/o/observation.md) | 4.56 | 0 | 497 |
 | 452 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,783 | 109 |
 | 452 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 497 |
-| 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 357 |
+| 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 77 | 356 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 395 |
 | 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,027 | 76 |
 | 473 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 497 |
@@ -607,6 +607,7 @@
 | 602 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 400 |
 | 602 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,365 | 81 |
 | 602 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 497 |
+| 602 | [Faeria](games/f/faeria.md) | 4.46 | 105 | 321 |
 | 602 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 320 |
 | 602 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 497 |
 | 602 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 497 |
@@ -616,19 +617,18 @@
 | 602 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 497 |
 | 602 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 278 | 235 |
 | 602 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 497 |
-| 617 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 233 | 249 |
-| 617 | [Faeria](games/f/faeria.md) | 4.45 | 105 | 321 |
-| 617 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 732 | 156 |
-| 617 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,536 | 34 |
-| 617 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 497 |
-| 617 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 497 |
-| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,888 | 77 |
-| 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 497 |
-| 617 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 467 |
-| 617 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 315 |
-| 617 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 497 |
-| 617 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 472 |
-| 617 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 0 | 497 |
+| 618 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 233 | 249 |
+| 618 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 732 | 156 |
+| 618 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,536 | 34 |
+| 618 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 497 |
+| 618 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 497 |
+| 618 | [SMITE](games/s/smite.md) | 4.45 | 3,888 | 77 |
+| 618 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 497 |
+| 618 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 467 |
+| 618 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 315 |
+| 618 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 497 |
+| 618 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 472 |
+| 618 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 0 | 497 |
 | 630 | [Chorus](games/c/chorus.md) | 4.44 | 32 | 443 |
 | 630 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 497 |
 | 630 | [ELEX](games/e/elex.md) | 4.44 | 24 | 472 |
@@ -775,8 +775,8 @@
 | 771 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
 | 771 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
 | 771 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,413,549 | 1 |
-| 771 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,637 | 79 |
-| 771 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 685 | 161 |
+| 771 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,640 | 79 |
+| 771 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 688 | 161 |
 | 771 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 412 |
 | 771 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 297 |
 | 771 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 497 |
@@ -831,7 +831,7 @@
 | 826 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 497 |
 | 826 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 479 |
 | 826 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 497 |
-| 826 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 357 |
+| 826 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 358 |
 | 826 | [Men of War](games/m/men_of_war.md) | 4.20 | 0 | 497 |
 | 826 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 497 |
 | 826 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 497 |

@@ -12,7 +12,7 @@
 | 10 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.99% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.27% |
 | 16 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.70% |
@@ -22,7 +22,7 @@
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.51% |
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
@@ -33,10 +33,10 @@
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
-| 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.88% |
+| 37 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.87% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
@@ -67,7 +67,7 @@
 | 65 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
-| 68 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
+| 68 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.04% |
 | 69 | [Iron Danger](games/i/iron_danger.md) | 1.96% |
 | 70 | [Frogun](games/f/frogun.md) | 1.94% |
 | 71 | [JARS](games/j/jars.md) | 1.85% |
@@ -84,8 +84,8 @@
 | 82 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.22% |
-| 85 | [Ten Dates](games/t/ten_dates.md) | 1.21% |
-| 86 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
+| 85 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
+| 85 | [Ten Dates](games/t/ten_dates.md) | 1.20% |
 | 87 | [Trifox](games/t/trifox.md) | 1.15% |
 | 88 | [Chorus](games/c/chorus.md) | 1.13% |
 | 89 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
@@ -130,11 +130,11 @@
 | 128 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 128 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 130 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 131 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 131 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 131 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 131 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 134 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 134 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 135 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 136 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 138 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
