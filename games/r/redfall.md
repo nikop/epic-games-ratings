@@ -5,7 +5,7 @@ Rating: 3.46 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 75.00% | ~1,261 |
+| I Like My Stakes Rare! | 75.00% | ~1,262 |
 | Home Is Where the Heart Is | 59.00% | ~992 |
 | Ne Plus Ultra | 59.00% | ~992 |
 | Wounded Whispers | 59.00% | ~992 |
@@ -14,20 +14,20 @@ Rating: 3.46 (Ranked 939)
 | Catch and Release | 43.00% | ~723 |
 | Peek-a-boo | 42.00% | ~706 |
 | Sucks To Be You | 42.00% | ~706 |
-| Welcome to the Neighborhood | 36.00% | ~605 |
+| Welcome to the Neighborhood | 36.00% | ~606 |
 | Fly Fisher | 34.00% | ~572 |
 | Throw The First Stone | 33.00% | ~555 |
 | Enter of Your Own Free Will | 31.00% | ~521 |
 | Heart Attack | 31.00% | ~521 |
-| Skin of Their Teeth | 30.00% | ~504 |
+| Skin of Their Teeth | 30.00% | ~505 |
 | Grounded | 23.00% | ~387 |
 | Bad Wiring | 20.00% | ~336 |
-| I Spit On Your Grave | 19.00% | ~319 |
+| I Spit On Your Grave | 19.00% | ~320 |
 | Neighborhood Revitalization | 15.00% | ~252 |
 | Radio Silence | 15.00% | ~252 |
 | Helping Hand | 12.00% | ~202 |
 | You Clean It Up | 11.00% | ~185 |
-| Starve the Beast | 8.00% | ~134 |
+| Starve the Beast | 8.00% | ~135 |
 | Block Party | 7.00% | ~118 |
 | From the Shadows | 5.00% | ~84 |
 | Bell-ringer | 4.00% | ~67 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 939)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,681 (Ranked 157)  
+Progressed: 1,682 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 1,675 | 0 |
 | 2023-06-12 | 1,679 | 0 |
 | 2023-06-13 | 1,681 | 0 |
+| 2023-06-14 | 1,682 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

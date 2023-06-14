@@ -4220,10 +4220,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30095,
       "NumberOfAwardsMax": 4937
+    },
+    {
+      "Time": "2023-06-14T04:57:50.2174663+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30096,
+      "NumberOfAwardsMax": 4937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30095,
+  "NumberOfAwards": 30096,
   "NumberOfAwardsMax": 4937,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4249,7 +4255,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4512
+      "Count": 4513
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4270,9 +4276,9 @@
       "Count": 3250
     }
   ],
-  "EOS_Progressed": 90665,
+  "EOS_Progressed": 90669,
   "EOS_Completed": 1931,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9865,6 +9871,11 @@
       "Time": "2023-06-14T04:05:59.0200906+00:00",
       "NumProgressed": 90665,
       "NumCompleted": 1931
+    },
+    {
+      "Time": "2023-06-14T05:05:43.0328993+00:00",
+      "NumProgressed": 90669,
+      "NumCompleted": 1931
     }
   ],
   "TotalAchievements": 493,
@@ -11146,9 +11157,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_completed_181",
@@ -11362,9 +11373,9 @@
       "ID": "objective_completed_247",
       "SetID": "cc37lbc",
       "Name": "Hold for the Red Wizards",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_completed_248",
@@ -12114,9 +12125,9 @@
       "ID": "objective_completed_552",
       "SetID": "cc37lbc",
       "Name": "Feigned Weakness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_553",
@@ -12170,9 +12181,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_completed_561",
@@ -13819,21 +13830,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56939,
+      "Progressed": 56943,
       "Completed": 2791
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90665,
+      "Progressed": 90669,
       "Completed": 1931
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-13T23:58:47.0683435+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:59.02009+00:00",
+  "LastChanged": "2023-06-14T04:57:50.2174661+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:43.0328989+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:58:14.4125195+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:59.0228635+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:57:50.2174668+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:43.0350377+00:00"
 }

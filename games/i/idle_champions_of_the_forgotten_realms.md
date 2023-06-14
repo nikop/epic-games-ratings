@@ -176,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.20% | ~181 |
 | The Newcomers of Notoriety | 0.20% | ~114 |
 | A Grand Puzzle | 0.20% | ~181 |
-| Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
@@ -194,7 +193,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.20% | ~181 |
 | Domesticated Owlbears | 0.20% | ~181 |
 | The Immortal Warrior | 0.20% | ~181 |
-| Hold for the Red Wizards | 0.20% | ~181 |
 | The Wyrmheart Mine | 0.20% | ~181 |
 | Tower on the Lake | 0.20% | ~181 |
 | Only the Strong Survive | 0.20% | ~181 |
@@ -233,9 +231,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sneak Attack | 0.20% | ~114 |
 | Lair of the Xanathar | 0.20% | ~181 |
 | Dreams of Beholders | 0.20% | ~181 |
+| Feigned Weakness | 0.20% | ~181 |
 | Waterdeep Under Siege | 0.20% | ~181 |
 | Crowded Streets | 0.20% | ~181 |
-| The Sunless Citadel | 0.20% | ~181 |
 | Patience is Key | 0.20% | ~181 |
 | The Darkness Runs Deeper | 0.20% | ~181 |
 | Troublesome Prisoner | 0.20% | ~181 |
@@ -374,10 +372,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~57 |
 | Fall From Grace | 0.10% | ~91 |
 | Underground Railroad | 0.10% | ~91 |
+| Never Split the Party | 0.10% | ~91 |
 | Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
 | This Quest Stinks! | 0.10% | ~57 |
+| Hold for the Red Wizards | 0.10% | ~91 |
 | Form Ranks | 0.10% | ~91 |
 | Drop of Time | 0.10% | ~57 |
 | They Who Smelt It | 0.10% | ~91 |
@@ -417,11 +417,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Friend | 0.10% | ~57 |
 | A Tale of Two Champions | 0.10% | ~91 |
 | A Tale of Two Years | 0.10% | ~57 |
-| Feigned Weakness | 0.10% | ~91 |
 | DPS in the Deeps | 0.10% | ~57 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~91 |
 | Sober Up | 0.10% | ~91 |
 | In The Beginning | 0.10% | ~57 |
+| The Sunless Citadel | 0.10% | ~91 |
 | Veteran Brigade | 0.10% | ~91 |
 | Social Grace | 0.10% | ~57 |
 | Evergreens with an Evergreen | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,665 (Ranked 64)  
+Progressed: 90,669 (Ranked 64)  
 Completed: 1,931 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,17 +555,17 @@ Completed: 1,931 (2.13%) (Ranked 66)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,665 | 1,931 |
+| 2023-06-14 | 90,669 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
-Sum: 30,095 (Ranked 37)  
+Sum: 30,096 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,937 |
 | This game is Great for Beginners | 4,867 |
 | This game has Quickly Understood Controls | 4,615 |
-| This game is Relaxing | 4,512 |
+| This game is Relaxing | 4,513 |
 | This game is Highly Recommended | 3,960 |
 | This game has Amazing Characters | 3,954 |
 | This game has Playful Visuals | 3,250 |
@@ -711,3 +711,4 @@ Diff (max vs sum): 27
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
 | 2023-06-13 | 4.06 | - | 4,937 | 30,095 |
+| 2023-06-14 | 4.06 | - | 4,937 | 30,096 |

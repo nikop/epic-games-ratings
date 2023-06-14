@@ -620,9 +620,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15221,
+  "EOS_Progressed": 15223,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3810,6 +3810,11 @@
       "Time": "2023-06-14T04:04:12.1588671+00:00",
       "NumProgressed": 15221,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T05:03:51.8919514+00:00",
+      "NumProgressed": 15223,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3837,7 +3842,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3925,7 +3930,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3997,7 +4002,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4029,7 +4034,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "STORY_HANGAR",
@@ -4140,13 +4145,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15221,
+      "Progressed": 15223,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3147,
+      "Progressed": 3149,
       "Completed": 29
     }
   ],
@@ -4154,8 +4159,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:04:12.1588666+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:03:51.891951+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:58:06.1283041+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:04:12.1589164+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:57:41.8389588+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:03:51.8919906+00:00"
 }

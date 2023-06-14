@@ -11,7 +11,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Seeker of Power | 85.00% | ~66,832 |
 | Hopes and Dreams | 82.00% | ~64,473 |
 | Lantern Smasher | 78.00% | ~61,328 |
-| The Pirate's Way | 73.00% | ~57,397 |
+| The Pirate's Way | 74.00% | ~58,183 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~55,824 |
 | The King of the Dark Elves | 68.00% | ~53,466 |
 | Memories of the Distant Past | 66.00% | ~51,893 |

@@ -6,25 +6,25 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 71.00% | ~2,614 |
-| Having A Field Day | 70.00% | ~2,577 |
+| Get A Room | 71.00% | ~2,615 |
+| Having A Field Day | 70.00% | ~2,578 |
 | Reap What You Sow | 68.00% | ~2,504 |
-| Green Thumb | 64.00% | ~2,356 |
-| The First Day | 64.00% | ~2,356 |
-| Novice Researcher | 61.00% | ~2,246 |
+| Green Thumb | 64.00% | ~2,357 |
+| The First Day | 64.00% | ~2,357 |
+| Novice Researcher | 61.00% | ~2,247 |
 | Putting Food on the Table | 58.00% | ~2,136 |
-| Onward | 53.00% | ~1,951 |
-| Home Cooked Meal | 50.00% | ~1,841 |
-| The First Week | 50.00% | ~1,841 |
-| Studious Researcher | 49.00% | ~1,804 |
-| Feast or Famine | 48.00% | ~1,767 |
+| Onward | 53.00% | ~1,952 |
+| Home Cooked Meal | 50.00% | ~1,842 |
+| The First Week | 50.00% | ~1,842 |
+| Studious Researcher | 49.00% | ~1,805 |
+| Feast or Famine | 48.00% | ~1,768 |
 | Beam Me Up | 47.00% | ~1,731 |
-| Adept Researcher | 43.00% | ~1,583 |
-| Retribution | 37.00% | ~1,362 |
-| ...And Don’t Come Back! | 37.00% | ~1,362 |
+| Adept Researcher | 43.00% | ~1,584 |
+| Retribution | 37.00% | ~1,363 |
 | Fit For A King | 36.00% | ~1,326 |
+| ...And Don’t Come Back! | 36.00% | ~1,326 |
 | Luminary Researcher | 35.00% | ~1,289 |
-| Heating Up | 25.00% | ~920 |
+| Heating Up | 25.00% | ~921 |
 | Winter Is Coming | 22.00% | ~810 |
 | Winter Is Here | 19.00% | ~700 |
 | A Party Now | 17.00% | ~626 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~74 |
 | Wabbit Season | 0.80% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,682 (Ranked 134)  
+Progressed: 3,683 (Ranked 134)  
 Completed: 8 (0.22%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 8 (0.22%) (Ranked 148)
 | 2023-06-11 | 3,594 | 7 |
 | 2023-06-12 | 3,637 | 7 |
 | 2023-06-13 | 3,674 | 8 |
-| 2023-06-14 | 3,682 | 8 |
+| 2023-06-14 | 3,683 | 8 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
 Sum: 948 (Ranked 235)  

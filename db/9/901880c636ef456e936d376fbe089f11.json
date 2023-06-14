@@ -222,9 +222,9 @@
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -454,9 +454,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -468,8 +468,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:03:10.0787897+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:02:18.3173032+00:00",
   "LastUpdate_AppInfo": "2023-06-13T03:56:54.9905852+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:57:18.1248001+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:03:10.0788347+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:56:54.4785438+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:02:18.3173388+00:00"
 }

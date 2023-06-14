@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-06-13T14:05:39.7468993+00:00",
       "NumProgressed": 492,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-14T05:05:28.4684844+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -289,9 +294,9 @@
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 419
     },
     {
       "ID": "deadly_secret",
@@ -315,7 +320,7 @@
       "Name": "Second Chances",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ending_3",
@@ -345,9 +350,9 @@
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "ending_7",
@@ -371,7 +376,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "free_champagne",
@@ -379,7 +384,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "kamikaze",
@@ -395,7 +400,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "not_a_people_person",
@@ -419,7 +424,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -427,7 +432,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "tough_decision",
@@ -442,7 +447,7 @@
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 16
     }
   ],
@@ -450,8 +455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:45.4014957+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:28.4684839+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:57:32.0460224+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:45.4015097+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:57:08.3300341+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:28.4684977+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10125,
+  "EOS_Progressed": 10126,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-06-14T03:05:41.3484891+00:00",
       "NumProgressed": 10125,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-14T05:05:14.1607227+00:00",
+      "NumProgressed": 10126,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -947,7 +952,7 @@
       "Name": "if everything seems under control, you\u0027re not going fast enough",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_20_RALLIES",
@@ -1035,7 +1040,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1059,7 +1064,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1091,7 +1096,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1107,7 +1112,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7796
+      "UsersEstimate": 7797
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1155,7 +1160,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1171,7 +1176,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9720
+      "UsersEstimate": 9721
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1267,7 +1272,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1275,7 +1280,7 @@
       "Name": "real roads, real fast",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_WIN_SEASON",
@@ -1283,22 +1288,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7290
+      "UsersEstimate": 7291
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10125,
+      "Progressed": 10126,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:31.6197912+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:14.1607224+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:57:42.5503015+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:31.6198276+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:57:19.0301302+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:14.1607492+00:00"
 }

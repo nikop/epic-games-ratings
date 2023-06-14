@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1681,
+  "EOS_Progressed": 1682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1862,6 +1862,11 @@
       "Time": "2023-06-13T19:01:45.8133185+00:00",
       "NumProgressed": 1681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T05:00:19.4602925+00:00",
+      "NumProgressed": 1682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1937,7 +1942,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Achievement_011",
@@ -2009,7 +2014,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Achievement_020",
@@ -2193,7 +2198,7 @@
       "Name": "Starve the Beast",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Achievement_044",
@@ -2209,7 +2214,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_046",
@@ -2393,14 +2398,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1681,
+      "Progressed": 1682,
       "Completed": 0
     }
   ],
@@ -2408,8 +2413,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:00:40.2810379+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:00:19.460292+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:58:03.53712+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:00:40.2811218+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:57:39.259376+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:00:19.4603548+00:00"
 }

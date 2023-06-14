@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224642,
+  "EOS_Progressed": 224643,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5788,6 +5788,11 @@
       "Time": "2023-06-14T04:05:27.9514356+00:00",
       "NumProgressed": 224642,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-14T05:05:10.1152172+00:00",
+      "NumProgressed": 224643,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5799,7 +5804,7 @@
       "Name": "ACE",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "BETTERTHANEVER",
@@ -5887,7 +5892,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44928
+      "UsersEstimate": 44929
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -5935,7 +5940,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71885
+      "UsersEstimate": 71886
     },
     {
       "ID": "NOBUNAGA",
@@ -6063,22 +6068,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92103
+      "UsersEstimate": 92104
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224642,
+      "Progressed": 224643,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:27.951435+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:10.1152165+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.7588472+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:58:24.9437081+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:27.9514914+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:58:01.0291942+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:10.1152638+00:00"
 }

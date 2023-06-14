@@ -1532,9 +1532,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64927,
+  "EOS_Progressed": 64934,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6247,6 +6247,11 @@
       "Time": "2023-06-14T04:05:52.1754897+00:00",
       "NumProgressed": 64927,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-14T05:05:36.3524227+00:00",
+      "NumProgressed": 64934,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6402,7 +6407,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6458,7 +6463,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -6602,7 +6607,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6745,13 +6750,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64927,
+      "Progressed": 64934,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35207,
+      "Progressed": 35214,
       "Completed": 2646
     }
   ],
@@ -6759,8 +6764,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-13T19:00:41.4326976+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:52.1754893+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:36.3524222+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:59:36.450939+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:52.1756009+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:59:12.8945617+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:36.3524897+00:00"
 }

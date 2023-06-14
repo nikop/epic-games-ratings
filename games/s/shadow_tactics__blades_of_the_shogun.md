@@ -7,7 +7,7 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~17,685 |
-| Thorough | 9.00% | ~15,916 |
+| Thorough | 9.00% | ~15,917 |
 | A thief's beginning | 8.00% | ~14,148 |
 | Disguised | 7.00% | ~12,380 |
 | Rollin' | 7.00% | ~12,380 |
@@ -16,12 +16,12 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 6.00% | ~10,611 |
 | Stoned Ox | 6.00% | ~10,611 |
 | Yabu | 6.00% | ~10,611 |
-| Chunin | 5.00% | ~8,842 |
-| Flying Rocks | 5.00% | ~8,842 |
-| Happy Planning | 5.00% | ~8,842 |
-| Ice Ice Yuki | 5.00% | ~8,842 |
-| Mugen Unchained | 5.00% | ~8,842 |
-| Warzone | 5.00% | ~8,842 |
+| Chunin | 5.00% | ~8,843 |
+| Flying Rocks | 5.00% | ~8,843 |
+| Happy Planning | 5.00% | ~8,843 |
+| Ice Ice Yuki | 5.00% | ~8,843 |
+| Mugen Unchained | 5.00% | ~8,843 |
+| Warzone | 5.00% | ~8,843 |
 | Okkoto | 4.00% | ~7,074 |
 | Prisoners | 4.00% | ~7,074 |
 | Too Early | 4.00% | ~7,074 |
@@ -35,9 +35,9 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 2.00% | ~3,537 |
 | The Old Way | 2.00% | ~3,537 |
 | Winner Winner | 2.00% | ~3,537 |
-| Meticulous | 1.00% | ~1,768 |
-| No Gimmicks | 1.00% | ~1,768 |
-| The End | 1.00% | ~1,768 |
+| Meticulous | 1.00% | ~1,769 |
+| No Gimmicks | 1.00% | ~1,769 |
+| The End | 1.00% | ~1,769 |
 | Undeserved Honor | 0.90% | ~1,592 |
 | When Cut Across the Neck | 0.80% | ~1,415 |
 | High Five the Moon | 0.70% | ~1,238 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~177 |
 | Release the Kraken | 0.10% | ~177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,850 (Ranked 56)  
+Progressed: 176,854 (Ranked 56)  
 Completed: 52 (0.03%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 52 (0.03%) (Ranked 196)
 | 2023-06-11 | 176,276 | 52 |
 | 2023-06-12 | 176,549 | 52 |
 | 2023-06-13 | 176,809 | 52 |
-| 2023-06-14 | 176,850 | 52 |
+| 2023-06-14 | 176,854 | 52 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 180)  
 Sum: 4,683 (Ranked 127)  

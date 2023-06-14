@@ -32,8 +32,8 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 21.00% | ~1,352 |
 | War Never Changes | 19.00% | ~1,223 |
 | Rocket Surgeon | 19.00% | ~1,223 |
+| Big Game Hunter | 17.00% | ~1,095 |
 | Friendly | 16.00% | ~1,030 |
-| Big Game Hunter | 16.00% | ~1,030 |
 | Spreading Influence | 16.00% | ~1,030 |
 | Around the World | 15.00% | ~966 |
 | Bookworm | 14.00% | ~901 |

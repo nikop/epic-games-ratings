@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2811,
+  "EOS_Progressed": 2812,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-06-14T03:05:54.9348895+00:00",
       "NumProgressed": 2811,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T05:05:27.8083068+00:00",
+      "NumProgressed": 2812,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3579,7 +3584,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3723,7 +3728,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3867,7 +3872,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4066,13 +4071,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2762,
+      "Progressed": 2763,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2811,
+      "Progressed": 2812,
       "Completed": 2
     }
   ],
@@ -4080,8 +4085,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:44.7047491+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:27.8083064+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:00:13.1417351+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:44.7049332+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:59:50.7790565+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:27.8083734+00:00"
 }

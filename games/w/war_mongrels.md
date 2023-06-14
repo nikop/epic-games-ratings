@@ -11,8 +11,8 @@ Number of Ratings: 34  (23.09.2022)
 | NO LIFE IS WORTH SAVING... | 47.00% | ~166 |
 | Eat Lead! | 44.00% | ~156 |
 | Prospector | 41.00% | ~145 |
+| The Breaking Point | 41.00% | ~145 |
 | Here Comes the Boom | 41.00% | ~145 |
-| The Breaking Point | 40.00% | ~142 |
 | Treasure Hunter | 38.00% | ~135 |
 | The Motivation | 35.00% | ~124 |
 | Sniper Wolf | 35.00% | ~124 |
@@ -25,7 +25,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Horror | 25.00% | ~88 |
 | Collectibles of Chapter II | 22.00% | ~78 |
 | The Difference | 22.00% | ~78 |
-| It's Just an Accident | 21.00% | ~74 |
+| It's Just an Accident | 22.00% | ~78 |
 | Vengeance | 20.00% | ~71 |
 | Broken Hopes | 18.00% | ~64 |
 | Food Massacre | 18.00% | ~64 |

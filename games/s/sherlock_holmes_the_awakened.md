@@ -25,7 +25,7 @@
 | Up In Flames | 36.00% | ~161 |
 | Fhtagn! | 36.00% | ~161 |
 | Going Once... | 35.00% | ~157 |
-| Let Me Be Frank | 33.00% | ~148 |
+| Let Me Be Frank | 34.00% | ~152 |
 | Brain Food | 32.00% | ~143 |
 | No Stone Unturned | 30.00% | ~134 |
 | Curiosity Killed The Cat | 21.00% | ~94 |

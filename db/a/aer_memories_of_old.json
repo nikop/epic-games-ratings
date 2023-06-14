@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12346,
+  "EOS_Progressed": 12352,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -5894,6 +5894,11 @@
       "Time": "2023-06-14T04:05:39.6964276+00:00",
       "NumProgressed": 12346,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-06-14T05:05:22.4934528+00:00",
+      "NumProgressed": 12352,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 20,
@@ -5905,7 +5910,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -5921,7 +5926,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -5929,7 +5934,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -5969,7 +5974,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "FOUND_ERIN",
@@ -5977,7 +5982,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -6001,7 +6006,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6009,7 +6014,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "GAME_FINISHED",
@@ -6017,7 +6022,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6025,7 +6030,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9383
+      "UsersEstimate": 9388
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6033,7 +6038,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3459
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6041,7 +6046,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6049,7 +6054,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "WEST_FINISHED",
@@ -6057,22 +6062,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12346,
+      "Progressed": 12352,
       "Completed": 260
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:39.6964273+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:22.4934524+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:59:55.1209782+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:39.6964761+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:59:32.2994677+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:22.4934857+00:00"
 }

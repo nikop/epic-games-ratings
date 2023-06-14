@@ -11,16 +11,16 @@
 | The Steel Shadow | 8.00% | ~54 |
 | The Mysterious Stranger | 8.00% | ~54 |
 | Make Up For Lost Time | 8.00% | ~54 |
+| No, Thanks! | 8.00% | ~54 |
+| Breaking Down Barriers | 8.00% | ~54 |
 | The Prince in Heels | 8.00% | ~54 |
+| Immaculate Aim | 8.00% | ~54 |
 | Immaculate Aim | 8.00% | ~54 |
 | The Man Who Shattered Time | 7.00% | ~47 |
 | Time Flies | 7.00% | ~47 |
 | The Harder They Fall | 7.00% | ~47 |
-| No, Thanks! | 7.00% | ~47 |
-| Breaking Down Barriers | 7.00% | ~47 |
 | The Wicked Twins | 7.00% | ~47 |
 | Honest Mistake | 7.00% | ~47 |
-| Immaculate Aim | 7.00% | ~47 |
 | The Brass Boss | 7.00% | ~47 |
 | Right On Time | 6.00% | ~41 |
 | Like Clockwork | 6.00% | ~41 |

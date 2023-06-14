@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~184 |
+| Self Defense | 43.00% | ~188 |
 | Grand Opening | 38.00% | ~166 |
 | Circus Electrique Proudly Presents... | 38.00% | ~166 |
 | Path of Learning | 38.00% | ~166 |

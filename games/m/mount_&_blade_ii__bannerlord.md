@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,115 |
-| Landlord | 30.00% | ~15,929 |
-| Bannerlord | 21.00% | ~11,150 |
-| Horde breaker | 21.00% | ~11,150 |
-| Lawmaker | 21.00% | ~11,150 |
-| Trained | 20.00% | ~10,619 |
-| The king is pleased | 17.00% | ~9,026 |
+| Lawbringer | 36.00% | ~19,117 |
+| Landlord | 30.00% | ~15,931 |
+| Bannerlord | 21.00% | ~11,151 |
+| Horde breaker | 21.00% | ~11,151 |
+| Lawmaker | 21.00% | ~11,151 |
+| Trained | 20.00% | ~10,620 |
+| The king is pleased | 17.00% | ~9,027 |
 | King Solomon | 16.00% | ~8,496 |
 | I can do it | 15.00% | ~7,965 |
 | Apple of my eye | 14.00% | ~7,434 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~425 |
 | Crackshot | 0.70% | ~372 |
 | Fat Cat | 0.60% | ~319 |
-| Catch | 0.50% | ~265 |
+| Catch | 0.50% | ~266 |
 | Slice 'n dice | 0.40% | ~212 |
 | Mounted Archery | 0.30% | ~159 |
 | Ride it like you stole it | 0.30% | ~159 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,097 (Ranked 79)  
+Progressed: 53,102 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 52,899 | 0 |
 | 2023-06-12 | 53,008 | 0 |
 | 2023-06-13 | 53,091 | 0 |
-| 2023-06-14 | 53,097 | 0 |
+| 2023-06-14 | 53,102 | 0 |
 ## Awards
 Max (Character Customization): 6,660  (Ranked 49)  
 Sum: 13,386 (Ranked 68)  

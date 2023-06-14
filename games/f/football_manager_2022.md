@@ -6,19 +6,19 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~231,731 |
-| First Victory | 50.00% | ~231,731 |
-| Clean Sheet | 49.00% | ~227,096 |
-| He's Sold! | 47.00% | ~217,827 |
-| I'm The Boss! | 41.00% | ~190,019 |
-| Hat-trick | 41.00% | ~190,019 |
+| He's Signed! | 50.00% | ~231,732 |
+| First Victory | 50.00% | ~231,732 |
+| Clean Sheet | 49.00% | ~227,097 |
+| He's Sold! | 47.00% | ~217,828 |
+| I'm The Boss! | 41.00% | ~190,020 |
+| Hat-trick | 41.00% | ~190,020 |
 | Thumping | 37.00% | ~171,481 |
 | Scoring Streak | 37.00% | ~171,481 |
-| Unbeatable! | 36.00% | ~166,846 |
+| Unbeatable! | 36.00% | ~166,847 |
 | Superb Dressing Room Atmosphere | 35.00% | ~162,212 |
 | Total Support | 32.00% | ~148,308 |
-| Record Signing | 31.00% | ~143,673 |
-| Millionaire's Club | 31.00% | ~143,673 |
+| Record Signing | 31.00% | ~143,674 |
+| Millionaire's Club | 31.00% | ~143,674 |
 | Team Performance | 30.00% | ~139,039 |
 | He's a Natural | 30.00% | ~139,039 |
 | Parked The Bus | 29.00% | ~134,404 |
@@ -52,7 +52,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~64,885 |
 | Window Shopping | 14.00% | ~64,885 |
 | Comeback King! | 13.00% | ~60,250 |
-| You're Up! | 12.00% | ~55,615 |
+| You're Up! | 12.00% | ~55,616 |
 | Money, Money, Money | 11.00% | ~50,981 |
 | Invincible! | 10.00% | ~46,346 |
 | Best In The World | 10.00% | ~46,346 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~463 |
 | Shoestring Budget | 0.10% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,462 (Ranked 33)  
+Progressed: 463,463 (Ranked 33)  
 Completed: 18 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 18 (0.00%) (Ranked 222)
 | 2023-06-11 | 463,210 | 18 |
 | 2023-06-12 | 463,334 | 18 |
 | 2023-06-13 | 463,448 | 18 |
-| 2023-06-14 | 463,462 | 18 |
+| 2023-06-14 | 463,463 | 18 |
 ## Awards
 Max (Relaxing): 6,305  (Ranked 51)  
-Sum: 49,709 (Ranked 24)  
+Sum: 49,713 (Ranked 24)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -174,7 +174,7 @@ Diff (max vs sum): 27
 | This game is Highly Recommended | 5,721 |
 | This game is Educational | 5,720 |
 | This game has Diverse Characters | 5,336 |
-| This game has Amazing Storytelling | 4,833 |
+| This game has Amazing Storytelling | 4,837 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,310 |
 | This game has a Creative Community | 1,495 |
@@ -320,3 +320,4 @@ Diff (max vs sum): 27
 | 2023-06-11 | 4.80 | - | 6,303 | 49,686 |
 | 2023-06-12 | 4.80 | - | 6,305 | 49,700 |
 | 2023-06-13 | 4.80 | - | 6,305 | 49,709 |
+| 2023-06-14 | 4.80 | - | 6,305 | 49,713 |

@@ -242,9 +242,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 415393,
+  "EOS_Progressed": 415403,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 2502,
+  "EOS_NewPlayers": 2503,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5957,6 +5957,11 @@
       "Time": "2023-06-14T04:03:14.7768078+00:00",
       "NumProgressed": 415393,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-14T05:02:23.0191288+00:00",
+      "NumProgressed": 415403,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 52,
@@ -5976,7 +5981,7 @@
       "Name": "100 KILLS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 49847
+      "UsersEstimate": 49848
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -5990,9 +5995,9 @@
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
       "SetID": "1pi2inm",
       "Name": "50 HEADSHOTS",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 45693
+      "UsersEstimate": 49848
     },
     {
       "ID": "BIGUPS",
@@ -6032,7 +6037,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37385
+      "UsersEstimate": 37386
     },
     {
       "ID": "CHAPTER2",
@@ -6344,7 +6349,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37385
+      "UsersEstimate": 37386
     },
     {
       "ID": "SOUL",
@@ -6383,7 +6388,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 415393,
+      "Progressed": 415403,
       "Completed": 34
     }
   ],
@@ -6391,8 +6396,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-06T18:59:44.6369603+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:03:14.7768071+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:02:23.0191284+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:56.3588144+00:00",
-  "LastUpdate_Ratings": "2023-06-14T03:59:25.2312898+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:03:14.7769982+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:59:01.7474329+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:02:23.0191884+00:00"
 }

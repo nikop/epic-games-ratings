@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15240,
+  "EOS_Progressed": 15241,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -4671,6 +4671,11 @@
       "Time": "2023-06-14T04:05:36.6767765+00:00",
       "NumProgressed": 15240,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-14T05:05:19.3323375+00:00",
+      "NumProgressed": 15241,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 14,
@@ -4722,7 +4727,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -4738,7 +4743,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -4793,15 +4798,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15240,
+      "Progressed": 15241,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-14T04:05:36.676776+00:00",
+  "LastChanged_Achievements": "2023-06-14T05:05:19.332337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.9695913+00:00",
-  "LastUpdate_Ratings": "2023-06-14T04:00:06.1185795+00:00",
-  "LastUpdate_Achievements": "2023-06-14T04:05:36.6768122+00:00"
+  "LastUpdate_Ratings": "2023-06-14T04:59:43.93125+00:00",
+  "LastUpdate_Achievements": "2023-06-14T05:05:19.3323665+00:00"
 }

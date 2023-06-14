@@ -5,10 +5,10 @@ Rating: 4.68 (Ranked 239)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 12.00% | ~49,847 |
-| 50 HEADSHOTS | 11.00% | ~45,693 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,385 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,385 |
+| 100 KILLS | 12.00% | ~49,848 |
+| 50 HEADSHOTS | 12.00% | ~49,848 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,386 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,386 |
 | 200 HEADSHOTS | 7.00% | ~29,078 |
 | FINISHED CHAPTER 2 | 6.00% | ~24,924 |
 | FINISHED CHAPTER 3 | 6.00% | ~24,924 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~415 |
 | WARRIOR IN A GARDEN | 0.10% | ~415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,393 (Ranked 37)  
+Progressed: 415,403 (Ranked 37)  
 Completed: 34 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 34 (0.01%) (Ranked 210)
 | 2023-06-11 | 414,703 | 33 |
 | 2023-06-12 | 415,037 | 33 |
 | 2023-06-13 | 415,338 | 34 |
-| 2023-06-14 | 415,393 | 34 |
+| 2023-06-14 | 415,403 | 34 |
 ## Awards
 Max (Great Boss Battles): 176  (Ranked 274)  
 Sum: 176 (Ranked 367)  
