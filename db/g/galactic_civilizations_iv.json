@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5937,
+  "EOS_Progressed": 5938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3168,6 +3168,11 @@
       "Time": "2023-06-14T12:04:07.3526989+00:00",
       "NumProgressed": 5937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T17:04:17.0668344+00:00",
+      "NumProgressed": 5938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3211,7 +3216,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -3219,7 +3224,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "Control_All_Relics",
@@ -3243,7 +3248,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3283,7 +3288,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "First_Race_Met",
@@ -3291,7 +3296,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "First_Ship_Designed",
@@ -3315,7 +3320,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4631
+      "UsersEstimate": 4632
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3499,7 +3504,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3651,7 +3656,7 @@
       "Name": "Win as Xeloxi",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Win_As_Yor",
@@ -3683,7 +3688,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Win_CustomFaction",
@@ -3707,7 +3712,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Win_Influence",
@@ -3754,15 +3759,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5937,
+      "Progressed": 5938,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:04:32.9444902+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:04:17.0668337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.1944197+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:57:38.8359433+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:04:32.9445681+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:57:43.3015635+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:04:17.0669288+00:00"
 }

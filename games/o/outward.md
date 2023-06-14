@@ -6,11 +6,11 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,184 |
+| Venture Outward | 75.00% | ~2,185 |
 | Ready for Winter | 64.00% | ~1,864 |
-| Ready for Summer | 51.00% | ~1,485 |
-| Cordon Bleu | 43.00% | ~1,252 |
-| Tapped! | 36.00% | ~1,048 |
+| Ready for Summer | 51.00% | ~1,486 |
+| Cordon Bleu | 43.00% | ~1,253 |
+| Tapped! | 36.00% | ~1,049 |
 | Eureka | 31.00% | ~903 |
 | Scourge Slayer | 25.00% | ~728 |
 | Science, Troglodyte! | 23.00% | ~670 |
@@ -20,7 +20,7 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 16.00% | ~466 |
 | The Power of Family | 16.00% | ~466 |
 | Apex Predator | 15.00% | ~437 |
-| The Power of Faith | 12.00% | ~349 |
+| The Power of Faith | 12.00% | ~350 |
 | Strange amalgams | 11.00% | ~320 |
 | The Power of Freedom | 9.00% | ~262 |
 | Ace Detective | 8.00% | ~233 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Hold my Mead and Watch This | 6.00% | ~175 |
 | The stuff of legends. | 6.00% | ~175 |
 | Blood and justice | 5.00% | ~146 |
-| Ancestor's Pride | 4.00% | ~116 |
-| For All Aurai | 4.00% | ~116 |
-| Memory of a legend | 4.00% | ~116 |
+| Ancestor's Pride | 4.00% | ~117 |
+| For All Aurai | 4.00% | ~117 |
+| Memory of a legend | 4.00% | ~117 |
 | Light of Levant | 3.00% | ~87 |
 | This was a mistake... | 3.00% | ~87 |
 | Crowd Pleaser. | 2.00% | ~58 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,912 (Ranked 142)  
+Progressed: 2,913 (Ranked 142)  
 Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-11 | 2,876 | 1 |
 | 2023-06-12 | 2,890 | 1 |
 | 2023-06-13 | 2,902 | 1 |
-| 2023-06-14 | 2,912 | 1 |
+| 2023-06-14 | 2,913 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 450)  
 Sum: 238 (Ranked 347)  

@@ -7,7 +7,7 @@
 | Once Upon a Time | 96.00% | ~957 |
 | Waff! | 94.00% | ~937 |
 | Into the Barn | 86.00% | ~857 |
-| A Prophecy | 84.00% | ~837 |
+| A Prophecy | 85.00% | ~847 |
 | Sword, Shield, Fight! | 75.00% | ~748 |
 | A Grand Visit | 71.00% | ~708 |
 | Fun Guy | 62.00% | ~618 |
@@ -51,7 +51,7 @@
 | Flower Power | 26.00% | ~259 |
 | Shopping Spree! | 24.00% | ~239 |
 | Crowned | 22.00% | ~219 |
-| Max Level! | 14.00% | ~140 |
+| Max Level! | 15.00% | ~150 |
 | Dance Master | 9.00% | ~90 |
 | Bombs Away! | 8.00% | ~80 |
 ## Popularity (Based on EOS Achievements)

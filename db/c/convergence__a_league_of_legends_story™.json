@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2023-06-14T16:05:44.8287246+00:00",
       "NumProgressed": 683,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T17:05:17.6275816+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1309,7 +1314,7 @@
       "Name": "Treasure Trove",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1325,7 +1330,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ClockworkProgress1",
@@ -1349,7 +1354,7 @@
       "Name": "Sartorialist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CosmeticProgress1",
@@ -1363,9 +1368,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "EntresolChests1",
@@ -1373,7 +1378,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1389,7 +1394,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FairgroundsChests1",
@@ -1397,7 +1402,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1445,7 +1450,7 @@
       "Name": "Rail Rat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HexlockGift",
@@ -1485,7 +1490,7 @@
       "Name": "Cartographer",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NoCritterSump",
@@ -1683,9 +1688,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1708,14 +1713,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:05:44.8287241+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:05:17.6275808+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:59:39.593381+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:05:44.8287763+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:19.7279321+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:05:17.6276751+00:00"
 }

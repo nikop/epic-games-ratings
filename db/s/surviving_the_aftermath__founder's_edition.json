@@ -1043,7 +1043,7 @@
   ],
   "EOS_Progressed": 6444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5605,9 +5605,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3866
+      "UsersEstimate": 3931
     },
     {
       "ID": "10",
@@ -5813,9 +5813,9 @@
       "ID": "33",
       "SetID": "8idi9ml",
       "Name": "Around the World",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 1031
     },
     {
       "ID": "34",
@@ -6085,8 +6085,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-11T15:59:33.0428948+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:00:54.0928871+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:00:22.3723452+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:12.6636606+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:00:54.09299+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:47.5310678+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:00:22.3724606+00:00"
 }

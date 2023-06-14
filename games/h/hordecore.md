@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~332 |
-| Decision Maker | 80.00% | ~271 |
-| Sneaky Sneak | 78.00% | ~264 |
-| DIY | 78.00% | ~264 |
-| Master Chef | 65.00% | ~220 |
-| Master of Cards | 59.00% | ~200 |
-| Over Nine Thousaaand | 57.00% | ~193 |
+| Just Went Shopping | 97.00% | ~330 |
+| Decision Maker | 80.00% | ~272 |
+| DIY | 78.00% | ~265 |
+| Sneaky Sneak | 77.00% | ~262 |
+| Master Chef | 65.00% | ~221 |
+| Master of Cards | 59.00% | ~201 |
+| Over Nine Thousaaand | 57.00% | ~194 |
 | Getting the Hang Of This | 48.00% | ~163 |
-| Collector | 29.00% | ~98 |
+| Collector | 29.00% | ~99 |
 | That’s What Friends Are For | 21.00% | ~71 |
 | Poker-Man | 21.00% | ~71 |
 | Blow ‘Em Up | 21.00% | ~71 |
 | FOR THE GAUNTLET! | 20.00% | ~68 |
-| Untapped Potential | 17.00% | ~58 |
-| Played by Gramps | 14.00% | ~47 |
+| Untapped Potential | 16.00% | ~54 |
+| Played by Gramps | 14.00% | ~48 |
 | Size Doesn’t Matter | 13.00% | ~44 |
 | I Choo-Choo-Choose You | 12.00% | ~41 |
 | My Savior! | 12.00% | ~41 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339 (Ranked 225)  
-Completed: 10 (2.95%) (Ranked 51)  
+Progressed: 340 (Ranked 225)  
+Completed: 10 (2.94%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 10 (2.95%) (Ranked 51)
 | 2023-05-28 | 335 | 10 |
 | 2023-06-10 | 336 | 10 |
 | 2023-06-11 | 339 | 10 |
+| 2023-06-14 | 340 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

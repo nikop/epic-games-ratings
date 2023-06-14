@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 11.00% | ~75 |
-| Treasure Trove | 9.00% | ~61 |
-| Rail Rat | 9.00% | ~61 |
-| Cartographer | 9.00% | ~61 |
+| Treasure Trove | 9.00% | ~62 |
+| Rail Rat | 9.00% | ~62 |
+| Cartographer | 9.00% | ~62 |
 | The Steel Shadow | 8.00% | ~55 |
 | The Mysterious Stranger | 8.00% | ~55 |
 | Make Up For Lost Time | 8.00% | ~55 |
@@ -33,19 +33,19 @@
 | The Family Fortune | 6.00% | ~41 |
 | Family Memories | 5.00% | ~34 |
 | Whiz Kid | 5.00% | ~34 |
+| Good Neighbor | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Sump Explorer | 4.00% | ~27 |
 | Syron for Hope | 4.00% | ~27 |
 | Theater Explorer | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
-| Good Neighbor | 4.00% | ~27 |
-| Corin Goes Home | 3.00% | ~20 |
-| Sartorialist | 3.00% | ~20 |
-| Entresol Explorer | 3.00% | ~20 |
-| Factorywood Explorer | 3.00% | ~20 |
-| Fairgrounds Explorer | 3.00% | ~20 |
+| Corin Goes Home | 3.00% | ~21 |
+| Sartorialist | 3.00% | ~21 |
+| Cultivair Explorer | 3.00% | ~21 |
+| Entresol Explorer | 3.00% | ~21 |
+| Factorywood Explorer | 3.00% | ~21 |
+| Fairgrounds Explorer | 3.00% | ~21 |
 | Clovemary for Remembering | 2.00% | ~14 |
-| Cultivair Explorer | 2.00% | ~14 |
 | Golem Hunter | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |
 | Hexlock for Protection | 1.00% | ~7 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 191)  
+Progressed: 684 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 1 (0.15%) (Ranked 161)
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
-| 2023-06-14 | 683 | 1 |
+| 2023-06-14 | 684 | 1 |

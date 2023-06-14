@@ -24,6 +24,7 @@
 | Gotta Go Fast! | 4.00% | ~3 |
 | Say My Name | 4.00% | ~3 |
 | First and Foremost | 4.00% | ~3 |
+| First Things First | 4.00% | ~3 |
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
@@ -36,7 +37,6 @@
 | Checklist | 2.00% | ~2 |
 | Time Lord | 2.00% | ~2 |
 | Time Is of the Essence | 2.00% | ~2 |
-| First Things First | 2.00% | ~2 |
 | Made Father Proud | 2.00% | ~2 |
 | Win-Win! | 2.00% | ~2 |
 | Supersport Superfan | 2.00% | ~2 |

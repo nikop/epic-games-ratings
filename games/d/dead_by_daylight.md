@@ -14,6 +14,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.20% | ~1,107 |
 | First to the Punch | 0.20% | ~1,107 |
 | Old West Oasis | 0.20% | ~1,107 |
+| Every Last Drop | 0.20% | ~1,107 |
 | Close Shave | 0.20% | ~1,107 |
 | With Scars to Show | 0.20% | ~1,107 |
 | Flight to Freedom | 0.20% | ~1,107 |
@@ -163,7 +164,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Speed Kills | 0.10% | ~554 |
 | I See You | 0.10% | ~554 |
 | Adept Blight | 0.10% | ~554 |
-| Every Last Drop | 0.10% | ~554 |
 | Adept Felix | 0.10% | ~554 |
 | Tag Team | 0.10% | ~554 |
 | End of Days | 0.10% | ~554 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~554 |
 | Adept Gabriel | 0.10% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,512 (Ranked 27)  
+Progressed: 553,740 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,15 +282,15 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 553,512 | 42 |
+| 2023-06-14 | 553,740 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,194 (Ranked 12)  
+Sum: 227,243 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,462 |
-| This game has Competitive Players | 26,121 |
+| This game has Competitive Players | 26,170 |
 | This game is Highly Recommended | 25,796 |
 | This game has Amazing Characters | 25,708 |
 | This game is Extremely Fun | 25,685 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 4
 | 2023-06-11 | 4.52 | - | 28,305 | 226,349 |
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
-| 2023-06-14 | 4.52 | - | 28,462 | 227,194 |
+| 2023-06-14 | 4.52 | - | 28,462 | 227,243 |

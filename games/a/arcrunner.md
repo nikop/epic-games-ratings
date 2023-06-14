@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~422 |
-| Terminated I | 81.00% | ~360 |
-| Challenge Accepted | 78.00% | ~346 |
-| Nanonic I | 77.00% | ~342 |
-| Unlocked and Loaded | 73.00% | ~324 |
-| Terminated II | 64.00% | ~284 |
-| The City | 50.00% | ~222 |
-| Terminated III | 42.00% | ~186 |
+| Augmented | 95.00% | ~424 |
+| Terminated I | 80.00% | ~357 |
+| Challenge Accepted | 78.00% | ~348 |
+| Nanonic I | 77.00% | ~343 |
+| Unlocked and Loaded | 73.00% | ~326 |
+| Terminated II | 64.00% | ~285 |
+| The City | 50.00% | ~223 |
+| Terminated III | 42.00% | ~187 |
 | Challenge Mastered | 40.00% | ~178 |
-| Nanonic II | 35.00% | ~155 |
+| Nanonic II | 35.00% | ~156 |
 | Rookie | 27.00% | ~120 |
 | Nanonic III | 24.00% | ~107 |
 | Supply Run | 24.00% | ~107 |
 | Starship Docks | 22.00% | ~98 |
 | Cybernetic | 18.00% | ~80 |
-| The Bigger They Are | 16.00% | ~71 |
+| The Bigger They Are | 17.00% | ~76 |
 | Up Close And Personal | 15.00% | ~67 |
 | Eden Heights | 14.00% | ~62 |
-| Outer Core | 10.00% | ~44 |
+| Outer Core | 10.00% | ~45 |
 | Trickshot | 6.00% | ~27 |
 | Inner Core | 5.00% | ~22 |
 | Integration | 4.00% | ~18 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 208)  
+Progressed: 446 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 376 | 0 |
 | 2023-06-12 | 415 | 0 |
 | 2023-06-13 | 439 | 0 |
-| 2023-06-14 | 444 | 0 |
+| 2023-06-14 | 446 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

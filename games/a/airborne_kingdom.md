@@ -14,7 +14,7 @@ Number of Ratings: 74  (23.09.2022)
 | Wind Powered | 40.00% | ~2,645 |
 | It Takes a Village | 34.00% | ~2,248 |
 | On the Town | 28.00% | ~1,852 |
-| Daylight Found | 25.00% | ~1,653 |
+| Daylight Found | 26.00% | ~1,719 |
 | Irons Scorched | 25.00% | ~1,653 |
 | Islands Connected | 25.00% | ~1,653 |
 | Harp Tuned | 23.00% | ~1,521 |

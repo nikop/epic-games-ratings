@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2830,
+  "EOS_Progressed": 2832,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3528,6 +3528,11 @@
       "Time": "2023-06-14T16:06:23.9714344+00:00",
       "NumProgressed": 2830,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T17:05:50.7371811+00:00",
+      "NumProgressed": 2832,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3579,7 +3584,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3595,7 +3600,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3603,7 +3608,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3619,7 +3624,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3659,7 +3664,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3747,7 +3752,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3769,9 +3774,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 170
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3793,9 +3798,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 170
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3851,7 +3856,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3875,7 +3880,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3931,7 +3936,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4001,9 +4006,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -4106,13 +4111,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2781,
+      "Progressed": 2783,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2830,
+      "Progressed": 2832,
       "Completed": 2
     }
   ],
@@ -4120,8 +4125,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:23.9714341+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:05:50.7371802+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:46.4790501+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:23.9715049+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:00:14.8792383+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:05:50.7372825+00:00"
 }

@@ -918,7 +918,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3631,
+  "EOS_Progressed": 3632,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -4398,6 +4398,11 @@
       "Time": "2023-06-14T16:00:52.315169+00:00",
       "NumProgressed": 3631,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T17:00:20.8587653+00:00",
+      "NumProgressed": 3632,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4425,7 +4430,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4433,7 +4438,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4449,7 +4454,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4505,7 +4510,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4537,7 +4542,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4553,7 +4558,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4681,7 +4686,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4689,7 +4694,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4713,7 +4718,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4728,15 +4733,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3631,
+      "Progressed": 3632,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:00:52.3151509+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:00:20.858722+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:24.7724499+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:00:52.3171546+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:57.8381749+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:00:20.8597318+00:00"
 }

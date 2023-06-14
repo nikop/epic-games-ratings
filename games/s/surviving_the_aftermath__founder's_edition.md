@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,575 |
-| Leader | 60.00% | ~3,866 |
+| Leader | 61.00% | ~3,931 |
 | Explorer | 53.00% | ~3,415 |
 | Healer | 53.00% | ~3,415 |
 | Aspiring Inventor | 44.00% | ~2,835 |
@@ -34,8 +34,8 @@ Number of Ratings: 836  (23.09.2022)
 | Rocket Surgeon | 19.00% | ~1,224 |
 | Big Game Hunter | 17.00% | ~1,095 |
 | Friendly | 16.00% | ~1,031 |
+| Around the World | 16.00% | ~1,031 |
 | Spreading Influence | 16.00% | ~1,031 |
-| Around the World | 15.00% | ~967 |
 | Bookworm | 14.00% | ~902 |
 | Famous Adventurer | 13.00% | ~838 |
 | Prepared for Anything | 13.00% | ~838 |

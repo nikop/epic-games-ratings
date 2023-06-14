@@ -2,7 +2,7 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 408,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 158,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 453,
@@ -1226,10 +1226,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1367,
       "NumberOfAwardsMax": 696
+    },
+    {
+      "Time": "2023-06-14T17:00:08.8232924+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1369,
+      "NumberOfAwardsMax": 696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1367,
+  "NumberOfAwards": 1369,
   "NumberOfAwardsMax": 696,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1249,7 +1255,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1267,7 +1273,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1311,8 +1317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-06-11T15:59:55.6748639+00:00",
+  "LastChanged": "2023-06-14T17:00:08.8232921+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:57.282516+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:38.9962894+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:04:21.0424221+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:00:08.8232932+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:04:07.3741805+00:00"
 }

@@ -12,6 +12,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 2.00% | ~306 |
 | Overcoming Difficulty | 2.00% | ~306 |
 | Bandit Camp | 2.00% | ~306 |
+| Barren Lands | 2.00% | ~306 |
 | Fertile Meadows | 2.00% | ~306 |
 | Lost Colonies | 2.00% | ~306 |
 | Coral Forest | 2.00% | ~306 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 1.00% | ~153 |
 | Refinery | 1.00% | ~153 |
 | Against All Odds | 1.00% | ~153 |
-| Barren Lands | 1.00% | ~153 |
 | Ancient Battleground | 1.00% | ~153 |
 | Sparkdew Crystals | 1.00% | ~153 |
 | Dangerous Lands | 1.00% | ~153 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,308 (Ranked 102)  
+Progressed: 15,310 (Ranked 102)  
 Completed: 34 (0.22%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 34 (0.22%) (Ranked 149)
 | 2023-06-11 | 15,283 | 34 |
 | 2023-06-12 | 15,296 | 34 |
 | 2023-06-13 | 15,303 | 34 |
-| 2023-06-14 | 15,308 | 34 |
+| 2023-06-14 | 15,310 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,042 (Ranked 153)  

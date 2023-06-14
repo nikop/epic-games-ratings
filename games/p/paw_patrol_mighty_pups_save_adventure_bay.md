@@ -11,6 +11,7 @@
 | Break Time | 40.00% | ~2 |
 | Master of the Rope | 40.00% | ~2 |
 | Summer Day | 40.00% | ~2 |
+| Training Day | 20.00% | ~1 |
 | In the Air | 20.00% | ~1 |
 | Clear the Road | 20.00% | ~1 |
 | Never Miss | 20.00% | ~1 |
@@ -28,7 +29,6 @@
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
 | Everything Under Control | 0.00% | ~0 |
-| Training Day | 0.00% | ~0 |
 | The Fastest | 0.00% | ~0 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |

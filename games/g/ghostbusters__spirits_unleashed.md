@@ -5,59 +5,59 @@ Rating: 4.49 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,875 |
-| Advancement | 73.00% | ~16,871 |
-| Meticulously Efficient | 64.00% | ~14,791 |
-| Discovery | 62.00% | ~14,329 |
-| Swift Rift Removers | 55.00% | ~12,711 |
-| Fully Upgraded | 54.00% | ~12,480 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~12,018 |
-| Cultured | 52.00% | ~12,018 |
-| Vaporous Expansion | 49.00% | ~11,324 |
-| Teamwork | 44.00% | ~10,169 |
-| There you are! | 43.00% | ~9,938 |
-| Clutch Capture | 41.00% | ~9,476 |
-| Back Off | 36.00% | ~8,320 |
-| Daily Dose | 35.00% | ~8,089 |
-| Solo Capture | 32.00% | ~7,396 |
-| Welcome to the Crew | 32.00% | ~7,396 |
-| Ghostbuster In Training | 31.00% | ~7,164 |
-| Icing on the Cake | 30.00% | ~6,933 |
-| Side Hustle | 28.00% | ~6,471 |
-| We have the best insurance | 27.00% | ~6,240 |
-| Legions | 27.00% | ~6,240 |
-| Right back at ya | 27.00% | ~6,240 |
-| Summoner | 27.00% | ~6,240 |
-| Pesky Jerks | 26.00% | ~6,009 |
-| Stunner | 26.00% | ~6,009 |
-| Animated | 25.00% | ~5,778 |
-| Skilled | 25.00% | ~5,778 |
-| Collector | 24.00% | ~5,547 |
-| Ectoplasmic Entity | 24.00% | ~5,547 |
-| Rift Destroyer | 20.00% | ~4,622 |
-| Tobin's Prodigy | 19.00% | ~4,391 |
-| Reckless | 18.00% | ~4,160 |
-| Terrifying | 18.00% | ~4,160 |
-| Diabolical | 16.00% | ~3,698 |
-| Escape Artist | 16.00% | ~3,698 |
-| Seasoned | 16.00% | ~3,698 |
-| Whoopsie | 11.00% | ~2,542 |
-| Liability | 10.00% | ~2,311 |
-| Rivalry | 10.00% | ~2,311 |
-| Fragile Panes | 9.00% | ~2,080 |
-| Surprise! | 9.00% | ~2,080 |
-| Master Collector | 7.00% | ~1,618 |
-| Rift Seeker | 7.00% | ~1,618 |
-| Therapeutic | 7.00% | ~1,618 |
-| Ghost Expert | 3.00% | ~693 |
-| Catostrophic Destroyer | 2.00% | ~462 |
-| Line em' up | 2.00% | ~462 |
-| Little Help Here | 2.00% | ~462 |
-| Ultimate Defense | 2.00% | ~462 |
+| Stylish | 86.00% | ~19,888 |
+| Advancement | 73.00% | ~16,882 |
+| Meticulously Efficient | 64.00% | ~14,801 |
+| Discovery | 62.00% | ~14,338 |
+| Swift Rift Removers | 55.00% | ~12,719 |
+| Fully Upgraded | 54.00% | ~12,488 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~12,026 |
+| Cultured | 52.00% | ~12,026 |
+| Vaporous Expansion | 49.00% | ~11,332 |
+| Teamwork | 44.00% | ~10,175 |
+| There you are! | 43.00% | ~9,944 |
+| Clutch Capture | 41.00% | ~9,482 |
+| Back Off | 36.00% | ~8,325 |
+| Daily Dose | 35.00% | ~8,094 |
+| Solo Capture | 32.00% | ~7,400 |
+| Welcome to the Crew | 32.00% | ~7,400 |
+| Ghostbuster In Training | 31.00% | ~7,169 |
+| Icing on the Cake | 30.00% | ~6,938 |
+| Side Hustle | 28.00% | ~6,475 |
+| We have the best insurance | 27.00% | ~6,244 |
+| Legions | 27.00% | ~6,244 |
+| Summoner | 27.00% | ~6,244 |
+| Pesky Jerks | 26.00% | ~6,013 |
+| Right back at ya | 26.00% | ~6,013 |
+| Stunner | 26.00% | ~6,013 |
+| Animated | 25.00% | ~5,782 |
+| Skilled | 25.00% | ~5,782 |
+| Collector | 24.00% | ~5,550 |
+| Ectoplasmic Entity | 24.00% | ~5,550 |
+| Rift Destroyer | 20.00% | ~4,625 |
+| Tobin's Prodigy | 19.00% | ~4,394 |
+| Reckless | 18.00% | ~4,163 |
+| Terrifying | 18.00% | ~4,163 |
+| Diabolical | 16.00% | ~3,700 |
+| Escape Artist | 16.00% | ~3,700 |
+| Seasoned | 16.00% | ~3,700 |
+| Whoopsie | 11.00% | ~2,544 |
+| Liability | 10.00% | ~2,313 |
+| Rivalry | 10.00% | ~2,313 |
+| Fragile Panes | 9.00% | ~2,081 |
+| Surprise! | 9.00% | ~2,081 |
+| Master Collector | 7.00% | ~1,619 |
+| Rift Seeker | 7.00% | ~1,619 |
+| Therapeutic | 7.00% | ~1,619 |
+| Ghost Expert | 3.00% | ~694 |
+| Catostrophic Destroyer | 2.00% | ~463 |
+| Line em' up | 2.00% | ~463 |
+| Little Help Here | 2.00% | ~463 |
+| Ultimate Defense | 2.00% | ~463 |
 | I don't need these | 1.00% | ~231 |
 | Mycophile | 1.00% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,111 (Ranked 93)  
+Progressed: 23,126 (Ranked 93)  
 Completed: 40 (0.17%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 40 (0.17%) (Ranked 154)
 | 2023-06-11 | 22,974 | 40 |
 | 2023-06-12 | 23,011 | 40 |
 | 2023-06-13 | 23,060 | 40 |
-| 2023-06-14 | 23,111 | 40 |
+| 2023-06-14 | 23,126 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
 Sum: 2,116 (Ranked 184)  

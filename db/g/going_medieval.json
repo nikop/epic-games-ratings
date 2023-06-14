@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 3699,
+  "EOS_Progressed": 3701,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2874,6 +2874,11 @@
       "Time": "2023-06-14T16:06:19.4728605+00:00",
       "NumProgressed": 3699,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T17:05:46.8489872+00:00",
+      "NumProgressed": 3701,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 31,
@@ -2885,7 +2890,7 @@
       "Name": "Get A Room",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2628
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -2917,7 +2922,7 @@
       "Name": "Green Thumb",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2369
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -2925,7 +2930,7 @@
       "Name": "Having A Field Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2591
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -2933,7 +2938,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2517
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -3029,7 +3034,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2147
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -3045,7 +3050,7 @@
       "Name": "The First Day",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2369
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -3093,7 +3098,7 @@
       "Name": "Novice Researcher",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2258
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -3117,7 +3122,7 @@
       "Name": "Onward",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1962
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -3132,15 +3137,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3699,
+      "Progressed": 3701,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-11T18:59:30.6021277+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:19.4728601+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:05:46.8489861+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.1224495+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:04.780586+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:19.4728909+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:41.4311816+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:05:46.8490242+00:00"
 }

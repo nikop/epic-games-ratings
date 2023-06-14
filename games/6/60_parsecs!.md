@@ -16,7 +16,7 @@
 | All Seats Taken | 36.00% | ~228 |
 | For Science! | 32.00% | ~203 |
 | Meet the Petersons | 31.00% | ~197 |
-| Stay Cool | 27.00% | ~171 |
+| Stay Cool | 28.00% | ~178 |
 | KIA | 26.00% | ~165 |
 | Mutiny in making | 23.00% | ~146 |
 | Et tu, Astrocitizen? | 19.00% | ~120 |

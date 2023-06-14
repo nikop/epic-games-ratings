@@ -14,9 +14,9 @@
 | Berry Nice | 7.00% | ~14 |
 | Keyu Exterminator | 6.00% | ~12 |
 | Fourth Shard | 6.00% | ~12 |
+| Big Fish | 5.00% | ~10 |
 | Tastes Like Chicken | 5.00% | ~10 |
 | Fifth Shard | 5.00% | ~10 |
-| Big Fish | 4.00% | ~8 |
 | Good Stew | 3.00% | ~6 |
 | Green Thumb | 3.00% | ~6 |
 | Avian Veterinarian | 3.00% | ~6 |

@@ -5,15 +5,15 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,230 |
-| No more cages! | 92.00% | ~2,159 |
-| Everfrost | 77.00% | ~1,807 |
+| For Demacia | 95.00% | ~2,231 |
+| No more cages! | 92.00% | ~2,160 |
+| Everfrost | 77.00% | ~1,808 |
 | Pentakill | 76.00% | ~1,784 |
 | Dark Forest | 76.00% | ~1,784 |
-| The use of petricite | 73.00% | ~1,713 |
-| You can pet the dog | 60.00% | ~1,408 |
-| Big Helmet Bro | 35.00% | ~821 |
-| Clarion Cove | 35.00% | ~821 |
+| The use of petricite | 73.00% | ~1,714 |
+| You can pet the dog | 60.00% | ~1,409 |
+| Big Helmet Bro | 35.00% | ~822 |
+| Clarion Cove | 35.00% | ~822 |
 | Past trauma | 34.00% | ~798 |
 | Thornbarrow | 33.00% | ~775 |
 | Ternmoat Headquarters | 33.00% | ~775 |
@@ -24,12 +24,12 @@ Rating: 4.80 (Ranked 80)
 | Devineur | 27.00% | ~634 |
 | Whispers in the Woods I | 26.00% | ~610 |
 | Hijack | 26.00% | ~610 |
-| Ancient power | 24.00% | ~563 |
+| Ancient power | 24.00% | ~564 |
 | I chose my shackles | 23.00% | ~540 |
 | Sacred Woods | 21.00% | ~493 |
 | Capelworth | 21.00% | ~493 |
-| Little light | 20.00% | ~469 |
-| Iffighain Headquarters | 20.00% | ~469 |
+| Little light | 20.00% | ~470 |
+| Iffighain Headquarters | 20.00% | ~470 |
 | Glyndemere | 19.00% | ~446 |
 | Full equipped | 19.00% | ~446 |
 | Whispers in the Woods II | 16.00% | ~376 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,347 (Ranked 150)  
+Progressed: 2,348 (Ranked 150)  
 Completed: 2 (0.09%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.09%) (Ranked 177)
 | 2023-06-11 | 2,331 | 1 |
 | 2023-06-12 | 2,334 | 1 |
 | 2023-06-13 | 2,340 | 1 |
-| 2023-06-14 | 2,347 | 2 |
+| 2023-06-14 | 2,348 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

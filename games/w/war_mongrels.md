@@ -31,8 +31,8 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 18.00% | ~64 |
 | Bullseye! | 17.00% | ~60 |
 | Collectibles of Chapter III | 15.00% | ~53 |
+| Collectibles of Chapter IV | 15.00% | ~53 |
 | Sorrow | 15.00% | ~53 |
-| Collectibles of Chapter IV | 14.00% | ~50 |
 | Atonement | 14.00% | ~50 |
 | Helping Hand | 13.00% | ~46 |
 | Without a Second Thought | 12.00% | ~43 |

@@ -142,9 +142,9 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "19",
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:19.2519284+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:05:46.647046+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:48.4830371+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:59:39.1419777+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:19.2519483+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:19.3596685+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:05:46.6470828+00:00"
 }

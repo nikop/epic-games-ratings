@@ -4288,10 +4288,10 @@
       "Count": 3250
     }
   ],
-  "EOS_Progressed": 90697,
-  "EOS_Completed": 1933,
-  "EOS_NewPlayers": 670,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 90701,
+  "EOS_Completed": 1934,
+  "EOS_NewPlayers": 671,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9933,6 +9933,11 @@
       "Time": "2023-06-14T16:06:40.0998559+00:00",
       "NumProgressed": 90697,
       "NumCompleted": 1933
+    },
+    {
+      "Time": "2023-06-14T17:06:05.8162621+00:00",
+      "NumProgressed": 90701,
+      "NumCompleted": 1934
     }
   ],
   "TotalAchievements": 493,
@@ -9958,9 +9963,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 272
     },
     {
       "ID": "objective_completed_101",
@@ -11064,7 +11069,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "objective_completed_150",
@@ -11272,7 +11277,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "objective_completed_20",
@@ -11430,9 +11435,9 @@
       "ID": "objective_completed_247",
       "SetID": "cc37lbc",
       "Name": "Hold for the Red Wizards",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_248",
@@ -11632,7 +11637,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "objective_completed_36",
@@ -12088,7 +12093,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "objective_completed_540",
@@ -12206,9 +12211,9 @@
       "ID": "objective_completed_556",
       "SetID": "cc37lbc",
       "Name": "Bregan D\u0027aerthe Comes to Call",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_557",
@@ -13887,21 +13892,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56971,
+      "Progressed": 56975,
       "Completed": 2791
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90697,
-      "Completed": 1933
+      "Progressed": 90701,
+      "Completed": 1934
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-14T14:57:48.1167151+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:40.0998555+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:06:05.8162615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:58:15.8884872+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:40.1020746+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:58:13.0744006+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:06:05.8202189+00:00"
 }

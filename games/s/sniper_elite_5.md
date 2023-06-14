@@ -5,31 +5,31 @@ Rating: 4.53 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~849 |
+| Meeting Resistance | 30.00% | ~850 |
 | Confirming Suspicions | 25.00% | ~708 |
 | The Kraken Wakes | 20.00% | ~566 |
-| It's Starting to Crack | 18.00% | ~509 |
-| Lord of War | 15.00% | ~424 |
-| Change the Channel | 15.00% | ~424 |
+| It's Starting to Crack | 18.00% | ~510 |
+| Lord of War | 15.00% | ~425 |
+| Change the Channel | 15.00% | ~425 |
 | Resourceful | 13.00% | ~368 |
 | Taking it back | 13.00% | ~368 |
-| Organ Grinder | 11.00% | ~311 |
-| Target America | 11.00% | ~311 |
+| Organ Grinder | 11.00% | ~312 |
+| Target America | 11.00% | ~312 |
 | As Quiet as a Mouse | 10.00% | ~283 |
 | The Kraken Sleeps | 10.00% | ~283 |
 | Liberté | 9.00% | ~255 |
 | Sharpshooter | 9.00% | ~255 |
 | Explosive Efficiency | 9.00% | ~255 |
-| Enemy at the Gates | 8.00% | ~226 |
-| Just a Flesh Wound | 8.00% | ~226 |
-| Gunslinger | 8.00% | ~226 |
+| Enemy at the Gates | 8.00% | ~227 |
+| Just a Flesh Wound | 8.00% | ~227 |
+| Gunslinger | 8.00% | ~227 |
 | Opposing Force | 7.00% | ~198 |
-| Der Geist | 7.00% | ~198 |
-| Close Quarters | 7.00% | ~198 |
 | Climbing the Ladder | 6.00% | ~170 |
 | Fields of Glory | 6.00% | ~170 |
 | Skirmisher | 6.00% | ~170 |
 | Die Nussknacker Sweet! | 6.00% | ~170 |
+| Der Geist | 6.00% | ~170 |
+| Close Quarters | 6.00% | ~170 |
 | Snake in the Grass | 6.00% | ~170 |
 | Brains of the Operation | 6.00% | ~170 |
 | No Stone Unturned | 5.00% | ~142 |
@@ -39,12 +39,12 @@ Rating: 4.53 (Ranked 503)
 | My Little Friend | 3.00% | ~85 |
 | The Long Game | 2.00% | ~57 |
 | It'll Buff Right Out | 2.00% | ~57 |
+| Herr Today, Gone Tomorrow | 2.00% | ~56 |
 | Strategist | 1.00% | ~28 |
 | Tinkerer | 1.00% | ~28 |
 | Locomotion Commotion | 1.00% | ~28 |
 | Road Rage | 1.00% | ~28 |
 | Don't hold your breath | 1.00% | ~28 |
-| Herr Today, Gone Tomorrow | 1.00% | ~28 |
 | Operation Foxley | 1.00% | ~28 |
 | Ghost of Falaise | 1.00% | ~28 |
 | Last Resort | 0.90% | ~25 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,830 (Ranked 144)  
+Progressed: 2,832 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,830 | 2 |
+| 2023-06-14 | 2,832 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

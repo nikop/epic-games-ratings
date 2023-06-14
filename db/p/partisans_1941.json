@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1032,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1100,6 +1100,11 @@
       "Time": "2023-06-14T10:05:46.2530707+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T17:05:50.0983254+00:00",
+      "NumProgressed": 1032,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1109,9 +1114,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 206
     },
     {
       "ID": "Auditor",
@@ -1191,7 +1196,7 @@
       "Name": "E1M1",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Everyone_is_here",
@@ -1199,7 +1204,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Experienced_strategist",
@@ -1215,7 +1220,7 @@
       "Name": "Game Over",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Grenadier",
@@ -1223,7 +1228,7 @@
       "Name": "Grenadier",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Hard_Serpent",
@@ -1239,7 +1244,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "High_noon",
@@ -1247,7 +1252,7 @@
       "Name": "Payback Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "How",
@@ -1263,7 +1268,7 @@
       "Name": "Spice It Up",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "KillAllM2",
@@ -1287,7 +1292,7 @@
       "Name": "One by One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Miner",
@@ -1303,7 +1308,7 @@
       "Name": "Mosquito bite",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "Scout",
@@ -1327,7 +1332,7 @@
       "Name": "War Never Changes",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "We_were_not_here",
@@ -1343,22 +1348,22 @@
       "Name": "Your Answer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1032,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:23.4511088+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:05:50.0983245+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:59:28.8144254+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:23.4511335+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:59:11.7851736+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:05:50.0983706+00:00"
 }

@@ -620,9 +620,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15252,
+  "EOS_Progressed": 15260,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3865,6 +3865,11 @@
       "Time": "2023-06-14T16:04:32.3454415+00:00",
       "NumProgressed": 15252,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T17:04:16.6765034+00:00",
+      "NumProgressed": 15260,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3908,7 +3913,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4012,7 +4017,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4044,7 +4049,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4052,7 +4057,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4068,7 +4073,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4092,7 +4097,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4108,7 +4113,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4116,7 +4121,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "STORY_TOWER",
@@ -4156,7 +4161,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4164,7 +4169,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4195,13 +4200,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15252,
+      "Progressed": 15260,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3178,
+      "Progressed": 3186,
       "Completed": 29
     }
   ],
@@ -4209,8 +4214,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:04:32.3454411+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:04:16.6765026+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T15:58:05.5150815+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:04:32.345484+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:58:05.282634+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:04:16.6765658+00:00"
 }

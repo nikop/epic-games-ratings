@@ -20,10 +20,10 @@
 | Untouchable Legend | 3.00% | ~105 |
 | Loyal Companion | 2.00% | ~70 |
 | Atta Boy! | 2.00% | ~70 |
+| Not Afraid Of The Dark | 2.00% | ~70 |
 | Emperor's Education | 2.00% | ~70 |
 | Slam The Brakes! | 2.00% | ~70 |
 | Ashes Of Belief | 2.00% | ~70 |
-| Not Afraid Of The Dark | 1.00% | ~35 |
 | Buried Memories | 1.00% | ~35 |
 | Anything For The Throne | 0.90% | ~31 |
 | One Track Mind | 0.80% | ~28 |

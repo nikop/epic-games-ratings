@@ -23,10 +23,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.60% | ~342 |
 | Checkmate | 0.50% | ~285 |
 | Vecna Out! | 0.50% | ~285 |
-| Terror in the Dark | 0.50% | ~453 |
-| Unearthed Evil | 0.50% | ~453 |
-| The Crumbling Temple | 0.50% | ~453 |
-| Exploring Port Nyanzaru | 0.50% | ~453 |
+| Terror in the Dark | 0.50% | ~454 |
+| Unearthed Evil | 0.50% | ~454 |
+| The Crumbling Temple | 0.50% | ~454 |
+| Exploring Port Nyanzaru | 0.50% | ~454 |
 | Quick or Quack | 0.50% | ~285 |
 | Maddening | 0.40% | ~363 |
 | Owlbear Necessities | 0.40% | ~228 |
@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.40% | ~363 |
 | Waterdeep Detours | 0.40% | ~363 |
 | Underdeep Cartography | 0.40% | ~363 |
+| Pros and CONs | 0.30% | ~272 |
 | Tall Tales | 0.30% | ~171 |
 | Third Third Out | 0.30% | ~171 |
 | The Silken Swamp | 0.30% | ~272 |
@@ -88,7 +89,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.30% | ~171 |
 | The Templar's Camp | 0.30% | ~272 |
 | Rescue in the Jungle | 0.30% | ~272 |
-| Pros and CONs | 0.20% | ~181 |
 | Upholding the Law | 0.20% | ~181 |
 | Starving in the Jungle | 0.20% | ~181 |
 | Cold as Ice | 0.20% | ~114 |
@@ -194,6 +194,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.20% | ~181 |
 | Domesticated Owlbears | 0.20% | ~181 |
 | The Immortal Warrior | 0.20% | ~181 |
+| Hold for the Red Wizards | 0.20% | ~181 |
 | The Wyrmheart Mine | 0.20% | ~181 |
 | Tower on the Lake | 0.20% | ~181 |
 | Only the Strong Survive | 0.20% | ~181 |
@@ -234,6 +235,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.20% | ~181 |
 | Feigned Weakness | 0.20% | ~181 |
 | Waterdeep Under Siege | 0.20% | ~181 |
+| Bregan D'aerthe Comes to Call | 0.20% | ~181 |
 | Crowded Streets | 0.20% | ~181 |
 | The Sunless Citadel | 0.20% | ~181 |
 | Patience is Key | 0.20% | ~181 |
@@ -378,7 +380,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
 | This Quest Stinks! | 0.10% | ~57 |
-| Hold for the Red Wizards | 0.10% | ~91 |
 | Form Ranks | 0.10% | ~91 |
 | Drop of Time | 0.10% | ~57 |
 | They Who Smelt It | 0.10% | ~91 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Champions | 0.10% | ~91 |
 | A Tale of Two Years | 0.10% | ~57 |
 | DPS in the Deeps | 0.10% | ~57 |
-| Bregan D'aerthe Comes to Call | 0.10% | ~91 |
 | Sober Up | 0.10% | ~91 |
 | In The Beginning | 0.10% | ~57 |
 | Veteran Brigade | 0.10% | ~91 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,697 (Ranked 64)  
-Completed: 1,933 (2.13%) (Ranked 67)  
+Progressed: 90,701 (Ranked 64)  
+Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -555,7 +555,7 @@ Completed: 1,933 (2.13%) (Ranked 67)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,697 | 1,933 |
+| 2023-06-14 | 90,701 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,103 (Ranked 37)  

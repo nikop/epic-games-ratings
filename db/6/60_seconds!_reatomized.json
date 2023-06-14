@@ -1853,9 +1853,9 @@
       "ID": "ACH_CHALLENGER",
       "SetID": "5nj1ea3",
       "Name": "Challenger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_DEAD",
@@ -2222,8 +2222,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-06-14T16:06:35.5687381+00:00",
+  "LastChanged_Achievements": "2023-06-14T17:06:01.1927594+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:52.6519642+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:00:35.6402221+00:00",
-  "LastUpdate_Achievements": "2023-06-14T16:06:35.5687952+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:00:06.2094741+00:00",
+  "LastUpdate_Achievements": "2023-06-14T17:06:01.1928316+00:00"
 }
