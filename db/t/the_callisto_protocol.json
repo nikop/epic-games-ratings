@@ -3,10 +3,10 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 845,
-  "Ranking_Popularity": 387,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 329,
-  "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Progress": 103,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -620,7 +620,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15248,
+  "EOS_Progressed": 15252,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 1,
@@ -3860,6 +3860,11 @@
       "Time": "2023-06-14T15:04:10.4542246+00:00",
       "NumProgressed": 15248,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T16:04:32.3454415+00:00",
+      "NumProgressed": 15252,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3887,7 +3892,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3903,7 +3908,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3943,7 +3948,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -3975,7 +3980,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3991,7 +3996,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3999,7 +4004,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "KILL_ROBOT",
@@ -4015,7 +4020,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4023,7 +4028,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -4031,7 +4036,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4047,7 +4052,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4071,7 +4076,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "STORY_HABITAT",
@@ -4079,7 +4084,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "STORY_HANGAR",
@@ -4103,7 +4108,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4127,7 +4132,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "DISMEMBER_100",
@@ -4183,20 +4188,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15248,
+      "Progressed": 15252,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3174,
+      "Progressed": 3178,
       "Completed": 29
     }
   ],
@@ -4204,8 +4209,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:04:10.4542235+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:04:32.3454411+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:39.4125962+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:04:10.4542774+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:58:05.5150815+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:04:32.345484+00:00"
 }

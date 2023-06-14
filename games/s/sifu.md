@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~743 |
-| Project Arena | 3.00% | ~557 |
+| Project Arena | 3.00% | ~558 |
 | The Old Grandmaster | 1.00% | ~7,093 |
 | The Assault | 1.00% | ~7,093 |
 | The Hateful Pole Fighter | 1.00% | ~7,093 |
@@ -34,8 +34,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.80% | ~5,674 |
 | Dance of the Praying Mantis | 0.70% | ~4,965 |
 | Muk Yan Master | 0.60% | ~4,256 |
-| Deadly Venom | 0.60% | ~111 |
-| A Touch of Acumen | 0.60% | ~111 |
+| Deadly Venom | 0.60% | ~112 |
+| A Touch of Acumen | 0.60% | ~112 |
 | Tiger on Fire | 0.50% | ~3,546 |
 | Source of Flying Daggers | 0.50% | ~3,546 |
 | Iron Money | 0.50% | ~3,546 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,281 (Ranked 17)  
-Completed: 12,769 (1.80%) (Ranked 74)  
+Progressed: 709,285 (Ranked 17)  
+Completed: 12,769 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,10 +112,10 @@ Completed: 12,769 (1.80%) (Ranked 74)
 | 2023-06-11 | 708,823 | 12,766 |
 | 2023-06-12 | 708,992 | 12,767 |
 | 2023-06-13 | 709,171 | 12,769 |
-| 2023-06-14 | 709,281 | 12,769 |
+| 2023-06-14 | 709,285 | 12,769 |
 ## Awards
 Max (Great Boss Battles): 6,173  (Ranked 52)  
-Sum: 10,533 (Ranked 78)  
+Sum: 10,534 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -127,7 +127,7 @@ Diff (max vs sum): -26
 | This game has Amazing Storytelling | 502 |
 | This game has Amazing Characters | 488 |
 | This game is Highly Recommended | 488 |
-| This game has Unique Visuals | 463 |
+| This game has Unique Visuals | 464 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 355 |
 | This game has Obsessive Gameplay | 293 |
@@ -282,4 +282,4 @@ Diff (max vs sum): -26
 | 2023-06-11 | 4.82 | - | 6,165 | 10,520 |
 | 2023-06-12 | 4.82 | - | 6,168 | 10,526 |
 | 2023-06-13 | 4.82 | - | 6,168 | 10,527 |
-| 2023-06-14 | 4.82 | - | 6,173 | 10,533 |
+| 2023-06-14 | 4.82 | - | 6,173 | 10,534 |

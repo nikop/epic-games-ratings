@@ -3,9 +3,9 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -763,9 +763,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "completeact2",
@@ -892,8 +892,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:03:48.2763409+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:04:05.142357+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:26.3506633+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:03:48.2763585+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:01.4863709+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:04:05.1423716+00:00"
 }

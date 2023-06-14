@@ -15,8 +15,8 @@
 | Challenge Mastered | 40.00% | ~178 |
 | Nanonic II | 35.00% | ~155 |
 | Rookie | 27.00% | ~120 |
+| Nanonic III | 24.00% | ~107 |
 | Supply Run | 24.00% | ~107 |
-| Nanonic III | 23.00% | ~102 |
 | Starship Docks | 22.00% | ~98 |
 | Cybernetic | 18.00% | ~80 |
 | The Bigger They Are | 16.00% | ~71 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 444 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

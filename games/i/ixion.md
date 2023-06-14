@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 443)  
+Rating: 4.57 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,16 +55,16 @@ Rating: 4.57 (Ranked 443)
 | Work Harder | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
 | A Junker's Dream | 0.10% | ~3 |
+| Scenic View | 0.10% | ~3 |
 | Crunch Culture | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Suburban Perfection | 0.00% | ~0 |
-| Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,635 (Ranked 147)  
-Completed: 0 (0.00%) (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

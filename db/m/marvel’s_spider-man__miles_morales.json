@@ -2,20 +2,20 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 88,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -728,10 +728,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1487,
       "NumberOfAwardsMax": 1112
+    },
+    {
+      "Time": "2023-06-14T15:59:18.7119794+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1488,
+      "NumberOfAwardsMax": 1112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1487,
+  "NumberOfAwards": 1488,
   "NumberOfAwardsMax": 1112,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -775,7 +781,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Relaxing",
@@ -826,8 +832,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-06-14T04:58:39.8322763+00:00",
+  "LastChanged": "2023-06-14T15:59:18.7119792+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.7362438+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:40.2991027+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:04:38.7867258+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:18.7119799+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:05:05.5167923+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -57,6 +57,11 @@
       "Time": "2023-06-08T05:06:26.8333881+00:00",
       "NumProgressed": 72,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T16:06:15.1601135+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -66,7 +71,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 40
     },
@@ -74,7 +79,7 @@
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 35
     },
@@ -98,7 +103,7 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
       "UsersEstimate": 25
     },
@@ -114,7 +119,7 @@
       "ID": "ACH_15",
       "SetID": "1g3d1lg",
       "Name": "Lights and shadows",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 40,
       "UsersEstimate": 22
     },
@@ -122,7 +127,7 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -138,9 +143,9 @@
       "ID": "ACH_18",
       "SetID": "1g3d1lg",
       "Name": "The impatient one",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_19",
@@ -154,7 +159,7 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 40
     },
@@ -170,7 +175,7 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
       "UsersEstimate": 36
     },
@@ -210,7 +215,7 @@
       "ID": "ACH_8",
       "SetID": "1g3d1lg",
       "Name": "Charon\u0027s coin",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
       "UsersEstimate": 17
     },
@@ -227,7 +232,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 2
     }
   ],
@@ -235,8 +240,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:38.5420947+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:06:15.1601131+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.1184523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:44.3266263+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:38.5421089+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:23.4494079+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:06:15.160129+00:00"
 }

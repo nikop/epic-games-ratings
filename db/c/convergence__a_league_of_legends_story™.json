@@ -3,7 +3,7 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 683,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-06-14T15:05:12.6253917+00:00",
       "NumProgressed": 681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T16:05:44.8287246+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1288,7 +1293,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1398,17 +1403,17 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 55
     },
     {
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1472,7 +1477,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MapCompletion1",
@@ -1534,9 +1539,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1544,7 +1549,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1560,7 +1565,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RewindDamage1",
@@ -1654,9 +1659,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "WarwickDefeated",
@@ -1664,7 +1669,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "WatcherFought",
@@ -1703,14 +1708,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 683,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:12.6253912+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:05:44.8287241+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:57.4747822+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:12.6254473+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:39.593381+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:05:44.8287763+00:00"
 }

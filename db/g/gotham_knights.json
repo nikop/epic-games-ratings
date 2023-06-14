@@ -6,7 +6,7 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -1544,7 +1544,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64974,
+  "EOS_Progressed": 64982,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 1,
@@ -6314,6 +6314,11 @@
       "Time": "2023-06-14T15:05:54.2447327+00:00",
       "NumProgressed": 64974,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-14T16:06:33.2019038+00:00",
+      "NumProgressed": 64982,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6373,7 +6378,7 @@
       "Name": "The Batman Family",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -6421,7 +6426,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "CLAYFACE_1",
@@ -6429,7 +6434,7 @@
       "Name": "Something in the Clay",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "CLAYFACE_2",
@@ -6437,7 +6442,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "CLAYFACE_3",
@@ -6557,7 +6562,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "FREEZE_2",
@@ -6565,7 +6570,7 @@
       "Name": "Snow Problem",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "FREEZE_3",
@@ -6637,7 +6642,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "HARLEY_3",
@@ -6645,7 +6650,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "HARLEY_4",
@@ -6653,7 +6658,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -6693,7 +6698,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -6725,7 +6730,7 @@
       "Name": "Whispered Words",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "MYSTERY_03",
@@ -6733,7 +6738,7 @@
       "Name": "Lock and Key",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "MYSTERY_04",
@@ -6741,7 +6746,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "MYSTERY_05",
@@ -6749,7 +6754,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "MYSTERY_06",
@@ -6812,13 +6817,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64974,
+      "Progressed": 64982,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35254,
+      "Progressed": 35262,
       "Completed": 2646
     }
   ],
@@ -6826,8 +6831,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-14T14:00:34.238216+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:54.2447322+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:06:33.2019034+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:59:14.5652876+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:54.2448211+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:59.8641473+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:06:33.2019739+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,610 |
-| Before the Downfall | 93.00% | ~17,661 |
-| Money like Water | 91.00% | ~17,281 |
-| Minimalist | 90.00% | ~17,091 |
-| Builder | 82.00% | ~15,572 |
-| Eraser | 70.00% | ~13,293 |
+| Trevithick's Legacy | 98.00% | ~18,611 |
+| Before the Downfall | 93.00% | ~17,662 |
+| Money like Water | 91.00% | ~17,282 |
+| Minimalist | 90.00% | ~17,092 |
+| Builder | 82.00% | ~15,573 |
+| Eraser | 70.00% | ~13,294 |
 | Pocket of Trains | 65.00% | ~12,344 |
-| Inspector | 59.00% | ~11,204 |
+| Inspector | 59.00% | ~11,205 |
 | Going the Distance | 54.00% | ~10,255 |
 | Oil Baron | 42.00% | ~7,976 |
 | Loads-a-Money | 42.00% | ~7,976 |
@@ -22,12 +22,12 @@ Rating: 4.54 (Ranked 489)
 | Let There be Light | 32.00% | ~6,077 |
 | Hot Water | 31.00% | ~5,887 |
 | Indecisive | 29.00% | ~5,507 |
-| The scenic route | 27.00% | ~5,127 |
+| The scenic route | 27.00% | ~5,128 |
 | Industrialist | 25.00% | ~4,748 |
 | Perfectionist | 23.00% | ~4,368 |
 | Trains over Pipes | 23.00% | ~4,368 |
 | 8K is Enough for Everyone | 22.00% | ~4,178 |
-| Man of Steel | 16.00% | ~3,038 |
+| Man of Steel | 16.00% | ~3,039 |
 | Room Full of Trains | 12.00% | ~2,279 |
 | Investor | 9.00% | ~1,709 |
 | Multiverse | 7.00% | ~1,329 |
@@ -43,8 +43,8 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,990 (Ranked 99)  
-Completed: 30 (0.16%) (Ranked 155)  
+Progressed: 18,991 (Ranked 99)  
+Completed: 30 (0.16%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 30 (0.16%) (Ranked 155)
 | 2023-06-11 | 18,958 | 30 |
 | 2023-06-12 | 18,973 | 30 |
 | 2023-06-13 | 18,984 | 30 |
-| 2023-06-14 | 18,990 | 30 |
+| 2023-06-14 | 18,991 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 346)  
 Sum: 651 (Ranked 277)  

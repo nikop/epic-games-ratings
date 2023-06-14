@@ -8,11 +8,11 @@ Rating: 4.15 (Ranked 862)
 | Attachments | 9.00% | ~3,472 |
 | Unlocked Potential | 9.00% | ~3,472 |
 | Tinkerer | 7.00% | ~2,700 |
-| Leapfrogger | 6.00% | ~2,314 |
-| Knock 'Em Dead | 6.00% | ~2,314 |
-| Pilgrimage: Initiate | 6.00% | ~2,314 |
-| Hell of a Run | 6.00% | ~2,314 |
-| Call of the Fount: Baptized | 6.00% | ~2,314 |
+| Leapfrogger | 6.00% | ~2,315 |
+| Knock 'Em Dead | 6.00% | ~2,315 |
+| Pilgrimage: Initiate | 6.00% | ~2,315 |
+| Hell of a Run | 6.00% | ~2,315 |
+| Call of the Fount: Baptized | 6.00% | ~2,315 |
 | No Mercy | 5.00% | ~1,929 |
 | Explorer: Seeker | 5.00% | ~1,929 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,543 |
@@ -21,12 +21,12 @@ Rating: 4.15 (Ranked 862)
 | The Interloper | 3.00% | ~1,157 |
 | Hop, Step, Jump | 3.00% | ~1,157 |
 | Endless Runner | 3.00% | ~1,157 |
-| Outdoorsperson | 2.00% | ~771 |
-| What Must Be Done | 2.00% | ~771 |
-| Might and Main | 2.00% | ~771 |
-| Damned If You Do... | 2.00% | ~771 |
-| Explorer: Pathfinder | 2.00% | ~771 |
-| From Every Angle | 2.00% | ~771 |
+| Outdoorsperson | 2.00% | ~772 |
+| What Must Be Done | 2.00% | ~772 |
+| Might and Main | 2.00% | ~772 |
+| Damned If You Do... | 2.00% | ~772 |
+| Explorer: Pathfinder | 2.00% | ~772 |
+| From Every Angle | 2.00% | ~772 |
 | The Hue of Blue | 1.00% | ~386 |
 | The Truth Will Out | 1.00% | ~386 |
 | Breaking Point | 1.00% | ~386 |
@@ -59,8 +59,8 @@ Rating: 4.15 (Ranked 862)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,574 (Ranked 85)  
-Completed: 2 (0.01%) (Ranked 210)  
+Progressed: 38,576 (Ranked 85)  
+Completed: 2 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 2 (0.01%) (Ranked 210)
 | 2023-06-11 | 38,532 | 2 |
 | 2023-06-12 | 38,550 | 2 |
 | 2023-06-13 | 38,565 | 2 |
-| 2023-06-14 | 38,574 | 2 |
+| 2023-06-14 | 38,576 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

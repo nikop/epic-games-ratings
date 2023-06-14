@@ -3,9 +3,9 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "play_it_again_sam",
@@ -252,9 +252,9 @@
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "poetent",
@@ -333,8 +333,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:03:39.2717503+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:03:55.4370963+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:04.6957456+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:24.5805188+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:03:39.2717679+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:58:59.3948613+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:03:55.4371096+00:00"
 }

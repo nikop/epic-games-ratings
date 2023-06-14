@@ -4,11 +4,11 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 670,
   "Ranking_Popularity": 476,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -388,18 +388,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-06-14T15:57:32.1978448+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 89,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88,
+  "NumberOfAwards": 89,
   "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Playful Visuals",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -440,9 +446,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-06-03T02:10:54.3648107+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:21.1007226+00:00",
+  "LastChanged": "2023-06-14T15:57:32.1978447+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:05:54.7819323+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.2981025+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:12.6605058+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:21.1007274+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:57:32.1978451+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:05:54.7819347+00:00"
 }

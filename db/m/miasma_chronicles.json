@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1716,6 +1716,11 @@
       "Time": "2023-06-14T13:09:30.8711601+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T16:03:21.3231094+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1733,17 +1738,17 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 280
     },
     {
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 808
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1823,7 +1828,7 @@
       "Name": "Curveball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "DEAD_DD",
@@ -1869,9 +1874,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 438
     },
     {
       "ID": "ENDGAME",
@@ -1887,7 +1892,7 @@
       "Name": "Exorcist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "EXPERIENCED",
@@ -1895,7 +1900,7 @@
       "Name": "Experienced",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "FIRESTARTER",
@@ -1911,7 +1916,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1959,7 +1964,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2031,7 +2036,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "RECYCLER",
@@ -2063,7 +2068,7 @@
       "Name": "Sensei",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2079,7 +2084,7 @@
       "Name": "Side Order",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -2103,7 +2108,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2134,7 +2139,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 0
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:03:09.8929293+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:03:21.3231087+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:00.3628033+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:03:09.8929761+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:58:30.0979181+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:03:21.32316+00:00"
 }

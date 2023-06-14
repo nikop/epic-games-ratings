@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 100.00% | ~3 |
-| Rascal | 67.00% | ~2 |
-| Champollion | 67.00% | ~2 |
-| Scholar | 67.00% | ~2 |
-| Welcome to the Tower | 67.00% | ~2 |
-| Cable guy | 33.00% | ~1 |
-| A good beginning | 33.00% | ~1 |
-| Feels like springtime | 33.00% | ~1 |
-| The Preacher's fate | 33.00% | ~1 |
-| The great escape | 33.00% | ~1 |
-| A new dawn | 33.00% | ~1 |
-| The darkness | 33.00% | ~1 |
-| One last step | 33.00% | ~1 |
+| That's the spirit | 75.00% | ~3 |
+| Rascal | 50.00% | ~2 |
+| Champollion | 50.00% | ~2 |
+| Scholar | 50.00% | ~2 |
+| Welcome to the Tower | 50.00% | ~2 |
+| Cable guy | 25.00% | ~1 |
+| A good beginning | 25.00% | ~1 |
+| Feels like springtime | 25.00% | ~1 |
+| The Preacher's fate | 25.00% | ~1 |
+| The great escape | 25.00% | ~1 |
+| A new dawn | 25.00% | ~1 |
+| The darkness | 25.00% | ~1 |
+| One last step | 25.00% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
@@ -30,11 +30,12 @@
 | True G4M3R | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 222)  
+Progressed: 4 (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-26 | 1 | 0 |
 | 2023-05-29 | 2 | 0 |
 | 2023-05-30 | 3 | 0 |
+| 2023-06-14 | 4 | 0 |

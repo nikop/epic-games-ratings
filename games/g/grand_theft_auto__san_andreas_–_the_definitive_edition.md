@@ -1,27 +1,27 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.57 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,386 |
-| Pay 'n' Spray | 49.00% | ~5,136 |
+| Getting Started | 80.00% | ~8,387 |
+| Pay 'n' Spray | 49.00% | ~5,137 |
 | All Dressed Up for San Fierro | 23.00% | ~2,411 |
 | The American Dream | 17.00% | ~1,782 |
 | School's Out | 16.00% | ~1,677 |
-| Smooth Moves | 15.00% | ~1,572 |
+| Smooth Moves | 15.00% | ~1,573 |
 | Today Was a Good Day | 13.00% | ~1,363 |
 | What happens in Las Venturas... | 12.00% | ~1,258 |
-| Horror of the Santa Maria | 9.00% | ~943 |
+| Horror of the Santa Maria | 9.00% | ~944 |
 | Liberty City State of Mind | 7.00% | ~734 |
 | With Extra Dip | 6.00% | ~629 |
 | The End of the Line | 6.00% | ~629 |
 | Original Gangster | 6.00% | ~629 |
 | Saviour | 5.00% | ~524 |
 | Rescue a Kitten Too? | 4.00% | ~419 |
-| They Can’t Stop All of Us | 3.00% | ~314 |
-| What are the Odds | 3.00% | ~314 |
+| They Can’t Stop All of Us | 3.00% | ~315 |
+| What are the Odds | 3.00% | ~315 |
 | I’ll Have Two Number 9s | 2.00% | ~210 |
 | Bike or Biker | 2.00% | ~210 |
 | What the City Needs | 2.00% | ~210 |
@@ -41,8 +41,8 @@ Rating: 4.58 (Ranked 421)
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,482 (Ranked 110)  
-Completed: 18 (0.17%) (Ranked 153)  
+Progressed: 10,484 (Ranked 110)  
+Completed: 18 (0.17%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 18 (0.17%) (Ranked 153)
 | 2023-06-11 | 10,282 | 17 |
 | 2023-06-12 | 10,359 | 17 |
 | 2023-06-13 | 10,440 | 18 |
-| 2023-06-14 | 10,482 | 18 |
+| 2023-06-14 | 10,484 | 18 |
 ## Awards
 Max (Great Boss Battles): 163  (Ranked 285)  
 Sum: 163 (Ranked 378)  
@@ -160,3 +160,4 @@ Diff (max vs sum): -93
 | 2023-06-07 | 4.59 | 0 | 0 |
 | 2023-06-11 | 4.59 | 163 | 163 |
 | 2023-06-13 | 4.58 | 163 | 163 |
+| 2023-06-14 | 4.57 | 163 | 163 |

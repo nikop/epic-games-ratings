@@ -5,49 +5,49 @@ Rating: 4.18 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,287 |
+| Flesh Wound | 15.00% | ~2,288 |
 | The Outer Way | 14.00% | ~2,135 |
-| Desperate Times | 13.00% | ~1,982 |
-| Paper Jams | 11.00% | ~1,677 |
+| Desperate Times | 13.00% | ~1,983 |
+| Paper Jams | 11.00% | ~1,678 |
 | Reforged | 10.00% | ~1,525 |
-| Chew 'Em Up | 9.00% | ~1,372 |
-| Workplace Hazard | 9.00% | ~1,372 |
-| If the SHU Fits... | 9.00% | ~1,372 |
-| Giving Back | 7.00% | ~1,067 |
-| Get a Grip | 7.00% | ~1,067 |
-| Without A Paddle | 7.00% | ~1,067 |
+| Chew 'Em Up | 9.00% | ~1,373 |
+| Workplace Hazard | 9.00% | ~1,373 |
+| If the SHU Fits... | 9.00% | ~1,373 |
+| Giving Back | 7.00% | ~1,068 |
+| Get a Grip | 7.00% | ~1,068 |
+| Without A Paddle | 7.00% | ~1,068 |
 | Terminated | 6.00% | ~915 |
 | In the Pipe, Five by Five | 6.00% | ~915 |
 | Crash Site | 6.00% | ~915 |
-| Two Heads Are Better Than One | 5.00% | ~762 |
-| Float Like A Butterfly | 5.00% | ~762 |
-| Power Up | 5.00% | ~762 |
+| Two Heads Are Better Than One | 5.00% | ~763 |
+| Float Like A Butterfly | 5.00% | ~763 |
+| Power Up | 5.00% | ~763 |
 | You Need a Gun | 4.00% | ~610 |
 | What Lies Beneath | 4.00% | ~610 |
 | Full Circle | 4.00% | ~610 |
 | Instigator | 4.00% | ~127 |
-| The Commonality | 3.00% | ~457 |
+| The Commonality | 3.00% | ~458 |
 | Big Game Hunter | 3.00% | ~95 |
 | Bear Trap | 3.00% | ~95 |
 | I Do Belong Here | 2.00% | ~305 |
 | In Striking Distance | 2.00% | ~305 |
 | Mugshot | 2.00% | ~305 |
-| Big Spender | 2.00% | ~63 |
+| Big Spender | 2.00% | ~64 |
 | Parole Denied | 1.00% | ~32 |
 | Hoard Mode | 1.00% | ~32 |
 | Grim Reaper | 0.90% | ~137 |
 | Recidivist | 0.70% | ~22 |
 | Lifer | 0.70% | ~22 |
 | Armed to the Teeth | 0.30% | ~10 |
-| The Protocol is About Life | 0.20% | ~30 |
+| The Protocol is About Life | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
 | You Belong Here | 0.10% | ~3 |
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,248 (Ranked 104)  
-Completed: 55 (0.36%) (Ranked 128)  
+Progressed: 15,252 (Ranked 103)  
+Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,11 +100,11 @@ Completed: 55 (0.36%) (Ranked 128)
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
-| 2023-06-14 | 15,248 | 55 |
+| 2023-06-14 | 15,252 | 55 |
 ## Awards
-Max (Amazing Storytelling): 53  (Ranked 387)  
+Max (Amazing Storytelling): 53  (Ranked 388)  
 Sum: 307 (Ranked 329)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 53 |

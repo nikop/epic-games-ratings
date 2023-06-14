@@ -3,9 +3,9 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3218,
+  "EOS_Progressed": 3220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3956,6 +3956,11 @@
       "Time": "2023-06-14T15:05:25.5768461+00:00",
       "NumProgressed": 3218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T16:05:59.9768899+00:00",
+      "NumProgressed": 3220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3967,7 +3972,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "10",
@@ -4055,7 +4060,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "7",
@@ -4079,14 +4084,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3218,
+      "Progressed": 3220,
       "Completed": 0
     }
   ],
@@ -4094,8 +4099,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:25.5768456+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:05:59.9768895+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.95723+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:47.6083116+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:25.5768859+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:58:15.2915079+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:05:59.9769168+00:00"
 }

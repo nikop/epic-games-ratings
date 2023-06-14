@@ -10,31 +10,31 @@
 | Failure | 75.00% | ~76 |
 | Replace Fuse | 67.00% | ~68 |
 | Alarm | 65.00% | ~66 |
-| Air Filtration | 63.00% | ~64 |
-| Broken | 61.00% | ~62 |
-| Radiation | 59.00% | ~60 |
-| Descent | 58.00% | ~59 |
-| Awakenings | 57.00% | ~58 |
-| Cold Storage | 57.00% | ~58 |
+| Air Filtration | 64.00% | ~65 |
+| Broken | 62.00% | ~63 |
+| Radiation | 60.00% | ~61 |
+| Descent | 59.00% | ~60 |
+| Awakenings | 58.00% | ~59 |
+| Cold Storage | 58.00% | ~59 |
 | Sam | 52.00% | ~53 |
-| Churchill | 50.00% | ~51 |
+| Churchill | 51.00% | ~52 |
+| Leave | 49.00% | ~50 |
 | Doctor | 49.00% | ~50 |
-| Leave | 48.00% | ~49 |
 | Commissioner | 48.00% | ~49 |
 | Engineer | 48.00% | ~49 |
 | Soldier | 47.00% | ~48 |
-| Press Play | 36.00% | ~37 |
+| Press Play | 37.00% | ~38 |
+| General | 24.00% | ~24 |
 | Bookworm | 23.00% | ~23 |
-| General | 23.00% | ~23 |
 | Stay | 15.00% | ~15 |
 | Floppy Disk Finder | 13.00% | ~13 |
 | Nurse | 12.00% | ~12 |
+| No Page Unturned | 5.00% | ~5 |
 | Friends | 5.00% | ~5 |
-| No Page Unturned | 4.00% | ~4 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 102 (Ranked 278)  
-Completed: 3 (2.94%) (Ranked 51)  
+Completed: 3 (2.94%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

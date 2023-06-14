@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
     {
       "Time": "2023-06-14T15:02:06.1915212+00:00",
       "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T16:02:05.996608+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 0
     }
   ],
@@ -148,7 +153,7 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -268,7 +273,7 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -333,7 +338,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
@@ -341,8 +346,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:02:06.1915208+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:02:05.9966075+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.4813119+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:22.0335625+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:02:06.191543+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:57:44.0550447+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:02:05.996628+00:00"
 }

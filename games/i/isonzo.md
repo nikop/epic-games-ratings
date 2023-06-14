@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 36.00% | ~2,244 |
 | Mamma Mia! | 36.00% | ~2,244 |
 | Gabriele D'Annunzio | 32.00% | ~1,994 |
-| Silver Lining | 28.00% | ~1,745 |
+| Silver Lining | 29.00% | ~1,807 |
 | Aurelio Baruzzi | 22.00% | ~1,371 |
 | Veni Vidi Vici | 22.00% | ~1,371 |
 | Decimation | 20.00% | ~1,246 |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,232 (Ranked 124)  
-Completed: 8 (0.13%) (Ranked 166)  
+Completed: 8 (0.13%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

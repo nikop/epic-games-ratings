@@ -3,7 +3,7 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -527,6 +527,11 @@
       "Time": "2023-06-14T12:03:47.4776863+00:00",
       "NumProgressed": 434,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-14T16:04:08.7319392+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -538,7 +543,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "booty_call",
@@ -562,15 +567,15 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 278
+      "UsersEstimate": 274
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -610,7 +615,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "only_thyme_will_tell",
@@ -624,9 +629,9 @@
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "smooth_criminal",
@@ -648,16 +653,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 5
     }
   ],
@@ -665,8 +670,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:03:50.7448149+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:04:08.7319388+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:50.2848511+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:03:50.7448443+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:58:18.6178597+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:04:08.7319523+00:00"
 }

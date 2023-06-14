@@ -8,9 +8,9 @@
 | Break no Sweat | 97.00% | ~91 |
 | Every little bit counts | 96.00% | ~90 |
 | Growth | 85.00% | ~80 |
-| Targeting the Enemy | 67.00% | ~63 |
+| Targeting the Enemy | 68.00% | ~64 |
 | Unavoidable | 62.00% | ~58 |
-| Revenge | 59.00% | ~55 |
+| Revenge | 60.00% | ~56 |
 | Reunion | 39.00% | ~37 |
 | Fluke | 34.00% | ~32 |
 | Victor's Prejudice | 32.00% | ~30 |
@@ -63,7 +63,7 @@
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 281)  
-Completed: 0 (0.00%) (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

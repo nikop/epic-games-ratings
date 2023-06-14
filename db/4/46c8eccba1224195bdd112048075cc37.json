@@ -3,9 +3,9 @@
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-06-14T02:13:02.0206574+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T16:00:59.7617189+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -186,7 +191,7 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -226,7 +231,7 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -234,7 +239,7 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -242,9 +247,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FourthBoss",
@@ -274,9 +279,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MonsterSlayer",
@@ -290,7 +295,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -306,9 +311,9 @@
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TenLevel",
@@ -331,14 +336,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:00:02.7094942+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:00:59.7617185+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:01.2128879+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:00:02.7095242+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:57:18.5653923+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:00:59.7617337+00:00"
 }

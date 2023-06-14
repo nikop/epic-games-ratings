@@ -3,9 +3,9 @@
   "Name": "Alien Marauder",
   "ProductSlug": "alien-marauder-1f1ddf",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-16T02:00:00+00:00",
     "PcReleaseDate": "2022-12-16T02:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.6958773+00:00",
   "LastChanged": "2023-03-31T05:57:52.6958774+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.6958211+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:48.8411259+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:04:46.7608289+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:28.4936446+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:05:14.269623+00:00"
 }

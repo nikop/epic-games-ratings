@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,757 |
-| Un-Lonely Island | 48.00% | ~1,741 |
-| The Beginning of a Servantship | 46.00% | ~1,669 |
-| Trade Is My Trait | 36.00% | ~1,306 |
-| Number 18 | 25.00% | ~907 |
-| We Don't Have Time For That | 20.00% | ~726 |
-| The Governator | 18.00% | ~653 |
+| Just One...More...Term... | 76.00% | ~2,760 |
+| Un-Lonely Island | 48.00% | ~1,743 |
+| The Beginning of a Servantship | 46.00% | ~1,670 |
+| Trade Is My Trait | 36.00% | ~1,307 |
+| Number 18 | 25.00% | ~908 |
+| We Don't Have Time For That | 19.00% | ~690 |
+| The Governator | 18.00% | ~654 |
 | The Legend of Langostino | 17.00% | ~617 |
-| Caribbean Comrade | 16.00% | ~580 |
-| The Dreamer of Dreams | 16.00% | ~580 |
+| Caribbean Comrade | 16.00% | ~581 |
+| The Dreamer of Dreams | 16.00% | ~581 |
 | Happy Ending? | 11.00% | ~399 |
 | Go Sovereigns! | 11.00% | ~399 |
 | For Science! | 11.00% | ~399 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~218 |
 | I Owe You Nothing | 6.00% | ~218 |
 | Watch The World Burn | 6.00% | ~218 |
-| Viva Tropico! | 5.00% | ~181 |
-| Computer Says "No" | 5.00% | ~181 |
-| Fairy Tale Come True | 5.00% | ~181 |
+| Viva Tropico! | 5.00% | ~182 |
+| Computer Says "No" | 5.00% | ~182 |
+| Fairy Tale Come True | 5.00% | ~182 |
 | Apocalypso | 4.00% | ~145 |
 | Been there, Done That | 3.00% | ~109 |
 | Narcissist | 3.00% | ~109 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,628 (Ranked 135)  
-Completed: 1 (0.03%) (Ranked 196)  
+Progressed: 3,631 (Ranked 135)  
+Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 1 (0.03%) (Ranked 196)
 | 2023-06-11 | 3,572 | 1 |
 | 2023-06-12 | 3,598 | 1 |
 | 2023-06-13 | 3,621 | 1 |
-| 2023-06-14 | 3,628 | 1 |
+| 2023-06-14 | 3,631 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 653 (Ranked 275)  

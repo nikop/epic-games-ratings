@@ -3,8 +3,8 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1954,
+  "EOS_Progressed": 1955,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
@@ -758,6 +758,11 @@
       "Time": "2023-06-14T00:01:48.4501736+00:00",
       "NumProgressed": 1954,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-14T16:02:15.4060265+00:00",
+      "NumProgressed": 1955,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -793,7 +798,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MOVE_ON",
@@ -841,7 +846,7 @@
       "Name": "Stronger together",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "THE_END",
@@ -872,7 +877,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1954,
+      "Progressed": 1955,
       "Completed": 5
     }
   ],
@@ -880,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:02:13.525166+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:02:15.4060261+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.6552916+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:50.7650935+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:02:13.5251813+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:31.0885831+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:02:15.4060378+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4510,10 +4510,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10533,
       "NumberOfAwardsMax": 6173
+    },
+    {
+      "Time": "2023-06-14T15:59:15.508255+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10534,
+      "NumberOfAwardsMax": 6173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10533,
+  "NumberOfAwards": 10534,
   "NumberOfAwardsMax": 6173,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4575,7 +4581,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 463
+      "Count": 464
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4590,9 +4596,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709281,
+  "EOS_Progressed": 709285,
   "EOS_Completed": 12769,
-  "EOS_NewPlayers": 1423,
+  "EOS_NewPlayers": 1418,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9805,6 +9811,11 @@
       "Time": "2023-06-14T15:05:53.1676521+00:00",
       "NumProgressed": 709281,
       "NumCompleted": 12769
+    },
+    {
+      "Time": "2023-06-14T16:06:32.0489623+00:00",
+      "NumProgressed": 709285,
+      "NumCompleted": 12769
     }
   ],
   "TotalAchievements": 50,
@@ -10152,7 +10163,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10184,7 +10195,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -10208,28 +10219,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18582,
-      "Completed": 10266
+      "Progressed": 18586,
+      "Completed": 10267
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709281,
+      "Progressed": 709285,
       "Completed": 12769
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-14T09:58:41.5015357+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:53.1676517+00:00",
+  "LastChanged": "2023-06-14T15:59:15.5082549+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:06:32.0489619+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:58:38.1628693+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:53.1677293+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:59:15.5082554+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:06:32.0490301+00:00"
 }

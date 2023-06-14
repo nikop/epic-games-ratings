@@ -2,11 +2,11 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -374,6 +374,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 163,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2023-06-14T16:00:31.233306+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 163,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
@@ -388,9 +394,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10482,
+  "EOS_Progressed": 10484,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4723,6 +4729,11 @@
       "Time": "2023-06-14T15:05:51.4169213+00:00",
       "NumProgressed": 10482,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-14T16:06:29.8381727+00:00",
+      "NumProgressed": 10484,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 35,
@@ -4734,7 +4745,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8386
+      "UsersEstimate": 8387
     },
     {
       "ID": "ACH02",
@@ -4790,7 +4801,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "ACH09",
@@ -4838,7 +4849,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH15",
@@ -4846,7 +4857,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH16",
@@ -4854,7 +4865,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH17",
@@ -4926,7 +4937,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH26",
@@ -5013,16 +5024,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10482,
+      "Progressed": 10484,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-06-13T16:01:19.0557443+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:51.4169209+00:00",
+  "LastChanged": "2023-06-14T16:00:31.2333058+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:06:29.8381721+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:59:41.0073935+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:51.4169747+00:00"
+  "LastUpdate_Ratings": "2023-06-14T16:00:31.2333063+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:06:29.8382134+00:00"
 }

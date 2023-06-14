@@ -10,7 +10,7 @@ Number of Ratings: 22  (23.09.2022)
 | Grand Opening | 38.00% | ~166 |
 | Circus Electrique Proudly Presents... | 38.00% | ~166 |
 | Path of Learning | 38.00% | ~166 |
-| Built in a Day | 31.00% | ~136 |
+| Built in a Day | 32.00% | ~140 |
 | More Brain Than Brawn | 27.00% | ~118 |
 | Perfect Illusion | 22.00% | ~96 |
 | Hundred Percent First | 22.00% | ~96 |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 438 (Ranked 209)  
-Completed: 1 (0.23%) (Ranked 145)  
+Completed: 1 (0.23%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

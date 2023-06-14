@@ -6,8 +6,8 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-06-14T15:05:46.71249+00:00",
       "NumProgressed": 820,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-14T16:06:24.4679392+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -766,7 +771,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -774,7 +779,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -806,7 +811,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -838,7 +843,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -854,7 +859,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -862,7 +867,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -870,7 +875,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_POSTCARD",
@@ -902,7 +907,7 @@
       "Name": "Good start",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_STAR_2",
@@ -910,7 +915,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_STAR_3",
@@ -965,7 +970,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 15
     }
   ],
@@ -973,8 +978,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-14T15:05:46.7124896+00:00",
+  "LastChanged_Achievements": "2023-06-14T16:06:24.4679387+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7192989+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:57:02.8234594+00:00",
-  "LastUpdate_Achievements": "2023-06-14T15:05:46.7125162+00:00"
+  "LastUpdate_Ratings": "2023-06-14T15:57:20.422245+00:00",
+  "LastUpdate_Achievements": "2023-06-14T16:06:24.4679607+00:00"
 }

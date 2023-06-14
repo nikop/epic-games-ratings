@@ -3,7 +3,7 @@
 [View Rawdata](../../db/m/monster_outbreak.json)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 380)  
-Completed: 0 (0.00%) (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

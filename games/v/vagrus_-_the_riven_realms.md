@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | A Second Chance | 55.00% | ~56 |
 | Press-ganged | 41.00% | ~41 |
-| The Package | 22.00% | ~22 |
+| The Package | 23.00% | ~23 |
 | Randomized | 12.00% | ~12 |
 | Conquered | 12.00% | ~12 |
 | Scribe | 4.00% | ~4 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 279)  
-Completed: 0 (0.00%) (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
