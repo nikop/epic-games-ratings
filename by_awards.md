@@ -65,7 +65,7 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,022 | 4.34 | 738 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,941 | 4.06 | 892 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,743 | 4.56 | 453 |
-| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,695 | 4.65 | 296 |
+| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,701 | 4.65 | 296 |
 | 67 | [Shop Titans](games/s/shop_titans.md) | 4,623 | 3.99 | 908 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,534 | 4.70 | 196 |
 | 69 | [Dead Island 2](games/d/dead_island_2.md) | 4,444 | 4.54 | 489 |
@@ -128,7 +128,7 @@
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,238 | 4.51 | 531 |
 | 127 | [XCOM® 2](games/x/xcom®_2.md) | 1,181 | 4.55 | 474 |
 | 128 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,175 | 4.70 | 196 |
-| 129 | [OUTRIDERS](games/o/outriders.md) | 1,137 | 4.42 | 658 |
+| 129 | [OUTRIDERS](games/o/outriders.md) | 1,139 | 4.42 | 658 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,129 | 4.54 | 489 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,125 | 4.42 | 658 |
 | 132 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,112 | 4.79 | 88 |
@@ -165,8 +165,8 @@
 | 163 | [Subnautica](games/s/subnautica.md) | 668 | 4.85 | 40 |
 | 164 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 650 | 4.67 | 257 |
 | 165 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 630 | 4.61 | 362 |
+| 166 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 629 | 4.59 | 408 |
 | 166 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 629 | 4.79 | 88 |
-| 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 626 | 4.59 | 408 |
 | 168 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 622 | 4.49 | 566 |
 | 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 618 | 4.74 | 144 |
 | 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 610 | 4.74 | 144 |
@@ -375,9 +375,9 @@
 | 372 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 649 |
 | 372 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 315 |
 | 375 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 362 |
-| 376 | [Dead Space](games/d/dead_space.md) | 63 | 4.68 | 238 |
-| 376 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 531 |
-| 376 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.62 | 348 |
+| 376 | [Ticket to Ride](games/t/ticket_to_ride.md) | 64 | 4.62 | 348 |
+| 377 | [Dead Space](games/d/dead_space.md) | 63 | 4.68 | 238 |
+| 377 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 531 |
 | 379 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 566 |
 | 379 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 62 | 4.63 | 333 |
 | 379 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 388 |
@@ -424,10 +424,10 @@
 | 420 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 39 | 4.36 | 721 |
 | 423 | [Bugsnax](games/b/bugsnax.md) | 38 | 4.86 | 29 |
 | 423 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.46 | 603 |
-| 425 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 37 | 4.60 | 388 |
-| 425 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 37 | 4.58 | 421 |
-| 425 | [Returnal™](games/r/returnal™.md) | 37 | 4.61 | 362 |
-| 425 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 37 | 4.77 | 107 |
+| 423 | [Returnal™](games/r/returnal™.md) | 38 | 4.61 | 362 |
+| 426 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 37 | 4.60 | 388 |
+| 426 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 37 | 4.58 | 421 |
+| 426 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 37 | 4.77 | 107 |
 | 429 | [20XX](games/2/20xx.md) | 36 | 4.61 | 362 |
 | 429 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 36 | 4.82 | 66 |
 | 429 | [Steelrising](games/s/steelrising.md) | 36 | 4.27 | 788 |

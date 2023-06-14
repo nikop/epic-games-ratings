@@ -39,14 +39,14 @@
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
-| 40 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.71% |
-| 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
+| 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
+| 41 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.65% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.52% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.50% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.29% |
-| 47 | [The Complex](games/t/the_complex.md) | 3.24% |
+| 47 | [The Complex](games/t/the_complex.md) | 3.23% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.95% |
@@ -78,7 +78,7 @@
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.65% |
 | 75 | [Poosh XL](games/p/poosh_xl.md) | 1.65% |
 | 78 | [Somerville](games/s/somerville.md) | 1.58% |
-| 79 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
+| 79 | [A Musical Story](games/a/a_musical_story.md) | 1.52% |
 | 80 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 81 | [Night Book](games/n/night_book.md) | 1.49% |
 | 82 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
@@ -92,7 +92,7 @@
 | 90 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 91 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.04% |
-| 93 | [Sable](games/s/sable.md) | 0.95% |
+| 93 | [Sable](games/s/sable.md) | 0.94% |
 | 94 | [Hades](games/h/hades.md) | 0.89% |
 | 95 | [Adios](games/a/adios.md) | 0.87% |
 | 96 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
@@ -105,8 +105,8 @@
 | 103 | [Haven](games/h/haven.md) | 0.71% |
 | 103 | [Them and Us](games/t/them_and_us.md) | 0.71% |
 | 105 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.69% |
-| 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
-| 107 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.68% |
+| 106 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
+| 106 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.68% |
 | 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 109 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.65% |
 | 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
@@ -377,6 +377,7 @@
 | 222 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 0.00% |
 | 222 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
 | 222 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
+| 222 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 0.00% |
 | 222 | [Redfall](games/r/redfall.md) | 0.00% |
 | 222 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 222 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
@@ -450,4 +451,4 @@
 | 222 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 222 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 222 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,777 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,778 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

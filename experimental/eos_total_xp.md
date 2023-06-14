@@ -321,6 +321,7 @@
 | [RAILGRADE](../games/r/railgrade.md) | 37 | 1,000 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 55 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
+| [Recollection](../games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 26 | 1,000 |
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
