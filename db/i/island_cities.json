@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -1541,17 +1541,17 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_006",
@@ -1702,8 +1702,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:06:32.9986109+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:28.3706119+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:58:26.626794+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:06:32.9986433+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:57:46.6540278+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:28.3706361+00:00"
 }

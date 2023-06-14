@@ -2,9 +2,9 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -391,6 +391,11 @@
       "Time": "2023-06-14T14:02:36.9141255+00:00",
       "NumProgressed": 437,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T15:02:20.3695019+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -442,7 +447,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "TROP006",
@@ -466,7 +471,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "TROP009",
@@ -498,7 +503,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "TROP013",
@@ -522,7 +527,7 @@
       "Name": "For a Better Tomorrow",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TROP016",
@@ -546,7 +551,7 @@
       "Name": "Mother Love",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TROP019",
@@ -560,9 +565,9 @@
       "ID": "TROP020",
       "SetID": "9n0dl35",
       "Name": "Peaceful Instinct",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "TROP021",
@@ -584,9 +589,9 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 171
     },
     {
       "ID": "TROP024",
@@ -625,7 +630,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 3
     }
   ],
@@ -633,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:02:36.9141244+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:02:20.3695014+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:14.0709355+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:59:32.2859736+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:02:36.914149+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:58:31.7333718+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:02:20.369526+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -263,6 +263,11 @@
       "Time": "2023-06-14T09:05:29.500608+00:00",
       "NumProgressed": 710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T15:05:32.4379981+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -274,7 +279,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "11",
@@ -306,7 +311,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "15",
@@ -370,7 +375,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "22",
@@ -537,7 +542,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 0
     }
   ],
@@ -545,8 +550,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:06:38.5532716+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:32.4379976+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.8988015+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:58:54.8564288+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:06:38.5532996+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:58:05.7939141+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:32.4380246+00:00"
 }

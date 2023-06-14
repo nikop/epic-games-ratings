@@ -5,7 +5,7 @@
   "Ranking_Rating": 134,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 70,
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 125,
@@ -4995,10 +4995,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 12653,
       "NumberOfAwardsMax": 5191
+    },
+    {
+      "Time": "2023-06-14T14:59:01.7668207+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12656,
+      "NumberOfAwardsMax": 5191
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12653,
+  "NumberOfAwards": 12656,
   "NumberOfAwardsMax": 5191,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5018,7 +5024,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 445
+      "Count": 448
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5098,8 +5104,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-06-14T11:59:06.8496822+00:00",
+  "LastChanged": "2023-06-14T14:59:01.7668204+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:54.4782406+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:00:16.0429424+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:05:37.0430036+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:59:01.7668212+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:04:48.9210609+00:00"
 }

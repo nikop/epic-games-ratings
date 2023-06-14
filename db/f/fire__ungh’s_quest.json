@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -470,17 +470,17 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:06:48.3232872+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:39.8057129+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:00:43.6316808+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:06:48.3233095+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:59:21.0705013+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:39.8057328+00:00"
 }

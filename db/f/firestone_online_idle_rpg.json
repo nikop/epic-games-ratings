@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3365,9 +3365,9 @@
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "heroinspection",
@@ -3734,8 +3734,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:07:00.3110334+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:49.1359818+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:58:26.4366407+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:07:00.3111293+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:57:46.5449678+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:49.1360745+00:00"
 }

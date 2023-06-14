@@ -1544,9 +1544,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64968,
+  "EOS_Progressed": 64974,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6309,6 +6309,11 @@
       "Time": "2023-06-14T14:07:07.458647+00:00",
       "NumProgressed": 64968,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-14T15:05:54.2447327+00:00",
+      "NumProgressed": 64974,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6320,7 +6325,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -6344,7 +6349,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -6352,7 +6357,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -6360,7 +6365,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -6664,7 +6669,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6807,13 +6812,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64968,
+      "Progressed": 64974,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35248,
+      "Progressed": 35254,
       "Completed": 2646
     }
   ],
@@ -6821,8 +6826,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-14T14:00:34.238216+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:07:07.4586463+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:54.2447322+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:00:34.2382166+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:07:07.4587318+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:59:14.5652876+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:54.2448211+00:00"
 }

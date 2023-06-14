@@ -2,7 +2,7 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 125,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:22.779333+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:00:45.5321779+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:05:05.4629446+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:59:22.3587642+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:04:26.530448+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-06-14T14:06:10.0524799+00:00",
       "NumProgressed": 679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T15:05:12.6253917+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1393,9 +1398,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1417,9 +1422,9 @@
       "ID": "GadgetCompletion1",
       "SetID": "a9e499d",
       "Name": "Wunderkind",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GadgetProgress1",
@@ -1529,9 +1534,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1561,9 +1566,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "RewindParry",
@@ -1649,9 +1654,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "WarwickDefeated",
@@ -1698,14 +1703,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 681,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:06:10.0524794+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:05:12.6253912+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T14:00:09.7436997+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:06:10.0525393+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:58:57.4747822+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:05:12.6254473+00:00"
 }

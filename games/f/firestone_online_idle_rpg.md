@@ -39,8 +39,8 @@ Rating: 4.05 (Ranked 894)
 | Mastery | 7.00% | ~98 |
 | Moving Up The Ladder | 7.00% | ~98 |
 | Four Leaf Clover | 6.00% | ~84 |
+| Here We Go Again | 6.00% | ~84 |
 | Trader | 6.00% | ~84 |
-| Here We Go Again | 5.00% | ~70 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
 | The Expeditioner | 5.00% | ~70 |

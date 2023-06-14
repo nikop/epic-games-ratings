@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.52,
+  "EOS_Completed_Percentage": 3.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -503,6 +503,11 @@
       "Time": "2023-06-14T12:03:32.4268632+00:00",
       "NumProgressed": 142,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-14T15:03:35.8554448+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 11,
@@ -514,7 +519,7 @@
       "Name": "Solved first case",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "1",
@@ -522,15 +527,15 @@
       "Name": "Solved second case",
       "Percentage": 84,
       "XP": 90,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "2",
@@ -538,15 +543,15 @@
       "Name": "Solved third case",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "4",
@@ -562,7 +567,7 @@
       "Name": "Solved sixth case",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "6",
@@ -578,7 +583,7 @@
       "Name": "Solved eighth case",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "8",
@@ -601,22 +606,22 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 5
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 89,
-      "Completed": 89
+      "Progressed": 90,
+      "Completed": 90
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-14T14:03:54.4495102+00:00",
+  "LastChanged_Achievements": "2023-06-14T15:03:35.8554435+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:02.1380523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:59:19.6246109+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:03:54.4495239+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:58:23.0761171+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:03:35.8554712+00:00"
 }

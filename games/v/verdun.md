@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,631 |
-| Worth it | 63.00% | ~29,971 |
-| Eagle Eye | 55.00% | ~26,165 |
-| Corpseman I | 40.00% | ~19,029 |
-| Blast fishing | 37.00% | ~17,602 |
-| Not alone | 32.00% | ~15,223 |
-| Headhunter I | 26.00% | ~12,369 |
-| Manual Labour I | 25.00% | ~11,893 |
+| Setting an example | 77.00% | ~36,634 |
+| Worth it | 63.00% | ~29,974 |
+| Eagle Eye | 55.00% | ~26,167 |
+| Corpseman I | 40.00% | ~19,031 |
+| Blast fishing | 37.00% | ~17,603 |
+| Not alone | 32.00% | ~15,225 |
+| Headhunter I | 26.00% | ~12,370 |
+| Manual Labour I | 25.00% | ~11,894 |
 | Developers, Developers, Developers | 24.00% | ~11,418 |
 | Basic Training | 24.00% | ~11,418 |
-| Furchtlos und Treu | 13.00% | ~6,184 |
+| Furchtlos und Treu | 13.00% | ~6,185 |
 | Gott Mit Uns | 12.00% | ~5,709 |
 | This We'll Defend! | 9.00% | ~4,282 |
 | Anker wirf! | 9.00% | ~4,282 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,427 |
 | Silver x100 | 3.00% | ~1,427 |
 | Impavidum Ferient Bella! | 3.00% | ~1,427 |
-| Bronze x100 | 2.00% | ~951 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~951 |
+| Bronze x100 | 2.00% | ~952 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~952 |
 | Gold x100 | 1.00% | ~476 |
 | Hunting the Hun | 1.00% | ~476 |
 | #1 | 1.00% | ~476 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,573 (Ranked 81)  
+Progressed: 47,577 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 4 (0.01%) (Ranked 210)
 | 2023-06-11 | 47,287 | 4 |
 | 2023-06-12 | 47,416 | 4 |
 | 2023-06-13 | 47,523 | 4 |
-| 2023-06-14 | 47,573 | 4 |
+| 2023-06-14 | 47,577 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 338)  
 Sum: 747 (Ranked 256)  

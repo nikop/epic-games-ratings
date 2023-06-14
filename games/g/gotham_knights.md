@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,248 |
+| First Step Into the Knight | 5.00% | ~3,249 |
 | To the Victor Go the Spoils | 3.00% | ~1,949 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,949 |
 | Knighthood | 3.00% | ~1,949 |
@@ -46,10 +46,10 @@ Rating: 4.17 (Ranked 853)
 | A Momentum Occasion | 0.40% | ~260 |
 | He'd Be So Proud of You | 0.30% | ~195 |
 | Bat Out of Hell | 0.30% | ~195 |
-| Hammer and Icicle | 0.20% | ~70 |
-| Renewable Enemy Source | 0.20% | ~70 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
-| The Cold, the Bad and the Ugly | 0.20% | ~70 |
+| Hammer and Icicle | 0.20% | ~71 |
+| Renewable Enemy Source | 0.20% | ~71 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~71 |
+| The Cold, the Bad and the Ugly | 0.20% | ~71 |
 | Practice Makes Perfect | 0.20% | ~130 |
 | The Man-Bat Family | 0.20% | ~130 |
 | Element of Surprise | 0.10% | ~35 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 853)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,968 (Ranked 70)  
+Progressed: 64,974 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 95 (0.15%) (Ranked 160)
 | 2023-06-11 | 64,650 | 95 |
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
-| 2023-06-14 | 64,968 | 95 |
+| 2023-06-14 | 64,974 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
 Sum: 3,856 (Ranked 137)  

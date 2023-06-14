@@ -5,14 +5,14 @@ Rating: 4.57 (Ranked 443)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 17.00% | ~447 |
+| Wakey Wakey | 17.00% | ~448 |
 | Sputnik 2049 | 15.00% | ~395 |
-| Without Breaking Some Eggs... | 14.00% | ~368 |
-| Infinite Growth... | 14.00% | ~368 |
+| Without Breaking Some Eggs... | 14.00% | ~369 |
+| Infinite Growth... | 14.00% | ~369 |
 | Space Society | 9.00% | ~237 |
 | A Thousand Strong | 9.00% | ~237 |
 | Ready for a New World | 9.00% | ~237 |
-| Permanent Redesigns | 8.00% | ~210 |
+| Permanent Redesigns | 8.00% | ~211 |
 | Guy de Borderlands | 7.00% | ~184 |
 | Fully Recycled | 7.00% | ~184 |
 | Ain't Nobody Got Time for That | 7.00% | ~184 |
@@ -39,16 +39,16 @@ Rating: 4.57 (Ranked 443)
 | Mutual Loyalty | 1.00% | ~26 |
 | Sustainable Energy | 1.00% | ~26 |
 | Praise the Hull! | 1.00% | ~26 |
-| Space Greenhouse | 1.00% | ~26 |
 | Delivery! | 1.00% | ~26 |
 | Pedal to the Metal | 1.00% | ~26 |
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~24 |
+| Space Greenhouse | 0.90% | ~24 |
 | Help of the Forgotten Member | 0.90% | ~24 |
 | Tiqqun Contender | 0.80% | ~21 |
 | You Had One Job... | 0.80% | ~21 |
+| Scientifically Accurate | 0.80% | ~21 |
 | Tiqqun Unchained | 0.70% | ~18 |
-| Scientifically Accurate | 0.70% | ~18 |
 | Gregor Spinoza | 0.60% | ~16 |
 | Better Him Than Me | 0.50% | ~13 |
 | Remember the Dead | 0.30% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,631 (Ranked 147)  
+Progressed: 2,635 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 2,591 | 0 |
 | 2023-06-12 | 2,609 | 0 |
 | 2023-06-13 | 2,625 | 0 |
-| 2023-06-14 | 2,631 | 0 |
+| 2023-06-14 | 2,635 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

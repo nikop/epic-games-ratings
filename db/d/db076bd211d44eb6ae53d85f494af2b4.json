@@ -2,7 +2,7 @@
   "ID": "db076bd211d44eb6ae53d85f494af2b4",
   "Name": "The Dark Tower",
   "ProductSlug": "the-dark-tower-7a8b4c",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 125,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-14T11:56:57.7254465+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:57:26.1173017+00:00",
-  "LastUpdate_Achievements": "2023-06-14T14:03:46.181737+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:57:05.1415402+00:00",
+  "LastUpdate_Achievements": "2023-06-14T15:03:30.13406+00:00"
 }

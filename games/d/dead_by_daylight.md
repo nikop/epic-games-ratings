@@ -6,13 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.30% | ~1,659 |
-| Resurgence | 0.30% | ~1,659 |
-| Humanitarian | 0.30% | ~1,659 |
-| Wounded Healer | 0.20% | ~1,106 |
-| Close Shave | 0.20% | ~1,106 |
-| Preemptive Strike | 0.20% | ~1,106 |
-| Flight to Freedom | 0.20% | ~1,106 |
+| Healthy Obsession | 0.30% | ~1,660 |
+| Resurgence | 0.30% | ~1,660 |
+| Preemptive Strike | 0.30% | ~1,660 |
+| Humanitarian | 0.30% | ~1,660 |
+| Wounded Healer | 0.20% | ~1,107 |
+| First to the Punch | 0.20% | ~1,107 |
+| Close Shave | 0.20% | ~1,107 |
+| Flight to Freedom | 0.20% | ~1,107 |
 | The Grand Sacrifice | 0.10% | ~553 |
 | A bite for the Entity | 0.10% | ~553 |
 | A feast for the Entity | 0.10% | ~553 |
@@ -137,7 +138,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Left For Dead | 0.10% | ~553 |
 | Adept Bill | 0.10% | ~553 |
 | Denied! | 0.10% | ~553 |
-| First to the Punch | 0.10% | ~553 |
 | Tools of the Trade | 0.10% | ~553 |
 | Operation: Survival | 0.10% | ~553 |
 | Expert Generalist | 0.10% | ~553 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~553 |
 | Adept Gabriel | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,148 (Ranked 27)  
+Progressed: 553,327 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 42 (0.01%) (Ranked 210)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 553,148 | 42 |
+| 2023-06-14 | 553,327 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
 Sum: 227,062 (Ranked 12)  

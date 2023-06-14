@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 10.00% | ~68 |
+| Time Heals All Wounds | 11.00% | ~75 |
 | Treasure Trove | 9.00% | ~61 |
+| The Mysterious Stranger | 9.00% | ~61 |
 | Rail Rat | 9.00% | ~61 |
 | Cartographer | 9.00% | ~61 |
 | The Steel Shadow | 8.00% | ~54 |
-| The Mysterious Stranger | 8.00% | ~54 |
 | Make Up For Lost Time | 8.00% | ~54 |
-| No, Thanks! | 8.00% | ~54 |
 | Breaking Down Barriers | 8.00% | ~54 |
 | The Prince in Heels | 8.00% | ~54 |
-| Immaculate Aim | 8.00% | ~54 |
 | Immaculate Aim | 8.00% | ~54 |
 | The Man Who Shattered Time | 7.00% | ~48 |
 | Time Flies | 7.00% | ~48 |
 | The Harder They Fall | 7.00% | ~48 |
+| No, Thanks! | 7.00% | ~48 |
 | The Wicked Twins | 7.00% | ~48 |
 | Honest Mistake | 7.00% | ~48 |
 | Golem Chaser | 7.00% | ~48 |
 | Fast Learner | 7.00% | ~48 |
+| Immaculate Aim | 7.00% | ~48 |
 | The Brass Boss | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
 | Like Clockwork | 6.00% | ~41 |
@@ -51,14 +51,14 @@
 | Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.90% | ~6 |
 | Thinking Two Steps Ahead | 0.60% | ~4 |
-| Wunderkind | 0.40% | ~3 |
+| Wunderkind | 0.60% | ~4 |
 | Wildlife Protection | 0.30% | ~2 |
 | Going to Live Forever | 0.10% | ~1 |
 | A Lesson in Precision | 0.10% | ~1 |
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679 (Ranked 191)  
+Progressed: 681 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 1 (0.15%) (Ranked 160)
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
-| 2023-06-14 | 679 | 1 |
+| 2023-06-14 | 681 | 1 |
