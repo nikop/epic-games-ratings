@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5980,18 +5980,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 28592,
       "NumberOfAwardsMax": 12294
+    },
+    {
+      "Time": "2023-06-14T13:57:52.6809388+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28609,
+      "NumberOfAwardsMax": 12311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28592,
-  "NumberOfAwardsMax": 12294,
+  "NumberOfAwards": 28609,
+  "NumberOfAwardsMax": 12311,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12294
+      "Count": 12311
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6071,8 +6077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-06-14T09:57:28.9635954+00:00",
+  "LastChanged": "2023-06-14T13:57:52.6809385+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.5387153+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:03:56.4881477+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:08:06.829983+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:57:52.6809392+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:01:56.1745809+00:00"
 }

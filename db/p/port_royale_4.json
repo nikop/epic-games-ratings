@@ -2,12 +2,12 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1363,6 +1363,6 @@
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
   "LastChanged_Achievements": "2023-06-14T13:13:18.2856052+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:05:07.1594461+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:18.2856888+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:59:00.0699553+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:56.8625465+00:00"
 }

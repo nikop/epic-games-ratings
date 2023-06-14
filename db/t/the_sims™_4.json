@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -2894,10 +2894,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2182,
       "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-06-14T13:57:54.3501744+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2198,
+      "NumberOfAwardsMax": 344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2182,
+  "NumberOfAwards": 2198,
   "NumberOfAwardsMax": 344,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2923,7 +2929,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 204
+      "Count": 212
     },
     {
       "Text": "This game is Educational",
@@ -2941,7 +2947,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 170
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2980,8 +2986,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-14T05:57:53.1086+00:00",
+  "LastChanged": "2023-06-14T13:57:54.3501742+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:42.8303443+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:03:58.1658722+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:09:34.2264198+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:57:54.350175+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:03:22.2139937+00:00"
 }

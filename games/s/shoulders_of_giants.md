@@ -1,32 +1,32 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.35 (Ranked 729)  
+Rating: 4.35 (Ranked 730)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,895 |
-| A Ribbiting Performance | 77.00% | ~1,658 |
-| At Least We Have Each Other... | 75.00% | ~1,615 |
+| On the Shoulders of Giants | 88.00% | ~1,896 |
+| A Ribbiting Performance | 77.00% | ~1,659 |
+| At Least We Have Each Other... | 75.00% | ~1,616 |
 | Frogbot | 73.00% | ~1,572 |
-| Ouch | 55.00% | ~1,184 |
+| Ouch | 55.00% | ~1,185 |
 | Fun in the Stun | 54.00% | ~1,163 |
-| Do you feel like a tough guy? | 44.00% | ~947 |
-| The Interdimensional Power of Friendship | 44.00% | ~947 |
-| Turn Up The HEAT | 40.00% | ~861 |
+| Do you feel like a tough guy? | 44.00% | ~948 |
+| The Interdimensional Power of Friendship | 44.00% | ~948 |
+| Turn Up The HEAT | 40.00% | ~862 |
 | Stop Hitting Yourself! | 34.00% | ~732 |
 | Nothing to Wear | 30.00% | ~646 |
-| The First Law of Thermodynamics | 27.00% | ~581 |
+| The First Law of Thermodynamics | 27.00% | ~582 |
 | Do you trust me? | 15.00% | ~323 |
-| The Second Law of Thermodynamics | 14.00% | ~301 |
+| The Second Law of Thermodynamics | 14.00% | ~302 |
 | The Third Law of Thermodynamics | 9.00% | ~194 |
 | Say "Cheese!" | 9.00% | ~194 |
 | Taking Out the Trash | 9.00% | ~194 |
 | Better Than the Devs | 4.00% | ~86 |
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,153 (Ranked 152)  
-Completed: 9 (0.42%) (Ranked 122)  
+Progressed: 2,154 (Ranked 152)  
+Completed: 9 (0.42%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 9 (0.42%) (Ranked 122)
 | 2023-06-11 | 2,146 | 9 |
 | 2023-06-12 | 2,149 | 9 |
 | 2023-06-13 | 2,152 | 9 |
-| 2023-06-14 | 2,153 | 9 |
+| 2023-06-14 | 2,154 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

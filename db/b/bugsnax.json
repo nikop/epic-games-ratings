@@ -2566,9 +2566,9 @@
       "ID": "ACH_SNAKPODS",
       "SetID": "2m0copd",
       "Name": "Grab Bag",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6375
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -2630,8 +2630,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-09T23:59:56.4619159+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:09:42.1006927+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:03:30.1205836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:16.4134384+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:06:49.7587704+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:09:42.1007261+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:00:38.9336316+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:03:30.1206216+00:00"
 }

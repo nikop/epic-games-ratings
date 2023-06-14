@@ -14,9 +14,9 @@ Number of Ratings: 209  (23.09.2022)
 | Knee bending | 96.00% | ~2,004 |
 | Pickaxe | 94.00% | ~1,962 |
 | Revenge | 94.00% | ~1,962 |
+| Cage Town | 94.00% | ~1,962 |
 | Entered Cage Town | 93.00% | ~1,941 |
 | Stone Pickaxe | 93.00% | ~1,941 |
-| Cage Town | 93.00% | ~1,941 |
 | Surprise | 93.00% | ~1,941 |
 | Force Beam | 92.00% | ~1,920 |
 | Magnet | 90.00% | ~1,878 |
@@ -38,7 +38,7 @@ Number of Ratings: 209  (23.09.2022)
 | Guard Distracted | 80.00% | ~1,670 |
 | Translocator | 79.00% | ~1,649 |
 | Inner Peace | 77.00% | ~1,607 |
-| Diamond Pickaxe | 76.00% | ~1,586 |
+| Diamond Pickaxe | 77.00% | ~1,607 |
 | Killed them all | 76.00% | ~1,586 |
 | Trickle Down Economy | 76.00% | ~1,586 |
 | Win | 75.00% | ~1,565 |

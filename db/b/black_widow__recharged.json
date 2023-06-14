@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 103,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15249,
+  "EOS_Progressed": 15250,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -4701,6 +4701,11 @@
       "Time": "2023-06-14T13:13:07.2781898+00:00",
       "NumProgressed": 15249,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-14T14:06:46.0635955+00:00",
+      "NumProgressed": 15250,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 14,
@@ -4712,7 +4717,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12047
+      "UsersEstimate": 12048
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -4816,22 +4821,22 @@
       "Name": "Wild West Hero",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15249,
+      "Progressed": 15250,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:13:07.2781893+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:46.0635946+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.9695913+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:07:31.0301855+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:07.2782331+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:01:20.5274104+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:46.0636578+00:00"
 }

@@ -16,14 +16,14 @@
 | The Prince in Heels | 8.00% | ~54 |
 | Immaculate Aim | 8.00% | ~54 |
 | Immaculate Aim | 8.00% | ~54 |
-| The Man Who Shattered Time | 7.00% | ~47 |
-| Time Flies | 7.00% | ~47 |
-| The Harder They Fall | 7.00% | ~47 |
-| The Wicked Twins | 7.00% | ~47 |
-| Honest Mistake | 7.00% | ~47 |
-| Golem Chaser | 7.00% | ~47 |
-| Fast Learner | 7.00% | ~47 |
-| The Brass Boss | 7.00% | ~47 |
+| The Man Who Shattered Time | 7.00% | ~48 |
+| Time Flies | 7.00% | ~48 |
+| The Harder They Fall | 7.00% | ~48 |
+| The Wicked Twins | 7.00% | ~48 |
+| Honest Mistake | 7.00% | ~48 |
+| Golem Chaser | 7.00% | ~48 |
+| Fast Learner | 7.00% | ~48 |
+| The Brass Boss | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
 | Like Clockwork | 6.00% | ~41 |
 | Street Style | 6.00% | ~41 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 192)  
+Progressed: 679 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 1 (0.15%) (Ranked 160)
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
-| 2023-06-14 | 678 | 1 |
+| 2023-06-14 | 679 | 1 |

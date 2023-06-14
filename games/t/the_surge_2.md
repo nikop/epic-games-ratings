@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 795)  
+Rating: 4.25 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 795)
 | Unforeseeable Consequences | 19.00% | ~338 |
 | Dead Again | 18.00% | ~320 |
 | Clean Cut | 18.00% | ~320 |
-| Full Arsenal | 16.00% | ~284 |
+| Full Arsenal | 17.00% | ~302 |
 | Can't Trust Banks | 15.00% | ~267 |
 | Mommy Dearest | 13.00% | ~231 |
 | Bad Dog | 13.00% | ~231 |

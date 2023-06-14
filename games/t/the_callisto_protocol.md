@@ -1,24 +1,24 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 844)  
+Rating: 4.18 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,286 |
+| Flesh Wound | 15.00% | ~2,287 |
 | The Outer Way | 14.00% | ~2,134 |
-| Desperate Times | 13.00% | ~1,981 |
-| Paper Jams | 11.00% | ~1,676 |
-| Reforged | 10.00% | ~1,524 |
+| Desperate Times | 13.00% | ~1,982 |
+| Paper Jams | 11.00% | ~1,677 |
+| Reforged | 10.00% | ~1,525 |
 | Chew 'Em Up | 9.00% | ~1,372 |
 | Workplace Hazard | 9.00% | ~1,372 |
 | If the SHU Fits... | 9.00% | ~1,372 |
 | Giving Back | 7.00% | ~1,067 |
 | Get a Grip | 7.00% | ~1,067 |
 | Without A Paddle | 7.00% | ~1,067 |
-| Terminated | 6.00% | ~914 |
-| In the Pipe, Five by Five | 6.00% | ~914 |
-| Crash Site | 6.00% | ~914 |
+| Terminated | 6.00% | ~915 |
+| In the Pipe, Five by Five | 6.00% | ~915 |
+| Crash Site | 6.00% | ~915 |
 | Two Heads Are Better Than One | 5.00% | ~762 |
 | Float Like A Butterfly | 5.00% | ~762 |
 | Power Up | 5.00% | ~762 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 844)
 | Grim Reaper | 0.90% | ~137 |
 | Recidivist | 0.70% | ~22 |
 | Lifer | 0.70% | ~22 |
-| Armed to the Teeth | 0.30% | ~9 |
+| Armed to the Teeth | 0.30% | ~10 |
 | The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 844)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,240 (Ranked 104)  
+Progressed: 15,246 (Ranked 104)  
 Completed: 55 (0.36%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 55 (0.36%) (Ranked 128)
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
-| 2023-06-14 | 15,240 | 55 |
+| 2023-06-14 | 15,246 | 55 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 387)  
 Sum: 307 (Ranked 329)  

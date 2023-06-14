@@ -1,14 +1,14 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 826)  
+Rating: 4.20 (Ranked 827)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,236 |
-| Battering Crew | 20.00% | ~3,118 |
-| The Kingsroad | 19.00% | ~2,962 |
+| Conqueror | 40.00% | ~6,237 |
+| Battering Crew | 20.00% | ~3,119 |
+| The Kingsroad | 19.00% | ~2,963 |
 | Well Stocked | 14.00% | ~2,183 |
 | Royal Fleet | 14.00% | ~2,183 |
 | The Kraken’s Grasp | 10.00% | ~1,559 |
@@ -17,19 +17,19 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 8.00% | ~1,247 |
 | Influential | 8.00% | ~1,247 |
 | A Long Journey | 8.00% | ~1,247 |
-| Ours is the Fury | 7.00% | ~1,091 |
-| We Do Not Sow | 7.00% | ~1,091 |
-| Winter is Coming | 7.00% | ~1,091 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~935 |
-| Hear me Roar! | 6.00% | ~935 |
-| Defender of the Wall | 6.00% | ~935 |
+| Ours is the Fury | 7.00% | ~1,092 |
+| We Do Not Sow | 7.00% | ~1,092 |
+| Winter is Coming | 7.00% | ~1,092 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~936 |
+| Hear me Roar! | 6.00% | ~936 |
+| Defender of the Wall | 6.00% | ~936 |
 | Growing Strong | 5.00% | ~780 |
 | What is Dead may Never Die | 3.00% | ~468 |
 | The Swift | 3.00% | ~468 |
 | King in the North | 2.00% | ~312 |
 | War of the Five Kings | 1.00% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,590 (Ranked 101)  
+Progressed: 15,593 (Ranked 101)  
 Completed: 33 (0.21%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 33 (0.21%) (Ranked 150)
 | 2023-06-11 | 15,364 | 32 |
 | 2023-06-12 | 15,458 | 32 |
 | 2023-06-13 | 15,547 | 33 |
-| 2023-06-14 | 15,590 | 33 |
+| 2023-06-14 | 15,593 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 306)  
 Sum: 782 (Ranked 253)  

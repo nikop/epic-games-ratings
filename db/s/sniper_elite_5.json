@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2821,
+  "EOS_Progressed": 2823,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3513,6 +3513,11 @@
       "Time": "2023-06-14T13:13:18.2646011+00:00",
       "NumProgressed": 2821,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T14:06:56.7788479+00:00",
+      "NumProgressed": 2823,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3556,7 +3561,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3588,7 +3593,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3604,7 +3609,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3692,7 +3697,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3772,7 +3777,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3780,7 +3785,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3916,7 +3921,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4091,13 +4096,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2772,
+      "Progressed": 2774,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2821,
+      "Progressed": 2823,
       "Completed": 2
     }
   ],
@@ -4105,8 +4110,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:13:18.2646005+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:56.7788473+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:07:41.5949817+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:18.2647153+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:01:30.7020717+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:56.7789436+00:00"
 }

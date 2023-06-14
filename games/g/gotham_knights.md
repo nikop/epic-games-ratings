@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 852)  
+Rating: 4.17 (Ranked 853)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 852)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,961 (Ranked 70)  
+Progressed: 64,968 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,17 +122,17 @@ Completed: 95 (0.15%) (Ranked 160)
 | 2023-06-11 | 64,650 | 95 |
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
-| 2023-06-14 | 64,961 | 95 |
+| 2023-06-14 | 64,968 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
-Sum: 3,855 (Ranked 137)  
+Sum: 3,856 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,331 |
+| This game has Quickly Understood Controls | 198 |
 | This game is Relaxing | 198 |
 | This game is Extremely Fun | 198 |
-| This game has Quickly Understood Controls | 197 |
 | This game has Amazing Characters | 194 |
 | This game has Diverse Characters | 188 |
 | This game has Amazing Storytelling | 185 |
@@ -255,4 +255,4 @@ Diff (max vs sum): -39
 | 2023-06-11 | 4.17 | 2,321 | 3,838 |
 | 2023-06-12 | 4.17 | 2,325 | 3,845 |
 | 2023-06-13 | 4.17 | 2,331 | 3,854 |
-| 2023-06-14 | 4.17 | 2,331 | 3,855 |
+| 2023-06-14 | 4.17 | 2,331 | 3,856 |

@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 407,
+  "Ranking_Rating": 408,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -2814,10 +2814,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1505,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2023-06-14T14:00:25.6281624+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1511,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1505,
+  "NumberOfAwards": 1511,
   "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2825,7 +2831,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game has Competitive Players",
@@ -2873,7 +2879,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 121
+      "Count": 125
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2906,8 +2912,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-14T13:06:33.7494211+00:00",
+  "LastChanged": "2023-06-14T14:00:25.6281622+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:04.0693791+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:06:33.749422+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:08:39.864147+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:00:25.6281629+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:02:29.4089585+00:00"
 }

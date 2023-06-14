@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2778,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Progressed": 2779,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 55,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2625,6 +2625,11 @@
       "Time": "2023-06-14T11:03:50.6742211+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-14T14:04:19.977952+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2732,7 +2737,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "21",
@@ -2812,7 +2817,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "9",
@@ -2827,13 +2832,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2778,
-      "Completed": 11
+      "Progressed": 2779,
+      "Completed": 12
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:10:41.9523267+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:04:19.9779513+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:05:45.2339153+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:10:41.9523804+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:59:38.6935539+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:04:19.9779849+00:00"
 }

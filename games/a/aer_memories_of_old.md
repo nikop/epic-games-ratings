@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 602)  
+Rating: 4.46 (Ranked 603)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~9,403 |
-| Mama? | 28.00% | ~3,464 |
+| Light at the end of the tunnel | 76.00% | ~9,406 |
+| Mama? | 28.00% | ~3,465 |
 | People's Haven | 19.00% | ~2,351 |
-| Cartographer | 17.00% | ~2,103 |
+| Cartographer | 17.00% | ~2,104 |
 | Knowledge for Power | 15.00% | ~1,856 |
 | Antlers of Stone | 15.00% | ~1,856 |
-| Gaze into the abyss | 14.00% | ~1,732 |
-| Mausoleum of Ice | 14.00% | ~1,732 |
-| Equilibrium | 13.00% | ~1,608 |
+| Gaze into the abyss | 14.00% | ~1,733 |
+| Mausoleum of Ice | 14.00% | ~1,733 |
+| Equilibrium | 13.00% | ~1,609 |
 | In the belly of the beast | 12.00% | ~1,485 |
 | Wings of Stone | 12.00% | ~1,485 |
-| Condor condo | 10.00% | ~1,237 |
+| Condor condo | 10.00% | ~1,238 |
 | Memorial | 9.00% | ~1,114 |
 | An uninvited guest | 8.00% | ~990 |
 | Written in stone | 7.00% | ~866 |
 | Talk to all the spirit animals | 7.00% | ~866 |
-| Ripples on the surface | 6.00% | ~742 |
-| Tails of Stone | 6.00% | ~742 |
-| Baa from the past | 6.00% | ~742 |
+| Ripples on the surface | 6.00% | ~743 |
+| Tails of Stone | 6.00% | ~743 |
+| Baa from the past | 6.00% | ~743 |
 | Hide and Seek | 5.00% | ~619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,373 (Ranked 107)  
+Progressed: 12,376 (Ranked 107)  
 Completed: 260 (2.10%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 260 (2.10%) (Ranked 67)
 | 2023-06-11 | 12,154 | 256 |
 | 2023-06-12 | 12,247 | 256 |
 | 2023-06-13 | 12,334 | 260 |
-| 2023-06-14 | 12,373 | 260 |
+| 2023-06-14 | 12,376 | 260 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

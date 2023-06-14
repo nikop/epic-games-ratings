@@ -1,20 +1,20 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.53 (Ranked 502)  
+Rating: 4.53 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~846 |
-| Confirming Suspicions | 25.00% | ~705 |
-| The Kraken Wakes | 20.00% | ~564 |
+| Meeting Resistance | 30.00% | ~847 |
+| Confirming Suspicions | 25.00% | ~706 |
+| The Kraken Wakes | 20.00% | ~565 |
 | It's Starting to Crack | 18.00% | ~508 |
 | Lord of War | 15.00% | ~423 |
 | Change the Channel | 15.00% | ~423 |
 | Resourceful | 13.00% | ~367 |
 | Taking it back | 13.00% | ~367 |
-| Organ Grinder | 11.00% | ~310 |
-| Target America | 11.00% | ~310 |
+| Organ Grinder | 11.00% | ~311 |
+| Target America | 11.00% | ~311 |
 | As Quiet as a Mouse | 10.00% | ~282 |
 | The Kraken Sleeps | 10.00% | ~282 |
 | Liberté | 9.00% | ~254 |
@@ -23,8 +23,8 @@ Rating: 4.53 (Ranked 502)
 | Enemy at the Gates | 8.00% | ~226 |
 | Just a Flesh Wound | 8.00% | ~226 |
 | Gunslinger | 8.00% | ~226 |
-| Opposing Force | 7.00% | ~197 |
-| Close Quarters | 7.00% | ~197 |
+| Opposing Force | 7.00% | ~198 |
+| Close Quarters | 7.00% | ~198 |
 | Climbing the Ladder | 6.00% | ~169 |
 | Fields of Glory | 6.00% | ~169 |
 | Skirmisher | 6.00% | ~169 |
@@ -77,8 +77,8 @@ Rating: 4.53 (Ranked 502)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,821 (Ranked 144)  
-Completed: 2 (0.07%) (Ranked 181)  
+Progressed: 2,823 (Ranked 144)  
+Completed: 2 (0.07%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 181)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,821 | 2 |
+| 2023-06-14 | 2,823 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

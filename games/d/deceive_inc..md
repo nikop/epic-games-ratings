@@ -1,14 +1,14 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,349 |
 | Mainframe Hacker | 47.00% | ~3,194 |
+| Tomorrow Never Dyes | 47.00% | ~3,194 |
 | The Spy who eliminated me | 47.00% | ~3,194 |
-| Tomorrow Never Dyes | 46.00% | ~3,126 |
 | Never Say Loser Again | 40.00% | ~2,718 |
 | For your Eyes only | 39.00% | ~2,650 |
 | From the Vault with Love | 37.00% | ~2,514 |

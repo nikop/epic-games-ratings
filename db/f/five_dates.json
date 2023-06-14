@@ -544,9 +544,9 @@
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "crash_and_burn",
@@ -665,8 +665,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:10:36.6432938+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:04:14.8318429+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:04:39.2066327+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:10:36.643316+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:58:32.1032208+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:04:14.8318564+00:00"
 }

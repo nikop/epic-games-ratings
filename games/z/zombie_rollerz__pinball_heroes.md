@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~93 |
+| Level Up! | 90.00% | ~94 |
 | Bullseye! | 86.00% | ~89 |
 | Graduation! | 81.00% | ~84 |
 | Villfir Forest | 77.00% | ~80 |
@@ -22,7 +22,7 @@
 | The Ninja | 28.00% | ~29 |
 | The Idol | 27.00% | ~28 |
 | Inferno Ruins | 27.00% | ~28 |
-| Topped up | 25.00% | ~26 |
+| Topped up | 26.00% | ~27 |
 | Untouchable | 24.00% | ~25 |
 | I'm Rich | 24.00% | ~25 |
 | 1 is all I need | 21.00% | ~22 |

@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251084,
+  "EOS_Progressed": 251087,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6004,6 +6004,11 @@
       "Time": "2023-06-14T13:10:02.8487631+00:00",
       "NumProgressed": 251084,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T14:03:40.4062438+00:00",
+      "NumProgressed": 251087,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6063,7 +6068,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77836
+      "UsersEstimate": 77837
     },
     {
       "ID": "BackHomeNTimes",
@@ -6119,7 +6124,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25109
     },
     {
       "ID": "CreditLevel2",
@@ -6303,7 +6308,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55238
+      "UsersEstimate": 55239
     },
     {
       "ID": "KillOthers2",
@@ -6407,7 +6412,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25109
     },
     {
       "ID": "ReachNDays2",
@@ -6462,7 +6467,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251084,
+      "Progressed": 251087,
       "Completed": 1
     }
   ],
@@ -6470,8 +6475,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-12T19:00:41.1633075+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:10:02.8487626+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:03:40.4062431+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:07:23.2433713+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:10:02.8488441+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:01:12.7417242+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:03:40.4063242+00:00"
 }

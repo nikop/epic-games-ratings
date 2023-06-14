@@ -21,9 +21,9 @@
 | IQ62 | 34.00% | ~68 |
 | 1978 | 32.00% | ~64 |
 | Onk Boga VII | 32.00% | ~64 |
-| Onk Boga VIII | 30.00% | ~60 |
-| Blubb | 30.00% | ~60 |
-| ParaPara! | 29.00% | ~58 |
+| Onk Boga VIII | 31.00% | ~62 |
+| Blubb | 31.00% | ~62 |
+| ParaPara! | 30.00% | ~60 |
 | Onk Boga IX | 29.00% | ~58 |
 | Blunga 15 | 28.00% | ~56 |
 | Kokakoka | 28.00% | ~56 |

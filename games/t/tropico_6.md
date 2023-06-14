@@ -8,7 +8,7 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 76.00% | ~2,757 |
 | Un-Lonely Island | 48.00% | ~1,741 |
-| The Beginning of a Servantship | 45.00% | ~1,633 |
+| The Beginning of a Servantship | 46.00% | ~1,669 |
 | Trade Is My Trait | 36.00% | ~1,306 |
 | Number 18 | 25.00% | ~907 |
 | We Don't Have Time For That | 20.00% | ~726 |

@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 893)  
+Rating: 4.05 (Ranked 894)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.05 (Ranked 893)
 | The game is on | 19.00% | ~265 |
 | Exotic Merchant | 17.00% | ~237 |
 | Dragon Clicker | 16.00% | ~223 |
+| Miner Clicker | 16.00% | ~223 |
 | Inspection | 15.00% | ~209 |
-| Miner Clicker | 15.00% | ~209 |
 | Full Party | 14.00% | ~195 |
 | Dragon Master | 13.00% | ~181 |
 | Enlightenment | 13.00% | ~181 |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 893)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,396 (Ranked 164)  
-Completed: 1 (0.07%) (Ranked 181)  
+Completed: 1 (0.07%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

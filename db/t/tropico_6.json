@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -920,7 +920,7 @@
   ],
   "EOS_Progressed": 3628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4498,9 +4498,9 @@
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
       "SetID": "1p8ab95",
       "Name": "The Beginning of a Servantship",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4730,8 +4730,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:08:18.8598849+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:02:08.6125828+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:07:15.5024252+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:08:18.8599554+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:01:04.8574206+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:02:08.6126407+00:00"
 }

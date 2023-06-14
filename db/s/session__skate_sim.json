@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2428,
+  "EOS_Progressed": 2429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2594,6 +2594,11 @@
       "Time": "2023-06-14T13:13:10.975333+00:00",
       "NumProgressed": 2428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T14:06:49.7048381+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2827,9 +2832,9 @@
       "ID": "ACH_PRINCE-OF-PHILLY",
       "SetID": "72olkc5",
       "Name": "Prince of Philly",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -2909,7 +2914,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2981,22 +2986,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2428,
+      "Progressed": 2429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-12T15:58:48.68135+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:13:10.9753324+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:49.7048373+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:05:51.4510325+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:10.9754121+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:59:44.7855112+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:49.7048884+00:00"
 }

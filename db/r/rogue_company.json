@@ -2,13 +2,13 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
     "PcReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -5348,11 +5348,17 @@
       "Rating": 4.34,
       "NumberOfAwards": 31496,
       "NumberOfAwardsMax": 5020
+    },
+    {
+      "Time": "2023-06-14T13:59:09.6572275+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 31500,
+      "NumberOfAwardsMax": 5022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31496,
-  "NumberOfAwardsMax": 5020,
+  "NumberOfAwards": 31500,
+  "NumberOfAwardsMax": 5022,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5365,7 +5371,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5020
+      "Count": 5022
     },
     {
       "Text": "This game has Competitive Players",
@@ -5401,7 +5407,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3638
+      "Count": 3640
     }
   ],
   "EOS_Progressed": 0,
@@ -5415,8 +5421,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-06-14T11:58:22.7004426+00:00",
+  "LastChanged": "2023-06-14T13:59:09.6572273+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.7036441+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:05:16.1867563+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:09:39.0163687+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:59:09.6572281+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:03:27.2093677+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2023-06-14T02:15:34.3983667+00:00",
       "NumProgressed": 678,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T14:06:10.0524799+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1406,7 +1411,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GadgetCompletion1",
@@ -1510,7 +1515,7 @@
       "Name": "Time Flies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ParryBoss",
@@ -1518,7 +1523,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ParryRepeated1",
@@ -1542,7 +1547,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PidgeDefeated",
@@ -1566,7 +1571,7 @@
       "Name": "Honest Mistake",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1582,7 +1587,7 @@
       "Name": "Golem Chaser",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SkillCompletion1",
@@ -1598,7 +1603,7 @@
       "Name": "Fast Learner",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SpeedRun",
@@ -1678,7 +1683,7 @@
       "Name": "The Brass Boss",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1693,14 +1698,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:12:31.4864732+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:10.0524794+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:06:16.9333818+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:12:31.486527+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:00:09.7436997+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:10.0525393+00:00"
 }

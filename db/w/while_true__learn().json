@@ -2,11 +2,11 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 24,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
@@ -484,9 +484,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 592447,
+  "EOS_Progressed": 592448,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 964,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6194,6 +6194,11 @@
       "Time": "2023-06-14T13:13:08.2828215+00:00",
       "NumProgressed": 592447,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-06-14T14:06:46.9639948+00:00",
+      "NumProgressed": 592448,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 28,
@@ -6269,7 +6274,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 355468
+      "UsersEstimate": 355469
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -6325,7 +6330,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 290299
+      "UsersEstimate": 290300
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -6333,7 +6338,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 550976
+      "UsersEstimate": 550977
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -6341,7 +6346,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142187
+      "UsersEstimate": 142188
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -6365,7 +6370,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 391015
+      "UsersEstimate": 391016
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -6373,7 +6378,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106640
+      "UsersEstimate": 106641
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -6428,15 +6433,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 592447,
+      "Progressed": 592448,
       "Completed": 491
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-06-10T03:58:36.0147725+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:13:08.2828208+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:46.9639942+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.2919795+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:05:45.6277376+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:08.2828783+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:59:39.1018983+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:46.9640634+00:00"
 }

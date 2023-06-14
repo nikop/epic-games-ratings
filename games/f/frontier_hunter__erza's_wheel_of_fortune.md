@@ -35,8 +35,8 @@
 | Master Cook | 36.00% | ~9 |
 | Boss challenge | 24.00% | ~6 |
 | Berserker Slayer | 20.00% | ~5 |
+| Giantess Slayer | 16.00% | ~4 |
 | Big Face Goalkeeper Challenge | 12.00% | ~3 |
-| Giantess Slayer | 12.00% | ~3 |
 | Warden Slayer | 12.00% | ~3 |
 | Blade Mantis Challenge | 8.00% | ~2 |
 | Giant Claw Spider Challenge | 8.00% | ~2 |

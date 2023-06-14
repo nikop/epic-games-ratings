@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 58.00% | ~69 |
-| Aspairagus | 54.00% | ~37 |
+| Aspairagus | 55.00% | ~38 |
 | Survivor | 44.00% | ~30 |
 | First Blood | 41.00% | ~49 |
 | Triple Kill | 39.00% | ~46 |
 | No Asperascope | 34.00% | ~40 |
+| Cornivore | 34.00% | ~40 |
 | Early Survivor | 34.00% | ~23 |
 | No Diggity | 34.00% | ~23 |
-| Cornivore | 33.00% | ~39 |
 | I Believe I Can Fly | 30.00% | ~36 |
 | Amateur Survivor | 25.00% | ~17 |
 | Bouncemato | 24.00% | ~17 |
@@ -30,9 +30,9 @@
 | Skin Of Your Teeth | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Quit Horsin' Around | 7.00% | ~8 |
+| Pork Chop Express | 7.00% | ~8 |
 | Expert Survivor | 7.00% | ~5 |
 | Quadsparagus | 7.00% | ~5 |
-| Pork Chop Express | 6.00% | ~7 |
 | Carrocketeer | 6.00% | ~7 |
 | Master Survivor | 5.00% | ~3 |
 | Bring Home The Bacon | 4.00% | ~5 |

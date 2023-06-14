@@ -4,8 +4,8 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "Researcher",
       "SetID": "82ojhod",
       "Name": "Researcher",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Workforce",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:12:51.6944731+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:30.6868008+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:17.4493918+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:03:33.4989651+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:12:51.6944869+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:57:30.0269857+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:30.6868134+00:00"
 }

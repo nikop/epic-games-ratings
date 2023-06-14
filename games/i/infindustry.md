@@ -11,11 +11,11 @@
 | Crafter | 2.00% | ~1 |
 | Healer | 2.00% | ~1 |
 | Rep1 | 2.00% | ~1 |
+| Researcher | 2.00% | ~1 |
 | Defender | 0.00% | ~0 |
 | GGEZ | 0.00% | ~0 |
 | Rep2 | 0.00% | ~0 |
 | Rep3 | 0.00% | ~0 |
-| Researcher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 222)  

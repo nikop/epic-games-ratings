@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,11 +118,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2346,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.04,
+  "EOS_Progressed": 2347,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 69,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -2583,6 +2583,11 @@
       "Time": "2023-06-14T12:05:40.332898+00:00",
       "NumProgressed": 2346,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T14:06:56.3738086+00:00",
+      "NumProgressed": 2347,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2618,7 +2623,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2626,7 +2631,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -2650,7 +2655,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2658,7 +2663,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2674,7 +2679,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2738,7 +2743,7 @@
       "Name": "True power",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -2770,7 +2775,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2778,7 +2783,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2810,7 +2815,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2818,7 +2823,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2834,7 +2839,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2866,7 +2871,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2930,7 +2935,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2954,7 +2959,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3017,16 +3022,16 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2346,
-      "Completed": 1
+      "Progressed": 2347,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:13:17.7098038+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:06:56.373808+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:03:59.4333603+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:13:17.7098659+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:57:55.5663624+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:06:56.3738701+00:00"
 }

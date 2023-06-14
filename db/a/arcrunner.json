@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,9 +964,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -1028,9 +1028,9 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -1125,8 +1125,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-14T13:08:12.4359942+00:00",
+  "LastChanged_Achievements": "2023-06-14T14:02:01.8373511+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-14T13:06:33.8027033+00:00",
-  "LastUpdate_Achievements": "2023-06-14T13:08:12.4360218+00:00"
+  "LastUpdate_Ratings": "2023-06-14T14:00:25.8093932+00:00",
+  "LastUpdate_Achievements": "2023-06-14T14:02:01.8373819+00:00"
 }
