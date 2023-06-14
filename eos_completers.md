@@ -33,16 +33,16 @@
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
-| 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.14% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
+| 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 35 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.09% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.55% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.29% |
@@ -87,7 +87,7 @@
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.21% |
 | 86 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
 | 87 | [Trifox](games/t/trifox.md) | 1.15% |
-| 88 | [Chorus](games/c/chorus.md) | 1.14% |
+| 88 | [Chorus](games/c/chorus.md) | 1.13% |
 | 89 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 90 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.04% |
