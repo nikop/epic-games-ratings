@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6475,
+  "EOS_Progressed": 6476,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3529,6 +3529,11 @@
       "Time": "2023-06-14T04:05:26.1484991+00:00",
       "NumProgressed": 6475,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-14T10:05:28.0446745+00:00",
+      "NumProgressed": 6476,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3580,7 +3585,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ENERGY_SAVER",
@@ -3628,7 +3633,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ICONOCLAST",
@@ -3684,7 +3689,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -3707,7 +3712,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6475,
+      "Progressed": 6476,
       "Completed": 24
     }
   ],
@@ -3715,8 +3720,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:05:24.3507503+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:05:28.044674+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:57:57.6172927+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:05:24.3507905+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:57:47.2781413+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:05:28.0447111+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 433,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -563,9 +563,9 @@
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 277
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:03:51.8604404+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:03:54.8918897+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:58:06.023303+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:03:51.8604571+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:57:56.9486532+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:03:54.8919031+00:00"
 }

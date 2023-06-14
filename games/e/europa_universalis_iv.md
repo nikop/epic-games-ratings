@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,964 |
-| That's a Grand Army | 8.00% | ~4,413 |
-| That is mine! | 8.00% | ~4,413 |
-| Victorious! | 8.00% | ~4,413 |
+| Until death do us apart | 9.00% | ~4,966 |
+| That's a Grand Army | 8.00% | ~4,414 |
+| That is mine! | 8.00% | ~4,414 |
+| Victorious! | 8.00% | ~4,414 |
 | Brothers in Arms | 6.00% | ~3,310 |
 | That's a Grand Navy | 6.00% | ~3,310 |
 | Seriously?! | 6.00% | ~3,310 |
-| For the Glory | 5.00% | ~2,758 |
-| Cold War | 4.00% | ~2,206 |
-| True Catholic | 4.00% | ~2,206 |
+| For the Glory | 5.00% | ~2,759 |
+| Cold War | 4.00% | ~2,207 |
+| True Catholic | 4.00% | ~2,207 |
 | Defender of the Faith | 3.00% | ~1,655 |
 | It's all about the money | 3.00% | ~1,655 |
 | Respected | 3.00% | ~1,655 |
 | Truly Divine Ruler | 3.00% | ~1,655 |
-| Agressive Expander | 2.00% | ~1,103 |
-| Blockader | 2.00% | ~1,103 |
-| Combined Arms | 2.00% | ~1,103 |
-| Double the Love | 2.00% | ~1,103 |
-| Gentle Persuasion | 2.00% | ~1,103 |
-| It's all about luck | 2.00% | ~1,103 |
-| My armies are invincible! | 2.00% | ~1,103 |
-| Queen of Conquest | 2.00% | ~1,103 |
-| Royal Authority | 2.00% | ~1,103 |
-| The Princess is in this Castle | 2.00% | ~1,103 |
-| Total Control | 2.00% | ~1,103 |
+| Agressive Expander | 2.00% | ~1,104 |
+| Blockader | 2.00% | ~1,104 |
+| Combined Arms | 2.00% | ~1,104 |
+| Double the Love | 2.00% | ~1,104 |
+| Gentle Persuasion | 2.00% | ~1,104 |
+| It's all about luck | 2.00% | ~1,104 |
+| My armies are invincible! | 2.00% | ~1,104 |
+| Queen of Conquest | 2.00% | ~1,104 |
+| Royal Authority | 2.00% | ~1,104 |
+| The Princess is in this Castle | 2.00% | ~1,104 |
+| Total Control | 2.00% | ~1,104 |
 | All That's Thine Shall Be Mine | 1.00% | ~552 |
 | Azur semé de lis or | 1.00% | ~552 |
 | Bright Spark | 1.00% | ~552 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~552 |
 | The Five Colonies | 1.00% | ~552 |
 | This navy can take it all | 1.00% | ~552 |
-| The Emperors new clothes | 0.90% | ~496 |
-| Isn't this the way to India? | 0.90% | ~496 |
-| Market Control | 0.90% | ~496 |
+| The Emperors new clothes | 0.90% | ~497 |
+| Isn't this the way to India? | 0.90% | ~497 |
+| Market Control | 0.90% | ~497 |
 | Down Under | 0.80% | ~441 |
 | Trustworthy | 0.80% | ~441 |
 | All belongs to Mother Russia | 0.60% | ~331 |
@@ -69,19 +69,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~221 |
 | Tear Down This Wall | 0.40% | ~221 |
 | The Continuation of Diplomacy | 0.40% | ~221 |
-| A Decent Reserve | 0.30% | ~165 |
-| A Pile of Gold | 0.30% | ~165 |
-| Grand Duchy | 0.30% | ~165 |
-| Italian Ambition | 0.30% | ~165 |
-| Multiculturalism | 0.30% | ~165 |
-| No Pirates in my Caribbean | 0.30% | ~165 |
-| Not so sad a state... | 0.30% | ~165 |
-| The Chrysanthemum Throne | 0.30% | ~165 |
-| Three Trivial Tributary Tribes | 0.30% | ~165 |
-| Traditional Player | 0.30% | ~165 |
-| Vasa or Wettin? | 0.30% | ~165 |
-| Wonderful | 0.30% | ~165 |
-| World Discoverer | 0.30% | ~165 |
+| A Decent Reserve | 0.30% | ~166 |
+| A Pile of Gold | 0.30% | ~166 |
+| Grand Duchy | 0.30% | ~166 |
+| Italian Ambition | 0.30% | ~166 |
+| Multiculturalism | 0.30% | ~166 |
+| No Pirates in my Caribbean | 0.30% | ~166 |
+| Not so sad a state... | 0.30% | ~166 |
+| The Chrysanthemum Throne | 0.30% | ~166 |
+| Three Trivial Tributary Tribes | 0.30% | ~166 |
+| Traditional Player | 0.30% | ~166 |
+| Vasa or Wettin? | 0.30% | ~166 |
+| Wonderful | 0.30% | ~166 |
+| World Discoverer | 0.30% | ~166 |
 | A Protected Market | 0.20% | ~110 |
 | AAA Credit | 0.20% | ~110 |
 | An early Reich | 0.20% | ~110 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,159 (Ranked 77)  
+Progressed: 55,175 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
-| 2023-06-14 | 55,159 | 0 |
+| 2023-06-14 | 55,175 | 0 |
 ## Awards
 Max (Educational): 5,386  (Ranked 61)  
 Sum: 44,516 (Ranked 27)  

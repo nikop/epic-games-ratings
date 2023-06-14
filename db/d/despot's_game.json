@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -280,6 +280,11 @@
       "Time": "2023-06-12T18:05:56.6918001+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T10:05:44.3546688+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -507,7 +512,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "win-first-level",
@@ -515,7 +520,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "win-koth-fights1",
@@ -570,7 +575,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -578,8 +583,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:05:40.9734518+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:05:44.3546683+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:01.3809708+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:58:35.3984553+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:05:40.9734807+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:58:26.1807334+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:05:44.3546962+00:00"
 }

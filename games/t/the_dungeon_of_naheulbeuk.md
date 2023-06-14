@@ -45,9 +45,9 @@ Number of Ratings: 118  (23.09.2022)
 | Necrophilia | 17.00% | ~14 |
 | Dead for good | 16.00% | ~13 |
 | The Dungeon Master | 14.00% | ~12 |
+| He’s alive! Aliiiive! | 14.00% | ~12 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~12 |
 | Scholar of the Lands of Fangh | 13.00% | ~11 |
-| He’s alive! Aliiiive! | 13.00% | ~11 |
 | It's been a hard day's night | 11.00% | ~9 |
 | Lëgal Legend | 11.00% | ~9 |
 | Lust and Debauchery | 10.00% | ~8 |

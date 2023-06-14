@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -298,6 +298,11 @@
       "Time": "2023-06-14T03:03:21.9672653+00:00",
       "NumProgressed": 632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T10:03:28.2273161+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -315,9 +320,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 291
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -373,7 +378,7 @@
       "Name": "Crafty",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Achievement_DontPanic",
@@ -381,7 +386,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "Achievement_DustToDust",
@@ -389,7 +394,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -445,7 +450,7 @@
       "Name": "For Science!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Achievement_Friendzone",
@@ -453,7 +458,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -509,7 +514,7 @@
       "Name": "KIA",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Achievement_LastSupper",
@@ -541,7 +546,7 @@
       "Name": "Mutiny in making",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Achievement_Muttnik",
@@ -605,7 +610,7 @@
       "Name": "Space Engineer",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -627,9 +632,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -645,7 +650,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Achievement_Traitor",
@@ -660,7 +665,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 1
     }
   ],
@@ -668,8 +673,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:03:24.9713323+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:03:28.2273155+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:58:43.6062267+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:03:24.9713734+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:58:34.5051347+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:03:28.2273542+00:00"
 }

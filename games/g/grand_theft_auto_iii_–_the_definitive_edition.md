@@ -5,20 +5,20 @@ Rating: 4.13 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,444 |
-| Disposing of the Evidence | 36.00% | ~2,361 |
-| Without a Scratch | 33.00% | ~2,164 |
-| Wreckless Driving | 27.00% | ~1,771 |
-| A Marked Man | 23.00% | ~1,509 |
-| Street Sweeper | 17.00% | ~1,115 |
-| Liberty City Minute | 16.00% | ~1,049 |
-| Offshore Delivery | 12.00% | ~787 |
-| Dirty Money | 11.00% | ~721 |
-| By a Mile | 9.00% | ~590 |
-| Not So Fast | 9.00% | ~590 |
-| Right-hand Man | 9.00% | ~590 |
+| First Day on the Job | 83.00% | ~5,448 |
+| Disposing of the Evidence | 36.00% | ~2,363 |
+| Without a Scratch | 33.00% | ~2,166 |
+| Wreckless Driving | 27.00% | ~1,772 |
+| A Marked Man | 23.00% | ~1,510 |
+| Street Sweeper | 17.00% | ~1,116 |
+| Liberty City Minute | 16.00% | ~1,050 |
+| Offshore Delivery | 12.00% | ~788 |
+| Dirty Money | 11.00% | ~722 |
+| By a Mile | 9.00% | ~591 |
+| Not So Fast | 9.00% | ~591 |
+| Right-hand Man | 9.00% | ~591 |
 | A Gift from the King | 6.00% | ~394 |
-| Full Artillery | 4.00% | ~262 |
+| Full Artillery | 4.00% | ~263 |
 | Mob Boss | 2.00% | ~131 |
 | Splish Splash | 2.00% | ~131 |
 | Liberty City Secrets | 2.00% | ~131 |
@@ -31,11 +31,11 @@ Rating: 4.13 (Ranked 871)
 | Planned Ahead | 0.90% | ~59 |
 | Wheels Up | 0.90% | ~59 |
 | Man Toyz | 0.90% | ~59 |
-| Furious First Responder | 0.80% | ~52 |
+| Furious First Responder | 0.80% | ~53 |
 | Is That All You've Got? | 0.70% | ~46 |
 | King of Liberty City | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,559 (Ranked 121)  
+Progressed: 6,564 (Ranked 121)  
 Completed: 37 (0.56%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 37 (0.56%) (Ranked 112)
 | 2023-06-11 | 6,456 | 37 |
 | 2023-06-12 | 6,496 | 37 |
 | 2023-06-13 | 6,546 | 37 |
-| 2023-06-14 | 6,559 | 37 |
+| 2023-06-14 | 6,564 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

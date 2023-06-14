@@ -2366,7 +2366,7 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15305,
+  "EOS_Progressed": 15306,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -5326,6 +5326,11 @@
       "Time": "2023-06-14T05:05:35.8325603+00:00",
       "NumProgressed": 15305,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-14T10:05:53.2434515+00:00",
+      "NumProgressed": 15306,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5575,9 +5580,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 153
     },
     {
       "ID": "WinNearTorrent",
@@ -5615,9 +5620,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 459
     },
     {
       "ID": "WinOnMoorlands",
@@ -5736,15 +5741,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15305,
+      "Progressed": 15306,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-13T19:59:29.9156907+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:05:49.7718999+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:05:53.2434509+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:59:36.2615622+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:05:49.7719641+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:59:28.7444665+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:05:53.2435119+00:00"
 }

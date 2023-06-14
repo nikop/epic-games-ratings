@@ -15,7 +15,7 @@
 | Sparkly | 29.00% | ~38 |
 | Teamwork | 22.00% | ~29 |
 | Ready to Rock | 21.00% | ~28 |
-| Determined | 19.00% | ~25 |
+| Determined | 20.00% | ~26 |
 | Beginning of the End | 18.00% | ~24 |
 | Bling | 18.00% | ~24 |
 | Geared | 15.00% | ~20 |

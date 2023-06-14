@@ -310,9 +310,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6559,
+  "EOS_Progressed": 6564,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4000,6 +4000,11 @@
       "Time": "2023-06-14T09:03:46.2093392+00:00",
       "NumProgressed": 6559,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-14T10:03:48.921743+00:00",
+      "NumProgressed": 6564,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4011,7 +4016,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5448
     },
     {
       "ID": "ACH02",
@@ -4019,7 +4024,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2166
     },
     {
       "ID": "ACH03",
@@ -4035,7 +4040,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH05",
@@ -4051,7 +4056,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACH07",
@@ -4075,7 +4080,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH10",
@@ -4083,7 +4088,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACH11",
@@ -4115,7 +4120,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH15",
@@ -4123,7 +4128,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH16",
@@ -4131,7 +4136,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH17",
@@ -4139,7 +4144,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH18",
@@ -4147,7 +4152,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH19",
@@ -4195,7 +4200,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH25",
@@ -4203,7 +4208,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH26",
@@ -4211,7 +4216,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.8,
       "XP": 55,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH27",
@@ -4242,7 +4247,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6559,
+      "Progressed": 6564,
       "Completed": 37
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-12T22:57:52.8890791+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:03:46.2093386+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:03:48.9217421+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:57:56.2343171+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:03:46.2093845+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:57:45.9863894+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:03:48.9217861+00:00"
 }

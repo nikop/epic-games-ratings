@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519364,
+  "EOS_Progressed": 519365,
   "EOS_Completed": 423,
   "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 2,
@@ -5975,6 +5975,11 @@
       "Time": "2023-06-14T09:05:36.6208603+00:00",
       "NumProgressed": 519364,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-06-14T10:05:39.9651235+00:00",
+      "NumProgressed": 519365,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 57,
@@ -6002,7 +6007,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 363555
+      "UsersEstimate": 363556
     },
     {
       "ID": "12",
@@ -6082,7 +6087,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124647
+      "UsersEstimate": 124648
     },
     {
       "ID": "21",
@@ -6106,7 +6111,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36355
+      "UsersEstimate": 36356
     },
     {
       "ID": "24",
@@ -6186,7 +6191,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36355
+      "UsersEstimate": 36356
     },
     {
       "ID": "33",
@@ -6290,7 +6295,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36355
+      "UsersEstimate": 36356
     },
     {
       "ID": "45",
@@ -6362,7 +6367,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 238907
+      "UsersEstimate": 238908
     },
     {
       "ID": "53",
@@ -6441,15 +6446,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 519364,
+      "Progressed": 519365,
       "Completed": 423
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:05:36.6208597+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:05:39.965123+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:25.4826628+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:57:28.8400301+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:05:36.6209395+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:57:18.7780825+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:05:39.9652078+00:00"
 }

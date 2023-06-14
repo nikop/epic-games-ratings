@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3613,9 +3613,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 265
     },
     {
       "ID": "thepowerofawakening",
@@ -3734,8 +3734,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-14T09:05:45.6013806+00:00",
+  "LastChanged_Achievements": "2023-06-14T10:05:49.2282024+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:58:02.3292908+00:00",
-  "LastUpdate_Achievements": "2023-06-14T09:05:45.6014793+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:57:52.7046907+00:00",
+  "LastUpdate_Achievements": "2023-06-14T10:05:49.2282985+00:00"
 }
