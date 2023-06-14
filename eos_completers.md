@@ -34,9 +34,9 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.90% |
+| 37 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.88% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
