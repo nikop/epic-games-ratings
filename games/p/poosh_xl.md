@@ -26,7 +26,7 @@
 | Pooshed Past 10000 | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121 (Ranked 273)  
-Completed: 2 (1.65%) (Ranked 76)  
+Completed: 2 (1.65%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

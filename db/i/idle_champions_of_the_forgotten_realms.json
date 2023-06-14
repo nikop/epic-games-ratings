@@ -4278,7 +4278,7 @@
   ],
   "EOS_Progressed": 90672,
   "EOS_Completed": 1932,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -11162,9 +11162,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_181",
@@ -13848,8 +13848,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-14T04:57:50.2174661+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:45.631435+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:07:09.8041451+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:22.8685229+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:45.6340147+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:21.3766341+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:07:09.8063191+00:00"
 }

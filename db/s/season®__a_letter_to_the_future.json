@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -1361,6 +1361,11 @@
       "Time": "2023-06-14T02:15:53.904547+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-14T07:06:29.9297623+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 16,
@@ -1380,7 +1385,7 @@
       "Name": "Deep Listener",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1428,7 +1433,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1436,7 +1441,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1458,9 +1463,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1484,7 +1489,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -1499,7 +1504,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 39
     }
   ],
@@ -1507,8 +1512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-14T05:05:09.7088393+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:29.9297615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:58.9208212+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:08.2470188+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:59:01.8212346+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:29.9297771+00:00"
 }

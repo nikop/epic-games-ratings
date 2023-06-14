@@ -10,38 +10,38 @@
 | Who's A Good Boy | 69.00% | ~106 |
 | Power Up | 69.00% | ~106 |
 | Thick Skin | 68.00% | ~105 |
-| Math Wizard | 64.00% | ~99 |
+| Math Wizard | 65.00% | ~100 |
 | Destroy Erase Improve | 64.00% | ~99 |
 | Power Overload | 63.00% | ~97 |
-| Quite A Snack | 57.00% | ~88 |
-| Overwhelming Power | 54.00% | ~83 |
+| Quite A Snack | 58.00% | ~89 |
+| Overwhelming Power | 55.00% | ~85 |
 | Impenetrable Skin | 52.00% | ~80 |
 | Supreme Power | 42.00% | ~65 |
 | Chomp Chomp! | 42.00% | ~65 |
+| The Duelist | 40.00% | ~62 |
 | Glorious Battle | 40.00% | ~62 |
-| The Duelist | 39.00% | ~60 |
-| Diaper Time! | 39.00% | ~60 |
-| Target Practice | 39.00% | ~60 |
+| Diaper Time! | 40.00% | ~62 |
+| Target Practice | 40.00% | ~62 |
+| Meat Larder | 37.00% | ~57 |
 | Mutant And Proud | 36.00% | ~55 |
-| Meat Larder | 36.00% | ~55 |
-| The Emperor's New Clothes | 31.00% | ~48 |
+| The Emperor's New Clothes | 32.00% | ~49 |
+| Happy Little Home | 30.00% | ~46 |
 | Godlike Power | 29.00% | ~45 |
-| Happy Little Home | 29.00% | ~45 |
+| Undying Skin | 29.00% | ~45 |
+| Fight Me! | 29.00% | ~45 |
 | Final Evolution | 29.00% | ~45 |
 | You Shall Not Pass | 28.00% | ~43 |
-| Undying Skin | 28.00% | ~43 |
-| Fight Me! | 28.00% | ~43 |
 | Mommy's Very Angry | 27.00% | ~42 |
 | Animal Lover | 27.00% | ~42 |
 | Supremacy | 27.00% | ~42 |
-| Immortal Skin | 22.00% | ~34 |
+| Immortal Skin | 23.00% | ~35 |
 | Loyal Companion | 22.00% | ~34 |
 | Back To The Future | 21.00% | ~32 |
 | Fire Beacon | 21.00% | ~32 |
 | Lunch Before The Lunch | 19.00% | ~29 |
 | Building Blocks | 18.00% | ~28 |
 | From Here To Eternity | 17.00% | ~26 |
-| Octopostructure | 15.00% | ~23 |
+| Octopostructure | 16.00% | ~25 |
 | Boss Hunter | 15.00% | ~23 |
 | Hawkman | 8.00% | ~12 |
 | Fashion Victim | 6.00% | ~9 |

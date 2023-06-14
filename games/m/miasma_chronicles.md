@@ -12,7 +12,7 @@ Rating: 4.32 (Ranked 752)
 | I am the law! | 60.00% | ~671 |
 | Lumberjack | 47.00% | ~526 |
 | Croaked | 43.00% | ~481 |
-| Limp Richard | 41.00% | ~459 |
+| Limp Richard | 42.00% | ~470 |
 | From Darkness to Light | 41.00% | ~459 |
 | Editor Adept | 40.00% | ~448 |
 | Exorcist | 40.00% | ~448 |
@@ -28,8 +28,8 @@ Rating: 4.32 (Ranked 752)
 | Infiltrator | 24.00% | ~269 |
 | Pushing Daisy | 23.00% | ~257 |
 | Experienced | 21.00% | ~235 |
+| There Can Be Only One! | 21.00% | ~235 |
 | Chain Killer | 20.00% | ~224 |
-| There Can Be Only One! | 20.00% | ~224 |
 | Hold The Line | 19.00% | ~213 |
 | Endgame | 18.00% | ~201 |
 | Savior | 18.00% | ~201 |

@@ -3,8 +3,8 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-06-12T15:05:33.3742877+00:00",
       "NumProgressed": 104,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T07:06:40.279117+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -95,7 +100,7 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -151,9 +156,9 @@
       "ID": "08_Baseball",
       "SetID": "681m9fa",
       "Name": "Baseball",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "09_Ticket",
@@ -183,7 +188,7 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -215,7 +220,7 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -223,7 +228,7 @@
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -303,7 +308,7 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 70,
       "UsersEstimate": 34
     },
@@ -328,7 +333,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 8
     }
   ],
@@ -336,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:18.0866242+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:40.2791166+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9565261+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:14.1557947+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:18.086647+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:11.6080124+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:40.279133+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,650 |
-| Realm Estate | 76.00% | ~3,511 |
-| Secret Technique | 75.00% | ~3,465 |
+| A Wonderful Discovery | 79.00% | ~3,651 |
+| Realm Estate | 76.00% | ~3,512 |
+| Secret Technique | 75.00% | ~3,466 |
 | Walls Cannot Stop Us | 73.00% | ~3,373 |
 | From Friends to Family | 69.00% | ~3,188 |
-| Magical Synergy | 65.00% | ~3,003 |
-| Bone Peddler | 61.00% | ~2,818 |
-| Stronger Together | 56.00% | ~2,587 |
-| Full Ascension | 55.00% | ~2,541 |
+| Magical Synergy | 65.00% | ~3,004 |
+| Bone Peddler | 61.00% | ~2,819 |
+| Stronger Together | 56.00% | ~2,588 |
+| Full Ascension | 55.00% | ~2,542 |
 | There Can Only Be One! | 48.00% | ~2,218 |
 | Seat of Power | 48.00% | ~2,218 |
 | Intimidation Tactics | 45.00% | ~2,079 |
 | My Final Form | 44.00% | ~2,033 |
 | Valley of Wonders | 43.00% | ~1,987 |
 | In a Liege of Your Own | 39.00% | ~1,802 |
-| Return of the Wizard King | 32.00% | ~1,478 |
-| Against the Odds | 32.00% | ~1,478 |
-| Digging for Treasure | 31.00% | ~1,432 |
+| Return of the Wizard King | 32.00% | ~1,479 |
+| Against the Odds | 32.00% | ~1,479 |
+| Digging for Treasure | 31.00% | ~1,433 |
 | Enchanted Archipelago | 28.00% | ~1,294 |
 | Impenetrable Fortress | 28.00% | ~1,294 |
 | Preparation Is Everything | 21.00% | ~970 |
@@ -30,7 +30,7 @@ Rating: 4.57 (Ranked 441)
 | Arch Mage | 20.00% | ~924 |
 | God Emperor | 18.00% | ~832 |
 | Crimson Caldera | 18.00% | ~832 |
-| Eternal Lord | 17.00% | ~785 |
+| Eternal Lord | 17.00% | ~786 |
 | The Creator | 15.00% | ~693 |
 | The Goddess of Nature | 15.00% | ~693 |
 | Fiery Friend | 15.00% | ~693 |
@@ -50,7 +50,7 @@ Rating: 4.57 (Ranked 441)
 | Returning Circle | 0.40% | ~18 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,620 (Ranked 129)  
+Progressed: 4,621 (Ranked 129)  
 Completed: 3 (0.06%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 3 (0.06%) (Ranked 187)
 | 2023-06-11 | 4,571 | 2 |
 | 2023-06-12 | 4,595 | 2 |
 | 2023-06-13 | 4,615 | 3 |
-| 2023-06-14 | 4,620 | 3 |
+| 2023-06-14 | 4,621 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

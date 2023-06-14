@@ -1578,7 +1578,7 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19602,
+  "EOS_Progressed": 19603,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
@@ -4483,6 +4483,11 @@
       "Time": "2023-06-14T06:06:16.3524686+00:00",
       "NumProgressed": 19602,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-14T07:06:38.3212725+00:00",
+      "NumProgressed": 19603,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4542,7 +4547,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18426
+      "UsersEstimate": 18427
     },
     {
       "ID": "GameOver",
@@ -4606,7 +4611,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "Negotiator",
@@ -4630,7 +4635,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "SeniorEstateAgent",
@@ -4646,7 +4651,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "Strongman",
@@ -4677,15 +4682,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19602,
+      "Progressed": 19603,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:16.3524679+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:38.3212722+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:59:48.4089306+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:16.3525058+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:59:56.9901647+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:38.3212982+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 26.00% | ~154 |
 | Ravenous | 23.00% | ~136 |
 | The Hunt | 22.00% | ~130 |
-| Weeper | 20.00% | ~119 |
+| Weeper | 21.00% | ~125 |
 | Devourer | 15.00% | ~89 |
 | Harmless | 13.00% | ~77 |
 | Silenced Whispers | 13.00% | ~77 |

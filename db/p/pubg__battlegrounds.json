@@ -2176,9 +2176,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 393284,
+  "EOS_Progressed": 393287,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7184,
+  "EOS_NewPlayers": 7155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7931,6 +7931,11 @@
       "Time": "2023-06-14T06:06:18.7684923+00:00",
       "NumProgressed": 393284,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-14T07:06:40.864015+00:00",
+      "NumProgressed": 393287,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -7958,7 +7963,7 @@
       "Name": "Marksman Expert",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 39328
+      "UsersEstimate": 39329
     },
     {
       "ID": "12",
@@ -8014,7 +8019,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 121918
+      "UsersEstimate": 121919
     },
     {
       "ID": "19",
@@ -8022,7 +8027,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 294963
+      "UsersEstimate": 294965
     },
     {
       "ID": "2",
@@ -8046,7 +8051,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 86522
+      "UsersEstimate": 86523
     },
     {
       "ID": "22",
@@ -8134,7 +8139,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 153381
+      "UsersEstimate": 153382
     },
     {
       "ID": "32",
@@ -8166,7 +8171,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 161246
+      "UsersEstimate": 161248
     },
     {
       "ID": "36",
@@ -8182,7 +8187,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 176978
+      "UsersEstimate": 176979
     },
     {
       "ID": "4",
@@ -8237,7 +8242,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 393284,
+      "Progressed": 393287,
       "Completed": 10
     }
   ],
@@ -8245,8 +8250,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-06-13T20:58:52.7350748+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:18.7684918+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:40.8640145+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:54.9087832+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:56.8913796+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:18.7685581+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:59.503072+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:40.8640636+00:00"
 }

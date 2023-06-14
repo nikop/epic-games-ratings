@@ -6,30 +6,30 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,380 |
-| First Steps | 81.00% | ~28,202 |
+| Awakening | 93.00% | ~32,381 |
+| First Steps | 81.00% | ~28,203 |
 | Control the Shadows | 68.00% | ~23,676 |
 | Tools of the Trade | 63.00% | ~21,935 |
-| Apprentice | 60.00% | ~20,890 |
+| Apprentice | 60.00% | ~20,891 |
 | Secret Seeker | 57.00% | ~19,846 |
 | Forge of Assassins | 56.00% | ~19,498 |
 | Revenant | 52.00% | ~18,105 |
 | I don’t Care! | 45.00% | ~15,668 |
-| Bird of Prey | 37.00% | ~12,882 |
-| Engraved with Power | 32.00% | ~11,141 |
+| Bird of Prey | 37.00% | ~12,883 |
+| Engraved with Power | 32.00% | ~11,142 |
 | Lady | 30.00% | ~10,445 |
 | Fashionable Assassin | 27.00% | ~9,401 |
 | Apex Predator | 24.00% | ~8,356 |
 | Soul Reaver | 22.00% | ~7,660 |
 | Embers | 21.00% | ~7,312 |
-| Wall Lizard | 20.00% | ~6,963 |
+| Wall Lizard | 20.00% | ~6,964 |
 | Clinging to Life | 18.00% | ~6,267 |
 | Burning | 17.00% | ~5,919 |
 | Look Behind You | 16.00% | ~5,571 |
 | Sleeping on the Job | 16.00% | ~5,571 |
-| Family | 14.00% | ~4,874 |
-| War Engines | 14.00% | ~4,874 |
-| Signature Move | 14.00% | ~4,874 |
+| Family | 14.00% | ~4,875 |
+| War Engines | 14.00% | ~4,875 |
+| Signature Move | 14.00% | ~4,875 |
 | Ruse | 11.00% | ~3,830 |
 | Master Ninja | 10.00% | ~3,482 |
 | Hatching | 9.00% | ~3,134 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~348 |
 | Anger Management | 1.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,817 (Ranked 86)  
+Progressed: 34,818 (Ranked 86)  
 Completed: 173 (0.50%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 173 (0.50%) (Ranked 116)
 | 2023-06-11 | 34,599 | 170 |
 | 2023-06-12 | 34,703 | 170 |
 | 2023-06-13 | 34,794 | 173 |
-| 2023-06-14 | 34,817 | 173 |
+| 2023-06-14 | 34,818 | 173 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

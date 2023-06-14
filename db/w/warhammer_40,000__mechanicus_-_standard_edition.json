@@ -459,9 +459,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 214086,
+  "EOS_Progressed": 214088,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6119,6 +6119,11 @@
       "Time": "2023-06-14T06:03:58.2367025+00:00",
       "NumProgressed": 214086,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T07:04:06.3269443+00:00",
+      "NumProgressed": 214088,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 34,
@@ -6130,7 +6135,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40676
+      "UsersEstimate": 40677
     },
     {
       "ID": "ACH_BASE_10",
@@ -6154,7 +6159,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "ACH_BASE_13",
@@ -6298,7 +6303,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "ACH_BASE_30",
@@ -6378,7 +6383,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25690
+      "UsersEstimate": 25691
     },
     {
       "ID": "ACH_BASE_8",
@@ -6386,7 +6391,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "ACH_BASE_9",
@@ -6401,7 +6406,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214086,
+      "Progressed": 214088,
       "Completed": 3
     }
   ],
@@ -6409,8 +6414,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-12T11:58:35.7449378+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:03:58.2367016+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:04:06.3269439+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:49.442011+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:03:58.2367655+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:50.9905438+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:04:06.3269897+00:00"
 }

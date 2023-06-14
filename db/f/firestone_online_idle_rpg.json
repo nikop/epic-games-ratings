@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1395,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -3106,6 +3106,11 @@
       "Time": "2023-06-14T06:06:31.9436146+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T07:06:55.1875796+00:00",
+      "NumProgressed": 1395,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3445,7 +3450,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "minerclicker",
@@ -3541,7 +3546,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "scrollmaster",
@@ -3677,7 +3682,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "warmachinesarmy",
@@ -3709,14 +3714,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1395,
       "Completed": 1
     }
   ],
@@ -3724,8 +3729,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:31.9436138+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:55.1875791+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:20.6804192+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:31.9437104+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:18.7674921+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:55.1876519+00:00"
 }

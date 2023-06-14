@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -1832,9 +1832,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 470
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2096,9 +2096,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 235
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2137,8 +2137,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:03:21.7142899+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:03:16.1001846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:37.7012619+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:03:21.7143641+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:38.0067868+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:03:16.1002243+00:00"
 }

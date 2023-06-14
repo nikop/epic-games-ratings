@@ -5,28 +5,28 @@ Rating: 4.22 (Ranked 815)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~859 |
+| Country Bumpkin | 73.00% | ~860 |
 | A new Journey | 71.00% | ~836 |
-| From X to Y | 70.00% | ~824 |
-| Departure | 70.00% | ~824 |
-| Way of Iron | 69.00% | ~812 |
+| From X to Y | 70.00% | ~825 |
+| Departure | 70.00% | ~825 |
+| Way of Iron | 69.00% | ~813 |
 | Mystery Tour | 66.00% | ~777 |
-| We brake for nobody | 65.00% | ~765 |
-| Brainstorm | 64.00% | ~753 |
+| We brake for nobody | 65.00% | ~766 |
+| Brainstorm | 64.00% | ~754 |
 | Mind the Gap | 63.00% | ~742 |
 | Travel Company | 63.00% | ~742 |
-| All around the World | 60.00% | ~706 |
-| Right through the middle | 55.00% | ~647 |
-| Poor Devil | 52.00% | ~612 |
-| Facility Manager | 51.00% | ~600 |
+| All around the World | 60.00% | ~707 |
+| Right through the middle | 55.00% | ~648 |
+| Poor Devil | 52.00% | ~613 |
+| Facility Manager | 51.00% | ~601 |
 | Producer | 48.00% | ~565 |
 | Apprentice | 41.00% | ~483 |
 | Bridge Builder | 39.00% | ~459 |
-| Access granted | 34.00% | ~400 |
-| Stoker | 33.00% | ~388 |
+| Access granted | 34.00% | ~401 |
+| Stoker | 33.00% | ~389 |
 | Going once, going twice, sold | 31.00% | ~365 |
-| Full Steam ahead | 29.00% | ~341 |
-| Bull and bear | 29.00% | ~341 |
+| Full Steam ahead | 29.00% | ~342 |
+| Bull and bear | 29.00% | ~342 |
 | Mole | 26.00% | ~306 |
 | All mine | 25.00% | ~294 |
 | Financial Shark | 25.00% | ~294 |
@@ -61,7 +61,7 @@ Rating: 4.22 (Ranked 815)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,177 (Ranked 169)  
+Progressed: 1,178 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 1,124 | 0 |
 | 2023-06-12 | 1,152 | 0 |
 | 2023-06-13 | 1,176 | 0 |
-| 2023-06-14 | 1,177 | 0 |
+| 2023-06-14 | 1,178 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-06-10T06:00:09.902774+00:00",
       "NumProgressed": 53,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T07:02:07.820368+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -133,9 +138,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -149,7 +154,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 37
     },
@@ -157,7 +162,7 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -197,23 +202,23 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -221,9 +226,9 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
@@ -271,7 +276,7 @@
       "Name": "Uncle will be happy",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -279,14 +284,14 @@
       "Name": "Broken jar",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 1
     }
   ],
@@ -294,8 +299,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:02:16.2337194+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:02:07.8203675+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.2223585+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:58:21.6884174+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:02:16.2337338+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:58:19.8271806+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:02:07.8203787+00:00"
 }

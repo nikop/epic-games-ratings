@@ -176,6 +176,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.20% | ~181 |
 | The Newcomers of Notoriety | 0.20% | ~114 |
 | A Grand Puzzle | 0.20% | ~181 |
+| Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
@@ -372,7 +373,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~57 |
 | Fall From Grace | 0.10% | ~91 |
 | Underground Railroad | 0.10% | ~91 |
-| Never Split the Party | 0.10% | ~91 |
 | Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |

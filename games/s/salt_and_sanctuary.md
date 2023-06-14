@@ -6,23 +6,23 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,280 |
-| The Three | 64.00% | ~335,638 |
+| Find Sanctuary | 83.00% | ~435,282 |
+| The Three | 64.00% | ~335,639 |
 | The Banquet | 40.00% | ~209,774 |
-| Devara's Light | 30.00% | ~157,330 |
+| Devara's Light | 30.00% | ~157,331 |
 | The Iron Ones | 18.00% | ~94,398 |
-| The Village | 16.00% | ~83,909 |
+| The Village | 16.00% | ~83,910 |
 | The Forest | 14.00% | ~73,421 |
-| Branded | 13.00% | ~68,176 |
-| The Imposter | 13.00% | ~68,176 |
-| The Keep | 13.00% | ~68,176 |
+| Branded | 13.00% | ~68,177 |
+| The Imposter | 13.00% | ~68,177 |
+| The Keep | 13.00% | ~68,177 |
 | The Castle | 11.00% | ~57,688 |
 | The Dome | 9.00% | ~47,199 |
 | The Red Hall | 9.00% | ~47,199 |
 | The Sacrifice | 8.00% | ~41,955 |
-| The Cave | 7.00% | ~36,710 |
-| The Stone Roots | 7.00% | ~36,710 |
-| The Ziggurat | 7.00% | ~36,710 |
+| The Cave | 7.00% | ~36,711 |
+| The Stone Roots | 7.00% | ~36,711 |
+| The Ziggurat | 7.00% | ~36,711 |
 | Storied | 6.00% | ~31,466 |
 | The Construct | 6.00% | ~31,466 |
 | The Mire | 6.00% | ~31,466 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,489 |
 | Fading Fast | 1.00% | ~5,244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,434 (Ranked 28)  
-Completed: 1,447 (0.28%) (Ranked 141)  
+Progressed: 524,436 (Ranked 28)  
+Completed: 1,448 (0.28%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,14 +99,14 @@ Completed: 1,447 (0.28%) (Ranked 141)
 | 2023-06-11 | 524,205 | 1,445 |
 | 2023-06-12 | 524,311 | 1,446 |
 | 2023-06-13 | 524,414 | 1,447 |
-| 2023-06-14 | 524,434 | 1,447 |
+| 2023-06-14 | 524,436 | 1,448 |
 ## Awards
-Max (Challenging Combat): 271  (Ranked 237)  
-Sum: 1,893 (Ranked 194)  
-Diff (max vs sum): 43  
+Max (Challenging Combat): 272  (Ranked 237)  
+Sum: 1,894 (Ranked 193)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 271 |
+| This game has Challenging Combat | 272 |
 | This game has Quickly Understood Controls | 253 |
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 231 |
@@ -237,3 +237,4 @@ Diff (max vs sum): 43
 | 2023-06-10 | 4.61 | - | 271 | 1,890 |
 | 2023-06-11 | 4.61 | - | 271 | 1,891 |
 | 2023-06-12 | 4.61 | - | 271 | 1,893 |
+| 2023-06-14 | 4.61 | - | 272 | 1,894 |

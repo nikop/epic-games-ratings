@@ -694,7 +694,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2423,
+  "EOS_Progressed": 2424,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -2569,6 +2569,11 @@
       "Time": "2023-06-14T04:05:39.3911277+00:00",
       "NumProgressed": 2423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T07:06:45.2705682+00:00",
+      "NumProgressed": 2424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2963,15 +2968,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2423,
+      "Progressed": 2424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-12T15:58:48.68135+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:22.8012256+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:45.2705677+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:59:25.418684+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:22.8012771+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:59:31.0700807+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:45.270608+00:00"
 }

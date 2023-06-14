@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 54798,
+  "EOS_Progressed": 54802,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2220,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4807,6 +4807,11 @@
       "Time": "2023-06-14T06:06:27.0487528+00:00",
       "NumProgressed": 54798,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T07:06:50.0820004+00:00",
+      "NumProgressed": 54802,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 67,
@@ -4818,7 +4823,7 @@
       "Name": "Follow the Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 16987
+      "UsersEstimate": 16989
     },
     {
       "ID": "02",
@@ -5218,7 +5223,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "52",
@@ -5282,7 +5287,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "60",
@@ -5353,21 +5358,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 54798,
+      "Progressed": 54802,
       "Completed": 55
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 18266,
+      "Progressed": 18270,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-14T06:06:27.0487522+00:00",
+  "LastChanged_Achievements": "2023-06-14T07:06:50.0820001+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:49.3400717+00:00",
-  "LastUpdate_Ratings": "2023-06-14T05:57:58.8917395+00:00",
-  "LastUpdate_Achievements": "2023-06-14T06:06:27.0488389+00:00"
+  "LastUpdate_Ratings": "2023-06-14T06:57:53.993334+00:00",
+  "LastUpdate_Achievements": "2023-06-14T07:06:50.0820726+00:00"
 }

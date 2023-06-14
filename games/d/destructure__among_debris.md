@@ -15,9 +15,9 @@
 | Easy Victory | 6.00% | ~9 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
 | Ball Protector | 4.00% | ~6 |
+| Legendary Destructor | 4.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
-| Legendary Destructor | 3.00% | ~4 |
 | Medium Rare | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~3 |
