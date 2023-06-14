@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~35,233 |
-| Get Busy Living | 17.00% | ~23,037 |
-| Samuel Norton | 9.00% | ~12,196 |
-| Spare The Rod | 5.00% | ~6,776 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,420 |
-| Don't Put Me In The Dark | 3.00% | ~4,065 |
-| Wait and Hope | 3.00% | ~4,065 |
-| Iron Bars | 3.00% | ~4,065 |
-| Throw The Book At Them | 2.00% | ~2,710 |
+| Stone Walls | 26.00% | ~35,241 |
+| Get Busy Living | 17.00% | ~23,042 |
+| Samuel Norton | 9.00% | ~12,199 |
+| Spare The Rod | 5.00% | ~6,777 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,422 |
+| Don't Put Me In The Dark | 3.00% | ~4,066 |
+| Wait and Hope | 3.00% | ~4,066 |
+| Iron Bars | 3.00% | ~4,066 |
+| Throw The Book At Them | 2.00% | ~2,711 |
 | D.B. Cooper | 1.00% | ~1,355 |
 | Reformation | 0.60% | ~813 |
 | Crowd Control | 0.50% | ~678 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~136 |
 | ... It's What You Can Prove | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,510 (Ranked 57)  
+Progressed: 135,544 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,10 +78,10 @@ Completed: 5 (0.00%) (Ranked 223)
 | 2023-06-11 | 134,384 | 5 |
 | 2023-06-12 | 134,855 | 5 |
 | 2023-06-13 | 135,233 | 5 |
-| 2023-06-14 | 135,510 | 5 |
+| 2023-06-14 | 135,544 | 5 |
 ## Awards
 Max (Extremely Fun): 438  (Ranked 196)  
-Sum: 3,429 (Ranked 145)  
+Sum: 3,430 (Ranked 145)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): 51
 | This game is Relaxing | 386 |
 | This game has Diverse Characters | 374 |
 | This game has Amazing Storytelling | 364 |
-| This game has Amazing Characters | 347 |
+| This game has Amazing Characters | 348 |
 | This game has a Creative Community | 272 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -243,4 +243,4 @@ Diff (max vs sum): 51
 | 2023-06-10 | 4.61 | - | 436 | 3,417 |
 | 2023-06-12 | 4.61 | - | 437 | 3,421 |
 | 2023-06-13 | 4.61 | - | 437 | 3,424 |
-| 2023-06-14 | 4.61 | - | 438 | 3,429 |
+| 2023-06-14 | 4.61 | - | 438 | 3,430 |

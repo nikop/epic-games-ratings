@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.30% | ~1,661 |
-| Resurgence | 0.30% | ~1,661 |
-| Preemptive Strike | 0.30% | ~1,661 |
-| Humanitarian | 0.30% | ~1,661 |
-| Unforgettable Getaway | 0.20% | ~1,107 |
-| Wounded Healer | 0.20% | ~1,107 |
-| First to the Punch | 0.20% | ~1,107 |
-| Old West Oasis | 0.20% | ~1,107 |
-| Every Last Drop | 0.20% | ~1,107 |
-| Close Shave | 0.20% | ~1,107 |
-| With Scars to Show | 0.20% | ~1,107 |
-| Flight to Freedom | 0.20% | ~1,107 |
+| Healthy Obsession | 0.30% | ~1,662 |
+| Resurgence | 0.30% | ~1,662 |
+| Preemptive Strike | 0.30% | ~1,662 |
+| Humanitarian | 0.30% | ~1,662 |
+| Unforgettable Getaway | 0.20% | ~1,108 |
+| Wounded Healer | 0.20% | ~1,108 |
+| First to the Punch | 0.20% | ~1,108 |
+| Old West Oasis | 0.20% | ~1,108 |
+| Every Last Drop | 0.20% | ~1,108 |
+| Close Shave | 0.20% | ~1,108 |
+| With Scars to Show | 0.20% | ~1,108 |
+| Flight to Freedom | 0.20% | ~1,108 |
+| A Fast Death | 0.20% | ~1,108 |
 | The Grand Sacrifice | 0.10% | ~554 |
 | A bite for the Entity | 0.10% | ~554 |
 | A feast for the Entity | 0.10% | ~554 |
@@ -209,7 +210,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ada | 0.10% | ~554 |
 | Adept Rebecca | 0.10% | ~554 |
 | Cruelty Loves Company | 0.10% | ~554 |
-| A Fast Death | 0.10% | ~554 |
 | Adept Knight | 0.10% | ~554 |
 | Rebuilding The Borgo | 0.10% | ~554 |
 | Lifting The Fog | 0.10% | ~554 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~554 |
 | Adept Gabriel | 0.10% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,740 (Ranked 27)  
+Progressed: 553,982 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,16 +282,16 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 553,740 | 42 |
+| 2023-06-14 | 553,982 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,243 (Ranked 12)  
+Sum: 227,293 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,462 |
 | This game has Competitive Players | 26,170 |
-| This game is Highly Recommended | 25,796 |
+| This game is Highly Recommended | 25,846 |
 | This game has Amazing Characters | 25,708 |
 | This game is Extremely Fun | 25,685 |
 | This game has Quickly Understood Controls | 25,477 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 4
 | 2023-06-11 | 4.52 | - | 28,305 | 226,349 |
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
-| 2023-06-14 | 4.52 | - | 28,462 | 227,243 |
+| 2023-06-14 | 4.52 | - | 28,462 | 227,293 |

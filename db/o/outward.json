@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2913,
+  "EOS_Progressed": 2914,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-06-14T17:03:32.130255+00:00",
       "NumProgressed": 2913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T18:03:43.8820444+00:00",
+      "NumProgressed": 2914,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2656,7 +2661,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Eureka_23",
@@ -2792,7 +2797,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2816,7 +2821,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Tapped_22",
@@ -2920,7 +2925,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2935,15 +2940,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2913,
+      "Progressed": 2914,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:03:32.1302542+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:03:43.882044+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:57:59.9449251+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:03:32.1303337+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:58:07.6343633+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:03:43.8820822+00:00"
 }

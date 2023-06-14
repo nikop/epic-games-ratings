@@ -9,11 +9,11 @@
 | Survivor | 44.00% | ~30 |
 | First Blood | 41.00% | ~49 |
 | Triple Kill | 39.00% | ~46 |
+| No Diggity | 35.00% | ~24 |
 | No Asperascope | 34.00% | ~40 |
 | Cornivore | 34.00% | ~40 |
 | Early Survivor | 34.00% | ~23 |
-| No Diggity | 34.00% | ~23 |
-| I Believe I Can Fly | 31.00% | ~37 |
+| I Believe I Can Fly | 32.00% | ~38 |
 | Amateur Survivor | 25.00% | ~17 |
 | Bouncemato | 24.00% | ~17 |
 | This Is My Boomstick | 19.00% | ~13 |
@@ -23,10 +23,10 @@
 | Grave Digger | 17.00% | ~12 |
 | 15K | 16.00% | ~19 |
 | Drinking Problem | 13.00% | ~15 |
-| Summers Here | 11.00% | ~8 |
+| Summers Here | 12.00% | ~8 |
+| Eggtraordinary | 10.00% | ~12 |
 | Oh My Gourd | 10.00% | ~7 |
-| Eggtraordinary | 9.00% | ~11 |
-| Pyromaniac | 9.00% | ~6 |
+| Pyromaniac | 10.00% | ~7 |
 | Skin Of Your Teeth | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Quit Horsin' Around | 7.00% | ~8 |

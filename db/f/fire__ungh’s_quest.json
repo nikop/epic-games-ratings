@@ -502,9 +502,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:44.2391503+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:05:59.166759+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:59:43.2903652+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:05:44.2391736+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:59:53.1135955+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:05:59.1667764+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25698,
+  "EOS_Progressed": 25712,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-06-14T17:05:43.08397+00:00",
       "NumProgressed": 25698,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-14T18:05:57.9640834+00:00",
+      "NumProgressed": 25712,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5972,7 +5977,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4114
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -5980,7 +5985,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5142
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6044,7 +6049,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -6068,7 +6073,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -6124,7 +6129,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -6132,7 +6137,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -6203,7 +6208,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25698,
+      "Progressed": 25712,
       "Completed": 19
     }
   ],
@@ -6211,8 +6216,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:43.0839692+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:05:57.9640829+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:59:48.3186717+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:05:43.0840671+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:59:58.4323018+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:05:57.9641337+00:00"
 }

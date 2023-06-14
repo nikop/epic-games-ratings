@@ -9,13 +9,13 @@
 | Life matters | 34.00% | ~62 |
 | Safety first | 32.00% | ~59 |
 | Professional team! | 23.00% | ~42 |
-| Dawn of Victory | 13.00% | ~24 |
+| Dawn of Victory | 14.00% | ~26 |
 | Team assemble | 13.00% | ~24 |
 | Resource manager | 13.00% | ~24 |
 | Gloable operation | 5.00% | ~9 |
+| My turn | 5.00% | ~9 |
 | Give me a hand | 4.00% | ~7 |
 | Love and peace | 4.00% | ~7 |
-| My turn | 4.00% | ~7 |
 | Panda express | 1.00% | ~2 |
 | Damage control | 0.00% | ~0 |
 | Rush hour | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | The song of water and fire | 0.00% | ~0 |
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 256)  
+Progressed: 183 (Ranked 257)  
 Completed: 7 (3.83%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |

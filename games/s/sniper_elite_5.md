@@ -7,14 +7,14 @@ Rating: 4.53 (Ranked 503)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~850 |
 | Confirming Suspicions | 25.00% | ~708 |
-| The Kraken Wakes | 20.00% | ~566 |
+| The Kraken Wakes | 20.00% | ~567 |
 | It's Starting to Crack | 18.00% | ~510 |
 | Lord of War | 15.00% | ~425 |
 | Change the Channel | 15.00% | ~425 |
 | Resourceful | 13.00% | ~368 |
 | Taking it back | 13.00% | ~368 |
+| Target America | 12.00% | ~340 |
 | Organ Grinder | 11.00% | ~312 |
-| Target America | 11.00% | ~312 |
 | As Quiet as a Mouse | 10.00% | ~283 |
 | The Kraken Sleeps | 10.00% | ~283 |
 | Liberté | 9.00% | ~255 |
@@ -24,15 +24,15 @@ Rating: 4.53 (Ranked 503)
 | Just a Flesh Wound | 8.00% | ~227 |
 | Gunslinger | 8.00% | ~227 |
 | Opposing Force | 7.00% | ~198 |
+| Der Geist | 7.00% | ~198 |
+| Close Quarters | 7.00% | ~198 |
 | Climbing the Ladder | 6.00% | ~170 |
+| No Stone Unturned | 6.00% | ~170 |
 | Fields of Glory | 6.00% | ~170 |
 | Skirmisher | 6.00% | ~170 |
 | Die Nussknacker Sweet! | 6.00% | ~170 |
-| Der Geist | 6.00% | ~170 |
-| Close Quarters | 6.00% | ~170 |
 | Snake in the Grass | 6.00% | ~170 |
 | Brains of the Operation | 6.00% | ~170 |
-| No Stone Unturned | 5.00% | ~142 |
 | Set Europe Ablaze | 5.00% | ~142 |
 | Precision Is Key | 4.00% | ~113 |
 | Rigged to Blow | 4.00% | ~113 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,832 (Ranked 144)  
+Progressed: 2,833 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,832 | 2 |
+| 2023-06-14 | 2,833 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

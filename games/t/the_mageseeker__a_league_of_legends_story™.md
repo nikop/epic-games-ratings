@@ -5,7 +5,7 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,231 |
+| For Demacia | 96.00% | ~2,254 |
 | No more cages! | 92.00% | ~2,160 |
 | Everfrost | 77.00% | ~1,808 |
 | Pentakill | 76.00% | ~1,784 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,348 (Ranked 150)  
+Progressed: 2,348 (Ranked 151)  
 Completed: 2 (0.09%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |

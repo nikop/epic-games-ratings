@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1065,9 +1065,9 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1130,8 +1130,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:00:40.2690762+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:00:54.1621561+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:59:31.4856744+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:00:40.2691206+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:59:40.5371514+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:00:54.1621756+00:00"
 }

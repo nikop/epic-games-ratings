@@ -38,9 +38,9 @@ Rating: 4.43 (Ranked 649)
 | Committed Relationship | 0.80% | ~2,009 |
 | Number 1 | 0.70% | ~1,758 |
 | Interior designer | 0.60% | ~1,507 |
-| The Gamble | 0.50% | ~1,255 |
-| The Descent | 0.50% | ~1,255 |
-| A major purchase | 0.50% | ~1,255 |
+| The Gamble | 0.50% | ~1,256 |
+| The Descent | 0.50% | ~1,256 |
+| A major purchase | 0.50% | ~1,256 |
 | Expert Hunter | 0.40% | ~1,004 |
 | Fungi hunter | 0.40% | ~1,004 |
 | Predator III | 0.40% | ~1,004 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 649)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,099 (Ranked 42)  
+Progressed: 251,101 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.00%) (Ranked 223)
 | 2023-06-11 | 250,922 | 1 |
 | 2023-06-12 | 250,989 | 1 |
 | 2023-06-13 | 251,048 | 1 |
-| 2023-06-14 | 251,099 | 1 |
+| 2023-06-14 | 251,101 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
 Sum: 114 (Ranked 397)  

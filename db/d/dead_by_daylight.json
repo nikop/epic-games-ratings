@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6357,10 +6357,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227243,
       "NumberOfAwardsMax": 28462
+    },
+    {
+      "Time": "2023-06-14T18:00:13.7062484+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227293,
+      "NumberOfAwardsMax": 28462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227243,
+  "NumberOfAwards": 227293,
   "NumberOfAwardsMax": 28462,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6404,7 +6410,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25796
+      "Count": 25846
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6431,9 +6437,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 553740,
+  "EOS_Progressed": 553982,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30509,
+  "EOS_NewPlayers": 30505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12241,6 +12247,11 @@
       "Time": "2023-06-14T17:06:04.6717593+00:00",
       "NumProgressed": 553740,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-14T18:06:18.9090048+00:00",
+      "NumProgressed": 553982,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13108,7 +13119,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_109",
@@ -13148,7 +13159,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_114",
@@ -13252,7 +13263,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_130",
@@ -13364,7 +13375,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_144",
@@ -13420,7 +13431,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_151",
@@ -13460,7 +13471,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_156",
@@ -13468,7 +13479,7 @@
       "Name": "Resurgence",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_157",
@@ -13564,7 +13575,7 @@
       "Name": "Close Shave",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_169",
@@ -13588,7 +13599,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_172",
@@ -13660,7 +13671,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_181",
@@ -13700,7 +13711,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_186",
@@ -13708,7 +13719,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_187",
@@ -13874,9 +13885,9 @@
       "ID": "ACH_207",
       "SetID": "16jml5b",
       "Name": "A Fast Death",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 554
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_208",
@@ -14011,21 +14022,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 553740,
+      "Progressed": 553982,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 553740,
+      "Progressed": 553982,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-14T17:00:03.2093985+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:06:04.6717587+00:00",
+  "LastChanged": "2023-06-14T18:00:13.7062483+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:06:18.9090043+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:00:03.2093993+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:06:04.6724526+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:00:13.7062487+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:06:18.9094932+00:00"
 }

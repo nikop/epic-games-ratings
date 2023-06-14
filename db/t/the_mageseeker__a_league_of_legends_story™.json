@@ -5,7 +5,7 @@
   "Ranking_Rating": 80,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 77,
@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 2348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2666,9 +2666,9 @@
       "ID": "STB_DEFEAT_GAREN_I",
       "SetID": "3pe2bac",
       "Name": "For Demacia",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2254
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3035,8 +3035,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:50.3198396+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:06:05.4083252+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:57:49.9207854+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:05:50.3199229+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:57:57.157714+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:06:05.4083741+00:00"
 }

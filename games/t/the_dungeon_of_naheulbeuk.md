@@ -52,23 +52,23 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 11.00% | ~9 |
 | An old poacher makes the best gamekeeper | 9.00% | ~8 |
 | Lust and Debauchery | 9.00% | ~8 |
+| Inception | 8.00% | ~7 |
 | Elite Adventurers | 7.00% | ~6 |
 | Egghead | 7.00% | ~6 |
 | Free customer service | 7.00% | ~6 |
 | We come in peace | 7.00% | ~6 |
 | Super-Ultra-Lydian | 7.00% | ~6 |
-| Inception | 7.00% | ~6 |
 | Holistic Adventuring Party | 6.00% | ~5 |
 | Insult to injury | 6.00% | ~5 |
 | Hit snooze | 5.00% | ~4 |
 | Friendly fire | 4.00% | ~3 |
 | I'd rather... Just... Sing! | 4.00% | ~3 |
+| Take your time back in time | 4.00% | ~3 |
 | Deep changes | 4.00% | ~3 |
 | A broken clock… | 4.00% | ~3 |
 | Kudos from your DM | 4.00% | ~3 |
 | Death is for wimps | 4.00% | ~3 |
 | Demisemiquaver | 4.00% | ~3 |
-| Take your time back in time | 2.00% | ~2 |
 | Gloomy Dungeon | 2.00% | ~2 |
 | Living legends of the Lands of Fangh | 2.00% | ~2 |
 | Star-crossed lovers | 2.00% | ~2 |

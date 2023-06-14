@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224674,
+  "EOS_Progressed": 224677,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 1,
@@ -5843,6 +5843,11 @@
       "Time": "2023-06-14T17:05:33.4923532+00:00",
       "NumProgressed": 224674,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-14T18:05:48.1701384+00:00",
+      "NumProgressed": 224677,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5870,7 +5875,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62909
+      "UsersEstimate": 62910
     },
     {
       "ID": "CENTAUR",
@@ -5990,7 +5995,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71896
+      "UsersEstimate": 71897
     },
     {
       "ID": "NOBUNAGA",
@@ -6038,7 +6043,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "QAREEN",
@@ -6054,7 +6059,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -6062,7 +6067,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "SHOWOFF",
@@ -6078,7 +6083,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49428
+      "UsersEstimate": 49429
     },
     {
       "ID": "TACTICIAN",
@@ -6102,7 +6107,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49428
+      "UsersEstimate": 49429
     },
     {
       "ID": "TUNINGMANIAC",
@@ -6118,22 +6123,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92116
+      "UsersEstimate": 92118
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224674,
+      "Progressed": 224677,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:33.4923525+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:05:48.1701379+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.7588472+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:58:24.3730698+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:05:33.4924144+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:58:32.2321797+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:05:48.1701853+00:00"
 }

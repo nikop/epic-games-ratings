@@ -5,20 +5,20 @@ Rating: 4.25 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,422 |
-| Don't I Know You...? | 77.00% | ~1,369 |
+| Rigged And Ready | 80.00% | ~1,423 |
+| Don't I Know You...? | 77.00% | ~1,370 |
 | Jailbreak | 65.00% | ~1,156 |
 | Suited and Booted | 38.00% | ~676 |
 | HEADSHOT! | 37.00% | ~658 |
-| Sleeping With The Fishes | 35.00% | ~622 |
-| High Performance | 30.00% | ~533 |
+| Sleeping With The Fishes | 35.00% | ~623 |
+| High Performance | 30.00% | ~534 |
 | Overheated | 29.00% | ~516 |
 | Powered Up | 28.00% | ~498 |
 | Studied The Blade | 24.00% | ~427 |
 | Home Invasion | 22.00% | ~391 |
 | Luminary | 22.00% | ~391 |
 | It's a Trap | 22.00% | ~391 |
-| True Survivor | 21.00% | ~373 |
+| True Survivor | 21.00% | ~374 |
 | Court Martial | 19.00% | ~338 |
 | Offensive Defense | 19.00% | ~338 |
 | Shocking | 19.00% | ~338 |
@@ -41,7 +41,7 @@ Rating: 4.25 (Ranked 796)
 | Denying Prophecy | 8.00% | ~142 |
 | Following In Their Footsteps | 8.00% | ~142 |
 | Defense in Depth | 8.00% | ~142 |
-| Reverse Engineering | 7.00% | ~124 |
+| Reverse Engineering | 7.00% | ~125 |
 | Turbo Booster | 6.00% | ~107 |
 | Squid Pro Quo | 6.00% | ~107 |
 | Reborn | 5.00% | ~89 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 796)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,778 (Ranked 156)  
+Progressed: 1,779 (Ranked 156)  
 Completed: 10 (0.56%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 10 (0.56%) (Ranked 113)
 | 2023-06-11 | 1,756 | 10 |
 | 2023-06-12 | 1,764 | 10 |
 | 2023-06-13 | 1,773 | 10 |
-| 2023-06-14 | 1,778 | 10 |
+| 2023-06-14 | 1,779 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

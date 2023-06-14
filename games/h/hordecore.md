@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~330 |
+| Just Went Shopping | 98.00% | ~333 |
 | Decision Maker | 80.00% | ~272 |
 | DIY | 78.00% | ~265 |
 | Sneaky Sneak | 77.00% | ~262 |

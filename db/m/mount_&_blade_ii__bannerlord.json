@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4747,10 +4747,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 13392,
       "NumberOfAwardsMax": 6664
+    },
+    {
+      "Time": "2023-06-14T17:59:44.8555342+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 13394,
+      "NumberOfAwardsMax": 6664
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13392,
+  "NumberOfAwards": 13394,
   "NumberOfAwardsMax": 6664,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4806,13 +4812,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 827
+      "Count": 828
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 732
+      "Count": 733
     },
     {
       "Text": "This game has a Creative Community",
@@ -4827,9 +4833,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53161,
+  "EOS_Progressed": 53162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10397,6 +10403,11 @@
       "Time": "2023-06-14T17:05:58.5135954+00:00",
       "NumProgressed": 53161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T18:06:13.1562435+00:00",
+      "NumProgressed": 53162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10488,7 +10499,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "Dynasty",
@@ -10632,7 +10643,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "Lawbringer",
@@ -10752,7 +10763,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "The king is pleased",
@@ -10760,7 +10771,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9037
+      "UsersEstimate": 9038
     },
     {
       "ID": "This Is Our Land",
@@ -10815,15 +10826,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53161,
+      "Progressed": 53162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-14T14:00:31.8951322+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:58.5135948+00:00",
+  "LastChanged": "2023-06-14T17:59:44.855534+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:06:13.1562429+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:59:35.9296944+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:05:58.5136737+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:59:44.8555346+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:06:13.156305+00:00"
 }

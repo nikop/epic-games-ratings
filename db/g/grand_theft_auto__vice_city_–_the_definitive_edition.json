@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -424,9 +424,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 8435,
+  "EOS_Progressed": 8438,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -4579,6 +4579,11 @@
       "Time": "2023-06-14T17:02:19.440126+00:00",
       "NumProgressed": 8435,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-14T18:03:11.8006562+00:00",
+      "NumProgressed": 8438,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 34,
@@ -4614,7 +4619,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH05",
@@ -4694,7 +4699,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3375
     },
     {
       "ID": "ACH15",
@@ -4710,7 +4715,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH17",
@@ -4726,7 +4731,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH19",
@@ -4750,7 +4755,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3713
     },
     {
       "ID": "ACH22",
@@ -4758,7 +4763,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH23",
@@ -4766,7 +4771,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH24",
@@ -4822,7 +4827,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH31",
@@ -4861,7 +4866,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8435,
+      "Progressed": 8438,
       "Completed": 31
     }
   ],
@@ -4869,8 +4874,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:02:19.4401253+00:00",
+  "LastChanged_Achievements": "2023-06-14T18:03:11.8006557+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-14T16:58:23.3116176+00:00",
-  "LastUpdate_Achievements": "2023-06-14T17:02:19.4401912+00:00"
+  "LastUpdate_Ratings": "2023-06-14T17:58:31.126773+00:00",
+  "LastUpdate_Achievements": "2023-06-14T18:03:11.8006964+00:00"
 }
