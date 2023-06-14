@@ -12,7 +12,7 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,817 | 4.59 | 407 |
 | 11 | [VALORANT](games/v/valorant.md) | 56,651 | 4.54 | 488 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 38,097 | 4.60 | 387 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 34,851 | 4.50 | 545 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 34,914 | 4.50 | 545 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,905 | 4.74 | 144 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,556 | 4.65 | 295 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,386 | 4.52 | 516 |
@@ -50,7 +50,7 @@
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 657 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,664 | 4.75 | 134 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,470 | 4.71 | 179 |
-| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,305 | 4.80 | 80 |
+| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,307 | 4.80 | 80 |
 | 52 | [Sifu](games/s/sifu.md) | 6,173 | 4.82 | 66 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,160 | 4.58 | 420 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,938 | 4.64 | 314 |
@@ -99,7 +99,7 @@
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,360 | 4.82 | 66 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,331 | 4.17 | 852 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,311 | 4.78 | 100 |
-| 100 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,261 | 3.98 | 909 |
+| 100 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,278 | 3.98 | 909 |
 | 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,223 | 4.67 | 257 |
 | 102 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,175 | 4.41 | 669 |
 | 103 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,148 | 4.63 | 332 |
@@ -379,10 +379,10 @@
 | 376 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 530 |
 | 376 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.62 | 347 |
 | 379 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 565 |
+| 379 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 62 | 4.63 | 332 |
 | 379 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 387 |
-| 381 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 61 | 4.42 | 657 |
-| 381 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 61 | 4.63 | 332 |
-| 381 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.70 | 196 |
+| 382 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 61 | 4.42 | 657 |
+| 382 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.70 | 196 |
 | 384 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 60 | 3.77 | 934 |
 | 385 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 630 |
 | 386 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.59 | 407 |

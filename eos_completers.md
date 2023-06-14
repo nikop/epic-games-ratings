@@ -18,7 +18,7 @@
 | 16 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.70% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.66% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.25% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.24% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.62% |
@@ -37,16 +37,16 @@
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
-| 38 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.81% |
-| 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 38 | [Doodle God](games/d/doodle_god.md) | 3.77% |
+| 39 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.75% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.52% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.29% |
-| 47 | [The Complex](games/t/the_complex.md) | 3.25% |
+| 47 | [The Complex](games/t/the_complex.md) | 3.24% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.95% |
@@ -55,7 +55,7 @@
 | 53 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [Lamentum](games/l/lamentum.md) | 2.75% |
+| 56 | [Lamentum](games/l/lamentum.md) | 2.74% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
@@ -100,8 +100,8 @@
 | 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 98 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 102 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 101 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 103 | [Haven](games/h/haven.md) | 0.71% |
 | 103 | [Them and Us](games/t/them_and_us.md) | 0.71% |
 | 105 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.69% |

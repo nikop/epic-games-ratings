@@ -79,7 +79,7 @@
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 497 |
 | 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 200 | 263 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 460 |
-| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,305 | 51 |
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,307 | 51 |
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 326 |
 | 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 497 |
 | 80 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 497 |
@@ -211,7 +211,7 @@
 | 196 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 453 |
 | 196 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 497 |
 | 196 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 78 | 355 |
-| 196 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 61 | 381 |
+| 196 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 61 | 382 |
 | 196 | [The Machines Arena](games/t/the_machines_arena.md) | 4.70 | 0 | 497 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 497 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 174 | 278 |
@@ -334,7 +334,7 @@
 | 332 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 493 |
 | 332 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 497 |
 | 332 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,148 | 103 |
-| 332 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 61 | 381 |
+| 332 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 62 | 379 |
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 497 |
 | 332 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 497 |
 | 332 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 497 |
@@ -549,7 +549,7 @@
 | 545 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 40 | 417 |
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 344 |
 | 545 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 497 |
-| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,851 | 13 |
+| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,914 | 13 |
 | 545 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 497 |
 | 545 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 100 | 328 |
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,435 | 94 |
@@ -657,7 +657,7 @@
 | 647 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 497 |
 | 647 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 279 | 234 |
 | 657 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 497 |
-| 657 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 61 | 381 |
+| 657 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 61 | 382 |
 | 657 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 453 |
 | 657 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 192 | 267 |
 | 657 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,145 | 30 |
@@ -909,7 +909,7 @@
 | 907 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 211 |
 | 907 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,623 | 67 |
 | 909 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 497 |
-| 909 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,261 | 100 |
+| 909 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,278 | 100 |
 | 911 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 497 |
 | 911 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 497 |
 | 913 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 407 |
@@ -923,11 +923,11 @@
 | 920 | [Warface](games/w/warface.md) | 3.91 | 395 | 206 |
 | 922 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 497 |
 | 922 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 497 |
-| 924 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.85 | 0 | 497 |
 | 924 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 497 |
 | 924 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 497 |
-| 927 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 497 |
-| 928 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 497 |
+| 926 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 497 |
+| 927 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.82 | 0 | 497 |
+| 927 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 497 |
 | 929 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 497 |
 | 929 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 66 | 372 |
 | 931 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 497 |
