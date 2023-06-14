@@ -12,7 +12,7 @@
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.20% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.05% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.27% |
@@ -44,9 +44,9 @@
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.60% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
-| 45 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.43% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 47 | [ZZT!](games/z/zzt!.md) | 3.29% |
+| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.39% |
+| 47 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.22% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -69,8 +69,8 @@
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.00% |
-| 70 | [Iron Danger](games/i/iron_danger.md) | 1.95% |
-| 71 | [Frogun](games/f/frogun.md) | 1.93% |
+| 70 | [Frogun](games/f/frogun.md) | 1.93% |
+| 70 | [Iron Danger](games/i/iron_danger.md) | 1.93% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
 | 73 | [JARS](games/j/jars.md) | 1.82% |
 | 73 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
@@ -117,11 +117,11 @@
 | 115 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 116 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.51% |
 | 117 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 117 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.50% |
 | 117 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 119 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
-| 120 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
-| 120 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
-| 122 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.47% |
+| 120 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 120 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
+| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 123 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 124 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 125 | [Scrapnaut](games/s/scrapnaut.md) | 0.38% |
@@ -149,10 +149,10 @@
 | 146 | [Filament](games/f/filament.md) | 0.23% |
 | 146 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.23% |
 | 149 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
-| 149 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 151 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 151 | [BLACKTAIL](games/b/blacktail.md) | 0.21% |
-| 151 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 150 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 150 | [BLACKTAIL](games/b/blacktail.md) | 0.21% |
+| 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 150 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 154 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 156 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
