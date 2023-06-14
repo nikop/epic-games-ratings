@@ -12,9 +12,9 @@
 | Dawn of Victory | 14.00% | ~26 |
 | Team assemble | 13.00% | ~24 |
 | Resource manager | 13.00% | ~24 |
+| Give me a hand | 5.00% | ~9 |
 | Gloable operation | 5.00% | ~9 |
 | My turn | 5.00% | ~9 |
-| Give me a hand | 4.00% | ~7 |
 | Love and peace | 4.00% | ~7 |
 | Panda express | 1.00% | ~2 |
 | Damage control | 0.00% | ~0 |

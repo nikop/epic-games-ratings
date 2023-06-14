@@ -6363,10 +6363,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227293,
       "NumberOfAwardsMax": 28462
+    },
+    {
+      "Time": "2023-06-14T19:01:25.7966817+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227336,
+      "NumberOfAwardsMax": 28462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227293,
+  "NumberOfAwards": 227336,
   "NumberOfAwardsMax": 28462,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6416,7 +6422,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25477
+      "Count": 25520
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6437,9 +6443,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 553982,
+  "EOS_Progressed": 554245,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30505,
+  "EOS_NewPlayers": 30541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12252,6 +12258,11 @@
       "Time": "2023-06-14T18:06:18.9090048+00:00",
       "NumProgressed": 553982,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-14T19:07:39.6258745+00:00",
+      "NumProgressed": 554245,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13277,9 +13288,9 @@
       "ID": "ACH_131",
       "SetID": "16jml5b",
       "Name": "Operation: Survival",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 554
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_132",
@@ -13431,7 +13442,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_151",
@@ -13477,9 +13488,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 2217
     },
     {
       "ID": "ACH_157",
@@ -13573,9 +13584,9 @@
       "ID": "ACH_168",
       "SetID": "16jml5b",
       "Name": "Close Shave",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_169",
@@ -13599,7 +13610,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_172",
@@ -13671,7 +13682,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_181",
@@ -13909,9 +13920,9 @@
       "ID": "ACH_210",
       "SetID": "16jml5b",
       "Name": "Lifting The Fog",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_211",
@@ -13933,9 +13944,9 @@
       "ID": "ACH_213",
       "SetID": "16jml5b",
       "Name": "Chorus of Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 554
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_214",
@@ -14022,21 +14033,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 553982,
+      "Progressed": 554245,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 553982,
+      "Progressed": 554245,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-14T18:00:13.7062483+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:18.9090043+00:00",
+  "LastChanged": "2023-06-14T19:01:25.7966813+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:39.625874+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:00:13.7062487+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:18.9094932+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:01:25.7966823+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:39.6263805+00:00"
 }

@@ -32,6 +32,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 2.00% | ~197 |
 | Heroic Victory | 2.00% | ~197 |
 | Mythic Reinforcements | 2.00% | ~197 |
+| Capitulation Is Now Moot | 2.00% | ~197 |
 | Core of the Riddle | 2.00% | ~197 |
 | Your First Big Enemy | 2.00% | ~197 |
 | Hey, I Know You! | 2.00% | ~197 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~173 |
 | Path of the Demon | 1.00% | ~98 |
 | Path of the Aeon | 1.00% | ~98 |
-| Capitulation Is Now Moot | 1.00% | ~98 |
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~89 |
 | This Wall Won't Fall | 0.90% | ~78 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,848 (Ranked 112)  
+Progressed: 9,849 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 9,782 | 0 |
 | 2023-06-12 | 9,811 | 0 |
 | 2023-06-13 | 9,833 | 0 |
-| 2023-06-14 | 9,848 | 0 |
+| 2023-06-14 | 9,849 | 0 |
 ## Awards
 Max (Character Customization): 1,661  (Ranked 112)  
-Sum: 6,743 (Ranked 109)  
+Sum: 6,744 (Ranked 109)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -193,7 +193,7 @@ Diff (max vs sum): 3
 | This game has Amazing Storytelling | 595 |
 | This game has Quickly Understood Controls | 556 |
 | This game has Challenging Combat | 555 |
-| This game is Relaxing | 531 |
+| This game is Relaxing | 532 |
 | This game has a Creative Community | 375 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -337,4 +337,4 @@ Diff (max vs sum): 3
 | 2023-06-11 | 4.76 | - | 1,660 | 6,738 |
 | 2023-06-12 | 4.76 | - | 1,660 | 6,740 |
 | 2023-06-13 | 4.76 | - | 1,661 | 6,742 |
-| 2023-06-14 | 4.76 | - | 1,661 | 6,743 |
+| 2023-06-14 | 4.76 | - | 1,661 | 6,744 |

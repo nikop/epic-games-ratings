@@ -16,15 +16,15 @@
 | I Believe I Can Fly | 32.00% | ~38 |
 | Amateur Survivor | 25.00% | ~17 |
 | Bouncemato | 24.00% | ~17 |
+| Quick-Draw Pod | 19.00% | ~13 |
 | This Is My Boomstick | 19.00% | ~13 |
-| Quick-Draw Pod | 18.00% | ~12 |
 | Professional Survivor | 18.00% | ~12 |
 | 10K | 17.00% | ~20 |
 | Grave Digger | 17.00% | ~12 |
 | 15K | 16.00% | ~19 |
 | Drinking Problem | 13.00% | ~15 |
-| Summers Here | 12.00% | ~8 |
-| Eggtraordinary | 10.00% | ~12 |
+| Summers Here | 13.00% | ~9 |
+| Eggtraordinary | 11.00% | ~13 |
 | Oh My Gourd | 10.00% | ~7 |
 | Pyromaniac | 10.00% | ~7 |
 | Skin Of Your Teeth | 8.00% | ~10 |

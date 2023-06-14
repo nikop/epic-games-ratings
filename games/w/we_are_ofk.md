@@ -1,4 +1,4 @@
-# Pop. Love. Panic! The OFK Story
+# We Are OFK
 [Store](https://store.epicgames.com/en-US/p/pop-love-panic-the-ofk-story)  
 [View Rawdata](../../db/w/we_are_ofk.json)  
 ## Achievements

@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 453)
 | In the smacker...I think | 9.00% | ~57 |
 | 1+1>2 | 8.00% | ~51 |
 | This can't be right… | 8.00% | ~51 |
+| Welcome home, 06 | 8.00% | ~51 |
 | I'm walking here! | 7.00% | ~44 |
 | So Fresh and So clean clean | 7.00% | ~44 |
 | Supreme Bartender Ann | 7.00% | ~44 |
-| Welcome home, 06 | 7.00% | ~44 |
 | Clarity of Mind | 6.00% | ~38 |
 | I feel secure, contained & protected | 6.00% | ~38 |
 | Science, it works! | 6.00% | ~38 |

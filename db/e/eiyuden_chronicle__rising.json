@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -158,11 +158,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.66,
+  "EOS_Completed_Percentage": 8.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -208,6 +208,11 @@
       "Time": "2023-06-14T03:06:01.7523465+00:00",
       "NumProgressed": 670,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-14T19:07:31.6705734+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 50,
@@ -227,7 +232,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -243,7 +248,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -267,7 +272,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -281,9 +286,9 @@
       "ID": "ACHIEVEMENT009",
       "SetID": "dejhjd5",
       "Name": "The Road to Recovery",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -307,7 +312,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -331,7 +336,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -339,7 +344,7 @@
       "Name": "One Mean Merc",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -361,9 +366,9 @@
       "ID": "ACHIEVEMENT019",
       "SetID": "dejhjd5",
       "Name": "Full Force - CJ",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT020",
@@ -385,9 +390,9 @@
       "ID": "ACHIEVEMENT022",
       "SetID": "dejhjd5",
       "Name": "Arms Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -411,7 +416,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -427,7 +432,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -467,7 +472,7 @@
       "Name": "Sommelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT033",
@@ -499,7 +504,7 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -539,7 +544,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -569,9 +574,9 @@
       "ID": "ACHIEVEMENT045",
       "SetID": "dejhjd5",
       "Name": "The Runebarrows...On Foot!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -618,15 +623,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:12.8688779+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:31.670573+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.8286518+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:00:12.0602476+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:12.868913+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:01:23.6745525+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:31.6706161+00:00"
 }

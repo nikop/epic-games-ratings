@@ -2,9 +2,9 @@
   "ID": "2df9c4ac2a644e4daf2e0a752500457d",
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-06-14T17:04:49.0507136+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T19:05:53.4334846+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -353,9 +358,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "coffee_100",
@@ -369,7 +374,7 @@
       "ID": "coffee_50",
       "SetID": "56hff7o",
       "Name": "Coffee Connoisseur",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -385,15 +390,15 @@
       "ID": "get_lost",
       "SetID": "56hff7o",
       "Name": "Get Lost!",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 75,
       "UsersEstimate": 17
     },
@@ -409,7 +414,7 @@
       "ID": "tea_50",
       "SetID": "56hff7o",
       "Name": "Tea Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 4
     }
@@ -418,13 +423,13 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:05:02.2741665+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:05:53.4334838+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.1471766+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:48.8789581+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:05:02.2741749+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:59:22.4915831+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:05:53.4334943+00:00"
 }

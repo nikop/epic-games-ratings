@@ -191,9 +191,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CollectCurses",
@@ -279,9 +279,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MonsterSlayer",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:00:41.0727281+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:02:06.8701749+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:57:32.0352639+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:00:41.0727447+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:57:30.0277665+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:02:06.8701943+00:00"
 }

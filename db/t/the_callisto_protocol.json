@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 845,
-  "Ranking_Popularity": 388,
+  "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 129,
@@ -570,11 +570,17 @@
       "Rating": 4.18,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-06-14T18:58:28.0730015+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 308,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
-  "NumberOfAwardsMax": 53,
+  "NumberOfAwards": 308,
+  "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -605,7 +611,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Challenging Combat",
@@ -620,9 +626,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15262,
+  "EOS_Progressed": 15264,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3875,6 +3881,11 @@
       "Time": "2023-06-14T18:04:29.1171101+00:00",
       "NumProgressed": 15262,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-14T19:05:07.3821623+00:00",
+      "NumProgressed": 15264,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3910,7 +3921,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3918,7 +3929,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4110,7 +4121,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -4134,7 +4145,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4205,22 +4216,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15262,
+      "Progressed": 15264,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3188,
+      "Progressed": 3190,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-13T18:58:48.4593905+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:04:29.1171097+00:00",
+  "LastChanged": "2023-06-14T18:58:28.0730013+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:05:07.3821617+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:12.5167679+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:04:29.117153+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:28.0730019+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:05:07.3822065+00:00"
 }

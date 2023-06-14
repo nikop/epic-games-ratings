@@ -549,9 +549,9 @@
       "ID": "Welcome_home_06",
       "SetID": "gl7plp",
       "Name": "Welcome home, 06",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 51
     },
     {
       "ID": "Woman on a (side) mission",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:00:31.5538225+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:01:54.1103035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:46.8735104+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:57:58.7819768+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:00:31.5538607+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:07.8388745+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:01:54.1103363+00:00"
 }

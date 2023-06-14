@@ -4,7 +4,7 @@
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 52,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 333,
@@ -1776,6 +1776,6 @@
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
   "LastChanged": "2023-06-14T09:58:04.8105161+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:29.3950855+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:31.5512503+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:04:42.9054949+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:56.3754349+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:05:25.4441578+00:00"
 }

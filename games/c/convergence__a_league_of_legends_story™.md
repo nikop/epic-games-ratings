@@ -6,11 +6,12 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 11.00% | ~75 |
 | Treasure Trove | 9.00% | ~62 |
+| The Mysterious Stranger | 9.00% | ~62 |
 | Rail Rat | 9.00% | ~62 |
 | Cartographer | 9.00% | ~62 |
 | The Steel Shadow | 8.00% | ~55 |
-| The Mysterious Stranger | 8.00% | ~55 |
 | Make Up For Lost Time | 8.00% | ~55 |
+| The Harder They Fall | 8.00% | ~55 |
 | No, Thanks! | 8.00% | ~55 |
 | Breaking Down Barriers | 8.00% | ~55 |
 | The Prince in Heels | 8.00% | ~55 |
@@ -19,7 +20,6 @@
 | The Betrayer | 7.00% | ~48 |
 | The Man Who Shattered Time | 7.00% | ~48 |
 | Time Flies | 7.00% | ~48 |
-| The Harder They Fall | 7.00% | ~48 |
 | The Wicked Twins | 7.00% | ~48 |
 | Honest Mistake | 7.00% | ~48 |
 | Golem Chaser | 7.00% | ~48 |
@@ -33,12 +33,12 @@
 | The Family Fortune | 6.00% | ~41 |
 | Family Memories | 5.00% | ~34 |
 | Whiz Kid | 5.00% | ~34 |
+| Ask Questions Later | 5.00% | ~34 |
 | Good Neighbor | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Sump Explorer | 4.00% | ~27 |
 | Syron for Hope | 4.00% | ~27 |
 | Theater Explorer | 4.00% | ~27 |
-| Ask Questions Later | 4.00% | ~27 |
 | Corin Goes Home | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |
 | Cultivair Explorer | 3.00% | ~21 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684 (Ranked 191)  
+Progressed: 685 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 1 (0.15%) (Ranked 161)
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
-| 2023-06-14 | 684 | 1 |
+| 2023-06-14 | 685 | 1 |

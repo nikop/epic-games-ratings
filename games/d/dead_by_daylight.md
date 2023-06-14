@@ -6,19 +6,22 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.30% | ~1,662 |
-| Resurgence | 0.30% | ~1,662 |
-| Preemptive Strike | 0.30% | ~1,662 |
-| Humanitarian | 0.30% | ~1,662 |
+| Resurgence | 0.40% | ~2,217 |
+| Healthy Obsession | 0.30% | ~1,663 |
+| Close Shave | 0.30% | ~1,663 |
+| Preemptive Strike | 0.30% | ~1,663 |
+| Humanitarian | 0.30% | ~1,663 |
 | Unforgettable Getaway | 0.20% | ~1,108 |
 | Wounded Healer | 0.20% | ~1,108 |
 | First to the Punch | 0.20% | ~1,108 |
+| Operation: Survival | 0.20% | ~1,108 |
 | Old West Oasis | 0.20% | ~1,108 |
 | Every Last Drop | 0.20% | ~1,108 |
-| Close Shave | 0.20% | ~1,108 |
 | With Scars to Show | 0.20% | ~1,108 |
 | Flight to Freedom | 0.20% | ~1,108 |
 | A Fast Death | 0.20% | ~1,108 |
+| Lifting The Fog | 0.20% | ~1,108 |
+| Chorus of Chaos | 0.20% | ~1,108 |
 | The Grand Sacrifice | 0.10% | ~554 |
 | A bite for the Entity | 0.10% | ~554 |
 | A feast for the Entity | 0.10% | ~554 |
@@ -143,7 +146,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Bill | 0.10% | ~554 |
 | Denied! | 0.10% | ~554 |
 | Tools of the Trade | 0.10% | ~554 |
-| Operation: Survival | 0.10% | ~554 |
 | Expert Generalist | 0.10% | ~554 |
 | Skilled Generalist | 0.10% | ~554 |
 | Broken Bodies | 0.10% | ~554 |
@@ -212,10 +214,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cruelty Loves Company | 0.10% | ~554 |
 | Adept Knight | 0.10% | ~554 |
 | Rebuilding The Borgo | 0.10% | ~554 |
-| Lifting The Fog | 0.10% | ~554 |
 | Adept Vittorio | 0.10% | ~554 |
 | Thrill of the Chase | 0.10% | ~554 |
-| Chorus of Chaos | 0.10% | ~554 |
 | Adept Skull Merchant | 0.10% | ~554 |
 | Hack the Mainframe | 0.10% | ~554 |
 | Adept Thalita | 0.10% | ~554 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~554 |
 | Adept Gabriel | 0.10% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,982 (Ranked 27)  
+Progressed: 554,245 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 553,982 | 42 |
+| 2023-06-14 | 554,245 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,293 (Ranked 12)  
+Sum: 227,336 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 25,846 |
 | This game has Amazing Characters | 25,708 |
 | This game is Extremely Fun | 25,685 |
-| This game has Quickly Understood Controls | 25,477 |
+| This game has Quickly Understood Controls | 25,520 |
 | This game has Challenging Combat | 24,855 |
 | This game has Amazing Storytelling | 23,387 |
 | This game has a Competitive Community | 21,703 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 4
 | 2023-06-11 | 4.52 | - | 28,305 | 226,349 |
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
-| 2023-06-14 | 4.52 | - | 28,462 | 227,293 |
+| 2023-06-14 | 4.52 | - | 28,462 | 227,336 |

@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-06-14T14:04:11.5257514+00:00",
       "NumProgressed": 293,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T19:04:34.9432128+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -763,9 +768,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "completeact2",
@@ -861,7 +866,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "scoreminrankrv1",
@@ -884,7 +889,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 2
     }
   ],
@@ -892,8 +897,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:04:05.7422003+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:04:34.9432124+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:57.4690239+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:04:05.7422146+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:59:35.1425349+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:04:34.9432269+00:00"
 }

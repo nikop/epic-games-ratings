@@ -1497,9 +1497,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12026,
+  "EOS_Progressed": 12027,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5472,6 +5472,11 @@
       "Time": "2023-06-14T18:06:18.7151775+00:00",
       "NumProgressed": 12026,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T19:07:39.0696653+00:00",
+      "NumProgressed": 12027,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 285,
@@ -5531,7 +5536,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -5561,9 +5566,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2886
+      "UsersEstimate": 3007
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -5859,7 +5864,7 @@
       "Name": "Drillmaster",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -5923,7 +5928,7 @@
       "Name": "Fountainhead",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -5947,7 +5952,7 @@
       "Name": "Great",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -5971,7 +5976,7 @@
       "Name": "Intrepid",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -5987,7 +5992,7 @@
       "Name": "Just",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -5995,7 +6000,7 @@
       "Name": "Keystone",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -6043,7 +6048,7 @@
       "Name": "Mighty",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -6051,7 +6056,7 @@
       "Name": "Noble",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 6975
+      "UsersEstimate": 6976
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -6075,7 +6080,7 @@
       "Name": "Pioneer",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -6107,7 +6112,7 @@
       "Name": "Settler",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 9741
+      "UsersEstimate": 9742
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -6123,7 +6128,7 @@
       "Name": "Subjugator",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -6147,7 +6152,7 @@
       "Name": "Warrior",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -6179,7 +6184,7 @@
       "Name": "Developing Cities",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -6219,7 +6224,7 @@
       "Name": "Able Difficulty",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -6331,7 +6336,7 @@
       "Name": "Clerics",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -6371,7 +6376,7 @@
       "Name": "Sages",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -6387,7 +6392,7 @@
       "Name": "Traders",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -6795,7 +6800,7 @@
       "Name": "Hittite Iron",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -6827,7 +6832,7 @@
       "Name": "Colossus",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -6851,7 +6856,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 7095
+      "UsersEstimate": 7096
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -6891,7 +6896,7 @@
       "Name": "Ishtar Gate",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -6899,7 +6904,7 @@
       "Name": "Lighthouse",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 4810
+      "UsersEstimate": 4811
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -6923,7 +6928,7 @@
       "Name": "Necropolis",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -6955,7 +6960,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -7019,7 +7024,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -7267,7 +7272,7 @@
       "Name": "Judaism",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -7283,7 +7288,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -7291,7 +7296,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -7307,7 +7312,7 @@
       "Name": "Egyptian Paganism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -7347,7 +7352,7 @@
       "Name": "Zoroastrianism",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -7403,7 +7408,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6013
+      "UsersEstimate": 6014
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -7435,7 +7440,7 @@
       "Name": "Military Prestige",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -7483,7 +7488,7 @@
       "Name": "Redemption",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -7547,7 +7552,7 @@
       "Name": "Kushite Cavalry",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -7563,7 +7568,7 @@
       "Name": "Phalangite",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -7619,7 +7624,7 @@
       "Name": "Double Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -7762,21 +7767,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12026,
+      "Progressed": 12027,
       "Completed": 3
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12026,
+      "Progressed": 12027,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-13T18:58:49.5831552+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:18.715177+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:39.0696648+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.0115639+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:13.6127392+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:18.7158566+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:29.5144888+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:39.0705676+00:00"
 }

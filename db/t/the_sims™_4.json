@@ -3,8 +3,8 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 362,
-  "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 178,
+  "Ranking_Popularity": 214,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 333,
@@ -2912,11 +2912,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 2207,
       "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-06-14T18:58:04.7074529+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2248,
+      "NumberOfAwardsMax": 363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2207,
-  "NumberOfAwardsMax": 344,
+  "NumberOfAwards": 2248,
+  "NumberOfAwardsMax": 363,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2929,13 +2935,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 344
+      "Count": 363
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 282
+      "Count": 298
     },
     {
       "Text": "This game has a Creative Community",
@@ -2965,7 +2971,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 161
+      "Count": 167
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2998,8 +3004,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-14T15:57:46.8474+00:00",
+  "LastChanged": "2023-06-14T18:58:04.7074523+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:42.8303443+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:57:56.285259+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:03:31.2159539+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:04.7074534+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:03:36.4000225+00:00"
 }

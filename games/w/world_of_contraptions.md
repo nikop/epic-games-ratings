@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Starting to take notes | 66.00% | ~75 |
+| Starting to take notes | 67.00% | ~76 |
 | The first of many | 55.00% | ~62 |
 | Graduated in contraptions | 21.00% | ~24 |
 | First medium level | 8.00% | ~9 |

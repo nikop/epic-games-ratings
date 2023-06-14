@@ -1166,9 +1166,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425997,
+  "EOS_Progressed": 425998,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5101,6 +5101,11 @@
       "Time": "2023-06-14T18:03:42.4301908+00:00",
       "NumProgressed": 425997,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-06-14T19:04:02.5796366+00:00",
+      "NumProgressed": 425998,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 41,
@@ -5128,7 +5133,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255598
+      "UsersEstimate": 255599
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -5144,7 +5149,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106499
+      "UsersEstimate": 106500
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -5192,7 +5197,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255598
+      "UsersEstimate": 255599
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -5280,7 +5285,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404697
+      "UsersEstimate": 404698
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -5296,7 +5301,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306718
+      "UsersEstimate": 306719
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -5312,7 +5317,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293938
+      "UsersEstimate": 293939
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -5320,7 +5325,7 @@
       "Name": "The Lonely Path",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 106499
+      "UsersEstimate": 106500
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -5392,7 +5397,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238558
+      "UsersEstimate": 238559
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -5439,15 +5444,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425997,
+      "Progressed": 425998,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-13T16:58:47.1145545+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:03:42.4301902+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:04:02.5796361+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5917744+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:33.302951+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:03:42.4302353+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:58.9290503+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:04:02.5796908+00:00"
 }

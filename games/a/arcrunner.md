@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~424 |
-| Terminated I | 81.00% | ~361 |
-| Challenge Accepted | 78.00% | ~348 |
-| Nanonic I | 77.00% | ~343 |
-| Unlocked and Loaded | 73.00% | ~326 |
-| Terminated II | 64.00% | ~285 |
-| The City | 50.00% | ~223 |
-| Terminated III | 42.00% | ~187 |
-| Challenge Mastered | 40.00% | ~178 |
-| Nanonic II | 35.00% | ~156 |
-| Rookie | 27.00% | ~120 |
-| Nanonic III | 24.00% | ~107 |
-| Supply Run | 24.00% | ~107 |
-| Starship Docks | 22.00% | ~98 |
-| Cybernetic | 18.00% | ~80 |
+| Augmented | 95.00% | ~428 |
+| Terminated I | 81.00% | ~364 |
+| Challenge Accepted | 78.00% | ~351 |
+| Nanonic I | 77.00% | ~346 |
+| Unlocked and Loaded | 73.00% | ~328 |
+| Terminated II | 64.00% | ~288 |
+| The City | 49.00% | ~220 |
+| Terminated III | 42.00% | ~189 |
+| Challenge Mastered | 40.00% | ~180 |
+| Nanonic II | 35.00% | ~158 |
+| Rookie | 27.00% | ~122 |
+| Nanonic III | 24.00% | ~108 |
+| Supply Run | 24.00% | ~108 |
+| Starship Docks | 22.00% | ~99 |
+| Cybernetic | 18.00% | ~81 |
 | The Bigger They Are | 17.00% | ~76 |
-| Up Close And Personal | 15.00% | ~67 |
-| Eden Heights | 14.00% | ~62 |
+| Up Close And Personal | 15.00% | ~68 |
+| Eden Heights | 14.00% | ~63 |
 | Outer Core | 10.00% | ~45 |
 | Trickshot | 6.00% | ~27 |
 | Inner Core | 5.00% | ~22 |
 | Integration | 4.00% | ~18 |
-| Ripperdoc | 3.00% | ~13 |
+| Ripperdoc | 3.00% | ~14 |
 | Destruction | 2.00% | ~9 |
 | Fully Modded | 2.00% | ~9 |
 | Hard Boiled | 0.90% | ~4 |
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446 (Ranked 208)  
+Progressed: 450 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 376 | 0 |
 | 2023-06-12 | 415 | 0 |
 | 2023-06-13 | 439 | 0 |
-| 2023-06-14 | 446 | 0 |
+| 2023-06-14 | 450 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2108,
+  "EOS_Progressed": 2109,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
@@ -1358,6 +1358,11 @@
       "Time": "2023-06-14T07:06:28.5778848+00:00",
       "NumProgressed": 2108,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-06-14T19:06:56.7429603+00:00",
+      "NumProgressed": 2109,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 12,
@@ -1377,7 +1382,7 @@
       "Name": "002",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "003",
@@ -1385,7 +1390,7 @@
       "Name": "003",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "004",
@@ -1393,7 +1398,7 @@
       "Name": "004",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "005",
@@ -1455,16 +1460,16 @@
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 42
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2108,
+      "Progressed": 2109,
       "Completed": 145
     }
   ],
@@ -1472,8 +1477,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:05:46.9856266+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:06:56.7429598+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.7217092+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:21.4137604+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:05:46.9856399+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:41.5751978+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:06:56.7429778+00:00"
 }

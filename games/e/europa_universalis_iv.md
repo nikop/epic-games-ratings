@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,986 |
-| That's a Grand Army | 8.00% | ~4,432 |
-| That is mine! | 8.00% | ~4,432 |
-| Victorious! | 8.00% | ~4,432 |
-| Brothers in Arms | 6.00% | ~3,324 |
-| That's a Grand Navy | 6.00% | ~3,324 |
-| Seriously?! | 6.00% | ~3,324 |
-| For the Glory | 5.00% | ~2,770 |
-| Cold War | 4.00% | ~2,216 |
-| True Catholic | 4.00% | ~2,216 |
-| Defender of the Faith | 3.00% | ~1,662 |
-| It's all about the money | 3.00% | ~1,662 |
-| Respected | 3.00% | ~1,662 |
-| Truly Divine Ruler | 3.00% | ~1,662 |
+| Until death do us apart | 9.00% | ~4,988 |
+| That's a Grand Army | 8.00% | ~4,434 |
+| That is mine! | 8.00% | ~4,434 |
+| Victorious! | 8.00% | ~4,434 |
+| Brothers in Arms | 6.00% | ~3,325 |
+| That's a Grand Navy | 6.00% | ~3,325 |
+| Seriously?! | 6.00% | ~3,325 |
+| For the Glory | 5.00% | ~2,771 |
+| Cold War | 4.00% | ~2,217 |
+| True Catholic | 4.00% | ~2,217 |
+| Defender of the Faith | 3.00% | ~1,663 |
+| It's all about the money | 3.00% | ~1,663 |
+| Respected | 3.00% | ~1,663 |
+| Truly Divine Ruler | 3.00% | ~1,663 |
 | Agressive Expander | 2.00% | ~1,108 |
 | Blockader | 2.00% | ~1,108 |
 | Combined Arms | 2.00% | ~1,108 |
@@ -44,12 +44,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~499 |
 | Down Under | 0.80% | ~443 |
 | Trustworthy | 0.80% | ~443 |
-| All belongs to Mother Russia | 0.60% | ~332 |
-| At every continent | 0.60% | ~332 |
-| Early-Modern Warfare | 0.60% | ~332 |
-| Electable! | 0.60% | ~332 |
-| Populists in Government | 0.60% | ~332 |
-| Time Bandit | 0.60% | ~332 |
+| All belongs to Mother Russia | 0.60% | ~333 |
+| At every continent | 0.60% | ~333 |
+| Early-Modern Warfare | 0.60% | ~333 |
+| Electable! | 0.60% | ~333 |
+| Populists in Government | 0.60% | ~333 |
+| Time Bandit | 0.60% | ~333 |
 | One Family to Rule them All | 0.50% | ~277 |
 | Ruina Imperii | 0.50% | ~277 |
 | The pen is mightier than the sword | 0.50% | ~277 |
@@ -247,6 +247,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rags and Riches | 0.10% | ~55 |
 | The Reapers | 0.10% | ~55 |
 | Redecorating | 0.10% | ~55 |
+| Rekindling the Flames | 0.10% | ~55 |
 | Relentless Push East | 0.10% | ~55 |
 | Rise of the White Sheep | 0.10% | ~55 |
 | Rozwi Empire | 0.10% | ~55 |
@@ -346,7 +347,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
-| Rekindling the Flames | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,395 (Ranked 76)  
+Progressed: 55,419 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,10 +416,10 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
-| 2023-06-14 | 55,395 | 0 |
+| 2023-06-14 | 55,419 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
-Sum: 44,535 (Ranked 27)  
+Sum: 44,546 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -429,9 +429,9 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 5,099 |
 | This game has Diverse Characters | 5,074 |
 | This game is Relaxing | 4,999 |
-| This game has Competitive Players | 4,852 |
+| This game has Competitive Players | 4,856 |
 | This game has Amazing Storytelling | 4,580 |
-| This game has Amazing Characters | 4,234 |
+| This game has Amazing Characters | 4,241 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -584,4 +584,4 @@ Diff (max vs sum): 34
 | 2023-06-11 | 4.68 | - | 5,376 | 44,434 |
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
-| 2023-06-14 | 4.69 | - | 5,392 | 44,535 |
+| 2023-06-14 | 4.69 | - | 5,392 | 44,546 |

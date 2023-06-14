@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1363,6 +1363,11 @@
       "Time": "2023-06-14T12:05:41.9279531+00:00",
       "NumProgressed": 963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T19:07:23.0786107+00:00",
+      "NumProgressed": 965,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1374,7 +1379,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -1422,7 +1427,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -1430,7 +1435,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 955
     },
     {
       "ID": "EXPERT_1",
@@ -1446,7 +1451,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1470,7 +1475,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "INDY_1",
@@ -1526,7 +1531,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1550,7 +1555,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1558,7 +1563,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1622,7 +1627,7 @@
       "Name": "Superhuman",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TRAVELER_1",
@@ -1630,7 +1635,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "VVE",
@@ -1646,7 +1651,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WISHMASTER_1",
@@ -1661,15 +1666,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:06.7569642+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:23.0786103+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:40.0771977+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:00:07.3281265+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:06.756991+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:01:16.6358503+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:23.0786418+00:00"
 }

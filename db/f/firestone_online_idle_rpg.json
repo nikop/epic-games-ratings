@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3317,9 +3317,9 @@
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 98
     },
     {
       "ID": "frostfireliberator",
@@ -3734,8 +3734,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:08.6849809+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:25.6476223+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:19.5085583+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:08.685056+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:38.6772218+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:25.6477168+00:00"
 }

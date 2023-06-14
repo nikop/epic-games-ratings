@@ -22,9 +22,9 @@
 | Retail Revenue | 23.00% | ~49 |
 | Smooth Service | 23.00% | ~49 |
 | Lux Living | 22.00% | ~47 |
-| Leveled Up Shops | 21.00% | ~45 |
+| Leveled Up Shops | 22.00% | ~47 |
+| People Mover | 21.00% | ~45 |
 | Don't Feel a Loan | 20.00% | ~43 |
-| People Mover | 20.00% | ~43 |
 | Emporium Empire | 20.00% | ~43 |
 | Get Electrified | 20.00% | ~43 |
 | Artfully Done | 19.00% | ~41 |
@@ -34,10 +34,10 @@
 | Under One Roof | 16.00% | ~34 |
 | Established Fame | 16.00% | ~34 |
 | Cashflow Chief | 16.00% | ~34 |
+| Boutique Benefits | 15.00% | ~32 |
 | Terrifically Trashed | 15.00% | ~32 |
 | Thrilled Tenants | 15.00% | ~32 |
 | Starred Dining | 14.00% | ~30 |
-| Boutique Benefits | 14.00% | ~30 |
 | Smooth Operator | 13.00% | ~28 |
 | Swimming in Surplus | 13.00% | ~28 |
 | 28 Days Later | 12.00% | ~26 |

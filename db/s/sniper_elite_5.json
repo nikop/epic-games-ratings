@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2833,
+  "EOS_Progressed": 2837,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3538,6 +3538,11 @@
       "Time": "2023-06-14T18:06:05.6754558+00:00",
       "NumProgressed": 2833,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T19:07:22.0034157+00:00",
+      "NumProgressed": 2837,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3571,9 +3576,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3581,7 +3586,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3629,7 +3634,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3717,7 +3722,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3757,7 +3762,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3773,7 +3778,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3781,7 +3786,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3789,7 +3794,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3805,7 +3810,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3861,7 +3866,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3885,7 +3890,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3917,15 +3922,15 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3957,7 +3962,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4116,13 +4121,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2784,
+      "Progressed": 2788,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2833,
+      "Progressed": 2837,
       "Completed": 2
     }
   ],
@@ -4130,8 +4135,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:05.6754552+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:22.0034153+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:00:25.9526752+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:05.6755297+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:01:43.4207605+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:22.0034903+00:00"
 }

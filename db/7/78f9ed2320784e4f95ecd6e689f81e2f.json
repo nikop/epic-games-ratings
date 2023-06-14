@@ -2,7 +2,7 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 127,
@@ -210,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:03:22.3603602+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:03:23.4933834+00:00",
   "LastUpdate_AppInfo": "2023-06-13T10:56:55.3122541+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:57:32.8705108+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:03:22.3603676+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:57:31.2319417+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:03:23.4933921+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 62  (23.09.2022)
 | I'll Be Back | 84.00% | ~3,711 |
 | Sorry, I Dropped This | 77.00% | ~3,402 |
 | First Day on the Job | 76.00% | ~3,358 |
-| Butcher's Bill | 54.00% | ~2,386 |
+| Butcher's Bill | 55.00% | ~2,430 |
 | P.A.X | 37.00% | ~1,635 |
 | Hey Listen | 36.00% | ~1,590 |
 | OPERATOR | 35.00% | ~1,546 |
@@ -22,8 +22,8 @@ Number of Ratings: 62  (23.09.2022)
 | I Choose You | 17.00% | ~751 |
 | Nothing to Lose | 17.00% | ~751 |
 | Big Sister | 15.00% | ~663 |
+| Gear Up | 15.00% | ~663 |
 | SENTINEL | 15.00% | ~663 |
-| Gear Up | 14.00% | ~619 |
 | The Black Cerberus | 12.00% | ~530 |
 | Watchman | 12.00% | ~530 |
 | Core Power | 12.00% | ~530 |

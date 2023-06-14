@@ -34,8 +34,8 @@ Rating: 4.80 (Ranked 80)
 | Full equipped | 19.00% | ~446 |
 | Whispers in the Woods II | 16.00% | ~376 |
 | Quickmoore Headquarters | 16.00% | ~376 |
+| No more holding back | 15.00% | ~352 |
 | Whispers in the Woods III | 14.00% | ~329 |
-| No more holding back | 14.00% | ~329 |
 | True power | 14.00% | ~329 |
 | Terbisia | 14.00% | ~329 |
 | My heart and sword always for Demacia | 13.00% | ~305 |

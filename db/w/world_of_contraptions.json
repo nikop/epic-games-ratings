@@ -702,9 +702,9 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
@@ -717,8 +717,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:05:47.5992753+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:06:57.5630787+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.8919263+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:28.8878475+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:05:47.5992954+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:52.3559802+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:06:57.563102+00:00"
 }

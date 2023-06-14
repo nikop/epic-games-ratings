@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2992,
+  "EOS_Progressed": 2993,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
@@ -2139,6 +2139,11 @@
       "Time": "2023-06-14T18:06:08.8923438+00:00",
       "NumProgressed": 2992,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-14T19:07:26.1949132+00:00",
+      "NumProgressed": 2993,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2158,7 +2163,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "bonus3",
@@ -2198,7 +2203,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "campaign10",
@@ -2206,7 +2211,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "campaign11",
@@ -2222,7 +2227,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "campaign13",
@@ -2310,7 +2315,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "campaign5",
@@ -2366,7 +2371,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "scenario3",
@@ -2413,7 +2418,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2992,
+      "Progressed": 2993,
       "Completed": 10
     }
   ],
@@ -2421,8 +2426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:08.8923433+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:26.1949128+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-14T18:00:09.237171+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:08.8923734+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:01:19.4985382+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:26.194952+00:00"
 }

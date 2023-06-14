@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2146,9 +2146,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 380
     },
     {
       "ID": "A30",
@@ -2202,9 +2202,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 820
     },
     {
       "ID": "A37",
@@ -2363,8 +2363,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:06:11.6942128+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:07:30.1865525+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:58:21.5106543+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:06:11.6942609+00:00"
+  "LastUpdate_Ratings": "2023-06-14T18:58:41.8234273+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:07:30.186618+00:00"
 }

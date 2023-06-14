@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -653,9 +653,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27721,
+  "EOS_Progressed": 27722,
   "EOS_Completed": 1283,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
@@ -2383,6 +2383,11 @@
       "Time": "2023-06-14T17:03:25.2673599+00:00",
       "NumProgressed": 27721,
       "NumCompleted": 1283
+    },
+    {
+      "Time": "2023-06-14T19:03:44.7658216+00:00",
+      "NumProgressed": 27722,
+      "NumCompleted": 1283
     }
   ],
   "TotalAchievements": 30,
@@ -2394,7 +2399,7 @@
       "Name": "Survivor",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 12197
+      "UsersEstimate": 12198
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -2418,7 +2423,7 @@
       "Name": "Clothesline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 4435
+      "UsersEstimate": 4436
     },
     {
       "ID": "ACH_BOSSES",
@@ -2450,7 +2455,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18296
+      "UsersEstimate": 18297
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -2458,7 +2463,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21345
+      "UsersEstimate": 21346
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -2482,7 +2487,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 16078
+      "UsersEstimate": 16079
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -2490,7 +2495,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26889
+      "UsersEstimate": 26890
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -2498,7 +2503,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19127
+      "UsersEstimate": 19128
     },
     {
       "ID": "ACH_GOLEM",
@@ -2506,7 +2511,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9702
+      "UsersEstimate": 9703
     },
     {
       "ID": "ACH_HATS",
@@ -2562,7 +2567,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16355
+      "UsersEstimate": 16356
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -2570,7 +2575,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11088
+      "UsersEstimate": 11089
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -2618,7 +2623,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20791
+      "UsersEstimate": 20792
     },
     {
       "ID": "ACH_WATERFALL",
@@ -2626,22 +2631,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24117
+      "UsersEstimate": 24118
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27721,
+      "Progressed": 27722,
       "Completed": 1283
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-09T23:59:56.4619159+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:03:37.0287987+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:03:44.7658212+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:16.4134384+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:59:50.1330846+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:03:37.0288242+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:00:51.4233793+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:03:44.7658527+00:00"
 }

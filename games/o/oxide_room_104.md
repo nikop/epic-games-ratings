@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| What's going on here? | 87.00% | ~27 |
 | Brute force | 87.00% | ~27 |
-| What's going on here? | 84.00% | ~26 |
-| Nimble fingers | 74.00% | ~23 |
-| Room 104 | 74.00% | ~23 |
-| Face to face | 74.00% | ~23 |
-| Let's play a game… | 71.00% | ~22 |
-| Now or never | 68.00% | ~21 |
-| First aid | 58.00% | ~18 |
+| Nimble fingers | 77.00% | ~24 |
+| Room 104 | 77.00% | ~24 |
+| Face to face | 77.00% | ~24 |
+| Let's play a game… | 74.00% | ~23 |
+| Now or never | 71.00% | ~22 |
+| First aid | 61.00% | ~19 |
 | Soundtrack | 55.00% | ~17 |
-| Antidote | 45.00% | ~14 |
+| Antidote | 48.00% | ~15 |
 | Pick the right door | 26.00% | ~8 |
 | On the right path | 23.00% | ~7 |
 | I'm close now | 23.00% | ~7 |
@@ -26,8 +26,8 @@
 | One-way | 23.00% | ~7 |
 | The third floor | 23.00% | ~7 |
 | Born again | 16.00% | ~5 |
+| He who seeks, finds! | 16.00% | ~5 |
 | 373 | 13.00% | ~4 |
-| He who seeks, finds! | 13.00% | ~4 |
 | The experiment | 10.00% | ~3 |
 | Matthew's revenge | 10.00% | ~3 |
 | Horror book | 6.00% | ~2 |

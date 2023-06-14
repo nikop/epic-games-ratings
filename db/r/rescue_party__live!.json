@@ -185,9 +185,9 @@
       "ID": "ACH_BESTIE",
       "SetID": "1p69hf1",
       "Name": "Give me a hand",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_DAWN_OF_VICTORY",
@@ -338,8 +338,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-14T18:05:48.5718577+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:06:58.7477527+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:48.678519+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:59:28.7418258+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:05:48.5718687+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:00:21.0160062+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:06:58.7477673+00:00"
 }

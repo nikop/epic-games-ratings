@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
@@ -1279,6 +1279,11 @@
       "Time": "2023-06-14T17:05:17.6275816+00:00",
       "NumProgressed": 684,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T19:06:35.4899099+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1408,9 +1413,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1536,9 +1541,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "ParryRepeated1",
@@ -1680,9 +1685,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "WatcherSpared",
@@ -1713,14 +1718,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T17:05:17.6275808+00:00",
+  "LastChanged_Achievements": "2023-06-14T19:06:35.4899094+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T17:59:28.687431+00:00",
-  "LastUpdate_Achievements": "2023-06-14T18:05:31.4870698+00:00"
+  "LastUpdate_Ratings": "2023-06-14T19:00:20.9855806+00:00",
+  "LastUpdate_Achievements": "2023-06-14T19:06:35.4899546+00:00"
 }

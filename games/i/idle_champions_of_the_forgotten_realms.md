@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~272 |
 | March of the Undead | 0.30% | ~272 |
 | Wisdom Check | 0.30% | ~272 |
+| A Grand Puzzle | 0.30% | ~272 |
 | No Time To Rest | 0.30% | ~272 |
 | Invisible Shadows | 0.30% | ~272 |
 | The Dinner Party | 0.30% | ~272 |
@@ -175,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.20% | ~181 |
 | Sleuth It Out | 0.20% | ~181 |
 | The Newcomers of Notoriety | 0.20% | ~114 |
-| A Grand Puzzle | 0.20% | ~181 |
 | Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
@@ -262,6 +262,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.20% | ~114 |
 | Wyllowwood | 0.20% | ~181 |
 | Smooth Talkers | 0.20% | ~114 |
+| Relay Race | 0.20% | ~181 |
 | An Illithid Undertaking | 0.20% | ~114 |
 | An Illithid Ambush | 0.20% | ~114 |
 | Misty Undermountain | 0.20% | ~114 |
@@ -444,7 +445,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thrice More Into The Breach | 0.10% | ~57 |
 | Displaced Anger | 0.10% | ~91 |
 | Ettercap Swarm | 0.10% | ~57 |
-| Relay Race | 0.10% | ~91 |
 | Ireena von Zarovich | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,701 (Ranked 64)  
+Progressed: 90,706 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
-| 2023-06-14 | 90,701 | 1,934 |
+| 2023-06-14 | 90,706 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,103 (Ranked 37)  
