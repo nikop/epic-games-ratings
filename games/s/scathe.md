@@ -4,8 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 11.00% | ~1 |
-| Half a Life | 11.00% | ~1 |
+| First Blood | 9.00% | ~1 |
+| Half a Life | 9.00% | ~1 |
+| Shock to the System | 9.00% | ~1 |
 | Amaging Work | 0.00% | ~0 |
 | ...And I'm All Out Of Gun | 0.00% | ~0 |
 | Bad Blood | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | SCATHE Too | 0.00% | ~0 |
 | Serious Bam | 0.00% | ~0 |
 | Shocking Bio | 0.00% | ~0 |
-| Shock to the System | 0.00% | ~0 |
 | Slaving Grace | 0.00% | ~0 |
 | Such Sin | 0.00% | ~0 |
 | Takin' Names | 0.00% | ~0 |
@@ -35,13 +35,13 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 371)  
+Progressed: 11 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-13 | 6 | 0 |
-| 2023-06-14 | 9 | 0 |
+| 2023-06-14 | 11 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

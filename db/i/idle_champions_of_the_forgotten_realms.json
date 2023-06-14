@@ -4272,8 +4272,8 @@
   ],
   "EOS_Progressed": 90662,
   "EOS_Completed": 1931,
-  "EOS_NewPlayers": 670,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 667,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -11141,9 +11141,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_181",
@@ -12165,9 +12165,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_561",
@@ -13827,8 +13827,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-13T23:58:47.0683435+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:16:29.5206139+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:06:09.3096017+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:08:06.9981632+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:16:29.5235007+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:58:05.7102789+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:06:09.3119142+00:00"
 }

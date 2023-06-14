@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6472,
+  "EOS_Progressed": 6474,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2023-06-13T23:05:15.1488016+00:00",
       "NumProgressed": 6472,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-14T03:05:35.3395215+00:00",
+      "NumProgressed": 6474,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3530,7 +3535,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ARRR",
@@ -3634,7 +3639,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "LIBERATOR",
@@ -3682,7 +3687,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "THING",
@@ -3697,7 +3702,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6472,
+      "Progressed": 6474,
       "Completed": 24
     }
   ],
@@ -3705,8 +3710,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:15:52.344726+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:05:35.339521+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:07:58.4811508+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:15:52.3447671+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:57:58.9178846+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:05:35.3395548+00:00"
 }

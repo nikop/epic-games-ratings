@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12338,
+  "EOS_Progressed": 12341,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -5884,6 +5884,11 @@
       "Time": "2023-06-14T02:16:08.1274331+00:00",
       "NumProgressed": 12338,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-06-14T03:05:49.6903363+00:00",
+      "NumProgressed": 12341,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 20,
@@ -5895,7 +5900,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -5919,7 +5924,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -5991,7 +5996,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6015,7 +6020,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9379
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6031,7 +6036,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6047,22 +6052,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12338,
+      "Progressed": 12341,
       "Completed": 260
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:16:08.1274323+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:05:49.6903358+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:10:14.5404332+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:16:08.1274889+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:59:48.3583092+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:05:49.6903805+00:00"
 }

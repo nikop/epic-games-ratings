@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -293,6 +293,11 @@
       "Time": "2023-06-13T08:04:05.8293606+00:00",
       "NumProgressed": 631,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T03:03:21.9672653+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -318,7 +323,7 @@
       "ID": "Achievement_AirlockExit",
       "SetID": "c01p6e5",
       "Name": "No Ticket",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -328,7 +333,7 @@
       "Name": "All Seats Taken",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -350,7 +355,7 @@
       "ID": "Achievement_Bingpot",
       "SetID": "c01p6e5",
       "Name": "Bingpot!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
       "UsersEstimate": 6
     },
@@ -376,7 +381,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Achievement_DustToDust",
@@ -448,7 +453,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -464,7 +469,7 @@
       "Name": "Gold Medalist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_HandsFull",
@@ -480,7 +485,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Achievement_Improvinator",
@@ -560,7 +565,7 @@
       "Name": "Non-Fiction",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_SecondLife",
@@ -590,9 +595,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 499
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -614,7 +619,7 @@
       "ID": "Achievement_SpaceSelfie",
       "SetID": "c01p6e5",
       "Name": "Space Selfie",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -638,9 +643,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 398
     },
     {
       "ID": "Achievement_Traitor",
@@ -655,7 +660,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 1
     }
   ],
@@ -663,8 +668,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:13:25.796512+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:03:21.9672648+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:08:56.4686377+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:13:25.7965548+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:58:45.7069559+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:03:21.967303+00:00"
 }

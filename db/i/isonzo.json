@@ -2920,9 +2920,9 @@
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
       "SetID": "akchbl3",
       "Name": "Ragazzi del \u002799",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 1058
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3081,8 +3081,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:13:20.2449164+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:03:17.1455833+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:07:26.3445958+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:13:20.244964+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:57:33.3030997+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:03:17.1456309+00:00"
 }

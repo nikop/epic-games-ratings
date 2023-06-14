@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13236,
+  "EOS_Progressed": 13237,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-06-14T02:15:57.7366393+00:00",
       "NumProgressed": 13236,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-14T03:05:40.3708056+00:00",
+      "NumProgressed": 13237,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4155,7 +4160,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "tpote_achievement_15",
@@ -4203,7 +4208,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "tpote_achievement_20",
@@ -4307,7 +4312,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "tpote_achievement_32",
@@ -4315,7 +4320,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "tpote_achievement_33",
@@ -4379,7 +4384,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "tpote_achievement_40",
@@ -4442,15 +4447,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13236,
+      "Progressed": 13237,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:15:57.7366386+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:05:40.3708052+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:10:04.8868824+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:15:57.7367028+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:59:41.0590198+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:05:40.3708566+00:00"
 }

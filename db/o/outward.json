@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -2755,9 +2755,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1859
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2907,8 +2907,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:13:28.0846525+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:03:23.8292097+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:07:50.0817103+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:13:28.0847068+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:57:52.4765026+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:03:23.8292567+00:00"
 }

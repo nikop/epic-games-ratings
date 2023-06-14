@@ -45,8 +45,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 1.00% | ~98 |
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~89 |
+| This Wall Won't Fall | 0.90% | ~78 |
 | The Final Threshold | 0.80% | ~79 |
-| This Wall Won't Fall | 0.80% | ~69 |
 | Not the Last Sarkorian | 0.80% | ~69 |
 | Strategic Victory | 0.70% | ~69 |
 | End of Eternal Guard | 0.70% | ~69 |

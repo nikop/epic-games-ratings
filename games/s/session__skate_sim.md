@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,331 |
-| Keeping it classy | 25.00% | ~605 |
+| You're free now! | 55.00% | ~1,332 |
+| Keeping it classy | 25.00% | ~606 |
 | Welcome to the family | 18.00% | ~436 |
-| The finer things in life | 16.00% | ~387 |
-| Backpacker | 12.00% | ~290 |
+| The finer things in life | 16.00% | ~388 |
+| Backpacker | 12.00% | ~291 |
 | Go with the Flow | 11.00% | ~266 |
 | Plastic Surgeon | 9.00% | ~218 |
 | Keep the dream alive | 8.00% | ~194 |
 | The flip trick crown jewel | 8.00% | ~194 |
 | The hard way | 8.00% | ~194 |
-| Good vibes | 7.00% | ~169 |
-| Upfront shredder | 7.00% | ~169 |
+| Good vibes | 7.00% | ~170 |
+| Upfront shredder | 7.00% | ~170 |
 | Finally he zips it | 6.00% | ~145 |
 | That pinch! | 6.00% | ~145 |
 | Bottom ply killer | 5.00% | ~121 |
@@ -47,7 +47,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~48 |
 | Pew-Pew | 2.00% | ~48 |
 | Dipped! | 1.00% | ~24 |
-| That was wheelie fun | 1.00% | ~24 |
+| That was wheelie fun | 0.90% | ~22 |
 | Skatepark hero | 0.70% | ~17 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,420 (Ranked 149)  
+Progressed: 2,422 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
 | 2023-06-13 | 2,418 | 0 |
-| 2023-06-14 | 2,420 | 0 |
+| 2023-06-14 | 2,422 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  

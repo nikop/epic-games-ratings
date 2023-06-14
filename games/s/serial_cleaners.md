@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 16.00% | ~31 |
+| So it goes | 17.00% | ~33 |
 | Clean Conscience | 16.00% | ~31 |
 | Off to a Good Start | 7.00% | ~14 |
 | Small-time Finder | 7.00% | ~14 |
@@ -17,8 +17,8 @@
 | All the Stories | 2.00% | ~4 |
 | Total Recall | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
+| The Wing and the Thigh | 2.00% | ~4 |
 | Something Rotten | 1.00% | ~2 |
-| The Wing and the Thigh | 1.00% | ~2 |
 | Blood Capade | 0.50% | ~1 |
 | The Crush And Smash The Dino Four | 0.50% | ~0 |
 | … Women Inherit The Earth | 0.50% | ~0 |
@@ -29,8 +29,8 @@
 | That’s One Big Pile | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194 (Ranked 253)  
-Completed: 5 (2.58%) (Ranked 58)  
+Progressed: 195 (Ranked 253)  
+Completed: 5 (2.56%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,6 +55,7 @@ Completed: 5 (2.58%) (Ranked 58)
 | 2023-06-11 | 191 | 5 |
 | 2023-06-12 | 192 | 5 |
 | 2023-06-13 | 194 | 5 |
+| 2023-06-14 | 195 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

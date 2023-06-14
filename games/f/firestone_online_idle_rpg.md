@@ -5,13 +5,13 @@ Rating: 4.05 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,308 |
+| Victor | 94.00% | ~1,309 |
 | World Map | 80.00% | ~1,114 |
-| Temple of Eternals | 57.00% | ~793 |
+| Temple of Eternals | 57.00% | ~794 |
 | Prestigious | 53.00% | ~738 |
 | Fellowship Power | 41.00% | ~571 |
 | Guild Power | 24.00% | ~334 |
-| Prestigious x10 | 21.00% | ~292 |
+| Prestigious x10 | 21.00% | ~293 |
 | The game is on | 18.00% | ~251 |
 | Exotic Merchant | 17.00% | ~237 |
 | Dragon Clicker | 16.00% | ~223 |
@@ -21,7 +21,7 @@ Rating: 4.05 (Ranked 892)
 | Dragon Master | 13.00% | ~181 |
 | Enlightenment | 13.00% | ~181 |
 | Hero inspection | 13.00% | ~181 |
-| Lieutenant | 13.00% | ~181 |
+| Lieutenant | 12.00% | ~167 |
 | Natural Talent | 12.00% | ~167 |
 | The Unstoppable | 12.00% | ~167 |
 | Mysterious Rock | 11.00% | ~153 |
@@ -34,10 +34,10 @@ Rating: 4.05 (Ranked 892)
 | Relic Of The Past | 8.00% | ~111 |
 | Scroll Master | 8.00% | ~111 |
 | The power of Awakening | 8.00% | ~111 |
-| Doing My Part | 7.00% | ~97 |
-| Frostfire Liberator | 7.00% | ~97 |
-| Mastery | 7.00% | ~97 |
-| Moving Up The Ladder | 7.00% | ~97 |
+| Doing My Part | 7.00% | ~98 |
+| Frostfire Liberator | 7.00% | ~98 |
+| Mastery | 7.00% | ~98 |
+| Moving Up The Ladder | 7.00% | ~98 |
 | Four Leaf Clover | 6.00% | ~84 |
 | Trader | 6.00% | ~84 |
 | Here We Go Again | 5.00% | ~70 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 892)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,392 (Ranked 164)  
+Progressed: 1,393 (Ranked 164)  
 Completed: 1 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.07%) (Ranked 180)
 | 2023-06-11 | 1,376 | 1 |
 | 2023-06-12 | 1,385 | 1 |
 | 2023-06-13 | 1,390 | 1 |
-| 2023-06-14 | 1,392 | 1 |
+| 2023-06-14 | 1,393 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

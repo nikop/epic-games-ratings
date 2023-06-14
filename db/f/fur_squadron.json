@@ -2,7 +2,7 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
@@ -331,8 +331,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:16:03.2146853+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:05:45.3732235+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:50.5685987+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:09:29.5739757+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:16:03.2147066+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:59:12.5303712+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:05:45.3732387+00:00"
 }

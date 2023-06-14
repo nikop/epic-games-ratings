@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10124,
+  "EOS_Progressed": 10125,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -931,6 +931,11 @@
       "Time": "2023-06-13T21:06:16.0210165+00:00",
       "NumProgressed": 10124,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-14T03:05:41.3484891+00:00",
+      "NumProgressed": 10125,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -974,7 +979,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_BICYCLE",
@@ -990,7 +995,7 @@
       "Name": "car wash",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1006,7 +1011,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -1022,7 +1027,7 @@
       "Name": "viking",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -1046,7 +1051,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1078,7 +1083,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1102,7 +1107,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7795
+      "UsersEstimate": 7796
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1150,7 +1155,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1166,7 +1171,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9719
+      "UsersEstimate": 9720
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1182,7 +1187,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "ACH_NIGHT",
@@ -1278,22 +1283,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7289
+      "UsersEstimate": 7290
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10124,
+      "Progressed": 10125,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:15:58.843904+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:05:41.3484886+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:07:27.1244695+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:15:58.843949+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:57:33.9638285+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:05:41.3485246+00:00"
 }

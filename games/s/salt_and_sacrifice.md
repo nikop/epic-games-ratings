@@ -39,7 +39,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Mechanomancer | 32.00% | ~20,703 |
 | The Copse | 30.00% | ~19,409 |
 | The Dragon | 30.00% | ~19,409 |
-| The Dracomancer | 29.00% | ~18,762 |
+| The Dracomancer | 30.00% | ~19,409 |
 | Well Stocked | 28.00% | ~18,115 |
 | The Umbramancer | 28.00% | ~18,115 |
 | Chaos Hunger | 27.00% | ~17,468 |

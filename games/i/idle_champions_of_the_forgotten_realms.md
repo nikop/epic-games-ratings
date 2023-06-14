@@ -176,6 +176,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.20% | ~181 |
 | The Newcomers of Notoriety | 0.20% | ~114 |
 | A Grand Puzzle | 0.20% | ~181 |
+| Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
@@ -234,6 +235,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.20% | ~181 |
 | Waterdeep Under Siege | 0.20% | ~181 |
 | Crowded Streets | 0.20% | ~181 |
+| The Sunless Citadel | 0.20% | ~181 |
 | Patience is Key | 0.20% | ~181 |
 | The Darkness Runs Deeper | 0.20% | ~181 |
 | Troublesome Prisoner | 0.20% | ~181 |
@@ -372,7 +374,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~57 |
 | Fall From Grace | 0.10% | ~91 |
 | Underground Railroad | 0.10% | ~91 |
-| Never Split the Party | 0.10% | ~91 |
 | Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~91 |
 | Sober Up | 0.10% | ~91 |
 | In The Beginning | 0.10% | ~57 |
-| The Sunless Citadel | 0.10% | ~91 |
 | Veteran Brigade | 0.10% | ~91 |
 | Social Grace | 0.10% | ~57 |
 | Evergreens with an Evergreen | 0.10% | ~57 |

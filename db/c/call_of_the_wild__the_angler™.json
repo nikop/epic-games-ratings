@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4324,
+  "EOS_Progressed": 4325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3293,6 +3293,11 @@
       "Time": "2023-06-14T02:13:31.6449933+00:00",
       "NumProgressed": 4324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T03:03:26.9124449+00:00",
+      "NumProgressed": 4325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3304,7 +3309,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3244
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3336,7 +3341,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3344,7 +3349,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3504,7 +3509,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3583,13 +3588,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4324,
+      "Progressed": 4325,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3696,
+      "Progressed": 3697,
       "Completed": 112
     }
   ],
@@ -3597,8 +3602,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-14T02:13:31.6449925+00:00",
+  "LastChanged_Achievements": "2023-06-14T03:03:26.9124445+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-14T02:09:53.5514094+00:00",
-  "LastUpdate_Achievements": "2023-06-14T02:13:31.6450458+00:00"
+  "LastUpdate_Ratings": "2023-06-14T02:59:31.5841091+00:00",
+  "LastUpdate_Achievements": "2023-06-14T03:03:26.9124874+00:00"
 }
