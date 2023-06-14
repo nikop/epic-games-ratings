@@ -34,15 +34,15 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.87% |
-| 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
+| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
+| 38 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.81% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.55% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.52% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.29% |
@@ -70,9 +70,9 @@
 | 68 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.04% |
 | 69 | [Iron Danger](games/i/iron_danger.md) | 1.96% |
 | 70 | [Frogun](games/f/frogun.md) | 1.94% |
-| 71 | [JARS](games/j/jars.md) | 1.85% |
-| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
-| 73 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
+| 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
+| 72 | [JARS](games/j/jars.md) | 1.82% |
+| 72 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 74 | [Sifu](games/s/sifu.md) | 1.80% |
 | 75 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.65% |
@@ -86,13 +86,13 @@
 | 83 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 85 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.20% |
+| 87 | [Five Dates](games/f/five_dates.md) | 1.15% |
 | 87 | [Trifox](games/t/trifox.md) | 1.15% |
-| 88 | [Chorus](games/c/chorus.md) | 1.13% |
-| 89 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
-| 90 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
-| 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.04% |
-| 92 | [Sable](games/s/sable.md) | 0.95% |
-| 93 | [Five Dates](games/f/five_dates.md) | 0.92% |
+| 89 | [Chorus](games/c/chorus.md) | 1.13% |
+| 90 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
+| 91 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
+| 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.04% |
+| 93 | [Sable](games/s/sable.md) | 0.95% |
 | 94 | [Hades](games/h/hades.md) | 0.89% |
 | 95 | [Adios](games/a/adios.md) | 0.87% |
 | 96 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
@@ -155,17 +155,17 @@
 | 153 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 155 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
+| 155 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
 | 155 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 155 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 155 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 159 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.15% |
-| 159 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 159 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
-| 159 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 163 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
-| 163 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 165 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.13% |
-| 165 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 160 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.15% |
+| 160 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 160 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
+| 160 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
+| 164 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 166 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 167 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 167 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
 | 169 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
@@ -178,14 +178,14 @@
 | 176 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 176 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 178 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 178 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
 | 178 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 180 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
-| 180 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 180 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
-| 180 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
-| 180 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
-| 180 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 181 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
+| 181 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 181 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
+| 181 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
+| 181 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 187 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
 | 187 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 187 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
