@@ -7,7 +7,7 @@ Rating: 4.53 (Ranked 503)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~844 |
 | Confirming Suspicions | 25.00% | ~703 |
-| The Kraken Wakes | 20.00% | ~562 |
+| The Kraken Wakes | 20.00% | ~563 |
 | It's Starting to Crack | 18.00% | ~506 |
 | Lord of War | 15.00% | ~422 |
 | Change the Channel | 15.00% | ~422 |
@@ -34,8 +34,8 @@ Rating: 4.53 (Ranked 503)
 | Brains of the Operation | 6.00% | ~169 |
 | No Stone Unturned | 5.00% | ~141 |
 | Set Europe Ablaze | 5.00% | ~141 |
-| Precision Is Key | 4.00% | ~112 |
-| Rigged to Blow | 4.00% | ~112 |
+| Precision Is Key | 4.00% | ~113 |
+| Rigged to Blow | 4.00% | ~113 |
 | My Little Friend | 3.00% | ~84 |
 | The Long Game | 2.00% | ~56 |
 | It'll Buff Right Out | 2.00% | ~56 |
@@ -49,11 +49,11 @@ Rating: 4.53 (Ranked 503)
 | Last Resort | 0.90% | ~25 |
 | Siegebreaker | 0.90% | ~25 |
 | Ghost of Falaise | 0.90% | ~25 |
-| Burn after reading | 0.80% | ~22 |
+| Burn after reading | 0.80% | ~23 |
 | From Paris with Love | 0.70% | ~20 |
 | Souvenir hunter | 0.70% | ~20 |
+| Eagle Eyed | 0.60% | ~17 |
 | Shoot for the Moon | 0.60% | ~17 |
-| Eagle Eyed | 0.50% | ~14 |
 | Up close and personal | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~14 |
 | Fight Another Day | 0.50% | ~14 |
@@ -62,6 +62,7 @@ Rating: 4.53 (Ranked 503)
 | Reich To The Point | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
+| Out of Scope | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
@@ -69,7 +70,6 @@ Rating: 4.53 (Ranked 503)
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Out of Scope | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,812 (Ranked 144)  
+Progressed: 2,813 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 180)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,812 | 2 |
+| 2023-06-14 | 2,813 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

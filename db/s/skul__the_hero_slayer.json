@@ -848,9 +848,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7799,
+  "EOS_Progressed": 7800,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2863,6 +2863,11 @@
       "Time": "2023-06-14T07:06:32.9125766+00:00",
       "NumProgressed": 7799,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-14T09:05:28.2657353+00:00",
+      "NumProgressed": 7800,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2898,7 +2903,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3002,7 +3007,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3034,7 +3039,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3058,22 +3063,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6473
+      "UsersEstimate": 6474
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7799,
+      "Progressed": 7800,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:05:58.4527404+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:05:28.2657346+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:59:06.4051575+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:05:58.4527708+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:58:46.6750781+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:05:28.2657673+00:00"
 }

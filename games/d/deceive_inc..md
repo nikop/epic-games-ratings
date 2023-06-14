@@ -7,28 +7,28 @@ Rating: 4.64 (Ranked 314)
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,348 |
 | Mainframe Hacker | 47.00% | ~3,193 |
-| Tomorrow Never Dyes | 47.00% | ~3,193 |
 | The Spy who eliminated me | 47.00% | ~3,193 |
-| Never Say Loser Again | 40.00% | ~2,717 |
-| For your Eyes only | 39.00% | ~2,649 |
-| From the Vault with Love | 37.00% | ~2,513 |
-| Tailor-Made | 37.00% | ~2,513 |
+| Tomorrow Never Dyes | 46.00% | ~3,125 |
+| Never Say Loser Again | 40.00% | ~2,718 |
+| For your Eyes only | 39.00% | ~2,650 |
+| From the Vault with Love | 37.00% | ~2,514 |
+| Tailor-Made | 37.00% | ~2,514 |
 | Fully Decked Out | 35.00% | ~2,378 |
 | You Only Live Twice | 33.00% | ~2,242 |
 | A view to Win | 28.00% | ~1,902 |
 | Private Collection | 25.00% | ~1,698 |
 | Smells Like Trouble | 25.00% | ~1,698 |
-| Assistant Accountant | 24.00% | ~1,630 |
-| The Living Portrait | 24.00% | ~1,630 |
-| My Motto, My Creed | 24.00% | ~1,630 |
-| Killer Looks | 24.00% | ~1,630 |
-| Hostile Takeover | 24.00% | ~1,630 |
-| Keycards Royale | 23.00% | ~1,562 |
-| Dr. No Kill | 23.00% | ~1,562 |
-| In It to Win It | 22.00% | ~1,494 |
+| Assistant Accountant | 24.00% | ~1,631 |
+| The Living Portrait | 24.00% | ~1,631 |
+| My Motto, My Creed | 24.00% | ~1,631 |
+| Killer Looks | 24.00% | ~1,631 |
+| Hostile Takeover | 24.00% | ~1,631 |
+| Keycards Royale | 23.00% | ~1,563 |
+| Dr. No Kill | 23.00% | ~1,563 |
+| In It to Win It | 22.00% | ~1,495 |
 | Security Supervisor | 10.00% | ~679 |
-| License to Thrill | 8.00% | ~543 |
-| Social of Solace | 8.00% | ~543 |
+| License to Thrill | 8.00% | ~544 |
+| Social of Solace | 8.00% | ~544 |
 | Safe Withdrawal | 6.00% | ~408 |
 | Live and let lie | 5.00% | ~340 |
 | Call Me Maybe | 5.00% | ~340 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 314)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,793 (Ranked 119)  
+Progressed: 6,794 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 6,748 | 0 |
 | 2023-06-12 | 6,767 | 0 |
 | 2023-06-13 | 6,791 | 0 |
-| 2023-06-14 | 6,793 | 0 |
+| 2023-06-14 | 6,794 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

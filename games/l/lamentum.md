@@ -6,7 +6,7 @@ Rating: 4.37 (Ranked 713)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The creature | 79.00% | ~230 |
-| Grau Hill | 74.00% | ~215 |
+| Grau Hill | 75.00% | ~218 |
 | A forgotten language | 69.00% | ~201 |
 | Lord Wesley | 35.00% | ~102 |
 | One step down | 27.00% | ~79 |

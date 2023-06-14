@@ -1538,9 +1538,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64948,
+  "EOS_Progressed": 64950,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6273,6 +6273,11 @@
       "Time": "2023-06-14T08:06:25.1571358+00:00",
       "NumProgressed": 64948,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-14T09:05:50.7666014+00:00",
+      "NumProgressed": 64950,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6364,7 +6369,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "APPLY_STATUS",
@@ -6372,7 +6377,7 @@
       "Name": "In Your Element",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "CHALLENGES_1",
@@ -6404,7 +6409,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -6444,7 +6449,7 @@
       "Name": "Not On My Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -6460,7 +6465,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -6492,7 +6497,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -6532,7 +6537,7 @@
       "Name": "Cooldown",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -6628,7 +6633,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6716,7 +6721,7 @@
       "Name": "Voiceless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "MYSTERY_07",
@@ -6724,7 +6729,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "MYSTERY_08",
@@ -6732,7 +6737,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "SECRET_CACHE",
@@ -6740,7 +6745,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -6771,13 +6776,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64948,
+      "Progressed": 64950,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35228,
+      "Progressed": 35230,
       "Completed": 2646
     }
   ],
@@ -6785,8 +6790,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-14T06:00:07.9311544+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:06:25.1571354+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:05:50.7666006+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:59:55.7577505+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:06:25.157234+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:59:24.9171852+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:05:50.7666949+00:00"
 }

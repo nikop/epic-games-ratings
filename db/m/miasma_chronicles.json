@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 1119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2040,9 +2040,9 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 145
     },
     {
       "ID": "SAVIOR",
@@ -2137,8 +2137,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:03:08.2214515+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:03:11.7671592+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:58:26.7357163+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:03:08.2215243+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:58:15.9191994+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:03:11.7672248+00:00"
 }

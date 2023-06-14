@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,247 |
+| First Step Into the Knight | 5.00% | ~3,248 |
 | To the Victor Go the Spoils | 3.00% | ~1,948 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,948 |
 | Knighthood | 3.00% | ~1,948 |
@@ -24,17 +24,17 @@ Rating: 4.17 (Ranked 852)
 | Lock and Key | 2.00% | ~1,299 |
 | Bad Apples in Every Orchard | 2.00% | ~1,299 |
 | From Inside Gotham's Walls | 2.00% | ~1,299 |
-| End of an Era | 1.00% | ~649 |
-| In Your Element | 1.00% | ~649 |
-| Rock and a Hard Place | 1.00% | ~649 |
-| Not On My Watch | 1.00% | ~649 |
-| Bulldozed | 1.00% | ~649 |
-| Shock Til They Drop | 1.00% | ~649 |
-| Cooldown | 1.00% | ~649 |
-| Voiceless | 1.00% | ~649 |
-| Seeking Asylum | 1.00% | ~649 |
-| Gotham Knight | 1.00% | ~649 |
-| Gotham City Confidential | 1.00% | ~649 |
+| End of an Era | 1.00% | ~650 |
+| In Your Element | 1.00% | ~650 |
+| Rock and a Hard Place | 1.00% | ~650 |
+| Not On My Watch | 1.00% | ~650 |
+| Bulldozed | 1.00% | ~650 |
+| Shock Til They Drop | 1.00% | ~650 |
+| Cooldown | 1.00% | ~650 |
+| Voiceless | 1.00% | ~650 |
+| Seeking Asylum | 1.00% | ~650 |
+| Gotham Knight | 1.00% | ~650 |
+| Gotham City Confidential | 1.00% | ~650 |
 | Out of Their League | 0.90% | ~585 |
 | Drone You Out | 0.90% | ~585 |
 | Solid Alibi | 0.90% | ~585 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 852)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,948 (Ranked 70)  
+Progressed: 64,950 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 95 (0.15%) (Ranked 159)
 | 2023-06-11 | 64,650 | 95 |
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
-| 2023-06-14 | 64,948 | 95 |
+| 2023-06-14 | 64,950 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
 Sum: 3,855 (Ranked 137)  

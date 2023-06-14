@@ -6,15 +6,15 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~231,732 |
-| First Victory | 50.00% | ~231,732 |
+| He's Signed! | 50.00% | ~231,733 |
+| First Victory | 50.00% | ~231,733 |
 | Clean Sheet | 49.00% | ~227,098 |
 | He's Sold! | 47.00% | ~217,829 |
 | I'm The Boss! | 41.00% | ~190,021 |
 | Hat-trick | 41.00% | ~190,021 |
 | Thumping | 37.00% | ~171,482 |
 | Scoring Streak | 37.00% | ~171,482 |
-| Unbeatable! | 36.00% | ~166,847 |
+| Unbeatable! | 36.00% | ~166,848 |
 | Superb Dressing Room Atmosphere | 35.00% | ~162,213 |
 | Total Support | 32.00% | ~148,309 |
 | Record Signing | 31.00% | ~143,674 |
@@ -35,14 +35,14 @@ Number of Ratings: 19,160  (23.09.2022)
 | Armchair Expert | 24.00% | ~111,232 |
 | Fantastic Five | 23.00% | ~106,597 |
 | Iron Curtain | 23.00% | ~106,597 |
-| Top Of The Class | 22.00% | ~101,962 |
-| Goal Machine | 22.00% | ~101,962 |
+| Top Of The Class | 22.00% | ~101,963 |
+| Goal Machine | 22.00% | ~101,963 |
 | Splashing The Cash | 21.00% | ~97,328 |
 | Clean Bill of Health | 21.00% | ~97,328 |
 | What A Goal! | 21.00% | ~97,328 |
 | Cup Glory! | 21.00% | ~97,328 |
-| Irresistible Force | 19.00% | ~88,058 |
-| Excellent Match Cohesion | 19.00% | ~88,058 |
+| Irresistible Force | 19.00% | ~88,059 |
+| Excellent Match Cohesion | 19.00% | ~88,059 |
 | Do The Double | 18.00% | ~83,424 |
 | Top Form | 17.00% | ~78,789 |
 | Cash To Burn | 17.00% | ~78,789 |
@@ -51,11 +51,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~69,520 |
 | Eyes and Ears | 14.00% | ~64,885 |
 | Window Shopping | 14.00% | ~64,885 |
-| Comeback King! | 13.00% | ~60,250 |
+| Comeback King! | 13.00% | ~60,251 |
 | You're Up! | 12.00% | ~55,616 |
 | Money, Money, Money | 11.00% | ~50,981 |
-| Invincible! | 10.00% | ~46,346 |
-| Best In The World | 10.00% | ~46,346 |
+| Invincible! | 10.00% | ~46,347 |
+| Best In The World | 10.00% | ~46,347 |
 | Best In Europe | 9.00% | ~41,712 |
 | Superb Strike | 9.00% | ~41,712 |
 | Headhunted | 9.00% | ~41,712 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~463 |
 | Shoestring Budget | 0.10% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,465 (Ranked 33)  
+Progressed: 463,466 (Ranked 33)  
 Completed: 18 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 18 (0.00%) (Ranked 222)
 | 2023-06-11 | 463,210 | 18 |
 | 2023-06-12 | 463,334 | 18 |
 | 2023-06-13 | 463,448 | 18 |
-| 2023-06-14 | 463,465 | 18 |
+| 2023-06-14 | 463,466 | 18 |
 ## Awards
 Max (Relaxing): 6,305  (Ranked 51)  
 Sum: 49,713 (Ranked 24)  

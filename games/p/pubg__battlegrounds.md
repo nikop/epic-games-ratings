@@ -5,22 +5,22 @@ Rating: 3.98 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~294,968 |
-| Health Junkie | 45.00% | ~176,981 |
-| You Complete Me | 41.00% | ~161,249 |
-| Guardian Angel | 39.00% | ~153,383 |
-| Devil Inside Me | 31.00% | ~121,920 |
-| Killing Spree | 22.00% | ~86,524 |
-| Fantastic Four | 21.00% | ~82,591 |
-| Marksman Novice | 20.00% | ~78,658 |
-| First Blood | 14.00% | ~55,061 |
-| Top 10 | 14.00% | ~55,061 |
-| Now You See Me, Now You Don't | 12.00% | ~47,195 |
-| Marksman Expert | 10.00% | ~39,329 |
-| CQB Novice | 9.00% | ~35,396 |
-| Collateral Damage | 7.00% | ~27,530 |
-| Airborne | 6.00% | ~23,597 |
-| Pacifist | 6.00% | ~23,597 |
+| Blood on My Hands | 75.00% | ~294,973 |
+| Health Junkie | 45.00% | ~176,984 |
+| You Complete Me | 41.00% | ~161,252 |
+| Guardian Angel | 39.00% | ~153,386 |
+| Devil Inside Me | 31.00% | ~121,922 |
+| Killing Spree | 22.00% | ~86,525 |
+| Fantastic Four | 21.00% | ~82,592 |
+| Marksman Novice | 20.00% | ~78,659 |
+| First Blood | 14.00% | ~55,062 |
+| Top 10 | 14.00% | ~55,062 |
+| Now You See Me, Now You Don't | 12.00% | ~47,196 |
+| Marksman Expert | 10.00% | ~39,330 |
+| CQB Novice | 9.00% | ~35,397 |
+| Collateral Damage | 7.00% | ~27,531 |
+| Airborne | 6.00% | ~23,598 |
+| Pacifist | 6.00% | ~23,598 |
 | Last Survivor | 4.00% | ~15,732 |
 | Marksman Master | 4.00% | ~15,732 |
 | Trigonometry Novice | 4.00% | ~15,732 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 909)
 | Nade King Expert | 0.10% | ~393 |
 | Shoot the Knee | 0.10% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,291 (Ranked 38)  
+Progressed: 393,297 (Ranked 38)  
 Completed: 10 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 10 (0.00%) (Ranked 222)
 | 2023-06-11 | 391,344 | 8 |
 | 2023-06-12 | 392,291 | 8 |
 | 2023-06-13 | 393,233 | 10 |
-| 2023-06-14 | 393,291 | 10 |
+| 2023-06-14 | 393,297 | 10 |
 ## Awards
 Max (Competitive Players): 2,261  (Ranked 100)  
 Sum: 7,340 (Ranked 101)  

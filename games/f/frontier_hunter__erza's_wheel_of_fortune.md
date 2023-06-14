@@ -40,13 +40,13 @@
 | Warden Slayer | 14.00% | ~3 |
 | Giant Claw Spider Challenge | 9.00% | ~2 |
 | Blade Mantis Challenge | 5.00% | ~1 |
+| Silver Moon Wolf King Challenge | 5.00% | ~1 |
 | Mermaid Challenge | 5.00% | ~1 |
 | Berserker Challenge | 5.00% | ~1 |
 | Giantess Challenge | 5.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
 | Flying Kobold Challenge | 0.00% | ~0 |
 | Furious Scorpion Challenge | 0.00% | ~0 |
-| Silver Moon Wolf King Challenge | 0.00% | ~0 |
 | Giant Lizard Challenge | 0.00% | ~0 |
 | Warden Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

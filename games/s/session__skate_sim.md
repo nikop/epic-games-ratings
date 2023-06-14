@@ -8,7 +8,7 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 55.00% | ~1,334 |
 | Keeping it classy | 25.00% | ~606 |
-| Welcome to the family | 18.00% | ~436 |
+| Welcome to the family | 18.00% | ~437 |
 | The finer things in life | 16.00% | ~388 |
 | Backpacker | 12.00% | ~291 |
 | Go with the Flow | 11.00% | ~267 |
@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 3.00% | ~73 |
 | Hoarder | 3.00% | ~73 |
 | We get it, you're good | 3.00% | ~73 |
-| Cross lock country | 2.00% | ~48 |
-| Many plys later... | 2.00% | ~48 |
-| Pew-Pew | 2.00% | ~48 |
+| Cross lock country | 2.00% | ~49 |
+| Many plys later... | 2.00% | ~49 |
+| Pew-Pew | 2.00% | ~49 |
 | Dipped! | 1.00% | ~24 |
 | That was wheelie fun | 0.90% | ~22 |
 | Skatepark hero | 0.70% | ~17 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 149)  
+Progressed: 2,426 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
 | 2023-06-13 | 2,418 | 0 |
-| 2023-06-14 | 2,425 | 0 |
+| 2023-06-14 | 2,426 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 402)  
 Sum: 421 (Ranked 302)  

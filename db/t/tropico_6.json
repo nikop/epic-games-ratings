@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3622,
+  "EOS_Progressed": 3623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4368,6 +4368,11 @@
       "Time": "2023-06-14T03:00:18.780492+00:00",
       "NumProgressed": 3622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-14T09:00:22.7620352+00:00",
+      "NumProgressed": 3623,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4403,7 +4408,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4419,7 +4424,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4473,9 +4478,9 @@
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
       "SetID": "1p8ab95",
       "Name": "The Beginning of a Servantship",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4523,7 +4528,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4563,7 +4568,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4651,7 +4656,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4698,15 +4703,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3622,
+      "Progressed": 3623,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-12T20:00:51.0321002+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:01:08.0711568+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:00:22.7620345+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:00:21.9289195+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:01:08.0712138+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:59:45.0889531+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:00:22.7620922+00:00"
 }

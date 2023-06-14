@@ -310,7 +310,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6558,
+  "EOS_Progressed": 6559,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 6,
@@ -3995,6 +3995,11 @@
       "Time": "2023-06-14T08:03:50.9215422+00:00",
       "NumProgressed": 6558,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-14T09:03:46.2093392+00:00",
+      "NumProgressed": 6559,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4006,7 +4011,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5443
+      "UsersEstimate": 5444
     },
     {
       "ID": "ACH02",
@@ -4126,7 +4131,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH17",
@@ -4150,7 +4155,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH20",
@@ -4237,7 +4242,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6558,
+      "Progressed": 6559,
       "Completed": 37
     }
   ],
@@ -4245,8 +4250,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-12T22:57:52.8890791+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:03:50.9215417+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:03:46.2093386+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:58:02.1206358+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:03:50.9215962+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:57:56.2343171+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:03:46.2093845+00:00"
 }

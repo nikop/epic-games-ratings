@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5573,
+  "EOS_Progressed": 5575,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2596,6 +2596,11 @@
       "Time": "2023-06-14T07:04:23.2259602+00:00",
       "NumProgressed": 5573,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-14T09:03:54.8051987+00:00",
+      "NumProgressed": 5575,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2783,7 +2788,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "GoodRiddance",
@@ -2975,7 +2980,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SmellBlood",
@@ -3158,21 +3163,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2612,
+      "Progressed": 2614,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5573,
+      "Progressed": 5575,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:04:01.7737318+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:03:54.805198+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:57:27.5881492+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:04:01.7739593+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:57:28.9108556+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:03:54.8052836+00:00"
 }

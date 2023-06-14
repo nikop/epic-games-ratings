@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -504,9 +504,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "Misanthrope",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:06:18.8770149+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:05:45.3635034+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T08:00:44.8609077+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:06:18.8770413+00:00"
+  "LastUpdate_Ratings": "2023-06-14T09:00:03.0120326+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:05:45.3635234+00:00"
 }

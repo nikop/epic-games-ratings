@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -879,6 +879,11 @@
       "Time": "2023-06-14T07:06:48.0046689+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T09:05:40.0169704+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -922,7 +927,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "06",
@@ -930,7 +935,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "07",
@@ -938,7 +943,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "08",
@@ -1018,7 +1023,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "18",
@@ -1073,7 +1078,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-14T08:06:12.2756187+00:00",
+  "LastChanged_Achievements": "2023-06-14T09:05:40.0169697+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-14T07:59:52.8737809+00:00",
-  "LastUpdate_Achievements": "2023-06-14T08:06:12.2756485+00:00"
+  "LastUpdate_Ratings": "2023-06-14T08:59:22.5101642+00:00",
+  "LastUpdate_Achievements": "2023-06-14T09:05:40.0169904+00:00"
 }
