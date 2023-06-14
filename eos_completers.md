@@ -13,21 +13,21 @@
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.35% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.27% |
-| 17 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.70% |
-| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
-| 19 | [Smelter](games/s/smelter.md) | 8.33% |
+| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
+| 18 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.33% |
+| 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.23% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
-| 28 | [Scorn](games/s/scorn.md) | 6.88% |
+| 28 | [Scorn](games/s/scorn.md) | 6.87% |
 | 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -42,12 +42,12 @@
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.60% |
-| 43 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.48% |
-| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.47% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.47% |
+| 44 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.46% |
 | 45 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.29% |
-| 48 | [The Complex](games/t/the_complex.md) | 3.23% |
+| 48 | [The Complex](games/t/the_complex.md) | 3.22% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [HordeCore](games/h/hordecore.md) | 2.94% |
@@ -138,10 +138,10 @@
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 137 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 138 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 139 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 139 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 139 | [The Surge](games/t/the_surge.md) | 0.29% |
-| 142 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
+| 141 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 143 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
 | 143 | [Blanc](games/b/blanc.md) | 0.26% |
 | 145 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
@@ -268,6 +268,7 @@
 | 223 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
 | 223 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
 | 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
+| 223 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 0.00% |
 | 223 | [Deceive Inc.](games/d/deceive_inc..md) | 0.00% |
 | 223 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 223 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
