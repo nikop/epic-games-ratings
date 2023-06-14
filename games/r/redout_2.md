@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~274 |
-| Increasing your Power Level | 27.00% | ~274 |
+| Rookie No More | 27.00% | ~275 |
+| Increasing your Power Level | 27.00% | ~275 |
 | Enter the Speed Gauntlet | 25.00% | ~254 |
 | I just can't choose | 25.00% | ~254 |
-| A Cheese Grater to the Face | 20.00% | ~203 |
+| A Cheese Grater to the Face | 20.00% | ~204 |
 | It's like an haircut | 18.00% | ~183 |
 | Put it on a shelf | 18.00% | ~183 |
 | Ride in the rising sun | 16.00% | ~163 |
 | Suit up | 16.00% | ~163 |
-| Walked like an Egyptian | 15.00% | ~152 |
-| Rookie No-No More | 13.00% | ~132 |
+| Walked like an Egyptian | 15.00% | ~153 |
 | Running at the speed of sound | 13.00% | ~132 |
 | Martian explorer | 12.00% | ~122 |
-| To the core | 9.00% | ~91 |
-| Blurred photofinish | 9.00% | ~91 |
+| Rookie No-No More | 12.00% | ~122 |
+| To the core | 9.00% | ~92 |
+| Blurred photofinish | 9.00% | ~92 |
 | EZ game EZ life | 7.00% | ~71 |
 | First step into a larger world | 7.00% | ~71 |
 | B-asic! | 6.00% | ~61 |
@@ -32,15 +32,15 @@ Rating: 4.45 (Ranked 619)
 | Better luck next time | 4.00% | ~41 |
 | Dev, this! | 4.00% | ~41 |
 | He who laughs last... | 4.00% | ~41 |
-| Try them all | 3.00% | ~30 |
-| A-mazing! | 3.00% | ~30 |
-| To infinity and gravity! | 3.00% | ~30 |
-| One giant drive for mankind | 3.00% | ~30 |
-| All Power to Engines! | 3.00% | ~30 |
-| Had to sweat a bit | 3.00% | ~30 |
-| [Sweats profusely] | 3.00% | ~30 |
-| It's like a party! | 3.00% | ~30 |
-| Healthy competition | 3.00% | ~30 |
+| Try them all | 3.00% | ~31 |
+| A-mazing! | 3.00% | ~31 |
+| To infinity and gravity! | 3.00% | ~31 |
+| One giant drive for mankind | 3.00% | ~31 |
+| All Power to Engines! | 3.00% | ~31 |
+| Had to sweat a bit | 3.00% | ~31 |
+| [Sweats profusely] | 3.00% | ~31 |
+| It's like a party! | 3.00% | ~31 |
+| Healthy competition | 3.00% | ~31 |
 | This is to go, even Further Beyond! | 2.00% | ~20 |
 | Gitting Gud | 2.00% | ~20 |
 | Redout Champion | 2.00% | ~20 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 619)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,016 (Ranked 178)  
+Progressed: 1,018 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 1,013 | 0 |
 | 2023-06-12 | 1,014 | 0 |
 | 2023-06-13 | 1,015 | 0 |
-| 2023-06-14 | 1,016 | 0 |
+| 2023-06-14 | 1,018 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

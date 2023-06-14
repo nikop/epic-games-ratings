@@ -6,16 +6,16 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,337 |
+| You're free now! | 56.00% | ~1,362 |
 | Keeping it classy | 25.00% | ~608 |
 | Welcome to the family | 18.00% | ~438 |
 | The finer things in life | 16.00% | ~389 |
 | Backpacker | 12.00% | ~292 |
-| Go with the Flow | 11.00% | ~267 |
+| Go with the Flow | 11.00% | ~268 |
 | Plastic Surgeon | 9.00% | ~219 |
-| Keep the dream alive | 8.00% | ~194 |
-| The flip trick crown jewel | 8.00% | ~194 |
-| The hard way | 8.00% | ~194 |
+| Keep the dream alive | 8.00% | ~195 |
+| The flip trick crown jewel | 8.00% | ~195 |
+| The hard way | 8.00% | ~195 |
 | Good vibes | 7.00% | ~170 |
 | Upfront shredder | 7.00% | ~170 |
 | Finally he zips it | 6.00% | ~146 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,431 (Ranked 150)  
+Progressed: 2,432 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
 | 2023-06-13 | 2,418 | 0 |
-| 2023-06-14 | 2,431 | 0 |
+| 2023-06-14 | 2,432 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 402)  
 Sum: 421 (Ranked 302)  

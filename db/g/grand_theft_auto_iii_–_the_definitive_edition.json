@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -310,10 +310,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6591,
+  "EOS_Progressed": 6592,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 362,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 361,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
@@ -4060,6 +4060,11 @@
       "Time": "2023-06-14T22:03:55.180198+00:00",
       "NumProgressed": 6591,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-14T23:04:03.4092995+00:00",
+      "NumProgressed": 6592,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4111,7 +4116,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH07",
@@ -4215,7 +4220,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH20",
@@ -4302,7 +4307,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6591,
+      "Progressed": 6592,
       "Completed": 37
     }
   ],
@@ -4310,8 +4315,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-12T22:57:52.8890791+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:03:55.1801976+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:04:03.4092991+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:57:46.3163299+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:03:55.1802405+00:00"
+  "LastUpdate_Ratings": "2023-06-14T22:58:04.5490428+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:04:03.4093344+00:00"
 }

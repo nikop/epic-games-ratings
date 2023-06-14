@@ -2,7 +2,7 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 454,
@@ -2328,6 +2328,6 @@
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
   "LastChanged": "2023-06-14T21:00:09.8740702+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.5259879+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:59:35.8373248+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:03:49.2544097+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:00:18.8638955+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:03:56.2670249+00:00"
 }

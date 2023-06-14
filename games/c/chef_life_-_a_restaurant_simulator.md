@@ -11,8 +11,8 @@
 | French Flair | 17.00% | ~64 |
 | S is for Scrumptious | 17.00% | ~64 |
 | Next Level Cuisine | 11.00% | ~42 |
-| Haute Cuisine | 7.00% | ~26 |
-| Italian Style | 7.00% | ~26 |
+| Haute Cuisine | 7.00% | ~27 |
+| Italian Style | 7.00% | ~27 |
 | Sous-Chef | 6.00% | ~23 |
 | Perfectionist | 4.00% | ~15 |
 | Well-Stocked Kitchen | 4.00% | ~15 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378 (Ranked 221)  
+Progressed: 379 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 350 | 0 |
 | 2023-06-12 | 359 | 0 |
 | 2023-06-13 | 367 | 0 |
-| 2023-06-14 | 378 | 0 |
+| 2023-06-14 | 379 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

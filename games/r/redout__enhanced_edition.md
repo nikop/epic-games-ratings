@@ -1,14 +1,14 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 531)  
+Rating: 4.51 (Ranked 530)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~92,126 |
-| NATURAL BORN WINNER | 32.00% | ~71,903 |
-| CALLING HOUSTON | 28.00% | ~62,915 |
+| VANGUARD | 41.00% | ~92,127 |
+| NATURAL BORN WINNER | 32.00% | ~71,904 |
+| CALLING HOUSTON | 28.00% | ~62,916 |
 | SNEAKY SNEAKY | 22.00% | ~49,434 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~49,434 |
 | GT9STRADALE | 20.00% | ~44,940 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,247 |
 | ACE | 0.70% | ~1,573 |
 | TACTICIAN | 0.60% | ~1,348 |
-| GTX COMPETIZIONE | 0.50% | ~1,123 |
-| HIDDEN POWER | 0.50% | ~1,123 |
-| TUNING MANIAC | 0.50% | ~1,123 |
+| GTX COMPETIZIONE | 0.50% | ~1,124 |
+| HIDDEN POWER | 0.50% | ~1,124 |
+| TUNING MANIAC | 0.50% | ~1,124 |
 | DRAGOON | 0.40% | ~899 |
 | FLAWLESS | 0.40% | ~899 |
 | BETTER THAN EVER | 0.20% | ~449 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~449 |
 | ENLIGHTENED | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,698 (Ranked 48)  
+Progressed: 224,700 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 46 (0.02%) (Ranked 203)
 | 2023-06-11 | 224,462 | 46 |
 | 2023-06-12 | 224,539 | 46 |
 | 2023-06-13 | 224,627 | 46 |
-| 2023-06-14 | 224,698 | 46 |
+| 2023-06-14 | 224,700 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@ Rating: 4.57 (Ranked 442)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,407 |
-| Pay 'n' Spray | 49.00% | ~5,149 |
-| All Dressed Up for San Fierro | 23.00% | ~2,417 |
+| Getting Started | 80.00% | ~8,409 |
+| Pay 'n' Spray | 49.00% | ~5,150 |
+| All Dressed Up for San Fierro | 23.00% | ~2,418 |
 | The American Dream | 17.00% | ~1,787 |
-| School's Out | 16.00% | ~1,681 |
-| Smooth Moves | 16.00% | ~1,681 |
+| School's Out | 16.00% | ~1,682 |
+| Smooth Moves | 16.00% | ~1,682 |
 | Today Was a Good Day | 13.00% | ~1,366 |
 | What happens in Las Venturas... | 12.00% | ~1,261 |
 | Horror of the Santa Maria | 9.00% | ~946 |
@@ -18,7 +18,7 @@ Rating: 4.57 (Ranked 442)
 | With Extra Dip | 6.00% | ~631 |
 | The End of the Line | 6.00% | ~631 |
 | Original Gangster | 6.00% | ~631 |
-| Saviour | 5.00% | ~525 |
+| Saviour | 5.00% | ~526 |
 | Rescue a Kitten Too? | 4.00% | ~420 |
 | They Can’t Stop All of Us | 3.00% | ~315 |
 | What are the Odds | 3.00% | ~315 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 442)
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,509 (Ranked 110)  
+Progressed: 10,511 (Ranked 110)  
 Completed: 18 (0.17%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,14 +96,14 @@ Completed: 18 (0.17%) (Ranked 154)
 | 2023-06-11 | 10,282 | 17 |
 | 2023-06-12 | 10,359 | 17 |
 | 2023-06-13 | 10,440 | 18 |
-| 2023-06-14 | 10,509 | 18 |
+| 2023-06-14 | 10,511 | 18 |
 ## Awards
-Max (Great Boss Battles): 163  (Ranked 285)  
-Sum: 163 (Ranked 378)  
+Max (Great Boss Battles): 164  (Ranked 283)  
+Sum: 164 (Ranked 376)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 163 |
+| This game has Great Boss Battles | 164 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -160,4 +160,4 @@ Diff (max vs sum): -93
 | 2023-06-07 | 4.59 | 0 | 0 |
 | 2023-06-11 | 4.59 | 163 | 163 |
 | 2023-06-13 | 4.58 | 163 | 163 |
-| 2023-06-14 | 4.57 | 163 | 163 |
+| 2023-06-14 | 4.57 | 164 | 164 |

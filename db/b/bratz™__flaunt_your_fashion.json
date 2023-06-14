@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -116,9 +116,9 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "13",
@@ -253,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:00:09.1550601+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:01:01.6660821+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.0825567+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:58:44.7073219+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:00:09.1550791+00:00"
+  "LastUpdate_Ratings": "2023-06-14T22:59:16.4611354+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:01:01.6660988+00:00"
 }

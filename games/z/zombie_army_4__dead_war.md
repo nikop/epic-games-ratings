@@ -14,8 +14,8 @@ Number of Ratings: 743  (23.09.2022)
 | Cleanup on aisle 4! | 57.00% | ~24,393 |
 | Gold | 50.00% | ~21,397 |
 | The boat can leave now...tell the crew | 48.00% | ~20,541 |
+| Stand back boy! | 47.00% | ~20,113 |
 | Give me something to shoot! | 46.00% | ~19,685 |
-| Stand back boy! | 46.00% | ~19,685 |
 | Weird science | 44.00% | ~18,829 |
 | Chain reaction | 44.00% | ~18,829 |
 | Look mummy! A shark! | 41.00% | ~17,546 |

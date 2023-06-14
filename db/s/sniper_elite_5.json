@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2854,
+  "EOS_Progressed": 2857,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3558,6 +3558,11 @@
       "Time": "2023-06-14T22:05:57.2072214+00:00",
       "NumProgressed": 2854,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T23:06:29.3344621+00:00",
+      "NumProgressed": 2857,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3591,9 +3596,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3609,7 +3614,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3623,9 +3628,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 257
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3649,7 +3654,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3689,7 +3694,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3777,7 +3782,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3809,7 +3814,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3831,9 +3836,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3905,7 +3910,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3943,9 +3948,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3977,7 +3982,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4136,13 +4141,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2805,
+      "Progressed": 2808,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2854,
+      "Progressed": 2857,
       "Completed": 2
     }
   ],
@@ -4150,8 +4155,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:05:57.207221+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:06:29.3344617+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:59:58.6954246+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:05:57.207304+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:00:47.1873798+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:06:29.3345341+00:00"
 }

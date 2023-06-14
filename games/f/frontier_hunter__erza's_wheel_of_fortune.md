@@ -36,8 +36,8 @@
 | Boss challenge | 24.00% | ~6 |
 | Berserker Slayer | 20.00% | ~5 |
 | Giantess Slayer | 16.00% | ~4 |
+| Warden Slayer | 16.00% | ~4 |
 | Big Face Goalkeeper Challenge | 12.00% | ~3 |
-| Warden Slayer | 12.00% | ~3 |
 | Blade Mantis Challenge | 8.00% | ~2 |
 | Giant Claw Spider Challenge | 8.00% | ~2 |
 | Berserker Challenge | 8.00% | ~2 |
@@ -45,10 +45,10 @@
 | Furious Scorpion Challenge | 4.00% | ~1 |
 | Silver Moon Wolf King Challenge | 4.00% | ~1 |
 | Mermaid Challenge | 4.00% | ~1 |
+| Warden Challenge | 4.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
 | Flying Kobold Challenge | 0.00% | ~0 |
 | Giant Lizard Challenge | 0.00% | ~0 |
-| Warden Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 223)  

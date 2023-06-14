@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1005,
+  "EOS_Progressed": 1006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -904,6 +904,11 @@
       "Time": "2023-06-14T20:07:08.9878682+00:00",
       "NumProgressed": 1005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T23:06:24.8892682+00:00",
+      "NumProgressed": 1006,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -947,7 +952,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "06",
@@ -955,7 +960,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "07",
@@ -971,7 +976,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "09",
@@ -1043,7 +1048,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "18",
@@ -1051,7 +1056,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "19",
@@ -1098,7 +1103,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1005,
+      "Progressed": 1006,
       "Completed": 0
     }
   ],
@@ -1106,8 +1111,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:06:17.5035567+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:06:24.8892679+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:59:17.3444334+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:05:53.3571452+00:00"
+  "LastUpdate_Ratings": "2023-06-14T22:59:56.1703597+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:06:24.8892868+00:00"
 }

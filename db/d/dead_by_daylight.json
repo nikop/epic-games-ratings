@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 27,
@@ -6443,9 +6443,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 554931,
+  "EOS_Progressed": 555102,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30515,
+  "EOS_NewPlayers": 30524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12278,6 +12278,11 @@
       "Time": "2023-06-14T22:06:10.6808099+00:00",
       "NumProgressed": 554931,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-14T23:06:43.7047547+00:00",
+      "NumProgressed": 555102,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -14048,21 +14053,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 554931,
+      "Progressed": 555102,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 554931,
+      "Progressed": 555102,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-14T19:01:25.7966813+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:06:10.6808095+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:06:43.7047543+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:59:46.583393+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:06:10.681398+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:00:32.064866+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:06:43.7052594+00:00"
 }

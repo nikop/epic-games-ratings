@@ -22,8 +22,8 @@
 | Glorious Battle | 40.00% | ~62 |
 | Diaper Time! | 40.00% | ~62 |
 | Target Practice | 40.00% | ~62 |
+| Mutant And Proud | 37.00% | ~57 |
 | Meat Larder | 37.00% | ~57 |
-| Mutant And Proud | 36.00% | ~55 |
 | The Emperor's New Clothes | 32.00% | ~49 |
 | Happy Little Home | 30.00% | ~46 |
 | Final Evolution | 30.00% | ~46 |
@@ -36,13 +36,13 @@
 | Supremacy | 27.00% | ~42 |
 | Immortal Skin | 23.00% | ~35 |
 | Loyal Companion | 23.00% | ~35 |
-| Back To The Future | 21.00% | ~32 |
-| Fire Beacon | 21.00% | ~32 |
+| Back To The Future | 22.00% | ~34 |
+| Fire Beacon | 22.00% | ~34 |
 | Lunch Before The Lunch | 20.00% | ~31 |
+| From Here To Eternity | 18.00% | ~28 |
 | Building Blocks | 18.00% | ~28 |
-| From Here To Eternity | 17.00% | ~26 |
 | Octopostructure | 16.00% | ~25 |
-| Boss Hunter | 15.00% | ~23 |
+| Boss Hunter | 16.00% | ~25 |
 | Hawkman | 8.00% | ~12 |
 | Fashion Victim | 6.00% | ~9 |
 | Annihilate | 6.00% | ~9 |

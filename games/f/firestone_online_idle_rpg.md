@@ -27,7 +27,7 @@ Rating: 4.05 (Ranked 894)
 | Mysterious Rock | 11.00% | ~154 |
 | Superior | 11.00% | ~154 |
 | Milestone collector | 10.00% | ~140 |
-| Scientist | 9.00% | ~126 |
+| Scientist | 10.00% | ~140 |
 | Challenger | 8.00% | ~112 |
 | Daily Quest Completionist | 8.00% | ~112 |
 | Hunter | 8.00% | ~112 |

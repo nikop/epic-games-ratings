@@ -1319,9 +1319,9 @@
       "ID": "ACHV_04",
       "SetID": "8p5mlmc",
       "Name": "Overheated",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHV_05",
@@ -1559,9 +1559,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHV_35",
@@ -1760,8 +1760,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-11T19:00:01.1883541+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:06:05.3194321+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:06:38.595903+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:59:54.7151217+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:06:05.3194896+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:00:41.8809771+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:06:38.5959521+00:00"
 }

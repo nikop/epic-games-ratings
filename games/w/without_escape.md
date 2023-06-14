@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Never around when you need them | 43.00% | ~6 |
-| Became the new Maker | 14.00% | ~2 |
+| Became the new Maker | 21.00% | ~3 |
 | Where's the air conditioner? | 14.00% | ~2 |
 | You got all endings! | 7.00% | ~1 |
 | Jumped into the void | 7.00% | ~1 |

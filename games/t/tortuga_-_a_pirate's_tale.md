@@ -5,23 +5,23 @@ Rating: 3.82 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,923 |
-| No Half Measures | 88.00% | ~13,823 |
-| Personal Matter | 87.00% | ~13,666 |
-| But You Have Heard of Me | 72.00% | ~11,310 |
-| Double the Barrels, double the Fun | 55.00% | ~8,639 |
-| Pimp My Glide | 47.00% | ~7,383 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,440 |
+| Eeligally Ambitious | 95.00% | ~14,924 |
+| No Half Measures | 88.00% | ~13,825 |
+| Personal Matter | 86.00% | ~13,511 |
+| But You Have Heard of Me | 72.00% | ~11,311 |
+| Double the Barrels, double the Fun | 55.00% | ~8,640 |
+| Pimp My Glide | 47.00% | ~7,384 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,441 |
 | House Party! | 33.00% | ~5,184 |
 | Make It Rain | 23.00% | ~3,613 |
 | Curse of the Seven Seas | 21.00% | ~3,299 |
-| Head First | 16.00% | ~2,513 |
+| Head First | 16.00% | ~2,514 |
 | To the World's End | 12.00% | ~1,885 |
 | Table for Six | 11.00% | ~1,728 |
 | Sharing Is Caring | 10.00% | ~1,571 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,257 |
-| Morally Flexible | 6.00% | ~942 |
-| Fishing for Compliments | 5.00% | ~785 |
+| Morally Flexible | 6.00% | ~943 |
+| Fishing for Compliments | 5.00% | ~786 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~314 |
 | A True Dandy | 2.00% | ~314 |
 | A New Legend Awaits | 1.00% | ~157 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 928)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,708 (Ranked 100)  
+Progressed: 15,710 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 15,664 | 0 |
 | 2023-06-12 | 15,675 | 0 |
 | 2023-06-13 | 15,694 | 0 |
-| 2023-06-14 | 15,708 | 0 |
+| 2023-06-14 | 15,710 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

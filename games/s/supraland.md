@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~704,187 |
-| The Blues | 85.00% | ~604,605 |
-| Fast | 66.00% | ~469,458 |
-| Healthbar | 55.00% | ~391,215 |
-| Force Cube | 52.00% | ~369,876 |
-| Double Jump | 48.00% | ~341,424 |
-| Regeneration | 47.00% | ~334,311 |
-| Climb the hill | 42.00% | ~298,746 |
-| Triple Jump | 42.00% | ~298,746 |
-| Through the fire pipe | 38.00% | ~270,294 |
-| MacGuffin | 37.00% | ~263,181 |
-| Just once | 36.00% | ~256,068 |
-| Armor | 30.00% | ~213,390 |
-| True holy spirit | 27.00% | ~192,051 |
-| That's how electronics work obviously | 26.00% | ~184,938 |
-| Force Cube Catapult | 25.00% | ~177,825 |
-| Holy Sword | 23.00% | ~163,599 |
-| Telefrag | 22.00% | ~156,486 |
-| Freed from prison | 21.00% | ~149,373 |
-| Stomp | 21.00% | ~149,373 |
-| Double Health | 18.00% | ~128,034 |
-| Buckle | 17.00% | ~120,921 |
-| Green Keycard | 17.00% | ~120,921 |
+| Out of bed | 99.00% | ~704,190 |
+| The Blues | 85.00% | ~604,608 |
+| Fast | 66.00% | ~469,460 |
+| Healthbar | 55.00% | ~391,217 |
+| Force Cube | 52.00% | ~369,878 |
+| Double Jump | 48.00% | ~341,425 |
+| Regeneration | 47.00% | ~334,312 |
+| Climb the hill | 42.00% | ~298,747 |
+| Triple Jump | 42.00% | ~298,747 |
+| Through the fire pipe | 38.00% | ~270,295 |
+| MacGuffin | 37.00% | ~263,182 |
+| Just once | 36.00% | ~256,069 |
+| Armor | 30.00% | ~213,391 |
+| True holy spirit | 27.00% | ~192,052 |
+| That's how electronics work obviously | 26.00% | ~184,939 |
+| Force Cube Catapult | 25.00% | ~177,826 |
+| Holy Sword | 23.00% | ~163,600 |
+| Telefrag | 22.00% | ~156,487 |
+| Freed from prison | 21.00% | ~149,374 |
+| Stomp | 21.00% | ~149,374 |
+| Double Health | 18.00% | ~128,035 |
+| Buckle | 17.00% | ~120,922 |
+| Green Keycard | 17.00% | ~120,922 |
 | Rattle Hag | 15.00% | ~106,695 |
 | All Shells | 14.00% | ~99,582 |
 | Beam | 14.00% | ~99,582 |
@@ -66,17 +66,17 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,113 |
 | Jesus Christ Suprastar | 1.00% | ~7,113 |
 | Redstone Pickaxe | 1.00% | ~7,113 |
-| DLC: Green Bird | 0.50% | ~3,556 |
-| DLC: Rooftop Chase | 0.50% | ~3,556 |
-| DLC: Crashed again | 0.50% | ~3,556 |
-| DLC: Crashed | 0.50% | ~3,556 |
-| DLC: Discovering the Globe | 0.50% | ~3,556 |
-| DLC: Gotta Jump High | 0.50% | ~3,556 |
-| DLC: Gotta Run Fast | 0.50% | ~3,556 |
-| DLC: Monster Maker | 0.50% | ~3,556 |
-| DLC: Race the First | 0.50% | ~3,556 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,556 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,556 |
+| DLC: Green Bird | 0.50% | ~3,557 |
+| DLC: Rooftop Chase | 0.50% | ~3,557 |
+| DLC: Crashed again | 0.50% | ~3,557 |
+| DLC: Crashed | 0.50% | ~3,557 |
+| DLC: Discovering the Globe | 0.50% | ~3,557 |
+| DLC: Gotta Jump High | 0.50% | ~3,557 |
+| DLC: Gotta Run Fast | 0.50% | ~3,557 |
+| DLC: Monster Maker | 0.50% | ~3,557 |
+| DLC: Race the First | 0.50% | ~3,557 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,557 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,557 |
 | DLC: Basement Robbery | 0.40% | ~2,845 |
 | DLC: Home Invasion | 0.40% | ~2,845 |
 | DLC: The palace job | 0.40% | ~2,845 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~711 |
 | DLC: Top of the world | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,300 (Ranked 16)  
+Progressed: 711,303 (Ranked 16)  
 Completed: 698 (0.10%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 698 (0.10%) (Ranked 171)
 | 2023-06-11 | 710,773 | 697 |
 | 2023-06-12 | 710,953 | 698 |
 | 2023-06-13 | 711,135 | 698 |
-| 2023-06-14 | 711,300 | 698 |
+| 2023-06-14 | 711,303 | 698 |
 ## Awards
 Max (Challenging Puzzles): 7,626  (Ranked 41)  
 Sum: 9,926 (Ranked 80)  

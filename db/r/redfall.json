@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1684,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1877,6 +1877,11 @@
       "Time": "2023-06-14T16:02:12.5090632+00:00",
       "NumProgressed": 1684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-14T23:02:27.3119605+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1904,7 +1909,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "Achievement_004",
@@ -1912,7 +1917,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Achievement_006",
@@ -1936,7 +1941,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Achievement_009",
@@ -1944,7 +1949,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "Achievement_010",
@@ -1952,7 +1957,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Achievement_011",
@@ -2024,7 +2029,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "Achievement_020",
@@ -2072,15 +2077,15 @@
       "Name": "Grounded",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 573
     },
     {
       "ID": "Achievement_027",
@@ -2088,7 +2093,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Achievement_028",
@@ -2112,7 +2117,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_031",
@@ -2120,7 +2125,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Achievement_032",
@@ -2136,7 +2141,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "Achievement_034",
@@ -2144,7 +2149,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Achievement_035",
@@ -2192,7 +2197,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Achievement_041",
@@ -2224,7 +2229,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_046",
@@ -2415,7 +2420,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1684,
+      "Progressed": 1686,
       "Completed": 0
     }
   ],
@@ -2423,8 +2428,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-14T21:03:12.8301546+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:02:27.3119602+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:57:43.2621125+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:02:19.1538317+00:00"
+  "LastUpdate_Ratings": "2023-06-14T22:58:00.1972625+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:02:27.3120259+00:00"
 }

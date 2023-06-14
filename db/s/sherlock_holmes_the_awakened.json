@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 460,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -1611,9 +1611,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "PLTN",
@@ -1636,8 +1636,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-14T22:04:16.5252211+00:00",
+  "LastChanged_Achievements": "2023-06-14T23:04:28.0207967+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-14T21:57:13.5903464+00:00",
-  "LastUpdate_Achievements": "2023-06-14T22:04:16.5252532+00:00"
+  "LastUpdate_Ratings": "2023-06-14T22:57:25.6416892+00:00",
+  "LastUpdate_Achievements": "2023-06-14T23:04:28.0208247+00:00"
 }

@@ -11,17 +11,17 @@ Rating: 4.25 (Ranked 796)
 | Suited and Booted | 38.00% | ~676 |
 | HEADSHOT! | 37.00% | ~658 |
 | Sleeping With The Fishes | 35.00% | ~623 |
+| Overheated | 30.00% | ~534 |
 | High Performance | 30.00% | ~534 |
-| Overheated | 29.00% | ~516 |
 | Powered Up | 28.00% | ~498 |
 | Studied The Blade | 24.00% | ~427 |
 | Home Invasion | 22.00% | ~391 |
 | Luminary | 22.00% | ~391 |
 | It's a Trap | 22.00% | ~391 |
 | True Survivor | 21.00% | ~374 |
+| Shocking | 20.00% | ~356 |
 | Court Martial | 19.00% | ~338 |
 | Offensive Defense | 19.00% | ~338 |
-| Shocking | 19.00% | ~338 |
 | Unforeseeable Consequences | 19.00% | ~338 |
 | Dead Again | 18.00% | ~320 |
 | Clean Cut | 18.00% | ~320 |
