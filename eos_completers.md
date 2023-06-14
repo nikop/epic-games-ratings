@@ -7,7 +7,7 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.27% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.22% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.99% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -38,8 +38,8 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 39 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.75% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 40 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.71% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.62% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.52% |
@@ -121,8 +121,8 @@
 | 119 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 120 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 121 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 122 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 123 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
+| 122 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.43% |
+| 123 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 124 | [Scrapnaut](games/s/scrapnaut.md) | 0.38% |
 | 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.37% |
 | 125 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -177,24 +177,24 @@
 | 170 | [Supraland](games/s/supraland.md) | 0.10% |
 | 176 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 176 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 178 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 178 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
-| 178 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 181 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
-| 181 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 181 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
-| 181 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
-| 181 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 187 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
-| 187 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 187 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 190 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 190 | [House Party](games/h/house_party.md) | 0.05% |
-| 190 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 193 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 193 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 193 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
+| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.09% |
+| 179 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 179 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
+| 179 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 182 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
+| 182 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 182 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
+| 182 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
+| 182 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 188 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
+| 188 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 188 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 191 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 191 | [House Party](games/h/house_party.md) | 0.05% |
+| 191 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 194 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 194 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
 | 196 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 196 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 196 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
@@ -450,4 +450,4 @@
 | 222 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 222 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 222 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,776 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,777 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
