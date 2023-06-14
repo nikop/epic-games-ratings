@@ -62,10 +62,10 @@ Rating: 3.46 (Ranked 940)
 | A Cry in the Dark | 0.20% | ~3 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
+| Faith Healer | 0.10% | ~2 |
 | Eagle Eyes | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| Faith Healer | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |

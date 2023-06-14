@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6339,10 +6339,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227009,
       "NumberOfAwardsMax": 28386
+    },
+    {
+      "Time": "2023-06-14T13:07:24.0250454+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227062,
+      "NumberOfAwardsMax": 28386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227009,
+  "NumberOfAwards": 227062,
   "NumberOfAwardsMax": 28386,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6380,7 +6386,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25655
+      "Count": 25708
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6413,9 +6419,9 @@
       "Count": 21647
     }
   ],
-  "EOS_Progressed": 552789,
+  "EOS_Progressed": 552975,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30469,
+  "EOS_NewPlayers": 30467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12198,6 +12204,11 @@
       "Time": "2023-06-14T12:05:54.2992208+00:00",
       "NumProgressed": 552789,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-14T13:13:34.5646628+00:00",
+      "NumProgressed": 552975,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13423,9 +13434,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_157",
@@ -13968,21 +13979,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 552789,
+      "Progressed": 552975,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 552789,
+      "Progressed": 552975,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-14T11:59:44.6239052+00:00",
-  "LastChanged_Achievements": "2023-06-14T12:05:54.2992203+00:00",
+  "LastChanged": "2023-06-14T13:07:24.0250452+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:13:34.5646621+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:59:44.6239062+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:05:54.2997647+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:07:24.0250458+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:13:34.5657977+00:00"
 }

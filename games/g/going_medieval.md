@@ -6,39 +6,39 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 71.00% | ~2,621 |
-| Having A Field Day | 70.00% | ~2,584 |
-| Reap What You Sow | 68.00% | ~2,510 |
-| Green Thumb | 64.00% | ~2,362 |
-| The First Day | 64.00% | ~2,362 |
-| Novice Researcher | 61.00% | ~2,252 |
-| Putting Food on the Table | 58.00% | ~2,141 |
-| Onward | 53.00% | ~1,956 |
+| Get A Room | 71.00% | ~2,622 |
+| Having A Field Day | 70.00% | ~2,585 |
+| Reap What You Sow | 68.00% | ~2,511 |
+| Green Thumb | 64.00% | ~2,364 |
+| The First Day | 64.00% | ~2,364 |
+| Novice Researcher | 61.00% | ~2,253 |
+| Putting Food on the Table | 58.00% | ~2,142 |
+| Onward | 53.00% | ~1,957 |
 | Home Cooked Meal | 50.00% | ~1,846 |
 | The First Week | 50.00% | ~1,846 |
-| Studious Researcher | 49.00% | ~1,809 |
-| Feast or Famine | 48.00% | ~1,772 |
-| Beam Me Up | 47.00% | ~1,735 |
-| Adept Researcher | 43.00% | ~1,587 |
+| Studious Researcher | 49.00% | ~1,810 |
+| Feast or Famine | 48.00% | ~1,773 |
+| Beam Me Up | 47.00% | ~1,736 |
+| Adept Researcher | 43.00% | ~1,588 |
 | Retribution | 37.00% | ~1,366 |
 | ...And Don’t Come Back! | 37.00% | ~1,366 |
 | Fit For A King | 36.00% | ~1,329 |
-| Luminary Researcher | 35.00% | ~1,292 |
+| Luminary Researcher | 35.00% | ~1,293 |
 | Heating Up | 25.00% | ~923 |
 | Winter Is Coming | 22.00% | ~812 |
-| Winter Is Here | 19.00% | ~701 |
-| A Party Now | 17.00% | ~627 |
+| Winter Is Here | 19.00% | ~702 |
+| A Party Now | 17.00% | ~628 |
 | Disassembled | 16.00% | ~591 |
 | Oh Deer! | 16.00% | ~591 |
 | All Year Round | 16.00% | ~591 |
 | Nothing Wasted | 10.00% | ~369 |
 | Don't Cry Wolf | 10.00% | ~369 |
 | Deerly Departed | 9.00% | ~332 |
-| Where Wolf? | 6.00% | ~221 |
+| Where Wolf? | 6.00% | ~222 |
 | Food Chain | 2.00% | ~74 |
 | Wabbit Season | 0.80% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,691 (Ranked 134)  
+Progressed: 3,693 (Ranked 134)  
 Completed: 8 (0.22%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 8 (0.22%) (Ranked 148)
 | 2023-06-11 | 3,594 | 7 |
 | 2023-06-12 | 3,637 | 7 |
 | 2023-06-13 | 3,674 | 8 |
-| 2023-06-14 | 3,691 | 8 |
+| 2023-06-14 | 3,693 | 8 |
 ## Awards
 Max (Relaxing): 120  (Ranked 308)  
 Sum: 948 (Ranked 235)  

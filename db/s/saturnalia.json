@@ -242,7 +242,7 @@
   "Tags": [],
   "EOS_Progressed": 64104,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3835,9 +3835,9 @@
       "ID": "ACH_PHONECAPTURE",
       "SetID": "6ccjg6f",
       "Name": "Are you still there?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -3908,8 +3908,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-14T12:02:17.8738592+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:09:02.0942119+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:36.3956523+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:57:29.4680603+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:02:17.8738948+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:03:53.4668715+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:09:02.0942578+00:00"
 }

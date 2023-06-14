@@ -424,7 +424,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 8418,
+  "EOS_Progressed": 8421,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 5,
@@ -4554,6 +4554,11 @@
       "Time": "2023-06-14T11:02:06.1566509+00:00",
       "NumProgressed": 8418,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-14T13:09:03.2756546+00:00",
+      "NumProgressed": 8421,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 34,
@@ -4669,7 +4674,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "ACH15",
@@ -4693,7 +4698,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH18",
@@ -4725,7 +4730,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "ACH22",
@@ -4733,7 +4738,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "ACH23",
@@ -4741,7 +4746,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACH24",
@@ -4749,7 +4754,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH25",
@@ -4757,7 +4762,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH26",
@@ -4765,7 +4770,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH27",
@@ -4836,7 +4841,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8418,
+      "Progressed": 8421,
       "Completed": 31
     }
   ],
@@ -4844,8 +4849,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-14T12:02:18.6730692+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:09:03.2756541+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:58:05.2806626+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:02:18.6731131+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:04:50.5975979+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:09:03.2757064+00:00"
 }

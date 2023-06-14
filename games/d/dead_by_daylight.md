@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resurgence | 0.30% | ~1,659 |
 | Wounded Healer | 0.20% | ~1,106 |
 | Healthy Obsession | 0.20% | ~1,106 |
-| Resurgence | 0.20% | ~1,106 |
 | Close Shave | 0.20% | ~1,106 |
 | Preemptive Strike | 0.20% | ~1,106 |
 | Humanitarian | 0.20% | ~1,106 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~553 |
 | Adept Gabriel | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,789 (Ranked 27)  
+Progressed: 552,975 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,18 +282,18 @@ Completed: 42 (0.01%) (Ranked 210)
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
-| 2023-06-14 | 552,789 | 42 |
+| 2023-06-14 | 552,975 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
-Sum: 227,009 (Ranked 12)  
+Sum: 227,062 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,386 |
 | This game has Competitive Players | 26,121 |
 | This game is Highly Recommended | 25,796 |
+| This game has Amazing Characters | 25,708 |
 | This game is Extremely Fun | 25,685 |
-| This game has Amazing Characters | 25,655 |
 | This game has Quickly Understood Controls | 25,477 |
 | This game has Challenging Combat | 24,855 |
 | This game has Amazing Storytelling | 23,387 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 4
 | 2023-06-11 | 4.52 | - | 28,305 | 226,349 |
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
-| 2023-06-14 | 4.52 | - | 28,386 | 227,009 |
+| 2023-06-14 | 4.52 | - | 28,386 | 227,062 |

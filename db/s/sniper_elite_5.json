@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2818,
+  "EOS_Progressed": 2821,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3508,6 +3508,11 @@
       "Time": "2023-06-14T11:05:41.2176436+00:00",
       "NumProgressed": 2818,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-14T13:13:18.2646011+00:00",
+      "NumProgressed": 2821,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3559,7 +3564,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3575,7 +3580,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3599,7 +3604,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3639,7 +3644,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3687,7 +3692,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3743,7 +3748,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3773,9 +3778,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3797,9 +3802,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -3831,7 +3836,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3887,7 +3892,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3901,9 +3906,9 @@
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -3933,9 +3938,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -4021,9 +4026,9 @@
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
       "SetID": "83mdf7p",
       "Name": "Ghost of Falaise",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -4086,13 +4091,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2769,
+      "Progressed": 2772,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2818,
+      "Progressed": 2821,
       "Completed": 2
     }
   ],
@@ -4100,8 +4105,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T11:05:41.217643+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:13:18.2646005+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:59:56.7891833+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:05:40.6977525+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:07:41.5949817+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:13:18.2647153+00:00"
 }

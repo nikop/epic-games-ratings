@@ -19,7 +19,7 @@
 | Ray of Sunshine | 8.00% | ~3 |
 | Notorious Pirate | 5.00% | ~2 |
 | Master Firefighter | 5.00% | ~2 |
-| Family Reunion | 3.00% | ~1 |
+| Family Reunion | 5.00% | ~2 |
 | Master Miner | 3.00% | ~1 |
 | Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |

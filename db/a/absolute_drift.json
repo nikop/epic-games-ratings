@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523055,
+  "EOS_Progressed": 1523062,
   "EOS_Completed": 621,
   "EOS_NewPlayers": 1577,
   "EOS_NewCompleters": 0,
@@ -6180,6 +6180,11 @@
       "Time": "2023-06-14T12:03:52.7748764+00:00",
       "NumProgressed": 1523055,
       "NumCompleted": 621
+    },
+    {
+      "Time": "2023-06-14T13:10:44.3591243+00:00",
+      "NumProgressed": 1523062,
+      "NumCompleted": 621
     }
   ],
   "TotalAchievements": 20,
@@ -6239,7 +6244,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137075
+      "UsersEstimate": 137076
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -6303,7 +6308,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121844
+      "UsersEstimate": 121845
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6311,7 +6316,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13707
+      "UsersEstimate": 13708
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -6350,15 +6355,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523055,
+      "Progressed": 1523062,
       "Completed": 621
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-14T12:03:52.7748759+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:10:44.3591236+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:59:33.0885243+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:03:52.7749253+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:07:06.214485+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:10:44.3592062+00:00"
 }

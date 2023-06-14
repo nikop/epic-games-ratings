@@ -5,14 +5,14 @@ Rating: 4.53 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~845 |
-| Confirming Suspicions | 25.00% | ~704 |
+| Meeting Resistance | 30.00% | ~846 |
+| Confirming Suspicions | 25.00% | ~705 |
 | The Kraken Wakes | 20.00% | ~564 |
-| It's Starting to Crack | 18.00% | ~507 |
+| It's Starting to Crack | 18.00% | ~508 |
 | Lord of War | 15.00% | ~423 |
 | Change the Channel | 15.00% | ~423 |
-| Resourceful | 13.00% | ~366 |
-| Taking it back | 13.00% | ~366 |
+| Resourceful | 13.00% | ~367 |
+| Taking it back | 13.00% | ~367 |
 | Organ Grinder | 11.00% | ~310 |
 | Target America | 11.00% | ~310 |
 | As Quiet as a Mouse | 10.00% | ~282 |
@@ -20,16 +20,16 @@ Rating: 4.53 (Ranked 502)
 | Liberté | 9.00% | ~254 |
 | Sharpshooter | 9.00% | ~254 |
 | Explosive Efficiency | 9.00% | ~254 |
-| Enemy at the Gates | 8.00% | ~225 |
-| Just a Flesh Wound | 8.00% | ~225 |
-| Gunslinger | 8.00% | ~225 |
+| Enemy at the Gates | 8.00% | ~226 |
+| Just a Flesh Wound | 8.00% | ~226 |
+| Gunslinger | 8.00% | ~226 |
 | Opposing Force | 7.00% | ~197 |
+| Close Quarters | 7.00% | ~197 |
 | Climbing the Ladder | 6.00% | ~169 |
 | Fields of Glory | 6.00% | ~169 |
 | Skirmisher | 6.00% | ~169 |
 | Die Nussknacker Sweet! | 6.00% | ~169 |
 | Der Geist | 6.00% | ~169 |
-| Close Quarters | 6.00% | ~169 |
 | Snake in the Grass | 6.00% | ~169 |
 | Brains of the Operation | 6.00% | ~169 |
 | No Stone Unturned | 5.00% | ~141 |
@@ -46,19 +46,19 @@ Rating: 4.53 (Ranked 502)
 | Don't hold your breath | 1.00% | ~28 |
 | Herr Today, Gone Tomorrow | 1.00% | ~28 |
 | Operation Foxley | 1.00% | ~28 |
+| Ghost of Falaise | 1.00% | ~28 |
+| Burn after reading | 0.90% | ~25 |
 | Last Resort | 0.90% | ~25 |
 | Siegebreaker | 0.90% | ~25 |
-| Ghost of Falaise | 0.90% | ~25 |
-| Burn after reading | 0.80% | ~23 |
 | From Paris with Love | 0.70% | ~20 |
 | Souvenir hunter | 0.70% | ~20 |
 | Eagle Eyed | 0.60% | ~17 |
 | Shoot for the Moon | 0.60% | ~17 |
 | Up close and personal | 0.50% | ~14 |
+| Can't Outrun A Bullet | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~14 |
 | Fight Another Day | 0.50% | ~14 |
-| Can't Outrun A Bullet | 0.40% | ~11 |
-| Sight Beyond Sights | 0.30% | ~8 |
+| Sight Beyond Sights | 0.40% | ~11 |
 | Reich To The Point | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 502)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,818 (Ranked 144)  
+Progressed: 2,821 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.07%) (Ranked 181)
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
-| 2023-06-14 | 2,818 | 2 |
+| 2023-06-14 | 2,821 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

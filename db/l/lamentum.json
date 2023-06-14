@@ -5,10 +5,10 @@
   "Ranking_Rating": 713,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -203,6 +203,11 @@
       "Time": "2023-06-14T07:04:58.1803671+00:00",
       "NumProgressed": 291,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-14T13:11:18.1254902+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -270,7 +275,7 @@
       "Name": "True magic doesn\u0027t exist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_08",
@@ -284,9 +289,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_10",
@@ -294,7 +299,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_11",
@@ -316,9 +321,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_14",
@@ -365,7 +370,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 8
     }
   ],
@@ -373,8 +378,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-14T12:04:15.9249251+00:00",
+  "LastChanged_Achievements": "2023-06-14T13:11:18.1254895+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.2283173+00:00",
-  "LastUpdate_Ratings": "2023-06-14T11:57:42.3414493+00:00",
-  "LastUpdate_Achievements": "2023-06-14T12:04:15.9249408+00:00"
+  "LastUpdate_Ratings": "2023-06-14T13:04:14.1740233+00:00",
+  "LastUpdate_Achievements": "2023-06-14T13:11:18.1255055+00:00"
 }
