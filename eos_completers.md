@@ -59,8 +59,8 @@
 | 56 | [Lamentum](games/l/lamentum.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
-| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.54% |
-| 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.35% |
@@ -453,4 +453,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,782 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,783 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
