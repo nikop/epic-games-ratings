@@ -23,7 +23,7 @@
 | Shocking | 11.00% | ~42 |
 | Perfect Timing | 10.00% | ~38 |
 | Sixty Seconds | 10.00% | ~38 |
-| Killer Elite | 6.00% | ~23 |
+| Killer Elite | 7.00% | ~27 |
 | Bumper Car | 5.00% | ~19 |
 | OP | 5.00% | ~19 |
 | Thirty Birds... | 5.00% | ~19 |

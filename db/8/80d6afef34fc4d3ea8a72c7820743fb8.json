@@ -25,9 +25,178 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "city_state",
+      "SetID": "4pdi6j1",
+      "Name": "City State",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "conqueror",
+      "SetID": "4pdi6j1",
+      "Name": "Conqueror",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "economic_prosperity",
+      "SetID": "4pdi6j1",
+      "Name": "Economic Prosperity",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "expansionist1",
+      "SetID": "4pdi6j1",
+      "Name": "Expansionist I",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "expansionist2",
+      "SetID": "4pdi6j1",
+      "Name": "Expansionist II",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fighter",
+      "SetID": "4pdi6j1",
+      "Name": "Fighter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "magnum_opus1",
+      "SetID": "4pdi6j1",
+      "Name": "Magnum Opus I",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "magnum_opus2",
+      "SetID": "4pdi6j1",
+      "Name": "Magnum Opus II",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "magnum_opus3",
+      "SetID": "4pdi6j1",
+      "Name": "Magnum Opus III",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "risky_business1",
+      "SetID": "4pdi6j1",
+      "Name": "Risky Business I",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "risky_business2",
+      "SetID": "4pdi6j1",
+      "Name": "Risky Business II",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "speed_runner1",
+      "SetID": "4pdi6j1",
+      "Name": "Speedrunner I",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "speed_runner2",
+      "SetID": "4pdi6j1",
+      "Name": "Speed Runner II",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "suzerain1",
+      "SetID": "4pdi6j1",
+      "Name": "Suzerain I",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "suzerain2",
+      "SetID": "4pdi6j1",
+      "Name": "Suzerain II",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "suzerain3",
+      "SetID": "4pdi6j1",
+      "Name": "Suzerain III",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "try_harder1",
+      "SetID": "4pdi6j1",
+      "Name": "Try Harder I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "try_harder2",
+      "SetID": "4pdi6j1",
+      "Name": "Try Harder II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "try_harder3",
+      "SetID": "4pdi6j1",
+      "Name": "Try Harder III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "warrior",
+      "SetID": "4pdi6j1",
+      "Name": "Warrior",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "winner",
+      "SetID": "4pdi6j1",
+      "Name": "Winner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4pdi6j1",
@@ -37,8 +206,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-30T09:00:58.4633941+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:03:46.0754779+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:03:35.2122666+00:00",
   "LastUpdate_AppInfo": "2023-06-13T08:57:30.2131516+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:57:14.4028231+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:03:46.0754805+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:57:14.0948384+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:03:35.2122789+00:00"
 }

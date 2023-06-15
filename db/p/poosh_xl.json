@@ -3,8 +3,8 @@
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.64,
+  "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -574,6 +574,11 @@
       "Time": "2023-06-15T03:04:16.8224418+00:00",
       "NumProgressed": 122,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T09:04:06.8053604+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -679,15 +684,15 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 57
     },
@@ -703,9 +708,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "Poosh Past 5000",
@@ -713,7 +718,7 @@
       "Name": "Pooshed Past 5000",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Poosh Past 7500",
@@ -727,9 +732,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "Terrible Start",
@@ -744,13 +749,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:04:27.6715358+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:04:06.8053599+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.2457113+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:57:54.9952498+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:04:27.671549+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:57:45.3058217+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:04:06.805374+00:00"
 }

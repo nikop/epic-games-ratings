@@ -394,9 +394,9 @@
       "ID": "Award_KillerElite",
       "SetID": "9ojec6n",
       "Name": "Killer Elite",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "Award_LineOfDuty",
@@ -587,8 +587,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:03:14.7233977+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:03:11.7453568+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.2611684+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:58:41.3311155+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:03:14.7234505+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:19.8857999+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:03:11.7453872+00:00"
 }

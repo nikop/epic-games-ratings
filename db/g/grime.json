@@ -578,9 +578,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 42
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -610,9 +610,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -642,9 +642,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 42
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -770,17 +770,17 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -802,9 +802,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -904,8 +904,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:01:36.0188688+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:00:33.4003575+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:01:11.3589626+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:01:36.0189028+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:00:14.8974897+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:00:33.4003899+00:00"
 }

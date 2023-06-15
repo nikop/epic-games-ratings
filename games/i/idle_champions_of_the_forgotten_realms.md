@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.50% | ~285 |
 | Vecna Out! | 0.50% | ~285 |
 | Terror in the Dark | 0.50% | ~454 |
+| A Mysterious Summons | 0.50% | ~454 |
 | Unearthed Evil | 0.50% | ~454 |
 | The Crumbling Temple | 0.50% | ~454 |
 | Exploring Port Nyanzaru | 0.50% | ~454 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.40% | ~228 |
 | Beast Mode | 0.40% | ~363 |
 | Low Initiative | 0.40% | ~363 |
-| A Mysterious Summons | 0.40% | ~363 |
 | Building Trust | 0.40% | ~363 |
 | Useless Allies | 0.40% | ~363 |
 | Running of the Saurs | 0.40% | ~363 |
@@ -203,6 +203,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~181 |
 | Tower on the Lake | 0.20% | ~181 |
 | Only the Strong Survive | 0.20% | ~181 |
+| Intelligence Hunt | 0.20% | ~181 |
 | Seeds of Deceit | 0.20% | ~181 |
 | Visions of Strahd | 0.20% | ~181 |
 | The Gargoyle's Apprentice | 0.20% | ~181 |
@@ -268,6 +269,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.20% | ~181 |
 | Nightmare Mode | 0.20% | ~114 |
 | Wyllowwood | 0.20% | ~181 |
+| Displaced Anger | 0.20% | ~181 |
 | Smooth Talkers | 0.20% | ~114 |
 | Relay Race | 0.20% | ~181 |
 | An Illithid Undertaking | 0.20% | ~114 |
@@ -307,6 +309,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~114 |
 | CONtagious Cold | 0.20% | ~114 |
 | Civilization | 0.20% | ~114 |
+| Trench Coat Run | 0.20% | ~114 |
 | Durable Deep | 0.20% | ~181 |
 | The Sibriex | 0.20% | ~114 |
 | The Archduke's Blessing | 0.20% | ~114 |
@@ -392,7 +395,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distribute Your Weight | 0.10% | ~91 |
 | Mongrelfolk Incursion | 0.10% | ~57 |
 | Shorty's Day Off | 0.10% | ~91 |
-| Intelligence Hunt | 0.10% | ~91 |
 | Seeds of Corruption | 0.10% | ~91 |
 | The Strahd Squad | 0.10% | ~57 |
 | Home Not So Alone | 0.10% | ~57 |
@@ -446,7 +448,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~57 |
 | Twice More Into The Breach | 0.10% | ~91 |
 | Thrice More Into The Breach | 0.10% | ~57 |
-| Displaced Anger | 0.10% | ~91 |
 | Ettercap Swarm | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~57 |
 | Only Human | 0.10% | ~57 |
 | Ten in Ten-Towns | 0.10% | ~57 |
-| Trench Coat Run | 0.10% | ~57 |
 | The Taunting Lord | 0.10% | ~57 |
 | Lone Wolf Party | 0.10% | ~57 |
 | A Neutral Party | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,737 (Ranked 64)  
+Progressed: 90,738 (Ranked 64)  
 Completed: 1,936 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 1,936 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,737 | 1,936 |
+| 2023-06-15 | 90,738 | 1,936 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

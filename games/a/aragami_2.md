@@ -9,20 +9,20 @@ Number of Ratings: 88  (23.09.2022)
 | Awakening | 93.00% | ~32,450 |
 | First Steps | 81.00% | ~28,263 |
 | Control the Shadows | 68.00% | ~23,727 |
-| Tools of the Trade | 63.00% | ~21,982 |
-| Apprentice | 60.00% | ~20,935 |
-| Secret Seeker | 57.00% | ~19,888 |
+| Tools of the Trade | 63.00% | ~21,983 |
+| Apprentice | 60.00% | ~20,936 |
+| Secret Seeker | 57.00% | ~19,889 |
 | Forge of Assassins | 56.00% | ~19,540 |
 | Revenant | 52.00% | ~18,144 |
-| I don’t Care! | 45.00% | ~15,701 |
+| I don’t Care! | 45.00% | ~15,702 |
 | Bird of Prey | 37.00% | ~12,910 |
-| Engraved with Power | 32.00% | ~11,165 |
+| Engraved with Power | 32.00% | ~11,166 |
 | Lady | 30.00% | ~10,468 |
 | Fashionable Assassin | 27.00% | ~9,421 |
 | Apex Predator | 24.00% | ~8,374 |
 | Soul Reaver | 22.00% | ~7,676 |
-| Embers | 21.00% | ~7,327 |
-| Wall Lizard | 20.00% | ~6,978 |
+| Embers | 21.00% | ~7,328 |
+| Wall Lizard | 20.00% | ~6,979 |
 | Clinging to Life | 18.00% | ~6,281 |
 | Burning | 17.00% | ~5,932 |
 | Look Behind You | 16.00% | ~5,583 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~3,140 |
 | Denouement | 8.00% | ~2,791 |
 | A Pleasant Stay | 8.00% | ~2,791 |
-| Pilgrimage | 7.00% | ~2,442 |
+| Pilgrimage | 7.00% | ~2,443 |
 | The Lookout | 5.00% | ~1,745 |
 | The Spirit of Vengeance | 5.00% | ~1,745 |
 | Hollow | 5.00% | ~1,745 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~349 |
 | Anger Management | 1.00% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,892 (Ranked 86)  
+Progressed: 34,893 (Ranked 86)  
 Completed: 173 (0.50%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 173 (0.50%) (Ranked 118)
 | 2023-06-12 | 34,703 | 170 |
 | 2023-06-13 | 34,794 | 173 |
 | 2023-06-14 | 34,861 | 173 |
-| 2023-06-15 | 34,892 | 173 |
+| 2023-06-15 | 34,893 | 173 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

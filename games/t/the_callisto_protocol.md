@@ -13,8 +13,8 @@ Rating: 4.18 (Ranked 846)
 | Reforged | 10.00% | ~1,530 |
 | Workplace Hazard | 9.00% | ~1,377 |
 | If the SHU Fits... | 9.00% | ~1,377 |
+| Get a Grip | 8.00% | ~1,224 |
 | Giving Back | 7.00% | ~1,071 |
-| Get a Grip | 7.00% | ~1,071 |
 | Without A Paddle | 7.00% | ~1,071 |
 | Terminated | 6.00% | ~918 |
 | In the Pipe, Five by Five | 6.00% | ~918 |
@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 846)
 | I Do Belong Here | 2.00% | ~306 |
 | In Striking Distance | 2.00% | ~306 |
 | Mugshot | 2.00% | ~306 |
-| Big Spender | 2.00% | ~64 |
+| Big Spender | 2.00% | ~65 |
 | Parole Denied | 1.00% | ~32 |
 | Hoard Mode | 1.00% | ~32 |
 | Grim Reaper | 0.90% | ~138 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 846)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,298 (Ranked 103)  
+Progressed: 15,302 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,298 | 55 |
+| 2023-06-15 | 15,302 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 311 (Ranked 329)  

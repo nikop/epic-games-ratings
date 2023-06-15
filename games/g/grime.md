@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Imprint | 27.00% | ~160 |
 | Taste | 26.00% | ~154 |
-| Imprint | 26.00% | ~154 |
 | Ravenous | 23.00% | ~137 |
 | The Hunt | 22.00% | ~131 |
 | Weeper | 21.00% | ~125 |
@@ -25,22 +25,22 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 9.00% | ~53 |
 | Celebration | 8.00% | ~48 |
 | Watcher | 8.00% | ~48 |
+| Predator | 8.00% | ~48 |
+| Assimilation | 7.00% | ~42 |
+| Artisan | 7.00% | ~42 |
 | Inevitable | 7.00% | ~42 |
-| Predator | 7.00% | ~42 |
 | Dream | 7.00% | ~12 |
-| Assimilation | 6.00% | ~36 |
 | Hunt Down | 6.00% | ~36 |
-| Artisan | 6.00% | ~36 |
 | Hush | 6.00% | ~36 |
 | All-Seeing | 6.00% | ~36 |
 | Kin | 6.00% | ~11 |
 | Kinship | 5.00% | ~30 |
+| Breathsmith | 5.00% | ~30 |
 | Unwrap the Gift | 5.00% | ~30 |
 | Passage | 5.00% | ~30 |
-| Breathsmith | 4.00% | ~24 |
+| Breath | 4.00% | ~24 |
 | Proportions | 4.00% | ~24 |
 | Bloodhunter | 3.00% | ~18 |
-| Breath | 3.00% | ~18 |
 | Weakness | 3.00% | ~18 |
 | Listen | 3.00% | ~5 |
 | Zygote | 2.00% | ~4 |

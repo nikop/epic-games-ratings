@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bfbjb50",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-06-15T09:00:36.7536566+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:00:36.7536546+00:00",
   "LastUpdate_AppInfo": "2023-06-10T14:56:52.2312018+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:57:07.0683877+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:01:40.6201003+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:57:09.2781781+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:00:36.7536583+00:00"
 }

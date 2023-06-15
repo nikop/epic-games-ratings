@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -316,9 +316,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1424,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-06-15T06:05:49.3965038+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-15T09:06:09.9788923+00:00",
+      "NumProgressed": 1424,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1242,7 +1247,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1298,7 +1303,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1306,7 +1311,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1378,7 +1383,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1386,7 +1391,7 @@
       "Name": "Spark of Love",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -1545,7 +1550,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1424,
       "Completed": 7
     }
   ],
@@ -1553,8 +1558,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:08.9914668+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:09.9788916+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:01:13.278288+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:08.991494+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:00:16.2030947+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:09.9789242+00:00"
 }

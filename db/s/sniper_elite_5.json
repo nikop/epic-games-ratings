@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2875,
+  "EOS_Progressed": 2876,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3598,6 +3598,11 @@
       "Time": "2023-06-15T08:07:06.1349751+00:00",
       "NumProgressed": 2875,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T09:06:07.8459601+00:00",
+      "NumProgressed": 2876,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3609,7 +3614,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3657,7 +3662,7 @@
       "Name": "Fields of Glory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3689,7 +3694,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3737,7 +3742,7 @@
       "Name": "Skirmisher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3825,7 +3830,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -4176,13 +4181,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2826,
+      "Progressed": 2827,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2875,
+      "Progressed": 2876,
       "Completed": 2
     }
   ],
@@ -4190,8 +4195,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:06.1349747+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:07.8459596+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:01:19.7978632+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:06.1350457+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:00:20.5881018+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:07.8460324+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~862 |
+| Meeting Resistance | 30.00% | ~863 |
 | Confirming Suspicions | 25.00% | ~719 |
 | The Kraken Wakes | 20.00% | ~575 |
 | It's Starting to Crack | 18.00% | ~518 |
@@ -28,10 +28,10 @@ Rating: 4.53 (Ranked 500)
 | Close Quarters | 7.00% | ~201 |
 | Snake in the Grass | 7.00% | ~201 |
 | Brains of the Operation | 7.00% | ~201 |
-| Climbing the Ladder | 6.00% | ~172 |
-| Fields of Glory | 6.00% | ~172 |
-| Skirmisher | 6.00% | ~172 |
-| Die Nussknacker Sweet! | 6.00% | ~172 |
+| Climbing the Ladder | 6.00% | ~173 |
+| Fields of Glory | 6.00% | ~173 |
+| Skirmisher | 6.00% | ~173 |
+| Die Nussknacker Sweet! | 6.00% | ~173 |
 | No Stone Unturned | 5.00% | ~144 |
 | Set Europe Ablaze | 5.00% | ~144 |
 | Precision Is Key | 4.00% | ~115 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 500)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,875 (Ranked 144)  
+Progressed: 2,876 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,875 | 2 |
+| 2023-06-15 | 2,876 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

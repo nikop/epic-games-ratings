@@ -14,7 +14,7 @@ Rating: 4.25 (Ranked 796)
 | WITHOUT BREAKING A SWEAT | 40.00% | ~138 |
 | HONORS STUDENT | 37.00% | ~128 |
 | BUTCHER | 26.00% | ~90 |
-| RAMBO | 21.00% | ~72 |
+| RAMBO | 22.00% | ~76 |
 | INDIVIDUAL APPROACH | 20.00% | ~69 |
 | MARTYR | 20.00% | ~69 |
 | HELL'S KITCHEN | 19.00% | ~66 |

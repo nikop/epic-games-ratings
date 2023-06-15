@@ -1230,9 +1230,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23188,
+  "EOS_Progressed": 23189,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5525,6 +5525,11 @@
       "Time": "2023-06-15T08:07:10.9921769+00:00",
       "NumProgressed": 23188,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-15T09:06:11.6749206+00:00",
+      "NumProgressed": 23189,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5536,7 +5541,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16927
+      "UsersEstimate": 16928
     },
     {
       "ID": "Animated",
@@ -5648,7 +5653,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14840
+      "UsersEstimate": 14841
     },
     {
       "ID": "Escape_Artist",
@@ -5680,7 +5685,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7188
+      "UsersEstimate": 7189
     },
     {
       "ID": "Ghost_Expert",
@@ -5696,7 +5701,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "Legions",
@@ -5840,7 +5845,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19942
+      "UsersEstimate": 19943
     },
     {
       "ID": "Summoner",
@@ -5864,7 +5869,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12753
+      "UsersEstimate": 12754
     },
     {
       "ID": "Teamwork",
@@ -5920,7 +5925,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11362
+      "UsersEstimate": 11363
     },
     {
       "ID": "Welcome_Crew",
@@ -5943,7 +5948,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23188,
+      "Progressed": 23189,
       "Completed": 40
     }
   ],
@@ -5951,8 +5956,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-14T02:58:47.9838263+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:10.9921765+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:11.6749201+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:59:29.7155514+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:10.9922332+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:56.2352162+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:11.674974+00:00"
 }

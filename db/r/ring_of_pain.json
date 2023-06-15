@@ -2201,11 +2201,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 12923,
       "NumberOfAwardsMax": 1478
+    },
+    {
+      "Time": "2023-06-15T08:59:25.2087296+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12924,
+      "NumberOfAwardsMax": 1479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12923,
-  "NumberOfAwardsMax": 1478,
+  "NumberOfAwards": 12924,
+  "NumberOfAwardsMax": 1479,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -2236,7 +2242,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1478
+      "Count": 1479
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2275,7 +2281,7 @@
       "Count": 729
     }
   ],
-  "EOS_Progressed": 230784,
+  "EOS_Progressed": 230785,
   "EOS_Completed": 239,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
@@ -7730,6 +7736,11 @@
       "Time": "2023-06-15T08:07:19.8897746+00:00",
       "NumProgressed": 230784,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-06-15T09:06:19.1936459+00:00",
+      "NumProgressed": 230785,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 122,
@@ -7757,7 +7768,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 94621
+      "UsersEstimate": 94622
     },
     {
       "ID": "BOSSPIT",
@@ -7773,7 +7784,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 221553
+      "UsersEstimate": 221554
     },
     {
       "ID": "CURSE1HP",
@@ -7805,7 +7816,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36925
+      "UsersEstimate": 36926
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -7829,7 +7840,7 @@
       "Name": "Max Damage!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36925
+      "UsersEstimate": 36926
     },
     {
       "ID": "DEPTH12",
@@ -7837,7 +7848,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 96929
+      "UsersEstimate": 96930
     },
     {
       "ID": "DEPTH12HARD",
@@ -7861,7 +7872,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 168472
+      "UsersEstimate": 168473
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -7893,7 +7904,7 @@
       "Name": "R.I.P",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 83082
+      "UsersEstimate": 83083
     },
     {
       "ID": "DIEBOSS",
@@ -7917,7 +7928,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129239
+      "UsersEstimate": 129240
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -8141,7 +8152,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 140778
+      "UsersEstimate": 140779
     },
     {
       "ID": "KILL1000",
@@ -8197,7 +8208,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36925
+      "UsersEstimate": 36926
     },
     {
       "ID": "KILLBOSSHARD",
@@ -8229,7 +8240,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 124623
+      "UsersEstimate": 124624
     },
     {
       "ID": "KILLNICEDOG",
@@ -8277,7 +8288,7 @@
       "Name": "Shootout",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 80774
+      "UsersEstimate": 80775
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -8325,7 +8336,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129239
+      "UsersEstimate": 129240
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -8341,7 +8352,7 @@
       "Name": "C-C-Combo",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 94621
+      "UsersEstimate": 94622
     },
     {
       "ID": "NOEPIC",
@@ -8405,7 +8416,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36925
+      "UsersEstimate": 36926
     },
     {
       "ID": "POISON300",
@@ -8485,7 +8496,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205398
+      "UsersEstimate": 205399
     },
     {
       "ID": "SPECIALROOMS10",
@@ -8493,7 +8504,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143086
+      "UsersEstimate": 143087
     },
     {
       "ID": "SPEEDRUN10",
@@ -8509,7 +8520,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 99237
+      "UsersEstimate": 99238
     },
     {
       "ID": "STEALTH100",
@@ -8525,7 +8536,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 66927
+      "UsersEstimate": 66928
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -8557,7 +8568,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 140778
+      "UsersEstimate": 140779
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -8716,16 +8727,16 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 230784,
+      "Progressed": 230785,
       "Completed": 239
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-06-14T15:59:44.4382555+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:19.8897743+00:00",
+  "LastChanged": "2023-06-15T08:59:25.2087294+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:19.1936451+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:54.0315135+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:00:08.11685+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:19.8899453+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:59:25.2087299+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:19.1938104+00:00"
 }

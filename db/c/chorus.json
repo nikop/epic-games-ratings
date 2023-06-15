@@ -274,7 +274,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -929,6 +929,11 @@
       "Time": "2023-06-14T18:06:12.3533157+00:00",
       "NumProgressed": 973,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-15T09:06:13.4615444+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -940,7 +945,7 @@
       "Name": "Demigod",
       "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "DieInPermadeath",
@@ -956,7 +961,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "Finish5SideMissions",
@@ -964,7 +969,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "FinishAllSideMissions",
@@ -972,7 +977,7 @@
       "Name": "Paragon",
       "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "GatlingVsArmor",
@@ -980,7 +985,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1002,9 +1007,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 721
     },
     {
       "ID": "MasteryOfCombat",
@@ -1012,7 +1017,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "MasteryOfRites",
@@ -1044,7 +1049,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "MissionAncientRitual",
@@ -1140,7 +1145,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1154,9 +1159,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 701
     },
     {
       "ID": "MissionScavengingJob",
@@ -1164,7 +1169,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "MissionShipyard",
@@ -1188,7 +1193,7 @@
       "Name": "Disruption",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1204,7 +1209,7 @@
       "Name": "Origin",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Overcharge",
@@ -1244,7 +1249,7 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "RiteOfTheStorm",
@@ -1252,7 +1257,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "UseRepairDrones",
@@ -1260,7 +1265,7 @@
       "Name": "Phoenix",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "VisitAllLocations",
@@ -1276,22 +1281,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:13.3721503+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:13.4615439+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:00:43.4699306+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:13.3721807+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:59:52.7850932+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:13.4615741+00:00"
 }

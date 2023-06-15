@@ -4570,9 +4570,9 @@
       "Count": 3686
     }
   ],
-  "EOS_Progressed": 130620,
+  "EOS_Progressed": 130621,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10055,6 +10055,11 @@
       "Time": "2023-06-15T08:07:19.8783173+00:00",
       "NumProgressed": 130620,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T09:06:18.9939507+00:00",
+      "NumProgressed": 130621,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 112,
@@ -10074,7 +10079,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "advlevel03",
@@ -10146,7 +10151,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 78372
+      "UsersEstimate": 78373
     },
     {
       "ID": "bigsale02",
@@ -10234,7 +10239,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 126701
+      "UsersEstimate": 126702
     },
     {
       "ID": "chest02",
@@ -10258,7 +10263,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "collection02",
@@ -10298,7 +10303,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 118864
+      "UsersEstimate": 118865
     },
     {
       "ID": "commonres02",
@@ -10330,7 +10335,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 99271
+      "UsersEstimate": 99272
     },
     {
       "ID": "craft02",
@@ -10338,7 +10343,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53554
+      "UsersEstimate": 53555
     },
     {
       "ID": "craft03",
@@ -10402,7 +10407,7 @@
       "Name": "Hidden Potential",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15675
     },
     {
       "ID": "enchant02",
@@ -10418,7 +10423,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 79678
+      "UsersEstimate": 79679
     },
     {
       "ID": "energy02",
@@ -10442,7 +10447,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 91434
+      "UsersEstimate": 91435
     },
     {
       "ID": "expansion02",
@@ -10474,7 +10479,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "furniture02",
@@ -10538,7 +10543,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 113639
+      "UsersEstimate": 113640
     },
     {
       "ID": "gold02",
@@ -10546,7 +10551,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 74453
+      "UsersEstimate": 74454
     },
     {
       "ID": "gold03",
@@ -10554,7 +10559,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48329
+      "UsersEstimate": 48330
     },
     {
       "ID": "gold04",
@@ -10570,7 +10575,7 @@
       "Name": "Mammonite",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15675
     },
     {
       "ID": "gold06",
@@ -10650,7 +10655,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 86209
+      "UsersEstimate": 86210
     },
     {
       "ID": "level02",
@@ -10658,7 +10663,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 40492
+      "UsersEstimate": 40493
     },
     {
       "ID": "level03",
@@ -10690,7 +10695,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 54860
+      "UsersEstimate": 54861
     },
     {
       "ID": "loot02",
@@ -10722,7 +10727,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 60085
+      "UsersEstimate": 60086
     },
     {
       "ID": "master02",
@@ -10786,7 +10791,7 @@
       "Name": "Attrition Mission",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15675
     },
     {
       "ID": "quest03",
@@ -10842,7 +10847,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 96659
+      "UsersEstimate": 96660
     },
     {
       "ID": "sell02",
@@ -10882,7 +10887,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 125395
+      "UsersEstimate": 125396
     },
     {
       "ID": "twinenchant01",
@@ -10906,7 +10911,7 @@
       "Name": "Special Ingredient",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22205
+      "UsersEstimate": 22206
     },
     {
       "ID": "uncommonres02",
@@ -10930,7 +10935,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 78372
+      "UsersEstimate": 78373
     },
     {
       "ID": "workers02",
@@ -10961,15 +10966,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 130620,
+      "Progressed": 130621,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-06-15T02:07:10.9924853+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:19.8783169+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:18.9939501+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.7380274+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:58:50.9362015+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:19.8784651+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:26.4955207+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:18.9940949+00:00"
 }

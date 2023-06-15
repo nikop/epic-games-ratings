@@ -4306,9 +4306,9 @@
       "Count": 3251
     }
   ],
-  "EOS_Progressed": 90737,
+  "EOS_Progressed": 90738,
   "EOS_Completed": 1936,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -10016,6 +10016,11 @@
       "Time": "2023-06-15T08:07:22.763181+00:00",
       "NumProgressed": 90737,
       "NumCompleted": 1936
+    },
+    {
+      "Time": "2023-06-15T09:06:21.7730873+00:00",
+      "NumProgressed": 90738,
+      "NumCompleted": 1936
     }
   ],
   "TotalAchievements": 493,
@@ -11217,9 +11222,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 454
     },
     {
       "ID": "objective_completed_165",
@@ -11593,9 +11598,9 @@
       "ID": "objective_completed_265",
       "SetID": "cc37lbc",
       "Name": "Intelligence Hunt",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_267",
@@ -12697,9 +12702,9 @@
       "ID": "objective_completed_616",
       "SetID": "cc37lbc",
       "Name": "Displaced Anger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_617",
@@ -13297,9 +13302,9 @@
       "ID": "objective_completed_808",
       "SetID": "415jc5c",
       "Name": "Trench Coat Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_809",
@@ -13970,21 +13975,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 57011,
+      "Progressed": 57012,
       "Completed": 2793
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90737,
+      "Progressed": 90738,
       "Completed": 1936
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-15T03:58:30.0509773+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:07:22.7631806+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:06:21.7730868+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:58:27.6714976+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:07:22.7654211+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:10.2296346+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:06:21.7752666+00:00"
 }

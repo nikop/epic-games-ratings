@@ -228,9 +228,9 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -349,8 +349,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:03:57.5626438+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:03:43.8813949+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:12.6757374+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:58:24.2270484+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:03:57.5626609+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:07.7226163+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:03:43.881412+00:00"
 }

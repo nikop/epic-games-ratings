@@ -6,11 +6,11 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,678 |
+| Devoured by Darkness | 17.00% | ~1,679 |
 | Burning City | 12.00% | ~1,185 |
 | A Spark | 12.00% | ~1,185 |
-| Mythic Choices | 10.00% | ~987 |
-| Defender's Heart | 10.00% | ~987 |
+| Mythic Choices | 10.00% | ~988 |
+| Defender's Heart | 10.00% | ~988 |
 | Banner over the Citadel | 9.00% | ~889 |
 | Queen's Gratitude | 8.00% | ~790 |
 | Fifth Crusade | 5.00% | ~494 |
@@ -27,14 +27,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~296 |
 | Next-Door Play | 3.00% | ~296 |
 | Get the Toad | 3.00% | ~296 |
-| Heart of the Fallen Land | 2.00% | ~197 |
-| Path of the Trickster | 2.00% | ~197 |
-| Path of the Lich | 2.00% | ~197 |
-| Heroic Victory | 2.00% | ~197 |
-| Mythic Reinforcements | 2.00% | ~197 |
-| Core of the Riddle | 2.00% | ~197 |
-| Your First Big Enemy | 2.00% | ~197 |
-| Hey, I Know You! | 2.00% | ~197 |
+| Heart of the Fallen Land | 2.00% | ~198 |
+| Path of the Trickster | 2.00% | ~198 |
+| Path of the Lich | 2.00% | ~198 |
+| Heroic Victory | 2.00% | ~198 |
+| Mythic Reinforcements | 2.00% | ~198 |
+| Core of the Riddle | 2.00% | ~198 |
+| Your First Big Enemy | 2.00% | ~198 |
+| Hey, I Know You! | 2.00% | ~198 |
 | Stay Underground | 2.00% | ~173 |
 | Hanged Man's Notes | 2.00% | ~173 |
 | Sarkoris Will Be Green | 2.00% | ~173 |
@@ -55,7 +55,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.60% | ~59 |
 | Truly Profane Gift | 0.60% | ~59 |
 | Dreadful Dragon | 0.50% | ~49 |
-| Masterful Charge | 0.40% | ~39 |
+| Masterful Charge | 0.40% | ~40 |
 | Prelate's Nemesis | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,873 (Ranked 112)  
+Progressed: 9,877 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 9,811 | 0 |
 | 2023-06-13 | 9,833 | 0 |
 | 2023-06-14 | 9,861 | 0 |
-| 2023-06-15 | 9,873 | 0 |
+| 2023-06-15 | 9,877 | 0 |
 ## Awards
 Max (Character Customization): 1,661  (Ranked 112)  
 Sum: 6,746 (Ranked 109)  

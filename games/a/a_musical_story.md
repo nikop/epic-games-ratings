@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 97.00% | ~64 |
-| Rehearsal | 95.00% | ~63 |
-| Daily Life | 92.00% | ~61 |
-| Assembly Line Work | 88.00% | ~58 |
-| Solitude | 83.00% | ~55 |
-| Pinewood, Here we come! | 76.00% | ~50 |
-| The Van | 68.00% | ~45 |
-| Road-Trip | 62.00% | ~41 |
-| A Musical Pause | 61.00% | ~40 |
-| Briget's | 50.00% | ~33 |
-| Sound of Noise | 47.00% | ~31 |
-| Big City Music | 45.00% | ~30 |
-| Love at First Sight | 44.00% | ~29 |
-| First Kiss | 38.00% | ~25 |
-| A Bigger Band | 35.00% | ~23 |
-| Symbiosis | 33.00% | ~22 |
+| ECG | 97.00% | ~65 |
+| Rehearsal | 96.00% | ~64 |
+| Daily Life | 93.00% | ~62 |
+| Assembly Line Work | 88.00% | ~59 |
+| Solitude | 84.00% | ~56 |
+| Pinewood, Here we come! | 76.00% | ~51 |
+| The Van | 69.00% | ~46 |
+| Road-Trip | 63.00% | ~42 |
+| A Musical Pause | 61.00% | ~41 |
+| Briget's | 51.00% | ~34 |
+| Sound of Noise | 48.00% | ~32 |
+| Big City Music | 46.00% | ~31 |
+| Love at First Sight | 43.00% | ~29 |
+| First Kiss | 37.00% | ~25 |
+| A Bigger Band | 34.00% | ~23 |
+| Symbiosis | 34.00% | ~23 |
 | Fuel | 27.00% | ~18 |
-| Alone Together | 26.00% | ~17 |
+| Alone Together | 25.00% | ~17 |
+| TV Dreams | 25.00% | ~17 |
 | Threatening Nature | 24.00% | ~16 |
-| TV Dreams | 24.00% | ~16 |
 | Flat Tire | 21.00% | ~14 |
+| Dreamers | 19.00% | ~13 |
 | The Clash | 18.00% | ~12 |
-| Dreamers | 18.00% | ~12 |
-| The Fix | 17.00% | ~11 |
+| The Fix | 18.00% | ~12 |
+| The Mountains, The Valleys | 13.00% | ~9 |
+| Time | 12.00% | ~8 |
 | Regrets | 12.00% | ~8 |
 | The Accident | 12.00% | ~8 |
-| The Mountains, The Valleys | 12.00% | ~8 |
-| Time | 11.00% | ~7 |
-| The Awakening | 11.00% | ~7 |
+| The Awakening | 10.00% | ~7 |
 | Bad Trip | 9.00% | ~6 |
 | Love | 9.00% | ~6 |
 | Here we go again! | 9.00% | ~6 |
+| Flight of the Bumblebee | 7.00% | ~5 |
 | On the Road Again | 6.00% | ~4 |
 | Chase the Crow | 6.00% | ~4 |
-| Flight of the Bumblebee | 6.00% | ~4 |
 | Milk and Alcohol | 6.00% | ~4 |
-| Gasoline | 5.00% | ~3 |
-| Under the Bridge | 5.00% | ~3 |
-| As the Crow Flies | 5.00% | ~3 |
-| Unintended | 5.00% | ~3 |
+| Gasoline | 4.00% | ~3 |
+| Under the Bridge | 4.00% | ~3 |
+| As the Crow Flies | 4.00% | ~3 |
+| Unintended | 4.00% | ~3 |
 | Voodoo Child | 3.00% | ~2 |
 | Riders on the Storm | 3.00% | ~2 |
 | Under my Wheels | 3.00% | ~2 |
@@ -52,15 +52,15 @@
 | Carry On | 3.00% | ~2 |
 | Killer Cars | 3.00% | ~2 |
 | Stairway to Heaven | 3.00% | ~2 |
-| Purple Haze | 2.00% | ~1 |
-| The Show Must Go On | 2.00% | ~1 |
-| Closer | 2.00% | ~1 |
-| Hospital Flowers | 2.00% | ~1 |
-| Pinewood | 2.00% | ~1 |
-| Love is All | 2.00% | ~1 |
+| Purple Haze | 1.00% | ~1 |
+| The Show Must Go On | 1.00% | ~1 |
+| Closer | 1.00% | ~1 |
+| Hospital Flowers | 1.00% | ~1 |
+| Pinewood | 1.00% | ~1 |
+| Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 304)  
-Completed: 1 (1.52%) (Ranked 80)  
+Progressed: 67 (Ranked 303)  
+Completed: 1 (1.49%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 1 (1.52%) (Ranked 80)
 | 2023-06-04 | 64 | 1 |
 | 2023-06-05 | 65 | 1 |
 | 2023-06-14 | 66 | 1 |
+| 2023-06-15 | 67 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

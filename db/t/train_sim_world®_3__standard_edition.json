@@ -2,8 +2,8 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 488,
-  "Ranking_Popularity": 230,
+  "Ranking_Rating": 473,
+  "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -1495,18 +1495,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 2189,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2023-06-15T08:59:11.1977786+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2190,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2189,
-  "NumberOfAwardsMax": 296,
+  "NumberOfAwards": 2190,
+  "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1587,8 +1593,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-06-14T17:59:18.9923201+00:00",
+  "LastChanged": "2023-06-15T08:59:11.1977782+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:36.1729159+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:59:49.2049924+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:05:02.0599483+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:59:11.1977789+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:04:33.1046996+00:00"
 }

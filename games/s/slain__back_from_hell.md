@@ -18,10 +18,10 @@ Rating: 4.28 (Ranked 783)
 | Thorn in My Herbicide | 0.80% | ~206 |
 | Backdoor Man | 0.80% | ~206 |
 | Schadenfreude | 0.80% | ~206 |
-| Red In Tooth And Claw | 0.70% | ~180 |
-| Death Becomes Her | 0.70% | ~180 |
-| The Sky Is Falling | 0.70% | ~180 |
-| That'll Come In Handy... | 0.70% | ~180 |
+| Red In Tooth And Claw | 0.70% | ~181 |
+| Death Becomes Her | 0.70% | ~181 |
+| The Sky Is Falling | 0.70% | ~181 |
+| That'll Come In Handy... | 0.70% | ~181 |
 | Start As You Mean To Go On | 0.60% | ~155 |
 | Hail the Great Horned Metal God! | 0.60% | ~155 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~129 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 783)
 | Too Metal For Magic | 0.10% | ~26 |
 | Heart Of Steel | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,785 (Ranked 92)  
+Progressed: 25,787 (Ranked 92)  
 Completed: 19 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 19 (0.07%) (Ranked 183)
 | 2023-06-12 | 25,448 | 19 |
 | 2023-06-13 | 25,596 | 19 |
 | 2023-06-14 | 25,746 | 19 |
-| 2023-06-15 | 25,785 | 19 |
+| 2023-06-15 | 25,787 | 19 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 304)  
 Sum: 125 (Ranked 392)  

@@ -2,13 +2,13 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 181,
+  "Ranking_Rating": 182,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7813,
+  "EOS_Progressed": 7814,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -2923,6 +2923,11 @@
       "Time": "2023-06-15T05:06:10.2574088+00:00",
       "NumProgressed": 7813,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-15T09:05:52.2496395+00:00",
+      "NumProgressed": 7814,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2958,7 +2963,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2998,7 +3003,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3014,7 +3019,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "HeroSlayer",
@@ -3062,7 +3067,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3070,7 +3075,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "SkeletonKing",
@@ -3086,7 +3091,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "TheLegendBegins",
@@ -3094,7 +3099,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7266
+      "UsersEstimate": 7267
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3102,7 +3107,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -3118,22 +3123,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7813,
+      "Progressed": 7814,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-15T08:06:47.3537621+00:00",
+  "LastChanged_Achievements": "2023-06-15T09:05:52.249639+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:59:31.1658458+00:00",
-  "LastUpdate_Achievements": "2023-06-15T08:06:47.3537848+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:58:57.5271179+00:00",
+  "LastUpdate_Achievements": "2023-06-15T09:05:52.2496632+00:00"
 }
