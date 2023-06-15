@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -158,15 +158,21 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-15T10:57:56.2084418+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6487,
+  "EOS_Progressed": 6488,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3584,6 +3590,11 @@
       "Time": "2023-06-15T08:06:42.3558148+00:00",
       "NumProgressed": 6487,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-15T11:05:14.4148111+00:00",
+      "NumProgressed": 6488,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3675,7 +3686,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "HISTORIAN",
@@ -3699,7 +3710,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "LIBERATOR",
@@ -3707,7 +3718,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "LIVE_WIRE",
@@ -3715,7 +3726,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "SHREDDER",
@@ -3762,16 +3773,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6487,
+      "Progressed": 6488,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:06:19.0702485+00:00",
+  "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:05:14.4148107+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:58:14.9491343+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:19.0703057+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:57:56.2084422+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:14.4148409+00:00"
 }

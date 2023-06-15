@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,7 +628,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6242,
+  "EOS_Progressed": 6243,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -2758,6 +2758,11 @@
       "Time": "2023-06-15T08:03:56.8091535+00:00",
       "NumProgressed": 6242,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-15T11:03:09.8222277+00:00",
+      "NumProgressed": 6243,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2833,7 +2838,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -2849,7 +2854,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -2857,7 +2862,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -2881,7 +2886,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2913,7 +2918,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -2975,9 +2980,9 @@
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
       "SetID": "akchbl3",
       "Name": "Ragazzi del \u002799",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1061
+      "UsersEstimate": 999
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3105,7 +3110,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -3128,7 +3133,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6242,
+      "Progressed": 6243,
       "Completed": 8
     }
   ],
@@ -3136,8 +3141,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:03:43.3629699+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:03:09.8222273+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:57:40.6184709+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:03:48.4984314+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:57:29.3651223+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:03:09.8222638+00:00"
 }

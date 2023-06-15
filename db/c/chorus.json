@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -274,9 +274,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 975,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-06-15T09:06:13.4615444+00:00",
       "NumProgressed": 974,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-15T11:05:40.6936198+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -945,7 +950,7 @@
       "Name": "Demigod",
       "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "DieInPermadeath",
@@ -953,7 +958,7 @@
       "Name": "At Least You Tried",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Find20Memories",
@@ -1001,15 +1006,15 @@
       "Name": "Born to Drift",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 722
     },
     {
       "ID": "MasteryOfCombat",
@@ -1033,7 +1038,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MissionActivateDish",
@@ -1041,7 +1046,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1073,7 +1078,7 @@
       "Name": "Payback",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -1089,7 +1094,7 @@
       "Name": "Full Arsenal",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MissionEosReturn",
@@ -1105,7 +1110,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1113,7 +1118,7 @@
       "Name": "Disciple",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MissionHelios",
@@ -1121,7 +1126,7 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1129,7 +1134,7 @@
       "Name": "Safe Home",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1137,7 +1142,7 @@
       "Name": "Rise as One",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "MissionOldFriend",
@@ -1161,7 +1166,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "MissionScavengingJob",
@@ -1169,7 +1174,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "MissionShipyard",
@@ -1177,7 +1182,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "MissionSlayingChimera",
@@ -1241,7 +1246,7 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "RiteOfTheStar",
@@ -1263,9 +1268,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 419
     },
     {
       "ID": "VisitAllLocations",
@@ -1273,7 +1278,7 @@
       "Name": "Space Traveler",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "WinARace",
@@ -1288,15 +1293,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 975,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:06:48.8855478+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:05:40.693619+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:00:25.8284291+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:48.8856045+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:46.78846+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:40.6936475+00:00"
 }

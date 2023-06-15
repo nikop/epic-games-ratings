@@ -5,36 +5,36 @@ Rating: 4.90 (Ranked 8)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 79.00% | ~2,528 |
-| Feeling the beat! | 79.00% | ~2,528 |
-| You can pet the cat! | 73.00% | ~2,336 |
-| Who put gears in there? | 66.00% | ~2,112 |
-| Cream of the Crop | 61.00% | ~1,952 |
-| Thanks for the free chip, Peppermint! | 60.00% | ~1,920 |
-| You got this, Peppermint? | 55.00% | ~1,760 |
-| Perfect Parry | 53.00% | ~1,696 |
-| Alright, that felt AWESOME! | 52.00% | ~1,664 |
-| I play my own way! | 48.00% | ~1,536 |
-| This will cost you big time | 46.00% | ~1,472 |
-| Uh, they were broken when I got here | 45.00% | ~1,440 |
-| Z-shielding's got nothing on us! | 44.00% | ~1,408 |
-| Kissing the sky! | 42.00% | ~1,344 |
-| Does that say weakpoint? | 40.00% | ~1,280 |
-| Whoa! There's ANOTHER health bar!? | 38.00% | ~1,216 |
-| The Negotiator | 37.00% | ~1,184 |
-| You must like calling me in, Chai | 32.00% | ~1,024 |
-| Out in a puff of smoke | 32.00% | ~1,024 |
-| Headliner | 31.00% | ~992 |
-| Time to pay up! | 29.00% | ~928 |
-| Who's the boss now? | 28.00% | ~896 |
-| Perfecter Parry-er! | 28.00% | ~896 |
-| I have to read these things? | 27.00% | ~864 |
-| I look cool. But I can look COOLER. | 27.00% | ~864 |
-| There's such a thing as TOO helpful | 21.00% | ~672 |
-| That's a lot of junk metal… | 19.00% | ~608 |
-| Beat-hit mania | 18.00% | ~576 |
-| Well that was a rush! | 17.00% | ~544 |
-| I told you I'd be fine, Peppermint! | 17.00% | ~544 |
+| Start with a bang! | 79.00% | ~2,530 |
+| Feeling the beat! | 79.00% | ~2,530 |
+| You can pet the cat! | 73.00% | ~2,338 |
+| Who put gears in there? | 66.00% | ~2,114 |
+| Cream of the Crop | 61.00% | ~1,954 |
+| Thanks for the free chip, Peppermint! | 60.00% | ~1,922 |
+| You got this, Peppermint? | 55.00% | ~1,762 |
+| Perfect Parry | 53.00% | ~1,698 |
+| Alright, that felt AWESOME! | 52.00% | ~1,666 |
+| I play my own way! | 48.00% | ~1,537 |
+| This will cost you big time | 46.00% | ~1,473 |
+| Uh, they were broken when I got here | 45.00% | ~1,441 |
+| Z-shielding's got nothing on us! | 44.00% | ~1,409 |
+| Kissing the sky! | 42.00% | ~1,345 |
+| Does that say weakpoint? | 40.00% | ~1,281 |
+| Whoa! There's ANOTHER health bar!? | 38.00% | ~1,217 |
+| The Negotiator | 37.00% | ~1,185 |
+| You must like calling me in, Chai | 32.00% | ~1,025 |
+| Out in a puff of smoke | 32.00% | ~1,025 |
+| Headliner | 31.00% | ~993 |
+| Time to pay up! | 29.00% | ~929 |
+| Who's the boss now? | 28.00% | ~897 |
+| Perfecter Parry-er! | 28.00% | ~897 |
+| I have to read these things? | 27.00% | ~865 |
+| I look cool. But I can look COOLER. | 27.00% | ~865 |
+| There's such a thing as TOO helpful | 21.00% | ~673 |
+| That's a lot of junk metal… | 19.00% | ~609 |
+| Beat-hit mania | 18.00% | ~577 |
+| I told you I'd be fine, Peppermint! | 17.00% | ~545 |
+| Well that was a rush! | 16.00% | ~512 |
 | Chip-tuned | 11.00% | ~352 |
 | Wanna hear my playlist? | 11.00% | ~352 |
 | Check out my moves! | 11.00% | ~352 |
@@ -46,8 +46,8 @@ Rating: 4.90 (Ranked 8)
 | I think I deserve some praise, here! | 6.00% | ~192 |
 | You ever parry a volcano? | 6.00% | ~192 |
 | This is a breeze! | 4.00% | ~128 |
-| Easy Listening | 3.00% | ~96 |
 | OK, well THEY came after ME! | 3.00% | ~96 |
+| Easy Listening | 2.00% | ~64 |
 | Problem solved... wait, what? | 2.00% | ~64 |
 | I can't see this ever being a problem again | 2.00% | ~64 |
 | Fully Powered Up! | 2.00% | ~64 |
@@ -63,11 +63,11 @@ Rating: 4.90 (Ranked 8)
 | Have we met before? | 0.60% | ~19 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~19 |
 | I'm untouchable! | 0.50% | ~16 |
-| Didn't skip a beat! | 0.30% | ~10 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
+| Didn't skip a beat! | 0.20% | ~6 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,200 (Ranked 139)  
+Progressed: 3,203 (Ranked 139)  
 Completed: 5 (0.16%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 5 (0.16%) (Ranked 156)
 | 2023-06-12 | 3,096 | 4 |
 | 2023-06-13 | 3,129 | 4 |
 | 2023-06-14 | 3,177 | 5 |
-| 2023-06-15 | 3,200 | 5 |
+| 2023-06-15 | 3,203 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

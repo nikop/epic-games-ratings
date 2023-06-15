@@ -23,17 +23,17 @@
 | The Idol | 27.00% | ~28 |
 | Inferno Ruins | 27.00% | ~28 |
 | Topped up | 26.00% | ~27 |
-| Untouchable | 24.00% | ~25 |
+| Untouchable | 25.00% | ~26 |
 | I'm Rich | 24.00% | ~25 |
 | 1 is all I need | 21.00% | ~22 |
-| The Slime | 20.00% | ~21 |
-| The Giant | 18.00% | ~19 |
+| The Slime | 21.00% | ~22 |
+| The Giant | 19.00% | ~20 |
+| Out of the Frying Pan... | 18.00% | ~19 |
 | The Blacksmith | 17.00% | ~18 |
 | The Flower | 17.00% | ~18 |
-| Out of the Frying Pan... | 17.00% | ~18 |
 | The Ooze | 16.00% | ~17 |
+| Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
-| Ember | 14.00% | ~15 |
 | The Assistant | 13.00% | ~14 |
 | Verse | 13.00% | ~14 |
 | The Steampunk | 12.00% | ~12 |

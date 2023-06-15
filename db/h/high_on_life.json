@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22869,
+  "EOS_Progressed": 22870,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1543,6 +1543,11 @@
       "Time": "2023-06-15T08:05:24.558723+00:00",
       "NumProgressed": 22869,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-15T11:04:15.8511619+00:00",
+      "NumProgressed": 22870,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1570,7 +1575,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17609
+      "UsersEstimate": 17610
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1602,7 +1607,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -1610,7 +1615,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5717
+      "UsersEstimate": 5718
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -1618,7 +1623,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17380
+      "UsersEstimate": 17381
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1658,7 +1663,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18981
+      "UsersEstimate": 18982
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1674,7 +1679,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13035
+      "UsersEstimate": 13036
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1690,7 +1695,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5717
+      "UsersEstimate": 5718
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -1698,7 +1703,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4117
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -1714,7 +1719,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -1738,7 +1743,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16694
+      "UsersEstimate": 16695
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1809,22 +1814,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22869,
+      "Progressed": 22870,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 162,
-      "Completed": 162
+      "Progressed": 163,
+      "Completed": 163
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:05:08.4339944+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:04:15.8511612+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.5213161+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:58:20.2212435+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:05:08.4340589+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:58:00.3219602+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:04:15.8511864+00:00"
 }

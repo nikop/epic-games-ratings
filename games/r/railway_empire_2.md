@@ -5,20 +5,20 @@ Rating: 4.22 (Ranked 816)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~876 |
-| A new Journey | 71.00% | ~852 |
-| From X to Y | 70.00% | ~840 |
-| Departure | 70.00% | ~840 |
-| Way of Iron | 69.00% | ~828 |
-| Mystery Tour | 66.00% | ~792 |
-| We brake for nobody | 65.00% | ~780 |
-| Brainstorm | 64.00% | ~768 |
-| Mind the Gap | 63.00% | ~756 |
-| Travel Company | 63.00% | ~756 |
-| All around the World | 60.00% | ~720 |
-| Right through the middle | 55.00% | ~660 |
-| Poor Devil | 52.00% | ~624 |
-| Facility Manager | 51.00% | ~612 |
+| Country Bumpkin | 73.00% | ~877 |
+| A new Journey | 71.00% | ~853 |
+| From X to Y | 70.00% | ~841 |
+| Departure | 70.00% | ~841 |
+| Way of Iron | 68.00% | ~817 |
+| Mystery Tour | 66.00% | ~793 |
+| We brake for nobody | 65.00% | ~781 |
+| Brainstorm | 64.00% | ~769 |
+| Mind the Gap | 63.00% | ~757 |
+| Travel Company | 63.00% | ~757 |
+| All around the World | 60.00% | ~721 |
+| Right through the middle | 55.00% | ~661 |
+| Poor Devil | 52.00% | ~625 |
+| Facility Manager | 51.00% | ~613 |
 | Producer | 48.00% | ~576 |
 | Apprentice | 42.00% | ~504 |
 | Bridge Builder | 39.00% | ~468 |
@@ -30,10 +30,10 @@ Rating: 4.22 (Ranked 816)
 | All mine | 26.00% | ~312 |
 | Mole | 26.00% | ~312 |
 | Financial Shark | 26.00% | ~312 |
-| Socializer | 25.00% | ~300 |
-| General Manager | 23.00% | ~276 |
+| Socializer | 24.00% | ~288 |
 | Country Life | 23.00% | ~276 |
 | Seven at one stroke | 22.00% | ~264 |
+| General Manager | 22.00% | ~264 |
 | Hostile Takeover | 22.00% | ~264 |
 | Trailblazer | 18.00% | ~216 |
 | Breaking Ground | 17.00% | ~204 |
@@ -61,7 +61,7 @@ Rating: 4.22 (Ranked 816)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 169)  
+Progressed: 1,201 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 1,152 | 0 |
 | 2023-06-13 | 1,176 | 0 |
 | 2023-06-14 | 1,196 | 0 |
-| 2023-06-15 | 1,200 | 0 |
+| 2023-06-15 | 1,201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

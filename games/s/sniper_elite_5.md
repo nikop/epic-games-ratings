@@ -6,15 +6,15 @@ Rating: 4.53 (Ranked 500)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~863 |
-| Confirming Suspicions | 25.00% | ~719 |
-| The Kraken Wakes | 20.00% | ~575 |
+| Confirming Suspicions | 25.00% | ~720 |
+| The Kraken Wakes | 20.00% | ~576 |
 | It's Starting to Crack | 18.00% | ~518 |
-| Lord of War | 15.00% | ~431 |
-| Change the Channel | 15.00% | ~431 |
+| Lord of War | 15.00% | ~432 |
+| Change the Channel | 15.00% | ~432 |
 | Resourceful | 14.00% | ~403 |
 | Taking it back | 13.00% | ~374 |
-| Organ Grinder | 11.00% | ~316 |
-| Target America | 11.00% | ~316 |
+| Organ Grinder | 11.00% | ~317 |
+| Target America | 11.00% | ~317 |
 | As Quiet as a Mouse | 10.00% | ~288 |
 | The Kraken Sleeps | 10.00% | ~288 |
 | Liberté | 9.00% | ~259 |
@@ -39,10 +39,10 @@ Rating: 4.53 (Ranked 500)
 | My Little Friend | 3.00% | ~86 |
 | The Long Game | 2.00% | ~58 |
 | It'll Buff Right Out | 2.00% | ~58 |
+| Locomotion Commotion | 2.00% | ~58 |
 | Herr Today, Gone Tomorrow | 2.00% | ~57 |
 | Strategist | 1.00% | ~29 |
 | Tinkerer | 1.00% | ~29 |
-| Locomotion Commotion | 1.00% | ~29 |
 | Road Rage | 1.00% | ~29 |
 | Don't hold your breath | 1.00% | ~29 |
 | Operation Foxley | 1.00% | ~28 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 500)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,876 (Ranked 144)  
+Progressed: 2,878 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,876 | 2 |
+| 2023-06-15 | 2,878 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

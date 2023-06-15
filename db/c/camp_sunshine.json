@@ -2,10 +2,10 @@
   "ID": "e29b385c72634f359aa900b174011e1a",
   "Name": "Camp Sunshine",
   "ProductSlug": "camp-sunshine-fee104",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-19T23:00:00+00:00",
     "PcReleaseDate": "2016-10-31T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.9795393+00:00",
   "LastChanged": "2023-03-31T05:56:58.9795394+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:48.8632218+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:58:52.0338108+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:04:58.0582277+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:58:27.0275272+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:04:07.5427914+00:00"
 }

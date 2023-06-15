@@ -4,11 +4,11 @@
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 144,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 260,
-  "Ranking_EOS_Progress": 454,
+  "Ranking_PopularitySum": 257,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-08-25T09:00:00+00:00",
@@ -865,10 +865,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 734,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-06-15T10:58:24.5079522+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 754,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 734,
+  "NumberOfAwards": 754,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -919,6 +925,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -932,8 +944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-06-13T22:58:12.2655538+00:00",
+  "LastChanged": "2023-06-15T10:58:24.5079521+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.369026+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:58:48.9619186+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:04:29.0695176+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:58:24.5079524+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:03:43.0398548+00:00"
 }

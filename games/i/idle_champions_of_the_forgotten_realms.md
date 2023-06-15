@@ -68,11 +68,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.30% | ~272 |
 | Wisdom Check | 0.30% | ~272 |
 | A Grand Puzzle | 0.30% | ~272 |
+| Tomb of the Nine Gods | 0.30% | ~272 |
 | No Time To Rest | 0.30% | ~272 |
 | The Mists of Ravenloft | 0.30% | ~272 |
 | Invisible Shadows | 0.30% | ~272 |
 | The Dinner Party | 0.30% | ~272 |
 | The Botched Kidnapping | 0.30% | ~272 |
+| Tower on the Lake | 0.30% | ~272 |
 | Trollskull Manor | 0.30% | ~272 |
 | Attack on the Manor | 0.30% | ~272 |
 | The Death Curse | 0.30% | ~272 |
@@ -184,7 +186,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Snakes on our Plane | 0.20% | ~114 |
-| Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
 | The Hunt for Owl-y | 0.20% | ~181 |
 | Werewolves in the Mist | 0.20% | ~181 |
@@ -201,7 +202,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.20% | ~181 |
 | Hold for the Red Wizards | 0.20% | ~181 |
 | The Wyrmheart Mine | 0.20% | ~181 |
-| Tower on the Lake | 0.20% | ~181 |
 | Only the Strong Survive | 0.20% | ~181 |
 | Intelligence Hunt | 0.20% | ~181 |
 | Seeds of Deceit | 0.20% | ~181 |
@@ -233,6 +233,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.20% | ~181 |
 | The Madness Grows | 0.20% | ~181 |
 | Who Lurks in Lurkwood | 0.20% | ~181 |
+| Modrons in the Mud | 0.20% | ~181 |
 | Orcs Are Wild | 0.20% | ~181 |
 | A Tale of Two Fiends | 0.20% | ~181 |
 | Slow and Steady | 0.20% | ~181 |
@@ -257,6 +258,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.20% | ~181 |
 | Vault of Pixies | 0.20% | ~181 |
 | Champions of Waterdeep | 0.20% | ~181 |
+| The Twilight Grove | 0.20% | ~181 |
 | Elturel Has Fallen | 0.20% | ~181 |
 | Everything is Awful | 0.20% | ~181 |
 | Earthquake! | 0.20% | ~114 |
@@ -310,6 +312,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | CONtagious Cold | 0.20% | ~114 |
 | Civilization | 0.20% | ~114 |
 | Trench Coat Run | 0.20% | ~114 |
+| The Taunting Lord | 0.20% | ~114 |
 | Durable Deep | 0.20% | ~181 |
 | The Sibriex | 0.20% | ~114 |
 | The Archduke's Blessing | 0.20% | ~114 |
@@ -329,6 +332,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reya Reborn | 0.20% | ~114 |
 | The Radiant Nightmare | 0.20% | ~114 |
 | Quick Thinking | 0.20% | ~114 |
+| Tough Acting | 0.20% | ~114 |
 | Waiting on Sunrise | 0.20% | ~114 |
 | Frontline Fighters | 0.20% | ~114 |
 | Deekin's Mission | 0.20% | ~114 |
@@ -419,7 +423,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Servants of the Demon Prince | 0.10% | ~57 |
 | The Madness Peaks | 0.10% | ~57 |
 | Bullywugs in the Bog | 0.10% | ~91 |
-| Modrons in the Mud | 0.10% | ~91 |
 | And a Pixie in a Pear Treant | 0.10% | ~57 |
 | An Abyssal Situation | 0.10% | ~91 |
 | Dino Nightmare | 0.10% | ~91 |
@@ -443,7 +446,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Goblin Halls | 0.10% | ~91 |
 | Batiri in the Goblin Halls | 0.10% | ~91 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~57 |
-| The Twilight Grove | 0.10% | ~91 |
 | The Nimble Grove | 0.10% | ~91 |
 | The Misty Grove | 0.10% | ~57 |
 | Twice More Into The Breach | 0.10% | ~91 |
@@ -470,14 +472,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~57 |
 | Only Human | 0.10% | ~57 |
 | Ten in Ten-Towns | 0.10% | ~57 |
-| The Taunting Lord | 0.10% | ~57 |
 | Lone Wolf Party | 0.10% | ~57 |
 | A Neutral Party | 0.10% | ~57 |
 | Relentless Peril | 0.10% | ~57 |
 | Rickety Rubble | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
-| Tough Acting | 0.10% | ~57 |
 | A Chilling Encounter | 0.10% | ~57 |
 | Might Makes Right | 0.10% | ~57 |
 | The Stunning Tower Battle | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,739 (Ranked 64)  
-Completed: 1,936 (2.13%) (Ranked 67)  
+Progressed: 90,742 (Ranked 64)  
+Completed: 1,937 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -556,7 +556,7 @@ Completed: 1,936 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,739 | 1,936 |
+| 2023-06-15 | 90,742 | 1,937 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -316,7 +316,7 @@
   ],
   "EOS_Progressed": 11601,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3796,9 +3796,9 @@
       "ID": "ACH_12",
       "SetID": "9d4cf4c",
       "Name": "The Life We Deserve",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4988
+      "UsersEstimate": 5104
     },
     {
       "ID": "ACH_13",
@@ -3997,8 +3997,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-10T14:59:47.6383734+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:06:41.1766694+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:05:34.1286699+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:47.7124102+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:59:47.0730778+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:41.1767508+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:15.0802221+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:34.1287048+00:00"
 }

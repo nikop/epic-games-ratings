@@ -1,11 +1,11 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.75 (Ranked 133)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 20.00% | ~1,297 |
+| In a Pinch | 20.00% | ~1,298 |
 | Energy Saver | 16.00% | ~1,038 |
 | The Journey Onwards | 13.00% | ~843 |
 | Globe Trotter | 11.00% | ~714 |
@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 118)
 | Soul-Canon | 6.00% | ~389 |
 | Iconoclast | 5.00% | ~324 |
 | Shredder | 5.00% | ~324 |
-| Happy Camper | 4.00% | ~259 |
-| Liberator | 4.00% | ~259 |
-| Live Wire | 4.00% | ~259 |
+| Happy Camper | 4.00% | ~260 |
+| Liberator | 4.00% | ~260 |
+| Live Wire | 4.00% | ~260 |
 | Fashion Faux-Pas | 3.00% | ~195 |
 | Fashion Victim | 3.00% | ~195 |
 | Arrr! | 2.00% | ~130 |
@@ -27,7 +27,7 @@ Rating: 4.76 (Ranked 118)
 | Ça de Wizz! | 1.00% | ~65 |
 | Thing | 1.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,487 (Ranked 122)  
+Progressed: 6,488 (Ranked 122)  
 Completed: 24 (0.37%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 24 (0.37%) (Ranked 126)
 | 2023-06-12 | 6,460 | 24 |
 | 2023-06-13 | 6,472 | 24 |
 | 2023-06-14 | 6,482 | 24 |
-| 2023-06-15 | 6,487 | 24 |
+| 2023-06-15 | 6,488 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -110,3 +110,4 @@ Completed: 24 (0.37%) (Ranked 126)
 | 2023-05-22 | 4.76 | 0 | 0 |
 | 2023-05-23 | 4.75 | 0 | 0 |
 | 2023-06-11 | 4.76 | 0 | 0 |
+| 2023-06-15 | 4.75 | 0 | 0 |

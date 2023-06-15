@@ -7,7 +7,7 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 9.00% | ~66 |
-| Full garage | 8.00% | ~59 |
+| Full garage | 9.00% | ~66 |
 | Individual delivery | 7.00% | ~52 |
 | Juggler | 7.00% | ~52 |
 | To the eyeballs! | 7.00% | ~52 |
@@ -49,13 +49,13 @@ Number of Ratings: 87  (23.09.2022)
 | At the last moment! | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
-| Innovator | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
+| Innovator | 0.90% | ~7 |
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
 | Information Age | 0.80% | ~1 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 189)  
+Progressed: 737 (Ranked 189)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-11 | 734 | 1 |
 | 2023-06-12 | 735 | 1 |
 | 2023-06-14 | 736 | 1 |
+| 2023-06-15 | 737 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 364)  
 Sum: 72 (Ranked 424)  

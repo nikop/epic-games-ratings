@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.70 (Ranked 196)  
+Rating: 4.71 (Ranked 182)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -103,3 +103,4 @@ Completed: 1 (0.32%) (Ranked 134)
 | 2022-12-22 | 4.68 | - | - | - |
 | 2023-02-09 | 4.70 | - | - | - |
 | 2023-03-31 | 4.70 | - | 0 | 0 |
+| 2023-06-15 | 4.71 | - | 0 | 0 |

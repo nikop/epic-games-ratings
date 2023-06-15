@@ -8,10 +8,10 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | My New Home | 60.00% | ~161 |
 | Scrap Gatherer | 57.00% | ~153 |
-| Mushroom Picker | 55.00% | ~148 |
+| Mushroom Picker | 56.00% | ~151 |
 | Scrapper | 48.00% | ~129 |
 | Cook | 41.00% | ~110 |
-| Teleport | 39.00% | ~105 |
+| Teleport | 40.00% | ~108 |
 | Scrap Master | 38.00% | ~102 |
 | Smelter | 36.00% | ~97 |
 | Electro-Scrap Gatherer | 34.00% | ~91 |

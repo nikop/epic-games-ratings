@@ -228,23 +228,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 176,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2023-06-15T10:59:21.2299228+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 176,
-  "NumberOfAwardsMax": 176,
+  "NumberOfAwards": 177,
+  "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 176
+      "Count": 177
     }
   ],
-  "EOS_Progressed": 415745,
+  "EOS_Progressed": 415751,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2454,
+  "EOS_NewPlayers": 2429,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6102,6 +6108,11 @@
       "Time": "2023-06-15T10:03:40.1471132+00:00",
       "NumProgressed": 415745,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-15T11:03:02.5052204+00:00",
+      "NumProgressed": 415751,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -6121,7 +6132,7 @@
       "Name": "100 KILLS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 49889
+      "UsersEstimate": 49890
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -6129,7 +6140,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 29102
+      "UsersEstimate": 29103
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -6137,7 +6148,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 49889
+      "UsersEstimate": 49890
     },
     {
       "ID": "BIGUPS",
@@ -6177,7 +6188,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37417
+      "UsersEstimate": 37418
     },
     {
       "ID": "CHAPTER2",
@@ -6185,7 +6196,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29102
+      "UsersEstimate": 29103
     },
     {
       "ID": "CHAPTER3",
@@ -6201,7 +6212,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20787
+      "UsersEstimate": 20788
     },
     {
       "ID": "CHAPTER5",
@@ -6225,7 +6236,7 @@
       "Name": "CHURCH",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "COMMAND",
@@ -6273,7 +6284,7 @@
       "Name": "FIREFIGHT LEVEL 40",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "FIREFIGHT50 LEVEL (0-50)",
@@ -6321,7 +6332,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "FRESH",
@@ -6377,7 +6388,7 @@
       "Name": "NEW GAME PLUS",
       "Percentage": 0.2,
       "XP": 115,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "OFFTHEHINGES",
@@ -6489,7 +6500,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37417
+      "UsersEstimate": 37418
     },
     {
       "ID": "SOUL",
@@ -6528,16 +6539,16 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 415745,
+      "Progressed": 415751,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2023-06-06T18:59:44.6369603+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:03:40.1471125+00:00",
+  "LastChanged": "2023-06-15T10:59:21.2299227+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:03:02.5052199+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:56.3588144+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:59:54.4762128+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:03:40.1472038+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:21.2299231+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:03:02.5052789+00:00"
 }

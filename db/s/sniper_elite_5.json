@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2876,
+  "EOS_Progressed": 2878,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3603,6 +3603,11 @@
       "Time": "2023-06-15T09:06:07.8459601+00:00",
       "NumProgressed": 2876,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T11:05:35.1976533+00:00",
+      "NumProgressed": 2878,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3678,7 +3683,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3782,7 +3787,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3822,7 +3827,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3862,7 +3867,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3940,9 +3945,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -3950,7 +3955,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4006,7 +4011,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4181,13 +4186,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2827,
+      "Progressed": 2829,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2876,
+      "Progressed": 2878,
       "Completed": 2
     }
   ],
@@ -4195,8 +4200,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:06:42.2275977+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:05:35.1976529+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:00:59.5446319+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:42.2277157+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:00:14.582551+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:35.1977196+00:00"
 }

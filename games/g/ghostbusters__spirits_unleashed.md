@@ -5,19 +5,19 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,946 |
-| Advancement | 73.00% | ~16,931 |
+| Stylish | 86.00% | ~19,947 |
+| Advancement | 73.00% | ~16,932 |
 | Meticulously Efficient | 64.00% | ~14,844 |
 | Discovery | 62.00% | ~14,380 |
-| Swift Rift Removers | 55.00% | ~12,756 |
-| Fully Upgraded | 54.00% | ~12,524 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~12,060 |
-| Cultured | 52.00% | ~12,060 |
+| Swift Rift Removers | 55.00% | ~12,757 |
+| Fully Upgraded | 54.00% | ~12,525 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~12,061 |
+| Cultured | 52.00% | ~12,061 |
 | Vaporous Expansion | 49.00% | ~11,365 |
 | Teamwork | 44.00% | ~10,205 |
 | There you are! | 43.00% | ~9,973 |
-| Clutch Capture | 41.00% | ~9,509 |
-| Back Off | 36.00% | ~8,349 |
+| Clutch Capture | 41.00% | ~9,510 |
+| Back Off | 36.00% | ~8,350 |
 | Daily Dose | 35.00% | ~8,118 |
 | Solo Capture | 32.00% | ~7,422 |
 | Welcome to the Crew | 32.00% | ~7,422 |
@@ -32,8 +32,8 @@ Rating: 4.49 (Ranked 565)
 | Stunner | 26.00% | ~6,030 |
 | Animated | 25.00% | ~5,798 |
 | Skilled | 25.00% | ~5,798 |
-| Collector | 24.00% | ~5,566 |
-| Ectoplasmic Entity | 24.00% | ~5,566 |
+| Collector | 24.00% | ~5,567 |
+| Ectoplasmic Entity | 24.00% | ~5,567 |
 | Rift Destroyer | 20.00% | ~4,639 |
 | Tobin's Prodigy | 19.00% | ~4,407 |
 | Terrifying | 18.00% | ~4,175 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~232 |
 | Mycophile | 1.00% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,193 (Ranked 93)  
+Progressed: 23,194 (Ranked 93)  
 Completed: 40 (0.17%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 40 (0.17%) (Ranked 154)
 | 2023-06-12 | 23,011 | 40 |
 | 2023-06-13 | 23,060 | 40 |
 | 2023-06-14 | 23,170 | 40 |
-| 2023-06-15 | 23,193 | 40 |
+| 2023-06-15 | 23,194 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
 Sum: 2,116 (Ranked 184)  

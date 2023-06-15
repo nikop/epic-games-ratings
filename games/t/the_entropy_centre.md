@@ -9,23 +9,23 @@
 | Time Gates | 64.00% | ~120 |
 | Command Centre | 46.00% | ~86 |
 | This is a Wall | 42.00% | ~79 |
-| Extendable Bridges | 36.00% | ~68 |
-| 48 Attempts | 33.00% | ~62 |
-| Man's Best Friend | 31.00% | ~58 |
+| Extendable Bridges | 37.00% | ~70 |
+| 48 Attempts | 34.00% | ~64 |
+| Man's Best Friend | 32.00% | ~60 |
 | Chain Reaction | 31.00% | ~58 |
 | Handyman | 20.00% | ~38 |
 | No Time To Relax | 16.00% | ~30 |
-| Bad Robots | 14.00% | ~26 |
+| Bad Robots | 15.00% | ~28 |
 | Running Boots | 13.00% | ~24 |
 | Fashionista | 12.00% | ~23 |
 | Archivist | 11.00% | ~21 |
 | Kaboom! | 9.00% | ~17 |
 | Looper | 9.00% | ~17 |
+| All Alone | 8.00% | ~15 |
+| Reunited | 8.00% | ~15 |
 | So Close | 7.00% | ~13 |
 | Transformers, cubes in disguise | 7.00% | ~13 |
-| All Alone | 7.00% | ~13 |
 | Cataclysm | 7.00% | ~13 |
-| Reunited | 7.00% | ~13 |
 | Final Charge | 6.00% | ~11 |
 | Summer Luvin' | 3.00% | ~6 |
 | So, this is the End? | 0.00% | ~0 |

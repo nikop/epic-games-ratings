@@ -2,10 +2,10 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -446,6 +446,6 @@
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
   "LastChanged_Achievements": "2023-06-15T10:06:47.9708641+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.6381677+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:00:36.5464096+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:47.970902+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:55.9551728+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:39.8919246+00:00"
 }

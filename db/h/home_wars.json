@@ -2,10 +2,10 @@
   "ID": "8889cccee71e46ed9858bdd7eeb86737",
   "Name": "Home Wars",
   "ProductSlug": "home-wars-b695e3",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2017-06-13T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.8585747+00:00",
   "LastChanged": "2023-03-31T05:58:37.8585749+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:48.1040456+00:00",
-  "LastUpdate_Ratings": "2023-06-15T09:59:46.5721163+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:05:32.8798788+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:14.5587981+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:04:36.0935471+00:00"
 }

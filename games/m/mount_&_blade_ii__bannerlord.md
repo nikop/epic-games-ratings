@@ -1,23 +1,23 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.75 (Ranked 134)  
+Rating: 4.75 (Ranked 133)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,157 |
-| Landlord | 30.00% | ~15,964 |
+| Lawbringer | 36.00% | ~19,158 |
+| Landlord | 30.00% | ~15,965 |
 | Bannerlord | 21.00% | ~11,175 |
 | Horde breaker | 21.00% | ~11,175 |
 | Lawmaker | 21.00% | ~11,175 |
 | Trained | 20.00% | ~10,643 |
-| The king is pleased | 17.00% | ~9,046 |
-| King Solomon | 16.00% | ~8,514 |
+| The king is pleased | 17.00% | ~9,047 |
+| King Solomon | 16.00% | ~8,515 |
 | I can do it | 15.00% | ~7,982 |
 | Apple of my eye | 14.00% | ~7,450 |
 | God of the Arena | 12.00% | ~6,386 |
-| Against all odds | 10.00% | ~5,321 |
+| Against all odds | 10.00% | ~5,322 |
 | Duelist | 9.00% | ~4,789 |
 | Swordbearer | 9.00% | ~4,789 |
 | Dynasty | 8.00% | ~4,257 |
@@ -37,7 +37,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 2.00% | ~1,064 |
 | Supreme Emperor | 1.00% | ~532 |
 | Undercover | 0.80% | ~426 |
-| Crackshot | 0.70% | ~372 |
+| Crackshot | 0.70% | ~373 |
 | Fat Cat | 0.60% | ~319 |
 | Catch | 0.50% | ~266 |
 | Slice 'n dice | 0.40% | ~213 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,213 (Ranked 79)  
+Progressed: 53,216 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 53,008 | 0 |
 | 2023-06-13 | 53,091 | 0 |
 | 2023-06-14 | 53,184 | 0 |
-| 2023-06-15 | 53,213 | 0 |
+| 2023-06-15 | 53,216 | 0 |
 ## Awards
 Max (Character Customization): 6,664  (Ranked 49)  
 Sum: 13,394 (Ranked 68)  

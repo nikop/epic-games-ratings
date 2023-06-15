@@ -2,10 +2,10 @@
   "ID": "357881b5bfbe4dbb8804e55e826057cc",
   "Name": "Lempo",
   "ProductSlug": "lempo-a6a67d",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.5162747+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:00:00.7839023+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:05:39.3470308+00:00"
+  "LastUpdate_Ratings": "2023-06-15T10:59:26.7173426+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:04:42.0218995+00:00"
 }

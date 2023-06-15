@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6455,9 +6455,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 556364,
+  "EOS_Progressed": 556500,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30335,
+  "EOS_NewPlayers": 30310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12340,6 +12340,11 @@
       "Time": "2023-06-15T10:06:56.7004454+00:00",
       "NumProgressed": 556364,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-15T11:05:47.7470165+00:00",
+      "NumProgressed": 556500,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13207,7 +13212,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_109",
@@ -13221,9 +13226,9 @@
       "ID": "ACH_110",
       "SetID": "16jml5b",
       "Name": "Devoted Gatekeeping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_111",
@@ -13245,9 +13250,9 @@
       "ID": "ACH_113",
       "SetID": "16jml5b",
       "Name": "Wounded Healer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1669
+      "UsersEstimate": 2226
     },
     {
       "ID": "ACH_114",
@@ -13351,7 +13356,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_130",
@@ -13463,15 +13468,15 @@
       "Name": "Old West Oasis",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_144",
       "SetID": "16jml5b",
       "Name": "Selfless Survival",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 556
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_145",
@@ -13557,9 +13562,9 @@
       "ID": "ACH_155",
       "SetID": "16jml5b",
       "Name": "Every Last Drop",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_156",
@@ -13663,7 +13668,7 @@
       "Name": "Close Shave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "ACH_169",
@@ -13799,7 +13804,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_186",
@@ -13807,7 +13812,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_187",
@@ -14110,21 +14115,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 556364,
+      "Progressed": 556500,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 556364,
+      "Progressed": 556500,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-15T03:00:45.1071699+00:00",
-  "LastChanged_Achievements": "2023-06-15T10:06:56.7004448+00:00",
+  "LastChanged_Achievements": "2023-06-15T11:05:47.7470158+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:00:43.552106+00:00",
-  "LastUpdate_Achievements": "2023-06-15T10:06:56.7010758+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:00:01.0894504+00:00",
+  "LastUpdate_Achievements": "2023-06-15T11:05:47.7474946+00:00"
 }

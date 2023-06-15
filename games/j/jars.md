@@ -16,11 +16,11 @@
 | Bloody stream | 35.00% | ~19 |
 | Fangs | 20.00% | ~11 |
 | Mirrors | 13.00% | ~7 |
+| I love you all | 5.00% | ~3 |
 | At least there is something to read | 4.00% | ~2 |
 | Coat | 4.00% | ~2 |
 | Sarcophagus | 4.00% | ~2 |
 | I need a hero | 4.00% | ~2 |
-| I love you all | 4.00% | ~2 |
 | Skills to pay the bills | 4.00% | ~2 |
 | Missing pages | 2.00% | ~1 |
 | Master of puppets | 2.00% | ~1 |
