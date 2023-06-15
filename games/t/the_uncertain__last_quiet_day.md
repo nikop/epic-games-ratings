@@ -37,7 +37,7 @@
 | Lucky dog | 4.00% | ~19 |
 | Silent | 4.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 204)  
+Progressed: 474 (Ranked 206)  
 Completed: 15 (3.16%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |

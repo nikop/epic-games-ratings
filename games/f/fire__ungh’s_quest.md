@@ -11,11 +11,11 @@
 | Blunga 5 | 65.00% | ~132 |
 | Onk Boga II | 61.00% | ~124 |
 | Bzzzzzz | 55.00% | ~112 |
-| Onk Boga III | 47.00% | ~95 |
-| Danka, Lagga, Wonwon | 40.00% | ~81 |
-| Onk Boga IV | 40.00% | ~81 |
-| BumBum | 39.00% | ~79 |
-| Blunga 10 | 38.00% | ~77 |
+| Onk Boga III | 48.00% | ~97 |
+| Danka, Lagga, Wonwon | 41.00% | ~83 |
+| Onk Boga IV | 41.00% | ~83 |
+| BumBum | 40.00% | ~81 |
+| Blunga 10 | 39.00% | ~79 |
 | Onk Boga V | 36.00% | ~73 |
 | Onk Boga VI | 33.00% | ~67 |
 | IQ62 | 33.00% | ~67 |
@@ -32,7 +32,7 @@
 | Blunga 25 | 6.00% | ~12 |
 | Blunga 30 | 6.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 251)  
+Progressed: 203 (Ranked 253)  
 Completed: 11 (5.42%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |

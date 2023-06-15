@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7821,
+  "EOS_Progressed": 7822,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2948,6 +2948,11 @@
       "Time": "2023-06-15T15:06:04.449079+00:00",
       "NumProgressed": 7821,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-15T18:05:49.5567117+00:00",
+      "NumProgressed": 7822,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2983,7 +2988,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3007,7 +3012,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -3023,7 +3028,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3039,7 +3044,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "HeroSlayer",
@@ -3071,7 +3076,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "RookieWelcome",
@@ -3087,7 +3092,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3143,22 +3148,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7821,
+      "Progressed": 7822,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:30.2071414+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:49.5567113+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:51.8564504+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:33.5773227+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:59.9067605+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:49.5567319+00:00"
 }

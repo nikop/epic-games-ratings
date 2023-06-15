@@ -20,7 +20,7 @@
 | Help | 1.00% | ~3 |
 | Interpret | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 238)  
+Progressed: 268 (Ranked 240)  
 Completed: 2 (0.75%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |

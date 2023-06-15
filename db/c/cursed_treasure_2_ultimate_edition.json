@@ -2,9 +2,9 @@
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -459,9 +459,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:03:25.5773102+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:03:39.0304025+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.8163071+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:32.4474706+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:03:36.3026321+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:40.7999344+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:03:39.0304358+00:00"
 }

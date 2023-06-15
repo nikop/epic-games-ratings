@@ -29,9 +29,9 @@ Number of Ratings: 125  (23.09.2022)
 | Dog Days | 13.00% | ~214 |
 | Elusive Prey | 12.00% | ~198 |
 | Out on the Ebb Tide | 12.00% | ~198 |
+| Power Behind the Pulpit | 12.00% | ~198 |
 | Turning the Tables | 12.00% | ~198 |
 | Workers' Rights | 12.00% | ~198 |
-| Power Behind the Pulpit | 11.00% | ~181 |
 | Something Wicked This Way Comes… | 11.00% | ~181 |
 | There is Hope | 11.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~148 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,649 (Ranked 160)  
+Progressed: 1,649 (Ranked 161)  
 Completed: 2 (0.12%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |

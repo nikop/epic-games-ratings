@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Augmented | 95.00% | ~447 |
 | Terminated I | 82.00% | ~386 |
+| Challenge Accepted | 78.00% | ~367 |
 | Nanonic I | 78.00% | ~367 |
-| Challenge Accepted | 77.00% | ~363 |
 | Unlocked and Loaded | 75.00% | ~353 |
-| Terminated II | 65.00% | ~306 |
-| The City | 49.00% | ~231 |
-| Terminated III | 42.00% | ~198 |
+| Terminated II | 66.00% | ~311 |
+| The City | 50.00% | ~236 |
+| Terminated III | 43.00% | ~203 |
 | Challenge Mastered | 41.00% | ~193 |
 | Nanonic II | 35.00% | ~165 |
 | Rookie | 26.00% | ~122 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 205)  
+Progressed: 471 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |

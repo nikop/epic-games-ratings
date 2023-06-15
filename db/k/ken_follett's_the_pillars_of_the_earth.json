@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 106,
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13271,
+  "EOS_Progressed": 13272,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4199,6 +4199,11 @@
       "Time": "2023-06-15T17:05:34.2116585+00:00",
       "NumProgressed": 13271,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T18:05:50.4475974+00:00",
+      "NumProgressed": 13272,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4290,7 +4295,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "tpote_achievement_2",
@@ -4362,7 +4367,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "tpote_achievement_28",
@@ -4386,7 +4391,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "tpote_achievement_30",
@@ -4537,15 +4542,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13271,
+      "Progressed": 13272,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:34.2116578+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:50.4475969+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:45.2743143+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:34.211727+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:55.5109162+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:50.4476437+00:00"
 }

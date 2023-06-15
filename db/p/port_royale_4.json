@@ -5,7 +5,7 @@
   "Ranking_Rating": 904,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 78,
@@ -1370,9 +1370,9 @@
       "ID": "ACH049",
       "SetID": "69nfp41",
       "Name": "Wholesale",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
@@ -1386,8 +1386,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:49.860969+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:06:05.6521056+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:26.8654666+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:49.8610171+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:34.2919864+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:06:05.6521426+00:00"
 }

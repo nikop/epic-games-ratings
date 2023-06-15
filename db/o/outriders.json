@@ -2,12 +2,12 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 455,
+  "Ranking_PopularitySum": 169,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
@@ -1889,18 +1889,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 2373,
       "NumberOfAwardsMax": 1139
+    },
+    {
+      "Time": "2023-06-15T17:59:50.4723784+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2374,
+      "NumberOfAwardsMax": 1140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2373,
-  "NumberOfAwardsMax": 1139,
+  "NumberOfAwards": 2374,
+  "NumberOfAwardsMax": 1140,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1139
+      "Count": 1140
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1974,8 +1980,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2023-06-14T21:00:01.5328398+00:00",
+  "LastChanged": "2023-06-15T17:59:50.4723783+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:21.4995635+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:40.3552342+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:01.3532948+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:50.4723789+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:17.9282527+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3427,
+  "EOS_Progressed": 3428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -513,6 +513,11 @@
       "Time": "2023-06-14T23:06:23.2723811+00:00",
       "NumProgressed": 3427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T18:05:59.4587942+00:00",
+      "NumProgressed": 3428,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -580,7 +585,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -588,7 +593,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -652,7 +657,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -660,7 +665,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -668,7 +673,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -731,7 +736,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3427,
+      "Progressed": 3428,
       "Completed": 0
     }
   ],
@@ -739,8 +744,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:43.3435951+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:59.458794+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.8421349+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:19.7417513+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:43.3436179+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:28.3353864+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:59.4588073+00:00"
 }

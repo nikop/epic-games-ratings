@@ -2,10 +2,10 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 144,
+  "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 126,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -302,15 +302,21 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-15T18:00:23.78076+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2896,
+  "EOS_Progressed": 2899,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3633,6 +3639,11 @@
       "Time": "2023-06-15T17:05:50.3617338+00:00",
       "NumProgressed": 2896,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T18:06:06.1058645+00:00",
+      "NumProgressed": 2899,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3724,7 +3735,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3812,7 +3823,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3850,9 +3861,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 435
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3868,7 +3879,7 @@
       "Name": "Resourceful",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3892,7 +3903,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3914,9 +3925,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -3930,9 +3941,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -3956,7 +3967,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3980,7 +3991,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4012,7 +4023,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4170,9 +4181,9 @@
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
       "SetID": "83mdf7p",
       "Name": "Fight Another Day",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -4211,22 +4222,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2847,
-      "Completed": 2
+      "Progressed": 2850,
+      "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2896,
+      "Progressed": 2899,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:50.3617329+00:00",
+  "LastChanged": "2023-06-15T18:00:23.7807599+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:06:06.1058643+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:00:12.4374913+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:50.3618345+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:00:23.7807604+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:06:06.1059287+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 58  (23.09.2022)
 | Relentless | 48.00% | ~469 |
 | The Path Forward | 46.00% | ~450 |
 | Disruption | 44.00% | ~430 |
-| Phoenix | 43.00% | ~421 |
+| Phoenix | 44.00% | ~430 |
 | Cult Slayer | 40.00% | ~391 |
 | Origin | 40.00% | ~391 |
 | It Was An Accident | 39.00% | ~381 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 9.00% | ~88 |
 | At Least You Tried | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978 (Ranked 181)  
+Progressed: 978 (Ranked 183)  
 Completed: 11 (1.12%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |

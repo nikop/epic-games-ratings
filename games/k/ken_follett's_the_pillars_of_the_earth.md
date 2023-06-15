@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 517)  
+Rating: 4.52 (Ranked 516)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,15 +10,15 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 35.00% | ~4,645 |
 | Friends of sorts | 34.00% | ~4,512 |
 | Yet another secret | 34.00% | ~4,512 |
-| Let there be darkness | 33.00% | ~4,379 |
+| Let there be darkness | 33.00% | ~4,380 |
 | End of Book One | 31.00% | ~4,114 |
 | Garden of Eden | 25.00% | ~3,318 |
 | Wannabe knight | 24.00% | ~3,185 |
 | Full house | 24.00% | ~3,185 |
 | Help an old friend | 22.00% | ~2,920 |
 | Two of us | 20.00% | ~2,654 |
-| Negotiation skills | 19.00% | ~2,521 |
-| Workers' union | 19.00% | ~2,521 |
+| Negotiation skills | 19.00% | ~2,522 |
+| Workers' union | 19.00% | ~2,522 |
 | End of Book Two | 18.00% | ~2,389 |
 | Everything's in order | 17.00% | ~2,256 |
 | Jack was here! | 15.00% | ~1,991 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~398 |
 | Boy of mystery | 2.00% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,271 (Ranked 106)  
+Progressed: 13,272 (Ranked 106)  
 Completed: 100 (0.75%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 100 (0.75%) (Ranked 102)
 | 2023-06-12 | 13,209 | 100 |
 | 2023-06-13 | 13,235 | 100 |
 | 2023-06-14 | 13,257 | 100 |
-| 2023-06-15 | 13,271 | 100 |
+| 2023-06-15 | 13,272 | 100 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 291)  
 Sum: 188 (Ranked 360)  

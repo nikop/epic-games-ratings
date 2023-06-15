@@ -5,9 +5,9 @@
   "Ranking_Rating": 197,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 435,
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-06-15T13:14:27.1985302+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T18:05:16.4674572+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -742,7 +747,7 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -750,7 +755,7 @@
       "ID": "100Fail",
       "SetID": "50chcgj",
       "Name": "Cursed die",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -766,7 +771,7 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -774,9 +779,9 @@
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BookCollection",
@@ -792,15 +797,15 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Chapter3",
@@ -838,7 +843,7 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -870,9 +875,9 @@
       "ID": "CompanionMinstrel",
       "SetID": "50chcgj",
       "Name": "I\u0027d rather... Just... Sing!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompanionNone",
@@ -894,7 +899,7 @@
       "ID": "CompanionPriestress",
       "SetID": "50chcgj",
       "Name": "The Woman in the High Castle",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -974,7 +979,7 @@
       "ID": "DLC3AllLegendaryWeapons",
       "SetID": "50p8kh1",
       "Name": "Elite Adventurers",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -990,7 +995,7 @@
       "ID": "DLC3BigBrain",
       "SetID": "50p8kh1",
       "Name": "Egghead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -998,7 +1003,7 @@
       "ID": "DLC3Chapter11",
       "SetID": "50p8kh1",
       "Name": "Free customer service",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1144,7 +1149,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "DwarfElf15Support",
@@ -1174,7 +1179,7 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
       "UsersEstimate": 73
     },
@@ -1182,7 +1187,7 @@
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -1240,7 +1245,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "FollowBraztok",
@@ -1278,7 +1283,7 @@
       "ID": "KillGolbargh",
       "SetID": "50chcgj",
       "Name": "We come in peace",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -1286,7 +1291,7 @@
       "ID": "MinistrelEpic",
       "SetID": "50chcgj",
       "Name": "Super-Ultra-Lydian",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -1294,7 +1299,7 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -1390,7 +1395,7 @@
       "ID": "Speedrun",
       "SetID": "50chcgj",
       "Name": "Speedrun",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -1422,7 +1427,7 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -1430,7 +1435,7 @@
       "ID": "WizardEpic",
       "SetID": "50chcgj",
       "Name": "Material Girl",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -1447,21 +1452,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:04:59.9980067+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:16.4674568+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:56.520516+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:04:59.9981779+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:04.6130166+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:16.4675375+00:00"
 }

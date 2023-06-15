@@ -5,26 +5,26 @@ Rating: 4.62 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 44.00% | ~3,745 |
-| Greasy Palms | 40.00% | ~3,404 |
-| South American Connection | 24.00% | ~2,043 |
-| Life of the Party | 18.00% | ~1,532 |
-| Big Heat from Little Havana | 13.00% | ~1,106 |
-| Chauffeur | 13.00% | ~1,106 |
-| Tommy Two-Wheels | 13.00% | ~1,106 |
-| Salutations My Little Friend | 10.00% | ~851 |
-| Iron-y | 9.00% | ~766 |
+| Legal Counsel | 44.00% | ~3,748 |
+| Greasy Palms | 40.00% | ~3,407 |
+| South American Connection | 24.00% | ~2,044 |
+| Life of the Party | 18.00% | ~1,533 |
+| Big Heat from Little Havana | 13.00% | ~1,107 |
+| Chauffeur | 13.00% | ~1,107 |
+| Tommy Two-Wheels | 13.00% | ~1,107 |
+| Salutations My Little Friend | 10.00% | ~852 |
+| Iron-y | 9.00% | ~767 |
 | Gun for Hire | 8.00% | ~681 |
 | Mischief Managed | 7.00% | ~596 |
 | Vice City Mogul | 6.00% | ~511 |
 | Bloodstained Hands | 6.00% | ~511 |
 | Catch Me if You Can | 5.00% | ~426 |
 | Grand Theft Auto | 5.00% | ~426 |
-| Not my First Time | 4.00% | ~340 |
-| Point A to Point B | 3.00% | ~255 |
-| High Quality H2O | 3.00% | ~255 |
-| Pie Guy | 3.00% | ~255 |
-| Don't Need Roads | 3.00% | ~255 |
+| Not my First Time | 4.00% | ~341 |
+| Point A to Point B | 3.00% | ~256 |
+| High Quality H2O | 3.00% | ~256 |
+| Pie Guy | 3.00% | ~256 |
+| Don't Need Roads | 3.00% | ~256 |
 | Running Rampant | 2.00% | ~170 |
 | Bull in a China Shop | 2.00% | ~170 |
 | Somebody Call the Wambulance? | 2.00% | ~170 |
@@ -40,7 +40,7 @@ Rating: 4.62 (Ranked 348)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,511 (Ranked 115)  
+Progressed: 8,518 (Ranked 115)  
 Completed: 32 (0.38%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 32 (0.38%) (Ranked 125)
 | 2023-06-12 | 8,321 | 30 |
 | 2023-06-13 | 8,394 | 31 |
 | 2023-06-14 | 8,456 | 31 |
-| 2023-06-15 | 8,511 | 32 |
+| 2023-06-15 | 8,518 | 32 |
 ## Awards
 Max (Great Boss Battles): 53  (Ranked 390)  
 Sum: 53 (Ranked 439)  

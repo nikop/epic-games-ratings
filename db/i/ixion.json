@@ -5,7 +5,7 @@
   "Ranking_Rating": 443,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 126,
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2805,6 +2805,11 @@
       "Time": "2023-06-15T16:05:43.994149+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T18:06:03.3903196+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3016,7 +3021,7 @@
       "Name": "Ready for a New World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_BASE_35",
@@ -3126,9 +3131,9 @@
       "ID": "ACH_BASE_5",
       "SetID": "92iocjf",
       "Name": "Tiqqun Unchained",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_BASE_50",
@@ -3271,13 +3276,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 835,
+      "Progressed": 836,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 0
     }
   ],
@@ -3285,8 +3290,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-13T15:59:05.0032842+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:47.6289312+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:06:03.3903191+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:26.7132012+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:47.6290059+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:34.1299502+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:06:03.3903745+00:00"
 }

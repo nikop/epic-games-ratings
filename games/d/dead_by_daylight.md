@@ -1,40 +1,40 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 517)  
+Rating: 4.52 (Ranked 516)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.60% | ~3,346 |
-| Resurgence | 0.60% | ~3,346 |
-| Preemptive Strike | 0.60% | ~3,346 |
-| Humanitarian | 0.60% | ~3,346 |
-| Close Shave | 0.50% | ~2,788 |
+| Healthy Obsession | 0.60% | ~3,347 |
+| Resurgence | 0.60% | ~3,347 |
+| Preemptive Strike | 0.60% | ~3,347 |
+| Humanitarian | 0.60% | ~3,347 |
+| Close Shave | 0.50% | ~2,789 |
 | Wounded Healer | 0.40% | ~2,231 |
 | Flight to Freedom | 0.40% | ~2,231 |
-| Unforgettable Getaway | 0.30% | ~1,673 |
-| First to the Punch | 0.30% | ~1,673 |
-| Operation: Survival | 0.30% | ~1,673 |
-| Old West Oasis | 0.30% | ~1,673 |
-| Classy Act | 0.30% | ~1,673 |
-| Every Last Drop | 0.30% | ~1,673 |
-| Raccoon City Recruit | 0.30% | ~1,673 |
-| With Scars to Show | 0.30% | ~1,673 |
-| A Fast Death | 0.30% | ~1,673 |
-| Lifting The Fog | 0.30% | ~1,673 |
-| Chorus of Chaos | 0.30% | ~1,673 |
-| Ancestor's Rite | 0.20% | ~1,115 |
-| Devoted Gatekeeping | 0.20% | ~1,115 |
-| Shrine Apparatus | 0.20% | ~1,115 |
-| Cutting Out | 0.20% | ~1,115 |
-| Outrun Evil | 0.20% | ~1,115 |
-| Broken Bodies | 0.20% | ~1,115 |
-| Grim Pilgrimage | 0.20% | ~1,115 |
-| Selfless Survival | 0.20% | ~1,115 |
-| End of Days | 0.20% | ~1,115 |
-| Insult and Injury | 0.20% | ~1,115 |
-| Outrun the Overlap | 0.20% | ~1,115 |
+| Unforgettable Getaway | 0.30% | ~1,674 |
+| First to the Punch | 0.30% | ~1,674 |
+| Operation: Survival | 0.30% | ~1,674 |
+| Old West Oasis | 0.30% | ~1,674 |
+| Classy Act | 0.30% | ~1,674 |
+| Every Last Drop | 0.30% | ~1,674 |
+| Raccoon City Recruit | 0.30% | ~1,674 |
+| With Scars to Show | 0.30% | ~1,674 |
+| A Fast Death | 0.30% | ~1,674 |
+| Lifting The Fog | 0.30% | ~1,674 |
+| Chorus of Chaos | 0.30% | ~1,674 |
+| Ancestor's Rite | 0.20% | ~1,116 |
+| Devoted Gatekeeping | 0.20% | ~1,116 |
+| Shrine Apparatus | 0.20% | ~1,116 |
+| Cutting Out | 0.20% | ~1,116 |
+| Outrun Evil | 0.20% | ~1,116 |
+| Broken Bodies | 0.20% | ~1,116 |
+| Grim Pilgrimage | 0.20% | ~1,116 |
+| Selfless Survival | 0.20% | ~1,116 |
+| End of Days | 0.20% | ~1,116 |
+| Insult and Injury | 0.20% | ~1,116 |
+| Outrun the Overlap | 0.20% | ~1,116 |
 | The Grand Sacrifice | 0.10% | ~558 |
 | A bite for the Entity | 0.10% | ~558 |
 | A feast for the Entity | 0.10% | ~558 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~558 |
 | Adept Gabriel | 0.10% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 557,665 (Ranked 27)  
+Progressed: 557,871 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 557,665 | 42 |
+| 2023-06-15 | 557,871 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,575 (Ranked 12)  

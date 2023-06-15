@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 98.00% | ~90 |
-| Where's that freaking Dwarf? | 92.00% | ~85 |
-| Sock! SOCK! | 79.00% | ~73 |
+| Alt+F4 | 98.00% | ~91 |
+| Where's that freaking Dwarf? | 92.00% | ~86 |
+| Sock! SOCK! | 78.00% | ~73 |
 | Fireproof Wizardess | 65.00% | ~60 |
-| Livin' in a dwarven paradise | 64.00% | ~59 |
-| Déjà vu | 58.00% | ~53 |
-| Way of the Wimp | 53.00% | ~49 |
+| Livin' in a dwarven paradise | 63.00% | ~59 |
+| Déjà vu | 58.00% | ~54 |
+| Way of the Wimp | 54.00% | ~50 |
 | GG EZ | 53.00% | ~49 |
 | DM intervention | 53.00% | ~49 |
-| Speedrun | 48.00% | ~44 |
-| Oh, when I'll be level 10... | 48.00% | ~44 |
+| Speedrun | 47.00% | ~44 |
+| Oh, when I'll be level 10... | 47.00% | ~44 |
 | I am the night | 42.00% | ~39 |
 | Team Building Exercise | 41.00% | ~38 |
 | Thieves' Guild Accreditation | 40.00% | ~37 |
+| A beer, two curses, three companions | 39.00% | ~36 |
 | The Ranger of Chaos | 39.00% | ~36 |
-| A beer, two curses, three companions | 38.00% | ~35 |
 | The plot thickens... At the tavern | 38.00% | ~35 |
 | Dwarf Fortress | 37.00% | ~34 |
-| Look but don't touch | 36.00% | ~33 |
-| Shiny and Crôm | 34.00% | ~31 |
-| Material Girl | 33.00% | ~30 |
-| Gargantua | 32.00% | ~29 |
+| Look but don't touch | 35.00% | ~33 |
+| Shiny and Crôm | 33.00% | ~31 |
+| Material Girl | 32.00% | ~30 |
+| Gargantua | 31.00% | ~29 |
 | The demons' feast | 30.00% | ~28 |
 | Torture and Sensibility | 30.00% | ~28 |
 | The Statuette of Gladeulfeurah | 29.00% | ~27 |
@@ -36,9 +36,9 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 26.00% | ~24 |
 | The beards of change | 23.00% | ~21 |
 | The Blood Countess | 22.00% | ~20 |
-| Cursed die | 21.00% | ~19 |
-| Urik's Depths | 20.00% | ~18 |
-| The Woman in the High Castle | 20.00% | ~18 |
+| Cursed die | 20.00% | ~19 |
+| Urik's Depths | 19.00% | ~18 |
+| The Woman in the High Castle | 19.00% | ~18 |
 | In Navalu's footsteps | 18.00% | ~17 |
 | Res Judicata | 17.00% | ~16 |
 | Law and Order | 16.00% | ~15 |
@@ -53,14 +53,14 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 10.00% | ~9 |
 | Lust and Debauchery | 9.00% | ~8 |
 | Inception | 8.00% | ~7 |
-| Elite Adventurers | 7.00% | ~6 |
-| Egghead | 7.00% | ~6 |
-| Free customer service | 7.00% | ~6 |
-| We come in peace | 7.00% | ~6 |
-| Super-Ultra-Lydian | 7.00% | ~6 |
+| Elite Adventurers | 6.00% | ~6 |
+| Egghead | 6.00% | ~6 |
+| Free customer service | 6.00% | ~6 |
+| We come in peace | 6.00% | ~6 |
+| Super-Ultra-Lydian | 6.00% | ~6 |
 | Holistic Adventuring Party | 5.00% | ~5 |
+| I'd rather... Just... Sing! | 5.00% | ~5 |
 | Insult to injury | 5.00% | ~5 |
-| I'd rather... Just... Sing! | 4.00% | ~4 |
 | A broken clock… | 4.00% | ~4 |
 | Hit snooze | 4.00% | ~4 |
 | Kudos from your DM | 4.00% | ~4 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 282)  
+Progressed: 93 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 77 | 0 |
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
-| 2023-06-15 | 92 | 0 |
+| 2023-06-15 | 93 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,453 |
-| The Outer Way | 14.00% | ~2,147 |
-| Desperate Times | 13.00% | ~1,993 |
-| Paper Jams | 12.00% | ~1,840 |
-| Chew 'Em Up | 10.00% | ~1,533 |
-| Reforged | 10.00% | ~1,533 |
-| Workplace Hazard | 9.00% | ~1,380 |
-| If the SHU Fits... | 9.00% | ~1,380 |
+| Flesh Wound | 16.00% | ~2,454 |
+| The Outer Way | 14.00% | ~2,148 |
+| Desperate Times | 14.00% | ~2,148 |
+| Paper Jams | 12.00% | ~1,841 |
+| Chew 'Em Up | 10.00% | ~1,534 |
+| Reforged | 10.00% | ~1,534 |
+| Workplace Hazard | 9.00% | ~1,381 |
+| If the SHU Fits... | 9.00% | ~1,381 |
 | Get a Grip | 8.00% | ~1,227 |
-| Giving Back | 7.00% | ~1,073 |
-| Without A Paddle | 7.00% | ~1,073 |
+| Giving Back | 7.00% | ~1,074 |
+| Without A Paddle | 7.00% | ~1,074 |
 | Terminated | 6.00% | ~920 |
 | In the Pipe, Five by Five | 6.00% | ~920 |
 | Crash Site | 6.00% | ~920 |
@@ -23,9 +23,9 @@ Rating: 4.18 (Ranked 847)
 | Two Heads Are Better Than One | 5.00% | ~767 |
 | Float Like A Butterfly | 5.00% | ~767 |
 | Power Up | 5.00% | ~767 |
-| What Lies Beneath | 4.00% | ~613 |
-| Full Circle | 4.00% | ~613 |
-| Instigator | 4.00% | ~130 |
+| What Lies Beneath | 4.00% | ~614 |
+| Full Circle | 4.00% | ~614 |
+| Instigator | 4.00% | ~131 |
 | The Commonality | 3.00% | ~460 |
 | Big Game Hunter | 3.00% | ~98 |
 | Bear Trap | 3.00% | ~98 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,334 (Ranked 102)  
+Progressed: 15,340 (Ranked 102)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,334 | 55 |
+| 2023-06-15 | 15,340 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 312 (Ranked 329)  

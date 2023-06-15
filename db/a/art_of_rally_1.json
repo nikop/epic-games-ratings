@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10133,
+  "EOS_Progressed": 10134,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-06-15T12:07:06.983113+00:00",
       "NumProgressed": 10133,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-15T18:05:52.2043838+00:00",
+      "NumProgressed": 10134,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1147,7 +1152,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7802
+      "UsersEstimate": 7803
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1185,9 +1190,9 @@
       "ID": "ACH_FUJIN_ODO",
       "SetID": "9002fpg",
       "Name": "you\u0027re here for a good time, not a long time",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_FULL_DIRTY",
@@ -1195,7 +1200,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1211,7 +1216,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9728
+      "UsersEstimate": 9729
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1227,7 +1232,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5978
+      "UsersEstimate": 5979
     },
     {
       "ID": "ACH_NIGHT",
@@ -1275,7 +1280,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "ACH_SNOW",
@@ -1330,15 +1335,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10133,
+      "Progressed": 10134,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:35.7816426+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:52.2043836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:57:31.6718182+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:35.781679+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:57:38.351702+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:52.2044182+00:00"
 }

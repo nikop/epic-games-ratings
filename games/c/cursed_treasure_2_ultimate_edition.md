@@ -22,8 +22,8 @@
 | Top of the World | 69.00% | ~110 |
 | Takeover | 69.00% | ~110 |
 | Woodcutter | 69.00% | ~110 |
+| Sharpshooter | 69.00% | ~110 |
 | Architect of Darkness | 69.00% | ~110 |
-| Sharpshooter | 68.00% | ~108 |
 | The Apotheosis of War | 67.00% | ~107 |
 | Stasis Alcatraz | 66.00% | ~105 |
 | Combo Breaker | 62.00% | ~99 |
@@ -58,7 +58,7 @@
 | Loveless | 16.00% | ~25 |
 | Hostile Waters | 15.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 264)  
+Progressed: 159 (Ranked 266)  
 Completed: 20 (12.58%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |

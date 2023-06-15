@@ -638,9 +638,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15334,
+  "EOS_Progressed": 15340,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3993,6 +3993,11 @@
       "Time": "2023-06-15T17:04:09.5368465+00:00",
       "NumProgressed": 15334,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-15T18:04:27.2865728+00:00",
+      "NumProgressed": 15340,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -4020,7 +4025,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4036,7 +4041,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4132,7 +4137,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "KILL_ROBOT",
@@ -4148,7 +4153,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4172,7 +4177,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4180,7 +4185,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4196,7 +4201,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4204,7 +4209,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "STORY_HABITAT",
@@ -4212,7 +4217,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "STORY_HANGAR",
@@ -4228,15 +4233,15 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1993
+      "UsersEstimate": 2148
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4252,7 +4257,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4276,7 +4281,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -4323,13 +4328,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15334,
+      "Progressed": 15340,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3260,
+      "Progressed": 3266,
       "Completed": 29
     }
   ],
@@ -4337,8 +4342,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-15T15:57:58.2494775+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:04:09.5368458+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:04:27.2865724+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:57:57.8166272+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:04:09.536903+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:04.0467252+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:04:27.2866181+00:00"
 }

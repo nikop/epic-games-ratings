@@ -2,7 +2,7 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 78,
@@ -333,9 +333,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "15_Coins",
@@ -397,9 +397,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -437,17 +437,17 @@
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "Level_completed_005_003",
@@ -517,9 +517,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:42.5441422+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:58.6416011+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:39.218228+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:42.5441656+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:48.9626873+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:58.6416244+00:00"
 }

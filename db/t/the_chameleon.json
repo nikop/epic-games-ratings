@@ -2,9 +2,9 @@
   "ID": "77f785c951384cb1bd217e02fc86f113",
   "Name": "The Chameleon",
   "ProductSlug": "the-chameleon",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-13T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.5100101+00:00",
   "LastChanged": "2023-03-31T05:58:26.5100102+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:51.0649628+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:00:00.8089652+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:15.52364+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:00:12.4966354+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:31.955078+00:00"
 }

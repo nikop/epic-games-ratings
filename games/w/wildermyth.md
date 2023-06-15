@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 34.00% | ~427 |
-| Me and My Familiar | 32.00% | ~402 |
-| This Too Shall Pass | 27.00% | ~339 |
+| The Cost of Heroism | 34.00% | ~428 |
+| Me and My Familiar | 32.00% | ~403 |
+| This Too Shall Pass | 27.00% | ~340 |
 | Passing Shadow | 26.00% | ~327 |
 | Cutthroat Competitors | 26.00% | ~327 |
 | How Romantic! | 24.00% | ~302 |
-| Daybreak | 23.00% | ~289 |
+| Daybreak | 24.00% | ~302 |
 | Gotta Ca... Must Collect All of Them | 22.00% | ~277 |
 | Completing the Look | 12.00% | ~151 |
 | Who's Counting? | 12.00% | ~151 |
@@ -35,12 +35,12 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 4.00% | ~50 |
 | Legends Never Die | 4.00% | ~50 |
 | A Hunger, Sated | 4.00% | ~50 |
-| Grillmaster | 4.00% | ~50 |
 | No Time for Clawmonsters | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~38 |
 | Storied Past | 3.00% | ~38 |
 | No More Nightmares | 3.00% | ~38 |
 | Bears are Scary | 3.00% | ~38 |
+| Grillmaster | 3.00% | ~38 |
 | Into Mulch | 3.00% | ~38 |
 | Astrology | 3.00% | ~38 |
 | The Power of Friendship | 2.00% | ~25 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.60% | ~8 |
 | Peacemaker | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,257 (Ranked 168)  
+Progressed: 1,258 (Ranked 170)  
 Completed: 4 (0.32%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 4 (0.32%) (Ranked 134)
 | 2023-06-10 | 1,252 | 4 |
 | 2023-06-12 | 1,254 | 4 |
 | 2023-06-14 | 1,257 | 4 |
+| 2023-06-15 | 1,258 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 460)  
 Sum: 27 (Ranked 471)  

@@ -2,10 +2,10 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 126,
@@ -1019,8 +1019,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:35.3322867+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:05:51.526368+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.7249078+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:57:25.419106+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:35.3323177+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:57:31.4107518+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:05:51.5263952+00:00"
 }

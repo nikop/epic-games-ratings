@@ -5,9 +5,9 @@
   "Ranking_Rating": 763,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 172,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1772,6 +1772,11 @@
       "Time": "2023-06-15T17:00:18.3711441+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T18:00:32.3793574+00:00",
+      "NumProgressed": 1137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1799,7 +1804,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1863,7 +1868,7 @@
       "Name": "Croaked",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "CRUELTY",
@@ -1895,7 +1900,7 @@
       "Name": "Limp Richard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1927,7 +1932,7 @@
       "Name": "Editor Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ENDGAME",
@@ -1935,7 +1940,7 @@
       "Name": "Endgame",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "EXORCIST",
@@ -1943,7 +1948,7 @@
       "Name": "Exorcist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "EXPERIENCED",
@@ -1967,7 +1972,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1999,7 +2004,7 @@
       "Name": "Giant Killer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "GOAL",
@@ -2015,7 +2020,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2071,7 +2076,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2087,7 +2092,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "RECYCLER",
@@ -2095,7 +2100,7 @@
       "Name": "Recycler",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "RUTHLESS",
@@ -2111,7 +2116,7 @@
       "Name": "Savior",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "SENSEI",
@@ -2175,7 +2180,7 @@
       "Name": "The Watchers",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "WIPE_OUT",
@@ -2190,7 +2195,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1137,
       "Completed": 0
     }
   ],
@@ -2198,8 +2203,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:00:18.3711433+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:00:32.379357+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:18.3979012+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:00:18.371237+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:25.5117593+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:00:32.3794147+00:00"
 }

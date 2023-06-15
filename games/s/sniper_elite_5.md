@@ -1,18 +1,18 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.53 (Ranked 502)  
+Rating: 4.52 (Ranked 516)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~869 |
-| Confirming Suspicions | 25.00% | ~724 |
-| The Kraken Wakes | 20.00% | ~579 |
-| It's Starting to Crack | 18.00% | ~521 |
-| Lord of War | 16.00% | ~463 |
-| Change the Channel | 15.00% | ~434 |
-| Resourceful | 14.00% | ~405 |
-| Taking it back | 13.00% | ~376 |
+| Meeting Resistance | 30.00% | ~870 |
+| Confirming Suspicions | 25.00% | ~725 |
+| The Kraken Wakes | 20.00% | ~580 |
+| It's Starting to Crack | 18.00% | ~522 |
+| Lord of War | 15.00% | ~435 |
+| Change the Channel | 15.00% | ~435 |
+| Resourceful | 14.00% | ~406 |
+| Taking it back | 13.00% | ~377 |
 | Target America | 12.00% | ~348 |
 | Organ Grinder | 11.00% | ~319 |
 | As Quiet as a Mouse | 11.00% | ~319 |
@@ -50,16 +50,16 @@ Rating: 4.53 (Ranked 502)
 | Burn after reading | 0.90% | ~26 |
 | Last Resort | 0.90% | ~26 |
 | Siegebreaker | 0.90% | ~26 |
-| From Paris with Love | 0.70% | ~20 |
-| Souvenir hunter | 0.70% | ~20 |
+| From Paris with Love | 0.80% | ~23 |
+| Souvenir hunter | 0.80% | ~23 |
 | Shoot for the Moon | 0.70% | ~20 |
 | Eagle Eyed | 0.60% | ~17 |
 | Can't Outrun A Bullet | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~14 |
+| Fight Another Day | 0.50% | ~14 |
 | Up close and personal | 0.40% | ~12 |
 | Sight Beyond Sights | 0.40% | ~12 |
 | Reich To The Point | 0.40% | ~11 |
-| Fight Another Day | 0.40% | ~11 |
 | Führerious Repetition | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 502)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,896 (Ranked 144)  
+Progressed: 2,899 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,896 | 2 |
+| 2023-06-15 | 2,899 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -181,3 +181,4 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-09 | 4.52 | 0 | 0 |
 | 2023-06-12 | 4.52 | 0 | 0 |
 | 2023-06-13 | 4.53 | 0 | 0 |
+| 2023-06-15 | 4.52 | 0 | 0 |

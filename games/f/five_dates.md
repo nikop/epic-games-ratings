@@ -20,7 +20,7 @@
 | Interrogation | 4.00% | ~17 |
 | Crash and Burn | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 212)  
+Progressed: 437 (Ranked 214)  
 Completed: 5 (1.14%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

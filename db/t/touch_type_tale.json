@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 140,
+  "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 78,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2997,
+  "EOS_Progressed": 2998,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2164,6 +2164,11 @@
       "Time": "2023-06-15T16:05:49.3289913+00:00",
       "NumProgressed": 2997,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-15T18:06:08.2568902+00:00",
+      "NumProgressed": 2998,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2223,7 +2228,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "campaign10",
@@ -2327,7 +2332,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "campaign4",
@@ -2343,7 +2348,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "campaign6",
@@ -2391,7 +2396,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "scenario3",
@@ -2438,7 +2443,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2997,
+      "Progressed": 2998,
       "Completed": 10
     }
   ],
@@ -2446,8 +2451,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:52.6905246+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:06:08.2568898+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:55.5263136+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:52.69057+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:00:06.6927726+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:06:08.2569188+00:00"
 }

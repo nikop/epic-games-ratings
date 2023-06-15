@@ -2,9 +2,9 @@
   "ID": "1a8564b7eed7478383a4afcf5d33b486",
   "Name": "Maritime Calling",
   "ProductSlug": "maritime-calling-636728",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-29T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:44.9381401+00:00",
   "LastChanged": "2023-03-31T05:57:44.9381402+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:43.0170446+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:58:25.5511903+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:02:03.7854529+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:58:32.8740841+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:00:57.229121+00:00"
 }

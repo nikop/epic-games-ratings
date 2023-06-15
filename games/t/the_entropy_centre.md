@@ -9,7 +9,7 @@
 | Time Gates | 64.00% | ~122 |
 | Command Centre | 46.00% | ~87 |
 | This is a Wall | 42.00% | ~80 |
-| Extendable Bridges | 36.00% | ~68 |
+| Extendable Bridges | 37.00% | ~70 |
 | 48 Attempts | 34.00% | ~65 |
 | Man's Best Friend | 32.00% | ~61 |
 | Chain Reaction | 31.00% | ~59 |
@@ -25,14 +25,14 @@
 | Reunited | 8.00% | ~15 |
 | So Close | 7.00% | ~13 |
 | Transformers, cubes in disguise | 7.00% | ~13 |
+| Final Charge | 7.00% | ~13 |
 | Cataclysm | 7.00% | ~13 |
-| Final Charge | 6.00% | ~11 |
 | Summer Luvin' | 3.00% | ~6 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 255)  
+Progressed: 190 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |

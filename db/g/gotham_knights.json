@@ -1574,7 +1574,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65180,
+  "EOS_Progressed": 65184,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 1,
@@ -6459,6 +6459,11 @@
       "Time": "2023-06-15T17:05:57.8343267+00:00",
       "NumProgressed": 65180,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-15T18:06:13.1918255+00:00",
+      "NumProgressed": 65184,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6694,7 +6699,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "FREEZE_1_5",
@@ -6782,7 +6787,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "HARLEY_3",
@@ -6846,7 +6851,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -6862,7 +6867,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "MYSTERY_02",
@@ -6957,13 +6962,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65180,
+      "Progressed": 65184,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35460,
+      "Progressed": 35464,
       "Completed": 2646
     }
   ],
@@ -6971,8 +6976,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-15T06:59:26.9624091+00:00",
-  "LastChanged_Achievements": "2023-06-15T17:05:57.8343262+00:00",
+  "LastChanged_Achievements": "2023-06-15T18:06:13.191825+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-15T16:59:33.3826391+00:00",
-  "LastUpdate_Achievements": "2023-06-15T17:05:57.8345245+00:00"
+  "LastUpdate_Ratings": "2023-06-15T17:59:42.7290561+00:00",
+  "LastUpdate_Achievements": "2023-06-15T18:06:13.1918911+00:00"
 }

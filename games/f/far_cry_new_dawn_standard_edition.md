@@ -1,7 +1,7 @@
 # Far Cry New Dawn Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-new-dawn)  
 [View Rawdata](../../db/f/far_cry_new_dawn_standard_edition.json)  
-Rating: 4.42 (Ranked 658)  
+Rating: 4.43 (Ranked 650)  
 Number of Ratings: 338  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 192  (Ranked 267)  
@@ -114,3 +114,4 @@ Diff (max vs sum): -92
 | 2023-06-08 | 4.43 | - | 191 | 191 |
 | 2023-06-09 | 4.42 | - | 191 | 191 |
 | 2023-06-10 | 4.42 | - | 192 | 192 |
+| 2023-06-15 | 4.43 | - | 192 | 192 |
