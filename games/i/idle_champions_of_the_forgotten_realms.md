@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.80% | ~456 |
 | Were-verpowered | 0.70% | ~635 |
 | Seeking Allies | 0.70% | ~635 |
+| Friendly Imps | 0.70% | ~635 |
 | A Persistent Buzzing | 0.60% | ~545 |
 | Mad Cow Disease | 0.60% | ~545 |
-| Friendly Imps | 0.60% | ~545 |
 | Pure Energy | 0.60% | ~545 |
 | Coasting to the Finish | 0.60% | ~342 |
 | Checkmate | 0.50% | ~285 |
@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.30% | ~272 |
 | The Death Curse | 0.30% | ~272 |
 | Nimble Escape | 0.30% | ~272 |
+| Fugitives | 0.30% | ~272 |
 | Premature Betrayal | 0.30% | ~272 |
 | A Tale of Two Cities | 0.30% | ~272 |
 | The Dead Three | 0.30% | ~272 |
@@ -210,6 +211,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | House of Darkness | 0.20% | ~182 |
 | The Trepidatious Trio | 0.20% | ~182 |
 | Our Time To Shine | 0.20% | ~182 |
+| Review by the Blackstaff | 0.20% | ~114 |
 | Treasure Hunters | 0.20% | ~182 |
 | The Guardian of Orolunga | 0.20% | ~182 |
 | The Lost Love | 0.20% | ~182 |
@@ -219,7 +221,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.20% | ~182 |
 | Nimblest Escape | 0.20% | ~182 |
 | Stumbling Escape | 0.20% | ~182 |
-| Fugitives | 0.20% | ~182 |
 | From The Shadows | 0.20% | ~182 |
 | Spined Nuisances | 0.20% | ~182 |
 | Excavating History | 0.20% | ~182 |
@@ -233,6 +234,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.20% | ~182 |
 | The Madness Grows | 0.20% | ~182 |
 | Who Lurks in Lurkwood | 0.20% | ~182 |
+| Bullywugs in the Bog | 0.20% | ~182 |
 | Modrons in the Mud | 0.20% | ~182 |
 | Orcs Are Wild | 0.20% | ~182 |
 | A Tale of Two Fiends | 0.20% | ~182 |
@@ -300,6 +302,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~114 |
 | Raggadragga's Crew | 0.20% | ~114 |
 | Bel's Forge | 0.20% | ~114 |
+| Extreme Heat | 0.20% | ~114 |
 | The Giant's Bane Tavern | 0.20% | ~114 |
 | Rime Bandits | 0.20% | ~114 |
 | The Everlasting Rime | 0.20% | ~114 |
@@ -318,6 +321,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.20% | ~114 |
 | The Archduke's Blessing | 0.20% | ~114 |
 | Wrecked Flying Fortress | 0.20% | ~114 |
+| Relentless Peril | 0.20% | ~114 |
 | Expert Opinion | 0.20% | ~182 |
 | Dwarven Rumors | 0.20% | ~114 |
 | Mimic Perception | 0.20% | ~114 |
@@ -403,7 +407,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Corruption | 0.10% | ~91 |
 | The Strahd Squad | 0.10% | ~57 |
 | Home Not So Alone | 0.10% | ~57 |
-| Review by the Blackstaff | 0.10% | ~57 |
 | Think Your Way Out Of It | 0.10% | ~91 |
 | Air's Getting Pretty Thin | 0.10% | ~91 |
 | Red Wizard 'Escort' | 0.10% | ~57 |
@@ -423,7 +426,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tanking Expectations | 0.10% | ~57 |
 | Servants of the Demon Prince | 0.10% | ~57 |
 | The Madness Peaks | 0.10% | ~57 |
-| Bullywugs in the Bog | 0.10% | ~91 |
 | And a Pixie in a Pear Treant | 0.10% | ~57 |
 | An Abyssal Situation | 0.10% | ~91 |
 | Dino Nightmare | 0.10% | ~91 |
@@ -460,7 +462,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Show of Strength | 0.10% | ~57 |
 | Fight Dragons with Dragons | 0.10% | ~57 |
 | Just The Worst | 0.10% | ~57 |
-| Extreme Heat | 0.10% | ~57 |
 | Fire and Brimstone | 0.10% | ~57 |
 | Into the Unknown | 0.10% | ~57 |
 | A Tenday at Golgamann's | 0.10% | ~57 |
@@ -474,7 +475,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~57 |
 | Lone Wolf Party | 0.10% | ~57 |
 | A Neutral Party | 0.10% | ~57 |
-| Relentless Peril | 0.10% | ~57 |
 | Rickety Rubble | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,751 (Ranked 64)  
+Progressed: 90,758 (Ranked 64)  
 Completed: 1,937 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 1,937 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,751 | 1,937 |
+| 2023-06-15 | 90,758 | 1,937 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

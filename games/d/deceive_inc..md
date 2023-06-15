@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,355 |
-| Mainframe Hacker | 47.00% | ~3,198 |
-| The Spy who eliminated me | 47.00% | ~3,198 |
-| Tomorrow Never Dyes | 46.00% | ~3,130 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,356 |
+| Mainframe Hacker | 47.00% | ~3,199 |
+| The Spy who eliminated me | 47.00% | ~3,199 |
+| Tomorrow Never Dyes | 46.00% | ~3,131 |
 | Never Say Loser Again | 40.00% | ~2,722 |
 | For your Eyes only | 39.00% | ~2,654 |
 | From the Vault with Love | 37.00% | ~2,518 |
 | Tailor-Made | 37.00% | ~2,518 |
 | Fully Decked Out | 35.00% | ~2,382 |
 | You Only Live Twice | 33.00% | ~2,246 |
-| A view to Win | 28.00% | ~1,905 |
-| Private Collection | 25.00% | ~1,701 |
-| Smells Like Trouble | 25.00% | ~1,701 |
+| A view to Win | 28.00% | ~1,906 |
+| Private Collection | 25.00% | ~1,702 |
+| Smells Like Trouble | 25.00% | ~1,702 |
 | Assistant Accountant | 24.00% | ~1,633 |
 | The Living Portrait | 24.00% | ~1,633 |
 | My Motto, My Creed | 24.00% | ~1,633 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 316)
 | Keycards Royale | 23.00% | ~1,565 |
 | Dr. No Kill | 23.00% | ~1,565 |
 | In It to Win It | 22.00% | ~1,497 |
-| Security Supervisor | 10.00% | ~680 |
-| Social of Solace | 9.00% | ~612 |
+| Security Supervisor | 10.00% | ~681 |
+| Social of Solace | 9.00% | ~613 |
 | License to Thrill | 8.00% | ~544 |
 | Safe Withdrawal | 6.00% | ~408 |
 | Live and let lie | 5.00% | ~340 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,805 (Ranked 119)  
+Progressed: 6,806 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 6,767 | 0 |
 | 2023-06-13 | 6,791 | 0 |
 | 2023-06-14 | 6,800 | 0 |
-| 2023-06-15 | 6,805 | 0 |
+| 2023-06-15 | 6,806 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

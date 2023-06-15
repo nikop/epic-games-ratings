@@ -8,16 +8,16 @@
 | Chapter 2 Complete | 47.00% | ~33 |
 | Vicious Spider | 46.00% | ~32 |
 | Chapter 3 Complete | 37.00% | ~26 |
+| Chapter 4 Complete | 31.00% | ~22 |
 | The Guardian | 30.00% | ~21 |
-| Chapter 4 Complete | 30.00% | ~21 |
 | Heavy Duty | 23.00% | ~16 |
 | Chapter 5 Complete | 23.00% | ~16 |
 | The Truth | 23.00% | ~16 |
 | Reconciliation | 23.00% | ~16 |
 | Chapter 6 Complete | 21.00% | ~15 |
 | Plant Enchanter | 21.00% | ~15 |
+| Always Watchful | 20.00% | ~14 |
 | Chapter 7 Complete | 20.00% | ~14 |
-| Always Watchful | 19.00% | ~13 |
 | Bounty Hunter | 17.00% | ~12 |
 | The Terror | 17.00% | ~12 |
 | Battle Ready | 16.00% | ~11 |

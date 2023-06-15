@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 1036,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1166,9 +1166,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "Commandos",
@@ -1382,8 +1382,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:27.0238446+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:20.4388655+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:51.8383078+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:27.0238714+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:17.9100084+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:20.4388912+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1762,6 +1762,11 @@
       "Time": "2023-06-15T09:03:34.4991856+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:03:45.6402463+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1779,9 +1784,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 284
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1789,7 +1794,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1853,7 +1858,7 @@
       "Name": "Croaked",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "CRUELTY",
@@ -1877,7 +1882,7 @@
       "Name": "Ganglord",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "DEAD_DICK",
@@ -1893,7 +1898,7 @@
       "Name": "Jarhead",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1933,7 +1938,7 @@
       "Name": "Exorcist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "EXPERIENCED",
@@ -1957,7 +1962,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1989,7 +1994,7 @@
       "Name": "Giant Killer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "GOAL",
@@ -2005,7 +2010,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2075,9 +2080,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 850
     },
     {
       "ID": "RECYCLER",
@@ -2141,7 +2146,7 @@
       "Name": "Technophobe",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2180,7 +2185,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 0
     }
   ],
@@ -2188,8 +2193,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:02:35.0292256+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:03:45.640246+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:02.944497+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:02:35.0292737+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:58:28.7320747+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:03:45.6403198+00:00"
 }

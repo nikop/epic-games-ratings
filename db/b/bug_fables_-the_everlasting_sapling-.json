@@ -134,17 +134,17 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BFT_CH5",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:24.478415+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:17.8456906+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:29.3741173+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:24.4784375+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:57.3610753+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:17.8457154+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 334,
@@ -1601,6 +1601,6 @@
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
   "LastChanged": "2023-06-15T12:00:19.3444212+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:36.1729159+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:50.0713274+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:03:52.8263572+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:16.3640115+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:04:43.827009+00:00"
 }

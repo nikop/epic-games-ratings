@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 55,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
@@ -191,9 +191,9 @@
       "ID": "ACH_CHAPTER_4_DONE",
       "SetID": "3jfhgga",
       "Name": "Coat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_CHAPTER_5_DONE",
@@ -239,9 +239,9 @@
       "ID": "ACH_GETALL_COLLECTIBLES",
       "SetID": "3jfhgga",
       "Name": "Missing pages",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_HERO_MASTER_1",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:00:16.4968602+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:00:47.6513402+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.2223585+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:50.5278392+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:00:16.4968752+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:58:14.7093271+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:00:47.6513587+00:00"
 }

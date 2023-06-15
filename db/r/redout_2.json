@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1020,
+  "EOS_Progressed": 1022,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -398,6 +398,11 @@
       "Time": "2023-06-15T12:07:29.8931775+00:00",
       "NumProgressed": 1020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:06:24.9155157+00:00",
+      "NumProgressed": 1022,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -481,7 +486,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -505,7 +510,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -537,7 +542,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "CAREERADVANCED",
@@ -561,7 +566,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -593,7 +598,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -689,7 +694,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LOSEONEONLINE",
@@ -705,7 +710,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ONELIVERY",
@@ -713,7 +718,7 @@
       "Name": "Suit up",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ONEMODULE",
@@ -721,7 +726,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ONEPAINT",
@@ -743,9 +748,9 @@
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 184
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -824,7 +829,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1020,
+      "Progressed": 1022,
       "Completed": 0
     }
   ],
@@ -832,8 +837,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:31.0104702+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:24.9155152+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:54.1933765+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:31.0105186+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:58:18.3933902+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:24.9155624+00:00"
 }

@@ -28,10 +28,10 @@
 | The Loose Cannon | 7.00% | ~49 |
 | Golem Chaser | 7.00% | ~49 |
 | Check Your Pulse | 7.00% | ~49 |
+| The Family Fortune | 7.00% | ~49 |
 | Right On Time | 6.00% | ~42 |
 | Street Style | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
-| The Family Fortune | 6.00% | ~42 |
 | Family Memories | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Chaincrawler Explorer | 4.00% | ~28 |
@@ -53,8 +53,8 @@
 | Thinking Two Steps Ahead | 0.60% | ~4 |
 | Wunderkind | 0.60% | ~4 |
 | Wildlife Protection | 0.30% | ~2 |
+| A Lesson in Precision | 0.30% | ~2 |
 | Going to Live Forever | 0.10% | ~1 |
-| A Lesson in Precision | 0.10% | ~1 |
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

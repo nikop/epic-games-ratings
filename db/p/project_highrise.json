@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -347,6 +347,11 @@
       "Time": "2023-06-15T13:15:26.7479287+00:00",
       "NumProgressed": 218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:06:31.0864376+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -358,7 +363,7 @@
       "Name": "First 100 Days",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_ada",
@@ -372,9 +377,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_apartments_2",
@@ -510,7 +515,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_consultants_b",
@@ -662,7 +667,7 @@
       "Name": "Starting Skyward",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_floors_1",
@@ -684,17 +689,17 @@
       "ID": "ach_fountains",
       "SetID": "b8gh1fi",
       "Name": "Water Features",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_grime_1",
@@ -710,7 +715,7 @@
       "Name": "Rehab Expert",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_happy",
@@ -718,7 +723,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_loan",
@@ -822,7 +827,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_profit_1",
@@ -846,7 +851,7 @@
       "Name": "Maximum Reuse",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_renters",
@@ -916,9 +921,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_retail_4",
@@ -1022,7 +1027,7 @@
       "Name": "Phoning It In",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_util_power",
@@ -1038,7 +1043,7 @@
       "Name": "Pipe Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_veryhappy",
@@ -1052,16 +1057,16 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 0
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:37.710868+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:31.0864369+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:17.1008322+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:52.6711758+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:37.7109783+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:58:16.7541693+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:31.0865596+00:00"
 }

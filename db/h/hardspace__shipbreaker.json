@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1038,6 +1038,11 @@
       "Time": "2023-06-15T11:03:02.0052304+00:00",
       "NumProgressed": 768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:03:46.6311198+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1049,7 +1054,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1127,9 +1132,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1185,7 +1190,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1209,7 +1214,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1217,15 +1222,15 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1241,7 +1246,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -1264,7 +1269,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 0
     }
   ],
@@ -1272,8 +1277,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:02:36.0344788+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:03:46.6311194+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:24.0661221+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:02:36.034503+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:57:48.4995148+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:03:46.6311432+00:00"
 }

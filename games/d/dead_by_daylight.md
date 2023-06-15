@@ -6,21 +6,22 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.60% | ~3,342 |
-| Healthy Obsession | 0.50% | ~2,785 |
-| Preemptive Strike | 0.50% | ~2,785 |
-| Humanitarian | 0.50% | ~2,785 |
-| Wounded Healer | 0.40% | ~2,228 |
-| Close Shave | 0.40% | ~2,228 |
-| Flight to Freedom | 0.40% | ~2,228 |
-| Unforgettable Getaway | 0.30% | ~1,671 |
-| First to the Punch | 0.30% | ~1,671 |
-| Old West Oasis | 0.30% | ~1,671 |
-| Every Last Drop | 0.30% | ~1,671 |
-| With Scars to Show | 0.30% | ~1,671 |
-| A Fast Death | 0.30% | ~1,671 |
+| Resurgence | 0.60% | ~3,343 |
+| Healthy Obsession | 0.50% | ~2,786 |
+| Preemptive Strike | 0.50% | ~2,786 |
+| Humanitarian | 0.50% | ~2,786 |
+| Wounded Healer | 0.40% | ~2,229 |
+| Close Shave | 0.40% | ~2,229 |
+| Flight to Freedom | 0.40% | ~2,229 |
+| Unforgettable Getaway | 0.30% | ~1,672 |
+| First to the Punch | 0.30% | ~1,672 |
+| Old West Oasis | 0.30% | ~1,672 |
+| Every Last Drop | 0.30% | ~1,672 |
+| With Scars to Show | 0.30% | ~1,672 |
+| A Fast Death | 0.30% | ~1,672 |
 | Ancestor's Rite | 0.20% | ~1,114 |
 | Devoted Gatekeeping | 0.20% | ~1,114 |
+| Shrine Apparatus | 0.20% | ~1,114 |
 | Cutting Out | 0.20% | ~1,114 |
 | Outrun Evil | 0.20% | ~1,114 |
 | Operation: Survival | 0.20% | ~1,114 |
@@ -140,7 +141,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Jeff | 0.10% | ~557 |
 | Terminal Illness | 0.10% | ~557 |
 | Adept Plague | 0.10% | ~557 |
-| Shrine Apparatus | 0.10% | ~557 |
 | Adept Jane | 0.10% | ~557 |
 | Adept Ash | 0.10% | ~557 |
 | Silent Approach | 0.10% | ~557 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~557 |
 | Adept Gabriel | 0.10% | ~557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 556,997 (Ranked 27)  
+Progressed: 557,195 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 556,997 | 42 |
+| 2023-06-15 | 557,195 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
 Sum: 227,474 (Ranked 12)  

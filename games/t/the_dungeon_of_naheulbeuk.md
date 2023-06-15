@@ -33,7 +33,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 29.00% | ~27 |
 | A tale of adventurers not quite like the others... | 29.00% | ~27 |
 | The Great Library | 28.00% | ~26 |
-| The Famous Dungeon of Naheulbeuk | 25.00% | ~23 |
+| The Famous Dungeon of Naheulbeuk | 26.00% | ~24 |
 | The beards of change | 23.00% | ~21 |
 | The Blood Countess | 22.00% | ~20 |
 | Cursed die | 21.00% | ~19 |
@@ -63,14 +63,15 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 4.00% | ~4 |
 | A broken clock… | 4.00% | ~4 |
 | Hit snooze | 4.00% | ~4 |
+| Kudos from your DM | 4.00% | ~4 |
 | Friendly fire | 3.00% | ~3 |
 | Take your time back in time | 3.00% | ~3 |
 | Deep changes | 3.00% | ~3 |
-| Kudos from your DM | 3.00% | ~3 |
 | Death is for wimps | 3.00% | ~3 |
 | Demisemiquaver | 3.00% | ~3 |
 | Gloomy Dungeon | 2.00% | ~2 |
 | Living legends of the Lands of Fangh | 2.00% | ~2 |
+| And they lived happily ever after... | 2.00% | ~2 |
 | Star-crossed lovers | 2.00% | ~2 |
 | Pyrrhic victory | 2.00% | ~2 |
 | 100% satisfaction guarantee | 2.00% | ~2 |
@@ -83,7 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | Mystical Dungeon | 1.00% | ~1 |
 | Power struggle | 1.00% | ~1 |
 | Iron Golems Tamer | 1.00% | ~1 |
-| And they lived happily ever after... | 1.00% | ~1 |
 | Lord of the Drunks | 1.00% | ~1 |
 | The number of the counting shalt be 7 | 0.00% | ~0 |
 | King of the Arena | 0.00% | ~0 |

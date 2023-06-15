@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-06-15T12:07:30.4682871+00:00",
       "NumProgressed": 440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T15:06:25.1476241+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -340,7 +345,7 @@
       "Name": "Grand Opening",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -356,7 +361,7 @@
       "Name": "Lion Tamer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -404,7 +409,7 @@
       "Name": "Path of Learning",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -418,9 +423,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "631ndc2",
       "Name": "Lucky Day",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -442,9 +447,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -474,9 +479,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "631ndc2",
       "Name": "Accomplished Veteran",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -580,7 +585,7 @@
       "Name": "King of District 2",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -660,7 +665,7 @@
       "Name": "Self Defense",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -739,7 +744,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 1
     }
   ],
@@ -747,8 +752,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:31.3860044+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:25.1476234+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:36.0504907+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:31.3860542+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:00.5264722+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:25.1476726+00:00"
 }

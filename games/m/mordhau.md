@@ -5,31 +5,31 @@ Rating: 4.41 (Ranked 670)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~713,466 |
-| The ABCs | 43.00% | ~613,581 |
-| Home Run | 42.00% | ~599,312 |
-| Keeps Coming Off | 41.00% | ~585,043 |
-| Guts | 20.00% | ~285,387 |
-| Meat Grinder | 20.00% | ~285,387 |
-| Burning Man | 16.00% | ~228,309 |
-| Lived to Tell the Tale | 12.00% | ~171,232 |
-| Highlander | 10.00% | ~142,693 |
-| Unstoppable | 10.00% | ~142,693 |
-| Just a Scratch | 9.00% | ~128,424 |
-| Tough Nut to Crack | 6.00% | ~85,616 |
-| Yoink | 6.00% | ~85,616 |
-| Long List of Names | 4.00% | ~57,077 |
-| Pyromaniac | 4.00% | ~57,077 |
-| The Queen of Weapons | 4.00% | ~57,077 |
-| Eagle Eye | 2.00% | ~28,539 |
-| This isn’t Sparta | 2.00% | ~28,539 |
-| Poacher | 2.00% | ~28,539 |
-| Put That Away | 2.00% | ~28,539 |
-| You’re Welcome | 2.00% | ~28,539 |
-| Crybaby | 1.00% | ~14,269 |
-| I Know Kung Fu | 1.00% | ~14,269 |
-| Chambermaid | 0.90% | ~12,842 |
-| Coming Through | 0.90% | ~12,842 |
+| Justice from the Grave | 50.00% | ~713,511 |
+| The ABCs | 43.00% | ~613,619 |
+| Home Run | 42.00% | ~599,349 |
+| Keeps Coming Off | 41.00% | ~585,079 |
+| Guts | 20.00% | ~285,404 |
+| Meat Grinder | 20.00% | ~285,404 |
+| Burning Man | 16.00% | ~228,324 |
+| Lived to Tell the Tale | 12.00% | ~171,243 |
+| Highlander | 10.00% | ~142,702 |
+| Unstoppable | 10.00% | ~142,702 |
+| Just a Scratch | 9.00% | ~128,432 |
+| Tough Nut to Crack | 6.00% | ~85,621 |
+| Yoink | 6.00% | ~85,621 |
+| Long List of Names | 4.00% | ~57,081 |
+| Pyromaniac | 4.00% | ~57,081 |
+| The Queen of Weapons | 4.00% | ~57,081 |
+| Eagle Eye | 2.00% | ~28,540 |
+| This isn’t Sparta | 2.00% | ~28,540 |
+| Poacher | 2.00% | ~28,540 |
+| Put That Away | 2.00% | ~28,540 |
+| You’re Welcome | 2.00% | ~28,540 |
+| Crybaby | 1.00% | ~14,270 |
+| I Know Kung Fu | 1.00% | ~14,270 |
+| Chambermaid | 0.90% | ~12,843 |
+| Coming Through | 0.90% | ~12,843 |
 | Training Accident | 0.70% | ~9,989 |
 | Boxer | 0.60% | ~8,562 |
 | Rock’n’Roll | 0.60% | ~8,562 |
@@ -44,7 +44,7 @@ Rating: 4.41 (Ranked 670)
 | That’s No Ordinary Cold | 0.10% | ~1,427 |
 | Stairway to Hell | 0.10% | ~1,427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,426,933 (Ranked 7)  
+Progressed: 1,427,022 (Ranked 7)  
 Completed: 29 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,11 +100,11 @@ Completed: 29 (0.00%) (Ranked 223)
 | 2023-06-12 | 1,423,019 | 27 |
 | 2023-06-13 | 1,424,621 | 29 |
 | 2023-06-14 | 1,426,187 | 29 |
-| 2023-06-15 | 1,426,933 | 29 |
+| 2023-06-15 | 1,427,022 | 29 |
 ## Awards
 Max (Highly Recommended): 270  (Ranked 239)  
-Sum: 1,540 (Ranked 211)  
-Diff (max vs sum): 28  
+Sum: 1,547 (Ranked 209)  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 270 |
@@ -113,7 +113,7 @@ Diff (max vs sum): 28
 | This game has Competitive Players | 216 |
 | This game has Amazing Characters | 208 |
 | This game is Extremely Fun | 201 |
-| This game has Amazing Storytelling | 157 |
+| This game has Amazing Storytelling | 164 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -180,4 +180,4 @@ Diff (max vs sum): 28
 | 2023-06-12 | 4.41 | 256 | 1,479 |
 | 2023-06-13 | 4.41 | 262 | 1,512 |
 | 2023-06-14 | 4.41 | 267 | 1,537 |
-| 2023-06-15 | 4.41 | 270 | 1,540 |
+| 2023-06-15 | 4.41 | 270 | 1,547 |

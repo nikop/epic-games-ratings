@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 126,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2023-06-15T12:03:49.164073+00:00",
       "NumProgressed": 384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:03:58.6841552+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1846,7 +1851,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "TrattoriaSet",
@@ -1909,7 +1914,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 0
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:03:08.1447224+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:03:58.6841548+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:08.1577385+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:03:08.1447775+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:58:34.2072743+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:03:58.6841965+00:00"
 }

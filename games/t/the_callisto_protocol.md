@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,297 |
-| The Outer Way | 14.00% | ~2,144 |
-| Desperate Times | 13.00% | ~1,991 |
-| Paper Jams | 12.00% | ~1,838 |
-| Chew 'Em Up | 10.00% | ~1,531 |
-| Reforged | 10.00% | ~1,531 |
-| Workplace Hazard | 9.00% | ~1,378 |
-| If the SHU Fits... | 9.00% | ~1,378 |
-| Get a Grip | 8.00% | ~1,225 |
+| Flesh Wound | 15.00% | ~2,298 |
+| The Outer Way | 14.00% | ~2,145 |
+| Desperate Times | 13.00% | ~1,992 |
+| Paper Jams | 12.00% | ~1,839 |
+| Chew 'Em Up | 10.00% | ~1,532 |
+| Reforged | 10.00% | ~1,532 |
+| Workplace Hazard | 9.00% | ~1,379 |
+| If the SHU Fits... | 9.00% | ~1,379 |
+| Get a Grip | 8.00% | ~1,226 |
 | Giving Back | 7.00% | ~1,072 |
 | Without A Paddle | 7.00% | ~1,072 |
 | Terminated | 6.00% | ~919 |
@@ -26,7 +26,7 @@ Rating: 4.18 (Ranked 846)
 | What Lies Beneath | 4.00% | ~613 |
 | Full Circle | 4.00% | ~613 |
 | Instigator | 4.00% | ~130 |
-| The Commonality | 3.00% | ~459 |
+| The Commonality | 3.00% | ~460 |
 | Big Game Hunter | 3.00% | ~97 |
 | Bear Trap | 3.00% | ~97 |
 | I Do Belong Here | 2.00% | ~306 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 846)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,314 (Ranked 103)  
+Progressed: 15,321 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,314 | 55 |
+| 2023-06-15 | 15,321 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 311 (Ranked 329)  

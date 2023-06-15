@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~126 |
-| Starting Skyward | 51.00% | ~111 |
-| Grime is Not Good | 45.00% | ~98 |
+| In the Black | 58.00% | ~127 |
+| Starting Skyward | 51.00% | ~112 |
+| Grime is Not Good | 46.00% | ~101 |
 | Campaign Launch | 39.00% | ~85 |
 | Floor Galore | 37.00% | ~81 |
 | Dinner Dash | 37.00% | ~81 |
@@ -15,19 +15,19 @@
 | Upgrade Unlock | 33.00% | ~72 |
 | Delegate Maintenance | 33.00% | ~72 |
 | Proper Walls | 32.00% | ~70 |
-| Destination Destiny | 28.00% | ~61 |
-| Happy Tenants | 25.00% | ~54 |
+| Destination Destiny | 27.00% | ~59 |
+| Happy Tenants | 25.00% | ~55 |
 | Smooth Service | 23.00% | ~50 |
-| Lux Living | 22.00% | ~48 |
 | Your Prestige is Rising | 22.00% | ~48 |
 | Potent Potables | 22.00% | ~48 |
 | Retail Revenue | 22.00% | ~48 |
-| Leveled Up Shops | 22.00% | ~48 |
+| Lux Living | 21.00% | ~46 |
 | People Mover | 21.00% | ~46 |
+| Leveled Up Shops | 21.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~44 |
 | Emporium Empire | 20.00% | ~44 |
 | Get Electrified | 20.00% | ~44 |
-| Rehab Expert | 19.00% | ~41 |
+| Rehab Expert | 19.00% | ~42 |
 | Artfully Done | 18.00% | ~39 |
 | Tasty Profits | 18.00% | ~39 |
 | We Don't Need No Education | 18.00% | ~39 |
@@ -45,23 +45,23 @@
 | Plaza Plan | 9.00% | ~20 |
 | Refined Palates | 9.00% | ~20 |
 | Revenue Royalty | 9.00% | ~20 |
-| First 100 Days | 8.00% | ~17 |
-| Aestheticly Pleased | 8.00% | ~17 |
-| Maximum Reuse | 8.00% | ~17 |
-| Phoning It In | 8.00% | ~17 |
-| Pipe Up | 8.00% | ~17 |
+| First 100 Days | 8.00% | ~18 |
+| Aestheticly Pleased | 8.00% | ~18 |
+| Maximum Reuse | 8.00% | ~18 |
+| Phoning It In | 8.00% | ~18 |
+| Pipe Up | 8.00% | ~18 |
 | Meet Me at HQ | 7.00% | ~15 |
 | Profound Proceeds | 7.00% | ~15 |
 | Meet ADA/360 | 6.00% | ~13 |
 | Penthouse in the Sky | 6.00% | ~13 |
 | I'm Busy Ruling | 6.00% | ~13 |
 | Careful Constructor | 6.00% | ~13 |
-| Water Features | 6.00% | ~13 |
 | Sky High Stature | 6.00% | ~13 |
 | Tuned In | 6.00% | ~13 |
 | It's a Gas | 6.00% | ~13 |
 | Baron of Business | 5.00% | ~11 |
 | Office Bigwigs | 5.00% | ~11 |
+| Water Features | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
 | Luxury Boutiques | 4.00% | ~9 |
 | Three of a Kind | 4.00% | ~9 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218 (Ranked 246)  
+Progressed: 219 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 212 | 0 |
 | 2023-06-13 | 214 | 0 |
 | 2023-06-14 | 216 | 0 |
-| 2023-06-15 | 218 | 0 |
+| 2023-06-15 | 219 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

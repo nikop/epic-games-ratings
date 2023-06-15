@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5118,
+  "EOS_Progressed": 5119,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2023-06-15T12:07:34.2897037+00:00",
       "NumProgressed": 5118,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-15T15:06:28.1503792+00:00",
+      "NumProgressed": 5119,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -610,7 +615,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -658,7 +663,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -714,7 +719,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -722,7 +727,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -794,7 +799,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -826,7 +831,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -874,7 +879,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -977,15 +982,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5118,
+      "Progressed": 5119,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:34.6321623+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:28.1503788+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.2240138+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:33.5473809+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:34.6322027+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:00:00.9786875+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:28.1504233+00:00"
 }

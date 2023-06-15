@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244862,
+  "EOS_Progressed": 244869,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5324,6 +5324,11 @@
       "Time": "2023-06-15T14:05:22.0775138+00:00",
       "NumProgressed": 244862,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T15:06:15.4757267+00:00",
+      "NumProgressed": 244869,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5359,7 +5364,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48972
+      "UsersEstimate": 48974
     },
     {
       "ID": "blotbuster",
@@ -5391,7 +5396,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41627
+      "UsersEstimate": 41628
     },
     {
       "ID": "cantBeKeptDown",
@@ -5407,7 +5412,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36729
+      "UsersEstimate": 36730
     },
     {
       "ID": "clearCut",
@@ -5431,7 +5436,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44075
+      "UsersEstimate": 44076
     },
     {
       "ID": "curator",
@@ -5439,7 +5444,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48972
+      "UsersEstimate": 48974
     },
     {
       "ID": "didYourTime",
@@ -5511,7 +5516,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129777
+      "UsersEstimate": 129781
     },
     {
       "ID": "indegestible",
@@ -5527,7 +5532,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "itsTheFall",
@@ -5535,7 +5540,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63664
+      "UsersEstimate": 63666
     },
     {
       "ID": "justABit",
@@ -5551,7 +5556,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19589
+      "UsersEstimate": 19590
     },
     {
       "ID": "lockupLockdown",
@@ -5567,7 +5572,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34281
+      "UsersEstimate": 34282
     },
     {
       "ID": "myFirstRunbow",
@@ -5575,7 +5580,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122431
+      "UsersEstimate": 122434
     },
     {
       "ID": "notScared",
@@ -5607,7 +5612,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "rideTheWave",
@@ -5639,7 +5644,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51421
+      "UsersEstimate": 51422
     },
     {
       "ID": "thunderstruck",
@@ -5655,7 +5660,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31832
+      "UsersEstimate": 31833
     },
     {
       "ID": "treeMedalist",
@@ -5695,14 +5700,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39178
+      "UsersEstimate": 39179
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244862,
+      "Progressed": 244869,
       "Completed": 3
     }
   ],
@@ -5710,8 +5715,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:22.0775134+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:15.4757264+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.8770125+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:58:47.2276042+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:22.077579+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:13.5890629+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:15.4757967+00:00"
 }

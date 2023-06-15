@@ -6,12 +6,12 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,016 |
-| The Journey Begins | 98.00% | ~5,016 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,992 |
+| Quinceañera Time | 98.00% | ~5,017 |
+| The Journey Begins | 98.00% | ~5,017 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,993 |
 | There is No Escape | 71.00% | ~3,634 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,173 |
-| Royal Flush | 62.00% | ~3,173 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,174 |
+| Royal Flush | 62.00% | ~3,174 |
 | Timber! | 60.00% | ~3,071 |
 | Survive the Bombsequences | 59.00% | ~3,020 |
 | Killed 20 Jerks | 53.00% | ~2,713 |
@@ -20,8 +20,8 @@ Number of Ratings: 63  (23.09.2022)
 | Jerk-Slayer | 43.00% | ~2,201 |
 | Employee of the Month | 37.00% | ~1,894 |
 | I Believe I Can Fly | 37.00% | ~1,894 |
-| Bone Collector | 35.00% | ~1,791 |
-| Fe-Festival | 35.00% | ~1,791 |
+| Bone Collector | 35.00% | ~1,792 |
+| Fe-Festival | 35.00% | ~1,792 |
 | Top of the Food Chain | 32.00% | ~1,638 |
 | Pardon my Slob | 32.00% | ~1,638 |
 | Humerus Achievement | 31.00% | ~1,587 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,118 (Ranked 127)  
+Progressed: 5,119 (Ranked 127)  
 Completed: 27 (0.53%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 27 (0.53%) (Ranked 116)
 | 2023-06-12 | 5,110 | 27 |
 | 2023-06-13 | 5,113 | 27 |
 | 2023-06-14 | 5,114 | 27 |
-| 2023-06-15 | 5,118 | 27 |
+| 2023-06-15 | 5,119 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

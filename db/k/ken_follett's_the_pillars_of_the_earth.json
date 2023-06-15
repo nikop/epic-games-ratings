@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13266,
+  "EOS_Progressed": 13267,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4184,6 +4184,11 @@
       "Time": "2023-06-15T14:05:11.5022173+00:00",
       "NumProgressed": 13266,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T15:06:05.1101763+00:00",
+      "NumProgressed": 13267,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4235,7 +4240,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "tpote_achievement_15",
@@ -4283,7 +4288,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "tpote_achievement_20",
@@ -4299,7 +4304,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "tpote_achievement_22",
@@ -4483,7 +4488,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "tpote_achievement_6",
@@ -4522,15 +4527,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13266,
+      "Progressed": 13267,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:11.502217+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:05.1101759+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:30.6343531+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:11.5022758+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:58.2887715+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:05.1102326+00:00"
 }

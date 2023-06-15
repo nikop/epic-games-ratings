@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2037,6 +2037,11 @@
       "Time": "2023-06-15T13:13:25.500235+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:04:29.0607894+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2272,7 +2277,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2304,7 +2309,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2431,7 +2436,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 0
     }
   ],
@@ -2439,8 +2444,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-14T13:03:45.8623512+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:03:38.1018548+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:04:29.060789+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:18.5106217+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:03:38.1019079+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:57:41.7576749+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:04:29.0608339+00:00"
 }

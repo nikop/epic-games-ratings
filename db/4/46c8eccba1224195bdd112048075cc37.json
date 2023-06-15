@@ -2,7 +2,7 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 126,
@@ -228,9 +228,9 @@
       "ID": "FinalBoss",
       "SetID": "7g1kpc8",
       "Name": "Creature",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FirstBlood",
@@ -276,9 +276,9 @@
       "ID": "KingBoss",
       "SetID": "7g1kpc8",
       "Name": "Revolution",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Leprechaun",
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:00:08.5291788+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:00:39.3324918+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:57:02.3478532+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:00:08.5291958+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:57:26.4443738+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:00:39.3325158+00:00"
 }

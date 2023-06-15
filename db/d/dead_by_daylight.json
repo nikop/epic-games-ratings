@@ -6467,9 +6467,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 556997,
+  "EOS_Progressed": 557195,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30250,
+  "EOS_NewPlayers": 30231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12372,6 +12372,11 @@
       "Time": "2023-06-15T14:05:40.7591608+00:00",
       "NumProgressed": 556997,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-15T15:06:34.1833979+00:00",
+      "NumProgressed": 557195,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13239,7 +13244,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_109",
@@ -13279,15 +13284,15 @@
       "Name": "Wounded Healer",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACH_114",
       "SetID": "16jml5b",
       "Name": "Shrine Apparatus",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_115",
@@ -13383,7 +13388,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_130",
@@ -13495,7 +13500,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_144",
@@ -13551,7 +13556,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACH_151",
@@ -13591,7 +13596,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_156",
@@ -13599,7 +13604,7 @@
       "Name": "Resurgence",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "ACH_157",
@@ -13695,7 +13700,7 @@
       "Name": "Close Shave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACH_169",
@@ -13719,7 +13724,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACH_172",
@@ -13791,7 +13796,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACH_181",
@@ -13831,7 +13836,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_186",
@@ -13839,7 +13844,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACH_187",
@@ -14007,7 +14012,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_208",
@@ -14142,21 +14147,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 556997,
+      "Progressed": 557195,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 556997,
+      "Progressed": 557195,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-15T13:59:45.3703364+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:40.7591603+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:34.1833975+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:45.370337+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:40.7597727+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:00:14.0052531+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:34.18401+00:00"
 }

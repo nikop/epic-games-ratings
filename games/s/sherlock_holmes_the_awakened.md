@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~286 |
 | Read Between The Lines | 60.00% | ~277 |
-| High Profile | 55.00% | ~254 |
+| High Profile | 56.00% | ~259 |
 | Whispers In The Dark | 54.00% | ~249 |
 | Fond Memories | 50.00% | ~231 |
 | A Method To His Madness | 49.00% | ~226 |
@@ -21,10 +21,10 @@
 | Land, Ho! | 41.00% | ~189 |
 | No Man Is An Island | 39.00% | ~180 |
 | At Wits' End | 39.00% | ~180 |
+| Fhtagn! | 37.00% | ~171 |
 | Going Once... | 36.00% | ~166 |
 | Bookworm | 36.00% | ~166 |
 | Up In Flames | 36.00% | ~166 |
-| Fhtagn! | 36.00% | ~166 |
 | Let Me Be Frank | 34.00% | ~157 |
 | Brain Food | 31.00% | ~143 |
 | No Stone Unturned | 31.00% | ~143 |

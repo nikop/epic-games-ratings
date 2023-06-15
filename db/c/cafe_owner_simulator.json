@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -1723,6 +1723,11 @@
       "Time": "2023-06-15T09:05:51.1812818+00:00",
       "NumProgressed": 687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T15:06:03.3797877+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1742,7 +1747,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "CHIEF",
@@ -1758,7 +1763,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "DEBTOR",
@@ -1798,7 +1803,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "INTRODUCTION",
@@ -1822,7 +1827,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -1845,7 +1850,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 0
     }
   ],
@@ -1853,8 +1858,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:14:58.5994376+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:03.3797872+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.242026+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:00.4200103+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:09.7215971+00:00"
+  "LastUpdate_Ratings": "2023-06-15T14:59:26.750476+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:03.379812+00:00"
 }

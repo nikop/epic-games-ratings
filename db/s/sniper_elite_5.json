@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2886,
+  "EOS_Progressed": 2888,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3618,6 +3618,11 @@
       "Time": "2023-06-15T14:05:27.2753376+00:00",
       "NumProgressed": 2886,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T15:06:20.9399369+00:00",
+      "NumProgressed": 2888,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3693,7 +3698,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3789,7 +3794,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3813,7 +3818,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -3869,15 +3874,15 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 578
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3941,7 +3946,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4021,7 +4026,7 @@
       "Name": "Target America",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4196,13 +4201,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2837,
+      "Progressed": 2839,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2886,
+      "Progressed": 2888,
       "Completed": 2
     }
   ],
@@ -4210,8 +4215,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:05:27.2753372+00:00",
+  "LastChanged_Achievements": "2023-06-15T15:06:20.9399364+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:59:58.5542232+00:00",
-  "LastUpdate_Achievements": "2023-06-15T14:05:27.275417+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:00:27.0075085+00:00",
+  "LastUpdate_Achievements": "2023-06-15T15:06:20.9400262+00:00"
 }
