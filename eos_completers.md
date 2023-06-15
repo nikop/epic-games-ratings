@@ -8,7 +8,7 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.13% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.09% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -25,7 +25,7 @@
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.06% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.05% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
 | 28 | [Scorn](games/s/scorn.md) | 6.87% |
 | 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
@@ -33,26 +33,26 @@
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
-| 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.91% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.60% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.57% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
-| 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 48 | [The Complex](games/t/the_complex.md) | 3.22% |
+| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
+| 47 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
-| 51 | [HordeCore](games/h/hordecore.md) | 2.94% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [The Bunker](games/t/the_bunker.md) | 2.94% |
+| 53 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -178,10 +178,10 @@
 | 171 | [Supraland](games/s/supraland.md) | 0.10% |
 | 177 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 177 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.09% |
-| 180 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 180 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
-| 180 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 179 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 179 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
+| 179 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
+| 179 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 183 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
 | 183 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 183 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
@@ -452,4 +452,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,778 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,779 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
