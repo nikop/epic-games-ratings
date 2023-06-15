@@ -653,9 +653,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27727,
+  "EOS_Progressed": 27728,
   "EOS_Completed": 1283,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
@@ -2413,6 +2413,11 @@
       "Time": "2023-06-15T04:03:36.7227318+00:00",
       "NumProgressed": 27727,
       "NumCompleted": 1283
+    },
+    {
+      "Time": "2023-06-15T05:03:22.4399316+00:00",
+      "NumProgressed": 27728,
+      "NumCompleted": 1283
     }
   ],
   "TotalAchievements": 30,
@@ -2440,7 +2445,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 10536
+      "UsersEstimate": 10537
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -2456,7 +2461,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12754
+      "UsersEstimate": 12755
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -2488,7 +2493,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21350
+      "UsersEstimate": 21351
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -2504,7 +2509,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10536
+      "UsersEstimate": 10537
     },
     {
       "ID": "ACH_DONATE",
@@ -2520,7 +2525,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26895
+      "UsersEstimate": 26896
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -2536,7 +2541,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACH_HATS",
@@ -2560,7 +2565,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16913
+      "UsersEstimate": 16914
     },
     {
       "ID": "ACH_LAUNCH",
@@ -2568,7 +2573,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15527
+      "UsersEstimate": 15528
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -2576,7 +2581,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14418
+      "UsersEstimate": 14419
     },
     {
       "ID": "ACH_PUZZLE",
@@ -2592,7 +2597,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16359
+      "UsersEstimate": 16360
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -2616,7 +2621,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25786
+      "UsersEstimate": 25787
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -2624,7 +2629,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15527
+      "UsersEstimate": 15528
     },
     {
       "ID": "ACH_SUNDAE",
@@ -2648,7 +2653,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20795
+      "UsersEstimate": 20796
     },
     {
       "ID": "ACH_WATERFALL",
@@ -2656,22 +2661,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24122
+      "UsersEstimate": 24123
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27727,
+      "Progressed": 27728,
       "Completed": 1283
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-09T23:59:56.4619159+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:03:36.7227313+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:03:22.4399303+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:16.4134384+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:00:33.4438511+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:03:36.7227575+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:00:10.681585+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:03:22.4399556+00:00"
 }

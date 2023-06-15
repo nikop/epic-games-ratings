@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,581 |
+| First Step | 71.00% | ~4,582 |
 | Leader | 61.00% | ~3,936 |
 | Explorer | 53.00% | ~3,420 |
 | Healer | 53.00% | ~3,420 |
 | Aspiring Inventor | 44.00% | ~2,839 |
-| Adventurer | 41.00% | ~2,645 |
+| Adventurer | 41.00% | ~2,646 |
 | Famous Healer | 38.00% | ~2,452 |
-| Local Leader | 35.00% | ~2,258 |
+| Local Leader | 35.00% | ~2,259 |
 | New Opportunities | 34.00% | ~2,194 |
 | Famous Explorer | 33.00% | ~2,129 |
 | Energized | 33.00% | ~2,129 |
@@ -27,8 +27,8 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~1,613 |
 | Ice Lakes | 23.00% | ~1,484 |
 | Mentor | 23.00% | ~1,484 |
-| Great Leader | 22.00% | ~1,419 |
-| Real Survivor | 22.00% | ~1,419 |
+| Great Leader | 22.00% | ~1,420 |
+| Real Survivor | 22.00% | ~1,420 |
 | Merchant | 21.00% | ~1,355 |
 | War Never Changes | 19.00% | ~1,226 |
 | Rocket Surgeon | 19.00% | ~1,226 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,452 (Ranked 123)  
+Progressed: 6,453 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 6,402 | 0 |
 | 2023-06-13 | 6,435 | 0 |
 | 2023-06-14 | 6,449 | 0 |
-| 2023-06-15 | 6,452 | 0 |
+| 2023-06-15 | 6,453 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
 Sum: 665 (Ranked 269)  

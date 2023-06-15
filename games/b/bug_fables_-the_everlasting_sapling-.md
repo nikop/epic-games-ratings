@@ -14,7 +14,7 @@
 | Chapter 5 Complete | 23.00% | ~16 |
 | The Truth | 23.00% | ~16 |
 | Reconciliation | 23.00% | ~16 |
-| Chapter 6 Complete | 20.00% | ~14 |
+| Chapter 6 Complete | 21.00% | ~15 |
 | Plant Enchanter | 20.00% | ~14 |
 | Always Watchful | 19.00% | ~13 |
 | Chapter 7 Complete | 19.00% | ~13 |

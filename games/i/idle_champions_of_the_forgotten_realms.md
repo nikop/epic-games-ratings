@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.40% | ~228 |
 | Best Thay Ever | 0.40% | ~228 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~228 |
+| Pin and Skewer | 0.40% | ~228 |
 | Beast Mode | 0.40% | ~363 |
 | Low Initiative | 0.40% | ~363 |
 | A Mysterious Summons | 0.40% | ~363 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~171 |
 | The Sanctum of the Sword | 0.30% | ~171 |
 | Get Back In The Castle | 0.30% | ~171 |
-| Pin and Skewer | 0.30% | ~171 |
 | Bully for Vecna | 0.30% | ~171 |
 | Homecoming | 0.30% | ~272 |
 | The Lost Heir of Omu | 0.30% | ~272 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,732 (Ranked 64)  
+Progressed: 90,733 (Ranked 64)  
 Completed: 1,935 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 1,935 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,732 | 1,935 |
+| 2023-06-15 | 90,733 | 1,935 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

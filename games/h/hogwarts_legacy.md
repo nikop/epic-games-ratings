@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,180 |
-| First Class Student | 8.00% | ~22,382 |
-| Troll with the Punches | 8.00% | ~22,382 |
-| Grappling with a Graphorn | 7.00% | ~19,584 |
-| The One Who Mastered Memories | 7.00% | ~19,584 |
-| The Hallowed Hero | 7.00% | ~19,584 |
-| The Hero of Hogwarts | 7.00% | ~19,584 |
-| The Defender of Dragons | 7.00% | ~19,584 |
-| A Keen Sense of Spell | 7.00% | ~19,584 |
-| Loom for Improvement | 7.00% | ~19,584 |
-| A Talent for Spending | 7.00% | ~19,584 |
-| Coasting Along | 7.00% | ~19,584 |
-| That's a Keeper | 7.00% | ~19,584 |
-| Challenge Accepted | 6.00% | ~16,786 |
-| Followed the Butterflies | 6.00% | ~16,786 |
-| The Spell Master | 6.00% | ~16,786 |
-| Rising From the Ashes | 6.00% | ~16,786 |
-| The Avenging Gazelle | 5.00% | ~13,989 |
-| Beast Friends | 5.00% | ~13,989 |
-| A Sallow Grave | 5.00% | ~13,989 |
-| Flight the Good Flight | 5.00% | ~13,989 |
-| The Seeker of Knowledge | 4.00% | ~11,191 |
-| The Root of the Problem | 4.00% | ~11,191 |
-| Third Time's a Charm | 4.00% | ~11,191 |
-| Raising Expectations | 4.00% | ~11,191 |
-| The Toast of the Town | 3.00% | ~8,393 |
-| Going Through the Potions | 3.00% | ~8,393 |
-| Room with a View | 3.00% | ~8,393 |
-| The Intrepid Explorer | 3.00% | ~8,393 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,393 |
-| The Ends Petrify the Means | 3.00% | ~8,393 |
-| Put Down Roots | 2.00% | ~5,595 |
-| The Auror's Apprentice | 2.00% | ~5,595 |
-| Floo Around the World | 2.00% | ~5,595 |
-| The Wise Owl | 2.00% | ~5,595 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,182 |
+| First Class Student | 8.00% | ~22,384 |
+| Troll with the Punches | 8.00% | ~22,384 |
+| Grappling with a Graphorn | 7.00% | ~19,586 |
+| The One Who Mastered Memories | 7.00% | ~19,586 |
+| The Hallowed Hero | 7.00% | ~19,586 |
+| The Hero of Hogwarts | 7.00% | ~19,586 |
+| The Defender of Dragons | 7.00% | ~19,586 |
+| A Keen Sense of Spell | 7.00% | ~19,586 |
+| Loom for Improvement | 7.00% | ~19,586 |
+| A Talent for Spending | 7.00% | ~19,586 |
+| Coasting Along | 7.00% | ~19,586 |
+| That's a Keeper | 7.00% | ~19,586 |
+| Challenge Accepted | 6.00% | ~16,788 |
+| Followed the Butterflies | 6.00% | ~16,788 |
+| The Spell Master | 6.00% | ~16,788 |
+| Rising From the Ashes | 6.00% | ~16,788 |
+| The Avenging Gazelle | 5.00% | ~13,990 |
+| Beast Friends | 5.00% | ~13,990 |
+| A Sallow Grave | 5.00% | ~13,990 |
+| Flight the Good Flight | 5.00% | ~13,990 |
+| The Seeker of Knowledge | 4.00% | ~11,192 |
+| The Root of the Problem | 4.00% | ~11,192 |
+| Third Time's a Charm | 4.00% | ~11,192 |
+| Raising Expectations | 4.00% | ~11,192 |
+| The Toast of the Town | 3.00% | ~8,394 |
+| Going Through the Potions | 3.00% | ~8,394 |
+| Room with a View | 3.00% | ~8,394 |
+| The Intrepid Explorer | 3.00% | ~8,394 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,394 |
+| The Ends Petrify the Means | 3.00% | ~8,394 |
+| Put Down Roots | 2.00% | ~5,596 |
+| The Auror's Apprentice | 2.00% | ~5,596 |
+| Floo Around the World | 2.00% | ~5,596 |
+| The Wise Owl | 2.00% | ~5,596 |
 | The Good Samaritan | 1.00% | ~2,798 |
 | Rise to the Challenges | 1.00% | ~2,798 |
 | Demiguise Dread | 1.00% | ~2,798 |
 | Finishing Touches | 1.00% | ~2,798 |
 | A Forte for Achievement | 1.00% | ~2,798 |
 | Savvy Spender | 0.90% | ~2,518 |
-| Merlin's Beard! | 0.70% | ~1,958 |
+| Merlin's Beard! | 0.70% | ~1,959 |
 | Spilled Milk | 0.60% | ~1,679 |
 | The Nature of the Beast | 0.50% | ~1,399 |
 | Collector's Edition | 0.20% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,774 (Ranked 41)  
+Progressed: 279,795 (Ranked 41)  
 Completed: 406 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 406 (0.15%) (Ranked 161)
 | 2023-06-12 | 279,048 | 403 |
 | 2023-06-13 | 279,378 | 405 |
 | 2023-06-14 | 279,708 | 406 |
-| 2023-06-15 | 279,774 | 406 |
+| 2023-06-15 | 279,795 | 406 |
 ## Awards
 Max (Character Customization): 19,955  (Ranked 18)  
 Sum: 37,010 (Ranked 32)  

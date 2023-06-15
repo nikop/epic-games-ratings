@@ -1488,10 +1488,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3859,
       "NumberOfAwardsMax": 2331
+    },
+    {
+      "Time": "2023-06-15T05:00:07.1672208+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3860,
+      "NumberOfAwardsMax": 2331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3859,
+  "NumberOfAwards": 3860,
   "NumberOfAwardsMax": 2331,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1541,7 +1547,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1556,9 +1562,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65103,
+  "EOS_Progressed": 65113,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6386,6 +6392,11 @@
       "Time": "2023-06-15T04:07:06.9222169+00:00",
       "NumProgressed": 65103,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-15T05:06:36.432162+00:00",
+      "NumProgressed": 65113,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6701,7 +6712,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "HARLEY_2",
@@ -6741,7 +6752,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6884,22 +6895,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65103,
+      "Progressed": 65113,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35383,
+      "Progressed": 35393,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-15T02:08:18.740317+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:07:06.9222166+00:00",
+  "LastChanged": "2023-06-15T05:00:07.1672207+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:36.4321615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:00:29.5482002+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:07:06.922284+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:00:07.1672295+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:36.4322282+00:00"
 }

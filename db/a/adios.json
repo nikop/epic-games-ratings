@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61532,
+  "EOS_Progressed": 61538,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -5900,6 +5900,11 @@
       "Time": "2023-06-15T04:06:52.7515536+00:00",
       "NumProgressed": 61532,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-06-15T05:06:23.1355627+00:00",
+      "NumProgressed": 61538,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 25,
@@ -5927,7 +5932,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11076
+      "UsersEstimate": 11077
     },
     {
       "ID": "Audiophile",
@@ -5943,7 +5948,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12922
+      "UsersEstimate": 12923
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -5951,7 +5956,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10460
+      "UsersEstimate": 10461
     },
     {
       "ID": "Butcher",
@@ -5959,7 +5964,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "Cut Call",
@@ -5983,7 +5988,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12308
     },
     {
       "ID": "Hearty",
@@ -6007,7 +6012,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "Master, Commander",
@@ -6015,7 +6020,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12308
     },
     {
       "ID": "Meaty",
@@ -6031,7 +6036,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11691
+      "UsersEstimate": 11692
     },
     {
       "ID": "Nice Try",
@@ -6039,7 +6044,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9845
+      "UsersEstimate": 9846
     },
     {
       "ID": "Nothing Left to Say",
@@ -6055,7 +6060,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6153
+      "UsersEstimate": 6154
     },
     {
       "ID": "Right On Target",
@@ -6063,7 +6068,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7999
+      "UsersEstimate": 8000
     },
     {
       "ID": "Sniper",
@@ -6071,7 +6076,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "Spicy",
@@ -6079,7 +6084,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "Taco Toto",
@@ -6103,14 +6108,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61532,
+      "Progressed": 61538,
       "Completed": 533
     }
   ],
@@ -6118,8 +6123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-10T22:00:06.058838+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:06:52.7515532+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:23.1355623+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.9949874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:01:21.3755148+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:06:52.7515924+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:00:54.8499992+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:23.1356039+00:00"
 }

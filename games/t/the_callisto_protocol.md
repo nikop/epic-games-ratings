@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,293 |
-| The Outer Way | 14.00% | ~2,140 |
-| Desperate Times | 13.00% | ~1,987 |
+| Flesh Wound | 15.00% | ~2,294 |
+| The Outer Way | 14.00% | ~2,141 |
+| Desperate Times | 13.00% | ~1,988 |
 | Paper Jams | 11.00% | ~1,682 |
 | Chew 'Em Up | 10.00% | ~1,529 |
 | Reforged | 10.00% | ~1,529 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 846)
 | Parole Denied | 1.00% | ~32 |
 | Hoard Mode | 1.00% | ~32 |
 | Grim Reaper | 0.90% | ~138 |
-| Recidivist | 0.70% | ~22 |
-| Lifer | 0.70% | ~22 |
+| Recidivist | 0.70% | ~23 |
+| Lifer | 0.70% | ~23 |
 | Armed to the Teeth | 0.30% | ~10 |
 | The Protocol is About Life | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~15 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 846)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,288 (Ranked 103)  
+Progressed: 15,290 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,288 | 55 |
+| 2023-06-15 | 15,290 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 311 (Ranked 329)  

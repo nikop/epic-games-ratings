@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4522,10 +4522,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10535,
       "NumberOfAwardsMax": 6173
+    },
+    {
+      "Time": "2023-06-15T04:59:20.9392146+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10536,
+      "NumberOfAwardsMax": 6173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10535,
+  "NumberOfAwards": 10536,
   "NumberOfAwardsMax": 6173,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4563,7 +4569,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 527
+      "Count": 528
     },
     {
       "Text": "This game is Relaxing",
@@ -4602,9 +4608,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709370,
+  "EOS_Progressed": 709378,
   "EOS_Completed": 12770,
-  "EOS_NewPlayers": 1429,
+  "EOS_NewPlayers": 1430,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9877,6 +9883,11 @@
       "Time": "2023-06-15T04:07:05.76528+00:00",
       "NumProgressed": 709370,
       "NumCompleted": 12770
+    },
+    {
+      "Time": "2023-06-15T05:06:35.0984311+00:00",
+      "NumProgressed": 709378,
+      "NumCompleted": 12770
     }
   ],
   "TotalAchievements": 50,
@@ -9984,7 +9995,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -10104,7 +10115,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -10144,7 +10155,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "34_TimedTakedown",
@@ -10287,21 +10298,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18671,
+      "Progressed": 18679,
       "Completed": 10269
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709370,
+      "Progressed": 709378,
       "Completed": 12770
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-14T17:59:09.6545664+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:07:05.7652795+00:00",
+  "LastChanged": "2023-06-15T04:59:20.9392144+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:35.0984306+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:59:37.2183224+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:07:05.7653479+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:59:20.9392151+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:35.0984856+00:00"
 }

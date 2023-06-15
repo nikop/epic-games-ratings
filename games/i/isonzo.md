@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 36.00% | ~2,246 |
 | Mamma Mia! | 36.00% | ~2,246 |
 | Gabriele D'Annunzio | 32.00% | ~1,997 |
-| Silver Lining | 28.00% | ~1,747 |
+| Silver Lining | 29.00% | ~1,810 |
 | Aurelio Baruzzi | 22.00% | ~1,373 |
 | Veni Vidi Vici | 22.00% | ~1,373 |
 | Decimation | 20.00% | ~1,248 |

@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 796)
 | Sorry, Didn't See You There | 12.00% | ~213 |
 | Corrupted Beauty | 11.00% | ~196 |
 | Triplets | 10.00% | ~178 |
+| Defense in Depth | 9.00% | ~160 |
 | Stimulating The Local Economy | 9.00% | ~160 |
 | A Little Banged Up | 8.00% | ~142 |
 | Denying Prophecy | 8.00% | ~142 |
 | Following In Their Footsteps | 8.00% | ~142 |
-| Defense in Depth | 8.00% | ~142 |
 | Reverse Engineering | 7.00% | ~125 |
 | Turbo Booster | 6.00% | ~107 |
 | Squid Pro Quo | 6.00% | ~107 |

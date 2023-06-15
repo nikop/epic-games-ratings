@@ -12,8 +12,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 22.00% | ~131 |
 | Weeper | 21.00% | ~125 |
 | Devourer | 15.00% | ~89 |
+| Silenced Whispers | 14.00% | ~83 |
 | Harmless | 13.00% | ~77 |
-| Silenced Whispers | 13.00% | ~77 |
 | Yank | 13.00% | ~77 |
 | Scion | 12.00% | ~21 |
 | Glare | 12.00% | ~21 |

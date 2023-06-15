@@ -5316,9 +5316,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 787738,
+  "EOS_Progressed": 787740,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1774,
+  "EOS_NewPlayers": 1773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11111,6 +11111,11 @@
       "Time": "2023-06-15T04:07:07.2453176+00:00",
       "NumProgressed": 787738,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-15T05:06:36.793829+00:00",
+      "NumProgressed": 787740,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 82,
@@ -11210,7 +11215,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 110283
+      "UsersEstimate": 110284
     },
     {
       "ID": "Buddy",
@@ -11234,7 +11239,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 196934
+      "UsersEstimate": 196935
     },
     {
       "ID": "Chivalrous",
@@ -11402,7 +11407,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70896
+      "UsersEstimate": 70897
     },
     {
       "ID": "HardcoreHenry",
@@ -11777,15 +11782,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 787738,
+      "Progressed": 787740,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-14T19:58:58.1176758+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:07:07.2453172+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:36.7938284+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:40.4951451+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:58:54.9760969+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:07:07.24541+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:58:42.1954951+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:36.7939248+00:00"
 }

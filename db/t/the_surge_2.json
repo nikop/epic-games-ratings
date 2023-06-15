@@ -233,7 +233,7 @@
   "Tags": [],
   "EOS_Progressed": 1779,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1439,9 +1439,9 @@
       "ID": "ACHV_19",
       "SetID": "8p5mlmc",
       "Name": "Defense in Depth",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHV_20",
@@ -1760,8 +1760,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-11T19:00:01.1883541+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:07:07.5486694+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:36.9267618+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:01:16.4256668+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:07:07.5487133+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:00:50.290099+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:36.9268035+00:00"
 }

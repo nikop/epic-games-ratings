@@ -2,9 +2,9 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -113,6 +113,11 @@
       "Time": "2023-06-15T03:01:17.757322+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T05:01:16.1431406+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -178,7 +183,7 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -363,7 +368,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
@@ -371,8 +376,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:01:43.2661649+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:01:16.1431402+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.4813119+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:57:53.64119+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:01:43.2661847+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:57:45.4662472+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:01:16.143161+00:00"
 }

@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,547 |
 | Iron Money | 0.50% | ~3,547 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,547 |
-| Prodigal Child | 0.40% | ~2,837 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,837 |
-| Sword Stained With Blood | 0.40% | ~2,837 |
+| Prodigal Child | 0.40% | ~2,838 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,838 |
+| Sword Stained With Blood | 0.40% | ~2,838 |
 | Martial Hub | 0.40% | ~75 |
 | Secure, Protect, Leave | 0.40% | ~75 |
 | Drunken Fighter | 0.30% | ~2,128 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,370 (Ranked 17)  
+Progressed: 709,378 (Ranked 17)  
 Completed: 12,770 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,15 +113,15 @@ Completed: 12,770 (1.80%) (Ranked 75)
 | 2023-06-12 | 708,992 | 12,767 |
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
-| 2023-06-15 | 709,370 | 12,770 |
+| 2023-06-15 | 709,378 | 12,770 |
 ## Awards
 Max (Great Boss Battles): 6,173  (Ranked 52)  
-Sum: 10,535 (Ranked 78)  
+Sum: 10,536 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,173 |
-| This game has Diverse Characters | 527 |
+| This game has Diverse Characters | 528 |
 | This game has Challenging Combat | 520 |
 | This game has Quickly Understood Controls | 514 |
 | This game is Extremely Fun | 504 |
@@ -284,3 +284,4 @@ Diff (max vs sum): -26
 | 2023-06-12 | 4.82 | - | 6,168 | 10,526 |
 | 2023-06-13 | 4.82 | - | 6,168 | 10,527 |
 | 2023-06-14 | 4.82 | - | 6,173 | 10,535 |
+| 2023-06-15 | 4.82 | - | 6,173 | 10,536 |

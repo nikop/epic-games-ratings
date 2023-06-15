@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2869,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3583,6 +3583,11 @@
       "Time": "2023-06-15T04:06:57.7572142+00:00",
       "NumProgressed": 2869,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T05:06:27.8180888+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3618,7 +3623,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3712,9 +3717,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 230
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3746,7 +3751,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3762,7 +3767,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3802,7 +3807,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3856,9 +3861,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3906,7 +3911,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3930,7 +3935,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4161,13 +4166,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2820,
+      "Progressed": 2822,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2869,
+      "Progressed": 2871,
       "Completed": 2
     }
   ],
@@ -4175,8 +4180,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:06:57.7572136+00:00",
+  "LastChanged_Achievements": "2023-06-15T05:06:27.8180883+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:01:22.2257594+00:00",
-  "LastUpdate_Achievements": "2023-06-15T04:06:57.757282+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:00:56.0173809+00:00",
+  "LastUpdate_Achievements": "2023-06-15T05:06:27.8181547+00:00"
 }
