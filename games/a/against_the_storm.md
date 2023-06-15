@@ -42,8 +42,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 0.80% | ~123 |
 | Forbidden Lands | 0.80% | ~123 |
 | Fishmen Ritual Site | 0.70% | ~107 |
+| Prestigious Expedition | 0.60% | ~92 |
 | Efficient Explorer | 0.50% | ~77 |
-| Prestigious Expedition | 0.50% | ~77 |
 | Blood Flower Farmer | 0.50% | ~77 |
 | Victory through Prosperity | 0.50% | ~77 |
 | Lizard Utopia | 0.40% | ~61 |

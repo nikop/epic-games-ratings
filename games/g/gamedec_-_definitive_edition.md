@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,962 |
-| Powergamer | 27.00% | ~62,642 |
-| Barely scratched the surface | 25.00% | ~58,002 |
-| Write that down | 24.00% | ~55,682 |
-| Guns, lots of guns | 12.00% | ~27,841 |
-| Collector | 11.00% | ~25,521 |
+| I will finish what you started | 28.00% | ~64,964 |
+| Powergamer | 27.00% | ~62,644 |
+| Barely scratched the surface | 25.00% | ~58,004 |
+| Write that down | 24.00% | ~55,683 |
+| Guns, lots of guns | 12.00% | ~27,842 |
+| Collector | 11.00% | ~25,522 |
 | Elementary! | 8.00% | ~18,561 |
 | Pumpkin Jack | 8.00% | ~18,561 |
 | Wake up! | 8.00% | ~18,561 |
 | It's honest work | 7.00% | ~16,241 |
 | Griever | 7.00% | ~16,241 |
-| Me smart | 6.00% | ~13,920 |
-| Good listener | 5.00% | ~11,600 |
-| Trash compactor | 5.00% | ~11,600 |
-| Valedictorian | 5.00% | ~11,600 |
-| BOY! | 4.00% | ~9,280 |
-| Ka-ching! | 4.00% | ~9,280 |
-| So you like to read? | 4.00% | ~9,280 |
+| Me smart | 6.00% | ~13,921 |
+| Good listener | 5.00% | ~11,601 |
+| Trash compactor | 5.00% | ~11,601 |
+| Valedictorian | 5.00% | ~11,601 |
+| BOY! | 4.00% | ~9,281 |
+| Ka-ching! | 4.00% | ~9,281 |
+| So you like to read? | 4.00% | ~9,281 |
 | I like to sniff around | 3.00% | ~6,960 |
 | Mind reader | 3.00% | ~6,960 |
 | Gentleman's classic | 2.00% | ~4,640 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~464 |
 | Memory 5 | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,008 (Ranked 44)  
+Progressed: 232,014 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 6 (0.00%) (Ranked 223)
 | 2023-06-12 | 231,587 | 5 |
 | 2023-06-13 | 231,748 | 6 |
 | 2023-06-14 | 231,887 | 6 |
-| 2023-06-15 | 232,008 | 6 |
+| 2023-06-15 | 232,014 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 360)  
 Sum: 74 (Ranked 421)  

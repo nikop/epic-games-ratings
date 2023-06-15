@@ -15,8 +15,8 @@
 | Clean energy | 17.00% | ~43 |
 | Soviet town | 17.00% | ~43 |
 | Bucolic city | 13.00% | ~33 |
+| King of fish | 9.00% | ~23 |
 | I love books! | 8.00% | ~20 |
-| King of fish | 8.00% | ~20 |
 | I love parks | 8.00% | ~20 |
 | What would we do if we can't go out with friends? | 7.00% | ~18 |
 | Food producer | 5.00% | ~13 |

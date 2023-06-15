@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,135 |
-| Rookie | 25.00% | ~6,606 |
-| Nomad | 19.00% | ~5,021 |
-| Picking Up Speed | 17.00% | ~4,492 |
-| Welcome Maya | 16.00% | ~4,228 |
-| Sightseer | 12.00% | ~3,171 |
-| Scout | 10.00% | ~2,643 |
-| Amateur | 9.00% | ~2,378 |
-| Wanderer | 9.00% | ~2,378 |
-| Enter Paz | 8.00% | ~2,114 |
-| Unlock Maya | 7.00% | ~1,850 |
+| Finding Your Footing | 27.00% | ~7,138 |
+| Rookie | 25.00% | ~6,609 |
+| Nomad | 19.00% | ~5,023 |
+| Picking Up Speed | 17.00% | ~4,494 |
+| Welcome Maya | 16.00% | ~4,230 |
+| Sightseer | 12.00% | ~3,172 |
+| Scout | 10.00% | ~2,644 |
+| Amateur | 9.00% | ~2,379 |
+| Wanderer | 9.00% | ~2,379 |
+| Enter Paz | 8.00% | ~2,115 |
+| Unlock Maya | 7.00% | ~1,851 |
 | Aviator | 6.00% | ~1,586 |
 | One With The Board | 6.00% | ~1,586 |
-| My Little Friend | 5.00% | ~1,321 |
-| Voyager | 5.00% | ~1,321 |
+| My Little Friend | 5.00% | ~1,322 |
+| Voyager | 5.00% | ~1,322 |
 | Sandboarder | 4.00% | ~1,057 |
 | Izel Has Arrived | 4.00% | ~1,057 |
 | Junkie | 3.00% | ~793 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~26 |
 | Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,426 (Ranked 91)  
+Progressed: 26,436 (Ranked 91)  
 Completed: 5 (0.02%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,14 +102,14 @@ Completed: 5 (0.02%) (Ranked 203)
 | 2023-06-12 | 25,987 | 4 |
 | 2023-06-13 | 26,152 | 5 |
 | 2023-06-14 | 26,301 | 5 |
-| 2023-06-15 | 26,426 | 5 |
+| 2023-06-15 | 26,436 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 411)  
-Sum: 346 (Ranked 320)  
-Diff (max vs sum): 91  
+Max (Great for Quick Sessions): 45  (Ranked 407)  
+Sum: 347 (Ranked 320)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 44 |
+| This game is Great for Quick Sessions | 45 |
 | This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 40 |
 | This game has Beautiful Visuals | 38 |
@@ -208,3 +208,4 @@ Diff (max vs sum): 91
 | 2023-05-21 | 4.69 | - | 44 | 344 |
 | 2023-06-01 | 4.69 | - | 44 | 345 |
 | 2023-06-07 | 4.69 | - | 44 | 346 |
+| 2023-06-15 | 4.69 | - | 45 | 347 |

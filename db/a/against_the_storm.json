@@ -2374,7 +2374,7 @@
   ],
   "EOS_Progressed": 15325,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5722,9 +5722,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 92
     },
     {
       "ID": "WinPrestige20",
@@ -5834,8 +5834,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-14T21:00:06.1272525+00:00",
-  "LastChanged_Achievements": "2023-06-15T19:06:53.9259511+00:00",
+  "LastChanged_Achievements": "2023-06-15T20:06:23.0655296+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:00:29.4460275+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:06:53.9259979+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:00:07.1679571+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:06:23.0655918+00:00"
 }

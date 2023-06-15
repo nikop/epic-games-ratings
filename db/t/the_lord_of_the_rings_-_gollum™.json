@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -840,6 +840,11 @@
       "Time": "2023-06-15T17:05:35.0234711+00:00",
       "NumProgressed": 438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T20:06:01.6702685+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -873,9 +878,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 268
     },
     {
       "ID": "Chapter10",
@@ -915,7 +920,7 @@
       "Name": "The Traitor",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Chapter6",
@@ -931,7 +936,7 @@
       "Name": "Good as Fish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Chapter8",
@@ -939,7 +944,7 @@
       "Name": "Her Eyes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Chapter9",
@@ -953,9 +958,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 220
     },
     {
       "ID": "Collectibles2",
@@ -1003,7 +1008,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "GollumChoices",
@@ -1017,9 +1022,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "Memories",
@@ -1129,23 +1134,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 220
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-15T19:06:29.9574334+00:00",
+  "LastChanged_Achievements": "2023-06-15T20:06:01.6702678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:58:07.2948559+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:06:29.9574591+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:58:07.4047027+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:06:01.6703003+00:00"
 }

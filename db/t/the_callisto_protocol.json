@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -588,10 +588,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 312,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-15T19:58:15.7237365+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 312,
+  "NumberOfAwards": 314,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -617,7 +623,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -638,10 +644,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15347,
-  "EOS_Completed": 55,
-  "EOS_NewPlayers": 590,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 15355,
+  "EOS_Completed": 56,
+  "EOS_NewPlayers": 593,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -4003,6 +4009,11 @@
       "Time": "2023-06-15T19:04:52.2604243+00:00",
       "NumProgressed": 15347,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-15T20:04:39.3870698+00:00",
+      "NumProgressed": 15355,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4030,7 +4041,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4038,7 +4049,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "DISARM_ENEMY",
@@ -4046,7 +4057,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4054,7 +4065,7 @@
       "Name": "Grim Reaper",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -4134,7 +4145,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4142,7 +4153,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "KILL_ROBOT",
@@ -4158,7 +4169,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4166,7 +4177,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -4174,7 +4185,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4182,7 +4193,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4190,7 +4201,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4206,7 +4217,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4214,7 +4225,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "STORY_HABITAT",
@@ -4222,7 +4233,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "STORY_HANGAR",
@@ -4246,7 +4257,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4270,7 +4281,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "DISMEMBER_100",
@@ -4326,29 +4337,29 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15347,
-      "Completed": 55
+      "Progressed": 15355,
+      "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3273,
+      "Progressed": 3281,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-15T15:57:58.2494775+00:00",
-  "LastChanged_Achievements": "2023-06-15T19:04:52.2604239+00:00",
+  "LastChanged": "2023-06-15T19:58:15.7237363+00:00",
+  "LastChanged_Achievements": "2023-06-15T20:04:39.387069+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:58:17.1005368+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:04:52.2604623+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:58:15.7237369+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:04:39.3871223+00:00"
 }

@@ -7,8 +7,8 @@ Rating: 4.52 (Ranked 516)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~871 |
 | Confirming Suspicions | 25.00% | ~726 |
-| The Kraken Wakes | 20.00% | ~580 |
-| It's Starting to Crack | 18.00% | ~522 |
+| The Kraken Wakes | 20.00% | ~581 |
+| It's Starting to Crack | 18.00% | ~523 |
 | Lord of War | 16.00% | ~464 |
 | Change the Channel | 15.00% | ~435 |
 | Resourceful | 14.00% | ~406 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 516)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,902 (Ranked 145)  
+Progressed: 2,903 (Ranked 146)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,902 | 2 |
+| 2023-06-15 | 2,903 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

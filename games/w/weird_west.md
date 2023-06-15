@@ -6,12 +6,12 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,435 |
-| Self-Improvement | 72.00% | ~1,187 |
-| Perky | 66.00% | ~1,088 |
-| Let’s Ride | 60.00% | ~989 |
+| Unforgiven | 87.00% | ~1,436 |
+| Self-Improvement | 72.00% | ~1,188 |
+| Perky | 66.00% | ~1,089 |
+| Let’s Ride | 60.00% | ~990 |
 | Welcome to the Weird West | 57.00% | ~940 |
-| Dead or Alive | 55.00% | ~907 |
+| Dead or Alive | 55.00% | ~908 |
 | Full House | 36.00% | ~594 |
 | Off the Trail | 33.00% | ~544 |
 | Justice Served | 28.00% | ~462 |
@@ -20,35 +20,35 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~412 |
 | Scholar | 25.00% | ~412 |
 | Through Their Eyes | 25.00% | ~412 |
-| The Great Escape | 23.00% | ~379 |
+| The Great Escape | 23.00% | ~380 |
 | That’s All, Folks | 18.00% | ~297 |
 | Fallen Star | 16.00% | ~264 |
 | Here Comes Santa Claus | 16.00% | ~264 |
 | Winds of War | 16.00% | ~264 |
-| For Balance | 15.00% | ~247 |
+| For Balance | 15.00% | ~248 |
 | Dog Days | 13.00% | ~214 |
 | Elusive Prey | 12.00% | ~198 |
 | Out on the Ebb Tide | 12.00% | ~198 |
 | Power Behind the Pulpit | 12.00% | ~198 |
 | Turning the Tables | 12.00% | ~198 |
 | Workers' Rights | 12.00% | ~198 |
-| Something Wicked This Way Comes… | 11.00% | ~181 |
-| There is Hope | 11.00% | ~181 |
+| Something Wicked This Way Comes… | 11.00% | ~182 |
+| There is Hope | 11.00% | ~182 |
 | Loyalty to the Pack | 9.00% | ~148 |
 | Mystery Machine | 9.00% | ~148 |
 | The Philosopher’s Stone | 9.00% | ~148 |
 | Gold Digger | 8.00% | ~132 |
 | Eternity Can Wait | 8.00% | ~132 |
-| Do Not Pass Go… | 7.00% | ~115 |
-| Monster Hunter | 7.00% | ~115 |
-| Knuckle Sandwich | 7.00% | ~115 |
+| Do Not Pass Go… | 7.00% | ~116 |
+| Monster Hunter | 7.00% | ~116 |
+| Knuckle Sandwich | 7.00% | ~116 |
 | Getting the Gang Back Together | 6.00% | ~99 |
 | Healing Old Wounds | 6.00% | ~99 |
 | Who You Gonna Call? | 6.00% | ~99 |
 | This Is Sparta | 5.00% | ~82 |
 | What’s in the Box? | 4.00% | ~66 |
-| Ghost Town | 3.00% | ~49 |
-| Moondrunk | 3.00% | ~49 |
+| Ghost Town | 3.00% | ~50 |
+| Moondrunk | 3.00% | ~50 |
 | Lord Inut Sends His Regards | 2.00% | ~33 |
 | I Kicked a Bird and I Liked it | 1.00% | ~16 |
 | Hog Wild | 1.00% | ~16 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,649 (Ranked 162)  
+Progressed: 1,650 (Ranked 162)  
 Completed: 2 (0.12%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.12%) (Ranked 168)
 | 2023-06-12 | 1,636 | 2 |
 | 2023-06-13 | 1,645 | 2 |
 | 2023-06-14 | 1,647 | 2 |
-| 2023-06-15 | 1,649 | 2 |
+| 2023-06-15 | 1,650 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 472)  
 Sum: 24 (Ranked 478)  

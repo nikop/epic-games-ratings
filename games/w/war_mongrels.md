@@ -11,32 +11,32 @@ Number of Ratings: 34  (23.09.2022)
 | NO LIFE IS WORTH SAVING... | 47.00% | ~170 |
 | Eat Lead! | 44.00% | ~159 |
 | Prospector | 41.00% | ~148 |
-| The Breaking Point | 40.00% | ~144 |
-| Here Comes the Boom | 40.00% | ~144 |
-| Treasure Hunter | 38.00% | ~137 |
-| The Motivation | 35.00% | ~126 |
-| Sniper Wolf | 35.00% | ~126 |
-| Missing in Action | 34.00% | ~123 |
+| The Breaking Point | 40.00% | ~145 |
+| Here Comes the Boom | 40.00% | ~145 |
+| Treasure Hunter | 38.00% | ~138 |
+| The Motivation | 35.00% | ~127 |
+| Sniper Wolf | 35.00% | ~127 |
 | Heroism | 33.00% | ~119 |
+| Missing in Action | 33.00% | ~119 |
 | Collectibles of Chapter I | 31.00% | ~112 |
 | King of Knives | 29.00% | ~105 |
 | Consequences | 28.00% | ~101 |
 | Opportunities | 26.00% | ~94 |
 | The Horror | 25.00% | ~90 |
-| Collectibles of Chapter II | 22.00% | ~79 |
-| The Difference | 22.00% | ~79 |
-| It's Just an Accident | 22.00% | ~79 |
+| Collectibles of Chapter II | 22.00% | ~80 |
+| The Difference | 22.00% | ~80 |
+| It's Just an Accident | 22.00% | ~80 |
 | Vengeance | 20.00% | ~72 |
-| Broken Hopes | 17.00% | ~61 |
-| Food Massacre | 17.00% | ~61 |
-| Bullseye! | 17.00% | ~61 |
+| Broken Hopes | 17.00% | ~62 |
+| Food Massacre | 17.00% | ~62 |
+| Bullseye! | 17.00% | ~62 |
 | Collectibles of Chapter III | 15.00% | ~54 |
 | Sorrow | 15.00% | ~54 |
 | Collectibles of Chapter IV | 14.00% | ~51 |
 | Atonement | 14.00% | ~51 |
 | Helping Hand | 13.00% | ~47 |
 | Without a Second Thought | 12.00% | ~43 |
-| Collectibles of Chapter V | 9.00% | ~32 |
+| Collectibles of Chapter V | 9.00% | ~33 |
 | Such is War! | 8.00% | ~29 |
 | Tiptoe Around | 7.00% | ~25 |
 | Collectibles of Chapter VII | 6.00% | ~22 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 225)  
+Progressed: 362 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 346 | 0 |
 | 2023-06-13 | 354 | 0 |
 | 2023-06-14 | 355 | 0 |
-| 2023-06-15 | 361 | 0 |
+| 2023-06-15 | 362 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

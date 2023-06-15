@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -616,9 +616,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ACT3",
@@ -777,8 +777,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-15T19:06:31.6645345+00:00",
+  "LastChanged_Achievements": "2023-06-15T20:06:03.1146942+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:57:50.3148942+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:06:31.6645524+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:57:52.4111728+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:06:03.114716+00:00"
 }

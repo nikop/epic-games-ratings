@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 413,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4674,
+  "EOS_Progressed": 4676,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3962,6 +3962,11 @@
       "Time": "2023-06-15T19:05:16.5857666+00:00",
       "NumProgressed": 4674,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T20:05:00.4028526+00:00",
+      "NumProgressed": 4676,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3973,7 +3978,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "10",
@@ -4013,7 +4018,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "15",
@@ -4029,7 +4034,7 @@
       "Name": "God Emperor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "17",
@@ -4037,7 +4042,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "18",
@@ -4085,7 +4090,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3554
     },
     {
       "ID": "23",
@@ -4093,7 +4098,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3694
     },
     {
       "ID": "24",
@@ -4101,7 +4106,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "25",
@@ -4109,7 +4114,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "26",
@@ -4117,7 +4122,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "27",
@@ -4125,7 +4130,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "28",
@@ -4133,7 +4138,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "29",
@@ -4141,7 +4146,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2619
     },
     {
       "ID": "3",
@@ -4149,7 +4154,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "30",
@@ -4165,7 +4170,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "32",
@@ -4189,7 +4194,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "35",
@@ -4197,7 +4202,7 @@
       "Name": "I Want to Break Free",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "36",
@@ -4221,7 +4226,7 @@
       "Name": "Manufactured War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "39",
@@ -4237,7 +4242,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "40",
@@ -4245,7 +4250,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "41",
@@ -4277,7 +4282,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "5",
@@ -4324,13 +4329,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4674,
-      "Completed": 4674
+      "Progressed": 4676,
+      "Completed": 4676
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4674,
+      "Progressed": 4676,
       "Completed": 3
     }
   ],
@@ -4338,8 +4343,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-15T19:05:16.5857661+00:00",
+  "LastChanged_Achievements": "2023-06-15T20:05:00.4028519+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:59:55.1606198+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:05:16.5858122+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:59:38.4053228+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:05:00.4029142+00:00"
 }

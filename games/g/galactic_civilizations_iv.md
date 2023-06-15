@@ -6,15 +6,15 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,694 |
-| Worker Specialization | 78.00% | ~4,635 |
+| Colonize a Planet | 79.00% | ~4,695 |
+| Worker Specialization | 78.00% | ~4,636 |
 | First Contact | 73.00% | ~4,338 |
-| Win a Battle | 67.00% | ~3,981 |
-| Anomaly Researcher | 63.00% | ~3,743 |
-| Unleash My Power | 62.00% | ~3,684 |
+| Win a Battle | 67.00% | ~3,982 |
+| Anomaly Researcher | 63.00% | ~3,744 |
+| Unleash My Power | 62.00% | ~3,685 |
 | Own 30 Planets | 35.00% | ~2,080 |
 | Xenocide | 33.00% | ~1,961 |
-| Design a Civilization | 32.00% | ~1,901 |
+| Design a Civilization | 32.00% | ~1,902 |
 | Commodity Trader | 31.00% | ~1,842 |
 | Design a Ship | 29.00% | ~1,723 |
 | Commodity Seller | 26.00% | ~1,545 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~297 |
 | Win Quickly | 5.00% | ~297 |
 | Conquest Victory! | 4.00% | ~238 |
-| Win an Immense Game | 4.00% | ~238 |
 | Pirate Cleansing | 3.00% | ~178 |
+| Win an Immense Game | 3.00% | ~178 |
 | Artifact Mastery | 2.00% | ~119 |
 | Win as Altarians | 2.00% | ~119 |
 | Win as the Mimot | 2.00% | ~119 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,942 (Ranked 125)  
+Progressed: 5,943 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 5,926 | 0 |
 | 2023-06-13 | 5,936 | 0 |
 | 2023-06-14 | 5,938 | 0 |
-| 2023-06-15 | 5,942 | 0 |
+| 2023-06-15 | 5,943 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 342)  
 Sum: 663 (Ranked 271)  

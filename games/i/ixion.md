@@ -21,9 +21,9 @@ Rating: 4.57 (Ranked 443)
 | A Hunk of Junk | 6.00% | ~159 |
 | Breaking Protocol | 6.00% | ~159 |
 | Exceeding Capacity | 5.00% | ~133 |
-| Man's Best Friend | 4.00% | ~106 |
 | Power Outage | 4.00% | ~106 |
 | Please Make it Stop! | 4.00% | ~106 |
+| Man's Best Friend | 3.00% | ~80 |
 | Sightseeing | 3.00% | ~80 |
 | Access Granted | 3.00% | ~80 |
 | Necessary Enhancement | 3.00% | ~80 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,657 (Ranked 149)  
+Progressed: 2,658 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 2,609 | 0 |
 | 2023-06-13 | 2,625 | 0 |
 | 2023-06-14 | 2,639 | 0 |
-| 2023-06-15 | 2,657 | 0 |
+| 2023-06-15 | 2,658 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

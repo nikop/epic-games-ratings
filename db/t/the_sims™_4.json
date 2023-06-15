@@ -4,10 +4,10 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 363,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 175,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -2954,10 +2954,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2287,
       "NumberOfAwardsMax": 363
+    },
+    {
+      "Time": "2023-06-15T19:57:58.9152318+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2301,
+      "NumberOfAwardsMax": 363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2287,
+  "NumberOfAwards": 2301,
   "NumberOfAwardsMax": 363,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2977,7 +2983,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 298
+      "Count": 305
     },
     {
       "Text": "This game has a Creative Community",
@@ -3007,7 +3013,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 167
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3025,7 +3031,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 143
+      "Count": 147
     }
   ],
   "EOS_Progressed": 0,
@@ -3040,8 +3046,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-15T17:57:47.1929527+00:00",
+  "LastChanged": "2023-06-15T19:57:58.9152314+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:42.8303443+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:57:58.1343776+00:00",
-  "LastUpdate_Achievements": "2023-06-15T19:03:34.5093232+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:57:58.915235+00:00",
+  "LastUpdate_Achievements": "2023-06-15T20:03:42.6292533+00:00"
 }

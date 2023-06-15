@@ -10,7 +10,7 @@
 | Adventurer | 4.00% | ~109 |
 | Hero | 3.00% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,718 (Ranked 148)  
+Progressed: 2,718 (Ranked 149)  
 Completed: 89 (3.27%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
