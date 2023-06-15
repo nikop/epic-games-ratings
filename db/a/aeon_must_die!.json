@@ -458,9 +458,9 @@
       "ID": "33",
       "SetID": "5cfan5f",
       "Name": "Cheap Tricks",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 840
     },
     {
       "ID": "34",
@@ -539,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:15:03.1816294+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:05:14.4634398+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.8710909+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:06:38.6762992+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:15:03.1816518+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:57:07.6955469+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:05:14.4634645+00:00"
 }

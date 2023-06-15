@@ -5,38 +5,38 @@ Rating: 4.53 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~864 |
-| Confirming Suspicions | 25.00% | ~720 |
-| The Kraken Wakes | 20.00% | ~576 |
+| Meeting Resistance | 30.00% | ~866 |
+| Confirming Suspicions | 25.00% | ~722 |
+| The Kraken Wakes | 21.00% | ~606 |
 | It's Starting to Crack | 18.00% | ~519 |
-| Lord of War | 15.00% | ~432 |
-| Change the Channel | 15.00% | ~432 |
-| Resourceful | 14.00% | ~403 |
+| Lord of War | 15.00% | ~433 |
+| Change the Channel | 15.00% | ~433 |
+| Resourceful | 14.00% | ~404 |
 | Taking it back | 13.00% | ~375 |
+| Target America | 12.00% | ~346 |
 | Organ Grinder | 11.00% | ~317 |
-| Target America | 11.00% | ~317 |
-| As Quiet as a Mouse | 10.00% | ~288 |
-| The Kraken Sleeps | 10.00% | ~288 |
-| Liberté | 9.00% | ~259 |
-| Just a Flesh Wound | 9.00% | ~259 |
-| Gunslinger | 9.00% | ~259 |
-| Sharpshooter | 9.00% | ~259 |
-| Explosive Efficiency | 9.00% | ~259 |
-| Enemy at the Gates | 8.00% | ~230 |
+| As Quiet as a Mouse | 11.00% | ~317 |
+| The Kraken Sleeps | 10.00% | ~289 |
+| Liberté | 9.00% | ~260 |
+| Just a Flesh Wound | 9.00% | ~260 |
+| Gunslinger | 9.00% | ~260 |
+| Sharpshooter | 9.00% | ~260 |
+| Explosive Efficiency | 9.00% | ~260 |
+| Enemy at the Gates | 8.00% | ~231 |
 | Opposing Force | 7.00% | ~202 |
 | Der Geist | 7.00% | ~202 |
 | Close Quarters | 7.00% | ~202 |
 | Snake in the Grass | 7.00% | ~202 |
 | Brains of the Operation | 7.00% | ~202 |
 | Climbing the Ladder | 6.00% | ~173 |
+| No Stone Unturned | 6.00% | ~173 |
 | Fields of Glory | 6.00% | ~173 |
 | Skirmisher | 6.00% | ~173 |
 | Die Nussknacker Sweet! | 6.00% | ~173 |
-| No Stone Unturned | 5.00% | ~144 |
 | Set Europe Ablaze | 5.00% | ~144 |
 | Precision Is Key | 4.00% | ~115 |
 | Rigged to Blow | 4.00% | ~115 |
-| My Little Friend | 3.00% | ~86 |
+| My Little Friend | 3.00% | ~87 |
 | The Long Game | 2.00% | ~58 |
 | It'll Buff Right Out | 2.00% | ~58 |
 | Locomotion Commotion | 2.00% | ~58 |
@@ -48,8 +48,8 @@ Rating: 4.53 (Ranked 501)
 | Operation Foxley | 1.00% | ~28 |
 | Ghost of Falaise | 1.00% | ~28 |
 | Burn after reading | 0.90% | ~26 |
-| Last Resort | 0.90% | ~25 |
-| Siegebreaker | 0.90% | ~25 |
+| Last Resort | 0.90% | ~26 |
+| Siegebreaker | 0.90% | ~26 |
 | From Paris with Love | 0.70% | ~20 |
 | Souvenir hunter | 0.70% | ~20 |
 | Shoot for the Moon | 0.70% | ~20 |
@@ -59,9 +59,9 @@ Rating: 4.53 (Ranked 501)
 | If You Go Down To The Woods Today | 0.50% | ~14 |
 | Fight Another Day | 0.50% | ~14 |
 | Sight Beyond Sights | 0.40% | ~12 |
-| Führerious Repetition | 0.30% | ~8 |
-| Reich To The Point | 0.30% | ~8 |
-| Covert Elimination | 0.30% | ~8 |
+| Führerious Repetition | 0.30% | ~9 |
+| Reich To The Point | 0.30% | ~9 |
+| Covert Elimination | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 501)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,881 (Ranked 144)  
+Progressed: 2,886 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,881 | 2 |
+| 2023-06-15 | 2,886 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

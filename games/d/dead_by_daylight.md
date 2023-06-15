@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.50% | ~2,784 |
-| Resurgence | 0.50% | ~2,784 |
-| Preemptive Strike | 0.50% | ~2,784 |
-| Humanitarian | 0.50% | ~2,784 |
-| Wounded Healer | 0.40% | ~2,227 |
-| Close Shave | 0.40% | ~2,227 |
-| Flight to Freedom | 0.40% | ~2,227 |
+| Resurgence | 0.60% | ~3,342 |
+| Healthy Obsession | 0.50% | ~2,785 |
+| Preemptive Strike | 0.50% | ~2,785 |
+| Humanitarian | 0.50% | ~2,785 |
+| Wounded Healer | 0.40% | ~2,228 |
+| Close Shave | 0.40% | ~2,228 |
+| Flight to Freedom | 0.40% | ~2,228 |
 | Unforgettable Getaway | 0.30% | ~1,671 |
 | First to the Punch | 0.30% | ~1,671 |
 | Old West Oasis | 0.30% | ~1,671 |
 | Every Last Drop | 0.30% | ~1,671 |
 | With Scars to Show | 0.30% | ~1,671 |
+| A Fast Death | 0.30% | ~1,671 |
 | Ancestor's Rite | 0.20% | ~1,114 |
 | Devoted Gatekeeping | 0.20% | ~1,114 |
 | Cutting Out | 0.20% | ~1,114 |
@@ -28,7 +29,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.20% | ~1,114 |
 | End of Days | 0.20% | ~1,114 |
 | Raccoon City Recruit | 0.20% | ~1,114 |
-| A Fast Death | 0.20% | ~1,114 |
 | Lifting The Fog | 0.20% | ~1,114 |
 | Chorus of Chaos | 0.20% | ~1,114 |
 | The Grand Sacrifice | 0.10% | ~557 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~557 |
 | Adept Gabriel | 0.10% | ~557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 556,846 (Ranked 27)  
+Progressed: 556,997 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,18 +283,18 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 556,846 | 42 |
+| 2023-06-15 | 556,997 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,434 (Ranked 12)  
+Sum: 227,474 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,462 |
 | This game has Competitive Players | 26,170 |
 | This game is Highly Recommended | 25,846 |
+| This game has Amazing Characters | 25,748 |
 | This game is Extremely Fun | 25,718 |
-| This game has Amazing Characters | 25,708 |
 | This game has Quickly Understood Controls | 25,520 |
 | This game has Challenging Combat | 24,889 |
 | This game has Amazing Storytelling | 23,418 |
@@ -446,4 +446,4 @@ Diff (max vs sum): 4
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
-| 2023-06-15 | 4.52 | - | 28,462 | 227,434 |
+| 2023-06-15 | 4.52 | - | 28,462 | 227,474 |

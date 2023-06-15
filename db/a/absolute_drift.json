@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523275,
+  "EOS_Progressed": 1523283,
   "EOS_Completed": 623,
-  "EOS_NewPlayers": 1588,
+  "EOS_NewPlayers": 1581,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6295,6 +6295,11 @@
       "Time": "2023-06-15T13:13:24.2488059+00:00",
       "NumProgressed": 1523275,
       "NumCompleted": 623
+    },
+    {
+      "Time": "2023-06-15T14:03:36.908402+00:00",
+      "NumProgressed": 1523283,
+      "NumCompleted": 623
     }
   ],
   "TotalAchievements": 20,
@@ -6314,7 +6319,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106629
+      "UsersEstimate": 106630
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -6418,7 +6423,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121862
+      "UsersEstimate": 121863
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6426,7 +6431,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13709
+      "UsersEstimate": 13710
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -6465,15 +6470,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523275,
+      "Progressed": 1523283,
       "Completed": 623
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:13:24.2488053+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:03:36.9084015+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:09:08.839419+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:13:24.2488428+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:59:33.4369019+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:03:36.9084501+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "newt",
   "Name": "Spellbreak",
   "ProductSlug": "spellbreak",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 455,
@@ -753,6 +753,6 @@
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
   "LastChanged": "2023-05-24T02:02:24.4459869+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:45.78958+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:06:59.5027585+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:09:52.6333553+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:57:28.1432671+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:00:17.6080426+00:00"
 }

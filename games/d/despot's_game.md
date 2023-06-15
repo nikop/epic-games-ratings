@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 84.00% | ~336 |
-| Vanquisher of Robots | 75.00% | ~300 |
+| Good start! | 84.00% | ~337 |
+| Vanquisher of Robots | 74.00% | ~297 |
 | Party | 47.00% | ~188 |
 | Impossible Cube | 44.00% | ~176 |
-| Knowledge is Power | 44.00% | ~176 |
-| No Mercy | 42.00% | ~168 |
+| Knowledge is Power | 43.00% | ~172 |
+| No Mercy | 41.00% | ~164 |
 | Through the Darkness | 41.00% | ~164 |
 | The Return of a Rat | 40.00% | ~160 |
 | Fat of the Earth | 34.00% | ~136 |
 | Last Man Standing | 32.00% | ~128 |
-| Catch Jonathan_tostar | 27.00% | ~108 |
-| Campaigning | 26.00% | ~104 |
+| Catch Jonathan_tostar | 26.00% | ~104 |
 | Great Hero | 26.00% | ~104 |
-| Rookie | 26.00% | ~104 |
-| Assemble a Meganewbie | 25.00% | ~100 |
+| Campaigning | 25.00% | ~100 |
 | He's Seen It All | 25.00% | ~100 |
+| Rookie | 25.00% | ~100 |
+| Assemble a Meganewbie | 24.00% | ~96 |
 | Frugal | 21.00% | ~84 |
 | Feed a God | 20.00% | ~80 |
-| To the Moon and Back | 20.00% | ~80 |
+| To the Moon and Back | 19.00% | ~76 |
 | Great Flight | 18.00% | ~72 |
-| Holy Vengeance | 16.00% | ~64 |
+| Holy Vengeance | 15.00% | ~60 |
 | Honorary Cultist | 12.00% | ~48 |
 | Strength and Sorcery | 10.00% | ~40 |
 | Brain and Brawn | 10.00% | ~40 |
@@ -33,15 +33,15 @@ Rating: 4.50 (Ranked 546)
 | Experimentalist | 6.00% | ~24 |
 | Wide Selection | 6.00% | ~24 |
 | Soldier | 6.00% | ~24 |
-| Android Power | 6.00% | ~24 |
+| Android Power | 5.00% | ~20 |
 | Shopaholic | 3.00% | ~12 |
 | Zombie Lover | 3.00% | ~12 |
-| Munchkin | 2.00% | ~8 |
 | Full House | 1.00% | ~4 |
+| Munchkin | 1.00% | ~4 |
 | Vet | 1.00% | ~4 |
-| Real Achiever | 0.30% | ~1 |
+| Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 214)  
+Progressed: 401 (Ranked 214)  
 Completed: 1 (0.25%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 1 (0.25%) (Ranked 144)
 | 2023-06-11 | 398 | 1 |
 | 2023-06-12 | 399 | 1 |
 | 2023-06-14 | 400 | 1 |
+| 2023-06-15 | 401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

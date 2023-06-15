@@ -667,9 +667,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 26373,
+  "EOS_Progressed": 26377,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1183,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6507,6 +6507,11 @@
       "Time": "2023-06-15T13:15:06.4202633+00:00",
       "NumProgressed": 26373,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T14:05:18.1567916+00:00",
+      "NumProgressed": 26377,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -6542,7 +6547,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "distance500000",
@@ -6558,7 +6563,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "goals180",
@@ -6582,7 +6587,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "hoistthemainsail",
@@ -6598,7 +6603,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "journeyer",
@@ -6638,7 +6643,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "novice",
@@ -6646,7 +6651,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "playerFelipe",
@@ -6694,7 +6699,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "playerWingsuit",
@@ -6702,7 +6707,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "pro",
@@ -6710,7 +6715,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "proximityFly1000",
@@ -6726,7 +6731,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "sandboarder",
@@ -6829,15 +6834,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 26373,
+      "Progressed": 26377,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-07T17:59:37.4425865+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:15:06.4202629+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:05:18.1567909+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.490472+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:08:29.1814329+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:15:06.4203124+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:58:53.3599861+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:05:18.1568669+00:00"
 }

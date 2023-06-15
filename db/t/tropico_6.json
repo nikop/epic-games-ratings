@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3657,
+  "EOS_Progressed": 3659,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-06-15T13:09:47.3781546+00:00",
       "NumProgressed": 3657,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T14:00:12.7082942+00:00",
+      "NumProgressed": 3659,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4563,7 +4568,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -4571,7 +4576,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4595,7 +4600,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4627,7 +4632,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4635,7 +4640,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2781
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4667,7 +4672,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_MYWAYS",
@@ -4731,7 +4736,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4763,7 +4768,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -4794,15 +4799,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3657,
+      "Progressed": 3659,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:09:47.3781541+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:00:12.7082937+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:09:15.6984329+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:09:47.3782004+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:59:39.1319182+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:00:12.7083475+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -632,9 +632,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15311,
+  "EOS_Progressed": 15314,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3967,6 +3967,11 @@
       "Time": "2023-06-15T13:13:40.9041411+00:00",
       "NumProgressed": 15311,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-15T14:03:52.7027119+00:00",
+      "NumProgressed": 15314,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -4154,7 +4159,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4202,7 +4207,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -4210,7 +4215,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4226,7 +4231,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4250,7 +4255,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -4297,13 +4302,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15311,
+      "Progressed": 15314,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3237,
+      "Progressed": 3240,
       "Completed": 29
     }
   ],
@@ -4311,8 +4316,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-14T19:58:18.578391+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:13:40.9041406+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:03:52.7027114+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:07:15.194948+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:13:40.904181+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:57:42.0029013+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:03:52.702765+00:00"
 }

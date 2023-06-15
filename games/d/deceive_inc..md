@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 317)  
+Rating: 4.64 (Ranked 316)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,10 +11,10 @@ Rating: 4.64 (Ranked 317)
 | Tomorrow Never Dyes | 46.00% | ~3,130 |
 | Never Say Loser Again | 40.00% | ~2,722 |
 | For your Eyes only | 39.00% | ~2,654 |
-| From the Vault with Love | 37.00% | ~2,517 |
-| Tailor-Made | 37.00% | ~2,517 |
-| Fully Decked Out | 35.00% | ~2,381 |
-| You Only Live Twice | 33.00% | ~2,245 |
+| From the Vault with Love | 37.00% | ~2,518 |
+| Tailor-Made | 37.00% | ~2,518 |
+| Fully Decked Out | 35.00% | ~2,382 |
+| You Only Live Twice | 33.00% | ~2,246 |
 | A view to Win | 28.00% | ~1,905 |
 | Private Collection | 25.00% | ~1,701 |
 | Smells Like Trouble | 25.00% | ~1,701 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 317)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,804 (Ranked 119)  
+Progressed: 6,805 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 6,767 | 0 |
 | 2023-06-13 | 6,791 | 0 |
 | 2023-06-14 | 6,800 | 0 |
-| 2023-06-15 | 6,804 | 0 |
+| 2023-06-15 | 6,805 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

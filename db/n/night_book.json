@@ -260,9 +260,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "save_dad",
@@ -300,9 +300,9 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
@@ -317,8 +317,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:14:59.0098311+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:05:10.328302+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.562273+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:06:46.4661672+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:14:59.009841+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:57:16.344483+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:05:10.3283132+00:00"
 }

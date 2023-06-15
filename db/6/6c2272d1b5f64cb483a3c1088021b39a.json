@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1186,6 +1186,11 @@
       "Time": "2023-06-15T13:12:56.0028677+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T14:03:08.6929627+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1221,7 +1226,7 @@
       "Name": "Archmage 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "archmage_2",
@@ -1267,9 +1272,9 @@
       "ID": "catacombs_raid_1",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 1",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "catacombs_raid_2",
@@ -1363,9 +1368,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 241
     },
     {
       "ID": "elemental_stones_2",
@@ -1724,14 +1729,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:12:56.0028672+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:03:08.6929623+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:06:24.9905601+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:12:56.0029183+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:56:54.2629966+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:03:08.6930278+00:00"
 }

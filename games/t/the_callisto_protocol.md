@@ -7,8 +7,8 @@ Rating: 4.18 (Ranked 846)
 | ---- | ---------- | ----- |
 | Flesh Wound | 15.00% | ~2,297 |
 | The Outer Way | 14.00% | ~2,144 |
-| Desperate Times | 13.00% | ~1,990 |
-| Paper Jams | 12.00% | ~1,837 |
+| Desperate Times | 13.00% | ~1,991 |
+| Paper Jams | 12.00% | ~1,838 |
 | Chew 'Em Up | 10.00% | ~1,531 |
 | Reforged | 10.00% | ~1,531 |
 | Workplace Hazard | 9.00% | ~1,378 |
@@ -23,9 +23,9 @@ Rating: 4.18 (Ranked 846)
 | Two Heads Are Better Than One | 5.00% | ~766 |
 | Float Like A Butterfly | 5.00% | ~766 |
 | Power Up | 5.00% | ~766 |
-| What Lies Beneath | 4.00% | ~612 |
-| Full Circle | 4.00% | ~612 |
-| Instigator | 4.00% | ~129 |
+| What Lies Beneath | 4.00% | ~613 |
+| Full Circle | 4.00% | ~613 |
+| Instigator | 4.00% | ~130 |
 | The Commonality | 3.00% | ~459 |
 | Big Game Hunter | 3.00% | ~97 |
 | Bear Trap | 3.00% | ~97 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 846)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,311 (Ranked 103)  
+Progressed: 15,314 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,311 | 55 |
+| 2023-06-15 | 15,314 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 311 (Ranked 329)  

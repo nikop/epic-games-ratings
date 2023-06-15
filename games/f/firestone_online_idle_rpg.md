@@ -41,13 +41,13 @@ Rating: 4.05 (Ranked 894)
 | Moving Up The Ladder | 7.00% | ~98 |
 | Here We Go Again | 6.00% | ~84 |
 | Trader | 6.00% | ~84 |
+| Ancient Knowledge | 5.00% | ~70 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
 | Missions Dedication | 5.00% | ~70 |
 | The Expeditioner | 5.00% | ~70 |
 | The father of Dragons | 5.00% | ~70 |
 | Weekly Quest Completionist | 5.00% | ~70 |
-| Ancient Knowledge | 4.00% | ~56 |
 | Background Story | 4.00% | ~56 |
 | Crystal Mining | 4.00% | ~56 |
 | Dragon Slayer | 4.00% | ~56 |

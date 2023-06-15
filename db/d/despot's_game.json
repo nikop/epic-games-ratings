@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -285,6 +285,11 @@
       "Time": "2023-06-14T10:05:44.3546688+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T14:05:24.283081+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -342,9 +347,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 164
     },
     {
       "ID": "different-items1",
@@ -390,9 +395,9 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "finished-quest-nurgle",
@@ -406,9 +411,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-rat",
@@ -422,39 +427,39 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 172
     },
     {
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "get-all",
       "SetID": "799afm0",
       "Name": "Real Achiever",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -494,9 +499,9 @@
       "ID": "unlock-mutations",
       "SetID": "799afm0",
       "Name": "Munchkin",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "win-campaign",
@@ -510,9 +515,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 297
     },
     {
       "ID": "win-first-level",
@@ -520,15 +525,15 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "win-koth-fights2",
@@ -566,16 +571,16 @@
       "ID": "win-with-mrakus",
       "SetID": "799afm0",
       "Name": "Android Power",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
@@ -583,8 +588,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-15T13:15:12.7566334+00:00",
+  "LastChanged_Achievements": "2023-06-15T14:05:24.2830804+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:01.3809708+00:00",
-  "LastUpdate_Ratings": "2023-06-15T13:07:59.3843963+00:00",
-  "LastUpdate_Achievements": "2023-06-15T13:15:12.7566534+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:58:24.7024906+00:00",
+  "LastUpdate_Achievements": "2023-06-15T14:05:24.2831085+00:00"
 }

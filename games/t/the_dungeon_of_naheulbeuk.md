@@ -17,7 +17,7 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 53.00% | ~49 |
 | Speedrun | 48.00% | ~44 |
 | Oh, when I'll be level 10... | 48.00% | ~44 |
-| I am the night | 41.00% | ~38 |
+| I am the night | 42.00% | ~39 |
 | Team Building Exercise | 41.00% | ~38 |
 | Thieves' Guild Accreditation | 40.00% | ~37 |
 | The Ranger of Chaos | 39.00% | ~36 |

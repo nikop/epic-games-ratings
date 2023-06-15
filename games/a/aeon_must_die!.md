@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cheap Tricks | 23.00% | ~805 |
+| Cheap Tricks | 24.00% | ~840 |
 | The Purpose Of Betrayal | 20.00% | ~700 |
 | Rightfully Yours | 17.00% | ~595 |
 | Like Swatting Flies | 16.00% | ~560 |
