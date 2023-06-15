@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1304,6 +1304,11 @@
       "Time": "2023-06-15T02:13:55.2862718+00:00",
       "NumProgressed": 691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T03:06:02.1648993+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1347,7 +1352,7 @@
       "Name": "Right On Time",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1387,7 +1392,7 @@
       "Name": "Street Style",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CultivairChests1",
@@ -1465,9 +1470,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "GrindingTime1",
@@ -1731,21 +1736,21 @@
       "Name": "The Family Fortune",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:13:55.2862713+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:02.1648988+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:01.9197754+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:13:55.2863282+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:59:49.4473018+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:02.1649642+00:00"
 }

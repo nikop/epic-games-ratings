@@ -28,11 +28,11 @@
 | Honest Mistake | 7.00% | ~48 |
 | Golem Chaser | 7.00% | ~48 |
 | Check Your Pulse | 7.00% | ~48 |
-| Right On Time | 6.00% | ~41 |
-| Street Style | 6.00% | ~41 |
-| The Family Fortune | 6.00% | ~41 |
+| Right On Time | 6.00% | ~42 |
+| Street Style | 6.00% | ~42 |
+| Whiz Kid | 6.00% | ~42 |
+| The Family Fortune | 6.00% | ~42 |
 | Family Memories | 5.00% | ~35 |
-| Whiz Kid | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Chaincrawler Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691 (Ranked 191)  
+Progressed: 692 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 691 | 1 |
+| 2023-06-15 | 692 | 1 |

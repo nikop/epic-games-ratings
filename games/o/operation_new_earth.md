@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 64.00% | ~46 |
+| It's Good to have Allies | 65.00% | ~47 |
+| Defenses Online | 63.00% | ~45 |
 | Facility Online | 61.00% | ~44 |
-| Defenses Online | 61.00% | ~44 |
-| Corporal | 54.00% | ~39 |
+| Corporal | 56.00% | ~40 |
 | Sergeant | 39.00% | ~28 |
 | Covert Operative | 36.00% | ~26 |
 | Lieutenant | 31.00% | ~22 |

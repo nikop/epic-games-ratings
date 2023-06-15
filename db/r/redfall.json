@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2083,9 +2083,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 590
     },
     {
       "ID": "Achievement_027",
@@ -2107,9 +2107,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 573
     },
     {
       "ID": "Achievement_030",
@@ -2428,8 +2428,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:03:03.5966497+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:03:12.7802992+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:06:43.1703998+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:09:37.1618563+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:58:11.5688939+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:03:12.7803973+00:00"
 }

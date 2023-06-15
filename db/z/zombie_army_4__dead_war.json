@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1661,7 +1661,7 @@
   ],
   "EOS_Progressed": 42796,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4231,9 +4231,9 @@
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
       "SetID": "49kdhbg",
       "Name": "Stand back boy!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19686
+      "UsersEstimate": 20114
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4399,8 +4399,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-14T02:09:55.4739895+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:37.2236419+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:52.5088175+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.0082179+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:22.9155371+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:14:37.223712+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:00:17.1698281+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:52.5088956+00:00"
 }

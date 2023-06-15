@@ -6,22 +6,22 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~220 |
+| Explorer | 62.00% | ~221 |
 | Cowardice | 54.00% | ~192 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~167 |
-| Eat Lead! | 44.00% | ~156 |
+| Eat Lead! | 44.00% | ~157 |
 | Prospector | 41.00% | ~146 |
 | The Breaking Point | 41.00% | ~146 |
 | Here Comes the Boom | 41.00% | ~146 |
 | Treasure Hunter | 38.00% | ~135 |
-| The Motivation | 35.00% | ~124 |
-| Sniper Wolf | 35.00% | ~124 |
+| The Motivation | 35.00% | ~125 |
+| Sniper Wolf | 35.00% | ~125 |
 | Missing in Action | 34.00% | ~121 |
 | Heroism | 33.00% | ~117 |
 | Collectibles of Chapter I | 31.00% | ~110 |
-| King of Knives | 30.00% | ~106 |
-| Consequences | 28.00% | ~99 |
-| Opportunities | 26.00% | ~92 |
+| King of Knives | 30.00% | ~107 |
+| Consequences | 28.00% | ~100 |
+| Opportunities | 26.00% | ~93 |
 | The Horror | 25.00% | ~89 |
 | Collectibles of Chapter II | 22.00% | ~78 |
 | The Difference | 22.00% | ~78 |
@@ -29,11 +29,11 @@ Number of Ratings: 34  (23.09.2022)
 | Vengeance | 20.00% | ~71 |
 | Broken Hopes | 18.00% | ~64 |
 | Food Massacre | 18.00% | ~64 |
-| Bullseye! | 17.00% | ~60 |
+| Bullseye! | 17.00% | ~61 |
 | Collectibles of Chapter III | 15.00% | ~53 |
 | Collectibles of Chapter IV | 15.00% | ~53 |
 | Sorrow | 15.00% | ~53 |
-| Atonement | 14.00% | ~50 |
+| Atonement | 13.00% | ~46 |
 | Helping Hand | 13.00% | ~46 |
 | Without a Second Thought | 12.00% | ~43 |
 | Collectibles of Chapter V | 9.00% | ~32 |
@@ -41,8 +41,8 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 8.00% | ~28 |
 | Collectibles of Chapter VII | 6.00% | ~21 |
 | Piece of Cake | 6.00% | ~21 |
-| Collectibles of Chapter VIII | 5.00% | ~18 |
 | Collectibles of Chapter XII | 5.00% | ~18 |
+| Collectibles of Chapter VIII | 4.00% | ~14 |
 | Collectibles of Chapter X | 4.00% | ~14 |
 | Collectibles of Chapter XI | 4.00% | ~14 |
 | It Will Rain | 4.00% | ~14 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 223)  
+Progressed: 356 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 346 | 0 |
 | 2023-06-13 | 354 | 0 |
 | 2023-06-14 | 355 | 0 |
+| 2023-06-15 | 356 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

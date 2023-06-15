@@ -1,7 +1,7 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 721)  
+Rating: 4.36 (Ranked 722)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,9 +12,9 @@ Number of Ratings: 1,175  (23.09.2022)
 | FETCH | 27.00% | ~15,712 |
 | BLOOMS OF LIGHT | 26.00% | ~15,130 |
 | BEST FRIENDS | 22.00% | ~12,802 |
-| AWAKEN | 21.00% | ~12,220 |
-| ERADICATE | 20.00% | ~11,638 |
-| SPIRIT BARK | 20.00% | ~11,638 |
+| AWAKEN | 21.00% | ~12,221 |
+| ERADICATE | 20.00% | ~11,639 |
+| SPIRIT BARK | 20.00% | ~11,639 |
 | GARDEN OF LIGHT | 18.00% | ~10,475 |
 | SPIRIT FORM | 16.00% | ~9,311 |
 | UPROOTING DARKNESS | 15.00% | ~8,729 |
@@ -24,14 +24,14 @@ Number of Ratings: 1,175  (23.09.2022)
 | OLD COMPANION | 8.00% | ~4,655 |
 | PLAGUE DOCTOR | 8.00% | ~4,655 |
 | SPIRITED AWAY | 8.00% | ~4,655 |
-| MATCH MAKER | 7.00% | ~4,073 |
-| NORTHERN LIGHTS | 7.00% | ~4,073 |
+| MATCH MAKER | 7.00% | ~4,074 |
+| NORTHERN LIGHTS | 7.00% | ~4,074 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,328 |
 | ANCIENT HISTORY | 3.00% | ~1,746 |
 | NONE FORGOTTEN | 2.00% | ~1,164 |
 | KINDRED SPIRITS | 0.60% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,192 (Ranked 75)  
+Progressed: 58,193 (Ranked 75)  
 Completed: 292 (0.50%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 292 (0.50%) (Ranked 118)
 | 2023-06-12 | 57,972 | 290 |
 | 2023-06-13 | 58,084 | 291 |
 | 2023-06-14 | 58,178 | 292 |
-| 2023-06-15 | 58,192 | 292 |
+| 2023-06-15 | 58,193 | 292 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 471)  
 Sum: 93 (Ranked 409)  

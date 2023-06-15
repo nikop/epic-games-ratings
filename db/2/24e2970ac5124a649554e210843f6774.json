@@ -4,8 +4,8 @@
   "ProductSlug": "rift-rangers-b3b5fa",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
     "PcReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "defeat_level_10",
@@ -172,9 +172,9 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "defeat_level_2",
@@ -506,8 +506,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:09:40.6715908+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:03:17.1853748+00:00",
   "LastUpdate_AppInfo": "2023-06-13T14:56:55.1825956+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:05:55.8869744+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:09:40.6716352+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:57:12.3507934+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:03:17.1854251+00:00"
 }

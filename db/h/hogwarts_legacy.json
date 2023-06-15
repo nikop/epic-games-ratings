@@ -3646,10 +3646,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37005,
       "NumberOfAwardsMax": 19955
+    },
+    {
+      "Time": "2023-06-15T02:57:41.6740493+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37010,
+      "NumberOfAwardsMax": 19955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37005,
+  "NumberOfAwards": 37010,
   "NumberOfAwardsMax": 19955,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3669,7 +3675,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 670
+      "Count": 675
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3726,9 +3732,9 @@
       "Count": 508
     }
   ],
-  "EOS_Progressed": 279758,
+  "EOS_Progressed": 279764,
   "EOS_Completed": 406,
-  "EOS_NewPlayers": 2629,
+  "EOS_NewPlayers": 2630,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9466,6 +9472,11 @@
       "Time": "2023-06-15T02:13:22.9646512+00:00",
       "NumProgressed": 279758,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-06-15T03:05:21.8333777+00:00",
+      "NumProgressed": 279764,
+      "NumCompleted": 406
     }
   ],
   "TotalAchievements": 45,
@@ -9477,7 +9488,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25178
+      "UsersEstimate": 25179
     },
     {
       "ID": "PFA_10",
@@ -9517,7 +9528,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11190
+      "UsersEstimate": 11191
     },
     {
       "ID": "PFA_15",
@@ -9581,7 +9592,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "PFA_22",
@@ -9613,7 +9624,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11190
+      "UsersEstimate": 11191
     },
     {
       "ID": "PFA_26",
@@ -9645,7 +9656,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11190
+      "UsersEstimate": 11191
     },
     {
       "ID": "PFA_3",
@@ -9701,7 +9712,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "PFA_36",
@@ -9765,7 +9776,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11190
+      "UsersEstimate": 11191
     },
     {
       "ID": "PFA_43",
@@ -9781,7 +9792,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "PFA_45",
@@ -9829,23 +9840,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 279758,
+      "Progressed": 279764,
       "Completed": 406
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-14T22:57:31.6215874+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:13:22.9646506+00:00",
+  "LastChanged": "2023-06-15T02:57:41.674049+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:05:21.833377+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:06:18.5286242+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:13:22.9647237+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:57:41.6740498+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:05:21.8335381+00:00"
 }

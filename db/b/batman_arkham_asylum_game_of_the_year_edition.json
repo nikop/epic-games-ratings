@@ -2,13 +2,13 @@
   "ID": "5f7c811695f14b8fa3a8e1ea35713d23",
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "ProductSlug": "batman-arkham-asylum",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2010-03-26T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 2164,
   "RatingHistory": [
     {
@@ -799,6 +799,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 650,
       "NumberOfAwardsMax": 650
+    },
+    {
+      "Time": "2023-06-15T02:58:31.2069086+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 650,
+      "NumberOfAwardsMax": 650
     }
   ],
   "ReviewsDisabled": false,
@@ -824,8 +830,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2023-06-07T22:58:16.6910096+00:00",
+  "LastChanged": "2023-06-15T02:58:31.2069083+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:22.6316354+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:06:59.0598689+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:03:34.2701179+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:58:31.2069092+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:01:07.6459509+00:00"
 }

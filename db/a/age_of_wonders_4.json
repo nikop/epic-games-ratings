@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 129,
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4635,
+  "EOS_Progressed": 4636,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 3,
@@ -3871,6 +3871,11 @@
       "Time": "2023-06-14T21:05:03.8331307+00:00",
       "NumProgressed": 4635,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T03:05:11.1339319+00:00",
+      "NumProgressed": 4636,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3906,7 +3911,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "13",
@@ -3914,7 +3919,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "14",
@@ -3922,7 +3927,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "15",
@@ -3930,7 +3935,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "16",
@@ -4010,7 +4015,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "25",
@@ -4026,7 +4031,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "27",
@@ -4042,7 +4047,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "29",
@@ -4066,7 +4071,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "31",
@@ -4082,7 +4087,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "33",
@@ -4122,7 +4127,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "38",
@@ -4233,13 +4238,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4635,
-      "Completed": 4635
+      "Progressed": 4636,
+      "Completed": 4636
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4635,
+      "Progressed": 4636,
       "Completed": 3
     }
   ],
@@ -4247,8 +4252,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-14T09:59:02.8248749+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:13:14.0260064+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:05:11.1339313+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:04.1939519+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:13:14.0260979+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:59:52.3371637+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:05:11.1340007+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 98.00% | ~85 |
-| Where's that freaking Dwarf? | 94.00% | ~82 |
-| Sock! SOCK! | 82.00% | ~71 |
-| Fireproof Wizardess | 67.00% | ~58 |
-| Livin' in a dwarven paradise | 66.00% | ~57 |
+| Alt+F4 | 97.00% | ~85 |
+| Where's that freaking Dwarf? | 93.00% | ~82 |
+| Sock! SOCK! | 81.00% | ~71 |
+| Fireproof Wizardess | 66.00% | ~58 |
+| Livin' in a dwarven paradise | 65.00% | ~57 |
 | Déjà vu | 57.00% | ~50 |
-| Way of the Wimp | 54.00% | ~47 |
-| DM intervention | 54.00% | ~47 |
-| GG EZ | 53.00% | ~46 |
-| Oh, when I'll be level 10... | 51.00% | ~44 |
+| Way of the Wimp | 53.00% | ~47 |
+| DM intervention | 53.00% | ~47 |
+| GG EZ | 52.00% | ~46 |
+| Oh, when I'll be level 10... | 50.00% | ~44 |
 | Speedrun | 47.00% | ~41 |
-| I am the night | 44.00% | ~38 |
+| I am the night | 43.00% | ~38 |
 | Thieves' Guild Accreditation | 41.00% | ~36 |
 | Team Building Exercise | 41.00% | ~36 |
 | The Ranger of Chaos | 40.00% | ~35 |
 | A beer, two curses, three companions | 39.00% | ~34 |
 | The plot thickens... At the tavern | 39.00% | ~34 |
 | Dwarf Fortress | 38.00% | ~33 |
-| Look but don't touch | 37.00% | ~32 |
+| Look but don't touch | 36.00% | ~32 |
 | Shiny and Crôm | 34.00% | ~30 |
 | Material Girl | 33.00% | ~29 |
 | The demons' feast | 32.00% | ~28 |
@@ -32,13 +32,13 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 32.00% | ~28 |
 | The Statuette of Gladeulfeurah | 31.00% | ~27 |
 | A tale of adventurers not quite like the others... | 31.00% | ~27 |
-| The Great Library | 29.00% | ~25 |
+| The Great Library | 28.00% | ~25 |
 | The Famous Dungeon of Naheulbeuk | 26.00% | ~23 |
 | The Blood Countess | 23.00% | ~20 |
 | The beards of change | 23.00% | ~20 |
 | Cursed die | 22.00% | ~19 |
-| Urik's Depths | 21.00% | ~18 |
-| The Woman in the High Castle | 20.00% | ~17 |
+| Urik's Depths | 20.00% | ~18 |
+| The Woman in the High Castle | 19.00% | ~17 |
 | In Navalu's footsteps | 18.00% | ~16 |
 | Res Judicata | 17.00% | ~15 |
 | Law and Order | 17.00% | ~15 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 285)  
+Progressed: 88 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 77 | 0 |
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
+| 2023-06-15 | 88 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1139,9 +1139,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121524,
+  "EOS_Progressed": 121526,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6409,6 +6409,11 @@
       "Time": "2023-06-15T02:14:24.6094099+00:00",
       "NumProgressed": 121524,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-15T03:06:38.1869175+00:00",
+      "NumProgressed": 121526,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6452,7 +6457,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21874
+      "UsersEstimate": 21875
     },
     {
       "ID": "ACH_COP_BAD",
@@ -6460,7 +6465,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_COP_BORING",
@@ -6540,7 +6545,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -6572,7 +6577,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_DOLORES",
@@ -6636,7 +6641,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17013
+      "UsersEstimate": 17014
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6708,7 +6713,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -6739,15 +6744,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121524,
+      "Progressed": 121526,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-13T14:58:46.2792638+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:24.6094095+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:38.186917+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:07:46.1273509+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:14:24.6094831+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:59:29.6237873+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:38.1869838+00:00"
 }

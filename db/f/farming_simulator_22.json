@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5649,9 +5649,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44077,
+  "EOS_Progressed": 44078,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10389,6 +10389,11 @@
       "Time": "2023-06-15T02:14:24.3829973+00:00",
       "NumProgressed": 44077,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T03:06:37.9263968+00:00",
+      "NumProgressed": 44078,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10480,7 +10485,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28209
+      "UsersEstimate": 28210
     },
     {
       "ID": "CutTree",
@@ -10496,7 +10501,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "DeliveryGrapes",
@@ -10536,7 +10541,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "Harvested",
@@ -10584,7 +10589,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20716
+      "UsersEstimate": 20717
     },
     {
       "ID": "Mission",
@@ -10600,7 +10605,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16749
+      "UsersEstimate": 16750
     },
     {
       "ID": "Money",
@@ -10672,7 +10677,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 26005
+      "UsersEstimate": 26006
     },
     {
       "ID": "Sow",
@@ -10680,7 +10685,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "SowFirst",
@@ -10704,7 +10709,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 18953
+      "UsersEstimate": 18954
     },
     {
       "ID": "TruckDriving",
@@ -10743,15 +10748,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44077,
+      "Progressed": 44078,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-15T02:08:14.5321934+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:24.3829967+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:37.9263961+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.5023398+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:14.5321995+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:14:24.3830849+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:00:06.1065415+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:37.926459+00:00"
 }

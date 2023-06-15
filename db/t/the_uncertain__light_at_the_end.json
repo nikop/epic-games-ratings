@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -364,6 +364,11 @@
       "Time": "2023-06-14T13:13:21.0635329+00:00",
       "NumProgressed": 459,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T03:06:43.612725+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -471,7 +476,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Illustrator",
@@ -551,7 +556,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Paparazzi",
@@ -606,7 +611,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 5
     }
   ],
@@ -614,8 +619,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:29.5183711+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:43.6127244+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:56.8427633+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:14:29.5183938+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:01:00.6010969+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:43.6127484+00:00"
 }

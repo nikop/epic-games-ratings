@@ -1,12 +1,12 @@
 # Carcassonne
 [Store](https://store.epicgames.com/en-US/p/carcassonne)  
 [View Rawdata](../../db/c/carcassonne.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 276  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 72  (Ranked 363)  
+Max (Highly Recommended): 72  (Ranked 364)  
 Sum: 514 (Ranked 293)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 72 |

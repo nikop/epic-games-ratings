@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 85.00% | ~212 |
+| That wasn't so bad | 86.00% | ~215 |
 | Let it begin | 49.00% | ~122 |
 | The boss | 26.00% | ~65 |
 | The intellectual | 26.00% | ~65 |

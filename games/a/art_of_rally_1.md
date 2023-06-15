@@ -6,8 +6,8 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,725 |
-| keep it tidy | 77.00% | ~7,800 |
+| light attack | 96.00% | ~9,726 |
+| keep it tidy | 77.00% | ~7,801 |
 | podium | 72.00% | ~7,294 |
 | medium attack | 59.00% | ~5,977 |
 | brail | 56.00% | ~5,673 |
@@ -15,8 +15,8 @@ Number of Ratings: 56  (23.09.2022)
 | grocery-getter | 39.00% | ~3,951 |
 | rwd only | 26.00% | ~2,634 |
 | food tour: pasta | 26.00% | ~2,634 |
-| to finish first, first you must finish | 21.00% | ~2,127 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,127 |
+| to finish first, first you must finish | 21.00% | ~2,128 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,128 |
 | autopilot | 20.00% | ~2,026 |
 | turbo | 20.00% | ~2,026 |
 | food tour: pretzel | 19.00% | ~1,925 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~608 |
 | oktoberfest | 6.00% | ~608 |
 | viking | 6.00% | ~608 |
-| group b | 5.00% | ~506 |
-| in like a lamb, out like a lion | 5.00% | ~506 |
-| if in doubt, flat out! | 5.00% | ~506 |
+| group b | 5.00% | ~507 |
+| in like a lamb, out like a lion | 5.00% | ~507 |
+| if in doubt, flat out! | 5.00% | ~507 |
 | comfy seats | 3.00% | ~304 |
 | simulator | 3.00% | ~304 |
 | real roads, real fast | 2.00% | ~203 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,130 (Ranked 111)  
+Progressed: 10,131 (Ranked 111)  
 Completed: 9 (0.09%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 9 (0.09%) (Ranked 177)
 | 2023-06-12 | 10,120 | 9 |
 | 2023-06-13 | 10,124 | 9 |
 | 2023-06-14 | 10,129 | 9 |
-| 2023-06-15 | 10,130 | 9 |
+| 2023-06-15 | 10,131 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

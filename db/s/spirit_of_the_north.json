@@ -2,13 +2,13 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 721,
+  "Ranking_Rating": 722,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 58192,
+  "EOS_Progressed": 58193,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 920,
+  "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6096,6 +6096,11 @@
       "Time": "2023-06-15T02:14:15.1853388+00:00",
       "NumProgressed": 58192,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-06-15T03:06:26.6771726+00:00",
+      "NumProgressed": 58193,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 24,
@@ -6115,7 +6120,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -6147,7 +6152,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11638
+      "UsersEstimate": 11639
     },
     {
       "ID": "FETCH",
@@ -6203,7 +6208,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -6219,7 +6224,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "OLD_COMPANION",
@@ -6251,7 +6256,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 11638
+      "UsersEstimate": 11639
     },
     {
       "ID": "SPIRIT_DASH",
@@ -6298,7 +6303,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 58192,
+      "Progressed": 58193,
       "Completed": 292
     }
   ],
@@ -6306,8 +6311,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:15.1853382+00:00",
+  "LastChanged_Achievements": "2023-06-15T03:06:26.6771721+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:50.4565048+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:08:03.9532489+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:14:15.1854019+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:59:52.0053519+00:00",
+  "LastUpdate_Achievements": "2023-06-15T03:06:26.6772263+00:00"
 }

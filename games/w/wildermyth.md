@@ -13,13 +13,13 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 26.00% | ~327 |
 | How Romantic! | 24.00% | ~302 |
 | Daybreak | 23.00% | ~289 |
-| Gotta Ca... Must Collect All of Them | 21.00% | ~264 |
+| Gotta Ca... Must Collect All of Them | 22.00% | ~277 |
 | Completing the Look | 12.00% | ~151 |
 | Who's Counting? | 12.00% | ~151 |
 | War Endured | 12.00% | ~151 |
 | Core Failure | 12.00% | ~151 |
 | A Mythic Menagerie | 11.00% | ~138 |
-| Pyrrhic Victory | 9.00% | ~113 |
+| Pyrrhic Victory | 10.00% | ~126 |
 | Thematic Divergence | 8.00% | ~101 |
 | Echoes Die | 8.00% | ~101 |
 | Chain Reaction | 7.00% | ~88 |

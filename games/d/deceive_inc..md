@@ -1,21 +1,21 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.64 (Ranked 317)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,353 |
-| Mainframe Hacker | 47.00% | ~3,196 |
-| The Spy who eliminated me | 47.00% | ~3,196 |
-| Tomorrow Never Dyes | 46.00% | ~3,128 |
-| Never Say Loser Again | 40.00% | ~2,720 |
-| For your Eyes only | 39.00% | ~2,652 |
-| From the Vault with Love | 37.00% | ~2,516 |
-| Tailor-Made | 37.00% | ~2,516 |
-| Fully Decked Out | 35.00% | ~2,380 |
-| You Only Live Twice | 33.00% | ~2,244 |
-| A view to Win | 28.00% | ~1,904 |
+| Mainframe Hacker | 47.00% | ~3,197 |
+| The Spy who eliminated me | 47.00% | ~3,197 |
+| Tomorrow Never Dyes | 46.00% | ~3,129 |
+| Never Say Loser Again | 40.00% | ~2,721 |
+| For your Eyes only | 39.00% | ~2,653 |
+| From the Vault with Love | 37.00% | ~2,517 |
+| Tailor-Made | 37.00% | ~2,517 |
+| Fully Decked Out | 35.00% | ~2,381 |
+| You Only Live Twice | 33.00% | ~2,245 |
+| A view to Win | 28.00% | ~1,905 |
 | Private Collection | 25.00% | ~1,700 |
 | Smells Like Trouble | 25.00% | ~1,700 |
 | Assistant Accountant | 24.00% | ~1,632 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,801 (Ranked 119)  
+Progressed: 6,802 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 6,767 | 0 |
 | 2023-06-13 | 6,791 | 0 |
 | 2023-06-14 | 6,800 | 0 |
-| 2023-06-15 | 6,801 | 0 |
+| 2023-06-15 | 6,802 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~30 |
-| Gear Up | 70.00% | ~28 |
-| A Grand Show | 70.00% | ~28 |
-| Freshen Up | 63.00% | ~25 |
-| GG EZ | 57.00% | ~23 |
-| Hydrophobia | 35.00% | ~14 |
-| Ka-Ching! | 33.00% | ~13 |
-| Stop Right There | 30.00% | ~12 |
-| Get to the Point | 25.00% | ~10 |
+| Iceberg Theory | 73.00% | ~30 |
+| Gear Up | 68.00% | ~28 |
+| A Grand Show | 68.00% | ~28 |
+| Freshen Up | 61.00% | ~25 |
+| GG EZ | 56.00% | ~23 |
+| Hydrophobia | 34.00% | ~14 |
+| Ka-Ching! | 32.00% | ~13 |
+| Stop Right There | 29.00% | ~12 |
+| Get to the Point | 24.00% | ~10 |
 | Phew! | 15.00% | ~6 |
-| Toe to Toe | 13.00% | ~5 |
+| Toe to Toe | 12.00% | ~5 |
 | Mr. Want It All | 10.00% | ~4 |
-| Grand Escape | 8.00% | ~3 |
-| The Hidden Secret | 8.00% | ~3 |
+| Grand Escape | 7.00% | ~3 |
+| The Hidden Secret | 7.00% | ~3 |
 | The Abyss Conqueror | 5.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
 | Space Warrior: Prologue | 5.00% | ~2 |
 | Antaeus | 5.00% | ~2 |
 | Air Interception | 5.00% | ~2 |
 | Decapitation Strike | 5.00% | ~2 |
-| The Deep Frozen Conqueror | 3.00% | ~1 |
-| The Infinite Train Conqueror | 3.00% | ~1 |
-| The Zero Dimensional Capital Conqueror | 3.00% | ~1 |
-| The Inactivated Frozen Conqueror | 3.00% | ~1 |
-| The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
-| Death Bringer Conqueror | 3.00% | ~1 |
-| he Ultra Fortress Conqueror | 3.00% | ~1 |
-| Space Ranger: Prologue | 3.00% | ~1 |
-| Easy Peasy | 3.00% | ~1 |
-| Rapidfire | 3.00% | ~1 |
-| Keep it Up, rookie! | 3.00% | ~1 |
-| Proliferation | 3.00% | ~1 |
-| Clean Sweep | 3.00% | ~1 |
+| The Deep Frozen Conqueror | 2.00% | ~1 |
+| The Infinite Train Conqueror | 2.00% | ~1 |
+| The Zero Dimensional Capital Conqueror | 2.00% | ~1 |
+| The Inactivated Frozen Conqueror | 2.00% | ~1 |
+| The Hypergravitational Abyss Conqueror | 2.00% | ~1 |
+| Death Bringer Conqueror | 2.00% | ~1 |
+| he Ultra Fortress Conqueror | 2.00% | ~1 |
+| Space Ranger: Prologue | 2.00% | ~1 |
+| Easy Peasy | 2.00% | ~1 |
+| Rapidfire | 2.00% | ~1 |
+| Keep it Up, rookie! | 2.00% | ~1 |
+| Proliferation | 2.00% | ~1 |
+| Clean Sweep | 2.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Fortress Conqueror | 0.00% | ~0 |
 | The Looping Space Conqueror | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 321)  
+Progressed: 41 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-08 | 37 | 0 |
 | 2023-06-09 | 38 | 0 |
 | 2023-06-10 | 40 | 0 |
+| 2023-06-15 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,8 +15,8 @@ Rating: 3.46 (Ranked 941)
 | Catch and Release | 43.00% | ~725 |
 | Sucks To Be You | 42.00% | ~708 |
 | Welcome to the Neighborhood | 36.00% | ~607 |
-| Fly Fisher | 34.00% | ~573 |
-| Throw The First Stone | 33.00% | ~556 |
+| Fly Fisher | 35.00% | ~590 |
+| Throw The First Stone | 34.00% | ~573 |
 | Enter of Your Own Free Will | 31.00% | ~523 |
 | Heart Attack | 31.00% | ~523 |
 | Skin of Their Teeth | 30.00% | ~506 |
