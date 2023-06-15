@@ -18,12 +18,12 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.22% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.28% |
 | 20 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.69% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.43% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.41% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
@@ -33,7 +33,7 @@
 | 30 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
-| 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.06% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
@@ -49,7 +49,7 @@
 | 47 | [The Complex](games/t/the_complex.md) | 3.19% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.01% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.99% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
@@ -60,8 +60,8 @@
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.51% |
-| 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
+| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 65 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -98,8 +98,8 @@
 | 96 | [Adios](games/a/adios.md) | 0.87% |
 | 97 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 97 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 99 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
-| 100 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
+| 99 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
+| 99 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 102 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 103 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.74% |
@@ -182,15 +182,15 @@
 | 179 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
 | 179 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
 | 179 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 183 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
 | 183 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 183 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
 | 183 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
 | 183 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 189 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
-| 189 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 189 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 188 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
+| 188 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
+| 188 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 188 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 192 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 192 | [House Party](games/h/house_party.md) | 0.05% |
 | 192 | [Saints Row](games/s/saints_row.md) | 0.05% |
