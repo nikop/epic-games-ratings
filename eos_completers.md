@@ -26,8 +26,8 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.48% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
-| 28 | [Scorn](games/s/scorn.md) | 6.87% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
+| 28 | [Scorn](games/s/scorn.md) | 6.86% |
 | 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -46,7 +46,7 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.25% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -58,8 +58,8 @@
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 56 | [Lamentum](games/l/lamentum.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.55% |
-| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
+| 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
+| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.54% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
@@ -76,8 +76,8 @@
 | 72 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 75 | [Sifu](games/s/sifu.md) | 1.80% |
 | 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.65% |
-| 78 | [Poosh XL](games/p/poosh_xl.md) | 1.64% |
+| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.64% |
+| 77 | [Poosh XL](games/p/poosh_xl.md) | 1.64% |
 | 79 | [Somerville](games/s/somerville.md) | 1.58% |
 | 80 | [A Musical Story](games/a/a_musical_story.md) | 1.52% |
 | 81 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -124,10 +124,10 @@
 | 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 123 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 124 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.38% |
 | 125 | [Scrapnaut](games/s/scrapnaut.md) | 0.38% |
-| 126 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.37% |
-| 126 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 126 | [Tchia](games/t/tchia.md) | 0.37% |
+| 127 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 127 | [Tchia](games/t/tchia.md) | 0.37% |
 | 129 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 129 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 131 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |

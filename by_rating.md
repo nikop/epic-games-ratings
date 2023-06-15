@@ -735,22 +735,22 @@
 | 729 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 262 |
 | 729 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 497 |
 | 729 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 497 |
+| 729 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 0 | 497 |
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 497 |
-| 737 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 460 |
-| 737 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 497 |
-| 737 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 497 |
-| 737 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 389 |
-| 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 497 |
-| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,303 | 83 |
-| 737 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 497 |
-| 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,022 | 63 |
-| 737 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 246 |
-| 746 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 313 |
-| 746 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 497 |
-| 746 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 497 |
-| 746 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.33 | 0 | 497 |
-| 746 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 497 |
-| 746 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 486 |
+| 738 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 460 |
+| 738 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 497 |
+| 738 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 497 |
+| 738 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 389 |
+| 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 497 |
+| 738 | [Paladins](games/p/paladins.md) | 4.34 | 3,303 | 83 |
+| 738 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 497 |
+| 738 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,022 | 63 |
+| 738 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 246 |
+| 747 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 313 |
+| 747 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 497 |
+| 747 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 497 |
+| 747 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 497 |
+| 747 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 486 |
 | 752 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 348 | 217 |
 | 752 | [Filament](games/f/filament.md) | 4.32 | 554 | 179 |
 | 752 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 74 | 360 |
