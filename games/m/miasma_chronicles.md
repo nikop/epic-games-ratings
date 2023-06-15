@@ -13,16 +13,16 @@ Rating: 4.31 (Ranked 763)
 | Lumberjack | 47.00% | ~534 |
 | Croaked | 43.00% | ~489 |
 | Limp Richard | 42.00% | ~478 |
-| From Darkness to Light | 41.00% | ~466 |
+| From Darkness to Light | 42.00% | ~478 |
 | Editor Adept | 40.00% | ~455 |
 | Exorcist | 40.00% | ~455 |
 | Firestarter | 38.00% | ~432 |
 | Giant Killer | 37.00% | ~421 |
 | Sensei | 35.00% | ~398 |
-| The meaning of Kain | 33.00% | ~375 |
+| The meaning of Kain | 34.00% | ~387 |
 | Technophobe | 31.00% | ~352 |
 | Recycler | 29.00% | ~330 |
-| Are you not entertained? | 25.00% | ~284 |
+| Are you not entertained? | 26.00% | ~296 |
 | Ganglord | 25.00% | ~284 |
 | Jarhead | 25.00% | ~284 |
 | Infiltrator | 24.00% | ~273 |

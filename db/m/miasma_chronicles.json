@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -1794,9 +1794,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 296
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1994,9 +1994,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 478
     },
     {
       "ID": "GIANT_KILLER",
@@ -2170,9 +2170,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 387
     },
     {
       "ID": "THE_WATCHERS",
@@ -2203,8 +2203,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:00:32.379357+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:01:14.3494646+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:25.5117593+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:00:32.3794147+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:42.910801+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:01:14.3495094+00:00"
 }

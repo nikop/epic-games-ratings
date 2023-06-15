@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~90,797 |
-| Incurious | 14.00% | ~84,744 |
-| Stroller | 13.00% | ~78,691 |
-| Climate Change | 13.00% | ~78,691 |
-| Toy Train | 11.00% | ~66,584 |
-| Hiker | 10.00% | ~60,531 |
-| Advanced Hiker | 10.00% | ~60,531 |
-| Mojave Courier | 4.00% | ~24,212 |
-| Voyager | 3.00% | ~18,159 |
-| Advanced Voyager | 3.00% | ~18,159 |
-| Expert Stroller | 3.00% | ~18,159 |
-| Orient Express | 3.00% | ~18,159 |
-| Saved by Nausicaä | 3.00% | ~18,159 |
-| Expert Hiker | 2.00% | ~12,106 |
-| Marathon | 2.00% | ~12,106 |
-| Destructionist | 2.00% | ~12,106 |
+| Advanced Stroller | 15.00% | ~90,802 |
+| Incurious | 14.00% | ~84,748 |
+| Stroller | 13.00% | ~78,695 |
+| Climate Change | 13.00% | ~78,695 |
+| Toy Train | 11.00% | ~66,588 |
+| Hiker | 10.00% | ~60,534 |
+| Advanced Hiker | 10.00% | ~60,534 |
+| Mojave Courier | 4.00% | ~24,214 |
+| Voyager | 3.00% | ~18,160 |
+| Advanced Voyager | 3.00% | ~18,160 |
+| Expert Stroller | 3.00% | ~18,160 |
+| Orient Express | 3.00% | ~18,160 |
+| Saved by Nausicaä | 3.00% | ~18,160 |
+| Expert Hiker | 2.00% | ~12,107 |
+| Marathon | 2.00% | ~12,107 |
+| Destructionist | 2.00% | ~12,107 |
 | Lost | 1.00% | ~6,053 |
 | Rocketman | 0.60% | ~3,632 |
 | Expert Voyager | 0.50% | ~3,027 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~605 |
 | 20 Miles under the Sea | 0.10% | ~605 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605,312 (Ranked 23)  
+Progressed: 605,344 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,11 +115,11 @@ Completed: 7 (0.00%) (Ranked 223)
 | 2023-06-12 | 604,131 | 7 |
 | 2023-06-13 | 604,573 | 7 |
 | 2023-06-14 | 604,985 | 7 |
-| 2023-06-15 | 605,312 | 7 |
+| 2023-06-15 | 605,344 | 7 |
 ## Awards
-Max (Diverse Characters): 188  (Ranked 269)  
+Max (Diverse Characters): 188  (Ranked 270)  
 Sum: 1,519 (Ranked 214)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 188 |

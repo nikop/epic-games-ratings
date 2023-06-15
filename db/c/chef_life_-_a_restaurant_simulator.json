@@ -2,9 +2,9 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -1594,6 +1594,11 @@
       "Time": "2023-06-15T18:03:27.488169+00:00",
       "NumProgressed": 387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:03:49.5306784+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1651,9 +1656,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1677,7 +1682,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DilemasResponsibility10",
@@ -1805,7 +1810,7 @@
       "Name": "Home Cook",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "RecipeDifferent30",
@@ -1827,9 +1832,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "ServiceMaxClient",
@@ -1917,14 +1922,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 0
     }
   ],
@@ -1932,8 +1937,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:03:27.4881686+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:03:49.530678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:30.6582443+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:03:27.4881996+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:49.1545812+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:03:49.530709+00:00"
 }

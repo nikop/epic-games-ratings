@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2655,
+  "EOS_Progressed": 2657,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -2810,6 +2810,11 @@
       "Time": "2023-06-15T18:06:03.3903196+00:00",
       "NumProgressed": 2655,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:06:44.0456332+00:00",
+      "NumProgressed": 2657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2827,9 +2832,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_BASE_11",
@@ -2885,7 +2890,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_BASE_19",
@@ -2933,7 +2938,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_BASE_25",
@@ -3117,7 +3122,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_BASE_49",
@@ -3125,7 +3130,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_BASE_5",
@@ -3276,13 +3281,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 836,
+      "Progressed": 838,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2655,
+      "Progressed": 2657,
       "Completed": 0
     }
   ],
@@ -3290,8 +3295,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-13T15:59:05.0032842+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:03.3903191+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:44.0456328+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:34.1299502+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:03.3903745+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:54.3256084+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:44.0456882+00:00"
 }

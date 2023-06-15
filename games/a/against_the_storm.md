@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~306 |
 | The Scarlet Orchard | 2.00% | ~306 |
 | Taking Action | 2.00% | ~306 |
+| Like a Machine | 2.00% | ~306 |
 | Trade Baron | 2.00% | ~306 |
 | Serving Ale | 1.00% | ~153 |
 | Refinery | 1.00% | ~153 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~153 |
 | Watchtower | 1.00% | ~153 |
 | A Real Challenge | 1.00% | ~153 |
-| Like a Machine | 1.00% | ~153 |
 | Into the Forest | 1.00% | ~153 |
 | Defying the Crown | 0.90% | ~138 |
 | Ruined Armory | 0.80% | ~123 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,324 (Ranked 103)  
+Progressed: 15,325 (Ranked 103)  
 Completed: 34 (0.22%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 34 (0.22%) (Ranked 150)
 | 2023-06-12 | 15,296 | 34 |
 | 2023-06-13 | 15,303 | 34 |
 | 2023-06-14 | 15,317 | 34 |
-| 2023-06-15 | 15,324 | 34 |
+| 2023-06-15 | 15,325 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,043 (Ranked 153)  

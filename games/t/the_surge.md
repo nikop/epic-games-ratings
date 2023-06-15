@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 620)  
+Rating: 4.45 (Ranked 621)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 62  (23.09.2022)
 | I'll Be Back | 84.00% | ~3,717 |
 | Sorry, I Dropped This | 77.00% | ~3,407 |
 | First Day on the Job | 76.00% | ~3,363 |
-| Butcher's Bill | 54.00% | ~2,390 |
+| Butcher's Bill | 55.00% | ~2,434 |
 | P.A.X | 37.00% | ~1,637 |
 | Hey Listen | 36.00% | ~1,593 |
 | OPERATOR | 35.00% | ~1,549 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,425 (Ranked 130)  
+Progressed: 4,425 (Ranked 131)  
 Completed: 13 (0.29%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2852,9 +2852,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9890,
+  "EOS_Progressed": 9891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6612,6 +6612,11 @@
       "Time": "2023-06-15T18:06:16.1650877+00:00",
       "NumProgressed": 9890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:06:58.1258172+00:00",
+      "NumProgressed": 9891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6647,7 +6652,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -7550,21 +7555,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8672,
+      "Progressed": 8673,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9890,
+      "Progressed": 9891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-15T10:58:17.6007907+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:16.1650872+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:58.1258167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:26.6782734+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:16.1652279+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:44.3835733+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:58.1259562+00:00"
 }

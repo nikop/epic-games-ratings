@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1135,6 +1135,11 @@
       "Time": "2023-06-15T17:05:49.8392067+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T19:06:46.0986976+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1170,7 +1175,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Boy",
@@ -1336,9 +1341,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 291
     },
     {
       "ID": "Scout",
@@ -1385,15 +1390,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:05.4616938+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:46.0986973+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:59:15.3355415+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:05.4617144+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:59:42.1337565+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:46.0987185+00:00"
 }

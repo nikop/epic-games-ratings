@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1532,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
@@ -2026,6 +2026,11 @@
       "Time": "2023-06-15T18:03:44.3642277+00:00",
       "NumProgressed": 1532,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T19:04:19.658458+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2075,17 +2080,17 @@
       "ID": "EXPRESS_YOURSELF",
       "SetID": "8lhbnh7",
       "Name": "Express Yourself",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 15
     },
     {
       "ID": "FACE_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Face",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 61
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -2117,7 +2122,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2141,7 +2146,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "GUARD_MAKER",
@@ -2212,14 +2217,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1532,
+      "Progressed": 1534,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:03:44.3642272+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:04:19.6584572+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:57:20.7390925+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:03:44.3642497+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:57:27.929948+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:04:19.6584791+00:00"
 }

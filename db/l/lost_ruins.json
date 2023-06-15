@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -521,6 +521,11 @@
       "Time": "2023-06-14T16:06:27.6482701+00:00",
       "NumProgressed": 384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:06:50.1601994+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -546,9 +551,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "Assassin",
@@ -564,7 +569,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "BugHunter",
@@ -596,15 +601,15 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "GoblinTales",
@@ -612,7 +617,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Hardboiled",
@@ -666,9 +671,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "Marksman",
@@ -851,7 +856,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 0
     }
   ],
@@ -859,8 +864,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:09.1208713+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:50.1601987+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:59:32.443721+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:09.1208986+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:00:01.2104518+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:50.1602246+00:00"
 }

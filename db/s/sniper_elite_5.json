@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -314,9 +314,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2899,
+  "EOS_Progressed": 2902,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3644,6 +3644,11 @@
       "Time": "2023-06-15T18:06:06.1058645+00:00",
       "NumProgressed": 2899,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T19:06:47.0172444+00:00",
+      "NumProgressed": 2902,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3735,7 +3740,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3805,9 +3810,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3823,7 +3828,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3861,9 +3866,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 464
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4013,9 +4018,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -4071,7 +4076,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -4127,7 +4132,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -4159,7 +4164,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -4222,13 +4227,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2850,
+      "Progressed": 2853,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2899,
+      "Progressed": 2902,
       "Completed": 2
     }
   ],
@@ -4236,8 +4241,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-15T18:00:23.7807599+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:06.1058643+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:47.0172438+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T18:00:23.7807604+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:06.1059287+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:01:02.7448809+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:47.0173106+00:00"
 }

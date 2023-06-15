@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -368,6 +368,11 @@
       "Time": "2023-06-15T17:05:54.7495651+00:00",
       "NumProgressed": 631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:06:51.5836837+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -427,7 +432,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "AhoyTrophy",
@@ -457,7 +462,7 @@
       "ID": "AllUpgrdTrophy",
       "SetID": "32aeje8",
       "Name": "Fresh Prince of Grindstone",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -507,7 +512,7 @@
       "Name": "Existential dread",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "DropBallTrophy",
@@ -523,7 +528,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Ext4Trophy",
@@ -555,7 +560,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "GoldGuyTrophy",
@@ -587,7 +592,7 @@
       "Name": "Hidden Packages",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "HammerTrophy",
@@ -659,7 +664,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "MaxPriceTrophy",
@@ -681,7 +686,7 @@
       "ID": "MillionTrophy",
       "SetID": "32aeje8",
       "Name": "True Capitalist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -747,7 +752,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "TerrorTrophy",
@@ -779,7 +784,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -810,7 +815,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 0
     }
   ],
@@ -818,8 +823,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:10.3237109+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:51.5836832+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.3217944+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:20.1435689+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:10.3237486+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:36.5297167+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:51.5837216+00:00"
 }

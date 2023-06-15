@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5941,
+  "EOS_Progressed": 5942,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3188,6 +3188,11 @@
       "Time": "2023-06-15T12:05:01.6133113+00:00",
       "NumProgressed": 5941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T19:04:52.5916155+00:00",
+      "NumProgressed": 5942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3287,7 +3292,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -3303,7 +3308,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "First_Race_Met",
@@ -3311,7 +3316,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "First_Ship_Designed",
@@ -3335,7 +3340,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3415,7 +3420,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "Play_1000_Hours",
@@ -3519,7 +3524,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3687,7 +3692,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3711,7 +3716,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Win_Diplomacy",
@@ -3774,15 +3779,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5941,
+      "Progressed": 5942,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:04:27.5325071+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:04:52.591615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.1944197+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:57:39.8321066+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:04:27.5325817+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:57:49.6021953+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:04:52.5916831+00:00"
 }

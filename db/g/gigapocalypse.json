@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "secret2",
       "SetID": "39f6ck8",
       "Name": "Octopostructure",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "secret20",
@@ -364,9 +364,9 @@
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "secret23",
@@ -556,9 +556,9 @@
       "ID": "secret44",
       "SetID": "39f6ck8",
       "Name": "Lunch Before The Lunch",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "secret45",
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:10.5791254+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:51.8303809+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.0540608+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:59:53.6217987+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:10.5791637+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:00:27.4686358+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:51.8304185+00:00"
 }

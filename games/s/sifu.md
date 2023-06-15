@@ -32,32 +32,32 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.80% | ~5,676 |
 | I know Kung-Fu | 0.80% | ~5,676 |
 | Kung-Fu Tussle | 0.80% | ~5,676 |
-| Dance of the Praying Mantis | 0.70% | ~4,966 |
+| Dance of the Praying Mantis | 0.70% | ~4,967 |
 | Muk Yan Master | 0.60% | ~4,257 |
 | Detective Story | 0.60% | ~4,257 |
 | Deadly Venom | 0.60% | ~113 |
 | A Touch of Acumen | 0.60% | ~113 |
-| Tiger on Fire | 0.50% | ~3,547 |
-| Source of Flying Daggers | 0.50% | ~3,547 |
-| Iron Money | 0.50% | ~3,547 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,547 |
+| Tiger on Fire | 0.50% | ~3,548 |
+| Source of Flying Daggers | 0.50% | ~3,548 |
+| Iron Money | 0.50% | ~3,548 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,548 |
 | Prodigal Child | 0.40% | ~2,838 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,838 |
 | Sword Stained With Blood | 0.40% | ~2,838 |
 | Martial Hub | 0.40% | ~75 |
 | Secure, Protect, Leave | 0.40% | ~75 |
-| Drunken Fighter | 0.30% | ~2,128 |
-| Martial Artist | 0.30% | ~2,128 |
-| Knowledge Greed | 0.30% | ~2,128 |
-| The Pit Protector | 0.30% | ~2,128 |
+| Drunken Fighter | 0.30% | ~2,129 |
+| Martial Artist | 0.30% | ~2,129 |
+| Knowledge Greed | 0.30% | ~2,129 |
+| The Pit Protector | 0.30% | ~2,129 |
 | Healing Memory | 0.20% | ~1,419 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,419 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,419 |
 | Be like water my friend | 0.20% | ~1,419 |
 | Come Snap With Me | 0.20% | ~1,419 |
-| Warriors from the Mountain | 0.10% | ~709 |
+| Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,495 (Ranked 17)  
+Progressed: 709,501 (Ranked 17)  
 Completed: 12,771 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 12,771 (1.80%) (Ranked 75)
 | 2023-06-12 | 708,992 | 12,767 |
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
-| 2023-06-15 | 709,495 | 12,771 |
+| 2023-06-15 | 709,501 | 12,771 |
 ## Awards
 Max (Great Boss Battles): 6,179  (Ranked 52)  
 Sum: 10,549 (Ranked 78)  

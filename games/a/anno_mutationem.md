@@ -6,22 +6,22 @@ Rating: 4.56 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~476 |
-| Don't judge a manhole by its cover | 60.00% | ~380 |
+| Don't judge a manhole by its cover | 60.00% | ~381 |
 | I just love stuff! | 40.00% | ~254 |
 | Keep 'em coming! | 40.00% | ~254 |
 | Big Spender | 37.00% | ~235 |
 | The things they print nowadays | 37.00% | ~235 |
 | That's gotta hurt | 35.00% | ~222 |
-| I think it's broke | 25.00% | ~158 |
-| The Ann Flores Combo Experience | 25.00% | ~158 |
+| I think it's broke | 25.00% | ~159 |
+| The Ann Flores Combo Experience | 25.00% | ~159 |
 | Club Star | 23.00% | ~146 |
-| Fire in the hole! | 19.00% | ~120 |
-| Omnipotence | 19.00% | ~120 |
-| The Warlord | 19.00% | ~120 |
-| You are the One | 19.00% | ~120 |
-| Deadly Kombationem | 18.00% | ~114 |
-| The truth is out there | 15.00% | ~95 |
-| Annakin Skyscroller | 13.00% | ~82 |
+| Fire in the hole! | 19.00% | ~121 |
+| Omnipotence | 19.00% | ~121 |
+| The Warlord | 19.00% | ~121 |
+| You are the One | 19.00% | ~121 |
+| Deadly Kombationem | 17.00% | ~108 |
+| The truth is out there | 14.00% | ~89 |
+| Annakin Skyscroller | 13.00% | ~83 |
 | Arm Wrestlin' | 9.00% | ~57 |
 | In the smacker...I think | 9.00% | ~57 |
 | 1+1>2 | 8.00% | ~51 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 454)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634 (Ranked 199)  
+Progressed: 635 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-11 | 630 | 0 |
 | 2023-06-13 | 631 | 0 |
 | 2023-06-14 | 632 | 0 |
-| 2023-06-15 | 634 | 0 |
+| 2023-06-15 | 635 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

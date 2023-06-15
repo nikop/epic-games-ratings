@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "Award_ShellShock",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:02:10.9429278+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:03:07.9282067+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.2611684+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:58:22.1380031+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:02:10.9429593+00:00"
+  "LastUpdate_Ratings": "2023-06-15T18:58:38.927406+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:03:07.928235+00:00"
 }

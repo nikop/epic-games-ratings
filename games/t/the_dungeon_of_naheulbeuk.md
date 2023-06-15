@@ -6,24 +6,24 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 98.00% | ~91 |
-| Where's that freaking Dwarf? | 92.00% | ~86 |
+| Alt+F4 | 97.00% | ~91 |
+| Where's that freaking Dwarf? | 91.00% | ~86 |
 | Sock! SOCK! | 78.00% | ~73 |
-| Fireproof Wizardess | 65.00% | ~60 |
+| Fireproof Wizardess | 64.00% | ~60 |
 | Livin' in a dwarven paradise | 63.00% | ~59 |
-| Déjà vu | 58.00% | ~54 |
-| Way of the Wimp | 54.00% | ~50 |
-| GG EZ | 53.00% | ~49 |
-| DM intervention | 53.00% | ~49 |
+| Déjà vu | 57.00% | ~54 |
+| Way of the Wimp | 53.00% | ~50 |
+| GG EZ | 52.00% | ~49 |
+| DM intervention | 52.00% | ~49 |
 | Speedrun | 47.00% | ~44 |
 | Oh, when I'll be level 10... | 47.00% | ~44 |
-| I am the night | 42.00% | ~39 |
-| Team Building Exercise | 41.00% | ~38 |
-| Thieves' Guild Accreditation | 40.00% | ~37 |
-| A beer, two curses, three companions | 39.00% | ~36 |
-| The Ranger of Chaos | 39.00% | ~36 |
-| The plot thickens... At the tavern | 38.00% | ~35 |
-| Dwarf Fortress | 37.00% | ~34 |
+| I am the night | 41.00% | ~39 |
+| Team Building Exercise | 40.00% | ~38 |
+| Thieves' Guild Accreditation | 39.00% | ~37 |
+| A beer, two curses, three companions | 38.00% | ~36 |
+| The Ranger of Chaos | 38.00% | ~36 |
+| The plot thickens... At the tavern | 37.00% | ~35 |
+| Dwarf Fortress | 36.00% | ~34 |
 | Look but don't touch | 35.00% | ~33 |
 | Shiny and Crôm | 33.00% | ~31 |
 | Material Girl | 32.00% | ~30 |
@@ -34,8 +34,8 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 29.00% | ~27 |
 | The Great Library | 28.00% | ~26 |
 | The Famous Dungeon of Naheulbeuk | 26.00% | ~24 |
-| The beards of change | 23.00% | ~21 |
-| The Blood Countess | 22.00% | ~20 |
+| The beards of change | 22.00% | ~21 |
+| The Blood Countess | 21.00% | ~20 |
 | Cursed die | 20.00% | ~19 |
 | Urik's Depths | 19.00% | ~18 |
 | The Woman in the High Castle | 19.00% | ~18 |
@@ -52,7 +52,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 10.00% | ~9 |
 | Lëgal Legend | 10.00% | ~9 |
 | Lust and Debauchery | 9.00% | ~8 |
-| Inception | 8.00% | ~7 |
+| Inception | 7.00% | ~7 |
 | Elite Adventurers | 6.00% | ~6 |
 | Egghead | 6.00% | ~6 |
 | Free customer service | 6.00% | ~6 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 284)  
+Progressed: 94 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 77 | 0 |
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
-| 2023-06-15 | 93 | 0 |
+| 2023-06-15 | 94 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

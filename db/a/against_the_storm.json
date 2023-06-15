@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2372,7 +2372,7 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15324,
+  "EOS_Progressed": 15325,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -5412,6 +5412,11 @@
       "Time": "2023-06-15T16:05:53.1478218+00:00",
       "NumProgressed": 15324,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-15T19:06:53.9259516+00:00",
+      "NumProgressed": 15325,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5781,9 +5786,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 306
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -5822,15 +5827,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15324,
+      "Progressed": 15325,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-14T21:00:06.1272525+00:00",
-  "LastChanged_Achievements": "2023-06-15T18:06:12.4262505+00:00",
+  "LastChanged_Achievements": "2023-06-15T19:06:53.9259511+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-15T17:59:55.0659885+00:00",
-  "LastUpdate_Achievements": "2023-06-15T18:06:12.4262958+00:00"
+  "LastUpdate_Ratings": "2023-06-15T19:00:29.4460275+00:00",
+  "LastUpdate_Achievements": "2023-06-15T19:06:53.9259979+00:00"
 }

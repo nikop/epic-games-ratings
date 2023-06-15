@@ -24,7 +24,7 @@
 | The Duelist | 39.00% | ~61 |
 | Mutant And Proud | 37.00% | ~58 |
 | Meat Larder | 37.00% | ~58 |
-| The Emperor's New Clothes | 31.00% | ~48 |
+| The Emperor's New Clothes | 32.00% | ~50 |
 | Final Evolution | 30.00% | ~47 |
 | You Shall Not Pass | 29.00% | ~45 |
 | Godlike Power | 29.00% | ~45 |
@@ -38,10 +38,10 @@
 | Loyal Companion | 23.00% | ~36 |
 | Back To The Future | 22.00% | ~34 |
 | Fire Beacon | 22.00% | ~34 |
-| Lunch Before The Lunch | 20.00% | ~31 |
+| Lunch Before The Lunch | 21.00% | ~33 |
 | From Here To Eternity | 18.00% | ~28 |
 | Building Blocks | 18.00% | ~28 |
-| Octopostructure | 15.00% | ~23 |
+| Octopostructure | 16.00% | ~25 |
 | Boss Hunter | 15.00% | ~23 |
 | Hawkman | 8.00% | ~12 |
 | Fashion Victim | 6.00% | ~9 |

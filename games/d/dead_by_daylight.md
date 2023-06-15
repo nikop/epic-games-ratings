@@ -6,14 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.60% | ~3,347 |
-| Resurgence | 0.60% | ~3,347 |
-| Preemptive Strike | 0.60% | ~3,347 |
-| Humanitarian | 0.60% | ~3,347 |
-| Close Shave | 0.50% | ~2,789 |
-| Wounded Healer | 0.40% | ~2,231 |
-| Flight to Freedom | 0.40% | ~2,231 |
+| Healthy Obsession | 0.60% | ~3,349 |
+| Resurgence | 0.60% | ~3,349 |
+| Preemptive Strike | 0.60% | ~3,349 |
+| Humanitarian | 0.60% | ~3,349 |
+| Close Shave | 0.50% | ~2,791 |
+| Wounded Healer | 0.40% | ~2,232 |
+| Flight to Freedom | 0.40% | ~2,232 |
 | Unforgettable Getaway | 0.30% | ~1,674 |
+| Cutting Out | 0.30% | ~1,674 |
 | First to the Punch | 0.30% | ~1,674 |
 | Operation: Survival | 0.30% | ~1,674 |
 | Old West Oasis | 0.30% | ~1,674 |
@@ -27,7 +28,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.20% | ~1,116 |
 | Devoted Gatekeeping | 0.20% | ~1,116 |
 | Shrine Apparatus | 0.20% | ~1,116 |
-| Cutting Out | 0.20% | ~1,116 |
 | Outrun Evil | 0.20% | ~1,116 |
 | Broken Bodies | 0.20% | ~1,116 |
 | Grim Pilgrimage | 0.20% | ~1,116 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~558 |
 | Adept Gabriel | 0.10% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 557,871 (Ranked 27)  
+Progressed: 558,104 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,19 +283,19 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 557,871 | 42 |
+| 2023-06-15 | 558,104 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
-Sum: 227,575 (Ranked 12)  
+Sum: 227,631 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,513 |
 | This game has Competitive Players | 26,199 |
-| This game is Highly Recommended | 25,846 |
+| This game is Highly Recommended | 25,880 |
 | This game has Amazing Characters | 25,748 |
 | This game is Extremely Fun | 25,718 |
-| This game has Quickly Understood Controls | 25,520 |
+| This game has Quickly Understood Controls | 25,542 |
 | This game has Challenging Combat | 24,889 |
 | This game has Amazing Storytelling | 23,418 |
 | This game has a Competitive Community | 21,724 |
@@ -446,4 +446,4 @@ Diff (max vs sum): 4
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
-| 2023-06-15 | 4.52 | - | 28,513 | 227,575 |
+| 2023-06-15 | 4.52 | - | 28,513 | 227,631 |

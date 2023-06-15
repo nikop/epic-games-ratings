@@ -6,13 +6,13 @@ Rating: 4.22 (Ranked 817)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~884 |
-| A new Journey | 71.00% | ~860 |
+| A new Journey | 72.00% | ~872 |
+| Departure | 71.00% | ~860 |
 | From X to Y | 70.00% | ~848 |
-| Departure | 70.00% | ~848 |
-| Way of Iron | 68.00% | ~823 |
+| Way of Iron | 69.00% | ~836 |
 | Mystery Tour | 66.00% | ~799 |
+| Brainstorm | 65.00% | ~787 |
 | We brake for nobody | 65.00% | ~787 |
-| Brainstorm | 64.00% | ~775 |
 | Mind the Gap | 63.00% | ~763 |
 | Travel Company | 63.00% | ~763 |
 | All around the World | 60.00% | ~727 |
@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 817)
 | Financial Shark | 26.00% | ~315 |
 | Socializer | 25.00% | ~303 |
 | Country Life | 24.00% | ~291 |
+| General Manager | 23.00% | ~279 |
 | Seven at one stroke | 22.00% | ~266 |
-| General Manager | 22.00% | ~266 |
 | Hostile Takeover | 22.00% | ~266 |
 | Trailblazer | 18.00% | ~218 |
 | Breaking Ground | 17.00% | ~206 |

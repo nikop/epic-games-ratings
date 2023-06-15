@@ -6,27 +6,27 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~531 |
-| My little farm | 64.00% | ~419 |
-| Every beginning is difficult | 62.00% | ~406 |
-| 3, 2, 1, mine | 55.00% | ~360 |
-| Gofer | 55.00% | ~360 |
-| Seafarer | 53.00% | ~347 |
-| O Captain! My Captain! | 53.00% | ~347 |
-| Greed for gold | 42.00% | ~275 |
+| Cabin boy | 80.00% | ~525 |
+| My little farm | 64.00% | ~420 |
+| Every beginning is difficult | 62.00% | ~407 |
+| 3, 2, 1, mine | 55.00% | ~361 |
+| Gofer | 55.00% | ~361 |
+| Seafarer | 53.00% | ~348 |
+| O Captain! My Captain! | 53.00% | ~348 |
+| Greed for gold | 42.00% | ~276 |
 | Intangible | 41.00% | ~269 |
 | I'm out of here for a while | 40.00% | ~262 |
-| In a mint condition | 37.00% | ~242 |
+| In a mint condition | 37.00% | ~243 |
 | Licence to Kill | 34.00% | ~223 |
 | Pirates! | 34.00% | ~223 |
-| Collectionitis | 28.00% | ~183 |
-| Megalomania | 28.00% | ~183 |
-| Christening | 26.00% | ~170 |
+| Collectionitis | 28.00% | ~184 |
+| Megalomania | 28.00% | ~184 |
+| Christening | 26.00% | ~171 |
 | Groundskeeper | 25.00% | ~164 |
-| Wholesale | 22.00% | ~144 |
+| Wholesale | 21.00% | ~138 |
 | Walk the plank | 20.00% | ~131 |
-| Pearly gates | 17.00% | ~111 |
-| My precious! | 17.00% | ~111 |
+| Pearly gates | 17.00% | ~112 |
+| My precious! | 17.00% | ~112 |
 | Conquistador | 13.00% | ~85 |
 | Panic buying | 11.00% | ~72 |
 | Just a scratch | 9.00% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655 (Ranked 197)  
+Progressed: 656 (Ranked 197)  
 Completed: 1 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.15%) (Ranked 162)
 | 2023-06-12 | 644 | 0 |
 | 2023-06-13 | 649 | 1 |
 | 2023-06-14 | 651 | 1 |
-| 2023-06-15 | 655 | 1 |
+| 2023-06-15 | 656 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

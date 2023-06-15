@@ -16,7 +16,7 @@
 | The Magician | 45.00% | ~47 |
 | The Tunneler | 41.00% | ~43 |
 | Level Up!! | 39.00% | ~41 |
-| The Shield | 38.00% | ~40 |
+| The Shield | 39.00% | ~41 |
 | Kill-streak | 35.00% | ~36 |
 | The Bird | 30.00% | ~31 |
 | The Ninja | 28.00% | ~29 |

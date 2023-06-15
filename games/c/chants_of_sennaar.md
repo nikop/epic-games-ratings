@@ -11,12 +11,12 @@
 | Champollion | 50.00% | ~2 |
 | The great escape | 50.00% | ~2 |
 | A new dawn | 50.00% | ~2 |
+| The darkness | 50.00% | ~2 |
 | Cable guy | 25.00% | ~1 |
 | A good beginning | 25.00% | ~1 |
 | Feels like springtime | 25.00% | ~1 |
 | True G4M3R | 25.00% | ~1 |
 | The Preacher's fate | 25.00% | ~1 |
-| The darkness | 25.00% | ~1 |
 | One last step | 25.00% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |

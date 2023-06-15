@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Something ever-changing... | 67.00% | ~2 |
+| Something foundational... | 67.00% | ~2 |
+| Something to make you dream... | 67.00% | ~2 |
+| Something monumental... | 67.00% | ~2 |
+| Something to long for... | 67.00% | ~2 |
 | Something free... | 33.00% | ~1 |
 | Something free... (fragile) | 33.00% | ~1 |
 | Something more... | 33.00% | ~1 |
 | Something more... (fragile) | 33.00% | ~1 |
 | Something gentle... | 33.00% | ~1 |
 | Something gentle... (fragile) | 33.00% | ~1 |
-| Something ever-changing... | 33.00% | ~1 |
 | Something ever-changing... (fragile) | 33.00% | ~1 |
 | Something fully in bloom... | 33.00% | ~1 |
 | Something fully in bloom... (fragile) | 33.00% | ~1 |
 | Something fragile... | 33.00% | ~1 |
-| Something foundational... | 33.00% | ~1 |
 | Something foundational... (fragile) | 33.00% | ~1 |
 | Somewhere to belong... | 33.00% | ~1 |
 | Somewhere to belong... (fragile) | 33.00% | ~1 |
-| Something to make you dream... | 33.00% | ~1 |
 | Something to make you dream... (fragile) | 33.00% | ~1 |
-| Something monumental... | 33.00% | ~1 |
 | Something monumental... (fragile) | 33.00% | ~1 |
 | Something natural... | 33.00% | ~1 |
-| Something to long for... | 33.00% | ~1 |
 | Something to long for... (fragile) | 33.00% | ~1 |
 | Something firmly rooted... | 33.00% | ~1 |
 | Something firmly rooted... (fragile) | 33.00% | ~1 |

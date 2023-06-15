@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~363 |
-| Scavenger | 74.00% | ~286 |
+| Scavenger | 75.00% | ~290 |
 | Line of Duty | 72.00% | ~278 |
 | Gunner | 56.00% | ~216 |
 | DocKing | 46.00% | ~178 |
