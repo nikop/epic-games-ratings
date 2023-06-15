@@ -3,11 +3,11 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 650,
-  "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 397,
+  "Ranking_Popularity": 459,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251162,
+  "EOS_Progressed": 251168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6161,6 +6161,11 @@
       "Time": "2023-06-15T20:03:56.4532693+00:00",
       "NumProgressed": 251162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T21:03:20.2691086+00:00",
+      "NumProgressed": 251168,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6172,7 +6177,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17581
+      "UsersEstimate": 17582
     },
     {
       "ID": "Act2",
@@ -6180,7 +6185,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10046
+      "UsersEstimate": 10047
     },
     {
       "ID": "Act3",
@@ -6220,7 +6225,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77860
+      "UsersEstimate": 77862
     },
     {
       "ID": "BackHomeNTimes",
@@ -6236,7 +6241,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10046
+      "UsersEstimate": 10047
     },
     {
       "ID": "BreakNWindows",
@@ -6244,7 +6249,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10046
+      "UsersEstimate": 10047
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -6260,7 +6265,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "CompleteBestiary",
@@ -6276,7 +6281,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25116
+      "UsersEstimate": 25117
     },
     {
       "ID": "CreditLevel2",
@@ -6292,7 +6297,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "CreedsInBank1",
@@ -6460,7 +6465,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55256
+      "UsersEstimate": 55257
     },
     {
       "ID": "KillOthers2",
@@ -6540,7 +6545,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10046
+      "UsersEstimate": 10047
     },
     {
       "ID": "Patrimony2",
@@ -6564,7 +6569,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25116
+      "UsersEstimate": 25117
     },
     {
       "ID": "ReachNDays2",
@@ -6588,7 +6593,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "TakeHomeNHearts",
@@ -6596,7 +6601,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "UnlockAllAchievements",
@@ -6619,7 +6624,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251162,
+      "Progressed": 251168,
       "Completed": 1
     }
   ],
@@ -6627,8 +6632,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-15T12:01:38.950145+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:03:56.4532685+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:03:20.2691081+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:00:21.5983483+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:03:56.4533528+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:59:55.4984877+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:03:20.2691705+00:00"
 }

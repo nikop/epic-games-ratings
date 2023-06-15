@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~871 |
+| Meeting Resistance | 30.00% | ~872 |
 | Confirming Suspicions | 25.00% | ~726 |
-| The Kraken Wakes | 20.00% | ~581 |
+| The Kraken Wakes | 21.00% | ~610 |
 | It's Starting to Crack | 18.00% | ~523 |
-| Lord of War | 16.00% | ~464 |
-| Change the Channel | 15.00% | ~435 |
-| Resourceful | 14.00% | ~406 |
-| Taking it back | 13.00% | ~377 |
-| Target America | 12.00% | ~348 |
-| Organ Grinder | 11.00% | ~319 |
-| As Quiet as a Mouse | 11.00% | ~319 |
-| The Kraken Sleeps | 10.00% | ~290 |
-| Liberté | 9.00% | ~261 |
-| Just a Flesh Wound | 9.00% | ~261 |
-| Gunslinger | 9.00% | ~261 |
-| Sharpshooter | 9.00% | ~261 |
-| Explosive Efficiency | 9.00% | ~261 |
+| Lord of War | 16.00% | ~465 |
+| Change the Channel | 15.00% | ~436 |
+| Resourceful | 14.00% | ~407 |
+| Taking it back | 13.00% | ~378 |
+| Target America | 12.00% | ~349 |
+| Organ Grinder | 11.00% | ~320 |
+| As Quiet as a Mouse | 11.00% | ~320 |
+| The Kraken Sleeps | 10.00% | ~291 |
+| Liberté | 9.00% | ~262 |
+| Just a Flesh Wound | 9.00% | ~262 |
+| Gunslinger | 9.00% | ~262 |
+| Sharpshooter | 9.00% | ~262 |
+| Explosive Efficiency | 9.00% | ~262 |
 | Enemy at the Gates | 8.00% | ~232 |
 | Opposing Force | 7.00% | ~203 |
 | Der Geist | 7.00% | ~203 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 516)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,903 (Ranked 146)  
+Progressed: 2,906 (Ranked 146)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,903 | 2 |
+| 2023-06-15 | 2,906 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

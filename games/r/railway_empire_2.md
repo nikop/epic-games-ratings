@@ -17,7 +17,7 @@ Rating: 4.22 (Ranked 817)
 | Travel Company | 63.00% | ~764 |
 | All around the World | 61.00% | ~739 |
 | Right through the middle | 55.00% | ~667 |
-| Facility Manager | 51.00% | ~618 |
+| Facility Manager | 52.00% | ~630 |
 | Poor Devil | 51.00% | ~618 |
 | Producer | 48.00% | ~582 |
 | Apprentice | 42.00% | ~509 |
@@ -38,8 +38,8 @@ Rating: 4.22 (Ranked 817)
 | Trailblazer | 18.00% | ~218 |
 | Breaking Ground | 17.00% | ~206 |
 | Traffic Jam | 16.00% | ~194 |
+| Traffic Junction | 16.00% | ~194 |
 | Assimilated | 15.00% | ~182 |
-| Traffic Junction | 15.00% | ~182 |
 | Locusts | 14.00% | ~170 |
 | Networker | 14.00% | ~170 |
 | Resistance is futile | 13.00% | ~158 |
@@ -62,7 +62,7 @@ Rating: 4.22 (Ranked 817)
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,212 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

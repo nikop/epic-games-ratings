@@ -12,32 +12,32 @@
 | Make Up For Lost Time | 9.00% | ~63 |
 | Cartographer | 9.00% | ~63 |
 | Time Flies | 9.00% | ~63 |
+| The Harder They Fall | 9.00% | ~63 |
 | No, Thanks! | 9.00% | ~63 |
+| Breaking Down Barriers | 9.00% | ~63 |
 | The Prince in Heels | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | The Brass Boss | 9.00% | ~63 |
-| The Harder They Fall | 8.00% | ~56 |
-| Breaking Down Barriers | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
+| Golem Chaser | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
 | The Betrayer | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
 | The Loose Cannon | 7.00% | ~49 |
-| Golem Chaser | 7.00% | ~49 |
 | Check Your Pulse | 7.00% | ~49 |
 | The Family Fortune | 7.00% | ~49 |
 | Street Style | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
 | Family Memories | 5.00% | ~35 |
+| Sump Explorer | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Good Neighbor | 5.00% | ~35 |
 | Factorywood Explorer | 4.00% | ~28 |
-| Sump Explorer | 4.00% | ~28 |
 | Syron for Hope | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
@@ -45,12 +45,12 @@
 | Cultivair Explorer | 3.00% | ~21 |
 | Entresol Explorer | 3.00% | ~21 |
 | Fairgrounds Explorer | 3.00% | ~21 |
+| Golem Hunter | 3.00% | ~21 |
 | Clovemary for Remembering | 2.00% | ~14 |
 | Hexlock for Protection | 2.00% | ~14 |
-| Golem Hunter | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |
 | Fitting In | 1.00% | ~7 |
-| Thinking Two Steps Ahead | 0.60% | ~4 |
+| Thinking Two Steps Ahead | 0.70% | ~5 |
 | Wunderkind | 0.60% | ~4 |
 | Wildlife Protection | 0.30% | ~2 |
 | Going to Live Forever | 0.30% | ~2 |

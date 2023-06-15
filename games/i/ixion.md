@@ -49,8 +49,8 @@ Rating: 4.57 (Ranked 443)
 | You Had One Job... | 0.80% | ~21 |
 | Tiqqun Unchained | 0.80% | ~21 |
 | Scientifically Accurate | 0.80% | ~21 |
+| Better Him Than Me | 0.60% | ~16 |
 | Gregor Spinoza | 0.60% | ~16 |
-| Better Him Than Me | 0.50% | ~13 |
 | Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 443)
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,658 (Ranked 150)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "820e78ed3f3b4e19a715a25181a0cdd8",
   "Name": "Teacup",
   "ProductSlug": "teacup",
-  "Ranking_EOS_Progress": 457,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.4330682+00:00",
   "LastChanged": "2023-03-31T05:58:15.4330682+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:42.2399862+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:58:44.003264+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:04:42.1468935+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:21.1920309+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:04:06.4962874+00:00"
 }

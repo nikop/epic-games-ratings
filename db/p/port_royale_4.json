@@ -3,12 +3,12 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 904,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1007,9 +1007,9 @@
       "ID": "ACH003",
       "SetID": "69nfp41",
       "Name": "Buccaneer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH004",
@@ -1391,8 +1391,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:06:16.2192145+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:05:40.3792837+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:58:46.3322423+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:06:16.2192626+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:23.5028673+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:05:40.3793182+00:00"
 }

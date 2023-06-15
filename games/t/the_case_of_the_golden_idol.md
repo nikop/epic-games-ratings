@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Solved first case | 88.00% | ~128 |
-| Solved second case | 84.00% | ~123 |
+| Solved second case | 85.00% | ~124 |
 | Solved third case | 71.00% | ~104 |
 | Solved fourth case | 55.00% | ~80 |
 | Solved sixth case | 34.00% | ~50 |
 | Solved seventh case | 32.00% | ~47 |
 | Solved eighth case | 29.00% | ~42 |
 | Solved fifth case | 25.00% | ~36 |
-| Solved ninth case | 24.00% | ~35 |
+| Solved ninth case | 25.00% | ~36 |
 | Solved tenth case | 23.00% | ~34 |
 | Solved eleventh case | 17.00% | ~25 |
 ## Popularity (Based on EOS Achievements)

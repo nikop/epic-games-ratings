@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,365 (Ranked 132)  
-Completed: 0 (0.00%) (Ranked 223)  
+Progressed: 4,365 (Ranked 133)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,9 +100,9 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-14 | 4,346 | 0 |
 | 2023-06-15 | 4,365 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 443)  
+Max (Relaxing): 32  (Ranked 442)  
 Sum: 158 (Ranked 382)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

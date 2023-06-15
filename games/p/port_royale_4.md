@@ -36,8 +36,8 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~52 |
 | Maker | 7.00% | ~46 |
 | Conglomerate | 6.00% | ~39 |
+| Buccaneer | 5.00% | ~33 |
 | The Grande Bouffe | 5.00% | ~33 |
-| Buccaneer | 4.00% | ~26 |
 | Flying Dutchman | 4.00% | ~26 |
 | A true pirate! | 4.00% | ~26 |
 | Overpopulation | 4.00% | ~26 |

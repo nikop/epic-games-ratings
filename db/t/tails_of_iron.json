@@ -3,8 +3,8 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 516,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 145,
@@ -1805,9 +1805,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1033
     },
     {
       "ID": "Kill25Mozi",
@@ -1892,8 +1892,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:01:00.4942702+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:00:37.7458453+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:58:40.5917229+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:01:00.4943192+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:18.0352381+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:00:37.7458693+00:00"
 }

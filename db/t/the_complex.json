@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -312,6 +312,11 @@
       "Time": "2023-06-15T20:06:15.7248449+00:00",
       "NumProgressed": 500,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-15T21:05:39.7001243+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -323,7 +328,7 @@
       "Name": "Beat It",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "blast_from_the_past",
@@ -331,7 +336,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "deadly_secret",
@@ -427,7 +432,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "kindar_surprise",
@@ -467,7 +472,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "tough_decision",
@@ -475,14 +480,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 16
     }
   ],
@@ -490,8 +495,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:06:15.7248441+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:05:39.700124+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:57:38.1973419+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:06:15.724861+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:57:18.4531987+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:05:39.7001342+00:00"
 }

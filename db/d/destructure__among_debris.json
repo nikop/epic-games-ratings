@@ -2,9 +2,9 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -683,6 +683,11 @@
       "Time": "2023-06-14T17:03:01.4763231+00:00",
       "NumProgressed": 145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T21:02:23.1060381+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -766,7 +771,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "easy_victory",
@@ -790,7 +795,7 @@
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ice_breaker",
@@ -941,7 +946,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 1
     }
   ],
@@ -949,8 +954,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:03:28.532278+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:02:23.1060377+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:00:05.0216521+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:03:28.5323046+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:59:38.9019023+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:02:23.1060578+00:00"
 }

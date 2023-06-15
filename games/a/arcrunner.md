@@ -8,7 +8,7 @@
 | Terminated I | 82.00% | ~395 |
 | Nanonic I | 78.00% | ~376 |
 | Challenge Accepted | 77.00% | ~371 |
-| Unlocked and Loaded | 74.00% | ~357 |
+| Unlocked and Loaded | 75.00% | ~362 |
 | Terminated II | 65.00% | ~313 |
 | The City | 50.00% | ~241 |
 | Terminated III | 43.00% | ~207 |
@@ -17,9 +17,9 @@
 | Rookie | 26.00% | ~125 |
 | Supply Run | 25.00% | ~120 |
 | Nanonic III | 24.00% | ~116 |
-| Starship Docks | 22.00% | ~106 |
+| Starship Docks | 23.00% | ~111 |
+| The Bigger They Are | 18.00% | ~87 |
 | Cybernetic | 18.00% | ~87 |
-| The Bigger They Are | 17.00% | ~82 |
 | Eden Heights | 15.00% | ~72 |
 | Up Close And Personal | 15.00% | ~72 |
 | Outer Core | 11.00% | ~53 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 482 (Ranked 206)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

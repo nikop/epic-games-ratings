@@ -3,10 +3,10 @@
   "Name": "Huntdown",
   "ProductSlug": "huntdown",
   "Ranking_Rating": 40,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 457,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
+  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -68,6 +68,6 @@
   "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
   "LastChanged": "2023-03-31T05:57:33.8208681+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:35.1274151+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:00:13.1672254+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:05:34.2093283+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:59:46.3333545+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:04:58.3397436+00:00"
 }

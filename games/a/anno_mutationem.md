@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 454)
 | I think it's broke | 25.00% | ~159 |
 | The Ann Flores Combo Experience | 25.00% | ~159 |
 | Club Star | 23.00% | ~146 |
-| Fire in the hole! | 19.00% | ~121 |
+| Fire in the hole! | 20.00% | ~127 |
 | Omnipotence | 19.00% | ~121 |
 | The Warlord | 19.00% | ~121 |
 | You are the One | 19.00% | ~121 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 454)
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 635 (Ranked 198)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

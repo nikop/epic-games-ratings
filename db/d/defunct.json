@@ -2,8 +2,8 @@
   "ID": "89bbde8e2a724c2c9451b3d3925b6322",
   "Name": "Defunct",
   "ProductSlug": "defunct-221ccf",
-  "Ranking_EOS_Progress": 457,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:48.7039078+00:00",
   "LastChanged": "2023-03-31T05:58:48.7039079+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.5892306+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:58:42.7396354+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:05:00.4928839+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:19.9393348+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:04:24.2240612+00:00"
 }

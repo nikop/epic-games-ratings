@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13273,
+  "EOS_Progressed": 13274,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2023-06-15T19:06:29.0732665+00:00",
       "NumProgressed": 13273,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T21:05:25.302314+00:00",
+      "NumProgressed": 13274,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4284,7 +4289,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "tpote_achievement_18",
@@ -4380,7 +4385,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "tpote_achievement_29",
@@ -4547,15 +4552,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13273,
+      "Progressed": 13274,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:06:00.9160096+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:05:25.3023134+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:00:07.5764071+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:06:00.9160656+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:59:41.4110964+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:05:25.3023556+00:00"
 }

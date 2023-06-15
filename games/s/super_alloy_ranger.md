@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 71.00% | ~30 |
-| Gear Up | 67.00% | ~28 |
-| A Grand Show | 67.00% | ~28 |
-| Freshen Up | 60.00% | ~25 |
-| GG EZ | 55.00% | ~23 |
+| Iceberg Theory | 70.00% | ~30 |
+| Gear Up | 65.00% | ~28 |
+| A Grand Show | 65.00% | ~28 |
+| Freshen Up | 58.00% | ~25 |
+| GG EZ | 53.00% | ~23 |
 | Hydrophobia | 33.00% | ~14 |
-| Ka-Ching! | 31.00% | ~13 |
-| Stop Right There | 29.00% | ~12 |
-| Get to the Point | 24.00% | ~10 |
+| Ka-Ching! | 30.00% | ~13 |
+| Stop Right There | 28.00% | ~12 |
+| Get to the Point | 23.00% | ~10 |
 | Phew! | 14.00% | ~6 |
 | Toe to Toe | 12.00% | ~5 |
-| Mr. Want It All | 10.00% | ~4 |
+| Mr. Want It All | 9.00% | ~4 |
 | Grand Escape | 7.00% | ~3 |
 | The Hidden Secret | 7.00% | ~3 |
 | The Abyss Conqueror | 5.00% | ~2 |
@@ -55,8 +55,8 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 323)  
-Completed: 0 (0.00%) (Ranked 223)  
+Progressed: 43 (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-08 | 37 | 0 |
 | 2023-06-09 | 38 | 0 |
 | 2023-06-10 | 40 | 0 |
-| 2023-06-15 | 42 | 0 |
+| 2023-06-15 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

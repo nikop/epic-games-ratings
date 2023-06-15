@@ -5,34 +5,34 @@ Rating: 3.46 (Ranked 942)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 76.00% | ~1,282 |
-| Home Is Where the Heart Is | 59.00% | ~995 |
-| Ne Plus Ultra | 59.00% | ~995 |
-| Wounded Whispers | 59.00% | ~995 |
+| I Like My Stakes Rare! | 76.00% | ~1,283 |
+| Home Is Where the Heart Is | 59.00% | ~996 |
+| Ne Plus Ultra | 59.00% | ~996 |
+| Wounded Whispers | 59.00% | ~996 |
 | Blood Will Have Blood | 49.00% | ~827 |
-| ICU | 45.00% | ~759 |
-| Peek-a-boo | 43.00% | ~725 |
-| Catch and Release | 43.00% | ~725 |
+| ICU | 45.00% | ~760 |
+| Peek-a-boo | 43.00% | ~726 |
+| Catch and Release | 43.00% | ~726 |
 | Sucks To Be You | 42.00% | ~709 |
-| Welcome to the Neighborhood | 37.00% | ~624 |
-| Fly Fisher | 35.00% | ~590 |
+| Welcome to the Neighborhood | 36.00% | ~608 |
+| Fly Fisher | 35.00% | ~591 |
 | Throw The First Stone | 34.00% | ~574 |
 | Enter of Your Own Free Will | 31.00% | ~523 |
 | Heart Attack | 31.00% | ~523 |
 | Skin of Their Teeth | 30.00% | ~506 |
 | Grounded | 23.00% | ~388 |
-| Bad Wiring | 20.00% | ~337 |
+| Bad Wiring | 20.00% | ~338 |
 | I Spit On Your Grave | 19.00% | ~321 |
 | Neighborhood Revitalization | 15.00% | ~253 |
 | Radio Silence | 15.00% | ~253 |
-| Helping Hand | 12.00% | ~202 |
+| Helping Hand | 12.00% | ~203 |
 | You Clean It Up | 11.00% | ~186 |
 | Starve the Beast | 8.00% | ~135 |
 | Block Party | 7.00% | ~118 |
 | From the Shadows | 5.00% | ~84 |
-| Bell-ringer | 4.00% | ~67 |
-| Right This Way | 4.00% | ~67 |
-| Nice Try | 4.00% | ~67 |
+| Bell-ringer | 4.00% | ~68 |
+| Right This Way | 4.00% | ~68 |
+| Nice Try | 4.00% | ~68 |
 | Revelations | 3.00% | ~51 |
 | Sic Transit Umbra | 3.00% | ~51 |
 | Silence Is Golden | 3.00% | ~51 |
@@ -53,8 +53,8 @@ Rating: 3.46 (Ranked 942)
 | Bloody Initiate | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
-| Ask Not For Whom The Horns Blow | 0.80% | ~13 |
-| So Anyway I Started Blasting | 0.80% | ~13 |
+| Ask Not For Whom The Horns Blow | 0.80% | ~14 |
+| So Anyway I Started Blasting | 0.80% | ~14 |
 | Sisterhood | 0.70% | ~12 |
 | What Lies Below | 0.70% | ~12 |
 | Someplace to Be | 0.40% | ~7 |
@@ -72,8 +72,8 @@ Rating: 3.46 (Ranked 942)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,687 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 223)  
+Progressed: 1,688 (Ranked 160)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 1,679 | 0 |
 | 2023-06-13 | 1,681 | 0 |
 | 2023-06-14 | 1,686 | 0 |
-| 2023-06-15 | 1,687 | 0 |
+| 2023-06-15 | 1,688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

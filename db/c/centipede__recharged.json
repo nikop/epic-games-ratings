@@ -3,12 +3,12 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 767,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14587,
+  "EOS_Progressed": 14588,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
@@ -4606,6 +4606,11 @@
       "Time": "2023-06-15T19:03:15.2213389+00:00",
       "NumProgressed": 14587,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-15T21:02:21.2598174+00:00",
+      "NumProgressed": 14588,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 16,
@@ -4617,7 +4622,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "Burning_For_You",
@@ -4625,7 +4630,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "Deadline",
@@ -4689,7 +4694,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6272
+      "UsersEstimate": 6273
     },
     {
       "ID": "Mirrors",
@@ -4713,7 +4718,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7439
+      "UsersEstimate": 7440
     },
     {
       "ID": "Sole_Survivor",
@@ -4721,7 +4726,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "Still_Burning",
@@ -4744,15 +4749,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14587,
+      "Progressed": 14588,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:03:26.4968282+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:02:21.2598166+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:23.2018586+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:59:16.9370303+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:03:26.4968646+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:51.8117053+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:02:21.2598461+00:00"
 }

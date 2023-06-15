@@ -72,9 +72,9 @@ Rating: 4.05 (Ranked 895)
 | Pokerface | 0.40% | ~6 |
 | Titan Power | 0.40% | ~6 |
 | Enchanting skill x5 | 0.30% | ~4 |
+| Angel Power | 0.20% | ~3 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
-| Angel Power | 0.10% | ~1 |
 | Conqueror | 0.10% | ~1 |
 | Jewel Enchanting | 0.10% | ~1 |
 | Silverwood liberator | 0.10% | ~1 |

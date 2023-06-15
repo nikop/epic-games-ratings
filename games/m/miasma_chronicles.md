@@ -22,7 +22,7 @@ Rating: 4.31 (Ranked 763)
 | The meaning of Kain | 34.00% | ~387 |
 | Technophobe | 31.00% | ~353 |
 | Recycler | 29.00% | ~330 |
-| Are you not entertained? | 25.00% | ~284 |
+| Are you not entertained? | 26.00% | ~296 |
 | Ganglord | 25.00% | ~284 |
 | Jarhead | 25.00% | ~284 |
 | Infiltrator | 24.00% | ~273 |
@@ -58,7 +58,7 @@ Rating: 4.31 (Ranked 763)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,138 (Ranked 174)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

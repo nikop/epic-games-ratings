@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 95 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,8 +112,8 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-14 | 87 | 0 |
 | 2023-06-15 | 95 | 0 |
 ## Awards
-Max (Character Customization): 61  (Ranked 382)  
-Sum: 61 (Ranked 435)  
+Max (Character Customization): 61  (Ranked 381)  
+Sum: 61 (Ranked 434)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |

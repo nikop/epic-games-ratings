@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 16.00% | ~468 |
 | The Power of Family | 16.00% | ~468 |
 | Apex Predator | 15.00% | ~438 |
+| Strange amalgams | 12.00% | ~351 |
 | The Power of Faith | 12.00% | ~351 |
-| Strange amalgams | 11.00% | ~322 |
 | The Power of Freedom | 9.00% | ~263 |
 | Ace Detective | 8.00% | ~234 |
 | Gift from the Ancestors | 8.00% | ~234 |
@@ -106,9 +106,9 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-14 | 2,917 | 1 |
 | 2023-06-15 | 2,923 | 1 |
 ## Awards
-Max (Amazing Characters): 31  (Ranked 450)  
+Max (Amazing Characters): 31  (Ranked 449)  
 Sum: 239 (Ranked 347)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

@@ -3,10 +3,10 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 869,
-  "Ranking_Popularity": 443,
+  "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 382,
-  "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -576,7 +576,7 @@
   ],
   "EOS_Progressed": 4365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3698,8 +3698,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:03:58.7809891+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:03:23.2068996+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:59:57.0110982+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:03:58.7810359+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:59:31.6180175+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:03:23.2069326+00:00"
 }

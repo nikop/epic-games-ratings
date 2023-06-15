@@ -5,46 +5,46 @@ Rating: 3.98 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~296,790 |
-| Health Junkie | 45.00% | ~178,074 |
-| You Complete Me | 41.00% | ~162,245 |
-| Guardian Angel | 39.00% | ~154,331 |
-| Devil Inside Me | 31.00% | ~122,673 |
-| Killing Spree | 22.00% | ~87,058 |
-| Fantastic Four | 21.00% | ~83,101 |
-| Marksman Novice | 20.00% | ~79,144 |
-| First Blood | 14.00% | ~55,401 |
-| Top 10 | 14.00% | ~55,401 |
-| Now You See Me, Now You Don't | 12.00% | ~47,486 |
-| Marksman Expert | 10.00% | ~39,572 |
-| CQB Novice | 9.00% | ~35,615 |
-| Collateral Damage | 7.00% | ~27,700 |
-| Airborne | 6.00% | ~23,743 |
-| Pacifist | 6.00% | ~23,743 |
-| Last Survivor | 4.00% | ~15,829 |
-| Marksman Master | 4.00% | ~15,829 |
-| Trigonometry Novice | 4.00% | ~15,829 |
-| First Come, First Served | 4.00% | ~15,829 |
-| Dynamic Duo | 4.00% | ~15,829 |
-| Winner Winner Chicken Dinner! | 2.00% | ~7,914 |
-| Okay, Now I'm Ready | 2.00% | ~7,914 |
-| Agent 48 | 2.00% | ~7,914 |
-| Don't Pan Me Bro! | 2.00% | ~7,914 |
-| Fast and Furious | 2.00% | ~7,914 |
-| CQB Expert | 2.00% | ~7,914 |
-| Fury Road | 1.00% | ~3,957 |
-| Ghost | 1.00% | ~3,957 |
-| Cruising with the Enemy | 1.00% | ~3,957 |
+| Blood on My Hands | 75.00% | ~296,851 |
+| Health Junkie | 45.00% | ~178,110 |
+| You Complete Me | 41.00% | ~162,278 |
+| Guardian Angel | 39.00% | ~154,362 |
+| Devil Inside Me | 31.00% | ~122,698 |
+| Killing Spree | 22.00% | ~87,076 |
+| Fantastic Four | 21.00% | ~83,118 |
+| Marksman Novice | 20.00% | ~79,160 |
+| First Blood | 14.00% | ~55,412 |
+| Top 10 | 14.00% | ~55,412 |
+| Now You See Me, Now You Don't | 12.00% | ~47,496 |
+| Marksman Expert | 10.00% | ~39,580 |
+| CQB Novice | 9.00% | ~35,622 |
+| Collateral Damage | 7.00% | ~27,706 |
+| Airborne | 6.00% | ~23,748 |
+| Pacifist | 6.00% | ~23,748 |
+| Last Survivor | 4.00% | ~15,832 |
+| Marksman Master | 4.00% | ~15,832 |
+| Trigonometry Novice | 4.00% | ~15,832 |
+| First Come, First Served | 4.00% | ~15,832 |
+| Dynamic Duo | 4.00% | ~15,832 |
+| Winner Winner Chicken Dinner! | 2.00% | ~7,916 |
+| Okay, Now I'm Ready | 2.00% | ~7,916 |
+| Agent 48 | 2.00% | ~7,916 |
+| Don't Pan Me Bro! | 2.00% | ~7,916 |
+| Fast and Furious | 2.00% | ~7,916 |
+| CQB Expert | 2.00% | ~7,916 |
+| Fury Road | 1.00% | ~3,958 |
+| Ghost | 1.00% | ~3,958 |
+| Cruising with the Enemy | 1.00% | ~3,958 |
 | Nade King Novice | 0.80% | ~3,166 |
-| Master Assassin | 0.60% | ~2,374 |
+| Master Assassin | 0.60% | ~2,375 |
 | CQB Master | 0.30% | ~1,187 |
-| The First Rule Is… | 0.20% | ~791 |
+| The First Rule Is… | 0.20% | ~792 |
 | Nade King Master | 0.10% | ~396 |
 | Nade King Expert | 0.10% | ~396 |
 | Shoot the Knee | 0.10% | ~396 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,720 (Ranked 38)  
-Completed: 10 (0.00%) (Ranked 223)  
+Progressed: 395,801 (Ranked 38)  
+Completed: 10 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,10 +99,10 @@ Completed: 10 (0.00%) (Ranked 223)
 | 2023-06-12 | 392,291 | 8 |
 | 2023-06-13 | 393,233 | 10 |
 | 2023-06-14 | 394,337 | 10 |
-| 2023-06-15 | 395,720 | 10 |
+| 2023-06-15 | 395,801 | 10 |
 ## Awards
 Max (Competitive Players): 2,289  (Ranked 100)  
-Sum: 9,501 (Ranked 82)  
+Sum: 9,508 (Ranked 82)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -110,7 +110,7 @@ Diff (max vs sum): 18
 | This game has Quickly Understood Controls | 2,104 |
 | This game has Challenging Combat | 1,989 |
 | This game is Highly Recommended | 1,832 |
-| This game has a Competitive Community | 1,287 |
+| This game has a Competitive Community | 1,294 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -225,4 +225,4 @@ Diff (max vs sum): 18
 | 2023-06-12 | 3.98 | 2,246 | 7,300 |
 | 2023-06-13 | 3.98 | 2,261 | 7,340 |
 | 2023-06-14 | 3.98 | 2,278 | 9,472 |
-| 2023-06-15 | 3.98 | 2,289 | 9,501 |
+| 2023-06-15 | 3.98 | 2,289 | 9,508 |

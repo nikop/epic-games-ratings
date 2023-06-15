@@ -3,10 +3,10 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 817,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2120,9 +2120,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 630
     },
     {
       "ID": "A18",
@@ -2264,9 +2264,9 @@
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 194
     },
     {
       "ID": "A36",
@@ -2433,8 +2433,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:06:22.2337324+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:05:46.0650872+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:58:24.2816174+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:06:22.2337945+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:58:02.9017114+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:05:46.0651318+00:00"
 }

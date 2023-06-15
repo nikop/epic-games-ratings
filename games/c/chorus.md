@@ -22,7 +22,7 @@ Number of Ratings: 58  (23.09.2022)
 | Huntress | 53.00% | ~519 |
 | Born to Drift | 52.00% | ~509 |
 | Relentless | 48.00% | ~470 |
-| The Path Forward | 45.00% | ~441 |
+| The Path Forward | 46.00% | ~450 |
 | Disruption | 44.00% | ~431 |
 | Phoenix | 44.00% | ~431 |
 | Cult Slayer | 40.00% | ~392 |
@@ -102,8 +102,8 @@ Completed: 11 (1.12%) (Ranked 90)
 | 2023-06-14 | 973 | 11 |
 | 2023-06-15 | 979 | 11 |
 ## Awards
-Max (Great Boss Battles): 32  (Ranked 443)  
-Sum: 32 (Ranked 466)  
+Max (Great Boss Battles): 32  (Ranked 442)  
+Sum: 32 (Ranked 465)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |

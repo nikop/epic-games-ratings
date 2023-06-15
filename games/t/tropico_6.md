@@ -9,22 +9,22 @@ Number of Ratings: 398  (23.09.2022)
 | Just One...More...Term... | 76.00% | ~2,788 |
 | Un-Lonely Island | 48.00% | ~1,761 |
 | The Beginning of a Servantship | 45.00% | ~1,651 |
-| Trade Is My Trait | 36.00% | ~1,320 |
+| Trade Is My Trait | 36.00% | ~1,321 |
 | Number 18 | 25.00% | ~917 |
 | We Don't Have Time For That | 19.00% | ~697 |
 | The Governator | 18.00% | ~660 |
 | The Legend of Langostino | 17.00% | ~624 |
 | Caribbean Comrade | 16.00% | ~587 |
 | The Dreamer of Dreams | 16.00% | ~587 |
-| Happy Ending? | 11.00% | ~403 |
-| Go Sovereigns! | 11.00% | ~403 |
-| For Science! | 11.00% | ~403 |
+| Happy Ending? | 11.00% | ~404 |
+| Go Sovereigns! | 11.00% | ~404 |
+| For Science! | 11.00% | ~404 |
 | Of Seals And Men | 10.00% | ~367 |
 | Shackadelic | 10.00% | ~367 |
-| Double Trouble | 8.00% | ~293 |
-| Firestarter | 8.00% | ~293 |
-| Make Tropico Great Again! | 8.00% | ~293 |
-| French Connection | 8.00% | ~293 |
+| Double Trouble | 8.00% | ~294 |
+| Firestarter | 8.00% | ~294 |
+| Make Tropico Great Again! | 8.00% | ~294 |
+| French Connection | 8.00% | ~294 |
 | Don't Panic! | 7.00% | ~257 |
 | Beware The Betman | 6.00% | ~220 |
 | I Owe You Nothing | 6.00% | ~220 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~37 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,668 (Ranked 136)  
+Progressed: 3,669 (Ranked 137)  
 Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-12 | 3,598 | 1 |
 | 2023-06-13 | 3,621 | 1 |
 | 2023-06-14 | 3,644 | 1 |
-| 2023-06-15 | 3,668 | 1 |
+| 2023-06-15 | 3,669 | 1 |
 ## Awards
-Max (Quickly Understood Controls): 93  (Ranked 340)  
+Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 277)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

@@ -8,19 +8,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 3.00% | ~460 |
 | No Deaths | 3.00% | ~460 |
-| Homesick | 2.00% | ~306 |
-| First Real Expedition | 2.00% | ~306 |
-| Overcoming Difficulty | 2.00% | ~306 |
-| Bandit Camp | 2.00% | ~306 |
-| Barren Lands | 2.00% | ~306 |
-| Fertile Meadows | 2.00% | ~306 |
-| Lost Colonies | 2.00% | ~306 |
-| Coral Forest | 2.00% | ~306 |
-| Cursed Lands | 2.00% | ~306 |
-| The Scarlet Orchard | 2.00% | ~306 |
-| Taking Action | 2.00% | ~306 |
-| Like a Machine | 2.00% | ~306 |
-| Trade Baron | 2.00% | ~306 |
+| Homesick | 2.00% | ~307 |
+| First Real Expedition | 2.00% | ~307 |
+| Overcoming Difficulty | 2.00% | ~307 |
+| Bandit Camp | 2.00% | ~307 |
+| Barren Lands | 2.00% | ~307 |
+| Fertile Meadows | 2.00% | ~307 |
+| Lost Colonies | 2.00% | ~307 |
+| Coral Forest | 2.00% | ~307 |
+| Cursed Lands | 2.00% | ~307 |
+| The Scarlet Orchard | 2.00% | ~307 |
+| Taking Action | 2.00% | ~307 |
+| Like a Machine | 2.00% | ~307 |
+| Trade Baron | 2.00% | ~307 |
 | Serving Ale | 1.00% | ~153 |
 | Refinery | 1.00% | ~153 |
 | Against All Odds | 1.00% | ~153 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,325 (Ranked 103)  
+Progressed: 15,326 (Ranked 103)  
 Completed: 34 (0.22%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 34 (0.22%) (Ranked 150)
 | 2023-06-12 | 15,296 | 34 |
 | 2023-06-13 | 15,303 | 34 |
 | 2023-06-14 | 15,317 | 34 |
-| 2023-06-15 | 15,325 | 34 |
+| 2023-06-15 | 15,326 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,043 (Ranked 153)  

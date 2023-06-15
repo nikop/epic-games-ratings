@@ -13,12 +13,12 @@ Rating: 4.18 (Ranked 847)
 | Reforged | 10.00% | ~1,536 |
 | Workplace Hazard | 9.00% | ~1,382 |
 | If the SHU Fits... | 9.00% | ~1,382 |
-| Get a Grip | 8.00% | ~1,228 |
+| Get a Grip | 8.00% | ~1,229 |
 | Giving Back | 7.00% | ~1,075 |
 | Without A Paddle | 7.00% | ~1,075 |
-| Terminated | 6.00% | ~921 |
-| In the Pipe, Five by Five | 6.00% | ~921 |
-| Crash Site | 6.00% | ~921 |
+| Terminated | 6.00% | ~922 |
+| In the Pipe, Five by Five | 6.00% | ~922 |
+| Crash Site | 6.00% | ~922 |
 | You Need a Gun | 5.00% | ~768 |
 | Two Heads Are Better Than One | 5.00% | ~768 |
 | Float Like A Butterfly | 5.00% | ~768 |
@@ -26,10 +26,10 @@ Rating: 4.18 (Ranked 847)
 | What Lies Beneath | 4.00% | ~614 |
 | Full Circle | 4.00% | ~614 |
 | Instigator | 4.00% | ~131 |
+| I Do Belong Here | 3.00% | ~461 |
 | The Commonality | 3.00% | ~461 |
-| Big Game Hunter | 3.00% | ~98 |
-| Bear Trap | 3.00% | ~98 |
-| I Do Belong Here | 2.00% | ~307 |
+| Big Game Hunter | 3.00% | ~99 |
+| Bear Trap | 3.00% | ~99 |
 | In Striking Distance | 2.00% | ~307 |
 | Mugshot | 2.00% | ~307 |
 | Big Spender | 2.00% | ~66 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,355 (Ranked 102)  
+Progressed: 15,359 (Ranked 102)  
 Completed: 56 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,11 +101,11 @@ Completed: 56 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,355 | 56 |
+| 2023-06-15 | 15,359 | 56 |
 ## Awards
-Max (Amazing Storytelling): 54  (Ranked 387)  
+Max (Amazing Storytelling): 54  (Ranked 386)  
 Sum: 314 (Ranked 329)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 54 |

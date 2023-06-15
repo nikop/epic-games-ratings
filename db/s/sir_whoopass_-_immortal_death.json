@@ -3,8 +3,8 @@
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
@@ -637,9 +637,9 @@
       "ID": "FUNGOID_1",
       "SetID": "9gfkh7c",
       "Name": "Mushroom soup of the day",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GLASSES_1",
@@ -765,9 +765,9 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "JUMP_2",
@@ -925,9 +925,9 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SKELETON_1",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-15T20:06:20.0332019+00:00",
+  "LastChanged_Achievements": "2023-06-15T21:05:44.1330248+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7227783+00:00",
-  "LastUpdate_Ratings": "2023-06-15T19:57:35.1656921+00:00",
-  "LastUpdate_Achievements": "2023-06-15T20:06:20.0333016+00:00"
+  "LastUpdate_Ratings": "2023-06-15T20:57:15.8951295+00:00",
+  "LastUpdate_Achievements": "2023-06-15T21:05:44.1330935+00:00"
 }
