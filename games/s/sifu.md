@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~748 |
-| Project Arena | 3.00% | ~561 |
+| Diligence as a goal | 4.00% | ~749 |
+| Project Arena | 3.00% | ~562 |
 | The Old Grandmaster | 1.00% | ~7,094 |
 | The Assault | 1.00% | ~7,094 |
 | The Hateful Pole Fighter | 1.00% | ~7,094 |
@@ -33,8 +33,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.80% | ~5,675 |
 | Kung-Fu Tussle | 0.80% | ~5,675 |
 | Dance of the Praying Mantis | 0.70% | ~4,966 |
-| Muk Yan Master | 0.60% | ~4,256 |
-| Detective Story | 0.60% | ~4,256 |
+| Muk Yan Master | 0.60% | ~4,257 |
+| Detective Story | 0.60% | ~4,257 |
 | Deadly Venom | 0.60% | ~112 |
 | A Touch of Acumen | 0.60% | ~112 |
 | Tiger on Fire | 0.50% | ~3,547 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,406 (Ranked 17)  
+Progressed: 709,418 (Ranked 17)  
 Completed: 12,770 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 12,770 (1.80%) (Ranked 75)
 | 2023-06-12 | 708,992 | 12,767 |
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
-| 2023-06-15 | 709,406 | 12,770 |
+| 2023-06-15 | 709,418 | 12,770 |
 ## Awards
 Max (Great Boss Battles): 6,173  (Ranked 52)  
 Sum: 10,541 (Ranked 78)  

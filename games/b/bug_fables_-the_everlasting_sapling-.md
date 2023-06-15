@@ -24,7 +24,7 @@
 | All Geared Up | 14.00% | ~10 |
 | The End | 14.00% | ~10 |
 | Good Deed | 14.00% | ~10 |
-| Music Collector | 13.00% | ~9 |
+| Music Collector | 14.00% | ~10 |
 | Gamer | 11.00% | ~8 |
 | Ultimate Team! | 11.00% | ~8 |
 | Pro Explorers | 10.00% | ~7 |

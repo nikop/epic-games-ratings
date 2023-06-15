@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,004 |
-| That's a Grand Army | 8.00% | ~4,448 |
-| That is mine! | 8.00% | ~4,448 |
-| Victorious! | 8.00% | ~4,448 |
-| Brothers in Arms | 6.00% | ~3,336 |
-| That's a Grand Navy | 6.00% | ~3,336 |
-| Seriously?! | 6.00% | ~3,336 |
-| For the Glory | 5.00% | ~2,780 |
-| Cold War | 4.00% | ~2,224 |
-| True Catholic | 4.00% | ~2,224 |
-| Defender of the Faith | 3.00% | ~1,668 |
-| It's all about the money | 3.00% | ~1,668 |
-| Respected | 3.00% | ~1,668 |
-| Truly Divine Ruler | 3.00% | ~1,668 |
+| Until death do us apart | 9.00% | ~5,006 |
+| That's a Grand Army | 8.00% | ~4,449 |
+| That is mine! | 8.00% | ~4,449 |
+| Victorious! | 8.00% | ~4,449 |
+| Brothers in Arms | 6.00% | ~3,337 |
+| That's a Grand Navy | 6.00% | ~3,337 |
+| Seriously?! | 6.00% | ~3,337 |
+| For the Glory | 5.00% | ~2,781 |
+| Cold War | 4.00% | ~2,225 |
+| True Catholic | 4.00% | ~2,225 |
+| Defender of the Faith | 3.00% | ~1,669 |
+| It's all about the money | 3.00% | ~1,669 |
+| Respected | 3.00% | ~1,669 |
+| Truly Divine Ruler | 3.00% | ~1,669 |
 | Agressive Expander | 2.00% | ~1,112 |
 | Blockader | 2.00% | ~1,112 |
 | Combined Arms | 2.00% | ~1,112 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~556 |
 | The Five Colonies | 1.00% | ~556 |
 | This navy can take it all | 1.00% | ~556 |
-| The Emperors new clothes | 0.90% | ~500 |
-| Isn't this the way to India? | 0.90% | ~500 |
-| Market Control | 0.90% | ~500 |
+| The Emperors new clothes | 0.90% | ~501 |
+| Isn't this the way to India? | 0.90% | ~501 |
+| Market Control | 0.90% | ~501 |
 | Down Under | 0.80% | ~445 |
 | Trustworthy | 0.80% | ~445 |
 | All belongs to Mother Russia | 0.60% | ~334 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,603 (Ranked 76)  
+Progressed: 55,618 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,15 +417,15 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
-| 2023-06-15 | 55,603 | 0 |
+| 2023-06-15 | 55,618 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
-Sum: 44,546 (Ranked 27)  
+Sum: 44,553 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,392 |
-| This game is Highly Recommended | 5,169 |
+| This game is Highly Recommended | 5,176 |
 | This game has Challenging Combat | 5,136 |
 | This game is Extremely Fun | 5,099 |
 | This game has Diverse Characters | 5,074 |
@@ -586,4 +586,4 @@ Diff (max vs sum): 34
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
-| 2023-06-15 | 4.68 | - | 5,392 | 44,546 |
+| 2023-06-15 | 4.68 | - | 5,392 | 44,553 |

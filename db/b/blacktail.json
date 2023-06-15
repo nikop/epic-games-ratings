@@ -6,8 +6,8 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,11 +54,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.2871763+00:00",
@@ -919,6 +919,11 @@
       "Time": "2023-06-15T00:06:24.7828436+00:00",
       "NumProgressed": 487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T10:06:34.4576944+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -986,7 +991,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Favourite",
@@ -1016,9 +1021,9 @@
       "ID": "GoldRush",
       "SetID": "2aagp3d",
       "Name": "Gold rush",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "GossipGirl",
@@ -1050,7 +1055,7 @@
       "Name": "Liar Liar",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LittleHelper",
@@ -1074,7 +1079,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NoMoreWards",
@@ -1130,7 +1135,7 @@
       "Name": "Baba Yaga",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ToadCharming",
@@ -1185,7 +1190,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 1
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:06:01.3750884+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:06:34.4576938+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:58:00.2351107+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:06:01.3751106+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:58:11.2880455+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:06:34.4577405+00:00"
 }

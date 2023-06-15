@@ -1,25 +1,25 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.58 (Ranked 423)  
+Rating: 4.59 (Ranked 410)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,675 |
+| A Wonderful Discovery | 79.00% | ~3,676 |
 | Realm Estate | 76.00% | ~3,536 |
-| Secret Technique | 75.00% | ~3,489 |
-| Walls Cannot Stop Us | 73.00% | ~3,396 |
-| From Friends to Family | 69.00% | ~3,210 |
+| Secret Technique | 75.00% | ~3,490 |
+| Walls Cannot Stop Us | 73.00% | ~3,397 |
+| From Friends to Family | 69.00% | ~3,211 |
 | Magical Synergy | 65.00% | ~3,024 |
 | Bone Peddler | 61.00% | ~2,838 |
-| Stronger Together | 56.00% | ~2,605 |
+| Stronger Together | 56.00% | ~2,606 |
 | Full Ascension | 55.00% | ~2,559 |
 | There Can Only Be One! | 48.00% | ~2,233 |
 | Seat of Power | 48.00% | ~2,233 |
-| Intimidation Tactics | 45.00% | ~2,093 |
+| Intimidation Tactics | 45.00% | ~2,094 |
 | My Final Form | 44.00% | ~2,047 |
-| Valley of Wonders | 43.00% | ~2,000 |
-| In a Liege of Your Own | 39.00% | ~1,814 |
+| Valley of Wonders | 43.00% | ~2,001 |
+| In a Liege of Your Own | 39.00% | ~1,815 |
 | Return of the Wizard King | 32.00% | ~1,489 |
 | Against the Odds | 32.00% | ~1,489 |
 | Digging for Treasure | 31.00% | ~1,442 |
@@ -27,9 +27,9 @@ Rating: 4.58 (Ranked 423)
 | Impenetrable Fortress | 28.00% | ~1,303 |
 | The Magic That Empowers Me! | 21.00% | ~977 |
 | Preparation Is Everything | 21.00% | ~977 |
-| Arch Mage | 20.00% | ~930 |
-| God Emperor | 18.00% | ~837 |
-| Crimson Caldera | 18.00% | ~837 |
+| Arch Mage | 20.00% | ~931 |
+| God Emperor | 18.00% | ~838 |
+| Crimson Caldera | 18.00% | ~838 |
 | Eternal Lord | 17.00% | ~791 |
 | The Creator | 15.00% | ~698 |
 | The Goddess of Nature | 15.00% | ~698 |
@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 423)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,652 (Ranked 129)  
+Progressed: 4,653 (Ranked 129)  
 Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 3 (0.06%) (Ranked 189)
 | 2023-06-12 | 4,595 | 2 |
 | 2023-06-13 | 4,615 | 3 |
 | 2023-06-14 | 4,635 | 3 |
-| 2023-06-15 | 4,652 | 3 |
+| 2023-06-15 | 4,653 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -124,3 +124,4 @@ Completed: 3 (0.06%) (Ranked 189)
 | 2023-06-09 | 4.56 | 0 | 0 |
 | 2023-06-10 | 4.57 | 0 | 0 |
 | 2023-06-14 | 4.58 | 0 | 0 |
+| 2023-06-15 | 4.59 | 0 | 0 |

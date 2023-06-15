@@ -4620,9 +4620,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709406,
+  "EOS_Progressed": 709418,
   "EOS_Completed": 12770,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1437,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9920,6 +9920,11 @@
       "Time": "2023-06-15T09:06:13.9403117+00:00",
       "NumProgressed": 709406,
       "NumCompleted": 12770
+    },
+    {
+      "Time": "2023-06-15T10:06:49.3605482+00:00",
+      "NumProgressed": 709418,
+      "NumCompleted": 12770
     }
   ],
   "TotalAchievements": 50,
@@ -9979,7 +9984,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "08_Wude_H2",
@@ -10043,7 +10048,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "16_Detective_H2",
@@ -10267,7 +10272,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10275,7 +10280,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10330,21 +10335,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18707,
+      "Progressed": 18719,
       "Completed": 10270
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709406,
+      "Progressed": 709418,
       "Completed": 12770
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-15T08:59:01.2458784+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:06:13.9403112+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:06:49.3605469+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:59:01.2458792+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:06:13.9403693+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:59:23.8393647+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:06:49.3606388+00:00"
 }

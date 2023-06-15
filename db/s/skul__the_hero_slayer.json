@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7814,
+  "EOS_Progressed": 7815,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2928,6 +2928,11 @@
       "Time": "2023-06-15T09:05:52.2496395+00:00",
       "NumProgressed": 7814,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-15T10:06:23.9642576+00:00",
+      "NumProgressed": 7815,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2987,7 +2992,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -3051,7 +3056,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "RookieWelcome",
@@ -3099,7 +3104,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7267
+      "UsersEstimate": 7268
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3130,15 +3135,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7814,
+      "Progressed": 7815,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:05:52.249639+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:06:23.9642571+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:58:57.5271179+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:05:52.2496632+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:59:19.3867607+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:06:23.9642896+00:00"
 }

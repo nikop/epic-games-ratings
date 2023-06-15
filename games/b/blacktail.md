@@ -12,14 +12,14 @@ Rating: 4.67 (Ranked 258)
 | Forbidden techniques | 11.00% | ~54 |
 | Slavic squatter | 9.00% | ~44 |
 | Devoted | 8.00% | ~39 |
-| Gold rush | 6.00% | ~29 |
+| Gold rush | 7.00% | ~34 |
 | Spirit animal | 6.00% | ~29 |
 | Fishing fanatic | 5.00% | ~24 |
 | A friend in need... | 5.00% | ~24 |
-| Sneak peek | 4.00% | ~19 |
-| Liar Liar | 4.00% | ~19 |
-| The cycle acknowledged | 4.00% | ~19 |
-| Baba Yaga | 4.00% | ~19 |
+| Sneak peek | 4.00% | ~20 |
+| Liar Liar | 4.00% | ~20 |
+| The cycle acknowledged | 4.00% | ~20 |
+| Baba Yaga | 4.00% | ~20 |
 | Extensive retelling | 3.00% | ~15 |
 | Favorite | 3.00% | ~15 |
 | The word around is... | 3.00% | ~15 |
@@ -38,8 +38,8 @@ Rating: 4.67 (Ranked 258)
 | Mushrooming enthusiast | 0.40% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 202)  
-Completed: 1 (0.21%) (Ranked 150)  
+Progressed: 488 (Ranked 202)  
+Completed: 1 (0.20%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 1 (0.21%) (Ranked 150)
 | 2023-06-12 | 480 | 1 |
 | 2023-06-13 | 482 | 1 |
 | 2023-06-14 | 486 | 1 |
-| 2023-06-15 | 487 | 1 |
+| 2023-06-15 | 488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

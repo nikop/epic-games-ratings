@@ -4,8 +4,8 @@
 Rating: 4.10 (Ranked 878)  
 Number of Ratings: 231  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 52  (Ranked 390)  
-Sum: 52 (Ranked 439)  
+Max (Challenging Puzzles): 52  (Ranked 391)  
+Sum: 52 (Ranked 440)  
 Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |

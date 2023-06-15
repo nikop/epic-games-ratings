@@ -30,7 +30,7 @@
 | PERFECTLY POISED | 0.60% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,788 (Ranked 146)  
-Completed: 15 (0.54%) (Ranked 115)  
+Completed: 16 (0.57%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,4 +85,4 @@ Completed: 15 (0.54%) (Ranked 115)
 | 2023-06-12 | 2,760 | 7 |
 | 2023-06-13 | 2,770 | 11 |
 | 2023-06-14 | 2,783 | 15 |
-| 2023-06-15 | 2,788 | 15 |
+| 2023-06-15 | 2,788 | 16 |

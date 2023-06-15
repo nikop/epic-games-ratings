@@ -786,17 +786,17 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "findalltapes",
@@ -907,8 +907,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:04:09.2074102+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:04:19.44139+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:58:49.2285424+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:04:09.2074237+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:59:08.5367678+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:04:19.4414097+00:00"
 }

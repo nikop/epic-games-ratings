@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -220,15 +220,21 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-15T09:59:50.5471192+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4652,
+  "EOS_Progressed": 4653,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3906,6 +3912,11 @@
       "Time": "2023-06-15T09:04:51.3902512+00:00",
       "NumProgressed": 4652,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T10:05:10.2965509+00:00",
+      "NumProgressed": 4653,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3917,7 +3928,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "10",
@@ -3973,7 +3984,7 @@
       "Name": "God Emperor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "17",
@@ -3989,7 +4000,7 @@
       "Name": "Arch Mage",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "19",
@@ -4037,7 +4048,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "24",
@@ -4045,7 +4056,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "25",
@@ -4053,7 +4064,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "26",
@@ -4077,7 +4088,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "29",
@@ -4085,7 +4096,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "3",
@@ -4093,7 +4104,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "30",
@@ -4133,7 +4144,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "35",
@@ -4189,7 +4200,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "41",
@@ -4268,22 +4279,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4652,
-      "Completed": 4652
+      "Progressed": 4653,
+      "Completed": 4653
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4652,
+      "Progressed": 4653,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-06-14T09:59:02.8248749+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:04:51.3902506+00:00",
+  "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:05:10.2965503+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:59:23.6126404+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:04:51.3902994+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:59:50.5471195+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:05:10.2966305+00:00"
 }

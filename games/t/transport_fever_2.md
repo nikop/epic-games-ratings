@@ -53,11 +53,11 @@ Number of Ratings: 180  (23.09.2022)
 | E.P.E.C. | 5.00% | ~64 |
 | Transport shark (Hard mode) | 4.00% | ~51 |
 | Transport corporation | 4.00% | ~51 |
+| Charles Alton Ellis | 3.00% | ~38 |
 | Cannot get enough | 3.00% | ~38 |
 | Industrialist | 3.00% | ~38 |
 | Transport tycoon (Hard mode) | 2.00% | ~26 |
 | No country for old trains | 2.00% | ~26 |
-| Charles Alton Ellis | 2.00% | ~26 |
 | Campaign tycoon | 2.00% | ~26 |
 | Metropolis | 2.00% | ~26 |
 | Speed of light | 2.00% | ~26 |

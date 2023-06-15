@@ -2,8 +2,8 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 362,
-  "Ranking_Popularity": 390,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -410,21 +410,27 @@
       "Rating": 4.61,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-06-15T09:58:35.5429034+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 53,
+  "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 52
+      "Count": 53
     }
   ],
-  "EOS_Progressed": 8486,
+  "EOS_Progressed": 8490,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 6,
@@ -4649,6 +4655,11 @@
       "Time": "2023-06-15T09:00:34.2207139+00:00",
       "NumProgressed": 8486,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-15T10:01:18.5561352+00:00",
+      "NumProgressed": 8490,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 34,
@@ -4684,7 +4695,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH05",
@@ -4764,7 +4775,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3396
     },
     {
       "ID": "ACH15",
@@ -4820,7 +4831,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3734
+      "UsersEstimate": 3736
     },
     {
       "ID": "ACH22",
@@ -4828,7 +4839,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH23",
@@ -4836,7 +4847,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "ACH24",
@@ -4844,7 +4855,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH25",
@@ -4852,7 +4863,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH26",
@@ -4860,7 +4871,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH27",
@@ -4931,16 +4942,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8486,
+      "Progressed": 8490,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-15T09:00:34.2207133+00:00",
+  "LastChanged": "2023-06-15T09:58:35.5429032+00:00",
+  "LastChanged_Achievements": "2023-06-15T10:01:18.5561347+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-15T08:58:20.5410962+00:00",
-  "LastUpdate_Achievements": "2023-06-15T09:00:34.2207645+00:00"
+  "LastUpdate_Ratings": "2023-06-15T09:58:35.5429037+00:00",
+  "LastUpdate_Achievements": "2023-06-15T10:01:18.5561888+00:00"
 }

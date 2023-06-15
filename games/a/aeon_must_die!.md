@@ -25,10 +25,10 @@
 | Slam The Brakes! | 2.00% | ~70 |
 | Ashes Of Belief | 2.00% | ~70 |
 | Buried Memories | 1.00% | ~35 |
-| Anything For The Throne | 0.90% | ~31 |
+| Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.80% | ~28 |
-| Iron Will | 0.50% | ~17 |
-| Not On My Watch | 0.50% | ~17 |
+| Iron Will | 0.50% | ~18 |
+| Not On My Watch | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |
 | Respect Earned | 0.30% | ~10 |
 | You're Trapped Here With Me | 0.30% | ~10 |
@@ -36,12 +36,12 @@
 | Rush Of Flames | 0.20% | ~7 |
 | Cold Blooded | 0.20% | ~7 |
 | A Path Scarred by Choice | 0.20% | ~7 |
-| Don't Need Your Help | 0.10% | ~3 |
-| Full Might Of The Armada | 0.10% | ~3 |
-| The Many Fates Of The Many | 0.10% | ~3 |
+| Don't Need Your Help | 0.10% | ~4 |
+| Full Might Of The Armada | 0.10% | ~4 |
+| The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 136)  
-Completed: -29 (-0.83%) (Ranked 2,781)  
+Progressed: 3,500 (Ranked 136)  
+Completed: -29 (-0.83%) (Ranked 2,782)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: -29 (-0.83%) (Ranked 2,781)
 | 2023-06-10 | 3,495 | -29 |
 | 2023-06-12 | 3,498 | -29 |
 | 2023-06-13 | 3,499 | -29 |
+| 2023-06-15 | 3,500 | -29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
