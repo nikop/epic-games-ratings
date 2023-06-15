@@ -45,14 +45,14 @@
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.31% |
-| 47 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
+| 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [The Bunker](games/t/the_bunker.md) | 2.94% |
-| 53 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -67,7 +67,7 @@
 | 65 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.00% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
 | 70 | [Iron Danger](games/i/iron_danger.md) | 1.93% |

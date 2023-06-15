@@ -359,7 +359,7 @@
 | 348 | [NORCO](games/n/norco.md) | 4.62 | 0 | 497 |
 | 348 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 497 |
 | 348 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 324 |
-| 348 | [Prey](games/p/prey.md) | 4.62 | 5,576 | 58 |
+| 348 | [Prey](games/p/prey.md) | 4.62 | 5,577 | 58 |
 | 348 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 376 |
 | 362 | [20XX](games/2/20xx.md) | 4.61 | 36 | 429 |
 | 362 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 497 |
@@ -448,7 +448,7 @@
 | 442 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 164 | 283 |
 | 442 | [Hob](games/h/hob.md) | 4.57 | 0 | 497 |
 | 442 | [IXION](games/i/ixion.md) | 4.57 | 0 | 497 |
-| 442 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,126 | 88 |
+| 442 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,130 | 88 |
 | 442 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 453 |
 | 442 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,661 | 19 |
 | 442 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,752 | 110 |
@@ -842,7 +842,7 @@
 | 839 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 497 |
 | 839 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 497 |
 | 839 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 438 |
-| 839 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,115 | 4 |
+| 839 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,170 | 4 |
 | 839 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 497 |
 | 839 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 497 |
 | 846 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 342 |
