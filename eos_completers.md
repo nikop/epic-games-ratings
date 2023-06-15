@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
+| 2 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 33.33% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
@@ -18,7 +18,7 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.22% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.24% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.23% |
 | 20 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.00% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
@@ -36,7 +36,7 @@
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -48,7 +48,7 @@
 | 46 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 47 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.12% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.09% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -66,7 +66,7 @@
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
 | 65 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
+| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.96% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
@@ -112,7 +112,7 @@
 | 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 110 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 112 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
-| 113 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.57% |
+| 112 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.61% |
 | 114 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 114 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
 | 116 | [Grindstone](games/g/grindstone.md) | 0.53% |
@@ -308,6 +308,8 @@
 | 223 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
 | 223 | [GRIME](games/g/grime.md) | 0.00% |
 | 223 | [Gripper](games/g/gripper.md) | 0.00% |
+| 223 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.00% |
+| 223 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.00% |
 | 223 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 0.00% |
 | 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 0.00% |
 | 223 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
@@ -453,4 +455,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,787 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,789 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

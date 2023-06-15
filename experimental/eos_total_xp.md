@@ -84,6 +84,7 @@
 | [Boxville](../games/7/7e305f850a5749b3b16599d737e500c8.md) | 18 | 1,000 |
 | [Bramble The Mountain King](../games/b/bramble_the_mountain_king.md) | 30 | 1,000 |
 | [Bratz™: Flaunt Your Fashion](../games/b/bratz™__flaunt_your_fashion.md) | 19 | 1,000 |
+| [Bread and Fred](../games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 20 | 1,000 |
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |
 | [BROK the InvestiGator](../games/b/brok_the_investigator.md) | 29 | 1,000 |
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
@@ -199,6 +200,8 @@
 | [Grim Nights](../games/g/grim_nights.md) | 15 | 1,000 |
 | [Grindstone](../games/g/grindstone.md) | 49 | 1,000 |
 | [Gripper](../games/g/gripper.md) | 35 | 1,000 |
+| [Guacamelee! 2](../games/2/277e364d24ec43069f4ee3c4414d5096.md) | 49 | 1,000 |
+| [Guacamelee! Super Turbo Championship Edition](../games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 31 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |
