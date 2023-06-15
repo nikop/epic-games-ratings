@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 412)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,648 |
+| A Wonderful Discovery | 79.00% | ~3,695 |
 | Realm Estate | 76.00% | ~3,555 |
 | Secret Technique | 75.00% | ~3,508 |
 | Walls Cannot Stop Us | 73.00% | ~3,414 |
@@ -21,12 +21,12 @@ Rating: 4.59 (Ranked 412)
 | Valley of Wonders | 43.00% | ~2,011 |
 | In a Liege of Your Own | 39.00% | ~1,824 |
 | Return of the Wizard King | 32.00% | ~1,497 |
+| Against the Odds | 32.00% | ~1,497 |
 | Digging for Treasure | 31.00% | ~1,450 |
-| Against the Odds | 31.00% | ~1,450 |
 | Enchanted Archipelago | 28.00% | ~1,310 |
 | Impenetrable Fortress | 28.00% | ~1,310 |
+| The Magic That Empowers Me! | 21.00% | ~982 |
 | Preparation Is Everything | 21.00% | ~982 |
-| The Magic That Empowers Me! | 20.00% | ~935 |
 | Arch Mage | 20.00% | ~935 |
 | God Emperor | 18.00% | ~842 |
 | Crimson Caldera | 18.00% | ~842 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 412)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,677 (Ranked 130)  
+Progressed: 4,677 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |

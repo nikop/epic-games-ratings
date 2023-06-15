@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,205 |
-| First Class Student | 8.00% | ~22,404 |
-| Troll with the Punches | 8.00% | ~22,404 |
+| First Class Student | 8.00% | ~22,405 |
+| Troll with the Punches | 8.00% | ~22,405 |
 | Grappling with a Graphorn | 7.00% | ~19,604 |
 | The One Who Mastered Memories | 7.00% | ~19,604 |
 | The Hallowed Hero | 7.00% | ~19,604 |
@@ -18,10 +18,10 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,604 |
 | Coasting Along | 7.00% | ~19,604 |
 | That's a Keeper | 7.00% | ~19,604 |
-| Challenge Accepted | 6.00% | ~16,803 |
-| Followed the Butterflies | 6.00% | ~16,803 |
-| The Spell Master | 6.00% | ~16,803 |
-| Rising From the Ashes | 6.00% | ~16,803 |
+| Challenge Accepted | 6.00% | ~16,804 |
+| Followed the Butterflies | 6.00% | ~16,804 |
+| The Spell Master | 6.00% | ~16,804 |
+| Rising From the Ashes | 6.00% | ~16,804 |
 | The Avenging Gazelle | 5.00% | ~14,003 |
 | Beast Friends | 5.00% | ~14,003 |
 | A Sallow Grave | 5.00% | ~14,003 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 107)
 | Demiguise Dread | 1.00% | ~2,801 |
 | Finishing Touches | 1.00% | ~2,801 |
 | A Forte for Achievement | 1.00% | ~2,801 |
-| Savvy Spender | 0.90% | ~2,520 |
+| Savvy Spender | 0.90% | ~2,521 |
 | Merlin's Beard! | 0.70% | ~1,960 |
 | Spilled Milk | 0.60% | ~1,680 |
 | The Nature of the Beast | 0.50% | ~1,400 |
 | Collector's Edition | 0.20% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,052 (Ranked 41)  
+Progressed: 280,060 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,10 +107,10 @@ Completed: 408 (0.15%) (Ranked 162)
 | 2023-06-12 | 279,048 | 403 |
 | 2023-06-13 | 279,378 | 405 |
 | 2023-06-14 | 279,708 | 406 |
-| 2023-06-15 | 280,052 | 408 |
+| 2023-06-15 | 280,060 | 408 |
 ## Awards
 Max (Character Customization): 19,994  (Ranked 18)  
-Sum: 37,070 (Ranked 32)  
+Sum: 37,071 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -119,8 +119,8 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 839 |
 | This game is Relaxing | 831 |
 | This game is Extremely Fun | 827 |
+| This game has Diverse Characters | 807 |
 | This game has Amazing Storytelling | 807 |
-| This game has Diverse Characters | 806 |
 | This game has Amazing Characters | 794 |
 | This game is Highly Recommended | 777 |
 | This game has Quickly Understood Controls | 723 |
@@ -212,4 +212,4 @@ Diff (max vs sum): -14
 | 2023-06-12 | 4.77 | 19,875 | 36,836 |
 | 2023-06-13 | 4.77 | 19,915 | 36,915 |
 | 2023-06-14 | 4.77 | 19,955 | 37,005 |
-| 2023-06-15 | 4.77 | 19,994 | 37,070 |
+| 2023-06-15 | 4.77 | 19,994 | 37,071 |

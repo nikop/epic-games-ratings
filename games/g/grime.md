@@ -26,10 +26,10 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 8.00% | ~48 |
 | Watcher | 8.00% | ~48 |
 | Predator | 8.00% | ~48 |
+| Dream | 8.00% | ~14 |
 | Assimilation | 7.00% | ~42 |
 | Artisan | 7.00% | ~42 |
 | Inevitable | 7.00% | ~42 |
-| Dream | 7.00% | ~12 |
 | Hunt Down | 6.00% | ~36 |
 | Hush | 6.00% | ~36 |
 | All-Seeing | 6.00% | ~36 |
@@ -38,9 +38,9 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 5.00% | ~30 |
 | Unwrap the Gift | 5.00% | ~30 |
 | Passage | 5.00% | ~30 |
+| Proportions | 5.00% | ~30 |
 | Breath | 4.00% | ~24 |
 | Weakness | 4.00% | ~24 |
-| Proportions | 4.00% | ~24 |
 | Bloodhunter | 3.00% | ~18 |
 | Listen | 3.00% | ~5 |
 | Zygote | 2.00% | ~4 |

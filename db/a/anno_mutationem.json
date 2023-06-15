@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -315,6 +315,11 @@
       "Time": "2023-06-15T19:01:08.7188023+00:00",
       "NumProgressed": 635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T22:01:05.6288677+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -388,9 +393,9 @@
       "ID": "Fire in the hole!",
       "SetID": "gl7plp",
       "Name": "Fire in the hole!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -406,7 +411,7 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "I_just_love_stuff",
@@ -478,7 +483,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -486,7 +491,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Tell_me_your_story",
@@ -494,7 +499,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -502,7 +507,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "The Traveler",
@@ -590,7 +595,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "posters",
@@ -613,7 +618,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 0
     }
   ],
@@ -621,8 +626,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:00:18.2629091+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:01:05.6288672+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:46.8735104+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:39.9523686+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:00:18.2629335+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:50.6574439+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:01:05.6289+00:00"
 }

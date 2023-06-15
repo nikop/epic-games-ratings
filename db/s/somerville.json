@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-06-14T10:02:12.293903+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-15T22:02:20.7450234+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -330,7 +335,7 @@
       "Name": "Blues Jam.",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SomervilleFamilyFirst",
@@ -338,7 +343,7 @@
       "Name": "Family First.",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -370,7 +375,7 @@
       "Name": "Resignation Reprise.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -386,7 +391,7 @@
       "Name": "Understanding.",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
@@ -417,7 +422,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1584,
       "Completed": 25
     }
   ],
@@ -425,8 +430,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:02:16.3439825+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:02:20.7450227+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.2773259+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:46.6279921+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:02:16.3439917+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:58.4946303+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:02:20.7450346+00:00"
 }

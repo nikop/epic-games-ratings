@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,033 |
-| That's a Grand Army | 8.00% | ~4,474 |
-| That is mine! | 8.00% | ~4,474 |
-| Victorious! | 8.00% | ~4,474 |
+| Until death do us apart | 9.00% | ~5,035 |
+| That's a Grand Army | 8.00% | ~4,475 |
+| That is mine! | 8.00% | ~4,475 |
+| Victorious! | 8.00% | ~4,475 |
 | Brothers in Arms | 6.00% | ~3,356 |
 | That's a Grand Navy | 6.00% | ~3,356 |
 | Seriously?! | 6.00% | ~3,356 |
-| For the Glory | 5.00% | ~2,796 |
-| Cold War | 4.00% | ~2,237 |
-| True Catholic | 4.00% | ~2,237 |
+| For the Glory | 5.00% | ~2,797 |
+| Cold War | 4.00% | ~2,238 |
+| True Catholic | 4.00% | ~2,238 |
 | Defender of the Faith | 3.00% | ~1,678 |
 | It's all about the money | 3.00% | ~1,678 |
 | Respected | 3.00% | ~1,678 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~503 |
 | Isn't this the way to India? | 0.90% | ~503 |
 | Market Control | 0.90% | ~503 |
-| Down Under | 0.80% | ~447 |
-| Trustworthy | 0.80% | ~447 |
+| Down Under | 0.80% | ~448 |
+| Trustworthy | 0.80% | ~448 |
 | All belongs to Mother Russia | 0.60% | ~336 |
 | At every continent | 0.60% | ~336 |
 | Early-Modern Warfare | 0.60% | ~336 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,926 (Ranked 76)  
+Progressed: 55,940 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
-| 2023-06-15 | 55,926 | 0 |
+| 2023-06-15 | 55,940 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
 Sum: 44,585 (Ranked 27)  

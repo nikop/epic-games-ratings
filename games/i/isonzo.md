@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 36.00% | ~2,251 |
 | Mamma Mia! | 36.00% | ~2,251 |
 | Gabriele D'Annunzio | 32.00% | ~2,001 |
-| Silver Lining | 29.00% | ~1,813 |
+| Silver Lining | 29.00% | ~1,814 |
 | Aurelio Baruzzi | 22.00% | ~1,376 |
 | Veni Vidi Vici | 22.00% | ~1,376 |
 | Decimation | 20.00% | ~1,251 |
@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,188 |
 | Ragazzi del '99 | 17.00% | ~1,063 |
 | The Lion of the Isonzo | 17.00% | ~1,063 |
-| Thus With A Kiss | 14.00% | ~875 |
+| Thus With A Kiss | 14.00% | ~876 |
 | Dirty Dozen | 13.00% | ~813 |
 | Luigi Cadorna | 13.00% | ~813 |
 | Uomo Universale | 13.00% | ~813 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,253 (Ranked 125)  
+Progressed: 6,254 (Ranked 125)  
 Completed: 8 (0.13%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,10 +105,10 @@ Completed: 8 (0.13%) (Ranked 167)
 | 2023-06-12 | 6,208 | 8 |
 | 2023-06-13 | 6,226 | 8 |
 | 2023-06-14 | 6,240 | 8 |
-| 2023-06-15 | 6,253 | 8 |
+| 2023-06-15 | 6,254 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
-Sum: 245 (Ranked 346)  
+Sum: 246 (Ranked 346)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
@@ -117,9 +117,9 @@ Diff (max vs sum): 96
 | This game has Amazing Characters | 28 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
+| This game has Realistic Visuals | 27 |
 | This game has Challenging Combat | 26 |
 | This game has Diverse Characters | 26 |
-| This game has Realistic Visuals | 26 |
 | This game has Competitive Players | 23 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -204,3 +204,4 @@ Diff (max vs sum): 96
 | 2023-06-08 | 4.56 | - | 31 | 243 |
 | 2023-06-09 | 4.56 | - | 31 | 244 |
 | 2023-06-10 | 4.56 | - | 32 | 245 |
+| 2023-06-15 | 4.56 | - | 32 | 246 |

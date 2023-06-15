@@ -3694,10 +3694,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37070,
       "NumberOfAwardsMax": 19994
+    },
+    {
+      "Time": "2023-06-15T21:57:34.3396193+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37071,
+      "NumberOfAwardsMax": 19994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37070,
+  "NumberOfAwards": 37071,
   "NumberOfAwardsMax": 19994,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3741,7 +3747,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 806
+      "Count": 807
     },
     {
       "Text": "This game is Relaxing",
@@ -3774,9 +3780,9 @@
       "Count": 508
     }
   ],
-  "EOS_Progressed": 280052,
+  "EOS_Progressed": 280060,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 2704,
+  "EOS_NewPlayers": 2692,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9609,6 +9615,11 @@
       "Time": "2023-06-15T21:04:32.8275971+00:00",
       "NumProgressed": 280052,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-15T22:05:07.5670232+00:00",
+      "NumProgressed": 280060,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -9724,7 +9735,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "PFA_22",
@@ -9812,7 +9823,7 @@
       "Name": "Savvy Spender",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "PFA_32",
@@ -9844,7 +9855,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "PFA_36",
@@ -9924,7 +9935,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "PFA_45",
@@ -9948,7 +9959,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22404
+      "UsersEstimate": 22405
     },
     {
       "ID": "PFA_7",
@@ -9956,7 +9967,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22404
+      "UsersEstimate": 22405
     },
     {
       "ID": "PFA_8",
@@ -9972,23 +9983,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280052,
+      "Progressed": 280060,
       "Completed": 408
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-15T19:57:47.4709717+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:04:32.8275967+00:00",
+  "LastChanged": "2023-06-15T21:57:34.3396191+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:05:07.5670225+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:27.0261891+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:04:32.8276513+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:34.3396198+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:05:07.5670929+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.67 (Ranked 259)
 | Tooth fairy | 25.00% | ~122 |
 | Dental maturity | 19.00% | ~93 |
 | Devil's in the details | 13.00% | ~64 |
-| Uprooting | 11.00% | ~54 |
+| Uprooting | 12.00% | ~59 |
 | Forbidden techniques | 11.00% | ~54 |
 | Slavic squatter | 9.00% | ~44 |
 | Devoted | 8.00% | ~39 |

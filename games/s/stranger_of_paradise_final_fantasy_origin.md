@@ -38,8 +38,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Tyrant | 34.00% | ~26,743 |
 | Path of the Ninja | 33.00% | ~25,956 |
 | Terminus of Fate | 32.00% | ~25,170 |
+| Path of the Assassin | 32.00% | ~25,170 |
 | His Name Is Garland | 32.00% | ~25,170 |
-| Path of the Assassin | 31.00% | ~24,383 |
 | Seeker of Ultimate Power | 23.00% | ~18,091 |
 | Artifact Collector | 22.00% | ~17,304 |
 | True Potential | 21.00% | ~16,518 |

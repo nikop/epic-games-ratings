@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 132,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 79,
@@ -4851,9 +4851,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53256,
+  "EOS_Progressed": 53260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10546,6 +10546,11 @@
       "Time": "2023-06-15T21:05:46.7924073+00:00",
       "NumProgressed": 53256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T22:06:34.622897+00:00",
+      "NumProgressed": 53260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10573,7 +10578,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11184
+      "UsersEstimate": 11185
     },
     {
       "ID": "Best served cold",
@@ -10645,7 +10650,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "Entrepreneur",
@@ -10717,7 +10722,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11184
+      "UsersEstimate": 11185
     },
     {
       "ID": "I can do it",
@@ -10725,7 +10730,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 7988
+      "UsersEstimate": 7989
     },
     {
       "ID": "I spit on your grave",
@@ -10733,7 +10738,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "Jack of All Trades",
@@ -10749,7 +10754,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8521
+      "UsersEstimate": 8522
     },
     {
       "ID": "Kingslayer",
@@ -10765,7 +10770,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "Lance-a-lot",
@@ -10781,7 +10786,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15977
+      "UsersEstimate": 15978
     },
     {
       "ID": "Lawbringer",
@@ -10789,7 +10794,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19172
+      "UsersEstimate": 19174
     },
     {
       "ID": "Lawmaker",
@@ -10797,7 +10802,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11184
+      "UsersEstimate": 11185
     },
     {
       "ID": "Long live the Empire",
@@ -10933,7 +10938,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "Undercover",
@@ -10957,22 +10962,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53256,
+      "Progressed": 53260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-15T19:00:12.3508581+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:05:46.7924064+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:06:34.6228959+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:59:27.4976211+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:05:46.7924641+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:00:02.9257316+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:06:34.6230009+00:00"
 }

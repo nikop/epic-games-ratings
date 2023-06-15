@@ -8,17 +8,17 @@ Rating: 4.22 (Ranked 817)
 | Country Bumpkin | 73.00% | ~885 |
 | A new Journey | 72.00% | ~873 |
 | Departure | 71.00% | ~861 |
-| From X to Y | 70.00% | ~848 |
-| Way of Iron | 69.00% | ~836 |
-| Mystery Tour | 67.00% | ~812 |
+| From X to Y | 70.00% | ~849 |
+| Way of Iron | 69.00% | ~837 |
+| Mystery Tour | 67.00% | ~813 |
 | Brainstorm | 65.00% | ~788 |
 | We brake for nobody | 65.00% | ~788 |
 | Mind the Gap | 63.00% | ~764 |
 | Travel Company | 63.00% | ~764 |
-| All around the World | 61.00% | ~739 |
+| All around the World | 61.00% | ~740 |
 | Right through the middle | 55.00% | ~667 |
-| Facility Manager | 52.00% | ~630 |
-| Poor Devil | 51.00% | ~618 |
+| Facility Manager | 52.00% | ~631 |
+| Poor Devil | 51.00% | ~619 |
 | Producer | 48.00% | ~582 |
 | Apprentice | 42.00% | ~509 |
 | Bridge Builder | 39.00% | ~473 |
@@ -26,7 +26,7 @@ Rating: 4.22 (Ranked 817)
 | Stoker | 33.00% | ~400 |
 | Going once, going twice, sold | 32.00% | ~388 |
 | Full Steam ahead | 30.00% | ~364 |
-| Bull and bear | 29.00% | ~351 |
+| Bull and bear | 29.00% | ~352 |
 | All mine | 26.00% | ~315 |
 | Mole | 26.00% | ~315 |
 | Financial Shark | 26.00% | ~315 |
@@ -61,7 +61,7 @@ Rating: 4.22 (Ranked 817)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,212 (Ranked 171)  
+Progressed: 1,213 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-12 | 1,152 | 0 |
 | 2023-06-13 | 1,176 | 0 |
 | 2023-06-14 | 1,196 | 0 |
-| 2023-06-15 | 1,212 | 0 |
+| 2023-06-15 | 1,213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

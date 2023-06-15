@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 389)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~290 |
 | Read Between The Lines | 60.00% | ~281 |
-| High Profile | 55.00% | ~257 |
+| High Profile | 56.00% | ~262 |
 | Whispers In The Dark | 54.00% | ~253 |
 | Fond Memories | 51.00% | ~239 |
 | History Check | 49.00% | ~229 |
@@ -17,7 +17,7 @@ Rating: 4.60 (Ranked 389)
 | The New World | 44.00% | ~206 |
 | Open Sesame | 43.00% | ~201 |
 | Sticky Fingers | 43.00% | ~201 |
-| Knives Out | 42.00% | ~197 |
+| Knives Out | 43.00% | ~201 |
 | Back In The Saddle | 41.00% | ~192 |
 | Land, Ho! | 41.00% | ~192 |
 | No Man Is An Island | 40.00% | ~187 |
@@ -35,7 +35,7 @@ Rating: 4.60 (Ranked 389)
 | Reawakened | 5.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 468 (Ranked 208)  
-Completed: 18 (3.85%) (Ranked 37)  
+Completed: 19 (4.06%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 18 (3.85%) (Ranked 37)
 | 2023-06-12 | 435 | 17 |
 | 2023-06-13 | 447 | 18 |
 | 2023-06-14 | 460 | 18 |
-| 2023-06-15 | 468 | 18 |
+| 2023-06-15 | 468 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

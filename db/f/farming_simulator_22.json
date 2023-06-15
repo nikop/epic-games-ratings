@@ -5697,9 +5697,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44129,
+  "EOS_Progressed": 44130,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10522,6 +10522,11 @@
       "Time": "2023-06-15T21:05:36.6066306+00:00",
       "NumProgressed": 44129,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T22:06:22.7335367+00:00",
+      "NumProgressed": 44130,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10533,7 +10538,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6619
+      "UsersEstimate": 6620
     },
     {
       "ID": "BreedCows",
@@ -10677,7 +10682,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6619
+      "UsersEstimate": 6620
     },
     {
       "ID": "HarvestedFirst",
@@ -10685,7 +10690,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33538
+      "UsersEstimate": 33539
     },
     {
       "ID": "HorseJumps",
@@ -10741,7 +10746,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23388
+      "UsersEstimate": 23389
     },
     {
       "ID": "NumBeehives",
@@ -10773,7 +10778,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6619
+      "UsersEstimate": 6620
     },
     {
       "ID": "NumVehiclesLarge",
@@ -10821,7 +10826,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27801
+      "UsersEstimate": 27802
     },
     {
       "ID": "Stones",
@@ -10829,7 +10834,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "TractorDriving",
@@ -10837,7 +10842,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 18975
+      "UsersEstimate": 18976
     },
     {
       "ID": "TruckDriving",
@@ -10876,15 +10881,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44129,
+      "Progressed": 44130,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-15T19:59:50.1045861+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:05:36.6066301+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:06:22.7335361+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.5023398+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:59:24.5916236+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:05:36.6066784+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:59:59.0873018+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:06:22.7336015+00:00"
 }

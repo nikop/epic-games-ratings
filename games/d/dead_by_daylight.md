@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.70% | ~3,910 |
-| Healthy Obsession | 0.60% | ~3,351 |
-| Preemptive Strike | 0.60% | ~3,351 |
-| Humanitarian | 0.60% | ~3,351 |
-| Wounded Healer | 0.50% | ~2,793 |
-| Close Shave | 0.50% | ~2,793 |
-| Unforgettable Getaway | 0.40% | ~2,234 |
-| First to the Punch | 0.40% | ~2,234 |
-| Old West Oasis | 0.40% | ~2,234 |
-| With Scars to Show | 0.40% | ~2,234 |
-| Flight to Freedom | 0.40% | ~2,234 |
+| Healthy Obsession | 0.70% | ~3,911 |
+| Resurgence | 0.70% | ~3,911 |
+| Preemptive Strike | 0.60% | ~3,353 |
+| Humanitarian | 0.60% | ~3,353 |
+| Wounded Healer | 0.50% | ~2,794 |
+| Close Shave | 0.50% | ~2,794 |
+| Unforgettable Getaway | 0.40% | ~2,235 |
+| First to the Punch | 0.40% | ~2,235 |
+| Old West Oasis | 0.40% | ~2,235 |
+| With Scars to Show | 0.40% | ~2,235 |
+| Flight to Freedom | 0.40% | ~2,235 |
 | Cutting Out | 0.30% | ~1,676 |
 | Operation: Survival | 0.30% | ~1,676 |
 | Classy Act | 0.30% | ~1,676 |
@@ -25,16 +25,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.30% | ~1,676 |
 | Lifting The Fog | 0.30% | ~1,676 |
 | Chorus of Chaos | 0.30% | ~1,676 |
-| Ancestor's Rite | 0.20% | ~1,117 |
-| Devoted Gatekeeping | 0.20% | ~1,117 |
-| Shrine Apparatus | 0.20% | ~1,117 |
-| Outrun Evil | 0.20% | ~1,117 |
-| Broken Bodies | 0.20% | ~1,117 |
-| Grim Pilgrimage | 0.20% | ~1,117 |
-| Selfless Survival | 0.20% | ~1,117 |
-| End of Days | 0.20% | ~1,117 |
-| Insult and Injury | 0.20% | ~1,117 |
-| Outrun the Overlap | 0.20% | ~1,117 |
+| Ancestor's Rite | 0.20% | ~1,118 |
+| Devoted Gatekeeping | 0.20% | ~1,118 |
+| Shrine Apparatus | 0.20% | ~1,118 |
+| Outrun Evil | 0.20% | ~1,118 |
+| Broken Bodies | 0.20% | ~1,118 |
+| Grim Pilgrimage | 0.20% | ~1,118 |
+| Selfless Survival | 0.20% | ~1,118 |
+| End of Days | 0.20% | ~1,118 |
+| Insult and Injury | 0.20% | ~1,118 |
+| Outrun the Overlap | 0.20% | ~1,118 |
 | The Grand Sacrifice | 0.10% | ~559 |
 | A bite for the Entity | 0.10% | ~559 |
 | A feast for the Entity | 0.10% | ~559 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~559 |
 | Adept Gabriel | 0.10% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558,554 (Ranked 27)  
+Progressed: 558,769 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 558,554 | 42 |
+| 2023-06-15 | 558,769 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,631 (Ranked 12)  

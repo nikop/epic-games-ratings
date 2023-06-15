@@ -50,9 +50,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1975,6 +1975,11 @@
       "Time": "2023-06-15T20:06:22.2337333+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T22:06:33.8260045+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2066,7 +2071,7 @@
       "Name": "From X to Y",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "A11",
@@ -2122,7 +2127,7 @@
       "Name": "Facility Manager",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "A18",
@@ -2274,7 +2279,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A37",
@@ -2282,7 +2287,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "A38",
@@ -2290,7 +2295,7 @@
       "Name": "Poor Devil",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "A39",
@@ -2354,7 +2359,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "A47",
@@ -2370,7 +2375,7 @@
       "Name": "Bull and bear",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "A49",
@@ -2425,7 +2430,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 0
     }
   ],
@@ -2433,8 +2438,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:05:46.0650872+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:06:33.8260037+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:58:02.9017114+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:05:46.0651318+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:58:18.5298921+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:06:33.8260662+00:00"
 }

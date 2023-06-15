@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -35,10 +35,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 468,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1434,6 +1434,11 @@
       "Time": "2023-06-15T21:03:58.3839592+00:00",
       "NumProgressed": 468,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-15T22:04:26.0598008+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 28,
@@ -1459,9 +1464,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "MQ02_2",
@@ -1579,9 +1584,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "MQ06_1",
@@ -1669,15 +1674,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 468,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:03:58.3839586+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:04:26.0598001+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:21.429885+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:03:58.3839806+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:27.4537017+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:04:26.0598275+00:00"
 }

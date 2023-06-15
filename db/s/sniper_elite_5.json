@@ -314,7 +314,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2906,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
@@ -3659,6 +3659,11 @@
       "Time": "2023-06-15T21:05:40.9005424+00:00",
       "NumProgressed": 2906,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T22:06:27.514269+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3702,7 +3707,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3710,7 +3715,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3838,7 +3843,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3902,7 +3907,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3916,9 +3921,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3926,7 +3931,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3934,7 +3939,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -4046,7 +4051,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -4237,13 +4242,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2857,
+      "Progressed": 2859,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2906,
+      "Progressed": 2908,
       "Completed": 2
     }
   ],
@@ -4251,8 +4256,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-15T18:00:23.7807599+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:05:40.9005418+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:06:27.5142678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:00:09.7113664+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:05:40.9006075+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:00:53.0973619+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:06:27.514354+00:00"
 }

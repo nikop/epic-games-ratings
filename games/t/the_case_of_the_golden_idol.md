@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Solved first case | 88.00% | ~128 |
-| Solved second case | 85.00% | ~124 |
+| Solved second case | 86.00% | ~126 |
 | Solved third case | 71.00% | ~104 |
 | Solved fourth case | 55.00% | ~80 |
 | Solved sixth case | 34.00% | ~50 |

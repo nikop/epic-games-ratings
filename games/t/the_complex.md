@@ -11,7 +11,7 @@
 | Beat It | 53.00% | ~266 |
 | Storage Hunter | 49.00% | ~245 |
 | Free Champagne | 47.00% | ~235 |
-| Falling For You | 44.00% | ~220 |
+| Falling For You | 45.00% | ~225 |
 | Trust Me For Once | 30.00% | ~150 |
 | Lab Rat | 24.00% | ~120 |
 | Stalemate | 19.00% | ~95 |

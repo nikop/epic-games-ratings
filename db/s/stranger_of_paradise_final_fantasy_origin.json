@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1536,7 +1536,7 @@
   ],
   "EOS_Progressed": 78656,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -4790,9 +4790,9 @@
       "ID": "039_TROPHY_UNLOCKED_ASSASSIN",
       "SetID": "4ajkb4b",
       "Name": "Path of the Assassin",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 24383
+      "UsersEstimate": 25170
     },
     {
       "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
@@ -4854,8 +4854,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-09T14:59:34.2587561+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:03:19.2139867+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:03:41.0851586+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:14.6618941+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:59:31.0805922+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:03:19.2140282+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:00:07.3243152+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:03:41.0852147+00:00"
 }

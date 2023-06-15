@@ -394,9 +394,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Epic_Formula_12",
@@ -418,9 +418,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -681,8 +681,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:00:37.6279517+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:01:29.3899851+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:04.9448258+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:00:37.6279845+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:06.9749307+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:01:29.3900295+00:00"
 }

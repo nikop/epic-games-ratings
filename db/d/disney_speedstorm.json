@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2792,
+  "EOS_Progressed": 2793,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2695,6 +2695,11 @@
       "Time": "2023-06-15T21:03:47.1615609+00:00",
       "NumProgressed": 2792,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-15T22:04:12.5639348+00:00",
+      "NumProgressed": 2793,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -2816,9 +2821,9 @@
       "ID": "22",
       "SetID": "9p3jgda",
       "Name": "THE EYE OF THE HUNTER",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 251
+      "UsersEstimate": 279
     },
     {
       "ID": "23",
@@ -2866,7 +2871,7 @@
       "Name": "PRO",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "7",
@@ -2882,7 +2887,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "9",
@@ -2897,13 +2902,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2792,
+      "Progressed": 2793,
       "Completed": 17
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:03:47.1615603+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:04:12.5639336+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:58:49.217333+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:03:47.1615876+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:59:15.8229086+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:04:12.5639687+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~9,494 |
-| Mama? | 28.00% | ~3,498 |
-| People's Haven | 19.00% | ~2,373 |
+| Light at the end of the tunnel | 76.00% | ~9,498 |
+| Mama? | 28.00% | ~3,499 |
+| People's Haven | 19.00% | ~2,374 |
 | Cartographer | 17.00% | ~2,124 |
-| Knowledge for Power | 15.00% | ~1,874 |
-| Antlers of Stone | 15.00% | ~1,874 |
-| Gaze into the abyss | 14.00% | ~1,749 |
-| Mausoleum of Ice | 14.00% | ~1,749 |
-| Equilibrium | 13.00% | ~1,624 |
-| In the belly of the beast | 12.00% | ~1,499 |
-| Wings of Stone | 12.00% | ~1,499 |
-| Condor condo | 10.00% | ~1,249 |
-| Memorial | 9.00% | ~1,124 |
-| An uninvited guest | 8.00% | ~999 |
-| Written in stone | 7.00% | ~874 |
-| Talk to all the spirit animals | 7.00% | ~874 |
+| Knowledge for Power | 15.00% | ~1,875 |
+| Antlers of Stone | 15.00% | ~1,875 |
+| Gaze into the abyss | 14.00% | ~1,750 |
+| Mausoleum of Ice | 14.00% | ~1,750 |
+| Equilibrium | 13.00% | ~1,625 |
+| In the belly of the beast | 12.00% | ~1,500 |
+| Wings of Stone | 12.00% | ~1,500 |
+| Condor condo | 10.00% | ~1,250 |
+| Memorial | 9.00% | ~1,125 |
+| An uninvited guest | 8.00% | ~1,000 |
+| Written in stone | 7.00% | ~875 |
+| Talk to all the spirit animals | 7.00% | ~875 |
 | Ripples on the surface | 6.00% | ~750 |
 | Tails of Stone | 6.00% | ~750 |
 | Baa from the past | 6.00% | ~750 |
 | Hide and Seek | 5.00% | ~625 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,492 (Ranked 107)  
+Progressed: 12,497 (Ranked 107)  
 Completed: 262 (2.10%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 262 (2.10%) (Ranked 68)
 | 2023-06-12 | 12,247 | 256 |
 | 2023-06-13 | 12,334 | 260 |
 | 2023-06-14 | 12,417 | 260 |
-| 2023-06-15 | 12,492 | 262 |
+| 2023-06-15 | 12,497 | 262 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

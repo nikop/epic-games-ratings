@@ -6,30 +6,30 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~822 |
-| Space Traveler | 79.00% | ~773 |
+| Another Life | 84.00% | ~823 |
 | Voices from the Past | 78.00% | ~764 |
-| Demigod | 76.00% | ~744 |
-| The Great Destroyer | 74.00% | ~724 |
-| Shields Down | 73.00% | ~715 |
+| Space Traveler | 78.00% | ~764 |
+| Demigod | 76.00% | ~745 |
+| The Great Destroyer | 74.00% | ~725 |
+| Shields Down | 72.00% | ~706 |
 | Safe Home | 68.00% | ~666 |
-| Helping Hand | 67.00% | ~656 |
+| Helping Hand | 67.00% | ~657 |
 | Paragon | 63.00% | ~617 |
-| Old Days Born Anew | 62.00% | ~607 |
-| Full Arsenal | 57.00% | ~558 |
-| Controlled Demolition | 55.00% | ~538 |
+| Old Days Born Anew | 62.00% | ~608 |
+| Full Arsenal | 57.00% | ~559 |
+| Controlled Demolition | 55.00% | ~539 |
 | Payback | 53.00% | ~519 |
 | Huntress | 53.00% | ~519 |
-| Born to Drift | 52.00% | ~509 |
+| Born to Drift | 52.00% | ~510 |
 | Relentless | 48.00% | ~470 |
-| The Path Forward | 46.00% | ~450 |
+| The Path Forward | 46.00% | ~451 |
 | Disruption | 44.00% | ~431 |
-| Phoenix | 44.00% | ~431 |
+| Phoenix | 43.00% | ~421 |
 | Cult Slayer | 40.00% | ~392 |
 | Origin | 40.00% | ~392 |
 | It Was An Accident | 39.00% | ~382 |
 | Set in Motion | 38.00% | ~372 |
-| In the Eye of the Storm | 37.00% | ~362 |
+| In the Eye of the Storm | 37.00% | ~363 |
 | The Crimson Void | 34.00% | ~333 |
 | The Nameless Dread | 33.00% | ~323 |
 | Time to Spear | 30.00% | ~294 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 9.00% | ~88 |
 | At Least You Tried | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979 (Ranked 183)  
+Progressed: 980 (Ranked 183)  
 Completed: 11 (1.12%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 11 (1.12%) (Ranked 90)
 | 2023-06-12 | 964 | 11 |
 | 2023-06-13 | 967 | 11 |
 | 2023-06-14 | 973 | 11 |
-| 2023-06-15 | 979 | 11 |
+| 2023-06-15 | 980 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 442)  
 Sum: 32 (Ranked 465)  

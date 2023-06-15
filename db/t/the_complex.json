@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 501,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -414,9 +414,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 225
     },
     {
       "ID": "free_champagne",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:05:39.700124+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:06:26.125421+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:57:18.4531987+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:05:39.7001342+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:57:23.6180709+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:06:26.1254385+00:00"
 }

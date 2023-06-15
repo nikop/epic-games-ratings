@@ -8,7 +8,7 @@
 | Wake Up | 79.00% | ~150 |
 | Time Gates | 65.00% | ~124 |
 | Command Centre | 46.00% | ~87 |
-| This is a Wall | 42.00% | ~80 |
+| This is a Wall | 43.00% | ~82 |
 | Extendable Bridges | 37.00% | ~70 |
 | 48 Attempts | 34.00% | ~65 |
 | Man's Best Friend | 32.00% | ~61 |
@@ -19,8 +19,8 @@
 | Running Boots | 14.00% | ~27 |
 | Archivist | 12.00% | ~23 |
 | Fashionista | 12.00% | ~23 |
+| Kaboom! | 9.00% | ~17 |
 | Looper | 9.00% | ~17 |
-| Kaboom! | 8.00% | ~15 |
 | All Alone | 8.00% | ~15 |
 | Reunited | 8.00% | ~15 |
 | So Close | 7.00% | ~13 |

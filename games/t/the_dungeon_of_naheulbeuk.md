@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 97.00% | ~92 |
-| Where's that freaking Dwarf? | 92.00% | ~87 |
-| Sock! SOCK! | 78.00% | ~74 |
+| Alt+F4 | 97.00% | ~93 |
+| Where's that freaking Dwarf? | 91.00% | ~87 |
+| Sock! SOCK! | 77.00% | ~74 |
 | Fireproof Wizardess | 64.00% | ~61 |
-| Livin' in a dwarven paradise | 62.00% | ~59 |
-| Déjà vu | 58.00% | ~55 |
-| Way of the Wimp | 53.00% | ~50 |
-| GG EZ | 53.00% | ~50 |
-| DM intervention | 53.00% | ~50 |
+| Livin' in a dwarven paradise | 61.00% | ~59 |
+| Déjà vu | 57.00% | ~55 |
+| Way of the Wimp | 52.00% | ~50 |
+| GG EZ | 52.00% | ~50 |
+| DM intervention | 52.00% | ~50 |
 | Speedrun | 48.00% | ~46 |
 | Oh, when I'll be level 10... | 46.00% | ~44 |
 | I am the night | 41.00% | ~39 |
@@ -22,12 +22,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 39.00% | ~37 |
 | A beer, two curses, three companions | 38.00% | ~36 |
 | The Ranger of Chaos | 38.00% | ~36 |
-| The plot thickens... At the tavern | 37.00% | ~35 |
-| Dwarf Fortress | 36.00% | ~34 |
-| Look but don't touch | 35.00% | ~33 |
-| Shiny and Crôm | 33.00% | ~31 |
-| Material Girl | 32.00% | ~30 |
-| Gargantua | 31.00% | ~29 |
+| The plot thickens... At the tavern | 36.00% | ~35 |
+| Dwarf Fortress | 35.00% | ~34 |
+| Look but don't touch | 34.00% | ~33 |
+| Shiny and Crôm | 32.00% | ~31 |
+| Material Girl | 31.00% | ~30 |
+| Gargantua | 30.00% | ~29 |
 | The demons' feast | 29.00% | ~28 |
 | Torture and Sensibility | 29.00% | ~28 |
 | The Statuette of Gladeulfeurah | 28.00% | ~27 |
@@ -48,7 +48,7 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 13.00% | ~12 |
 | The Dungeon Master | 13.00% | ~12 |
 | He’s alive! Aliiiive! | 13.00% | ~12 |
-| It's been a hard day's night | 12.00% | ~11 |
+| It's been a hard day's night | 11.00% | ~11 |
 | An old poacher makes the best gamekeeper | 9.00% | ~9 |
 | Lëgal Legend | 9.00% | ~9 |
 | Lust and Debauchery | 8.00% | ~8 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 283)  
+Progressed: 96 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-12 | 77 | 0 |
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
-| 2023-06-15 | 95 | 0 |
+| 2023-06-15 | 96 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 434)  

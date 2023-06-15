@@ -18,7 +18,7 @@
 | Plant Enchanter | 21.00% | ~15 |
 | Always Watchful | 20.00% | ~14 |
 | Chapter 7 Complete | 20.00% | ~14 |
-| Bounty Hunter | 17.00% | ~12 |
+| Bounty Hunter | 19.00% | ~13 |
 | The Terror | 17.00% | ~12 |
 | Battle Ready | 16.00% | ~11 |
 | All Geared Up | 14.00% | ~10 |

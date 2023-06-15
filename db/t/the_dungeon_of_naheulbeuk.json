@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-06-15T20:05:27.6270893+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T22:05:30.650314+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -757,7 +762,7 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -781,7 +786,7 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -789,7 +794,7 @@
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -805,7 +810,7 @@
       "ID": "Chapter1",
       "SetID": "50chcgj",
       "Name": "D\u00E9j\u00E0 vu",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -821,7 +826,7 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -1157,7 +1162,7 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
       "UsersEstimate": 87
     },
@@ -1173,7 +1178,7 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -1189,7 +1194,7 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
       "UsersEstimate": 74
     },
@@ -1197,7 +1202,7 @@
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -1221,7 +1226,7 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -1229,7 +1234,7 @@
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -1255,7 +1260,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FollowBraztok",
@@ -1309,7 +1314,7 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -1349,7 +1354,7 @@
       "ID": "QuestEmile",
       "SetID": "50chcgj",
       "Name": "It\u0027s been a hard day\u0027s night",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -1445,7 +1450,7 @@
       "ID": "WizardEpic",
       "SetID": "50chcgj",
       "Name": "Material Girl",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -1462,21 +1467,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:04:52.1206499+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:05:30.6503133+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:58:52.4899997+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:04:52.1207277+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:59:20.2681961+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:05:30.65042+00:00"
 }

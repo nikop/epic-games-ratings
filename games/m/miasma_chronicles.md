@@ -18,7 +18,7 @@ Rating: 4.31 (Ranked 763)
 | Exorcist | 40.00% | ~455 |
 | Firestarter | 38.00% | ~432 |
 | Giant Killer | 37.00% | ~421 |
-| Sensei | 35.00% | ~398 |
+| Sensei | 36.00% | ~410 |
 | The meaning of Kain | 34.00% | ~387 |
 | Technophobe | 31.00% | ~353 |
 | Recycler | 29.00% | ~330 |
@@ -35,7 +35,7 @@ Rating: 4.31 (Ranked 763)
 | Savior | 18.00% | ~205 |
 | The Watchers | 15.00% | ~171 |
 | Newtonian Knockout | 14.00% | ~159 |
-| Ruthless | 12.00% | ~137 |
+| Ruthless | 13.00% | ~148 |
 | Chaos Theory | 11.00% | ~125 |
 | Dr Jones | 11.00% | ~125 |
 | Commando | 10.00% | ~114 |

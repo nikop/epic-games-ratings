@@ -5,7 +5,7 @@
   "Ranking_Rating": 412,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 51,
@@ -4013,9 +4013,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 982
     },
     {
       "ID": "14",
@@ -4101,9 +4101,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3695
     },
     {
       "ID": "24",
@@ -4221,9 +4221,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1497
     },
     {
       "ID": "38",
@@ -4348,8 +4348,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-15T21:04:24.2707094+00:00",
+  "LastChanged_Achievements": "2023-06-15T22:04:57.0728367+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-15T20:59:13.1352078+00:00",
-  "LastUpdate_Achievements": "2023-06-15T21:04:24.270756+00:00"
+  "LastUpdate_Ratings": "2023-06-15T21:59:45.254911+00:00",
+  "LastUpdate_Achievements": "2023-06-15T22:04:57.0728889+00:00"
 }
