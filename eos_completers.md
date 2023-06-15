@@ -32,7 +32,7 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
+| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
@@ -46,8 +46,8 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
 | 47 | [The Complex](games/t/the_complex.md) | 3.21% |
+| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.19% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
@@ -112,9 +112,9 @@
 | 110 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.65% |
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 112 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
-| 113 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
-| 113 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
-| 115 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.54% |
+| 113 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.57% |
+| 114 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
+| 114 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
 | 116 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 117 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.51% |
 | 118 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
@@ -150,9 +150,9 @@
 | 146 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.23% |
 | 149 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 150 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 150 | [BLACKTAIL](games/b/blacktail.md) | 0.21% |
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 150 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 153 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 154 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 156 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
@@ -452,4 +452,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,781 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,782 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
