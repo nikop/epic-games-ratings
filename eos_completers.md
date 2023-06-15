@@ -3,9 +3,9 @@
 | 1 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 100.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
+| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
+| 5 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Island Cities](games/i/island_cities.md) | 15.09% |
@@ -15,7 +15,7 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.49% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.27% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.22% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.33% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -39,13 +39,13 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.57% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
+| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.30% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
@@ -58,8 +58,8 @@
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 56 | [Lamentum](games/l/lamentum.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
+| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.55% |
+| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
@@ -77,7 +77,7 @@
 | 75 | [Sifu](games/s/sifu.md) | 1.80% |
 | 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.65% |
-| 76 | [Poosh XL](games/p/poosh_xl.md) | 1.65% |
+| 78 | [Poosh XL](games/p/poosh_xl.md) | 1.64% |
 | 79 | [Somerville](games/s/somerville.md) | 1.58% |
 | 80 | [A Musical Story](games/a/a_musical_story.md) | 1.52% |
 | 81 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -121,7 +121,7 @@
 | 118 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 120 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 120 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
-| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
+| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 123 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 124 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 125 | [Scrapnaut](games/s/scrapnaut.md) | 0.38% |
