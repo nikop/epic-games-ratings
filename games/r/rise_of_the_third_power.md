@@ -11,7 +11,7 @@
 | Feast | 43.00% | ~56 |
 | Attuned | 37.00% | ~48 |
 | Specialist | 33.00% | ~43 |
-| Opulent | 31.00% | ~41 |
+| Opulent | 32.00% | ~42 |
 | Sparkly | 29.00% | ~38 |
 | Teamwork | 22.00% | ~29 |
 | Ready to Rock | 21.00% | ~28 |

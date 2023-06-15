@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6369,10 +6369,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227336,
       "NumberOfAwardsMax": 28462
+    },
+    {
+      "Time": "2023-06-15T02:08:44.2613153+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227370,
+      "NumberOfAwardsMax": 28462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227336,
+  "NumberOfAwards": 227370,
   "NumberOfAwardsMax": 28462,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6428,7 +6434,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24855
+      "Count": 24889
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6443,9 +6449,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 555253,
+  "EOS_Progressed": 555488,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30497,
+  "EOS_NewPlayers": 30375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12288,6 +12294,11 @@
       "Time": "2023-06-15T00:06:47.4474483+00:00",
       "NumProgressed": 555253,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-15T02:14:40.9382535+00:00",
+      "NumProgressed": 555488,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13225,9 +13236,9 @@
       "ID": "ACH_117",
       "SetID": "16jml5b",
       "Name": "Outrun Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_118",
@@ -13467,7 +13478,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACH_151",
@@ -13515,7 +13526,7 @@
       "Name": "Resurgence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACH_157",
@@ -13635,7 +13646,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACH_172",
@@ -13707,7 +13718,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACH_181",
@@ -14058,21 +14069,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 555253,
+      "Progressed": 555488,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 555253,
+      "Progressed": 555488,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-14T19:01:25.7966813+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:47.4474478+00:00",
+  "LastChanged": "2023-06-15T02:08:44.2613152+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:40.938253+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-15T00:00:37.6301255+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:47.4478891+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:08:44.2613158+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:40.9389648+00:00"
 }

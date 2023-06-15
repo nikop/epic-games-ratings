@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 86.00% | ~132 |
 | Caretaker | 83.00% | ~128 |
-| Feng Shui | 72.00% | ~111 |
+| Feng Shui | 73.00% | ~112 |
 | Who's A Good Boy | 69.00% | ~106 |
 | Power Up | 69.00% | ~106 |
 | Thick Skin | 68.00% | ~105 |
@@ -15,29 +15,29 @@
 | Power Overload | 63.00% | ~97 |
 | Quite A Snack | 58.00% | ~89 |
 | Overwhelming Power | 55.00% | ~85 |
-| Impenetrable Skin | 52.00% | ~80 |
+| Impenetrable Skin | 53.00% | ~82 |
+| Chomp Chomp! | 44.00% | ~68 |
 | Supreme Power | 42.00% | ~65 |
-| Chomp Chomp! | 42.00% | ~65 |
+| Glorious Battle | 41.00% | ~63 |
 | The Duelist | 40.00% | ~62 |
-| Glorious Battle | 40.00% | ~62 |
 | Diaper Time! | 40.00% | ~62 |
 | Target Practice | 40.00% | ~62 |
+| Meat Larder | 38.00% | ~59 |
 | Mutant And Proud | 37.00% | ~57 |
-| Meat Larder | 37.00% | ~57 |
 | The Emperor's New Clothes | 32.00% | ~49 |
+| Final Evolution | 31.00% | ~48 |
+| You Shall Not Pass | 30.00% | ~46 |
+| Godlike Power | 30.00% | ~46 |
 | Happy Little Home | 30.00% | ~46 |
-| Final Evolution | 30.00% | ~46 |
-| You Shall Not Pass | 29.00% | ~45 |
-| Godlike Power | 29.00% | ~45 |
 | Undying Skin | 29.00% | ~45 |
 | Fight Me! | 29.00% | ~45 |
-| Mommy's Very Angry | 27.00% | ~42 |
-| Animal Lover | 27.00% | ~42 |
-| Supremacy | 27.00% | ~42 |
+| Mommy's Very Angry | 28.00% | ~43 |
+| Animal Lover | 28.00% | ~43 |
+| Supremacy | 28.00% | ~43 |
+| Back To The Future | 23.00% | ~35 |
 | Immortal Skin | 23.00% | ~35 |
 | Loyal Companion | 23.00% | ~35 |
-| Back To The Future | 22.00% | ~34 |
-| Fire Beacon | 22.00% | ~34 |
+| Fire Beacon | 23.00% | ~35 |
 | Lunch Before The Lunch | 20.00% | ~31 |
 | From Here To Eternity | 18.00% | ~28 |
 | Building Blocks | 18.00% | ~28 |

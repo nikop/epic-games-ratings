@@ -7,32 +7,32 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~746 |
-| Project Arena | 3.00% | ~559 |
-| The Old Grandmaster | 1.00% | ~7,093 |
-| The Assault | 1.00% | ~7,093 |
-| The Hateful Pole Fighter | 1.00% | ~7,093 |
-| A Lady's Blood in the Snow | 1.00% | ~7,093 |
-| Lady Wing Chun | 1.00% | ~7,093 |
-| Furious Fists | 1.00% | ~7,093 |
-| Kill Nil | 1.00% | ~7,093 |
-| Stuntmaster | 1.00% | ~7,093 |
-| Street Fighting | 1.00% | ~7,093 |
-| Life is your teacher | 1.00% | ~7,093 |
-| State of constant learning | 1.00% | ~7,093 |
-| Qi Gong: Breath | 1.00% | ~7,093 |
-| Qi Gong: Essence | 1.00% | ~7,093 |
-| Old Child | 1.00% | ~7,093 |
-| Lightning Hands | 1.00% | ~7,093 |
-| Path of the Prospect | 1.00% | ~7,093 |
-| Rumble in the Hangar | 1.00% | ~7,093 |
-| Take damage to save time | 1.00% | ~7,093 |
-| Bloody Sport | 1.00% | ~186 |
-| The best strikes are the ones we avoid | 1.00% | ~186 |
+| Project Arena | 3.00% | ~560 |
+| The Old Grandmaster | 1.00% | ~7,094 |
+| The Assault | 1.00% | ~7,094 |
+| The Hateful Pole Fighter | 1.00% | ~7,094 |
+| A Lady's Blood in the Snow | 1.00% | ~7,094 |
+| Lady Wing Chun | 1.00% | ~7,094 |
+| Furious Fists | 1.00% | ~7,094 |
+| Kill Nil | 1.00% | ~7,094 |
+| Stuntmaster | 1.00% | ~7,094 |
+| Street Fighting | 1.00% | ~7,094 |
+| Life is your teacher | 1.00% | ~7,094 |
+| State of constant learning | 1.00% | ~7,094 |
+| Qi Gong: Breath | 1.00% | ~7,094 |
+| Qi Gong: Essence | 1.00% | ~7,094 |
+| Old Child | 1.00% | ~7,094 |
+| Lightning Hands | 1.00% | ~7,094 |
+| Path of the Prospect | 1.00% | ~7,094 |
+| Rumble in the Hangar | 1.00% | ~7,094 |
+| Take damage to save time | 1.00% | ~7,094 |
+| Bloody Sport | 1.00% | ~187 |
+| The best strikes are the ones we avoid | 1.00% | ~187 |
 | Scareless | 0.80% | ~5,675 |
 | Qi Gong: Mind | 0.80% | ~5,675 |
 | I know Kung-Fu | 0.80% | ~5,675 |
 | Kung-Fu Tussle | 0.80% | ~5,675 |
-| Dance of the Praying Mantis | 0.70% | ~4,965 |
+| Dance of the Praying Mantis | 0.70% | ~4,966 |
 | Muk Yan Master | 0.60% | ~4,256 |
 | Detective Story | 0.60% | ~4,256 |
 | Deadly Venom | 0.60% | ~112 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,347 (Ranked 17)  
+Progressed: 709,358 (Ranked 17)  
 Completed: 12,770 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 12,770 (1.80%) (Ranked 75)
 | 2023-06-12 | 708,992 | 12,767 |
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
-| 2023-06-15 | 709,347 | 12,770 |
+| 2023-06-15 | 709,358 | 12,770 |
 ## Awards
 Max (Great Boss Battles): 6,173  (Ranked 52)  
 Sum: 10,535 (Ranked 78)  

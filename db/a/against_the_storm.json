@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -5554,9 +5554,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 107
     },
     {
       "ID": "WinNearForbidden",
@@ -5794,8 +5794,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-14T21:00:06.1272525+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:39.7761469+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:34.1897782+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-15T00:00:18.0988309+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:39.7761941+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:08:29.8728501+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:34.1898904+00:00"
 }

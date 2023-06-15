@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2862,
+  "EOS_Progressed": 2867,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3568,6 +3568,11 @@
       "Time": "2023-06-15T00:06:32.1387235+00:00",
       "NumProgressed": 2862,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T02:14:27.6340783+00:00",
+      "NumProgressed": 2867,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3611,7 +3616,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3633,9 +3638,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3659,7 +3664,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3739,7 +3744,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3747,7 +3752,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3763,7 +3768,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -3787,7 +3792,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3803,7 +3808,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3811,7 +3816,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3819,7 +3824,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3827,7 +3832,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3835,7 +3840,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3857,9 +3862,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -3891,7 +3896,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3915,7 +3920,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3947,15 +3952,15 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3987,7 +3992,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4146,13 +4151,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2813,
+      "Progressed": 2818,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2862,
+      "Progressed": 2867,
       "Completed": 2
     }
   ],
@@ -4160,8 +4165,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:32.1387228+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:27.6340777+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T00:00:53.0345206+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:32.1387904+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:08:56.189688+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:27.6341688+00:00"
 }

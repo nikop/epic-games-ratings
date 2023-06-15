@@ -15,15 +15,15 @@
 | The Truth | 23.00% | ~16 |
 | Reconciliation | 21.00% | ~15 |
 | Chapter 6 Complete | 20.00% | ~14 |
+| Plant Enchanter | 20.00% | ~14 |
 | Always Watchful | 19.00% | ~13 |
 | Chapter 7 Complete | 19.00% | ~13 |
-| Plant Enchanter | 19.00% | ~13 |
 | Bounty Hunter | 17.00% | ~12 |
 | The Terror | 17.00% | ~12 |
 | All Geared Up | 14.00% | ~10 |
 | The End | 14.00% | ~10 |
+| Good Deed | 14.00% | ~10 |
 | Battle Ready | 14.00% | ~10 |
-| Good Deed | 13.00% | ~9 |
 | Music Collector | 13.00% | ~9 |
 | Gamer | 11.00% | ~8 |
 | Ultimate Team! | 11.00% | ~8 |

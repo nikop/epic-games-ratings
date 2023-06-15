@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
@@ -1299,6 +1299,11 @@
       "Time": "2023-06-15T00:05:52.8986144+00:00",
       "NumProgressed": 690,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T02:13:55.2862718+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1406,7 +1411,7 @@
       "Name": "Family Memories",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FactorywoodChests1",
@@ -1460,9 +1465,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "GrindingTime1",
@@ -1596,9 +1601,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 83
     },
     {
       "ID": "RewindParry",
@@ -1702,7 +1707,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "WatcherSpared",
@@ -1733,14 +1738,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:05:52.8986139+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:13:55.2862713+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:59:40.9693956+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:05:52.8986559+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:08:01.9197754+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:13:55.2863282+00:00"
 }

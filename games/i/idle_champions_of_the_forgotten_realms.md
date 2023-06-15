@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,814 |
+| A Brief Tour of the Realms | 2.00% | ~1,815 |
 | Beast Intentions | 1.00% | ~907 |
 | The Cursed Farmer | 1.00% | ~907 |
 | The Mad Wizard | 1.00% | ~907 |
@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.30% | ~171 |
 | Third Third Out | 0.30% | ~171 |
 | The Silken Swamp | 0.30% | ~272 |
+| The Lutes of Loomlurch | 0.30% | ~171 |
 | Supply Run | 0.30% | ~272 |
 | Keep Your Distance | 0.30% | ~171 |
 | Hands Off! | 0.30% | ~171 |
@@ -67,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.30% | ~272 |
 | A Grand Puzzle | 0.30% | ~272 |
 | No Time To Rest | 0.30% | ~272 |
+| The Mists of Ravenloft | 0.30% | ~272 |
 | Invisible Shadows | 0.30% | ~272 |
 | The Dinner Party | 0.30% | ~272 |
 | The Botched Kidnapping | 0.30% | ~272 |
@@ -131,7 +133,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.20% | ~114 |
 | Will of the Frozen Feywild | 0.20% | ~114 |
 | The Roots of Loomlurch | 0.20% | ~114 |
-| The Lutes of Loomlurch | 0.20% | ~114 |
 | Best Laid Plans | 0.20% | ~114 |
 | The Howling Peaks of Yon | 0.20% | ~114 |
 | The Invisible Wizards of Thay | 0.20% | ~114 |
@@ -182,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
-| The Mists of Ravenloft | 0.20% | ~181 |
 | The Hunt for Owl-y | 0.20% | ~181 |
 | Werewolves in the Mist | 0.20% | ~181 |
 | We're not in Faerûn Anymore | 0.20% | ~181 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,725 (Ranked 64)  
+Progressed: 90,727 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,725 | 1,934 |
+| 2023-06-15 | 90,727 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,110 (Ranked 37)  

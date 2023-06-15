@@ -5,27 +5,27 @@ Rating: 3.81 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,391 |
-| The First Step | 88.00% | ~1,249 |
-| Moonbury Traveller | 64.00% | ~908 |
-| Rookie Chemist | 62.00% | ~880 |
+| Welcome to Moonbury | 98.00% | ~1,393 |
+| The First Step | 88.00% | ~1,250 |
+| Moonbury Traveller | 64.00% | ~909 |
+| Rookie Chemist | 62.00% | ~881 |
 | Great Doctor | 50.00% | ~710 |
-| Dog Whisperer | 48.00% | ~681 |
-| Friendly | 46.00% | ~653 |
-| K.O.! | 42.00% | ~596 |
-| The Capitalist | 42.00% | ~596 |
-| Intermediate Chemist | 38.00% | ~539 |
-| Decorative Mind | 31.00% | ~440 |
+| Dog Whisperer | 48.00% | ~682 |
+| Friendly | 46.00% | ~654 |
+| K.O.! | 42.00% | ~597 |
+| The Capitalist | 42.00% | ~597 |
+| Intermediate Chemist | 38.00% | ~540 |
+| Decorative Mind | 31.00% | ~441 |
 | Lumber Specialist | 29.00% | ~412 |
 | Catch of the Day | 24.00% | ~341 |
-| Kind-hearted | 22.00% | ~312 |
+| Kind-hearted | 22.00% | ~313 |
 | Amateur Chef | 20.00% | ~284 |
-| Fishing Guru | 18.00% | ~255 |
+| Fishing Guru | 18.00% | ~256 |
 | Community Helper | 16.00% | ~227 |
 | Spark of Love | 15.00% | ~213 |
-| Stone Specialist | 13.00% | ~184 |
-| Expert Chemist | 12.00% | ~170 |
-| Ablutomaniac | 12.00% | ~170 |
+| Stone Specialist | 13.00% | ~185 |
+| Expert Chemist | 12.00% | ~171 |
+| Ablutomaniac | 12.00% | ~171 |
 | Line Cook | 11.00% | ~156 |
 | Sociable | 11.00% | ~156 |
 | Production Sorter | 11.00% | ~156 |
@@ -44,7 +44,7 @@ Rating: 3.81 (Ranked 930)
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 163)  
+Progressed: 1,421 (Ranked 163)  
 Completed: 7 (0.49%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 7 (0.49%) (Ranked 120)
 | 2023-06-12 | 1,405 | 7 |
 | 2023-06-13 | 1,414 | 7 |
 | 2023-06-14 | 1,419 | 7 |
+| 2023-06-15 | 1,421 | 7 |
 ## Awards
 Max (Character Customization): 66  (Ranked 372)  
 Sum: 66 (Ranked 429)  

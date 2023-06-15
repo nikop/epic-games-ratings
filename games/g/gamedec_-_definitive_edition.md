@@ -6,15 +6,15 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,931 |
-| Powergamer | 27.00% | ~62,612 |
-| Barely scratched the surface | 25.00% | ~57,974 |
-| Write that down | 24.00% | ~55,655 |
-| Guns, lots of guns | 12.00% | ~27,827 |
-| Collector | 11.00% | ~25,508 |
-| Elementary! | 8.00% | ~18,552 |
-| Pumpkin Jack | 8.00% | ~18,552 |
-| Wake up! | 8.00% | ~18,552 |
+| I will finish what you started | 28.00% | ~64,934 |
+| Powergamer | 27.00% | ~62,615 |
+| Barely scratched the surface | 25.00% | ~57,977 |
+| Write that down | 24.00% | ~55,658 |
+| Guns, lots of guns | 12.00% | ~27,829 |
+| Collector | 11.00% | ~25,510 |
+| Elementary! | 8.00% | ~18,553 |
+| Pumpkin Jack | 8.00% | ~18,553 |
+| Wake up! | 8.00% | ~18,553 |
 | It's honest work | 7.00% | ~16,233 |
 | Griever | 7.00% | ~16,233 |
 | Me smart | 6.00% | ~13,914 |
@@ -47,7 +47,7 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,855 |
 | I have the high ground | 0.70% | ~1,623 |
 | It's blue, always blue | 0.70% | ~1,623 |
-| Who wouldn't love a troll? | 0.50% | ~1,159 |
+| Who wouldn't love a troll? | 0.50% | ~1,160 |
 | Enjoy these little moments | 0.40% | ~928 |
 | Irondec | 0.40% | ~928 |
 | Un-bear-able | 0.40% | ~928 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~464 |
 | Memory 5 | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,895 (Ranked 44)  
+Progressed: 231,907 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 6 (0.00%) (Ranked 223)
 | 2023-06-12 | 231,587 | 5 |
 | 2023-06-13 | 231,748 | 6 |
 | 2023-06-14 | 231,887 | 6 |
-| 2023-06-15 | 231,895 | 6 |
+| 2023-06-15 | 231,907 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 360)  
 Sum: 74 (Ranked 421)  

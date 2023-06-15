@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2650,6 +2650,11 @@
       "Time": "2023-06-14T23:04:14.1384382+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-15T02:12:38.1340955+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 24,
@@ -2709,7 +2714,7 @@
       "Name": "FRAMED!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "16",
@@ -2765,7 +2770,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "22",
@@ -2773,7 +2778,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "23",
@@ -2797,7 +2802,7 @@
       "Name": "FRIENDLY",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "4",
@@ -2813,7 +2818,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "6",
@@ -2852,13 +2857,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 15
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:04:20.1536949+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:12:38.1340952+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:59:15.1193406+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:04:20.1537201+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:07:41.018976+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:12:38.1341319+00:00"
 }

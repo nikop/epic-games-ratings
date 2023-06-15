@@ -1,41 +1,41 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.53 (Ranked 501)  
+Rating: 4.53 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~859 |
-| Confirming Suspicions | 25.00% | ~716 |
-| The Kraken Wakes | 20.00% | ~572 |
-| It's Starting to Crack | 18.00% | ~515 |
-| Lord of War | 15.00% | ~429 |
-| Change the Channel | 15.00% | ~429 |
-| Resourceful | 13.00% | ~372 |
-| Taking it back | 13.00% | ~372 |
+| Meeting Resistance | 30.00% | ~860 |
+| Confirming Suspicions | 25.00% | ~717 |
+| The Kraken Wakes | 20.00% | ~573 |
+| It's Starting to Crack | 18.00% | ~516 |
+| Lord of War | 15.00% | ~430 |
+| Change the Channel | 15.00% | ~430 |
+| Resourceful | 13.00% | ~373 |
+| Taking it back | 13.00% | ~373 |
 | Organ Grinder | 11.00% | ~315 |
 | Target America | 11.00% | ~315 |
-| As Quiet as a Mouse | 10.00% | ~286 |
-| The Kraken Sleeps | 10.00% | ~286 |
+| As Quiet as a Mouse | 10.00% | ~287 |
+| The Kraken Sleeps | 10.00% | ~287 |
 | Liberté | 9.00% | ~258 |
+| Just a Flesh Wound | 9.00% | ~258 |
 | Sharpshooter | 9.00% | ~258 |
 | Explosive Efficiency | 9.00% | ~258 |
 | Enemy at the Gates | 8.00% | ~229 |
-| Just a Flesh Wound | 8.00% | ~229 |
 | Gunslinger | 8.00% | ~229 |
-| Opposing Force | 7.00% | ~200 |
-| Der Geist | 7.00% | ~200 |
-| Close Quarters | 7.00% | ~200 |
+| Opposing Force | 7.00% | ~201 |
+| Der Geist | 7.00% | ~201 |
+| Close Quarters | 7.00% | ~201 |
+| Brains of the Operation | 7.00% | ~201 |
 | Climbing the Ladder | 6.00% | ~172 |
 | Fields of Glory | 6.00% | ~172 |
 | Skirmisher | 6.00% | ~172 |
 | Die Nussknacker Sweet! | 6.00% | ~172 |
 | Snake in the Grass | 6.00% | ~172 |
-| Brains of the Operation | 6.00% | ~172 |
 | No Stone Unturned | 5.00% | ~143 |
 | Set Europe Ablaze | 5.00% | ~143 |
-| Precision Is Key | 4.00% | ~114 |
-| Rigged to Blow | 4.00% | ~114 |
+| Precision Is Key | 4.00% | ~115 |
+| Rigged to Blow | 4.00% | ~115 |
 | My Little Friend | 3.00% | ~86 |
 | The Long Game | 2.00% | ~57 |
 | It'll Buff Right Out | 2.00% | ~57 |
@@ -47,9 +47,9 @@ Rating: 4.53 (Ranked 501)
 | Don't hold your breath | 1.00% | ~29 |
 | Operation Foxley | 1.00% | ~28 |
 | Ghost of Falaise | 1.00% | ~28 |
+| Burn after reading | 0.90% | ~26 |
 | Last Resort | 0.90% | ~25 |
 | Siegebreaker | 0.90% | ~25 |
-| Burn after reading | 0.80% | ~23 |
 | From Paris with Love | 0.70% | ~20 |
 | Souvenir hunter | 0.70% | ~20 |
 | Eagle Eyed | 0.60% | ~17 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 501)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,862 (Ranked 144)  
+Progressed: 2,867 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,862 | 2 |
+| 2023-06-15 | 2,867 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

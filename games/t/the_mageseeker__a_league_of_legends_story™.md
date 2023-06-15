@@ -5,15 +5,15 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,234 |
-| No more cages! | 92.00% | ~2,164 |
-| Everfrost | 77.00% | ~1,811 |
+| For Demacia | 96.00% | ~2,259 |
+| No more cages! | 92.00% | ~2,165 |
+| Everfrost | 77.00% | ~1,812 |
 | Pentakill | 76.00% | ~1,788 |
 | Dark Forest | 76.00% | ~1,788 |
-| The use of petricite | 73.00% | ~1,717 |
-| You can pet the dog | 60.00% | ~1,411 |
-| Big Helmet Bro | 35.00% | ~823 |
-| Clarion Cove | 35.00% | ~823 |
+| The use of petricite | 73.00% | ~1,718 |
+| You can pet the dog | 60.00% | ~1,412 |
+| Big Helmet Bro | 35.00% | ~824 |
+| Clarion Cove | 35.00% | ~824 |
 | Past trauma | 34.00% | ~800 |
 | Thornbarrow | 33.00% | ~776 |
 | Ternmoat Headquarters | 33.00% | ~776 |
@@ -24,12 +24,12 @@ Rating: 4.80 (Ranked 80)
 | Devineur | 27.00% | ~635 |
 | Whispers in the Woods I | 26.00% | ~612 |
 | Hijack | 26.00% | ~612 |
-| Ancient power | 24.00% | ~564 |
-| I chose my shackles | 22.00% | ~517 |
+| Ancient power | 24.00% | ~565 |
+| I chose my shackles | 23.00% | ~541 |
 | Sacred Woods | 21.00% | ~494 |
 | Capelworth | 21.00% | ~494 |
-| Little light | 20.00% | ~470 |
-| Iffighain Headquarters | 20.00% | ~470 |
+| Little light | 20.00% | ~471 |
+| Iffighain Headquarters | 20.00% | ~471 |
 | Glyndemere | 19.00% | ~447 |
 | Full equipped | 19.00% | ~447 |
 | Whispers in the Woods II | 16.00% | ~376 |
@@ -59,8 +59,8 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,352 (Ranked 151)  
-Completed: 2 (0.09%) (Ranked 177)  
+Progressed: 2,353 (Ranked 151)  
+Completed: 2 (0.08%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 2 (0.09%) (Ranked 177)
 | 2023-06-12 | 2,334 | 1 |
 | 2023-06-13 | 2,340 | 1 |
 | 2023-06-14 | 2,351 | 2 |
-| 2023-06-15 | 2,352 | 2 |
+| 2023-06-15 | 2,353 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

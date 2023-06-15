@@ -7,8 +7,8 @@
 | Unexpected encounter | 17.00% | ~333 |
 | Starting as a duo | 15.00% | ~294 |
 | Stronger together | 13.00% | ~255 |
+| A big leap for wolfkind | 10.00% | ~196 |
 | Helping the little ones | 10.00% | ~196 |
-| A big leap for wolfkind | 9.00% | ~176 |
 | Transmission | 9.00% | ~176 |
 | The will to move on | 7.00% | ~137 |
 | Reunion | 7.00% | ~137 |

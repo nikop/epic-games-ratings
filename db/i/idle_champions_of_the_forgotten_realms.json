@@ -4300,9 +4300,9 @@
       "Count": 3250
     }
   ],
-  "EOS_Progressed": 90725,
+  "EOS_Progressed": 90727,
   "EOS_Completed": 1934,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9980,6 +9980,11 @@
       "Time": "2023-06-15T00:06:48.2638828+00:00",
       "NumProgressed": 90725,
       "NumCompleted": 1934
+    },
+    {
+      "Time": "2023-06-15T02:14:42.1956175+00:00",
+      "NumProgressed": 90727,
+      "NumCompleted": 1934
     }
   ],
   "TotalAchievements": 493,
@@ -9991,7 +9996,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "objective_completed_10",
@@ -10541,9 +10546,9 @@
       "ID": "objective_completed_1139",
       "SetID": "415jc5c",
       "Name": "The Lutes of Loomlurch",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 171
     },
     {
       "ID": "objective_completed_114",
@@ -11333,9 +11338,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 272
     },
     {
       "ID": "objective_completed_209",
@@ -13934,21 +13939,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56999,
-      "Completed": 2792
+      "Progressed": 57001,
+      "Completed": 2793
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90725,
+      "Progressed": 90727,
       "Completed": 1934
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-14T20:58:30.1978496+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:48.2638823+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:42.195617+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:58:18.0186458+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:48.2660563+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:06:54.2683716+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:42.1984938+00:00"
 }

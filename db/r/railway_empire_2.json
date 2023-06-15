@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2054,9 +2054,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 359
     },
     {
       "ID": "A16",
@@ -2222,9 +2222,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 825
     },
     {
       "ID": "A37",
@@ -2383,8 +2383,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:38.5973751+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:33.1528651+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:58:18.6540782+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:38.5974192+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:06:54.7572532+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:33.1529217+00:00"
 }

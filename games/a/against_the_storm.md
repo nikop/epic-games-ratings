@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.90% | ~138 |
 | Ruined Armory | 0.80% | ~123 |
 | Forbidden Lands | 0.80% | ~123 |
-| Fishmen Ritual Site | 0.60% | ~92 |
+| Fishmen Ritual Site | 0.70% | ~107 |
 | Efficient Explorer | 0.50% | ~77 |
 | Prestigious Expedition | 0.50% | ~77 |
 | Blood Flower Farmer | 0.50% | ~77 |

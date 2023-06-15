@@ -5,25 +5,25 @@ Rating: 4.17 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,253 |
-| To the Victor Go the Spoils | 3.00% | ~1,952 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,952 |
-| Knighthood | 3.00% | ~1,952 |
-| Loose Ends | 3.00% | ~1,952 |
-| The Batman Family | 2.00% | ~1,301 |
-| Protector of Gotham | 2.00% | ~1,301 |
-| Something in the Clay | 2.00% | ~1,301 |
-| The Show Mud Go On | 2.00% | ~1,301 |
-| Quartzer Life Crisis | 2.00% | ~1,301 |
-| Snow Problem | 2.00% | ~1,301 |
-| Get ReQ'd | 2.00% | ~1,301 |
-| Working Hard or Harley Working? | 2.00% | ~1,301 |
-| Universal Health Scare | 2.00% | ~1,301 |
-| Unstoppable Force | 2.00% | ~1,301 |
-| Whispered Words | 2.00% | ~1,301 |
-| Lock and Key | 2.00% | ~1,301 |
-| Bad Apples in Every Orchard | 2.00% | ~1,301 |
-| From Inside Gotham's Walls | 2.00% | ~1,301 |
+| First Step Into the Knight | 5.00% | ~3,254 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,603 |
+| To the Victor Go the Spoils | 3.00% | ~1,953 |
+| Knighthood | 3.00% | ~1,953 |
+| Loose Ends | 3.00% | ~1,953 |
+| The Batman Family | 2.00% | ~1,302 |
+| Protector of Gotham | 2.00% | ~1,302 |
+| Something in the Clay | 2.00% | ~1,302 |
+| The Show Mud Go On | 2.00% | ~1,302 |
+| Quartzer Life Crisis | 2.00% | ~1,302 |
+| Snow Problem | 2.00% | ~1,302 |
+| Get ReQ'd | 2.00% | ~1,302 |
+| Working Hard or Harley Working? | 2.00% | ~1,302 |
+| Universal Health Scare | 2.00% | ~1,302 |
+| Unstoppable Force | 2.00% | ~1,302 |
+| Whispered Words | 2.00% | ~1,302 |
+| Lock and Key | 2.00% | ~1,302 |
+| Bad Apples in Every Orchard | 2.00% | ~1,302 |
+| From Inside Gotham's Walls | 2.00% | ~1,302 |
 | End of an Era | 1.00% | ~651 |
 | In Your Element | 1.00% | ~651 |
 | Rock and a Hard Place | 1.00% | ~651 |
@@ -38,10 +38,10 @@ Rating: 4.17 (Ranked 853)
 | Gotham City Confidential | 1.00% | ~651 |
 | Out of Their League | 0.90% | ~586 |
 | Solid Alibi | 0.90% | ~586 |
-| Fusion Expert | 0.70% | ~455 |
-| Family Meeting | 0.70% | ~455 |
-| Expert Crime Fighter | 0.60% | ~390 |
-| A Worthy Successor | 0.60% | ~390 |
+| Fusion Expert | 0.70% | ~456 |
+| Family Meeting | 0.70% | ~456 |
+| Expert Crime Fighter | 0.60% | ~391 |
+| A Worthy Successor | 0.60% | ~391 |
 | Dressed to Impress | 0.50% | ~325 |
 | A Momentum Occasion | 0.40% | ~260 |
 | He'd Be So Proud of You | 0.30% | ~195 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 853)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,061 (Ranked 70)  
+Progressed: 65,085 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,10 @@ Completed: 95 (0.15%) (Ranked 161)
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
 | 2023-06-14 | 65,051 | 95 |
-| 2023-06-15 | 65,061 | 95 |
+| 2023-06-15 | 65,085 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,331  (Ranked 98)  
-Sum: 3,858 (Ranked 137)  
+Sum: 3,859 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -136,7 +136,7 @@ Diff (max vs sum): -39
 | This game is Extremely Fun | 198 |
 | This game has Amazing Characters | 194 |
 | This game has Diverse Characters | 188 |
-| This game has Amazing Storytelling | 185 |
+| This game has Amazing Storytelling | 186 |
 | This game is Great for Beginners | 184 |
 | This game is Highly Recommended | 182 |
 | This game is Great for Quick Sessions | 60 |
@@ -257,3 +257,4 @@ Diff (max vs sum): -39
 | 2023-06-12 | 4.17 | 2,325 | 3,845 |
 | 2023-06-13 | 4.17 | 2,331 | 3,854 |
 | 2023-06-14 | 4.17 | 2,331 | 3,858 |
+| 2023-06-15 | 4.17 | 2,331 | 3,859 |

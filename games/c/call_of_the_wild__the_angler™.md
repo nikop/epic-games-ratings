@@ -1,24 +1,24 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.13 (Ranked 872)  
+Rating: 4.14 (Ranked 868)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,260 |
-| Hey Good Hookin | 65.00% | ~2,825 |
-| I'm on a Boat! | 55.00% | ~2,390 |
-| Can you smell what the Rod is Hooking | 49.00% | ~2,130 |
-| Scaling up | 48.00% | ~2,086 |
-| Ready to Rod and Roll | 41.00% | ~1,782 |
-| More Fish in the Sea | 40.00% | ~1,738 |
-| License to Gill | 32.00% | ~1,391 |
-| Fish Out of Water | 31.00% | ~1,347 |
-| Things that go Splash in the Night | 26.00% | ~1,130 |
-| Goldfish? | 26.00% | ~1,130 |
+| Fish Just Got Reel | 75.00% | ~3,262 |
+| Hey Good Hookin | 65.00% | ~2,827 |
+| I'm on a Boat! | 55.00% | ~2,392 |
+| Can you smell what the Rod is Hooking | 49.00% | ~2,131 |
+| Scaling up | 48.00% | ~2,088 |
+| Ready to Rod and Roll | 41.00% | ~1,783 |
+| More Fish in the Sea | 40.00% | ~1,740 |
+| License to Gill | 32.00% | ~1,392 |
+| Fish Out of Water | 31.00% | ~1,348 |
+| Things that go Splash in the Night | 26.00% | ~1,131 |
+| Goldfish? | 26.00% | ~1,131 |
 | Going for Gold | 23.00% | ~1,000 |
-| I'm Hooked! | 18.00% | ~782 |
+| I'm Hooked! | 18.00% | ~783 |
 | More than a Tourist | 12.00% | ~522 |
 | Diamond in the Rough | 12.00% | ~522 |
 | Hook, Line and Sinker | 7.00% | ~304 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,346 (Ranked 131)  
+Progressed: 4,349 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 4,296 | 0 |
 | 2023-06-13 | 4,321 | 0 |
 | 2023-06-14 | 4,346 | 0 |
+| 2023-06-15 | 4,349 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 443)  
 Sum: 158 (Ranked 381)  
@@ -159,3 +160,4 @@ Diff (max vs sum): 62
 | 2023-05-08 | 4.13 | - | 32 | 158 |
 | 2023-05-10 | 4.12 | - | 32 | 158 |
 | 2023-05-14 | 4.13 | - | 32 | 158 |
+| 2023-06-15 | 4.14 | - | 32 | 158 |

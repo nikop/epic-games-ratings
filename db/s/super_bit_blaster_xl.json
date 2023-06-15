@@ -4,8 +4,8 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.6,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -646,6 +646,11 @@
       "Time": "2023-06-14T17:05:30.1290139+00:00",
       "NumProgressed": 139,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T02:14:07.4899544+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -657,7 +662,7 @@
       "Name": "1.5 Million",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "10K",
@@ -689,15 +694,15 @@
       "Name": "2.5K",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "500K",
@@ -729,7 +734,7 @@
       "Name": "75K",
       "Percentage": 47,
       "XP": 150,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Bit Blaster V2",
@@ -792,14 +797,14 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:07.9306449+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:07.4899539+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.3101855+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:57:57.1387766+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:07.9306577+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:06:37.6966641+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:07.4899974+00:00"
 }

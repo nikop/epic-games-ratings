@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -198,9 +198,9 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BFT_COOK",
@@ -238,9 +238,9 @@
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 65,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_LEIF",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:29.3859681+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:25.5430432+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-15T00:00:17.7625898+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:29.3859854+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:08:29.5565797+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:25.5430675+00:00"
 }

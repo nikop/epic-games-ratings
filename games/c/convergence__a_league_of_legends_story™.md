@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 11.00% | ~76 |
+| Time Heals All Wounds | 12.00% | ~83 |
 | The Steel Shadow | 9.00% | ~62 |
 | Treasure Trove | 9.00% | ~62 |
 | The Mysterious Stranger | 9.00% | ~62 |
@@ -30,10 +30,10 @@
 | Check Your Pulse | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
 | Street Style | 6.00% | ~41 |
-| Whiz Kid | 6.00% | ~41 |
 | The Family Fortune | 6.00% | ~41 |
-| Family Memories | 5.00% | ~34 |
-| Ask Questions Later | 5.00% | ~34 |
+| Family Memories | 5.00% | ~35 |
+| Whiz Kid | 5.00% | ~35 |
+| Ask Questions Later | 5.00% | ~35 |
 | Chaincrawler Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
 | Sump Explorer | 4.00% | ~28 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690 (Ranked 191)  
+Progressed: 691 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 690 | 1 |
+| 2023-06-15 | 691 | 1 |

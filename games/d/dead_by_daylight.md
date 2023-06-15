@@ -6,15 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.40% | ~2,221 |
-| Resurgence | 0.40% | ~2,221 |
-| Preemptive Strike | 0.40% | ~2,221 |
-| Humanitarian | 0.40% | ~2,221 |
+| Healthy Obsession | 0.40% | ~2,222 |
+| Resurgence | 0.40% | ~2,222 |
+| Preemptive Strike | 0.40% | ~2,222 |
+| Humanitarian | 0.40% | ~2,222 |
 | Wounded Healer | 0.30% | ~1,666 |
 | Close Shave | 0.30% | ~1,666 |
 | Flight to Freedom | 0.30% | ~1,666 |
 | Unforgettable Getaway | 0.20% | ~1,111 |
 | Cutting Out | 0.20% | ~1,111 |
+| Outrun Evil | 0.20% | ~1,111 |
 | First to the Punch | 0.20% | ~1,111 |
 | Operation: Survival | 0.20% | ~1,111 |
 | Old West Oasis | 0.20% | ~1,111 |
@@ -138,7 +139,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~555 |
 | Shrine Apparatus | 0.10% | ~555 |
 | Adept Jane | 0.10% | ~555 |
-| Outrun Evil | 0.10% | ~555 |
 | Adept Ash | 0.10% | ~555 |
 | Silent Approach | 0.10% | ~555 |
 | Totally Vulnerable | 0.10% | ~555 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~555 |
 | Adept Gabriel | 0.10% | ~555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,253 (Ranked 27)  
+Progressed: 555,488 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 555,253 | 42 |
+| 2023-06-15 | 555,488 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,336 (Ranked 12)  
+Sum: 227,370 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): 4
 | This game has Amazing Characters | 25,708 |
 | This game is Extremely Fun | 25,685 |
 | This game has Quickly Understood Controls | 25,520 |
-| This game has Challenging Combat | 24,855 |
+| This game has Challenging Combat | 24,889 |
 | This game has Amazing Storytelling | 23,387 |
 | This game has a Competitive Community | 21,703 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -446,3 +446,4 @@ Diff (max vs sum): 4
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
+| 2023-06-15 | 4.52 | - | 28,462 | 227,370 |

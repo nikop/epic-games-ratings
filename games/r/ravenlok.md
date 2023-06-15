@@ -15,24 +15,24 @@
 | Tragic Brave | 53.00% | ~529 |
 | Awakened Spirits | 50.00% | ~500 |
 | Little Shop | 49.00% | ~490 |
+| Surprise! | 45.00% | ~450 |
 | An Actor! | 45.00% | ~450 |
-| Surprise! | 44.00% | ~440 |
 | Curtain Call | 43.00% | ~430 |
-| Piece of Cake | 40.00% | ~400 |
+| Piece of Cake | 41.00% | ~410 |
+| Glimmer of Hope | 41.00% | ~410 |
 | Gooey Delight! | 40.00% | ~400 |
-| Glimmer of Hope | 40.00% | ~400 |
+| Well Rested | 40.00% | ~400 |
+| Nightmare Fuel | 39.00% | ~390 |
 | Teacups for Toppy | 39.00% | ~390 |
-| Well Rested | 39.00% | ~390 |
-| Nightmare Fuel | 38.00% | ~380 |
 | Take Heart | 38.00% | ~380 |
 | The Guardian | 38.00% | ~380 |
 | Stronger! | 37.00% | ~370 |
 | Ancient Wisdom | 36.00% | ~360 |
 | Frog Facts! | 36.00% | ~360 |
 | All That Glistens | 36.00% | ~360 |
+| It's Pointy! | 36.00% | ~360 |
 | Spellbound | 35.00% | ~350 |
 | All Skilled Up! | 35.00% | ~350 |
-| It's Pointy! | 35.00% | ~350 |
 | Extinct Again! | 34.00% | ~340 |
 | Bird of Prey | 34.00% | ~340 |
 | Stardust | 34.00% | ~340 |

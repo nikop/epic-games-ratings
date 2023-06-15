@@ -9,7 +9,7 @@ Rating: 4.22 (Ranked 816)
 | A new Journey | 71.00% | ~849 |
 | From X to Y | 70.00% | ~837 |
 | Departure | 70.00% | ~837 |
-| Way of Iron | 68.00% | ~813 |
+| Way of Iron | 69.00% | ~825 |
 | Mystery Tour | 66.00% | ~789 |
 | We brake for nobody | 65.00% | ~777 |
 | Brainstorm | 64.00% | ~765 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 816)
 | Access granted | 34.00% | ~407 |
 | Stoker | 33.00% | ~395 |
 | Going once, going twice, sold | 32.00% | ~383 |
-| Full Steam ahead | 29.00% | ~347 |
+| Full Steam ahead | 30.00% | ~359 |
 | Bull and bear | 29.00% | ~347 |
 | All mine | 26.00% | ~311 |
 | Mole | 26.00% | ~311 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 999,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 7.01,
   "EosHistory": [
@@ -2404,17 +2404,17 @@
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 410
     },
     {
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 390
     },
     {
       "ID": "12",
@@ -2468,9 +2468,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 450
     },
     {
       "ID": "19",
@@ -2612,9 +2612,9 @@
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 410
     },
     {
       "ID": "35",
@@ -2700,9 +2700,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 360
     },
     {
       "ID": "45",
@@ -2748,9 +2748,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 400
     },
     {
       "ID": "50",
@@ -2805,8 +2805,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-15T00:06:16.9507258+00:00",
+  "LastChanged_Achievements": "2023-06-15T02:14:14.8384023+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:57:38.7089732+00:00",
-  "LastUpdate_Achievements": "2023-06-15T00:06:16.95079+00:00"
+  "LastUpdate_Ratings": "2023-06-15T02:06:22.1994572+00:00",
+  "LastUpdate_Achievements": "2023-06-15T02:14:14.8384628+00:00"
 }
