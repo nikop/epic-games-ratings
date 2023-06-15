@@ -6,16 +6,16 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~531 |
+| Cabin boy | 81.00% | ~532 |
 | My little farm | 64.00% | ~420 |
-| Every beginning is difficult | 62.00% | ~407 |
+| Every beginning is difficult | 61.00% | ~401 |
 | 3, 2, 1, mine | 55.00% | ~361 |
 | Gofer | 55.00% | ~361 |
 | Seafarer | 53.00% | ~348 |
 | O Captain! My Captain! | 53.00% | ~348 |
 | Greed for gold | 42.00% | ~276 |
-| Intangible | 41.00% | ~269 |
-| I'm out of here for a while | 40.00% | ~262 |
+| Intangible | 40.00% | ~263 |
+| I'm out of here for a while | 40.00% | ~263 |
 | In a mint condition | 37.00% | ~243 |
 | Licence to Kill | 34.00% | ~223 |
 | Pirates! | 34.00% | ~223 |
@@ -31,9 +31,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panic buying | 11.00% | ~72 |
 | Just a scratch | 9.00% | ~59 |
 | Your vessel, my vessel | 9.00% | ~59 |
-| All mine! | 8.00% | ~52 |
-| Paths of Glory | 8.00% | ~52 |
-| Panel of experts | 8.00% | ~52 |
+| All mine! | 8.00% | ~53 |
+| Paths of Glory | 8.00% | ~53 |
+| Panel of experts | 8.00% | ~53 |
 | Maker | 7.00% | ~46 |
 | Conglomerate | 6.00% | ~39 |
 | Buccaneer | 5.00% | ~33 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656 (Ranked 197)  
+Progressed: 657 (Ranked 197)  
 Completed: 1 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.15%) (Ranked 162)
 | 2023-06-12 | 644 | 0 |
 | 2023-06-13 | 649 | 1 |
 | 2023-06-14 | 651 | 1 |
-| 2023-06-15 | 656 | 1 |
+| 2023-06-15 | 657 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

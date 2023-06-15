@@ -314,9 +314,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2908,
+  "EOS_Progressed": 2909,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3664,6 +3664,11 @@
       "Time": "2023-06-15T22:06:27.514269+00:00",
       "NumProgressed": 2908,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T23:06:32.1780589+00:00",
+      "NumProgressed": 2909,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3675,7 +3680,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3699,7 +3704,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3723,7 +3728,7 @@
       "Name": "Fields of Glory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3753,9 +3758,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 902
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3803,7 +3808,7 @@
       "Name": "Skirmisher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3827,7 +3832,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3891,7 +3896,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -3921,9 +3926,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 611
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3987,7 +3992,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4242,13 +4247,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2859,
+      "Progressed": 2860,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2908,
+      "Progressed": 2909,
       "Completed": 2
     }
   ],
@@ -4256,8 +4261,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-15T18:00:23.7807599+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:06:27.5142678+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:06:32.1780584+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:00:53.0973619+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:06:27.514354+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:00:59.5971403+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:06:32.1781263+00:00"
 }

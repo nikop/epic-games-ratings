@@ -2,7 +2,7 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 126,
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
       "Time": "2023-05-30T11:02:25.069869+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T23:04:08.1939521+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -48,7 +53,7 @@
       "ID": "CompleteTutorials",
       "SetID": "9ajogia",
       "Name": "Student",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -56,7 +61,7 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -72,7 +77,7 @@
       "ID": "NotPermitted",
       "SetID": "9ajogia",
       "Name": "Caged",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -80,7 +85,7 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -89,13 +94,13 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:04:03.5083708+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:04:08.1939515+00:00",
   "LastUpdate_AppInfo": "2023-06-15T14:57:13.0374414+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:14.2789665+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:04:03.5083787+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:18.6994673+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:04:08.1939574+00:00"
 }

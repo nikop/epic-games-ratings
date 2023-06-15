@@ -31,7 +31,7 @@
 | Something reflective... | 33.00% | ~1 |
 | Something reflective... (fragile) | 33.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 402)  
+Progressed: 3 (Ranked 403)  
 Completed: 1 (33.33%) (Ranked 2)  
 ## EOS Players History
 | Date | Progressed | Completed |

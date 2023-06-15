@@ -5,9 +5,9 @@
   "Ranking_Rating": 753,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 127,
+  "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5606,
+  "EOS_Progressed": 5607,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2701,6 +2701,11 @@
       "Time": "2023-06-15T21:03:47.3941357+00:00",
       "NumProgressed": 5606,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T23:04:17.5270614+00:00",
+      "NumProgressed": 5607,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3198,9 +3203,9 @@
       "ID": "Vickie",
       "SetID": "bmkn7o4",
       "Name": "Vickie",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "cooch",
@@ -3263,21 +3268,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2645,
+      "Progressed": 2646,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5606,
+      "Progressed": 5607,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:04:12.7891422+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:04:17.5270609+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:32.5099183+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:04:12.7892251+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:36.6670002+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:04:17.5271254+00:00"
 }

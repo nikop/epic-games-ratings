@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~551,126 |
-| Error: Stack Overflow | 66.00% | ~391,122 |
-| We need more gold | 60.00% | ~355,565 |
-| The dawn of civilization | 53.00% | ~314,083 |
-| More FPS for the FPS god! | 49.00% | ~290,378 |
-| Beauty and harmony | 48.00% | ~284,452 |
-| One more! | 44.00% | ~260,748 |
-| Overmind | 24.00% | ~142,226 |
-| RNG is my best friend now | 18.00% | ~106,670 |
-| Cosplay | 13.00% | ~77,039 |
-| Evolution in progress... | 13.00% | ~77,039 |
+| First.. Bit? | 93.00% | ~551,133 |
+| Error: Stack Overflow | 66.00% | ~391,127 |
+| We need more gold | 60.00% | ~355,570 |
+| The dawn of civilization | 53.00% | ~314,086 |
+| More FPS for the FPS god! | 49.00% | ~290,382 |
+| Beauty and harmony | 48.00% | ~284,456 |
+| One more! | 44.00% | ~260,751 |
+| Overmind | 24.00% | ~142,228 |
+| RNG is my best friend now | 18.00% | ~106,671 |
+| Cosplay | 13.00% | ~77,040 |
+| Evolution in progress... | 13.00% | ~77,040 |
 | Step by step | 8.00% | ~47,409 |
 | README reader | 3.00% | ~17,778 |
 | Data scientist | 3.00% | ~17,778 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~11,852 |
 | Ping | 1.00% | ~5,926 |
 | Magna cum laude | 1.00% | ~5,926 |
-| The hoarder | 0.90% | ~5,333 |
+| The hoarder | 0.90% | ~5,334 |
 | Deal with it! | 0.50% | ~2,963 |
 | Gold rush | 0.40% | ~2,370 |
 | Cat-o-holic | 0.40% | ~2,370 |
 | Elements will destroy you! | 0.30% | ~1,778 |
 | The Scrooge | 0.10% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592,609 (Ranked 24)  
+Progressed: 592,616 (Ranked 24)  
 Completed: 491 (0.08%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 491 (0.08%) (Ranked 179)
 | 2023-06-12 | 592,265 | 490 |
 | 2023-06-13 | 592,387 | 491 |
 | 2023-06-14 | 592,503 | 491 |
-| 2023-06-15 | 592,609 | 491 |
+| 2023-06-15 | 592,616 | 491 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 300)  
 Sum: 133 (Ranked 389)  

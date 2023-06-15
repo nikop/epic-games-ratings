@@ -11,9 +11,9 @@
 | The King of Flat | 49.00% | ~139 |
 | Air Slash | 41.00% | ~116 |
 | Hit That Ball | 39.00% | ~110 |
-| Eat That Apple | 28.00% | ~79 |
-| Tornado Chaser | 17.00% | ~48 |
-| Bomberman | 12.00% | ~34 |
+| Eat That Apple | 29.00% | ~82 |
+| Tornado Chaser | 18.00% | ~51 |
+| Bomberman | 13.00% | ~37 |
 | The Colossus | 10.00% | ~28 |
 | Bubble Party | 8.00% | ~23 |
 | Floor is Lava | 7.00% | ~20 |

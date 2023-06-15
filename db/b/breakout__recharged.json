@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -165,9 +165,9 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
@@ -294,8 +294,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:01:20.69061+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:01:28.1548969+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.3790164+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:39.1271124+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:01:20.690624+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:43.0109424+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:01:28.1549073+00:00"
 }

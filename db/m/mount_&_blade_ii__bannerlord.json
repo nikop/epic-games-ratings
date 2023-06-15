@@ -4851,9 +4851,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53260,
+  "EOS_Progressed": 53261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10551,6 +10551,11 @@
       "Time": "2023-06-15T22:06:34.622897+00:00",
       "NumProgressed": 53260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T23:06:38.8485497+00:00",
+      "NumProgressed": 53261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10570,7 +10575,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "Bannerlord",
@@ -10969,15 +10974,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53260,
+      "Progressed": 53261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-15T19:00:12.3508581+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:06:34.6228959+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:06:38.8485493+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:00:02.9257316+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:06:34.6230009+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:00:08.4025262+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:06:38.8486149+00:00"
 }

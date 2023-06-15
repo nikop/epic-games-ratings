@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -644,9 +644,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15360,
+  "EOS_Progressed": 15363,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4024,6 +4024,11 @@
       "Time": "2023-06-15T22:04:32.701281+00:00",
       "NumProgressed": 15360,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-15T23:04:37.9050958+00:00",
+      "NumProgressed": 15363,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4097,9 +4102,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 307
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -4179,7 +4184,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4211,7 +4216,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4227,7 +4232,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4235,7 +4240,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "STORY_HABITAT",
@@ -4259,7 +4264,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -4267,7 +4272,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4283,7 +4288,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4307,7 +4312,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -4354,13 +4359,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15360,
+      "Progressed": 15363,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3286,
+      "Progressed": 3289,
       "Completed": 29
     }
   ],
@@ -4368,8 +4373,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-15T19:58:15.7237363+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:04:32.7012803+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:04:37.9050953+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:58:08.0294418+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:04:32.7013327+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:58:12.9250868+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:04:37.9051376+00:00"
 }

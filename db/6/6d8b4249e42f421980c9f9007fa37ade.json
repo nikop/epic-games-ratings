@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -618,17 +618,17 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_Times_100",
@@ -681,8 +681,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:01:29.3899851+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:02:06.4095168+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:06.9749307+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:01:29.3900295+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:11.4711136+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:02:06.4095498+00:00"
 }

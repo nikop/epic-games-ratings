@@ -5,7 +5,7 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 109,
-  "Ranking_EOS_Progress": 112,
+  "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 126,
@@ -2852,7 +2852,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9895,
+  "EOS_Progressed": 9896,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -6627,6 +6627,11 @@
       "Time": "2023-06-15T21:05:50.5790241+00:00",
       "NumProgressed": 9895,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T23:06:43.3010647+00:00",
+      "NumProgressed": 9896,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6646,7 +6651,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -7006,7 +7011,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "49_Flame",
@@ -7565,21 +7570,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8677,
+      "Progressed": 8678,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9895,
+      "Progressed": 9896,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-15T10:58:17.6007907+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:06:39.4400251+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:06:43.3010638+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:58:34.2272757+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:06:39.4402113+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:58:40.0794252+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:06:43.3012118+00:00"
 }

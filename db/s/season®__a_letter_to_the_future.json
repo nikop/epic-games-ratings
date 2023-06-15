@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -1447,9 +1447,9 @@
       "ID": "ACH_GOODBYETIENGVALLEY",
       "SetID": "7pam6gn",
       "Name": "Goodbye Tieng Valley",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -1552,8 +1552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:06:06.5992834+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:06:10.7547776+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:58:53.733272+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:06:06.5993045+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:58:59.7089939+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:06:10.7547931+00:00"
 }

@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.40% | ~38 |
 | Up Close And Personal | 0.40% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,487 (Ranked 114)  
+Progressed: 9,487 (Ranked 115)  
 Completed: 46 (0.48%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |

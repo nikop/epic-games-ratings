@@ -6,17 +6,17 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,730 |
-| keep it tidy | 77.00% | ~7,804 |
-| podium | 72.00% | ~7,297 |
+| light attack | 96.00% | ~9,731 |
+| keep it tidy | 77.00% | ~7,805 |
+| podium | 72.00% | ~7,298 |
 | medium attack | 59.00% | ~5,980 |
 | brail | 56.00% | ~5,676 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,054 |
 | grocery-getter | 39.00% | ~3,953 |
 | rwd only | 26.00% | ~2,635 |
 | food tour: pasta | 26.00% | ~2,635 |
-| to finish first, first you must finish | 21.00% | ~2,128 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,128 |
+| to finish first, first you must finish | 21.00% | ~2,129 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,129 |
 | autopilot | 20.00% | ~2,027 |
 | turbo | 20.00% | ~2,027 |
 | food tour: pretzel | 19.00% | ~1,926 |
@@ -32,10 +32,10 @@ Number of Ratings: 56  (23.09.2022)
 | espresso | 10.00% | ~1,014 |
 | parallel universe | 10.00% | ~1,014 |
 | samir | 8.00% | ~811 |
-| eurobeat | 7.00% | ~709 |
-| master of rally | 7.00% | ~709 |
-| antilag | 7.00% | ~709 |
-| mittens | 7.00% | ~709 |
+| eurobeat | 7.00% | ~710 |
+| master of rally | 7.00% | ~710 |
+| antilag | 7.00% | ~710 |
+| mittens | 7.00% | ~710 |
 | parking lot | 6.00% | ~608 |
 | oktoberfest | 6.00% | ~608 |
 | viking | 6.00% | ~608 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,135 (Ranked 111)  
+Progressed: 10,136 (Ranked 112)  
 Completed: 9 (0.09%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 9 (0.09%) (Ranked 177)
 | 2023-06-12 | 10,120 | 9 |
 | 2023-06-13 | 10,124 | 9 |
 | 2023-06-14 | 10,129 | 9 |
-| 2023-06-15 | 10,135 | 9 |
+| 2023-06-15 | 10,136 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

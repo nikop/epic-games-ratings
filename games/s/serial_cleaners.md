@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 255)  
-Completed: 5 (2.51%) (Ranked 61)  
+Progressed: 200 (Ranked 255)  
+Completed: 5 (2.50%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,7 +56,7 @@ Completed: 5 (2.51%) (Ranked 61)
 | 2023-06-12 | 192 | 5 |
 | 2023-06-13 | 194 | 5 |
 | 2023-06-14 | 195 | 5 |
-| 2023-06-15 | 199 | 5 |
+| 2023-06-15 | 200 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

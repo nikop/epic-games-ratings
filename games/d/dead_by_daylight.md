@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.70% | ~3,911 |
-| Resurgence | 0.70% | ~3,911 |
+| Healthy Obsession | 0.70% | ~3,912 |
+| Resurgence | 0.70% | ~3,912 |
 | Preemptive Strike | 0.60% | ~3,353 |
 | Humanitarian | 0.60% | ~3,353 |
-| Wounded Healer | 0.50% | ~2,794 |
-| Close Shave | 0.50% | ~2,794 |
-| Unforgettable Getaway | 0.40% | ~2,235 |
-| First to the Punch | 0.40% | ~2,235 |
-| Old West Oasis | 0.40% | ~2,235 |
-| With Scars to Show | 0.40% | ~2,235 |
-| Flight to Freedom | 0.40% | ~2,235 |
-| Cutting Out | 0.30% | ~1,676 |
-| Operation: Survival | 0.30% | ~1,676 |
-| Classy Act | 0.30% | ~1,676 |
-| Every Last Drop | 0.30% | ~1,676 |
-| Raccoon City Recruit | 0.30% | ~1,676 |
-| A Fast Death | 0.30% | ~1,676 |
-| Lifting The Fog | 0.30% | ~1,676 |
-| Chorus of Chaos | 0.30% | ~1,676 |
+| Wounded Healer | 0.50% | ~2,795 |
+| Close Shave | 0.50% | ~2,795 |
+| Flight to Freedom | 0.50% | ~2,795 |
+| Unforgettable Getaway | 0.40% | ~2,236 |
+| First to the Punch | 0.40% | ~2,236 |
+| Old West Oasis | 0.40% | ~2,236 |
+| With Scars to Show | 0.40% | ~2,236 |
+| Cutting Out | 0.30% | ~1,677 |
+| Operation: Survival | 0.30% | ~1,677 |
+| Classy Act | 0.30% | ~1,677 |
+| Every Last Drop | 0.30% | ~1,677 |
+| Raccoon City Recruit | 0.30% | ~1,677 |
+| A Fast Death | 0.30% | ~1,677 |
+| Lifting The Fog | 0.30% | ~1,677 |
+| Chorus of Chaos | 0.30% | ~1,677 |
 | Ancestor's Rite | 0.20% | ~1,118 |
 | Devoted Gatekeeping | 0.20% | ~1,118 |
 | Shrine Apparatus | 0.20% | ~1,118 |
@@ -32,6 +32,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.20% | ~1,118 |
 | Grim Pilgrimage | 0.20% | ~1,118 |
 | Selfless Survival | 0.20% | ~1,118 |
+| I See You | 0.20% | ~1,118 |
 | End of Days | 0.20% | ~1,118 |
 | Insult and Injury | 0.20% | ~1,118 |
 | Outrun the Overlap | 0.20% | ~1,118 |
@@ -169,7 +170,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Executioner | 0.10% | ~559 |
 | Adept Cheryl | 0.10% | ~559 |
 | Speed Kills | 0.10% | ~559 |
-| I See You | 0.10% | ~559 |
 | Adept Blight | 0.10% | ~559 |
 | Adept Felix | 0.10% | ~559 |
 | Tag Team | 0.10% | ~559 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~559 |
 | Adept Gabriel | 0.10% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558,769 (Ranked 26)  
+Progressed: 558,911 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 558,769 | 42 |
+| 2023-06-15 | 558,911 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,631 (Ranked 12)  

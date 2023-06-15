@@ -2,9 +2,9 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_EOS_Progress": 128,
+  "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5274,
+  "EOS_Progressed": 6051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3651,
+  "EOS_NewPlayers": 4428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -51,6 +51,11 @@
       "Time": "2023-06-15T22:01:08.1185557+00:00",
       "NumProgressed": 5274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T23:01:16.077857+00:00",
+      "NumProgressed": 6051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 49,
@@ -62,15 +67,15 @@
       "Name": "Guacamastery",
       "Percentage": 0.1,
       "XP": 130,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_1",
       "SetID": "69kac5j",
       "Name": "I Remember That Being Harder",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 3745
+      "UsersEstimate": 4236
     },
     {
       "ID": "EAwards_10",
@@ -78,7 +83,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_11",
@@ -86,31 +91,31 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 666
     },
     {
       "ID": "EAwards_12",
       "SetID": "69kac5j",
       "Name": "Cluckstorm",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 61
     },
     {
       "ID": "EAwards_13",
       "SetID": "69kac5j",
       "Name": "The Floor Is...",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_14",
       "SetID": "69kac5j",
       "Name": "6-Piece Combo",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_15",
@@ -118,47 +123,47 @@
       "Name": "He Looks Portable",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_16",
       "SetID": "69kac5j",
       "Name": "PERFECT",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_17",
       "SetID": "69kac5j",
       "Name": "Talented Player",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1331
     },
     {
       "ID": "EAwards_18",
       "SetID": "69kac5j",
       "Name": "You Survived",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_19",
       "SetID": "69kac5j",
       "Name": "One Born Every Minute",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_2",
       "SetID": "69kac5j",
       "Name": "Re-resurrecci\u00F3n",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1951
+      "UsersEstimate": 2178
     },
     {
       "ID": "EAwards_20",
@@ -166,31 +171,31 @@
       "Name": "King of the Hill",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_21",
       "SetID": "69kac5j",
       "Name": "Special Delivery!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_22",
       "SetID": "69kac5j",
       "Name": "Combo Machine",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_23",
       "SetID": "69kac5j",
       "Name": "These are not fertilized",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_24",
@@ -198,7 +203,7 @@
       "Name": "Temple Raider",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_25",
@@ -206,7 +211,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 242
     },
     {
       "ID": "EAwards_26",
@@ -214,31 +219,31 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_27",
       "SetID": "69kac5j",
       "Name": "One down...",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_28",
       "SetID": "69kac5j",
       "Name": "Very Special",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_29",
       "SetID": "69kac5j",
       "Name": "Talk to the Hend",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_3",
@@ -246,87 +251,87 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 242
     },
     {
       "ID": "EAwards_30",
       "SetID": "69kac5j",
       "Name": "Moves Like Jaguar",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_31",
       "SetID": "69kac5j",
       "Name": "Luchonarrative Resonance",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_32",
       "SetID": "69kac5j",
       "Name": "El T\u00E9cnico T\u00E1ctico",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_33",
       "SetID": "69kac5j",
       "Name": "Mr. Worldwide",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_34",
       "SetID": "69kac5j",
       "Name": "Even Darkester",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_35",
       "SetID": "69kac5j",
       "Name": "Nacho Libre",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_36",
       "SetID": "69kac5j",
       "Name": "Legend of the Timelines",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_37",
       "SetID": "69kac5j",
       "Name": "Cool Cat Counter Attack",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_38",
       "SetID": "69kac5j",
       "Name": "Steal the Show",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_39",
       "SetID": "69kac5j",
       "Name": "Body Builder",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_4",
@@ -334,71 +339,71 @@
       "Name": "Severed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_40",
       "SetID": "69kac5j",
       "Name": "Welcome to MY World",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_41",
       "SetID": "69kac5j",
       "Name": "Jaguar\u0027s Redemption",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_42",
       "SetID": "69kac5j",
       "Name": "Slippery Snake",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_43",
       "SetID": "69kac5j",
       "Name": "Explosion Therapy",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_44",
       "SetID": "69kac5j",
       "Name": "Snake Temple Throwdown",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_45",
       "SetID": "69kac5j",
       "Name": "Salvador\u2019s Sister Act",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_46",
       "SetID": "69kac5j",
       "Name": "Bronze Champion",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_47",
       "SetID": "69kac5j",
       "Name": "Silver Champion",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_48",
@@ -406,23 +411,23 @@
       "Name": "Let Sleeping Gods Lie",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_5",
       "SetID": "69kac5j",
       "Name": "Prickly Pair",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_6",
       "SetID": "69kac5j",
       "Name": "Severed 2",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 6
     },
     {
       "ID": "EAwards_7",
@@ -430,7 +435,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_8",
@@ -438,29 +443,29 @@
       "Name": "Santa Golpiza!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EAwards_9",
       "SetID": "69kac5j",
       "Name": "Grapple Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 5274,
+      "Progressed": 6051,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-15T18:57:15.2360624+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:01:08.1185545+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:01:16.0778561+00:00",
   "LastUpdate_AppInfo": "2023-06-15T14:57:12.8482623+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:05.0093375+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:01:08.1186047+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:09.4560022+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:01:16.0781029+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~870,413 |
-| I Need a Bigger Garage | 62.00% | ~606,355 |
-| Pump my Ride | 46.00% | ~449,876 |
-| Ghostbuster | 32.00% | ~312,957 |
-| Call Roadside Assistance | 17.00% | ~166,259 |
-| That Was Close | 17.00% | ~166,259 |
-| Quickie | 10.00% | ~97,799 |
-| California Dreamer | 7.00% | ~68,459 |
-| Can't Touch This | 5.00% | ~48,900 |
-| Carménère Taster | 3.00% | ~29,340 |
-| Comeback | 3.00% | ~29,340 |
-| Marathonist | 3.00% | ~29,340 |
-| Living Legend | 3.00% | ~29,340 |
-| Driver from Ipanema | 2.00% | ~19,560 |
-| Pathfinder | 2.00% | ~19,560 |
-| Go-Kart Champion | 2.00% | ~19,560 |
-| Completionist | 2.00% | ~19,560 |
-| Supersonic | 2.00% | ~19,560 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,560 |
+| The First of Many | 89.00% | ~870,456 |
+| I Need a Bigger Garage | 62.00% | ~606,385 |
+| Pump my Ride | 46.00% | ~449,898 |
+| Ghostbuster | 32.00% | ~312,973 |
+| Call Roadside Assistance | 17.00% | ~166,267 |
+| That Was Close | 17.00% | ~166,267 |
+| Quickie | 10.00% | ~97,804 |
+| California Dreamer | 7.00% | ~68,463 |
+| Can't Touch This | 5.00% | ~48,902 |
+| Carménère Taster | 3.00% | ~29,341 |
+| Comeback | 3.00% | ~29,341 |
+| Marathonist | 3.00% | ~29,341 |
+| Living Legend | 3.00% | ~29,341 |
+| Driver from Ipanema | 2.00% | ~19,561 |
+| Pathfinder | 2.00% | ~19,561 |
+| Go-Kart Champion | 2.00% | ~19,561 |
+| Completionist | 2.00% | ~19,561 |
+| Supersonic | 2.00% | ~19,561 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,561 |
 | God of Roads | 1.00% | ~9,780 |
 | The Iceman | 1.00% | ~9,780 |
 | Oil Tycoon | 1.00% | ~9,780 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~978 |
 | Look Mom, No Hands! | 0.10% | ~978 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,992 (Ranked 12)  
+Progressed: 978,040 (Ranked 12)  
 Completed: 304 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,11 +100,11 @@ Completed: 304 (0.03%) (Ranked 197)
 | 2023-06-12 | 975,044 | 301 |
 | 2023-06-13 | 976,083 | 303 |
 | 2023-06-14 | 977,048 | 303 |
-| 2023-06-15 | 977,992 | 304 |
+| 2023-06-15 | 978,040 | 304 |
 ## Awards
 Max (Great for Beginners): 143  (Ranked 293)  
-Sum: 1,154 (Ranked 227)  
-Diff (max vs sum): 66  
+Sum: 1,154 (Ranked 228)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 143 |

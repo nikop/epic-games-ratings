@@ -10,7 +10,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Biggest Communism Builder | 24.00% | ~29,189 |
 | The World's Most Laughable Centrist | 20.00% | ~24,324 |
 | Il Coppo Del'Arte! | 18.00% | ~21,892 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,459 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,460 |
 | Hyperstellar Law Official | 15.00% | ~18,243 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,027 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,811 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,620 (Ranked 59)  
+Progressed: 121,622 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 25 (0.02%) (Ranked 203)
 | 2023-06-12 | 121,328 | 25 |
 | 2023-06-13 | 121,431 | 25 |
 | 2023-06-14 | 121,513 | 25 |
-| 2023-06-15 | 121,620 | 25 |
+| 2023-06-15 | 121,622 | 25 |
 ## Awards
 Max (Character Customization): 696  (Ranked 159)  
 Sum: 1,056 (Ranked 231)  

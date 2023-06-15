@@ -387,25 +387,25 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "World7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "World8Boss",
@@ -436,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:03:09.9323053+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:03:05.5916863+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.9812854+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:25.0583026+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:03:09.9323407+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:29.8354685+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:03:05.591715+00:00"
 }

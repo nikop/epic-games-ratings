@@ -20,9 +20,9 @@
 | Archivist | 12.00% | ~23 |
 | Fashionista | 12.00% | ~23 |
 | Kaboom! | 9.00% | ~17 |
+| All Alone | 9.00% | ~17 |
 | Looper | 9.00% | ~17 |
-| All Alone | 8.00% | ~15 |
-| Reunited | 8.00% | ~15 |
+| Reunited | 9.00% | ~17 |
 | So Close | 7.00% | ~13 |
 | Transformers, cubes in disguise | 7.00% | ~13 |
 | Final Charge | 7.00% | ~13 |

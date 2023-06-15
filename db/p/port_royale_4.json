@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2023-06-15T19:06:46.3599521+00:00",
       "NumProgressed": 656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T23:06:31.5988125+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -985,7 +990,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH001",
@@ -1071,9 +1076,9 @@
       "ID": "ACH011",
       "SetID": "69nfp41",
       "Name": "Intangible",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH012",
@@ -1201,7 +1206,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH028",
@@ -1265,15 +1270,15 @@
       "Name": "All mine!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH037",
@@ -1281,7 +1286,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH038",
@@ -1297,7 +1302,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH040",
@@ -1384,15 +1389,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:06:26.856677+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:06:31.5988121+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:58:43.1851308+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:06:26.8567255+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:58:50.0480208+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:06:31.5988495+00:00"
 }

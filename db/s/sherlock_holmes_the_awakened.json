@@ -1504,9 +1504,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 215
     },
     {
       "ID": "MQ03_3",
@@ -1681,8 +1681,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-15T22:04:26.0598001+00:00",
+  "LastChanged_Achievements": "2023-06-15T23:04:31.4486932+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T21:57:27.4537017+00:00",
-  "LastUpdate_Achievements": "2023-06-15T22:04:26.0598275+00:00"
+  "LastUpdate_Ratings": "2023-06-15T22:57:31.9373267+00:00",
+  "LastUpdate_Achievements": "2023-06-15T23:04:31.4487152+00:00"
 }

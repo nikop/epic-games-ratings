@@ -8,7 +8,7 @@ Rating: 4.89 (Ranked 13)
 | Start with a bang! | 79.00% | ~2,543 |
 | Feeling the beat! | 79.00% | ~2,543 |
 | You can pet the cat! | 74.00% | ~2,382 |
-| Who put gears in there? | 66.00% | ~2,125 |
+| Who put gears in there? | 67.00% | ~2,157 |
 | Cream of the Crop | 61.00% | ~1,964 |
 | Thanks for the free chip, Peppermint! | 60.00% | ~1,931 |
 | You got this, Peppermint? | 55.00% | ~1,770 |
@@ -26,8 +26,8 @@ Rating: 4.89 (Ranked 13)
 | Out in a puff of smoke | 32.00% | ~1,030 |
 | Headliner | 31.00% | ~998 |
 | Time to pay up! | 29.00% | ~934 |
+| Who's the boss now? | 28.00% | ~901 |
 | Perfecter Parry-er! | 28.00% | ~901 |
-| Who's the boss now? | 27.00% | ~869 |
 | I have to read these things? | 27.00% | ~869 |
 | I look cool. But I can look COOLER. | 27.00% | ~869 |
 | There's such a thing as TOO helpful | 21.00% | ~676 |

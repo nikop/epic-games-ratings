@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 443)  
+Rating: 4.57 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,659 (Ranked 150)  
+Progressed: 2,660 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-12 | 2,609 | 0 |
 | 2023-06-13 | 2,625 | 0 |
 | 2023-06-14 | 2,639 | 0 |
-| 2023-06-15 | 2,659 | 0 |
+| 2023-06-15 | 2,660 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

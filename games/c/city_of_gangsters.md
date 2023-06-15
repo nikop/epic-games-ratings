@@ -5,49 +5,49 @@ Rating: 4.25 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,262 |
-| Copacetic Coordination | 16.00% | ~51,569 |
-| Fronting the Money | 14.00% | ~45,123 |
-| The Dawn of Automation | 14.00% | ~45,123 |
-| Extraordinary Logistics | 14.00% | ~45,123 |
-| Dirty Money | 13.00% | ~41,900 |
-| Family First | 13.00% | ~41,900 |
-| Cleaning House | 12.00% | ~38,677 |
-| Room in the Back | 12.00% | ~38,677 |
-| Booze Baron | 11.00% | ~35,454 |
-| Beating the Heat | 10.00% | ~32,231 |
-| Friends on the Force | 10.00% | ~32,231 |
-| Neighborhood Watch | 10.00% | ~32,231 |
-| Core Corps | 8.00% | ~25,785 |
+| Corner Clout | 46.00% | ~148,267 |
+| Copacetic Coordination | 16.00% | ~51,571 |
+| Fronting the Money | 14.00% | ~45,125 |
+| The Dawn of Automation | 14.00% | ~45,125 |
+| Extraordinary Logistics | 14.00% | ~45,125 |
+| Dirty Money | 13.00% | ~41,902 |
+| Family First | 13.00% | ~41,902 |
+| Cleaning House | 12.00% | ~38,678 |
+| Room in the Back | 12.00% | ~38,678 |
+| Booze Baron | 11.00% | ~35,455 |
+| Beating the Heat | 10.00% | ~32,232 |
+| Friends on the Force | 10.00% | ~32,232 |
+| Neighborhood Watch | 10.00% | ~32,232 |
+| Core Corps | 8.00% | ~25,786 |
 | Sizeable Stash | 7.00% | ~22,562 |
 | Street Fighter | 7.00% | ~22,562 |
 | Friendly Gestures | 7.00% | ~22,562 |
 | People Person | 7.00% | ~22,562 |
 | Liquor Lord | 6.00% | ~19,339 |
 | Show ‘em the Sugar | 6.00% | ~19,339 |
-| Street Knowledge | 5.00% | ~16,115 |
-| Oh Captain | 5.00% | ~16,115 |
-| Branching Out | 5.00% | ~16,115 |
-| Improvement Missions | 5.00% | ~16,115 |
-| Opportunity Knocked | 5.00% | ~16,115 |
-| City of Big Shoulders | 5.00% | ~16,115 |
-| Safety in Numbers | 5.00% | ~16,115 |
-| Moving Experiences | 5.00% | ~16,115 |
-| Mission Mastery | 5.00% | ~16,115 |
-| Wise Head | 5.00% | ~16,115 |
-| Killing Them Softly | 5.00% | ~16,115 |
-| Considerable Clams | 4.00% | ~12,892 |
-| Gin Joint | 4.00% | ~12,892 |
-| An Affront to the Enemy | 4.00% | ~12,892 |
-| Friends from Back Home | 4.00% | ~12,892 |
-| Half Century Mark | 4.00% | ~12,892 |
-| Corner Opportunities | 3.00% | ~9,669 |
-| 2122 North Clark Street | 3.00% | ~9,669 |
-| Copious Cabbage | 3.00% | ~9,669 |
-| Sockdolager | 3.00% | ~9,669 |
-| Still Stalwart | 3.00% | ~9,669 |
-| Bees Knees Bootlegger | 3.00% | ~9,669 |
-| Tighten the Screws | 3.00% | ~9,669 |
+| Street Knowledge | 5.00% | ~16,116 |
+| Oh Captain | 5.00% | ~16,116 |
+| Branching Out | 5.00% | ~16,116 |
+| Improvement Missions | 5.00% | ~16,116 |
+| Opportunity Knocked | 5.00% | ~16,116 |
+| City of Big Shoulders | 5.00% | ~16,116 |
+| Safety in Numbers | 5.00% | ~16,116 |
+| Moving Experiences | 5.00% | ~16,116 |
+| Mission Mastery | 5.00% | ~16,116 |
+| Wise Head | 5.00% | ~16,116 |
+| Killing Them Softly | 5.00% | ~16,116 |
+| Considerable Clams | 4.00% | ~12,893 |
+| Gin Joint | 4.00% | ~12,893 |
+| An Affront to the Enemy | 4.00% | ~12,893 |
+| Friends from Back Home | 4.00% | ~12,893 |
+| Half Century Mark | 4.00% | ~12,893 |
+| Corner Opportunities | 3.00% | ~9,670 |
+| 2122 North Clark Street | 3.00% | ~9,670 |
+| Copious Cabbage | 3.00% | ~9,670 |
+| Sockdolager | 3.00% | ~9,670 |
+| Still Stalwart | 3.00% | ~9,670 |
+| Bees Knees Bootlegger | 3.00% | ~9,670 |
+| Tighten the Screws | 3.00% | ~9,670 |
 | One of Us | 2.00% | ~6,446 |
 | Baker’s Dozen | 2.00% | ~6,446 |
 | Dropping the Dime | 2.00% | ~6,446 |
@@ -61,7 +61,7 @@ Rating: 4.25 (Ranked 797)
 | Cat’s Meow Clubs | 1.00% | ~3,223 |
 | Determined Deliveries | 0.90% | ~2,901 |
 | Stepping It Up | 0.90% | ~2,901 |
-| Crossing Over | 0.80% | ~2,578 |
+| Crossing Over | 0.80% | ~2,579 |
 | Boots in the Ground | 0.70% | ~2,256 |
 | Getting Fancy | 0.70% | ~2,256 |
 | Homemade Hooch | 0.40% | ~1,289 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 797)
 | High Pillow | 0.10% | ~322 |
 | Station Master | 0.10% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322,309 (Ranked 40)  
+Progressed: 322,320 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.00%) (Ranked 224)
 | 2023-06-12 | 321,601 | 4 |
 | 2023-06-13 | 321,865 | 5 |
 | 2023-06-14 | 322,101 | 5 |
-| 2023-06-15 | 322,309 | 5 |
+| 2023-06-15 | 322,320 | 5 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 466)  
 Sum: 94 (Ranked 406)  
