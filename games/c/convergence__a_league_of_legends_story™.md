@@ -18,6 +18,7 @@
 | No, Thanks! | 8.00% | ~55 |
 | Breaking Down Barriers | 8.00% | ~55 |
 | The Wicked Twins | 8.00% | ~55 |
+| Fast Learner | 8.00% | ~55 |
 | Immaculate Aim | 8.00% | ~55 |
 | The Brass Boss | 8.00% | ~55 |
 | Like Clockwork | 7.00% | ~48 |
@@ -26,7 +27,6 @@
 | The Loose Cannon | 7.00% | ~48 |
 | Honest Mistake | 7.00% | ~48 |
 | Golem Chaser | 7.00% | ~48 |
-| Fast Learner | 7.00% | ~48 |
 | Check Your Pulse | 7.00% | ~48 |
 | Right On Time | 6.00% | ~41 |
 | Street Style | 6.00% | ~41 |
@@ -35,6 +35,7 @@
 | Family Memories | 5.00% | ~34 |
 | Ask Questions Later | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~28 |
+| Factorywood Explorer | 4.00% | ~28 |
 | Sump Explorer | 4.00% | ~28 |
 | Syron for Hope | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
@@ -43,7 +44,6 @@
 | Sartorialist | 3.00% | ~21 |
 | Cultivair Explorer | 3.00% | ~21 |
 | Entresol Explorer | 3.00% | ~21 |
-| Factorywood Explorer | 3.00% | ~21 |
 | Fairgrounds Explorer | 3.00% | ~21 |
 | Clovemary for Remembering | 2.00% | ~14 |
 | Hexlock for Protection | 2.00% | ~14 |
@@ -58,8 +58,8 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689 (Ranked 191)  
-Completed: 1 (0.15%) (Ranked 161)  
+Progressed: 690 (Ranked 191)  
+Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,3 +86,4 @@ Completed: 1 (0.15%) (Ranked 161)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
+| 2023-06-15 | 690 | 1 |

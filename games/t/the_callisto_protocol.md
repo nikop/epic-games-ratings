@@ -1,24 +1,24 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 845)  
+Rating: 4.18 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,291 |
-| The Outer Way | 14.00% | ~2,138 |
-| Desperate Times | 13.00% | ~1,985 |
-| Paper Jams | 11.00% | ~1,680 |
-| Chew 'Em Up | 10.00% | ~1,527 |
-| Reforged | 10.00% | ~1,527 |
+| Flesh Wound | 15.00% | ~2,292 |
+| The Outer Way | 14.00% | ~2,139 |
+| Desperate Times | 13.00% | ~1,986 |
+| Paper Jams | 11.00% | ~1,681 |
+| Chew 'Em Up | 10.00% | ~1,528 |
+| Reforged | 10.00% | ~1,528 |
 | Workplace Hazard | 9.00% | ~1,375 |
 | If the SHU Fits... | 9.00% | ~1,375 |
 | Giving Back | 7.00% | ~1,069 |
 | Get a Grip | 7.00% | ~1,069 |
 | Without A Paddle | 7.00% | ~1,069 |
-| Terminated | 6.00% | ~916 |
-| In the Pipe, Five by Five | 6.00% | ~916 |
-| Crash Site | 6.00% | ~916 |
+| Terminated | 6.00% | ~917 |
+| In the Pipe, Five by Five | 6.00% | ~917 |
+| Crash Site | 6.00% | ~917 |
 | You Need a Gun | 5.00% | ~764 |
 | Two Heads Are Better Than One | 5.00% | ~764 |
 | Float Like A Butterfly | 5.00% | ~764 |
@@ -29,13 +29,13 @@ Rating: 4.18 (Ranked 845)
 | The Commonality | 3.00% | ~458 |
 | Big Game Hunter | 3.00% | ~96 |
 | Bear Trap | 3.00% | ~96 |
-| I Do Belong Here | 2.00% | ~305 |
-| In Striking Distance | 2.00% | ~305 |
-| Mugshot | 2.00% | ~305 |
+| I Do Belong Here | 2.00% | ~306 |
+| In Striking Distance | 2.00% | ~306 |
+| Mugshot | 2.00% | ~306 |
 | Big Spender | 2.00% | ~64 |
 | Parole Denied | 1.00% | ~32 |
 | Hoard Mode | 1.00% | ~32 |
-| Grim Reaper | 0.90% | ~137 |
+| Grim Reaper | 0.90% | ~138 |
 | Recidivist | 0.70% | ~22 |
 | Lifer | 0.70% | ~22 |
 | Armed to the Teeth | 0.30% | ~10 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 845)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,273 (Ranked 103)  
+Progressed: 15,278 (Ranked 103)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
+| 2023-06-15 | 15,278 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 311 (Ranked 329)  

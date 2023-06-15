@@ -6,18 +6,18 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,100 |
-| Say goodbye, creep! | 65.00% | ~27,816 |
-| Blood splattered | 65.00% | ~27,816 |
-| Choo choo! | 62.00% | ~26,532 |
-| Groovy | 61.00% | ~26,104 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,101 |
+| Say goodbye, creep! | 65.00% | ~27,817 |
+| Blood splattered | 65.00% | ~27,817 |
+| Choo choo! | 62.00% | ~26,533 |
+| Groovy | 61.00% | ~26,105 |
 | Cleanup on aisle 4! | 57.00% | ~24,393 |
-| Gold | 50.00% | ~21,397 |
-| The boat can leave now...tell the crew | 48.00% | ~20,541 |
-| Stand back boy! | 47.00% | ~20,113 |
-| Give me something to shoot! | 46.00% | ~19,685 |
-| Weird science | 44.00% | ~18,829 |
-| Chain reaction | 44.00% | ~18,829 |
+| Gold | 50.00% | ~21,398 |
+| The boat can leave now...tell the crew | 48.00% | ~20,542 |
+| Stand back boy! | 47.00% | ~20,114 |
+| Give me something to shoot! | 46.00% | ~19,686 |
+| Weird science | 44.00% | ~18,830 |
+| Chain reaction | 44.00% | ~18,830 |
 | Look mummy! A shark! | 41.00% | ~17,546 |
 | What did you say, Blain? | 41.00% | ~17,546 |
 | In the dark dark woods... | 38.00% | ~16,262 |
@@ -33,8 +33,8 @@ Number of Ratings: 743  (23.09.2022)
 | He did Nazi that coming | 31.00% | ~13,266 |
 | Kill of the week | 31.00% | ~13,266 |
 | I never liked them anyway | 30.00% | ~12,838 |
-| Is it over? | 28.00% | ~11,982 |
-| Got your back | 27.00% | ~11,554 |
+| Is it over? | 28.00% | ~11,983 |
+| Got your back | 27.00% | ~11,555 |
 | Gore soaked | 24.00% | ~10,271 |
 | Shock therapy | 22.00% | ~9,415 |
 | Leave the limbs you've lost | 22.00% | ~9,415 |
@@ -46,7 +46,7 @@ Number of Ratings: 743  (23.09.2022)
 | I'm going deeper underground | 14.00% | ~5,991 |
 | Well equipped | 12.00% | ~5,135 |
 | Into the deep | 12.00% | ~5,135 |
-| Damnedbusters | 9.00% | ~3,851 |
+| Damnedbusters | 9.00% | ~3,852 |
 | I can do anything I want. I got guns | 8.00% | ~3,424 |
 | Send me an angel | 8.00% | ~3,424 |
 | Plane sailing | 7.00% | ~2,996 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~428 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,794 (Ranked 84)  
+Progressed: 42,795 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 25 (0.06%) (Ranked 189)
 | 2023-06-12 | 42,766 | 25 |
 | 2023-06-13 | 42,783 | 25 |
 | 2023-06-14 | 42,794 | 25 |
+| 2023-06-15 | 42,795 | 25 |
 ## Awards
 Max (Great Boss Battles): 789  (Ranked 149)  
 Sum: 2,407 (Ranked 168)  

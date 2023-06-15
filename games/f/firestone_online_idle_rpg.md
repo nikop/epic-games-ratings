@@ -43,6 +43,7 @@ Rating: 4.05 (Ranked 894)
 | Trader | 6.00% | ~84 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
+| Missions Dedication | 5.00% | ~70 |
 | The Expeditioner | 5.00% | ~70 |
 | The father of Dragons | 5.00% | ~70 |
 | Weekly Quest Completionist | 5.00% | ~70 |
@@ -53,7 +54,6 @@ Rating: 4.05 (Ranked 894)
 | Enchanting skill | 4.00% | ~56 |
 | Engineer Mastery | 4.00% | ~56 |
 | Lock And Load | 4.00% | ~56 |
-| Missions Dedication | 4.00% | ~56 |
 | Blueprint Upgrades | 3.00% | ~42 |
 | Sailor | 3.00% | ~42 |
 | Arena Challenger | 2.00% | ~28 |

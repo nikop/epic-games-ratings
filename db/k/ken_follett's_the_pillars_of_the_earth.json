@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13257,
+  "EOS_Progressed": 13258,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4154,6 +4154,11 @@
       "Time": "2023-06-14T22:05:42.3458442+00:00",
       "NumProgressed": 13257,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T00:06:14.947681+00:00",
+      "NumProgressed": 13258,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4205,7 +4210,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "tpote_achievement_15",
@@ -4253,7 +4258,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "tpote_achievement_20",
@@ -4277,7 +4282,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "tpote_achievement_23",
@@ -4325,7 +4330,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "tpote_achievement_29",
@@ -4492,15 +4497,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13257,
+      "Progressed": 13258,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:12.4103485+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:14.9476804+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:00:14.8106189+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:12.4103955+00:00"
+  "LastUpdate_Ratings": "2023-06-15T00:00:18.9183153+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:14.9477243+00:00"
 }

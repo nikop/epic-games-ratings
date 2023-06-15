@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519418,
+  "EOS_Progressed": 519420,
   "EOS_Completed": 425,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6045,6 +6045,11 @@
       "Time": "2023-06-14T23:06:20.8965478+00:00",
       "NumProgressed": 519418,
       "NumCompleted": 425
+    },
+    {
+      "Time": "2023-06-15T00:06:23.6927699+00:00",
+      "NumProgressed": 519420,
+      "NumCompleted": 425
     }
   ],
   "TotalAchievements": 57,
@@ -6056,7 +6061,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 119466
+      "UsersEstimate": 119467
     },
     {
       "ID": "10",
@@ -6064,7 +6069,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233738
+      "UsersEstimate": 233739
     },
     {
       "ID": "11",
@@ -6072,7 +6077,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 363593
+      "UsersEstimate": 363594
     },
     {
       "ID": "12",
@@ -6088,7 +6093,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67524
+      "UsersEstimate": 67525
     },
     {
       "ID": "14",
@@ -6136,7 +6141,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 322039
+      "UsersEstimate": 322040
     },
     {
       "ID": "2",
@@ -6152,7 +6157,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124660
+      "UsersEstimate": 124661
     },
     {
       "ID": "21",
@@ -6280,7 +6285,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259709
+      "UsersEstimate": 259710
     },
     {
       "ID": "36",
@@ -6312,7 +6317,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176602
+      "UsersEstimate": 176603
     },
     {
       "ID": "4",
@@ -6384,7 +6389,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 322039
+      "UsersEstimate": 322040
     },
     {
       "ID": "48",
@@ -6400,7 +6405,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176602
+      "UsersEstimate": 176603
     },
     {
       "ID": "5",
@@ -6432,7 +6437,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 238932
+      "UsersEstimate": 238933
     },
     {
       "ID": "53",
@@ -6440,7 +6445,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 119466
+      "UsersEstimate": 119467
     },
     {
       "ID": "54",
@@ -6511,15 +6516,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 519418,
+      "Progressed": 519420,
       "Completed": 425
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:20.8965474+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:23.6927694+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:25.4826628+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:57:30.5480484+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:20.8966179+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:57:33.4250721+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:23.6928378+00:00"
 }

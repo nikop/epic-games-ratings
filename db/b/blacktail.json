@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-06-14T21:06:14.9638525+00:00",
       "NumProgressed": 486,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T00:06:24.7828436+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -949,7 +954,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "DevilDetail",
@@ -1117,7 +1122,7 @@
       "Name": "Uprooting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TheGuardian",
@@ -1165,7 +1170,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "YagaProfessional",
@@ -1180,7 +1185,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 1
     }
   ],
@@ -1188,8 +1193,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:22.1016714+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:24.7828428+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:58:02.9760345+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:22.1016964+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:58:06.4337958+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:24.7828661+00:00"
 }

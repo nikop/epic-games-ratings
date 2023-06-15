@@ -3,8 +3,8 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1294,6 +1294,11 @@
       "Time": "2023-06-14T23:05:49.6735513+00:00",
       "NumProgressed": 689,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T00:05:52.8986144+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1407,9 +1412,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "FairgroundsChests1",
@@ -1631,9 +1636,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "SpeedRun",
@@ -1728,14 +1733,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:05:49.673551+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:05:52.8986139+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:59:38.3460711+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:05:49.6735991+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:59:40.9693956+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:05:52.8986559+00:00"
 }

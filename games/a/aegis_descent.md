@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~359 |
-| Scavenger | 74.00% | ~283 |
-| Line of Duty | 72.00% | ~275 |
-| Gunner | 56.00% | ~214 |
-| DocKing | 46.00% | ~176 |
-| What-A-Shot | 44.00% | ~168 |
-| Batteries Included | 39.00% | ~149 |
+| Clean Sweep | 94.00% | ~361 |
+| Scavenger | 74.00% | ~284 |
+| Line of Duty | 72.00% | ~276 |
+| Gunner | 56.00% | ~215 |
+| DocKing | 46.00% | ~177 |
+| What-A-Shot | 44.00% | ~169 |
+| Batteries Included | 39.00% | ~150 |
 | Death from Above | 36.00% | ~138 |
-| Hull King | 27.00% | ~103 |
-| Boss Down | 20.00% | ~76 |
-| Extra Ammo | 20.00% | ~76 |
-| Hazardous Duty | 18.00% | ~69 |
+| Hull King | 27.00% | ~104 |
+| Boss Down | 20.00% | ~77 |
+| Extra Ammo | 20.00% | ~77 |
 | Splash Damage | 18.00% | ~69 |
+| Hazardous Duty | 17.00% | ~65 |
 | Perky | 16.00% | ~61 |
-| Salvage | 12.00% | ~46 |
 | Perk King | 11.00% | ~42 |
+| Salvage | 11.00% | ~42 |
 | Shocking | 11.00% | ~42 |
 | Perfect Timing | 10.00% | ~38 |
 | Sixty Seconds | 10.00% | ~38 |
@@ -30,7 +30,7 @@
 | The Disruptor | 4.00% | ~15 |
 | Early Bird | 4.00% | ~15 |
 | First Victory | 4.00% | ~15 |
-| Swiss Cheese | 3.00% | ~11 |
+| Swiss Cheese | 3.00% | ~12 |
 | Heavy Metal | 2.00% | ~8 |
 | Mister Fix It | 2.00% | ~8 |
 | Power Up | 2.00% | ~8 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 382 (Ranked 219)  
+Progressed: 384 (Ranked 218)  
 Completed: 1 (0.26%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 1 (0.26%) (Ranked 143)
 | 2023-06-12 | 379 | 1 |
 | 2023-06-13 | 380 | 1 |
 | 2023-06-14 | 382 | 1 |
+| 2023-06-15 | 384 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

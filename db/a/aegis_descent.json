@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -207,6 +207,11 @@
       "Time": "2023-06-14T22:02:13.7774643+00:00",
       "NumProgressed": 382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T00:02:16.8725953+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -218,7 +223,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Award_BigSpender",
@@ -234,7 +239,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Award_BumperCar",
@@ -258,7 +263,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 361
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -290,7 +295,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Award_EarlyBird",
@@ -306,7 +311,7 @@
       "Name": "Extra Ammo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Award_FinalAscension",
@@ -330,7 +335,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Award_HalfwayThere",
@@ -352,9 +357,9 @@
       "ID": "Award_HazardousDuty",
       "SetID": "9ojec6n",
       "Name": "Hazardous Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "Award_HeavyMetal",
@@ -370,7 +375,7 @@
       "Name": "Hull King",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Award_IntelKing",
@@ -394,7 +399,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -456,9 +461,9 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "Award_Scavenger",
@@ -466,7 +471,7 @@
       "Name": "Scavenger",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Award_ShellShock",
@@ -522,7 +527,7 @@
       "Name": "Swiss Cheese",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Award_TheCannoneer",
@@ -562,14 +567,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 384,
       "Completed": 1
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:02:19.8357524+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:02:16.8725948+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.2611684+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:58:26.1882998+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:02:19.8357887+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:58:29.2704323+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:02:16.8726298+00:00"
 }

@@ -1550,9 +1550,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65051,
+  "EOS_Progressed": 65061,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1061,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6360,6 +6360,11 @@
       "Time": "2023-06-14T23:06:37.7837717+00:00",
       "NumProgressed": 65051,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-15T00:06:40.9088538+00:00",
+      "NumProgressed": 65061,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6555,7 +6560,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6835,7 +6840,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -6858,13 +6863,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65051,
+      "Progressed": 65061,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35331,
+      "Progressed": 35341,
       "Completed": 2646
     }
   ],
@@ -6872,8 +6877,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-14T20:59:54.3646999+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:37.7837714+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:40.9088534+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:59:59.1642238+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:37.7838425+00:00"
+  "LastUpdate_Ratings": "2023-06-15T00:00:03.6555841+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:40.9089247+00:00"
 }

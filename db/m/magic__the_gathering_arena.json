@@ -4,7 +4,7 @@
   "ProductSlug": "mtg-arena",
   "Ranking_Rating": 619,
   "Ranking_Popularity": 34,
-  "Ranking_PopularitySum": 16,
+  "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 335,
@@ -6569,10 +6569,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 85853,
       "NumberOfAwardsMax": 10536
+    },
+    {
+      "Time": "2023-06-14T23:58:23.1665173+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 85859,
+      "NumberOfAwardsMax": 10536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85853,
+  "NumberOfAwards": 85859,
   "NumberOfAwardsMax": 10536,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6592,7 +6598,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8574
+      "Count": 8580
     },
     {
       "Text": "This game is Relaxing",
@@ -6654,8 +6660,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-06-14T19:58:37.6850666+00:00",
+  "LastChanged": "2023-06-14T23:58:23.1665172+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:21.6081292+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:58:19.7101203+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:04:39.3640437+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:58:23.1665178+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:04:44.1268794+00:00"
 }

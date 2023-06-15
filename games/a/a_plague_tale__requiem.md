@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,657 |
+| Under a New Sun | 92.00% | ~10,658 |
 | Newcomers | 77.00% | ~8,920 |
-| A Burden of Blood | 72.00% | ~8,340 |
-| Protector's Duty | 68.00% | ~7,877 |
-| Alchemist | 67.00% | ~7,761 |
-| In our Wake | 66.00% | ~7,645 |
-| Leaving all Behind | 63.00% | ~7,298 |
-| Felons | 60.00% | ~6,950 |
+| A Burden of Blood | 72.00% | ~8,341 |
+| Protector's Duty | 68.00% | ~7,878 |
+| Alchemist | 67.00% | ~7,762 |
+| In our Wake | 66.00% | ~7,646 |
+| Leaving all Behind | 63.00% | ~7,299 |
+| Felons | 60.00% | ~6,951 |
 | A Sea of Promises | 58.00% | ~6,719 |
-| Tales and Revelations | 55.00% | ~6,371 |
+| Tales and Revelations | 55.00% | ~6,372 |
 | Bloodline | 50.00% | ~5,792 |
 | The Cradle of Centuries | 46.00% | ~5,329 |
-| The Life We Deserve | 43.00% | ~4,981 |
-| Night guard | 41.00% | ~4,749 |
+| The Life We Deserve | 44.00% | ~5,097 |
+| Night guard | 41.00% | ~4,750 |
 | Nothing Left | 37.00% | ~4,286 |
-| Healing our Wounds | 35.00% | ~4,054 |
+| Healing our Wounds | 35.00% | ~4,055 |
 | Dying Sun | 31.00% | ~3,591 |
 | Improved crossbow | 26.00% | ~3,012 |
-| King Hugo | 23.00% | ~2,664 |
-| Mercy | 23.00% | ~2,664 |
-| Perfect shot | 22.00% | ~2,548 |
+| King Hugo | 23.00% | ~2,665 |
+| Mercy | 23.00% | ~2,665 |
+| Perfect shot | 22.00% | ~2,549 |
 | Effective instruments | 21.00% | ~2,433 |
 | Perfect throw | 21.00% | ~2,433 |
 | Knights! | 19.00% | ~2,201 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 156)
 | Explorer | 1.00% | ~116 |
 | Malignant | 1.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,584 (Ranked 109)  
+Progressed: 11,585 (Ranked 109)  
 Completed: 33 (0.28%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 33 (0.28%) (Ranked 141)
 | 2023-06-12 | 11,494 | 33 |
 | 2023-06-13 | 11,524 | 33 |
 | 2023-06-14 | 11,584 | 33 |
+| 2023-06-15 | 11,585 | 33 |
 ## Awards
 Max (Great Boss Battles): 405  (Ranked 204)  
 Sum: 581 (Ranked 288)  

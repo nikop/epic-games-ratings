@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 1.00% | ~907 |
 | The Cursed Farmer | 1.00% | ~907 |
 | The Mad Wizard | 1.00% | ~907 |
-| The Ring of Regeneration | 0.90% | ~816 |
+| The Ring of Regeneration | 0.90% | ~817 |
 | The Court of Storms | 0.90% | ~513 |
 | Beware the Jabberwock | 0.80% | ~456 |
 | Were-verpowered | 0.70% | ~635 |
@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~171 |
 | Close Escort | 0.30% | ~272 |
 | Constant Banditry | 0.30% | ~272 |
+| Easily Distracted | 0.30% | ~272 |
 | Overdue Rendezvous | 0.30% | ~272 |
 | Witty Riposting | 0.30% | ~171 |
 | How Far Away is Thay | 0.30% | ~171 |
@@ -296,7 +297,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.20% | ~114 |
 | The Long Haul | 0.20% | ~181 |
 | Lost in the Deep | 0.20% | ~181 |
-| Easily Distracted | 0.20% | ~181 |
 | Rude Welcome | 0.20% | ~181 |
 | Moose Tracks | 0.20% | ~114 |
 | An Awakened Axe | 0.20% | ~114 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,722 (Ranked 64)  
+Progressed: 90,725 (Ranked 64)  
 Completed: 1,934 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,6 +556,7 @@ Completed: 1,934 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
+| 2023-06-15 | 90,725 | 1,934 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,110 (Ranked 37)  

@@ -1,22 +1,22 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 721)  
+Rating: 4.36 (Ranked 722)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,979 |
-| INFUSED WITH LIGHT | 52.00% | ~30,253 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,981 |
+| INFUSED WITH LIGHT | 52.00% | ~30,254 |
 | FOXIN' AROUND | 28.00% | ~16,290 |
-| FETCH | 27.00% | ~15,708 |
-| BLOOMS OF LIGHT | 26.00% | ~15,126 |
-| BEST FRIENDS | 22.00% | ~12,799 |
-| AWAKEN | 21.00% | ~12,217 |
+| FETCH | 27.00% | ~15,709 |
+| BLOOMS OF LIGHT | 26.00% | ~15,127 |
+| BEST FRIENDS | 22.00% | ~12,800 |
+| AWAKEN | 21.00% | ~12,218 |
 | ERADICATE | 20.00% | ~11,636 |
 | SPIRIT BARK | 20.00% | ~11,636 |
 | GARDEN OF LIGHT | 18.00% | ~10,472 |
-| SPIRIT FORM | 16.00% | ~9,308 |
+| SPIRIT FORM | 16.00% | ~9,309 |
 | UPROOTING DARKNESS | 15.00% | ~8,727 |
 | WRITTEN IN STONE | 15.00% | ~8,727 |
 | WEIGHTLESS | 11.00% | ~6,400 |
@@ -24,14 +24,14 @@ Number of Ratings: 1,175  (23.09.2022)
 | OLD COMPANION | 8.00% | ~4,654 |
 | PLAGUE DOCTOR | 8.00% | ~4,654 |
 | SPIRITED AWAY | 8.00% | ~4,654 |
-| MATCH MAKER | 7.00% | ~4,072 |
-| NORTHERN LIGHTS | 7.00% | ~4,072 |
+| MATCH MAKER | 7.00% | ~4,073 |
+| NORTHERN LIGHTS | 7.00% | ~4,073 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,327 |
 | ANCIENT HISTORY | 3.00% | ~1,745 |
 | NONE FORGOTTEN | 2.00% | ~1,164 |
 | KINDRED SPIRITS | 0.60% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,178 (Ranked 75)  
+Progressed: 58,180 (Ranked 75)  
 Completed: 292 (0.50%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 292 (0.50%) (Ranked 118)
 | 2023-06-12 | 57,972 | 290 |
 | 2023-06-13 | 58,084 | 291 |
 | 2023-06-14 | 58,178 | 292 |
+| 2023-06-15 | 58,180 | 292 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 470)  
 Sum: 93 (Ranked 408)  

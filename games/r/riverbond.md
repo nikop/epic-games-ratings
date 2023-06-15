@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~363,593 |
-| Now You're Talking | 62.00% | ~322,039 |
-| Steel Yourself | 62.00% | ~322,039 |
-| Window Dressing | 50.00% | ~259,709 |
-| Trigger Happy | 46.00% | ~238,932 |
-| Riverborn | 45.00% | ~233,738 |
-| Starry Eyed | 34.00% | ~176,602 |
-| Poking Around | 34.00% | ~176,602 |
-| Talk of the Town | 24.00% | ~124,660 |
-| AAARR! | 23.00% | ~119,466 |
-| Hello Darkness | 23.00% | ~119,466 |
+| First Step | 70.00% | ~363,594 |
+| Now You're Talking | 62.00% | ~322,040 |
+| Steel Yourself | 62.00% | ~322,040 |
+| Window Dressing | 50.00% | ~259,710 |
+| Trigger Happy | 46.00% | ~238,933 |
+| Riverborn | 45.00% | ~233,739 |
+| Starry Eyed | 34.00% | ~176,603 |
+| Poking Around | 34.00% | ~176,603 |
+| Talk of the Town | 24.00% | ~124,661 |
+| AAARR! | 23.00% | ~119,467 |
+| Hello Darkness | 23.00% | ~119,467 |
 | Wind At Our Backs | 22.00% | ~114,272 |
 | To the Beat | 20.00% | ~103,884 |
 | Sunny Shores | 17.00% | ~88,301 |
 | Sunday Best | 16.00% | ~83,107 |
 | To Victory! | 15.00% | ~77,913 |
 | Two of a Kind | 14.00% | ~72,719 |
-| Keep On Trucking | 13.00% | ~67,524 |
+| Keep On Trucking | 13.00% | ~67,525 |
 | Going on an Adventure | 11.00% | ~57,136 |
 | Make Peace, Not War | 11.00% | ~57,136 |
 | Walking The Line | 10.00% | ~51,942 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,558 |
 | Point Taken | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,418 (Ranked 29)  
+Progressed: 519,420 (Ranked 29)  
 Completed: 425 (0.08%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 425 (0.08%) (Ranked 180)
 | 2023-06-12 | 519,259 | 422 |
 | 2023-06-13 | 519,339 | 423 |
 | 2023-06-14 | 519,418 | 425 |
+| 2023-06-15 | 519,420 | 425 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

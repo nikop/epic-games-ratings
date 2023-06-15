@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2154,
+  "EOS_Progressed": 2155,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-06-14T14:06:53.510252+00:00",
       "NumProgressed": 2154,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-15T00:06:28.5165014+00:00",
+      "NumProgressed": 2155,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1331,7 +1336,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1355,7 +1360,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "stun_enemies",
@@ -1363,7 +1368,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "trash_truck",
@@ -1378,7 +1383,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2154,
+      "Progressed": 2155,
       "Completed": 9
     }
   ],
@@ -1386,8 +1391,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:25.9048301+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:28.5165009+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.8202637+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:00:31.9072775+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:25.9048478+00:00"
+  "LastUpdate_Ratings": "2023-06-15T00:00:37.4556081+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:28.5165162+00:00"
 }

@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2857,
+  "EOS_Progressed": 2862,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3563,6 +3563,11 @@
       "Time": "2023-06-14T23:06:29.3344621+00:00",
       "NumProgressed": 2857,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T00:06:32.1387235+00:00",
+      "NumProgressed": 2862,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3574,7 +3579,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3582,7 +3587,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3622,15 +3627,15 @@
       "Name": "Fields of Glory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 229
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3638,7 +3643,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3654,7 +3659,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 859
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3702,7 +3707,7 @@
       "Name": "Skirmisher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3710,7 +3715,7 @@
       "Name": "Sharpshooter",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3742,7 +3747,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 716
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3774,7 +3779,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3790,7 +3795,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -3798,7 +3803,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3822,7 +3827,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3836,9 +3841,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3886,7 +3891,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3942,23 +3947,23 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -3966,7 +3971,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4004,9 +4009,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -4141,13 +4146,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2808,
+      "Progressed": 2813,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2857,
+      "Progressed": 2862,
       "Completed": 2
     }
   ],
@@ -4155,8 +4160,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:29.3344617+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:32.1387228+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-14T23:00:47.1873798+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:29.3345341+00:00"
+  "LastUpdate_Ratings": "2023-06-15T00:00:53.0345206+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:32.1387904+00:00"
 }

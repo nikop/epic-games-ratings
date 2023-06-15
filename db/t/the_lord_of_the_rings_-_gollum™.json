@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "Chapter5",
@@ -1139,8 +1139,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-14T23:06:13.536193+00:00",
+  "LastChanged_Achievements": "2023-06-15T00:06:16.0448118+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-14T22:57:54.3352871+00:00",
-  "LastUpdate_Achievements": "2023-06-14T23:06:13.536221+00:00"
+  "LastUpdate_Ratings": "2023-06-14T23:57:57.2990779+00:00",
+  "LastUpdate_Achievements": "2023-06-15T00:06:16.0448382+00:00"
 }

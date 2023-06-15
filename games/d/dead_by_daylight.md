@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.40% | ~2,220 |
-| Resurgence | 0.40% | ~2,220 |
-| Preemptive Strike | 0.40% | ~2,220 |
-| Humanitarian | 0.40% | ~2,220 |
-| Wounded Healer | 0.30% | ~1,665 |
-| Close Shave | 0.30% | ~1,665 |
-| Flight to Freedom | 0.30% | ~1,665 |
-| Unforgettable Getaway | 0.20% | ~1,110 |
-| Cutting Out | 0.20% | ~1,110 |
-| First to the Punch | 0.20% | ~1,110 |
-| Operation: Survival | 0.20% | ~1,110 |
-| Old West Oasis | 0.20% | ~1,110 |
-| Classy Act | 0.20% | ~1,110 |
-| Every Last Drop | 0.20% | ~1,110 |
-| Raccoon City Recruit | 0.20% | ~1,110 |
-| With Scars to Show | 0.20% | ~1,110 |
-| A Fast Death | 0.20% | ~1,110 |
-| Lifting The Fog | 0.20% | ~1,110 |
-| Chorus of Chaos | 0.20% | ~1,110 |
+| Healthy Obsession | 0.40% | ~2,221 |
+| Resurgence | 0.40% | ~2,221 |
+| Preemptive Strike | 0.40% | ~2,221 |
+| Humanitarian | 0.40% | ~2,221 |
+| Wounded Healer | 0.30% | ~1,666 |
+| Close Shave | 0.30% | ~1,666 |
+| Flight to Freedom | 0.30% | ~1,666 |
+| Unforgettable Getaway | 0.20% | ~1,111 |
+| Cutting Out | 0.20% | ~1,111 |
+| First to the Punch | 0.20% | ~1,111 |
+| Operation: Survival | 0.20% | ~1,111 |
+| Old West Oasis | 0.20% | ~1,111 |
+| Classy Act | 0.20% | ~1,111 |
+| Every Last Drop | 0.20% | ~1,111 |
+| Raccoon City Recruit | 0.20% | ~1,111 |
+| With Scars to Show | 0.20% | ~1,111 |
+| A Fast Death | 0.20% | ~1,111 |
+| Lifting The Fog | 0.20% | ~1,111 |
+| Chorus of Chaos | 0.20% | ~1,111 |
 | The Grand Sacrifice | 0.10% | ~555 |
 | A bite for the Entity | 0.10% | ~555 |
 | A feast for the Entity | 0.10% | ~555 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~555 |
 | Adept Gabriel | 0.10% | ~555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,102 (Ranked 27)  
+Progressed: 555,253 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
+| 2023-06-15 | 555,253 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
 Sum: 227,336 (Ranked 12)  
