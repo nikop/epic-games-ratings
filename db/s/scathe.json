@@ -2,9 +2,9 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -118,6 +118,11 @@
       "Time": "2023-06-15T05:01:16.1431406+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T07:00:26.5528938+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -183,9 +188,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -199,7 +204,7 @@
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
       "SetID": "2ff85j2",
       "Name": "Half a Life",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -303,9 +308,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -368,7 +373,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
@@ -376,8 +381,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:00:22.6312065+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:00:26.5528931+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:40.4813119+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:57:34.7134212+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:00:22.6312893+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:57:30.7642267+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:00:26.5529174+00:00"
 }

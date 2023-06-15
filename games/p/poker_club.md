@@ -5,21 +5,21 @@ Rating: 3.78 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~368,673 |
-| Handy | 40.00% | ~194,038 |
-| Cold Caller | 38.00% | ~184,336 |
-| A Bit On The Side | 26.00% | ~126,125 |
-| Backdoor | 24.00% | ~116,423 |
-| Rank Amateur | 20.00% | ~97,019 |
-| Three Way | 18.00% | ~87,317 |
-| Deadly Assassin | 15.00% | ~72,764 |
-| Gutshot | 13.00% | ~63,062 |
-| Risk It For A Biscuit | 13.00% | ~63,062 |
-| Showoff | 12.00% | ~58,212 |
-| W.H.I.P. | 11.00% | ~53,361 |
-| Bet Bet Bet | 8.00% | ~38,808 |
-| Blindman's Bluff | 8.00% | ~38,808 |
-| Poker Joker | 8.00% | ~38,808 |
+| Pro Creation | 76.00% | ~368,681 |
+| Handy | 40.00% | ~194,043 |
+| Cold Caller | 38.00% | ~184,341 |
+| A Bit On The Side | 26.00% | ~126,128 |
+| Backdoor | 24.00% | ~116,426 |
+| Rank Amateur | 20.00% | ~97,021 |
+| Three Way | 18.00% | ~87,319 |
+| Deadly Assassin | 15.00% | ~72,766 |
+| Gutshot | 13.00% | ~63,064 |
+| Risk It For A Biscuit | 13.00% | ~63,064 |
+| Showoff | 12.00% | ~58,213 |
+| W.H.I.P. | 11.00% | ~53,362 |
+| Bet Bet Bet | 8.00% | ~38,809 |
+| Blindman's Bluff | 8.00% | ~38,809 |
+| Poker Joker | 8.00% | ~38,809 |
 | Dog Eat Dog | 7.00% | ~33,957 |
 | Never Give Up | 7.00% | ~33,957 |
 | Quack Quack | 7.00% | ~33,957 |
@@ -36,7 +36,7 @@ Rating: 3.78 (Ranked 933)
 | Bluffing Eh? | 0.90% | ~4,366 |
 | Go For It | 0.80% | ~3,881 |
 | Regular Punter | 0.60% | ~2,911 |
-| How I Roll | 0.50% | ~2,425 |
+| How I Roll | 0.50% | ~2,426 |
 | Club Legend | 0.40% | ~1,940 |
 | Bring It On | 0.20% | ~970 |
 | Dress To Impress | 0.20% | ~970 |
@@ -51,7 +51,7 @@ Rating: 3.78 (Ranked 933)
 | Rounder | 0.10% | ~485 |
 | Top Dog | 0.10% | ~485 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,096 (Ranked 31)  
+Progressed: 485,107 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.00%) (Ranked 223)
 | 2023-06-12 | 483,657 | 0 |
 | 2023-06-13 | 484,325 | 1 |
 | 2023-06-14 | 484,966 | 1 |
-| 2023-06-15 | 485,096 | 1 |
+| 2023-06-15 | 485,107 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

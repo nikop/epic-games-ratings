@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-06-15T04:06:15.1742826+00:00",
       "NumProgressed": 694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T07:05:10.9933773+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1331,9 +1336,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1349,7 +1354,7 @@
       "Name": "Treasure Trove",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1445,7 +1450,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1485,7 +1490,7 @@
       "Name": "Rail Rat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "HexlockGift",
@@ -1515,9 +1520,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "MapCompletion1",
@@ -1525,7 +1530,7 @@
       "Name": "Cartographer",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "NoCritterSump",
@@ -1603,9 +1608,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "RewindDamage1",
@@ -1709,7 +1714,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WatcherFought",
@@ -1748,14 +1753,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:15.0102995+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:10.9933767+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:59:08.6185555+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:15.0103559+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:59:08.7126361+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:10.9934306+00:00"
 }

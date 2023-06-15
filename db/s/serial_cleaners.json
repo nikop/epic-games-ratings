@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.55,
+  "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -246,6 +246,11 @@
       "Time": "2023-06-15T03:06:35.3500739+00:00",
       "NumProgressed": 196,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-15T07:05:38.3560482+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -399,9 +404,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -448,13 +453,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 5
     }
   ],
@@ -462,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:41.8490197+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:38.3560477+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:35.0981495+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:58:58.6506523+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:41.8490409+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:58:58.0995744+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:38.3560676+00:00"
 }

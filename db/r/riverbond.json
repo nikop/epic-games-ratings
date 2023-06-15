@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519430,
+  "EOS_Progressed": 519431,
   "EOS_Completed": 425,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6075,6 +6075,11 @@
       "Time": "2023-06-15T06:05:39.9226621+00:00",
       "NumProgressed": 519430,
       "NumCompleted": 425
+    },
+    {
+      "Time": "2023-06-15T07:05:36.4113827+00:00",
+      "NumProgressed": 519431,
+      "NumCompleted": 425
     }
   ],
   "TotalAchievements": 57,
@@ -6102,7 +6107,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 363601
+      "UsersEstimate": 363602
     },
     {
       "ID": "12",
@@ -6158,7 +6163,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 77914
+      "UsersEstimate": 77915
     },
     {
       "ID": "19",
@@ -6310,7 +6315,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259715
+      "UsersEstimate": 259716
     },
     {
       "ID": "36",
@@ -6342,7 +6347,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176606
+      "UsersEstimate": 176607
     },
     {
       "ID": "4",
@@ -6430,7 +6435,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176606
+      "UsersEstimate": 176607
     },
     {
       "ID": "5",
@@ -6541,15 +6546,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 519430,
+      "Progressed": 519431,
       "Completed": 425
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:39.9226614+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:36.4113818+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:25.4826628+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:57:25.2618221+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:39.9227553+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:57:20.2547751+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:36.4114699+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,711 |
-| Thorough | 9.00% | ~15,940 |
-| A thief's beginning | 8.00% | ~14,169 |
-| Disguised | 7.00% | ~12,398 |
-| Rollin' | 7.00% | ~12,398 |
-| Tanuki Time | 7.00% | ~12,398 |
+| Genin | 10.00% | ~17,712 |
+| Thorough | 9.00% | ~15,941 |
+| A thief's beginning | 8.00% | ~14,170 |
+| Disguised | 7.00% | ~12,399 |
+| Rollin' | 7.00% | ~12,399 |
+| Tanuki Time | 7.00% | ~12,399 |
 | Jonin | 6.00% | ~10,627 |
 | Rescue Takuma | 6.00% | ~10,627 |
 | Stoned Ox | 6.00% | ~10,627 |
@@ -22,14 +22,14 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 5.00% | ~8,856 |
 | Mugen Unchained | 5.00% | ~8,856 |
 | Warzone | 5.00% | ~8,856 |
-| Okkoto | 4.00% | ~7,084 |
-| Prisoners | 4.00% | ~7,084 |
-| Too Early | 4.00% | ~7,084 |
-| Gear up | 3.00% | ~5,313 |
-| Happy little accidents | 3.00% | ~5,313 |
-| Noboru | 3.00% | ~5,313 |
-| Still Rollin' | 3.00% | ~5,313 |
-| Stoned | 3.00% | ~5,313 |
+| Okkoto | 4.00% | ~7,085 |
+| Prisoners | 4.00% | ~7,085 |
+| Too Early | 4.00% | ~7,085 |
+| Gear up | 3.00% | ~5,314 |
+| Happy little accidents | 3.00% | ~5,314 |
+| Noboru | 3.00% | ~5,314 |
+| Still Rollin' | 3.00% | ~5,314 |
+| Stoned | 3.00% | ~5,314 |
 | Atheist Ox | 2.00% | ~3,542 |
 | It's raining men | 2.00% | ~3,542 |
 | Old Man | 2.00% | ~3,542 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~177 |
 | Release the Kraken | 0.10% | ~177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,111 (Ranked 56)  
+Progressed: 177,123 (Ranked 56)  
 Completed: 52 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 52 (0.03%) (Ranked 197)
 | 2023-06-12 | 176,549 | 52 |
 | 2023-06-13 | 176,809 | 52 |
 | 2023-06-14 | 177,064 | 52 |
-| 2023-06-15 | 177,111 | 52 |
+| 2023-06-15 | 177,123 | 52 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 180)  
 Sum: 4,683 (Ranked 127)  

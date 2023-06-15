@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-06-15T03:06:20.8333921+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-15T07:05:26.0696122+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 16,
@@ -1496,7 +1501,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_THEEND",
@@ -1519,7 +1524,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 39
     }
   ],
@@ -1527,8 +1532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:29.6702344+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:26.0696106+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:58:30.7827718+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:29.6702579+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:58:27.6739173+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:26.0696335+00:00"
 }

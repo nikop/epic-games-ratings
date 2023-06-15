@@ -8,28 +8,28 @@ Rating: 4.31 (Ranked 762)
 | First Blood | 91.00% | ~1,026 |
 | Ranidaphobia | 76.00% | ~857 |
 | Aspiring Editor | 73.00% | ~823 |
-| Gun for Hire | 68.00% | ~766 |
-| I am the law! | 60.00% | ~676 |
+| Gun for Hire | 68.00% | ~767 |
+| I am the law! | 60.00% | ~677 |
 | Lumberjack | 48.00% | ~541 |
 | Croaked | 43.00% | ~485 |
-| Limp Richard | 42.00% | ~473 |
+| Limp Richard | 42.00% | ~474 |
 | From Darkness to Light | 41.00% | ~462 |
 | Exorcist | 40.00% | ~451 |
 | Editor Adept | 39.00% | ~440 |
-| Firestarter | 38.00% | ~428 |
+| Firestarter | 38.00% | ~429 |
 | Giant Killer | 37.00% | ~417 |
-| Sensei | 35.00% | ~394 |
+| Sensei | 35.00% | ~395 |
 | The meaning of Kain | 33.00% | ~372 |
-| Technophobe | 31.00% | ~349 |
+| Technophobe | 31.00% | ~350 |
 | Recycler | 29.00% | ~327 |
 | Are you not entertained? | 26.00% | ~293 |
 | Ganglord | 25.00% | ~282 |
 | Jarhead | 25.00% | ~282 |
-| Infiltrator | 24.00% | ~270 |
-| Pushing Daisy | 24.00% | ~270 |
+| Infiltrator | 24.00% | ~271 |
+| Pushing Daisy | 24.00% | ~271 |
 | Experienced | 22.00% | ~248 |
 | There Can Be Only One! | 21.00% | ~237 |
-| Chain Killer | 20.00% | ~225 |
+| Chain Killer | 20.00% | ~226 |
 | Hold The Line | 19.00% | ~214 |
 | Endgame | 18.00% | ~203 |
 | Savior | 18.00% | ~203 |
@@ -57,7 +57,7 @@ Rating: 4.31 (Ranked 762)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,127 (Ranked 172)  
+Progressed: 1,128 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 1,111 | 0 |
 | 2023-06-13 | 1,118 | 0 |
 | 2023-06-14 | 1,127 | 0 |
+| 2023-06-15 | 1,128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1002,9 +1002,9 @@
       "ID": "DLC3Chapter14",
       "SetID": "50p8kh1",
       "Name": "A broken clock\u2026",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3DifficultyLegendaryIronman",
@@ -1440,8 +1440,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:05:29.8434712+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:04:55.4491278+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:58:51.0615658+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:04:59.6363148+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:58:50.3128927+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:04:55.4492341+00:00"
 }

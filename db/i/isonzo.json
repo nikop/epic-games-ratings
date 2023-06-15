@@ -628,7 +628,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6240,
+  "EOS_Progressed": 6241,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -2748,6 +2748,11 @@
       "Time": "2023-06-14T23:03:35.8487456+00:00",
       "NumProgressed": 6240,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-15T07:03:20.7401792+00:00",
+      "NumProgressed": 6241,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2807,7 +2812,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2831,7 +2836,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -2927,7 +2932,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3031,7 +3036,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -3118,7 +3123,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6240,
+      "Progressed": 6241,
       "Completed": 8
     }
   ],
@@ -3126,8 +3131,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:03:26.4252575+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:03:20.7401785+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:57:28.3088382+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:03:26.4253098+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:57:23.6189996+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:03:20.7402273+00:00"
 }

@@ -30,8 +30,8 @@ Rating: 4.64 (Ranked 317)
 | Disco Roach | 26.00% | ~1,115 |
 | Dawkins Residence | 19.00% | ~815 |
 | Rescue time! | 16.00% | ~686 |
+| New species | 16.00% | ~686 |
 | New order | 15.00% | ~643 |
-| New species | 15.00% | ~643 |
 | A New Hope | 14.00% | ~600 |
 | Enigma | 14.00% | ~600 |
 | Challenger | 12.00% | ~514 |

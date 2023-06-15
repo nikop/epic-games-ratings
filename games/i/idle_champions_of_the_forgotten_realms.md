@@ -219,6 +219,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.20% | ~181 |
 | Spined Nuisances | 0.20% | ~181 |
 | Excavating History | 0.20% | ~181 |
+| Screams of the Dead | 0.20% | ~181 |
 | Towering Expectations | 0.20% | ~181 |
 | Hopelessly Lost | 0.20% | ~181 |
 | Bazaar Exploits | 0.20% | ~181 |
@@ -250,6 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Madcap Adventures | 0.20% | ~181 |
 | Faerûn's Most Neglected | 0.20% | ~114 |
 | Vault of Dragons | 0.20% | ~181 |
+| Vault of Pixies | 0.20% | ~181 |
 | Champions of Waterdeep | 0.20% | ~181 |
 | Elturel Has Fallen | 0.20% | ~181 |
 | Everything is Awful | 0.20% | ~181 |
@@ -406,7 +408,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~57 |
 | Distracted Escape | 0.10% | ~57 |
 | Twilight Twist | 0.10% | ~57 |
-| Screams of the Dead | 0.10% | ~91 |
 | Frantic Excavation | 0.10% | ~91 |
 | Birds of a Feather | 0.10% | ~57 |
 | Guests of the Groom | 0.10% | ~91 |
@@ -431,7 +432,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Meepo's Quest | 0.10% | ~91 |
 | She's Harmless! | 0.10% | ~91 |
 | The Tallest of Kobolds | 0.10% | ~57 |
-| Vault of Pixies | 0.10% | ~91 |
 | Vault of Poison | 0.10% | ~91 |
 | Vault of Cuteness | 0.10% | ~57 |
 | On The Job Learning | 0.10% | ~91 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,733 (Ranked 64)  
-Completed: 1,935 (2.13%) (Ranked 67)  
+Progressed: 90,735 (Ranked 64)  
+Completed: 1,936 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -556,7 +556,7 @@ Completed: 1,935 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,733 | 1,935 |
+| 2023-06-15 | 90,735 | 1,936 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523231,
+  "EOS_Progressed": 1523237,
   "EOS_Completed": 622,
-  "EOS_NewPlayers": 1583,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6260,6 +6260,11 @@
       "Time": "2023-06-15T06:03:59.3149726+00:00",
       "NumProgressed": 1523231,
       "NumCompleted": 622
+    },
+    {
+      "Time": "2023-06-15T07:03:54.0209235+00:00",
+      "NumProgressed": 1523237,
+      "NumCompleted": 622
     }
   ],
   "TotalAchievements": 20,
@@ -6279,7 +6284,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106626
+      "UsersEstimate": 106627
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -6367,7 +6372,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152323
+      "UsersEstimate": 152324
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -6383,7 +6388,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121858
+      "UsersEstimate": 121859
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6430,15 +6435,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523231,
+      "Progressed": 1523237,
       "Completed": 622
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:03:59.3149721+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:03:54.0209229+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:59:40.3875235+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:03:59.3150279+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:59:41.1957481+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:03:54.0209691+00:00"
 }

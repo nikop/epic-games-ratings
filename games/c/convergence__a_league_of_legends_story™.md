@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 12.00% | ~83 |
-| Rail Rat | 10.00% | ~69 |
-| The Steel Shadow | 9.00% | ~62 |
-| Treasure Trove | 9.00% | ~62 |
-| The Mysterious Stranger | 9.00% | ~62 |
-| Make Up For Lost Time | 9.00% | ~62 |
-| Cartographer | 9.00% | ~62 |
-| The Prince in Heels | 9.00% | ~62 |
-| Immaculate Aim | 9.00% | ~62 |
+| Rail Rat | 10.00% | ~70 |
+| Treasure Trove | 9.00% | ~63 |
+| The Mysterious Stranger | 9.00% | ~63 |
+| Cartographer | 9.00% | ~63 |
+| Immaculate Aim | 9.00% | ~63 |
+| The Steel Shadow | 8.00% | ~56 |
+| Make Up For Lost Time | 8.00% | ~56 |
 | Time Flies | 8.00% | ~56 |
 | The Harder They Fall | 8.00% | ~56 |
 | No, Thanks! | 8.00% | ~56 |
 | Breaking Down Barriers | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
+| The Prince in Heels | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
 | Immaculate Aim | 8.00% | ~56 |
 | The Brass Boss | 8.00% | ~56 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694 (Ranked 191)  
+Progressed: 695 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 694 | 1 |
+| 2023-06-15 | 695 | 1 |

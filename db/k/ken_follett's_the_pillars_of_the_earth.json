@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13258,
+  "EOS_Progressed": 13260,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4159,6 +4159,11 @@
       "Time": "2023-06-15T00:06:14.947681+00:00",
       "NumProgressed": 13258,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-15T07:05:29.060005+00:00",
+      "NumProgressed": 13260,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4170,7 +4175,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_10",
@@ -4178,7 +4183,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "tpote_achievement_11",
@@ -4242,7 +4247,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_19",
@@ -4274,7 +4279,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "tpote_achievement_22",
@@ -4298,7 +4303,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_25",
@@ -4346,7 +4351,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "tpote_achievement_30",
@@ -4362,7 +4367,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "tpote_achievement_32",
@@ -4434,7 +4439,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5568
+      "UsersEstimate": 5569
     },
     {
       "ID": "tpote_achievement_40",
@@ -4458,7 +4463,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "tpote_achievement_6",
@@ -4490,22 +4495,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4641
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13258,
+      "Progressed": 13260,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:32.6114628+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:29.0600045+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:59:38.3404041+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:32.6115228+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:59:39.1331516+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:29.0600617+00:00"
 }

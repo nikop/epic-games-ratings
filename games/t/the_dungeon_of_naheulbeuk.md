@@ -60,12 +60,12 @@ Number of Ratings: 118  (23.09.2022)
 | Super-Ultra-Lydian | 7.00% | ~6 |
 | Holistic Adventuring Party | 6.00% | ~5 |
 | Insult to injury | 6.00% | ~5 |
+| A broken clock… | 5.00% | ~4 |
 | Hit snooze | 5.00% | ~4 |
 | Friendly fire | 3.00% | ~3 |
 | I'd rather... Just... Sing! | 3.00% | ~3 |
 | Take your time back in time | 3.00% | ~3 |
 | Deep changes | 3.00% | ~3 |
-| A broken clock… | 3.00% | ~3 |
 | Kudos from your DM | 3.00% | ~3 |
 | Death is for wimps | 3.00% | ~3 |
 | Demisemiquaver | 3.00% | ~3 |

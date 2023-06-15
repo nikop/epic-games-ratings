@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -1747,6 +1747,11 @@
       "Time": "2023-06-14T21:03:35.5706068+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T07:03:11.4561008+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1806,7 +1811,7 @@
       "Name": "Chain Killer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1870,7 +1875,7 @@
       "Name": "Limp Richard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1934,7 +1939,7 @@
       "Name": "Firestarter",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1990,7 +1995,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2006,7 +2011,7 @@
       "Name": "I am the law!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "INFILTRATOR",
@@ -2014,7 +2019,7 @@
       "Name": "Infiltrator",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "LUMBERJACK",
@@ -2046,7 +2051,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2094,7 +2099,7 @@
       "Name": "Sensei",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2126,7 +2131,7 @@
       "Name": "Technophobe",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2165,7 +2170,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 0
     }
   ],
@@ -2173,8 +2178,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:03:17.538788+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:03:11.4561001+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:58:13.0132714+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:03:17.5388452+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:58:10.1318246+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:03:11.4561588+00:00"
 }

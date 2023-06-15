@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,940 |
-| Advancement | 73.00% | ~16,926 |
-| Meticulously Efficient | 64.00% | ~14,839 |
-| Discovery | 62.00% | ~14,375 |
-| Swift Rift Removers | 55.00% | ~12,752 |
-| Fully Upgraded | 54.00% | ~12,520 |
+| Stylish | 86.00% | ~19,941 |
+| Advancement | 73.00% | ~16,927 |
+| Meticulously Efficient | 64.00% | ~14,840 |
+| Discovery | 62.00% | ~14,376 |
+| Swift Rift Removers | 55.00% | ~12,753 |
+| Fully Upgraded | 54.00% | ~12,521 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~12,057 |
 | Cultured | 52.00% | ~12,057 |
-| Vaporous Expansion | 49.00% | ~11,361 |
+| Vaporous Expansion | 49.00% | ~11,362 |
 | Teamwork | 44.00% | ~10,202 |
 | There you are! | 43.00% | ~9,970 |
-| Clutch Capture | 41.00% | ~9,506 |
+| Clutch Capture | 41.00% | ~9,507 |
 | Back Off | 36.00% | ~8,347 |
 | Daily Dose | 35.00% | ~8,115 |
 | Solo Capture | 32.00% | ~7,420 |
@@ -27,21 +27,21 @@ Rating: 4.49 (Ranked 565)
 | We have the best insurance | 27.00% | ~6,260 |
 | Legions | 27.00% | ~6,260 |
 | Summoner | 27.00% | ~6,260 |
-| Pesky Jerks | 26.00% | ~6,028 |
-| Right back at ya | 26.00% | ~6,028 |
-| Stunner | 26.00% | ~6,028 |
-| Animated | 25.00% | ~5,796 |
-| Skilled | 25.00% | ~5,796 |
+| Pesky Jerks | 26.00% | ~6,029 |
+| Right back at ya | 26.00% | ~6,029 |
+| Stunner | 26.00% | ~6,029 |
+| Animated | 25.00% | ~5,797 |
+| Skilled | 25.00% | ~5,797 |
 | Collector | 24.00% | ~5,565 |
 | Ectoplasmic Entity | 24.00% | ~5,565 |
 | Rift Destroyer | 20.00% | ~4,637 |
-| Tobin's Prodigy | 19.00% | ~4,405 |
-| Terrifying | 18.00% | ~4,173 |
+| Tobin's Prodigy | 19.00% | ~4,406 |
+| Terrifying | 18.00% | ~4,174 |
 | Reckless | 17.00% | ~3,942 |
 | Diabolical | 16.00% | ~3,710 |
 | Escape Artist | 16.00% | ~3,710 |
 | Seasoned | 16.00% | ~3,710 |
-| Whoopsie | 11.00% | ~2,550 |
+| Whoopsie | 11.00% | ~2,551 |
 | Liability | 10.00% | ~2,319 |
 | Rivalry | 10.00% | ~2,319 |
 | Fragile Panes | 9.00% | ~2,087 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~232 |
 | Mycophile | 1.00% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,186 (Ranked 93)  
+Progressed: 23,187 (Ranked 93)  
 Completed: 40 (0.17%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 40 (0.17%) (Ranked 154)
 | 2023-06-12 | 23,011 | 40 |
 | 2023-06-13 | 23,060 | 40 |
 | 2023-06-14 | 23,170 | 40 |
-| 2023-06-15 | 23,186 | 40 |
+| 2023-06-15 | 23,187 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
 Sum: 2,116 (Ranked 184)  

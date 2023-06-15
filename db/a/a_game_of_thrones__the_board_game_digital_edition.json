@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15647,
+  "EOS_Progressed": 15650,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6930,6 +6930,11 @@
       "Time": "2023-06-15T06:05:38.7265599+00:00",
       "NumProgressed": 15647,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-15T07:05:35.2411261+00:00",
+      "NumProgressed": 15650,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 22,
@@ -6949,7 +6954,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "1017",
@@ -6957,7 +6962,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "1018",
@@ -6973,7 +6978,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "1020",
@@ -7005,7 +7010,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "1024",
@@ -7045,7 +7050,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "1029",
@@ -7061,7 +7066,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3129
+      "UsersEstimate": 3130
     },
     {
       "ID": "1031",
@@ -7077,7 +7082,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     },
     {
       "ID": "1033",
@@ -7085,7 +7090,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "1034",
@@ -7116,15 +7121,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 15647,
+      "Progressed": 15650,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:05:38.7265593+00:00",
+  "LastChanged_Achievements": "2023-06-15T07:05:35.2411257+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.2764715+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:59:48.81199+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:05:38.7266163+00:00"
+  "LastUpdate_Ratings": "2023-06-15T06:59:50.0414871+00:00",
+  "LastUpdate_Achievements": "2023-06-15T07:05:35.241169+00:00"
 }
