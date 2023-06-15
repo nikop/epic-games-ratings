@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Timewell: Trail Of Celestes](games/t/timewell__trail_of_celestes.md) | 2023-06-15 | - |  | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 2 | - | - |
 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 2023-06-15 | - |  | - | - |
 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 2023-06-15 | - |  | - | - |
@@ -27,7 +26,7 @@
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-28 | - |  | - | - |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | - |  | - | - |
-| [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | - |  | - | - |
+| [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | 73 (1,000 XP) | 0 | - | - |
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-29 | - |  | - | - |
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-06-30 | - |  | - | - |
@@ -309,7 +308,7 @@
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |  | - | - |
 | [POLYGOD](games/p/polygod.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
-| [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2099-01-01 | 21 (1,000 XP) | 0 | - | - |
+| [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2099-01-01 | 21 (1,000 XP) | 1 | - | - |
 | [Primal Survivors](games/5/50d797d4a45a495b94e4abc016ace565.md) | 2099-01-01 | - |  | - | - |
 | [Project Chaos](games/p/project_chaos.md) | 2099-01-01 | - |  | - | - |
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |

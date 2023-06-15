@@ -19,7 +19,7 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.33% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.27% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.26% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
@@ -27,7 +27,7 @@
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
-| 28 | [Scorn](games/s/scorn.md) | 6.86% |
+| 28 | [Scorn](games/s/scorn.md) | 6.85% |
 | 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -39,15 +39,15 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.57% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 47 | [The Complex](games/t/the_complex.md) | 3.21% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.19% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
+| 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
@@ -93,7 +93,7 @@
 | 91 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 92 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 93 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
-| 94 | [Sable](games/s/sable.md) | 0.94% |
+| 94 | [Sable](games/s/sable.md) | 0.95% |
 | 95 | [Hades](games/h/hades.md) | 0.89% |
 | 96 | [Adios](games/a/adios.md) | 0.87% |
 | 97 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
@@ -370,6 +370,7 @@
 | 223 | [Planet Cube - Edge](games/p/planet_cube_-_edge.md) | 0.00% |
 | 223 | [Poi](games/p/poi.md) | 0.00% |
 | 223 | [Poker Club](games/p/poker_club.md) | 0.00% |
+| 223 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 0.00% |
 | 223 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 223 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
 | 223 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
