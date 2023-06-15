@@ -13,21 +13,21 @@
 | Cartographer | 9.00% | ~62 |
 | The Prince in Heels | 9.00% | ~62 |
 | Immaculate Aim | 9.00% | ~62 |
-| Time Flies | 8.00% | ~55 |
-| The Harder They Fall | 8.00% | ~55 |
-| No, Thanks! | 8.00% | ~55 |
-| Breaking Down Barriers | 8.00% | ~55 |
-| The Wicked Twins | 8.00% | ~55 |
-| Fast Learner | 8.00% | ~55 |
-| Immaculate Aim | 8.00% | ~55 |
-| The Brass Boss | 8.00% | ~55 |
-| Like Clockwork | 7.00% | ~48 |
-| The Betrayer | 7.00% | ~48 |
-| The Man Who Shattered Time | 7.00% | ~48 |
-| The Loose Cannon | 7.00% | ~48 |
-| Honest Mistake | 7.00% | ~48 |
-| Golem Chaser | 7.00% | ~48 |
-| Check Your Pulse | 7.00% | ~48 |
+| Time Flies | 8.00% | ~56 |
+| The Harder They Fall | 8.00% | ~56 |
+| No, Thanks! | 8.00% | ~56 |
+| Breaking Down Barriers | 8.00% | ~56 |
+| The Wicked Twins | 8.00% | ~56 |
+| Fast Learner | 8.00% | ~56 |
+| Immaculate Aim | 8.00% | ~56 |
+| The Brass Boss | 8.00% | ~56 |
+| Like Clockwork | 7.00% | ~49 |
+| The Betrayer | 7.00% | ~49 |
+| The Man Who Shattered Time | 7.00% | ~49 |
+| The Loose Cannon | 7.00% | ~49 |
+| Honest Mistake | 7.00% | ~49 |
+| Golem Chaser | 7.00% | ~49 |
+| Check Your Pulse | 7.00% | ~49 |
 | Right On Time | 6.00% | ~42 |
 | Street Style | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692 (Ranked 191)  
+Progressed: 694 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 692 | 1 |
+| 2023-06-15 | 694 | 1 |

@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,999 |
-| That's a Grand Army | 8.00% | ~4,444 |
-| That is mine! | 8.00% | ~4,444 |
-| Victorious! | 8.00% | ~4,444 |
+| Until death do us apart | 9.00% | ~5,000 |
+| That's a Grand Army | 8.00% | ~4,445 |
+| That is mine! | 8.00% | ~4,445 |
+| Victorious! | 8.00% | ~4,445 |
 | Brothers in Arms | 6.00% | ~3,333 |
 | That's a Grand Navy | 6.00% | ~3,333 |
 | Seriously?! | 6.00% | ~3,333 |
-| For the Glory | 5.00% | ~2,777 |
+| For the Glory | 5.00% | ~2,778 |
 | Cold War | 4.00% | ~2,222 |
 | True Catholic | 4.00% | ~2,222 |
-| Defender of the Faith | 3.00% | ~1,666 |
-| It's all about the money | 3.00% | ~1,666 |
-| Respected | 3.00% | ~1,666 |
-| Truly Divine Ruler | 3.00% | ~1,666 |
+| Defender of the Faith | 3.00% | ~1,667 |
+| It's all about the money | 3.00% | ~1,667 |
+| Respected | 3.00% | ~1,667 |
+| Truly Divine Ruler | 3.00% | ~1,667 |
 | Agressive Expander | 2.00% | ~1,111 |
 | Blockader | 2.00% | ~1,111 |
 | Combined Arms | 2.00% | ~1,111 |
@@ -31,14 +31,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,111 |
 | The Princess is in this Castle | 2.00% | ~1,111 |
 | Total Control | 2.00% | ~1,111 |
-| All That's Thine Shall Be Mine | 1.00% | ~555 |
-| Azur semé de lis or | 1.00% | ~555 |
-| Bright Spark | 1.00% | ~555 |
-| City of Cities | 1.00% | ~555 |
-| Factionalism | 1.00% | ~555 |
-| A Golden Empire | 1.00% | ~555 |
-| The Five Colonies | 1.00% | ~555 |
-| This navy can take it all | 1.00% | ~555 |
+| All That's Thine Shall Be Mine | 1.00% | ~556 |
+| Azur semé de lis or | 1.00% | ~556 |
+| Bright Spark | 1.00% | ~556 |
+| City of Cities | 1.00% | ~556 |
+| Factionalism | 1.00% | ~556 |
+| A Golden Empire | 1.00% | ~556 |
+| The Five Colonies | 1.00% | ~556 |
+| This navy can take it all | 1.00% | ~556 |
 | The Emperors new clothes | 0.90% | ~500 |
 | Isn't this the way to India? | 0.90% | ~500 |
 | Market Control | 0.90% | ~500 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,548 (Ranked 76)  
+Progressed: 55,557 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
-| 2023-06-15 | 55,548 | 0 |
+| 2023-06-15 | 55,557 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
 Sum: 44,546 (Ranked 27)  

@@ -8,9 +8,9 @@
 | Con Artist | 21.00% | ~5 |
 | I See Dead People | 21.00% | ~5 |
 | Bedtime Storyteller | 21.00% | ~5 |
+| Electrician | 21.00% | ~5 |
 | I Ain't Afraid of No Ghost | 17.00% | ~4 |
 | Exorcist | 17.00% | ~4 |
-| Electrician | 17.00% | ~4 |
 | Card Sharp | 17.00% | ~4 |
 | Joyrider | 17.00% | ~4 |
 | Top Detective | 8.00% | ~2 |

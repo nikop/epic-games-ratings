@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -380,7 +380,7 @@
   ],
   "EOS_Progressed": 88,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1186,9 +1186,9 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "EndCombatOneHp",
@@ -1218,9 +1218,9 @@
       "ID": "FastKill",
       "SetID": "50chcgj",
       "Name": "Alt\u002BF4",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FollowBraztok",
@@ -1440,8 +1440,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:05:43.4134545+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:05:53.9358835+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:59:27.338939+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:05:43.4135767+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:59:38.7341044+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:05:53.935965+00:00"
 }

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -898,6 +898,11 @@
       "Time": "2023-06-14T20:02:19.4425971+00:00",
       "NumProgressed": 452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T04:01:30.2346193+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -909,7 +914,7 @@
       "Name": "Augmented",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -933,7 +938,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_CITY",
@@ -949,7 +954,7 @@
       "Name": "Cybernetic",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1021,7 +1026,7 @@
       "Name": "Nanonic I",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1059,9 +1064,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1077,15 +1082,15 @@
       "Name": "Terminated I",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1093,7 +1098,7 @@
       "Name": "Terminated III",
       "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1109,7 +1114,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1132,7 +1137,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 0
     }
   ],
@@ -1140,8 +1145,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:09:28.1095788+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:01:30.2346179+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:00:03.8324733+00:00",
-  "LastUpdate_Achievements": "2023-06-15T02:09:28.109605+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:00:21.071222+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:01:30.2346491+00:00"
 }

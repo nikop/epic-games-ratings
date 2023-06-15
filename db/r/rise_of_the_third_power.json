@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Specialist",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-15T02:14:14.500556+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:06:41.0711087+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:59:23.9988471+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:06:25.8477359+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:59:35.3728957+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:06:41.0711218+00:00"
 }

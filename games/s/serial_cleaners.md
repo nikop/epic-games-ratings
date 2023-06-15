@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it goes | 17.00% | ~33 |
-| Clean Conscience | 16.00% | ~31 |
+| Clean Conscience | 17.00% | ~33 |
 | Off to a Good Start | 7.00% | ~14 |
 | Small-time Finder | 7.00% | ~14 |
 | A New Broom Sweeps Clean | 7.00% | ~14 |

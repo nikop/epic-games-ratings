@@ -6455,9 +6455,9 @@
       "Count": 21703
     }
   ],
-  "EOS_Progressed": 555599,
+  "EOS_Progressed": 555738,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 30335,
+  "EOS_NewPlayers": 30371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12310,6 +12310,11 @@
       "Time": "2023-06-15T03:06:56.1825967+00:00",
       "NumProgressed": 555599,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-15T04:07:13.5516719+00:00",
+      "NumProgressed": 555738,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13383,9 +13388,9 @@
       "ID": "ACH_137",
       "SetID": "16jml5b",
       "Name": "Grim Pilgrimage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_138",
@@ -13489,7 +13494,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_151",
@@ -13537,7 +13542,7 @@
       "Name": "Resurgence",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "ACH_157",
@@ -13657,7 +13662,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_172",
@@ -13729,7 +13734,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_181",
@@ -14080,21 +14085,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 555599,
+      "Progressed": 555738,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 555599,
+      "Progressed": 555738,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-15T03:00:45.1071699+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:06:56.1825961+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:07:13.5516715+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:00:45.107171+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:06:56.1832191+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:01:05.2408883+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:07:13.5521234+00:00"
 }

@@ -308,7 +308,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2868,
+  "EOS_Progressed": 2869,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
@@ -3578,6 +3578,11 @@
       "Time": "2023-06-15T03:06:41.6044316+00:00",
       "NumProgressed": 2868,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T04:06:57.7572142+00:00",
+      "NumProgressed": 2869,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3629,7 +3634,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3653,7 +3658,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3669,7 +3674,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3707,9 +3712,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3981,15 +3986,15 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -4156,13 +4161,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2819,
+      "Progressed": 2820,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2868,
+      "Progressed": 2869,
       "Completed": 2
     }
   ],
@@ -4170,8 +4175,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:06:41.6044311+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:06:57.7572136+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T03:00:59.7002727+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:06:41.6045325+00:00"
+  "LastUpdate_Ratings": "2023-06-15T04:01:22.2257594+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:06:57.757282+00:00"
 }

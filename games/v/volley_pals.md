@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beach | 85.00% | ~11 |
+| Beach | 92.00% | ~12 |
 | Library | 77.00% | ~10 |
 | Space | 69.00% | ~9 |
 | Haunted Mansion | 62.00% | ~8 |
@@ -15,7 +15,7 @@
 | Arcade | 31.00% | ~4 |
 | Custom Court | 31.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 359)  
+Progressed: 13 (Ranked 360)  
 Completed: 3 (23.08%) (Ranked 5)  
 ## EOS Players History
 | Date | Progressed | Completed |

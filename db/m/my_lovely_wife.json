@@ -2,12 +2,12 @@
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
   "ProductSlug": "my-lovely-wife-bef07f",
-  "Ranking_Rating": 722,
+  "Ranking_Rating": 721,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -298,9 +298,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -530,8 +530,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:06:24.8205386+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:06:39.802953+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.2279204+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:58:27.939822+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:06:24.8205643+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:58:32.8242354+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:06:39.8029719+00:00"
 }

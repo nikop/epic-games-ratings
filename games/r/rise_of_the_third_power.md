@@ -12,7 +12,7 @@
 | Attuned | 37.00% | ~48 |
 | Specialist | 33.00% | ~43 |
 | Opulent | 32.00% | ~42 |
-| Sparkly | 29.00% | ~38 |
+| Sparkly | 30.00% | ~39 |
 | Teamwork | 22.00% | ~29 |
 | Ready to Rock | 21.00% | ~28 |
 | Determined | 20.00% | ~26 |

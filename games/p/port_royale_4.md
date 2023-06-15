@@ -27,7 +27,7 @@ Number of Ratings: 53  (23.09.2022)
 | Walk the plank | 20.00% | ~130 |
 | My precious! | 17.00% | ~111 |
 | Pearly gates | 16.00% | ~104 |
-| Conquistador | 12.00% | ~78 |
+| Conquistador | 13.00% | ~85 |
 | Panic buying | 11.00% | ~72 |
 | Just a scratch | 9.00% | ~59 |
 | Your vessel, my vessel | 9.00% | ~59 |

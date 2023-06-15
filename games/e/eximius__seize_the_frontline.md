@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~134,294 |
-| Initiation | 18.00% | ~34,046 |
+| Graduate Boot Camp | 71.00% | ~134,296 |
+| Initiation | 18.00% | ~34,047 |
 | Battlesuit Victory | 8.00% | ~15,132 |
-| Flawless Victory | 5.00% | ~9,457 |
-| Baby Steps | 5.00% | ~9,457 |
-| First Co-Op Win | 5.00% | ~9,457 |
+| Flawless Victory | 5.00% | ~9,458 |
+| Baby Steps | 5.00% | ~9,458 |
+| First Co-Op Win | 5.00% | ~9,458 |
 | Gated Community | 3.00% | ~5,674 |
 | Tag Team Champions | 2.00% | ~3,783 |
-| Total Destruction | 1.00% | ~1,891 |
-| Getting There | 1.00% | ~1,891 |
-| Untouchable | 1.00% | ~1,891 |
+| Total Destruction | 1.00% | ~1,892 |
+| Getting There | 1.00% | ~1,892 |
+| Untouchable | 1.00% | ~1,892 |
 | Mastermind | 0.50% | ~946 |
 | We shall never Surrender! | 0.20% | ~378 |
 | Halfway There | 0.20% | ~378 |
 | Not Afraid of the Big Bad Wolf | 0.10% | ~189 |
 | Many More to Come | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,146 (Ranked 53)  
+Progressed: 189,150 (Ranked 53)  
 Completed: 4 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 4 (0.00%) (Ranked 223)
 | 2023-06-12 | 188,923 | 4 |
 | 2023-06-13 | 189,036 | 4 |
 | 2023-06-14 | 189,135 | 4 |
-| 2023-06-15 | 189,146 | 4 |
+| 2023-06-15 | 189,150 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

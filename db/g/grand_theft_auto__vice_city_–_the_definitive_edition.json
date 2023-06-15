@@ -424,9 +424,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 8466,
+  "EOS_Progressed": 8469,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -4619,6 +4619,11 @@
       "Time": "2023-06-15T03:01:06.3228718+00:00",
       "NumProgressed": 8466,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-15T04:01:31.4497878+00:00",
+      "NumProgressed": 8469,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 34,
@@ -4734,7 +4739,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3388
     },
     {
       "ID": "ACH15",
@@ -4758,7 +4763,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH18",
@@ -4790,7 +4795,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ACH22",
@@ -4806,7 +4811,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ACH24",
@@ -4901,7 +4906,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8466,
+      "Progressed": 8469,
       "Completed": 31
     }
   ],
@@ -4909,8 +4914,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:01:06.3228711+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:01:31.4497872+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:58:37.5631957+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:01:06.3229367+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:58:43.7267666+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:01:31.4498344+00:00"
 }

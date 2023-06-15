@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -93,9 +93,9 @@
       "ID": "LEVEL_0",
       "SetID": "1fnbp5h",
       "Name": "Beach",
-      "Percentage": 85,
+      "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_1",
@@ -179,8 +179,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:06:15.7585947+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:06:30.1141409+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.550405+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:57:35.531564+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:06:15.7586046+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:57:34.1699712+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:06:30.1141485+00:00"
 }

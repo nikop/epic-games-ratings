@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1472,25 +1472,25 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 221
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 203
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 226
     },
     {
       "ID": "MQ04_1",
@@ -1641,8 +1641,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-15T03:04:41.4345257+00:00",
+  "LastChanged_Achievements": "2023-06-15T04:04:46.0825992+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T02:57:35.3696605+00:00",
-  "LastUpdate_Achievements": "2023-06-15T03:04:41.4345552+00:00"
+  "LastUpdate_Ratings": "2023-06-15T03:57:33.9783628+00:00",
+  "LastUpdate_Achievements": "2023-06-15T04:04:46.0826209+00:00"
 }

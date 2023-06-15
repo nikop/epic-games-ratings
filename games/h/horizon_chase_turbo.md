@@ -6,19 +6,19 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~869,700 |
-| I Need a Bigger Garage | 62.00% | ~605,858 |
-| Pump my Ride | 46.00% | ~449,508 |
-| Ghostbuster | 32.00% | ~312,701 |
-| Call Roadside Assistance | 17.00% | ~166,122 |
-| That Was Close | 17.00% | ~166,122 |
-| Quickie | 10.00% | ~97,719 |
-| California Dreamer | 7.00% | ~68,403 |
-| Can't Touch This | 5.00% | ~48,860 |
-| Carménère Taster | 3.00% | ~29,316 |
-| Comeback | 3.00% | ~29,316 |
-| Marathonist | 3.00% | ~29,316 |
-| Living Legend | 3.00% | ~29,316 |
+| The First of Many | 89.00% | ~869,728 |
+| I Need a Bigger Garage | 62.00% | ~605,878 |
+| Pump my Ride | 46.00% | ~449,522 |
+| Ghostbuster | 32.00% | ~312,711 |
+| Call Roadside Assistance | 17.00% | ~166,128 |
+| That Was Close | 17.00% | ~166,128 |
+| Quickie | 10.00% | ~97,722 |
+| California Dreamer | 7.00% | ~68,406 |
+| Can't Touch This | 5.00% | ~48,861 |
+| Carménère Taster | 3.00% | ~29,317 |
+| Comeback | 3.00% | ~29,317 |
+| Marathonist | 3.00% | ~29,317 |
+| Living Legend | 3.00% | ~29,317 |
 | Driver from Ipanema | 2.00% | ~19,544 |
 | Pathfinder | 2.00% | ~19,544 |
 | Go-Kart Champion | 2.00% | ~19,544 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Bollywood Star | 0.90% | ~8,795 |
 | Crocodile Hunter | 0.80% | ~7,818 |
 | Old Master | 0.80% | ~7,818 |
-| Volcano Surfer | 0.70% | ~6,840 |
-| Otaku | 0.70% | ~6,840 |
+| Volcano Surfer | 0.70% | ~6,841 |
+| Otaku | 0.70% | ~6,841 |
 | Survivor | 0.50% | ~4,886 |
 | King of the World | 0.50% | ~4,886 |
 | Getting Famous | 0.40% | ~3,909 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~977 |
 | Look Mom, No Hands! | 0.10% | ~977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,191 (Ranked 12)  
+Progressed: 977,222 (Ranked 12)  
 Completed: 303 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 303 (0.03%) (Ranked 197)
 | 2023-06-12 | 975,044 | 301 |
 | 2023-06-13 | 976,083 | 303 |
 | 2023-06-14 | 977,048 | 303 |
-| 2023-06-15 | 977,191 | 303 |
+| 2023-06-15 | 977,222 | 303 |
 ## Awards
 Max (Great for Beginners): 143  (Ranked 293)  
 Sum: 1,153 (Ranked 228)  

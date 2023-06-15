@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 97.00% | ~85 |
+| Alt+F4 | 98.00% | ~86 |
 | Where's that freaking Dwarf? | 93.00% | ~82 |
 | Sock! SOCK! | 81.00% | ~71 |
 | Fireproof Wizardess | 66.00% | ~58 |
 | Livin' in a dwarven paradise | 65.00% | ~57 |
 | Déjà vu | 57.00% | ~50 |
 | Way of the Wimp | 53.00% | ~47 |
+| GG EZ | 53.00% | ~47 |
 | DM intervention | 53.00% | ~47 |
-| GG EZ | 52.00% | ~46 |
 | Oh, when I'll be level 10... | 50.00% | ~44 |
 | Speedrun | 47.00% | ~41 |
 | I am the night | 43.00% | ~38 |

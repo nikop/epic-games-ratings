@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.50% | ~2,778 |
-| Healthy Obsession | 0.40% | ~2,222 |
-| Preemptive Strike | 0.40% | ~2,222 |
-| Humanitarian | 0.40% | ~2,222 |
+| Resurgence | 0.50% | ~2,779 |
+| Healthy Obsession | 0.40% | ~2,223 |
+| Preemptive Strike | 0.40% | ~2,223 |
+| Humanitarian | 0.40% | ~2,223 |
 | Wounded Healer | 0.30% | ~1,667 |
 | Close Shave | 0.30% | ~1,667 |
 | Flight to Freedom | 0.30% | ~1,667 |
@@ -19,6 +19,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.20% | ~1,111 |
 | First to the Punch | 0.20% | ~1,111 |
 | Operation: Survival | 0.20% | ~1,111 |
+| Grim Pilgrimage | 0.20% | ~1,111 |
 | Old West Oasis | 0.20% | ~1,111 |
 | Classy Act | 0.20% | ~1,111 |
 | Every Last Drop | 0.20% | ~1,111 |
@@ -153,7 +154,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.10% | ~556 |
 | Bloodbath | 0.10% | ~556 |
 | Adept Oni | 0.10% | ~556 |
-| Grim Pilgrimage | 0.10% | ~556 |
 | Bodyguard | 0.10% | ~556 |
 | Adept Yui | 0.10% | ~556 |
 | Bound and Downed | 0.10% | ~556 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~556 |
 | Adept Gabriel | 0.10% | ~556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,599 (Ranked 27)  
+Progressed: 555,738 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 555,599 | 42 |
+| 2023-06-15 | 555,738 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
 Sum: 227,401 (Ranked 12)  
