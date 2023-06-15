@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
-| 10 | [Island Cities](games/i/island_cities.md) | 14.96% |
+| 10 | [Island Cities](games/i/island_cities.md) | 14.91% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
@@ -17,9 +17,9 @@
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.22% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
-| 18 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.33% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.26% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.26% |
+| 20 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.00% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
@@ -28,9 +28,9 @@
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
-| 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
-| 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
-| 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
+| 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 30 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
@@ -45,7 +45,7 @@
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 46 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
@@ -63,12 +63,12 @@
 | 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
-| 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.35% |
+| 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
 | 65 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
-| 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.00% |
+| 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.96% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
 | 70 | [Iron Danger](games/i/iron_danger.md) | 1.93% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
@@ -143,8 +143,8 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
 | 141 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 143 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
-| 143 | [Blanc](games/b/blanc.md) | 0.26% |
-| 145 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 144 | [Blanc](games/b/blanc.md) | 0.25% |
+| 144 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 146 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 146 | [Filament](games/f/filament.md) | 0.23% |
 | 146 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.23% |
