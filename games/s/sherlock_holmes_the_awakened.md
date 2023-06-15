@@ -21,14 +21,14 @@
 | Land, Ho! | 41.00% | ~189 |
 | No Man Is An Island | 39.00% | ~180 |
 | At Wits' End | 39.00% | ~180 |
+| Going Once... | 36.00% | ~166 |
 | Bookworm | 36.00% | ~166 |
 | Up In Flames | 36.00% | ~166 |
 | Fhtagn! | 36.00% | ~166 |
-| Going Once... | 35.00% | ~161 |
 | Let Me Be Frank | 34.00% | ~157 |
 | Brain Food | 31.00% | ~143 |
 | No Stone Unturned | 31.00% | ~143 |
-| Curiosity Killed The Cat | 20.00% | ~92 |
+| Curiosity Killed The Cat | 21.00% | ~97 |
 | Read It And Weep | 19.00% | ~88 |
 | Big Breakthrough | 14.00% | ~65 |
 | Reawakened | 5.00% | ~23 |

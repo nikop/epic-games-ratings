@@ -2,9 +2,9 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -1574,6 +1574,11 @@
       "Time": "2023-06-15T09:03:48.2643954+00:00",
       "NumProgressed": 383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T12:03:49.164073+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1601,7 +1606,7 @@
       "Name": "Culinary Arts",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "5OvenDishesMenu",
@@ -1753,7 +1758,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "OpenRestaurant",
@@ -1761,7 +1766,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "Packing20",
@@ -1785,7 +1790,7 @@
       "Name": "Home Cook",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "RecipeDifferent30",
@@ -1839,9 +1844,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "TrattoriaSet",
@@ -1881,7 +1886,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -1904,7 +1909,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 0
     }
   ],
@@ -1912,8 +1917,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:14.6175197+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:03:49.1640714+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:21.2191931+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:14.6175489+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:59:17.6378971+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:03:49.1641203+00:00"
 }

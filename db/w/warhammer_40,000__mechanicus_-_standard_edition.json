@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 214201,
+  "EOS_Progressed": 214204,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6249,6 +6249,11 @@
       "Time": "2023-06-15T11:03:28.6293655+00:00",
       "NumProgressed": 214201,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-15T12:04:18.9783191+00:00",
+      "NumProgressed": 214204,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6260,7 +6265,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40698
+      "UsersEstimate": 40699
     },
     {
       "ID": "ACH_BASE_10",
@@ -6268,7 +6273,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53550
+      "UsersEstimate": 53551
     },
     {
       "ID": "ACH_BASE_11",
@@ -6531,7 +6536,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214201,
+      "Progressed": 214204,
       "Completed": 4
     }
   ],
@@ -6539,8 +6544,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-12T11:58:35.7449378+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:28.629365+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:04:18.9783184+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:25.4358731+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:28.6294109+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:59:23.9023309+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:04:18.978396+00:00"
 }

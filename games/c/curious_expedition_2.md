@@ -40,7 +40,7 @@ Number of Ratings: 20  (23.09.2022)
 | Very Classy | 12.00% | ~38 |
 | And Here Is Your Statue | 11.00% | ~35 |
 | Under the Table | 10.00% | ~32 |
-| It's Complicated | 9.00% | ~29 |
+| It's Complicated | 10.00% | ~32 |
 | Cold Blood, Warm Heart | 9.00% | ~29 |
 | Errand Runner | 9.00% | ~29 |
 | SCHMETTERLING | 8.00% | ~25 |

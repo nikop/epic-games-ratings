@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193357,
+  "EOS_Progressed": 193360,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -5982,6 +5982,11 @@
       "Time": "2023-06-15T11:05:19.4907253+00:00",
       "NumProgressed": 193357,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-06-15T12:07:04.9293834+00:00",
+      "NumProgressed": 193360,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 29,
@@ -6017,7 +6022,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 181756
+      "UsersEstimate": 181758
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6049,7 +6054,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -6089,7 +6094,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -6129,7 +6134,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11601
+      "UsersEstimate": 11602
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -6201,7 +6206,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -6224,7 +6229,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193357,
+      "Progressed": 193360,
       "Completed": 441
     }
   ],
@@ -6232,8 +6237,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:05:19.4907248+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:07:04.9293826+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:10.6376263+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:44.1716694+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:05:19.4907674+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:59:50.2731195+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:07:04.929438+00:00"
 }

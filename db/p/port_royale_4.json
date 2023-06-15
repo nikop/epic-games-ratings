@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-06-14T18:06:05.8615681+00:00",
       "NumProgressed": 651,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T12:07:24.4780243+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -960,7 +965,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH001",
@@ -968,7 +973,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH002",
@@ -1056,7 +1061,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH013",
@@ -1072,7 +1077,7 @@
       "Name": "Christening",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH015",
@@ -1094,9 +1099,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH018",
@@ -1128,7 +1133,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH022",
@@ -1144,7 +1149,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH024",
@@ -1176,7 +1181,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH028",
@@ -1192,7 +1197,7 @@
       "Name": "Licence to Kill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH030",
@@ -1214,9 +1219,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH033",
@@ -1264,7 +1269,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH039",
@@ -1312,7 +1317,7 @@
       "Name": "Greed for gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH045",
@@ -1344,7 +1349,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH049",
@@ -1359,15 +1364,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 652,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:05:34.591217+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:07:24.4780236+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:24.8987743+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:05:34.5912552+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:59:23.1031311+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:07:24.4781035+00:00"
 }

@@ -30,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 0.30% | ~17 |
 | The Crush | 0.30% | ~17 |
 | The Magic Number | 0.30% | ~17 |
-| Vickie | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |
 | Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
@@ -38,6 +37,7 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
+| Vickie | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,599 (Ranked 126)  
+Progressed: 5,601 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.05%) (Ranked 192)
 | 2023-06-12 | 5,553 | 3 |
 | 2023-06-13 | 5,567 | 3 |
 | 2023-06-14 | 5,589 | 3 |
-| 2023-06-15 | 5,599 | 3 |
+| 2023-06-15 | 5,601 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

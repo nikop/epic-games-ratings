@@ -1440,9 +1440,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ02_4",
@@ -1496,9 +1496,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "MQ04_2",
@@ -1641,8 +1641,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:52.195509+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:04:52.433572+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:57:22.062166+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:52.1955298+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:57:49.1395731+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:04:52.4336054+00:00"
 }

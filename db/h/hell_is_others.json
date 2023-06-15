@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -482,10 +482,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-06-15T12:01:38.9501452+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 115,
+  "NumberOfAwards": 116,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -505,7 +511,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -520,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251134,
+  "EOS_Progressed": 251137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6110,6 +6116,11 @@
       "Time": "2023-06-15T11:03:15.2833386+00:00",
       "NumProgressed": 251134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T12:03:50.0892409+00:00",
+      "NumProgressed": 251137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6121,7 +6132,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17579
+      "UsersEstimate": 17580
     },
     {
       "ID": "Act2",
@@ -6225,7 +6236,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25113
+      "UsersEstimate": 25114
     },
     {
       "ID": "CreditLevel2",
@@ -6409,7 +6420,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55249
+      "UsersEstimate": 55250
     },
     {
       "ID": "KillOthers2",
@@ -6513,7 +6524,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25113
+      "UsersEstimate": 25114
     },
     {
       "ID": "ReachNDays2",
@@ -6568,16 +6579,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251134,
+      "Progressed": 251137,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-15T02:08:43.7510069+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:15.2833381+00:00",
+  "LastChanged": "2023-06-15T12:01:38.950145+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:03:50.0892401+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:00:00.5726209+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:15.2834+00:00"
+  "LastUpdate_Ratings": "2023-06-15T12:01:38.9501457+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:03:50.0893241+00:00"
 }

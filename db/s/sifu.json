@@ -4620,7 +4620,7 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709431,
+  "EOS_Progressed": 709438,
   "EOS_Completed": 12771,
   "EOS_NewPlayers": 1446,
   "EOS_NewCompleters": 8,
@@ -9930,6 +9930,11 @@
       "Time": "2023-06-15T11:05:41.2955976+00:00",
       "NumProgressed": 709431,
       "NumCompleted": 12771
+    },
+    {
+      "Time": "2023-06-15T12:07:33.3570699+00:00",
+      "NumProgressed": 709438,
+      "NumCompleted": 12771
     }
   ],
   "TotalAchievements": 50,
@@ -10029,7 +10034,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "13_LowAge",
@@ -10133,7 +10138,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "26_ShrineSpirit",
@@ -10173,7 +10178,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "31_ComboHigh",
@@ -10213,7 +10218,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -10285,7 +10290,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10340,21 +10345,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18732,
+      "Progressed": 18739,
       "Completed": 10271
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709431,
+      "Progressed": 709438,
       "Completed": 12771
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-15T08:59:01.2458784+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:05:41.2955973+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:07:33.3570684+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:54.6066358+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:05:41.295657+00:00"
+  "LastUpdate_Ratings": "2023-06-15T12:00:04.8835405+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:07:33.3571439+00:00"
 }

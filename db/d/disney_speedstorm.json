@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2788,
+  "EOS_Progressed": 2789,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2675,6 +2675,11 @@
       "Time": "2023-06-15T10:04:26.4857994+00:00",
       "NumProgressed": 2788,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-15T12:04:36.6720898+00:00",
+      "NumProgressed": 2789,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -2774,7 +2779,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "20",
@@ -2782,7 +2787,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "21",
@@ -2877,13 +2882,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2788,
+      "Progressed": 2789,
       "Completed": 16
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:40.8812741+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:04:36.672089+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:52.073195+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:40.8812996+00:00"
+  "LastUpdate_Ratings": "2023-06-15T12:00:01.0191062+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:04:36.6721299+00:00"
 }

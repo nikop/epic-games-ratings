@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5599,
+  "EOS_Progressed": 5601,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2671,6 +2671,11 @@
       "Time": "2023-06-15T10:04:26.4333223+00:00",
       "NumProgressed": 5599,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T12:04:36.8639336+00:00",
+      "NumProgressed": 5601,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3168,9 +3173,9 @@
       "ID": "Vickie",
       "SetID": "bmkn7o4",
       "Name": "Vickie",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "cooch",
@@ -3233,21 +3238,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2638,
+      "Progressed": 2640,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5599,
+      "Progressed": 5601,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:03:40.9823166+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:04:36.8639328+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:57:26.1624745+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:03:40.9823811+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:57:55.023759+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:04:36.8640238+00:00"
 }

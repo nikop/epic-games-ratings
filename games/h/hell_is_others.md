@@ -6,10 +6,10 @@ Rating: 4.43 (Ranked 649)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~77,852 |
-| Predator I | 22.00% | ~55,249 |
-| Fixer I | 10.00% | ~25,113 |
-| A week in Century City | 10.00% | ~25,113 |
-| The Wait | 7.00% | ~17,579 |
+| Predator I | 22.00% | ~55,250 |
+| Fixer I | 10.00% | ~25,114 |
+| A week in Century City | 10.00% | ~25,114 |
+| The Wait | 7.00% | ~17,580 |
 | Green thumb I | 6.00% | ~15,068 |
 | Cleaning Company | 6.00% | ~15,068 |
 | Well-oiled machine | 5.00% | ~12,557 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 649)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,134 (Ranked 42)  
+Progressed: 251,137 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,16 +118,16 @@ Completed: 1 (0.00%) (Ranked 223)
 | 2023-06-12 | 250,989 | 1 |
 | 2023-06-13 | 251,048 | 1 |
 | 2023-06-14 | 251,116 | 1 |
-| 2023-06-15 | 251,134 | 1 |
+| 2023-06-15 | 251,137 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
-Sum: 115 (Ranked 397)  
+Sum: 116 (Ranked 397)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 27 |
 | This game has Unique Visuals | 25 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 20 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
@@ -210,4 +210,4 @@ Diff (max vs sum): 63
 | 2023-06-10 | 4.43 | 25 | 91 |
 | 2023-06-11 | 4.43 | 25 | 92 |
 | 2023-06-12 | 4.43 | 27 | 114 |
-| 2023-06-15 | 4.43 | 27 | 115 |
+| 2023-06-15 | 4.43 | 27 | 116 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1688,
+  "EOS_Progressed": 1689,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-06-15T07:00:11.8747182+00:00",
       "NumProgressed": 1688,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-15T12:02:16.4664683+00:00",
+      "NumProgressed": 1689,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1619,7 +1624,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "Collect20Gold",
@@ -1635,7 +1640,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1643,7 +1648,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "CollectAllStatues",
@@ -1691,7 +1696,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1771,7 +1776,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Kill25Bugs",
@@ -1858,22 +1863,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1688,
+      "Progressed": 1689,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 329,
-      "Completed": 329
+      "Progressed": 330,
+      "Completed": 330
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:00:26.5894171+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:02:16.4664674+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-15T10:58:19.3564116+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:00:26.5894451+00:00"
+  "LastUpdate_Ratings": "2023-06-15T11:59:14.5395594+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:02:16.4665047+00:00"
 }

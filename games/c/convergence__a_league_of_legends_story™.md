@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 12.00% | ~83 |
+| Time Heals All Wounds | 12.00% | ~84 |
 | Rail Rat | 10.00% | ~70 |
+| The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
 | The Mysterious Stranger | 9.00% | ~63 |
 | Cartographer | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
-| The Steel Shadow | 8.00% | ~56 |
 | Make Up For Lost Time | 8.00% | ~56 |
 | Time Flies | 8.00% | ~56 |
 | The Harder They Fall | 8.00% | ~56 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.10% | ~1 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695 (Ranked 191)  
+Progressed: 696 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 695 | 1 |
+| 2023-06-15 | 696 | 1 |

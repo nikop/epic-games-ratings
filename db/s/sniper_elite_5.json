@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2878,
+  "EOS_Progressed": 2881,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3608,6 +3608,11 @@
       "Time": "2023-06-15T11:05:35.1976533+00:00",
       "NumProgressed": 2878,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T12:07:25.3271417+00:00",
+      "NumProgressed": 2881,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3651,7 +3656,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3699,7 +3704,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3851,7 +3856,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3875,7 +3880,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3883,7 +3888,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3931,7 +3936,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3987,7 +3992,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3995,15 +4000,15 @@
       "Name": "Brains of the Operation",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -4186,13 +4191,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2829,
+      "Progressed": 2832,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2878,
+      "Progressed": 2881,
       "Completed": 2
     }
   ],
@@ -4200,8 +4205,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:05:35.1976529+00:00",
+  "LastChanged_Achievements": "2023-06-15T12:07:25.327141+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:00:14.582551+00:00",
-  "LastUpdate_Achievements": "2023-06-15T11:05:35.1977196+00:00"
+  "LastUpdate_Ratings": "2023-06-15T12:01:57.6511224+00:00",
+  "LastUpdate_Achievements": "2023-06-15T12:07:25.3272355+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 87  (23.09.2022)
 | Multilevel road | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
 | Pink Ruby | 4.00% | ~3 |
+| The Tortoise | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
 | Bridgemania | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
@@ -30,7 +31,6 @@ Number of Ratings: 87  (23.09.2022)
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
-| The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
 | Beginner | 2.00% | ~15 |
