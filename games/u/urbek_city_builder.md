@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Small town | 62.00% | ~156 |
 | I like parks | 49.00% | ~123 |
-| It is nice to share with friends in the city | 26.00% | ~65 |
+| It is nice to share with friends in the city | 26.00% | ~66 |
 | Sport is good for you | 25.00% | ~63 |
 | The spiritual world... | 23.00% | ~58 |
 | The woodcutter | 20.00% | ~50 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251 (Ranked 240)  
+Progressed: 252 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 241 | 0 |
 | 2023-06-13 | 245 | 0 |
 | 2023-06-14 | 249 | 0 |
-| 2023-06-15 | 251 | 0 |
+| 2023-06-15 | 252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 284
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -555,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:36.2437405+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:39.4476206+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.6651809+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:58:41.4924728+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:36.2437661+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:58:40.3856224+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:39.4476479+00:00"
 }

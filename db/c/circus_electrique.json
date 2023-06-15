@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-06-15T15:06:25.1476241+00:00",
       "NumProgressed": 441,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T17:05:54.7201261+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -343,9 +348,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -449,7 +454,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -473,7 +478,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -505,7 +510,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -697,7 +702,7 @@
       "Name": "Spirits High",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -713,7 +718,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -744,7 +749,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 1
     }
   ],
@@ -752,8 +757,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:50.91197+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:54.7201255+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:58:50.4372888+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:50.9120208+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:58:50.4330012+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:54.7201744+00:00"
 }

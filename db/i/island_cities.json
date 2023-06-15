@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -1576,9 +1576,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 189
+      "UsersEstimate": 192
     },
     {
       "ID": "LEVEL_005",
@@ -1600,9 +1600,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "LEVEL_008",
@@ -1632,9 +1632,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_012",
@@ -1737,8 +1737,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:27.4474279+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:30.6987395+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:58:04.6094763+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:27.4474553+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:58:04.9096452+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:30.698766+00:00"
 }

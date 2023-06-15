@@ -36,11 +36,11 @@ Rating: 4.57 (Ranked 443)
 | In Dolos We Trust | 2.00% | ~53 |
 | BRAWL! | 2.00% | ~53 |
 | All in Good Health | 2.00% | ~53 |
+| Pedal to the Metal | 2.00% | ~53 |
 | What the Ruins Teach Us | 2.00% | ~53 |
 | Mutual Loyalty | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Delivery! | 1.00% | ~27 |
-| Pedal to the Metal | 1.00% | ~27 |
 | Pulsar Disciple | 1.00% | ~27 |
 | Catastrophe Avoided | 0.90% | ~24 |
 | Space Greenhouse | 0.90% | ~24 |

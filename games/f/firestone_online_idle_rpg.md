@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,315 |
-| World Map | 80.00% | ~1,119 |
-| Temple of Eternals | 57.00% | ~797 |
-| Prestigious | 53.00% | ~741 |
+| Victor | 94.00% | ~1,317 |
+| World Map | 80.00% | ~1,121 |
+| Temple of Eternals | 57.00% | ~799 |
+| Prestigious | 53.00% | ~743 |
 | Fellowship Power | 41.00% | ~574 |
 | Guild Power | 24.00% | ~336 |
 | Prestigious x10 | 21.00% | ~294 |
@@ -24,10 +24,10 @@ Rating: 4.05 (Ranked 895)
 | Lieutenant | 13.00% | ~182 |
 | Natural Talent | 12.00% | ~168 |
 | The Unstoppable | 12.00% | ~168 |
-| Milestone collector | 11.00% | ~154 |
 | Mysterious Rock | 11.00% | ~154 |
 | Superior | 11.00% | ~154 |
-| Scientist | 10.00% | ~140 |
+| Milestone collector | 10.00% | ~140 |
+| Scientist | 9.00% | ~126 |
 | Challenger | 8.00% | ~112 |
 | Daily Quest Completionist | 8.00% | ~112 |
 | Doing My Part | 8.00% | ~112 |
@@ -41,26 +41,26 @@ Rating: 4.05 (Ranked 895)
 | Moving Up The Ladder | 7.00% | ~98 |
 | Here We Go Again | 6.00% | ~84 |
 | Trader | 6.00% | ~84 |
-| Ancient Knowledge | 5.00% | ~70 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
-| Missions Dedication | 5.00% | ~70 |
 | The Expeditioner | 5.00% | ~70 |
 | The father of Dragons | 5.00% | ~70 |
 | Weekly Quest Completionist | 5.00% | ~70 |
+| Ancient Knowledge | 4.00% | ~56 |
 | Background Story | 4.00% | ~56 |
 | Crystal Mining | 4.00% | ~56 |
 | Dragon Slayer | 4.00% | ~56 |
 | Enchanting skill | 4.00% | ~56 |
 | Engineer Mastery | 4.00% | ~56 |
 | Lock And Load | 4.00% | ~56 |
+| Missions Dedication | 4.00% | ~56 |
 | Blueprint Upgrades | 3.00% | ~42 |
 | Sailor | 3.00% | ~42 |
-| Active Member | 2.00% | ~28 |
 | Arena Challenger | 2.00% | ~28 |
 | Ebony Jungle Liberator | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |
 | What lies behind the bush | 2.00% | ~28 |
+| Active Member | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
 | Mythic Power | 0.60% | ~8 |
 | Training makes a Pro player | 0.60% | ~8 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 164)  
+Progressed: 1,401 (Ranked 164)  
 Completed: 1 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.07%) (Ranked 183)
 | 2023-06-12 | 1,385 | 1 |
 | 2023-06-13 | 1,390 | 1 |
 | 2023-06-14 | 1,396 | 1 |
-| 2023-06-15 | 1,399 | 1 |
+| 2023-06-15 | 1,401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

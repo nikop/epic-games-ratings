@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-06-15T16:05:42.1149736+00:00",
       "NumProgressed": 1007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T17:05:45.4340709+00:00",
+      "NumProgressed": 1008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -965,7 +970,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "07",
@@ -997,7 +1002,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "11",
@@ -1053,7 +1058,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "18",
@@ -1061,7 +1066,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "19",
@@ -1108,7 +1113,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 0
     }
   ],
@@ -1116,8 +1121,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:42.1149731+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:45.4340704+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:59:30.6195814+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:42.1149928+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:59:30.9081076+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:45.4340924+00:00"
 }

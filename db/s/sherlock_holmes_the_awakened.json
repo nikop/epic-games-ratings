@@ -1484,9 +1484,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "MQ03_3",
@@ -1564,17 +1564,17 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "MQ06_2",
@@ -1661,8 +1661,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:04:01.7910836+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:04:03.5673048+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:57:25.3559884+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:04:01.7911106+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:57:23.5588517+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:04:03.5673351+00:00"
 }

@@ -17,9 +17,9 @@ Number of Ratings: 125  (23.09.2022)
 | Justice Served | 28.00% | ~462 |
 | Chain Reaction | 26.00% | ~429 |
 | Dishonored | 25.00% | ~412 |
+| Rain of Death | 25.00% | ~412 |
 | Scholar | 25.00% | ~412 |
 | Through Their Eyes | 25.00% | ~412 |
-| Rain of Death | 24.00% | ~396 |
 | The Great Escape | 23.00% | ~379 |
 | That’s All, Folks | 18.00% | ~297 |
 | Fallen Star | 16.00% | ~264 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 7.00% | ~115 |
 | Knuckle Sandwich | 7.00% | ~115 |
 | Getting the Gang Back Together | 6.00% | ~99 |
+| Healing Old Wounds | 6.00% | ~99 |
 | Who You Gonna Call? | 6.00% | ~99 |
-| Healing Old Wounds | 5.00% | ~82 |
 | This Is Sparta | 5.00% | ~82 |
 | What’s in the Box? | 4.00% | ~66 |
 | Ghost Town | 3.00% | ~49 |

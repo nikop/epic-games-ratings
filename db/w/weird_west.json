@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1226,9 +1226,9 @@
       "ID": "ACH_HEALING_OLD_WOUNDS",
       "SetID": "8j30i9k",
       "Name": "Healing Old Wounds",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -1386,9 +1386,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_REVENANT",
@@ -1546,8 +1546,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:39.4835164+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:42.8975881+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:42.9337885+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:58:25.9715022+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:39.4835676+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:58:25.474196+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:42.8976378+00:00"
 }

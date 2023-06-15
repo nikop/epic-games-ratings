@@ -10,9 +10,9 @@
 | Chapter 3 Complete | 37.00% | ~26 |
 | Chapter 4 Complete | 31.00% | ~22 |
 | The Guardian | 30.00% | ~21 |
+| The Truth | 24.00% | ~17 |
 | Heavy Duty | 23.00% | ~16 |
 | Chapter 5 Complete | 23.00% | ~16 |
-| The Truth | 23.00% | ~16 |
 | Reconciliation | 23.00% | ~16 |
 | Chapter 6 Complete | 21.00% | ~15 |
 | Plant Enchanter | 21.00% | ~15 |

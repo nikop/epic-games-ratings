@@ -246,9 +246,9 @@
       "ID": "BFT_LEIF",
       "SetID": "7o7kd30",
       "Name": "The Truth",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BFT_MAX",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:43.3936029+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:46.8689936+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:59:44.0876762+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:43.393627+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:59:44.3646341+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:46.8690304+00:00"
 }

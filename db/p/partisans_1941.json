@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-06-15T16:05:46.2324035+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T17:05:49.8392067+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1141,7 +1146,7 @@
       "Name": "Agent 47",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Auditor",
@@ -1229,7 +1234,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Experienced_strategist",
@@ -1253,7 +1258,7 @@
       "Name": "Grenadier",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Hard_Serpent",
@@ -1269,7 +1274,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "High_noon",
@@ -1301,7 +1306,7 @@
       "Name": "No Witness",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Kultprosvet",
@@ -1325,7 +1330,7 @@
       "Name": "Bomberman",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "MoskitoBite",
@@ -1357,7 +1362,7 @@
       "Name": "War Never Changes",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "We_were_not_here",
@@ -1380,15 +1385,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:46.232403+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:49.8392061+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:59:05.5876739+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:46.2324285+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:59:06.8309699+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:49.8392351+00:00"
 }

@@ -2307,9 +2307,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 529
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2444,8 +2444,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-14T13:03:45.8623512+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:03:43.7678073+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:03:55.0869962+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:57:33.0358901+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:03:43.767855+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:57:31.273104+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:03:55.0870488+00:00"
 }

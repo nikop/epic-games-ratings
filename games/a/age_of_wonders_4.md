@@ -6,30 +6,30 @@ Rating: 4.59 (Ranked 413)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,689 |
-| Realm Estate | 76.00% | ~3,548 |
+| Realm Estate | 76.00% | ~3,549 |
 | Secret Technique | 75.00% | ~3,502 |
-| Walls Cannot Stop Us | 73.00% | ~3,408 |
+| Walls Cannot Stop Us | 73.00% | ~3,409 |
 | From Friends to Family | 69.00% | ~3,222 |
-| Magical Synergy | 65.00% | ~3,035 |
-| Bone Peddler | 61.00% | ~2,848 |
+| Magical Synergy | 65.00% | ~3,036 |
+| Bone Peddler | 61.00% | ~2,849 |
 | Stronger Together | 56.00% | ~2,615 |
 | Full Ascension | 55.00% | ~2,568 |
-| There Can Only Be One! | 48.00% | ~2,241 |
-| Seat of Power | 48.00% | ~2,241 |
-| Intimidation Tactics | 45.00% | ~2,101 |
-| My Final Form | 44.00% | ~2,054 |
+| There Can Only Be One! | 48.00% | ~2,242 |
+| Seat of Power | 48.00% | ~2,242 |
+| Intimidation Tactics | 45.00% | ~2,102 |
+| My Final Form | 44.00% | ~2,055 |
 | Valley of Wonders | 43.00% | ~2,008 |
 | In a Liege of Your Own | 39.00% | ~1,821 |
 | Return of the Wizard King | 32.00% | ~1,494 |
 | Against the Odds | 32.00% | ~1,494 |
-| Digging for Treasure | 31.00% | ~1,447 |
-| Enchanted Archipelago | 28.00% | ~1,307 |
-| Impenetrable Fortress | 28.00% | ~1,307 |
-| Preparation Is Everything | 21.00% | ~980 |
+| Digging for Treasure | 31.00% | ~1,448 |
+| Enchanted Archipelago | 28.00% | ~1,308 |
+| Impenetrable Fortress | 28.00% | ~1,308 |
+| Preparation Is Everything | 21.00% | ~981 |
 | The Magic That Empowers Me! | 20.00% | ~934 |
 | Arch Mage | 20.00% | ~934 |
-| God Emperor | 18.00% | ~840 |
-| Crimson Caldera | 18.00% | ~840 |
+| God Emperor | 18.00% | ~841 |
+| Crimson Caldera | 18.00% | ~841 |
 | Eternal Lord | 17.00% | ~794 |
 | The Creator | 15.00% | ~700 |
 | The Goddess of Nature | 15.00% | ~700 |
@@ -39,9 +39,9 @@ Rating: 4.59 (Ranked 413)
 | Pruning for Progress | 10.00% | ~467 |
 | Jack of All Tomes | 9.00% | ~420 |
 | I've Got Everything I Need Right Here | 7.00% | ~327 |
-| Grexolis | 5.00% | ~233 |
-| One for All, All for One | 5.00% | ~233 |
-| Betrayal Most Foul | 5.00% | ~233 |
+| Grexolis | 5.00% | ~234 |
+| One for All, All for One | 5.00% | ~234 |
+| Betrayal Most Foul | 5.00% | ~234 |
 | Snap Out of It! | 3.00% | ~140 |
 | I Want to Break Free | 2.00% | ~93 |
 | Manufactured War | 2.00% | ~93 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 413)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,669 (Ranked 129)  
+Progressed: 4,670 (Ranked 129)  
 Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 3 (0.06%) (Ranked 189)
 | 2023-06-12 | 4,595 | 2 |
 | 2023-06-13 | 4,615 | 3 |
 | 2023-06-14 | 4,635 | 3 |
-| 2023-06-15 | 4,669 | 3 |
+| 2023-06-15 | 4,670 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

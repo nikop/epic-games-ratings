@@ -18,9 +18,9 @@
 | Mirrors | 13.00% | ~7 |
 | At least there is something to read | 5.00% | ~3 |
 | Coat | 5.00% | ~3 |
+| Sarcophagus | 5.00% | ~3 |
 | I love you all | 5.00% | ~3 |
 | Skills to pay the bills | 5.00% | ~3 |
-| Sarcophagus | 4.00% | ~2 |
 | Missing pages | 4.00% | ~2 |
 | I need a hero | 4.00% | ~2 |
 | Master of puppets | 2.00% | ~1 |

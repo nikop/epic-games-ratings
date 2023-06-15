@@ -5,33 +5,33 @@ Rating: 4.18 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,299 |
-| The Outer Way | 14.00% | ~2,146 |
-| Desperate Times | 13.00% | ~1,992 |
-| Paper Jams | 12.00% | ~1,839 |
-| Chew 'Em Up | 10.00% | ~1,532 |
-| Reforged | 10.00% | ~1,532 |
-| Workplace Hazard | 9.00% | ~1,379 |
-| If the SHU Fits... | 9.00% | ~1,379 |
-| Get a Grip | 8.00% | ~1,226 |
+| Flesh Wound | 16.00% | ~2,453 |
+| The Outer Way | 14.00% | ~2,147 |
+| Desperate Times | 13.00% | ~1,993 |
+| Paper Jams | 12.00% | ~1,840 |
+| Chew 'Em Up | 10.00% | ~1,533 |
+| Reforged | 10.00% | ~1,533 |
+| Workplace Hazard | 9.00% | ~1,380 |
+| If the SHU Fits... | 9.00% | ~1,380 |
+| Get a Grip | 8.00% | ~1,227 |
 | Giving Back | 7.00% | ~1,073 |
 | Without A Paddle | 7.00% | ~1,073 |
 | Terminated | 6.00% | ~920 |
 | In the Pipe, Five by Five | 6.00% | ~920 |
 | Crash Site | 6.00% | ~920 |
-| You Need a Gun | 5.00% | ~766 |
-| Two Heads Are Better Than One | 5.00% | ~766 |
-| Float Like A Butterfly | 5.00% | ~766 |
-| Power Up | 5.00% | ~766 |
+| You Need a Gun | 5.00% | ~767 |
+| Two Heads Are Better Than One | 5.00% | ~767 |
+| Float Like A Butterfly | 5.00% | ~767 |
+| Power Up | 5.00% | ~767 |
 | What Lies Beneath | 4.00% | ~613 |
 | Full Circle | 4.00% | ~613 |
 | Instigator | 4.00% | ~130 |
 | The Commonality | 3.00% | ~460 |
 | Big Game Hunter | 3.00% | ~98 |
 | Bear Trap | 3.00% | ~98 |
-| I Do Belong Here | 2.00% | ~306 |
-| In Striking Distance | 2.00% | ~306 |
-| Mugshot | 2.00% | ~306 |
+| I Do Belong Here | 2.00% | ~307 |
+| In Striking Distance | 2.00% | ~307 |
+| Mugshot | 2.00% | ~307 |
 | Big Spender | 2.00% | ~65 |
 | Grim Reaper | 1.00% | ~153 |
 | Parole Denied | 1.00% | ~33 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,325 (Ranked 102)  
+Progressed: 15,334 (Ranked 102)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,325 | 55 |
+| 2023-06-15 | 15,334 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
 Sum: 312 (Ranked 329)  

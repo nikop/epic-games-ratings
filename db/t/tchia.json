@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6494,
+  "EOS_Progressed": 6495,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3610,6 +3610,11 @@
       "Time": "2023-06-15T16:05:26.3434028+00:00",
       "NumProgressed": 6494,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-15T17:05:29.7797567+00:00",
+      "NumProgressed": 6495,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3621,7 +3626,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ARRR",
@@ -3645,7 +3650,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3788,7 +3793,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6494,
+      "Progressed": 6495,
       "Completed": 24
     }
   ],
@@ -3796,8 +3801,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:26.3434023+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:29.7797559+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:57:59.9339174+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:26.3434383+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:57:59.594993+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:29.779812+00:00"
 }

@@ -1661,7 +1661,7 @@
   ],
   "EOS_Progressed": 42804,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4141,9 +4141,9 @@
       "ID": "SE_COMPLETE_VENICE",
       "SetID": "49kdhbg",
       "Name": "The boat can leave now...tell the crew",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 20546
+      "UsersEstimate": 20974
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4429,8 +4429,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-14T02:09:55.4739895+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:56.2864667+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:06:00.168888+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.0082179+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:59:37.3559471+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:56.2865423+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:59:37.8431591+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:06:00.1689951+00:00"
 }

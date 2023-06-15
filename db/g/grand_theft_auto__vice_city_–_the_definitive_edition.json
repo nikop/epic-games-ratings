@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -430,9 +430,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 8509,
+  "EOS_Progressed": 8511,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -4685,6 +4685,11 @@
       "Time": "2023-06-15T16:00:38.1601308+00:00",
       "NumProgressed": 8509,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-15T17:00:40.3254613+00:00",
+      "NumProgressed": 8511,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 34,
@@ -4784,7 +4789,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH13",
@@ -4856,7 +4861,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "ACH22",
@@ -4872,7 +4877,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "ACH24",
@@ -4904,7 +4909,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH28",
@@ -4967,7 +4972,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8509,
+      "Progressed": 8511,
       "Completed": 32
     }
   ],
@@ -4975,8 +4980,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-15T09:58:35.5429032+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:00:38.1601299+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:00:40.3254604+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:58:15.5760435+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:00:38.1601816+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:58:16.2640167+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:00:40.3255179+00:00"
 }

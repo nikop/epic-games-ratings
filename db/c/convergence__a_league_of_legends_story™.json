@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1370,9 +1370,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1530,9 +1530,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "MapCompletion1",
@@ -1714,9 +1714,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "WarwickDefeated",
@@ -1738,17 +1738,17 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1769,8 +1769,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:12.2617875+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:15.8720457+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:59:14.8171164+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:12.261845+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:59:14.9829213+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:15.8720975+00:00"
 }

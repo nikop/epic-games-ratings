@@ -13,7 +13,7 @@ Number of Ratings: 743  (23.09.2022)
 | Groovy | 61.00% | ~26,110 |
 | Cleanup on aisle 4! | 57.00% | ~24,398 |
 | Gold | 50.00% | ~21,402 |
-| The boat can leave now...tell the crew | 48.00% | ~20,546 |
+| The boat can leave now...tell the crew | 49.00% | ~20,974 |
 | Stand back boy! | 47.00% | ~20,118 |
 | Give me something to shoot! | 46.00% | ~19,690 |
 | Weird science | 44.00% | ~18,834 |

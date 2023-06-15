@@ -9,10 +9,12 @@
 | Rail Rat | 10.00% | ~70 |
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
+| Make Up For Lost Time | 9.00% | ~63 |
 | Cartographer | 9.00% | ~63 |
 | The Prince in Heels | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
-| Make Up For Lost Time | 8.00% | ~56 |
+| Immaculate Aim | 9.00% | ~63 |
+| The Brass Boss | 9.00% | ~63 |
 | Time Flies | 8.00% | ~56 |
 | The Harder They Fall | 8.00% | ~56 |
 | No, Thanks! | 8.00% | ~56 |
@@ -20,8 +22,7 @@
 | The Wicked Twins | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
-| Immaculate Aim | 8.00% | ~56 |
-| The Brass Boss | 8.00% | ~56 |
+| Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
 | The Betrayer | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
@@ -29,17 +30,16 @@
 | Golem Chaser | 7.00% | ~49 |
 | Check Your Pulse | 7.00% | ~49 |
 | The Family Fortune | 7.00% | ~49 |
-| Right On Time | 6.00% | ~42 |
 | Street Style | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
 | Family Memories | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
+| Good Neighbor | 5.00% | ~35 |
 | Chaincrawler Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
 | Sump Explorer | 4.00% | ~28 |
 | Syron for Hope | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
-| Good Neighbor | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |
 | Cultivair Explorer | 3.00% | ~21 |

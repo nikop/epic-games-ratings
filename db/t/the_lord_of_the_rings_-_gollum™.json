@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -835,6 +835,11 @@
       "Time": "2023-06-14T13:13:00.0970862+00:00",
       "NumProgressed": 437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T17:05:35.0234711+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -870,7 +875,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Chapter10",
@@ -892,9 +897,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "Chapter4",
@@ -1022,7 +1027,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Murderer",
@@ -1054,7 +1059,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RiverHobbit",
@@ -1070,7 +1075,7 @@
       "Name": "So Silly!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Scout",
@@ -1094,7 +1099,7 @@
       "Name": "Made a Song",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "StealFood",
@@ -1110,7 +1115,7 @@
       "Name": "So Tasty!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TriggerHappy",
@@ -1133,14 +1138,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-15T16:05:31.7542276+00:00",
+  "LastChanged_Achievements": "2023-06-15T17:05:35.0234703+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:57:49.8759234+00:00",
-  "LastUpdate_Achievements": "2023-06-15T16:05:31.7542618+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:57:49.1255217+00:00",
+  "LastUpdate_Achievements": "2023-06-15T17:05:35.0235097+00:00"
 }

@@ -34,7 +34,7 @@
 | Master Artificer | 41.00% | ~11 |
 | Master Cook | 33.00% | ~9 |
 | Boss challenge | 22.00% | ~6 |
-| Berserker Slayer | 19.00% | ~5 |
+| Berserker Slayer | 22.00% | ~6 |
 | Warden Slayer | 19.00% | ~5 |
 | Giantess Slayer | 15.00% | ~4 |
 | Big Face Goalkeeper Challenge | 11.00% | ~3 |
