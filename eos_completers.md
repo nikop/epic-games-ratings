@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 100.00% |
+| 1 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 50.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -23,10 +23,10 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.44% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.43% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.02% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.00% |
 | 28 | [Scorn](games/s/scorn.md) | 6.84% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -48,7 +48,7 @@
 | 46 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 47 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.15% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.12% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
