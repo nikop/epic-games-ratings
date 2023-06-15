@@ -8,8 +8,8 @@
 | 5 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.09% |
-| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.00% |
+| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
@@ -25,7 +25,7 @@
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.05% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
 | 28 | [Scorn](games/s/scorn.md) | 6.87% |
 | 29 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
@@ -45,7 +45,7 @@
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.30% |
+| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.31% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
@@ -452,4 +452,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,779 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,780 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
