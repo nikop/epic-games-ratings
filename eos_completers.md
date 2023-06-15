@@ -18,14 +18,14 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.22% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.26% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.25% |
 | 20 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 8.00% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.02% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.99% |
 | 28 | [Scorn](games/s/scorn.md) | 6.84% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
@@ -60,7 +60,7 @@
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 59 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.53% |
+| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.51% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
@@ -109,8 +109,8 @@
 | 107 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 108 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.67% |
 | 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
-| 110 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.65% |
-| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 110 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 112 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 113 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.57% |
 | 114 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
@@ -453,4 +453,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,783 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,784 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
