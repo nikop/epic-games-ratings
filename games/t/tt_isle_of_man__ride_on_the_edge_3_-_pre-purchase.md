@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~82 |
-| To Each Their Own | 47.00% | ~40 |
+| You're Going Down! | 97.00% | ~83 |
+| To Each Their Own | 48.00% | ~41 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~18 |
 | Onwards and Upwards | 20.00% | ~17 |
 | Serial Winner | 13.00% | ~11 |
@@ -20,13 +20,13 @@
 | Tailor-Made | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
-| POI Hunter | 4.00% | ~3 |
-| Gotta Go Fast! | 4.00% | ~3 |
-| Say My Name | 4.00% | ~3 |
-| First and Foremost | 4.00% | ~3 |
-| First Things First | 4.00% | ~3 |
-| Made Mother Proud | 4.00% | ~3 |
-| Winner Winner Chicken Dinner | 4.00% | ~3 |
+| POI Hunter | 3.00% | ~3 |
+| Gotta Go Fast! | 3.00% | ~3 |
+| Say My Name | 3.00% | ~3 |
+| First and Foremost | 3.00% | ~3 |
+| First Things First | 3.00% | ~3 |
+| Made Mother Proud | 3.00% | ~3 |
+| Winner Winner Chicken Dinner | 3.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
@@ -44,8 +44,8 @@
 | Playing Favourites | 2.00% | ~2 |
 | Tempus Fugit | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 288)  
-Completed: 2 (2.35%) (Ranked 64)  
+Progressed: 86 (Ranked 288)  
+Completed: 2 (2.33%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,3 +82,4 @@ Completed: 2 (2.35%) (Ranked 64)
 | 2023-06-10 | 82 | 2 |
 | 2023-06-11 | 83 | 2 |
 | 2023-06-13 | 85 | 2 |
+| 2023-06-15 | 86 | 2 |

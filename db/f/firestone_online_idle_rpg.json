@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3284,9 +3284,9 @@
       "ID": "enchantingskillx5",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill x5",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "engineermastery",
@@ -3508,9 +3508,9 @@
       "ID": "mythicpower",
       "SetID": "3nl4bcg",
       "Name": "Mythic Power",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "naturaltalent",
@@ -3524,9 +3524,9 @@
       "ID": "pokerface",
       "SetID": "3nl4bcg",
       "Name": "Pokerface",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "prestigious",
@@ -3749,8 +3749,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:07:28.1379828+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:15:19.0026358+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:58:48.5580524+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:07:28.138088+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:07:22.851295+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:15:19.0027093+00:00"
 }

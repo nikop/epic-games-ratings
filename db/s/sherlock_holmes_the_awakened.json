@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
@@ -1399,6 +1399,11 @@
       "Time": "2023-06-15T02:12:50.0063723+00:00",
       "NumProgressed": 461,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-15T13:13:33.843947+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 28,
@@ -1424,9 +1429,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ02_2",
@@ -1448,17 +1453,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 231
     },
     {
       "ID": "MQ03_2",
@@ -1466,7 +1471,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "MQ03_3",
@@ -1474,7 +1479,7 @@
       "Name": "History Check",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MQ03_4",
@@ -1512,17 +1517,17 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 194
     },
     {
       "ID": "MQ05_2",
@@ -1536,9 +1541,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 194
     },
     {
       "ID": "MQ05_4",
@@ -1633,7 +1638,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 18
     }
   ],
@@ -1641,8 +1646,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:04:52.433572+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:13:33.8439459+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:57:49.1395731+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:04:52.4336054+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:06:40.7925957+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:13:33.8439694+00:00"
 }

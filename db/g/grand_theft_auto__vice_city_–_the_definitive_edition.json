@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -430,9 +430,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 8491,
+  "EOS_Progressed": 8495,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -4665,6 +4665,11 @@
       "Time": "2023-06-15T11:00:32.214532+00:00",
       "NumProgressed": 8491,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-15T13:09:54.1036032+00:00",
+      "NumProgressed": 8495,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 34,
@@ -4692,7 +4697,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH04",
@@ -4748,7 +4753,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH11",
@@ -4756,7 +4761,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH12",
@@ -4780,7 +4785,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3398
     },
     {
       "ID": "ACH15",
@@ -4804,7 +4809,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH18",
@@ -4836,7 +4841,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3738
     },
     {
       "ID": "ACH22",
@@ -4844,7 +4849,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH23",
@@ -4852,7 +4857,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ACH24",
@@ -4892,7 +4897,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH29",
@@ -4908,7 +4913,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH31",
@@ -4947,7 +4952,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8491,
+      "Progressed": 8495,
       "Completed": 32
     }
   ],
@@ -4955,8 +4960,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-15T09:58:35.5429032+00:00",
-  "LastChanged_Achievements": "2023-06-15T11:00:32.2145315+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:09:54.1036027+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:59:06.2375956+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:02:24.0809777+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:07:35.5686495+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:09:54.1036399+00:00"
 }

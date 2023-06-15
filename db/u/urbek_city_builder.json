@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -607,6 +607,11 @@
       "Time": "2023-06-15T03:06:52.1685992+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T13:15:25.226105+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -642,7 +647,7 @@
       "Name": "Archipelago builder",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ARCHIPIELAGO_2",
@@ -706,7 +711,7 @@
       "Name": "Food producer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "COMIDA_2",
@@ -842,7 +847,7 @@
       "Name": "What is there after death?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FAITH_3",
@@ -946,7 +951,7 @@
       "Name": "I like parks",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -978,7 +983,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MURICA_1",
@@ -986,7 +991,7 @@
       "Name": "Freedom to go to the mall!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MURICA_2",
@@ -1034,7 +1039,7 @@
       "Name": "Town planner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "POINTS_30K",
@@ -1050,7 +1055,7 @@
       "Name": "Small town",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "POPULATION_2",
@@ -1058,7 +1063,7 @@
       "Name": "Metropolurbek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "POPULATION_3",
@@ -1138,7 +1143,7 @@
       "Name": "Sport is good for you",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "SPORTS_2",
@@ -1226,7 +1231,7 @@
       "Name": "Bucolic city",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "WELFARE_1",
@@ -1234,7 +1239,7 @@
       "Name": "Soviet town",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "WELFARE_2",
@@ -1249,7 +1254,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
@@ -1257,8 +1262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:07:36.3040097+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:15:25.2261041+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:59:49.3072108+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:07:36.3041141+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:08:05.2398308+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:15:25.2261734+00:00"
 }

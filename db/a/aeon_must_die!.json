@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 2783,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3500,
+  "EOS_Progressed": 3501,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -236,6 +236,11 @@
       "Time": "2023-06-15T10:06:28.0820125+00:00",
       "NumProgressed": 3500,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-15T13:15:03.1816304+00:00",
+      "NumProgressed": 3501,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -263,7 +268,7 @@
       "Name": "Respect Earned",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "12",
@@ -351,7 +356,7 @@
       "Name": "You\u0027re Trapped Here With Me",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "22",
@@ -359,7 +364,7 @@
       "Name": "Out Of My Way",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "23",
@@ -526,7 +531,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": -29
     }
   ],
@@ -534,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:07:09.0459415+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:15:03.1816294+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.8710909+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:57:46.2687355+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:07:09.0459711+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:06:38.6762992+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:15:03.1816518+00:00"
 }

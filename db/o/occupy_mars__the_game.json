@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1258,
+  "EOS_Progressed": 1259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2032,6 +2032,11 @@
       "Time": "2023-06-15T11:03:43.9171416+00:00",
       "NumProgressed": 1258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T13:13:25.500235+00:00",
+      "NumProgressed": 1259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2147,7 +2152,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -2193,9 +2198,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 227
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2259,7 +2264,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2379,7 +2384,7 @@
       "Name": "Space Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -2426,7 +2431,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1258,
+      "Progressed": 1259,
       "Completed": 0
     }
   ],
@@ -2434,8 +2439,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-14T13:03:45.8623512+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:04:41.0813467+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:13:25.5002344+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:57:59.9591604+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:04:41.0813985+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:06:48.9275111+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:13:25.5002734+00:00"
 }

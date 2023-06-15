@@ -20,7 +20,7 @@
 | Notorious Pirate | 5.00% | ~2 |
 | Master Firefighter | 5.00% | ~2 |
 | Family Reunion | 5.00% | ~2 |
-| Master Miner | 3.00% | ~1 |
+| Master Miner | 5.00% | ~2 |
 | Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Just Lazy | 0.00% | ~0 |

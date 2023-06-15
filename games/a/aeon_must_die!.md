@@ -30,9 +30,9 @@
 | Iron Will | 0.50% | ~18 |
 | Not On My Watch | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |
-| Respect Earned | 0.30% | ~10 |
-| You're Trapped Here With Me | 0.30% | ~10 |
-| Out Of My Way | 0.30% | ~10 |
+| Respect Earned | 0.30% | ~11 |
+| You're Trapped Here With Me | 0.30% | ~11 |
+| Out Of My Way | 0.30% | ~11 |
 | Rush Of Flames | 0.20% | ~7 |
 | Cold Blooded | 0.20% | ~7 |
 | A Path Scarred by Choice | 0.20% | ~7 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 136)  
+Progressed: 3,501 (Ranked 136)  
 Completed: -29 (-0.83%) (Ranked 2,783)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: -29 (-0.83%) (Ranked 2,783)
 | 2023-06-10 | 3,495 | -29 |
 | 2023-06-12 | 3,498 | -29 |
 | 2023-06-13 | 3,499 | -29 |
-| 2023-06-15 | 3,500 | -29 |
+| 2023-06-15 | 3,501 | -29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

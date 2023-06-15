@@ -62,20 +62,20 @@ Rating: 4.05 (Ranked 894)
 | The Alchemist | 2.00% | ~28 |
 | What lies behind the bush | 2.00% | ~28 |
 | Legendary | 1.00% | ~14 |
+| Mythic Power | 0.60% | ~8 |
 | Training makes a Pro player | 0.60% | ~8 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Gear Enchanting | 0.40% | ~6 |
 | Guardian Master | 0.40% | ~6 |
-| Mythic Power | 0.40% | ~6 |
+| Pokerface | 0.40% | ~6 |
 | Titan Power | 0.40% | ~6 |
-| Pokerface | 0.30% | ~4 |
+| Enchanting skill x5 | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
 | Angel Power | 0.10% | ~1 |
 | Conqueror | 0.10% | ~1 |
-| Enchanting skill x5 | 0.10% | ~1 |
 | Jewel Enchanting | 0.10% | ~1 |
 | Silverwood liberator | 0.10% | ~1 |
 | Ultimate War Machines | 0.10% | ~1 |

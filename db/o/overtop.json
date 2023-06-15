@@ -4,7 +4,7 @@
   "ProductSlug": "overtop-ed5e49",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-28T07:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-28T08:00:45.5138865+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:06:42.2849378+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:14:51.8533782+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:17.7773564+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:57:48.8199095+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:06:42.2849418+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:06:40.6096539+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:14:51.8533811+00:00"
 }

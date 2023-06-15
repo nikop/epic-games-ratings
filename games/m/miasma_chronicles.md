@@ -22,7 +22,7 @@ Rating: 4.31 (Ranked 762)
 | The meaning of Kain | 33.00% | ~374 |
 | Technophobe | 31.00% | ~351 |
 | Recycler | 29.00% | ~329 |
-| Are you not entertained? | 25.00% | ~283 |
+| Are you not entertained? | 26.00% | ~295 |
 | Ganglord | 25.00% | ~283 |
 | Jarhead | 25.00% | ~283 |
 | Infiltrator | 24.00% | ~272 |

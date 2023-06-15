@@ -10,14 +10,14 @@ Rating: 4.45 (Ranked 619)
 | Enter the Speed Gauntlet | 25.00% | ~255 |
 | I just can't choose | 25.00% | ~255 |
 | A Cheese Grater to the Face | 20.00% | ~204 |
+| Put it on a shelf | 19.00% | ~194 |
 | It's like an haircut | 18.00% | ~184 |
-| Put it on a shelf | 18.00% | ~184 |
-| Suit up | 16.00% | ~163 |
+| Suit up | 17.00% | ~173 |
+| Ride in the rising sun | 16.00% | ~163 |
 | Walked like an Egyptian | 15.00% | ~153 |
-| Ride in the rising sun | 15.00% | ~153 |
+| Rookie No-No More | 13.00% | ~133 |
 | Running at the speed of sound | 13.00% | ~133 |
 | Martian explorer | 12.00% | ~122 |
-| Rookie No-No More | 12.00% | ~122 |
 | To the core | 9.00% | ~92 |
 | Blurred photofinish | 9.00% | ~92 |
 | EZ game EZ life | 7.00% | ~71 |

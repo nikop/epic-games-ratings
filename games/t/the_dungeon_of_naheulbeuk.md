@@ -6,49 +6,49 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 98.00% | ~89 |
-| Where's that freaking Dwarf? | 92.00% | ~84 |
-| Sock! SOCK! | 79.00% | ~72 |
-| Fireproof Wizardess | 65.00% | ~59 |
-| Livin' in a dwarven paradise | 64.00% | ~58 |
-| Déjà vu | 57.00% | ~52 |
-| Way of the Wimp | 54.00% | ~49 |
-| GG EZ | 54.00% | ~49 |
-| DM intervention | 54.00% | ~49 |
+| Alt+F4 | 98.00% | ~90 |
+| Where's that freaking Dwarf? | 92.00% | ~85 |
+| Sock! SOCK! | 79.00% | ~73 |
+| Fireproof Wizardess | 65.00% | ~60 |
+| Livin' in a dwarven paradise | 64.00% | ~59 |
+| Déjà vu | 58.00% | ~53 |
+| Way of the Wimp | 53.00% | ~49 |
+| GG EZ | 53.00% | ~49 |
+| DM intervention | 53.00% | ~49 |
+| Speedrun | 48.00% | ~44 |
 | Oh, when I'll be level 10... | 48.00% | ~44 |
-| Speedrun | 47.00% | ~43 |
-| I am the night | 42.00% | ~38 |
-| Team Building Exercise | 42.00% | ~38 |
-| Thieves' Guild Accreditation | 40.00% | ~36 |
+| I am the night | 41.00% | ~38 |
+| Team Building Exercise | 41.00% | ~38 |
+| Thieves' Guild Accreditation | 40.00% | ~37 |
+| The Ranger of Chaos | 39.00% | ~36 |
 | A beer, two curses, three companions | 38.00% | ~35 |
-| The Ranger of Chaos | 38.00% | ~35 |
-| The plot thickens... At the tavern | 37.00% | ~34 |
-| Dwarf Fortress | 36.00% | ~33 |
-| Look but don't touch | 35.00% | ~32 |
-| Shiny and Crôm | 33.00% | ~30 |
-| Material Girl | 32.00% | ~29 |
-| The demons' feast | 31.00% | ~28 |
-| Torture and Sensibility | 31.00% | ~28 |
-| Gargantua | 31.00% | ~28 |
-| The Statuette of Gladeulfeurah | 30.00% | ~27 |
-| A tale of adventurers not quite like the others... | 30.00% | ~27 |
-| The Great Library | 29.00% | ~26 |
+| The plot thickens... At the tavern | 38.00% | ~35 |
+| Dwarf Fortress | 37.00% | ~34 |
+| Look but don't touch | 36.00% | ~33 |
+| Shiny and Crôm | 34.00% | ~31 |
+| Material Girl | 33.00% | ~30 |
+| Gargantua | 32.00% | ~29 |
+| The demons' feast | 30.00% | ~28 |
+| Torture and Sensibility | 30.00% | ~28 |
+| The Statuette of Gladeulfeurah | 29.00% | ~27 |
+| A tale of adventurers not quite like the others... | 29.00% | ~27 |
+| The Great Library | 28.00% | ~26 |
 | The Famous Dungeon of Naheulbeuk | 25.00% | ~23 |
 | The beards of change | 23.00% | ~21 |
 | The Blood Countess | 22.00% | ~20 |
 | Cursed die | 21.00% | ~19 |
 | Urik's Depths | 20.00% | ~18 |
-| The Woman in the High Castle | 19.00% | ~17 |
-| Res Judicata | 18.00% | ~16 |
-| In Navalu's footsteps | 18.00% | ~16 |
+| The Woman in the High Castle | 20.00% | ~18 |
+| In Navalu's footsteps | 18.00% | ~17 |
+| Res Judicata | 17.00% | ~16 |
 | Law and Order | 16.00% | ~15 |
 | Necrophilia | 15.00% | ~14 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~14 |
-| Dead for good | 14.00% | ~13 |
+| Dead for good | 15.00% | ~14 |
+| Scholar of the Lands of Fangh | 13.00% | ~12 |
 | The Dungeon Master | 13.00% | ~12 |
 | He’s alive! Aliiiive! | 13.00% | ~12 |
-| Scholar of the Lands of Fangh | 12.00% | ~11 |
-| It's been a hard day's night | 11.00% | ~10 |
+| It's been a hard day's night | 12.00% | ~11 |
 | An old poacher makes the best gamekeeper | 10.00% | ~9 |
 | Lëgal Legend | 10.00% | ~9 |
 | Lust and Debauchery | 9.00% | ~8 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 282)  
+Progressed: 92 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 77 | 0 |
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
-| 2023-06-15 | 91 | 0 |
+| 2023-06-15 | 92 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

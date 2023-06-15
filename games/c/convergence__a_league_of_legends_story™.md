@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 12.00% | ~84 |
+| The Mysterious Stranger | 10.00% | ~70 |
 | Rail Rat | 10.00% | ~70 |
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
-| The Mysterious Stranger | 9.00% | ~63 |
 | Cartographer | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | Make Up For Lost Time | 8.00% | ~56 |
@@ -18,6 +18,7 @@
 | Breaking Down Barriers | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
 | The Prince in Heels | 8.00% | ~56 |
+| Honest Mistake | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
 | Immaculate Aim | 8.00% | ~56 |
 | The Brass Boss | 8.00% | ~56 |
@@ -25,7 +26,6 @@
 | The Betrayer | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
 | The Loose Cannon | 7.00% | ~49 |
-| Honest Mistake | 7.00% | ~49 |
 | Golem Chaser | 7.00% | ~49 |
 | Check Your Pulse | 7.00% | ~49 |
 | Right On Time | 6.00% | ~42 |

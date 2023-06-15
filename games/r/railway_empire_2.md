@@ -31,9 +31,9 @@ Rating: 4.22 (Ranked 816)
 | Mole | 26.00% | ~313 |
 | Financial Shark | 26.00% | ~313 |
 | Socializer | 25.00% | ~300 |
+| General Manager | 23.00% | ~276 |
 | Country Life | 23.00% | ~276 |
 | Seven at one stroke | 22.00% | ~264 |
-| General Manager | 22.00% | ~264 |
 | Hostile Takeover | 22.00% | ~264 |
 | Trailblazer | 18.00% | ~216 |
 | Breaking Ground | 17.00% | ~204 |
@@ -46,7 +46,7 @@ Rating: 4.22 (Ranked 816)
 | Max Power | 10.00% | ~120 |
 | Settler | 10.00% | ~120 |
 | Go West | 9.00% | ~108 |
-| Bold and beautiful | 8.00% | ~96 |
+| Bold and beautiful | 9.00% | ~108 |
 | A new Hope | 6.00% | ~72 |
 | Tycoon | 6.00% | ~72 |
 | Unstoppable | 3.00% | ~36 |

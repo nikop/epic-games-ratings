@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 652,
+  "EOS_Progressed": 653,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-06-15T12:07:24.4780243+00:00",
       "NumProgressed": 652,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T13:15:15.8776772+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -965,7 +970,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH001",
@@ -1021,7 +1026,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH008",
@@ -1053,7 +1058,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH012",
@@ -1069,7 +1074,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH014",
@@ -1205,7 +1210,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH031",
@@ -1253,7 +1258,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH037",
@@ -1364,15 +1369,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:07:24.4780236+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:15:15.8776766+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:59:23.1031311+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:07:24.4781035+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:07:46.454848+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:15:15.8777128+00:00"
 }

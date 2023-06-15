@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3656,
+  "EOS_Progressed": 3657,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -4459,6 +4459,11 @@
       "Time": "2023-06-15T12:02:14.9579904+00:00",
       "NumProgressed": 3656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T13:09:47.3781546+00:00",
+      "NumProgressed": 3657,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4486,7 +4491,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4566,7 +4571,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4598,7 +4603,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4742,7 +4747,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4750,7 +4755,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4774,7 +4779,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4789,15 +4794,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3656,
+      "Progressed": 3657,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:02:14.9579896+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:09:47.3781541+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-15T12:01:31.1119536+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:02:14.9580597+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:09:15.6984329+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:09:47.3782004+00:00"
 }

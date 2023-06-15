@@ -490,9 +490,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2620,6 +2620,11 @@
       "Time": "2023-06-15T11:03:14.5212467+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T13:12:55.1783498+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2639,7 +2644,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AncestorsPride_13",
@@ -2687,7 +2692,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "Eureka_23",
@@ -2719,7 +2724,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -2775,7 +2780,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "MasterofAurai_20",
@@ -2815,7 +2820,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2855,7 +2860,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2951,7 +2956,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2966,15 +2971,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2919,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:03:49.0156792+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:12:55.1783491+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:58:30.8078552+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:03:49.0157251+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:07:10.2907012+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:12:55.1783842+00:00"
 }

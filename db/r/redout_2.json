@@ -479,9 +479,9 @@
       "ID": "ALLTRACKSFUJI",
       "SetID": "3dh70f3",
       "Name": "Ride in the rising sun",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 163
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -543,9 +543,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 133
     },
     {
       "ID": "CAREERCLASSA",
@@ -711,9 +711,9 @@
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 173
     },
     {
       "ID": "ONEMODULE",
@@ -743,9 +743,9 @@
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 194
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -832,8 +832,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-15T12:07:29.8931768+00:00",
+  "LastChanged_Achievements": "2023-06-15T13:15:20.2789676+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-15T11:58:55.3747419+00:00",
-  "LastUpdate_Achievements": "2023-06-15T12:07:29.8932461+00:00"
+  "LastUpdate_Ratings": "2023-06-15T13:07:27.7066342+00:00",
+  "LastUpdate_Achievements": "2023-06-15T13:15:20.2790033+00:00"
 }

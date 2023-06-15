@@ -6,29 +6,29 @@ Rating: 4.57 (Ranked 442)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 18.00% | ~477 |
-| Sputnik 2049 | 15.00% | ~397 |
+| Infinite Growth... | 15.00% | ~398 |
+| Sputnik 2049 | 15.00% | ~398 |
 | Without Breaking Some Eggs... | 14.00% | ~371 |
-| Infinite Growth... | 14.00% | ~371 |
-| Space Society | 9.00% | ~238 |
-| A Thousand Strong | 9.00% | ~238 |
-| Ready for a New World | 9.00% | ~238 |
+| Space Society | 9.00% | ~239 |
+| A Thousand Strong | 9.00% | ~239 |
+| Ready for a New World | 9.00% | ~239 |
 | Permanent Redesigns | 8.00% | ~212 |
-| Guy de Borderlands | 7.00% | ~185 |
-| Fully Recycled | 7.00% | ~185 |
-| Ain't Nobody Got Time for That | 7.00% | ~185 |
-| The Ship of Theseus | 7.00% | ~185 |
-| Hope Seeker | 7.00% | ~185 |
+| Ain't Nobody Got Time for That | 8.00% | ~212 |
+| Guy de Borderlands | 7.00% | ~186 |
+| Fully Recycled | 7.00% | ~186 |
+| The Ship of Theseus | 7.00% | ~186 |
+| Hope Seeker | 7.00% | ~186 |
 | A Hunk of Junk | 6.00% | ~159 |
 | Breaking Protocol | 6.00% | ~159 |
-| Exceeding Capacity | 5.00% | ~132 |
+| Exceeding Capacity | 5.00% | ~133 |
 | Power Outage | 4.00% | ~106 |
 | Please Make it Stop! | 4.00% | ~106 |
-| Man's Best Friend | 3.00% | ~79 |
-| Sightseeing | 3.00% | ~79 |
-| Access Granted | 3.00% | ~79 |
-| Necessary Enhancement | 3.00% | ~79 |
-| Convenient Transport | 3.00% | ~79 |
-| From the Past | 3.00% | ~79 |
+| Man's Best Friend | 3.00% | ~80 |
+| Sightseeing | 3.00% | ~80 |
+| Access Granted | 3.00% | ~80 |
+| Necessary Enhancement | 3.00% | ~80 |
+| Convenient Transport | 3.00% | ~80 |
+| From the Past | 3.00% | ~80 |
 | Oats | 2.00% | ~53 |
 | What They Hide From Us | 2.00% | ~53 |
 | ...  in a finite world | 2.00% | ~53 |
@@ -37,11 +37,11 @@ Rating: 4.57 (Ranked 442)
 | BRAWL! | 2.00% | ~53 |
 | All in Good Health | 2.00% | ~53 |
 | What the Ruins Teach Us | 2.00% | ~53 |
-| Mutual Loyalty | 1.00% | ~26 |
-| Praise the Hull! | 1.00% | ~26 |
-| Delivery! | 1.00% | ~26 |
-| Pedal to the Metal | 1.00% | ~26 |
-| Pulsar Disciple | 1.00% | ~26 |
+| Mutual Loyalty | 1.00% | ~27 |
+| Praise the Hull! | 1.00% | ~27 |
+| Delivery! | 1.00% | ~27 |
+| Pedal to the Metal | 1.00% | ~27 |
+| Pulsar Disciple | 1.00% | ~27 |
 | Catastrophe Avoided | 0.90% | ~24 |
 | Space Greenhouse | 0.90% | ~24 |
 | Help of the Forgotten Member | 0.90% | ~24 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,649 (Ranked 148)  
+Progressed: 2,652 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 2,609 | 0 |
 | 2023-06-13 | 2,625 | 0 |
 | 2023-06-14 | 2,639 | 0 |
-| 2023-06-15 | 2,649 | 0 |
+| 2023-06-15 | 2,652 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
