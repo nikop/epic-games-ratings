@@ -1,12 +1,12 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 853)  
+Rating: 4.17 (Ranked 854)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 5.00% | ~3,258 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,606 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,607 |
 | To the Victor Go the Spoils | 3.00% | ~1,955 |
 | Get ReQ'd | 3.00% | ~1,955 |
 | Knighthood | 3.00% | ~1,955 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 853)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,159 (Ranked 70)  
-Completed: 95 (0.15%) (Ranked 161)  
+Progressed: 65,165 (Ranked 70)  
+Completed: 95 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 95 (0.15%) (Ranked 161)
 | 2023-06-12 | 64,767 | 95 |
 | 2023-06-13 | 64,897 | 95 |
 | 2023-06-14 | 65,051 | 95 |
-| 2023-06-15 | 65,159 | 95 |
+| 2023-06-15 | 65,165 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,336  (Ranked 98)  
 Sum: 3,866 (Ranked 137)  

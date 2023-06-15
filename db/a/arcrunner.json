@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1126,9 +1126,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1175,8 +1175,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:00:49.4259482+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:00:37.0516522+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:59:39.2835619+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:00:49.4259752+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:59:27.146984+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:00:37.0516816+00:00"
 }

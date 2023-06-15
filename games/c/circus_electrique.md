@@ -1,17 +1,17 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 857)  
+Rating: 4.16 (Ranked 858)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 43.00% | ~190 |
+| Grand Opening | 39.00% | ~172 |
 | Circus Electrique Proudly Presents... | 39.00% | ~172 |
-| Grand Opening | 38.00% | ~168 |
 | Path of Learning | 38.00% | ~168 |
 | Built in a Day | 32.00% | ~141 |
-| More Brain Than Brawn | 27.00% | ~119 |
+| More Brain Than Brawn | 28.00% | ~123 |
 | Perfect Illusion | 22.00% | ~97 |
 | Hundred Percent First | 22.00% | ~97 |
 | Dirty Dozen | 18.00% | ~79 |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 441 (Ranked 209)  
-Completed: 1 (0.23%) (Ranked 146)  
+Completed: 1 (0.23%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

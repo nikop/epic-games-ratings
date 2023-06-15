@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1073,9 +1073,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1098,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-15T14:03:10.8422348+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:03:16.6215709+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:48.0016339+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:38.7765159+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:04:01.5155277+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:29.2470151+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:03:16.6215864+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 14.91,
+  "EOS_Completed_Percentage": 14.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1538,6 +1538,11 @@
       "Time": "2023-06-15T13:14:56.9027601+00:00",
       "NumProgressed": 342,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-15T16:05:27.4474285+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 22,
@@ -1549,7 +1554,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "LEVEL_002",
@@ -1557,7 +1562,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "LEVEL_003",
@@ -1573,7 +1578,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "LEVEL_005",
@@ -1581,7 +1586,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "LEVEL_006",
@@ -1589,15 +1594,15 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_008",
@@ -1613,7 +1618,7 @@
       "Name": "Who loves trains?",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_010",
@@ -1635,9 +1640,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_013",
@@ -1661,7 +1666,7 @@
       "Name": "Monumental tribute",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_016",
@@ -1683,9 +1688,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_019",
@@ -1724,7 +1729,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 51
     }
   ],
@@ -1732,8 +1737,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:01.7745355+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:27.4474279+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:14.1826543+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:01.7745622+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:04.6094763+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:27.4474553+00:00"
 }

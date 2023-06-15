@@ -6,26 +6,26 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~26,899 |
-| Gone Home | 93.00% | ~25,790 |
-| Wonderfalls | 87.00% | ~24,126 |
-| Got to Catch a Few | 77.00% | ~21,353 |
-| Double Trapper | 75.00% | ~20,798 |
-| I'm Stuffed | 69.00% | ~19,134 |
-| Got to Catch a Lot | 66.00% | ~18,302 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~16,916 |
-| Know Thy Neighbor | 59.00% | ~16,361 |
-| In the Arms of the Gramble | 58.00% | ~16,084 |
-| Launch Party | 56.00% | ~15,529 |
-| Perf Dirt | 56.00% | ~15,529 |
-| Vacation's End | 52.00% | ~14,420 |
-| Bossy Bugs | 46.00% | ~12,756 |
+| Everybody Gets One | 97.00% | ~26,900 |
+| Gone Home | 93.00% | ~25,791 |
+| Wonderfalls | 87.00% | ~24,127 |
+| Got to Catch a Few | 77.00% | ~21,354 |
+| Double Trapper | 75.00% | ~20,799 |
+| I'm Stuffed | 69.00% | ~19,135 |
+| Got to Catch a Lot | 66.00% | ~18,303 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~16,917 |
+| Know Thy Neighbor | 59.00% | ~16,362 |
+| In the Arms of the Gramble | 58.00% | ~16,085 |
+| Launch Party | 56.00% | ~15,530 |
+| Perf Dirt | 56.00% | ~15,530 |
+| Vacation's End | 52.00% | ~14,421 |
+| Bossy Bugs | 46.00% | ~12,757 |
 | Survivor | 44.00% | ~12,202 |
-| That Reminds Me of a Puzzle | 43.00% | ~11,924 |
-| Sidetracked | 40.00% | ~11,092 |
+| That Reminds Me of a Puzzle | 43.00% | ~11,925 |
+| Sidetracked | 40.00% | ~11,093 |
 | Film Buff | 38.00% | ~10,538 |
 | Combo Meal | 38.00% | ~10,538 |
-| Midnight Snak | 36.00% | ~9,983 |
+| Midnight Snak | 36.00% | ~9,984 |
 | Candid Cryptid | 35.00% | ~9,706 |
 | Got to Catch Them All | 32.00% | ~8,874 |
 | Deep Impact | 22.00% | ~6,101 |
@@ -34,10 +34,10 @@ Number of Ratings: 425  (23.09.2022)
 | Clothesline | 16.00% | ~4,437 |
 | Say Cheese! | 15.00% | ~4,160 |
 | Sundae Best | 13.00% | ~3,605 |
-| Live Laugh Hut | 8.00% | ~2,218 |
+| Live Laugh Hut | 8.00% | ~2,219 |
 | Dapper Capper | 6.00% | ~1,664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,731 (Ranked 90)  
+Progressed: 27,732 (Ranked 90)  
 Completed: 1,283 (4.63%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1,283 (4.63%) (Ranked 35)
 | 2023-06-12 | 27,701 | 1,281 |
 | 2023-06-13 | 27,712 | 1,281 |
 | 2023-06-14 | 27,724 | 1,283 |
-| 2023-06-15 | 27,731 | 1,283 |
+| 2023-06-15 | 27,732 | 1,283 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 423)  
 Sum: 317 (Ranked 328)  

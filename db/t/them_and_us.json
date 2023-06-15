@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-06-14T16:03:48.2395138+00:00",
       "NumProgressed": 142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T16:03:21.7998739+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -600,7 +605,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -680,7 +685,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -758,9 +763,9 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_Researcher",
@@ -822,9 +827,9 @@
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_TheCultists",
@@ -862,9 +867,9 @@
       "ID": "ETUA_ThisMansionIsClean",
       "SetID": "65jc0ap",
       "Name": "This Mansion Is Clean",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -903,7 +908,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 1
     }
   ],
@@ -911,8 +916,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:04:06.6197517+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:03:21.7998733+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:57:30.3864308+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:04:06.619786+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:57:21.92601+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:03:21.799906+00:00"
 }

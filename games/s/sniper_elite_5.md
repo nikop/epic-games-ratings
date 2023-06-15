@@ -1,18 +1,18 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.53 (Ranked 501)  
+Rating: 4.53 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~866 |
-| Confirming Suspicions | 25.00% | ~722 |
+| Meeting Resistance | 30.00% | ~867 |
+| Confirming Suspicions | 25.00% | ~723 |
 | The Kraken Wakes | 20.00% | ~578 |
 | It's Starting to Crack | 18.00% | ~520 |
-| Lord of War | 15.00% | ~433 |
-| Change the Channel | 15.00% | ~433 |
-| Resourceful | 14.00% | ~404 |
-| Taking it back | 13.00% | ~375 |
+| Lord of War | 15.00% | ~434 |
+| Change the Channel | 15.00% | ~434 |
+| Resourceful | 14.00% | ~405 |
+| Taking it back | 13.00% | ~376 |
 | Target America | 12.00% | ~347 |
 | Organ Grinder | 11.00% | ~318 |
 | As Quiet as a Mouse | 11.00% | ~318 |
@@ -29,11 +29,11 @@ Rating: 4.53 (Ranked 501)
 | Snake in the Grass | 7.00% | ~202 |
 | Brains of the Operation | 7.00% | ~202 |
 | Climbing the Ladder | 6.00% | ~173 |
-| No Stone Unturned | 6.00% | ~173 |
 | Fields of Glory | 6.00% | ~173 |
 | Skirmisher | 6.00% | ~173 |
 | Die Nussknacker Sweet! | 6.00% | ~173 |
-| Set Europe Ablaze | 5.00% | ~144 |
+| No Stone Unturned | 5.00% | ~145 |
+| Set Europe Ablaze | 5.00% | ~145 |
 | Precision Is Key | 4.00% | ~116 |
 | Rigged to Blow | 4.00% | ~116 |
 | My Little Friend | 3.00% | ~87 |
@@ -54,18 +54,18 @@ Rating: 4.53 (Ranked 501)
 | Souvenir hunter | 0.70% | ~20 |
 | Shoot for the Moon | 0.70% | ~20 |
 | Eagle Eyed | 0.60% | ~17 |
-| Up close and personal | 0.50% | ~14 |
 | Can't Outrun A Bullet | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~14 |
-| Fight Another Day | 0.50% | ~14 |
+| Up close and personal | 0.40% | ~12 |
 | Sight Beyond Sights | 0.40% | ~12 |
+| Reich To The Point | 0.40% | ~11 |
+| Fight Another Day | 0.40% | ~11 |
 | Führerious Repetition | 0.30% | ~9 |
-| Reich To The Point | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
+| Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
-| Das Familienjuwel | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
@@ -73,11 +73,11 @@ Rating: 4.53 (Ranked 501)
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
-| Stroll in the Woods | 0.00% | ~0 |
+| Stroll in the Woods | 0.10% | ~3 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,888 (Ranked 145)  
+Progressed: 2,891 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.07%) (Ranked 183)
 | 2023-06-12 | 2,745 | 2 |
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
-| 2023-06-15 | 2,888 | 2 |
+| 2023-06-15 | 2,891 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

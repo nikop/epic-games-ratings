@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:03:37.4080695+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:02:22.549809+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.3955715+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:00:21.2129521+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:03:37.4080985+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:00:06.6074774+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:02:22.5498366+00:00"
 }

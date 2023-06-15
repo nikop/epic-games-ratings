@@ -11,7 +11,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Beginning of a Servantship | 45.00% | ~1,648 |
 | Trade Is My Trait | 36.00% | ~1,318 |
 | Number 18 | 25.00% | ~916 |
-| We Don't Have Time For That | 19.00% | ~696 |
+| We Don't Have Time For That | 20.00% | ~732 |
 | The Governator | 18.00% | ~659 |
 | The Legend of Langostino | 17.00% | ~623 |
 | Caribbean Comrade | 16.00% | ~586 |
@@ -106,8 +106,8 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-15 | 3,662 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
-Sum: 654 (Ranked 276)  
-Diff (max vs sum): 64  
+Sum: 654 (Ranked 277)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

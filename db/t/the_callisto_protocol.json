@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 329,
-  "Ranking_EOS_Progress": 103,
+  "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -582,10 +582,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 311,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-15T15:57:58.2494777+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 311,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -593,7 +599,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
@@ -632,9 +638,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15321,
+  "EOS_Progressed": 15325,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3977,6 +3983,11 @@
       "Time": "2023-06-15T15:04:43.8396454+00:00",
       "NumProgressed": 15321,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-15T16:04:08.0929766+00:00",
+      "NumProgressed": 15325,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -4004,7 +4015,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4020,7 +4031,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4058,9 +4069,9 @@
       "ID": "FINISH_GAME_HARD",
       "SetID": "4hj6d86",
       "Name": "The Protocol is About Life",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -4084,7 +4095,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -4124,7 +4135,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4180,7 +4191,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4196,7 +4207,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "STORY_HANGAR",
@@ -4204,7 +4215,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4228,7 +4239,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "STORY_TOWER",
@@ -4268,7 +4279,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4276,7 +4287,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4284,7 +4295,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -4307,22 +4318,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15321,
+      "Progressed": 15325,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3247,
+      "Progressed": 3251,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-14T19:58:18.578391+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:04:43.8396451+00:00",
+  "LastChanged": "2023-06-15T15:57:58.2494775+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:04:08.0929761+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:07.4245666+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:04:43.8397017+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:57:58.2494782+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:04:08.0930229+00:00"
 }

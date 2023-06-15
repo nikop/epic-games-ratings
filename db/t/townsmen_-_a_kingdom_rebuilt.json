@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 822,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4170,
+  "EOS_Progressed": 4171,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2023-06-13T15:05:50.4756653+00:00",
       "NumProgressed": 4170,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-15T16:05:59.2895143+00:00",
+      "NumProgressed": 4171,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -724,7 +729,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -748,7 +753,7 @@
       "Name": "Bread for the people I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -788,7 +793,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1012,7 +1017,7 @@
       "Name": "Completionist I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -1052,7 +1057,7 @@
       "Name": "Full-time job II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -1412,7 +1417,7 @@
       "Name": "A time consuming game II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -1492,7 +1497,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -1523,15 +1528,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4170,
+      "Progressed": 4171,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:33.3994746+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:59.2895137+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.0031057+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:14.849269+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:33.3996026+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:05.3408554+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:59.2896491+00:00"
 }

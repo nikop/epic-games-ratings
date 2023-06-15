@@ -18,7 +18,7 @@ Rating: 4.80 (Ranked 80)
 | Thornbarrow | 33.00% | ~778 |
 | Ternmoat Headquarters | 33.00% | ~778 |
 | Elemental master | 32.00% | ~755 |
-| Cypress Glen Headquarters | 31.00% | ~731 |
+| Cypress Glen Headquarters | 32.00% | ~755 |
 | Old friend | 28.00% | ~661 |
 | Petricite Burst | 28.00% | ~661 |
 | Devineur | 27.00% | ~637 |

@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -330,9 +330,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2460,
+  "EOS_Progressed": 2461,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
@@ -1315,6 +1315,11 @@
       "Time": "2023-06-15T15:00:41.6631849+00:00",
       "NumProgressed": 2460,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-15T16:00:29.3667681+00:00",
+      "NumProgressed": 2461,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -1366,7 +1371,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1382,7 +1387,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -1406,7 +1411,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -1430,14 +1435,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2460,
+      "Progressed": 2461,
       "Completed": 97
     }
   ],
@@ -1445,8 +1450,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-05T22:00:26.3420461+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:00:41.6631845+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:00:29.3667674+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:52.2679563+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:00:15.9006324+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:00:41.6632072+00:00"
+  "LastUpdate_Ratings": "2023-06-15T16:00:00.863909+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:00:29.3667904+00:00"
 }

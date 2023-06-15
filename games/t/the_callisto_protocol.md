@@ -1,12 +1,12 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 846)  
+Rating: 4.18 (Ranked 847)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,298 |
-| The Outer Way | 14.00% | ~2,145 |
+| Flesh Wound | 15.00% | ~2,299 |
+| The Outer Way | 14.00% | ~2,146 |
 | Desperate Times | 13.00% | ~1,992 |
 | Paper Jams | 12.00% | ~1,839 |
 | Chew 'Em Up | 10.00% | ~1,532 |
@@ -14,11 +14,11 @@ Rating: 4.18 (Ranked 846)
 | Workplace Hazard | 9.00% | ~1,379 |
 | If the SHU Fits... | 9.00% | ~1,379 |
 | Get a Grip | 8.00% | ~1,226 |
-| Giving Back | 7.00% | ~1,072 |
-| Without A Paddle | 7.00% | ~1,072 |
-| Terminated | 6.00% | ~919 |
-| In the Pipe, Five by Five | 6.00% | ~919 |
-| Crash Site | 6.00% | ~919 |
+| Giving Back | 7.00% | ~1,073 |
+| Without A Paddle | 7.00% | ~1,073 |
+| Terminated | 6.00% | ~920 |
+| In the Pipe, Five by Five | 6.00% | ~920 |
+| Crash Site | 6.00% | ~920 |
 | You Need a Gun | 5.00% | ~766 |
 | Two Heads Are Better Than One | 5.00% | ~766 |
 | Float Like A Butterfly | 5.00% | ~766 |
@@ -27,26 +27,26 @@ Rating: 4.18 (Ranked 846)
 | Full Circle | 4.00% | ~613 |
 | Instigator | 4.00% | ~130 |
 | The Commonality | 3.00% | ~460 |
-| Big Game Hunter | 3.00% | ~97 |
-| Bear Trap | 3.00% | ~97 |
+| Big Game Hunter | 3.00% | ~98 |
+| Bear Trap | 3.00% | ~98 |
 | I Do Belong Here | 2.00% | ~306 |
 | In Striking Distance | 2.00% | ~306 |
 | Mugshot | 2.00% | ~306 |
 | Big Spender | 2.00% | ~65 |
 | Grim Reaper | 1.00% | ~153 |
-| Parole Denied | 1.00% | ~32 |
-| Hoard Mode | 1.00% | ~32 |
+| Parole Denied | 1.00% | ~33 |
+| Hoard Mode | 1.00% | ~33 |
 | Recidivist | 0.70% | ~23 |
 | Lifer | 0.70% | ~23 |
 | Armed to the Teeth | 0.30% | ~10 |
-| The Protocol is About Life | 0.20% | ~31 |
+| The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
 | You Belong Here | 0.10% | ~3 |
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,321 (Ranked 103)  
+Progressed: 15,325 (Ranked 102)  
 Completed: 55 (0.36%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,17 +101,17 @@ Completed: 55 (0.36%) (Ranked 129)
 | 2023-06-12 | 15,140 | 54 |
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
-| 2023-06-15 | 15,321 | 55 |
+| 2023-06-15 | 15,325 | 55 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 387)  
-Sum: 311 (Ranked 329)  
+Sum: 312 (Ranked 329)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 54 |
+| This game is Highly Recommended | 52 |
 | This game has Quickly Understood Controls | 52 |
 | This game has Amazing Characters | 52 |
-| This game is Highly Recommended | 51 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
@@ -183,3 +183,4 @@ Diff (max vs sum): 58
 | 2023-06-11 | 4.18 | 53 | 306 |
 | 2023-06-13 | 4.18 | 53 | 307 |
 | 2023-06-14 | 4.18 | 54 | 311 |
+| 2023-06-15 | 4.18 | 54 | 312 |

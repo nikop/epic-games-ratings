@@ -3,8 +3,8 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-06-14T03:05:45.8036093+00:00",
       "NumProgressed": 473,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-15T16:05:36.2437411+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -287,15 +292,15 @@
       "Name": "Ace",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "BLADE_RUNNER",
@@ -309,9 +314,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 280
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -319,7 +324,7 @@
       "Name": "Concrete painting",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CURIOUS",
@@ -335,7 +340,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -359,7 +364,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HACKER",
@@ -431,7 +436,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -447,7 +452,7 @@
       "Name": "Now you know",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "PERFECT_HEARING",
@@ -463,7 +468,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "POOL",
@@ -533,16 +538,16 @@
       "ID": "WALKING_ROBOT",
       "SetID": "2iigf77",
       "Name": "The Walking Robot Among Us",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 15
     }
   ],
@@ -550,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:10.6456512+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:36.2437405+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.6651809+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:50.8566129+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:10.6456766+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:41.4924728+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:36.2437661+00:00"
 }

@@ -32,8 +32,8 @@
 | All That Glistens | 36.00% | ~360 |
 | It's Pointy! | 36.00% | ~360 |
 | Spellbound | 35.00% | ~350 |
+| Extinct Again! | 35.00% | ~350 |
 | All Skilled Up! | 35.00% | ~350 |
-| Extinct Again! | 34.00% | ~340 |
 | Bird of Prey | 34.00% | ~340 |
 | Stardust | 34.00% | ~340 |
 | Heartbreaker | 34.00% | ~340 |
@@ -53,10 +53,10 @@
 | Crowned | 22.00% | ~220 |
 | Max Level! | 15.00% | ~150 |
 | Dance Master | 9.00% | ~90 |
-| Bombs Away! | 8.00% | ~80 |
+| Bombs Away! | 9.00% | ~90 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,001 (Ranked 180)  
-Completed: 70 (6.99%) (Ranked 27)  
+Completed: 71 (7.09%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 70 (6.99%) (Ranked 27)
 | 2023-06-12 | 993 | 70 |
 | 2023-06-13 | 996 | 70 |
 | 2023-06-14 | 998 | 70 |
-| 2023-06-15 | 1,001 | 70 |
+| 2023-06-15 | 1,001 | 71 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12457,
-  "EOS_Completed": 261,
+  "EOS_Progressed": 12460,
+  "EOS_Completed": 262,
   "EOS_NewPlayers": 667,
-  "EOS_NewCompleters": 8,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -6044,6 +6044,11 @@
       "Time": "2023-06-15T15:06:14.595375+00:00",
       "NumProgressed": 12457,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2023-06-15T16:05:40.1106924+00:00",
+      "NumProgressed": 12460,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 20,
@@ -6063,7 +6068,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "EAST_FINISHED",
@@ -6135,7 +6140,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "FOUND_MAMBA",
@@ -6143,7 +6148,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -6167,7 +6172,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6175,7 +6180,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9470
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6183,7 +6188,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6214,15 +6219,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12457,
-      "Completed": 261
+      "Progressed": 12460,
+      "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:14.5953747+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:40.1106918+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-15T15:00:06.6433121+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:14.5954213+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:59:52.1474835+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:40.1107418+00:00"
 }

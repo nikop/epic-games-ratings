@@ -2,12 +2,12 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 753,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1006,
+  "EOS_Progressed": 1007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -909,6 +909,11 @@
       "Time": "2023-06-14T23:06:24.8892682+00:00",
       "NumProgressed": 1006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T16:05:42.1149736+00:00",
+      "NumProgressed": 1007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -952,7 +957,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "06",
@@ -968,7 +973,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "08",
@@ -984,7 +989,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "10",
@@ -1054,9 +1059,9 @@
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 493
     },
     {
       "ID": "19",
@@ -1064,7 +1069,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "20",
@@ -1094,16 +1099,16 @@
       "ID": "23",
       "SetID": "73ikgfc",
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1006,
+      "Progressed": 1007,
       "Completed": 0
     }
   ],
@@ -1111,8 +1116,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:16.6568586+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:42.1149731+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:59:42.9190659+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:16.6568818+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:59:30.6195814+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:42.1149928+00:00"
 }

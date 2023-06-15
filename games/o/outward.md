@@ -1,34 +1,34 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 473)  
+Rating: 4.55 (Ranked 474)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,191 |
-| Ready for Winter | 64.00% | ~1,869 |
-| Ready for Summer | 51.00% | ~1,490 |
-| Cordon Bleu | 43.00% | ~1,256 |
+| Venture Outward | 75.00% | ~2,192 |
+| Ready for Winter | 64.00% | ~1,871 |
+| Ready for Summer | 51.00% | ~1,491 |
+| Cordon Bleu | 43.00% | ~1,257 |
 | Tapped! | 36.00% | ~1,052 |
 | Eureka | 31.00% | ~906 |
-| Scourge Slayer | 25.00% | ~730 |
+| Scourge Slayer | 25.00% | ~731 |
 | Science, Troglodyte! | 23.00% | ~672 |
 | Exceptional Skill | 22.00% | ~643 |
 | Home Sweet Home | 22.00% | ~643 |
 | Encyclopedic! | 19.00% | ~555 |
-| A Fortress Toppled! | 16.00% | ~467 |
-| The Power of Family | 16.00% | ~467 |
+| A Fortress Toppled! | 16.00% | ~468 |
+| The Power of Family | 16.00% | ~468 |
 | Apex Predator | 15.00% | ~438 |
 | The Power of Faith | 12.00% | ~351 |
-| Strange amalgams | 11.00% | ~321 |
+| Strange amalgams | 11.00% | ~322 |
 | The Power of Freedom | 9.00% | ~263 |
 | Ace Detective | 8.00% | ~234 |
 | Gift from the Ancestors | 8.00% | ~234 |
 | Magic is a science | 8.00% | ~234 |
-| House of Cards | 7.00% | ~204 |
-| Let ‘em eat magma! | 7.00% | ~204 |
-| The power of ambition | 7.00% | ~204 |
+| House of Cards | 7.00% | ~205 |
+| Let ‘em eat magma! | 7.00% | ~205 |
+| The power of ambition | 7.00% | ~205 |
 | Hold my Mead and Watch This | 6.00% | ~175 |
 | The stuff of legends. | 6.00% | ~175 |
 | Blood and justice | 5.00% | ~146 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,921 (Ranked 143)  
+Progressed: 2,923 (Ranked 143)  
 Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-12 | 2,890 | 1 |
 | 2023-06-13 | 2,902 | 1 |
 | 2023-06-14 | 2,917 | 1 |
-| 2023-06-15 | 2,921 | 1 |
+| 2023-06-15 | 2,923 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 450)  
 Sum: 239 (Ranked 347)  

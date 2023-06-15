@@ -6,7 +6,7 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~561 |
+| Breathe In… Breathe Out… | 74.00% | ~569 |
 | It’s Heating up! | 69.00% | ~531 |
 | Let’s patch things up | 66.00% | ~508 |
 | I can fix it! | 63.00% | ~484 |

@@ -1,21 +1,21 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 501)  
+Rating: 4.53 (Ranked 502)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,697 |
-| Worth it | 63.00% | ~30,025 |
-| Eagle Eye | 55.00% | ~26,212 |
-| Corpseman I | 40.00% | ~19,063 |
-| Blast fishing | 37.00% | ~17,633 |
-| Not alone | 32.00% | ~15,251 |
-| Headhunter I | 26.00% | ~12,391 |
-| Manual Labour I | 25.00% | ~11,914 |
-| Developers, Developers, Developers | 24.00% | ~11,438 |
-| Basic Training | 24.00% | ~11,438 |
+| Setting an example | 77.00% | ~36,699 |
+| Worth it | 63.00% | ~30,026 |
+| Eagle Eye | 55.00% | ~26,214 |
+| Corpseman I | 40.00% | ~19,064 |
+| Blast fishing | 37.00% | ~17,635 |
+| Not alone | 32.00% | ~15,252 |
+| Headhunter I | 26.00% | ~12,392 |
+| Manual Labour I | 25.00% | ~11,915 |
+| Developers, Developers, Developers | 24.00% | ~11,439 |
+| Basic Training | 24.00% | ~11,439 |
 | Furchtlos und Treu | 13.00% | ~6,196 |
 | Gott Mit Uns | 12.00% | ~5,719 |
 | This We'll Defend! | 9.00% | ~4,289 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,658 (Ranked 81)  
+Progressed: 47,661 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,10 +122,10 @@ Completed: 4 (0.01%) (Ranked 211)
 | 2023-06-12 | 47,416 | 4 |
 | 2023-06-13 | 47,523 | 4 |
 | 2023-06-14 | 47,616 | 4 |
-| 2023-06-15 | 47,658 | 4 |
+| 2023-06-15 | 47,661 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 338)  
-Sum: 747 (Ranked 258)  
+Sum: 748 (Ranked 258)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 80
 | This game has Realistic Visuals | 68 |
 | This game has Amazing Characters | 67 |
 | This game has a Competitive Community | 63 |
-| This game has Amazing Storytelling | 57 |
+| This game has Amazing Storytelling | 58 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -254,3 +254,4 @@ Diff (max vs sum): 80
 | 2023-06-11 | 4.53 | - | 93 | 743 |
 | 2023-06-12 | 4.53 | - | 93 | 744 |
 | 2023-06-13 | 4.53 | - | 94 | 747 |
+| 2023-06-15 | 4.53 | - | 94 | 748 |

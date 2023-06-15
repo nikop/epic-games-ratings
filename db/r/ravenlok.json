@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1001,
-  "EOS_Completed": 70,
+  "EOS_Completed": 71,
   "EOS_NewPlayers": 30,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.99,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 7.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2397,6 +2397,11 @@
       "Time": "2023-06-15T14:05:12.9984166+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-06-15T16:05:32.5225102+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 50,
@@ -2438,9 +2443,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 350
     },
     {
       "ID": "14",
@@ -2686,9 +2691,9 @@
       "ID": "41",
       "SetID": "d0g98p",
       "Name": "Bombs Away!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 90
     },
     {
       "ID": "42",
@@ -2808,15 +2813,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 1001,
-      "Completed": 70
+      "Completed": 71
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:06.8338132+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:32.5225097+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:57:42.6773146+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:06.8338728+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:57:33.9217918+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:32.5225706+00:00"
 }

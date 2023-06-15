@@ -1139,9 +1139,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121580,
+  "EOS_Progressed": 121582,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6474,6 +6474,11 @@
       "Time": "2023-06-15T15:06:17.3868426+00:00",
       "NumProgressed": 121580,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-15T16:05:42.7970967+00:00",
+      "NumProgressed": 121582,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6517,7 +6522,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21884
+      "UsersEstimate": 21885
     },
     {
       "ID": "ACH_COP_BAD",
@@ -6533,7 +6538,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -6541,7 +6546,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29179
+      "UsersEstimate": 29180
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -6549,7 +6554,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "ACH_COP_DORK",
@@ -6565,7 +6570,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34042
+      "UsersEstimate": 34043
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -6613,7 +6618,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15805
+      "UsersEstimate": 15806
     },
     {
       "ID": "ACH_COP_STAR",
@@ -6765,7 +6770,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15805
+      "UsersEstimate": 15806
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -6804,15 +6809,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121580,
+      "Progressed": 121582,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-13T14:58:46.2792638+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:06:17.3868422+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:42.7970961+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:59:09.844973+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:06:17.3869079+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:57.9542846+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:42.7971609+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "DEMON\u0027S TILT",
   "ProductSlug": "demons-tilt",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 517,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -498,8 +498,8 @@
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00",
   "LastChanged": "2023-05-27T18:57:37.7738728+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:00:40.0733308+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:00:27.6436606+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:08.7021732+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:58:09.7207301+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:00:40.0733398+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:58:00.5015227+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:00:27.643668+00:00"
 }

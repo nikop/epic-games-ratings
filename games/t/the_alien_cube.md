@@ -1,7 +1,7 @@
 # The Alien Cube
 [Store](https://store.epicgames.com/en-US/p/the-alien-cube-789431)  
 [View Rawdata](../../db/t/the_alien_cube.json)  
-Rating: 4.15 (Ranked 862)  
+Rating: 4.15 (Ranked 863)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

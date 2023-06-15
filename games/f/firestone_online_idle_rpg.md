@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 894)  
+Rating: 4.05 (Ranked 895)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,17 +24,17 @@ Rating: 4.05 (Ranked 894)
 | Lieutenant | 13.00% | ~182 |
 | Natural Talent | 12.00% | ~168 |
 | The Unstoppable | 12.00% | ~168 |
+| Milestone collector | 11.00% | ~154 |
 | Mysterious Rock | 11.00% | ~154 |
 | Superior | 11.00% | ~154 |
-| Milestone collector | 10.00% | ~140 |
 | Scientist | 10.00% | ~140 |
 | Challenger | 8.00% | ~112 |
 | Daily Quest Completionist | 8.00% | ~112 |
+| Doing My Part | 8.00% | ~112 |
 | Hunter | 8.00% | ~112 |
 | Relic Of The Past | 8.00% | ~112 |
 | Scroll Master | 8.00% | ~112 |
 | The power of Awakening | 8.00% | ~112 |
-| Doing My Part | 7.00% | ~98 |
 | Four Leaf Clover | 7.00% | ~98 |
 | Frostfire Liberator | 7.00% | ~98 |
 | Mastery | 7.00% | ~98 |

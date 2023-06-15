@@ -1,16 +1,16 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.04 (Ranked 896)  
+Rating: 4.04 (Ranked 897)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~185,317 |
-| I know the Rules | 41.00% | ~93,802 |
-| Contender | 11.00% | ~25,166 |
-| I Found it! | 7.00% | ~16,015 |
-| First but not Last | 4.00% | ~9,151 |
+| Ball Launched | 81.00% | ~185,334 |
+| I know the Rules | 41.00% | ~93,811 |
+| Contender | 11.00% | ~25,169 |
+| I Found it! | 7.00% | ~16,017 |
+| First but not Last | 4.00% | ~9,152 |
 | Dress Code | 3.00% | ~6,864 |
 | Ready Steady Score | 2.00% | ~4,576 |
 | Full Loot Madness | 2.00% | ~4,576 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,786 (Ranked 46)  
+Progressed: 228,808 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 228,068 | 0 |
 | 2023-06-13 | 228,363 | 0 |
 | 2023-06-14 | 228,630 | 0 |
-| 2023-06-15 | 228,786 | 0 |
+| 2023-06-15 | 228,808 | 0 |
 ## Awards
 Max (Great for Beginners): 176  (Ranked 276)  
-Sum: 1,502 (Ranked 215)  
+Sum: 1,503 (Ranked 215)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -106,7 +106,7 @@ Diff (max vs sum): 61
 | This game is Relaxing | 159 |
 | This game is Extremely Fun | 153 |
 | This game is Highly Recommended | 149 |
-| This game has Competitive Players | 145 |
+| This game has Competitive Players | 146 |
 | This game has Challenging Combat | 101 |
 | This game has Amazing Storytelling | 100 |
 | This game has a Competitive Community | 99 |
@@ -246,3 +246,4 @@ Diff (max vs sum): 61
 | 2023-06-09 | 4.04 | - | 175 | 1,500 |
 | 2023-06-11 | 4.04 | - | 175 | 1,501 |
 | 2023-06-12 | 4.04 | - | 176 | 1,502 |
+| 2023-06-15 | 4.04 | - | 176 | 1,503 |

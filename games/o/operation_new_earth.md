@@ -13,8 +13,8 @@
 | Lieutenant | 28.00% | ~22 |
 | Stocking Up | 28.00% | ~22 |
 | On Target | 28.00% | ~22 |
+| Infantry Reporting | 24.00% | ~19 |
 | Getting Deployment | 23.00% | ~18 |
-| Infantry Reporting | 23.00% | ~18 |
 | Keeping Busy | 18.00% | ~14 |
 | Silver Competitor | 15.00% | ~12 |
 | Brothers in Arms | 15.00% | ~12 |

@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.25 (Ranked 796)  
+Rating: 4.25 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.25 (Ranked 796)
 | KEVIN! | 67.00% | ~232 |
 | JACK OF ALL TRADES | 60.00% | ~208 |
 | CRIMINAL | 55.00% | ~190 |
-| GRANDMA WOULD BE PROUD | 44.00% | ~152 |
+| GRANDMA WOULD BE PROUD | 45.00% | ~156 |
 | WITHOUT BREAKING A SWEAT | 40.00% | ~138 |
 | HONORS STUDENT | 36.00% | ~125 |
 | BUTCHER | 26.00% | ~90 |

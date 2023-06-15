@@ -1,33 +1,33 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.31 (Ranked 762)  
+Rating: 4.31 (Ranked 763)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~161 |
-| Scrap Gatherer | 57.00% | ~153 |
+| My New Home | 60.00% | ~162 |
+| Scrap Gatherer | 57.00% | ~154 |
 | Mushroom Picker | 56.00% | ~151 |
-| Scrapper | 48.00% | ~129 |
-| Cook | 41.00% | ~110 |
+| Scrapper | 48.00% | ~130 |
+| Cook | 41.00% | ~111 |
 | Teleport | 40.00% | ~108 |
-| Scrap Master | 38.00% | ~102 |
+| Scrap Master | 38.00% | ~103 |
 | Smelter | 36.00% | ~97 |
-| Electro-Scrap Gatherer | 34.00% | ~91 |
+| Electro-Scrap Gatherer | 34.00% | ~92 |
 | Digger | 33.00% | ~89 |
-| Survivor | 32.00% | ~86 |
-| Robot Destroyer | 31.00% | ~83 |
+| Robot Destroyer | 31.00% | ~84 |
+| Survivor | 31.00% | ~84 |
 | Herbalist | 29.00% | ~78 |
 | Lumberjack | 26.00% | ~70 |
-| Prepper | 25.00% | ~67 |
+| Prepper | 25.00% | ~68 |
 | Electro-Scrap Master | 24.00% | ~65 |
-| Robot Hunter | 22.00% | ~59 |
+| Robot Hunter | 21.00% | ~57 |
 | Advanced Survivalist | 19.00% | ~51 |
 | Master Of Technology | 17.00% | ~46 |
 | Treasure Hunter | 17.00% | ~46 |
-| Blacksmith | 12.00% | ~32 |
-| Mythical Smelter | 12.00% | ~32 |
+| Blacksmith | 11.00% | ~30 |
+| Mythical Smelter | 11.00% | ~30 |
 | Fuel | 10.00% | ~27 |
 | Master Of Management | 9.00% | ~24 |
 | Forest Lord | 9.00% | ~24 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 237)  
+Progressed: 270 (Ranked 237)  
 Completed: 1 (0.37%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.37%) (Ranked 126)
 | 2023-06-12 | 260 | 0 |
 | 2023-06-13 | 262 | 1 |
 | 2023-06-14 | 266 | 1 |
-| 2023-06-15 | 269 | 1 |
+| 2023-06-15 | 270 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

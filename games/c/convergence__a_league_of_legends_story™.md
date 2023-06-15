@@ -10,6 +10,7 @@
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
 | Cartographer | 9.00% | ~63 |
+| The Prince in Heels | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | Make Up For Lost Time | 8.00% | ~56 |
 | Time Flies | 8.00% | ~56 |
@@ -17,7 +18,6 @@
 | No, Thanks! | 8.00% | ~56 |
 | Breaking Down Barriers | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
-| The Prince in Heels | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
 | Immaculate Aim | 8.00% | ~56 |
@@ -53,13 +53,13 @@
 | Thinking Two Steps Ahead | 0.60% | ~4 |
 | Wunderkind | 0.60% | ~4 |
 | Wildlife Protection | 0.30% | ~2 |
+| Going to Live Forever | 0.30% | ~2 |
 | A Lesson in Precision | 0.30% | ~2 |
-| Going to Live Forever | 0.10% | ~1 |
-| No Time to Waste | 0.10% | ~1 |
-| Raw Talent | 0.00% | ~0 |
+| No Time to Waste | 0.30% | ~2 |
+| Raw Talent | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 696 (Ranked 191)  
-Completed: 1 (0.14%) (Ranked 165)  
+Completed: 2 (0.29%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,4 +86,4 @@ Completed: 1 (0.14%) (Ranked 165)
 | 2023-06-12 | 669 | 1 |
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
-| 2023-06-15 | 696 | 1 |
+| 2023-06-15 | 696 | 2 |

@@ -8,7 +8,7 @@
 | Supermart Heisted | 3.00% | ~207 |
 | Supermart Objectives Complete | 2.00% | ~138 |
 | Sewer Objectives Complete | 1.00% | ~69 |
-| Bank Heisted | 0.50% | ~34 |
+| Bank Heisted | 0.50% | ~35 |
 | Crocodile Maxed Out | 0.20% | ~14 |
 | All Objectives Complete | 0.10% | ~7 |
 | All Gold Chest Slots Unlocked | 0.10% | ~7 |
@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,900 (Ranked 118)  
+Progressed: 6,901 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 6,890 | 0 |
 | 2023-06-13 | 6,894 | 0 |
 | 2023-06-14 | 6,899 | 0 |
-| 2023-06-15 | 6,900 | 0 |
+| 2023-06-15 | 6,901 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

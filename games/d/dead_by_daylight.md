@@ -1,37 +1,40 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 516)  
+Rating: 4.52 (Ranked 517)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.60% | ~3,343 |
-| Healthy Obsession | 0.50% | ~2,786 |
-| Preemptive Strike | 0.50% | ~2,786 |
-| Humanitarian | 0.50% | ~2,786 |
-| Wounded Healer | 0.40% | ~2,229 |
-| Close Shave | 0.40% | ~2,229 |
-| Flight to Freedom | 0.40% | ~2,229 |
+| Healthy Obsession | 0.60% | ~3,345 |
+| Resurgence | 0.60% | ~3,345 |
+| Preemptive Strike | 0.50% | ~2,787 |
+| Humanitarian | 0.50% | ~2,787 |
+| Wounded Healer | 0.40% | ~2,230 |
+| Close Shave | 0.40% | ~2,230 |
+| Flight to Freedom | 0.40% | ~2,230 |
 | Unforgettable Getaway | 0.30% | ~1,672 |
 | First to the Punch | 0.30% | ~1,672 |
+| Operation: Survival | 0.30% | ~1,672 |
 | Old West Oasis | 0.30% | ~1,672 |
 | Every Last Drop | 0.30% | ~1,672 |
 | With Scars to Show | 0.30% | ~1,672 |
 | A Fast Death | 0.30% | ~1,672 |
-| Ancestor's Rite | 0.20% | ~1,114 |
-| Devoted Gatekeeping | 0.20% | ~1,114 |
-| Shrine Apparatus | 0.20% | ~1,114 |
-| Cutting Out | 0.20% | ~1,114 |
-| Outrun Evil | 0.20% | ~1,114 |
-| Operation: Survival | 0.20% | ~1,114 |
-| Grim Pilgrimage | 0.20% | ~1,114 |
-| Selfless Survival | 0.20% | ~1,114 |
-| Classy Act | 0.20% | ~1,114 |
-| End of Days | 0.20% | ~1,114 |
-| Raccoon City Recruit | 0.20% | ~1,114 |
-| Lifting The Fog | 0.20% | ~1,114 |
-| Chorus of Chaos | 0.20% | ~1,114 |
+| Lifting The Fog | 0.30% | ~1,672 |
+| Ancestor's Rite | 0.20% | ~1,115 |
+| Devoted Gatekeeping | 0.20% | ~1,115 |
+| Shrine Apparatus | 0.20% | ~1,115 |
+| Cutting Out | 0.20% | ~1,115 |
+| Outrun Evil | 0.20% | ~1,115 |
+| Broken Bodies | 0.20% | ~1,115 |
+| Grim Pilgrimage | 0.20% | ~1,115 |
+| Selfless Survival | 0.20% | ~1,115 |
+| Classy Act | 0.20% | ~1,115 |
+| End of Days | 0.20% | ~1,115 |
+| Insult and Injury | 0.20% | ~1,115 |
+| Raccoon City Recruit | 0.20% | ~1,115 |
+| Outrun the Overlap | 0.20% | ~1,115 |
+| Chorus of Chaos | 0.20% | ~1,115 |
 | The Grand Sacrifice | 0.10% | ~557 |
 | A bite for the Entity | 0.10% | ~557 |
 | A feast for the Entity | 0.10% | ~557 |
@@ -153,7 +156,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tools of the Trade | 0.10% | ~557 |
 | Expert Generalist | 0.10% | ~557 |
 | Skilled Generalist | 0.10% | ~557 |
-| Broken Bodies | 0.10% | ~557 |
 | Bloodbath | 0.10% | ~557 |
 | Adept Oni | 0.10% | ~557 |
 | Bodyguard | 0.10% | ~557 |
@@ -178,7 +180,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | One Thousand Cuts | 0.10% | ~557 |
 | Multi-tasker | 0.10% | ~557 |
 | Adept Trickster | 0.10% | ~557 |
-| Insult and Injury | 0.10% | ~557 |
 | Adept Yun-Jin | 0.10% | ~557 |
 | Biological Weaponry | 0.10% | ~557 |
 | Adept Nemesis | 0.10% | ~557 |
@@ -202,7 +203,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bump in the Night | 0.10% | ~557 |
 | From the Deep | 0.10% | ~557 |
 | Adept Dredge | 0.10% | ~557 |
-| Outrun the Overlap | 0.10% | ~557 |
 | Hiding Seeker | 0.10% | ~557 |
 | Adept Haddie | 0.10% | ~557 |
 | Collision Course | 0.10% | ~557 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~557 |
 | Adept Gabriel | 0.10% | ~557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 557,195 (Ranked 27)  
+Progressed: 557,419 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,14 +283,14 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 557,195 | 42 |
+| 2023-06-15 | 557,419 | 42 |
 ## Awards
-Max (Diverse Characters): 28,462  (Ranked 16)  
-Sum: 227,474 (Ranked 12)  
+Max (Diverse Characters): 28,513  (Ranked 16)  
+Sum: 227,546 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 28,462 |
+| This game has Diverse Characters | 28,513 |
 | This game has Competitive Players | 26,170 |
 | This game is Highly Recommended | 25,846 |
 | This game has Amazing Characters | 25,748 |
@@ -298,7 +298,7 @@ Diff (max vs sum): 4
 | This game has Quickly Understood Controls | 25,520 |
 | This game has Challenging Combat | 24,889 |
 | This game has Amazing Storytelling | 23,418 |
-| This game has a Competitive Community | 21,703 |
+| This game has a Competitive Community | 21,724 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -446,4 +446,4 @@ Diff (max vs sum): 4
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
-| 2023-06-15 | 4.52 | - | 28,462 | 227,474 |
+| 2023-06-15 | 4.52 | - | 28,513 | 227,546 |

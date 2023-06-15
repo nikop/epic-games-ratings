@@ -2,12 +2,12 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 670,
+  "Ranking_Rating": 671,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
   "LastChanged": "2023-06-14T15:57:32.1978447+00:00",
-  "LastChanged_Achievements": "2023-06-15T15:05:53.8405376+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:05:19.1883425+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.2981025+00:00",
-  "LastUpdate_Ratings": "2023-06-15T14:57:39.1345031+00:00",
-  "LastUpdate_Achievements": "2023-06-15T15:05:53.8405412+00:00"
+  "LastUpdate_Ratings": "2023-06-15T15:57:30.5161954+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:05:19.1883456+00:00"
 }

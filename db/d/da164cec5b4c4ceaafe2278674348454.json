@@ -1,0 +1,42 @@
+{
+  "ID": "da164cec5b4c4ceaafe2278674348454",
+  "Name": "ProtoCorgi",
+  "ProductSlug": "protocorgi",
+  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 126,
+  "Store": {
+    "ReleaseDate": "2023-06-15T15:00:00+00:00",
+    "PcReleaseDate": "2023-06-15T15:00:00+00:00",
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [
+    {
+      "ID": "9ehfp7b",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-06-15T16:00:17.539634+00:00",
+  "LastChanged_Achievements": "2023-06-15T16:00:17.5383584+00:00",
+  "LastUpdate_AppInfo": "2023-06-15T15:57:04.7034493+00:00",
+  "LastUpdate_Ratings": "2023-06-15T15:57:04.8523831+00:00",
+  "LastUpdate_Achievements": "2023-06-15T16:00:17.5396527+00:00"
+}
