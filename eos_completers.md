@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.48% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
@@ -45,8 +45,8 @@
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
