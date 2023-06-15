@@ -8,8 +8,8 @@
 | 5 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.00% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
+| 10 | [Island Cities](games/i/island_cities.md) | 14.96% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.48% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
@@ -32,7 +32,7 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
+| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
@@ -46,8 +46,8 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
-| 48 | [The Complex](games/t/the_complex.md) | 3.21% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
+| 47 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
@@ -77,11 +77,11 @@
 | 75 | [Sifu](games/s/sifu.md) | 1.80% |
 | 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.64% |
-| 77 | [Poosh XL](games/p/poosh_xl.md) | 1.64% |
+| 78 | [Poosh XL](games/p/poosh_xl.md) | 1.63% |
 | 79 | [Somerville](games/s/somerville.md) | 1.58% |
-| 80 | [A Musical Story](games/a/a_musical_story.md) | 1.52% |
-| 81 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 82 | [Night Book](games/n/night_book.md) | 1.49% |
+| 80 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 81 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
+| 81 | [Night Book](games/n/night_book.md) | 1.49% |
 | 83 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
 | 84 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.22% |
@@ -125,9 +125,9 @@
 | 123 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 124 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.38% |
-| 125 | [Scrapnaut](games/s/scrapnaut.md) | 0.38% |
-| 127 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 127 | [Tchia](games/t/tchia.md) | 0.37% |
+| 126 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 126 | [Scrapnaut](games/s/scrapnaut.md) | 0.37% |
+| 126 | [Tchia](games/t/tchia.md) | 0.37% |
 | 129 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 129 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 131 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |

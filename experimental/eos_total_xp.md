@@ -310,6 +310,7 @@
 | [Poosh XL](../games/p/poosh_xl.md) | 20 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
+| [Power Vacuum](../games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 21 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
 | [Prison Architect](../games/p/prison_architect.md) | 16 | 1,000 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
