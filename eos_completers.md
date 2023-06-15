@@ -32,7 +32,7 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
+| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
@@ -46,7 +46,7 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.25% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -87,8 +87,8 @@
 | 84 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 86 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
 | 86 | [Ten Dates](games/t/ten_dates.md) | 1.20% |
-| 88 | [Five Dates](games/f/five_dates.md) | 1.15% |
 | 88 | [Trifox](games/t/trifox.md) | 1.15% |
+| 89 | [Five Dates](games/f/five_dates.md) | 1.14% |
 | 90 | [Chorus](games/c/chorus.md) | 1.13% |
 | 91 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 92 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
@@ -107,8 +107,8 @@
 | 105 | [Them and Us](games/t/them_and_us.md) | 0.70% |
 | 106 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.69% |
 | 107 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
-| 107 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.68% |
-| 109 | [Train Valley](games/t/train_valley.md) | 0.67% |
+| 108 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.67% |
+| 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 110 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.65% |
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 112 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
@@ -452,4 +452,4 @@
 | 223 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 223 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 223 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,780 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,781 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
