@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2353,
+  "EOS_Progressed": 2354,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2613,6 +2613,11 @@
       "Time": "2023-06-15T02:14:27.2124159+00:00",
       "NumProgressed": 2353,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T06:05:46.4669173+00:00",
+      "NumProgressed": 2354,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2648,7 +2653,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2656,7 +2661,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -2688,7 +2693,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2704,7 +2709,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2768,7 +2773,7 @@
       "Name": "True power",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -2800,7 +2805,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2808,7 +2813,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2816,7 +2821,7 @@
       "Name": "Meltridge",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -2840,7 +2845,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2848,7 +2853,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2864,7 +2869,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2896,7 +2901,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2960,7 +2965,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2984,7 +2989,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3047,7 +3052,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2353,
+      "Progressed": 2354,
       "Completed": 2
     }
   ],
@@ -3055,8 +3060,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:06:27.3139247+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:05:46.4669166+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:57:49.3722203+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:06:27.3139716+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:57:37.4527442+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:05:46.4669825+00:00"
 }

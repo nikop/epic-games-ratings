@@ -1638,9 +1638,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 242
     },
     {
       "ID": "VVE",
@@ -1678,8 +1678,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:06:28.3281842+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:05:47.3529454+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:40.0771977+00:00",
-  "LastUpdate_Ratings": "2023-06-15T05:00:32.0033736+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:06:28.3282106+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:59:45.8112418+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:05:47.3529819+00:00"
 }

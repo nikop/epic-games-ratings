@@ -6,22 +6,22 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,101 |
-| Say goodbye, creep! | 65.00% | ~27,817 |
-| Blood splattered | 65.00% | ~27,817 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,102 |
+| Say goodbye, creep! | 65.00% | ~27,818 |
+| Blood splattered | 65.00% | ~27,818 |
 | Choo choo! | 62.00% | ~26,534 |
 | Groovy | 61.00% | ~26,106 |
 | Cleanup on aisle 4! | 57.00% | ~24,394 |
 | Gold | 50.00% | ~21,398 |
-| The boat can leave now...tell the crew | 48.00% | ~20,542 |
-| Stand back boy! | 47.00% | ~20,114 |
-| Give me something to shoot! | 46.00% | ~19,686 |
-| Weird science | 44.00% | ~18,830 |
-| Chain reaction | 44.00% | ~18,830 |
-| Look mummy! A shark! | 41.00% | ~17,546 |
-| What did you say, Blain? | 41.00% | ~17,546 |
-| In the dark dark woods... | 38.00% | ~16,262 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,262 |
+| The boat can leave now...tell the crew | 49.00% | ~20,971 |
+| Stand back boy! | 47.00% | ~20,115 |
+| Give me something to shoot! | 46.00% | ~19,687 |
+| Weird science | 44.00% | ~18,831 |
+| Chain reaction | 44.00% | ~18,831 |
+| Look mummy! A shark! | 41.00% | ~17,547 |
+| What did you say, Blain? | 41.00% | ~17,547 |
+| In the dark dark woods... | 38.00% | ~16,263 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,263 |
 | Double tap | 37.00% | ~15,835 |
 | Cranial blowout! | 36.00% | ~15,407 |
 | Zombie killin' machine | 36.00% | ~15,407 |
@@ -41,9 +41,9 @@ Number of Ratings: 743  (23.09.2022)
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,703 |
 | Take them down screaming | 18.00% | ~7,703 |
 | Weapons expert | 17.00% | ~7,275 |
-| Bad Blood | 16.00% | ~6,847 |
-| The bigger they are... | 15.00% | ~6,419 |
-| I'm going deeper underground | 14.00% | ~5,991 |
+| Bad Blood | 16.00% | ~6,848 |
+| The bigger they are... | 15.00% | ~6,420 |
+| I'm going deeper underground | 14.00% | ~5,992 |
 | Well equipped | 12.00% | ~5,136 |
 | Into the deep | 12.00% | ~5,136 |
 | Damnedbusters | 9.00% | ~3,852 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~428 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,796 (Ranked 84)  
+Progressed: 42,797 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 25 (0.06%) (Ranked 189)
 | 2023-06-12 | 42,766 | 25 |
 | 2023-06-13 | 42,783 | 25 |
 | 2023-06-14 | 42,794 | 25 |
-| 2023-06-15 | 42,796 | 25 |
+| 2023-06-15 | 42,797 | 25 |
 ## Awards
 Max (Great Boss Battles): 789  (Ranked 149)  
 Sum: 2,407 (Ranked 168)  

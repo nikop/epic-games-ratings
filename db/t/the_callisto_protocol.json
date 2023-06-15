@@ -632,9 +632,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15290,
+  "EOS_Progressed": 15293,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3927,6 +3927,11 @@
       "Time": "2023-06-15T05:04:33.7619542+00:00",
       "NumProgressed": 15290,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-15T06:04:14.6677111+00:00",
+      "NumProgressed": 15293,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 40,
@@ -3954,7 +3959,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3962,7 +3967,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "DISARM_ENEMY",
@@ -4042,7 +4047,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -4058,7 +4063,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4074,7 +4079,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4098,7 +4103,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4146,7 +4151,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "STORY_HANGAR",
@@ -4154,7 +4159,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4178,7 +4183,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "STORY_TOWER",
@@ -4194,7 +4199,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "DISMEMBER_100",
@@ -4218,7 +4223,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4226,7 +4231,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4257,13 +4262,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15290,
+      "Progressed": 15293,
       "Completed": 55
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3216,
+      "Progressed": 3219,
       "Completed": 29
     }
   ],
@@ -4271,8 +4276,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-14T19:58:18.578391+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:04:33.7619537+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:04:14.6677106+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:58:07.9370056+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:04:33.761995+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:57:52.8634579+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:04:14.667769+00:00"
 }

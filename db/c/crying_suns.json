@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 460616,
+  "EOS_Progressed": 460619,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6065,6 +6065,11 @@
       "Time": "2023-06-15T03:06:50.6595661+00:00",
       "NumProgressed": 460616,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-15T06:05:54.7231171+00:00",
+      "NumProgressed": 460619,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6090,9 +6095,9 @@
       "ID": "achievement_first_death",
       "SetID": "8cokdon",
       "Name": "In space, no one can hear you scream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 921
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -6707,21 +6712,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4550,
+      "Progressed": 4553,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460616,
+      "Progressed": 460619,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-15T04:07:07.5579808+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:05:54.7231167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.8583019+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:59:36.7828736+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:06:36.958374+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:59:01.9060657+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:05:54.7232441+00:00"
 }

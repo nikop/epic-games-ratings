@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1686,
+  "EOS_Progressed": 1687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1882,6 +1882,11 @@
       "Time": "2023-06-14T23:02:27.3119605+00:00",
       "NumProgressed": 1686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T06:02:19.1980123+00:00",
+      "NumProgressed": 1687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1941,7 +1946,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "Achievement_009",
@@ -2029,7 +2034,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "Achievement_020",
@@ -2083,9 +2088,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 574
     },
     {
       "ID": "Achievement_027",
@@ -2101,15 +2106,15 @@
       "Name": "You Clean It Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 557
     },
     {
       "ID": "Achievement_030",
@@ -2125,7 +2130,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "Achievement_032",
@@ -2413,14 +2418,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1686,
+      "Progressed": 1687,
       "Completed": 0
     }
   ],
@@ -2428,8 +2433,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:02:20.4042348+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:02:19.1980116+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:58:04.3749178+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:02:20.4042948+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:57:49.7831186+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:02:19.1980993+00:00"
 }

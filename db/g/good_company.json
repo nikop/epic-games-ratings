@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4993,
+  "EOS_Progressed": 4994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-06-15T05:06:34.2328438+00:00",
       "NumProgressed": 4993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T06:05:52.4321613+00:00",
+      "NumProgressed": 4994,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1681,7 +1686,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ach_campaign_progress10",
@@ -1737,7 +1742,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2009,7 +2014,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ach_frp_many_products2",
@@ -2232,15 +2237,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4993,
+      "Progressed": 4994,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:06:34.2328433+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:05:52.4321607+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:59:16.3174991+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:06:34.2329144+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:58:46.6217208+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:05:52.4322544+00:00"
 }

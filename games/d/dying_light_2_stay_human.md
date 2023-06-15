@@ -1,39 +1,39 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 423)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,468 |
-| Into the Unknown | 10.00% | ~57,699 |
-| First Shot | 9.00% | ~51,929 |
-| Herzlich Wilkommen! | 9.00% | ~51,929 |
-| Good Night & Good Luck | 9.00% | ~51,929 |
-| Sancho Panza | 8.00% | ~46,159 |
-| Under Pressure | 7.00% | ~40,389 |
-| Flag Burning | 7.00% | ~40,389 |
-| Oh, So This Is How It Works! | 7.00% | ~40,389 |
-| On the Trail of the Enemy | 6.00% | ~34,619 |
-| Light in the Darkness | 6.00% | ~34,619 |
-| Get Outta My House! | 6.00% | ~34,619 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,619 |
-| Night Hunter | 6.00% | ~34,619 |
-| Being All Social | 6.00% | ~34,619 |
-| We Will Be Heard! | 5.00% | ~28,849 |
-| After the Fall | 5.00% | ~28,849 |
-| Can't Touch This! | 5.00% | ~28,849 |
-| Debris and Ashes | 4.00% | ~23,079 |
-| Known Associate | 4.00% | ~23,079 |
-| Brush with Death | 4.00% | ~23,079 |
-| Going Down | 4.00% | ~23,079 |
-| Family First | 4.00% | ~23,079 |
-| Your World, Your Rules | 4.00% | ~23,079 |
-| Tunnel Entrance | 4.00% | ~23,079 |
-| Death From Afar | 4.00% | ~23,079 |
-| Terminal Headache | 4.00% | ~23,079 |
-| Slowpoke! | 4.00% | ~23,079 |
+| You Never Forget Your First... | 11.00% | ~63,470 |
+| Into the Unknown | 10.00% | ~57,700 |
+| First Shot | 9.00% | ~51,930 |
+| Herzlich Wilkommen! | 9.00% | ~51,930 |
+| Good Night & Good Luck | 9.00% | ~51,930 |
+| Sancho Panza | 8.00% | ~46,160 |
+| Under Pressure | 7.00% | ~40,390 |
+| Flag Burning | 7.00% | ~40,390 |
+| Oh, So This Is How It Works! | 7.00% | ~40,390 |
+| On the Trail of the Enemy | 6.00% | ~34,620 |
+| Light in the Darkness | 6.00% | ~34,620 |
+| Get Outta My House! | 6.00% | ~34,620 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,620 |
+| Night Hunter | 6.00% | ~34,620 |
+| Being All Social | 6.00% | ~34,620 |
+| We Will Be Heard! | 5.00% | ~28,850 |
+| After the Fall | 5.00% | ~28,850 |
+| Can't Touch This! | 5.00% | ~28,850 |
+| Debris and Ashes | 4.00% | ~23,080 |
+| Known Associate | 4.00% | ~23,080 |
+| Brush with Death | 4.00% | ~23,080 |
+| Going Down | 4.00% | ~23,080 |
+| Family First | 4.00% | ~23,080 |
+| Your World, Your Rules | 4.00% | ~23,080 |
+| Tunnel Entrance | 4.00% | ~23,080 |
+| Death From Afar | 4.00% | ~23,080 |
+| Terminal Headache | 4.00% | ~23,080 |
+| Slowpoke! | 4.00% | ~23,080 |
 | You're Going Down! | 3.00% | ~17,310 |
 | Tickets, Please! | 2.00% | ~11,540 |
 | Parkour Master | 2.00% | ~11,540 |
@@ -51,7 +51,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Enter the Hall | 0.90% | ~2,002 |
 | Find Anything Interesting? | 0.80% | ~4,616 |
 | Boot Licker | 0.80% | ~4,616 |
-| Night of Terrors | 0.80% | ~1,779 |
+| Night of Terrors | 0.80% | ~1,780 |
 | Who Wants To Be a... | 0.70% | ~4,039 |
 | My Friend, Ciro | 0.70% | ~1,557 |
 | Skullcrusher | 0.70% | ~1,557 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~222 |
 | Connoisseur | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 576,986 (Ranked 25)  
+Progressed: 577,001 (Ranked 25)  
 Completed: 51 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 51 (0.01%) (Ranked 211)
 | 2023-06-12 | 575,163 | 49 |
 | 2023-06-13 | 575,941 | 51 |
 | 2023-06-14 | 576,823 | 51 |
-| 2023-06-15 | 576,986 | 51 |
+| 2023-06-15 | 577,001 | 51 |
 ## Awards
 Max (Character Customization): 7,728  (Ranked 40)  
 Sum: 17,461 (Ranked 58)  

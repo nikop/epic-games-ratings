@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 461,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -1504,9 +1504,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "MQ04_3",
@@ -1641,8 +1641,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-15T05:04:27.3942836+00:00",
+  "LastChanged_Achievements": "2023-06-15T06:04:09.538197+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-15T04:57:27.8193116+00:00",
-  "LastUpdate_Achievements": "2023-06-15T05:04:27.3943045+00:00"
+  "LastUpdate_Ratings": "2023-06-15T05:57:21.225858+00:00",
+  "LastUpdate_Achievements": "2023-06-15T06:04:09.5382279+00:00"
 }

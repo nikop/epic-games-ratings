@@ -327,6 +327,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.20% | ~114 |
 | Frozen Vengeance | 0.20% | ~114 |
 | Mimic Vengeance | 0.20% | ~114 |
+| REALLY Frozen Vengeance | 0.20% | ~114 |
 | The Battle of High Hall Tower | 0.20% | ~114 |
 | Elturel's Last Stand | 0.20% | ~114 |
 | Gargauth's Betrayal | 0.20% | ~114 |
@@ -478,7 +479,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~57 |
 | Frontline Fighters | 0.10% | ~57 |
 | A Chilling Encounter | 0.10% | ~57 |
-| REALLY Frozen Vengeance | 0.10% | ~57 |
 | Might Makes Right | 0.10% | ~57 |
 | The Stunning Tower Battle | 0.10% | ~57 |
 | Demons Here, Demons There | 0.10% | ~57 |
