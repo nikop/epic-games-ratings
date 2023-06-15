@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6486,
+  "EOS_Progressed": 6487,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3579,6 +3579,11 @@
       "Time": "2023-06-15T06:05:28.302076+00:00",
       "NumProgressed": 6486,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-15T08:06:42.3558148+00:00",
+      "NumProgressed": 6487,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3662,7 +3667,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -3757,7 +3762,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6486,
+      "Progressed": 6487,
       "Completed": 24
     }
   ],
@@ -3765,8 +3770,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:05:24.4898279+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:06:42.3558144+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:57:50.4255193+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:05:24.4898629+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:58:19.2131732+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:06:42.3558421+00:00"
 }

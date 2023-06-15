@@ -5,22 +5,22 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,980 |
-| Mods Please Ban | 77.00% | ~17,608 |
+| Eye Scream, You Scream | 83.00% | ~18,981 |
+| Mods Please Ban | 77.00% | ~17,609 |
 | Bring A Knife to a Gun Fight | 76.00% | ~17,380 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,694 |
-| First Bounty Down | 59.00% | ~13,492 |
+| First Bounty Down | 59.00% | ~13,493 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,035 |
-| Luglox Genocide | 43.00% | ~9,833 |
-| Playing Card To Get | 33.00% | ~7,546 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,546 |
+| Luglox Genocide | 43.00% | ~9,834 |
+| Playing Card To Get | 33.00% | ~7,547 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,547 |
 | Creature Feature | 29.00% | ~6,632 |
 | Satisfied Gus-tomer | 28.00% | ~6,403 |
 | Cold-Blooded Driller | 28.00% | ~6,403 |
 | Are You Packin'? | 25.00% | ~5,717 |
 | G3 Graduation | 25.00% | ~5,717 |
-| RIP Davey Glutes | 24.00% | ~5,488 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,488 |
+| RIP Davey Glutes | 24.00% | ~5,489 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,489 |
 | Hardest Battle In The Game | 22.00% | ~5,031 |
 | Series Wrap on Suit-O | 22.00% | ~5,031 |
 | Lezduit! | 20.00% | ~4,574 |
@@ -32,13 +32,13 @@ Rating: 4.67 (Ranked 258)
 | Carried Stan's Load To Completion | 13.00% | ~2,973 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,744 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,058 |
-| Sequel-Bait | 8.00% | ~1,829 |
+| Sequel-Bait | 8.00% | ~1,830 |
 | Gunning For Your Job | 7.00% | ~1,601 |
 | Playing Favorites | 6.00% | ~1,372 |
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,868 (Ranked 94)  
+Progressed: 22,869 (Ranked 94)  
 Completed: 8 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 8 (0.03%) (Ranked 197)
 | 2023-06-12 | 22,848 | 8 |
 | 2023-06-13 | 22,856 | 8 |
 | 2023-06-14 | 22,867 | 8 |
-| 2023-06-15 | 22,868 | 8 |
+| 2023-06-15 | 22,869 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

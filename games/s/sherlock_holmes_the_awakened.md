@@ -29,7 +29,7 @@
 | Brain Food | 31.00% | ~143 |
 | No Stone Unturned | 30.00% | ~138 |
 | Curiosity Killed The Cat | 20.00% | ~92 |
-| Read It And Weep | 18.00% | ~83 |
+| Read It And Weep | 19.00% | ~88 |
 | Big Breakthrough | 14.00% | ~65 |
 | Reawakened | 5.00% | ~23 |
 ## Popularity (Based on EOS Achievements)

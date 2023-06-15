@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 846,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 169,
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5939,
+  "EOS_Progressed": 5940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3178,6 +3178,11 @@
       "Time": "2023-06-15T03:04:48.2144502+00:00",
       "NumProgressed": 5939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T08:05:01.5352304+00:00",
+      "NumProgressed": 5940,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3269,7 +3274,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "First_Major_Ally",
@@ -3293,7 +3298,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "First_Race_Met",
@@ -3301,7 +3306,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "First_Ship_Designed",
@@ -3309,7 +3314,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "First_Stream_Travel",
@@ -3325,7 +3330,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3509,7 +3514,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3677,7 +3682,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3741,7 +3746,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "Win_Quickly",
@@ -3764,15 +3769,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5939,
+      "Progressed": 5940,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:04:10.1366384+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:05:01.53523+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.1944197+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:57:26.2889675+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:04:10.1367167+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:57:45.9767315+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:05:01.5353076+00:00"
 }

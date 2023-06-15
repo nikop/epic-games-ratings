@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.40% | ~363 |
 | Waterdeep Detours | 0.40% | ~363 |
 | Underdeep Cartography | 0.40% | ~363 |
+| The Templar's Camp | 0.40% | ~363 |
 | Pros and CONs | 0.30% | ~272 |
 | Tall Tales | 0.30% | ~171 |
 | Third Third Out | 0.30% | ~171 |
@@ -91,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~272 |
 | Witty Riposting | 0.30% | ~171 |
 | How Far Away is Thay | 0.30% | ~171 |
-| The Templar's Camp | 0.30% | ~272 |
 | Rescue in the Jungle | 0.30% | ~272 |
 | Upholding the Law | 0.20% | ~181 |
 | Starving in the Jungle | 0.20% | ~181 |
@@ -112,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Breathe the Marsh Gas | 0.20% | ~114 |
 | Don't Blast the Brigands | 0.20% | ~114 |
 | Don't Squeeze the Spiders | 0.20% | ~114 |
+| The Spire of Iriolarthas | 0.20% | ~114 |
 | The Prince of a Thousand Enemies | 0.20% | ~114 |
 | Uncommon Allies | 0.20% | ~114 |
 | The Birds | 0.20% | ~114 |
@@ -163,6 +164,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Whale of a Time | 0.20% | ~114 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
 | Struggling Toward Omu | 0.20% | ~181 |
+| Wagon Train | 0.20% | ~181 |
 | Not Very Charming | 0.20% | ~181 |
 | Lobsterfolk Assault | 0.20% | ~181 |
 | The Minions of Endelyn Moongrave | 0.20% | ~114 |
@@ -181,6 +183,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Newcomers of Notoriety | 0.20% | ~114 |
 | Never Split the Party | 0.20% | ~181 |
 | Azaka's Procession - Part 1 | 0.20% | ~181 |
+| Snakes on our Plane | 0.20% | ~114 |
 | Tomb of the Nine Gods | 0.20% | ~181 |
 | Azaka's Procession - Part 2 | 0.20% | ~181 |
 | The Hunt for Owl-y | 0.20% | ~181 |
@@ -324,6 +327,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.20% | ~114 |
 | Quick Thinking | 0.20% | ~114 |
 | Waiting on Sunrise | 0.20% | ~114 |
+| Frontline Fighters | 0.20% | ~114 |
 | Deekin's Mission | 0.20% | ~114 |
 | Dive Bomb | 0.20% | ~114 |
 | Fire and Ice | 0.20% | ~114 |
@@ -350,7 +354,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.20% | ~181 |
 | Keep Your Friends Close | 0.10% | ~57 |
 | And Your Enemies Closer | 0.10% | ~57 |
-| The Spire of Iriolarthas | 0.10% | ~57 |
 | Always Watching | 0.10% | ~57 |
 | The Fall of Ythryn | 0.10% | ~57 |
 | Icequake | 0.10% | ~57 |
@@ -373,7 +376,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~57 |
 | G. O. A. T. | 0.10% | ~57 |
 | Strength of Character | 0.10% | ~57 |
-| Wagon Train | 0.10% | ~91 |
 | Taking Responsibility | 0.10% | ~91 |
 | Between a Brigganock and a Hard Place | 0.10% | ~57 |
 | The Play's the Thing! | 0.10% | ~57 |
@@ -381,7 +383,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~57 |
 | Fall From Grace | 0.10% | ~91 |
 | Underground Railroad | 0.10% | ~91 |
-| Snakes on our Plane | 0.10% | ~57 |
 | The Soulmonger Calls | 0.10% | ~91 |
 | Acererak's Puzzle | 0.10% | ~57 |
 | This Quest Stinks! | 0.10% | ~57 |
@@ -477,7 +478,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
-| Frontline Fighters | 0.10% | ~57 |
 | A Chilling Encounter | 0.10% | ~57 |
 | Might Makes Right | 0.10% | ~57 |
 | The Stunning Tower Battle | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,735 (Ranked 64)  
+Progressed: 90,737 (Ranked 64)  
 Completed: 1,936 (2.13%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 1,936 (2.13%) (Ranked 67)
 | 2023-06-12 | 90,575 | 1,930 |
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
-| 2023-06-15 | 90,735 | 1,936 |
+| 2023-06-15 | 90,737 | 1,936 |
 ## Awards
 Max (Diverse Characters): 4,941  (Ranked 64)  
 Sum: 30,111 (Ranked 37)  

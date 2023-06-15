@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,12 +10,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 8.00% | ~4,447 |
 | That is mine! | 8.00% | ~4,447 |
 | Victorious! | 8.00% | ~4,447 |
-| Brothers in Arms | 6.00% | ~3,335 |
-| That's a Grand Navy | 6.00% | ~3,335 |
-| Seriously?! | 6.00% | ~3,335 |
-| For the Glory | 5.00% | ~2,779 |
-| Cold War | 4.00% | ~2,223 |
-| True Catholic | 4.00% | ~2,223 |
+| Brothers in Arms | 6.00% | ~3,336 |
+| That's a Grand Navy | 6.00% | ~3,336 |
+| Seriously?! | 6.00% | ~3,336 |
+| For the Glory | 5.00% | ~2,780 |
+| Cold War | 4.00% | ~2,224 |
+| True Catholic | 4.00% | ~2,224 |
 | Defender of the Faith | 3.00% | ~1,668 |
 | It's all about the money | 3.00% | ~1,668 |
 | Respected | 3.00% | ~1,668 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,585 (Ranked 76)  
+Progressed: 55,593 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 0 (0.00%) (Ranked 223)
 | 2023-06-12 | 54,579 | 0 |
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
-| 2023-06-15 | 55,585 | 0 |
+| 2023-06-15 | 55,593 | 0 |
 ## Awards
 Max (Educational): 5,392  (Ranked 61)  
 Sum: 44,546 (Ranked 27)  
@@ -586,3 +586,4 @@ Diff (max vs sum): 34
 | 2023-06-12 | 4.68 | - | 5,381 | 44,475 |
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
+| 2023-06-15 | 4.68 | - | 5,392 | 44,546 |

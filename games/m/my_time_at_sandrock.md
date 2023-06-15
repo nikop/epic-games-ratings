@@ -1,12 +1,12 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 892  (23.09.2022)  
 ## Awards
-Max (Character Customization): 559  (Ranked 176)  
+Max (Character Customization): 559  (Ranked 177)  
 Sum: 1,214 (Ranked 225)  
-Diff (max vs sum): -49  
+Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 559 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4306,9 +4306,9 @@
       "Count": 3251
     }
   ],
-  "EOS_Progressed": 90735,
+  "EOS_Progressed": 90737,
   "EOS_Completed": 1936,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -10011,6 +10011,11 @@
       "Time": "2023-06-15T07:05:57.5431408+00:00",
       "NumProgressed": 90735,
       "NumCompleted": 1936
+    },
+    {
+      "Time": "2023-06-15T08:07:22.763181+00:00",
+      "NumProgressed": 90737,
+      "NumCompleted": 1936
     }
   ],
   "TotalAchievements": 493,
@@ -10220,9 +10225,9 @@
       "ID": "objective_completed_1070",
       "SetID": "415jc5c",
       "Name": "The Spire of Iriolarthas",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_1071",
@@ -10980,9 +10985,9 @@
       "ID": "objective_completed_127",
       "SetID": "cc37lbc",
       "Name": "Wagon Train",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_129",
@@ -11308,9 +11313,9 @@
       "ID": "objective_completed_182",
       "SetID": "415jc5c",
       "Name": "Snakes on our Plane",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_184",
@@ -13532,9 +13537,9 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_854",
@@ -13892,9 +13897,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_completed_95",
@@ -13965,21 +13970,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 57009,
+      "Progressed": 57011,
       "Completed": 2793
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90735,
+      "Progressed": 90737,
       "Completed": 1936
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-15T03:58:30.0509773+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:05:57.5431401+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:07:22.7631806+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:57:57.5886948+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:05:57.5457053+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:58:27.6714976+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:07:22.7654211+00:00"
 }

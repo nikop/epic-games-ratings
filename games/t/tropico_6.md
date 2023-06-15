@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,774 |
+| Just One...More...Term... | 76.00% | ~2,775 |
 | Un-Lonely Island | 48.00% | ~1,752 |
-| The Beginning of a Servantship | 45.00% | ~1,642 |
+| The Beginning of a Servantship | 45.00% | ~1,643 |
 | Trade Is My Trait | 36.00% | ~1,314 |
-| Number 18 | 25.00% | ~912 |
+| Number 18 | 25.00% | ~913 |
 | We Don't Have Time For That | 19.00% | ~694 |
 | The Governator | 18.00% | ~657 |
-| The Legend of Langostino | 17.00% | ~620 |
+| The Legend of Langostino | 17.00% | ~621 |
 | Caribbean Comrade | 16.00% | ~584 |
 | The Dreamer of Dreams | 16.00% | ~584 |
 | Happy Ending? | 11.00% | ~402 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~219 |
 | I Owe You Nothing | 6.00% | ~219 |
 | Watch The World Burn | 6.00% | ~219 |
-| Viva Tropico! | 5.00% | ~182 |
-| Computer Says "No" | 5.00% | ~182 |
-| Fairy Tale Come True | 5.00% | ~182 |
+| Viva Tropico! | 5.00% | ~183 |
+| Computer Says "No" | 5.00% | ~183 |
+| Fairy Tale Come True | 5.00% | ~183 |
 | Apocalypso | 4.00% | ~146 |
 | Been there, Done That | 3.00% | ~110 |
 | Narcissist | 3.00% | ~110 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~73 |
 | Terraformer | 2.00% | ~73 |
 | Curse of the Mummy | 2.00% | ~73 |
-| From Knight to Little Duck | 1.00% | ~36 |
-| Survivor | 1.00% | ~36 |
+| From Knight to Little Duck | 1.00% | ~37 |
+| Survivor | 1.00% | ~37 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 135)  
+Progressed: 3,651 (Ranked 135)  
 Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 1 (0.03%) (Ranked 197)
 | 2023-06-12 | 3,598 | 1 |
 | 2023-06-13 | 3,621 | 1 |
 | 2023-06-14 | 3,644 | 1 |
-| 2023-06-15 | 3,650 | 1 |
+| 2023-06-15 | 3,651 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
-Sum: 654 (Ranked 275)  
-Diff (max vs sum): 65  
+Sum: 654 (Ranked 276)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

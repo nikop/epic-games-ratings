@@ -3,7 +3,7 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 546,
-  "Ranking_Popularity": 153,
+  "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 58,
@@ -4469,9 +4469,9 @@
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
       "SetID": "4ajkb4b",
       "Name": "The Pirate\u0027s Way",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 57415
+      "UsersEstimate": 58202
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -4829,8 +4829,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-09T14:59:34.2587561+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:03:25.1311435+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:04:02.8448846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:14.6618941+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:59:28.6918807+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:03:25.1312071+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:00:28.7286335+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:04:02.8449279+00:00"
 }

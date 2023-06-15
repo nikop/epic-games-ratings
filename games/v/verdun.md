@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,676 |
-| Worth it | 63.00% | ~30,008 |
-| Eagle Eye | 55.00% | ~26,197 |
-| Corpseman I | 40.00% | ~19,052 |
-| Blast fishing | 37.00% | ~17,623 |
-| Not alone | 32.00% | ~15,242 |
-| Headhunter I | 26.00% | ~12,384 |
+| Setting an example | 77.00% | ~36,678 |
+| Worth it | 63.00% | ~30,009 |
+| Eagle Eye | 55.00% | ~26,199 |
+| Corpseman I | 40.00% | ~19,054 |
+| Blast fishing | 37.00% | ~17,625 |
+| Not alone | 32.00% | ~15,243 |
+| Headhunter I | 26.00% | ~12,385 |
 | Manual Labour I | 25.00% | ~11,908 |
-| Developers, Developers, Developers | 24.00% | ~11,431 |
-| Basic Training | 24.00% | ~11,431 |
+| Developers, Developers, Developers | 24.00% | ~11,432 |
+| Basic Training | 24.00% | ~11,432 |
 | Furchtlos und Treu | 13.00% | ~6,192 |
 | Gott Mit Uns | 12.00% | ~5,716 |
 | This We'll Defend! | 9.00% | ~4,287 |
 | Anker wirf! | 9.00% | ~4,287 |
 | Providentiea Memor | 9.00% | ~4,287 |
 | For King and Country | 9.00% | ~4,287 |
-| Battle hardened | 8.00% | ~3,810 |
+| Battle hardened | 8.00% | ~3,811 |
 | Semper Fidelis! | 7.00% | ~3,334 |
 | Honneur et Patrie | 7.00% | ~3,334 |
 | In Treue Fest | 5.00% | ~2,382 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,631 (Ranked 81)  
+Progressed: 47,634 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,11 +122,11 @@ Completed: 4 (0.01%) (Ranked 211)
 | 2023-06-12 | 47,416 | 4 |
 | 2023-06-13 | 47,523 | 4 |
 | 2023-06-14 | 47,616 | 4 |
-| 2023-06-15 | 47,631 | 4 |
+| 2023-06-15 | 47,634 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 338)  
-Sum: 747 (Ranked 256)  
-Diff (max vs sum): 82  
+Sum: 747 (Ranked 257)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 94 |

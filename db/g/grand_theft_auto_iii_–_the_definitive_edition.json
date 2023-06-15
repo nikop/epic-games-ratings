@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -310,9 +310,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6602,
+  "EOS_Progressed": 6604,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4095,6 +4095,11 @@
       "Time": "2023-06-15T06:03:48.7511051+00:00",
       "NumProgressed": 6602,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-15T08:04:26.8440248+00:00",
+      "NumProgressed": 6604,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4106,7 +4111,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5480
+      "UsersEstimate": 5481
     },
     {
       "ID": "ACH02",
@@ -4146,7 +4151,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH07",
@@ -4210,7 +4215,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACH15",
@@ -4226,7 +4231,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH17",
@@ -4337,7 +4342,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6602,
+      "Progressed": 6604,
       "Completed": 37
     }
   ],
@@ -4345,8 +4350,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-12T22:57:52.8890791+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:03:43.4100195+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:04:26.8440244+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:57:48.9857883+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:03:43.4100596+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:58:17.1918044+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:04:26.8440585+00:00"
 }

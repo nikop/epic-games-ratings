@@ -11,7 +11,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Seeker of Power | 85.00% | ~66,853 |
 | Hopes and Dreams | 82.00% | ~64,494 |
 | Lantern Smasher | 78.00% | ~61,348 |
-| The Pirate's Way | 73.00% | ~57,415 |
+| The Pirate's Way | 74.00% | ~58,202 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~55,842 |
 | The King of the Dark Elves | 68.00% | ~53,483 |
 | Memories of the Distant Past | 66.00% | ~51,910 |
@@ -111,9 +111,9 @@ Completed: 2,138 (2.72%) (Ranked 58)
 | 2023-06-14 | 78,643 | 2,138 |
 | 2023-06-15 | 78,651 | 2,138 |
 ## Awards
-Max (Great Boss Battles): 754  (Ranked 153)  
+Max (Great Boss Battles): 754  (Ranked 154)  
 Sum: 1,555 (Ranked 208)  
-Diff (max vs sum): -55  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 754 |

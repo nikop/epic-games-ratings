@@ -93,8 +93,8 @@ Completed: 440 (0.23%) (Ranked 146)
 | 2023-06-14 | 193,328 | 440 |
 | 2023-06-15 | 193,352 | 440 |
 ## Awards
-Max (Challenging Puzzles): 554  (Ranked 179)  
-Sum: 668 (Ranked 268)  
+Max (Challenging Puzzles): 554  (Ranked 180)  
+Sum: 668 (Ranked 269)  
 Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |

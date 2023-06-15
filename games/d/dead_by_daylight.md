@@ -6,14 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.50% | ~2,780 |
-| Healthy Obsession | 0.40% | ~2,224 |
-| Close Shave | 0.40% | ~2,224 |
-| Preemptive Strike | 0.40% | ~2,224 |
-| Humanitarian | 0.40% | ~2,224 |
+| Healthy Obsession | 0.50% | ~2,781 |
+| Resurgence | 0.50% | ~2,781 |
+| Humanitarian | 0.50% | ~2,781 |
+| Close Shave | 0.40% | ~2,225 |
+| Preemptive Strike | 0.40% | ~2,225 |
 | Unforgettable Getaway | 0.30% | ~1,668 |
 | Wounded Healer | 0.30% | ~1,668 |
 | First to the Punch | 0.30% | ~1,668 |
+| Old West Oasis | 0.30% | ~1,668 |
 | With Scars to Show | 0.30% | ~1,668 |
 | Flight to Freedom | 0.30% | ~1,668 |
 | Ancestor's Rite | 0.20% | ~1,112 |
@@ -21,7 +22,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.20% | ~1,112 |
 | Operation: Survival | 0.20% | ~1,112 |
 | Grim Pilgrimage | 0.20% | ~1,112 |
-| Old West Oasis | 0.20% | ~1,112 |
 | Classy Act | 0.20% | ~1,112 |
 | Every Last Drop | 0.20% | ~1,112 |
 | Raccoon City Recruit | 0.20% | ~1,112 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~556 |
 | Adept Gabriel | 0.10% | ~556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,964 (Ranked 27)  
+Progressed: 556,158 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-12 | 547,712 | 42 |
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
-| 2023-06-15 | 555,964 | 42 |
+| 2023-06-15 | 556,158 | 42 |
 ## Awards
 Max (Diverse Characters): 28,462  (Ranked 16)  
 Sum: 227,401 (Ranked 12)  

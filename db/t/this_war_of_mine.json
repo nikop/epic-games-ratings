@@ -4,7 +4,7 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 156,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 335,
@@ -1324,6 +1324,6 @@
   "LastChanged": "2023-06-11T20:58:45.9352257+00:00",
   "LastChanged_Achievements": "2023-06-15T07:03:08.9713959+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:40.0531592+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:59:01.0706066+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:03:08.9714002+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:59:52.2872053+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:03:42.2258976+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 258,
   "Ranking_Popularity": 340,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 112,
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3650,
+  "EOS_Progressed": 3651,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4444,6 +4444,11 @@
       "Time": "2023-06-15T06:00:27.7280399+00:00",
       "NumProgressed": 3650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-15T08:01:28.3398886+00:00",
+      "NumProgressed": 3651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4503,7 +4508,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -4519,7 +4524,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4551,7 +4556,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4559,7 +4564,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4575,7 +4580,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4615,7 +4620,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4623,7 +4628,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -4687,7 +4692,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -4751,7 +4756,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -4774,15 +4779,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3650,
+      "Progressed": 3651,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-15T06:00:27.7280395+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:01:28.3398657+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:59:47.4545024+00:00",
-  "LastUpdate_Achievements": "2023-06-15T06:00:27.7280913+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:00:53.9455577+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:01:28.340821+00:00"
 }

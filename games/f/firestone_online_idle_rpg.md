@@ -69,8 +69,8 @@ Rating: 4.05 (Ranked 894)
 | Gear Enchanting | 0.40% | ~6 |
 | Guardian Master | 0.40% | ~6 |
 | Mythic Power | 0.40% | ~6 |
+| Titan Power | 0.40% | ~6 |
 | Pokerface | 0.30% | ~4 |
-| Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
 | Angel Power | 0.10% | ~1 |

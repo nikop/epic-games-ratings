@@ -2840,9 +2840,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9870,
+  "EOS_Progressed": 9873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6560,6 +6560,11 @@
       "Time": "2023-06-15T07:05:53.9363085+00:00",
       "NumProgressed": 9870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-15T08:07:18.3316585+00:00",
+      "NumProgressed": 9873,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6579,7 +6584,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -6587,7 +6592,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "04_FithCrusade",
@@ -6939,7 +6944,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "49_Flame",
@@ -7498,21 +7503,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8652,
+      "Progressed": 8655,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9870,
+      "Progressed": 9873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-14T23:58:34.2579091+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:05:53.936308+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:07:18.331658+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-15T06:58:11.6374287+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:05:53.9365591+00:00"
+  "LastUpdate_Ratings": "2023-06-15T07:58:47.1232474+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:07:18.3318193+00:00"
 }

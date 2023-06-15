@@ -308,7 +308,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2873,
+  "EOS_Progressed": 2875,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
@@ -3593,6 +3593,11 @@
       "Time": "2023-06-15T06:05:46.9655035+00:00",
       "NumProgressed": 2873,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-15T08:07:06.1349751+00:00",
+      "NumProgressed": 2875,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3748,7 +3753,7 @@
       "Name": "The Long Game",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -3772,7 +3777,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3828,7 +3833,7 @@
       "Name": "Resourceful",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3844,7 +3849,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3916,7 +3921,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3924,7 +3929,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -3972,7 +3977,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4012,7 +4017,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4068,7 +4073,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -4171,13 +4176,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2824,
+      "Progressed": 2826,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2873,
+      "Progressed": 2875,
       "Completed": 2
     }
   ],
@@ -4185,8 +4190,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-15T07:05:43.8558387+00:00",
+  "LastChanged_Achievements": "2023-06-15T08:07:06.1349747+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-15T07:00:06.8312695+00:00",
-  "LastUpdate_Achievements": "2023-06-15T07:05:43.8559268+00:00"
+  "LastUpdate_Ratings": "2023-06-15T08:01:19.7978632+00:00",
+  "LastUpdate_Achievements": "2023-06-15T08:07:06.1350457+00:00"
 }
