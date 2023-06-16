@@ -15,16 +15,16 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.36% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.05% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.31% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.55% |
-| 23 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.41% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
-| 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
+| 24 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.14% |
+| 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
 | 28 | [Scorn](games/s/scorn.md) | 6.88% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 36 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 4.17% |
+| 36 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 4.08% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
@@ -53,7 +53,7 @@
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
-| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.90% |
+| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
 | 55 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -70,7 +70,7 @@
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
-| 71 | [Iron Danger](games/i/iron_danger.md) | 1.91% |
+| 71 | [Iron Danger](games/i/iron_danger.md) | 1.90% |
 | 72 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.89% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
 | 73 | [JARS](games/j/jars.md) | 1.82% |
@@ -102,13 +102,13 @@
 | 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 100 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 103 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.75% |
 | 103 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 104 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.74% |
-| 105 | [Haven](games/h/haven.md) | 0.70% |
-| 105 | [Them and Us](games/t/them_and_us.md) | 0.70% |
-| 107 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
-| 107 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.68% |
-| 107 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
+| 105 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.74% |
+| 106 | [Haven](games/h/haven.md) | 0.70% |
+| 106 | [Them and Us](games/t/them_and_us.md) | 0.70% |
+| 108 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
+| 108 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 110 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 111 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.66% |
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
