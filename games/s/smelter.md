@@ -18,14 +18,14 @@
 | A Little Extra Love | 19.00% | ~7 |
 | A New Strategy | 19.00% | ~7 |
 | Isn't It Beautiful? | 17.00% | ~6 |
+| A Generous Leader | 17.00% | ~6 |
 | Final Announcement | 17.00% | ~6 |
 | My Precious Gems! | 14.00% | ~5 |
+| Orcharion Boost | 14.00% | ~5 |
 | Case Closed | 14.00% | ~5 |
-| A Generous Leader | 14.00% | ~5 |
 | An Unexpected Visitor | 14.00% | ~5 |
 | A Terrible Way to Go | 14.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
-| Orcharion Boost | 11.00% | ~4 |
 | Fishing for Fissures | 11.00% | ~4 |
 | All Beefed Up | 11.00% | ~4 |
 | The Smelter | 11.00% | ~4 |

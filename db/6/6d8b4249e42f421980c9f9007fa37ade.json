@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -686,8 +686,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-16T17:04:09.7643645+00:00",
+  "LastChanged_Achievements": "2023-06-16T18:00:32.333172+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-16T16:59:08.898614+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:04:09.7646381+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:57:03.1827357+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:00:32.3332085+00:00"
 }

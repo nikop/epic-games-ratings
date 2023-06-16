@@ -7,8 +7,8 @@
 | Home Sweet Home | 95.00% | ~418 |
 | A Friend in Need | 60.00% | ~264 |
 | Surviving | 43.00% | ~189 |
-| Never Give Up | 39.00% | ~172 |
-| Detox diet | 39.00% | ~172 |
+| Never Give Up | 40.00% | ~176 |
+| Detox diet | 40.00% | ~176 |
 | Tasty | 37.00% | ~163 |
 | Lullaby | 32.00% | ~141 |
 | You Can Pet The Fox | 30.00% | ~132 |
@@ -16,7 +16,7 @@
 | Never Let Down | 23.00% | ~101 |
 | A Barking Fox Doesn't Bite | 21.00% | ~92 |
 | Chicken Dinner | 21.00% | ~92 |
-| Peaceful Instinct | 18.00% | ~79 |
+| Peaceful Instinct | 19.00% | ~84 |
 | Maternity | 16.00% | ~70 |
 | Family Reunion | 15.00% | ~66 |
 | Beyond Words | 15.00% | ~66 |

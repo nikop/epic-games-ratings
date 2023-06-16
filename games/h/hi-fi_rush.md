@@ -20,7 +20,7 @@ Rating: 4.89 (Ranked 13)
 | Z-shielding's got nothing on us! | 44.00% | ~1,426 |
 | Kissing the sky! | 43.00% | ~1,393 |
 | Does that say weakpoint? | 40.00% | ~1,296 |
-| Whoa! There's ANOTHER health bar!? | 38.00% | ~1,231 |
+| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,264 |
 | The Negotiator | 37.00% | ~1,199 |
 | You must like calling me in, Chai | 32.00% | ~1,037 |
 | Out in a puff of smoke | 32.00% | ~1,037 |

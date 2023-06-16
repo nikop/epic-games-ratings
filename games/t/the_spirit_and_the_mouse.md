@@ -45,8 +45,8 @@
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 303)  
-Completed: 0 (0.00%) (Ranked 226)  
+Progressed: 71 (Ranked 304)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

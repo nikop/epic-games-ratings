@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 236
     },
     {
       "ID": "church",
@@ -834,9 +834,9 @@
       "ID": "match_3",
       "SetID": "ap7g2g4",
       "Name": "Match 3",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 278
     },
     {
       "ID": "match_6",
@@ -929,8 +929,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-16T17:06:18.9000616+00:00",
+  "LastChanged_Achievements": "2023-06-16T18:03:40.6729609+00:00",
   "LastUpdate_AppInfo": "2023-06-15T13:06:19.3611159+00:00",
-  "LastUpdate_Ratings": "2023-06-16T16:59:17.0804524+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:06:18.9000974+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:57:09.0238661+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:03:40.6729781+00:00"
 }

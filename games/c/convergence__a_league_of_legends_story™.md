@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 13.00% | ~91 |
+| The Mysterious Stranger | 11.00% | ~77 |
 | Rail Rat | 11.00% | ~77 |
-| The Mysterious Stranger | 10.00% | ~70 |
 | Make Up For Lost Time | 10.00% | ~70 |
 | Cartographer | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
@@ -38,14 +38,14 @@
 | Syron for Hope | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Good Neighbor | 5.00% | ~35 |
+| Sartorialist | 4.00% | ~28 |
 | Cultivair Explorer | 4.00% | ~28 |
+| Entresol Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
 | Fairgrounds Explorer | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Clovemary for Remembering | 3.00% | ~21 |
-| Sartorialist | 3.00% | ~21 |
-| Entresol Explorer | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |
 | Hexlock for Protection | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |

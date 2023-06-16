@@ -12,8 +12,8 @@
 | The woodcutter | 21.00% | ~53 |
 | I like books | 19.00% | ~48 |
 | I like my life | 19.00% | ~48 |
+| Soviet town | 18.00% | ~46 |
 | Clean energy | 17.00% | ~43 |
-| Soviet town | 17.00% | ~43 |
 | Bucolic city | 13.00% | ~33 |
 | King of fish | 9.00% | ~23 |
 | I love books! | 8.00% | ~20 |
@@ -85,7 +85,7 @@
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 253 (Ranked 242)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

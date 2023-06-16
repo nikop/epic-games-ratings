@@ -42,7 +42,7 @@
 | Another one bites the iron | 28.00% | ~21 |
 | Ripe Meat Off The Bone! | 25.00% | ~19 |
 | Hovering around | 24.00% | ~18 |
-| You're not so Big anymore, Boi! | 21.00% | ~16 |
+| You're not so Big anymore, Boi! | 22.00% | ~17 |
 | Your daily dose of Vitamin C. | 21.00% | ~16 |
 | I cant stand still! | 21.00% | ~16 |
 | Kleptomaniac | 21.00% | ~16 |
@@ -87,8 +87,8 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 300)  
-Completed: 0 (0.00%) (Ranked 226)  
+Progressed: 76 (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

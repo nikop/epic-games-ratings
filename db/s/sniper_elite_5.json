@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -314,7 +314,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2953,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
@@ -3729,6 +3729,11 @@
       "Time": "2023-06-16T17:09:28.8568238+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-16T18:06:06.8808172+00:00",
+      "NumProgressed": 2953,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3804,7 +3809,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3820,7 +3825,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3932,7 +3937,7 @@
       "Name": "My Little Friend",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -3980,7 +3985,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4052,7 +4057,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4307,13 +4312,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2901,
+      "Progressed": 2904,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2953,
       "Completed": 2
     }
   ],
@@ -4321,8 +4326,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-15T18:00:23.7807599+00:00",
-  "LastChanged_Achievements": "2023-06-16T17:09:28.8568233+00:00",
+  "LastChanged_Achievements": "2023-06-16T18:06:06.8808167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:03:45.9296501+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:09:28.8569163+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:00:14.9878431+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:06:06.8808848+00:00"
 }

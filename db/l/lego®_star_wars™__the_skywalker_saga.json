@@ -2468,9 +2468,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49564,
+  "EOS_Progressed": 49566,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -7478,6 +7478,11 @@
       "Time": "2023-06-16T16:06:47.3691532+00:00",
       "NumProgressed": 49564,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-06-16T18:06:12.3044682+00:00",
+      "NumProgressed": 49566,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 45,
@@ -7513,7 +7518,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39156
+      "UsersEstimate": 39157
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7601,7 +7606,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29243
+      "UsersEstimate": 29244
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -7609,7 +7614,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22799
+      "UsersEstimate": 22800
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -7625,7 +7630,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23295
+      "UsersEstimate": 23296
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -7633,7 +7638,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -7657,7 +7662,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10904
+      "UsersEstimate": 10905
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -7665,7 +7670,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9418
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -7681,7 +7686,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28251
+      "UsersEstimate": 28253
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -7729,7 +7734,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28747
+      "UsersEstimate": 28748
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -7753,7 +7758,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48077
+      "UsersEstimate": 48079
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7793,7 +7798,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35190
+      "UsersEstimate": 35192
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -7825,7 +7830,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26269
+      "UsersEstimate": 26270
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -7841,22 +7846,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35190
+      "UsersEstimate": 35192
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49564,
+      "Progressed": 49566,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-16T16:01:06.3951629+00:00",
-  "LastChanged_Achievements": "2023-06-16T17:09:36.2828339+00:00",
+  "LastChanged_Achievements": "2023-06-16T18:06:12.3044676+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.3457729+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:03:50.0444742+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:09:36.2829055+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:00:18.2749446+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:06:12.3045189+00:00"
 }

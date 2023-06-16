@@ -6,50 +6,50 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,745 |
-| The Cursed Farmer | 2.00% | ~1,872 |
-| Beast Intentions | 1.00% | ~936 |
-| The Ring of Regeneration | 1.00% | ~936 |
-| The Mad Wizard | 1.00% | ~936 |
+| A Brief Tour of the Realms | 4.00% | ~3,749 |
+| The Cursed Farmer | 2.00% | ~1,874 |
+| Beast Intentions | 1.00% | ~937 |
+| The Ring of Regeneration | 1.00% | ~937 |
+| The Mad Wizard | 1.00% | ~937 |
 | Are Ya Chicken? | 0.90% | ~843 |
-| The Court of Storms | 0.90% | ~539 |
-| Were-verpowered | 0.80% | ~749 |
-| Seeking Allies | 0.80% | ~749 |
-| Beware the Jabberwock | 0.80% | ~479 |
-| A Persistent Buzzing | 0.70% | ~655 |
-| Mad Cow Disease | 0.70% | ~655 |
-| Friendly Imps | 0.70% | ~655 |
+| The Court of Storms | 0.90% | ~540 |
+| Were-verpowered | 0.80% | ~750 |
+| Seeking Allies | 0.80% | ~750 |
+| Beware the Jabberwock | 0.80% | ~480 |
+| A Persistent Buzzing | 0.70% | ~656 |
+| Mad Cow Disease | 0.70% | ~656 |
+| Friendly Imps | 0.70% | ~656 |
 | Terror in the Dark | 0.60% | ~562 |
 | Unearthed Evil | 0.60% | ~562 |
 | The Crumbling Temple | 0.60% | ~562 |
 | Pure Energy | 0.60% | ~562 |
-| Coasting to the Finish | 0.60% | ~359 |
-| Maddening | 0.50% | ~468 |
-| Checkmate | 0.50% | ~299 |
-| Vecna Out! | 0.50% | ~299 |
-| Beast Mode | 0.50% | ~468 |
-| A Mysterious Summons | 0.50% | ~468 |
-| Building Trust | 0.50% | ~468 |
-| Useless Allies | 0.50% | ~468 |
-| Exploring Port Nyanzaru | 0.50% | ~468 |
-| Running of the Saurs | 0.50% | ~468 |
-| The Contagious Curse | 0.50% | ~468 |
-| Escort to Waterdeep | 0.50% | ~468 |
-| Waterdeep Detours | 0.50% | ~468 |
-| Quick or Quack | 0.50% | ~299 |
+| Coasting to the Finish | 0.60% | ~360 |
+| Maddening | 0.50% | ~469 |
+| Checkmate | 0.50% | ~300 |
+| Vecna Out! | 0.50% | ~300 |
+| Beast Mode | 0.50% | ~469 |
+| A Mysterious Summons | 0.50% | ~469 |
+| Building Trust | 0.50% | ~469 |
+| Useless Allies | 0.50% | ~469 |
+| Exploring Port Nyanzaru | 0.50% | ~469 |
+| Running of the Saurs | 0.50% | ~469 |
+| The Contagious Curse | 0.50% | ~469 |
+| Escort to Waterdeep | 0.50% | ~469 |
+| Waterdeep Detours | 0.50% | ~469 |
+| Quick or Quack | 0.50% | ~300 |
 | Owlbear Necessities | 0.40% | ~240 |
 | Best Thay Ever | 0.40% | ~240 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~240 |
 | Pin and Skewer | 0.40% | ~240 |
-| Low Initiative | 0.40% | ~374 |
-| No Time To Rest | 0.40% | ~374 |
-| The Dinner Party | 0.40% | ~374 |
-| The Death Curse | 0.40% | ~374 |
-| Premature Betrayal | 0.40% | ~374 |
-| Underdeep Cartography | 0.40% | ~374 |
-| Overdue Rendezvous | 0.40% | ~374 |
-| The Templar's Camp | 0.40% | ~374 |
-| Rescue in the Jungle | 0.40% | ~374 |
+| Low Initiative | 0.40% | ~375 |
+| No Time To Rest | 0.40% | ~375 |
+| The Dinner Party | 0.40% | ~375 |
+| The Death Curse | 0.40% | ~375 |
+| Premature Betrayal | 0.40% | ~375 |
+| Underdeep Cartography | 0.40% | ~375 |
+| Overdue Rendezvous | 0.40% | ~375 |
+| The Templar's Camp | 0.40% | ~375 |
+| Rescue in the Jungle | 0.40% | ~375 |
 | Pros and CONs | 0.30% | ~281 |
 | Tall Tales | 0.30% | ~180 |
 | Third Third Out | 0.30% | ~180 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~60 |
 | Ineffectual Intellectuals | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,616 (Ranked 63)  
+Progressed: 93,721 (Ranked 63)  
 Completed: 1,942 (2.07%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,942 (2.07%) (Ranked 70)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 93,616 | 1,942 |
+| 2023-06-16 | 93,721 | 1,942 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,123 (Ranked 37)  

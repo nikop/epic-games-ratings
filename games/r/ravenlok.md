@@ -30,12 +30,12 @@
 | Ancient Wisdom | 37.00% | ~371 |
 | Frog Facts! | 37.00% | ~371 |
 | All That Glistens | 37.00% | ~371 |
+| Spellbound | 36.00% | ~361 |
 | All Skilled Up! | 36.00% | ~361 |
 | It's Pointy! | 36.00% | ~361 |
-| Spellbound | 35.00% | ~351 |
 | Extinct Again! | 35.00% | ~351 |
 | Bird of Prey | 35.00% | ~351 |
-| Stardust | 34.00% | ~341 |
+| Stardust | 35.00% | ~351 |
 | Heartbreaker | 34.00% | ~341 |
 | Kidnapped! | 34.00% | ~341 |
 | Pull the Plug | 33.00% | ~331 |
@@ -48,7 +48,7 @@
 | Going Home | 32.00% | ~321 |
 | Extraordinary! | 31.00% | ~311 |
 | Mirror, Mirror | 30.00% | ~301 |
-| Flower Power | 26.00% | ~261 |
+| Flower Power | 27.00% | ~271 |
 | Shopping Spree! | 24.00% | ~240 |
 | Crowned | 22.00% | ~220 |
 | Max Level! | 15.00% | ~150 |

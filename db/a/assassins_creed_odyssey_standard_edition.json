@@ -6,9 +6,9 @@
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5067,18 +5067,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 12707,
       "NumberOfAwardsMax": 5214
+    },
+    {
+      "Time": "2023-06-16T17:59:19.1810601+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12716,
+      "NumberOfAwardsMax": 5222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12707,
-  "NumberOfAwardsMax": 5214,
+  "NumberOfAwards": 12716,
+  "NumberOfAwardsMax": 5222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5214
+      "Count": 5222
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5132,7 +5138,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 422
+      "Count": 423
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5170,8 +5176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-06-16T13:59:30.7451397+00:00",
+  "LastChanged": "2023-06-16T17:59:19.18106+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:54.4782406+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:02:26.3956099+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:08:07.3206348+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:59:19.1810605+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:05:07.7441479+00:00"
 }

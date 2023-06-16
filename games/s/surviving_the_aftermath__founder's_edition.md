@@ -6,25 +6,25 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,611 |
-| Leader | 61.00% | ~3,962 |
-| Explorer | 53.00% | ~3,442 |
-| Healer | 53.00% | ~3,442 |
+| First Step | 71.00% | ~4,612 |
+| Leader | 61.00% | ~3,963 |
+| Explorer | 53.00% | ~3,443 |
+| Healer | 53.00% | ~3,443 |
 | Aspiring Inventor | 44.00% | ~2,858 |
 | Adventurer | 41.00% | ~2,663 |
 | Famous Healer | 38.00% | ~2,468 |
-| Local Leader | 35.00% | ~2,273 |
-| New Opportunities | 34.00% | ~2,208 |
-| Famous Explorer | 33.00% | ~2,143 |
-| Energized | 33.00% | ~2,143 |
-| The Long Haul | 33.00% | ~2,143 |
-| Survivor | 31.00% | ~2,013 |
-| The Great Healer | 30.00% | ~1,948 |
+| Local Leader | 35.00% | ~2,274 |
+| New Opportunities | 34.00% | ~2,209 |
+| Famous Explorer | 33.00% | ~2,144 |
+| Energized | 33.00% | ~2,144 |
+| The Long Haul | 33.00% | ~2,144 |
+| Survivor | 31.00% | ~2,014 |
+| The Great Healer | 30.00% | ~1,949 |
 | Cleaner | 28.00% | ~1,819 |
 | Catastrofan | 28.00% | ~1,819 |
 | Legendary Explorer | 27.00% | ~1,754 |
 | Finders, Keepers | 26.00% | ~1,689 |
-| Top Notch | 24.00% | ~1,559 |
+| Top Notch | 25.00% | ~1,624 |
 | Ice Lakes | 23.00% | ~1,494 |
 | Mentor | 23.00% | ~1,494 |
 | Great Leader | 22.00% | ~1,429 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 14.00% | ~909 |
 | Famous Adventurer | 13.00% | ~844 |
 | Prepared for Anything | 13.00% | ~844 |
-| Big Catastrofan | 12.00% | ~779 |
+| Big Catastrofan | 12.00% | ~780 |
 | It's a Finnish Thing | 10.00% | ~650 |
 | Sky Burial | 9.00% | ~585 |
 | Trader | 8.00% | ~520 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,495 (Ranked 125)  
-Completed: 0 (0.00%) (Ranked 226)  
+Progressed: 6,496 (Ranked 125)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-13 | 6,435 | 0 |
 | 2023-06-14 | 6,449 | 0 |
 | 2023-06-15 | 6,480 | 0 |
-| 2023-06-16 | 6,495 | 0 |
+| 2023-06-16 | 6,496 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 665 (Ranked 270)  

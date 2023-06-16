@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "TROP013",
@@ -575,9 +575,9 @@
       "ID": "TROP020",
       "SetID": "9n0dl35",
       "Name": "Peaceful Instinct",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "TROP021",
@@ -599,9 +599,9 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "TROP024",
@@ -648,8 +648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-16T17:05:28.2988849+00:00",
+  "LastChanged_Achievements": "2023-06-16T18:03:12.8564886+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:14.0709355+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:01:39.8689832+00:00",
-  "LastUpdate_Achievements": "2023-06-16T17:05:28.2989101+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:58:46.654806+00:00",
+  "LastUpdate_Achievements": "2023-06-16T18:03:12.8565057+00:00"
 }
