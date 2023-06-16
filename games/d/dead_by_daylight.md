@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.80% | ~4,477 |
+| Resurgence | 0.80% | ~4,478 |
 | Healthy Obsession | 0.70% | ~3,918 |
 | Preemptive Strike | 0.70% | ~3,918 |
 | Humanitarian | 0.70% | ~3,918 |
-| Close Shave | 0.60% | ~3,358 |
-| Wounded Healer | 0.50% | ~2,798 |
-| Flight to Freedom | 0.50% | ~2,798 |
+| Close Shave | 0.60% | ~3,359 |
+| Wounded Healer | 0.50% | ~2,799 |
+| Flight to Freedom | 0.50% | ~2,799 |
 | Unforgettable Getaway | 0.40% | ~2,239 |
 | First to the Punch | 0.40% | ~2,239 |
 | Old West Oasis | 0.40% | ~2,239 |
 | Every Last Drop | 0.40% | ~2,239 |
 | With Scars to Show | 0.40% | ~2,239 |
+| Ancestor's Rite | 0.30% | ~1,679 |
 | Cutting Out | 0.30% | ~1,679 |
 | Outrun Evil | 0.30% | ~1,679 |
 | Operation: Survival | 0.30% | ~1,679 |
@@ -26,16 +27,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.30% | ~1,679 |
 | Lifting The Fog | 0.30% | ~1,679 |
 | Chorus of Chaos | 0.30% | ~1,679 |
-| Ancestor's Rite | 0.20% | ~1,119 |
-| Devoted Gatekeeping | 0.20% | ~1,119 |
-| Shrine Apparatus | 0.20% | ~1,119 |
-| Broken Bodies | 0.20% | ~1,119 |
-| Grim Pilgrimage | 0.20% | ~1,119 |
-| Selfless Survival | 0.20% | ~1,119 |
-| I See You | 0.20% | ~1,119 |
-| End of Days | 0.20% | ~1,119 |
-| Insult and Injury | 0.20% | ~1,119 |
-| Outrun the Overlap | 0.20% | ~1,119 |
+| Devoted Gatekeeping | 0.20% | ~1,120 |
+| Shrine Apparatus | 0.20% | ~1,120 |
+| Broken Bodies | 0.20% | ~1,120 |
+| Grim Pilgrimage | 0.20% | ~1,120 |
+| Selfless Survival | 0.20% | ~1,120 |
+| I See You | 0.20% | ~1,120 |
+| End of Days | 0.20% | ~1,120 |
+| Insult and Injury | 0.20% | ~1,120 |
+| Outrun the Overlap | 0.20% | ~1,120 |
 | The Grand Sacrifice | 0.10% | ~560 |
 | A bite for the Entity | 0.10% | ~560 |
 | A feast for the Entity | 0.10% | ~560 |
@@ -227,8 +227,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~560 |
 | Adept Gabriel | 0.10% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 559,655 (Ranked 26)  
-Completed: 42 (0.01%) (Ranked 211)  
+Progressed: 559,769 (Ranked 26)  
+Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 559,655 | 42 |
+| 2023-06-16 | 559,769 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,704 (Ranked 12)  

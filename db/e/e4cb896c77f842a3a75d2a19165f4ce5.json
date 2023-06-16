@@ -2,10 +2,10 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 37,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 39,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 37,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -84,6 +84,11 @@
       "Time": "2023-06-16T04:00:05.177013+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T05:01:22.6590329+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 11,
@@ -95,29 +100,29 @@
       "Name": "Pit-house",
       "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 59,
+      "Percentage": 56,
       "XP": 95,
       "UsersEstimate": 22
     },
@@ -125,7 +130,7 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 95,
       "UsersEstimate": 9
     },
@@ -133,7 +138,7 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -173,22 +178,22 @@
       "ID": "LEVEL_060",
       "SetID": "7jk5g4e",
       "Name": "A great viking explorer!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 37,
-      "Completed": 0
+      "Progressed": 39,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:00:05.1769878+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:01:22.6590325+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.6953056+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:57:01.4901252+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:00:05.1778437+00:00"
+  "LastUpdate_Ratings": "2023-06-16T04:57:25.8852761+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:01:22.6590497+00:00"
 }

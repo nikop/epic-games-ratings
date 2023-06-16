@@ -21,7 +21,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | The Wind's Light | 54.00% | ~42,476 |
 | Vague Remembrances | 49.00% | ~38,543 |
 | The Fire's Light | 47.00% | ~36,970 |
-| Phantom Memories | 46.00% | ~36,184 |
+| Phantom Memories | 47.00% | ~36,970 |
 | Imbued Memories | 46.00% | ~36,184 |
 | The Earth's Light | 45.00% | ~35,397 |
 | Shared Recollections | 42.00% | ~33,037 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,573 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78,660 (Ranked 65)  
-Completed: 2,138 (2.72%) (Ranked 58)  
+Completed: 2,138 (2.72%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

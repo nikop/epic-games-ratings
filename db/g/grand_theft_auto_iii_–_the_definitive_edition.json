@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -316,9 +316,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6647,
+  "EOS_Progressed": 6648,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4186,6 +4186,11 @@
       "Time": "2023-06-16T02:13:28.7980284+00:00",
       "NumProgressed": 6647,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-16T05:04:32.5646444+00:00",
+      "NumProgressed": 6648,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4197,7 +4202,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5517
+      "UsersEstimate": 5518
     },
     {
       "ID": "ACH02",
@@ -4317,7 +4322,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH17",
@@ -4428,7 +4433,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6647,
+      "Progressed": 6648,
       "Completed": 37
     }
   ],
@@ -4436,8 +4441,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-15T22:58:13.3832302+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:03:55.192768+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:04:32.564644+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:57:48.7239076+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:03:55.1928142+00:00"
+  "LastUpdate_Ratings": "2023-06-16T04:58:25.075225+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:04:32.5646781+00:00"
 }

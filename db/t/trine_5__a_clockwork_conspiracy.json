@@ -3,9 +3,9 @@
   "Name": "Trine 5: A Clockwork Conspiracy",
   "ProductSlug": "trine-5",
   "Ranking_EOS_Progress": 458,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-04-12T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:58:51.6028262+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:58:21.1361353+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:04:01.7622723+00:00"
+  "LastUpdate_Ratings": "2023-06-16T04:59:07.3346187+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:04:40.7807711+00:00"
 }

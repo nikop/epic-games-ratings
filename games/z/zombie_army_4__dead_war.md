@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 743  (23.09.2022)
 | Groovy | 61.00% | ~26,115 |
 | Cleanup on aisle 4! | 57.00% | ~24,402 |
 | Gold | 50.00% | ~21,406 |
-| The boat can leave now...tell the crew | 48.00% | ~20,549 |
+| The boat can leave now...tell the crew | 49.00% | ~20,977 |
 | Stand back boy! | 47.00% | ~20,121 |
 | Give me something to shoot! | 46.00% | ~19,693 |
 | Weird science | 44.00% | ~18,837 |
@@ -74,7 +74,7 @@ Number of Ratings: 743  (23.09.2022)
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42,811 (Ranked 84)  
-Completed: 25 (0.06%) (Ranked 188)  
+Completed: 25 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

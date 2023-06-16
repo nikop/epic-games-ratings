@@ -41,7 +41,7 @@ Rating: 4.43 (Ranked 649)
 | Purge the Heretek | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 214,278 (Ranked 50)  
-Completed: 4 (0.00%) (Ranked 224)  
+Completed: 4 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,8 +100,8 @@ Completed: 4 (0.00%) (Ranked 224)
 | 2023-06-16 | 214,278 | 4 |
 ## Awards
 Max (Highly Recommended): 279  (Ranked 234)  
-Sum: 2,107 (Ranked 185)  
-Diff (max vs sum): 49  
+Sum: 2,107 (Ranked 186)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 279 |

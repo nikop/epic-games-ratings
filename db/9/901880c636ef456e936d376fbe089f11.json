@@ -3,9 +3,9 @@
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -43,9 +43,9 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -83,9 +83,9 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -99,9 +99,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -115,9 +115,9 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -131,9 +131,9 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -155,17 +155,17 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -211,9 +211,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -275,9 +275,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -307,9 +307,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -323,9 +323,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -371,9 +371,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -395,9 +395,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -473,8 +473,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:03:24.5774281+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:03:54.4060846+00:00",
   "LastUpdate_AppInfo": "2023-06-13T03:56:54.9905852+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:56:58.7895645+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:03:24.5774699+00:00"
+  "LastUpdate_Ratings": "2023-06-16T04:57:22.5027942+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:03:54.4061194+00:00"
 }

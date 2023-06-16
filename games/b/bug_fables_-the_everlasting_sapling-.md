@@ -29,14 +29,14 @@
 | Ultimate Team! | 13.00% | ~9 |
 | Pro Explorers | 11.00% | ~8 |
 | Cooking Maestro | 10.00% | ~7 |
+| Helping Hand | 10.00% | ~7 |
 | Field Researcher | 9.00% | ~6 |
-| Helping Hand | 9.00% | ~6 |
 | Medal Collector | 7.00% | ~5 |
 | Our job's done! | 7.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70 (Ranked 304)  
-Completed: 0 (0.00%) (Ranked 224)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

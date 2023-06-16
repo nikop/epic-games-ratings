@@ -36,7 +36,7 @@
 | Breach of Contract | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 368)  
-Completed: 0 (0.00%) (Ranked 224)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

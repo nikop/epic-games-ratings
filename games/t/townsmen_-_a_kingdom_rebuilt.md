@@ -69,7 +69,7 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere I | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
-| Treat her well… | 0.80% | ~33 |
+| Treat her well… | 0.90% | ~38 |
 | I've been everywhere II | 0.80% | ~33 |
 | When there's fire... | 0.70% | ~29 |
 | Last man standing | 0.60% | ~25 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,171 (Ranked 135)  
-Completed: 3 (0.07%) (Ranked 183)  
+Completed: 3 (0.07%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

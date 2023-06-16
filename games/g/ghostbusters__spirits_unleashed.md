@@ -5,45 +5,45 @@ Rating: 4.49 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,024 |
-| Advancement | 73.00% | ~16,997 |
-| Meticulously Efficient | 64.00% | ~14,902 |
-| Discovery | 62.00% | ~14,436 |
-| Swift Rift Removers | 55.00% | ~12,806 |
-| Fully Upgraded | 54.00% | ~12,573 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~12,108 |
-| Cultured | 52.00% | ~12,108 |
-| Vaporous Expansion | 49.00% | ~11,409 |
-| Teamwork | 44.00% | ~10,245 |
-| There you are! | 43.00% | ~10,012 |
-| Clutch Capture | 41.00% | ~9,546 |
-| Back Off | 36.00% | ~8,382 |
-| Daily Dose | 35.00% | ~8,149 |
-| Solo Capture | 32.00% | ~7,451 |
-| Welcome to the Crew | 32.00% | ~7,451 |
-| Ghostbuster In Training | 30.00% | ~6,985 |
-| Icing on the Cake | 30.00% | ~6,985 |
+| Stylish | 86.00% | ~20,027 |
+| Advancement | 73.00% | ~17,000 |
+| Meticulously Efficient | 64.00% | ~14,904 |
+| Discovery | 62.00% | ~14,438 |
+| Swift Rift Removers | 55.00% | ~12,808 |
+| Fully Upgraded | 54.00% | ~12,575 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~12,109 |
+| Cultured | 52.00% | ~12,109 |
+| Vaporous Expansion | 49.00% | ~11,411 |
+| Teamwork | 44.00% | ~10,246 |
+| There you are! | 43.00% | ~10,013 |
+| Clutch Capture | 41.00% | ~9,548 |
+| Back Off | 36.00% | ~8,383 |
+| Daily Dose | 35.00% | ~8,150 |
+| Solo Capture | 32.00% | ~7,452 |
+| Welcome to the Crew | 32.00% | ~7,452 |
+| Ghostbuster In Training | 30.00% | ~6,986 |
+| Icing on the Cake | 30.00% | ~6,986 |
 | Side Hustle | 28.00% | ~6,520 |
 | We have the best insurance | 27.00% | ~6,287 |
 | Legions | 27.00% | ~6,287 |
 | Summoner | 27.00% | ~6,287 |
-| Pesky Jerks | 26.00% | ~6,054 |
-| Right back at ya | 26.00% | ~6,054 |
-| Stunner | 26.00% | ~6,054 |
-| Animated | 25.00% | ~5,821 |
-| Collector | 24.00% | ~5,588 |
-| Ectoplasmic Entity | 24.00% | ~5,588 |
-| Skilled | 24.00% | ~5,588 |
+| Pesky Jerks | 26.00% | ~6,055 |
+| Right back at ya | 26.00% | ~6,055 |
+| Stunner | 26.00% | ~6,055 |
+| Animated | 25.00% | ~5,822 |
+| Collector | 24.00% | ~5,589 |
+| Skilled | 24.00% | ~5,589 |
+| Ectoplasmic Entity | 23.00% | ~5,356 |
 | Rift Destroyer | 20.00% | ~4,657 |
-| Tobin's Prodigy | 19.00% | ~4,424 |
-| Terrifying | 18.00% | ~4,191 |
-| Reckless | 17.00% | ~3,958 |
-| Diabolical | 16.00% | ~3,725 |
-| Escape Artist | 16.00% | ~3,725 |
-| Seasoned | 16.00% | ~3,725 |
-| Whoopsie | 11.00% | ~2,561 |
-| Liability | 10.00% | ~2,328 |
-| Rivalry | 10.00% | ~2,328 |
+| Tobin's Prodigy | 19.00% | ~4,425 |
+| Terrifying | 18.00% | ~4,192 |
+| Reckless | 17.00% | ~3,959 |
+| Diabolical | 16.00% | ~3,726 |
+| Escape Artist | 16.00% | ~3,726 |
+| Seasoned | 16.00% | ~3,726 |
+| Whoopsie | 11.00% | ~2,562 |
+| Liability | 10.00% | ~2,329 |
+| Rivalry | 10.00% | ~2,329 |
 | Fragile Panes | 9.00% | ~2,096 |
 | Surprise! | 9.00% | ~2,096 |
 | Master Collector | 7.00% | ~1,630 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 567)
 | I don't need these | 1.00% | ~233 |
 | Mycophile | 1.00% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,284 (Ranked 93)  
-Completed: 40 (0.17%) (Ranked 155)  
+Progressed: 23,287 (Ranked 93)  
+Completed: 40 (0.17%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,10 +114,10 @@ Completed: 40 (0.17%) (Ranked 155)
 | 2023-06-13 | 23,060 | 40 |
 | 2023-06-14 | 23,170 | 40 |
 | 2023-06-15 | 23,279 | 40 |
-| 2023-06-16 | 23,284 | 40 |
+| 2023-06-16 | 23,287 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
-Sum: 2,117 (Ranked 184)  
+Sum: 2,118 (Ranked 184)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -128,7 +128,7 @@ Diff (max vs sum): 64
 | This game has Amazing Storytelling | 213 |
 | This game is Extremely Fun | 208 |
 | This game is Highly Recommended | 206 |
-| This game is Relaxing | 205 |
+| This game is Relaxing | 206 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Amazing Characters | 196 |
 | This game has Playful Visuals | 94 |
@@ -224,4 +224,4 @@ Diff (max vs sum): 64
 | 2023-06-11 | 4.49 | 236 | 2,112 |
 | 2023-06-12 | 4.49 | 236 | 2,115 |
 | 2023-06-14 | 4.49 | 236 | 2,116 |
-| 2023-06-16 | 4.49 | 236 | 2,117 |
+| 2023-06-16 | 4.49 | 236 | 2,118 |

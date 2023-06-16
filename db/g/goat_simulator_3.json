@@ -6,9 +6,9 @@
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -1876,9 +1876,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 227511,
+  "EOS_Progressed": 227512,
   "EOS_Completed": 741,
-  "EOS_NewPlayers": 2131,
+  "EOS_NewPlayers": 2121,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7711,6 +7711,11 @@
       "Time": "2023-06-16T04:05:55.0030566+00:00",
       "NumProgressed": 227511,
       "NumCompleted": 741
+    },
+    {
+      "Time": "2023-06-16T05:07:02.4760342+00:00",
+      "NumProgressed": 227512,
+      "NumCompleted": 741
     }
   ],
   "TotalAchievements": 39,
@@ -7770,7 +7775,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 68253
+      "UsersEstimate": 68254
     },
     {
       "ID": "AchievementBoulderID",
@@ -7786,7 +7791,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 207035
+      "UsersEstimate": 207036
     },
     {
       "ID": "AchievementClownID",
@@ -7890,7 +7895,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 129681
+      "UsersEstimate": 129682
     },
     {
       "ID": "AchievementLootBoxID",
@@ -7954,7 +7959,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 168358
+      "UsersEstimate": 168359
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -7970,7 +7975,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 111480
+      "UsersEstimate": 111481
     },
     {
       "ID": "AchievementStreakingID",
@@ -7994,7 +7999,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 125131
+      "UsersEstimate": 125132
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -8002,7 +8007,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 106930
+      "UsersEstimate": 106931
     },
     {
       "ID": "AchievementTrinketID",
@@ -8018,7 +8023,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 147882
+      "UsersEstimate": 147883
     },
     {
       "ID": "AchievementWhaleID",
@@ -8033,7 +8038,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 227511,
+      "Progressed": 227512,
       "Completed": 741
     }
   ],
@@ -8041,8 +8046,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-06-15T22:00:44.0184499+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:05:55.0030557+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:07:02.4760339+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.4938333+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:59:53.3073462+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:05:55.0031302+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:01:04.0422851+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:07:02.4760854+00:00"
 }

@@ -16,7 +16,7 @@
 | Leave no stone unturned | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43 (Ranked 322)  
-Completed: 0 (0.00%) (Ranked 224)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

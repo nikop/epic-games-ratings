@@ -33,8 +33,8 @@ Rating: 4.22 (Ranked 817)
 | Socializer | 25.00% | ~303 |
 | Country Life | 24.00% | ~291 |
 | General Manager | 23.00% | ~279 |
+| Hostile Takeover | 23.00% | ~279 |
 | Seven at one stroke | 22.00% | ~267 |
-| Hostile Takeover | 22.00% | ~267 |
 | Trailblazer | 18.00% | ~218 |
 | Breaking Ground | 17.00% | ~206 |
 | Traffic Jam | 16.00% | ~194 |
@@ -62,7 +62,7 @@ Rating: 4.22 (Ranked 817)
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,213 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 224)  
+Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

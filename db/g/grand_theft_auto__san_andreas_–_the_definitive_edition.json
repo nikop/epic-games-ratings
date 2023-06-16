@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 425,
-  "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 376,
+  "Ranking_Popularity": 282,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -392,23 +392,29 @@
       "Rating": 4.58,
       "NumberOfAwards": 164,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2023-06-16T05:00:56.8006724+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 164,
-  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 167,
+  "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 164
+      "Count": 167
     }
   ],
-  "EOS_Progressed": 10594,
+  "EOS_Progressed": 10595,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4896,6 +4902,11 @@
       "Time": "2023-06-16T03:07:21.568358+00:00",
       "NumProgressed": 10594,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-16T05:07:04.1510644+00:00",
+      "NumProgressed": 10595,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 35,
@@ -4907,7 +4918,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "ACH02",
@@ -4963,7 +4974,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "ACH09",
@@ -5011,7 +5022,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH15",
@@ -5186,16 +5197,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10594,
+      "Progressed": 10595,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-06-15T23:00:42.98766+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:05:56.3241384+00:00",
+  "LastChanged": "2023-06-16T05:00:56.8006723+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:07:04.1510639+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:59:47.1259437+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:05:56.3241979+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:00:56.8006727+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:07:04.1511047+00:00"
 }

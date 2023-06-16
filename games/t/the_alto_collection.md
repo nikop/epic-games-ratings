@@ -1,20 +1,20 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,156 |
+| Finding Your Footing | 27.00% | ~7,157 |
 | Rookie | 25.00% | ~6,626 |
 | Nomad | 18.00% | ~4,771 |
 | Picking Up Speed | 17.00% | ~4,506 |
-| Welcome Maya | 16.00% | ~4,240 |
-| Sightseer | 12.00% | ~3,180 |
-| Scout | 10.00% | ~2,650 |
-| Amateur | 9.00% | ~2,385 |
-| Wanderer | 9.00% | ~2,385 |
+| Welcome Maya | 16.00% | ~4,241 |
+| Sightseer | 12.00% | ~3,181 |
+| Scout | 10.00% | ~2,651 |
+| Amateur | 9.00% | ~2,386 |
+| Wanderer | 9.00% | ~2,386 |
 | Enter Paz | 8.00% | ~2,120 |
 | Unlock Maya | 7.00% | ~1,855 |
 | Aviator | 6.00% | ~1,590 |
@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~27 |
 | Windswept | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,503 (Ranked 91)  
-Completed: 5 (0.02%) (Ranked 203)  
+Progressed: 26,506 (Ranked 91)  
+Completed: 5 (0.02%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,7 +103,7 @@ Completed: 5 (0.02%) (Ranked 203)
 | 2023-06-13 | 26,152 | 5 |
 | 2023-06-14 | 26,301 | 5 |
 | 2023-06-15 | 26,473 | 5 |
-| 2023-06-16 | 26,503 | 5 |
+| 2023-06-16 | 26,506 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 406)  
 Sum: 347 (Ranked 320)  

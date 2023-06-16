@@ -2,9 +2,9 @@
   "ID": "ocn",
   "Name": "SpyJinx",
   "Ranking_EOS_Progress": 458,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:29.0247728+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:59:56.0793884+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:05:22.6397153+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:01:07.5322545+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:06:22.5607392+00:00"
 }

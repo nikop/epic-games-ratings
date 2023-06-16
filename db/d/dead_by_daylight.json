@@ -6,9 +6,9 @@
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 26,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6491,9 +6491,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 559655,
+  "EOS_Progressed": 559769,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29764,
+  "EOS_NewPlayers": 29726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12461,6 +12461,11 @@
       "Time": "2023-06-16T04:06:04.3859593+00:00",
       "NumProgressed": 559655,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T05:07:13.1383065+00:00",
+      "NumProgressed": 559769,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13270,9 +13275,9 @@
       "ID": "ACH_101",
       "SetID": "16jml5b",
       "Name": "Ancestor\u0027s Rite",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1679
     },
     {
       "ID": "ACH_102",
@@ -13344,7 +13349,7 @@
       "Name": "Devoted Gatekeeping",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_111",
@@ -13368,7 +13373,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACH_114",
@@ -13376,7 +13381,7 @@
       "Name": "Shrine Apparatus",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_115",
@@ -13512,7 +13517,7 @@
       "Name": "Broken Bodies",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_135",
@@ -13536,7 +13541,7 @@
       "Name": "Grim Pilgrimage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_138",
@@ -13592,7 +13597,7 @@
       "Name": "Selfless Survival",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_145",
@@ -13664,7 +13669,7 @@
       "Name": "I See You",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_154",
@@ -13688,7 +13693,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "ACH_157",
@@ -13712,7 +13717,7 @@
       "Name": "End of Days",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_160",
@@ -13776,7 +13781,7 @@
       "Name": "Insult and Injury",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_168",
@@ -13784,7 +13789,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACH_169",
@@ -13928,7 +13933,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACH_187",
@@ -14016,7 +14021,7 @@
       "Name": "Outrun the Overlap",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_198",
@@ -14231,21 +14236,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 559655,
+      "Progressed": 559769,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 559655,
+      "Progressed": 559769,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-16T03:59:47.7696066+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:06:04.3859589+00:00",
+  "LastChanged_Achievements": "2023-06-16T05:07:13.1383061+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:59:47.7696075+00:00",
-  "LastUpdate_Achievements": "2023-06-16T04:06:04.3864799+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:00:57.6188411+00:00",
+  "LastUpdate_Achievements": "2023-06-16T05:07:13.138772+00:00"
 }

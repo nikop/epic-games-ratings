@@ -5,13 +5,13 @@ Rating: 4.17 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,262 |
+| First Step Into the Knight | 5.00% | ~3,263 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,610 |
 | Loose Ends | 4.00% | ~2,610 |
-| To the Victor Go the Spoils | 3.00% | ~1,957 |
-| Get ReQ'd | 3.00% | ~1,957 |
-| Knighthood | 3.00% | ~1,957 |
-| Whispered Words | 3.00% | ~1,957 |
+| To the Victor Go the Spoils | 3.00% | ~1,958 |
+| Get ReQ'd | 3.00% | ~1,958 |
+| Knighthood | 3.00% | ~1,958 |
+| Whispered Words | 3.00% | ~1,958 |
 | The Batman Family | 2.00% | ~1,305 |
 | Protector of Gotham | 2.00% | ~1,305 |
 | Something in the Clay | 2.00% | ~1,305 |
@@ -24,24 +24,24 @@ Rating: 4.17 (Ranked 854)
 | Lock and Key | 2.00% | ~1,305 |
 | Bad Apples in Every Orchard | 2.00% | ~1,305 |
 | From Inside Gotham's Walls | 2.00% | ~1,305 |
-| End of an Era | 1.00% | ~652 |
-| In Your Element | 1.00% | ~652 |
-| Rock and a Hard Place | 1.00% | ~652 |
-| Not On My Watch | 1.00% | ~652 |
-| Bulldozed | 1.00% | ~652 |
-| Shock Til They Drop | 1.00% | ~652 |
-| Drone You Out | 1.00% | ~652 |
-| Cooldown | 1.00% | ~652 |
-| Voiceless | 1.00% | ~652 |
-| Seeking Asylum | 1.00% | ~652 |
-| Gotham Knight | 1.00% | ~652 |
-| Gotham City Confidential | 1.00% | ~652 |
+| End of an Era | 1.00% | ~653 |
+| In Your Element | 1.00% | ~653 |
+| Rock and a Hard Place | 1.00% | ~653 |
+| Not On My Watch | 1.00% | ~653 |
+| Bulldozed | 1.00% | ~653 |
+| Shock Til They Drop | 1.00% | ~653 |
+| Drone You Out | 1.00% | ~653 |
+| Cooldown | 1.00% | ~653 |
+| Voiceless | 1.00% | ~653 |
+| Seeking Asylum | 1.00% | ~653 |
+| Gotham Knight | 1.00% | ~653 |
+| Gotham City Confidential | 1.00% | ~653 |
 | Out of Their League | 0.90% | ~587 |
 | Solid Alibi | 0.90% | ~587 |
 | Fusion Expert | 0.70% | ~457 |
 | Family Meeting | 0.70% | ~457 |
-| Expert Crime Fighter | 0.60% | ~391 |
-| A Worthy Successor | 0.60% | ~391 |
+| Expert Crime Fighter | 0.60% | ~392 |
+| A Worthy Successor | 0.60% | ~392 |
 | Dressed to Impress | 0.50% | ~326 |
 | A Momentum Occasion | 0.40% | ~261 |
 | He'd Be So Proud of You | 0.30% | ~196 |
@@ -50,9 +50,9 @@ Rating: 4.17 (Ranked 854)
 | Renewable Enemy Source | 0.20% | ~71 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~71 |
 | The Cold, the Bad and the Ugly | 0.20% | ~71 |
-| Practice Makes Perfect | 0.20% | ~130 |
-| Talonted | 0.20% | ~130 |
-| The Man-Bat Family | 0.20% | ~130 |
+| Practice Makes Perfect | 0.20% | ~131 |
+| Talonted | 0.20% | ~131 |
+| The Man-Bat Family | 0.20% | ~131 |
 | Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
 | Gotham's Greatest Depths | 0.10% | ~36 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,248 (Ranked 70)  
+Progressed: 65,253 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 95 (0.15%) (Ranked 162)
 | 2023-06-13 | 64,897 | 95 |
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
-| 2023-06-16 | 65,248 | 95 |
+| 2023-06-16 | 65,253 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,336  (Ranked 98)  
 Sum: 3,866 (Ranked 137)  

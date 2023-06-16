@@ -36,8 +36,8 @@ Rating: 4.59 (Ranked 413)
 | Fiery Friend | 15.00% | ~702 |
 | Lord of Chaos | 14.00% | ~655 |
 | The Eternal Court | 10.00% | ~468 |
+| Jack of All Tomes | 10.00% | ~468 |
 | Pruning for Progress | 10.00% | ~468 |
-| Jack of All Tomes | 9.00% | ~421 |
 | I've Got Everything I Need Right Here | 7.00% | ~328 |
 | Grexolis | 5.00% | ~234 |
 | One for All, All for One | 5.00% | ~234 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 413)
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,680 (Ranked 131)  
-Completed: 3 (0.06%) (Ranked 188)  
+Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
