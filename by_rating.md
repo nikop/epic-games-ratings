@@ -564,25 +564,25 @@
 | 547 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 444,705 | 2 |
 | 547 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 496 |
 | 547 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 754 | 154 |
+| 547 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 0 | 496 |
 | 547 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 33 | 437 |
-| 566 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 378 |
-| 566 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 401 | 205 |
-| 566 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,976 | 105 |
-| 566 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 321 |
-| 566 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 496 |
-| 566 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 496 |
-| 566 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 496 |
-| 566 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 237 |
-| 566 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 236 | 248 |
-| 566 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 496 |
-| 566 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 496 |
-| 566 | [Maneater](games/m/maneater.md) | 4.49 | 13,511 | 25 |
-| 566 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 622 | 169 |
-| 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 496 |
-| 566 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 496 |
-| 566 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 350 |
-| 566 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 0 | 496 |
-| 566 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 428 |
+| 567 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 378 |
+| 567 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 401 | 205 |
+| 567 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,976 | 105 |
+| 567 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 321 |
+| 567 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 496 |
+| 567 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 496 |
+| 567 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 496 |
+| 567 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 237 |
+| 567 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 236 | 248 |
+| 567 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 496 |
+| 567 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 496 |
+| 567 | [Maneater](games/m/maneater.md) | 4.49 | 13,511 | 25 |
+| 567 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 622 | 169 |
+| 567 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 496 |
+| 567 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 496 |
+| 567 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 350 |
+| 567 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 428 |
 | 584 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 496 |
 | 584 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 496 |
 | 584 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 496 |
@@ -794,16 +794,16 @@
 | 791 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 496 |
 | 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 496 |
 | 791 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 496 |
-| 791 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 496 |
 | 791 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 496 |
-| 797 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 26 | 466 |
-| 797 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 478 |
-| 797 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,028 | 137 |
-| 797 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 496 |
-| 797 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 496 |
-| 797 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 496 |
-| 797 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 0 | 496 |
-| 797 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 496 |
+| 796 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 26 | 466 |
+| 796 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 478 |
+| 796 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,028 | 137 |
+| 796 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 496 |
+| 796 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 496 |
+| 796 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 496 |
+| 796 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 496 |
+| 796 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 0 | 496 |
+| 796 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 496 |
 | 805 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 496 |
 | 805 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 449 |
 | 805 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 12,275 | 29 |
@@ -864,7 +864,7 @@
 | 858 | [Space Punks](games/s/space_punks.md) | 4.16 | 173 | 279 |
 | 863 | [Forspoken](games/f/forspoken.md) | 4.15 | 0 | 496 |
 | 863 | [Pine](games/p/pine.md) | 4.15 | 0 | 496 |
-| 863 | [Relicta](games/r/relicta.md) | 4.15 | 196 | 266 |
+| 863 | [Relicta](games/r/relicta.md) | 4.15 | 197 | 266 |
 | 863 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 496 |
 | 863 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 72 | 363 |
 | 863 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 496 |
