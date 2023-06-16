@@ -6,36 +6,36 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~533 |
-| My little farm | 64.00% | ~421 |
-| Every beginning is difficult | 62.00% | ~408 |
-| 3, 2, 1, mine | 55.00% | ~362 |
-| Gofer | 55.00% | ~362 |
-| Seafarer | 54.00% | ~355 |
-| O Captain! My Captain! | 53.00% | ~349 |
-| Greed for gold | 42.00% | ~276 |
-| Intangible | 40.00% | ~263 |
-| I'm out of here for a while | 40.00% | ~263 |
-| In a mint condition | 37.00% | ~243 |
-| Licence to Kill | 34.00% | ~224 |
-| Pirates! | 34.00% | ~224 |
-| Collectionitis | 28.00% | ~184 |
-| Megalomania | 28.00% | ~184 |
-| Christening | 26.00% | ~171 |
-| Groundskeeper | 25.00% | ~164 |
-| Wholesale | 21.00% | ~138 |
+| Cabin boy | 81.00% | ~535 |
+| My little farm | 64.00% | ~423 |
+| Every beginning is difficult | 62.00% | ~410 |
+| 3, 2, 1, mine | 55.00% | ~364 |
+| Gofer | 55.00% | ~364 |
+| Seafarer | 54.00% | ~357 |
+| O Captain! My Captain! | 53.00% | ~350 |
+| Greed for gold | 42.00% | ~278 |
+| Intangible | 40.00% | ~264 |
+| I'm out of here for a while | 40.00% | ~264 |
+| In a mint condition | 37.00% | ~245 |
+| Licence to Kill | 34.00% | ~225 |
+| Pirates! | 34.00% | ~225 |
+| Collectionitis | 28.00% | ~185 |
+| Megalomania | 28.00% | ~185 |
+| Christening | 26.00% | ~172 |
+| Groundskeeper | 25.00% | ~165 |
+| Wholesale | 21.00% | ~139 |
 | Walk the plank | 20.00% | ~132 |
-| Pearly gates | 17.00% | ~112 |
 | My precious! | 17.00% | ~112 |
+| Pearly gates | 16.00% | ~106 |
 | Conquistador | 13.00% | ~86 |
-| Panic buying | 11.00% | ~72 |
+| Panic buying | 11.00% | ~73 |
 | Just a scratch | 9.00% | ~59 |
 | Your vessel, my vessel | 9.00% | ~59 |
 | All mine! | 8.00% | ~53 |
 | Paths of Glory | 8.00% | ~53 |
 | Panel of experts | 8.00% | ~53 |
 | Maker | 7.00% | ~46 |
-| Conglomerate | 6.00% | ~39 |
+| Conglomerate | 6.00% | ~40 |
 | Buccaneer | 5.00% | ~33 |
 | The Grande Bouffe | 5.00% | ~33 |
 | Flying Dutchman | 4.00% | ~26 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658 (Ranked 197)  
+Progressed: 661 (Ranked 197)  
 Completed: 1 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.15%) (Ranked 162)
 | 2023-06-13 | 649 | 1 |
 | 2023-06-14 | 651 | 1 |
 | 2023-06-15 | 657 | 1 |
-| 2023-06-16 | 658 | 1 |
+| 2023-06-16 | 661 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

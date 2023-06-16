@@ -6,18 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.80% | ~4,483 |
-| Resurgence | 0.80% | ~4,483 |
-| Preemptive Strike | 0.70% | ~3,922 |
-| Humanitarian | 0.70% | ~3,922 |
-| Wounded Healer | 0.60% | ~3,362 |
-| Close Shave | 0.60% | ~3,362 |
+| Healthy Obsession | 0.80% | ~4,484 |
+| Resurgence | 0.80% | ~4,484 |
+| Preemptive Strike | 0.70% | ~3,923 |
+| Humanitarian | 0.70% | ~3,923 |
+| Wounded Healer | 0.60% | ~3,363 |
+| Close Shave | 0.60% | ~3,363 |
 | Flight to Freedom | 0.50% | ~2,802 |
-| Unforgettable Getaway | 0.40% | ~2,241 |
-| First to the Punch | 0.40% | ~2,241 |
-| Old West Oasis | 0.40% | ~2,241 |
-| Every Last Drop | 0.40% | ~2,241 |
-| With Scars to Show | 0.40% | ~2,241 |
+| Unforgettable Getaway | 0.40% | ~2,242 |
+| First to the Punch | 0.40% | ~2,242 |
+| Old West Oasis | 0.40% | ~2,242 |
+| Every Last Drop | 0.40% | ~2,242 |
+| With Scars to Show | 0.40% | ~2,242 |
 | Ancestor's Rite | 0.30% | ~1,681 |
 | Cutting Out | 0.30% | ~1,681 |
 | Outrun Evil | 0.30% | ~1,681 |
@@ -36,6 +36,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.20% | ~1,121 |
 | End of Days | 0.20% | ~1,121 |
 | Insult and Injury | 0.20% | ~1,121 |
+| Punch Drunk | 0.20% | ~1,121 |
 | Outrun the Overlap | 0.20% | ~1,121 |
 | Rebuilding The Borgo | 0.20% | ~1,121 |
 | The Grand Sacrifice | 0.10% | ~560 |
@@ -187,7 +188,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Leon | 0.10% | ~560 |
 | Adept Jill | 0.10% | ~560 |
 | Tear Their Soul Apart | 0.10% | ~560 |
-| Punch Drunk | 0.10% | ~560 |
 | Adept Cenobite | 0.10% | ~560 |
 | Bless You | 0.10% | ~560 |
 | Adept Mikaela | 0.10% | ~560 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~560 |
 | Adept Gabriel | 0.10% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560,323 (Ranked 26)  
+Progressed: 560,453 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 560,323 | 42 |
+| 2023-06-16 | 560,453 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,704 (Ranked 12)  

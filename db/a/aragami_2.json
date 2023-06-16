@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,10 +224,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34971,
+  "EOS_Progressed": 34972,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 604,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 605,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
@@ -5474,6 +5474,11 @@
       "Time": "2023-06-16T10:03:25.7208766+00:00",
       "NumProgressed": 34971,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-06-16T11:03:09.6557729+00:00",
+      "NumProgressed": 34972,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 44,
@@ -5485,7 +5490,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19933
+      "UsersEstimate": 19934
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5493,7 +5498,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10491
+      "UsersEstimate": 10492
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -5645,7 +5650,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -5669,7 +5674,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -5677,7 +5682,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5757,7 +5762,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 23780
+      "UsersEstimate": 23781
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -5821,7 +5826,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 32523
+      "UsersEstimate": 32524
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -5836,7 +5841,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34971,
+      "Progressed": 34972,
       "Completed": 173
     }
   ],
@@ -5844,8 +5849,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:03:25.7208755+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:03:09.6557722+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:59:12.6834606+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:03:25.7209556+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:58:57.3900854+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:03:09.6558478+00:00"
 }

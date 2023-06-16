@@ -2,12 +2,12 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -382,6 +382,6 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "LastChanged": "2023-06-13T04:01:11.9750878+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.7218498+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:02:02.887828+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:06:54.625743+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:46.4821373+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:06:28.9259602+00:00"
 }

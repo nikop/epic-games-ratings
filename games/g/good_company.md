@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,999 (Ranked 130)  
+Progressed: 5,000 (Ranked 130)  
 Completed: 1 (0.02%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.02%) (Ranked 204)
 | 2023-06-13 | 4,988 | 1 |
 | 2023-06-14 | 4,992 | 1 |
 | 2023-06-15 | 4,998 | 1 |
-| 2023-06-16 | 4,999 | 1 |
+| 2023-06-16 | 5,000 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

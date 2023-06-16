@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -389,9 +389,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:26.3966899+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:06:59.6518895+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:08.5054492+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:26.3967118+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:00:52.9063948+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:06:59.6519239+00:00"
 }

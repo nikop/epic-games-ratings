@@ -13,8 +13,8 @@ Rating: 3.82 (Ranked 929)
 | I am the greatest botanist on this planet. | 28.00% | ~354 |
 | Gardener | 24.00% | ~304 |
 | Miner | 24.00% | ~304 |
+| Occupy Mars! | 22.00% | ~279 |
 | Houston we have a problem | 21.00% | ~266 |
-| Occupy Mars! | 21.00% | ~266 |
 | Detective | 18.00% | ~228 |
 | The Collector | 15.00% | ~190 |
 | Get your hands dirty | 9.00% | ~114 |
@@ -37,10 +37,10 @@ Rating: 3.82 (Ranked 929)
 | Korolev crater | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
 | Hot Repairs | 0.20% | ~3 |
+| Never Ending Story? | 0.20% | ~3 |
 | One does not simply... | 0.20% | ~3 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |
-| Never Ending Story? | 0.10% | ~1 |
 | Roadster | 0.10% | ~1 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |

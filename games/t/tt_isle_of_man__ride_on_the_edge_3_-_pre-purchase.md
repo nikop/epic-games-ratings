@@ -27,6 +27,7 @@
 | First Things First | 3.00% | ~3 |
 | Made Mother Proud | 3.00% | ~3 |
 | Winner Winner Chicken Dinner | 3.00% | ~3 |
+| Tempus Fugit | 3.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
@@ -42,10 +43,9 @@
 | Supersport Superfan | 2.00% | ~2 |
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
-| Tempus Fugit | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 290)  
-Completed: 2 (2.30%) (Ranked 64)  
+Completed: 2 (2.30%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

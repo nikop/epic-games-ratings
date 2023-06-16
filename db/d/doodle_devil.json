@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-devil-8e65af",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
@@ -162,8 +162,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:27.5262243+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:00.6121019+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:53.9280053+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:45.4356947+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:27.5262331+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:30.3203189+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:00.6121127+00:00"
 }

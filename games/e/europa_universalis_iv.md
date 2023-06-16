@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,046 |
-| That's a Grand Army | 8.00% | ~4,485 |
-| That is mine! | 8.00% | ~4,485 |
-| Victorious! | 8.00% | ~4,485 |
-| Brothers in Arms | 6.00% | ~3,364 |
-| That's a Grand Navy | 6.00% | ~3,364 |
-| Seriously?! | 6.00% | ~3,364 |
-| For the Glory | 5.00% | ~2,803 |
+| Until death do us apart | 9.00% | ~5,048 |
+| That's a Grand Army | 8.00% | ~4,487 |
+| That is mine! | 8.00% | ~4,487 |
+| Victorious! | 8.00% | ~4,487 |
+| Brothers in Arms | 6.00% | ~3,365 |
+| That's a Grand Navy | 6.00% | ~3,365 |
+| Seriously?! | 6.00% | ~3,365 |
+| For the Glory | 5.00% | ~2,804 |
 | Cold War | 4.00% | ~2,243 |
 | True Catholic | 4.00% | ~2,243 |
-| Defender of the Faith | 3.00% | ~1,682 |
-| It's all about the money | 3.00% | ~1,682 |
-| Respected | 3.00% | ~1,682 |
-| Truly Divine Ruler | 3.00% | ~1,682 |
-| Agressive Expander | 2.00% | ~1,121 |
-| Blockader | 2.00% | ~1,121 |
-| Combined Arms | 2.00% | ~1,121 |
-| Double the Love | 2.00% | ~1,121 |
-| Gentle Persuasion | 2.00% | ~1,121 |
-| It's all about luck | 2.00% | ~1,121 |
-| My armies are invincible! | 2.00% | ~1,121 |
-| Queen of Conquest | 2.00% | ~1,121 |
-| Royal Authority | 2.00% | ~1,121 |
-| The Princess is in this Castle | 2.00% | ~1,121 |
-| Total Control | 2.00% | ~1,121 |
+| Defender of the Faith | 3.00% | ~1,683 |
+| It's all about the money | 3.00% | ~1,683 |
+| Respected | 3.00% | ~1,683 |
+| Truly Divine Ruler | 3.00% | ~1,683 |
+| Agressive Expander | 2.00% | ~1,122 |
+| Blockader | 2.00% | ~1,122 |
+| Combined Arms | 2.00% | ~1,122 |
+| Double the Love | 2.00% | ~1,122 |
+| Gentle Persuasion | 2.00% | ~1,122 |
+| It's all about luck | 2.00% | ~1,122 |
+| My armies are invincible! | 2.00% | ~1,122 |
+| Queen of Conquest | 2.00% | ~1,122 |
+| Royal Authority | 2.00% | ~1,122 |
+| The Princess is in this Castle | 2.00% | ~1,122 |
+| Total Control | 2.00% | ~1,122 |
 | All That's Thine Shall Be Mine | 1.00% | ~561 |
 | Azur semé de lis or | 1.00% | ~561 |
 | Bright Spark | 1.00% | ~561 |
@@ -44,12 +44,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~505 |
 | Down Under | 0.80% | ~449 |
 | Trustworthy | 0.80% | ~449 |
-| All belongs to Mother Russia | 0.60% | ~336 |
-| At every continent | 0.60% | ~336 |
-| Early-Modern Warfare | 0.60% | ~336 |
-| Electable! | 0.60% | ~336 |
-| Populists in Government | 0.60% | ~336 |
-| Time Bandit | 0.60% | ~336 |
+| All belongs to Mother Russia | 0.60% | ~337 |
+| At every continent | 0.60% | ~337 |
+| Early-Modern Warfare | 0.60% | ~337 |
+| Electable! | 0.60% | ~337 |
+| Populists in Government | 0.60% | ~337 |
+| Time Bandit | 0.60% | ~337 |
 | One Family to Rule them All | 0.50% | ~280 |
 | Ruina Imperii | 0.50% | ~280 |
 | The pen is mightier than the sword | 0.50% | ~280 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~224 |
 | Tear Down This Wall | 0.40% | ~224 |
 | The Continuation of Diplomacy | 0.40% | ~224 |
+| Wonderful | 0.40% | ~224 |
 | A Decent Reserve | 0.30% | ~168 |
 | A Pile of Gold | 0.30% | ~168 |
 | Grand Duchy | 0.30% | ~168 |
@@ -80,7 +81,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~168 |
 | Traditional Player | 0.30% | ~168 |
 | Vasa or Wettin? | 0.30% | ~168 |
-| Wonderful | 0.30% | ~168 |
 | World Discoverer | 0.30% | ~168 |
 | A Protected Market | 0.20% | ~112 |
 | AAA Credit | 0.20% | ~112 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,065 (Ranked 76)  
+Progressed: 56,086 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,21 +418,21 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
-| 2023-06-16 | 56,065 | 0 |
+| 2023-06-16 | 56,086 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
-Sum: 44,592 (Ranked 27)  
+Sum: 44,602 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,397 |
-| This game is Highly Recommended | 5,176 |
+| This game is Highly Recommended | 5,181 |
 | This game has Challenging Combat | 5,147 |
 | This game is Extremely Fun | 5,105 |
 | This game has Diverse Characters | 5,078 |
 | This game is Relaxing | 5,005 |
 | This game has Competitive Players | 4,861 |
-| This game has Amazing Storytelling | 4,580 |
+| This game has Amazing Storytelling | 4,585 |
 | This game has Amazing Characters | 4,243 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -588,4 +588,4 @@ Diff (max vs sum): 34
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
-| 2023-06-16 | 4.68 | - | 5,397 | 44,592 |
+| 2023-06-16 | 4.69 | - | 5,397 | 44,602 |

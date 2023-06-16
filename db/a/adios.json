@@ -60,10 +60,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61708,
-  "EOS_Completed": 537,
-  "EOS_NewPlayers": 1192,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 61712,
+  "EOS_Completed": 538,
+  "EOS_NewPlayers": 1190,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
@@ -6045,6 +6045,11 @@
       "Time": "2023-06-16T10:07:29.8989324+00:00",
       "NumProgressed": 61708,
       "NumCompleted": 537
+    },
+    {
+      "Time": "2023-06-16T11:07:02.7020145+00:00",
+      "NumProgressed": 61712,
+      "NumCompleted": 538
     }
   ],
   "TotalAchievements": 25,
@@ -6072,7 +6077,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11107
+      "UsersEstimate": 11108
     },
     {
       "ID": "Audiophile",
@@ -6088,7 +6093,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12959
+      "UsersEstimate": 12960
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -6096,7 +6101,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10490
+      "UsersEstimate": 10491
     },
     {
       "ID": "Butcher",
@@ -6112,7 +6117,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "Fair\u0027sFair",
@@ -6184,7 +6189,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9873
+      "UsersEstimate": 9874
     },
     {
       "ID": "Nothing Left to Say",
@@ -6192,7 +6197,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "Piano Man",
@@ -6208,7 +6213,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "Sniper",
@@ -6255,16 +6260,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61708,
-      "Completed": 537
+      "Progressed": 61712,
+      "Completed": 538
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-10T22:00:06.058838+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:29.8989318+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:02.7020136+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.9949874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:57.7855541+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:29.8998817+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:41.3593337+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:02.702113+00:00"
 }

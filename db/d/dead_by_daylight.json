@@ -6491,9 +6491,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 560323,
+  "EOS_Progressed": 560453,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29664,
+  "EOS_NewPlayers": 29613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12491,6 +12491,11 @@
       "Time": "2023-06-16T10:07:52.4527225+00:00",
       "NumProgressed": 560323,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T11:07:25.8147192+00:00",
+      "NumProgressed": 560453,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13358,7 +13363,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_109",
@@ -13398,7 +13403,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ACH_114",
@@ -13502,7 +13507,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_130",
@@ -13614,7 +13619,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_144",
@@ -13670,7 +13675,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "ACH_151",
@@ -13710,7 +13715,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_156",
@@ -13718,7 +13723,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "ACH_157",
@@ -13814,7 +13819,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ACH_169",
@@ -13838,7 +13843,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "ACH_172",
@@ -13884,9 +13889,9 @@
       "ID": "ACH_177",
       "SetID": "16jml5b",
       "Name": "Punch Drunk",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_178",
@@ -13910,7 +13915,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "ACH_181",
@@ -13950,7 +13955,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_186",
@@ -14261,21 +14266,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 560323,
+      "Progressed": 560453,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 560323,
+      "Progressed": 560453,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-16T03:59:47.7696066+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:52.4527218+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:25.8147184+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:39.5050108+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:52.4533477+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:23.7419968+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:25.8159149+00:00"
 }

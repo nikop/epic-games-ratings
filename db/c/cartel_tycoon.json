@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -917,9 +917,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 331
     },
     {
       "ID": "kill-lieutenants",
@@ -933,9 +933,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "play-at-night",
@@ -1029,8 +1029,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:32.5579805+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:05.2907177+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:38.1084534+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:27.957973+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:32.5580133+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:12.3107942+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:05.2907474+00:00"
 }

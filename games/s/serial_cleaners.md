@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 18.00% | ~36 |
-| Clean Conscience | 18.00% | ~36 |
+| So it goes | 19.00% | ~38 |
+| Clean Conscience | 19.00% | ~38 |
 | A New Broom Sweeps Clean | 9.00% | ~18 |
 | Small-time Finder | 8.00% | ~16 |
 | Off to a Good Start | 7.00% | ~14 |
@@ -13,9 +13,9 @@
 | Mr. Hygeni | 5.00% | ~10 |
 | Pride and Joy | 4.00% | ~8 |
 | Eyes Yet To Open | 4.00% | ~8 |
+| Total Recall | 3.00% | ~6 |
 | Hackathon | 3.00% | ~6 |
 | All the Stories | 2.00% | ~4 |
-| Total Recall | 2.00% | ~4 |
 | Something Rotten | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
 | The Wing and the Thigh | 2.00% | ~4 |
@@ -30,7 +30,7 @@
 | That’s One Big Pile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 255)  
-Completed: 5 (2.50%) (Ranked 60)  
+Completed: 5 (2.50%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

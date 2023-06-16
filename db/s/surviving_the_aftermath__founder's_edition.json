@@ -1043,7 +1043,7 @@
   ],
   "EOS_Progressed": 6485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5815,9 +5815,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3437
     },
     {
       "ID": "2",
@@ -6215,8 +6215,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-11T15:59:33.0428948+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:02:42.6417191+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:02:27.3881919+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:15.6640168+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:02:42.6418003+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:00.3703185+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:02:27.388283+00:00"
 }

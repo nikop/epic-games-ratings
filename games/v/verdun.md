@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,752 |
-| Worth it | 63.00% | ~30,070 |
-| Eagle Eye | 55.00% | ~26,252 |
-| Corpseman I | 40.00% | ~19,092 |
-| Blast fishing | 37.00% | ~17,660 |
-| Not alone | 32.00% | ~15,274 |
-| Headhunter I | 26.00% | ~12,410 |
-| Manual Labour I | 25.00% | ~11,932 |
-| Developers, Developers, Developers | 24.00% | ~11,455 |
-| Basic Training | 24.00% | ~11,455 |
-| Furchtlos und Treu | 13.00% | ~6,205 |
+| Setting an example | 77.00% | ~36,756 |
+| Worth it | 63.00% | ~30,073 |
+| Eagle Eye | 55.00% | ~26,254 |
+| Corpseman I | 40.00% | ~19,094 |
+| Blast fishing | 37.00% | ~17,662 |
+| Not alone | 32.00% | ~15,275 |
+| Headhunter I | 26.00% | ~12,411 |
+| Manual Labour I | 25.00% | ~11,934 |
+| Developers, Developers, Developers | 24.00% | ~11,456 |
+| Basic Training | 24.00% | ~11,456 |
+| Furchtlos und Treu | 13.00% | ~6,206 |
 | Gott Mit Uns | 12.00% | ~5,728 |
 | This We'll Defend! | 9.00% | ~4,296 |
 | Anker wirf! | 9.00% | ~4,296 |
 | Providentiea Memor | 9.00% | ~4,296 |
 | For King and Country | 9.00% | ~4,296 |
-| Battle hardened | 8.00% | ~3,818 |
+| Battle hardened | 8.00% | ~3,819 |
 | Semper Fidelis! | 7.00% | ~3,341 |
 | Honneur et Patrie | 7.00% | ~3,341 |
-| In Treue Fest | 5.00% | ~2,386 |
-| Voor De Koning | 5.00% | ~2,386 |
-| Extreme Headhunter | 5.00% | ~2,386 |
+| In Treue Fest | 5.00% | ~2,387 |
+| Voor De Koning | 5.00% | ~2,387 |
+| Extreme Headhunter | 5.00% | ~2,387 |
 | Advance Australia | 4.00% | ~1,909 |
 | We Stand on Guard | 4.00% | ~1,909 |
 | Sidi Brahim | 4.00% | ~1,909 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,730 (Ranked 81)  
+Progressed: 47,735 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,11 +123,11 @@ Completed: 4 (0.01%) (Ranked 212)
 | 2023-06-13 | 47,523 | 4 |
 | 2023-06-14 | 47,616 | 4 |
 | 2023-06-15 | 47,698 | 4 |
-| 2023-06-16 | 47,730 | 4 |
+| 2023-06-16 | 47,735 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 337)  
-Sum: 748 (Ranked 258)  
-Diff (max vs sum): 79  
+Sum: 748 (Ranked 259)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 94 |

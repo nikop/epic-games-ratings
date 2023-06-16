@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,987 |
+| Eye Scream, You Scream | 83.00% | ~18,988 |
 | Mods Please Ban | 77.00% | ~17,615 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,386 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,699 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,387 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,700 |
 | First Bounty Down | 59.00% | ~13,497 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,039 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,040 |
 | Luglox Genocide | 43.00% | ~9,837 |
 | Playing Card To Get | 33.00% | ~7,549 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,549 |
 | Creature Feature | 29.00% | ~6,634 |
-| Satisfied Gus-tomer | 28.00% | ~6,405 |
-| Cold-Blooded Driller | 28.00% | ~6,405 |
+| Satisfied Gus-tomer | 28.00% | ~6,406 |
+| Cold-Blooded Driller | 28.00% | ~6,406 |
 | Are You Packin'? | 25.00% | ~5,719 |
 | G3 Graduation | 25.00% | ~5,719 |
 | RIP Davey Glutes | 24.00% | ~5,490 |
@@ -26,7 +26,7 @@ Rating: 4.67 (Ranked 258)
 | Lezduit! | 20.00% | ~4,575 |
 | Who's The Boss? | 20.00% | ~4,575 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,575 |
-| Self-Actualization | 19.00% | ~4,346 |
+| Self-Actualization | 19.00% | ~4,347 |
 | Legendary Bounty Hunter | 18.00% | ~4,118 |
 | Seeing All The Sights | 16.00% | ~3,660 |
 | Carried Stan's Load To Completion | 13.00% | ~2,974 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,876 (Ranked 94)  
+Progressed: 22,877 (Ranked 94)  
 Completed: 8 (0.03%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 8 (0.03%) (Ranked 198)
 | 2023-06-13 | 22,856 | 8 |
 | 2023-06-14 | 22,867 | 8 |
 | 2023-06-15 | 22,872 | 8 |
-| 2023-06-16 | 22,876 | 8 |
+| 2023-06-16 | 22,877 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

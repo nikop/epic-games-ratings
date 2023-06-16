@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 277)  
+Rating: 4.66 (Ranked 276)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,743 |
-| Thorough | 9.00% | ~15,968 |
-| A thief's beginning | 8.00% | ~14,194 |
-| Disguised | 7.00% | ~12,420 |
-| Rollin' | 7.00% | ~12,420 |
-| Tanuki Time | 7.00% | ~12,420 |
+| Genin | 10.00% | ~17,744 |
+| Thorough | 9.00% | ~15,970 |
+| A thief's beginning | 8.00% | ~14,195 |
+| Disguised | 7.00% | ~12,421 |
+| Rollin' | 7.00% | ~12,421 |
+| Tanuki Time | 7.00% | ~12,421 |
 | Jonin | 6.00% | ~10,646 |
 | Rescue Takuma | 6.00% | ~10,646 |
 | Stoned Ox | 6.00% | ~10,646 |
 | Yabu | 6.00% | ~10,646 |
-| Chunin | 5.00% | ~8,871 |
-| Flying Rocks | 5.00% | ~8,871 |
-| Happy Planning | 5.00% | ~8,871 |
-| Ice Ice Yuki | 5.00% | ~8,871 |
-| Mugen Unchained | 5.00% | ~8,871 |
-| Warzone | 5.00% | ~8,871 |
-| Okkoto | 4.00% | ~7,097 |
-| Prisoners | 4.00% | ~7,097 |
-| Too Early | 4.00% | ~7,097 |
+| Chunin | 5.00% | ~8,872 |
+| Flying Rocks | 5.00% | ~8,872 |
+| Happy Planning | 5.00% | ~8,872 |
+| Ice Ice Yuki | 5.00% | ~8,872 |
+| Mugen Unchained | 5.00% | ~8,872 |
+| Warzone | 5.00% | ~8,872 |
+| Okkoto | 4.00% | ~7,098 |
+| Prisoners | 4.00% | ~7,098 |
+| Too Early | 4.00% | ~7,098 |
 | Gear up | 3.00% | ~5,323 |
 | Happy little accidents | 3.00% | ~5,323 |
 | Noboru | 3.00% | ~5,323 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,774 |
 | The End | 1.00% | ~1,774 |
 | Undeserved Honor | 0.90% | ~1,597 |
-| When Cut Across the Neck | 0.80% | ~1,419 |
+| When Cut Across the Neck | 0.80% | ~1,420 |
 | High Five the Moon | 0.70% | ~1,242 |
 | The Cave | 0.60% | ~1,065 |
 | Merciful | 0.40% | ~710 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~177 |
 | Release the Kraken | 0.10% | ~177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,426 (Ranked 56)  
+Progressed: 177,439 (Ranked 56)  
 Completed: 52 (0.03%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 52 (0.03%) (Ranked 198)
 | 2023-06-13 | 176,809 | 52 |
 | 2023-06-14 | 177,064 | 52 |
 | 2023-06-15 | 177,339 | 52 |
-| 2023-06-16 | 177,426 | 52 |
+| 2023-06-16 | 177,439 | 52 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
 Sum: 4,683 (Ranked 127)  

@@ -4,7 +4,7 @@
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 391,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 56,
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25941,
+  "EOS_Progressed": 25946,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1182,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6156,6 +6156,11 @@
       "Time": "2023-06-16T10:07:24.9320024+00:00",
       "NumProgressed": 25941,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-16T11:06:58.0934897+00:00",
+      "NumProgressed": 25946,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -6175,7 +6180,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6199,7 +6204,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -6215,7 +6220,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -6317,9 +6322,9 @@
       "ID": "ACH_21_CRITICAL_STRIKES",
       "SetID": "443p4o4",
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -6327,7 +6332,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -6398,7 +6403,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25941,
+      "Progressed": 25946,
       "Completed": 19
     }
   ],
@@ -6406,8 +6411,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:24.9320018+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:06:58.0934891+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:17.2503289+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:24.9320722+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:01:01.5119299+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:06:58.093565+00:00"
 }

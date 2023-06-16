@@ -4,7 +4,7 @@
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -414,8 +414,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-06-16T10:07:34.1212567+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:06.8053548+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.9181437+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:01:08.8860729+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:34.1212894+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:00:53.2894506+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:06.805408+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 1277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2081,9 +2081,9 @@
       "ID": "achFirstBusArrived",
       "SetID": "dgl390n",
       "Name": "First bus arrived",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 843
     },
     {
       "ID": "achFirstCargoTransported",
@@ -2121,9 +2121,9 @@
       "ID": "achFirstPassengerTransported",
       "SetID": "dgl390n",
       "Name": "First passenger on board",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 856
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -2369,8 +2369,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:07:51.0993245+00:00",
+  "LastChanged_Achievements": "2023-06-16T11:07:21.899305+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.0789003+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:00:51.5305875+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:07:48.9891947+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:00:36.5560981+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:07:21.8994295+00:00"
 }

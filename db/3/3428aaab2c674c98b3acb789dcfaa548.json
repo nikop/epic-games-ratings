@@ -2,13 +2,13 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -3719,6 +3719,6 @@
   "LastChanged": "2023-06-16T07:57:18.5276952+00:00",
   "LastChanged_Achievements": "2023-06-16T10:05:13.0079327+00:00",
   "LastUpdate_AppInfo": "2023-06-15T16:57:01.3715663+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:57:30.0375553+00:00",
-  "LastUpdate_Achievements": "2023-06-16T10:05:13.0080356+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:57:13.7542271+00:00",
+  "LastUpdate_Achievements": "2023-06-16T11:04:47.0392825+00:00"
 }
