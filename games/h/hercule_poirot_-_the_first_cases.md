@@ -38,22 +38,22 @@ Rating: 4.32 (Ranked 753)
 | The Family | 26.00% | ~101 |
 | Well-travelled | 25.00% | ~97 |
 | Thinking of Everything | 25.00% | ~97 |
+| Viscount Edwin Van den Bosch | 25.00% | ~97 |
 | Exquisite Artwork | 24.00% | ~93 |
 | Archibald Sterling | 24.00% | ~93 |
-| Viscount Edwin Van den Bosch | 24.00% | ~93 |
 | Well-prepared | 20.00% | ~78 |
 | The Truth | 20.00% | ~78 |
 | Sunken Secrets | 18.00% | ~70 |
 | I Like an Audience | 18.00% | ~70 |
 | What Else Did I Miss? | 17.00% | ~66 |
 | The Denouement | 16.00% | ~62 |
-| Probably the Greatest Detective in the World | 12.00% | ~47 |
+| Probably the Greatest Detective in the World | 13.00% | ~50 |
 | Take a Break | 11.00% | ~43 |
 | Room with a View | 7.00% | ~27 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 388 (Ranked 220)  
-Completed: 4 (1.03%) (Ranked 94)  
+Completed: 4 (1.03%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

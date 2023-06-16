@@ -17,7 +17,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get Furious | 56.00% | ~4,079 |
 | Gunplay And Cosplay | 55.00% | ~4,006 |
 | Hacks In Stacks | 54.00% | ~3,933 |
-| Meching Enemies | 48.00% | ~3,496 |
+| Meching Enemies | 49.00% | ~3,569 |
 | Ticket Toddler | 45.00% | ~3,278 |
 | Booty Bashing | 43.00% | ~3,132 |
 | Here Comes a New Challenger | 38.00% | ~2,768 |
@@ -58,7 +58,7 @@ Number of Ratings: 801  (23.09.2022)
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,284 (Ranked 119)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

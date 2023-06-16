@@ -7,6 +7,7 @@
 | Time Heals All Wounds | 12.00% | ~84 |
 | The Mysterious Stranger | 10.00% | ~70 |
 | Rail Rat | 10.00% | ~70 |
+| Immaculate Aim | 10.00% | ~70 |
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
 | Make Up For Lost Time | 9.00% | ~63 |
@@ -16,7 +17,7 @@
 | No, Thanks! | 9.00% | ~63 |
 | Breaking Down Barriers | 9.00% | ~63 |
 | The Prince in Heels | 9.00% | ~63 |
-| Immaculate Aim | 9.00% | ~63 |
+| Fast Learner | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | The Brass Boss | 9.00% | ~63 |
 | The Betrayer | 8.00% | ~56 |
@@ -24,7 +25,6 @@
 | The Wicked Twins | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
 | Golem Chaser | 8.00% | ~56 |
-| Fast Learner | 8.00% | ~56 |
 | Check Your Pulse | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
@@ -59,7 +59,7 @@
 | Raw Talent | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 698 (Ranked 193)  
-Completed: 2 (0.29%) (Ranked 140)  
+Completed: 2 (0.29%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

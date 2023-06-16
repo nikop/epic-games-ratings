@@ -14,7 +14,7 @@ Rating: 4.89 (Ranked 13)
 | You got this, Peppermint? | 55.00% | ~1,778 |
 | Perfect Parry | 53.00% | ~1,713 |
 | Alright, that felt AWESOME! | 53.00% | ~1,713 |
-| I play my own way! | 48.00% | ~1,552 |
+| I play my own way! | 49.00% | ~1,584 |
 | This will cost you big time | 46.00% | ~1,487 |
 | Uh, they were broken when I got here | 45.00% | ~1,455 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,423 |
@@ -68,7 +68,7 @@ Rating: 4.89 (Ranked 13)
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,233 (Ranked 142)  
-Completed: 5 (0.15%) (Ranked 162)  
+Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

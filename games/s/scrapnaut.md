@@ -6,40 +6,40 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~163 |
-| Scrap Gatherer | 57.00% | ~155 |
+| My New Home | 60.00% | ~164 |
+| Scrap Gatherer | 56.00% | ~153 |
 | Mushroom Picker | 55.00% | ~150 |
 | Scrapper | 47.00% | ~128 |
 | Cook | 41.00% | ~112 |
 | Teleport | 40.00% | ~109 |
-| Scrap Master | 38.00% | ~103 |
+| Scrap Master | 38.00% | ~104 |
 | Smelter | 36.00% | ~98 |
 | Electro-Scrap Gatherer | 33.00% | ~90 |
 | Digger | 32.00% | ~87 |
-| Robot Destroyer | 31.00% | ~84 |
-| Survivor | 31.00% | ~84 |
+| Survivor | 31.00% | ~85 |
+| Robot Destroyer | 30.00% | ~82 |
 | Herbalist | 28.00% | ~76 |
 | Lumberjack | 26.00% | ~71 |
 | Prepper | 25.00% | ~68 |
-| Electro-Scrap Master | 24.00% | ~65 |
+| Electro-Scrap Master | 24.00% | ~66 |
 | Robot Hunter | 21.00% | ~57 |
 | Advanced Survivalist | 19.00% | ~52 |
 | Master Of Technology | 18.00% | ~49 |
-| Treasure Hunter | 17.00% | ~46 |
+| Treasure Hunter | 16.00% | ~44 |
 | Blacksmith | 11.00% | ~30 |
 | Mythical Smelter | 11.00% | ~30 |
 | Fuel | 10.00% | ~27 |
-| Master Of Management | 9.00% | ~24 |
-| Forest Lord | 9.00% | ~24 |
-| Smelting Master | 9.00% | ~24 |
-| Black Gold | 7.00% | ~19 |
+| Master Of Management | 9.00% | ~25 |
+| Forest Lord | 9.00% | ~25 |
+| Smelting Master | 9.00% | ~25 |
+| Black Gold | 8.00% | ~22 |
 | Traveler | 4.00% | ~11 |
 | Survival Master | 4.00% | ~11 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 239)  
-Completed: 1 (0.37%) (Ranked 128)  
+Progressed: 273 (Ranked 239)  
+Completed: 1 (0.37%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (0.37%) (Ranked 128)
 | 2023-06-13 | 262 | 1 |
 | 2023-06-14 | 266 | 1 |
 | 2023-06-15 | 270 | 1 |
-| 2023-06-16 | 272 | 1 |
+| 2023-06-16 | 273 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

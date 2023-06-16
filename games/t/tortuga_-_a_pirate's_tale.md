@@ -22,7 +22,7 @@ Rating: 3.82 (Ranked 930)
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,258 |
 | Morally Flexible | 6.00% | ~944 |
 | Fishing for Compliments | 5.00% | ~786 |
-| After All, Why Shouldn't I Keep It? | 2.00% | ~315 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~472 |
 | A True Dandy | 2.00% | ~315 |
 | A New Legend Awaits | 1.00% | ~157 |
 | Pirate King | 0.80% | ~126 |
@@ -33,7 +33,7 @@ Rating: 3.82 (Ranked 930)
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,730 (Ranked 103)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

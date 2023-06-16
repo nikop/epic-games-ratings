@@ -6,9 +6,9 @@
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31483,
+  "EOS_Progressed": 31485,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6251,6 +6251,11 @@
       "Time": "2023-06-16T13:08:38.9385468+00:00",
       "NumProgressed": 31483,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T14:02:22.6016084+00:00",
+      "NumProgressed": 31485,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -6342,7 +6347,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ach_dawnmachine",
@@ -6382,7 +6387,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11334
+      "UsersEstimate": 11335
     },
     {
       "ID": "ach_die10",
@@ -6414,7 +6419,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ach_eye",
@@ -6446,7 +6451,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -6630,7 +6635,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ach_undercurrent",
@@ -6693,15 +6698,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 31483,
+      "Progressed": 31485,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:08:38.9385462+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:02:22.601608+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.1062336+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:05:24.2912858+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:08:38.9386326+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:59:37.0368039+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:02:22.6016849+00:00"
 }

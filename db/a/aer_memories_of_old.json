@@ -6,7 +6,7 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12548,
+  "EOS_Progressed": 12550,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -6139,6 +6139,11 @@
       "Time": "2023-06-16T13:11:53.0812155+00:00",
       "NumProgressed": 12548,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-06-16T14:06:01.2648842+00:00",
+      "NumProgressed": 12550,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 20,
@@ -6150,7 +6155,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -6174,7 +6179,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -6222,7 +6227,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -6254,7 +6259,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "GAME_FINISHED",
@@ -6262,7 +6267,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6270,7 +6275,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9536
+      "UsersEstimate": 9538
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6278,7 +6283,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6294,7 +6299,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "WEST_FINISHED",
@@ -6309,15 +6314,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12548,
+      "Progressed": 12550,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:11:53.081215+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:06:01.2648836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:05:50.9270984+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:11:53.0812656+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:00:05.7728816+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:06:01.2649404+00:00"
 }

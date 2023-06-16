@@ -6,7 +6,7 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34975,
+  "EOS_Progressed": 34977,
   "EOS_Completed": 173,
   "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 6,
@@ -5489,6 +5489,11 @@
       "Time": "2023-06-16T13:08:41.9712363+00:00",
       "NumProgressed": 34975,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-06-16T14:02:25.4162402+00:00",
+      "NumProgressed": 34977,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 44,
@@ -5500,7 +5505,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19936
+      "UsersEstimate": 19937
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5508,7 +5513,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10492
+      "UsersEstimate": 10493
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -5620,7 +5625,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 28330
+      "UsersEstimate": 28331
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -5676,7 +5681,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 7694
+      "UsersEstimate": 7695
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5724,7 +5729,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -5732,7 +5737,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 11192
+      "UsersEstimate": 11193
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -5740,7 +5745,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 22034
+      "UsersEstimate": 22036
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -5748,7 +5753,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9443
+      "UsersEstimate": 9444
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -5764,7 +5769,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20985
+      "UsersEstimate": 20986
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -5772,7 +5777,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 23783
+      "UsersEstimate": 23784
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -5804,7 +5809,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 15739
+      "UsersEstimate": 15740
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -5836,7 +5841,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 32527
+      "UsersEstimate": 32529
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -5844,14 +5849,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 18187
+      "UsersEstimate": 18188
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34975,
+      "Progressed": 34977,
       "Completed": 173
     }
   ],
@@ -5859,8 +5864,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:08:41.9712359+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:02:25.4162396+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:04:12.5823034+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:08:41.9713183+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:58:30.6664177+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:02:25.4163399+00:00"
 }

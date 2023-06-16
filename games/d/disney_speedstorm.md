@@ -30,7 +30,7 @@
 | PERFECTLY POISED | 2.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,795 (Ranked 148)  
-Completed: 23 (0.82%) (Ranked 100)  
+Completed: 23 (0.82%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

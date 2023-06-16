@@ -6,9 +6,9 @@
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2058,9 +2058,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 66880,
+  "EOS_Progressed": 66881,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7993,6 +7993,11 @@
       "Time": "2023-06-16T13:12:02.5484507+00:00",
       "NumProgressed": 66880,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T14:06:10.9924941+00:00",
+      "NumProgressed": 66881,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 37,
@@ -8028,7 +8033,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "ACH_0014",
@@ -8148,7 +8153,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43472
+      "UsersEstimate": 43473
     },
     {
       "ID": "ACH_0210",
@@ -8156,7 +8161,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49491
+      "UsersEstimate": 49492
     },
     {
       "ID": "ACH_0211",
@@ -8220,7 +8225,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22739
+      "UsersEstimate": 22740
     },
     {
       "ID": "ACH_0420",
@@ -8228,7 +8233,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22739
+      "UsersEstimate": 22740
     },
     {
       "ID": "ACH_0430",
@@ -8299,7 +8304,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 66880,
+      "Progressed": 66881,
       "Completed": 33
     }
   ],
@@ -8307,8 +8312,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-16T09:01:06.6987901+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:12:02.5484502+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:06:10.9924938+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:25.7219377+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:05:41.1872249+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:12:02.5485097+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:59:56.0431512+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:06:10.9925721+00:00"
 }

@@ -8,28 +8,28 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Alt+F4 | 97.00% | ~95 |
 | Where's that freaking Dwarf? | 91.00% | ~89 |
-| Sock! SOCK! | 77.00% | ~75 |
+| Sock! SOCK! | 78.00% | ~76 |
 | Fireproof Wizardess | 63.00% | ~62 |
 | Livin' in a dwarven paradise | 61.00% | ~60 |
 | Déjà vu | 57.00% | ~56 |
 | GG EZ | 53.00% | ~52 |
-| DM intervention | 52.00% | ~51 |
+| DM intervention | 53.00% | ~52 |
 | Way of the Wimp | 51.00% | ~50 |
 | Speedrun | 47.00% | ~46 |
 | Oh, when I'll be level 10... | 46.00% | ~45 |
 | I am the night | 41.00% | ~40 |
 | Thieves' Guild Accreditation | 39.00% | ~38 |
 | Team Building Exercise | 39.00% | ~38 |
+| A beer, two curses, three companions | 38.00% | ~37 |
 | The Ranger of Chaos | 38.00% | ~37 |
-| A beer, two curses, three companions | 37.00% | ~36 |
 | The plot thickens... At the tavern | 37.00% | ~36 |
 | Dwarf Fortress | 36.00% | ~35 |
 | Look but don't touch | 34.00% | ~33 |
 | Shiny and Crôm | 32.00% | ~31 |
 | Gargantua | 31.00% | ~30 |
 | Material Girl | 31.00% | ~30 |
+| The demons' feast | 30.00% | ~29 |
 | Torture and Sensibility | 30.00% | ~29 |
-| The demons' feast | 29.00% | ~28 |
 | The Great Library | 28.00% | ~27 |
 | The Statuette of Gladeulfeurah | 28.00% | ~27 |
 | A tale of adventurers not quite like the others... | 28.00% | ~27 |
@@ -38,7 +38,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 20.00% | ~20 |
 | Cursed die | 19.00% | ~19 |
 | Urik's Depths | 19.00% | ~19 |
-| The Woman in the High Castle | 18.00% | ~18 |
+| The Woman in the High Castle | 19.00% | ~19 |
 | In Navalu's footsteps | 17.00% | ~17 |
 | Res Judicata | 16.00% | ~16 |
 | Law and Order | 16.00% | ~16 |
@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 98 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

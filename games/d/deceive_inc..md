@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,360 |
-| Mainframe Hacker | 47.00% | ~3,202 |
-| The Spy who eliminated me | 47.00% | ~3,202 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,361 |
+| Mainframe Hacker | 47.00% | ~3,203 |
+| The Spy who eliminated me | 47.00% | ~3,203 |
 | Tomorrow Never Dyes | 46.00% | ~3,134 |
-| Never Say Loser Again | 40.00% | ~2,725 |
+| Never Say Loser Again | 40.00% | ~2,726 |
 | For your Eyes only | 39.00% | ~2,657 |
-| From the Vault with Love | 37.00% | ~2,520 |
-| Tailor-Made | 37.00% | ~2,520 |
-| Fully Decked Out | 35.00% | ~2,384 |
-| You Only Live Twice | 33.00% | ~2,248 |
-| A view to Win | 28.00% | ~1,907 |
-| Private Collection | 25.00% | ~1,703 |
-| Smells Like Trouble | 25.00% | ~1,703 |
+| From the Vault with Love | 37.00% | ~2,521 |
+| Tailor-Made | 37.00% | ~2,521 |
+| Fully Decked Out | 35.00% | ~2,385 |
+| You Only Live Twice | 33.00% | ~2,249 |
+| A view to Win | 28.00% | ~1,908 |
+| Private Collection | 25.00% | ~1,704 |
+| Smells Like Trouble | 25.00% | ~1,704 |
 | Assistant Accountant | 24.00% | ~1,635 |
 | The Living Portrait | 24.00% | ~1,635 |
 | My Motto, My Creed | 24.00% | ~1,635 |
@@ -32,7 +32,7 @@ Rating: 4.64 (Ranked 316)
 | Safe Withdrawal | 6.00% | ~409 |
 | Live and let lie | 5.00% | ~341 |
 | Call Me Maybe | 5.00% | ~341 |
-| PHD in VIP | 4.00% | ~272 |
+| PHD in VIP | 4.00% | ~273 |
 | Branch Manager | 3.00% | ~204 |
 | The terminals are not enough | 2.00% | ~136 |
 | Lose Another Day | 2.00% | ~136 |
@@ -42,8 +42,8 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,812 (Ranked 121)  
-Completed: 0 (0.00%) (Ranked 225)  
+Progressed: 6,814 (Ranked 121)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 6,791 | 0 |
 | 2023-06-14 | 6,800 | 0 |
 | 2023-06-15 | 6,809 | 0 |
-| 2023-06-16 | 6,812 | 0 |
+| 2023-06-16 | 6,814 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

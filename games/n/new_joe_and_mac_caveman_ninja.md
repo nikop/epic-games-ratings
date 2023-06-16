@@ -21,7 +21,7 @@
 | Lightning swamp. | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 184 (Ranked 259)  
-Completed: 3 (1.63%) (Ranked 78)  
+Completed: 3 (1.63%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1792,6 +1792,11 @@
       "Time": "2023-06-16T13:06:18.3022605+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T14:00:34.0086571+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1819,7 +1824,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1843,7 +1848,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CHAIN_KILLER",
@@ -1907,7 +1912,7 @@
       "Name": "Ganglord",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "DEAD_DICK",
@@ -1915,7 +1920,7 @@
       "Name": "Limp Richard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1923,7 +1928,7 @@
       "Name": "Jarhead",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1947,7 +1952,7 @@
       "Name": "Editor Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ENDGAME",
@@ -1955,7 +1960,7 @@
       "Name": "Endgame",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "EXORCIST",
@@ -1963,7 +1968,7 @@
       "Name": "Exorcist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "EXPERIENCED",
@@ -1987,7 +1992,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2011,7 +2016,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "GIANT_KILLER",
@@ -2019,7 +2024,7 @@
       "Name": "Giant Killer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "GOAL",
@@ -2035,7 +2040,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2067,7 +2072,7 @@
       "Name": "Lumberjack",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2107,7 +2112,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "RECYCLER",
@@ -2115,7 +2120,7 @@
       "Name": "Recycler",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "RUTHLESS",
@@ -2131,7 +2136,7 @@
       "Name": "Savior",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "SENSEI",
@@ -2203,14 +2208,14 @@
       "Name": "Wipe Out",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 0
     }
   ],
@@ -2218,8 +2223,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:06:18.3022589+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:00:34.0086565+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:04:09.6452019+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:06:18.3029496+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:58:27.691884+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:00:34.0087119+00:00"
 }

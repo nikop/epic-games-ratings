@@ -6,9 +6,9 @@
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1590,7 +1590,7 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19656,
+  "EOS_Progressed": 19657,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -4655,6 +4655,11 @@
       "Time": "2023-06-16T13:11:46.9834697+00:00",
       "NumProgressed": 19656,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-16T14:05:55.2190739+00:00",
+      "NumProgressed": 19657,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4698,7 +4703,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "EstateAgent",
@@ -4714,7 +4719,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18477
+      "UsersEstimate": 18478
     },
     {
       "ID": "GameOver",
@@ -4849,15 +4854,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19656,
+      "Progressed": 19657,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-15T19:59:37.6370768+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:11:46.9834689+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:05:55.2190735+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:05:14.5242154+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:11:46.9835061+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:59:28.4847368+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:05:55.2191243+00:00"
 }

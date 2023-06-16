@@ -12,8 +12,8 @@
 | Deep Listener | 26.00% | ~275 |
 | Music for Cows | 19.00% | ~201 |
 | Emotional Baggage Handler | 17.00% | ~180 |
+| Dream Listener | 15.00% | ~159 |
 | Artist Assistant | 14.00% | ~148 |
-| Dream Listener | 14.00% | ~148 |
 | Tour de Tieng | 13.00% | ~138 |
 | Goodbye Tieng Valley | 12.00% | ~127 |
 | Shrine Arriver | 12.00% | ~127 |
@@ -22,7 +22,7 @@
 | Graffiti Artist | 8.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,059 (Ranked 178)  
-Completed: 39 (3.68%) (Ranked 42)  
+Completed: 39 (3.68%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

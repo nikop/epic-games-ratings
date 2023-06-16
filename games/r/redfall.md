@@ -14,7 +14,7 @@ Rating: 3.46 (Ranked 942)
 | Peek-a-boo | 43.00% | ~726 |
 | Catch and Release | 43.00% | ~726 |
 | Sucks To Be You | 42.00% | ~709 |
-| Welcome to the Neighborhood | 36.00% | ~608 |
+| Welcome to the Neighborhood | 37.00% | ~625 |
 | Fly Fisher | 35.00% | ~591 |
 | Throw The First Stone | 34.00% | ~574 |
 | Enter of Your Own Free Will | 31.00% | ~524 |
@@ -73,7 +73,7 @@ Rating: 3.46 (Ranked 942)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,689 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

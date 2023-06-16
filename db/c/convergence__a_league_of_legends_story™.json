@@ -3,7 +3,7 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -1676,9 +1676,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "SpeedRun",
@@ -1732,9 +1732,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "WatcherFought",
@@ -1779,8 +1779,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T13:11:27.6612428+00:00",
+  "LastChanged_Achievements": "2023-06-16T14:05:36.124099+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:05:11.7660586+00:00",
-  "LastUpdate_Achievements": "2023-06-16T13:11:27.6613014+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:59:25.2547369+00:00",
+  "LastUpdate_Achievements": "2023-06-16T14:05:36.1241734+00:00"
 }

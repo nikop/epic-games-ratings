@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 62.00% | ~157 |
+| Small town | 63.00% | ~159 |
 | I like parks | 49.00% | ~124 |
 | It is nice to share with friends in the city | 26.00% | ~66 |
 | Sport is good for you | 25.00% | ~63 |
@@ -28,16 +28,17 @@
 | Food provider master | 2.00% | ~5 |
 | City crisis | 2.00% | ~5 |
 | Read! Everyone should read! | 2.00% | ~5 |
+| What is there after death? | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Rebel city | 2.00% | ~5 |
 | Temperate builder | 2.00% | ~5 |
 | Temperate urban planner | 2.00% | ~5 |
+| Anarchist Utopia | 1.00% | ~3 |
 | Archipelago builder | 1.00% | ~3 |
-| What is there after death? | 1.00% | ~3 |
 | Freedom to go to the mall! | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
-| Anarchist Utopia | 0.80% | ~2 |
 | Archipelago urban planner | 0.80% | ~2 |
+| I can't see the sky | 0.80% | ~2 |
 | Perfect city | 0.80% | ~2 |
 | Oh, I am sad | 0.80% | ~2 |
 | Farming Frenzy | 0.80% | ~2 |
@@ -45,7 +46,6 @@
 | Restorer | 0.80% | ~2 |
 | Welfare state | 0.80% | ~2 |
 | Anarchist paradise | 0.40% | ~1 |
-| I can't see the sky | 0.40% | ~1 |
 | I can't breathe | 0.40% | ~1 |
 | Urban style | 0.40% | ~1 |
 | Desert builder | 0.40% | ~1 |
@@ -85,7 +85,7 @@
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 253 (Ranked 242)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
