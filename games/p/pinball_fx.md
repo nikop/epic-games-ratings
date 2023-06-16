@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~185,879 |
-| I know the Rules | 41.00% | ~94,087 |
-| Contender | 11.00% | ~25,243 |
-| I Found it! | 7.00% | ~16,064 |
-| First but not Last | 4.00% | ~9,179 |
-| Dress Code | 3.00% | ~6,884 |
+| Ball Launched | 81.00% | ~185,903 |
+| I know the Rules | 41.00% | ~94,099 |
+| Contender | 11.00% | ~25,246 |
+| I Found it! | 7.00% | ~16,066 |
+| First but not Last | 4.00% | ~9,180 |
+| Dress Code | 3.00% | ~6,885 |
 | Ready Steady Score | 2.00% | ~4,590 |
 | Full Loot Madness | 2.00% | ~4,590 |
-| My Table, my Rules | 0.90% | ~2,065 |
-| Nine Zeroes | 0.90% | ~2,065 |
-| Shiny Memento | 0.30% | ~688 |
-| Pinball Hoarder | 0.30% | ~688 |
-| Interior Designer | 0.30% | ~688 |
-| Table Mastered, part 10 | 0.10% | ~229 |
-| Medal Hunter | 0.10% | ~229 |
-| Medal Wizard | 0.10% | ~229 |
-| Virtual Pinball Museum | 0.10% | ~229 |
-| Challenge Accepted! | 0.10% | ~229 |
-| Relic Hunter | 0.10% | ~229 |
-| Show Them | 0.10% | ~229 |
-| Totally Furnished | 0.10% | ~229 |
-| Customizer | 0.10% | ~229 |
+| My Table, my Rules | 0.90% | ~2,066 |
+| Nine Zeroes | 0.90% | ~2,066 |
+| Shiny Memento | 0.30% | ~689 |
+| Pinball Hoarder | 0.30% | ~689 |
+| Interior Designer | 0.30% | ~689 |
+| Table Mastered, part 10 | 0.10% | ~230 |
+| Medal Hunter | 0.10% | ~230 |
+| Medal Wizard | 0.10% | ~230 |
+| Virtual Pinball Museum | 0.10% | ~230 |
+| Challenge Accepted! | 0.10% | ~230 |
+| Relic Hunter | 0.10% | ~230 |
+| Show Them | 0.10% | ~230 |
+| Totally Furnished | 0.10% | ~230 |
+| Customizer | 0.10% | ~230 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,8 +37,8 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,480 (Ranked 46)  
-Completed: 0 (0.00%) (Ranked 225)  
+Progressed: 229,510 (Ranked 46)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 228,363 | 0 |
 | 2023-06-14 | 228,630 | 0 |
 | 2023-06-15 | 228,938 | 0 |
-| 2023-06-16 | 229,480 | 0 |
+| 2023-06-16 | 229,510 | 0 |
 ## Awards
 Max (Great for Beginners): 176  (Ranked 276)  
 Sum: 1,503 (Ranked 215)  

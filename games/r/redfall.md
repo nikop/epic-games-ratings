@@ -11,20 +11,20 @@ Rating: 3.46 (Ranked 942)
 | Wounded Whispers | 59.00% | ~997 |
 | Blood Will Have Blood | 49.00% | ~828 |
 | ICU | 45.00% | ~760 |
-| Peek-a-boo | 43.00% | ~726 |
-| Catch and Release | 43.00% | ~726 |
-| Sucks To Be You | 42.00% | ~709 |
+| Peek-a-boo | 43.00% | ~727 |
+| Catch and Release | 43.00% | ~727 |
+| Sucks To Be You | 42.00% | ~710 |
 | Welcome to the Neighborhood | 37.00% | ~625 |
-| Fly Fisher | 35.00% | ~591 |
-| Throw The First Stone | 34.00% | ~574 |
+| Fly Fisher | 35.00% | ~592 |
+| Throw The First Stone | 34.00% | ~575 |
 | Enter of Your Own Free Will | 31.00% | ~524 |
 | Heart Attack | 31.00% | ~524 |
 | Skin of Their Teeth | 30.00% | ~507 |
-| Grounded | 23.00% | ~388 |
+| Grounded | 23.00% | ~389 |
 | Bad Wiring | 20.00% | ~338 |
 | I Spit On Your Grave | 19.00% | ~321 |
-| Neighborhood Revitalization | 15.00% | ~253 |
-| Radio Silence | 15.00% | ~253 |
+| Neighborhood Revitalization | 15.00% | ~254 |
+| Radio Silence | 15.00% | ~254 |
 | Helping Hand | 12.00% | ~203 |
 | You Clean It Up | 11.00% | ~186 |
 | Starve the Beast | 8.00% | ~135 |
@@ -72,8 +72,8 @@ Rating: 3.46 (Ranked 942)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,689 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 225)  
+Progressed: 1,690 (Ranked 160)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 1,681 | 0 |
 | 2023-06-14 | 1,686 | 0 |
 | 2023-06-15 | 1,688 | 0 |
-| 2023-06-16 | 1,689 | 0 |
+| 2023-06-16 | 1,690 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

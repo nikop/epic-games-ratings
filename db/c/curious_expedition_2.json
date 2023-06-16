@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -614,9 +614,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-rideDinosaur",
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:37.6788792+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-16T22:00:56.6643397+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:37.6789328+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:24.1895647+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T23:00:04.5581585+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:03:26.6926277+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:24.189622+00:00"
 }

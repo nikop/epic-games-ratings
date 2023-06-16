@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~916 |
+| Meeting Resistance | 31.00% | ~917 |
 | Confirming Suspicions | 26.00% | ~769 |
 | The Kraken Wakes | 21.00% | ~621 |
 | It's Starting to Crack | 18.00% | ~532 |
@@ -22,7 +22,7 @@ Rating: 4.51 (Ranked 530)
 | Gunslinger | 9.00% | ~266 |
 | Sharpshooter | 9.00% | ~266 |
 | Explosive Efficiency | 9.00% | ~266 |
-| Enemy at the Gates | 8.00% | ~236 |
+| Enemy at the Gates | 8.00% | ~237 |
 | Opposing Force | 7.00% | ~207 |
 | Die Nussknacker Sweet! | 7.00% | ~207 |
 | Der Geist | 7.00% | ~207 |
@@ -39,12 +39,12 @@ Rating: 4.51 (Ranked 530)
 | My Little Friend | 3.00% | ~89 |
 | The Long Game | 2.00% | ~59 |
 | It'll Buff Right Out | 2.00% | ~59 |
+| Locomotion Commotion | 2.00% | ~59 |
 | Road Rage | 2.00% | ~59 |
 | Don't hold your breath | 2.00% | ~59 |
 | Herr Today, Gone Tomorrow | 2.00% | ~58 |
 | Strategist | 1.00% | ~30 |
 | Tinkerer | 1.00% | ~30 |
-| Locomotion Commotion | 1.00% | ~30 |
 | Operation Foxley | 1.00% | ~29 |
 | Ghost of Falaise | 1.00% | ~29 |
 | Burn after reading | 0.90% | ~27 |
@@ -77,8 +77,8 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,956 (Ranked 145)  
-Completed: 2 (0.07%) (Ranked 185)  
+Progressed: 2,957 (Ranked 145)  
+Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 2 (0.07%) (Ranked 185)
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
-| 2023-06-16 | 2,956 | 2 |
+| 2023-06-16 | 2,957 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

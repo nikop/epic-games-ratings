@@ -4656,9 +4656,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709608,
+  "EOS_Progressed": 709616,
   "EOS_Completed": 12773,
-  "EOS_NewPlayers": 1282,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10131,6 +10131,11 @@
       "Time": "2023-06-16T22:06:35.2143499+00:00",
       "NumProgressed": 709608,
       "NumCompleted": 12773
+    },
+    {
+      "Time": "2023-06-16T23:09:21.9877758+00:00",
+      "NumProgressed": 709616,
+      "NumCompleted": 12773
     }
   ],
   "TotalAchievements": 50,
@@ -10230,7 +10235,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "13_LowAge",
@@ -10478,15 +10483,15 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "44_Arena_3Stamps",
       "SetID": "14c2oii",
       "Name": "Diligence as a goal",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 946
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10510,7 +10515,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -10534,28 +10539,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18909,
-      "Completed": 10276
+      "Progressed": 18917,
+      "Completed": 10277
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709608,
+      "Progressed": 709616,
       "Completed": 12773
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-16T19:59:27.3837832+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:35.2143493+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:59:12.9295397+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:35.2144238+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:21.9877751+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:02:02.3866337+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:21.9878575+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 114,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2858,9 +2858,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9920,
+  "EOS_Progressed": 9923,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6708,6 +6708,11 @@
       "Time": "2023-06-16T22:06:40.4871036+00:00",
       "NumProgressed": 9920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T23:09:26.8525676+00:00",
+      "NumProgressed": 9923,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6727,7 +6732,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -7087,7 +7092,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "49_Flame",
@@ -7646,21 +7651,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8702,
+      "Progressed": 8705,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9920,
+      "Progressed": 9923,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-16T17:58:17.7670008+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:40.4871031+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:58:27.179424+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:40.4872888+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:26.852567+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:01:25.2140619+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:26.8527561+00:00"
 }

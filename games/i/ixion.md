@@ -39,11 +39,11 @@ Rating: 4.56 (Ranked 454)
 | Pedal to the Metal | 2.00% | ~53 |
 | What the Ruins Teach Us | 2.00% | ~53 |
 | Mutual Loyalty | 1.00% | ~27 |
+| Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Delivery! | 1.00% | ~27 |
 | Pulsar Disciple | 1.00% | ~27 |
-| Catastrophe Avoided | 0.90% | ~24 |
 | Help of the Forgotten Member | 0.90% | ~24 |
 | Tiqqun Contender | 0.80% | ~21 |
 | You Had One Job... | 0.80% | ~21 |
@@ -64,7 +64,7 @@ Rating: 4.56 (Ranked 454)
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,666 (Ranked 150)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

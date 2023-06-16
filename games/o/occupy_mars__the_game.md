@@ -11,8 +11,8 @@ Rating: 3.86 (Ranked 924)
 | Zero Waste | 30.00% | ~381 |
 | Bob The Builder | 30.00% | ~381 |
 | I am the greatest botanist on this planet. | 29.00% | ~368 |
+| Miner | 25.00% | ~317 |
 | Gardener | 24.00% | ~305 |
-| Miner | 24.00% | ~305 |
 | Occupy Mars! | 22.00% | ~279 |
 | Houston we have a problem | 21.00% | ~266 |
 | Detective | 18.00% | ~228 |
@@ -55,7 +55,7 @@ Rating: 3.86 (Ranked 924)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,269 (Ranked 169)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

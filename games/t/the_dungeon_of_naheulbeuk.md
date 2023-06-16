@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 97.00% | ~99 |
-| Where's that freaking Dwarf? | 90.00% | ~92 |
+| Alt+F4 | 96.00% | ~99 |
+| Where's that freaking Dwarf? | 89.00% | ~92 |
 | Sock! SOCK! | 77.00% | ~79 |
-| Fireproof Wizardess | 64.00% | ~65 |
-| Livin' in a dwarven paradise | 60.00% | ~61 |
-| Déjà vu | 57.00% | ~58 |
-| GG EZ | 53.00% | ~54 |
-| DM intervention | 53.00% | ~54 |
-| Way of the Wimp | 52.00% | ~53 |
+| Fireproof Wizardess | 63.00% | ~65 |
+| Livin' in a dwarven paradise | 59.00% | ~61 |
+| Déjà vu | 56.00% | ~58 |
+| GG EZ | 53.00% | ~55 |
+| DM intervention | 52.00% | ~54 |
+| Way of the Wimp | 51.00% | ~53 |
 | Speedrun | 46.00% | ~47 |
 | Oh, when I'll be level 10... | 45.00% | ~46 |
 | I am the night | 40.00% | ~41 |
@@ -33,14 +33,14 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 28.00% | ~29 |
 | The Statuette of Gladeulfeurah | 26.00% | ~27 |
 | A tale of adventurers not quite like the others... | 26.00% | ~27 |
-| The Famous Dungeon of Naheulbeuk | 24.00% | ~24 |
-| The beards of change | 22.00% | ~22 |
-| The Woman in the High Castle | 21.00% | ~21 |
-| Urik's Depths | 20.00% | ~20 |
-| The Blood Countess | 20.00% | ~20 |
-| Cursed die | 19.00% | ~19 |
-| In Navalu's footsteps | 18.00% | ~18 |
-| Res Judicata | 17.00% | ~17 |
+| The Famous Dungeon of Naheulbeuk | 23.00% | ~24 |
+| The beards of change | 21.00% | ~22 |
+| The Woman in the High Castle | 20.00% | ~21 |
+| Urik's Depths | 19.00% | ~20 |
+| The Blood Countess | 19.00% | ~20 |
+| Cursed die | 18.00% | ~19 |
+| Res Judicata | 17.00% | ~18 |
+| In Navalu's footsteps | 17.00% | ~18 |
 | Law and Order | 16.00% | ~16 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~15 |
 | Necrophilia | 14.00% | ~14 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 225)  
+Progressed: 103 (Ranked 283)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
 | 2023-06-15 | 96 | 0 |
-| 2023-06-16 | 102 | 0 |
+| 2023-06-16 | 103 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 434)  

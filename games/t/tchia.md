@@ -10,7 +10,7 @@ Rating: 4.75 (Ranked 132)
 | The Journey Onwards | 13.00% | ~847 |
 | Globe Trotter | 11.00% | ~717 |
 | Body and Soul | 10.00% | ~652 |
-| Ahem Ahem | 9.00% | ~586 |
+| Ahem Ahem | 9.00% | ~587 |
 | Audiophile | 7.00% | ~456 |
 | Clay Pigeon | 6.00% | ~391 |
 | Historian | 6.00% | ~391 |
@@ -20,14 +20,14 @@ Rating: 4.75 (Ranked 132)
 | Happy Camper | 4.00% | ~261 |
 | Liberator | 4.00% | ~261 |
 | Live Wire | 4.00% | ~261 |
-| Fashion Faux-Pas | 3.00% | ~195 |
-| Fashion Victim | 3.00% | ~195 |
+| Fashion Faux-Pas | 3.00% | ~196 |
+| Fashion Victim | 3.00% | ~196 |
 | Arrr! | 2.00% | ~130 |
 | Snip Snip | 2.00% | ~130 |
 | Ça de Wizz! | 1.00% | ~65 |
 | Thing | 1.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,516 (Ranked 124)  
+Progressed: 6,517 (Ranked 124)  
 Completed: 25 (0.38%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 25 (0.38%) (Ranked 129)
 | 2023-06-13 | 6,472 | 24 |
 | 2023-06-14 | 6,482 | 24 |
 | 2023-06-15 | 6,501 | 25 |
-| 2023-06-16 | 6,516 | 25 |
+| 2023-06-16 | 6,517 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

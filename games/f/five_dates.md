@@ -10,8 +10,8 @@
 | Nueva Beginnings | 35.00% | ~154 |
 | We Go Again | 32.00% | ~140 |
 | Only Thyme Will Tell | 31.00% | ~136 |
+| Not Alone | 30.00% | ~132 |
 | In Contempt of Duvet | 29.00% | ~127 |
-| Not Alone | 29.00% | ~127 |
 | Booty Call | 27.00% | ~119 |
 | Planting the Seed | 21.00% | ~92 |
 | Light Sleepers | 17.00% | ~75 |
@@ -20,7 +20,7 @@
 | Interrogation | 4.00% | ~18 |
 | Crash and Burn | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439 (Ranked 214)  
+Progressed: 439 (Ranked 215)  
 Completed: 5 (1.14%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,6 +7,7 @@
 | Time Heals All Wounds | 13.00% | ~91 |
 | The Mysterious Stranger | 11.00% | ~77 |
 | Rail Rat | 11.00% | ~77 |
+| The Steel Shadow | 10.00% | ~70 |
 | Make Up For Lost Time | 10.00% | ~70 |
 | Cartographer | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
@@ -14,7 +15,6 @@
 | Immaculate Aim | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
-| The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
 | No, Thanks! | 9.00% | ~63 |
 | Breaking Down Barriers | 9.00% | ~63 |

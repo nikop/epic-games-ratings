@@ -28,6 +28,7 @@ Rating: 4.45 (Ranked 620)
 | Longshot | 6.00% | ~62 |
 | B-asic! | 5.00% | ~51 |
 | Under the neon lights | 4.00% | ~41 |
+| Had to sweat a bit | 4.00% | ~41 |
 | Almost broke the game | 4.00% | ~41 |
 | Better luck next time | 4.00% | ~41 |
 | Dev, this! | 4.00% | ~41 |
@@ -37,7 +38,6 @@ Rating: 4.45 (Ranked 620)
 | To infinity and gravity! | 3.00% | ~31 |
 | One giant drive for mankind | 3.00% | ~31 |
 | All Power to Engines! | 3.00% | ~31 |
-| Had to sweat a bit | 3.00% | ~31 |
 | [Sweats profusely] | 3.00% | ~31 |
 | It's like a party! | 3.00% | ~31 |
 | Healthy competition | 3.00% | ~31 |
@@ -59,7 +59,7 @@ Rating: 4.45 (Ranked 620)
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,026 (Ranked 180)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

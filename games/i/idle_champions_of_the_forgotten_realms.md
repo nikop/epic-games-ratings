@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,766 |
-| The Cursed Farmer | 2.00% | ~1,883 |
-| Beast Intentions | 1.00% | ~941 |
-| The Ring of Regeneration | 1.00% | ~941 |
-| The Mad Wizard | 1.00% | ~941 |
-| Seeking Allies | 0.90% | ~847 |
-| Are Ya Chicken? | 0.90% | ~847 |
+| A Brief Tour of the Realms | 4.00% | ~3,769 |
+| The Cursed Farmer | 2.00% | ~1,884 |
+| Beast Intentions | 1.00% | ~942 |
+| The Ring of Regeneration | 1.00% | ~942 |
+| The Mad Wizard | 1.00% | ~942 |
+| Seeking Allies | 0.90% | ~848 |
+| Are Ya Chicken? | 0.90% | ~848 |
 | The Court of Storms | 0.90% | ~544 |
-| Were-verpowered | 0.80% | ~753 |
-| Friendly Imps | 0.80% | ~753 |
-| Beware the Jabberwock | 0.80% | ~483 |
-| A Persistent Buzzing | 0.70% | ~659 |
-| Mad Cow Disease | 0.70% | ~659 |
-| Pure Energy | 0.70% | ~659 |
+| Were-verpowered | 0.80% | ~754 |
+| Friendly Imps | 0.80% | ~754 |
+| Beware the Jabberwock | 0.80% | ~484 |
+| A Persistent Buzzing | 0.70% | ~660 |
+| Mad Cow Disease | 0.70% | ~660 |
+| Pure Energy | 0.70% | ~660 |
 | Terror in the Dark | 0.60% | ~565 |
 | Unearthed Evil | 0.60% | ~565 |
 | The Crumbling Temple | 0.60% | ~565 |
 | Exploring Port Nyanzaru | 0.60% | ~565 |
-| Coasting to the Finish | 0.60% | ~362 |
+| Coasting to the Finish | 0.60% | ~363 |
 | Maddening | 0.50% | ~471 |
 | Checkmate | 0.50% | ~302 |
 | Vecna Out! | 0.50% | ~302 |
@@ -45,18 +45,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.40% | ~377 |
 | No Time To Rest | 0.40% | ~377 |
 | The Dinner Party | 0.40% | ~377 |
+| The Botched Kidnapping | 0.40% | ~377 |
 | The Death Curse | 0.40% | ~377 |
 | Premature Betrayal | 0.40% | ~377 |
 | Underdeep Cartography | 0.40% | ~377 |
 | Overdue Rendezvous | 0.40% | ~377 |
 | The Templar's Camp | 0.40% | ~377 |
 | Rescue in the Jungle | 0.40% | ~377 |
-| Pros and CONs | 0.30% | ~282 |
+| Pros and CONs | 0.30% | ~283 |
 | Tall Tales | 0.30% | ~181 |
 | Third Third Out | 0.30% | ~181 |
-| The Silken Swamp | 0.30% | ~282 |
-| Wet Feet | 0.30% | ~282 |
-| Supply Run | 0.30% | ~282 |
+| The Silken Swamp | 0.30% | ~283 |
+| Wet Feet | 0.30% | ~283 |
+| Supply Run | 0.30% | ~283 |
 | Keep Your Distance | 0.30% | ~181 |
 | Hands Off! | 0.30% | ~181 |
 | The Dread Domain of Tovag | 0.30% | ~181 |
@@ -65,52 +66,51 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~181 |
 | Get Back In The Castle | 0.30% | ~181 |
 | Bully for Vecna | 0.30% | ~181 |
-| Homecoming | 0.30% | ~282 |
-| The Lost Heir of Omu | 0.30% | ~282 |
+| Homecoming | 0.30% | ~283 |
+| The Lost Heir of Omu | 0.30% | ~283 |
 | No One Can Hear You Scream | 0.30% | ~181 |
 | Welcome to the Rock | 0.30% | ~181 |
-| The Forbidden City | 0.30% | ~282 |
-| Captured! | 0.30% | ~282 |
-| Force Grey Unleashed | 0.30% | ~282 |
-| March of the Undead | 0.30% | ~282 |
-| Wisdom Check | 0.30% | ~282 |
-| Sleuth It Out | 0.30% | ~282 |
-| A Grand Puzzle | 0.30% | ~282 |
-| Tomb of the Nine Gods | 0.30% | ~282 |
-| The Mists of Ravenloft | 0.30% | ~282 |
-| Invisible Shadows | 0.30% | ~282 |
-| Family Entanglements | 0.30% | ~282 |
-| The Botched Kidnapping | 0.30% | ~282 |
-| The Immortal Warrior | 0.30% | ~282 |
-| Tower on the Lake | 0.30% | ~282 |
-| Seeds of Deceit | 0.30% | ~282 |
-| Trollskull Manor | 0.30% | ~282 |
-| Attack on the Manor | 0.30% | ~282 |
-| The Guardian of Orolunga | 0.30% | ~282 |
-| The Lost Love | 0.30% | ~282 |
-| Flies on the Wall | 0.30% | ~282 |
-| Nimble Escape | 0.30% | ~282 |
-| Fugitives | 0.30% | ~282 |
-| Hopelessly Lost | 0.30% | ~282 |
-| Enter the Sargauth | 0.30% | ~282 |
-| A Tale of Two Cities | 0.30% | ~282 |
-| The Dead Three | 0.30% | ~282 |
-| Flying Monkey Skulls of Doom | 0.30% | ~282 |
-| The Darkness Runs Deeper | 0.30% | ~282 |
-| Dinosaur Racing | 0.30% | ~282 |
+| The Forbidden City | 0.30% | ~283 |
+| Captured! | 0.30% | ~283 |
+| Force Grey Unleashed | 0.30% | ~283 |
+| March of the Undead | 0.30% | ~283 |
+| Wisdom Check | 0.30% | ~283 |
+| Sleuth It Out | 0.30% | ~283 |
+| A Grand Puzzle | 0.30% | ~283 |
+| Tomb of the Nine Gods | 0.30% | ~283 |
+| The Mists of Ravenloft | 0.30% | ~283 |
+| Invisible Shadows | 0.30% | ~283 |
+| Family Entanglements | 0.30% | ~283 |
+| The Immortal Warrior | 0.30% | ~283 |
+| Tower on the Lake | 0.30% | ~283 |
+| Seeds of Deceit | 0.30% | ~283 |
+| Trollskull Manor | 0.30% | ~283 |
+| Attack on the Manor | 0.30% | ~283 |
+| The Guardian of Orolunga | 0.30% | ~283 |
+| The Lost Love | 0.30% | ~283 |
+| Flies on the Wall | 0.30% | ~283 |
+| Nimble Escape | 0.30% | ~283 |
+| Fugitives | 0.30% | ~283 |
+| Hopelessly Lost | 0.30% | ~283 |
+| Enter the Sargauth | 0.30% | ~283 |
+| A Tale of Two Cities | 0.30% | ~283 |
+| The Dead Three | 0.30% | ~283 |
+| Flying Monkey Skulls of Doom | 0.30% | ~283 |
+| The Darkness Runs Deeper | 0.30% | ~283 |
+| Dinosaur Racing | 0.30% | ~283 |
 | Hearts Aflame | 0.30% | ~181 |
 | Look Out! | 0.30% | ~181 |
 | Bad Odds in Avernus | 0.30% | ~181 |
 | An Even Worse Time in Avernus | 0.30% | ~181 |
-| Close Escort | 0.30% | ~282 |
-| Constant Banditry | 0.30% | ~282 |
-| The Long Haul | 0.30% | ~282 |
-| Lost in the Deep | 0.30% | ~282 |
-| Easily Distracted | 0.30% | ~282 |
-| Rude Welcome | 0.30% | ~282 |
+| Close Escort | 0.30% | ~283 |
+| Constant Banditry | 0.30% | ~283 |
+| The Long Haul | 0.30% | ~283 |
+| Lost in the Deep | 0.30% | ~283 |
+| Easily Distracted | 0.30% | ~283 |
+| Rude Welcome | 0.30% | ~283 |
 | Witty Riposting | 0.30% | ~181 |
 | How Far Away is Thay | 0.30% | ~181 |
-| The Haunted Jungle | 0.30% | ~282 |
+| The Haunted Jungle | 0.30% | ~283 |
 | Upholding the Law | 0.20% | ~188 |
 | Starving in the Jungle | 0.20% | ~188 |
 | Cold as Ice | 0.20% | ~121 |
@@ -153,6 +153,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.20% | ~121 |
 | The Lutes of Loomlurch | 0.20% | ~121 |
 | Best Laid Plans | 0.20% | ~121 |
+| Pincushion Party | 0.20% | ~121 |
 | The Howling Peaks of Yon | 0.20% | ~121 |
 | The Invisible Wizards of Thay | 0.20% | ~121 |
 | Heavy Burden | 0.20% | ~188 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~60 |
 | Speed Demons | 0.10% | ~60 |
 | The Loots of Loomlurch | 0.10% | ~60 |
-| Pincushion Party | 0.10% | ~60 |
 | G. O. A. T. | 0.10% | ~60 |
 | Strength of Character | 0.10% | ~60 |
 | Between a Brigganock and a Hard Place | 0.10% | ~60 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~60 |
 | Ineffectual Intellectuals | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,140 (Ranked 63)  
+Progressed: 94,225 (Ranked 63)  
 Completed: 1,942 (2.06%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,942 (2.06%) (Ranked 70)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 94,140 | 1,942 |
+| 2023-06-16 | 94,225 | 1,942 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

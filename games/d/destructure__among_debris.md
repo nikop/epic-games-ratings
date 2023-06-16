@@ -14,10 +14,10 @@
 | Ball Galore | 6.00% | ~9 |
 | Easy Victory | 6.00% | ~9 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
+| Ball Collector | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
 | Legendary Destructor | 4.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
-| Ball Collector | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
 | Medium Rare | 3.00% | ~4 |
 | Nomad | 3.00% | ~4 |

@@ -13,11 +13,11 @@
 | We will need a bigger wardrobe | 29.00% | ~12 |
 | Roller Race | 27.00% | ~11 |
 | Scooter Race | 22.00% | ~9 |
+| Creating New Trends | 20.00% | ~8 |
 | Barcelona Hidden Style | 20.00% | ~8 |
-| Creating New Trends | 17.00% | ~7 |
 | Best Gala Ever | 17.00% | ~7 |
 | Welcome to the The Stylin' Soiree | 17.00% | ~7 |
-| Seoul Hidden Style | 12.00% | ~5 |
+| Seoul Hidden Style | 15.00% | ~6 |
 | Hoverboard Race | 7.00% | ~3 |
 | Trendy Selfies | 5.00% | ~2 |
 | Talented Photographer | 2.00% | ~1 |
@@ -25,7 +25,7 @@
 | Exclusive Photoshoot | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 329)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

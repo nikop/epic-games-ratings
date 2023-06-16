@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -58,7 +58,7 @@
   "Tags": [],
   "EOS_Progressed": 1225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2046,9 +2046,9 @@
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 233
     },
     {
       "ID": "A03",
@@ -2062,9 +2062,9 @@
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 122
     },
     {
       "ID": "A05",
@@ -2270,9 +2270,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 331
     },
     {
       "ID": "A31",
@@ -2479,8 +2479,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:34.9285984+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:58:10.4886352+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:34.9286585+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:21.7230223+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:01:10.3237093+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:21.7230837+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 1.00% | ~5,629 |
-| Healthy Obsession | 0.90% | ~5,066 |
-| Preemptive Strike | 0.90% | ~5,066 |
-| Humanitarian | 0.90% | ~5,066 |
-| Close Shave | 0.80% | ~4,503 |
-| Wounded Healer | 0.70% | ~3,940 |
-| Flight to Freedom | 0.60% | ~3,378 |
-| Unforgettable Getaway | 0.50% | ~2,815 |
-| First to the Punch | 0.50% | ~2,815 |
-| Old West Oasis | 0.50% | ~2,815 |
-| Every Last Drop | 0.50% | ~2,815 |
-| With Scars to Show | 0.50% | ~2,815 |
+| Healthy Obsession | 1.00% | ~5,631 |
+| Resurgence | 1.00% | ~5,631 |
+| Preemptive Strike | 0.90% | ~5,068 |
+| Humanitarian | 0.90% | ~5,068 |
+| Close Shave | 0.80% | ~4,505 |
+| Wounded Healer | 0.70% | ~3,942 |
+| Flight to Freedom | 0.60% | ~3,379 |
+| Unforgettable Getaway | 0.50% | ~2,816 |
+| First to the Punch | 0.50% | ~2,816 |
+| Old West Oasis | 0.50% | ~2,816 |
+| Every Last Drop | 0.50% | ~2,816 |
+| With Scars to Show | 0.50% | ~2,816 |
 | Cutting Out | 0.40% | ~2,252 |
 | Operation: Survival | 0.40% | ~2,252 |
 | Classy Act | 0.40% | ~2,252 |
@@ -29,15 +29,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.30% | ~1,689 |
 | Shrine Apparatus | 0.30% | ~1,689 |
 | Outrun Evil | 0.30% | ~1,689 |
+| Broken Bodies | 0.30% | ~1,689 |
 | Grim Pilgrimage | 0.30% | ~1,689 |
 | Selfless Survival | 0.30% | ~1,689 |
 | End of Days | 0.30% | ~1,689 |
+| Insult and Injury | 0.30% | ~1,689 |
 | Outrun the Overlap | 0.30% | ~1,689 |
 | Heavy Burden | 0.20% | ~1,126 |
-| Broken Bodies | 0.20% | ~1,126 |
 | I See You | 0.20% | ~1,126 |
 | Power Moves | 0.20% | ~1,126 |
-| Insult and Injury | 0.20% | ~1,126 |
 | Punch Drunk | 0.20% | ~1,126 |
 | Prowler | 0.20% | ~1,126 |
 | Triage | 0.20% | ~1,126 |
@@ -227,8 +227,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~563 |
 | Adept Gabriel | 0.10% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562,919 (Ranked 26)  
-Completed: 42 (0.01%) (Ranked 213)  
+Progressed: 563,113 (Ranked 26)  
+Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 213)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 562,919 | 42 |
+| 2023-06-16 | 563,113 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
 Sum: 227,936 (Ranked 12)  

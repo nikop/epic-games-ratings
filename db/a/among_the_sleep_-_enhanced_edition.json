@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,10 +443,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75080,
+  "EOS_Progressed": 75086,
   "EOS_Completed": 343,
   "EOS_NewPlayers": 948,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
@@ -6368,6 +6368,11 @@
       "Time": "2023-06-16T22:06:15.3070742+00:00",
       "NumProgressed": 75080,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2023-06-16T23:09:04.8409778+00:00",
+      "NumProgressed": 75086,
+      "NumCompleted": 343
     }
   ],
   "TotalAchievements": 10,
@@ -6427,7 +6432,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "GameCompleted",
@@ -6435,7 +6440,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "Level00BowlingStrike",
@@ -6443,7 +6448,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 27029
+      "UsersEstimate": 27031
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -6458,15 +6463,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 75080,
+      "Progressed": 75086,
       "Completed": 343
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:15.3070732+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T22:00:58.9895341+00:00",
-  "LastUpdate_Ratings": "2023-06-16T22:00:46.1859117+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:15.3071176+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:04.8409775+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:59:55.4152225+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:03:17.357137+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:04.8410246+00:00"
 }

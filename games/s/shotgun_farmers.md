@@ -12,8 +12,8 @@
 | No Asperascope | 37.00% | ~47 |
 | Early Survivor | 37.00% | ~28 |
 | No Diggity | 37.00% | ~28 |
+| Cornivore | 36.00% | ~45 |
 | I Believe I Can Fly | 35.00% | ~44 |
-| Cornivore | 35.00% | ~44 |
 | Bouncemato | 25.00% | ~19 |
 | Amateur Survivor | 25.00% | ~19 |
 | Quick-Draw Pod | 19.00% | ~14 |
@@ -27,7 +27,7 @@
 | Eggtraordinary | 12.00% | ~15 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
-| Skin Of Your Teeth | 8.00% | ~10 |
+| Skin Of Your Teeth | 9.00% | ~11 |
 | Pork Chop Express | 8.00% | ~10 |
 | Carrocketeer | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 126 (Ranked 276)  
-Completed: 0 (0.00%) (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

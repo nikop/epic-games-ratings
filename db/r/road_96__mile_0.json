@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2023-06-16T18:03:56.7042558+00:00",
       "NumProgressed": 306,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-16T23:07:19.0708063+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -820,7 +825,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "completeact2",
@@ -868,7 +873,7 @@
       "Name": "Freedom",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "scoreminrankrf1",
@@ -916,7 +921,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "scoreminrankrv1",
@@ -932,14 +937,14 @@
       "Name": "Friendzone",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 2
     }
   ],
@@ -947,8 +952,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:04:07.3518571+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:58:57.4802485+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:04:07.3518732+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:07:19.0708058+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:58:26.3345062+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:01:49.7867253+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:07:19.0708247+00:00"
 }

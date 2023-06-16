@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 460784,
+  "EOS_Progressed": 460787,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6250,6 +6250,11 @@
       "Time": "2023-06-16T22:06:37.4444671+00:00",
       "NumProgressed": 460784,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-16T23:09:23.9587268+00:00",
+      "NumProgressed": 460787,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6683,9 +6688,9 @@
       "ID": "achievement_win_boss_sector_1",
       "SetID": "8cokdon",
       "Name": "Jeef Skeejj",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -6892,21 +6897,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4718,
+      "Progressed": 4721,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460784,
+      "Progressed": 460787,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-16T22:06:37.4444661+00:00",
-  "LastUpdate_AppInfo": "2023-06-09T21:59:39.8583019+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:59:31.3274855+00:00",
-  "LastUpdate_Achievements": "2023-06-16T22:06:37.4445882+00:00"
+  "LastChanged_Achievements": "2023-06-16T23:09:23.9587263+00:00",
+  "LastUpdate_AppInfo": "2023-06-16T22:58:54.1590462+00:00",
+  "LastUpdate_Ratings": "2023-06-16T23:02:15.5708978+00:00",
+  "LastUpdate_Achievements": "2023-06-16T23:09:23.9588496+00:00"
 }
