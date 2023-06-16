@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,711 |
-| A Grove Replanted | 53.00% | ~3,512 |
+| A Small Community | 56.00% | ~3,712 |
+| A Grove Replanted | 53.00% | ~3,513 |
 | Fields Watered | 41.00% | ~2,717 |
 | Seekers Found | 41.00% | ~2,717 |
 | Settling the Skies | 41.00% | ~2,717 |
-| Wind Powered | 40.00% | ~2,650 |
-| It Takes a Village | 34.00% | ~2,253 |
-| On the Town | 28.00% | ~1,855 |
-| Daylight Found | 25.00% | ~1,656 |
-| Irons Scorched | 25.00% | ~1,656 |
-| Islands Connected | 25.00% | ~1,656 |
+| Wind Powered | 40.00% | ~2,651 |
+| It Takes a Village | 34.00% | ~2,254 |
+| On the Town | 28.00% | ~1,856 |
+| Daylight Found | 25.00% | ~1,657 |
+| Irons Scorched | 25.00% | ~1,657 |
+| Islands Connected | 25.00% | ~1,657 |
 | Harp Tuned | 23.00% | ~1,524 |
 | Pyre Ignited | 23.00% | ~1,524 |
 | Travelers Returned | 23.00% | ~1,524 |
 | Hopes Hoisted | 22.00% | ~1,458 |
-| Knowledge Shared | 20.00% | ~1,325 |
-| Relic Finder | 20.00% | ~1,325 |
+| Knowledge Shared | 20.00% | ~1,326 |
+| Relic Finder | 20.00% | ~1,326 |
 | Worthy of the Title | 19.00% | ~1,259 |
 | A Peaceful Respite | 14.00% | ~928 |
-| A Learned Scholar | 13.00% | ~861 |
-| Prophecy Fulfilled | 13.00% | ~861 |
+| A Learned Scholar | 13.00% | ~862 |
+| Prophecy Fulfilled | 13.00% | ~862 |
 | A Wanderer’s Guide | 11.00% | ~729 |
 | Knowledge Seeker | 7.00% | ~464 |
 | The Cycle Continues | 3.00% | ~199 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~133 |
 | A True Challenge | 2.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,626 (Ranked 123)  
+Progressed: 6,628 (Ranked 123)  
 Completed: 52 (0.78%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 52 (0.78%) (Ranked 100)
 | 2023-06-13 | 6,608 | 52 |
 | 2023-06-14 | 6,615 | 52 |
 | 2023-06-15 | 6,625 | 52 |
-| 2023-06-16 | 6,626 | 52 |
+| 2023-06-16 | 6,628 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -4994,10 +4994,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 17997,
       "NumberOfAwardsMax": 7457
+    },
+    {
+      "Time": "2023-06-16T06:01:25.5178277+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 18000,
+      "NumberOfAwardsMax": 7457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17997,
+  "NumberOfAwards": 18000,
   "NumberOfAwardsMax": 7457,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5029,7 +5035,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 805
+      "Count": 807
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5047,7 +5053,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 751
+      "Count": 752
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5073,8 +5079,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-06-15T17:00:14.7154571+00:00",
+  "LastChanged": "2023-06-16T06:01:25.5178276+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.1198721+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:01:16.1742412+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:22.5778873+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:01:25.5178281+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:06:34.9466863+00:00"
 }

@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | The power of three | 0.90% | ~2,089 |
 | Let's try another | 0.80% | ~1,857 |
 | Home run | 0.80% | ~1,857 |
-| I have the high ground | 0.70% | ~1,624 |
-| It's blue, always blue | 0.70% | ~1,624 |
+| I have the high ground | 0.70% | ~1,625 |
+| It's blue, always blue | 0.70% | ~1,625 |
 | Who wouldn't love a troll? | 0.50% | ~1,160 |
 | Enjoy these little moments | 0.40% | ~928 |
 | Irondec | 0.40% | ~928 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~464 |
 | Memory 5 | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,071 (Ranked 44)  
+Progressed: 232,072 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 6 (0.00%) (Ranked 225)
 | 2023-06-13 | 231,748 | 6 |
 | 2023-06-14 | 231,887 | 6 |
 | 2023-06-15 | 232,035 | 6 |
-| 2023-06-16 | 232,071 | 6 |
+| 2023-06-16 | 232,072 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 420)  

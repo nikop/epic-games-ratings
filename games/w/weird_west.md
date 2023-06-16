@@ -15,7 +15,7 @@ Number of Ratings: 125  (23.09.2022)
 | Full House | 36.00% | ~594 |
 | Off the Trail | 34.00% | ~561 |
 | Justice Served | 29.00% | ~478 |
-| Chain Reaction | 26.00% | ~429 |
+| Chain Reaction | 27.00% | ~446 |
 | Dishonored | 25.00% | ~412 |
 | Rain of Death | 25.00% | ~412 |
 | Scholar | 25.00% | ~412 |

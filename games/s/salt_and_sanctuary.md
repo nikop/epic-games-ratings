@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,440 |
-| The Three | 64.00% | ~335,761 |
-| The Banquet | 40.00% | ~209,851 |
-| Devara's Light | 30.00% | ~157,388 |
+| Find Sanctuary | 83.00% | ~435,443 |
+| The Three | 64.00% | ~335,763 |
+| The Banquet | 40.00% | ~209,852 |
+| Devara's Light | 30.00% | ~157,389 |
 | The Iron Ones | 18.00% | ~94,433 |
-| The Village | 16.00% | ~83,940 |
+| The Village | 16.00% | ~83,941 |
 | The Forest | 14.00% | ~73,448 |
 | Branded | 13.00% | ~68,202 |
 | The Imposter | 13.00% | ~68,202 |
 | The Keep | 13.00% | ~68,202 |
 | The Castle | 11.00% | ~57,709 |
-| The Dome | 9.00% | ~47,216 |
-| The Red Hall | 9.00% | ~47,216 |
+| The Dome | 9.00% | ~47,217 |
+| The Red Hall | 9.00% | ~47,217 |
 | The Sacrifice | 8.00% | ~41,970 |
 | The Cave | 7.00% | ~36,724 |
 | The Stone Roots | 7.00% | ~36,724 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,478 |
 | The Mire | 6.00% | ~31,478 |
 | The Ruins | 6.00% | ~31,478 |
-| The Alkymancery | 5.00% | ~26,231 |
-| The Lake | 5.00% | ~26,231 |
-| The Pitchwoods | 5.00% | ~26,231 |
+| The Alkymancery | 5.00% | ~26,232 |
+| The Lake | 5.00% | ~26,232 |
+| The Pitchwoods | 5.00% | ~26,232 |
 | Honed | 4.00% | ~20,985 |
 | The House of Splendor | 4.00% | ~20,985 |
 | The Crypt | 4.00% | ~20,985 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,493 |
 | Fading Fast | 1.00% | ~5,246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,627 (Ranked 28)  
+Progressed: 524,630 (Ranked 28)  
 Completed: 1,450 (0.28%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1,450 (0.28%) (Ranked 143)
 | 2023-06-13 | 524,414 | 1,447 |
 | 2023-06-14 | 524,507 | 1,448 |
 | 2023-06-15 | 524,603 | 1,449 |
-| 2023-06-16 | 524,627 | 1,450 |
+| 2023-06-16 | 524,630 | 1,450 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 237)  
 Sum: 1,895 (Ranked 194)  

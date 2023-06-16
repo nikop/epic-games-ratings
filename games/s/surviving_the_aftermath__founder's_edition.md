@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,603 |
-| Leader | 60.00% | ~3,890 |
+| Leader | 61.00% | ~3,955 |
 | Explorer | 53.00% | ~3,436 |
 | Healer | 52.00% | ~3,371 |
 | Aspiring Inventor | 44.00% | ~2,853 |

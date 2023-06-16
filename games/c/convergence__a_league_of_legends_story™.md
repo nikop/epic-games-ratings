@@ -35,10 +35,10 @@
 | Chaincrawler Explorer | 5.00% | ~35 |
 | Family Memories | 5.00% | ~35 |
 | Sump Explorer | 5.00% | ~35 |
+| Syron for Hope | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Good Neighbor | 5.00% | ~35 |
 | Factorywood Explorer | 4.00% | ~28 |
-| Syron for Hope | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |

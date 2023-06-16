@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 442,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -883,9 +883,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 274
     },
     {
       "ID": "Chapter10",
@@ -1139,9 +1139,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:06:41.9655206+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:06:55.9835939+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:58:14.4818746+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:41.9655459+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:58:01.2667079+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:06:55.9836191+00:00"
 }

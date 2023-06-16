@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5697,7 +5697,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44144,
+  "EOS_Progressed": 44145,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -10552,6 +10552,11 @@
       "Time": "2023-06-16T05:06:54.2331427+00:00",
       "NumProgressed": 44144,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-16T06:07:09.2900508+00:00",
+      "NumProgressed": 44145,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10643,7 +10648,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28252
+      "UsersEstimate": 28253
     },
     {
       "ID": "CutTree",
@@ -10715,7 +10720,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33549
+      "UsersEstimate": 33550
     },
     {
       "ID": "HorseJumps",
@@ -10771,7 +10776,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23396
+      "UsersEstimate": 23397
     },
     {
       "ID": "NumBeehives",
@@ -10795,7 +10800,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19423
+      "UsersEstimate": 19424
     },
     {
       "ID": "NumProductionPoints",
@@ -10827,7 +10832,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12360
+      "UsersEstimate": 12361
     },
     {
       "ID": "PlayTime",
@@ -10883,7 +10888,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11477
+      "UsersEstimate": 11478
     },
     {
       "ID": "VehicleRepair",
@@ -10906,15 +10911,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44144,
+      "Progressed": 44145,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-15T19:59:50.1045861+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:06:54.2331424+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:07:09.29005+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.5023398+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:00:18.1937751+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:54.2331916+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:00:21.1154064+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:07:09.2900989+00:00"
 }

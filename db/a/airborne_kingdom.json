@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6626,
+  "EOS_Progressed": 6628,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1933,6 +1933,11 @@
       "Time": "2023-06-16T02:15:39.6707609+00:00",
       "NumProgressed": 6626,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-16T06:06:59.3302547+00:00",
+      "NumProgressed": 6628,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1952,7 +1957,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1976,7 +1981,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2000,7 +2005,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2008,7 +2013,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2024,7 +2029,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2032,7 +2037,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "AK_ON_TOWN",
@@ -2040,7 +2045,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -2056,7 +2061,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -2072,7 +2077,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -2096,7 +2101,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2112,7 +2117,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -2144,7 +2149,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2159,15 +2164,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6626,
+      "Progressed": 6628,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-16T04:05:40.5910901+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:06:59.3302542+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:57:55.95384+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:44.9110099+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:57:41.2203388+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:06:59.3302769+00:00"
 }

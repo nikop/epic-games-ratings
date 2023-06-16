@@ -7,12 +7,12 @@
 | Screwdriver | 64.00% | ~68 |
 | Springs | 60.00% | ~64 |
 | Soap | 41.00% | ~43 |
+| Act 1 | 34.00% | ~36 |
 | Wrench | 33.00% | ~35 |
-| Act 1 | 33.00% | ~35 |
+| Capacitors | 33.00% | ~35 |
 | Purr-fect | 32.00% | ~34 |
-| Capacitors | 32.00% | ~34 |
+| Mug | 29.00% | ~31 |
 | Soldering iron | 29.00% | ~31 |
-| Mug | 28.00% | ~30 |
 | Robot Bros | 25.00% | ~26 |
 | Act 2 | 25.00% | ~26 |
 | Harpoon | 22.00% | ~23 |
@@ -20,7 +20,7 @@
 | Cassette | 21.00% | ~22 |
 | Here we go again | 21.00% | ~22 |
 | Flyer | 17.00% | ~18 |
-| It’s in the Vault | 15.00% | ~16 |
+| It’s in the Vault | 16.00% | ~17 |
 | Dr. Antivirus | 15.00% | ~16 |
 | Access protocol | 14.00% | ~15 |
 | Time Capsule | 13.00% | ~14 |

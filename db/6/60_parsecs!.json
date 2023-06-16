@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 299
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -564,9 +564,9 @@
       "ID": "Achievement_MutinyInMaking",
       "SetID": "c01p6e5",
       "Name": "Mutiny in making",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_Muttnik",
@@ -620,9 +620,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -693,8 +693,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:04:09.86369+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:04:08.531468+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:59:27.2387231+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:04:09.8637184+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:59:24.1860391+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:04:08.5314977+00:00"
 }

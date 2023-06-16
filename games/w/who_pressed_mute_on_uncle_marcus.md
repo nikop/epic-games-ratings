@@ -9,7 +9,7 @@
 | Job one. DONE! | 60.00% | ~113 |
 | You are Carol Vorderman | 56.00% | ~105 |
 | Toby foolery | 50.00% | ~94 |
-| Don't fear the baldness | 39.00% | ~73 |
+| Don't fear the baldness | 40.00% | ~75 |
 | Instinct | 37.00% | ~70 |
 | Blow | 33.00% | ~62 |
 | I bless the rain down in London | 30.00% | ~56 |

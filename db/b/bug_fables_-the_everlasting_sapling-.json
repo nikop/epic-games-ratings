@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -230,9 +230,9 @@
       "ID": "BFT_ENEMY",
       "SetID": "7o7kd30",
       "Name": "Field Researcher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BFT_KABBU",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:06:54.8439331+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:07:09.8486352+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:00:38.4088129+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:54.8439512+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:00:43.4987938+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:07:09.8486506+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 156,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-13T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 1354,
   "RatingHistory": [
     {
@@ -2081,10 +2081,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2415,
       "NumberOfAwardsMax": 314
+    },
+    {
+      "Time": "2023-06-16T06:00:36.5657929+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2416,
+      "NumberOfAwardsMax": 314
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2415,
+  "NumberOfAwards": 2416,
   "NumberOfAwardsMax": 314,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2098,7 +2104,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2172,8 +2178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-06-14T13:06:55.0396091+00:00",
+  "LastChanged": "2023-06-16T06:00:36.5657927+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:21.3095735+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:00:32.2301294+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:05:06.4862803+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:00:36.5657931+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:05:11.2296749+00:00"
 }

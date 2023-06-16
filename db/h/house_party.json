@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -3104,9 +3104,9 @@
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "Stephanie",
@@ -3286,8 +3286,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:04:43.0171629+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:04:45.3429566+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:57:48.9845327+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:04:43.0172293+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:57:33.957377+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:04:45.3430245+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.80% | ~4,478 |
-| Healthy Obsession | 0.70% | ~3,918 |
-| Preemptive Strike | 0.70% | ~3,918 |
-| Humanitarian | 0.70% | ~3,918 |
+| Resurgence | 0.80% | ~4,479 |
+| Healthy Obsession | 0.70% | ~3,919 |
+| Preemptive Strike | 0.70% | ~3,919 |
+| Humanitarian | 0.70% | ~3,919 |
 | Close Shave | 0.60% | ~3,359 |
 | Wounded Healer | 0.50% | ~2,799 |
 | Flight to Freedom | 0.50% | ~2,799 |
-| Unforgettable Getaway | 0.40% | ~2,239 |
-| First to the Punch | 0.40% | ~2,239 |
-| Old West Oasis | 0.40% | ~2,239 |
-| Every Last Drop | 0.40% | ~2,239 |
-| With Scars to Show | 0.40% | ~2,239 |
-| Ancestor's Rite | 0.30% | ~1,679 |
-| Cutting Out | 0.30% | ~1,679 |
-| Outrun Evil | 0.30% | ~1,679 |
-| Operation: Survival | 0.30% | ~1,679 |
-| Classy Act | 0.30% | ~1,679 |
-| Raccoon City Recruit | 0.30% | ~1,679 |
-| A Fast Death | 0.30% | ~1,679 |
-| Lifting The Fog | 0.30% | ~1,679 |
-| Chorus of Chaos | 0.30% | ~1,679 |
+| Unforgettable Getaway | 0.40% | ~2,240 |
+| First to the Punch | 0.40% | ~2,240 |
+| Old West Oasis | 0.40% | ~2,240 |
+| Every Last Drop | 0.40% | ~2,240 |
+| With Scars to Show | 0.40% | ~2,240 |
+| Ancestor's Rite | 0.30% | ~1,680 |
+| Cutting Out | 0.30% | ~1,680 |
+| Outrun Evil | 0.30% | ~1,680 |
+| Operation: Survival | 0.30% | ~1,680 |
+| Classy Act | 0.30% | ~1,680 |
+| Raccoon City Recruit | 0.30% | ~1,680 |
+| A Fast Death | 0.30% | ~1,680 |
+| Lifting The Fog | 0.30% | ~1,680 |
+| Chorus of Chaos | 0.30% | ~1,680 |
 | Devoted Gatekeeping | 0.20% | ~1,120 |
 | Shrine Apparatus | 0.20% | ~1,120 |
 | Broken Bodies | 0.20% | ~1,120 |
@@ -36,6 +36,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.20% | ~1,120 |
 | Insult and Injury | 0.20% | ~1,120 |
 | Outrun the Overlap | 0.20% | ~1,120 |
+| Rebuilding The Borgo | 0.20% | ~1,120 |
 | The Grand Sacrifice | 0.10% | ~560 |
 | A bite for the Entity | 0.10% | ~560 |
 | A feast for the Entity | 0.10% | ~560 |
@@ -213,7 +214,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Rebecca | 0.10% | ~560 |
 | Cruelty Loves Company | 0.10% | ~560 |
 | Adept Knight | 0.10% | ~560 |
-| Rebuilding The Borgo | 0.10% | ~560 |
 | Adept Vittorio | 0.10% | ~560 |
 | Thrill of the Chase | 0.10% | ~560 |
 | Adept Skull Merchant | 0.10% | ~560 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~560 |
 | Adept Gabriel | 0.10% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 559,769 (Ranked 26)  
+Progressed: 559,878 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 559,769 | 42 |
+| 2023-06-16 | 559,878 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,704 (Ranked 12)  

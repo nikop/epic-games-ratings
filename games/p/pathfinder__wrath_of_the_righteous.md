@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 0.60% | ~59 |
 | Playful Mood | 0.60% | ~59 |
 | Truly Profane Gift | 0.60% | ~59 |
-| Dreadful Dragon | 0.50% | ~49 |
+| Dreadful Dragon | 0.50% | ~50 |
 | Masterful Charge | 0.40% | ~40 |
 | Prelate's Nemesis | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,899 (Ranked 114)  
+Progressed: 9,900 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 9,833 | 0 |
 | 2023-06-14 | 9,861 | 0 |
 | 2023-06-15 | 9,896 | 0 |
-| 2023-06-16 | 9,899 | 0 |
+| 2023-06-16 | 9,900 | 0 |
 ## Awards
 Max (Character Customization): 1,662  (Ranked 113)  
 Sum: 6,749 (Ranked 109)  

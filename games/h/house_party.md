@@ -19,9 +19,9 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.50% | ~28 |
 | Inspector | 0.50% | ~28 |
 | Newcomer: Vickie | 0.50% | ~28 |
+| Social Butterfly | 0.50% | ~28 |
 | Amy | 0.40% | ~22 |
 | Smooth Operator: Ashley | 0.40% | ~22 |
-| Social Butterfly | 0.40% | ~22 |
 | Amy: Scavenger Hunt | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
 | Casanova | 0.30% | ~17 |

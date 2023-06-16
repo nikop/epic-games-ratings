@@ -6,18 +6,18 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,017 |
-| The Journey Begins | 98.00% | ~5,017 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,993 |
-| There is No Escape | 71.00% | ~3,634 |
+| Quinceañera Time | 98.00% | ~5,018 |
+| The Journey Begins | 98.00% | ~5,018 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,994 |
+| There is No Escape | 71.00% | ~3,635 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,174 |
 | Royal Flush | 62.00% | ~3,174 |
-| Timber! | 60.00% | ~3,071 |
-| Survive the Bombsequences | 59.00% | ~3,020 |
-| Killed 20 Jerks | 53.00% | ~2,713 |
-| Death Defied | 53.00% | ~2,713 |
-| Fortunate Soul | 49.00% | ~2,508 |
-| Jerk-Slayer | 43.00% | ~2,201 |
+| Timber! | 60.00% | ~3,072 |
+| Survive the Bombsequences | 59.00% | ~3,021 |
+| Killed 20 Jerks | 53.00% | ~2,714 |
+| Death Defied | 53.00% | ~2,714 |
+| Fortunate Soul | 49.00% | ~2,509 |
+| Jerk-Slayer | 43.00% | ~2,202 |
 | Employee of the Month | 37.00% | ~1,894 |
 | I Believe I Can Fly | 37.00% | ~1,894 |
 | Bone Collector | 35.00% | ~1,792 |
@@ -27,9 +27,9 @@ Number of Ratings: 63  (23.09.2022)
 | Humerus Achievement | 31.00% | ~1,587 |
 | Ghost Facers! | 27.00% | ~1,382 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,075 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~921 |
-| Can't Touch This | 18.00% | ~921 |
-| Royal Flush, Again | 18.00% | ~921 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~922 |
+| Can't Touch This | 18.00% | ~922 |
+| Royal Flush, Again | 18.00% | ~922 |
 | Yummy! | 16.00% | ~819 |
 | That Was Quick | 16.00% | ~819 |
 | Goldrush Glory Days | 15.00% | ~768 |
@@ -37,8 +37,8 @@ Number of Ratings: 63  (23.09.2022)
 | Shrub it Off | 15.00% | ~768 |
 | Collected 50 mushrooms | 14.00% | ~717 |
 | Budding Gardener | 14.00% | ~717 |
-| Stop Hitting Each Other | 13.00% | ~665 |
-| Ultimate Jerk | 13.00% | ~665 |
+| Stop Hitting Each Other | 13.00% | ~666 |
+| Ultimate Jerk | 13.00% | ~666 |
 | Hot Potato | 10.00% | ~512 |
 | Off the Beaten Path | 9.00% | ~461 |
 | It's Been a Blast | 9.00% | ~461 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,119 (Ranked 129)  
+Progressed: 5,120 (Ranked 129)  
 Completed: 27 (0.53%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 27 (0.53%) (Ranked 117)
 | 2023-06-13 | 5,113 | 27 |
 | 2023-06-14 | 5,114 | 27 |
 | 2023-06-15 | 5,119 | 27 |
+| 2023-06-16 | 5,120 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

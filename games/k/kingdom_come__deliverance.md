@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,245 |
-| Cavalier | 25.00% | ~196,972 |
-| Fatso | 23.00% | ~181,214 |
+| Blacksmith's Son | 31.00% | ~244,246 |
+| Cavalier | 25.00% | ~196,973 |
+| Fatso | 23.00% | ~181,215 |
 | Awakening | 20.00% | ~157,578 |
 | Ranger | 20.00% | ~157,578 |
 | Scrooge | 20.00% | ~157,578 |
-| Anorectic | 16.00% | ~126,062 |
-| Firestarter | 15.00% | ~118,183 |
-| Bookworm | 14.00% | ~110,304 |
-| Insomniac | 13.00% | ~102,425 |
+| Anorectic | 16.00% | ~126,063 |
+| Firestarter | 15.00% | ~118,184 |
+| Bookworm | 14.00% | ~110,305 |
+| Insomniac | 13.00% | ~102,426 |
 | Thief | 12.00% | ~94,547 |
 | Buddy | 11.00% | ~86,668 |
 | Sinner | 11.00% | ~86,668 |
@@ -25,9 +25,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | McLovin | 7.00% | ~55,152 |
 | Runt | 7.00% | ~55,152 |
 | Casanova | 6.00% | ~47,273 |
-| Bad Trip | 5.00% | ~39,394 |
-| Monk | 5.00% | ~39,394 |
-| Serial Killer | 5.00% | ~39,394 |
+| Bad Trip | 5.00% | ~39,395 |
+| Monk | 5.00% | ~39,395 |
+| Serial Killer | 5.00% | ~39,395 |
 | Bastard | 4.00% | ~31,516 |
 | Hunter | 4.00% | ~31,516 |
 | Plague Doctor | 4.00% | ~31,516 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~788 |
 | Wingman | 0.10% | ~788 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787,888 (Ranked 15)  
+Progressed: 787,891 (Ranked 15)  
 Completed: 41 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,15 +146,15 @@ Completed: 41 (0.01%) (Ranked 212)
 | 2023-06-13 | 787,519 | 40 |
 | 2023-06-14 | 787,710 | 40 |
 | 2023-06-15 | 787,861 | 41 |
-| 2023-06-16 | 787,888 | 41 |
+| 2023-06-16 | 787,891 | 41 |
 ## Awards
 Max (Character Customization): 7,249  (Ranked 45)  
-Sum: 27,065 (Ranked 43)  
+Sum: 27,066 (Ranked 43)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,249 |
-| This game has Great Boss Battles | 5,328 |
+| This game has Great Boss Battles | 5,329 |
 | This game has Challenging Combat | 1,700 |
 | This game has Amazing Storytelling | 1,659 |
 | This game is Extremely Fun | 1,633 |
@@ -310,3 +310,4 @@ Diff (max vs sum): 2
 | 2023-06-13 | 4.71 | - | 7,240 | 27,048 |
 | 2023-06-14 | 4.71 | - | 7,244 | 27,057 |
 | 2023-06-15 | 4.71 | - | 7,249 | 27,065 |
+| 2023-06-16 | 4.71 | - | 7,249 | 27,066 |

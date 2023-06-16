@@ -9,8 +9,8 @@ Rating: 4.18 (Ranked 847)
 | The Outer Way | 15.00% | ~2,306 |
 | Desperate Times | 14.00% | ~2,152 |
 | Paper Jams | 12.00% | ~1,845 |
-| Chew 'Em Up | 10.00% | ~1,537 |
-| Reforged | 10.00% | ~1,537 |
+| Chew 'Em Up | 10.00% | ~1,538 |
+| Reforged | 10.00% | ~1,538 |
 | Workplace Hazard | 9.00% | ~1,384 |
 | If the SHU Fits... | 9.00% | ~1,384 |
 | Get a Grip | 8.00% | ~1,230 |
@@ -30,8 +30,8 @@ Rating: 4.18 (Ranked 847)
 | The Commonality | 3.00% | ~461 |
 | Big Game Hunter | 3.00% | ~99 |
 | Bear Trap | 3.00% | ~99 |
-| In Striking Distance | 2.00% | ~307 |
-| Mugshot | 2.00% | ~307 |
+| In Striking Distance | 2.00% | ~308 |
+| Mugshot | 2.00% | ~308 |
 | Big Spender | 2.00% | ~66 |
 | Grim Reaper | 1.00% | ~154 |
 | Parole Denied | 1.00% | ~33 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,374 (Ranked 103)  
+Progressed: 15,375 (Ranked 103)  
 Completed: 56 (0.36%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 56 (0.36%) (Ranked 131)
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
-| 2023-06-16 | 15,374 | 56 |
+| 2023-06-16 | 15,375 | 56 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 386)  
 Sum: 314 (Ranked 329)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -1797,9 +1797,9 @@
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "PerfectGrade25",
@@ -1942,8 +1942,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:04:11.6258723+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:04:10.3007384+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:58:57.1390069+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:04:11.6259044+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:58:49.4993838+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:04:10.3007697+00:00"
 }

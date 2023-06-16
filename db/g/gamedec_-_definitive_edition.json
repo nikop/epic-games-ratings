@@ -354,9 +354,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 232071,
+  "EOS_Progressed": 232072,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1325,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6299,6 +6299,11 @@
       "Time": "2023-06-16T05:06:55.0394279+00:00",
       "NumProgressed": 232071,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-16T06:07:10.1296154+00:00",
+      "NumProgressed": 232072,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 52,
@@ -6406,7 +6411,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -6470,7 +6475,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_KACHING",
@@ -6725,7 +6730,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 232071,
+      "Progressed": 232072,
       "Completed": 6
     }
   ],
@@ -6733,8 +6738,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:06:55.0394274+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:07:10.129615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:10.0505523+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:58:29.7760339+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:55.0394909+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:58:18.8764837+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:07:10.1296785+00:00"
 }

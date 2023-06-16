@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1241,6 +1241,11 @@
       "Time": "2023-06-16T05:04:12.5110275+00:00",
       "NumProgressed": 512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T06:04:11.2422581+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1252,7 +1257,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "adventurous_2",
@@ -1348,7 +1353,7 @@
       "Name": "Collector 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "collector_2",
@@ -1442,9 +1447,9 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 21
     },
     {
       "ID": "elite_deck_2",
@@ -1636,7 +1641,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "punctual_2",
@@ -1684,7 +1689,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "soul_shards_2",
@@ -1779,14 +1784,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:04:12.5110271+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:04:11.2422574+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:57:24.6726344+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:04:12.5110808+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:57:06.1729982+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:04:11.2423147+00:00"
 }

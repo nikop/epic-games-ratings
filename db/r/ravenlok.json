@@ -2467,9 +2467,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 330
     },
     {
       "ID": "17",
@@ -2820,8 +2820,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:06:43.0226613+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:06:57.1383372+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-16T04:57:54.7575187+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:06:43.0227094+00:00"
+  "LastUpdate_Ratings": "2023-06-16T05:57:39.7650247+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:06:57.1383809+00:00"
 }

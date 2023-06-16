@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4857,9 +4857,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53279,
+  "EOS_Progressed": 53281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10582,6 +10582,11 @@
       "Time": "2023-06-16T05:07:05.9106779+00:00",
       "NumProgressed": 53279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T06:07:21.3314242+00:00",
+      "NumProgressed": 53281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10721,7 +10726,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "Great Granny",
@@ -10825,7 +10830,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19180
+      "UsersEstimate": 19181
     },
     {
       "ID": "Lawmaker",
@@ -10945,7 +10950,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9057
+      "UsersEstimate": 9058
     },
     {
       "ID": "This Is Our Land",
@@ -11000,15 +11005,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53279,
+      "Progressed": 53281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-16T02:09:31.8912693+00:00",
-  "LastChanged_Achievements": "2023-06-16T05:07:05.9106776+00:00",
+  "LastChanged_Achievements": "2023-06-16T06:07:21.3314237+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:00:21.4778876+00:00",
-  "LastUpdate_Achievements": "2023-06-16T05:07:05.9107382+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:00:24.8184012+00:00",
+  "LastUpdate_Achievements": "2023-06-16T06:07:21.3314846+00:00"
 }
