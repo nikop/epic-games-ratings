@@ -650,9 +650,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15389,
+  "EOS_Progressed": 15391,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4095,6 +4095,11 @@
       "Time": "2023-06-16T16:04:44.5765362+00:00",
       "NumProgressed": 15389,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T17:07:13.4244557+00:00",
+      "NumProgressed": 15391,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4130,7 +4135,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "DISARM_ENEMY",
@@ -4138,7 +4143,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4226,7 +4231,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4298,7 +4303,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4312,9 +4317,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1231
     },
     {
       "ID": "STORY_HANGAR",
@@ -4338,7 +4343,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4362,7 +4367,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "DISMEMBER_100",
@@ -4386,7 +4391,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4394,7 +4399,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4425,13 +4430,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15389,
+      "Progressed": 15391,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3315,
+      "Progressed": 3317,
       "Completed": 29
     }
   ],
@@ -4439,8 +4444,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-16T10:58:21.1627136+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:04:44.5765355+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:07:13.4244551+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:58:11.7626326+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:04:44.5765907+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:00:21.4088955+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:07:13.4245502+00:00"
 }

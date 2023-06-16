@@ -2,12 +2,12 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 347,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 194,
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-11-26T16:00:00+00:00",
@@ -2297,6 +2297,6 @@
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
   "LastChanged": "2023-06-16T11:01:39.2926573+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:01.9537212+00:00",
-  "LastUpdate_Ratings": "2023-06-16T16:00:58.9547118+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:05:58.2783303+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:03:41.498814+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:08:40.4046271+00:00"
 }

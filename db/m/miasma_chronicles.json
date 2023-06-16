@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1797,6 +1797,11 @@
       "Time": "2023-06-16T14:00:34.0086571+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T17:04:03.539125+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1856,7 +1861,7 @@
       "Name": "Chain Killer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1958,17 +1963,17 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 217
     },
     {
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 469
     },
     {
       "ID": "EXPERIENCED",
@@ -1992,7 +1997,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2056,15 +2061,15 @@
       "Name": "I am the law!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 274
     },
     {
       "ID": "LUMBERJACK",
@@ -2112,7 +2117,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "RECYCLER",
@@ -2128,7 +2133,7 @@
       "Name": "Ruthless",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "SAVIOR",
@@ -2192,15 +2197,15 @@
       "Name": "The meaning of Kain",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 183
     },
     {
       "ID": "WIPE_OUT",
@@ -2215,7 +2220,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 0
     }
   ],
@@ -2223,8 +2228,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:01:15.9641733+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:04:03.539124+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:58:37.1515513+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:01:15.9642371+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:00:52.543519+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:04:03.5392301+00:00"
 }

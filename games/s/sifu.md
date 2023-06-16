@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~755 |
+| Diligence as a goal | 4.00% | ~756 |
 | Project Arena | 3.00% | ~567 |
 | The Old Grandmaster | 1.00% | ~7,096 |
 | The Assault | 1.00% | ~7,096 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,586 (Ranked 17)  
+Progressed: 709,590 (Ranked 17)  
 Completed: 12,773 (1.80%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,14 +114,14 @@ Completed: 12,773 (1.80%) (Ranked 77)
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
 | 2023-06-15 | 709,521 | 12,771 |
-| 2023-06-16 | 709,586 | 12,773 |
+| 2023-06-16 | 709,590 | 12,773 |
 ## Awards
-Max (Great Boss Battles): 6,179  (Ranked 52)  
-Sum: 10,555 (Ranked 78)  
+Max (Great Boss Battles): 6,183  (Ranked 52)  
+Sum: 10,559 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,179 |
+| This game has Great Boss Battles | 6,183 |
 | This game has Diverse Characters | 531 |
 | This game has Challenging Combat | 523 |
 | This game has Quickly Understood Controls | 514 |
@@ -286,4 +286,4 @@ Diff (max vs sum): -26
 | 2023-06-13 | 4.82 | - | 6,168 | 10,527 |
 | 2023-06-14 | 4.82 | - | 6,173 | 10,535 |
 | 2023-06-15 | 4.82 | - | 6,179 | 10,549 |
-| 2023-06-16 | 4.82 | - | 6,179 | 10,555 |
+| 2023-06-16 | 4.82 | - | 6,183 | 10,559 |

@@ -1409,9 +1409,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "CosmeticCompletion1",
@@ -1465,9 +1465,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1489,9 +1489,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "GadgetCompletion1",
@@ -1513,9 +1513,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "HexlockGift",
@@ -1545,9 +1545,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "MapCompletion1",
@@ -1769,9 +1769,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -1784,8 +1784,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:06:01.6011279+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:08:44.506974+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:59:48.8782522+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:06:01.6012059+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:02:18.1840633+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:08:44.5070488+00:00"
 }

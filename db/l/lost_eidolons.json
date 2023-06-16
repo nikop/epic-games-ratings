@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -166,7 +166,7 @@
   "Tags": [],
   "EOS_Progressed": 1010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,9 +1074,9 @@
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 505
     },
     {
       "ID": "19",
@@ -1131,8 +1131,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:06:34.3361569+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:09:21.9197846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-16T16:00:08.5313036+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:06:34.3362018+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:02:41.5871275+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:09:21.9198177+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -1589,17 +1589,17 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_007",
@@ -1742,8 +1742,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:06:18.2167827+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:09:03.8685179+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:58:19.9360997+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:06:18.2168255+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:00:31.4945651+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:09:03.8685621+00:00"
 }

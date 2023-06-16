@@ -1,21 +1,21 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 413)  
+Rating: 4.59 (Ranked 412)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,702 |
-| Realm Estate | 76.00% | ~3,561 |
-| Secret Technique | 75.00% | ~3,514 |
-| Walls Cannot Stop Us | 73.00% | ~3,421 |
-| From Friends to Family | 69.00% | ~3,233 |
-| Magical Synergy | 65.00% | ~3,046 |
-| Bone Peddler | 61.00% | ~2,858 |
-| Stronger Together | 56.00% | ~2,624 |
-| Full Ascension | 55.00% | ~2,577 |
-| There Can Only Be One! | 48.00% | ~2,249 |
-| Seat of Power | 48.00% | ~2,249 |
+| A Wonderful Discovery | 79.00% | ~3,703 |
+| Realm Estate | 76.00% | ~3,562 |
+| Secret Technique | 75.00% | ~3,515 |
+| Walls Cannot Stop Us | 73.00% | ~3,422 |
+| From Friends to Family | 69.00% | ~3,234 |
+| Magical Synergy | 65.00% | ~3,047 |
+| Bone Peddler | 61.00% | ~2,859 |
+| Stronger Together | 56.00% | ~2,625 |
+| Full Ascension | 55.00% | ~2,578 |
+| There Can Only Be One! | 48.00% | ~2,250 |
+| Seat of Power | 48.00% | ~2,250 |
 | Intimidation Tactics | 45.00% | ~2,109 |
 | My Final Form | 44.00% | ~2,062 |
 | Valley of Wonders | 43.00% | ~2,015 |
@@ -28,8 +28,8 @@ Rating: 4.59 (Ranked 413)
 | The Magic That Empowers Me! | 21.00% | ~984 |
 | Preparation Is Everything | 21.00% | ~984 |
 | Arch Mage | 20.00% | ~937 |
-| God Emperor | 18.00% | ~843 |
-| Crimson Caldera | 18.00% | ~843 |
+| God Emperor | 18.00% | ~844 |
+| Crimson Caldera | 18.00% | ~844 |
 | Eternal Lord | 17.00% | ~797 |
 | The Creator | 15.00% | ~703 |
 | The Goddess of Nature | 15.00% | ~703 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 413)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,686 (Ranked 131)  
+Progressed: 4,687 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.06%) (Ranked 190)
 | 2023-06-13 | 4,615 | 3 |
 | 2023-06-14 | 4,635 | 3 |
 | 2023-06-15 | 4,678 | 3 |
-| 2023-06-16 | 4,686 | 3 |
+| 2023-06-16 | 4,687 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

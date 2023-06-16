@@ -5,8 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 13.00% | ~91 |
+| Rail Rat | 11.00% | ~77 |
 | The Mysterious Stranger | 10.00% | ~70 |
-| Rail Rat | 10.00% | ~70 |
+| Make Up For Lost Time | 10.00% | ~70 |
 | Cartographer | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
@@ -14,7 +15,6 @@
 | The Brass Boss | 10.00% | ~70 |
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
-| Make Up For Lost Time | 9.00% | ~63 |
 | The Harder They Fall | 9.00% | ~63 |
 | No, Thanks! | 9.00% | ~63 |
 | Breaking Down Barriers | 9.00% | ~63 |
@@ -23,14 +23,14 @@
 | Honest Mistake | 9.00% | ~63 |
 | Fast Learner | 9.00% | ~63 |
 | The Betrayer | 8.00% | ~56 |
+| The Man Who Shattered Time | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
 | Golem Chaser | 8.00% | ~56 |
 | Check Your Pulse | 8.00% | ~56 |
+| The Family Fortune | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
 | Street Style | 7.00% | ~49 |
-| The Man Who Shattered Time | 7.00% | ~49 |
-| The Family Fortune | 7.00% | ~49 |
 | Family Memories | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
@@ -40,13 +40,13 @@
 | Good Neighbor | 5.00% | ~35 |
 | Cultivair Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
+| Fairgrounds Explorer | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
+| Clovemary for Remembering | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |
 | Entresol Explorer | 3.00% | ~21 |
-| Fairgrounds Explorer | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |
-| Clovemary for Remembering | 2.00% | ~14 |
 | Hexlock for Protection | 2.00% | ~14 |
 | Rungs Was Right | 2.00% | ~14 |
 | Fitting In | 1.00% | ~7 |

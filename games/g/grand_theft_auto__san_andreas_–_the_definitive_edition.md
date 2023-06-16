@@ -35,7 +35,7 @@ Rating: 4.58 (Ranked 425)
 | Ain’t Nothing But a G Thing | 1.00% | ~106 |
 | Lucky Spinner | 0.90% | ~95 |
 | Chick Magnet | 0.90% | ~95 |
-| Hoopin' it Up | 0.70% | ~74 |
+| Hoopin' it Up | 0.80% | ~85 |
 | Not a Player | 0.50% | ~53 |
 | Remastered | 0.50% | ~53 |
 | ...Here we go again | 0.20% | ~21 |

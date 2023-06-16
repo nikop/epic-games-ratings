@@ -18,7 +18,7 @@ Rating: 3.86 (Ranked 924)
 | Detective | 18.00% | ~228 |
 | The Collector | 15.00% | ~190 |
 | Get your hands dirty | 9.00% | ~114 |
-| All Wheel Trouble | 6.00% | ~76 |
+| All Wheel Trouble | 7.00% | ~89 |
 | Space Forest | 6.00% | ~76 |
 | ITS crash site | 5.00% | ~63 |
 | DeDust | 4.00% | ~51 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -1692,9 +1692,9 @@
       "ID": "CollectAllWeaponsAndGear",
       "SetID": "9lj35g4",
       "Name": "Complete Redgi\u0027s Armory",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "CompleteAll",
@@ -1907,8 +1907,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:01:20.5993873+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:04:09.1844361+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:58:41.8665301+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:01:20.5994573+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:00:57.5955411+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:04:09.1844811+00:00"
 }

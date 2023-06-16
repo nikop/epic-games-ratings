@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -87,7 +87,7 @@
   "Tags": [],
   "EOS_Progressed": 637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,9 +366,9 @@
       "ID": "Clarity_of_Mind",
       "SetID": "gl7plp",
       "Name": "Clarity of Mind",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "Club_Star",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:02:08.4466651+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:04:29.4070229+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:46.8735104+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:57:53.3880497+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:02:08.4467349+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:59:59.130079+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:04:29.4070713+00:00"
 }

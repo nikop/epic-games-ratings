@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 63.00% | ~159 |
-| I like parks | 49.00% | ~124 |
+| I like parks | 50.00% | ~126 |
 | It is nice to share with friends in the city | 26.00% | ~66 |
 | Sport is good for you | 25.00% | ~63 |
 | The spiritual world... | 23.00% | ~58 |
@@ -35,12 +35,12 @@
 | Temperate urban planner | 2.00% | ~5 |
 | Anarchist Utopia | 1.00% | ~3 |
 | Archipelago builder | 1.00% | ~3 |
+| Oh, I am sad | 1.00% | ~3 |
 | Freedom to go to the mall! | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
 | Archipelago urban planner | 0.80% | ~2 |
 | I can't see the sky | 0.80% | ~2 |
 | Perfect city | 0.80% | ~2 |
-| Oh, I am sad | 0.80% | ~2 |
 | Farming Frenzy | 0.80% | ~2 |
 | Metropolurbek Plus | 0.80% | ~2 |
 | Restorer | 0.80% | ~2 |

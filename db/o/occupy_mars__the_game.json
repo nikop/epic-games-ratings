@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -150,7 +150,7 @@
   "Tags": [],
   "EOS_Progressed": 1268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2196,9 +2196,9 @@
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
       "SetID": "l546gc",
       "Name": "All Wheel Trouble",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 89
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -2485,8 +2485,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-16T13:03:21.7324195+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:04:28.450051+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:06:54.8638757+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:57:40.0557987+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:04:28.4500985+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:59:43.8662756+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:06:54.8639295+00:00"
 }

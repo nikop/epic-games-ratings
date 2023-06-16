@@ -2,9 +2,9 @@
   "ID": "bussim18",
   "Name": "Bus Simulator 18 Editor",
   "ProductSlug": "bus-sim-18",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.0469772+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:58:49.1917139+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:05:12.1769332+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:01:05.4476705+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:07:45.3126664+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Police",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:03:41.6053964+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:05:51.6885556+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:04.4304567+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:59:08.820412+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:03:41.6053997+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:01:29.235712+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:05:51.6885595+00:00"
 }

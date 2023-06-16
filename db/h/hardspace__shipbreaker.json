@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-06-15T21:03:07.5013714+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T17:05:47.4104602+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1075,7 +1080,7 @@
       "Name": "Act III Complete",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -1083,7 +1088,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1121,9 +1126,9 @@
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1139,7 +1144,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1171,7 +1176,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -1195,7 +1200,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1203,7 +1208,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1211,7 +1216,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1219,7 +1224,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1243,7 +1248,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -1274,7 +1279,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
@@ -1282,8 +1287,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:03:37.8237072+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:05:47.4104594+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:57:46.7624212+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:03:37.8237343+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:59:52.1695031+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:05:47.4105003+00:00"
 }

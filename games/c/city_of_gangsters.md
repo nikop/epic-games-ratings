@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,346 |
-| Copacetic Coordination | 16.00% | ~51,599 |
-| Fronting the Money | 14.00% | ~45,149 |
-| The Dawn of Automation | 14.00% | ~45,149 |
-| Extraordinary Logistics | 14.00% | ~45,149 |
-| Dirty Money | 13.00% | ~41,924 |
-| Family First | 13.00% | ~41,924 |
-| Cleaning House | 12.00% | ~38,699 |
-| Room in the Back | 12.00% | ~38,699 |
-| Booze Baron | 11.00% | ~35,474 |
-| Beating the Heat | 10.00% | ~32,249 |
-| Friends on the Force | 10.00% | ~32,249 |
-| Neighborhood Watch | 10.00% | ~32,249 |
-| Core Corps | 8.00% | ~25,799 |
-| Sizeable Stash | 7.00% | ~22,574 |
-| Street Fighter | 7.00% | ~22,574 |
-| Friendly Gestures | 7.00% | ~22,574 |
-| People Person | 7.00% | ~22,574 |
-| Liquor Lord | 6.00% | ~19,349 |
-| Show ‘em the Sugar | 6.00% | ~19,349 |
+| Corner Clout | 46.00% | ~148,353 |
+| Copacetic Coordination | 16.00% | ~51,601 |
+| Fronting the Money | 14.00% | ~45,151 |
+| The Dawn of Automation | 14.00% | ~45,151 |
+| Extraordinary Logistics | 14.00% | ~45,151 |
+| Dirty Money | 13.00% | ~41,926 |
+| Family First | 13.00% | ~41,926 |
+| Cleaning House | 12.00% | ~38,701 |
+| Room in the Back | 12.00% | ~38,701 |
+| Booze Baron | 11.00% | ~35,476 |
+| Beating the Heat | 10.00% | ~32,251 |
+| Friends on the Force | 10.00% | ~32,251 |
+| Neighborhood Watch | 10.00% | ~32,251 |
+| Core Corps | 8.00% | ~25,801 |
+| Sizeable Stash | 7.00% | ~22,575 |
+| Street Fighter | 7.00% | ~22,575 |
+| Friendly Gestures | 7.00% | ~22,575 |
+| People Person | 7.00% | ~22,575 |
+| Liquor Lord | 6.00% | ~19,350 |
+| Show ‘em the Sugar | 6.00% | ~19,350 |
 | Street Knowledge | 5.00% | ~16,125 |
 | Oh Captain | 5.00% | ~16,125 |
 | Branching Out | 5.00% | ~16,125 |
@@ -59,34 +59,34 @@ Rating: 4.25 (Ranked 796)
 | Full House | 1.00% | ~3,225 |
 | The Rubber Meets the Road | 1.00% | ~3,225 |
 | Cat’s Meow Clubs | 1.00% | ~3,225 |
-| Determined Deliveries | 0.90% | ~2,902 |
-| Stepping It Up | 0.90% | ~2,902 |
+| Determined Deliveries | 0.90% | ~2,903 |
+| Stepping It Up | 0.90% | ~2,903 |
 | Crossing Over | 0.80% | ~2,580 |
-| Boots in the Ground | 0.70% | ~2,257 |
-| Getting Fancy | 0.70% | ~2,257 |
+| Boots in the Ground | 0.70% | ~2,258 |
+| Getting Fancy | 0.70% | ~2,258 |
 | Homemade Hooch | 0.40% | ~1,290 |
 | Still Dreaming | 0.40% | ~1,290 |
 | High End Booze | 0.40% | ~1,290 |
 | Working on the Railroad | 0.40% | ~1,290 |
 | Social Butterfly | 0.40% | ~1,290 |
-| Bottled Up | 0.30% | ~967 |
-| Streetwise | 0.30% | ~967 |
-| In-House Maintenance | 0.30% | ~967 |
+| Bottled Up | 0.30% | ~968 |
+| Streetwise | 0.30% | ~968 |
+| In-House Maintenance | 0.30% | ~968 |
 | Dirty Work | 0.20% | ~645 |
 | Balkan Firewater | 0.20% | ~645 |
-| Windy City Win | 0.10% | ~322 |
-| Steeling Victory | 0.10% | ~322 |
-| Queen of the City | 0.10% | ~322 |
-| Vehicles to Victory | 0.10% | ~322 |
-| Putting on the Ritz | 0.10% | ~322 |
-| Bourbon Barrels | 0.10% | ~322 |
-| Tied Houses | 0.10% | ~322 |
-| Laying Low | 0.10% | ~322 |
-| No Applesauce | 0.10% | ~322 |
-| High Pillow | 0.10% | ~322 |
-| Station Master | 0.10% | ~322 |
+| Windy City Win | 0.10% | ~323 |
+| Steeling Victory | 0.10% | ~323 |
+| Queen of the City | 0.10% | ~323 |
+| Vehicles to Victory | 0.10% | ~323 |
+| Putting on the Ritz | 0.10% | ~323 |
+| Bourbon Barrels | 0.10% | ~323 |
+| Tied Houses | 0.10% | ~323 |
+| Laying Low | 0.10% | ~323 |
+| No Applesauce | 0.10% | ~323 |
+| High Pillow | 0.10% | ~323 |
+| Station Master | 0.10% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322,491 (Ranked 40)  
+Progressed: 322,507 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 5 (0.00%) (Ranked 226)
 | 2023-06-13 | 321,865 | 5 |
 | 2023-06-14 | 322,101 | 5 |
 | 2023-06-15 | 322,320 | 5 |
-| 2023-06-16 | 322,491 | 5 |
+| 2023-06-16 | 322,507 | 5 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 466)  
 Sum: 94 (Ranked 406)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2064,9 +2064,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 66897,
+  "EOS_Progressed": 66903,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8014,6 +8014,11 @@
       "Time": "2023-06-16T16:06:43.0267414+00:00",
       "NumProgressed": 66897,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T17:09:31.3918401+00:00",
+      "NumProgressed": 66903,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 37,
@@ -8025,7 +8030,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33448
+      "UsersEstimate": 33452
     },
     {
       "ID": "ACH_0011",
@@ -8033,7 +8038,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19400
+      "UsersEstimate": 19402
     },
     {
       "ID": "ACH_0012",
@@ -8041,7 +8046,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14048
+      "UsersEstimate": 14050
     },
     {
       "ID": "ACH_0013",
@@ -8169,7 +8174,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43483
+      "UsersEstimate": 43487
     },
     {
       "ID": "ACH_0210",
@@ -8177,7 +8182,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49504
+      "UsersEstimate": 49508
     },
     {
       "ID": "ACH_0211",
@@ -8193,7 +8198,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31442
+      "UsersEstimate": 31444
     },
     {
       "ID": "ACH_0300",
@@ -8233,7 +8238,7 @@
       "Name": "Geek Out",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_0400",
@@ -8241,7 +8246,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22745
+      "UsersEstimate": 22747
     },
     {
       "ID": "ACH_0420",
@@ -8249,7 +8254,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22745
+      "UsersEstimate": 22747
     },
     {
       "ID": "ACH_0430",
@@ -8257,7 +8262,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23414
+      "UsersEstimate": 23416
     },
     {
       "ID": "ACH_0431",
@@ -8273,7 +8278,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12710
+      "UsersEstimate": 12712
     },
     {
       "ID": "ACH_0450",
@@ -8281,7 +8286,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12710
+      "UsersEstimate": 12712
     },
     {
       "ID": "ACH_0451",
@@ -8320,7 +8325,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 66897,
+      "Progressed": 66903,
       "Completed": 33
     }
   ],
@@ -8328,8 +8333,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-16T16:00:24.8869279+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:06:43.0267407+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:09:31.3918392+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:25.7219377+00:00",
-  "LastUpdate_Ratings": "2023-06-16T16:00:24.8869285+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:06:43.0268117+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:03:01.6188363+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:09:31.3919588+00:00"
 }

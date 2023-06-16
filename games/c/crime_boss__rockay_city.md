@@ -5,17 +5,17 @@ Rating: 3.93 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,504 |
-| First One’s Free | 65.00% | ~43,483 |
-| Neophyte Ninja | 50.00% | ~33,448 |
-| Too Old for This | 47.00% | ~31,442 |
-| Fancy Pants | 35.00% | ~23,414 |
-| Case Closed | 34.00% | ~22,745 |
-| King of the Hill | 34.00% | ~22,745 |
-| Underworld Initiate | 29.00% | ~19,400 |
-| Roid Ranger | 21.00% | ~14,048 |
-| True Player | 19.00% | ~12,710 |
-| Off the Rocks | 19.00% | ~12,710 |
+| Downed but Not Outed | 74.00% | ~49,508 |
+| First One’s Free | 65.00% | ~43,487 |
+| Neophyte Ninja | 50.00% | ~33,452 |
+| Too Old for This | 47.00% | ~31,444 |
+| Fancy Pants | 35.00% | ~23,416 |
+| Case Closed | 34.00% | ~22,747 |
+| King of the Hill | 34.00% | ~22,747 |
+| Underworld Initiate | 29.00% | ~19,402 |
+| Roid Ranger | 21.00% | ~14,050 |
+| True Player | 19.00% | ~12,712 |
+| Off the Rocks | 19.00% | ~12,712 |
 | Raider’s Ruin | 16.00% | ~10,704 |
 | Dragonslayer | 16.00% | ~10,704 |
 | Hidden Sonata | 13.00% | ~8,697 |
@@ -40,10 +40,10 @@ Rating: 3.93 (Ranked 918)
 | Impossible Dreamer | 2.00% | ~1,338 |
 | Rockay Knight | 1.00% | ~669 |
 | Talent Scout | 1.00% | ~669 |
-| Geek Out | 0.50% | ~334 |
+| Geek Out | 0.50% | ~335 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,897 (Ranked 69)  
+Progressed: 66,903 (Ranked 69)  
 Completed: 33 (0.05%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 33 (0.05%) (Ranked 194)
 | 2023-06-13 | 66,521 | 33 |
 | 2023-06-14 | 66,666 | 33 |
 | 2023-06-15 | 66,810 | 33 |
-| 2023-06-16 | 66,897 | 33 |
+| 2023-06-16 | 66,903 | 33 |
 ## Awards
 Max (Diverse Characters): 328  (Ranked 222)  
 Sum: 1,572 (Ranked 208)  

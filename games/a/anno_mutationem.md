@@ -27,10 +27,10 @@ Rating: 4.56 (Ranked 454)
 | 1+1>2 | 8.00% | ~51 |
 | This can't be right… | 8.00% | ~51 |
 | Welcome home, 06 | 8.00% | ~51 |
+| Clarity of Mind | 7.00% | ~45 |
 | I'm walking here! | 7.00% | ~45 |
 | So Fresh and So clean clean | 7.00% | ~45 |
 | Supreme Bartender Ann | 7.00% | ~45 |
-| Clarity of Mind | 6.00% | ~38 |
 | I feel secure, contained & protected | 6.00% | ~38 |
 | Science, it works! | 6.00% | ~38 |
 | The Traveler | 6.00% | ~38 |

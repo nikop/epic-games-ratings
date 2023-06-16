@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2023-06-16T16:03:22.6066997+00:00",
       "NumProgressed": 439,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T17:05:28.2988853+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -452,7 +457,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "TROP006",
@@ -476,7 +481,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "TROP009",
@@ -492,7 +497,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TROP011",
@@ -508,7 +513,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "TROP013",
@@ -524,7 +529,7 @@
       "Name": "Never Run Around",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TROP015",
@@ -580,7 +585,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "TROP022",
@@ -596,7 +601,7 @@
       "Name": "Detox diet",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "TROP024",
@@ -620,7 +625,7 @@
       "Name": "Lullaby",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TROP027",
@@ -635,7 +640,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 3
     }
   ],
@@ -643,8 +648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-16T16:03:22.6066991+00:00",
+  "LastChanged_Achievements": "2023-06-16T17:05:28.2988849+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:14.0709355+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:59:16.9950348+00:00",
-  "LastUpdate_Achievements": "2023-06-16T16:03:22.6067227+00:00"
+  "LastUpdate_Ratings": "2023-06-16T17:01:39.8689832+00:00",
+  "LastUpdate_Achievements": "2023-06-16T17:05:28.2989101+00:00"
 }
