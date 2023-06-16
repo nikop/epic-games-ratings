@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2662,
+  "EOS_Progressed": 2663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-06-16T07:06:06.9411549+00:00",
       "NumProgressed": 2662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T08:07:08.0535902+00:00",
+      "NumProgressed": 2663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3022,7 +3027,7 @@
       "Name": "Power Outage",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_BASE_32",
@@ -3198,7 +3203,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_BASE_57",
@@ -3301,13 +3306,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 843,
+      "Progressed": 844,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2662,
+      "Progressed": 2663,
       "Completed": 0
     }
   ],
@@ -3315,8 +3320,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-13T15:59:05.0032842+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:06:06.9411542+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:07:08.0535898+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:58:38.6366245+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:06:06.941259+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:59:07.8754023+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:07:08.0536663+00:00"
 }

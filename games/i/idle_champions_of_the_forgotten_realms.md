@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,780 |
-| The Cursed Farmer | 2.00% | ~1,853 |
+| A Brief Tour of the Realms | 3.00% | ~2,782 |
+| The Cursed Farmer | 2.00% | ~1,855 |
 | Beast Intentions | 1.00% | ~927 |
 | The Ring of Regeneration | 1.00% | ~927 |
 | The Mad Wizard | 1.00% | ~927 |
-| The Court of Storms | 0.90% | ~530 |
-| Were-verpowered | 0.80% | ~741 |
-| Seeking Allies | 0.80% | ~741 |
-| Are Ya Chicken? | 0.80% | ~741 |
-| Beware the Jabberwock | 0.80% | ~471 |
+| The Court of Storms | 0.90% | ~531 |
+| Were-verpowered | 0.80% | ~742 |
+| Seeking Allies | 0.80% | ~742 |
+| Are Ya Chicken? | 0.80% | ~742 |
+| Beware the Jabberwock | 0.80% | ~472 |
 | Mad Cow Disease | 0.70% | ~649 |
 | Friendly Imps | 0.70% | ~649 |
 | A Persistent Buzzing | 0.60% | ~556 |
@@ -24,15 +24,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.60% | ~354 |
 | Checkmate | 0.50% | ~295 |
 | Vecna Out! | 0.50% | ~295 |
-| Beast Mode | 0.50% | ~463 |
-| A Mysterious Summons | 0.50% | ~463 |
-| Building Trust | 0.50% | ~463 |
-| Unearthed Evil | 0.50% | ~463 |
-| The Crumbling Temple | 0.50% | ~463 |
-| Useless Allies | 0.50% | ~463 |
-| Exploring Port Nyanzaru | 0.50% | ~463 |
-| The Contagious Curse | 0.50% | ~463 |
-| Escort to Waterdeep | 0.50% | ~463 |
+| Beast Mode | 0.50% | ~464 |
+| A Mysterious Summons | 0.50% | ~464 |
+| Building Trust | 0.50% | ~464 |
+| Unearthed Evil | 0.50% | ~464 |
+| The Crumbling Temple | 0.50% | ~464 |
+| Useless Allies | 0.50% | ~464 |
+| Exploring Port Nyanzaru | 0.50% | ~464 |
+| The Contagious Curse | 0.50% | ~464 |
+| Escort to Waterdeep | 0.50% | ~464 |
 | Quick or Quack | 0.50% | ~295 |
 | Maddening | 0.40% | ~371 |
 | Owlbear Necessities | 0.40% | ~236 |
@@ -197,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.20% | ~185 |
 | Azaka's Procession - Part 1 | 0.20% | ~185 |
 | Snakes on our Plane | 0.20% | ~118 |
-| The Soulmonger Calls | 0.20% | ~185 |
 | Azaka's Procession - Part 2 | 0.20% | ~185 |
 | The Hunt for Owl-y | 0.20% | ~185 |
 | Werewolves in the Mist | 0.20% | ~185 |
@@ -295,7 +294,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.20% | ~118 |
 | Wyllowwood | 0.20% | ~185 |
 | Displaced Anger | 0.20% | ~185 |
-| Ettercap Swarm | 0.20% | ~118 |
 | Smooth Talkers | 0.20% | ~118 |
 | Relay Race | 0.20% | ~185 |
 | An Illithid Undertaking | 0.20% | ~118 |
@@ -337,7 +335,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~118 |
 | An Awakened Axe | 0.20% | ~118 |
 | CONtagious Cold | 0.20% | ~118 |
-| Ten in Ten-Towns | 0.20% | ~118 |
 | Civilization | 0.20% | ~118 |
 | Trench Coat Run | 0.20% | ~118 |
 | The Taunting Lord | 0.20% | ~118 |
@@ -417,6 +414,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~59 |
 | The Egg of Nat's Desire | 0.10% | ~59 |
 | Fall From Grace | 0.10% | ~93 |
+| The Soulmonger Calls | 0.10% | ~93 |
 | Acererak's Puzzle | 0.10% | ~59 |
 | This Quest Stinks! | 0.10% | ~59 |
 | Form Ranks | 0.10% | ~93 |
@@ -459,6 +457,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~59 |
 | Twice More Into The Breach | 0.10% | ~93 |
 | Thrice More Into The Breach | 0.10% | ~59 |
+| Ettercap Swarm | 0.10% | ~59 |
 | Zapper Overload | 0.10% | ~59 |
 | Best Friend Search Squad! | 0.10% | ~59 |
 | When the Going Gets Tough | 0.10% | ~59 |
@@ -474,6 +473,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.10% | ~59 |
 | Mirage Arcane | 0.10% | ~59 |
 | Only Human | 0.10% | ~59 |
+| Ten in Ten-Towns | 0.10% | ~59 |
 | Lone Wolf Party | 0.10% | ~59 |
 | A Neutral Party | 0.10% | ~59 |
 | Rickety Rubble | 0.10% | ~59 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,652 (Ranked 64)  
+Progressed: 92,731 (Ranked 64)  
 Completed: 1,940 (2.09%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,940 (2.09%) (Ranked 68)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 92,652 | 1,940 |
+| 2023-06-16 | 92,731 | 1,940 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,120 (Ranked 37)  

@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,263 |
+| First Step Into the Knight | 6.00% | ~3,916 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,611 |
 | Loose Ends | 4.00% | ~2,611 |
 | To the Victor Go the Spoils | 3.00% | ~1,958 |

@@ -19,12 +19,12 @@ Rating: 4.67 (Ranked 259)
 | Fishing fanatic | 4.00% | ~20 |
 | Liar Liar | 4.00% | ~20 |
 | The cycle acknowledged | 4.00% | ~20 |
+| Queen | 4.00% | ~20 |
 | Baba Yaga | 4.00% | ~20 |
 | Extensive retelling | 3.00% | ~15 |
 | Favorite | 3.00% | ~15 |
 | The word around is... | 3.00% | ~15 |
 | Both sides | 3.00% | ~15 |
-| Queen | 3.00% | ~15 |
 | Witch's cookbook | 3.00% | ~15 |
 | Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |

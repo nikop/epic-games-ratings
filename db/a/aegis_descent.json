@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -222,6 +222,11 @@
       "Time": "2023-06-15T18:02:10.9429284+00:00",
       "NumProgressed": 386,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T08:02:00.0037862+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -273,7 +278,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -303,9 +308,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "Award_EarlyBird",
@@ -345,7 +350,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Award_HalfwayThere",
@@ -369,7 +374,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Award_HeavyMetal",
@@ -409,7 +414,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -449,7 +454,7 @@
       "Name": "Perk King",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Award_Perky",
@@ -521,7 +526,7 @@
       "Name": "Splash Damage",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Award_Stunning",
@@ -529,7 +534,7 @@
       "Name": "Shocking",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Award_SwissCheese",
@@ -584,7 +589,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 1
     }
   ],
@@ -592,8 +597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:00:33.3933521+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:02:00.0037856+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.2611684+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:58:26.6624969+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:00:33.3933982+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:58:50.029125+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:02:00.0038301+00:00"
 }

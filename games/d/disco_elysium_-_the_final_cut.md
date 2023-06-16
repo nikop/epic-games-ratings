@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,059 |
+| Goodest Of The Good Cops | 28.00% | ~34,060 |
 | Biggest Communism Builder | 24.00% | ~29,194 |
-| The World's Most Laughable Centrist | 20.00% | ~24,328 |
-| Il Coppo Del'Arte! | 18.00% | ~21,895 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,462 |
+| The World's Most Laughable Centrist | 20.00% | ~24,329 |
+| Il Coppo Del'Arte! | 18.00% | ~21,896 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,463 |
 | Hyperstellar Law Official | 15.00% | ~18,246 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,030 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,813 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,813 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,380 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,814 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,814 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,381 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,948 |
 | Unbelievably Boring **** | 8.00% | ~9,731 |
 | Enemy Of The Physical Realm | 8.00% | ~9,731 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~973 |
 | Committee of la Responsabilité | 0.80% | ~973 |
 | Venture into the HARDCORE | 0.80% | ~973 |
-| Networthy Individual | 0.70% | ~851 |
+| Networthy Individual | 0.70% | ~852 |
 | Leopard Mindset | 0.60% | ~730 |
 | Modus: Mullen | 0.30% | ~365 |
 | Palerunner | 0.30% | ~365 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,640 (Ranked 59)  
+Progressed: 121,643 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,11 +104,11 @@ Completed: 25 (0.02%) (Ranked 204)
 | 2023-06-13 | 121,431 | 25 |
 | 2023-06-14 | 121,513 | 25 |
 | 2023-06-15 | 121,622 | 25 |
-| 2023-06-16 | 121,640 | 25 |
+| 2023-06-16 | 121,643 | 25 |
 ## Awards
 Max (Character Customization): 696  (Ranked 159)  
-Sum: 1,056 (Ranked 231)  
-Diff (max vs sum): -72  
+Sum: 1,056 (Ranked 232)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 696 |

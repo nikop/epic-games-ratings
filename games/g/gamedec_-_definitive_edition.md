@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,982 |
-| Powergamer | 27.00% | ~62,661 |
-| Barely scratched the surface | 25.00% | ~58,020 |
-| Write that down | 24.00% | ~55,699 |
-| Guns, lots of guns | 12.00% | ~27,849 |
+| I will finish what you started | 28.00% | ~64,984 |
+| Powergamer | 27.00% | ~62,663 |
+| Barely scratched the surface | 25.00% | ~58,021 |
+| Write that down | 24.00% | ~55,700 |
+| Guns, lots of guns | 12.00% | ~27,850 |
 | Collector | 11.00% | ~25,529 |
-| Elementary! | 8.00% | ~18,566 |
-| Pumpkin Jack | 8.00% | ~18,566 |
-| Wake up! | 8.00% | ~18,566 |
-| It's honest work | 7.00% | ~16,245 |
-| Griever | 7.00% | ~16,245 |
+| Elementary! | 8.00% | ~18,567 |
+| Pumpkin Jack | 8.00% | ~18,567 |
+| Wake up! | 8.00% | ~18,567 |
+| It's honest work | 7.00% | ~16,246 |
+| Griever | 7.00% | ~16,246 |
 | Me smart | 6.00% | ~13,925 |
 | Good listener | 5.00% | ~11,604 |
 | Trash compactor | 5.00% | ~11,604 |
@@ -24,8 +24,8 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,283 |
 | Ka-ching! | 4.00% | ~9,283 |
 | So you like to read? | 4.00% | ~9,283 |
-| I like to sniff around | 3.00% | ~6,962 |
-| Mind reader | 3.00% | ~6,962 |
+| I like to sniff around | 3.00% | ~6,963 |
+| Mind reader | 3.00% | ~6,963 |
 | Gentleman's classic | 2.00% | ~4,642 |
 | Hoarder | 2.00% | ~4,642 |
 | Is that a rift? | 2.00% | ~4,642 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~464 |
 | Memory 5 | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,078 (Ranked 44)  
+Progressed: 232,085 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 6 (0.00%) (Ranked 225)
 | 2023-06-13 | 231,748 | 6 |
 | 2023-06-14 | 231,887 | 6 |
 | 2023-06-15 | 232,035 | 6 |
-| 2023-06-16 | 232,078 | 6 |
+| 2023-06-16 | 232,085 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 420)  

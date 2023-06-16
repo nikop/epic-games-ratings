@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~618 |
-| Space Colonization | 80.00% | ~510 |
-| Friendzone | 79.00% | ~503 |
-| Hello World | 74.00% | ~471 |
-| Tinkerer | 64.00% | ~408 |
-| Space Engineer | 63.00% | ~401 |
-| Dust to Dust | 57.00% | ~363 |
-| Across The Stars | 47.00% | ~299 |
+| Don't Panic! | 97.00% | ~619 |
+| Friendzone | 79.00% | ~504 |
+| Space Colonization | 79.00% | ~504 |
+| Hello World | 74.00% | ~472 |
+| Space Engineer | 63.00% | ~402 |
+| Tinkerer | 63.00% | ~402 |
+| Dust to Dust | 57.00% | ~364 |
+| Across The Stars | 47.00% | ~300 |
 | Crafty | 45.00% | ~287 |
-| All Seats Taken | 36.00% | ~229 |
+| All Seats Taken | 36.00% | ~230 |
 | For Science! | 32.00% | ~204 |
-| Meet the Petersons | 31.00% | ~197 |
-| Stay Cool | 28.00% | ~178 |
+| Meet the Petersons | 31.00% | ~198 |
+| Stay Cool | 28.00% | ~179 |
 | KIA | 26.00% | ~166 |
 | Mutiny in making | 23.00% | ~147 |
 | Et tu, Astrocitizen? | 19.00% | ~121 |
 | Eco-Shuttle | 18.00% | ~115 |
 | Space Explorer | 15.00% | ~96 |
-| Hands Full | 12.00% | ~76 |
+| Hands Full | 12.00% | ~77 |
 | Gold Medalist | 11.00% | ~70 |
 | Non-Fiction | 11.00% | ~70 |
 | No Man Left Behind | 9.00% | ~57 |
@@ -32,8 +32,8 @@
 | Second Life | 7.00% | ~45 |
 | Axel jump in space! | 6.00% | ~38 |
 | First of April | 6.00% | ~38 |
-| Extreme Makeover | 4.00% | ~25 |
-| The Improvinator | 4.00% | ~25 |
+| Extreme Makeover | 4.00% | ~26 |
+| The Improvinator | 4.00% | ~26 |
 | The Last Supper | 3.00% | ~19 |
 | 2018: A Soup Odyssey | 3.00% | ~19 |
 | Bovine Domain | 2.00% | ~13 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637 (Ranked 198)  
+Progressed: 638 (Ranked 198)  
 Completed: 1 (0.16%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.16%) (Ranked 158)
 | 2023-06-13 | 631 | 1 |
 | 2023-06-14 | 634 | 1 |
 | 2023-06-15 | 635 | 1 |
-| 2023-06-16 | 637 | 1 |
+| 2023-06-16 | 638 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

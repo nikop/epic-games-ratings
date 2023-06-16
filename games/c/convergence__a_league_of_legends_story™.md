@@ -31,9 +31,9 @@
 | Street Style | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
 | The Family Fortune | 7.00% | ~49 |
+| Family Memories | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
-| Family Memories | 5.00% | ~35 |
 | Sump Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |

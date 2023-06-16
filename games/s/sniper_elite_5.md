@@ -5,13 +5,13 @@ Rating: 4.52 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~906 |
+| Meeting Resistance | 31.00% | ~907 |
 | Confirming Suspicions | 25.00% | ~731 |
 | The Kraken Wakes | 21.00% | ~614 |
 | It's Starting to Crack | 18.00% | ~526 |
 | Lord of War | 16.00% | ~468 |
-| Change the Channel | 15.00% | ~438 |
-| Resourceful | 14.00% | ~409 |
+| Change the Channel | 15.00% | ~439 |
+| Resourceful | 14.00% | ~410 |
 | Taking it back | 13.00% | ~380 |
 | Target America | 12.00% | ~351 |
 | Organ Grinder | 11.00% | ~322 |
@@ -28,12 +28,12 @@ Rating: 4.52 (Ranked 516)
 | Close Quarters | 7.00% | ~205 |
 | Snake in the Grass | 7.00% | ~205 |
 | Brains of the Operation | 7.00% | ~205 |
-| Climbing the Ladder | 6.00% | ~175 |
-| No Stone Unturned | 6.00% | ~175 |
-| Fields of Glory | 6.00% | ~175 |
-| Skirmisher | 6.00% | ~175 |
-| Set Europe Ablaze | 6.00% | ~175 |
-| Die Nussknacker Sweet! | 6.00% | ~175 |
+| Climbing the Ladder | 6.00% | ~176 |
+| No Stone Unturned | 6.00% | ~176 |
+| Fields of Glory | 6.00% | ~176 |
+| Skirmisher | 6.00% | ~176 |
+| Set Europe Ablaze | 6.00% | ~176 |
+| Die Nussknacker Sweet! | 6.00% | ~176 |
 | Precision Is Key | 4.00% | ~117 |
 | Rigged to Blow | 4.00% | ~117 |
 | My Little Friend | 3.00% | ~88 |
@@ -42,13 +42,13 @@ Rating: 4.52 (Ranked 516)
 | Locomotion Commotion | 2.00% | ~58 |
 | Road Rage | 2.00% | ~58 |
 | Don't hold your breath | 2.00% | ~58 |
-| Herr Today, Gone Tomorrow | 2.00% | ~57 |
+| Herr Today, Gone Tomorrow | 2.00% | ~58 |
 | Strategist | 1.00% | ~29 |
+| Burn after reading | 1.00% | ~29 |
 | Tinkerer | 1.00% | ~29 |
 | Operation Foxley | 1.00% | ~29 |
 | Siegebreaker | 1.00% | ~29 |
 | Ghost of Falaise | 1.00% | ~29 |
-| Burn after reading | 0.90% | ~26 |
 | Last Resort | 0.90% | ~26 |
 | From Paris with Love | 0.80% | ~23 |
 | Souvenir hunter | 0.80% | ~23 |
@@ -59,7 +59,7 @@ Rating: 4.52 (Ranked 516)
 | Fight Another Day | 0.50% | ~14 |
 | Up close and personal | 0.40% | ~12 |
 | Sight Beyond Sights | 0.40% | ~12 |
-| Reich To The Point | 0.40% | ~11 |
+| Reich To The Point | 0.40% | ~12 |
 | Führerious Repetition | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 516)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,923 (Ranked 146)  
+Progressed: 2,925 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.07%) (Ranked 184)
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
-| 2023-06-16 | 2,923 | 2 |
+| 2023-06-16 | 2,925 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

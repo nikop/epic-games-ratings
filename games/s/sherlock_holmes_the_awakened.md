@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 390)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~291 |
-| Read Between The Lines | 60.00% | ~281 |
+| Read Between The Lines | 61.00% | ~286 |
 | High Profile | 55.00% | ~258 |
 | Whispers In The Dark | 54.00% | ~253 |
 | Fond Memories | 51.00% | ~239 |
@@ -21,7 +21,7 @@ Rating: 4.60 (Ranked 390)
 | Back In The Saddle | 41.00% | ~192 |
 | Land, Ho! | 41.00% | ~192 |
 | No Man Is An Island | 40.00% | ~188 |
-| At Wits' End | 38.00% | ~178 |
+| At Wits' End | 39.00% | ~183 |
 | Going Once... | 36.00% | ~169 |
 | Bookworm | 36.00% | ~169 |
 | Up In Flames | 36.00% | ~169 |

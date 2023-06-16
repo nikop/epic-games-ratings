@@ -21,8 +21,8 @@ Rating: 4.57 (Ranked 444)
 | Hope Seeker | 7.00% | ~186 |
 | A Hunk of Junk | 6.00% | ~160 |
 | Exceeding Capacity | 5.00% | ~133 |
-| Power Outage | 4.00% | ~106 |
-| Please Make it Stop! | 4.00% | ~106 |
+| Power Outage | 4.00% | ~107 |
+| Please Make it Stop! | 4.00% | ~107 |
 | Man's Best Friend | 3.00% | ~80 |
 | Sightseeing | 3.00% | ~80 |
 | Access Granted | 3.00% | ~80 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,662 (Ranked 150)  
+Progressed: 2,663 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 2,625 | 0 |
 | 2023-06-14 | 2,639 | 0 |
 | 2023-06-15 | 2,660 | 0 |
-| 2023-06-16 | 2,662 | 0 |
+| 2023-06-16 | 2,663 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

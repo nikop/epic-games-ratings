@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,042 |
-| That's a Grand Army | 8.00% | ~4,482 |
-| That is mine! | 8.00% | ~4,482 |
-| Victorious! | 8.00% | ~4,482 |
+| Until death do us apart | 9.00% | ~5,043 |
+| That's a Grand Army | 8.00% | ~4,483 |
+| That is mine! | 8.00% | ~4,483 |
+| Victorious! | 8.00% | ~4,483 |
 | Brothers in Arms | 6.00% | ~3,362 |
 | That's a Grand Navy | 6.00% | ~3,362 |
 | Seriously?! | 6.00% | ~3,362 |
-| For the Glory | 5.00% | ~2,801 |
+| For the Glory | 5.00% | ~2,802 |
 | Cold War | 4.00% | ~2,241 |
 | True Catholic | 4.00% | ~2,241 |
 | Defender of the Faith | 3.00% | ~1,681 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,026 (Ranked 76)  
+Progressed: 56,032 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,10 +418,10 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
-| 2023-06-16 | 56,026 | 0 |
+| 2023-06-16 | 56,032 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
-Sum: 44,590 (Ranked 27)  
+Sum: 44,592 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -433,7 +433,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 5,005 |
 | This game has Competitive Players | 4,861 |
 | This game has Amazing Storytelling | 4,580 |
-| This game has Amazing Characters | 4,241 |
+| This game has Amazing Characters | 4,243 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -588,4 +588,4 @@ Diff (max vs sum): 34
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
-| 2023-06-16 | 4.68 | - | 5,397 | 44,590 |
+| 2023-06-16 | 4.68 | - | 5,397 | 44,592 |

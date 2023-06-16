@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244915,
+  "EOS_Progressed": 244916,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5394,6 +5394,11 @@
       "Time": "2023-06-16T07:06:03.9710899+00:00",
       "NumProgressed": 244915,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T08:07:03.2273081+00:00",
+      "NumProgressed": 244916,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5765,14 +5770,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39186
+      "UsersEstimate": 39187
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244915,
+      "Progressed": 244916,
       "Completed": 3
     }
   ],
@@ -5780,8 +5785,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:06:03.9710892+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:07:03.2273075+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.8770125+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:59:12.9608447+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:06:03.9711633+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:59:59.0113317+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:07:03.2273794+00:00"
 }

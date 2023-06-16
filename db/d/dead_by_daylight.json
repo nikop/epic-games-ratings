@@ -6491,9 +6491,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 559982,
+  "EOS_Progressed": 560092,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29690,
+  "EOS_NewPlayers": 29691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12476,6 +12476,11 @@
       "Time": "2023-06-16T07:06:21.3854811+00:00",
       "NumProgressed": 559982,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T08:07:26.6001007+00:00",
+      "NumProgressed": 560092,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13309,9 +13314,9 @@
       "ID": "ACH_104",
       "SetID": "16jml5b",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_105",
@@ -13655,7 +13660,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ACH_151",
@@ -13703,7 +13708,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ACH_157",
@@ -13799,7 +13804,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "ACH_169",
@@ -13823,7 +13828,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ACH_172",
@@ -13895,7 +13900,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ACH_181",
@@ -14246,21 +14251,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 559982,
+      "Progressed": 560092,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 559982,
+      "Progressed": 560092,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-16T03:59:47.7696066+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:06:21.3854805+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:07:26.6001002+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T07:00:10.5212169+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:06:21.3861335+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:01:25.2517943+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:07:26.6007738+00:00"
 }

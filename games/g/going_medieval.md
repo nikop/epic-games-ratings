@@ -6,25 +6,25 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 71.00% | ~2,685 |
-| Having A Field Day | 70.00% | ~2,647 |
+| Get A Room | 71.00% | ~2,686 |
+| Having A Field Day | 70.00% | ~2,648 |
 | Reap What You Sow | 68.00% | ~2,572 |
-| The First Day | 65.00% | ~2,458 |
-| Green Thumb | 64.00% | ~2,420 |
-| Novice Researcher | 61.00% | ~2,307 |
+| The First Day | 65.00% | ~2,459 |
+| Green Thumb | 64.00% | ~2,421 |
+| Novice Researcher | 61.00% | ~2,308 |
 | Putting Food on the Table | 58.00% | ~2,194 |
-| Onward | 53.00% | ~2,004 |
-| Home Cooked Meal | 50.00% | ~1,891 |
-| The First Week | 50.00% | ~1,891 |
-| Studious Researcher | 49.00% | ~1,853 |
-| Feast or Famine | 48.00% | ~1,815 |
+| Onward | 53.00% | ~2,005 |
+| Home Cooked Meal | 50.00% | ~1,892 |
+| The First Week | 50.00% | ~1,892 |
+| Studious Researcher | 49.00% | ~1,854 |
+| Feast or Famine | 48.00% | ~1,816 |
 | Beam Me Up | 47.00% | ~1,778 |
-| Adept Researcher | 43.00% | ~1,626 |
-| Retribution | 37.00% | ~1,399 |
-| ...And Don’t Come Back! | 37.00% | ~1,399 |
+| Adept Researcher | 43.00% | ~1,627 |
+| Retribution | 37.00% | ~1,400 |
+| ...And Don’t Come Back! | 37.00% | ~1,400 |
 | Fit For A King | 36.00% | ~1,362 |
 | Luminary Researcher | 35.00% | ~1,324 |
-| Heating Up | 26.00% | ~983 |
+| Heating Up | 26.00% | ~984 |
 | Winter Is Coming | 22.00% | ~832 |
 | Winter Is Here | 19.00% | ~719 |
 | A Party Now | 17.00% | ~643 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~76 |
 | Wabbit Season | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,782 (Ranked 136)  
+Progressed: 3,783 (Ranked 136)  
 Completed: 8 (0.21%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,11 +74,11 @@ Completed: 8 (0.21%) (Ranked 152)
 | 2023-06-13 | 3,674 | 8 |
 | 2023-06-14 | 3,722 | 8 |
 | 2023-06-15 | 3,774 | 8 |
-| 2023-06-16 | 3,782 | 8 |
+| 2023-06-16 | 3,783 | 8 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
-Sum: 950 (Ranked 235)  
-Diff (max vs sum): 72  
+Sum: 950 (Ranked 236)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 120 |

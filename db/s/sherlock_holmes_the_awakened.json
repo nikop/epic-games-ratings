@@ -1453,9 +1453,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "MQ01_2",
@@ -1637,9 +1637,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 178
+      "UsersEstimate": 183
     },
     {
       "ID": "MQ08_1",
@@ -1686,8 +1686,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:04:29.6205367+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:04:50.5008567+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:57:37.1089895+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:04:29.6205674+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:57:37.088543+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:04:50.5009054+00:00"
 }

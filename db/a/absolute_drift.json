@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523457,
+  "EOS_Progressed": 1523462,
   "EOS_Completed": 623,
   "EOS_NewPlayers": 1592,
   "EOS_NewCompleters": 2,
@@ -6375,6 +6375,11 @@
       "Time": "2023-06-16T07:04:20.6409682+00:00",
       "NumProgressed": 1523457,
       "NumCompleted": 623
+    },
+    {
+      "Time": "2023-06-16T08:04:37.4263767+00:00",
+      "NumProgressed": 1523462,
+      "NumCompleted": 623
     }
   ],
   "TotalAchievements": 20,
@@ -6434,7 +6439,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137111
+      "UsersEstimate": 137112
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -6545,15 +6550,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523457,
+      "Progressed": 1523462,
       "Completed": 623
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-16T07:04:20.6409676+00:00",
+  "LastChanged_Achievements": "2023-06-16T08:04:37.4263763+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:59:58.0742376+00:00",
-  "LastUpdate_Achievements": "2023-06-16T07:04:20.6410203+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:01:06.5969422+00:00",
+  "LastUpdate_Achievements": "2023-06-16T08:04:37.4264331+00:00"
 }
