@@ -5,9 +5,9 @@
   "Ranking_Rating": 475,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 78,
+  "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55225,
+  "EOS_Progressed": 55228,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2209,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5007,6 +5007,11 @@
       "Time": "2023-06-16T02:15:51.6414669+00:00",
       "NumProgressed": 55225,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-16T03:07:13.8635827+00:00",
+      "NumProgressed": 55228,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 67,
@@ -5018,7 +5023,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17672
+      "UsersEstimate": 17673
     },
     {
       "ID": "02",
@@ -5032,9 +5037,9 @@
       "ID": "03",
       "SetID": "212770e",
       "Name": "Bright Falls\u0027 Finest",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9940
+      "UsersEstimate": 10493
     },
     {
       "ID": "04",
@@ -5058,7 +5063,7 @@
       "Name": "Park Ranger",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7179
+      "UsersEstimate": 7180
     },
     {
       "ID": "07",
@@ -5066,7 +5071,7 @@
       "Name": "Heavy Metal",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "08",
@@ -5074,7 +5079,7 @@
       "Name": "Iron Horse",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "09",
@@ -5082,7 +5087,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5522
+      "UsersEstimate": 5523
     },
     {
       "ID": "10",
@@ -5090,7 +5095,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "11",
@@ -5106,7 +5111,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "13",
@@ -5178,7 +5183,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5522
+      "UsersEstimate": 5523
     },
     {
       "ID": "22",
@@ -5186,7 +5191,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5522
+      "UsersEstimate": 5523
     },
     {
       "ID": "23",
@@ -5194,7 +5199,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "24",
@@ -5226,7 +5231,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "28",
@@ -5234,7 +5239,7 @@
       "Name": "Come One, Come All",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "29",
@@ -5266,7 +5271,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13254
+      "UsersEstimate": 13255
     },
     {
       "ID": "33",
@@ -5280,9 +5285,9 @@
       "ID": "34",
       "SetID": "212770e",
       "Name": "Energized!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 3866
     },
     {
       "ID": "35",
@@ -5290,7 +5295,7 @@
       "Name": "Let There Be Light",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "36",
@@ -5298,7 +5303,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "37",
@@ -5314,7 +5319,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "39",
@@ -5354,7 +5359,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7179
+      "UsersEstimate": 7180
     },
     {
       "ID": "44",
@@ -5418,7 +5423,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "52",
@@ -5553,21 +5558,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55225,
+      "Progressed": 55228,
       "Completed": 55
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 18693,
+      "Progressed": 18696,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:15:51.6414665+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:07:13.8635824+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:49.3400717+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:07:22.7500324+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:15:51.6415718+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:58:03.244886+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:07:13.8637208+00:00"
 }

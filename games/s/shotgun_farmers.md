@@ -29,9 +29,9 @@
 | Pyromaniac | 10.00% | ~8 |
 | Skin Of Your Teeth | 8.00% | ~10 |
 | Pork Chop Express | 8.00% | ~10 |
+| Carrocketeer | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Quit Horsin' Around | 7.00% | ~9 |
-| Carrocketeer | 7.00% | ~9 |
 | Expert Survivor | 7.00% | ~5 |
 | Quadsparagus | 7.00% | ~5 |
 | Fresh Pancake | 6.00% | ~8 |

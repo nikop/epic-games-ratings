@@ -3514,9 +3514,9 @@
       "ID": "missionsdedication",
       "SetID": "3nl4bcg",
       "Name": "Missions Dedication",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 70
     },
     {
       "ID": "movinguptheladder",
@@ -3779,8 +3779,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:15:56.5982446+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:07:19.2889832+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:07:45.3472026+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:15:56.5983506+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:58:28.7588687+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:07:19.2891604+00:00"
 }

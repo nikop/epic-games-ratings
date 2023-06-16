@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,770 |
-| The Cursed Farmer | 2.00% | ~1,847 |
-| Beast Intentions | 1.00% | ~923 |
-| The Ring of Regeneration | 1.00% | ~923 |
-| The Mad Wizard | 1.00% | ~923 |
-| The Court of Storms | 0.90% | ~527 |
+| A Brief Tour of the Realms | 3.00% | ~2,772 |
+| The Cursed Farmer | 2.00% | ~1,848 |
+| Beast Intentions | 1.00% | ~924 |
+| The Ring of Regeneration | 1.00% | ~924 |
+| The Mad Wizard | 1.00% | ~924 |
+| The Court of Storms | 0.90% | ~528 |
 | Were-verpowered | 0.80% | ~739 |
 | Seeking Allies | 0.80% | ~739 |
 | Are Ya Chicken? | 0.80% | ~739 |
 | Beware the Jabberwock | 0.80% | ~469 |
-| Mad Cow Disease | 0.70% | ~646 |
-| Friendly Imps | 0.70% | ~646 |
+| Mad Cow Disease | 0.70% | ~647 |
+| Friendly Imps | 0.70% | ~647 |
 | A Persistent Buzzing | 0.60% | ~554 |
 | Pure Energy | 0.60% | ~554 |
 | Coasting to the Finish | 0.60% | ~352 |
@@ -33,21 +33,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.50% | ~462 |
 | The Contagious Curse | 0.50% | ~462 |
 | Quick or Quack | 0.50% | ~293 |
-| Maddening | 0.40% | ~369 |
-| Owlbear Necessities | 0.40% | ~234 |
-| Best Thay Ever | 0.40% | ~234 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~234 |
-| Pin and Skewer | 0.40% | ~234 |
-| Low Initiative | 0.40% | ~369 |
-| No Time To Rest | 0.40% | ~369 |
-| The Dinner Party | 0.40% | ~369 |
-| The Death Curse | 0.40% | ~369 |
-| Running of the Saurs | 0.40% | ~369 |
-| Escort to Waterdeep | 0.40% | ~369 |
-| Waterdeep Detours | 0.40% | ~369 |
-| Underdeep Cartography | 0.40% | ~369 |
-| The Templar's Camp | 0.40% | ~369 |
-| Rescue in the Jungle | 0.40% | ~369 |
+| Maddening | 0.40% | ~370 |
+| Owlbear Necessities | 0.40% | ~235 |
+| Best Thay Ever | 0.40% | ~235 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~235 |
+| Pin and Skewer | 0.40% | ~235 |
+| Low Initiative | 0.40% | ~370 |
+| No Time To Rest | 0.40% | ~370 |
+| The Dinner Party | 0.40% | ~370 |
+| The Death Curse | 0.40% | ~370 |
+| Running of the Saurs | 0.40% | ~370 |
+| Escort to Waterdeep | 0.40% | ~370 |
+| Waterdeep Detours | 0.40% | ~370 |
+| Underdeep Cartography | 0.40% | ~370 |
+| Overdue Rendezvous | 0.40% | ~370 |
+| The Templar's Camp | 0.40% | ~370 |
+| Rescue in the Jungle | 0.40% | ~370 |
 | Pros and CONs | 0.30% | ~277 |
 | Tall Tales | 0.30% | ~176 |
 | Third Third Out | 0.30% | ~176 |
@@ -100,7 +101,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.30% | ~277 |
 | Lost in the Deep | 0.30% | ~277 |
 | Easily Distracted | 0.30% | ~277 |
-| Overdue Rendezvous | 0.30% | ~277 |
 | Witty Riposting | 0.30% | ~176 |
 | How Far Away is Thay | 0.30% | ~176 |
 | Upholding the Law | 0.20% | ~185 |
@@ -197,6 +197,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.20% | ~185 |
 | Azaka's Procession - Part 1 | 0.20% | ~185 |
 | Snakes on our Plane | 0.20% | ~117 |
+| The Soulmonger Calls | 0.20% | ~185 |
 | Azaka's Procession - Part 2 | 0.20% | ~185 |
 | The Hunt for Owl-y | 0.20% | ~185 |
 | Werewolves in the Mist | 0.20% | ~185 |
@@ -298,6 +299,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Owlbear of an Undertaking | 0.20% | ~117 |
 | Déjà Vu | 0.20% | ~117 |
 | Wait, What? | 0.20% | ~117 |
+| Ireena von Zarovich | 0.20% | ~117 |
 | Déjà Vu All Over Again | 0.20% | ~117 |
 | Into The Fire | 0.20% | ~117 |
 | A Difficult Descent | 0.20% | ~117 |
@@ -314,6 +316,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle | 0.20% | ~117 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~117 |
 | The Wandering Emporium | 0.20% | ~117 |
+| Madcap Adventures Redux | 0.20% | ~117 |
 | Tiamat's Army | 0.20% | ~117 |
 | Questlines | 0.20% | ~117 |
 | Raggadragga's Crew | 0.20% | ~117 |
@@ -409,7 +412,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~59 |
 | The Egg of Nat's Desire | 0.10% | ~59 |
 | Fall From Grace | 0.10% | ~92 |
-| The Soulmonger Calls | 0.10% | ~92 |
 | Acererak's Puzzle | 0.10% | ~59 |
 | This Quest Stinks! | 0.10% | ~59 |
 | Form Ranks | 0.10% | ~92 |
@@ -457,10 +459,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twice More Into The Breach | 0.10% | ~92 |
 | Thrice More Into The Breach | 0.10% | ~59 |
 | Ettercap Swarm | 0.10% | ~59 |
-| Ireena von Zarovich | 0.10% | ~59 |
 | Zapper Overload | 0.10% | ~59 |
 | Best Friend Search Squad! | 0.10% | ~59 |
-| Madcap Adventures Redux | 0.10% | ~59 |
 | When the Going Gets Tough | 0.10% | ~59 |
 | Show of Strength | 0.10% | ~59 |
 | Fight Dragons with Dragons | 0.10% | ~59 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,330 (Ranked 64)  
+Progressed: 92,405 (Ranked 64)  
 Completed: 1,939 (2.10%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,939 (2.10%) (Ranked 67)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 92,330 | 1,939 |
+| 2023-06-16 | 92,405 | 1,939 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,116 (Ranked 37)  

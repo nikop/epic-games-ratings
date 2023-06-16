@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 214275,
+  "EOS_Progressed": 214277,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6319,6 +6319,11 @@
       "Time": "2023-06-16T02:13:24.5699709+00:00",
       "NumProgressed": 214275,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-16T03:04:26.805578+00:00",
+      "NumProgressed": 214277,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6330,7 +6335,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40712
+      "UsersEstimate": 40713
     },
     {
       "ID": "ACH_BASE_10",
@@ -6410,7 +6415,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12856
+      "UsersEstimate": 12857
     },
     {
       "ID": "ACH_BASE_20",
@@ -6601,7 +6606,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214275,
+      "Progressed": 214277,
       "Completed": 4
     }
   ],
@@ -6609,8 +6614,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-12T11:58:35.7449378+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:13:24.5699705+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:04:26.8055775+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:08:13.3385098+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:13:24.5701105+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:59:02.4977532+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:04:26.8056955+00:00"
 }

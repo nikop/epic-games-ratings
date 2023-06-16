@@ -6,40 +6,40 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~2,437 |
-| Photographer | 74.00% | ~2,372 |
-| Valley's Helper | 71.00% | ~2,276 |
-| Constructor | 62.00% | ~1,988 |
-| Renovator | 59.00% | ~1,892 |
-| Bestest Friend | 58.00% | ~1,859 |
-| Banker | 51.00% | ~1,635 |
-| Gardener | 40.00% | ~1,282 |
-| Generous | 29.00% | ~930 |
-| Chef Cook | 24.00% | ~769 |
-| Miner | 12.00% | ~385 |
-| Duty Bound | 8.00% | ~256 |
-| Angler | 7.00% | ~224 |
-| Thorn Cleaner | 4.00% | ~128 |
+| Goofy's Investor | 76.00% | ~2,444 |
+| Photographer | 74.00% | ~2,380 |
+| Valley's Helper | 70.00% | ~2,251 |
+| Constructor | 62.00% | ~1,994 |
+| Renovator | 59.00% | ~1,897 |
+| Bestest Friend | 58.00% | ~1,865 |
+| Banker | 51.00% | ~1,640 |
+| Gardener | 40.00% | ~1,286 |
+| Generous | 29.00% | ~933 |
+| Chef Cook | 24.00% | ~772 |
+| Miner | 12.00% | ~386 |
+| Duty Bound | 8.00% | ~257 |
+| Angler | 7.00% | ~225 |
+| Thorn Cleaner | 4.00% | ~129 |
 | Chit Chatter | 3.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,206 (Ranked 142)  
-Completed: 94 (2.93%) (Ranked 51)  
+Progressed: 3,216 (Ranked 142)  
+Completed: 94 (2.92%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-13 | 1,574 | 74 |
 | 2023-06-14 | 2,540 | 86 |
 | 2023-06-15 | 3,141 | 94 |
-| 2023-06-16 | 3,206 | 94 |
+| 2023-06-16 | 3,216 | 94 |
 ## Awards
 Max (Great for Beginners): 869  (Ranked 146)  
-Sum: 7,154 (Ranked 104)  
+Sum: 7,156 (Ranked 104)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 869 |
 | This game is Relaxing | 776 |
-| This game is Highly Recommended | 764 |
+| This game is Highly Recommended | 766 |
 | This game has Amazing Characters | 760 |
 | This game has Diverse Characters | 755 |
 | This game has Amazing Storytelling | 733 |
@@ -152,3 +152,4 @@ Diff (max vs sum): 42
 | 2023-06-13 | 4.76 | - | 863 | 7,136 |
 | 2023-06-14 | 4.76 | - | 866 | 7,147 |
 | 2023-06-15 | 4.76 | - | 869 | 7,154 |
+| 2023-06-16 | 4.76 | - | 869 | 7,156 |

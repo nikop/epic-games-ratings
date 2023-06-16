@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1574,9 +1574,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65235,
+  "EOS_Progressed": 65243,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6499,6 +6499,11 @@
       "Time": "2023-06-16T02:16:01.6571564+00:00",
       "NumProgressed": 65235,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-16T03:07:25.0587421+00:00",
+      "NumProgressed": 65243,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6814,7 +6819,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "HARLEY_2",
@@ -6908,9 +6913,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1957
     },
     {
       "ID": "MYSTERY_03",
@@ -6997,13 +7002,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65235,
+      "Progressed": 65243,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35515,
+      "Progressed": 35523,
       "Completed": 2646
     }
   ],
@@ -7011,8 +7016,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-15T06:59:26.9624091+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:16:01.657156+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:07:25.0587416+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:09:34.1834023+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:16:01.6572667+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:00:37.3698984+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:07:25.0588403+00:00"
 }

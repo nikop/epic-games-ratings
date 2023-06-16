@@ -1,7 +1,7 @@
 # The Medium
 [Store](https://store.epicgames.com/en-US/p/the-medium)  
 [View Rawdata](../../db/t/the_medium.json)  
-Rating: 4.59 (Ranked 412)  
+Rating: 4.61 (Ranked 363)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -22,3 +22,4 @@ Rating: 4.59 (Ranked 412)
 | 2023-05-09 | 4.60 | 0 | 0 |
 | 2023-06-13 | 4.58 | 0 | 0 |
 | 2023-06-15 | 4.59 | 0 | 0 |
+| 2023-06-16 | 4.61 | 0 | 0 |

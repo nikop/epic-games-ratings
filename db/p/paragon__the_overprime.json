@@ -3,7 +3,7 @@
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 805,
-  "Ranking_Popularity": 198,
+  "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 224,
@@ -2560,11 +2560,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 3384,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-06-16T02:59:45.8506955+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 3389,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3384,
-  "NumberOfAwardsMax": 436,
+  "NumberOfAwards": 3389,
+  "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2589,7 +2595,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 436
+      "Count": 441
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2658,8 +2664,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-06-15T17:59:05.9878812+00:00",
+  "LastChanged": "2023-06-16T02:59:45.8506953+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.7809488+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:08:50.3956008+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:12:32.9222891+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:59:45.8506959+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:03:50.8642662+00:00"
 }

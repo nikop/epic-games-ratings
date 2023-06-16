@@ -40,9 +40,9 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~132 |
 | Eternity Can Wait | 8.00% | ~132 |
 | Do Not Pass Go… | 7.00% | ~116 |
+| Getting the Gang Back Together | 7.00% | ~116 |
 | Monster Hunter | 7.00% | ~116 |
 | Knuckle Sandwich | 7.00% | ~116 |
-| Getting the Gang Back Together | 6.00% | ~99 |
 | Healing Old Wounds | 6.00% | ~99 |
 | Who You Gonna Call? | 6.00% | ~99 |
 | This Is Sparta | 5.00% | ~82 |

@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 90.00% | ~94 |
-| Bullseye! | 86.00% | ~89 |
-| Graduation! | 81.00% | ~84 |
-| Villfir Forest | 77.00% | ~80 |
-| Right in the kisser! | 64.00% | ~67 |
-| Duscot Steamcity | 53.00% | ~55 |
+| Bullseye! | 86.00% | ~90 |
+| Graduation! | 81.00% | ~85 |
+| Villfir Forest | 77.00% | ~81 |
+| Right in the kisser! | 65.00% | ~68 |
+| Duscot Steamcity | 52.00% | ~55 |
 | The Shaman | 50.00% | ~52 |
 | The Thrower | 48.00% | ~50 |
 | The Penguin | 47.00% | ~49 |
-| The Magician | 45.00% | ~47 |
+| The Magician | 46.00% | ~48 |
 | The Tunneler | 41.00% | ~43 |
 | Level Up!! | 39.00% | ~41 |
 | The Shield | 39.00% | ~41 |
-| Kill-streak | 35.00% | ~36 |
-| The Bird | 30.00% | ~31 |
+| Kill-streak | 34.00% | ~36 |
+| The Bird | 30.00% | ~32 |
 | The Ninja | 29.00% | ~30 |
 | The Idol | 27.00% | ~28 |
 | Inferno Ruins | 27.00% | ~28 |
@@ -35,9 +35,9 @@
 | Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
 | The Assistant | 13.00% | ~14 |
-| Verse | 13.00% | ~14 |
-| The Steampunk | 12.00% | ~12 |
-| The Droid | 11.00% | ~11 |
+| Verse | 12.00% | ~13 |
+| The Steampunk | 11.00% | ~12 |
+| The Droid | 10.00% | ~10 |
 | Iron | 10.00% | ~10 |
 | Tested | 10.00% | ~10 |
 | The Bomber | 9.00% | ~9 |
@@ -78,7 +78,7 @@
 | Wu-wei | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 279)  
+Progressed: 105 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-12 | 100 | 0 |
 | 2023-06-13 | 101 | 0 |
 | 2023-06-14 | 104 | 0 |
+| 2023-06-16 | 105 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

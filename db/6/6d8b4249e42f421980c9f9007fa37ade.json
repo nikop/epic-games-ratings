@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "Epic_Champagne_1",
       "SetID": "ba1m2fc",
       "Name": "Booming Cannon Salute",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Epic_DailyTask_100",
@@ -681,8 +681,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:11:00.4568046+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:02:21.1107584+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:06:37.1376899+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:11:00.4568783+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:57:08.1420445+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:02:21.1107978+00:00"
 }

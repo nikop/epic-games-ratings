@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,368 (Ranked 102)  
+Progressed: 15,368 (Ranked 103)  
 Completed: 56 (0.36%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |

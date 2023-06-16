@@ -2,7 +2,7 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 126,
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -301,6 +301,11 @@
       "Time": "2023-06-14T11:05:52.3582064+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T03:07:28.4827507+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -326,9 +331,9 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -336,7 +341,7 @@
       "Name": "Bullseye!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -350,7 +355,7 @@
       "ID": "CLG_LEVEL_KILLSTREAK",
       "SetID": "89cjc9l",
       "Name": "Kill-streak",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -438,15 +443,15 @@
       "ID": "CLG_UNLOCK_10008",
       "SetID": "89cjc9l",
       "Name": "The Droid",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -496,7 +501,7 @@
       "Name": "The Bird",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -526,9 +531,9 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -584,13 +589,13 @@
       "Name": "Villfir Forest",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -814,9 +819,9 @@
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -888,14 +893,14 @@
       "Name": "Graduation!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -903,8 +908,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:16:05.0219414+00:00",
+  "LastChanged_Achievements": "2023-06-16T03:07:28.4827504+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:07:09.5049677+00:00",
-  "LastUpdate_Achievements": "2023-06-16T02:16:05.0220041+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:57:47.8332029+00:00",
+  "LastUpdate_Achievements": "2023-06-16T03:07:28.4828517+00:00"
 }
