@@ -10,10 +10,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Captain and Crew | 1.00% | ~223 |
 | Harvest and Home | 1.00% | ~223 |
 | Poise and Poisons | 0.90% | ~200 |
+| Suns and Soldiers | 0.70% | ~156 |
 | No Harm in Looking | 0.70% | ~156 |
 | Hands and Hammers | 0.60% | ~134 |
 | Progenitor and Protégé | 0.60% | ~134 |
-| Suns and Soldiers | 0.60% | ~134 |
 | King and Kin | 0.50% | ~111 |
 | Prequel to the Sequel | 0.50% | ~111 |
 | Truly Blessed | 0.30% | ~67 |

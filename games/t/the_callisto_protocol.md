@@ -13,13 +13,13 @@ Rating: 4.18 (Ranked 847)
 | Reforged | 10.00% | ~1,539 |
 | Workplace Hazard | 9.00% | ~1,385 |
 | If the SHU Fits... | 9.00% | ~1,385 |
-| Get a Grip | 8.00% | ~1,231 |
-| Without A Paddle | 8.00% | ~1,231 |
-| Giving Back | 7.00% | ~1,077 |
-| Terminated | 6.00% | ~923 |
-| Float Like A Butterfly | 6.00% | ~923 |
-| In the Pipe, Five by Five | 6.00% | ~923 |
-| Crash Site | 6.00% | ~923 |
+| Get a Grip | 8.00% | ~1,232 |
+| Without A Paddle | 8.00% | ~1,232 |
+| Giving Back | 7.00% | ~1,078 |
+| Terminated | 6.00% | ~924 |
+| Float Like A Butterfly | 6.00% | ~924 |
+| In the Pipe, Five by Five | 6.00% | ~924 |
+| Crash Site | 6.00% | ~924 |
 | You Need a Gun | 5.00% | ~770 |
 | Two Heads Are Better Than One | 5.00% | ~770 |
 | Power Up | 5.00% | ~770 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,391 (Ranked 104)  
-Completed: 56 (0.36%) (Ranked 132)  
+Progressed: 15,394 (Ranked 104)  
+Completed: 56 (0.36%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
-| 2023-06-16 | 15,391 | 56 |
+| 2023-06-16 | 15,394 | 56 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 387)  
 Sum: 315 (Ranked 330)  

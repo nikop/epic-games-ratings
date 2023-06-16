@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 108,
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13288,
+  "EOS_Progressed": 13290,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-06-16T15:06:19.8733415+00:00",
       "NumProgressed": 13288,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-16T19:06:04.6165483+00:00",
+      "NumProgressed": 13290,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4281,7 +4286,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "tpote_achievement_12",
@@ -4305,7 +4310,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "tpote_achievement_15",
@@ -4321,7 +4326,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "tpote_achievement_17",
@@ -4353,7 +4358,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "tpote_achievement_20",
@@ -4369,7 +4374,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "tpote_achievement_22",
@@ -4409,7 +4414,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "tpote_achievement_27",
@@ -4425,7 +4430,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "tpote_achievement_29",
@@ -4441,7 +4446,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "tpote_achievement_30",
@@ -4465,7 +4470,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "tpote_achievement_33",
@@ -4529,7 +4534,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5581
+      "UsersEstimate": 5582
     },
     {
       "ID": "tpote_achievement_40",
@@ -4561,7 +4566,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "tpote_achievement_7",
@@ -4577,7 +4582,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "tpote_achievement_9",
@@ -4585,22 +4590,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13288,
+      "Progressed": 13290,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:05:50.7330586+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:04.6165478+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:59:45.0676002+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:05:50.7331044+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:59:48.0237394+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:04.6165999+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.64 (Ranked 316)
 | Survivalist | 88.00% | ~3,786 |
 | One way ticket | 83.00% | ~3,571 |
 | Last man standing | 77.00% | ~3,313 |
-| Family guy | 75.00% | ~3,226 |
+| Family guy | 76.00% | ~3,270 |
 | Out of the Bag | 72.00% | ~3,097 |
 | The Dark Side | 67.00% | ~2,882 |
 | Duck and cover! | 63.00% | ~2,710 |

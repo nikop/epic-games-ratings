@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.63,
+  "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -183,6 +183,11 @@
       "Time": "2023-06-15T22:06:10.4421504+00:00",
       "NumProgressed": 184,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T19:06:04.8596259+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -200,17 +205,17 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "04",
@@ -250,7 +255,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "09",
@@ -264,9 +269,9 @@
       "ID": "10",
       "SetID": "6glb5g1",
       "Name": "The mountain of peril.",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "11",
@@ -313,7 +318,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 3
     }
   ],
@@ -321,8 +326,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:05:50.919127+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:04.8596254+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.4344723+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:38.2413752+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:05:50.9191353+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:42.406418+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:04.8596366+00:00"
 }

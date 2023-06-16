@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 52.00% | ~1,453 |
+| ROOKIE | 52.00% | ~1,454 |
 | EXTRA BOOST | 41.00% | ~1,146 |
 | IT MAKES BOOM! | 41.00% | ~1,146 |
-| PRO | 32.00% | ~894 |
-| PROTECTED | 30.00% | ~838 |
+| PRO | 32.00% | ~895 |
+| PROTECTED | 30.00% | ~839 |
 | A TIGER'S FEAR | 29.00% | ~811 |
 | HERE ARE SOME BARE NECESSITIES | 29.00% | ~811 |
 | AGGRESSIVE RACER | 29.00% | ~811 |
 | ACE SPEEDSTER | 22.00% | ~615 |
 | IT'S A LONG WAY TO THE TOP | 18.00% | ~503 |
-| DEFEAT OUR CHAMPION | 12.00% | ~335 |
-| MASTER | 12.00% | ~335 |
-| TRAINING HARD | 11.00% | ~307 |
-| RELEASE THE KRAKEN | 11.00% | ~307 |
-| ACE BRAWLER | 11.00% | ~307 |
-| LEGENDARY HERO | 11.00% | ~307 |
+| DEFEAT OUR CHAMPION | 12.00% | ~336 |
+| MASTER | 12.00% | ~336 |
+| TRAINING HARD | 11.00% | ~308 |
+| RELEASE THE KRAKEN | 11.00% | ~308 |
+| ACE BRAWLER | 11.00% | ~308 |
+| LEGENDARY HERO | 11.00% | ~308 |
 | THE EYE OF THE HUNTER | 10.00% | ~280 |
 | BE OUR GUEST | 9.00% | ~252 |
 | ACE DEFENDER | 9.00% | ~252 |
 | FRIENDLY | 9.00% | ~252 |
 | ACE TRICKSTER | 7.00% | ~196 |
+| PERFECTLY POISED | 4.00% | ~112 |
 | EXPERIENCED CREW | 4.00% | ~112 |
-| PERFECTLY POISED | 3.00% | ~84 |
 | FRAMED! | 3.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,795 (Ranked 148)  
-Completed: 28 (1.00%) (Ranked 96)  
+Progressed: 2,796 (Ranked 148)  
+Completed: 29 (1.04%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,4 +86,4 @@ Completed: 28 (1.00%) (Ranked 96)
 | 2023-06-13 | 2,770 | 11 |
 | 2023-06-14 | 2,783 | 15 |
 | 2023-06-15 | 2,793 | 17 |
-| 2023-06-16 | 2,795 | 28 |
+| 2023-06-16 | 2,796 | 29 |

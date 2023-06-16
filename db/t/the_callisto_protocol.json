@@ -6,7 +6,7 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
@@ -650,9 +650,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15391,
+  "EOS_Progressed": 15394,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4100,6 +4100,11 @@
       "Time": "2023-06-16T17:07:13.4244557+00:00",
       "NumProgressed": 15391,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T19:04:43.1643783+00:00",
+      "NumProgressed": 15394,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4127,7 +4132,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4215,7 +4220,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -4247,7 +4252,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4271,7 +4276,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4319,7 +4324,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "STORY_HANGAR",
@@ -4327,7 +4332,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4351,7 +4356,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STORY_TOWER",
@@ -4430,13 +4435,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15391,
+      "Progressed": 15394,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3317,
+      "Progressed": 3320,
       "Completed": 29
     }
   ],
@@ -4444,8 +4449,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-16T10:58:21.1627136+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:04:29.0090804+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:04:43.1643774+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:54.1843458+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:04:29.0091219+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:57.8584705+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:04:43.1644333+00:00"
 }

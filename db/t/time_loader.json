@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.55,
+  "EOS_Completed_Percentage": 7.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-06-16T05:06:46.5513444+00:00",
       "NumProgressed": 106,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-16T19:06:09.8146091+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -115,7 +120,7 @@
       "Name": "Soap",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "03_Cassette",
@@ -225,9 +230,9 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "17_Capacitors",
@@ -249,9 +254,9 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "20_AccessProtocol",
@@ -267,7 +272,7 @@
       "Name": "Robot Bros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -275,7 +280,7 @@
       "Name": "Out of the loop",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "23_NewDawn",
@@ -283,7 +288,7 @@
       "Name": "New Dawn",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "24_HereWeGoAgain",
@@ -299,7 +304,7 @@
       "Name": "Leave me alone",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "26_SecretEnding",
@@ -307,7 +312,7 @@
       "Name": "Secret ending",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "27_Act1",
@@ -321,7 +326,7 @@
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
       "UsersEstimate": 26
     },
@@ -329,16 +334,16 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 8
     }
   ],
@@ -346,8 +351,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:05:55.9491712+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:09.8146084+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9565261+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:55.4749305+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:05:55.9491855+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:59.141863+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:09.8146281+00:00"
 }

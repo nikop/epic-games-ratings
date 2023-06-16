@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109389,
+  "EOS_Progressed": 109390,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1199,6 +1199,11 @@
       "Time": "2023-06-16T17:09:03.9150112+00:00",
       "NumProgressed": 109389,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-16T19:06:01.4182367+00:00",
+      "NumProgressed": 109390,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1250,7 +1255,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "15",
@@ -1402,7 +1407,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25159
+      "UsersEstimate": 25160
     },
     {
       "ID": "34",
@@ -1410,7 +1415,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "35",
@@ -1481,15 +1486,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109389,
+      "Progressed": 109390,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:05:47.6126277+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:01.4182362+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:31.1358086+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:58:14.3028641+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:05:47.6126698+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:58:17.0966088+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:01.4182674+00:00"
 }

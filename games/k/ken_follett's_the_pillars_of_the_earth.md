@@ -1,30 +1,30 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 516)  
+Rating: 4.52 (Ranked 515)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,581 |
-| Man of politics | 35.00% | ~4,651 |
-| Friends of sorts | 34.00% | ~4,518 |
-| Yet another secret | 34.00% | ~4,518 |
-| Let there be darkness | 33.00% | ~4,385 |
-| End of Book One | 31.00% | ~4,119 |
+| Tattletale | 42.00% | ~5,582 |
+| Man of politics | 35.00% | ~4,652 |
+| Friends of sorts | 34.00% | ~4,519 |
+| Yet another secret | 34.00% | ~4,519 |
+| Let there be darkness | 33.00% | ~4,386 |
+| End of Book One | 31.00% | ~4,120 |
 | Garden of Eden | 25.00% | ~3,322 |
-| Wannabe knight | 24.00% | ~3,189 |
-| Full house | 24.00% | ~3,189 |
-| Help an old friend | 22.00% | ~2,923 |
+| Wannabe knight | 24.00% | ~3,190 |
+| Full house | 24.00% | ~3,190 |
+| Help an old friend | 22.00% | ~2,924 |
 | Two of us | 20.00% | ~2,658 |
 | Negotiation skills | 19.00% | ~2,525 |
 | Workers' union | 19.00% | ~2,525 |
 | End of Book Two | 18.00% | ~2,392 |
 | Everything's in order | 17.00% | ~2,259 |
-| Jack was here! | 15.00% | ~1,993 |
-| Twist of Fate | 14.00% | ~1,860 |
-| Exterminator | 14.00% | ~1,860 |
-| Whodunnit | 13.00% | ~1,727 |
+| Jack was here! | 15.00% | ~1,994 |
+| Twist of Fate | 14.00% | ~1,861 |
+| Exterminator | 14.00% | ~1,861 |
+| Whodunnit | 13.00% | ~1,728 |
 | Good midwife | 11.00% | ~1,462 |
 | Friar Tuck | 11.00% | ~1,462 |
 | First profit | 11.00% | ~1,462 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~399 |
 | Boy of mystery | 2.00% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,288 (Ranked 108)  
+Progressed: 13,290 (Ranked 108)  
 Completed: 100 (0.75%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 100 (0.75%) (Ranked 105)
 | 2023-06-13 | 13,235 | 100 |
 | 2023-06-14 | 13,257 | 100 |
 | 2023-06-15 | 13,275 | 100 |
-| 2023-06-16 | 13,288 | 100 |
+| 2023-06-16 | 13,290 | 100 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 291)  
 Sum: 188 (Ranked 361)  

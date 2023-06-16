@@ -6,8 +6,8 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,11 +135,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -660,6 +660,11 @@
       "Time": "2023-06-16T14:05:52.776782+00:00",
       "NumProgressed": 273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T19:06:05.0704509+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -671,7 +676,7 @@
       "Name": "Digger",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -711,7 +716,7 @@
       "Name": "Herbalist",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -719,7 +724,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -815,7 +820,7 @@
       "Name": "Robot Hunter",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_KILL_20",
@@ -823,7 +828,7 @@
       "Name": "Scrapper",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_KILL_50",
@@ -879,7 +884,7 @@
       "Name": "Smelter",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -909,16 +914,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 1
     }
   ],
@@ -926,8 +931,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:05:51.1110255+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:05.0704502+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.5979411+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:58:24.3555267+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:05:51.1110443+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:58:27.0531282+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:05.0704793+00:00"
 }

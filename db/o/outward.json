@@ -490,9 +490,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2927,
+  "EOS_Progressed": 2928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2650,6 +2650,11 @@
       "Time": "2023-06-16T18:03:36.2466839+00:00",
       "NumProgressed": 2927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T19:03:59.849367+00:00",
+      "NumProgressed": 2928,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2725,7 +2730,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2853,7 +2858,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2933,7 +2938,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "TheStuffOfLegends",
@@ -2981,7 +2986,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2996,15 +3001,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2927,
+      "Progressed": 2928,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:03:36.2466745+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:03:59.8493666+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:48.8411998+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:03:36.24672+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:52.4734934+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:03:59.8494126+00:00"
 }

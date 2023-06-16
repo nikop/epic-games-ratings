@@ -49,16 +49,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.40% | ~61 |
 | Feeding The People | 0.30% | ~46 |
 | Beaver Utopia | 0.30% | ~46 |
+| Harpy Utopia | 0.30% | ~46 |
 | Human Utopia | 0.30% | ~46 |
 | The Queen's Chosen | 0.30% | ~46 |
-| Harpy Utopia | 0.20% | ~31 |
 | Treasure | 0.20% | ~31 |
 | Ruins | 0.20% | ~31 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,346 (Ranked 105)  
-Completed: 34 (0.22%) (Ranked 152)  
+Progressed: 15,349 (Ranked 105)  
+Completed: 35 (0.23%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,10 +114,10 @@ Completed: 34 (0.22%) (Ranked 152)
 | 2023-06-13 | 15,303 | 34 |
 | 2023-06-14 | 15,317 | 34 |
 | 2023-06-15 | 15,329 | 34 |
-| 2023-06-16 | 15,346 | 34 |
+| 2023-06-16 | 15,349 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
-Sum: 3,043 (Ranked 153)  
+Sum: 3,044 (Ranked 153)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -125,7 +125,7 @@ Diff (max vs sum): 46
 | This game is Relaxing | 413 |
 | This game is Extremely Fun | 392 |
 | This game is Great for Beginners | 377 |
-| This game is Highly Recommended | 373 |
+| This game is Highly Recommended | 374 |
 | This game has Unique Visuals | 306 |
 | This game has Amazing Storytelling | 298 |
 | This game has Amazing Characters | 270 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 46
 | 2023-06-12 | 4.81 | - | 417 | 3,040 |
 | 2023-06-13 | 4.81 | - | 417 | 3,042 |
 | 2023-06-14 | 4.81 | - | 417 | 3,043 |
+| 2023-06-16 | 4.81 | - | 417 | 3,044 |

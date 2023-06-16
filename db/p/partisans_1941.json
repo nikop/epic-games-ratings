@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1150,6 +1150,11 @@
       "Time": "2023-06-16T16:06:38.9294024+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T19:06:18.8924368+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1241,7 +1246,7 @@
       "Name": "E1M1",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Everyone_is_here",
@@ -1343,9 +1348,9 @@
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 219
     },
     {
       "ID": "MoskitoBite",
@@ -1400,15 +1405,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:06:05.0366088+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:18.8924362+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:59:04.0139066+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:06:05.0366295+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:59:08.5862722+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:18.8924647+00:00"
 }

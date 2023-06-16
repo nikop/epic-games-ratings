@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -575,9 +575,9 @@
       "ID": "Epic_RocketCat_1",
       "SetID": "ba1m2fc",
       "Name": "Kitty of Mass Destruction",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_RustySickle_1",
@@ -607,9 +607,9 @@
       "ID": "Epic_SmallBell_1",
       "SetID": "ba1m2fc",
       "Name": "Ancient Murmur",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_SpendMoney_100000",
@@ -686,8 +686,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:00:32.333172+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:00:36.6411806+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:03.1827357+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:00:32.3332085+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:07.0561365+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:00:36.6412712+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 149,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2304,10 +2304,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3043,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-06-16T18:59:47.3340509+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3044,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3043,
+  "NumberOfAwards": 3044,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2327,7 +2333,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 373
+      "Count": 374
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2372,11 +2378,11 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15346,
-  "EOS_Completed": 34,
-  "EOS_NewPlayers": 106,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 15349,
+  "EOS_Completed": 35,
+  "EOS_NewPlayers": 108,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -5472,6 +5478,11 @@
       "Time": "2023-06-16T17:09:35.8728137+00:00",
       "NumProgressed": 15346,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-16T19:06:26.1224439+00:00",
+      "NumProgressed": 15349,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 50,
@@ -5521,9 +5532,9 @@
       "ID": "HarpyUtopia",
       "SetID": "cfbk359",
       "Name": "Harpy Utopia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "HumanUtopia",
@@ -5882,15 +5893,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15346,
-      "Completed": 34
+      "Progressed": 15349,
+      "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-06-14T21:00:06.1272525+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:06:12.0823017+00:00",
+  "LastChanged": "2023-06-16T18:59:47.3340506+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:26.1224431+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:59:44.4165526+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:06:12.0823552+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:59:47.3340514+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:26.1225089+00:00"
 }

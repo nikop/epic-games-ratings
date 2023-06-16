@@ -43,10 +43,10 @@
 | Ripe Meat Off The Bone! | 25.00% | ~19 |
 | Hovering around | 24.00% | ~18 |
 | You're not so Big anymore, Boi! | 22.00% | ~17 |
-| Your daily dose of Vitamin C. | 21.00% | ~16 |
-| I cant stand still! | 21.00% | ~16 |
-| Kleptomaniac | 21.00% | ~16 |
-| Master Butcher | 17.00% | ~13 |
+| Your daily dose of Vitamin C. | 22.00% | ~17 |
+| I cant stand still! | 22.00% | ~17 |
+| Kleptomaniac | 22.00% | ~17 |
+| Master Butcher | 18.00% | ~14 |
 | Just wing it! | 17.00% | ~13 |
 | Slimy... yet satisfying | 16.00% | ~12 |
 | Deal with it | 14.00% | ~11 |

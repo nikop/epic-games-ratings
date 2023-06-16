@@ -526,9 +526,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "35_achtung",
@@ -582,8 +582,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:04:45.6794984+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:04:59.8778448+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:47.7652013+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:57:42.4003428+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:04:45.6795237+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:57:46.2858781+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:04:59.8778745+00:00"
 }

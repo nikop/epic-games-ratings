@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 26,
@@ -6447,10 +6447,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227874,
       "NumberOfAwardsMax": 28559
+    },
+    {
+      "Time": "2023-06-16T19:00:03.1220468+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227904,
+      "NumberOfAwardsMax": 28559
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227874,
+  "NumberOfAwards": 227904,
   "NumberOfAwardsMax": 28559,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6494,7 +6500,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25880
+      "Count": 25910
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6521,9 +6527,9 @@
       "Count": 21762
     }
   ],
-  "EOS_Progressed": 561919,
+  "EOS_Progressed": 562164,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29584,
+  "EOS_NewPlayers": 29587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12561,6 +12567,11 @@
       "Time": "2023-06-16T18:06:17.9926668+00:00",
       "NumProgressed": 561919,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T19:06:32.7866213+00:00",
+      "NumProgressed": 562164,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13428,7 +13439,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "ACH_109",
@@ -13468,7 +13479,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "ACH_114",
@@ -13490,9 +13501,9 @@
       "ID": "ACH_116",
       "SetID": "16jml5b",
       "Name": "Cutting Out",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1686
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_117",
@@ -13572,7 +13583,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "ACH_130",
@@ -13588,7 +13599,7 @@
       "Name": "Operation: Survival",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_132",
@@ -13684,7 +13695,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "ACH_144",
@@ -13732,7 +13743,7 @@
       "Name": "Classy Act",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_150",
@@ -13740,7 +13751,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACH_151",
@@ -13780,7 +13791,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_156",
@@ -13788,7 +13799,7 @@
       "Name": "Resurgence",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACH_157",
@@ -13884,7 +13895,7 @@
       "Name": "Close Shave",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3935
     },
     {
       "ID": "ACH_169",
@@ -13906,9 +13917,9 @@
       "ID": "ACH_171",
       "SetID": "16jml5b",
       "Name": "Preemptive Strike",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 4495
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACH_172",
@@ -13924,7 +13935,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_174",
@@ -13980,7 +13991,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4497
     },
     {
       "ID": "ACH_181",
@@ -14020,7 +14031,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "ACH_186",
@@ -14028,7 +14039,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "ACH_187",
@@ -14196,7 +14207,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_208",
@@ -14220,7 +14231,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_211",
@@ -14244,7 +14255,7 @@
       "Name": "Chorus of Chaos",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_214",
@@ -14331,21 +14342,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 561919,
+      "Progressed": 562164,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 561919,
+      "Progressed": 562164,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-16T18:00:00.2187573+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:06:17.9926664+00:00",
+  "LastChanged": "2023-06-16T19:00:03.1220466+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:06:32.7866206+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:00:00.2187579+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:06:17.9931162+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:00:03.1220474+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:06:32.7871671+00:00"
 }

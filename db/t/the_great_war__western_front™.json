@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -1009,6 +1009,11 @@
       "Time": "2023-06-16T16:03:54.9363975+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T19:04:02.7163031+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1026,7 +1031,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 80,
       "UsersEstimate": 2
     },
@@ -1084,7 +1089,7 @@
       "Name": "Earth Shattering",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1098,9 +1103,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1115,7 +1120,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-16T18:03:38.8430637+00:00",
+  "LastChanged_Achievements": "2023-06-16T19:04:02.7163022+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:48.0016339+00:00",
-  "LastUpdate_Ratings": "2023-06-16T17:58:26.0399041+00:00",
-  "LastUpdate_Achievements": "2023-06-16T18:03:38.843077+00:00"
+  "LastUpdate_Ratings": "2023-06-16T18:58:28.7011684+00:00",
+  "LastUpdate_Achievements": "2023-06-16T19:04:02.7163369+00:00"
 }
