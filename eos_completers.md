@@ -40,7 +40,7 @@
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
+| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.52% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
@@ -59,16 +59,16 @@
 | 57 | [Lamentum](games/l/lamentum.md) | 2.72% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.50% |
 | 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
 | 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 64 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
+| 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
+| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
 | 65 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 69 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
 | 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.92% |
 | 72 | [Iron Danger](games/i/iron_danger.md) | 1.91% |
@@ -94,7 +94,7 @@
 | 91 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 93 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 94 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
-| 95 | [Sable](games/s/sable.md) | 0.95% |
+| 95 | [Sable](games/s/sable.md) | 0.94% |
 | 96 | [Hades](games/h/hades.md) | 0.89% |
 | 97 | [Adios](games/a/adios.md) | 0.87% |
 | 98 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
