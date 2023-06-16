@@ -2,9 +2,9 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T13:09:07.8727926+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -62,9 +67,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BearPistol",
@@ -102,9 +107,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 200,
+      "Percentage": 150,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -118,17 +123,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BroomPistol",
@@ -150,9 +155,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Drunkard",
@@ -174,7 +179,7 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -198,25 +203,25 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HastrmanRum",
@@ -294,7 +299,7 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -310,7 +315,7 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -320,7 +325,7 @@
       "Name": "Debt Free",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RogueKing",
@@ -399,13 +404,13 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-16T12:03:13.2590592+00:00",
+  "LastChanged_Achievements": "2023-06-16T13:09:07.872792+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:57:06.3872766+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:03:13.2591028+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:02:51.402098+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:09:07.8728291+00:00"
 }

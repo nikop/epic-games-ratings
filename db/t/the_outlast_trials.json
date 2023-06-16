@@ -4,10 +4,10 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 276,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -598,11 +598,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 314,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-16T13:06:14.3481035+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 314,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 322,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -615,7 +621,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game is Extremely Fun",
@@ -633,7 +639,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Characters",
@@ -672,8 +678,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-06-16T10:02:00.8857254+00:00",
+  "LastChanged": "2023-06-16T13:06:14.3481034+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:07.2482811+00:00",
-  "LastUpdate_Ratings": "2023-06-16T12:00:22.2425775+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:05:26.6087861+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:06:14.3481042+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:11:27.4339092+00:00"
 }

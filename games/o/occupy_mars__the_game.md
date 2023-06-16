@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.82 (Ranked 929)  
+Rating: 3.86 (Ranked 924)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,9 +33,9 @@ Rating: 3.82 (Ranked 929)
 | 5G Network | 0.60% | ~8 |
 | Bull’s eye | 0.60% | ~8 |
 | Caveman | 0.60% | ~8 |
+| Rover Mechanic | 0.50% | ~6 |
 | Planetary Defence | 0.40% | ~5 |
 | Korolev crater | 0.40% | ~5 |
-| Rover Mechanic | 0.40% | ~5 |
 | Hot Repairs | 0.20% | ~3 |
 | Never Ending Story? | 0.20% | ~3 |
 | One does not simply... | 0.20% | ~3 |
@@ -118,3 +118,4 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-12 | 3.83 | 0 | 0 |
 | 2023-06-13 | 3.85 | 0 | 0 |
 | 2023-06-14 | 3.82 | 0 | 0 |
+| 2023-06-16 | 3.86 | 0 | 0 |

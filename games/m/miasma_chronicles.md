@@ -5,39 +5,39 @@ Rating: 4.31 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,036 |
-| Ranidaphobia | 76.00% | ~866 |
-| Aspiring Editor | 73.00% | ~831 |
-| Gun for Hire | 68.00% | ~775 |
-| I am the law! | 60.00% | ~683 |
-| Lumberjack | 47.00% | ~535 |
-| Croaked | 43.00% | ~490 |
-| Limp Richard | 42.00% | ~478 |
-| From Darkness to Light | 42.00% | ~478 |
+| First Blood | 91.00% | ~1,038 |
+| Ranidaphobia | 76.00% | ~867 |
+| Aspiring Editor | 73.00% | ~833 |
+| Gun for Hire | 68.00% | ~776 |
+| I am the law! | 60.00% | ~685 |
+| Lumberjack | 47.00% | ~536 |
+| Croaked | 43.00% | ~491 |
+| Limp Richard | 42.00% | ~479 |
+| From Darkness to Light | 42.00% | ~479 |
 | Editor Adept | 40.00% | ~456 |
 | Exorcist | 40.00% | ~456 |
-| Firestarter | 38.00% | ~433 |
-| Giant Killer | 37.00% | ~421 |
-| Sensei | 36.00% | ~410 |
-| The meaning of Kain | 34.00% | ~387 |
-| Technophobe | 31.00% | ~353 |
-| Recycler | 29.00% | ~330 |
-| Are you not entertained? | 26.00% | ~296 |
+| Firestarter | 38.00% | ~434 |
+| Giant Killer | 37.00% | ~422 |
+| Sensei | 36.00% | ~411 |
+| The meaning of Kain | 34.00% | ~388 |
+| Technophobe | 31.00% | ~354 |
+| Recycler | 30.00% | ~342 |
+| Are you not entertained? | 26.00% | ~297 |
 | Ganglord | 25.00% | ~285 |
 | Jarhead | 25.00% | ~285 |
-| Infiltrator | 24.00% | ~273 |
-| Pushing Daisy | 24.00% | ~273 |
+| Infiltrator | 24.00% | ~274 |
+| Pushing Daisy | 24.00% | ~274 |
 | Experienced | 22.00% | ~251 |
-| There Can Be Only One! | 21.00% | ~239 |
+| There Can Be Only One! | 21.00% | ~240 |
 | Chain Killer | 20.00% | ~228 |
-| Hold The Line | 19.00% | ~216 |
+| Hold The Line | 19.00% | ~217 |
 | Endgame | 18.00% | ~205 |
 | Savior | 18.00% | ~205 |
 | The Watchers | 15.00% | ~171 |
-| Newtonian Knockout | 14.00% | ~159 |
+| Newtonian Knockout | 14.00% | ~160 |
 | Ruthless | 13.00% | ~148 |
-| Chaos Theory | 11.00% | ~125 |
-| Dr Jones | 11.00% | ~125 |
+| Chaos Theory | 11.00% | ~126 |
+| Dr Jones | 11.00% | ~126 |
 | Commando | 10.00% | ~114 |
 | Chain Reaction | 8.00% | ~91 |
 | Curveball | 7.00% | ~80 |
@@ -57,7 +57,7 @@ Rating: 4.31 (Ranked 763)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,139 (Ranked 174)  
+Progressed: 1,141 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 1,118 | 0 |
 | 2023-06-14 | 1,127 | 0 |
 | 2023-06-15 | 1,138 | 0 |
-| 2023-06-16 | 1,139 | 0 |
+| 2023-06-16 | 1,141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

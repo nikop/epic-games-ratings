@@ -12,12 +12,12 @@
 | AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~62 |
 | Not so hip anymore! | 82.00% | ~62 |
 | Nerd | 82.00% | ~62 |
-| Blurry depth perception | 78.00% | ~59 |
+| Blurry depth perception | 79.00% | ~60 |
 | Up and down | 75.00% | ~57 |
-| Rolling, Rolling, Rolling | 71.00% | ~54 |
-| Fire-fighter! | 67.00% | ~51 |
-| Oh, you're up to no gouda! | 63.00% | ~48 |
-| Make Love not War-Craft a Mistlefoe | 62.00% | ~47 |
+| Rolling, Rolling, Rolling | 72.00% | ~55 |
+| Fire-fighter! | 68.00% | ~52 |
+| Oh, you're up to no gouda! | 64.00% | ~49 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~48 |
 | Meat grinder | 62.00% | ~47 |
 | You're not going to blow me up! | 57.00% | ~43 |
 | Mushroom soup of the day | 54.00% | ~41 |

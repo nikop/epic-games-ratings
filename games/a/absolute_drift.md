@@ -19,15 +19,15 @@ Number of Ratings: 216  (23.09.2022)
 | Hoon Airlines | 1.00% | ~15,235 |
 | Midnight Master | 1.00% | ~15,235 |
 | Spin Doctor | 1.00% | ~15,235 |
-| Sake Bombs | 0.90% | ~13,711 |
-| Insane Skills | 0.70% | ~10,664 |
+| Sake Bombs | 0.90% | ~13,712 |
+| Insane Skills | 0.70% | ~10,665 |
 | Drift Line Master | 0.60% | ~9,141 |
-| Bacon Donuts | 0.50% | ~7,617 |
-| Double Rainbow | 0.50% | ~7,617 |
-| Washing Machine | 0.30% | ~4,570 |
-| The Completionist | 0.10% | ~1,523 |
+| Bacon Donuts | 0.50% | ~7,618 |
+| Double Rainbow | 0.50% | ~7,618 |
+| Washing Machine | 0.30% | ~4,571 |
+| The Completionist | 0.10% | ~1,524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,523,495 (Ranked 6)  
+Progressed: 1,523,505 (Ranked 6)  
 Completed: 623 (0.04%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 623 (0.04%) (Ranked 196)
 | 2023-06-13 | 1,522,966 | 621 |
 | 2023-06-14 | 1,523,180 | 621 |
 | 2023-06-15 | 1,523,400 | 623 |
-| 2023-06-16 | 1,523,495 | 623 |
+| 2023-06-16 | 1,523,505 | 623 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

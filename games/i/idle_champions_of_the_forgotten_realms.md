@@ -6,53 +6,54 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,721 |
-| The Cursed Farmer | 2.00% | ~1,861 |
-| Beast Intentions | 1.00% | ~930 |
-| The Ring of Regeneration | 1.00% | ~930 |
-| The Mad Wizard | 1.00% | ~930 |
-| The Court of Storms | 0.90% | ~534 |
-| Were-verpowered | 0.80% | ~744 |
-| Seeking Allies | 0.80% | ~744 |
-| Are Ya Chicken? | 0.80% | ~744 |
-| Beware the Jabberwock | 0.80% | ~474 |
-| Mad Cow Disease | 0.70% | ~651 |
-| Friendly Imps | 0.70% | ~651 |
-| A Persistent Buzzing | 0.60% | ~558 |
-| Terror in the Dark | 0.60% | ~558 |
-| Pure Energy | 0.60% | ~558 |
-| Coasting to the Finish | 0.60% | ~356 |
-| Maddening | 0.50% | ~465 |
+| A Brief Tour of the Realms | 4.00% | ~3,726 |
+| The Cursed Farmer | 2.00% | ~1,863 |
+| Beast Intentions | 1.00% | ~932 |
+| The Ring of Regeneration | 1.00% | ~932 |
+| The Mad Wizard | 1.00% | ~932 |
+| Are Ya Chicken? | 0.90% | ~838 |
+| The Court of Storms | 0.90% | ~535 |
+| Were-verpowered | 0.80% | ~745 |
+| Seeking Allies | 0.80% | ~745 |
+| Beware the Jabberwock | 0.80% | ~475 |
+| Mad Cow Disease | 0.70% | ~652 |
+| Friendly Imps | 0.70% | ~652 |
+| A Persistent Buzzing | 0.60% | ~559 |
+| Terror in the Dark | 0.60% | ~559 |
+| The Crumbling Temple | 0.60% | ~559 |
+| Pure Energy | 0.60% | ~559 |
+| Coasting to the Finish | 0.60% | ~357 |
+| Maddening | 0.50% | ~466 |
 | Checkmate | 0.50% | ~297 |
 | Vecna Out! | 0.50% | ~297 |
-| Beast Mode | 0.50% | ~465 |
-| A Mysterious Summons | 0.50% | ~465 |
-| Building Trust | 0.50% | ~465 |
-| Unearthed Evil | 0.50% | ~465 |
-| The Crumbling Temple | 0.50% | ~465 |
-| Useless Allies | 0.50% | ~465 |
-| Exploring Port Nyanzaru | 0.50% | ~465 |
-| The Contagious Curse | 0.50% | ~465 |
-| Escort to Waterdeep | 0.50% | ~465 |
+| Beast Mode | 0.50% | ~466 |
+| A Mysterious Summons | 0.50% | ~466 |
+| Building Trust | 0.50% | ~466 |
+| Unearthed Evil | 0.50% | ~466 |
+| Useless Allies | 0.50% | ~466 |
+| Exploring Port Nyanzaru | 0.50% | ~466 |
+| The Contagious Curse | 0.50% | ~466 |
+| Escort to Waterdeep | 0.50% | ~466 |
 | Quick or Quack | 0.50% | ~297 |
-| Owlbear Necessities | 0.40% | ~237 |
-| Best Thay Ever | 0.40% | ~237 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~237 |
-| Pin and Skewer | 0.40% | ~237 |
-| Low Initiative | 0.40% | ~372 |
-| No Time To Rest | 0.40% | ~372 |
-| The Dinner Party | 0.40% | ~372 |
-| The Death Curse | 0.40% | ~372 |
-| Running of the Saurs | 0.40% | ~372 |
-| Waterdeep Detours | 0.40% | ~372 |
-| Underdeep Cartography | 0.40% | ~372 |
-| Overdue Rendezvous | 0.40% | ~372 |
-| The Templar's Camp | 0.40% | ~372 |
-| Rescue in the Jungle | 0.40% | ~372 |
+| Owlbear Necessities | 0.40% | ~238 |
+| Best Thay Ever | 0.40% | ~238 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~238 |
+| Pin and Skewer | 0.40% | ~238 |
+| Low Initiative | 0.40% | ~373 |
+| No Time To Rest | 0.40% | ~373 |
+| The Dinner Party | 0.40% | ~373 |
+| The Death Curse | 0.40% | ~373 |
+| Running of the Saurs | 0.40% | ~373 |
+| Waterdeep Detours | 0.40% | ~373 |
+| Underdeep Cartography | 0.40% | ~373 |
+| Overdue Rendezvous | 0.40% | ~373 |
+| The Templar's Camp | 0.40% | ~373 |
+| Rescue in the Jungle | 0.40% | ~373 |
 | Pros and CONs | 0.30% | ~279 |
 | Tall Tales | 0.30% | ~178 |
 | Third Third Out | 0.30% | ~178 |
 | The Silken Swamp | 0.30% | ~279 |
+| Wet Feet | 0.30% | ~279 |
 | Supply Run | 0.30% | ~279 |
 | Keep Your Distance | 0.30% | ~178 |
 | Hands Off! | 0.30% | ~178 |
@@ -140,7 +141,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~119 |
 | Zarak's Revenge | 0.20% | ~119 |
 | Bully for You! | 0.20% | ~119 |
-| Wet Feet | 0.20% | ~186 |
 | Hatchlings Underfoot | 0.20% | ~186 |
 | Don't Look Up! | 0.20% | ~186 |
 | Will of the Feywild | 0.20% | ~119 |
@@ -213,6 +213,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.20% | ~119 |
 | Haaave You Met Asmodeus? | 0.20% | ~186 |
 | Domesticated Owlbears | 0.20% | ~186 |
+| This Quest Stinks! | 0.20% | ~119 |
 | Hold for the Red Wizards | 0.20% | ~186 |
 | The Wyrmheart Mine | 0.20% | ~186 |
 | Only the Strong Survive | 0.20% | ~186 |
@@ -296,6 +297,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.20% | ~119 |
 | Wyllowwood | 0.20% | ~186 |
 | Displaced Anger | 0.20% | ~186 |
+| Ettercap Swarm | 0.20% | ~119 |
 | Smooth Talkers | 0.20% | ~119 |
 | Relay Race | 0.20% | ~186 |
 | An Illithid Undertaking | 0.20% | ~119 |
@@ -417,7 +419,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~59 |
 | Fall From Grace | 0.10% | ~93 |
 | Acererak's Puzzle | 0.10% | ~59 |
-| This Quest Stinks! | 0.10% | ~59 |
 | Form Ranks | 0.10% | ~93 |
 | Drop of Time | 0.10% | ~59 |
 | They Who Smelt It | 0.10% | ~93 |
@@ -457,7 +458,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~59 |
 | Twice More Into The Breach | 0.10% | ~93 |
 | Thrice More Into The Breach | 0.10% | ~59 |
-| Ettercap Swarm | 0.10% | ~59 |
 | Zapper Overload | 0.10% | ~59 |
 | Best Friend Search Squad! | 0.10% | ~59 |
 | When the Going Gets Tough | 0.10% | ~59 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,032 (Ranked 64)  
-Completed: 1,941 (2.09%) (Ranked 68)  
+Progressed: 93,158 (Ranked 64)  
+Completed: 1,942 (2.08%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,10 +557,10 @@ Completed: 1,941 (2.09%) (Ranked 68)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 93,032 | 1,941 |
+| 2023-06-16 | 93,158 | 1,942 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
-Sum: 30,120 (Ranked 37)  
+Sum: 30,123 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -570,7 +570,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,514 |
 | This game is Highly Recommended | 3,960 |
 | This game has Amazing Characters | 3,959 |
-| This game has Playful Visuals | 3,251 |
+| This game has Playful Visuals | 3,254 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -715,4 +715,4 @@ Diff (max vs sum): 27
 | 2023-06-13 | 4.06 | - | 4,937 | 30,095 |
 | 2023-06-14 | 4.06 | - | 4,941 | 30,110 |
 | 2023-06-15 | 4.06 | - | 4,943 | 30,116 |
-| 2023-06-16 | 4.06 | - | 4,943 | 30,120 |
+| 2023-06-16 | 4.06 | - | 4,943 | 30,123 |

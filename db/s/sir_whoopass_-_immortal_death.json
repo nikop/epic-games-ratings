@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CHEESE_3",
@@ -548,9 +548,9 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DODGE_2",
@@ -636,9 +636,9 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FLAPPY_KNIGHT_1",
@@ -916,9 +916,9 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "OUTHOUSE_1",
@@ -956,9 +956,9 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WEAPON_1",
@@ -1003,8 +1003,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-16T12:06:02.7821545+00:00",
+  "LastChanged_Achievements": "2023-06-16T13:12:03.0786665+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7227783+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:57:21.8954382+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:06:02.7822573+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:03:07.8169588+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:12:03.078762+00:00"
 }

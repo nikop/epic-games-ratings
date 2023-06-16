@@ -22,12 +22,12 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.50% | ~28 |
 | Amy | 0.40% | ~22 |
 | Smooth Operator: Ashley | 0.40% | ~22 |
+| Stephanie | 0.40% | ~22 |
+| The Muse: Madison | 0.40% | ~22 |
 | Amy: Scavenger Hunt | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
 | Casanova | 0.30% | ~17 |
 | It Smells Like Roses | 0.30% | ~8 |
-| Stephanie | 0.30% | ~17 |
-| The Muse: Madison | 0.30% | ~17 |
 | The Crush | 0.30% | ~17 |
 | The Magic Number | 0.30% | ~17 |
 | Vickie | 0.30% | ~17 |

@@ -6,7 +6,7 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 9.00% | ~66 |
+| Dealmaker | 10.00% | ~74 |
 | Full garage | 9.00% | ~66 |
 | Individual delivery | 7.00% | ~52 |
 | Juggler | 7.00% | ~52 |
@@ -17,14 +17,14 @@ Number of Ratings: 87  (23.09.2022)
 | Common cause | 5.00% | ~37 |
 | Get out my way | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
-| Builder | 4.00% | ~29 |
-| Critical care | 4.00% | ~29 |
-| Just in time! | 4.00% | ~29 |
-| Multilevel road | 4.00% | ~29 |
-| Need to think | 4.00% | ~29 |
+| Builder | 4.00% | ~30 |
+| Critical care | 4.00% | ~30 |
+| Just in time! | 4.00% | ~30 |
+| Multilevel road | 4.00% | ~30 |
+| Need to think | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~3 |
-| The Tortoise | 4.00% | ~29 |
-| Upgrade complete | 4.00% | ~29 |
+| The Tortoise | 4.00% | ~30 |
+| Upgrade complete | 4.00% | ~30 |
 | Bridgemania | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | One way | 3.00% | ~22 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737 (Ranked 191)  
+Progressed: 738 (Ranked 191)  
 Completed: 1 (0.14%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 1 (0.14%) (Ranked 167)
 | 2023-06-12 | 735 | 1 |
 | 2023-06-14 | 736 | 1 |
 | 2023-06-15 | 737 | 1 |
+| 2023-06-16 | 738 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 363)  
 Sum: 72 (Ranked 423)  

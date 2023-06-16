@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 87.00% | ~90 |
-| The Routine | 79.00% | ~81 |
-| Mother | 77.00% | ~79 |
-| Failure | 75.00% | ~77 |
-| Replace Fuse | 67.00% | ~69 |
-| Alarm | 65.00% | ~67 |
-| Air Filtration | 64.00% | ~66 |
+| Last Goodbye | 88.00% | ~92 |
+| The Routine | 78.00% | ~81 |
+| Mother | 76.00% | ~79 |
+| Failure | 74.00% | ~77 |
+| Replace Fuse | 66.00% | ~69 |
+| Alarm | 64.00% | ~67 |
+| Air Filtration | 63.00% | ~66 |
 | Broken | 62.00% | ~64 |
 | Radiation | 60.00% | ~62 |
 | Descent | 59.00% | ~61 |
@@ -18,23 +18,23 @@
 | Cold Storage | 57.00% | ~59 |
 | Sam | 52.00% | ~54 |
 | Churchill | 51.00% | ~53 |
-| Doctor | 50.00% | ~52 |
-| Leave | 49.00% | ~50 |
-| Engineer | 49.00% | ~50 |
-| Commissioner | 48.00% | ~49 |
-| Soldier | 48.00% | ~49 |
+| Doctor | 49.00% | ~51 |
+| Leave | 48.00% | ~50 |
+| Engineer | 48.00% | ~50 |
+| Commissioner | 47.00% | ~49 |
+| Soldier | 47.00% | ~49 |
 | Press Play | 37.00% | ~38 |
 | General | 24.00% | ~25 |
-| Bookworm | 22.00% | ~23 |
-| Stay | 15.00% | ~15 |
-| Floppy Disk Finder | 14.00% | ~14 |
+| Bookworm | 23.00% | ~24 |
+| Stay | 14.00% | ~15 |
+| Floppy Disk Finder | 13.00% | ~14 |
 | Nurse | 12.00% | ~12 |
 | No Page Unturned | 5.00% | ~5 |
 | Friends | 5.00% | ~5 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 280)  
-Completed: 3 (2.91%) (Ranked 53)  
+Progressed: 104 (Ranked 280)  
+Completed: 3 (2.88%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 3 (2.91%) (Ranked 53)
 | 2023-06-12 | 101 | 3 |
 | 2023-06-13 | 102 | 3 |
 | 2023-06-15 | 103 | 3 |
+| 2023-06-16 | 104 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

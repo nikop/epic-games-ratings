@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523495,
+  "EOS_Progressed": 1523505,
   "EOS_Completed": 623,
-  "EOS_NewPlayers": 1595,
+  "EOS_NewPlayers": 1596,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6400,6 +6400,11 @@
       "Time": "2023-06-16T12:04:08.6930971+00:00",
       "NumProgressed": 1523495,
       "NumCompleted": 623
+    },
+    {
+      "Time": "2023-06-16T13:10:05.0437412+00:00",
+      "NumProgressed": 1523505,
+      "NumCompleted": 623
     }
   ],
   "TotalAchievements": 20,
@@ -6411,7 +6416,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7617
+      "UsersEstimate": 7618
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -6435,7 +6440,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7617
+      "UsersEstimate": 7618
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -6475,7 +6480,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10664
+      "UsersEstimate": 10665
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -6531,7 +6536,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13711
+      "UsersEstimate": 13712
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -6547,7 +6552,7 @@
       "Name": "The Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
@@ -6563,22 +6568,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523495,
+      "Progressed": 1523505,
       "Completed": 623
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-16T12:04:08.6930963+00:00",
+  "LastChanged_Achievements": "2023-06-16T13:10:05.0437407+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:59:55.3024404+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:04:08.6931589+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:05:46.2942036+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:10:05.0437898+00:00"
 }

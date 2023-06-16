@@ -720,9 +720,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -921,8 +921,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-16T12:05:43.7368076+00:00",
+  "LastChanged_Achievements": "2023-06-16T13:11:44.5355832+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.5979411+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:58:32.3452929+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:05:43.7368352+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:04:18.1726099+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:11:44.5356084+00:00"
 }

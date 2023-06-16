@@ -1,10 +1,10 @@
 # Predecessor
 [Store](https://store.epicgames.com/en-US/p/predecessor)  
 [View Rawdata](../../db/p/predecessor.json)  
-Rating: 4.44 (Ranked 632)  
+Rating: 4.44 (Ranked 633)  
 ## Awards
 Max (Diverse Characters): 114  (Ranked 314)  
-Sum: 750 (Ranked 258)  
+Sum: 753 (Ranked 258)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 56
 | This game has a Competitive Community | 78 |
 | This game has Competitive Players | 78 |
 | This game is Extremely Fun | 75 |
+| This game has Quickly Understood Controls | 71 |
 | This game has Amazing Storytelling | 71 |
-| This game has Quickly Understood Controls | 68 |
 | This game has Beautiful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -131,4 +131,4 @@ Diff (max vs sum): 56
 | 2023-06-13 | 4.44 | 114 | 735 |
 | 2023-06-14 | 4.44 | 114 | 746 |
 | 2023-06-15 | 4.44 | 114 | 748 |
-| 2023-06-16 | 4.44 | 114 | 750 |
+| 2023-06-16 | 4.44 | 114 | 753 |

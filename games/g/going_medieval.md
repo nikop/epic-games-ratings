@@ -21,8 +21,8 @@ Number of Ratings: 706  (23.09.2022)
 | Beam Me Up | 47.00% | ~1,780 |
 | Adept Researcher | 43.00% | ~1,628 |
 | Retribution | 37.00% | ~1,401 |
+| Fit For A King | 37.00% | ~1,401 |
 | ...And Don’t Come Back! | 37.00% | ~1,401 |
-| Fit For A King | 36.00% | ~1,363 |
 | Luminary Researcher | 35.00% | ~1,325 |
 | Heating Up | 26.00% | ~985 |
 | Winter Is Coming | 22.00% | ~833 |

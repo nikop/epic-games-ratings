@@ -6,35 +6,35 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~2,494 |
-| Photographer | 74.00% | ~2,429 |
-| Valley's Helper | 71.00% | ~2,330 |
-| Constructor | 62.00% | ~2,035 |
-| Renovator | 59.00% | ~1,936 |
-| Bestest Friend | 58.00% | ~1,904 |
-| Banker | 51.00% | ~1,674 |
-| Gardener | 39.00% | ~1,280 |
-| Generous | 29.00% | ~952 |
-| Chef Cook | 24.00% | ~788 |
-| Miner | 12.00% | ~394 |
+| Goofy's Investor | 76.00% | ~2,503 |
+| Photographer | 74.00% | ~2,437 |
+| Valley's Helper | 70.00% | ~2,305 |
+| Constructor | 62.00% | ~2,042 |
+| Renovator | 59.00% | ~1,943 |
+| Bestest Friend | 58.00% | ~1,910 |
+| Banker | 50.00% | ~1,646 |
+| Gardener | 39.00% | ~1,284 |
+| Generous | 29.00% | ~955 |
+| Chef Cook | 23.00% | ~757 |
+| Miner | 12.00% | ~395 |
 | Duty Bound | 8.00% | ~263 |
-| Angler | 7.00% | ~230 |
-| Thorn Cleaner | 4.00% | ~131 |
-| Chit Chatter | 3.00% | ~98 |
+| Angler | 7.00% | ~231 |
+| Thorn Cleaner | 4.00% | ~132 |
+| Chit Chatter | 3.00% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,282 (Ranked 141)  
-Completed: 95 (2.89%) (Ranked 54)  
+Progressed: 3,293 (Ranked 140)  
+Completed: 95 (2.88%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-13 | 1,574 | 74 |
 | 2023-06-14 | 2,540 | 86 |
 | 2023-06-15 | 3,141 | 94 |
-| 2023-06-16 | 3,282 | 95 |
+| 2023-06-16 | 3,293 | 95 |
 ## Awards
 Max (Great for Beginners): 869  (Ranked 147)  
-Sum: 7,156 (Ranked 104)  
-Diff (max vs sum): 43  
+Sum: 7,157 (Ranked 103)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 869 |
@@ -44,7 +44,7 @@ Diff (max vs sum): 43
 | This game has Diverse Characters | 755 |
 | This game has Amazing Storytelling | 733 |
 | This game has Quickly Understood Controls | 718 |
-| This game is Extremely Fun | 712 |
+| This game is Extremely Fun | 713 |
 | This game has a Creative Community | 594 |
 | This game has Easy Combat | 473 |
 | This game has Obsessive Gameplay | 415 |
@@ -152,4 +152,4 @@ Diff (max vs sum): 43
 | 2023-06-13 | 4.76 | - | 863 | 7,136 |
 | 2023-06-14 | 4.76 | - | 866 | 7,147 |
 | 2023-06-15 | 4.76 | - | 869 | 7,154 |
-| 2023-06-16 | 4.76 | - | 869 | 7,156 |
+| 2023-06-16 | 4.76 | - | 869 | 7,157 |

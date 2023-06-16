@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 212,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-06-16T12:05:57.4838396+00:00",
       "NumProgressed": 210,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-16T13:11:57.7086621+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -287,7 +292,7 @@
       "Name": "Big Fish",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -351,7 +356,7 @@
       "Name": "Found the Healer",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -389,9 +394,9 @@
       "ID": "ACH_RINGFIRE",
       "SetID": "ao59f0i",
       "Name": "Ring of Fire!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ROOSTEREAT",
@@ -399,7 +404,7 @@
       "Name": "Tastes Like Chicken",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SHARD_1",
@@ -407,7 +412,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_SHARD_2",
@@ -421,9 +426,9 @@
       "ID": "ACH_SHARD_3",
       "SetID": "ao59f0i",
       "Name": "Third Shard",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SHARD_4",
@@ -439,7 +444,7 @@
       "Name": "Fifth Shard",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TROLL",
@@ -470,7 +475,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 212,
       "Completed": 4
     }
   ],
@@ -478,8 +483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-16T12:05:57.4838389+00:00",
+  "LastChanged_Achievements": "2023-06-16T13:11:57.7086616+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.445644+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:59:54.1723765+00:00",
-  "LastUpdate_Achievements": "2023-06-16T12:05:57.4838592+00:00"
+  "LastUpdate_Ratings": "2023-06-16T13:05:44.5566125+00:00",
+  "LastUpdate_Achievements": "2023-06-16T13:11:57.7086796+00:00"
 }
