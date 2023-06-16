@@ -51,18 +51,18 @@
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 52 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.91% |
 | 52 | [The Bunker](games/t/the_bunker.md) | 2.91% |
+| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.90% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 57 | [Lamentum](games/l/lamentum.md) | 2.72% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 59 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.56% |
-| 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 61 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
-| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
-| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.50% |
+| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
+| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
+| 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 65 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -104,8 +104,8 @@
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 103 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 104 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.74% |
-| 105 | [Haven](games/h/haven.md) | 0.71% |
-| 106 | [Them and Us](games/t/them_and_us.md) | 0.70% |
+| 105 | [Haven](games/h/haven.md) | 0.70% |
+| 105 | [Them and Us](games/t/them_and_us.md) | 0.70% |
 | 107 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
 | 107 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 109 | [Train Valley](games/t/train_valley.md) | 0.67% |
@@ -456,4 +456,4 @@
 | 225 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 225 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 225 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,793 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,794 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
