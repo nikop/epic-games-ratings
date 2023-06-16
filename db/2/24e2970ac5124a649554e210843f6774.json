@@ -257,9 +257,9 @@
       "ID": "defeat_level_7",
       "SetID": "7k8abkg",
       "Name": "Ep7: Danger! The Brain\u0027s Deadly Assault",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "defeat_level_8",
@@ -511,8 +511,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:03:25.5174338+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:02:30.3379063+00:00",
   "LastUpdate_AppInfo": "2023-06-13T14:56:55.1825956+00:00",
-  "LastUpdate_Ratings": "2023-06-16T19:57:10.0227513+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:03:25.5174795+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:56:58.2171178+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:02:30.3379646+00:00"
 }

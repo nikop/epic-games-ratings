@@ -6,18 +6,18 @@ Rating: 4.51 (Ranked 530)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 31.00% | ~916 |
-| Confirming Suspicions | 25.00% | ~738 |
+| Confirming Suspicions | 26.00% | ~768 |
 | The Kraken Wakes | 21.00% | ~620 |
 | It's Starting to Crack | 18.00% | ~532 |
 | Lord of War | 16.00% | ~473 |
 | Change the Channel | 16.00% | ~473 |
 | Resourceful | 14.00% | ~414 |
 | Taking it back | 13.00% | ~384 |
+| Organ Grinder | 12.00% | ~354 |
 | Target America | 12.00% | ~354 |
-| Organ Grinder | 11.00% | ~325 |
 | As Quiet as a Mouse | 11.00% | ~325 |
+| Liberté | 10.00% | ~295 |
 | The Kraken Sleeps | 10.00% | ~295 |
-| Liberté | 9.00% | ~266 |
 | Just a Flesh Wound | 9.00% | ~266 |
 | Gunslinger | 9.00% | ~266 |
 | Sharpshooter | 9.00% | ~266 |

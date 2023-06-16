@@ -9,8 +9,8 @@ Rating: 4.56 (Ranked 454)
 | Infinite Growth... | 15.00% | ~400 |
 | Sputnik 2049 | 15.00% | ~400 |
 | Without Breaking Some Eggs... | 14.00% | ~373 |
-| Space Society | 10.00% | ~266 |
-| Ready for a New World | 10.00% | ~266 |
+| Space Society | 10.00% | ~267 |
+| Ready for a New World | 10.00% | ~267 |
 | A Thousand Strong | 9.00% | ~240 |
 | Permanent Redesigns | 8.00% | ~213 |
 | Ain't Nobody Got Time for That | 8.00% | ~213 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 454)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,665 (Ranked 150)  
+Progressed: 2,666 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 2,625 | 0 |
 | 2023-06-14 | 2,639 | 0 |
 | 2023-06-15 | 2,660 | 0 |
-| 2023-06-16 | 2,665 | 0 |
+| 2023-06-16 | 2,666 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

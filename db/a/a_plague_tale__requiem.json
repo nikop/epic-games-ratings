@@ -316,7 +316,7 @@
   ],
   "EOS_Progressed": 11659,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3926,9 +3926,9 @@
       "ID": "ACH_12",
       "SetID": "9d4cf4c",
       "Name": "The Life We Deserve",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 5013
+      "UsersEstimate": 5130
     },
     {
       "ID": "ACH_13",
@@ -4127,8 +4127,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-10T14:59:47.6383734+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:06:44.6092825+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:05:27.2954756+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:47.7124102+00:00",
-  "LastUpdate_Ratings": "2023-06-16T19:59:52.229452+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:06:44.6093303+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:59:05.5320464+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:05:27.2955232+00:00"
 }

@@ -278,9 +278,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_defeat_players_10",
@@ -406,9 +406,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -581,8 +581,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:03:32.7039841+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:02:36.0822512+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.3955715+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:00:58.439559+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:03:32.7040122+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:59:58.8853994+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:02:36.0822808+00:00"
 }

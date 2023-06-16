@@ -20,8 +20,8 @@
 | Silver Competitor | 15.00% | ~15 |
 | Brothers in Arms | 13.00% | ~13 |
 | Factory Expansion | 13.00% | ~13 |
-| Captain | 10.00% | ~10 |
-| Exterminator | 8.00% | ~8 |
+| Captain | 11.00% | ~11 |
+| Exterminator | 9.00% | ~9 |
 | Moving On Up | 8.00% | ~8 |
 | Silver Achiever | 5.00% | ~5 |
 | Advanced Warfare | 5.00% | ~5 |

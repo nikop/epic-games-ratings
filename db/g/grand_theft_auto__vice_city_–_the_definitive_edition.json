@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -436,11 +436,11 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 8558,
-  "EOS_Completed": 33,
-  "EOS_NewPlayers": 487,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Progressed": 8562,
+  "EOS_Completed": 34,
+  "EOS_NewPlayers": 485,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -4786,6 +4786,11 @@
       "Time": "2023-06-16T20:02:12.0461268+00:00",
       "NumProgressed": 8558,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T21:00:34.9553749+00:00",
+      "NumProgressed": 8562,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 34,
@@ -4813,7 +4818,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH04",
@@ -4869,7 +4874,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH11",
@@ -4901,7 +4906,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3425
     },
     {
       "ID": "ACH15",
@@ -4957,7 +4962,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ACH22",
@@ -4965,7 +4970,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH23",
@@ -4973,7 +4978,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH24",
@@ -4997,7 +5002,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH27",
@@ -5013,7 +5018,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH29",
@@ -5068,16 +5073,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8558,
-      "Completed": 33
+      "Progressed": 8562,
+      "Completed": 34
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-16T17:00:48.627515+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:02:12.0461248+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:00:34.9553744+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-16T19:58:35.792463+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:02:12.0461746+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:58:05.7416935+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:00:34.9554257+00:00"
 }

@@ -6,17 +6,18 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 100.00% | ~5 |
 | Rascal | 80.00% | ~4 |
+| Champollion | 80.00% | ~4 |
+| Scholar | 80.00% | ~4 |
 | Welcome to the Tower | 80.00% | ~4 |
+| Cable guy | 60.00% | ~3 |
 | The Preacher's fate | 60.00% | ~3 |
-| Champollion | 60.00% | ~3 |
-| Scholar | 60.00% | ~3 |
 | The great escape | 60.00% | ~3 |
-| Cable guy | 40.00% | ~2 |
+| A new dawn | 60.00% | ~3 |
+| The darkness | 60.00% | ~3 |
+| One last step | 60.00% | ~3 |
 | A good beginning | 40.00% | ~2 |
 | Feels like springtime | 40.00% | ~2 |
-| A new dawn | 40.00% | ~2 |
-| The darkness | 40.00% | ~2 |
-| One last step | 40.00% | ~2 |
+| True G4M3R | 40.00% | ~2 |
 | I did it | 20.00% | ~1 |
 | In this together | 20.00% | ~1 |
 | Peace walker | 20.00% | ~1 |
@@ -27,7 +28,6 @@
 | For its own good | 20.00% | ~1 |
 | A Link to the Past | 20.00% | ~1 |
 | Alchemists Express | 20.00% | ~1 |
-| True G4M3R | 20.00% | ~1 |
 | Fashion victim | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 395)  

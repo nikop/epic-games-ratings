@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4377,
+  "EOS_Progressed": 4378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3434,6 +3434,11 @@
       "Time": "2023-06-16T16:03:56.1337867+00:00",
       "NumProgressed": 4377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T21:03:17.7677266+00:00",
+      "NumProgressed": 4378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3445,7 +3450,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3461,7 +3466,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3485,7 +3490,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3685,7 +3690,7 @@
       "Name": "Rod and Troll",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -3701,7 +3706,7 @@
       "Name": "Trollsporet Tale Teller",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -3724,13 +3729,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4377,
+      "Progressed": 4378,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3749,
+      "Progressed": 3750,
       "Completed": 112
     }
   ],
@@ -3738,8 +3743,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:04:00.5681606+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:03:17.767726+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:00:18.3422729+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:04:00.5682218+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:59:26.5552735+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:03:17.7677719+00:00"
 }

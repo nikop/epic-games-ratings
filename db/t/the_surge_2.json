@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1790,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1326,6 +1326,11 @@
       "Time": "2023-06-16T14:06:15.5799308+00:00",
       "NumProgressed": 1790,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-16T21:05:37.053694+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1513,7 +1518,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHV_24",
@@ -1529,7 +1534,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_26",
@@ -1537,7 +1542,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACHV_27",
@@ -1609,7 +1614,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACHV_36",
@@ -1617,7 +1622,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHV_37",
@@ -1641,7 +1646,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACHV_40",
@@ -1657,7 +1662,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHV_42",
@@ -1792,7 +1797,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1790,
+      "Progressed": 1791,
       "Completed": 10
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-11T19:00:01.1883541+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:06:54.8947425+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:05:37.0536935+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:00:59.0792631+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:06:54.8948002+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:59:59.368553+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:05:37.0537511+00:00"
 }

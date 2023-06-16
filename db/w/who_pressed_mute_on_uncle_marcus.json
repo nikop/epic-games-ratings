@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -310,17 +310,17 @@
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "delusions",
@@ -374,9 +374,9 @@
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "sorry_kiddo",
@@ -390,9 +390,9 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "the_whole_truth",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:06:36.1365075+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:05:20.1851086+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:35.7189509+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:00:37.3586139+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:06:36.1365214+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:59:41.0738273+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:05:20.1851205+00:00"
 }

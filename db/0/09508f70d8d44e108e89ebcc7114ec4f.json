@@ -2,7 +2,7 @@
   "ID": "09508f70d8d44e108e89ebcc7114ec4f",
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 123,
@@ -874,9 +874,9 @@
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "tavern",
@@ -929,8 +929,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-16T20:04:01.3639961+00:00",
+  "LastChanged_Achievements": "2023-06-16T21:03:18.5109394+00:00",
   "LastUpdate_AppInfo": "2023-06-15T13:06:19.3611159+00:00",
-  "LastUpdate_Ratings": "2023-06-16T19:57:18.9788673+00:00",
-  "LastUpdate_Achievements": "2023-06-16T20:04:01.3640161+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:57:04.6261845+00:00",
+  "LastUpdate_Achievements": "2023-06-16T21:03:18.5109613+00:00"
 }
