@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,614 |
-| Leader | 61.00% | ~3,964 |
-| Explorer | 53.00% | ~3,444 |
-| Healer | 53.00% | ~3,444 |
+| First Step | 71.00% | ~4,615 |
+| Leader | 61.00% | ~3,965 |
+| Explorer | 53.00% | ~3,445 |
+| Healer | 53.00% | ~3,445 |
 | Aspiring Inventor | 44.00% | ~2,860 |
 | Adventurer | 41.00% | ~2,665 |
 | Famous Healer | 38.00% | ~2,470 |
@@ -59,14 +59,14 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Adventurer | 1.00% | ~65 |
 | A Closer Look | 1.00% | ~65 |
 | True Survivor | 1.00% | ~65 |
-| Slimy yet Satisfying | 0.90% | ~58 |
-| Feng Shui | 0.90% | ~58 |
-| Finnished | 0.30% | ~19 |
+| Slimy yet Satisfying | 0.90% | ~59 |
+| Feng Shui | 0.90% | ~59 |
+| Finnished | 0.30% | ~20 |
 | Choo-choo! | 0.20% | ~13 |
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,499 (Ranked 125)  
+Progressed: 6,500 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 6,435 | 0 |
 | 2023-06-14 | 6,449 | 0 |
 | 2023-06-15 | 6,480 | 0 |
-| 2023-06-16 | 6,499 | 0 |
+| 2023-06-16 | 6,500 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 665 (Ranked 270)  

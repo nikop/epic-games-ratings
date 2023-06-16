@@ -47,7 +47,7 @@
 | I cant stand still! | 22.00% | ~17 |
 | Kleptomaniac | 22.00% | ~17 |
 | Master Butcher | 18.00% | ~14 |
-| Just wing it! | 17.00% | ~13 |
+| Just wing it! | 18.00% | ~14 |
 | Slimy... yet satisfying | 16.00% | ~12 |
 | Deal with it | 14.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~10 |

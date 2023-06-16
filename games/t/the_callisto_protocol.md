@@ -9,10 +9,10 @@ Rating: 4.18 (Ranked 847)
 | The Outer Way | 15.00% | ~2,309 |
 | Desperate Times | 14.00% | ~2,155 |
 | Paper Jams | 12.00% | ~1,847 |
-| Chew 'Em Up | 10.00% | ~1,539 |
-| Reforged | 10.00% | ~1,539 |
-| Workplace Hazard | 9.00% | ~1,385 |
-| If the SHU Fits... | 9.00% | ~1,385 |
+| Chew 'Em Up | 10.00% | ~1,540 |
+| Reforged | 10.00% | ~1,540 |
+| Workplace Hazard | 9.00% | ~1,386 |
+| If the SHU Fits... | 9.00% | ~1,386 |
 | Get a Grip | 8.00% | ~1,232 |
 | Without A Paddle | 8.00% | ~1,232 |
 | Giving Back | 7.00% | ~1,078 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,394 (Ranked 104)  
+Progressed: 15,395 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 56 (0.36%) (Ranked 131)
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
-| 2023-06-16 | 15,394 | 56 |
+| 2023-06-16 | 15,395 | 56 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 387)  
 Sum: 315 (Ranked 330)  

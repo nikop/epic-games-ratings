@@ -1,24 +1,24 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 475)  
+Rating: 4.55 (Ranked 474)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,549 |
-| First Steps | 81.00% | ~28,349 |
-| Control the Shadows | 68.00% | ~23,799 |
-| Tools of the Trade | 63.00% | ~22,049 |
-| Apprentice | 60.00% | ~20,999 |
-| Secret Seeker | 57.00% | ~19,949 |
-| Forge of Assassins | 56.00% | ~19,599 |
-| Revenant | 52.00% | ~18,199 |
-| I don’t Care! | 45.00% | ~15,750 |
-| Bird of Prey | 37.00% | ~12,950 |
-| Engraved with Power | 32.00% | ~11,200 |
-| Lady | 30.00% | ~10,500 |
-| Fashionable Assassin | 27.00% | ~9,450 |
+| Awakening | 93.00% | ~32,552 |
+| First Steps | 81.00% | ~28,352 |
+| Control the Shadows | 68.00% | ~23,801 |
+| Tools of the Trade | 63.00% | ~22,051 |
+| Apprentice | 60.00% | ~21,001 |
+| Secret Seeker | 57.00% | ~19,951 |
+| Forge of Assassins | 56.00% | ~19,601 |
+| Revenant | 52.00% | ~18,201 |
+| I don’t Care! | 45.00% | ~15,751 |
+| Bird of Prey | 37.00% | ~12,951 |
+| Engraved with Power | 32.00% | ~11,201 |
+| Lady | 30.00% | ~10,501 |
+| Fashionable Assassin | 27.00% | ~9,451 |
 | Apex Predator | 24.00% | ~8,400 |
 | Soul Reaver | 22.00% | ~7,700 |
 | Embers | 21.00% | ~7,350 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~350 |
 | Anger Management | 1.00% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,999 (Ranked 86)  
+Progressed: 35,002 (Ranked 86)  
 Completed: 173 (0.49%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 173 (0.49%) (Ranked 121)
 | 2023-06-13 | 34,794 | 173 |
 | 2023-06-14 | 34,861 | 173 |
 | 2023-06-15 | 34,945 | 173 |
-| 2023-06-16 | 34,999 | 173 |
+| 2023-06-16 | 35,002 | 173 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

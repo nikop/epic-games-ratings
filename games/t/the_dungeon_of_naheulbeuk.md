@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 97.00% | ~96 |
-| Where's that freaking Dwarf? | 91.00% | ~90 |
-| Sock! SOCK! | 78.00% | ~77 |
-| Fireproof Wizardess | 64.00% | ~63 |
-| Livin' in a dwarven paradise | 61.00% | ~60 |
-| Déjà vu | 58.00% | ~57 |
-| DM intervention | 54.00% | ~53 |
-| GG EZ | 53.00% | ~52 |
-| Way of the Wimp | 52.00% | ~51 |
-| Speedrun | 46.00% | ~46 |
+| Alt+F4 | 97.00% | ~97 |
+| Where's that freaking Dwarf? | 90.00% | ~90 |
+| Sock! SOCK! | 77.00% | ~77 |
+| Fireproof Wizardess | 63.00% | ~63 |
+| Livin' in a dwarven paradise | 60.00% | ~60 |
+| Déjà vu | 57.00% | ~57 |
+| GG EZ | 53.00% | ~53 |
+| DM intervention | 53.00% | ~53 |
+| Way of the Wimp | 51.00% | ~51 |
+| Speedrun | 47.00% | ~47 |
 | Oh, when I'll be level 10... | 45.00% | ~45 |
 | I am the night | 40.00% | ~40 |
 | A beer, two curses, three companions | 38.00% | ~38 |
@@ -46,8 +46,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~14 |
 | Dead for good | 14.00% | ~14 |
 | The Dungeon Master | 13.00% | ~13 |
+| He’s alive! Aliiiive! | 13.00% | ~13 |
 | Scholar of the Lands of Fangh | 12.00% | ~12 |
-| He’s alive! Aliiiive! | 12.00% | ~12 |
 | It's been a hard day's night | 11.00% | ~11 |
 | An old poacher makes the best gamekeeper | 9.00% | ~9 |
 | Lëgal Legend | 9.00% | ~9 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 284)  
+Progressed: 100 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 82 | 0 |
 | 2023-06-14 | 87 | 0 |
 | 2023-06-15 | 96 | 0 |
-| 2023-06-16 | 99 | 0 |
+| 2023-06-16 | 100 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 434)  

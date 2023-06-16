@@ -53,8 +53,8 @@
 | Thinking Two Steps Ahead | 0.90% | ~6 |
 | Wunderkind | 0.90% | ~6 |
 | Wildlife Protection | 0.40% | ~3 |
+| A Lesson in Precision | 0.40% | ~3 |
 | Going to Live Forever | 0.30% | ~2 |
-| A Lesson in Precision | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 | Raw Talent | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

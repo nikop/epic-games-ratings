@@ -1590,9 +1590,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -1789,8 +1789,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:05:48.2970165+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:08.7248155+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:16.7406475+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:05:48.2970666+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:59:52.1534051+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:08.7248686+00:00"
 }

@@ -19,9 +19,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 58.00% | ~7,011 |
 | Oracle | 57.00% | ~6,890 |
 | Good | 56.00% | ~6,769 |
+| Judaism | 55.00% | ~6,648 |
 | Just | 54.00% | ~6,528 |
 | Keystone | 54.00% | ~6,528 |
-| Judaism | 54.00% | ~6,528 |
 | Glorious | 52.00% | ~6,286 |
 | Trade Caravan | 52.00% | ~6,286 |
 | Naming Landmarks | 50.00% | ~6,044 |

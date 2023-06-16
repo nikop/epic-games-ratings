@@ -2378,9 +2378,9 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 15349,
+  "EOS_Progressed": 15350,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -5483,6 +5483,11 @@
       "Time": "2023-06-16T19:06:26.1224439+00:00",
       "NumProgressed": 15349,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-16T20:06:53.4053286+00:00",
+      "NumProgressed": 15350,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 50,
@@ -5494,7 +5499,7 @@
       "Name": "Serving Ale",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AllFood",
@@ -5566,7 +5571,7 @@
       "Name": "Refinery",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Win5Years",
@@ -5598,7 +5603,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearArmory",
@@ -5630,7 +5635,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearCrystals",
@@ -5638,7 +5643,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearDangerous",
@@ -5646,7 +5651,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearFertile",
@@ -5678,7 +5683,7 @@
       "Name": "Haunted Forest",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearLevitating",
@@ -5686,7 +5691,7 @@
       "Name": "Levitating Monument",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearMines",
@@ -5694,7 +5699,7 @@
       "Name": "Flooded Mines",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearMonastery",
@@ -5702,7 +5707,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearOutpost",
@@ -5710,7 +5715,7 @@
       "Name": "Royal Outpost",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearRuins",
@@ -5726,7 +5731,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearTemple",
@@ -5734,7 +5739,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearTorrent",
@@ -5742,7 +5747,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearWatchtower",
@@ -5750,7 +5755,7 @@
       "Name": "Watchtower",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinOnCoral",
@@ -5806,7 +5811,7 @@
       "Name": "A Real Challenge",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WinWIthCaches",
@@ -5886,22 +5891,22 @@
       "Name": "Into the Forest",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15349,
+      "Progressed": 15350,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-16T18:59:47.3340506+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:26.1224431+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:53.405328+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:47.3340514+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:26.1225089+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:00:30.6434538+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:53.405388+00:00"
 }

@@ -848,9 +848,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7827,
+  "EOS_Progressed": 7828,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2978,6 +2978,11 @@
       "Time": "2023-06-16T18:05:50.1443036+00:00",
       "NumProgressed": 7827,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-16T20:06:27.6825193+00:00",
+      "NumProgressed": 7828,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3077,7 +3082,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "LeoniasFall",
@@ -3109,7 +3114,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "SavedElderEnt",
@@ -3149,7 +3154,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7279
+      "UsersEstimate": 7280
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3165,7 +3170,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "WhattoBuy",
@@ -3173,22 +3178,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7827,
+      "Progressed": 7828,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:04.0980431+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:27.6825187+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:58:52.4880293+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:04.0980715+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:59:22.4577847+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:27.6825483+00:00"
 }

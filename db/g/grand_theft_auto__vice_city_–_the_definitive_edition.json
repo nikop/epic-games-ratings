@@ -436,9 +436,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 8557,
+  "EOS_Progressed": 8558,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -4781,6 +4781,11 @@
       "Time": "2023-06-16T19:00:45.0960285+00:00",
       "NumProgressed": 8557,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T20:02:12.0461268+00:00",
+      "NumProgressed": 8558,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 34,
@@ -4952,7 +4957,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3765
+      "UsersEstimate": 3766
     },
     {
       "ID": "ACH22",
@@ -4976,7 +4981,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH25",
@@ -4984,7 +4989,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH26",
@@ -5063,7 +5068,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8557,
+      "Progressed": 8558,
       "Completed": 33
     }
   ],
@@ -5071,8 +5076,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-16T17:00:48.627515+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:00:45.0960278+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:02:12.0461248+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:58:16.2825314+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:00:45.0960813+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:58:35.792463+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:02:12.0461746+00:00"
 }

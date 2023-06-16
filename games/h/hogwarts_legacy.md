@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,223 |
-| First Class Student | 8.00% | ~22,420 |
-| Troll with the Punches | 8.00% | ~22,420 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,224 |
+| First Class Student | 8.00% | ~22,421 |
+| Troll with the Punches | 8.00% | ~22,421 |
 | Grappling with a Graphorn | 7.00% | ~19,618 |
 | The One Who Mastered Memories | 7.00% | ~19,618 |
 | The Hallowed Hero | 7.00% | ~19,618 |
@@ -18,18 +18,18 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,618 |
 | Coasting Along | 7.00% | ~19,618 |
 | That's a Keeper | 7.00% | ~19,618 |
-| Challenge Accepted | 6.00% | ~16,815 |
-| Followed the Butterflies | 6.00% | ~16,815 |
-| The Spell Master | 6.00% | ~16,815 |
-| Rising From the Ashes | 6.00% | ~16,815 |
+| Challenge Accepted | 6.00% | ~16,816 |
+| Followed the Butterflies | 6.00% | ~16,816 |
+| The Spell Master | 6.00% | ~16,816 |
+| Rising From the Ashes | 6.00% | ~16,816 |
 | The Avenging Gazelle | 5.00% | ~14,013 |
 | Beast Friends | 5.00% | ~14,013 |
 | A Sallow Grave | 5.00% | ~14,013 |
 | Flight the Good Flight | 5.00% | ~14,013 |
-| The Seeker of Knowledge | 4.00% | ~11,210 |
-| The Root of the Problem | 4.00% | ~11,210 |
-| Third Time's a Charm | 4.00% | ~11,210 |
-| Raising Expectations | 4.00% | ~11,210 |
+| The Seeker of Knowledge | 4.00% | ~11,211 |
+| The Root of the Problem | 4.00% | ~11,211 |
+| Third Time's a Charm | 4.00% | ~11,211 |
+| Raising Expectations | 4.00% | ~11,211 |
 | The Toast of the Town | 3.00% | ~8,408 |
 | Going Through the Potions | 3.00% | ~8,408 |
 | Room with a View | 3.00% | ~8,408 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,401 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,254 (Ranked 41)  
+Progressed: 280,263 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-13 | 279,378 | 405 |
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
-| 2023-06-16 | 280,254 | 408 |
+| 2023-06-16 | 280,263 | 408 |
 ## Awards
 Max (Character Customization): 20,032  (Ranked 18)  
 Sum: 37,145 (Ranked 32)  

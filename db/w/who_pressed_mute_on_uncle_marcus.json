@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "bless_the_rain",
       "SetID": "202dmm8",
       "Name": "I bless the rain down in London",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "blow",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:11.2633151+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:36.1365075+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:35.7189509+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:52.2592316+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:11.2633294+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:00:37.3586139+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:36.1365214+00:00"
 }

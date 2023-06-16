@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,339 |
-| Sweet Sorrow | 18.00% | ~5,669 |
-| Rules the Waves | 17.00% | ~5,354 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,724 |
-| Rival | 14.00% | ~4,409 |
+| Sink Beneath the Waves | 36.00% | ~11,340 |
+| Sweet Sorrow | 18.00% | ~5,670 |
+| Rules the Waves | 17.00% | ~5,355 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,725 |
+| Rival | 14.00% | ~4,410 |
 | Correspondent | 12.00% | ~3,780 |
 | Lose Your Mind | 12.00% | ~3,780 |
 | Sound Mind? | 12.00% | ~3,780 |
@@ -43,25 +43,25 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~315 |
 | Under the zee | 1.00% | ~315 |
 | A current under zee | 1.00% | ~315 |
-| A zee-change | 0.90% | ~283 |
-| Never Stop Sinking... | 0.90% | ~283 |
-| Leviathan | 0.90% | ~283 |
-| No regrets | 0.90% | ~283 |
-| Depth charge | 0.90% | ~283 |
+| A zee-change | 0.90% | ~284 |
+| Never Stop Sinking... | 0.90% | ~284 |
+| Leviathan | 0.90% | ~284 |
+| No regrets | 0.90% | ~284 |
+| Depth charge | 0.90% | ~284 |
 | What lies beneath | 0.80% | ~252 |
 | Stone's Curse | 0.70% | ~220 |
-| Five Years at Zee | 0.50% | ~157 |
+| Five Years at Zee | 0.50% | ~158 |
 | The Lady's Parlour | 0.20% | ~63 |
 | A Past Wreathed in Shadows | 0.20% | ~63 |
 | Under pressure | 0.20% | ~63 |
-| A Drownie devotee | 0.10% | ~31 |
-| Romans 6:9 | 0.10% | ~31 |
-| Ofermod | 0.10% | ~31 |
-| Consider Phlebas | 0.10% | ~31 |
-| Death By Water | 0.10% | ~31 |
-| Ten Years at Zee | 0.10% | ~31 |
+| A Drownie devotee | 0.10% | ~32 |
+| Romans 6:9 | 0.10% | ~32 |
+| Ofermod | 0.10% | ~32 |
+| Consider Phlebas | 0.10% | ~32 |
+| Death By Water | 0.10% | ~32 |
+| Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,496 (Ranked 89)  
+Progressed: 31,500 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 3 (0.01%) (Ranked 213)
 | 2023-06-13 | 31,318 | 3 |
 | 2023-06-14 | 31,393 | 3 |
 | 2023-06-15 | 31,453 | 3 |
-| 2023-06-16 | 31,496 | 3 |
+| 2023-06-16 | 31,500 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
 Sum: 278 (Ranked 334)  

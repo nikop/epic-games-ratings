@@ -1,26 +1,26 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 531)  
+Rating: 4.51 (Ranked 530)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~92,193 |
-| NATURAL BORN WINNER | 32.00% | ~71,955 |
-| CALLING HOUSTON | 28.00% | ~62,961 |
-| SNEAKY SNEAKY | 22.00% | ~49,469 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,469 |
-| GT9STRADALE | 20.00% | ~44,972 |
-| CHALLENGER | 11.00% | ~24,735 |
-| ON A ROLL | 9.00% | ~20,237 |
-| CENTAUR | 8.00% | ~17,989 |
-| FASTER THAN EVER | 8.00% | ~17,989 |
-| CHALLENGE THE WORLD | 7.00% | ~15,740 |
-| PHOTOFINISH | 7.00% | ~15,740 |
-| QAREEN | 5.00% | ~11,243 |
-| SHOWOFF | 4.00% | ~8,994 |
-| TAKATORA | 4.00% | ~8,994 |
+| VANGUARD | 41.00% | ~92,198 |
+| NATURAL BORN WINNER | 32.00% | ~71,959 |
+| CALLING HOUSTON | 28.00% | ~62,964 |
+| SNEAKY SNEAKY | 22.00% | ~49,472 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,472 |
+| GT9STRADALE | 20.00% | ~44,974 |
+| CHALLENGER | 11.00% | ~24,736 |
+| ON A ROLL | 9.00% | ~20,238 |
+| CENTAUR | 8.00% | ~17,990 |
+| FASTER THAN EVER | 8.00% | ~17,990 |
+| CHALLENGE THE WORLD | 7.00% | ~15,741 |
+| PHOTOFINISH | 7.00% | ~15,741 |
+| QAREEN | 5.00% | ~11,244 |
+| SHOWOFF | 4.00% | ~8,995 |
+| TAKATORA | 4.00% | ~8,995 |
 | GILA | 3.00% | ~6,746 |
 | PRO | 2.00% | ~4,497 |
 | RESPWND | 2.00% | ~4,497 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~450 |
 | ENLIGHTENED | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,860 (Ranked 48)  
+Progressed: 224,872 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 46 (0.02%) (Ranked 205)
 | 2023-06-13 | 224,627 | 46 |
 | 2023-06-14 | 224,700 | 46 |
 | 2023-06-15 | 224,793 | 46 |
-| 2023-06-16 | 224,860 | 46 |
+| 2023-06-16 | 224,872 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

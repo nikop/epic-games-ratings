@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2664,
+  "EOS_Progressed": 2665,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -2851,6 +2851,11 @@
       "Time": "2023-06-16T15:06:34.3035912+00:00",
       "NumProgressed": 2664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T20:06:43.6030645+00:00",
+      "NumProgressed": 2665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2942,7 +2947,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_BASE_21",
@@ -3054,7 +3059,7 @@
       "Name": "Fully Recycled",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_BASE_34",
@@ -3070,7 +3075,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_BASE_36",
@@ -3238,7 +3243,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_BASE_6",
@@ -3246,7 +3251,7 @@
       "Name": "Hope Seeker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_BASE_60",
@@ -3317,13 +3322,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2664,
+      "Progressed": 2665,
       "Completed": 0
     }
   ],
@@ -3331,8 +3336,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-16T13:04:18.8650637+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:17.4348754+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:43.6030639+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:58:27.5633024+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:17.4349516+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:58:50.332606+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:43.6031369+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1661,
-  "EOS_Completed": 138,
-  "EOS_NewPlayers": 77,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 8.31,
+  "EOS_Progressed": 1663,
+  "EOS_Completed": 139,
+  "EOS_NewPlayers": 79,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 8.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2718,6 +2718,11 @@
       "Time": "2023-06-16T15:06:21.6116795+00:00",
       "NumProgressed": 1661,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-06-16T20:06:29.786251+00:00",
+      "NumProgressed": 1663,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 12,
@@ -2737,7 +2742,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Building the Fox",
@@ -2759,9 +2764,9 @@
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 598
+      "UsersEstimate": 615
     },
     {
       "ID": "Jakob",
@@ -2777,7 +2782,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Le Juif et la France",
@@ -2809,7 +2814,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "Nuremberg Laws",
@@ -2824,16 +2829,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1661,
-      "Completed": 138
+      "Progressed": 1663,
+      "Completed": 139
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:05.9680512+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:29.7862504+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:25.4490063+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:05.9680799+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:00:03.242087+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:29.7862755+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 425,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 334,
-  "Ranking_EOS_Progress": 89,
+  "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31496,
+  "EOS_Progressed": 31500,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6276,6 +6276,11 @@
       "Time": "2023-06-16T19:03:25.0802253+00:00",
       "NumProgressed": 31496,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T20:03:13.1301454+00:00",
+      "NumProgressed": 31500,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -6287,7 +6292,7 @@
       "Name": "A zee-change",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_abysslady",
@@ -6303,7 +6308,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5354
+      "UsersEstimate": 5355
     },
     {
       "ID": "ach_antiquarian10",
@@ -6335,7 +6340,7 @@
       "Name": "A Drownie devotee",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_controman",
@@ -6343,7 +6348,7 @@
       "Name": "Romans 6:9",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_cursesalt",
@@ -6383,7 +6388,7 @@
       "Name": "Ofermod",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_deathphlebas",
@@ -6391,7 +6396,7 @@
       "Name": "Consider Phlebas",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_deathwat",
@@ -6399,7 +6404,7 @@
       "Name": "Death By Water",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_die1",
@@ -6407,7 +6412,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11339
+      "UsersEstimate": 11340
     },
     {
       "ID": "ach_die10",
@@ -6415,7 +6420,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_die5",
@@ -6495,7 +6500,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "ach_legacysalvager",
@@ -6575,7 +6580,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_portpearls",
@@ -6591,7 +6596,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_portrose",
@@ -6639,7 +6644,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "ach_terror100",
@@ -6655,7 +6660,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4724
+      "UsersEstimate": 4725
     },
     {
       "ID": "ach_undercurrent",
@@ -6671,7 +6676,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_underpressure",
@@ -6703,7 +6708,7 @@
       "Name": "Ten Years at Zee",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_year5",
@@ -6711,22 +6716,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 31496,
+      "Progressed": 31500,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:03:25.0802249+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:03:13.1301447+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.1062336+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:28.7947039+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:03:25.0803018+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:00:07.8201122+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:03:13.1302224+00:00"
 }

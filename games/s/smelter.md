@@ -27,6 +27,7 @@
 | A Terrible Way to Go | 14.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
 | Fishing for Fissures | 11.00% | ~4 |
+| You did it? You did it! | 11.00% | ~4 |
 | All Beefed Up | 11.00% | ~4 |
 | The Smelter | 11.00% | ~4 |
 | What's Yours Is Mine | 11.00% | ~4 |
@@ -42,7 +43,6 @@
 | Scour the Eremagu Domain | 8.00% | ~3 |
 | An Electrifying Personality | 8.00% | ~3 |
 | Back for More? | 8.00% | ~3 |
-| You did it? You did it! | 8.00% | ~3 |
 | Gurabi Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Gurabi Domain | 8.00% | ~3 |
 | Isn't It Grand? | 8.00% | ~3 |
@@ -57,7 +57,7 @@
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 337)  
-Completed: 3 (8.33%) (Ranked 19)  
+Completed: 3 (8.33%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

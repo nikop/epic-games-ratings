@@ -21,23 +21,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 2.00% | ~307 |
 | Like a Machine | 2.00% | ~307 |
 | Trade Baron | 2.00% | ~307 |
-| Serving Ale | 1.00% | ~153 |
-| Refinery | 1.00% | ~153 |
-| Against All Odds | 1.00% | ~153 |
-| Ancient Battleground | 1.00% | ~153 |
-| Sparkdew Crystals | 1.00% | ~153 |
-| Dangerous Lands | 1.00% | ~153 |
-| Haunted Forest | 1.00% | ~153 |
-| Levitating Monument | 1.00% | ~153 |
-| Flooded Mines | 1.00% | ~153 |
-| Monastery of the Holy Flame | 1.00% | ~153 |
-| Royal Outpost | 1.00% | ~153 |
-| Statue of the Forefathers | 1.00% | ~153 |
-| Forsaken Gods Temple | 1.00% | ~153 |
-| Corrosive Torrent | 1.00% | ~153 |
-| Watchtower | 1.00% | ~153 |
-| A Real Challenge | 1.00% | ~153 |
-| Into the Forest | 1.00% | ~153 |
+| Serving Ale | 1.00% | ~154 |
+| Refinery | 1.00% | ~154 |
+| Against All Odds | 1.00% | ~154 |
+| Ancient Battleground | 1.00% | ~154 |
+| Sparkdew Crystals | 1.00% | ~154 |
+| Dangerous Lands | 1.00% | ~154 |
+| Haunted Forest | 1.00% | ~154 |
+| Levitating Monument | 1.00% | ~154 |
+| Flooded Mines | 1.00% | ~154 |
+| Monastery of the Holy Flame | 1.00% | ~154 |
+| Royal Outpost | 1.00% | ~154 |
+| Statue of the Forefathers | 1.00% | ~154 |
+| Forsaken Gods Temple | 1.00% | ~154 |
+| Corrosive Torrent | 1.00% | ~154 |
+| Watchtower | 1.00% | ~154 |
+| A Real Challenge | 1.00% | ~154 |
+| Into the Forest | 1.00% | ~154 |
 | Defying the Crown | 0.90% | ~138 |
 | Ruined Armory | 0.80% | ~123 |
 | Forbidden Lands | 0.80% | ~123 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,349 (Ranked 105)  
+Progressed: 15,350 (Ranked 105)  
 Completed: 35 (0.23%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 35 (0.23%) (Ranked 149)
 | 2023-06-13 | 15,303 | 34 |
 | 2023-06-14 | 15,317 | 34 |
 | 2023-06-15 | 15,329 | 34 |
-| 2023-06-16 | 15,349 | 35 |
+| 2023-06-16 | 15,350 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,044 (Ranked 153)  

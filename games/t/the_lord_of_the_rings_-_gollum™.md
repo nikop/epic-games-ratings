@@ -9,10 +9,10 @@
 | Welcome to Mordor! | 51.00% | ~226 |
 | Wait! Wait! Not yet! | 37.00% | ~164 |
 | Like Flying... | 32.00% | ~142 |
-| Memories | 28.00% | ~124 |
+| Memories | 29.00% | ~128 |
 | The Maggot | 26.00% | ~115 |
 | The Breeder | 21.00% | ~93 |
-| The Veteran | 17.00% | ~75 |
+| The Veteran | 18.00% | ~80 |
 | The Traitor | 14.00% | ~62 |
 | The Spider | 13.00% | ~58 |
 | Good as Fish | 9.00% | ~40 |

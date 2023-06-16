@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3240,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3762,9 +3762,9 @@
       "ID": "Ach050",
       "SetID": "12n4k20",
       "Name": "I\u0027m untouchable!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach051",
@@ -3873,8 +3873,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:26.5374766+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:53.8727627+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:50.8173194+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:58:31.6027347+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:26.5375553+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:58:55.6462974+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:53.8728379+00:00"
 }

@@ -61,8 +61,8 @@ Rating: 4.89 (Ranked 13)
 | I have to read ALL of these things? | 0.60% | ~19 |
 | My Ultimate Setlist | 0.60% | ~19 |
 | Have we met before? | 0.60% | ~19 |
+| I'm untouchable! | 0.60% | ~19 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~19 |
-| I'm untouchable! | 0.50% | ~16 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | Didn't skip a beat! | 0.20% | ~6 |
 | What a journey it was... | 0.20% | ~6 |

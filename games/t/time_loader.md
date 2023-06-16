@@ -7,11 +7,11 @@
 | Screwdriver | 64.00% | ~68 |
 | Springs | 61.00% | ~65 |
 | Soap | 41.00% | ~44 |
-| Act 1 | 34.00% | ~36 |
+| Act 1 | 35.00% | ~37 |
+| Capacitors | 34.00% | ~36 |
 | Wrench | 33.00% | ~35 |
-| Capacitors | 33.00% | ~35 |
 | Purr-fect | 32.00% | ~34 |
-| Mug | 29.00% | ~31 |
+| Mug | 30.00% | ~32 |
 | Soldering iron | 29.00% | ~31 |
 | Robot Bros | 25.00% | ~27 |
 | Act 2 | 24.00% | ~26 |

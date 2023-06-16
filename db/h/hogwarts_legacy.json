@@ -3810,9 +3810,9 @@
       "Count": 512
     }
   ],
-  "EOS_Progressed": 280254,
+  "EOS_Progressed": 280263,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 2604,
+  "EOS_NewPlayers": 2594,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9745,6 +9745,11 @@
       "Time": "2023-06-16T19:05:13.6040885+00:00",
       "NumProgressed": 280254,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-16T20:05:25.0897617+00:00",
+      "NumProgressed": 280263,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -9756,7 +9761,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25223
+      "UsersEstimate": 25224
     },
     {
       "ID": "PFA_10",
@@ -9796,7 +9801,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "PFA_15",
@@ -9860,7 +9865,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16815
+      "UsersEstimate": 16816
     },
     {
       "ID": "PFA_22",
@@ -9892,7 +9897,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "PFA_26",
@@ -9924,7 +9929,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "PFA_3",
@@ -9980,7 +9985,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16815
+      "UsersEstimate": 16816
     },
     {
       "ID": "PFA_36",
@@ -10044,7 +10049,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "PFA_43",
@@ -10060,7 +10065,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16815
+      "UsersEstimate": 16816
     },
     {
       "ID": "PFA_45",
@@ -10084,7 +10089,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22420
+      "UsersEstimate": 22421
     },
     {
       "ID": "PFA_7",
@@ -10092,7 +10097,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22420
+      "UsersEstimate": 22421
     },
     {
       "ID": "PFA_8",
@@ -10108,14 +10113,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16815
+      "UsersEstimate": 16816
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280254,
+      "Progressed": 280263,
       "Completed": 408
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-16T18:57:30.4995927+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:05:13.604088+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:05:25.0897611+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:57:30.4995933+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:05:13.6041667+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:57:39.7385849+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:05:25.0898313+00:00"
 }

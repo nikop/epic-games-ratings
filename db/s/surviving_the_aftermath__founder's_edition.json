@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1041,9 +1041,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6499,
+  "EOS_Progressed": 6500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5756,6 +5756,11 @@
       "Time": "2023-06-16T19:03:13.6031041+00:00",
       "NumProgressed": 6499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T20:02:20.1858076+00:00",
+      "NumProgressed": 6500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5767,7 +5772,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "10",
@@ -5799,7 +5804,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "14",
@@ -5847,7 +5852,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "2",
@@ -5879,7 +5884,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "23",
@@ -5967,7 +5972,7 @@
       "Name": "Slimy yet Satisfying",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "33",
@@ -6103,7 +6108,7 @@
       "Name": "Feng Shui",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "49",
@@ -6183,7 +6188,7 @@
       "Name": "Finnished",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "58",
@@ -6238,15 +6243,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6499,
+      "Progressed": 6500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-11T15:59:33.0428948+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:03:13.6031034+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:02:20.185807+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:59:45.7385095+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:03:13.6031829+00:00"
+  "LastUpdate_Ratings": "2023-06-16T20:00:28.8250546+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:02:20.1858906+00:00"
 }

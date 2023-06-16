@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.90% | ~5,059 |
-| Resurgence | 0.90% | ~5,059 |
-| Preemptive Strike | 0.90% | ~5,059 |
-| Humanitarian | 0.80% | ~4,497 |
-| Close Shave | 0.70% | ~3,935 |
-| Wounded Healer | 0.60% | ~3,373 |
-| Flight to Freedom | 0.60% | ~3,373 |
-| Unforgettable Getaway | 0.50% | ~2,811 |
-| First to the Punch | 0.50% | ~2,811 |
-| Old West Oasis | 0.50% | ~2,811 |
-| With Scars to Show | 0.50% | ~2,811 |
-| Cutting Out | 0.40% | ~2,249 |
-| Operation: Survival | 0.40% | ~2,249 |
-| Classy Act | 0.40% | ~2,249 |
-| Every Last Drop | 0.40% | ~2,249 |
-| Raccoon City Recruit | 0.40% | ~2,249 |
-| A Fast Death | 0.40% | ~2,249 |
-| Lifting The Fog | 0.40% | ~2,249 |
-| Chorus of Chaos | 0.40% | ~2,249 |
-| Ancestor's Rite | 0.30% | ~1,686 |
-| Devoted Gatekeeping | 0.30% | ~1,686 |
-| Outrun Evil | 0.30% | ~1,686 |
-| Grim Pilgrimage | 0.30% | ~1,686 |
-| Selfless Survival | 0.30% | ~1,686 |
-| End of Days | 0.30% | ~1,686 |
-| Heavy Burden | 0.20% | ~1,124 |
-| Shrine Apparatus | 0.20% | ~1,124 |
-| Broken Bodies | 0.20% | ~1,124 |
-| I See You | 0.20% | ~1,124 |
-| Power Moves | 0.20% | ~1,124 |
-| Insult and Injury | 0.20% | ~1,124 |
-| Punch Drunk | 0.20% | ~1,124 |
-| Prowler | 0.20% | ~1,124 |
-| Triage | 0.20% | ~1,124 |
-| Outrun the Overlap | 0.20% | ~1,124 |
-| High Speed Pursuit | 0.20% | ~1,124 |
-| Rebuilding The Borgo | 0.20% | ~1,124 |
+| Resurgence | 1.00% | ~5,625 |
+| Healthy Obsession | 0.90% | ~5,062 |
+| Preemptive Strike | 0.90% | ~5,062 |
+| Humanitarian | 0.90% | ~5,062 |
+| Wounded Healer | 0.70% | ~3,937 |
+| Close Shave | 0.70% | ~3,937 |
+| Flight to Freedom | 0.60% | ~3,375 |
+| Unforgettable Getaway | 0.50% | ~2,812 |
+| First to the Punch | 0.50% | ~2,812 |
+| Old West Oasis | 0.50% | ~2,812 |
+| Every Last Drop | 0.50% | ~2,812 |
+| With Scars to Show | 0.50% | ~2,812 |
+| Cutting Out | 0.40% | ~2,250 |
+| Operation: Survival | 0.40% | ~2,250 |
+| Classy Act | 0.40% | ~2,250 |
+| Raccoon City Recruit | 0.40% | ~2,250 |
+| A Fast Death | 0.40% | ~2,250 |
+| Lifting The Fog | 0.40% | ~2,250 |
+| Chorus of Chaos | 0.40% | ~2,250 |
+| Ancestor's Rite | 0.30% | ~1,687 |
+| Devoted Gatekeeping | 0.30% | ~1,687 |
+| Shrine Apparatus | 0.30% | ~1,687 |
+| Outrun Evil | 0.30% | ~1,687 |
+| Grim Pilgrimage | 0.30% | ~1,687 |
+| Selfless Survival | 0.30% | ~1,687 |
+| End of Days | 0.30% | ~1,687 |
+| Heavy Burden | 0.20% | ~1,125 |
+| Broken Bodies | 0.20% | ~1,125 |
+| I See You | 0.20% | ~1,125 |
+| Power Moves | 0.20% | ~1,125 |
+| Insult and Injury | 0.20% | ~1,125 |
+| Punch Drunk | 0.20% | ~1,125 |
+| Prowler | 0.20% | ~1,125 |
+| Triage | 0.20% | ~1,125 |
+| Outrun the Overlap | 0.20% | ~1,125 |
+| High Speed Pursuit | 0.20% | ~1,125 |
+| Rebuilding The Borgo | 0.20% | ~1,125 |
 | The Grand Sacrifice | 0.10% | ~562 |
 | A bite for the Entity | 0.10% | ~562 |
 | A feast for the Entity | 0.10% | ~562 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~562 |
 | Adept Gabriel | 0.10% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562,164 (Ranked 26)  
+Progressed: 562,455 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 42 (0.01%) (Ranked 213)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 562,164 | 42 |
+| 2023-06-16 | 562,455 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
-Sum: 227,904 (Ranked 12)  
+Sum: 227,936 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 25,910 |
 | This game has Amazing Characters | 25,781 |
 | This game is Extremely Fun | 25,741 |
-| This game has Quickly Understood Controls | 25,542 |
+| This game has Quickly Understood Controls | 25,574 |
 | This game has Challenging Combat | 24,920 |
 | This game has Amazing Storytelling | 23,460 |
 | This game has a Competitive Community | 21,762 |
@@ -448,4 +448,4 @@ Diff (max vs sum): 4
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
 | 2023-06-15 | 4.52 | - | 28,513 | 227,631 |
-| 2023-06-16 | 4.52 | - | 28,559 | 227,904 |
+| 2023-06-16 | 4.52 | - | 28,559 | 227,936 |

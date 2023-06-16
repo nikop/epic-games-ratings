@@ -32,6 +32,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 2.00% | ~198 |
 | Heroic Victory | 2.00% | ~198 |
 | Mythic Reinforcements | 2.00% | ~198 |
+| Capitulation Is Now Moot | 2.00% | ~198 |
 | Core of the Riddle | 2.00% | ~198 |
 | Your First Big Enemy | 2.00% | ~198 |
 | Hey, I Know You! | 2.00% | ~198 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~174 |
 | Path of the Demon | 1.00% | ~99 |
 | Path of the Aeon | 1.00% | ~99 |
-| Capitulation Is Now Moot | 1.00% | ~99 |
 | Truly Important Deed | 1.00% | ~99 |
 | Abyssal Conspiracy | 0.90% | ~89 |
 | This Wall Won't Fall | 0.90% | ~78 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,917 (Ranked 114)  
+Progressed: 9,918 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 9,833 | 0 |
 | 2023-06-14 | 9,861 | 0 |
 | 2023-06-15 | 9,896 | 0 |
-| 2023-06-16 | 9,917 | 0 |
+| 2023-06-16 | 9,918 | 0 |
 ## Awards
 Max (Character Customization): 1,662  (Ranked 112)  
 Sum: 6,751 (Ranked 109)  

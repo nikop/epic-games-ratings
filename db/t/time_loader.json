@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -134,9 +134,9 @@
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "05_TimeCapsule",
@@ -238,9 +238,9 @@
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "18_SolderingIron",
@@ -318,9 +318,9 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "28_Act2",
@@ -351,8 +351,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-16T19:06:09.8146084+00:00",
+  "LastChanged_Achievements": "2023-06-16T20:06:34.5819133+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9565261+00:00",
-  "LastUpdate_Ratings": "2023-06-16T18:57:59.141863+00:00",
-  "LastUpdate_Achievements": "2023-06-16T19:06:09.8146281+00:00"
+  "LastUpdate_Ratings": "2023-06-16T19:58:14.8491947+00:00",
+  "LastUpdate_Achievements": "2023-06-16T20:06:34.5819343+00:00"
 }
