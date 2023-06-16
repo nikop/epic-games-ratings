@@ -7,15 +7,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 36.00% | ~19,192 |
-| Landlord | 30.00% | ~15,993 |
-| Bannerlord | 21.00% | ~11,195 |
-| Horde breaker | 21.00% | ~11,195 |
-| Lawmaker | 21.00% | ~11,195 |
+| Landlord | 30.00% | ~15,994 |
+| Bannerlord | 21.00% | ~11,196 |
+| Horde breaker | 21.00% | ~11,196 |
+| Lawmaker | 21.00% | ~11,196 |
 | Trained | 20.00% | ~10,662 |
 | The king is pleased | 17.00% | ~9,063 |
 | King Solomon | 16.00% | ~8,530 |
-| I can do it | 15.00% | ~7,996 |
-| Apple of my eye | 14.00% | ~7,463 |
+| I can do it | 15.00% | ~7,997 |
+| Apple of my eye | 14.00% | ~7,464 |
 | God of the Arena | 12.00% | ~6,397 |
 | Against all odds | 10.00% | ~5,331 |
 | Duelist | 9.00% | ~4,798 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,310 (Ranked 79)  
+Progressed: 53,312 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,14 +115,14 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-13 | 53,091 | 0 |
 | 2023-06-14 | 53,184 | 0 |
 | 2023-06-15 | 53,261 | 0 |
-| 2023-06-16 | 53,310 | 0 |
+| 2023-06-16 | 53,312 | 0 |
 ## Awards
-Max (Character Customization): 6,667  (Ranked 49)  
-Sum: 13,406 (Ranked 68)  
+Max (Character Customization): 6,672  (Ranked 49)  
+Sum: 13,411 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,667 |
+| This game has Inclusive Character Customization | 6,672 |
 | This game is Great for Beginners | 851 |
 | This game has Diverse Characters | 832 |
 | This game is Highly Recommended | 794 |
@@ -289,4 +289,4 @@ Diff (max vs sum): -19
 | 2023-06-13 | 4.75 | - | 6,660 | 13,384 |
 | 2023-06-14 | 4.75 | - | 6,664 | 13,394 |
 | 2023-06-15 | 4.75 | - | 6,667 | 13,401 |
-| 2023-06-16 | 4.75 | - | 6,667 | 13,406 |
+| 2023-06-16 | 4.75 | - | 6,672 | 13,411 |

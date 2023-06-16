@@ -477,9 +477,9 @@
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Level_completed_009_007",
@@ -525,9 +525,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:05:59.9990209+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:28.3430117+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:50.4088691+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:05:59.9990415+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:00:09.6928038+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:28.3430322+00:00"
 }

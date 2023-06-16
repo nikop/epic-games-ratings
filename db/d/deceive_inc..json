@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6814,
+  "EOS_Progressed": 6815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4334,6 +4334,11 @@
       "Time": "2023-06-16T14:06:08.1331178+00:00",
       "NumProgressed": 6814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T15:06:37.0293195+00:00",
+      "NumProgressed": 6815,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4345,7 +4350,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "0002",
@@ -4361,7 +4366,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0004",
@@ -4369,7 +4374,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "0005",
@@ -4401,7 +4406,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "0009",
@@ -4529,7 +4534,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "0025",
@@ -4537,7 +4542,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "0026",
@@ -4545,7 +4550,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0027",
@@ -4553,7 +4558,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0028",
@@ -4577,7 +4582,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "0031",
@@ -4593,7 +4598,7 @@
       "Name": "Killer Looks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0033",
@@ -4601,7 +4606,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0034",
@@ -4632,7 +4637,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6814,
+      "Progressed": 6815,
       "Completed": 0
     }
   ],
@@ -4640,8 +4645,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:08.1331169+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:37.0293191+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:39.0933777+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:08.1332048+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:59:57.7106603+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:37.0293649+00:00"
 }

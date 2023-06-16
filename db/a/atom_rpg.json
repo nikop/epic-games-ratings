@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 972,
+  "EOS_Progressed": 973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1398,6 +1398,11 @@
       "Time": "2023-06-16T02:15:53.1695388+00:00",
       "NumProgressed": 972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T15:06:36.5011911+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1465,7 +1470,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "EXPERT_1",
@@ -1537,7 +1542,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1561,7 +1566,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1633,7 +1638,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "SECRET_ROOM",
@@ -1681,7 +1686,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "WISHMASTER_1",
@@ -1696,15 +1701,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 972,
+      "Progressed": 973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:07.6901086+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:36.5011906+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:40.0771977+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:00:06.2720437+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:07.6901428+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:00:27.4977086+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:36.5012245+00:00"
 }

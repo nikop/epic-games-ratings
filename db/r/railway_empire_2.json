@@ -58,7 +58,7 @@
   "Tags": [],
   "EOS_Progressed": 1215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2053,17 +2053,17 @@
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 49
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 49
     },
     {
       "ID": "A08",
@@ -2454,8 +2454,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:13.5086334+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:43.314061+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:58:15.6577815+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:13.5087153+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:58:18.9668881+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:43.3141194+00:00"
 }

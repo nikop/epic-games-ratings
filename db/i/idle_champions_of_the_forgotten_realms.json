@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4336,9 +4336,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 93254,
+  "EOS_Progressed": 93349,
   "EOS_Completed": 1942,
-  "EOS_NewPlayers": 3033,
+  "EOS_NewPlayers": 3121,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -10191,6 +10191,11 @@
       "Time": "2023-06-16T14:06:21.8941581+00:00",
       "NumProgressed": 93254,
       "NumCompleted": 1942
+    },
+    {
+      "Time": "2023-06-16T15:06:52.1984826+00:00",
+      "NumProgressed": 93349,
+      "NumCompleted": 1942
     }
   ],
   "TotalAchievements": 493,
@@ -10202,7 +10207,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3734
     },
     {
       "ID": "objective_completed_10",
@@ -10210,7 +10215,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_100",
@@ -11066,7 +11071,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "objective_completed_1203",
@@ -11306,7 +11311,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_149",
@@ -11394,7 +11399,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_165",
@@ -11426,7 +11431,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_17",
@@ -11530,7 +11535,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_20",
@@ -11874,7 +11879,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1867
     },
     {
       "ID": "objective_completed_34",
@@ -11994,7 +11999,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "objective_completed_390",
@@ -12066,7 +12071,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "objective_completed_40",
@@ -12074,7 +12079,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_400",
@@ -12346,7 +12351,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_540",
@@ -12746,7 +12751,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_60",
@@ -13168,9 +13173,9 @@
       "ID": "objective_completed_667",
       "SetID": "415jc5c",
       "Name": "Fight Dragons with Dragons",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_completed_670",
@@ -13274,7 +13279,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_690",
@@ -13296,9 +13301,9 @@
       "ID": "objective_completed_692",
       "SetID": "415jc5c",
       "Name": "Giant-Size Adventure",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_completed_693",
@@ -13336,9 +13341,9 @@
       "ID": "objective_completed_698",
       "SetID": "415jc5c",
       "Name": "Only Human",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_completed_7",
@@ -13456,9 +13461,9 @@
       "ID": "objective_completed_805",
       "SetID": "415jc5c",
       "Name": "Ten in Ten-Towns",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_completed_807",
@@ -14114,7 +14119,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "objective_completed_1356",
@@ -14122,7 +14127,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "objective_completed_1360",
@@ -14130,7 +14135,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "objective_completed_1361",
@@ -14145,21 +14150,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 59528,
+      "Progressed": 59623,
       "Completed": 2796
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 93254,
+      "Progressed": 93349,
       "Completed": 1942
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-16T13:03:55.9165181+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:21.8941576+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:52.1984824+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:58:15.5613683+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:21.8972101+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:58:18.9005945+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:52.2008646+00:00"
 }

@@ -4600,9 +4600,9 @@
       "Count": 3687
     }
   ],
-  "EOS_Progressed": 130704,
+  "EOS_Progressed": 130705,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10210,6 +10210,11 @@
       "Time": "2023-06-16T14:06:19.2447513+00:00",
       "NumProgressed": 130704,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-06-16T15:06:49.4303533+00:00",
+      "NumProgressed": 130705,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 112,
@@ -10277,7 +10282,7 @@
       "Name": "Above the Norm",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "ascend03",
@@ -10301,7 +10306,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 78422
+      "UsersEstimate": 78423
     },
     {
       "ID": "bigsale02",
@@ -10325,7 +10330,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 75808
+      "UsersEstimate": 75809
     },
     {
       "ID": "blueprint02",
@@ -10389,7 +10394,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 126783
+      "UsersEstimate": 126784
     },
     {
       "ID": "chest02",
@@ -10453,7 +10458,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 118941
+      "UsersEstimate": 118942
     },
     {
       "ID": "commonres02",
@@ -10485,7 +10490,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 99335
+      "UsersEstimate": 99336
     },
     {
       "ID": "craft02",
@@ -10541,7 +10546,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "donovan_a",
@@ -10557,7 +10562,7 @@
       "Name": "Hidden Potential",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "enchant02",
@@ -10573,7 +10578,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 79729
+      "UsersEstimate": 79730
     },
     {
       "ID": "energy02",
@@ -10597,7 +10602,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 91493
+      "UsersEstimate": 91494
     },
     {
       "ID": "expansion02",
@@ -10637,7 +10642,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "furniture03",
@@ -10653,7 +10658,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "fuseflawless",
@@ -10693,7 +10698,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 113712
+      "UsersEstimate": 113713
     },
     {
       "ID": "gold02",
@@ -10701,7 +10706,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 74501
+      "UsersEstimate": 74502
     },
     {
       "ID": "gold03",
@@ -10709,7 +10714,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48360
+      "UsersEstimate": 48361
     },
     {
       "ID": "gold04",
@@ -10725,7 +10730,7 @@
       "Name": "Mammonite",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "gold06",
@@ -10813,7 +10818,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 40518
+      "UsersEstimate": 40519
     },
     {
       "ID": "level03",
@@ -10933,7 +10938,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 45746
+      "UsersEstimate": 45747
     },
     {
       "ID": "quest02",
@@ -10941,7 +10946,7 @@
       "Name": "Attrition Mission",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "quest03",
@@ -10997,7 +11002,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 96721
+      "UsersEstimate": 96722
     },
     {
       "ID": "sell02",
@@ -11037,7 +11042,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 125476
+      "UsersEstimate": 125477
     },
     {
       "ID": "twinenchant01",
@@ -11069,7 +11074,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "uncommonres03",
@@ -11085,7 +11090,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 78422
+      "UsersEstimate": 78423
     },
     {
       "ID": "workers02",
@@ -11093,7 +11098,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 44439
+      "UsersEstimate": 44440
     },
     {
       "ID": "workers03",
@@ -11101,7 +11106,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "yami_a",
@@ -11116,15 +11121,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 130704,
+      "Progressed": 130705,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-06-16T09:59:14.0973372+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:19.2447507+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:49.4303527+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.7380274+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:58:31.6847082+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:19.2449754+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:58:37.8318041+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:49.4305347+00:00"
 }

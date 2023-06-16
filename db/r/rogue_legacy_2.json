@@ -1181,7 +1181,7 @@
   ],
   "EOS_Progressed": 22268,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4472,9 +4472,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 134
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -4654,8 +4654,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-13T23:59:53.6462378+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:05.5581874+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:34.0095276+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.4946327+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:14.3127907+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:05.5582691+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:59:27.7491338+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:34.0095702+00:00"
 }

@@ -457,9 +457,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:03:19.3344129+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:03:34.5954423+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.3955715+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:00:20.7568943+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:03:19.3344481+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:00:44.076714+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:03:34.5954731+00:00"
 }

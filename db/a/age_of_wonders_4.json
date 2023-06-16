@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -232,7 +232,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4685,
+  "EOS_Progressed": 4686,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 3,
@@ -4002,6 +4002,11 @@
       "Time": "2023-06-16T14:04:50.9935512+00:00",
       "NumProgressed": 4685,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T15:05:09.2305841+00:00",
+      "NumProgressed": 4686,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4061,7 +4066,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "16",
@@ -4117,7 +4122,7 @@
       "Name": "Eternal Lord",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "22",
@@ -4133,7 +4138,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3702
     },
     {
       "ID": "24",
@@ -4149,7 +4154,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "26",
@@ -4165,7 +4170,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "28",
@@ -4205,7 +4210,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "32",
@@ -4213,7 +4218,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "33",
@@ -4229,7 +4234,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "35",
@@ -4253,7 +4258,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "38",
@@ -4277,7 +4282,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "40",
@@ -4285,7 +4290,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2109
     },
     {
       "ID": "41",
@@ -4293,7 +4298,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "42",
@@ -4317,7 +4322,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "5",
@@ -4364,13 +4369,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4685,
-      "Completed": 4685
+      "Progressed": 4686,
+      "Completed": 4686
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4685,
+      "Progressed": 4686,
       "Completed": 3
     }
   ],
@@ -4378,8 +4383,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:04:50.9935503+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:05:09.2305838+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:28.2334214+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:04:50.9936178+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:59:43.402291+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:05:09.2306362+00:00"
 }

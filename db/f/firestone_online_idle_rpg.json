@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3185,9 +3185,9 @@
       "ID": "activemember",
       "SetID": "3nl4bcg",
       "Name": "Active Member",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ancientknowledge",
@@ -3505,9 +3505,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "milestonecollector",
@@ -3794,8 +3794,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:06:10.7470722+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:39.9796917+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:58:13.7365186+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:06:10.7471923+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:58:16.5232182+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:39.9797733+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 2795,
-  "EOS_Completed": 23,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_NewCompleters": 21,
+  "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2730,6 +2730,11 @@
       "Time": "2023-06-16T13:10:02.8463031+00:00",
       "NumProgressed": 2795,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-16T15:04:27.073186+00:00",
+      "NumProgressed": 2795,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 24,
@@ -2755,9 +2760,9 @@
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 84
     },
     {
       "ID": "12",
@@ -2933,12 +2938,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 2795,
-      "Completed": 23
+      "Completed": 27
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:04:15.0656376+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:04:27.0731853+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:03.4010433+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:04:15.0656756+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:59:14.552871+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:04:27.0732147+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~35,424 |
-| Get Busy Living | 17.00% | ~23,162 |
-| Samuel Norton | 9.00% | ~12,262 |
-| Spare The Rod | 5.00% | ~6,812 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,450 |
-| Don't Put Me In The Dark | 3.00% | ~4,087 |
-| Wait and Hope | 3.00% | ~4,087 |
-| Iron Bars | 3.00% | ~4,087 |
-| Throw The Book At Them | 2.00% | ~2,725 |
-| D.B. Cooper | 1.00% | ~1,362 |
-| Reformation | 0.60% | ~817 |
+| Stone Walls | 26.00% | ~35,434 |
+| Get Busy Living | 17.00% | ~23,168 |
+| Samuel Norton | 9.00% | ~12,265 |
+| Spare The Rod | 5.00% | ~6,814 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,451 |
+| Don't Put Me In The Dark | 3.00% | ~4,088 |
+| Wait and Hope | 3.00% | ~4,088 |
+| Iron Bars | 3.00% | ~4,088 |
+| Throw The Book At Them | 2.00% | ~2,726 |
+| D.B. Cooper | 1.00% | ~1,363 |
+| Reformation | 0.60% | ~818 |
 | Crowd Control | 0.50% | ~681 |
 | Freedom | 0.40% | ~545 |
 | Confined | 0.40% | ~545 |
 | It's Not What You Know... | 0.10% | ~136 |
 | ... It's What You Can Prove | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,247 (Ranked 57)  
+Progressed: 136,283 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,14 +80,14 @@ Completed: 5 (0.00%) (Ranked 226)
 | 2023-06-13 | 135,233 | 5 |
 | 2023-06-14 | 135,654 | 5 |
 | 2023-06-15 | 136,034 | 5 |
-| 2023-06-16 | 136,247 | 5 |
+| 2023-06-16 | 136,283 | 5 |
 ## Awards
-Max (Extremely Fun): 438  (Ranked 197)  
-Sum: 3,432 (Ranked 145)  
+Max (Extremely Fun): 440  (Ranked 197)  
+Sum: 3,434 (Ranked 145)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 438 |
+| This game is Extremely Fun | 440 |
 | This game is Great for Beginners | 424 |
 | This game is Highly Recommended | 421 |
 | This game has Quickly Understood Controls | 405 |
@@ -247,3 +247,4 @@ Diff (max vs sum): 52
 | 2023-06-13 | 4.61 | - | 437 | 3,424 |
 | 2023-06-14 | 4.61 | - | 438 | 3,430 |
 | 2023-06-15 | 4.61 | - | 438 | 3,432 |
+| 2023-06-16 | 4.61 | - | 440 | 3,434 |

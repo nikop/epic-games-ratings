@@ -5,29 +5,29 @@ Rating: 4.80 (Ranked 79)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,269 |
-| No more cages! | 92.00% | ~2,175 |
-| Everfrost | 77.00% | ~1,820 |
+| For Demacia | 95.00% | ~2,247 |
+| No more cages! | 92.00% | ~2,176 |
+| Everfrost | 77.00% | ~1,821 |
 | Pentakill | 76.00% | ~1,797 |
 | Dark Forest | 76.00% | ~1,797 |
 | The use of petricite | 73.00% | ~1,726 |
-| You can pet the dog | 60.00% | ~1,418 |
-| Big Helmet Bro | 35.00% | ~827 |
-| Clarion Cove | 35.00% | ~827 |
+| You can pet the dog | 60.00% | ~1,419 |
+| Big Helmet Bro | 35.00% | ~828 |
+| Clarion Cove | 35.00% | ~828 |
 | Past trauma | 34.00% | ~804 |
 | Thornbarrow | 33.00% | ~780 |
 | Ternmoat Headquarters | 33.00% | ~780 |
-| Elemental master | 32.00% | ~756 |
-| Cypress Glen Headquarters | 32.00% | ~756 |
+| Elemental master | 32.00% | ~757 |
+| Cypress Glen Headquarters | 32.00% | ~757 |
 | Old friend | 28.00% | ~662 |
 | Petricite Burst | 28.00% | ~662 |
-| Devineur | 27.00% | ~638 |
+| Devineur | 27.00% | ~639 |
 | Whispers in the Woods I | 26.00% | ~615 |
 | Hijack | 26.00% | ~615 |
-| Ancient power | 24.00% | ~567 |
-| I chose my shackles | 23.00% | ~544 |
-| Sacred Woods | 21.00% | ~496 |
-| Capelworth | 21.00% | ~496 |
+| Ancient power | 24.00% | ~568 |
+| I chose my shackles | 22.00% | ~520 |
+| Sacred Woods | 21.00% | ~497 |
+| Capelworth | 21.00% | ~497 |
 | Little light | 20.00% | ~473 |
 | Iffighain Headquarters | 20.00% | ~473 |
 | Glyndemere | 19.00% | ~449 |
@@ -55,11 +55,11 @@ Rating: 4.80 (Ranked 79)
 | Back to sleep, then... | 9.00% | ~213 |
 | Do you trust me? | 8.00% | ~189 |
 | Spellcrafting | 8.00% | ~189 |
-| The great mage rebellion starts now | 7.00% | ~165 |
+| The great mage rebellion starts now | 7.00% | ~166 |
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,364 (Ranked 153)  
+Progressed: 2,365 (Ranked 153)  
 Completed: 2 (0.08%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.08%) (Ranked 181)
 | 2023-06-13 | 2,340 | 1 |
 | 2023-06-14 | 2,351 | 2 |
 | 2023-06-15 | 2,363 | 2 |
-| 2023-06-16 | 2,364 | 2 |
+| 2023-06-16 | 2,365 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

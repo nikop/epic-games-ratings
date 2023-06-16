@@ -32,12 +32,12 @@ Rating: 4.05 (Ranked 895)
 | Daily Quest Completionist | 8.00% | ~113 |
 | Doing My Part | 8.00% | ~113 |
 | Hunter | 8.00% | ~113 |
+| Mastery | 8.00% | ~113 |
 | Relic Of The Past | 8.00% | ~113 |
 | Scroll Master | 8.00% | ~113 |
 | The power of Awakening | 8.00% | ~113 |
 | Four Leaf Clover | 7.00% | ~99 |
 | Frostfire Liberator | 7.00% | ~99 |
-| Mastery | 7.00% | ~99 |
 | Moving Up The Ladder | 7.00% | ~99 |
 | Here We Go Again | 6.00% | ~85 |
 | Trader | 6.00% | ~85 |
@@ -56,11 +56,11 @@ Rating: 4.05 (Ranked 895)
 | Lock And Load | 4.00% | ~56 |
 | Blueprint Upgrades | 3.00% | ~42 |
 | Sailor | 3.00% | ~42 |
+| Active Member | 2.00% | ~28 |
 | Arena Challenger | 2.00% | ~28 |
 | Ebony Jungle Liberator | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |
 | What lies behind the bush | 2.00% | ~28 |
-| Active Member | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
 | Mythic Power | 0.80% | ~11 |
 | Training makes a Pro player | 0.60% | ~8 |

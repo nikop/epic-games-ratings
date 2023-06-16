@@ -33,8 +33,8 @@ Rating: 4.58 (Ranked 425)
 | Swiss Army Strife | 1.00% | ~106 |
 | Assassin | 1.00% | ~106 |
 | Ain’t Nothing But a G Thing | 1.00% | ~106 |
+| Lucky Spinner | 0.90% | ~95 |
 | Chick Magnet | 0.90% | ~95 |
-| Lucky Spinner | 0.80% | ~85 |
 | Hoopin' it Up | 0.70% | ~74 |
 | Not a Player | 0.50% | ~53 |
 | Remastered | 0.50% | ~53 |

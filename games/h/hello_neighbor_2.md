@@ -1,11 +1,11 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.43 (Ranked 650)  
+Rating: 4.43 (Ranked 649)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 75.00% | ~1,847 |
+| Welcome to Raven Brooks | 75.00% | ~1,848 |
 | Shovel Night | 36.00% | ~887 |
 | Case Closed | 35.00% | ~862 |
 | Easy As Pie | 32.00% | ~788 |
@@ -15,12 +15,12 @@ Rating: 4.43 (Ranked 650)
 | Cat Person | 25.00% | ~616 |
 | Hidden Secrets | 24.00% | ~591 |
 | Reunion | 24.00% | ~591 |
-| Climber | 23.00% | ~566 |
-| Mad Scientist | 23.00% | ~566 |
+| Climber | 23.00% | ~567 |
+| Mad Scientist | 23.00% | ~567 |
 | Imprisonment | 22.00% | ~542 |
 | Dog Person | 20.00% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,463 (Ranked 151)  
+Progressed: 2,464 (Ranked 151)  
 Completed: 97 (3.94%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 97 (3.94%) (Ranked 38)
 | 2023-06-13 | 2,453 | 97 |
 | 2023-06-14 | 2,457 | 97 |
 | 2023-06-15 | 2,462 | 97 |
-| 2023-06-16 | 2,463 | 97 |
+| 2023-06-16 | 2,464 | 97 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

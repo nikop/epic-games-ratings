@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -36,7 +36,7 @@
   "Tags": [],
   "EOS_Progressed": 470,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
@@ -1666,9 +1666,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "PLTN",
@@ -1691,8 +1691,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:04:26.5336194+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:04:40.2292431+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:57:32.9054826+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:04:26.5336481+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:57:26.4955461+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:04:40.2292709+00:00"
 }

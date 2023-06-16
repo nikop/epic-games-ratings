@@ -12,9 +12,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Poise and Poisons | 0.90% | ~200 |
 | No Harm in Looking | 0.70% | ~156 |
 | Hands and Hammers | 0.60% | ~134 |
+| Progenitor and Protégé | 0.60% | ~134 |
 | Suns and Soldiers | 0.60% | ~134 |
 | King and Kin | 0.50% | ~111 |
-| Progenitor and Protégé | 0.50% | ~111 |
 | Prequel to the Sequel | 0.50% | ~111 |
 | Truly Blessed | 0.30% | ~67 |
 | Pillow Investments | 0.30% | ~67 |

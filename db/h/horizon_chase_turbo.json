@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -1852,9 +1852,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 978640,
+  "EOS_Progressed": 978735,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 8130,
+  "EOS_NewPlayers": 8140,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7807,6 +7807,11 @@
       "Time": "2023-06-16T14:03:27.8059815+00:00",
       "NumProgressed": 978640,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2023-06-16T15:03:44.2047672+00:00",
+      "NumProgressed": 978735,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 37,
@@ -7818,7 +7823,7 @@
       "Name": "Ghostbuster",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 313165
+      "UsersEstimate": 313195
     },
     {
       "ID": "CompleteAustralia",
@@ -7826,7 +7831,7 @@
       "Name": "Crocodile Hunter",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 7829
+      "UsersEstimate": 7830
     },
     {
       "ID": "CompleteBrazil",
@@ -7834,7 +7839,7 @@
       "Name": "Driver from Ipanema",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "CompleteCalifornia",
@@ -7842,7 +7847,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 68505
+      "UsersEstimate": 68511
     },
     {
       "ID": "CompleteChile",
@@ -7850,7 +7855,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29359
+      "UsersEstimate": 29362
     },
     {
       "ID": "CompleteChina",
@@ -7858,7 +7863,7 @@
       "Name": "Old Master",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 7829
+      "UsersEstimate": 7830
     },
     {
       "ID": "CompleteGreece",
@@ -7866,7 +7871,7 @@
       "Name": "God of Roads",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "CompleteHawaii",
@@ -7874,7 +7879,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "CompleteIceland",
@@ -7882,7 +7887,7 @@
       "Name": "The Iceman",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "CompleteIndia",
@@ -7890,7 +7895,7 @@
       "Name": "Bollywood Star",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "CompleteJapan",
@@ -7898,7 +7903,7 @@
       "Name": "Otaku",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "CompleteSouthAfrica",
@@ -7906,7 +7911,7 @@
       "Name": "Pathfinder",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "CompleteUAE",
@@ -7914,7 +7919,7 @@
       "Name": "Oil Tycoon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "DriveAllCars",
@@ -7930,7 +7935,7 @@
       "Name": "Go-Kart Champion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "FinishAllTournamentsGoldHard",
@@ -7954,7 +7959,7 @@
       "Name": "Survivor",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "FinishEnduranceGoldHard",
@@ -7978,7 +7983,7 @@
       "Name": "Round the Globe",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "FinishWorldTourAllGold",
@@ -7986,7 +7991,7 @@
       "Name": "Golden Passport",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "FinishWorldTourAllSuper",
@@ -7994,7 +7999,7 @@
       "Name": "King of the World",
       "Percentage": 0.5,
       "XP": 125,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "FirstRaceEndurance",
@@ -8002,7 +8007,7 @@
       "Name": "Brave and Bold",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "FirstRaceTournament",
@@ -8010,7 +8015,7 @@
       "Name": "Quickie",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 97864
+      "UsersEstimate": 97874
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -8018,7 +8023,7 @@
       "Name": "The First of Many",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 870990
+      "UsersEstimate": 871074
     },
     {
       "ID": "GetLotsOfScore",
@@ -8026,7 +8031,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "GetReallyFast",
@@ -8034,7 +8039,7 @@
       "Name": "Supersonic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "InstallAllUpgrades",
@@ -8042,7 +8047,7 @@
       "Name": "Harder, Better, Faster, Stronger",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19573
+      "UsersEstimate": 19575
     },
     {
       "ID": "InstallOneUpgrade",
@@ -8050,7 +8055,7 @@
       "Name": "Pump my Ride",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 450174
+      "UsersEstimate": 450218
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -8058,7 +8063,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 166369
+      "UsersEstimate": 166385
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -8066,7 +8071,7 @@
       "Name": "Comeback",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29359
+      "UsersEstimate": 29362
     },
     {
       "ID": "RunLotsOfMiles",
@@ -8074,7 +8079,7 @@
       "Name": "Marathonist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29359
+      "UsersEstimate": 29362
     },
     {
       "ID": "UnlockCar",
@@ -8082,7 +8087,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 606757
+      "UsersEstimate": 606816
     },
     {
       "ID": "WinBySmallDifference",
@@ -8090,7 +8095,7 @@
       "Name": "That Was Close",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 166369
+      "UsersEstimate": 166385
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -8098,7 +8103,7 @@
       "Name": "Living Legend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29359
+      "UsersEstimate": 29362
     },
     {
       "ID": "WinRaceWithoutColliding",
@@ -8106,22 +8111,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 48932
+      "UsersEstimate": 48937
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 978640,
+      "Progressed": 978735,
       "Completed": 304
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-06-15T19:58:02.6484194+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:03:27.805981+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:03:44.2047668+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:48.4846119+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:57:53.4590044+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:03:27.8060928+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:57:53.6351269+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:03:44.2048211+00:00"
 }

@@ -49,8 +49,8 @@ Rating: 4.25 (Ranked 796)
 | Bold and beautiful | 9.00% | ~109 |
 | Tycoon | 7.00% | ~85 |
 | A new Hope | 6.00% | ~73 |
-| Unstoppable | 3.00% | ~36 |
-| Track to the Future | 3.00% | ~36 |
+| Unstoppable | 4.00% | ~49 |
+| Track to the Future | 4.00% | ~49 |
 | Conductor | 3.00% | ~36 |
 | Let off some steam | 2.00% | ~24 |
 | Call of Duty | 2.00% | ~24 |

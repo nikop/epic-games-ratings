@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,730 |
-| The Cursed Farmer | 2.00% | ~1,865 |
+| A Brief Tour of the Realms | 4.00% | ~3,734 |
+| The Cursed Farmer | 2.00% | ~1,867 |
 | Beast Intentions | 1.00% | ~933 |
 | The Ring of Regeneration | 1.00% | ~933 |
 | The Mad Wizard | 1.00% | ~933 |
-| Are Ya Chicken? | 0.90% | ~839 |
-| The Court of Storms | 0.90% | ~536 |
-| Were-verpowered | 0.80% | ~746 |
-| Seeking Allies | 0.80% | ~746 |
-| Beware the Jabberwock | 0.80% | ~476 |
+| Are Ya Chicken? | 0.90% | ~840 |
+| The Court of Storms | 0.90% | ~537 |
+| Were-verpowered | 0.80% | ~747 |
+| Seeking Allies | 0.80% | ~747 |
+| Beware the Jabberwock | 0.80% | ~477 |
 | Mad Cow Disease | 0.70% | ~653 |
 | Friendly Imps | 0.70% | ~653 |
 | A Persistent Buzzing | 0.60% | ~560 |
 | Terror in the Dark | 0.60% | ~560 |
 | The Crumbling Temple | 0.60% | ~560 |
 | Pure Energy | 0.60% | ~560 |
-| Coasting to the Finish | 0.60% | ~357 |
-| Maddening | 0.50% | ~466 |
+| Coasting to the Finish | 0.60% | ~358 |
+| Maddening | 0.50% | ~467 |
 | Checkmate | 0.50% | ~298 |
 | Vecna Out! | 0.50% | ~298 |
-| Beast Mode | 0.50% | ~466 |
-| A Mysterious Summons | 0.50% | ~466 |
-| Building Trust | 0.50% | ~466 |
-| Unearthed Evil | 0.50% | ~466 |
-| Useless Allies | 0.50% | ~466 |
-| Exploring Port Nyanzaru | 0.50% | ~466 |
-| The Contagious Curse | 0.50% | ~466 |
-| Escort to Waterdeep | 0.50% | ~466 |
+| Beast Mode | 0.50% | ~467 |
+| A Mysterious Summons | 0.50% | ~467 |
+| Building Trust | 0.50% | ~467 |
+| Unearthed Evil | 0.50% | ~467 |
+| Useless Allies | 0.50% | ~467 |
+| Exploring Port Nyanzaru | 0.50% | ~467 |
+| The Contagious Curse | 0.50% | ~467 |
+| Escort to Waterdeep | 0.50% | ~467 |
 | Quick or Quack | 0.50% | ~298 |
 | Owlbear Necessities | 0.40% | ~238 |
 | Best Thay Ever | 0.40% | ~238 |
@@ -327,7 +327,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~119 |
 | Madcap Adventures Redux | 0.20% | ~119 |
 | Tiamat's Army | 0.20% | ~119 |
-| Fight Dragons with Dragons | 0.20% | ~119 |
 | Questlines | 0.20% | ~119 |
 | Raggadragga's Crew | 0.20% | ~119 |
 | Bel's Forge | 0.20% | ~119 |
@@ -336,14 +335,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.20% | ~119 |
 | The Giant's Bane Tavern | 0.20% | ~119 |
 | Rime Bandits | 0.20% | ~119 |
-| Giant-Size Adventure | 0.20% | ~119 |
 | The Everlasting Rime | 0.20% | ~119 |
 | Enemy Summit | 0.20% | ~119 |
-| Only Human | 0.20% | ~119 |
 | Moose Tracks | 0.20% | ~119 |
 | An Awakened Axe | 0.20% | ~119 |
 | CONtagious Cold | 0.20% | ~119 |
-| Ten in Ten-Towns | 0.20% | ~119 |
 | Civilization | 0.20% | ~119 |
 | Trench Coat Run | 0.20% | ~119 |
 | The Taunting Lord | 0.20% | ~119 |
@@ -466,14 +462,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.10% | ~60 |
 | When the Going Gets Tough | 0.10% | ~60 |
 | Show of Strength | 0.10% | ~60 |
+| Fight Dragons with Dragons | 0.10% | ~60 |
 | Just The Worst | 0.10% | ~60 |
 | Fire and Brimstone | 0.10% | ~60 |
 | A Tenday at Golgamann's | 0.10% | ~60 |
 | A Nightmare Occasion | 0.10% | ~60 |
 | Prisoners of Lolth | 0.10% | ~60 |
 | Prisoners of Unknown Choices | 0.10% | ~60 |
+| Giant-Size Adventure | 0.10% | ~60 |
 | Power of Three | 0.10% | ~60 |
 | Mirage Arcane | 0.10% | ~60 |
+| Only Human | 0.10% | ~60 |
+| Ten in Ten-Towns | 0.10% | ~60 |
 | Lone Wolf Party | 0.10% | ~60 |
 | A Neutral Party | 0.10% | ~60 |
 | Rickety Rubble | 0.10% | ~60 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~60 |
 | Ineffectual Intellectuals | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,254 (Ranked 64)  
+Progressed: 93,349 (Ranked 64)  
 Completed: 1,942 (2.08%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,942 (2.08%) (Ranked 70)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 93,254 | 1,942 |
+| 2023-06-16 | 93,349 | 1,942 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,123 (Ranked 37)  

@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 20.00% | ~1,252 |
 | Insubordination | 19.00% | ~1,190 |
 | The Italian Job | 19.00% | ~1,190 |
-| The Lion of the Isonzo | 17.00% | ~1,064 |
+| The Lion of the Isonzo | 18.00% | ~1,127 |
 | Ragazzi del '99 | 16.00% | ~1,002 |
 | Thus With A Kiss | 14.00% | ~877 |
 | Dirty Dozen | 13.00% | ~814 |
@@ -109,13 +109,13 @@ Completed: 8 (0.13%) (Ranked 169)
 | 2023-06-16 | 6,261 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
-Sum: 246 (Ranked 346)  
+Sum: 247 (Ranked 346)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game is Extremely Fun | 30 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
 | This game has Realistic Visuals | 27 |
@@ -206,3 +206,4 @@ Diff (max vs sum): 96
 | 2023-06-09 | 4.56 | - | 31 | 244 |
 | 2023-06-10 | 4.56 | - | 32 | 245 |
 | 2023-06-15 | 4.56 | - | 32 | 246 |
+| 2023-06-16 | 4.56 | - | 32 | 247 |

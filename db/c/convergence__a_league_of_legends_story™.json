@@ -1548,9 +1548,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "NoCritterSump",
@@ -1779,8 +1779,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:05:36.124099+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:06:00.4337917+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:59:25.2547369+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:05:36.1241734+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:59:40.4605018+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:06:00.4338409+00:00"
 }

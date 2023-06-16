@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -566,10 +566,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-06-16T14:57:38.5023351+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 247,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 247,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -607,7 +613,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Educational",
@@ -636,7 +642,7 @@
   ],
   "EOS_Progressed": 6261,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3129,9 +3135,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1127
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3201,9 +3207,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-06-15T21:57:37.0554753+00:00",
-  "LastChanged_Achievements": "2023-06-16T14:03:34.5509659+00:00",
+  "LastChanged": "2023-06-16T14:57:38.502335+00:00",
+  "LastChanged_Achievements": "2023-06-16T15:03:52.266156+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-16T13:57:40.8326781+00:00",
-  "LastUpdate_Achievements": "2023-06-16T14:03:34.5510298+00:00"
+  "LastUpdate_Ratings": "2023-06-16T14:57:38.5023356+00:00",
+  "LastUpdate_Achievements": "2023-06-16T15:03:52.2662003+00:00"
 }
