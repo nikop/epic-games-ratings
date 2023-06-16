@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3792,9 +3792,9 @@
       "Count": 508
     }
   ],
-  "EOS_Progressed": 280154,
+  "EOS_Progressed": 280161,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 2651,
+  "EOS_NewPlayers": 2649,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2023-06-16T09:06:07.0550944+00:00",
       "NumProgressed": 280154,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-16T10:06:04.0071738+00:00",
+      "NumProgressed": 280161,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -9792,7 +9797,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16809
+      "UsersEstimate": 16810
     },
     {
       "ID": "PFA_22",
@@ -9912,7 +9917,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16809
+      "UsersEstimate": 16810
     },
     {
       "ID": "PFA_36",
@@ -9992,7 +9997,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16809
+      "UsersEstimate": 16810
     },
     {
       "ID": "PFA_45",
@@ -10016,7 +10021,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22412
+      "UsersEstimate": 22413
     },
     {
       "ID": "PFA_7",
@@ -10024,7 +10029,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22412
+      "UsersEstimate": 22413
     },
     {
       "ID": "PFA_8",
@@ -10040,14 +10045,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16809
+      "UsersEstimate": 16810
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280154,
+      "Progressed": 280161,
       "Completed": 408
     }
   ],
@@ -10055,8 +10060,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-16T08:57:47.8891517+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:06:07.0550934+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:06:04.0071732+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:57:47.8891523+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:06:07.0551878+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:57:57.249497+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:06:04.0072597+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.80% | ~4,482 |
-| Healthy Obsession | 0.70% | ~3,921 |
-| Preemptive Strike | 0.70% | ~3,921 |
-| Humanitarian | 0.70% | ~3,921 |
-| Close Shave | 0.60% | ~3,361 |
-| Wounded Healer | 0.50% | ~2,801 |
-| Flight to Freedom | 0.50% | ~2,801 |
+| Healthy Obsession | 0.80% | ~4,483 |
+| Resurgence | 0.80% | ~4,483 |
+| Preemptive Strike | 0.70% | ~3,922 |
+| Humanitarian | 0.70% | ~3,922 |
+| Wounded Healer | 0.60% | ~3,362 |
+| Close Shave | 0.60% | ~3,362 |
+| Flight to Freedom | 0.50% | ~2,802 |
 | Unforgettable Getaway | 0.40% | ~2,241 |
 | First to the Punch | 0.40% | ~2,241 |
 | Old West Oasis | 0.40% | ~2,241 |
@@ -28,16 +28,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.30% | ~1,681 |
 | Lifting The Fog | 0.30% | ~1,681 |
 | Chorus of Chaos | 0.30% | ~1,681 |
-| Heavy Burden | 0.20% | ~1,120 |
-| Devoted Gatekeeping | 0.20% | ~1,120 |
-| Shrine Apparatus | 0.20% | ~1,120 |
-| Broken Bodies | 0.20% | ~1,120 |
-| Selfless Survival | 0.20% | ~1,120 |
-| I See You | 0.20% | ~1,120 |
-| End of Days | 0.20% | ~1,120 |
-| Insult and Injury | 0.20% | ~1,120 |
-| Outrun the Overlap | 0.20% | ~1,120 |
-| Rebuilding The Borgo | 0.20% | ~1,120 |
+| Heavy Burden | 0.20% | ~1,121 |
+| Devoted Gatekeeping | 0.20% | ~1,121 |
+| Shrine Apparatus | 0.20% | ~1,121 |
+| Broken Bodies | 0.20% | ~1,121 |
+| Selfless Survival | 0.20% | ~1,121 |
+| I See You | 0.20% | ~1,121 |
+| End of Days | 0.20% | ~1,121 |
+| Insult and Injury | 0.20% | ~1,121 |
+| Outrun the Overlap | 0.20% | ~1,121 |
+| Rebuilding The Borgo | 0.20% | ~1,121 |
 | The Grand Sacrifice | 0.10% | ~560 |
 | A bite for the Entity | 0.10% | ~560 |
 | A feast for the Entity | 0.10% | ~560 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~560 |
 | Adept Gabriel | 0.10% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560,198 (Ranked 26)  
+Progressed: 560,323 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 560,198 | 42 |
+| 2023-06-16 | 560,323 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,704 (Ranked 12)  

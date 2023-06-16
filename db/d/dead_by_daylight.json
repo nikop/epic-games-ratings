@@ -6491,9 +6491,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 560198,
+  "EOS_Progressed": 560323,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29685,
+  "EOS_NewPlayers": 29664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12486,6 +12486,11 @@
       "Time": "2023-06-16T09:07:54.6752179+00:00",
       "NumProgressed": 560198,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T10:07:52.4527225+00:00",
+      "NumProgressed": 560323,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13321,7 +13326,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_105",
@@ -13369,7 +13374,7 @@
       "Name": "Devoted Gatekeeping",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_111",
@@ -13391,9 +13396,9 @@
       "ID": "ACH_113",
       "SetID": "16jml5b",
       "Name": "Wounded Healer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 2801
+      "UsersEstimate": 3362
     },
     {
       "ID": "ACH_114",
@@ -13401,7 +13406,7 @@
       "Name": "Shrine Apparatus",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_115",
@@ -13537,7 +13542,7 @@
       "Name": "Broken Bodies",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_135",
@@ -13617,7 +13622,7 @@
       "Name": "Selfless Survival",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_145",
@@ -13663,9 +13668,9 @@
       "ID": "ACH_150",
       "SetID": "16jml5b",
       "Name": "Healthy Obsession",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 3921
+      "UsersEstimate": 4483
     },
     {
       "ID": "ACH_151",
@@ -13689,7 +13694,7 @@
       "Name": "I See You",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_154",
@@ -13713,7 +13718,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4482
+      "UsersEstimate": 4483
     },
     {
       "ID": "ACH_157",
@@ -13737,7 +13742,7 @@
       "Name": "End of Days",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_160",
@@ -13801,7 +13806,7 @@
       "Name": "Insult and Injury",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_168",
@@ -13809,7 +13814,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "ACH_169",
@@ -13833,7 +13838,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH_172",
@@ -13905,7 +13910,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH_181",
@@ -13953,7 +13958,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "ACH_187",
@@ -14041,7 +14046,7 @@
       "Name": "Outrun the Overlap",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_198",
@@ -14137,7 +14142,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_210",
@@ -14256,21 +14261,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 560198,
+      "Progressed": 560323,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 560198,
+      "Progressed": 560323,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-16T03:59:47.7696066+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:07:54.6752171+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:07:52.4527218+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:01:30.924234+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:07:54.6757587+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:01:39.5050108+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:07:52.4533477+00:00"
 }

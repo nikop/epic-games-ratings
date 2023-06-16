@@ -4863,9 +4863,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53294,
+  "EOS_Progressed": 53296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10608,6 +10608,11 @@
       "Time": "2023-06-16T09:07:46.8409528+00:00",
       "NumProgressed": 53294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T10:07:44.7477239+00:00",
+      "NumProgressed": 53296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10619,7 +10624,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "Apple of my eye",
@@ -10699,7 +10704,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "Dynasty",
@@ -10747,7 +10752,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "Great Granny",
@@ -10843,7 +10848,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15988
+      "UsersEstimate": 15989
     },
     {
       "ID": "Lawbringer",
@@ -10851,7 +10856,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19186
+      "UsersEstimate": 19187
     },
     {
       "ID": "Lawmaker",
@@ -10963,7 +10968,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "The king is pleased",
@@ -11026,15 +11031,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53294,
+      "Progressed": 53296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-16T09:00:47.1291109+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:07:46.8409518+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:07:44.7477234+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:00:47.1291115+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:07:46.841045+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:00:56.7599718+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:07:44.7478077+00:00"
 }

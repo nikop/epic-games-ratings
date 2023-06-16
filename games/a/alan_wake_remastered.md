@@ -9,19 +9,19 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 32.00% | ~17,685 |
 | Let There Be Light | 25.00% | ~13,816 |
 | Float Like a Butterfly | 24.00% | ~13,264 |
-| Nordic Walking | 19.00% | ~10,500 |
-| Bright Falls' Finest | 19.00% | ~10,500 |
-| Under a Thin Layer of Skin | 16.00% | ~8,842 |
-| Park Ranger | 13.00% | ~7,184 |
-| Paging Mr. Wake | 13.00% | ~7,184 |
+| Nordic Walking | 19.00% | ~10,501 |
+| Bright Falls' Finest | 19.00% | ~10,501 |
+| Under a Thin Layer of Skin | 16.00% | ~8,843 |
+| Park Ranger | 13.00% | ~7,185 |
+| Paging Mr. Wake | 13.00% | ~7,185 |
 | Back! Back, I Say! | 12.00% | ~6,632 |
 | Finders Keepers | 12.00% | ~6,632 |
 | Sound and Fury | 11.00% | ~6,079 |
 | Missed by a Mile | 11.00% | ~6,079 |
 | Damn Good Cup of Coffee | 11.00% | ~6,079 |
-| Wheels Within Wheels | 10.00% | ~5,526 |
-| They're Heeeeeere! | 10.00% | ~5,526 |
-| The Six-Gun Scribe | 10.00% | ~5,526 |
+| Wheels Within Wheels | 10.00% | ~5,527 |
+| They're Heeeeeere! | 10.00% | ~5,527 |
+| The Six-Gun Scribe | 10.00% | ~5,527 |
 | Heavy Metal | 9.00% | ~4,974 |
 | Iron Horse | 9.00% | ~4,974 |
 | Perchance to Dream | 9.00% | ~4,974 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~55 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,265 (Ranked 77)  
+Progressed: 55,266 (Ranked 77)  
 Completed: 55 (0.10%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 55 (0.10%) (Ranked 172)
 | 2023-06-13 | 54,729 | 55 |
 | 2023-06-14 | 54,950 | 55 |
 | 2023-06-15 | 55,202 | 55 |
-| 2023-06-16 | 55,265 | 55 |
+| 2023-06-16 | 55,266 | 55 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

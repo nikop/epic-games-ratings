@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 137,
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3674,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4519,6 +4519,11 @@
       "Time": "2023-06-16T05:03:14.7510656+00:00",
       "NumProgressed": 3674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T10:02:08.516159+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4530,7 +4535,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -4610,7 +4615,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -4618,7 +4623,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -4626,7 +4631,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4642,7 +4647,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -4682,7 +4687,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4690,7 +4695,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4706,7 +4711,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -4722,7 +4727,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_MYWAYS",
@@ -4754,7 +4759,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -4770,7 +4775,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -4778,7 +4783,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -4802,7 +4807,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4818,7 +4823,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -4842,22 +4847,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3674,
+      "Progressed": 3676,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:02:00.4376722+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:02:08.5161354+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:01:22.8123033+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:02:00.4377728+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:01:31.1518299+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:02:08.5171957+00:00"
 }

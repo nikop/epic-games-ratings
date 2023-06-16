@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~907 |
-| Confirming Suspicions | 25.00% | ~732 |
-| The Kraken Wakes | 21.00% | ~614 |
-| It's Starting to Crack | 18.00% | ~527 |
-| Lord of War | 16.00% | ~468 |
-| Change the Channel | 15.00% | ~439 |
+| Meeting Resistance | 31.00% | ~909 |
+| Confirming Suspicions | 25.00% | ~733 |
+| The Kraken Wakes | 21.00% | ~616 |
+| It's Starting to Crack | 18.00% | ~528 |
+| Lord of War | 16.00% | ~469 |
+| Change the Channel | 15.00% | ~440 |
 | Resourceful | 14.00% | ~410 |
-| Taking it back | 13.00% | ~380 |
-| Target America | 12.00% | ~351 |
+| Taking it back | 13.00% | ~381 |
+| Target America | 12.00% | ~352 |
 | Organ Grinder | 11.00% | ~322 |
 | As Quiet as a Mouse | 11.00% | ~322 |
 | The Kraken Sleeps | 10.00% | ~293 |
-| Liberté | 9.00% | ~263 |
-| Just a Flesh Wound | 9.00% | ~263 |
-| Gunslinger | 9.00% | ~263 |
-| Sharpshooter | 9.00% | ~263 |
-| Explosive Efficiency | 9.00% | ~263 |
+| Liberté | 9.00% | ~264 |
+| Just a Flesh Wound | 9.00% | ~264 |
+| Gunslinger | 9.00% | ~264 |
+| Sharpshooter | 9.00% | ~264 |
+| Explosive Efficiency | 9.00% | ~264 |
 | Enemy at the Gates | 8.00% | ~234 |
 | Opposing Force | 7.00% | ~205 |
 | Der Geist | 7.00% | ~205 |
@@ -52,7 +52,7 @@ Rating: 4.52 (Ranked 516)
 | Last Resort | 0.90% | ~26 |
 | From Paris with Love | 0.80% | ~23 |
 | Souvenir hunter | 0.80% | ~23 |
-| Shoot for the Moon | 0.70% | ~20 |
+| Shoot for the Moon | 0.70% | ~21 |
 | Eagle Eyed | 0.60% | ~18 |
 | Can't Outrun A Bullet | 0.50% | ~15 |
 | If You Go Down To The Woods Today | 0.50% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 516)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,926 (Ranked 145)  
+Progressed: 2,931 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.07%) (Ranked 184)
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
-| 2023-06-16 | 2,926 | 2 |
+| 2023-06-16 | 2,931 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

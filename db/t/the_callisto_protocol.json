@@ -644,9 +644,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15378,
+  "EOS_Progressed": 15379,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4064,6 +4064,11 @@
       "Time": "2023-06-16T09:05:25.9428076+00:00",
       "NumProgressed": 15378,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T10:05:22.5983179+00:00",
+      "NumProgressed": 15379,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4091,7 +4096,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4107,7 +4112,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4283,7 +4288,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "STORY_HANGAR",
@@ -4394,13 +4399,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15378,
+      "Progressed": 15379,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3304,
+      "Progressed": 3305,
       "Completed": 29
     }
   ],
@@ -4408,8 +4413,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-15T19:58:15.7237363+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:05:25.9428066+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:05:22.5983172+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:58:27.9638007+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:05:25.9428636+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:58:37.4807499+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:05:22.5983756+00:00"
 }

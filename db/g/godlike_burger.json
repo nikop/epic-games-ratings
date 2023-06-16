@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 267
     },
     {
       "ID": "GB_GOURMET",
@@ -745,8 +745,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:02:04.1738625+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:02:12.649667+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:33.1582218+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:58:59.501877+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:02:04.1738938+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:59:08.719109+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:02:12.6497083+00:00"
 }

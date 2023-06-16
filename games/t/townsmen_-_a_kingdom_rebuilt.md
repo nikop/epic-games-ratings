@@ -10,7 +10,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 10.00% | ~417 |
 | A new beginning | 10.00% | ~417 |
 | Friends from the past | 9.00% | ~375 |
-| I like to build stuff... I | 7.00% | ~292 |
+| I like to build stuff... I | 8.00% | ~334 |
 | A time consuming game I | 7.00% | ~292 |
 | Builder I | 6.00% | ~250 |
 | An honorable Governor I | 6.00% | ~250 |

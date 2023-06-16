@@ -26,7 +26,7 @@ Rating: 4.60 (Ranked 390)
 | Bookworm | 36.00% | ~169 |
 | Up In Flames | 36.00% | ~169 |
 | Fhtagn! | 36.00% | ~169 |
-| Let Me Be Frank | 33.00% | ~155 |
+| Let Me Be Frank | 34.00% | ~159 |
 | Brain Food | 32.00% | ~150 |
 | No Stone Unturned | 30.00% | ~141 |
 | Curiosity Killed The Cat | 21.00% | ~98 |

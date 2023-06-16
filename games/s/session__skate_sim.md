@@ -1,23 +1,23 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 56.00% | ~1,371 |
+| You're free now! | 56.00% | ~1,372 |
 | Keeping it classy | 25.00% | ~612 |
 | Welcome to the family | 18.00% | ~441 |
 | The finer things in life | 16.00% | ~392 |
 | Backpacker | 12.00% | ~294 |
-| Go with the Flow | 11.00% | ~269 |
+| Go with the Flow | 11.00% | ~270 |
 | Plastic Surgeon | 9.00% | ~220 |
 | Keep the dream alive | 8.00% | ~196 |
 | The flip trick crown jewel | 8.00% | ~196 |
 | The hard way | 8.00% | ~196 |
-| Good vibes | 7.00% | ~171 |
-| Upfront shredder | 7.00% | ~171 |
+| Good vibes | 7.00% | ~172 |
+| Upfront shredder | 7.00% | ~172 |
 | Finally he zips it | 6.00% | ~147 |
 | That pinch! | 6.00% | ~147 |
 | Tight lipslides | 6.00% | ~147 |
@@ -38,11 +38,11 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~98 |
 | Tank commander | 4.00% | ~98 |
 | Trick shot marksman | 4.00% | ~98 |
-| Cops called! | 3.00% | ~73 |
-| G.O.A.T. status | 3.00% | ~73 |
-| Hoarder | 3.00% | ~73 |
-| Prince of Philly | 3.00% | ~73 |
-| We get it, you're good | 3.00% | ~73 |
+| Cops called! | 3.00% | ~74 |
+| G.O.A.T. status | 3.00% | ~74 |
+| Hoarder | 3.00% | ~74 |
+| Prince of Philly | 3.00% | ~74 |
+| We get it, you're good | 3.00% | ~74 |
 | Cross lock country | 2.00% | ~49 |
 | Many plys later... | 2.00% | ~49 |
 | Pew-Pew | 2.00% | ~49 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,449 (Ranked 152)  
+Progressed: 2,450 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 2,418 | 0 |
 | 2023-06-14 | 2,432 | 0 |
 | 2023-06-15 | 2,449 | 0 |
+| 2023-06-16 | 2,450 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 303)  

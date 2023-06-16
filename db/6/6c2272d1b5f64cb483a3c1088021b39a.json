@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2023-06-16T09:04:27.4268196+00:00",
       "NumProgressed": 516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T10:04:24.7407327+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1267,7 +1272,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "adventurous_2",
@@ -1459,7 +1464,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "elite_deck_2",
@@ -1794,14 +1799,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:04:27.4268188+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:04:24.7407322+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:57:15.8286643+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:04:27.4268912+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:57:26.2885948+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:04:24.7408093+00:00"
 }

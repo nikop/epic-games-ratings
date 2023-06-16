@@ -2462,9 +2462,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49554,
+  "EOS_Progressed": 49555,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -7437,6 +7437,11 @@
       "Time": "2023-06-16T09:07:47.5258287+00:00",
       "NumProgressed": 49554,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-06-16T10:07:45.544265+00:00",
+      "NumProgressed": 49555,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 45,
@@ -7584,7 +7589,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23290
+      "UsersEstimate": 23291
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -7592,7 +7597,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17839
+      "UsersEstimate": 17840
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -7688,7 +7693,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28741
+      "UsersEstimate": 28742
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -7712,7 +7717,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48067
+      "UsersEstimate": 48068
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7752,7 +7757,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35183
+      "UsersEstimate": 35184
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -7800,22 +7805,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35183
+      "UsersEstimate": 35184
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49554,
+      "Progressed": 49555,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-15T18:00:27.2909455+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:07:47.5258277+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:07:45.5442643+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.3457729+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:01:55.0885706+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:07:47.5259114+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:02:03.4210778+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:07:45.5443337+00:00"
 }

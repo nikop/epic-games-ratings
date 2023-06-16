@@ -39,9 +39,9 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 5.00% | ~30 |
 | Passage | 5.00% | ~30 |
 | Proportions | 5.00% | ~30 |
+| Bloodhunter | 4.00% | ~24 |
 | Breath | 4.00% | ~24 |
 | Weakness | 4.00% | ~24 |
-| Bloodhunter | 3.00% | ~18 |
 | Listen | 3.00% | ~5 |
 | Zygote | 2.00% | ~4 |
 | Generous | 2.00% | ~12 |

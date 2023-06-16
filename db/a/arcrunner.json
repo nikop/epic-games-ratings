@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-06-16T09:02:45.2813797+00:00",
       "NumProgressed": 486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T10:03:13.021723+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -969,7 +974,7 @@
       "Name": "Augmented",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -977,7 +982,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -985,7 +990,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -993,7 +998,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHV_CITY",
@@ -1001,7 +1006,7 @@
       "Name": "The City",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1009,7 +1014,7 @@
       "Name": "Cybernetic",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1071,9 +1076,9 @@
       "ID": "ACHV_INTEGRATION",
       "SetID": "cceobco",
       "Name": "Integration",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHV_NANONIC1",
@@ -1081,7 +1086,7 @@
       "Name": "Nanonic I",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1121,7 +1126,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1145,7 +1150,7 @@
       "Name": "Terminated II",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1169,7 +1174,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1192,7 +1197,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 0
     }
   ],
@@ -1200,8 +1205,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-16T09:02:45.2813788+00:00",
+  "LastChanged_Achievements": "2023-06-16T10:03:13.0217223+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-16T09:00:40.7864033+00:00",
-  "LastUpdate_Achievements": "2023-06-16T09:02:45.2814085+00:00"
+  "LastUpdate_Ratings": "2023-06-16T10:00:50.1539256+00:00",
+  "LastUpdate_Achievements": "2023-06-16T10:03:13.0217543+00:00"
 }

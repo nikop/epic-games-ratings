@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,044 |
-| That's a Grand Army | 8.00% | ~4,484 |
-| That is mine! | 8.00% | ~4,484 |
-| Victorious! | 8.00% | ~4,484 |
-| Brothers in Arms | 6.00% | ~3,363 |
-| That's a Grand Navy | 6.00% | ~3,363 |
-| Seriously?! | 6.00% | ~3,363 |
-| For the Glory | 5.00% | ~2,802 |
-| Cold War | 4.00% | ~2,242 |
-| True Catholic | 4.00% | ~2,242 |
+| Until death do us apart | 9.00% | ~5,046 |
+| That's a Grand Army | 8.00% | ~4,485 |
+| That is mine! | 8.00% | ~4,485 |
+| Victorious! | 8.00% | ~4,485 |
+| Brothers in Arms | 6.00% | ~3,364 |
+| That's a Grand Navy | 6.00% | ~3,364 |
+| Seriously?! | 6.00% | ~3,364 |
+| For the Glory | 5.00% | ~2,803 |
+| Cold War | 4.00% | ~2,243 |
+| True Catholic | 4.00% | ~2,243 |
 | Defender of the Faith | 3.00% | ~1,682 |
 | It's all about the money | 3.00% | ~1,682 |
 | Respected | 3.00% | ~1,682 |
@@ -31,19 +31,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,121 |
 | The Princess is in this Castle | 2.00% | ~1,121 |
 | Total Control | 2.00% | ~1,121 |
-| All That's Thine Shall Be Mine | 1.00% | ~560 |
-| Azur semé de lis or | 1.00% | ~560 |
-| Bright Spark | 1.00% | ~560 |
-| City of Cities | 1.00% | ~560 |
-| Factionalism | 1.00% | ~560 |
-| A Golden Empire | 1.00% | ~560 |
-| The Five Colonies | 1.00% | ~560 |
-| This navy can take it all | 1.00% | ~560 |
-| The Emperors new clothes | 0.90% | ~504 |
-| Isn't this the way to India? | 0.90% | ~504 |
-| Market Control | 0.90% | ~504 |
-| Down Under | 0.80% | ~448 |
-| Trustworthy | 0.80% | ~448 |
+| All That's Thine Shall Be Mine | 1.00% | ~561 |
+| Azur semé de lis or | 1.00% | ~561 |
+| Bright Spark | 1.00% | ~561 |
+| City of Cities | 1.00% | ~561 |
+| Factionalism | 1.00% | ~561 |
+| A Golden Empire | 1.00% | ~561 |
+| The Five Colonies | 1.00% | ~561 |
+| This navy can take it all | 1.00% | ~561 |
+| The Emperors new clothes | 0.90% | ~505 |
+| Isn't this the way to India? | 0.90% | ~505 |
+| Market Control | 0.90% | ~505 |
+| Down Under | 0.80% | ~449 |
+| Trustworthy | 0.80% | ~449 |
 | All belongs to Mother Russia | 0.60% | ~336 |
 | At every continent | 0.60% | ~336 |
 | Early-Modern Warfare | 0.60% | ~336 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,050 (Ranked 76)  
+Progressed: 56,065 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
-| 2023-06-16 | 56,050 | 0 |
+| 2023-06-16 | 56,065 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
 Sum: 44,592 (Ranked 27)  

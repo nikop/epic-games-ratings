@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,784 |
-| The Cursed Farmer | 2.00% | ~1,856 |
-| Beast Intentions | 1.00% | ~928 |
-| The Ring of Regeneration | 1.00% | ~928 |
-| The Mad Wizard | 1.00% | ~928 |
+| A Brief Tour of the Realms | 4.00% | ~3,715 |
+| The Cursed Farmer | 2.00% | ~1,858 |
+| Beast Intentions | 1.00% | ~929 |
+| The Ring of Regeneration | 1.00% | ~929 |
+| The Mad Wizard | 1.00% | ~929 |
 | The Court of Storms | 0.90% | ~532 |
 | Were-verpowered | 0.80% | ~743 |
 | Seeking Allies | 0.80% | ~743 |
@@ -22,8 +22,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.60% | ~557 |
 | Pure Energy | 0.60% | ~557 |
 | Coasting to the Finish | 0.60% | ~355 |
-| Checkmate | 0.50% | ~295 |
-| Vecna Out! | 0.50% | ~295 |
+| Checkmate | 0.50% | ~296 |
+| Vecna Out! | 0.50% | ~296 |
 | Beast Mode | 0.50% | ~464 |
 | A Mysterious Summons | 0.50% | ~464 |
 | Building Trust | 0.50% | ~464 |
@@ -33,27 +33,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.50% | ~464 |
 | The Contagious Curse | 0.50% | ~464 |
 | Escort to Waterdeep | 0.50% | ~464 |
-| Quick or Quack | 0.50% | ~295 |
-| Maddening | 0.40% | ~371 |
-| Owlbear Necessities | 0.40% | ~236 |
-| Best Thay Ever | 0.40% | ~236 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~236 |
-| Pin and Skewer | 0.40% | ~236 |
-| Low Initiative | 0.40% | ~371 |
-| No Time To Rest | 0.40% | ~371 |
-| The Dinner Party | 0.40% | ~371 |
-| The Death Curse | 0.40% | ~371 |
-| Running of the Saurs | 0.40% | ~371 |
-| Waterdeep Detours | 0.40% | ~371 |
-| Underdeep Cartography | 0.40% | ~371 |
-| Overdue Rendezvous | 0.40% | ~371 |
-| The Templar's Camp | 0.40% | ~371 |
-| Rescue in the Jungle | 0.40% | ~371 |
-| Pros and CONs | 0.30% | ~278 |
+| Quick or Quack | 0.50% | ~296 |
+| Maddening | 0.40% | ~372 |
+| Owlbear Necessities | 0.40% | ~237 |
+| Best Thay Ever | 0.40% | ~237 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~237 |
+| Pin and Skewer | 0.40% | ~237 |
+| Low Initiative | 0.40% | ~372 |
+| No Time To Rest | 0.40% | ~372 |
+| The Dinner Party | 0.40% | ~372 |
+| The Death Curse | 0.40% | ~372 |
+| Running of the Saurs | 0.40% | ~372 |
+| Waterdeep Detours | 0.40% | ~372 |
+| Underdeep Cartography | 0.40% | ~372 |
+| Overdue Rendezvous | 0.40% | ~372 |
+| The Templar's Camp | 0.40% | ~372 |
+| Rescue in the Jungle | 0.40% | ~372 |
+| Pros and CONs | 0.30% | ~279 |
 | Tall Tales | 0.30% | ~177 |
 | Third Third Out | 0.30% | ~177 |
-| The Silken Swamp | 0.30% | ~278 |
-| Supply Run | 0.30% | ~278 |
+| The Silken Swamp | 0.30% | ~279 |
+| Supply Run | 0.30% | ~279 |
 | Keep Your Distance | 0.30% | ~177 |
 | Hands Off! | 0.30% | ~177 |
 | The Dread Domain of Tovag | 0.30% | ~177 |
@@ -62,45 +62,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~177 |
 | Get Back In The Castle | 0.30% | ~177 |
 | Bully for Vecna | 0.30% | ~177 |
-| Homecoming | 0.30% | ~278 |
-| The Lost Heir of Omu | 0.30% | ~278 |
+| Homecoming | 0.30% | ~279 |
+| The Lost Heir of Omu | 0.30% | ~279 |
 | No One Can Hear You Scream | 0.30% | ~177 |
 | Welcome to the Rock | 0.30% | ~177 |
-| The Forbidden City | 0.30% | ~278 |
-| Captured! | 0.30% | ~278 |
-| Street War | 0.30% | ~278 |
-| March of the Undead | 0.30% | ~278 |
-| Wisdom Check | 0.30% | ~278 |
-| Sleuth It Out | 0.30% | ~278 |
-| A Grand Puzzle | 0.30% | ~278 |
-| Tomb of the Nine Gods | 0.30% | ~278 |
-| The Mists of Ravenloft | 0.30% | ~278 |
-| Invisible Shadows | 0.30% | ~278 |
-| Family Entanglements | 0.30% | ~278 |
-| The Botched Kidnapping | 0.30% | ~278 |
-| Tower on the Lake | 0.30% | ~278 |
-| Seeds of Deceit | 0.30% | ~278 |
-| Trollskull Manor | 0.30% | ~278 |
-| Attack on the Manor | 0.30% | ~278 |
-| Nimble Escape | 0.30% | ~278 |
-| Fugitives | 0.30% | ~278 |
-| Premature Betrayal | 0.30% | ~278 |
-| Hopelessly Lost | 0.30% | ~278 |
-| Enter the Sargauth | 0.30% | ~278 |
-| A Tale of Two Cities | 0.30% | ~278 |
-| The Dead Three | 0.30% | ~278 |
-| Flying Monkey Skulls of Doom | 0.30% | ~278 |
-| The Darkness Runs Deeper | 0.30% | ~278 |
-| Dinosaur Racing | 0.30% | ~278 |
+| The Forbidden City | 0.30% | ~279 |
+| Captured! | 0.30% | ~279 |
+| Street War | 0.30% | ~279 |
+| March of the Undead | 0.30% | ~279 |
+| Wisdom Check | 0.30% | ~279 |
+| Sleuth It Out | 0.30% | ~279 |
+| A Grand Puzzle | 0.30% | ~279 |
+| Tomb of the Nine Gods | 0.30% | ~279 |
+| The Mists of Ravenloft | 0.30% | ~279 |
+| Invisible Shadows | 0.30% | ~279 |
+| Family Entanglements | 0.30% | ~279 |
+| The Botched Kidnapping | 0.30% | ~279 |
+| Tower on the Lake | 0.30% | ~279 |
+| Seeds of Deceit | 0.30% | ~279 |
+| Trollskull Manor | 0.30% | ~279 |
+| Attack on the Manor | 0.30% | ~279 |
+| Nimble Escape | 0.30% | ~279 |
+| Fugitives | 0.30% | ~279 |
+| Premature Betrayal | 0.30% | ~279 |
+| Hopelessly Lost | 0.30% | ~279 |
+| Enter the Sargauth | 0.30% | ~279 |
+| A Tale of Two Cities | 0.30% | ~279 |
+| The Dead Three | 0.30% | ~279 |
+| Flying Monkey Skulls of Doom | 0.30% | ~279 |
+| The Darkness Runs Deeper | 0.30% | ~279 |
+| Dinosaur Racing | 0.30% | ~279 |
 | Hearts Aflame | 0.30% | ~177 |
 | Look Out! | 0.30% | ~177 |
 | Bad Odds in Avernus | 0.30% | ~177 |
 | An Even Worse Time in Avernus | 0.30% | ~177 |
-| Close Escort | 0.30% | ~278 |
-| Constant Banditry | 0.30% | ~278 |
-| The Long Haul | 0.30% | ~278 |
-| Lost in the Deep | 0.30% | ~278 |
-| Easily Distracted | 0.30% | ~278 |
+| Close Escort | 0.30% | ~279 |
+| Constant Banditry | 0.30% | ~279 |
+| The Long Haul | 0.30% | ~279 |
+| Lost in the Deep | 0.30% | ~279 |
+| Easily Distracted | 0.30% | ~279 |
 | Witty Riposting | 0.30% | ~177 |
 | How Far Away is Thay | 0.30% | ~177 |
 | Upholding the Law | 0.20% | ~186 |
@@ -197,6 +197,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.20% | ~186 |
 | Azaka's Procession - Part 1 | 0.20% | ~186 |
 | Snakes on our Plane | 0.20% | ~118 |
+| The Soulmonger Calls | 0.20% | ~186 |
 | Azaka's Procession - Part 2 | 0.20% | ~186 |
 | The Hunt for Owl-y | 0.20% | ~186 |
 | Werewolves in the Mist | 0.20% | ~186 |
@@ -414,7 +415,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~59 |
 | The Egg of Nat's Desire | 0.10% | ~59 |
 | Fall From Grace | 0.10% | ~93 |
-| The Soulmonger Calls | 0.10% | ~93 |
 | Acererak's Puzzle | 0.10% | ~59 |
 | This Quest Stinks! | 0.10% | ~59 |
 | Form Ranks | 0.10% | ~93 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,815 (Ranked 64)  
+Progressed: 92,886 (Ranked 64)  
 Completed: 1,941 (2.09%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,941 (2.09%) (Ranked 68)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 92,815 | 1,941 |
+| 2023-06-16 | 92,886 | 1,941 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,120 (Ranked 37)  
