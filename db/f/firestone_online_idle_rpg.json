@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3156,6 +3156,11 @@
       "Time": "2023-06-15T23:06:34.9344782+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T02:15:56.598245+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3495,7 +3500,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "minerclicker",
@@ -3591,7 +3596,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "scrollmaster",
@@ -3727,7 +3732,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "warmachinesarmy",
@@ -3759,14 +3764,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 1
     }
   ],
@@ -3774,8 +3779,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:50.2984376+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:56.5982446+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:57:57.689501+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:50.2985416+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:07:45.3472026+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:56.5983506+00:00"
 }

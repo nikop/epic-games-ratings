@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25896,
+  "EOS_Progressed": 25908,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6111,6 +6111,11 @@
       "Time": "2023-06-16T00:05:38.7566242+00:00",
       "NumProgressed": 25896,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-16T02:15:43.5577296+00:00",
+      "NumProgressed": 25908,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -6122,7 +6127,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4145
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6130,7 +6135,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5179
+      "UsersEstimate": 5182
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6218,7 +6223,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -6353,7 +6358,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25896,
+      "Progressed": 25908,
       "Completed": 19
     }
   ],
@@ -6361,8 +6366,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:38.7566238+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:43.5577293+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:38.0700165+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:38.7566871+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:09:48.4174308+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:43.5577891+00:00"
 }

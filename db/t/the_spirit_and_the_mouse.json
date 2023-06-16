@@ -131,9 +131,9 @@
       "ID": "lightbulbs.east",
       "SetID": "bbgli2k",
       "Name": "East Street Lightbulbs",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "lightbulbs.north",
@@ -147,17 +147,17 @@
       "ID": "lightbulbs.south",
       "SetID": "bbgli2k",
       "Name": "South Square Lightbulbs",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "lightbulbs.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Lightbulbs",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "lightbulbs1",
@@ -219,9 +219,9 @@
       "ID": "neighenergy.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Energy",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "plush",
@@ -307,9 +307,9 @@
       "ID": "riddles",
       "SetID": "bbgli2k",
       "Name": "Riddle Master",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "shop.golden",
@@ -323,17 +323,17 @@
       "ID": "shop.maps",
       "SetID": "bbgli2k",
       "Name": "Cartographer",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "shop.teleport",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:35.9337583+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:40.0284724+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:09.5958598+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:57:09.3378073+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:35.9337899+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:06:47.7199224+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:40.0284999+00:00"
 }

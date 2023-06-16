@@ -11,8 +11,8 @@
 | This is a Wall | 43.00% | ~82 |
 | Extendable Bridges | 37.00% | ~70 |
 | 48 Attempts | 34.00% | ~65 |
-| Man's Best Friend | 32.00% | ~61 |
-| Chain Reaction | 31.00% | ~59 |
+| Man's Best Friend | 33.00% | ~63 |
+| Chain Reaction | 32.00% | ~61 |
 | Handyman | 20.00% | ~38 |
 | No Time To Relax | 17.00% | ~32 |
 | Bad Robots | 15.00% | ~28 |

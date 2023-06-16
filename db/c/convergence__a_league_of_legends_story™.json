@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 696,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1338,9 +1338,9 @@
       "ID": "AllSpecials",
       "SetID": "a9e499d",
       "Name": "Thinking Two Steps Ahead",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CamilleDefeated",
@@ -1769,8 +1769,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:14.8970621+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:15.2922438+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:09.302029+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:14.8971461+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:09:12.4935893+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:15.2922948+00:00"
 }

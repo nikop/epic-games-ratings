@@ -2,7 +2,7 @@
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
   "ProductSlug": "solar-ash",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 458,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 106,
   "RatingHistory": [
     {
@@ -247,6 +247,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-06-16T02:09:23.0876604+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -272,8 +278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "LastChanged": "2023-05-27T01:59:24.9581941+00:00",
+  "LastChanged": "2023-06-16T02:09:23.0876601+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.4527515+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:17.6817058+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:04:53.035223+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:09:23.0876611+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:14:49.7027778+00:00"
 }

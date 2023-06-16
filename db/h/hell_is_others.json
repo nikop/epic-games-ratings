@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251172,
+  "EOS_Progressed": 251173,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6176,6 +6176,11 @@
       "Time": "2023-06-16T00:03:27.3275888+00:00",
       "NumProgressed": 251172,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T02:13:09.1530578+00:00",
+      "NumProgressed": 251173,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6235,7 +6240,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77863
+      "UsersEstimate": 77864
     },
     {
       "ID": "BackHomeNTimes",
@@ -6634,7 +6639,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251172,
+      "Progressed": 251173,
       "Completed": 1
     }
   ],
@@ -6642,8 +6647,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-15T12:01:38.950145+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:03:27.3275882+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:13:09.1530574+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:52.7332192+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:03:27.3276778+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:10:05.8700935+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:13:09.1531409+00:00"
 }

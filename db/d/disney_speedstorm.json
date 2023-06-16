@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2794,
+  "EOS_Progressed": 2795,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2705,6 +2705,11 @@
       "Time": "2023-06-16T00:03:53.1102986+00:00",
       "NumProgressed": 2794,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-16T02:13:39.2488919+00:00",
+      "NumProgressed": 2795,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 24,
@@ -2820,7 +2825,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "22",
@@ -2828,7 +2833,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "23",
@@ -2836,7 +2841,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "24",
@@ -2844,7 +2849,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "3",
@@ -2852,7 +2857,7 @@
       "Name": "FRIENDLY",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "4",
@@ -2860,7 +2865,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "5",
@@ -2907,13 +2912,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2794,
+      "Progressed": 2795,
       "Completed": 17
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:03:53.1102978+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:13:39.2488914+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:58:46.97391+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:03:53.1103368+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:08:44.5722222+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:13:39.24893+00:00"
 }

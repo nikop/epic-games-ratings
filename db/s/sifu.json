@@ -4632,9 +4632,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709529,
+  "EOS_Progressed": 709534,
   "EOS_Completed": 12771,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10007,6 +10007,11 @@
       "Time": "2023-06-16T00:05:53.5304905+00:00",
       "NumProgressed": 709529,
       "NumCompleted": 12771
+    },
+    {
+      "Time": "2023-06-16T02:16:00.1897727+00:00",
+      "NumProgressed": 709534,
+      "NumCompleted": 12771
     }
   ],
   "TotalAchievements": 50,
@@ -10176,9 +10181,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4967
+      "UsersEstimate": 5676
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -10417,21 +10422,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18830,
+      "Progressed": 18835,
       "Completed": 10272
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709529,
+      "Progressed": 709534,
       "Completed": 12771
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-15T17:59:03.5993161+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:53.5304899+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:16:00.1897724+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:58:49.1472585+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:53.5305711+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:08:47.2845265+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:16:00.1898523+00:00"
 }

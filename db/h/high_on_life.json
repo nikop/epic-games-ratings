@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,7 +208,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22872,
+  "EOS_Progressed": 22873,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1558,6 +1558,11 @@
       "Time": "2023-06-15T19:05:14.2383563+00:00",
       "NumProgressed": 22872,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-16T02:14:20.964017+00:00",
+      "NumProgressed": 22873,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1585,7 +1590,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17611
+      "UsersEstimate": 17612
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1601,7 +1606,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -1641,7 +1646,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -1649,7 +1654,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5489
+      "UsersEstimate": 5490
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1657,7 +1662,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5489
+      "UsersEstimate": 5490
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1673,7 +1678,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18984
+      "UsersEstimate": 18985
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1689,7 +1694,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13037
+      "UsersEstimate": 13038
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1697,7 +1702,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13494
+      "UsersEstimate": 13495
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1745,7 +1750,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -1793,7 +1798,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -1824,22 +1829,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22872,
+      "Progressed": 22873,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 165,
-      "Completed": 165
+      "Progressed": 166,
+      "Completed": 166
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:04:29.1178095+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:14:20.9640166+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.5213161+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:57:57.035932+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:04:29.1178398+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:07:44.5168445+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:14:20.9640497+00:00"
 }

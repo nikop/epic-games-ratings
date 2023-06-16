@@ -5,13 +5,13 @@ Rating: 3.81 (Ranked 931)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,402 |
-| The First Step | 88.00% | ~1,259 |
+| Welcome to Moonbury | 98.00% | ~1,403 |
+| The First Step | 88.00% | ~1,260 |
 | Moonbury Traveller | 63.00% | ~902 |
-| Rookie Chemist | 62.00% | ~887 |
+| Rookie Chemist | 62.00% | ~888 |
 | Great Doctor | 50.00% | ~716 |
 | Dog Whisperer | 48.00% | ~687 |
-| Friendly | 46.00% | ~658 |
+| Friendly | 46.00% | ~659 |
 | K.O.! | 42.00% | ~601 |
 | The Capitalist | 42.00% | ~601 |
 | Intermediate Chemist | 38.00% | ~544 |
@@ -26,11 +26,11 @@ Rating: 3.81 (Ranked 931)
 | Stone Specialist | 13.00% | ~186 |
 | Expert Chemist | 12.00% | ~172 |
 | Ablutomaniac | 12.00% | ~172 |
-| Line Cook | 11.00% | ~157 |
-| Sociable | 11.00% | ~157 |
-| Production Sorter | 11.00% | ~157 |
+| Line Cook | 11.00% | ~158 |
+| Sociable | 11.00% | ~158 |
+| Production Sorter | 11.00% | ~158 |
 | Good Samaritan | 9.00% | ~129 |
-| Acrobatic Adventurer | 8.00% | ~114 |
+| Acrobatic Adventurer | 8.00% | ~115 |
 | Animal Exterminator | 7.00% | ~100 |
 | Adolescent Love | 6.00% | ~86 |
 | Mail Carrier | 5.00% | ~72 |
@@ -44,8 +44,8 @@ Rating: 3.81 (Ranked 931)
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,431 (Ranked 165)  
-Completed: 7 (0.49%) (Ranked 120)  
+Progressed: 1,432 (Ranked 165)  
+Completed: 7 (0.49%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 7 (0.49%) (Ranked 120)
 | 2023-06-13 | 1,414 | 7 |
 | 2023-06-14 | 1,419 | 7 |
 | 2023-06-15 | 1,431 | 7 |
+| 2023-06-16 | 1,432 | 7 |
 ## Awards
 Max (Character Customization): 66  (Ranked 371)  
 Sum: 66 (Ranked 428)  

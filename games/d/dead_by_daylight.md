@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.70% | ~3,914 |
-| Resurgence | 0.70% | ~3,914 |
-| Preemptive Strike | 0.70% | ~3,914 |
-| Humanitarian | 0.70% | ~3,914 |
-| Wounded Healer | 0.50% | ~2,795 |
-| Close Shave | 0.50% | ~2,795 |
-| Flight to Freedom | 0.50% | ~2,795 |
-| Unforgettable Getaway | 0.40% | ~2,236 |
-| First to the Punch | 0.40% | ~2,236 |
-| Old West Oasis | 0.40% | ~2,236 |
-| With Scars to Show | 0.40% | ~2,236 |
-| Cutting Out | 0.30% | ~1,677 |
-| Operation: Survival | 0.30% | ~1,677 |
-| Classy Act | 0.30% | ~1,677 |
-| Every Last Drop | 0.30% | ~1,677 |
-| Raccoon City Recruit | 0.30% | ~1,677 |
-| A Fast Death | 0.30% | ~1,677 |
-| Lifting The Fog | 0.30% | ~1,677 |
-| Chorus of Chaos | 0.30% | ~1,677 |
-| Ancestor's Rite | 0.20% | ~1,118 |
-| Devoted Gatekeeping | 0.20% | ~1,118 |
-| Shrine Apparatus | 0.20% | ~1,118 |
-| Outrun Evil | 0.20% | ~1,118 |
-| Broken Bodies | 0.20% | ~1,118 |
-| Grim Pilgrimage | 0.20% | ~1,118 |
-| Selfless Survival | 0.20% | ~1,118 |
-| I See You | 0.20% | ~1,118 |
-| End of Days | 0.20% | ~1,118 |
-| Insult and Injury | 0.20% | ~1,118 |
-| Outrun the Overlap | 0.20% | ~1,118 |
+| Healthy Obsession | 0.70% | ~3,916 |
+| Resurgence | 0.70% | ~3,916 |
+| Preemptive Strike | 0.70% | ~3,916 |
+| Humanitarian | 0.70% | ~3,916 |
+| Close Shave | 0.60% | ~3,356 |
+| Wounded Healer | 0.50% | ~2,797 |
+| Flight to Freedom | 0.50% | ~2,797 |
+| Unforgettable Getaway | 0.40% | ~2,238 |
+| First to the Punch | 0.40% | ~2,238 |
+| Old West Oasis | 0.40% | ~2,238 |
+| Every Last Drop | 0.40% | ~2,238 |
+| With Scars to Show | 0.40% | ~2,238 |
+| Cutting Out | 0.30% | ~1,678 |
+| Outrun Evil | 0.30% | ~1,678 |
+| Operation: Survival | 0.30% | ~1,678 |
+| Classy Act | 0.30% | ~1,678 |
+| Raccoon City Recruit | 0.30% | ~1,678 |
+| A Fast Death | 0.30% | ~1,678 |
+| Lifting The Fog | 0.30% | ~1,678 |
+| Chorus of Chaos | 0.30% | ~1,678 |
+| Ancestor's Rite | 0.20% | ~1,119 |
+| Devoted Gatekeeping | 0.20% | ~1,119 |
+| Shrine Apparatus | 0.20% | ~1,119 |
+| Broken Bodies | 0.20% | ~1,119 |
+| Grim Pilgrimage | 0.20% | ~1,119 |
+| Selfless Survival | 0.20% | ~1,119 |
+| I See You | 0.20% | ~1,119 |
+| End of Days | 0.20% | ~1,119 |
+| Insult and Injury | 0.20% | ~1,119 |
+| Outrun the Overlap | 0.20% | ~1,119 |
 | The Grand Sacrifice | 0.10% | ~559 |
 | A bite for the Entity | 0.10% | ~559 |
 | A feast for the Entity | 0.10% | ~559 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~559 |
 | Adept Gabriel | 0.10% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 559,085 (Ranked 26)  
+Progressed: 559,403 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 211)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 559,085 | 42 |
+| 2023-06-16 | 559,403 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,631 (Ranked 12)  

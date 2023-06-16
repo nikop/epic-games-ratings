@@ -6,9 +6,9 @@
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -644,9 +644,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15364,
+  "EOS_Progressed": 15368,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4034,6 +4034,11 @@
       "Time": "2023-06-16T00:04:10.4337125+00:00",
       "NumProgressed": 15364,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T02:13:59.0945308+00:00",
+      "NumProgressed": 15368,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4061,7 +4066,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4077,7 +4082,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4173,7 +4178,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "KILL_ROBOT",
@@ -4213,7 +4218,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4237,7 +4242,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4253,7 +4258,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "STORY_HANGAR",
@@ -4277,7 +4282,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4364,13 +4369,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15364,
+      "Progressed": 15368,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3290,
+      "Progressed": 3294,
       "Completed": 29
     }
   ],
@@ -4378,8 +4383,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-15T19:58:15.7237363+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:04:10.433712+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:13:59.0945303+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:57:51.3075233+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:04:10.4337772+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:07:37.0833826+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:13:59.094586+00:00"
 }

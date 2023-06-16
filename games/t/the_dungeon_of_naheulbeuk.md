@@ -67,9 +67,9 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 3.00% | ~3 |
 | Take your time back in time | 3.00% | ~3 |
 | Deep changes | 3.00% | ~3 |
+| Gloomy Dungeon | 3.00% | ~3 |
 | Death is for wimps | 3.00% | ~3 |
 | Demisemiquaver | 3.00% | ~3 |
-| Gloomy Dungeon | 2.00% | ~2 |
 | Living legends of the Lands of Fangh | 2.00% | ~2 |
 | And they lived happily ever after... | 2.00% | ~2 |
 | Star-crossed lovers | 2.00% | ~2 |

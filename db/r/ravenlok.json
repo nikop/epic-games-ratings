@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2563,9 +2563,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "28",
@@ -2579,9 +2579,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "3",
@@ -2611,9 +2611,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 390
     },
     {
       "ID": "33",
@@ -2667,9 +2667,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 360
     },
     {
       "ID": "4",
@@ -2820,8 +2820,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:33.893999+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:37.8689207+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:57:25.5437765+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:33.8940547+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:07:07.5246989+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:37.868992+00:00"
 }

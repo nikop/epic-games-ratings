@@ -16,10 +16,10 @@ Rating: 4.57 (Ranked 444)
 | Ain't Nobody Got Time for That | 8.00% | ~213 |
 | Guy de Borderlands | 7.00% | ~186 |
 | Fully Recycled | 7.00% | ~186 |
+| Breaking Protocol | 7.00% | ~186 |
 | The Ship of Theseus | 7.00% | ~186 |
 | Hope Seeker | 7.00% | ~186 |
 | A Hunk of Junk | 6.00% | ~160 |
-| Breaking Protocol | 6.00% | ~160 |
 | Exceeding Capacity | 5.00% | ~133 |
 | Power Outage | 4.00% | ~106 |
 | Please Make it Stop! | 4.00% | ~106 |

@@ -23,35 +23,35 @@
 | Mushroom soup of the day | 53.00% | ~40 |
 | Honk honk! | 52.00% | ~39 |
 | Butcher | 52.00% | ~39 |
-| Spare Ribs | 51.00% | ~38 |
-| My pants squeak when I walk | 48.00% | ~36 |
+| Spare Ribs | 52.00% | ~39 |
+| My pants squeak when I walk | 49.00% | ~37 |
 | Thats disgusting! | 48.00% | ~36 |
 | Cockadoodledoo! | 48.00% | ~36 |
 | Surprise!! | 44.00% | ~33 |
 | Self assessed tax return | 41.00% | ~31 |
 | Make America Grate Again | 37.00% | ~28 |
 | Haemochromatosis | 37.00% | ~28 |
+| Pasta Bolognese | 37.00% | ~28 |
 | Catch the bus with me! | 36.00% | ~27 |
 | Karaoke king | 36.00% | ~27 |
-| Pasta Bolognese | 36.00% | ~27 |
-| You are no match for me, Billy! | 33.00% | ~25 |
-| I'm going to get a concussion | 33.00% | ~25 |
-| You can't stop me, bro! | 33.00% | ~25 |
+| You are no match for me, Billy! | 35.00% | ~26 |
+| I'm going to get a concussion | 35.00% | ~26 |
+| You can't stop me, bro! | 35.00% | ~26 |
+| Meatballs, coming up! | 31.00% | ~23 |
 | A Megapint...? | 31.00% | ~23 |
-| Meatballs, coming up! | 29.00% | ~22 |
 | Another one bites the iron | 27.00% | ~20 |
-| Ripe Meat Off The Bone! | 24.00% | ~18 |
-| Hovering around | 23.00% | ~17 |
+| Ripe Meat Off The Bone! | 25.00% | ~19 |
+| Hovering around | 24.00% | ~18 |
 | You're not so Big anymore, Boi! | 21.00% | ~16 |
 | Your daily dose of Vitamin C. | 21.00% | ~16 |
 | I cant stand still! | 21.00% | ~16 |
 | Kleptomaniac | 21.00% | ~16 |
 | Master Butcher | 17.00% | ~13 |
 | Just wing it! | 17.00% | ~13 |
-| Slimy... yet satisfying | 15.00% | ~11 |
+| Slimy... yet satisfying | 16.00% | ~12 |
+| Deal with it | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~10 |
 | Yeehaw!!! | 13.00% | ~10 |
-| Deal with it | 13.00% | ~10 |
 | You're looking mozzare-hella good! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Timber! | 11.00% | ~8 |

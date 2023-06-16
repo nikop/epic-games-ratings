@@ -6,9 +6,9 @@
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -316,9 +316,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1271,6 +1271,11 @@
       "Time": "2023-06-15T21:05:42.5391487+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-16T02:15:55.8043162+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1282,7 +1287,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1322,7 +1327,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -1338,7 +1343,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1346,7 +1351,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1378,7 +1383,7 @@
       "Name": "Line Cook",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1394,7 +1399,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1402,7 +1407,7 @@
       "Name": "Sociable",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1554,7 +1559,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -1585,7 +1590,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 7
     }
   ],
@@ -1593,8 +1598,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:49.5440008+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:55.8043159+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-16T00:00:00.9722401+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:49.5440399+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:10:15.9532759+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:55.8043512+00:00"
 }

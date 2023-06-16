@@ -23,11 +23,11 @@
 | Eden Heights | 15.00% | ~73 |
 | Up Close And Personal | 15.00% | ~73 |
 | Outer Core | 12.00% | ~58 |
+| Inner Core | 7.00% | ~34 |
 | Trickshot | 7.00% | ~34 |
-| Inner Core | 6.00% | ~29 |
 | Integration | 4.00% | ~19 |
+| Destruction | 3.00% | ~15 |
 | Ripperdoc | 3.00% | ~15 |
-| Destruction | 2.00% | ~10 |
 | Fully Modded | 2.00% | ~10 |
 | Hard Boiled | 0.80% | ~4 |
 | Cyborg | 0.20% | ~1 |

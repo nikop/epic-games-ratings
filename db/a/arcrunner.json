@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1018,9 +1018,9 @@
       "ID": "ACHV_DESTRUCTION",
       "SetID": "cceobco",
       "Name": "Destruction",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHV_DOCKS",
@@ -1058,9 +1058,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -1195,8 +1195,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:02:09.6012754+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:11:02.7286261+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:20.693508+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:02:09.6013047+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:09:26.4901984+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:11:02.7286693+00:00"
 }

@@ -29,10 +29,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~188 |
 | The best strikes are the ones we avoid | 1.00% | ~188 |
 | Scareless | 0.80% | ~5,676 |
+| Dance of the Praying Mantis | 0.80% | ~5,676 |
 | Qi Gong: Mind | 0.80% | ~5,676 |
 | I know Kung-Fu | 0.80% | ~5,676 |
 | Kung-Fu Tussle | 0.80% | ~5,676 |
-| Dance of the Praying Mantis | 0.70% | ~4,967 |
 | Muk Yan Master | 0.60% | ~4,257 |
 | Detective Story | 0.60% | ~4,257 |
 | Deadly Venom | 0.60% | ~113 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,529 (Ranked 17)  
+Progressed: 709,534 (Ranked 17)  
 Completed: 12,771 (1.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 12,771 (1.80%) (Ranked 75)
 | 2023-06-13 | 709,171 | 12,769 |
 | 2023-06-14 | 709,340 | 12,770 |
 | 2023-06-15 | 709,521 | 12,771 |
-| 2023-06-16 | 709,529 | 12,771 |
+| 2023-06-16 | 709,534 | 12,771 |
 ## Awards
 Max (Great Boss Battles): 6,179  (Ranked 52)  
 Sum: 10,549 (Ranked 78)  

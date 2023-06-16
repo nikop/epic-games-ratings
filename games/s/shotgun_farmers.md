@@ -12,15 +12,15 @@
 | No Asperascope | 37.00% | ~47 |
 | Early Survivor | 37.00% | ~28 |
 | No Diggity | 37.00% | ~28 |
+| I Believe I Can Fly | 35.00% | ~44 |
 | Cornivore | 35.00% | ~44 |
-| I Believe I Can Fly | 34.00% | ~43 |
 | Bouncemato | 25.00% | ~19 |
 | Amateur Survivor | 25.00% | ~19 |
 | Quick-Draw Pod | 19.00% | ~14 |
+| 10K | 18.00% | ~23 |
+| Professional Survivor | 18.00% | ~14 |
 | This Is My Boomstick | 18.00% | ~14 |
 | 15K | 17.00% | ~21 |
-| 10K | 17.00% | ~21 |
-| Professional Survivor | 17.00% | ~13 |
 | Grave Digger | 16.00% | ~12 |
 | Drinking Problem | 13.00% | ~16 |
 | Summers Here | 13.00% | ~10 |
@@ -31,11 +31,11 @@
 | Pork Chop Express | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Quit Horsin' Around | 7.00% | ~9 |
+| Carrocketeer | 7.00% | ~9 |
+| Expert Survivor | 7.00% | ~5 |
 | Quadsparagus | 7.00% | ~5 |
 | Fresh Pancake | 6.00% | ~8 |
-| Carrocketeer | 6.00% | ~8 |
-| Expert Survivor | 6.00% | ~5 |
-| Master Survivor | 5.00% | ~4 |
+| Master Survivor | 6.00% | ~5 |
 | Bring Home The Bacon | 4.00% | ~5 |
 | Getting Started | 4.00% | ~5 |
 | Early Bird | 3.00% | ~4 |

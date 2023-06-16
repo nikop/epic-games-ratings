@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -163,6 +163,11 @@
       "Time": "2023-06-13T12:07:00.2734148+00:00",
       "NumProgressed": 83,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T02:15:54.8166078+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -188,7 +193,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -222,7 +227,7 @@
       "Name": "Target Practice",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement16",
@@ -236,7 +241,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 35,
       "UsersEstimate": 57
     },
@@ -244,7 +249,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 90,
       "UsersEstimate": 28
     },
@@ -292,7 +297,7 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
       "UsersEstimate": 18
     },
@@ -324,7 +329,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -341,7 +346,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 1
     }
   ],
@@ -349,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-16T00:05:48.7301362+00:00",
+  "LastChanged_Achievements": "2023-06-16T02:15:54.8166074+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.0729891+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:59:50.800542+00:00",
-  "LastUpdate_Achievements": "2023-06-16T00:05:48.7301514+00:00"
+  "LastUpdate_Ratings": "2023-06-16T02:10:03.9312653+00:00",
+  "LastUpdate_Achievements": "2023-06-16T02:15:54.8166225+00:00"
 }
