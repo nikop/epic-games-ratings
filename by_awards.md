@@ -17,7 +17,7 @@
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,557 | 4.65 | 295 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,513 | 4.52 | 516 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,206 | 4.53 | 503 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,994 | 4.77 | 107 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,032 | 4.77 | 107 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,667 | 4.57 | 444 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,947 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,444 | 4.61 | 363 |
@@ -92,7 +92,7 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,775 | 4.67 | 259 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,513 | 4.61 | 363 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 783 |
-| 93 | [Among Us](games/a/among_us.md) | 2,467 | 4.57 | 444 |
+| 93 | [Among Us](games/a/among_us.md) | 2,473 | 4.57 | 444 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,442 | 4.50 | 547 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,395 | 4.80 | 79 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,383 | 4.10 | 878 |
@@ -184,7 +184,7 @@
 | 182 | [Vampyr](games/v/vampyr.md) | 549 | 4.32 | 753 |
 | 183 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 545 | 4.62 | 348 |
 | 183 | [Star Trek Online](games/s/star_trek_online.md) | 545 | 4.44 | 632 |
-| 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 539 | 4.41 | 670 |
+| 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 540 | 4.41 | 670 |
 | 186 | [Godfall Ultimate Edition](games/g/godfall.md) | 520 | 4.07 | 891 |
 | 187 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 508 | 4.52 | 516 |
 | 188 | [Terraforming Mars](games/t/terraforming_mars.md) | 499 | 4.54 | 491 |
@@ -192,7 +192,7 @@
 | 190 | [Football Manager 2023](games/f/football_manager_2023.md) | 485 | 4.75 | 132 |
 | 191 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 473 | 4.86 | 29 |
 | 192 | [Ghostrunner](games/g/ghostrunner.md) | 468 | 4.72 | 167 |
-| 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 465 | 4.66 | 277 |
+| 192 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 468 | 4.66 | 277 |
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 277 |
 | 195 | [Surviving Mars](games/s/surviving_mars.md) | 452 | 4.60 | 390 |
 | 196 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 441 | 4.24 | 805 |
@@ -261,7 +261,7 @@
 | 258 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 210 | 4.58 | 425 |
 | 260 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 425 |
 | 261 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 817 |
-| 262 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 730 |
+| 262 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 730 |
 | 263 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 200 | 4.80 | 79 |
 | 264 | [HITMAN](games/h/hitman.md) | 199 | 4.64 | 317 |
 | 265 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 198 | 4.60 | 390 |

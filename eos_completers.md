@@ -53,7 +53,7 @@
 | 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 52 | [The Bunker](games/t/the_bunker.md) | 2.91% |
 | 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
-| 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
+| 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 57 | [Lamentum](games/l/lamentum.md) | 2.72% |
@@ -63,8 +63,8 @@
 | 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
-| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
-| 65 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
+| 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.27% |
 | 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
@@ -456,4 +456,4 @@
 | 225 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 225 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 225 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,794 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,795 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

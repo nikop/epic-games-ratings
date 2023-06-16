@@ -4,6 +4,7 @@
 | [THE IMPOSSIBLE](games/2/2010b387d2964690a42249ff8c4f9ee4.md) | 2023-06-16 | - |  | - | - |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
+| [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-19 | - |  | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-06-19 | - |  | - | - |
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Torch Cave](games/3/3c9e5ab8388f4f179a092f070431ebb0.md) | 2023-06-20 | - |  | - | - |
@@ -39,8 +40,8 @@
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | - |  | - | - |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | - |  | - | - |
-| [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-30 | - |  | - | - |
-| [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-30 | - |  | - | - |
+| [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-30 | 24 (1,000 XP) | 0 | - | - |
+| [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-30 | 30 (1,000 XP) | 0 | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [Workshop Simulator](games/e/eb3087d303e243ff92b3dd0ee3b3fb3f.md) | 2023-06-30 | 22 (1,000 XP) | 0 | - | - |
@@ -139,6 +140,7 @@
 | [Falling Frontier](games/f/falling_frontier.md) | 2023-12-31 | - |  | - | - |
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2023-12-31 | - |  | - | - |
+| [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2023-12-31 | - |  | - | - |
 | [Flashback 2](games/f/flashback_2.md) | 2023-12-31 | - |  | - | - |
 | [Flintlock - The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2023-12-31 | - |  | - | - |
 | [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2023-12-31 | - |  | - | - |
@@ -328,7 +330,6 @@
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
-| [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2099-01-01 | - |  | - | - |
 | [Strange House](games/s/strange_house.md) | 2099-01-01 | - |  | - | - |
 | [Subterrain Mines of Titan](games/s/subterrain_mines_of_titan.md) | 2099-01-01 | - |  | - | - |

@@ -109,7 +109,7 @@
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 497 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,283 | 84 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,725 | 57 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,994 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,032 | 18 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 497 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 425 |
 | 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 145 | 292 |
@@ -288,7 +288,7 @@
 | 277 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 551 | 181 |
 | 277 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 442 |
 | 277 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.66 | 0 | 497 |
-| 277 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 465 | 193 |
+| 277 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 468 | 192 |
 | 277 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 54 | 386 |
 | 277 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 497 |
 | 277 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,785 | 56 |
@@ -444,7 +444,7 @@
 | 425 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 210 | 258 |
 | 425 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,391 | 23 |
 | 444 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 497 |
-| 444 | [Among Us](games/a/among_us.md) | 4.57 | 2,467 | 93 |
+| 444 | [Among Us](games/a/among_us.md) | 4.57 | 2,473 | 93 |
 | 444 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 460 |
 | 444 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 497 |
 | 444 | [Hob](games/h/hob.md) | 4.57 | 0 | 497 |
@@ -682,7 +682,7 @@
 | 670 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 359 |
 | 670 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,176 | 102 |
 | 670 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 497 |
-| 670 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 539 | 185 |
+| 670 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 540 | 185 |
 | 670 | [Warpips](games/w/warpips.md) | 4.41 | 23 | 475 |
 | 685 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 497 |
 | 685 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 497 |
@@ -733,7 +733,7 @@
 | 730 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 497 |
 | 730 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 95 | 335 |
 | 730 | [Encased](games/e/encased.md) | 4.35 | 132 | 301 |
-| 730 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 262 |
+| 730 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 262 |
 | 730 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 497 |
 | 730 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 497 |
 | 730 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 0 | 497 |

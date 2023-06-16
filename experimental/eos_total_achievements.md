@@ -268,6 +268,7 @@
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
+| [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |
 | [World of Contraptions](../games/w/world_of_contraptions.md) | 30 | 1,000 |
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
@@ -331,6 +332,7 @@
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
+| [The House of Da Vinci 2](../games/4/4a0076f825604014b0540bb5d957d3bb.md) | 24 | 1,000 |
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
