@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.83% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.78% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
@@ -21,11 +21,11 @@
 | 19 | [Smelter](games/s/smelter.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.31% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
-| 22 | [Time Loader](games/t/time_loader.md) | 7.55% |
+| 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.08% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
 | 28 | [Scorn](games/s/scorn.md) | 6.88% |
 | 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.67% |
@@ -45,7 +45,7 @@
 | 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.52% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.42% |
+| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.40% |
 | 47 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.33% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 49 | [The Complex](games/t/the_complex.md) | 3.19% |
@@ -68,7 +68,7 @@
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 69 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 69 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.07% |
 | 71 | [Frogun](games/f/frogun.md) | 1.93% |
 | 72 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
@@ -78,7 +78,7 @@
 | 74 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 77 | [Sifu](games/s/sifu.md) | 1.80% |
 | 78 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.63% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.62% |
 | 80 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
 | 81 | [Somerville](games/s/somerville.md) | 1.58% |
 | 82 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -94,8 +94,8 @@
 | 92 | [Five Dates](games/f/five_dates.md) | 1.14% |
 | 93 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 94 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
-| 95 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
-| 96 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.00% |
+| 95 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.04% |
+| 96 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
 | 97 | [Sable](games/s/sable.md) | 0.95% |
 | 98 | [Hades](games/h/hades.md) | 0.89% |
 | 99 | [Adios](games/a/adios.md) | 0.87% |
@@ -130,8 +130,8 @@
 | 128 | [Tchia](games/t/tchia.md) | 0.38% |
 | 129 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 129 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 129 | [Scrapnaut](games/s/scrapnaut.md) | 0.37% |
-| 132 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 131 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
+| 131 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 133 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 133 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 133 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
@@ -140,18 +140,18 @@
 | 136 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 139 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 140 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 141 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.29% |
 | 141 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 141 | [The Surge](games/t/the_surge.md) | 0.29% |
-| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
-| 144 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
+| 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.28% |
+| 143 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 146 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
 | 147 | [Blanc](games/b/blanc.md) | 0.25% |
 | 147 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 149 | [Against the Storm](games/a/against_the_storm.md) | 0.23% |
 | 149 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 149 | [Filament](games/f/filament.md) | 0.23% |
 | 149 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.23% |
-| 152 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 153 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 153 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
