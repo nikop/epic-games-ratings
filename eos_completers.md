@@ -23,10 +23,10 @@
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.55% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
-| 24 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
+| 27 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.90% |
 | 28 | [Scorn](games/s/scorn.md) | 6.88% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -36,12 +36,12 @@
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 36 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 4.08% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 40 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.68% |
 | 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.52% |
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
@@ -52,8 +52,8 @@
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
-| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
+| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.88% |
+| 53 | [The Bunker](games/t/the_bunker.md) | 2.88% |
 | 55 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -68,10 +68,10 @@
 | 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
+| 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 70 | [Frogun](games/f/frogun.md) | 1.93% |
-| 71 | [Iron Danger](games/i/iron_danger.md) | 1.90% |
-| 72 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.89% |
+| 71 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
+| 72 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
 | 73 | [JARS](games/j/jars.md) | 1.82% |
 | 73 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
@@ -99,18 +99,18 @@
 | 97 | [Adios](games/a/adios.md) | 0.87% |
 | 98 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 99 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
-| 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 100 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
-| 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 103 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.75% |
-| 103 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 100 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.82% |
+| 101 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
+| 101 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
+| 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 104 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 105 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.74% |
 | 106 | [Haven](games/h/haven.md) | 0.70% |
 | 106 | [Them and Us](games/t/them_and_us.md) | 0.70% |
 | 108 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
 | 108 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
-| 110 | [Train Valley](games/t/train_valley.md) | 0.67% |
-| 111 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.66% |
+| 110 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.66% |
+| 110 | [Train Valley](games/t/train_valley.md) | 0.66% |
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 112 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 114 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |

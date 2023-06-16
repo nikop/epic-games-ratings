@@ -1,9 +1,8 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [THE IMPOSSIBLE](games/2/2010b387d2964690a42249ff8c4f9ee4.md) | 2023-06-16 | - |  | - | - |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
-| [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-19 | - |  | - | - |
+| [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-19 | 20 (1,000 XP) | 0 | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-06-19 | - |  | - | - |
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Torch Cave](games/3/3c9e5ab8388f4f179a092f070431ebb0.md) | 2023-06-20 | - |  | - | - |

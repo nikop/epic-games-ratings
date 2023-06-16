@@ -383,6 +383,7 @@
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
 | [Star Trek Prodigy: Supernova](../games/s/star_trek_prodigy__supernova.md) | 41 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
+| [STASIS : BONE TOTEM](../games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 20 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
