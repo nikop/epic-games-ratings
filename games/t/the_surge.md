@@ -61,11 +61,11 @@ Number of Ratings: 62  (23.09.2022)
 | Dress Up | 2.00% | ~89 |
 | New Gear | 2.00% | ~89 |
 | Good Listener | 2.00% | ~89 |
+| One-Armed Bandit | 2.00% | ~89 |
 | Episodic | 2.00% | ~89 |
 | End of Transmission | 2.00% | ~89 |
 | Gramophone Enthusiast | 2.00% | ~89 |
 | Homo Machinalis | 1.00% | ~44 |
-| One-Armed Bandit | 1.00% | ~44 |
 | Bling-Bling | 1.00% | ~44 |
 | Sniffing Around | 0.70% | ~31 |
 | Suited and Booted | 0.70% | ~31 |

@@ -17,8 +17,8 @@ Rating: 4.22 (Ranked 817)
 | Travel Company | 63.00% | ~765 |
 | All around the World | 61.00% | ~741 |
 | Right through the middle | 56.00% | ~680 |
+| Facility Manager | 52.00% | ~631 |
 | Poor Devil | 52.00% | ~631 |
-| Facility Manager | 51.00% | ~619 |
 | Producer | 48.00% | ~583 |
 | Apprentice | 42.00% | ~510 |
 | Bridge Builder | 39.00% | ~473 |
@@ -26,7 +26,7 @@ Rating: 4.22 (Ranked 817)
 | Stoker | 33.00% | ~401 |
 | Going once, going twice, sold | 32.00% | ~388 |
 | Full Steam ahead | 30.00% | ~364 |
-| Bull and bear | 29.00% | ~352 |
+| Bull and bear | 30.00% | ~364 |
 | All mine | 26.00% | ~316 |
 | Mole | 26.00% | ~316 |
 | Financial Shark | 26.00% | ~316 |

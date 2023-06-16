@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -2130,9 +2130,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 631
     },
     {
       "ID": "A18",
@@ -2378,9 +2378,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 364
     },
     {
       "ID": "A49",
@@ -2443,8 +2443,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:07:16.773096+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:06:04.7230668+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:58:33.9690939+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:07:16.7732097+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:11.0075623+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:06:04.7231294+00:00"
 }

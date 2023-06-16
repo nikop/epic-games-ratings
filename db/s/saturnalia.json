@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64125,
+  "EOS_Progressed": 64126,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3815,6 +3815,11 @@
       "Time": "2023-06-16T11:02:13.264502+00:00",
       "NumProgressed": 64125,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-16T12:00:42.056369+00:00",
+      "NumProgressed": 64126,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3826,7 +3831,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_BONFIRES",
@@ -3890,7 +3895,7 @@
       "Name": "Let there be light",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_MATCHES",
@@ -3914,7 +3919,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -3922,7 +3927,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -3970,7 +3975,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_TOOLS",
@@ -3985,7 +3990,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64125,
+      "Progressed": 64126,
       "Completed": 13
     }
   ],
@@ -3993,8 +3998,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:02:13.2645013+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:00:42.0563683+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:36.3956523+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:57:52.3807742+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:02:13.264548+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:57:41.3879978+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:00:42.0564129+00:00"
 }

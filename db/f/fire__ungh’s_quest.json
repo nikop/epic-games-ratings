@@ -405,9 +405,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -485,9 +485,9 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "Level_completed_010_010",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:06:59.6518895+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:05:51.204498+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-16T11:00:52.9063948+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:06:59.6519239+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:59:45.7433489+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:05:51.2045224+00:00"
 }

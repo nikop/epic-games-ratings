@@ -17,9 +17,9 @@ Rating: 4.60 (Ranked 390)
 | The New World | 44.00% | ~206 |
 | Open Sesame | 43.00% | ~202 |
 | Sticky Fingers | 43.00% | ~202 |
-| Knives Out | 42.00% | ~197 |
+| Knives Out | 43.00% | ~202 |
+| Land, Ho! | 42.00% | ~197 |
 | Back In The Saddle | 41.00% | ~192 |
-| Land, Ho! | 41.00% | ~192 |
 | No Man Is An Island | 40.00% | ~188 |
 | At Wits' End | 39.00% | ~183 |
 | Going Once... | 36.00% | ~169 |

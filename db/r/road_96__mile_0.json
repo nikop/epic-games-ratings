@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 303,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-06-16T02:13:32.0508902+00:00",
       "NumProgressed": 302,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-16T12:04:00.8320255+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -798,9 +803,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "completeact2",
@@ -880,7 +885,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "scoreminrankrp2",
@@ -904,7 +909,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "scoreminrankrv2",
@@ -919,7 +924,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 303,
       "Completed": 2
     }
   ],
@@ -927,8 +932,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:04:25.514973+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:04:00.8320248+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:59:30.36651+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:04:25.515001+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:48.8138179+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:04:00.8320541+00:00"
 }

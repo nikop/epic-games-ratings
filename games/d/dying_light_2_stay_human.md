@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,578 |
-| Into the Unknown | 10.00% | ~57,798 |
-| First Shot | 10.00% | ~57,798 |
-| Herzlich Wilkommen! | 9.00% | ~52,018 |
-| Good Night & Good Luck | 9.00% | ~52,018 |
-| Sancho Panza | 8.00% | ~46,238 |
-| Under Pressure | 7.00% | ~40,459 |
-| Flag Burning | 7.00% | ~40,459 |
-| Oh, So This Is How It Works! | 7.00% | ~40,459 |
-| Night Hunter | 7.00% | ~40,459 |
-| On the Trail of the Enemy | 6.00% | ~34,679 |
-| Light in the Darkness | 6.00% | ~34,679 |
-| Get Outta My House! | 6.00% | ~34,679 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,679 |
-| Being All Social | 6.00% | ~34,679 |
-| We Will Be Heard! | 5.00% | ~28,899 |
-| After the Fall | 5.00% | ~28,899 |
-| Can't Touch This! | 5.00% | ~28,899 |
-| Debris and Ashes | 4.00% | ~23,119 |
-| Known Associate | 4.00% | ~23,119 |
-| Brush with Death | 4.00% | ~23,119 |
-| Going Down | 4.00% | ~23,119 |
-| Family First | 4.00% | ~23,119 |
-| Your World, Your Rules | 4.00% | ~23,119 |
-| Tunnel Entrance | 4.00% | ~23,119 |
-| Death From Afar | 4.00% | ~23,119 |
-| Terminal Headache | 4.00% | ~23,119 |
-| Slowpoke! | 4.00% | ~23,119 |
-| You're Going Down! | 3.00% | ~17,339 |
+| You Never Forget Your First... | 11.00% | ~63,580 |
+| Into the Unknown | 10.00% | ~57,800 |
+| First Shot | 10.00% | ~57,800 |
+| Herzlich Wilkommen! | 9.00% | ~52,020 |
+| Good Night & Good Luck | 9.00% | ~52,020 |
+| Sancho Panza | 8.00% | ~46,240 |
+| Under Pressure | 7.00% | ~40,460 |
+| Flag Burning | 7.00% | ~40,460 |
+| Oh, So This Is How It Works! | 7.00% | ~40,460 |
+| Night Hunter | 7.00% | ~40,460 |
+| On the Trail of the Enemy | 6.00% | ~34,680 |
+| Light in the Darkness | 6.00% | ~34,680 |
+| Get Outta My House! | 6.00% | ~34,680 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,680 |
+| Being All Social | 6.00% | ~34,680 |
+| We Will Be Heard! | 5.00% | ~28,900 |
+| After the Fall | 5.00% | ~28,900 |
+| Can't Touch This! | 5.00% | ~28,900 |
+| Debris and Ashes | 4.00% | ~23,120 |
+| Known Associate | 4.00% | ~23,120 |
+| Brush with Death | 4.00% | ~23,120 |
+| Going Down | 4.00% | ~23,120 |
+| Family First | 4.00% | ~23,120 |
+| Your World, Your Rules | 4.00% | ~23,120 |
+| Tunnel Entrance | 4.00% | ~23,120 |
+| Death From Afar | 4.00% | ~23,120 |
+| Terminal Headache | 4.00% | ~23,120 |
+| Slowpoke! | 4.00% | ~23,120 |
+| You're Going Down! | 3.00% | ~17,340 |
 | Tickets, Please! | 2.00% | ~11,560 |
 | Parkour Master | 2.00% | ~11,560 |
 | Combat Master | 2.00% | ~11,560 |
@@ -51,7 +51,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Enter the Hall | 0.90% | ~2,011 |
 | Find Anything Interesting? | 0.80% | ~4,624 |
 | Boot Licker | 0.80% | ~4,624 |
-| Night of Terrors | 0.80% | ~1,787 |
+| Night of Terrors | 0.80% | ~1,788 |
 | Who Wants To Be a... | 0.70% | ~4,046 |
 | My Friend, Ciro | 0.70% | ~1,564 |
 | Skullcrusher | 0.70% | ~1,564 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~223 |
 | Connoisseur | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 577,981 (Ranked 25)  
+Progressed: 578,004 (Ranked 25)  
 Completed: 51 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,14 +129,14 @@ Completed: 51 (0.01%) (Ranked 212)
 | 2023-06-13 | 575,941 | 51 |
 | 2023-06-14 | 576,823 | 51 |
 | 2023-06-15 | 577,718 | 51 |
-| 2023-06-16 | 577,981 | 51 |
+| 2023-06-16 | 578,004 | 51 |
 ## Awards
-Max (Character Customization): 7,766  (Ranked 40)  
-Sum: 17,529 (Ranked 58)  
+Max (Character Customization): 7,800  (Ranked 40)  
+Sum: 17,563 (Ranked 58)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,766 |
+| This game has Inclusive Character Customization | 7,800 |
 | This game has Great Boss Battles | 4,532 |
 | This game is Great for Beginners | 709 |
 | This game is Highly Recommended | 667 |
@@ -306,4 +306,4 @@ Diff (max vs sum): -18
 | 2023-06-13 | 4.58 | - | 7,713 | 17,418 |
 | 2023-06-14 | 4.58 | - | 7,728 | 17,452 |
 | 2023-06-15 | 4.58 | - | 7,766 | 17,522 |
-| 2023-06-16 | 4.58 | - | 7,766 | 17,529 |
+| 2023-06-16 | 4.58 | - | 7,800 | 17,563 |

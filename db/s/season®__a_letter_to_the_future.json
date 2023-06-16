@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1058,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-06-16T11:06:45.4597242+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-16T12:05:40.3921976+00:00",
+      "NumProgressed": 1058,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 16,
@@ -1493,7 +1498,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1501,7 +1506,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1525,7 +1530,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1557,14 +1562,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1058,
       "Completed": 39
     }
   ],
@@ -1572,8 +1577,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:06:45.4597234+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:05:40.3921968+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:59:17.9541915+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:06:45.4597595+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:40.1261156+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:05:40.3922219+00:00"
 }

@@ -1139,9 +1139,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121652,
+  "EOS_Progressed": 121656,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6569,6 +6569,11 @@
       "Time": "2023-06-16T11:07:04.522041+00:00",
       "NumProgressed": 121652,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-16T12:05:55.6196554+00:00",
+      "NumProgressed": 121656,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6612,7 +6617,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21897
+      "UsersEstimate": 21898
     },
     {
       "ID": "ACH_COP_BAD",
@@ -6636,7 +6641,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29196
+      "UsersEstimate": 29197
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -6660,7 +6665,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34063
+      "UsersEstimate": 34064
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -6684,7 +6689,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19464
+      "UsersEstimate": 19465
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -6692,7 +6697,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24330
+      "UsersEstimate": 24331
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -6796,7 +6801,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17031
+      "UsersEstimate": 17032
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6899,15 +6904,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121652,
+      "Progressed": 121656,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-13T14:58:46.2792638+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:07:04.5220407+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:05:55.6196546+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:59:52.6187927+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:07:04.522107+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:59:03.6583101+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:05:55.6197532+00:00"
 }

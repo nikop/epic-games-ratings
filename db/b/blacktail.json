@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -939,6 +939,11 @@
       "Time": "2023-06-16T07:06:02.701839+00:00",
       "NumProgressed": 492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T12:05:52.1428307+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -974,7 +979,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "DevilDetail",
@@ -1036,9 +1041,9 @@
       "ID": "GoldRush",
       "SetID": "2aagp3d",
       "Name": "Gold rush",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "GossipGirl",
@@ -1205,7 +1210,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 1
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:07:00.7435285+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:05:52.1428303+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:58:20.4564116+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:07:00.7435751+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:02.1372041+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:05:52.1428624+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -546,9 +546,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2897,
+  "EOS_Progressed": 2898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-06-16T06:07:24.3638158+00:00",
       "NumProgressed": 2897,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T12:06:07.9599134+00:00",
+      "NumProgressed": 2898,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2018,7 +2023,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2074,7 +2079,7 @@
       "Name": "Purging Spree",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Kills_Vakir",
@@ -2313,21 +2318,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2897,
+      "Progressed": 2898,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2897,
+      "Progressed": 2898,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-14T21:58:26.0976055+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:07:20.7909161+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:06:07.9599125+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:59.3316653+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:59:21.2635733+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:07:20.7910302+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:42.5171556+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:06:07.9600021+00:00"
 }

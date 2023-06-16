@@ -1825,9 +1825,9 @@
       "ID": "ID_ACHIEV_59",
       "SetID": "98bke8c",
       "Name": "One-Armed Bandit",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 89
     },
     {
       "ID": "ID_ACHIEV_60",
@@ -1913,8 +1913,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-16T11:03:12.9860799+00:00",
+  "LastChanged_Achievements": "2023-06-16T12:03:09.2370219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-16T10:58:27.8624967+00:00",
-  "LastUpdate_Achievements": "2023-06-16T11:03:12.9861753+00:00"
+  "LastUpdate_Ratings": "2023-06-16T11:58:06.6716353+00:00",
+  "LastUpdate_Achievements": "2023-06-16T12:03:09.2371092+00:00"
 }

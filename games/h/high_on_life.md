@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,877 (Ranked 94)  
+Progressed: 22,877 (Ranked 95)  
 Completed: 8 (0.03%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
