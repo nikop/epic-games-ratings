@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,031 | 4.56 | 455 |
 | 77 | [SMITE](games/s/smite.md) | 3,898 | 4.45 | 620 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,825 | 4.68 | 238 |
-| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,640 | 4.29 | 773 |
+| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,642 | 4.29 | 773 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,465 | 4.47 | 594 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,370 | 4.46 | 604 |
 | 82 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,331 | 4.68 | 238 |
@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,163 | 4.69 | 220 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,130 | 4.57 | 444 |
 | 89 | [Hades](games/h/hades.md) | 3,118 | 4.92 | 4 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,775 | 4.67 | 259 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,775 | 4.67 | 258 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,513 | 4.61 | 363 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 783 |
 | 93 | [Among Us](games/a/among_us.md) | 2,473 | 4.57 | 444 |
@@ -100,7 +100,7 @@
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,336 | 4.17 | 854 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,313 | 4.78 | 100 |
 | 100 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,289 | 3.98 | 911 |
-| 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,223 | 4.67 | 259 |
+| 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,223 | 4.67 | 258 |
 | 102 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,176 | 4.41 | 670 |
 | 103 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,150 | 4.63 | 333 |
 | 104 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,138 | 4.37 | 716 |
@@ -164,7 +164,7 @@
 | 162 | [Neverwinter](games/n/neverwinter.md) | 688 | 4.29 | 773 |
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 669 | 4.68 | 238 |
 | 164 | [Subnautica](games/s/subnautica.md) | 668 | 4.85 | 40 |
-| 165 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 651 | 4.68 | 238 |
+| 165 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 651 | 4.67 | 258 |
 | 166 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 634 | 4.79 | 89 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 631 | 4.59 | 413 |
 | 168 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 630 | 4.61 | 363 |
@@ -176,7 +176,7 @@
 | 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 580 | 4.74 | 145 |
 | 175 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 579 | 4.60 | 390 |
 | 176 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 571 | 4.73 | 156 |
-| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 561 | 4.67 | 259 |
+| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 561 | 4.67 | 258 |
 | 178 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 238 |
 | 179 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 557 | 4.39 | 698 |
 | 180 | [Filament](games/f/filament.md) | 554 | 4.32 | 753 |
@@ -316,7 +316,7 @@
 | 314 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 317 |
 | 314 | [Predecessor](games/p/predecessor.md) | 114 | 4.44 | 632 |
 | 314 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 620 |
-| 317 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 259 |
+| 317 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 258 |
 | 318 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 108 | 4.75 | 132 |
 | 319 | [Faeria](games/f/faeria.md) | 106 | 4.45 | 620 |
 | 319 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 604 |
@@ -339,7 +339,7 @@
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 670 |
 | 337 | [Verdun](games/v/verdun.md) | 94 | 4.53 | 503 |
 | 339 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 93 | 4.51 | 531 |
-| 339 | [Tropico 6](games/t/tropico_6.md) | 93 | 4.67 | 259 |
+| 339 | [Tropico 6](games/t/tropico_6.md) | 93 | 4.67 | 258 |
 | 341 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.18 | 847 |
 | 341 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 92 | 4.53 | 503 |
 | 343 | [Darksiders III](games/d/darksiders_iii.md) | 89 | 4.50 | 547 |
@@ -363,7 +363,7 @@
 | 359 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 670 |
 | 362 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 73 | 4.71 | 181 |
 | 363 | [Barony](games/b/barony.md) | 72 | 4.71 | 181 |
-| 363 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.67 | 259 |
+| 363 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.67 | 258 |
 | 363 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.39 | 698 |
 | 363 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.63 | 333 |
 | 363 | [Train Valley 2](games/t/train_valley_2.md) | 72 | 4.15 | 863 |
@@ -400,7 +400,7 @@
 | 394 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 50 | 4.56 | 455 |
 | 399 | [ATOM RPG](games/a/atom_rpg.md) | 49 | 4.46 | 604 |
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 49 | 4.66 | 277 |
-| 401 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 259 |
+| 401 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 258 |
 | 402 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 52 |
 | 402 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 716 |
 | 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 455 |

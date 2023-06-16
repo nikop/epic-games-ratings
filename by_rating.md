@@ -239,7 +239,6 @@
 | 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 789 | 150 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 82 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 497 |
-| 238 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 651 | 165 |
 | 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 369 |
 | 238 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 497 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,161 | 47 |
@@ -258,24 +257,25 @@
 | 238 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 460 |
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 86 | 346 |
 | 238 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 497 |
-| 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 497 |
-| 259 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 497 |
-| 259 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 363 |
-| 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 497 |
-| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 561 | 177 |
-| 259 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 0 | 497 |
-| 259 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 0 | 497 |
-| 259 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 497 |
-| 259 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 497 |
-| 259 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,223 | 101 |
-| 259 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 317 |
-| 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 48 | 401 |
-| 259 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.67 | 0 | 497 |
-| 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 497 |
-| 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 497 |
-| 259 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 497 |
-| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,775 | 90 |
-| 259 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 93 | 339 |
+| 258 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 497 |
+| 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 651 | 165 |
+| 258 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 497 |
+| 258 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 363 |
+| 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 497 |
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 561 | 177 |
+| 258 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 0 | 497 |
+| 258 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 0 | 497 |
+| 258 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 497 |
+| 258 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 497 |
+| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,223 | 101 |
+| 258 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 317 |
+| 258 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 48 | 401 |
+| 258 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.67 | 0 | 497 |
+| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 497 |
+| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 497 |
+| 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 497 |
+| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,775 | 90 |
+| 258 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 93 | 339 |
 | 277 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 413 |
 | 277 | [Crashlands](games/c/crashlands.md) | 4.66 | 190 | 268 |
 | 277 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 497 |
@@ -776,7 +776,7 @@
 | 773 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
 | 773 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
 | 773 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,419,041 | 1 |
-| 773 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,640 | 79 |
+| 773 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,642 | 79 |
 | 773 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 688 | 162 |
 | 773 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
 | 773 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 297 |

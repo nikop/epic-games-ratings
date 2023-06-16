@@ -18,7 +18,7 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.32% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.31% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.55% |
@@ -30,7 +30,7 @@
 | 28 | [Scorn](games/s/scorn.md) | 6.88% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 30 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.25% |
+| 31 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.88% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
@@ -51,8 +51,8 @@
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 52 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.91% |
 | 52 | [The Bunker](games/t/the_bunker.md) | 2.91% |
-| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -64,7 +64,7 @@
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.27% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.22% |
 | 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
@@ -111,9 +111,9 @@
 | 109 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 110 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.66% |
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 111 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.64% |
 | 111 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
-| 113 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
-| 113 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.61% |
+| 114 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 115 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 115 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
 | 117 | [Grindstone](games/g/grindstone.md) | 0.53% |
