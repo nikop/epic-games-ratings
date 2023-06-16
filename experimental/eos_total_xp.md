@@ -356,6 +356,7 @@
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
+| [Scribble It!](../games/d/dc989527f6684c218eb8f5992e85cfea.md) | 25 | 1,000 |
 | [SEASON®: A letter to the future](../games/s/season®__a_letter_to_the_future.md) | 16 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |

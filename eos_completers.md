@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.55% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
@@ -33,7 +33,7 @@
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.88% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
+| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
 | 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 36 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.03% |
@@ -46,7 +46,7 @@
 | 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.42% |
-| 47 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
+| 47 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.33% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 49 | [The Complex](games/t/the_complex.md) | 3.19% |
 | 50 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
@@ -55,7 +55,7 @@
 | 53 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 54 | [The Bunker](games/t/the_bunker.md) | 2.88% |
 | 55 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 56 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
+| 56 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
 | 57 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 58 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -69,7 +69,7 @@
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 69 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
+| 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.07% |
 | 71 | [Frogun](games/f/frogun.md) | 1.93% |
 | 72 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
 | 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
@@ -96,7 +96,7 @@
 | 94 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 95 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
 | 96 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.00% |
-| 97 | [Sable](games/s/sable.md) | 0.94% |
+| 97 | [Sable](games/s/sable.md) | 0.95% |
 | 98 | [Hades](games/h/hades.md) | 0.89% |
 | 99 | [Adios](games/a/adios.md) | 0.87% |
 | 100 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
@@ -396,6 +396,7 @@
 | 226 | [Runbow](games/r/runbow.md) | 0.00% |
 | 226 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
 | 226 | [Scathe](games/s/scathe.md) | 0.00% |
+| 226 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 226 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
 | 226 | [Seven Doors](games/s/seven_doors.md) | 0.00% |
 | 226 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
@@ -456,4 +457,4 @@
 | 226 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 226 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 226 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,799 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,800 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

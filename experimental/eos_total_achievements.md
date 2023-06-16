@@ -314,6 +314,7 @@
 | [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
 | [Poi](../games/p/poi.md) | 25 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
+| [Scribble It!](../games/d/dc989527f6684c218eb8f5992e85cfea.md) | 25 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
