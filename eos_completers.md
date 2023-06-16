@@ -17,13 +17,13 @@
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
-| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.34% |
-| 19 | [Smelter](games/s/smelter.md) | 8.33% |
-| 20 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.69% |
+| 18 | [Smelter](games/s/smelter.md) | 8.33% |
+| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.33% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
-| 23 | [Time Loader](games/t/time_loader.md) | 7.62% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.41% |
+| 22 | [Time Loader](games/t/time_loader.md) | 7.62% |
+| 23 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 7.41% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.39% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 34 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.06% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -49,9 +49,9 @@
 | 47 | [The Complex](games/t/the_complex.md) | 3.19% |
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.97% |
-| 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
+| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.93% |
+| 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
@@ -59,7 +59,7 @@
 | 57 | [Lamentum](games/l/lamentum.md) | 2.73% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 59 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
+| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.51% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
@@ -85,8 +85,8 @@
 | 83 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 84 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.22% |
-| 86 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.20% |
-| 87 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
+| 86 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.19% |
+| 86 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
 | 88 | [Trifox](games/t/trifox.md) | 1.15% |
 | 89 | [Five Dates](games/f/five_dates.md) | 1.14% |
 | 90 | [Chorus](games/c/chorus.md) | 1.12% |
@@ -117,19 +117,19 @@
 | 114 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
 | 116 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 117 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.51% |
-| 118 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 118 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 120 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
+| 119 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
+| 119 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
 | 121 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 122 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 123 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 124 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.38% |
-| 125 | [Tchia](games/t/tchia.md) | 0.38% |
+| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.39% |
+| 126 | [Tchia](games/t/tchia.md) | 0.38% |
+| 127 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 127 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 127 | [Scrapnaut](games/s/scrapnaut.md) | 0.37% |
-| 129 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 129 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 130 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 131 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 131 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 131 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
@@ -456,4 +456,4 @@
 | 224 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 224 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 224 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,792 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,793 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
