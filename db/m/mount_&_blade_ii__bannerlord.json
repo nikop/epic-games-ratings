@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4789,10 +4789,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 13411,
       "NumberOfAwardsMax": 6672
+    },
+    {
+      "Time": "2023-06-16T16:00:09.6633065+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 13413,
+      "NumberOfAwardsMax": 6672
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13411,
+  "NumberOfAwards": 13413,
   "NumberOfAwardsMax": 6672,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4854,7 +4860,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 733
+      "Count": 735
     },
     {
       "Text": "This game has a Creative Community",
@@ -4869,9 +4875,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53312,
+  "EOS_Progressed": 53316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10644,6 +10650,11 @@
       "Time": "2023-06-16T15:06:44.1037472+00:00",
       "NumProgressed": 53312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T16:06:46.7042134+00:00",
+      "NumProgressed": 53316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10655,7 +10666,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "Apple of my eye",
@@ -10711,7 +10722,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "Crackshot",
@@ -10727,7 +10738,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "Duelist",
@@ -10783,7 +10794,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6398
     },
     {
       "ID": "Great Granny",
@@ -10847,7 +10858,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "Kingslayer",
@@ -10879,7 +10890,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "Lawbringer",
@@ -10887,7 +10898,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19192
+      "UsersEstimate": 19194
     },
     {
       "ID": "Lawmaker",
@@ -10935,7 +10946,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "Real Estate",
@@ -11007,7 +11018,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "This Is Our Land",
@@ -11031,7 +11042,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10662
+      "UsersEstimate": 10663
     },
     {
       "ID": "Undercover",
@@ -11039,7 +11050,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "Veni vidi vici",
@@ -11047,7 +11058,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -11062,15 +11073,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53312,
+      "Progressed": 53316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-16T14:59:59.9219737+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:44.1037465+00:00",
+  "LastChanged": "2023-06-16T16:00:09.6633064+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:46.7042127+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:59:59.9219744+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:44.1038247+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:00:09.6633071+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:46.7043197+00:00"
 }

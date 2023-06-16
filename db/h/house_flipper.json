@@ -1590,7 +1590,7 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19657,
+  "EOS_Progressed": 19658,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
@@ -4660,6 +4660,11 @@
       "Time": "2023-06-16T14:05:55.2190739+00:00",
       "NumProgressed": 19657,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-16T16:06:25.131921+00:00",
+      "NumProgressed": 19658,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4719,7 +4724,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18478
+      "UsersEstimate": 18479
     },
     {
       "ID": "GameOver",
@@ -4781,9 +4786,9 @@
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3735
     },
     {
       "ID": "Negotiator",
@@ -4854,15 +4859,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19657,
+      "Progressed": 19658,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-15T19:59:37.6370768+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:23.0231741+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:25.1319203+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:59:43.7197749+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:23.0232098+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:59:52.197364+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:25.1319606+00:00"
 }

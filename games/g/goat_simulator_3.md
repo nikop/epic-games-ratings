@@ -5,47 +5,47 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~207,091 |
-| Private Club | 74.00% | ~168,403 |
-| Rogue Guild | 65.00% | ~147,922 |
-| I Watched the Intro | 57.00% | ~129,716 |
-| Covert Consortium | 55.00% | ~125,165 |
-| Goat Queen | 53.00% | ~120,613 |
-| Reach the Stratosphere | 49.00% | ~111,510 |
-| Synchronization Complete | 47.00% | ~106,959 |
-| Secret Society | 45.00% | ~102,407 |
-| Shadow Syndicate | 37.00% | ~84,202 |
-| What a Waste of Money | 33.00% | ~75,099 |
-| New Goat Order | 30.00% | ~68,272 |
-| Don't touch the servers | 28.00% | ~63,720 |
-| San Angora: Become Human | 26.00% | ~59,169 |
-| Raider of the Lost Parking Garage | 26.00% | ~59,169 |
-| Real Buoy | 26.00% | ~59,169 |
-| Welcome to Earth | 25.00% | ~56,893 |
-| Into the Matrix | 18.00% | ~40,963 |
-| Where is It? | 17.00% | ~38,687 |
-| Egg Simulator | 16.00% | ~36,412 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~34,136 |
-| Black Market | 14.00% | ~31,860 |
-| 401(K.O.) | 14.00% | ~31,860 |
-| Car Cave | 12.00% | ~27,309 |
-| Club Mohair | 8.00% | ~18,206 |
-| A Center for Ants? | 8.00% | ~18,206 |
-| French Fika | 7.00% | ~15,930 |
+| Forgotten Sorority | 91.00% | ~207,101 |
+| Private Club | 74.00% | ~168,412 |
+| Rogue Guild | 65.00% | ~147,930 |
+| I Watched the Intro | 57.00% | ~129,723 |
+| Covert Consortium | 55.00% | ~125,171 |
+| Goat Queen | 53.00% | ~120,620 |
+| Reach the Stratosphere | 49.00% | ~111,516 |
+| Synchronization Complete | 47.00% | ~106,964 |
+| Secret Society | 45.00% | ~102,413 |
+| Shadow Syndicate | 37.00% | ~84,206 |
+| What a Waste of Money | 33.00% | ~75,103 |
+| New Goat Order | 30.00% | ~68,275 |
+| Don't touch the servers | 28.00% | ~63,724 |
+| San Angora: Become Human | 26.00% | ~59,172 |
+| Raider of the Lost Parking Garage | 26.00% | ~59,172 |
+| Real Buoy | 26.00% | ~59,172 |
+| Welcome to Earth | 25.00% | ~56,896 |
+| Into the Matrix | 18.00% | ~40,965 |
+| Where is It? | 17.00% | ~38,689 |
+| Egg Simulator | 16.00% | ~36,413 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~34,138 |
+| Black Market | 14.00% | ~31,862 |
+| 401(K.O.) | 14.00% | ~31,862 |
+| Car Cave | 12.00% | ~27,310 |
+| Club Mohair | 8.00% | ~18,207 |
+| A Center for Ants? | 8.00% | ~18,207 |
+| French Fika | 7.00% | ~15,931 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,103 |
 | Nasty! | 4.00% | ~9,103 |
 | [REDACTED] | 4.00% | ~9,103 |
-| Cannibanana | 2.00% | ~4,551 |
-| Daredevil | 2.00% | ~4,551 |
+| Cannibanana | 2.00% | ~4,552 |
+| Daredevil | 2.00% | ~4,552 |
 | You Trusted Your Instincts | 1.00% | ~2,276 |
 | Certified Fresh | 1.00% | ~2,276 |
 | Streaking | 1.00% | ~2,276 |
 | Try Hard 2 | 1.00% | ~2,276 |
 | Crocsquatch | 0.90% | ~2,048 |
-| Move! That! Bus! | 0.60% | ~1,365 |
+| Move! That! Bus! | 0.60% | ~1,366 |
 | G.O.A.T | 0.30% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,572 (Ranked 47)  
+Progressed: 227,584 (Ranked 47)  
 Completed: 741 (0.33%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,17 +102,17 @@ Completed: 741 (0.33%) (Ranked 133)
 | 2023-06-13 | 226,962 | 736 |
 | 2023-06-14 | 227,250 | 739 |
 | 2023-06-15 | 227,495 | 741 |
-| 2023-06-16 | 227,572 | 741 |
+| 2023-06-16 | 227,584 | 741 |
 ## Awards
 Max (Great for Beginners): 338  (Ranked 220)  
-Sum: 2,844 (Ranked 158)  
+Sum: 2,846 (Ranked 158)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 338 |
 | This game has Diverse Characters | 325 |
 | This game is Highly Recommended | 306 |
-| This game has Amazing Characters | 291 |
+| This game has Amazing Characters | 293 |
 | This game is Extremely Fun | 278 |
 | This game has Amazing Storytelling | 273 |
 | This game has Quickly Understood Controls | 272 |
@@ -209,4 +209,4 @@ Diff (max vs sum): 62
 | 2023-06-13 | 4.85 | 337 | 2,834 |
 | 2023-06-14 | 4.85 | 338 | 2,838 |
 | 2023-06-15 | 4.85 | 338 | 2,840 |
-| 2023-06-16 | 4.85 | 338 | 2,844 |
+| 2023-06-16 | 4.85 | 338 | 2,846 |

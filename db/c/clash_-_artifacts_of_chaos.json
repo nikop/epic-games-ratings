@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement19",
@@ -354,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:38.2194229+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:41.0453679+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.0729891+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:00:32.4500597+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:38.2194371+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:00:43.1535074+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:41.0453865+00:00"
 }

@@ -199,9 +199,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -262,8 +262,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:03:45.4389557+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:03:40.2568105+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:29.2823456+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:59:24.0245916+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:03:45.4389657+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:59:31.6102267+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:03:40.2568233+00:00"
 }

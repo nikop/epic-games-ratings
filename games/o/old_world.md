@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 17.00% | ~2,054 |
 | Learn to Play 3 | 17.00% | ~2,054 |
 | Assyrian Paganism | 17.00% | ~2,054 |
+| Military Prestige | 17.00% | ~2,054 |
 | Redemption | 17.00% | ~2,054 |
 | Kushite Cavalry | 17.00% | ~2,054 |
 | Phalangite | 17.00% | ~2,054 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 16.00% | ~1,933 |
 | Lion | 16.00% | ~1,933 |
 | Strong Difficulty | 16.00% | ~1,933 |
-| Military Prestige | 16.00% | ~1,933 |
 | Gnosticism | 16.00% | ~1,933 |
 | Veneration | 16.00% | ~1,933 |
 | Bad Heir Day | 15.00% | ~1,812 |

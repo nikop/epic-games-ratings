@@ -1505,7 +1505,7 @@
   ],
   "EOS_Progressed": 12083,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7599,9 +7599,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1933
+      "UsersEstimate": 2054
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -7941,8 +7941,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-15T20:57:55.1894635+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:51.2867674+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:53.8630643+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.0115639+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:58:10.3191742+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:51.2876496+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:58:12.7406602+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:53.8640476+00:00"
 }

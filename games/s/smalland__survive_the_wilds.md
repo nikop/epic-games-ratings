@@ -15,11 +15,11 @@ Rating: 4.54 (Ranked 491)
 | Smooth as silk | 1.00% | ~191 |
 | Mastermind | 0.60% | ~115 |
 | Metal Age | 0.60% | ~115 |
-| Hang time | 0.50% | ~95 |
+| Hang time | 0.50% | ~96 |
 | Something Wicked | 0.30% | ~57 |
 | The Key | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,098 (Ranked 99)  
+Progressed: 19,100 (Ranked 99)  
 Completed: 18 (0.09%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 18 (0.09%) (Ranked 179)
 | 2023-06-13 | 19,037 | 18 |
 | 2023-06-14 | 19,050 | 18 |
 | 2023-06-15 | 19,081 | 18 |
-| 2023-06-16 | 19,098 | 18 |
+| 2023-06-16 | 19,100 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

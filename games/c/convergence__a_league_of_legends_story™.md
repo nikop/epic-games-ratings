@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 12.00% | ~84 |
+| Time Heals All Wounds | 13.00% | ~91 |
 | The Mysterious Stranger | 10.00% | ~70 |
 | Rail Rat | 10.00% | ~70 |
 | Cartographer | 10.00% | ~70 |
+| Time Flies | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
+| Immaculate Aim | 10.00% | ~70 |
+| The Brass Boss | 10.00% | ~70 |
 | The Steel Shadow | 9.00% | ~63 |
 | Treasure Trove | 9.00% | ~63 |
 | Make Up For Lost Time | 9.00% | ~63 |
-| Time Flies | 9.00% | ~63 |
 | The Harder They Fall | 9.00% | ~63 |
 | No, Thanks! | 9.00% | ~63 |
 | Breaking Down Barriers | 9.00% | ~63 |
+| The Wicked Twins | 9.00% | ~63 |
 | The Prince in Heels | 9.00% | ~63 |
+| Honest Mistake | 9.00% | ~63 |
 | Fast Learner | 9.00% | ~63 |
-| Immaculate Aim | 9.00% | ~63 |
-| The Brass Boss | 9.00% | ~63 |
 | The Betrayer | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
-| The Wicked Twins | 8.00% | ~56 |
-| Honest Mistake | 8.00% | ~56 |
 | Golem Chaser | 8.00% | ~56 |
 | Check Your Pulse | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
@@ -58,7 +58,7 @@
 | No Time to Waste | 0.30% | ~2 |
 | Raw Talent | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 193)  
+Progressed: 701 (Ranked 193)  
 Completed: 2 (0.29%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 2 (0.29%) (Ranked 141)
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
 | 2023-06-15 | 696 | 2 |
-| 2023-06-16 | 698 | 2 |
+| 2023-06-16 | 701 | 2 |

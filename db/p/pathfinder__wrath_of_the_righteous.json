@@ -3,11 +3,11 @@
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 117,
-  "Ranking_Popularity": 113,
+  "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2852,9 +2852,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9913,
+  "EOS_Progressed": 9914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6677,6 +6677,11 @@
       "Time": "2023-06-16T15:06:48.6296542+00:00",
       "NumProgressed": 9913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T16:06:51.304837+00:00",
+      "NumProgressed": 9914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6688,7 +6693,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "02_BurningCity",
@@ -7615,21 +7620,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8695,
+      "Progressed": 8696,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9913,
+      "Progressed": 9914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-15T10:58:17.6007907+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:48.6296538+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:51.3048364+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:58:35.398876+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:48.6298356+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:58:39.3934736+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:51.3050621+00:00"
 }

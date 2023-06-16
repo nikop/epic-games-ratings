@@ -3,11 +3,11 @@
   "Name": "A Total War Saga: TROY",
   "ProductSlug": "a-total-war-saga-troy",
   "Ranking_Rating": 531,
-  "Ranking_Popularity": 115,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
@@ -4198,10 +4198,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 11487,
       "NumberOfAwardsMax": 1609
+    },
+    {
+      "Time": "2023-06-16T15:58:28.5174731+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11490,
+      "NumberOfAwardsMax": 1609
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11487,
+  "NumberOfAwards": 11490,
   "NumberOfAwardsMax": 1609,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4245,7 +4251,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1349
+      "Count": 1352
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4271,8 +4277,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-06-16T11:58:16.588988+00:00",
+  "LastChanged": "2023-06-16T15:58:28.5174729+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:21.8783823+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:58:24.4235817+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:03:14.1478937+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:58:28.5174737+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:02:27.2292834+00:00"
 }

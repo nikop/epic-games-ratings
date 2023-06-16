@@ -172,7 +172,7 @@
   "Tags": [],
   "EOS_Progressed": 6511,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -3764,9 +3764,9 @@
       "ID": "HAPPY_CAMPER",
       "SetID": "3cck1g6",
       "Name": "Happy Camper",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 260
+      "UsersEstimate": 326
     },
     {
       "ID": "HISTORIAN",
@@ -3861,8 +3861,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:14.7796665+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:16.3311147+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:58:11.3252232+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:14.7797032+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:58:13.8627259+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:16.3311576+00:00"
 }

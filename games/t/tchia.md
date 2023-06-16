@@ -15,9 +15,9 @@ Rating: 4.75 (Ranked 132)
 | Clay Pigeon | 6.00% | ~391 |
 | Historian | 6.00% | ~391 |
 | Soul-Canon | 6.00% | ~391 |
+| Happy Camper | 5.00% | ~326 |
 | Iconoclast | 5.00% | ~326 |
 | Shredder | 5.00% | ~326 |
-| Happy Camper | 4.00% | ~260 |
 | Liberator | 4.00% | ~260 |
 | Live Wire | 4.00% | ~260 |
 | Fashion Faux-Pas | 3.00% | ~195 |

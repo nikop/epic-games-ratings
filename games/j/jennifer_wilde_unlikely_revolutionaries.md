@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Bedtime Storyteller | 23.00% | ~7 |
 | Clothes Hunter | 20.00% | ~6 |
 | I See Dead People | 20.00% | ~6 |
-| Bedtime Storyteller | 20.00% | ~6 |
 | Con Artist | 17.00% | ~5 |
 | Electrician | 17.00% | ~5 |
 | I Ain't Afraid of No Ghost | 13.00% | ~4 |

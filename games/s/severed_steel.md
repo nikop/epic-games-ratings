@@ -1,28 +1,28 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,096 |
-| 50 HEADSHOTS | 12.00% | ~49,935 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,451 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,451 |
-| 200 HEADSHOTS | 7.00% | ~29,129 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,129 |
-| FINISHED CHAPTER 3 | 6.00% | ~24,967 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,806 |
-| 1000 KILLS | 4.00% | ~16,645 |
-| FINISH CHAPTER 5 | 4.00% | ~16,645 |
-| FINISH CHAPTER 6 | 4.00% | ~16,645 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,645 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,322 |
+| 100 KILLS | 13.00% | ~54,098 |
+| 50 HEADSHOTS | 12.00% | ~49,937 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,452 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,452 |
+| 200 HEADSHOTS | 7.00% | ~29,130 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,130 |
+| FINISHED CHAPTER 3 | 6.00% | ~24,968 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,807 |
+| 1000 KILLS | 4.00% | ~16,646 |
+| FINISH CHAPTER 5 | 4.00% | ~16,646 |
+| FINISH CHAPTER 6 | 4.00% | ~16,646 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,646 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,323 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,913 |
 | FIRST BLOOD | 0.60% | ~2,497 |
-| FIREFIGHT LEVEL 30 | 0.40% | ~1,664 |
-| PACEMAKER | 0.40% | ~1,664 |
-| TIME PARADOX | 0.40% | ~1,664 |
+| FIREFIGHT LEVEL 30 | 0.40% | ~1,665 |
+| PACEMAKER | 0.40% | ~1,665 |
+| TIME PARADOX | 0.40% | ~1,665 |
 | NEW GAME PLUS | 0.30% | ~1,248 |
 | OUT OF ORDER | 0.30% | ~1,248 |
 | PARTYHARD | 0.30% | ~1,248 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~416 |
 | WARRIOR IN A GARDEN | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,123 (Ranked 37)  
+Progressed: 416,138 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 37 (0.01%) (Ranked 213)
 | 2023-06-13 | 415,338 | 34 |
 | 2023-06-14 | 415,619 | 37 |
 | 2023-06-15 | 415,918 | 37 |
-| 2023-06-16 | 416,123 | 37 |
+| 2023-06-16 | 416,138 | 37 |
 ## Awards
 Max (Great Boss Battles): 177  (Ranked 275)  
 Sum: 177 (Ranked 368)  

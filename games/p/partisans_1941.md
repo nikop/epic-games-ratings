@@ -7,21 +7,21 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 32.00% | ~333 |
-| Grenadier | 31.00% | ~322 |
-| War Never Changes | 31.00% | ~322 |
+| Grenadier | 31.00% | ~323 |
+| War Never Changes | 31.00% | ~323 |
 | Heroes Never Die | 29.00% | ~302 |
-| Mosquito bite | 28.00% | ~291 |
+| Mosquito bite | 28.00% | ~292 |
 | Spice It Up | 24.00% | ~250 |
-| Agent 47 | 21.00% | ~218 |
-| You're Gonna Go Far, Kid | 21.00% | ~218 |
+| Agent 47 | 21.00% | ~219 |
+| You're Gonna Go Far, Kid | 21.00% | ~219 |
 | Bomberman | 20.00% | ~208 |
 | Death to the Oppressor! | 14.00% | ~146 |
 | The Gang's All Here | 12.00% | ~125 |
-| One by One | 11.00% | ~114 |
-| Your Answer | 11.00% | ~114 |
+| One by One | 11.00% | ~115 |
+| Your Answer | 11.00% | ~115 |
 | The Big Bertha | 9.00% | ~94 |
 | Game Over | 8.00% | ~83 |
-| Lock, Stock | 6.00% | ~62 |
+| Lock, Stock | 6.00% | ~63 |
 | Payback Time | 5.00% | ~52 |
 | No Witness | 4.00% | ~42 |
 | Strategist | 3.00% | ~31 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,040 (Ranked 179)  
+Progressed: 1,042 (Ranked 179)  
 Completed: 1 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.10%) (Ranked 173)
 | 2023-06-13 | 1,027 | 1 |
 | 2023-06-14 | 1,034 | 1 |
 | 2023-06-15 | 1,039 | 1 |
-| 2023-06-16 | 1,040 | 1 |
+| 2023-06-16 | 1,042 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

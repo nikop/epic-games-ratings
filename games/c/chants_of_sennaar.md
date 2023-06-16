@@ -7,13 +7,13 @@
 | That's the spirit | 100.00% | ~5 |
 | Rascal | 80.00% | ~4 |
 | Welcome to the Tower | 80.00% | ~4 |
+| The Preacher's fate | 60.00% | ~3 |
 | Champollion | 60.00% | ~3 |
 | Scholar | 60.00% | ~3 |
+| The great escape | 60.00% | ~3 |
 | Cable guy | 40.00% | ~2 |
 | A good beginning | 40.00% | ~2 |
 | Feels like springtime | 40.00% | ~2 |
-| The Preacher's fate | 40.00% | ~2 |
-| The great escape | 40.00% | ~2 |
 | A new dawn | 40.00% | ~2 |
 | The darkness | 40.00% | ~2 |
 | One last step | 40.00% | ~2 |

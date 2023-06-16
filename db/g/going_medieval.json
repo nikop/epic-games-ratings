@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1082,9 +1082,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 3791,
+  "EOS_Progressed": 3792,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-06-16T15:06:31.6673236+00:00",
       "NumProgressed": 3791,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-16T16:06:34.2423695+00:00",
+      "NumProgressed": 3792,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 31,
@@ -3115,15 +3120,15 @@
       "Name": "Green Thumb",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "HARVEST_CROP_5",
       "SetID": "5349c2e",
       "Name": "Having A Field Day",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2692
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -3131,7 +3136,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -3139,7 +3144,7 @@
       "Name": "A Party Now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "HUNT_DEER_20",
@@ -3155,7 +3160,7 @@
       "Name": "Oh Deer!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -3179,7 +3184,7 @@
       "Name": "Where Wolf?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -3243,7 +3248,7 @@
       "Name": "The First Day",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -3297,9 +3302,9 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1668
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -3315,7 +3320,7 @@
       "Name": "Onward",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -3330,15 +3335,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3791,
+      "Progressed": 3792,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-16T11:00:50.4001825+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:31.6673233+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:34.2423689+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.1224495+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:00:07.6705718+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:31.6673534+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:00:17.3326532+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:34.2424006+00:00"
 }

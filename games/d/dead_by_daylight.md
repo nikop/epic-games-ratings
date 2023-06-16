@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.90% | ~5,051 |
-| Healthy Obsession | 0.80% | ~4,490 |
-| Preemptive Strike | 0.80% | ~4,490 |
-| Humanitarian | 0.80% | ~4,490 |
-| Close Shave | 0.70% | ~3,929 |
-| Wounded Healer | 0.60% | ~3,367 |
-| Flight to Freedom | 0.60% | ~3,367 |
-| Unforgettable Getaway | 0.50% | ~2,806 |
-| First to the Punch | 0.50% | ~2,806 |
-| Old West Oasis | 0.50% | ~2,806 |
-| With Scars to Show | 0.50% | ~2,806 |
-| Operation: Survival | 0.40% | ~2,245 |
-| Classy Act | 0.40% | ~2,245 |
-| Every Last Drop | 0.40% | ~2,245 |
-| Raccoon City Recruit | 0.40% | ~2,245 |
-| A Fast Death | 0.40% | ~2,245 |
-| Lifting The Fog | 0.40% | ~2,245 |
-| Chorus of Chaos | 0.40% | ~2,245 |
+| Resurgence | 0.90% | ~5,053 |
+| Healthy Obsession | 0.80% | ~4,492 |
+| Preemptive Strike | 0.80% | ~4,492 |
+| Humanitarian | 0.80% | ~4,492 |
+| Close Shave | 0.70% | ~3,930 |
+| Wounded Healer | 0.60% | ~3,369 |
+| Flight to Freedom | 0.60% | ~3,369 |
+| Unforgettable Getaway | 0.50% | ~2,807 |
+| First to the Punch | 0.50% | ~2,807 |
+| Old West Oasis | 0.50% | ~2,807 |
+| With Scars to Show | 0.50% | ~2,807 |
+| Operation: Survival | 0.40% | ~2,246 |
+| Classy Act | 0.40% | ~2,246 |
+| Every Last Drop | 0.40% | ~2,246 |
+| Raccoon City Recruit | 0.40% | ~2,246 |
+| A Fast Death | 0.40% | ~2,246 |
+| Lifting The Fog | 0.40% | ~2,246 |
+| Chorus of Chaos | 0.40% | ~2,246 |
 | Ancestor's Rite | 0.30% | ~1,684 |
 | Devoted Gatekeeping | 0.30% | ~1,684 |
 | Cutting Out | 0.30% | ~1,684 |
@@ -31,16 +31,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~1,684 |
 | Selfless Survival | 0.30% | ~1,684 |
 | End of Days | 0.30% | ~1,684 |
-| Heavy Burden | 0.20% | ~1,122 |
-| Shrine Apparatus | 0.20% | ~1,122 |
-| Broken Bodies | 0.20% | ~1,122 |
-| I See You | 0.20% | ~1,122 |
-| Insult and Injury | 0.20% | ~1,122 |
-| Punch Drunk | 0.20% | ~1,122 |
-| Prowler | 0.20% | ~1,122 |
-| Outrun the Overlap | 0.20% | ~1,122 |
-| High Speed Pursuit | 0.20% | ~1,122 |
-| Rebuilding The Borgo | 0.20% | ~1,122 |
+| Heavy Burden | 0.20% | ~1,123 |
+| Shrine Apparatus | 0.20% | ~1,123 |
+| Broken Bodies | 0.20% | ~1,123 |
+| I See You | 0.20% | ~1,123 |
+| Insult and Injury | 0.20% | ~1,123 |
+| Punch Drunk | 0.20% | ~1,123 |
+| Prowler | 0.20% | ~1,123 |
+| Outrun the Overlap | 0.20% | ~1,123 |
+| High Speed Pursuit | 0.20% | ~1,123 |
+| Rebuilding The Borgo | 0.20% | ~1,123 |
 | The Grand Sacrifice | 0.10% | ~561 |
 | A bite for the Entity | 0.10% | ~561 |
 | A feast for the Entity | 0.10% | ~561 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~561 |
 | Adept Gabriel | 0.10% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561,233 (Ranked 26)  
+Progressed: 561,466 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 42 (0.01%) (Ranked 213)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 561,233 | 42 |
+| 2023-06-16 | 561,466 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
-Sum: 227,760 (Ranked 12)  
+Sum: 227,798 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 4
 | This game has Quickly Understood Controls | 25,542 |
 | This game has Challenging Combat | 24,920 |
 | This game has Amazing Storytelling | 23,460 |
-| This game has a Competitive Community | 21,724 |
+| This game has a Competitive Community | 21,762 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -448,4 +448,4 @@ Diff (max vs sum): 4
 | 2023-06-13 | 4.52 | - | 28,386 | 226,864 |
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
 | 2023-06-15 | 4.52 | - | 28,513 | 227,631 |
-| 2023-06-16 | 4.52 | - | 28,513 | 227,760 |
+| 2023-06-16 | 4.52 | - | 28,513 | 227,798 |

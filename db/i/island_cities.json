@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 14.87,
+  "EOS_Completed_Percentage": 14.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1543,6 +1543,11 @@
       "Time": "2023-06-15T16:05:27.4474285+00:00",
       "NumProgressed": 343,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-16T16:06:18.2167833+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 22,
@@ -1554,7 +1559,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "LEVEL_002",
@@ -1562,7 +1567,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "LEVEL_003",
@@ -1570,7 +1575,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_004",
@@ -1578,7 +1583,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_005",
@@ -1610,7 +1615,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_009",
@@ -1634,7 +1639,7 @@
       "Name": "At the heart of the city",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_012",
@@ -1642,7 +1647,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_013",
@@ -1650,7 +1655,7 @@
       "Name": "Elevated ring",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_014",
@@ -1698,7 +1703,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_020",
@@ -1706,7 +1711,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_021",
@@ -1714,7 +1719,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_022",
@@ -1722,14 +1727,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 51
     }
   ],
@@ -1737,8 +1742,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:16.4765391+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:18.2167827+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-16T14:58:17.1060243+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:16.4765626+00:00"
+  "LastUpdate_Ratings": "2023-06-16T15:58:19.9360997+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:18.2168255+00:00"
 }

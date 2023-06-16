@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2002,10 +2002,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1570,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-06-16T16:00:24.8869281+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1572,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1570,
+  "NumberOfAwards": 1572,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2049,7 +2055,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 320
+      "Count": 322
     },
     {
       "Text": "This game has a Silly Community",
@@ -2058,9 +2064,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 66890,
+  "EOS_Progressed": 66897,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8003,6 +8009,11 @@
       "Time": "2023-06-16T15:06:40.2110543+00:00",
       "NumProgressed": 66890,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T16:06:43.0267414+00:00",
+      "NumProgressed": 66897,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 37,
@@ -8014,7 +8025,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33445
+      "UsersEstimate": 33448
     },
     {
       "ID": "ACH_0011",
@@ -8022,7 +8033,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19398
+      "UsersEstimate": 19400
     },
     {
       "ID": "ACH_0012",
@@ -8030,7 +8041,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14047
+      "UsersEstimate": 14048
     },
     {
       "ID": "ACH_0013",
@@ -8038,7 +8049,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8696
+      "UsersEstimate": 8697
     },
     {
       "ID": "ACH_0014",
@@ -8046,7 +8057,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "ACH_0015",
@@ -8054,7 +8065,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACH_0016",
@@ -8086,7 +8097,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACH_0040",
@@ -8094,7 +8105,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5351
+      "UsersEstimate": 5352
     },
     {
       "ID": "ACH_0050",
@@ -8102,7 +8113,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "ACH_0060",
@@ -8110,7 +8121,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "ACH_0061",
@@ -8126,7 +8137,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5351
+      "UsersEstimate": 5352
     },
     {
       "ID": "ACH_0101",
@@ -8158,7 +8169,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43478
+      "UsersEstimate": 43483
     },
     {
       "ID": "ACH_0210",
@@ -8166,7 +8177,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49499
+      "UsersEstimate": 49504
     },
     {
       "ID": "ACH_0211",
@@ -8182,7 +8193,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31438
+      "UsersEstimate": 31442
     },
     {
       "ID": "ACH_0300",
@@ -8206,7 +8217,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5351
+      "UsersEstimate": 5352
     },
     {
       "ID": "ACH_0340",
@@ -8230,7 +8241,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22743
+      "UsersEstimate": 22745
     },
     {
       "ID": "ACH_0420",
@@ -8238,7 +8249,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22743
+      "UsersEstimate": 22745
     },
     {
       "ID": "ACH_0430",
@@ -8246,7 +8257,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23412
+      "UsersEstimate": 23414
     },
     {
       "ID": "ACH_0431",
@@ -8254,7 +8265,7 @@
       "Name": "Classy Joint",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "ACH_0440",
@@ -8262,7 +8273,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12709
+      "UsersEstimate": 12710
     },
     {
       "ID": "ACH_0450",
@@ -8270,7 +8281,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12709
+      "UsersEstimate": 12710
     },
     {
       "ID": "ACH_0451",
@@ -8278,7 +8289,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10702
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACH_0452",
@@ -8286,7 +8297,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10702
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACH_0460",
@@ -8302,23 +8313,23 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7358
+      "UsersEstimate": 7359
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 66890,
+      "Progressed": 66897,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-06-16T09:01:06.6987901+00:00",
-  "LastChanged_Achievements": "2023-06-16T15:06:40.211054+00:00",
+  "LastChanged": "2023-06-16T16:00:24.8869279+00:00",
+  "LastChanged_Achievements": "2023-06-16T16:06:43.0267407+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:25.7219377+00:00",
-  "LastUpdate_Ratings": "2023-06-16T15:00:15.3507497+00:00",
-  "LastUpdate_Achievements": "2023-06-16T15:06:40.2111211+00:00"
+  "LastUpdate_Ratings": "2023-06-16T16:00:24.8869285+00:00",
+  "LastUpdate_Achievements": "2023-06-16T16:06:43.0268117+00:00"
 }
