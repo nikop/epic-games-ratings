@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2795,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2783,9 +2783,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 252
     },
     {
       "ID": "18",
@@ -2917,8 +2917,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:04:45.0561768+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:04:18.6429347+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:59:31.247658+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:04:45.0562023+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:04.6040215+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:04:18.6429692+00:00"
 }

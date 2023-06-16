@@ -3,11 +3,11 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-06-16T06:07:05.7215519+00:00",
       "NumProgressed": 491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T07:06:02.701839+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1057,7 +1062,7 @@
       "Name": "Spirit animal",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LiarLiar",
@@ -1200,7 +1205,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 1
     }
   ],
@@ -1208,8 +1213,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:05.721551+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:02.7018385+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:58:12.7693843+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:05.7215741+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:58:08.6280905+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:02.7018694+00:00"
 }

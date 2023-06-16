@@ -18,10 +18,10 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,610 |
 | Coasting Along | 7.00% | ~19,610 |
 | That's a Keeper | 7.00% | ~19,610 |
-| Challenge Accepted | 6.00% | ~16,808 |
-| Followed the Butterflies | 6.00% | ~16,808 |
-| The Spell Master | 6.00% | ~16,808 |
-| Rising From the Ashes | 6.00% | ~16,808 |
+| Challenge Accepted | 6.00% | ~16,809 |
+| Followed the Butterflies | 6.00% | ~16,809 |
+| The Spell Master | 6.00% | ~16,809 |
+| Rising From the Ashes | 6.00% | ~16,809 |
 | The Avenging Gazelle | 5.00% | ~14,007 |
 | Beast Friends | 5.00% | ~14,007 |
 | A Sallow Grave | 5.00% | ~14,007 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,401 |
 | Collector's Edition | 0.20% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,139 (Ranked 41)  
+Progressed: 280,143 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 408 (0.15%) (Ranked 162)
 | 2023-06-13 | 279,378 | 405 |
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
-| 2023-06-16 | 280,139 | 408 |
+| 2023-06-16 | 280,143 | 408 |
 ## Awards
 Max (Character Customization): 19,994  (Ranked 18)  
 Sum: 37,095 (Ranked 32)  

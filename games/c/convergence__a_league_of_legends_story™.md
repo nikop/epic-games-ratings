@@ -20,16 +20,16 @@
 | Immaculate Aim | 9.00% | ~63 |
 | The Brass Boss | 9.00% | ~63 |
 | The Betrayer | 8.00% | ~56 |
+| The Loose Cannon | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
 | Golem Chaser | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
+| Check Your Pulse | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
 | Street Style | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
-| The Loose Cannon | 7.00% | ~49 |
-| Check Your Pulse | 7.00% | ~49 |
 | The Family Fortune | 7.00% | ~49 |
 | Whiz Kid | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
@@ -38,11 +38,11 @@
 | Syron for Hope | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
 | Good Neighbor | 5.00% | ~35 |
+| Cultivair Explorer | 4.00% | ~28 |
 | Factorywood Explorer | 4.00% | ~28 |
 | Theater Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Sartorialist | 3.00% | ~21 |
-| Cultivair Explorer | 3.00% | ~21 |
 | Entresol Explorer | 3.00% | ~21 |
 | Fairgrounds Explorer | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |

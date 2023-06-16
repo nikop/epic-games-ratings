@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 0.80% | ~4,479 |
-| Healthy Obsession | 0.70% | ~3,919 |
-| Preemptive Strike | 0.70% | ~3,919 |
-| Humanitarian | 0.70% | ~3,919 |
-| Close Shave | 0.60% | ~3,359 |
-| Wounded Healer | 0.50% | ~2,799 |
-| Flight to Freedom | 0.50% | ~2,799 |
+| Resurgence | 0.80% | ~4,480 |
+| Healthy Obsession | 0.70% | ~3,920 |
+| Preemptive Strike | 0.70% | ~3,920 |
+| Humanitarian | 0.70% | ~3,920 |
+| Close Shave | 0.60% | ~3,360 |
+| Wounded Healer | 0.50% | ~2,800 |
+| Flight to Freedom | 0.50% | ~2,800 |
 | Unforgettable Getaway | 0.40% | ~2,240 |
 | First to the Punch | 0.40% | ~2,240 |
 | Old West Oasis | 0.40% | ~2,240 |
@@ -22,6 +22,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.30% | ~1,680 |
 | Outrun Evil | 0.30% | ~1,680 |
 | Operation: Survival | 0.30% | ~1,680 |
+| Grim Pilgrimage | 0.30% | ~1,680 |
 | Classy Act | 0.30% | ~1,680 |
 | Raccoon City Recruit | 0.30% | ~1,680 |
 | A Fast Death | 0.30% | ~1,680 |
@@ -30,7 +31,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.20% | ~1,120 |
 | Shrine Apparatus | 0.20% | ~1,120 |
 | Broken Bodies | 0.20% | ~1,120 |
-| Grim Pilgrimage | 0.20% | ~1,120 |
 | Selfless Survival | 0.20% | ~1,120 |
 | I See You | 0.20% | ~1,120 |
 | End of Days | 0.20% | ~1,120 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~560 |
 | Adept Gabriel | 0.10% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 559,878 (Ranked 26)  
+Progressed: 559,982 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
-| 2023-06-16 | 559,878 | 42 |
+| 2023-06-16 | 559,982 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,704 (Ranked 12)  

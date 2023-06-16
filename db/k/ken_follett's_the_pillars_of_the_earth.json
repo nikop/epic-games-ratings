@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13282,
+  "EOS_Progressed": 13283,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4234,6 +4234,11 @@
       "Time": "2023-06-16T06:06:54.7218883+00:00",
       "NumProgressed": 13282,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-16T07:05:54.5712826+00:00",
+      "NumProgressed": 13283,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4301,7 +4306,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "tpote_achievement_17",
@@ -4349,7 +4354,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4117
+      "UsersEstimate": 4118
     },
     {
       "ID": "tpote_achievement_22",
@@ -4357,7 +4362,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "tpote_achievement_23",
@@ -4389,7 +4394,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "tpote_achievement_27",
@@ -4509,7 +4514,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5578
+      "UsersEstimate": 5579
     },
     {
       "ID": "tpote_achievement_40",
@@ -4533,7 +4538,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3321
     },
     {
       "ID": "tpote_achievement_6",
@@ -4572,15 +4577,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13282,
+      "Progressed": 13283,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:06:54.7218879+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:05:54.5712815+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:00:45.5055805+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:06:54.7219312+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:55.8941243+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:05:54.5713406+00:00"
 }

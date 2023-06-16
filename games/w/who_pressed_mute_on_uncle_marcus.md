@@ -15,11 +15,11 @@
 | I bless the rain down in London | 30.00% | ~56 |
 | Just like me | 30.00% | ~56 |
 | Cheat | 28.00% | ~53 |
+| Delusions | 28.00% | ~53 |
 | Brown nosing | 27.00% | ~51 |
-| Delusions | 27.00% | ~51 |
 | Prove it | 24.00% | ~45 |
 | The truth | 24.00% | ~45 |
-| Making a murderer | 16.00% | ~30 |
+| Making a murderer | 17.00% | ~32 |
 | The whole truth | 13.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 188 (Ranked 258)  

@@ -2,9 +2,9 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -246,6 +246,11 @@
       "Time": "2023-06-16T02:16:06.7777646+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T07:06:20.7609978+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -279,7 +284,7 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -391,7 +396,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -815,7 +820,7 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -863,7 +868,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -879,7 +884,7 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -959,7 +964,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -983,7 +988,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -1207,7 +1212,7 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1312,14 +1317,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:28.1646789+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:20.7609972+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:04.0514133+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:59:16.0539295+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:28.164838+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:58:53.2412109+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:20.76122+00:00"
 }

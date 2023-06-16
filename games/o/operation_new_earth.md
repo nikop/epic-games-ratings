@@ -16,8 +16,8 @@
 | Infantry Reporting | 23.00% | ~21 |
 | Getting Deployment | 21.00% | ~19 |
 | Keeping Busy | 18.00% | ~16 |
+| Silver Competitor | 16.00% | ~14 |
 | Fighting for Survival | 14.00% | ~13 |
-| Silver Competitor | 14.00% | ~13 |
 | Brothers in Arms | 13.00% | ~12 |
 | Factory Expansion | 13.00% | ~12 |
 | Captain | 10.00% | ~9 |

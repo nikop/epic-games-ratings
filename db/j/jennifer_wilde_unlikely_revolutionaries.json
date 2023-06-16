@@ -4,7 +4,7 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -184,9 +184,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -247,8 +247,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:03:48.001629+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:03:44.2972618+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:29.2823456+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:59:41.9653132+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:03:48.0016365+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:11.2708431+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:03:44.2972756+00:00"
 }

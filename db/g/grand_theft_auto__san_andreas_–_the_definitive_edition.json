@@ -412,9 +412,9 @@
       "Count": 167
     }
   ],
-  "EOS_Progressed": 10598,
+  "EOS_Progressed": 10599,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4912,6 +4912,11 @@
       "Time": "2023-06-16T06:07:19.5027453+00:00",
       "NumProgressed": 10598,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-16T07:06:13.4477835+00:00",
+      "NumProgressed": 10599,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 35,
@@ -4923,7 +4928,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8478
+      "UsersEstimate": 8479
     },
     {
       "ID": "ACH02",
@@ -4979,7 +4984,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "ACH09",
@@ -5033,9 +5038,9 @@
       "ID": "ACH15",
       "SetID": "4ck5mbe",
       "Name": "They Can\u2019t Stop All of Us",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 318
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH16",
@@ -5202,7 +5207,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10598,
+      "Progressed": 10599,
       "Completed": 18
     }
   ],
@@ -5210,8 +5215,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-16T05:00:56.8006723+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:19.5027446+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:13.4477829+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:01:04.0010195+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:19.502785+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:00:09.8662726+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:13.4478384+00:00"
 }

@@ -110,9 +110,9 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BFT_CH3",
@@ -126,9 +126,9 @@
       "ID": "BFT_CH3HB",
       "SetID": "7o7kd30",
       "Name": "Heavy Duty",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BFT_CH4",
@@ -142,9 +142,9 @@
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_CH5",
@@ -158,9 +158,9 @@
       "ID": "BFT_CH5HB",
       "SetID": "7o7kd30",
       "Name": "The Terror",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_CH6",
@@ -174,9 +174,9 @@
       "ID": "BFT_CH6HB",
       "SetID": "7o7kd30",
       "Name": "All Geared Up",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BFT_CH7",
@@ -190,9 +190,9 @@
       "ID": "BFT_CH7HB",
       "SetID": "7o7kd30",
       "Name": "The End",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BFT_CHOMP",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:09.8486352+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:06.012145+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:00:43.4987938+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:09.8486506+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:54.4683907+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:06.0121696+00:00"
 }

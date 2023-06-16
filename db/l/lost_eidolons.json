@@ -3,8 +3,8 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 753,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 167,
@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1009,
+  "EOS_Progressed": 1010,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -924,6 +924,11 @@
       "Time": "2023-06-15T20:06:12.1478543+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T07:06:05.1828266+00:00",
+      "NumProgressed": 1010,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -967,7 +972,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "06",
@@ -1063,7 +1068,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "18",
@@ -1071,7 +1076,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "19",
@@ -1118,7 +1123,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1010,
       "Completed": 0
     }
   ],
@@ -1126,8 +1131,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:08.8007273+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:05.182826+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:00:23.7368592+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:08.8007421+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:40.3384767+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:05.1828492+00:00"
 }

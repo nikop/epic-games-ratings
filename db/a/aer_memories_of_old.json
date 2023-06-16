@@ -3,10 +3,10 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 604,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12524,
+  "EOS_Progressed": 12525,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -6109,6 +6109,11 @@
       "Time": "2023-06-16T06:07:06.5026683+00:00",
       "NumProgressed": 12524,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-06-16T07:06:03.1999166+00:00",
+      "NumProgressed": 12525,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 20,
@@ -6128,7 +6133,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "EAST_FINISHED",
@@ -6200,7 +6205,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "FOUND_MAMBA",
@@ -6208,7 +6213,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -6216,7 +6221,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6240,7 +6245,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9518
+      "UsersEstimate": 9519
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6256,7 +6261,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6279,15 +6284,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12524,
+      "Progressed": 12525,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:06.5026678+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:03.199916+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-16T06:00:55.2276677+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:06.5027067+00:00"
+  "LastUpdate_Ratings": "2023-06-16T07:00:03.1865211+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:03.2000327+00:00"
 }

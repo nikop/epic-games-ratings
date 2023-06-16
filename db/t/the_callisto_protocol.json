@@ -644,9 +644,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15375,
+  "EOS_Progressed": 15377,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2023-06-16T06:05:07.1695293+00:00",
       "NumProgressed": 15375,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T07:04:35.0265053+00:00",
+      "NumProgressed": 15377,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4201,7 +4206,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4257,7 +4262,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4281,7 +4286,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4297,7 +4302,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4305,7 +4310,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STORY_TOWER",
@@ -4384,13 +4389,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15375,
+      "Progressed": 15377,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3301,
+      "Progressed": 3303,
       "Completed": 29
     }
   ],
@@ -4398,8 +4403,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-15T19:58:15.7237363+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:05:07.1695287+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:04:35.0265047+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:58:13.2706264+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:05:07.1695699+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:58:08.919356+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:04:35.0265787+00:00"
 }

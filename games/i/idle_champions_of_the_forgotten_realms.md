@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,778 |
-| The Cursed Farmer | 2.00% | ~1,852 |
-| Beast Intentions | 1.00% | ~926 |
-| The Ring of Regeneration | 1.00% | ~926 |
-| The Mad Wizard | 1.00% | ~926 |
+| A Brief Tour of the Realms | 3.00% | ~2,780 |
+| The Cursed Farmer | 2.00% | ~1,853 |
+| Beast Intentions | 1.00% | ~927 |
+| The Ring of Regeneration | 1.00% | ~927 |
+| The Mad Wizard | 1.00% | ~927 |
 | The Court of Storms | 0.90% | ~530 |
 | Were-verpowered | 0.80% | ~741 |
 | Seeking Allies | 0.80% | ~741 |
 | Are Ya Chicken? | 0.80% | ~741 |
 | Beware the Jabberwock | 0.80% | ~471 |
-| Mad Cow Disease | 0.70% | ~648 |
-| Friendly Imps | 0.70% | ~648 |
+| Mad Cow Disease | 0.70% | ~649 |
+| Friendly Imps | 0.70% | ~649 |
 | A Persistent Buzzing | 0.60% | ~556 |
 | Terror in the Dark | 0.60% | ~556 |
 | Pure Energy | 0.60% | ~556 |
-| Coasting to the Finish | 0.60% | ~353 |
-| Checkmate | 0.50% | ~294 |
-| Vecna Out! | 0.50% | ~294 |
+| Coasting to the Finish | 0.60% | ~354 |
+| Checkmate | 0.50% | ~295 |
+| Vecna Out! | 0.50% | ~295 |
 | Beast Mode | 0.50% | ~463 |
 | A Mysterious Summons | 0.50% | ~463 |
 | Building Trust | 0.50% | ~463 |
@@ -32,23 +32,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.50% | ~463 |
 | Exploring Port Nyanzaru | 0.50% | ~463 |
 | The Contagious Curse | 0.50% | ~463 |
-| Quick or Quack | 0.50% | ~294 |
-| Maddening | 0.40% | ~370 |
-| Owlbear Necessities | 0.40% | ~235 |
-| Best Thay Ever | 0.40% | ~235 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~235 |
-| Pin and Skewer | 0.40% | ~235 |
-| Low Initiative | 0.40% | ~370 |
-| No Time To Rest | 0.40% | ~370 |
-| The Dinner Party | 0.40% | ~370 |
-| The Death Curse | 0.40% | ~370 |
-| Running of the Saurs | 0.40% | ~370 |
-| Escort to Waterdeep | 0.40% | ~370 |
-| Waterdeep Detours | 0.40% | ~370 |
-| Underdeep Cartography | 0.40% | ~370 |
-| Overdue Rendezvous | 0.40% | ~370 |
-| The Templar's Camp | 0.40% | ~370 |
-| Rescue in the Jungle | 0.40% | ~370 |
+| Escort to Waterdeep | 0.50% | ~463 |
+| Quick or Quack | 0.50% | ~295 |
+| Maddening | 0.40% | ~371 |
+| Owlbear Necessities | 0.40% | ~236 |
+| Best Thay Ever | 0.40% | ~236 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~236 |
+| Pin and Skewer | 0.40% | ~236 |
+| Low Initiative | 0.40% | ~371 |
+| No Time To Rest | 0.40% | ~371 |
+| The Dinner Party | 0.40% | ~371 |
+| The Death Curse | 0.40% | ~371 |
+| Running of the Saurs | 0.40% | ~371 |
+| Waterdeep Detours | 0.40% | ~371 |
+| Underdeep Cartography | 0.40% | ~371 |
+| Overdue Rendezvous | 0.40% | ~371 |
+| The Templar's Camp | 0.40% | ~371 |
+| Rescue in the Jungle | 0.40% | ~371 |
 | Pros and CONs | 0.30% | ~278 |
 | Tall Tales | 0.30% | ~177 |
 | Third Third Out | 0.30% | ~177 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,595 (Ranked 64)  
-Completed: 1,940 (2.10%) (Ranked 68)  
+Progressed: 92,652 (Ranked 64)  
+Completed: 1,940 (2.09%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,15 +557,15 @@ Completed: 1,940 (2.10%) (Ranked 68)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 92,595 | 1,940 |
+| 2023-06-16 | 92,652 | 1,940 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
-Sum: 30,116 (Ranked 37)  
+Sum: 30,120 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,943 |
-| This game is Great for Beginners | 4,871 |
+| This game is Great for Beginners | 4,875 |
 | This game has Quickly Understood Controls | 4,618 |
 | This game is Relaxing | 4,514 |
 | This game is Highly Recommended | 3,960 |
@@ -715,3 +715,4 @@ Diff (max vs sum): 27
 | 2023-06-13 | 4.06 | - | 4,937 | 30,095 |
 | 2023-06-14 | 4.06 | - | 4,941 | 30,110 |
 | 2023-06-15 | 4.06 | - | 4,943 | 30,116 |
+| 2023-06-16 | 4.06 | - | 4,943 | 30,120 |

@@ -31,7 +31,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 11.00% | ~6,907 |
 | Ultimate success | 11.00% | ~6,907 |
 | Variety Expert | 10.00% | ~6,279 |
-| Frequent tester | 8.00% | ~5,023 |
+| Frequent tester | 9.00% | ~5,651 |
 | Determined | 8.00% | ~5,023 |
 | Terraformer | 4.00% | ~2,512 |
 | Team Effort | 3.00% | ~1,884 |

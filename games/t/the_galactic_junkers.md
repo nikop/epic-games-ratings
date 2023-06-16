@@ -28,7 +28,7 @@
 | Master Salvager | 0.00% | ~0 |
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 327)  
+Progressed: 40 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

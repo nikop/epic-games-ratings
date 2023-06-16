@@ -2298,7 +2298,7 @@
   ],
   "EOS_Progressed": 62791,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8397,9 +8397,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "aonc16",
       "Name": "Frequent tester",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5651
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -8453,8 +8453,8 @@
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-06-15T14:58:27.1342298+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:01:29.5656226+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:00:30.41232+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:29.701025+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:58:40.0640458+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:01:29.5665057+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:58:27.7695891+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:00:30.4124275+00:00"
 }

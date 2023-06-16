@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4638,10 +4638,10 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709548,
+  "EOS_Progressed": 709549,
   "EOS_Completed": 12771,
-  "EOS_NewPlayers": 1393,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1386,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -10033,6 +10033,11 @@
       "Time": "2023-06-16T06:07:20.9359654+00:00",
       "NumProgressed": 709548,
       "NumCompleted": 12771
+    },
+    {
+      "Time": "2023-06-16T07:06:14.6723404+00:00",
+      "NumProgressed": 709549,
+      "NumCompleted": 12771
     }
   ],
   "TotalAchievements": 50,
@@ -10380,7 +10385,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10443,21 +10448,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18849,
+      "Progressed": 18850,
       "Completed": 10272
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709548,
+      "Progressed": 709549,
       "Completed": 12771
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-16T05:59:34.2738994+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:07:20.9359649+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:06:14.6723398+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:59:34.2738999+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:07:20.9360245+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:59:06.6552063+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:06:14.6724211+00:00"
 }

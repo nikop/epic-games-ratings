@@ -405,9 +405,9 @@
       "ID": "ryan_date2_all",
       "SetID": "6h5h9ho",
       "Name": "More than browsing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ryan_date3_all",
@@ -445,9 +445,9 @@
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "success_hazel",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-16T06:06:48.9666002+00:00",
+  "LastChanged_Achievements": "2023-06-16T07:05:50.3262706+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.4557641+00:00",
-  "LastUpdate_Ratings": "2023-06-16T05:57:37.9605141+00:00",
-  "LastUpdate_Achievements": "2023-06-16T06:06:48.9666127+00:00"
+  "LastUpdate_Ratings": "2023-06-16T06:57:44.2834708+00:00",
+  "LastUpdate_Achievements": "2023-06-16T07:05:50.3262872+00:00"
 }
