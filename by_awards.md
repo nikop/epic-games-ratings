@@ -139,19 +139,19 @@
 | 137 | [EVE Online](games/e/eve_online.md) | 1,028 | 4.25 | 796 |
 | 138 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 814 |
 | 139 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
-| 140 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 998 | 4.65 | 295 |
-| 141 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 996 | 4.40 | 685 |
-| 142 | [Torchlight II](games/t/torchlight_ii.md) | 983 | 4.58 | 425 |
-| 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 948 | 4.31 | 763 |
-| 144 | [Sonic Mania](games/s/sonic_mania.md) | 914 | 4.78 | 100 |
-| 145 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 896 | 4.69 | 220 |
-| 146 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 869 | 4.76 | 117 |
-| 147 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 866 | 4.55 | 475 |
-| 148 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 859 | 4.44 | 632 |
-| 149 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 789 | 4.69 | 220 |
-| 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 780 | 4.56 | 455 |
-| 150 | [Frostpunk](games/f/frostpunk.md) | 780 | 4.74 | 145 |
-| 152 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 766 | 4.54 | 491 |
+| 140 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,001 | 4.54 | 491 |
+| 141 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 998 | 4.65 | 295 |
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 996 | 4.40 | 685 |
+| 143 | [Torchlight II](games/t/torchlight_ii.md) | 983 | 4.58 | 425 |
+| 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 949 | 4.31 | 763 |
+| 145 | [Sonic Mania](games/s/sonic_mania.md) | 914 | 4.78 | 100 |
+| 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 896 | 4.69 | 220 |
+| 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 869 | 4.76 | 117 |
+| 148 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 866 | 4.55 | 475 |
+| 149 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 859 | 4.44 | 632 |
+| 150 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 789 | 4.69 | 220 |
+| 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 780 | 4.56 | 455 |
+| 151 | [Frostpunk](games/f/frostpunk.md) | 780 | 4.74 | 145 |
 | 153 | [The Long Dark](games/t/the_long_dark.md) | 762 | 4.74 | 145 |
 | 154 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 754 | 4.50 | 547 |
 | 155 | [Auto Chess](games/a/auto_chess.md) | 748 | 4.52 | 516 |
@@ -324,7 +324,7 @@
 | 321 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 105 | 4.51 | 531 |
 | 323 | [Phantom Brigade](games/p/phantom_brigade.md) | 104 | 4.62 | 348 |
 | 324 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 922 |
-| 325 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 102 | 4.10 | 878 |
+| 325 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 102 | 4.09 | 883 |
 | 326 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 79 |
 | 327 | [First Class Trouble](games/f/first_class_trouble.md) | 100 | 4.50 | 547 |
 | 327 | [Just Die Already](games/j/just_die_already.md) | 100 | 4.52 | 516 |

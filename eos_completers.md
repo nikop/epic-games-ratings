@@ -13,12 +13,12 @@
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.49% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.36% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.64% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
-| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.33% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.32% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 20 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.55% |
@@ -52,7 +52,7 @@
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 52 | [The Bunker](games/t/the_bunker.md) | 2.91% |
-| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.90% |
+| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
@@ -85,20 +85,20 @@
 | 82 | [Night Book](games/n/night_book.md) | 1.49% |
 | 84 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 85 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 85 | [Late Shift](games/l/late_shift.md) | 1.22% |
-| 87 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.19% |
-| 87 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
-| 89 | [Trifox](games/t/trifox.md) | 1.15% |
-| 90 | [Five Dates](games/f/five_dates.md) | 1.14% |
-| 91 | [Chorus](games/c/chorus.md) | 1.12% |
-| 91 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
+| 85 | [Chorus](games/c/chorus.md) | 1.22% |
+| 87 | [Late Shift](games/l/late_shift.md) | 1.21% |
+| 88 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.19% |
+| 88 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
+| 90 | [Trifox](games/t/trifox.md) | 1.15% |
+| 91 | [Five Dates](games/f/five_dates.md) | 1.14% |
+| 92 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 93 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 94 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
 | 95 | [Sable](games/s/sable.md) | 0.94% |
 | 96 | [Hades](games/h/hades.md) | 0.89% |
 | 97 | [Adios](games/a/adios.md) | 0.87% |
-| 98 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 98 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 99 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 100 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 100 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
