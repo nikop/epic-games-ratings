@@ -19,18 +19,18 @@
 | Immaculate Aim | 9.00% | ~63 |
 | Immaculate Aim | 9.00% | ~63 |
 | The Brass Boss | 9.00% | ~63 |
+| The Betrayer | 8.00% | ~56 |
 | The Wicked Twins | 8.00% | ~56 |
 | Honest Mistake | 8.00% | ~56 |
 | Golem Chaser | 8.00% | ~56 |
 | Fast Learner | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Like Clockwork | 7.00% | ~49 |
-| The Betrayer | 7.00% | ~49 |
+| Street Style | 7.00% | ~49 |
 | The Man Who Shattered Time | 7.00% | ~49 |
 | The Loose Cannon | 7.00% | ~49 |
 | Check Your Pulse | 7.00% | ~49 |
 | The Family Fortune | 7.00% | ~49 |
-| Street Style | 6.00% | ~42 |
 | Whiz Kid | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
 | Family Memories | 5.00% | ~35 |
@@ -51,8 +51,8 @@
 | Rungs Was Right | 2.00% | ~14 |
 | Fitting In | 1.00% | ~7 |
 | Thinking Two Steps Ahead | 0.90% | ~6 |
-| Wunderkind | 0.70% | ~5 |
-| Wildlife Protection | 0.30% | ~2 |
+| Wunderkind | 0.90% | ~6 |
+| Wildlife Protection | 0.40% | ~3 |
 | Going to Live Forever | 0.30% | ~2 |
 | A Lesson in Precision | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |

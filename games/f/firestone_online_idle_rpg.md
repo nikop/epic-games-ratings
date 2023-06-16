@@ -5,12 +5,12 @@ Rating: 4.05 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,322 |
-| World Map | 80.00% | ~1,125 |
-| Temple of Eternals | 57.00% | ~801 |
-| Prestigious | 53.00% | ~745 |
-| Fellowship Power | 41.00% | ~576 |
-| Guild Power | 24.00% | ~337 |
+| Victor | 94.00% | ~1,323 |
+| World Map | 80.00% | ~1,126 |
+| Temple of Eternals | 57.00% | ~802 |
+| Prestigious | 53.00% | ~746 |
+| Fellowship Power | 41.00% | ~577 |
+| Guild Power | 24.00% | ~338 |
 | Prestigious x10 | 21.00% | ~295 |
 | The game is on | 19.00% | ~267 |
 | Exotic Merchant | 17.00% | ~239 |
@@ -24,17 +24,17 @@ Rating: 4.05 (Ranked 895)
 | Lieutenant | 13.00% | ~183 |
 | Natural Talent | 12.00% | ~169 |
 | The Unstoppable | 12.00% | ~169 |
+| Milestone collector | 11.00% | ~155 |
 | Mysterious Rock | 11.00% | ~155 |
 | Superior | 11.00% | ~155 |
-| Milestone collector | 10.00% | ~141 |
 | Scientist | 10.00% | ~141 |
-| Challenger | 8.00% | ~112 |
-| Daily Quest Completionist | 8.00% | ~112 |
-| Doing My Part | 8.00% | ~112 |
-| Hunter | 8.00% | ~112 |
-| Relic Of The Past | 8.00% | ~112 |
-| Scroll Master | 8.00% | ~112 |
-| The power of Awakening | 8.00% | ~112 |
+| Challenger | 8.00% | ~113 |
+| Daily Quest Completionist | 8.00% | ~113 |
+| Doing My Part | 8.00% | ~113 |
+| Hunter | 8.00% | ~113 |
+| Relic Of The Past | 8.00% | ~113 |
+| Scroll Master | 8.00% | ~113 |
+| The power of Awakening | 8.00% | ~113 |
 | Four Leaf Clover | 7.00% | ~98 |
 | Frostfire Liberator | 7.00% | ~98 |
 | Mastery | 7.00% | ~98 |
@@ -62,7 +62,7 @@ Rating: 4.05 (Ranked 895)
 | What lies behind the bush | 2.00% | ~28 |
 | Active Member | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
-| Mythic Power | 0.70% | ~10 |
+| Mythic Power | 0.80% | ~11 |
 | Training makes a Pro player | 0.60% | ~8 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,406 (Ranked 166)  
+Progressed: 1,407 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.07%) (Ranked 183)
 | 2023-06-13 | 1,390 | 1 |
 | 2023-06-14 | 1,396 | 1 |
 | 2023-06-15 | 1,405 | 1 |
-| 2023-06-16 | 1,406 | 1 |
+| 2023-06-16 | 1,407 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

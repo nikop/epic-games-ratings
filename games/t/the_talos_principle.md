@@ -1,7 +1,7 @@
 # The Talos Principle
 [Store](https://store.epicgames.com/en-US/p/the-talos-principle)  
 [View Rawdata](../../db/t/the_talos_principle.json)  
-Rating: 4.73 (Ranked 156)  
+Rating: 4.72 (Ranked 168)  
 Number of Ratings: 281  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -74,3 +74,4 @@ Number of Ratings: 281  (23.09.2022)
 | 2023-03-31 | 4.73 | - | 0 | 0 |
 | 2023-04-13 | 4.72 | - | 0 | 0 |
 | 2023-06-12 | 4.73 | - | 0 | 0 |
+| 2023-06-16 | 4.72 | - | 0 | 0 |

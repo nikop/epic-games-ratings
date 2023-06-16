@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55228,
+  "EOS_Progressed": 55234,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2198,
+  "EOS_NewPlayers": 2193,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5012,6 +5012,11 @@
       "Time": "2023-06-16T03:07:13.8635827+00:00",
       "NumProgressed": 55228,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-16T04:05:50.2901913+00:00",
+      "NumProgressed": 55234,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 67,
@@ -5023,7 +5028,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17675
     },
     {
       "ID": "02",
@@ -5031,7 +5036,7 @@
       "Name": "Nordic Walking",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10493
+      "UsersEstimate": 10494
     },
     {
       "ID": "03",
@@ -5039,7 +5044,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10493
+      "UsersEstimate": 10494
     },
     {
       "ID": "04",
@@ -5055,7 +5060,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "06",
@@ -5127,7 +5132,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "15",
@@ -5151,7 +5156,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "18",
@@ -5207,7 +5212,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "25",
@@ -5223,7 +5228,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "27",
@@ -5247,7 +5252,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "30",
@@ -5255,7 +5260,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "31",
@@ -5263,7 +5268,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6627
+      "UsersEstimate": 6628
     },
     {
       "ID": "32",
@@ -5271,7 +5276,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13255
+      "UsersEstimate": 13256
     },
     {
       "ID": "33",
@@ -5279,15 +5284,15 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "34",
       "SetID": "212770e",
       "Name": "Energized!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3866
+      "UsersEstimate": 4419
     },
     {
       "ID": "35",
@@ -5295,7 +5300,7 @@
       "Name": "Let There Be Light",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13807
+      "UsersEstimate": 13808
     },
     {
       "ID": "36",
@@ -5343,7 +5348,7 @@
       "Name": "Finders Keepers",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6627
+      "UsersEstimate": 6628
     },
     {
       "ID": "42",
@@ -5383,7 +5388,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "47",
@@ -5439,7 +5444,7 @@
       "Name": "Fast and Furious",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "54",
@@ -5479,7 +5484,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "59",
@@ -5558,21 +5563,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55228,
+      "Progressed": 55234,
       "Completed": 55
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 18696,
+      "Progressed": 18702,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:13.8635824+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:05:50.2901909+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:49.3400717+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:58:03.244886+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:13.8637208+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:57:36.8813483+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:05:50.2902883+00:00"
 }

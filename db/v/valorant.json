@@ -2,7 +2,7 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 458,
@@ -5939,6 +5939,6 @@
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2023-06-15T17:58:19.9381035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:23.8984253+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:58:41.4496685+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:03:25.5022526+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:58:03.3711734+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:03:08.9746349+00:00"
 }

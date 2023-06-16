@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-06-16T03:04:08.8623959+00:00",
       "NumProgressed": 510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T04:03:38.8169389+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1696,9 +1701,9 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "stronghold_2",
@@ -1769,14 +1774,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:04:08.8623954+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:03:38.8169383+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:57:09.6537299+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:04:08.8624986+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:57:00.5373445+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:03:38.8170123+00:00"
 }

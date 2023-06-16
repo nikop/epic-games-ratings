@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4324,9 +4324,9 @@
       "Count": 3251
     }
   ],
-  "EOS_Progressed": 92405,
+  "EOS_Progressed": 92475,
   "EOS_Completed": 1939,
-  "EOS_NewPlayers": 2222,
+  "EOS_NewPlayers": 2288,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -10124,6 +10124,11 @@
       "Time": "2023-06-16T03:07:32.5751645+00:00",
       "NumProgressed": 92405,
       "NumCompleted": 1939
+    },
+    {
+      "Time": "2023-06-16T04:06:05.5374765+00:00",
+      "NumProgressed": 92475,
+      "NumCompleted": 1939
     }
   ],
   "TotalAchievements": 493,
@@ -10135,7 +10140,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2774
     },
     {
       "ID": "objective_completed_10",
@@ -10503,7 +10508,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_110",
@@ -10999,7 +11004,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1203",
@@ -11007,7 +11012,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "objective_completed_1204",
@@ -11023,7 +11028,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "objective_completed_1209",
@@ -11111,7 +11116,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_130",
@@ -11253,9 +11258,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_150",
@@ -11807,7 +11812,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_34",
@@ -11815,7 +11820,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_35",
@@ -11927,7 +11932,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_390",
@@ -11999,7 +12004,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_40",
@@ -12117,9 +12122,9 @@
       "ID": "objective_completed_415",
       "SetID": "cc37lbc",
       "Name": "Careful Consideration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_completed_416",
@@ -12253,9 +12258,9 @@
       "ID": "objective_completed_435",
       "SetID": "cc37lbc",
       "Name": "Dino Nightmare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_completed_436",
@@ -12461,9 +12466,9 @@
       "ID": "objective_completed_565",
       "SetID": "cc37lbc",
       "Name": "Meepo\u0027s Quest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_completed_566",
@@ -13279,7 +13284,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_70",
@@ -13879,7 +13884,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_902",
@@ -14047,7 +14052,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "objective_completed_1356",
@@ -14063,7 +14068,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "objective_completed_1361",
@@ -14071,28 +14076,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 58679,
+      "Progressed": 58749,
       "Completed": 2795
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 92405,
+      "Progressed": 92475,
       "Completed": 1939
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-15T22:58:23.1022745+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:32.5751641+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:06:05.5374758+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:58:31.1817289+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:32.5778066+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:57:56.4790039+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:06:05.5399355+00:00"
 }

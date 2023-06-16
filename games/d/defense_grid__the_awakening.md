@@ -9,16 +9,16 @@ Number of Ratings: 1,225  (23.09.2022)
 | First Blood | 81.00% | ~388,235 |
 | Hey! That's mine! | 78.00% | ~373,856 |
 | Happy Returns | 77.00% | ~369,063 |
-| Field Promotion | 74.00% | ~354,683 |
-| Leadhead | 71.00% | ~340,304 |
-| Eradicator | 67.00% | ~321,132 |
-| Surplus | 65.00% | ~311,546 |
-| I Spy | 64.00% | ~306,753 |
-| Burn Baby Burn | 59.00% | ~282,788 |
-| Yellow Beats Green | 55.00% | ~263,616 |
-| Salvage Rights | 53.00% | ~254,030 |
-| Pew Pew | 50.00% | ~239,651 |
-| What IS that? | 50.00% | ~239,651 |
+| Field Promotion | 74.00% | ~354,684 |
+| Leadhead | 71.00% | ~340,305 |
+| Eradicator | 67.00% | ~321,133 |
+| Surplus | 65.00% | ~311,547 |
+| I Spy | 64.00% | ~306,754 |
+| Burn Baby Burn | 59.00% | ~282,789 |
+| Yellow Beats Green | 55.00% | ~263,617 |
+| Salvage Rights | 53.00% | ~254,031 |
+| Pew Pew | 50.00% | ~239,652 |
+| What IS that? | 50.00% | ~239,652 |
 | Close Call | 49.00% | ~234,858 |
 | Penny Pincher | 49.00% | ~234,858 |
 | Arsenal | 46.00% | ~220,479 |
@@ -32,11 +32,11 @@ Number of Ratings: 1,225  (23.09.2022)
 | No Sale | 30.00% | ~143,791 |
 | Kaboom! | 29.00% | ~138,998 |
 | Liquidator | 29.00% | ~138,998 |
-| High Voltage | 24.00% | ~115,032 |
-| Filthy Rich | 19.00% | ~91,067 |
-| The Not-So-Friendly Skies | 18.00% | ~86,274 |
-| Power Builder | 17.00% | ~81,481 |
-| Pyrrhic Victory | 17.00% | ~81,481 |
+| High Voltage | 24.00% | ~115,033 |
+| Filthy Rich | 19.00% | ~91,068 |
+| The Not-So-Friendly Skies | 18.00% | ~86,275 |
+| Power Builder | 17.00% | ~81,482 |
+| Pyrrhic Victory | 17.00% | ~81,482 |
 | Death From Above | 16.00% | ~76,688 |
 | Retry | 16.00% | ~76,688 |
 | Head Trauma | 12.00% | ~57,516 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~479 |
 | You Monster | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,302 (Ranked 32)  
+Progressed: 479,303 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 4 (0.00%) (Ranked 224)
 | 2023-06-13 | 479,182 | 4 |
 | 2023-06-14 | 479,241 | 4 |
 | 2023-06-15 | 479,297 | 4 |
-| 2023-06-16 | 479,302 | 4 |
+| 2023-06-16 | 479,303 | 4 |
 ## Awards
 Max (Great for Beginners): 233  (Ranked 249)  
 Sum: 1,648 (Ranked 202)  

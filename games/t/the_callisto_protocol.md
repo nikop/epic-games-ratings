@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,459 |
+| Flesh Wound | 16.00% | ~2,460 |
 | The Outer Way | 14.00% | ~2,152 |
 | Desperate Times | 14.00% | ~2,152 |
-| Paper Jams | 12.00% | ~1,844 |
+| Paper Jams | 12.00% | ~1,845 |
 | Chew 'Em Up | 10.00% | ~1,537 |
 | Reforged | 10.00% | ~1,537 |
-| Workplace Hazard | 9.00% | ~1,383 |
-| If the SHU Fits... | 9.00% | ~1,383 |
-| Get a Grip | 8.00% | ~1,229 |
+| Workplace Hazard | 9.00% | ~1,384 |
+| If the SHU Fits... | 9.00% | ~1,384 |
+| Get a Grip | 8.00% | ~1,230 |
 | Giving Back | 7.00% | ~1,076 |
 | Without A Paddle | 7.00% | ~1,076 |
 | Terminated | 6.00% | ~922 |
 | In the Pipe, Five by Five | 6.00% | ~922 |
 | Crash Site | 6.00% | ~922 |
-| You Need a Gun | 5.00% | ~768 |
-| Two Heads Are Better Than One | 5.00% | ~768 |
-| Float Like A Butterfly | 5.00% | ~768 |
-| Power Up | 5.00% | ~768 |
+| You Need a Gun | 5.00% | ~769 |
+| Two Heads Are Better Than One | 5.00% | ~769 |
+| Float Like A Butterfly | 5.00% | ~769 |
+| Power Up | 5.00% | ~769 |
 | What Lies Beneath | 4.00% | ~615 |
 | Full Circle | 4.00% | ~615 |
 | Instigator | 4.00% | ~132 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,368 (Ranked 103)  
+Progressed: 15,373 (Ranked 103)  
 Completed: 56 (0.36%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 56 (0.36%) (Ranked 130)
 | 2023-06-13 | 15,214 | 55 |
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
-| 2023-06-16 | 15,368 | 56 |
+| 2023-06-16 | 15,373 | 56 |
 ## Awards
 Max (Amazing Storytelling): 54  (Ranked 386)  
 Sum: 314 (Ranked 329)  

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -339,17 +339,17 @@
       "ID": "ACH_TENDER_SOUL",
       "SetID": "8h8m55b",
       "Name": "Tender Soul",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
       "SetID": "8h8m55b",
       "Name": "The Hibiscus \u0026 The Butterfly",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -473,8 +473,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:03:48.5638062+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:03:24.5774281+00:00",
   "LastUpdate_AppInfo": "2023-06-13T03:56:54.9905852+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:57:06.978957+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:03:48.5638674+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:56:58.7895645+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:03:24.5774699+00:00"
 }

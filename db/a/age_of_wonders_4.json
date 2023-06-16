@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4679,
+  "EOS_Progressed": 4680,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3982,6 +3982,11 @@
       "Time": "2023-06-16T02:14:23.2521044+00:00",
       "NumProgressed": 4679,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T04:04:39.6657328+00:00",
+      "NumProgressed": 4680,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4033,7 +4038,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "15",
@@ -4041,7 +4046,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "16",
@@ -4097,7 +4102,7 @@
       "Name": "Eternal Lord",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "22",
@@ -4105,15 +4110,15 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3697
     },
     {
       "ID": "24",
@@ -4121,7 +4126,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "25",
@@ -4137,7 +4142,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "27",
@@ -4145,7 +4150,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "28",
@@ -4161,7 +4166,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "3",
@@ -4185,7 +4190,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "32",
@@ -4233,7 +4238,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "38",
@@ -4344,13 +4349,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4679,
-      "Completed": 4679
+      "Progressed": 4680,
+      "Completed": 4680
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4679,
+      "Progressed": 4680,
       "Completed": 3
     }
   ],
@@ -4358,8 +4363,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:05:33.7526319+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:04:39.6657323+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:00:14.9427389+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:05:33.752766+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:59:06.9097542+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:04:39.6657968+00:00"
 }

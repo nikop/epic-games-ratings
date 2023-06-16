@@ -27,8 +27,8 @@
 | Music Collector | 14.00% | ~10 |
 | Gamer | 13.00% | ~9 |
 | Ultimate Team! | 13.00% | ~9 |
-| Pro Explorers | 10.00% | ~7 |
-| Cooking Maestro | 9.00% | ~6 |
+| Pro Explorers | 11.00% | ~8 |
+| Cooking Maestro | 10.00% | ~7 |
 | Field Researcher | 9.00% | ~6 |
 | Helping Hand | 9.00% | ~6 |
 | Medal Collector | 7.00% | ~5 |

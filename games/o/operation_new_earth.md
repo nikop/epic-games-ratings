@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 67.00% | ~59 |
 | Facility Online | 64.00% | ~56 |
-| Defenses Online | 63.00% | ~55 |
+| Defenses Online | 64.00% | ~56 |
 | Corporal | 52.00% | ~46 |
-| Sergeant | 34.00% | ~30 |
+| Sergeant | 35.00% | ~31 |
 | Covert Operative | 34.00% | ~30 |
+| On Target | 28.00% | ~25 |
 | Lieutenant | 27.00% | ~24 |
-| On Target | 27.00% | ~24 |
 | Stocking Up | 26.00% | ~23 |
-| Infantry Reporting | 23.00% | ~20 |
+| Infantry Reporting | 24.00% | ~21 |
 | Getting Deployment | 22.00% | ~19 |
-| Keeping Busy | 17.00% | ~15 |
+| Keeping Busy | 18.00% | ~16 |
 | Fighting for Survival | 15.00% | ~13 |
 | Silver Competitor | 15.00% | ~13 |
 | Brothers in Arms | 14.00% | ~12 |

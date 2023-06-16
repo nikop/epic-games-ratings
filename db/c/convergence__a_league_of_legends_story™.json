@@ -1410,9 +1410,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "CultivairChests1",
@@ -1466,9 +1466,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1482,9 +1482,9 @@
       "ID": "GadgetCompletion1",
       "SetID": "a9e499d",
       "Name": "Wunderkind",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GadgetProgress1",
@@ -1546,9 +1546,9 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NoDeathRun",
@@ -1769,8 +1769,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-16T02:15:15.2922438+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:05:20.7546214+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:00:11.3273526+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:06:33.1053329+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:59:04.0498818+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:05:20.7546786+00:00"
 }

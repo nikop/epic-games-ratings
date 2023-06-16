@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -408,6 +408,11 @@
       "Time": "2023-06-16T03:07:20.5646573+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T04:05:55.3315089+00:00",
+      "NumProgressed": 1024,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -475,7 +480,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -547,7 +552,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "CAREERADVANCED",
@@ -731,7 +736,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ONEPAINT",
@@ -834,7 +839,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1024,
       "Completed": 0
     }
   ],
@@ -842,8 +847,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:20.5646565+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:05:55.3315082+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:58:35.2002075+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:20.564702+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:57:59.0207531+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:05:55.3315801+00:00"
 }

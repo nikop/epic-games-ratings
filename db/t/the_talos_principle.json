@@ -2,7 +2,7 @@
   "ID": "400cc6605aee41de88f976b587a48aa0",
   "Name": "The Talos Principle",
   "ProductSlug": "the-talos-principle",
-  "Ranking_Rating": 156,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 458,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -403,6 +403,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-16T03:57:43.9403902+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -420,8 +426,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
-  "LastChanged": "2023-06-12T03:57:56.5837542+00:00",
+  "LastChanged": "2023-06-16T03:57:43.9403899+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:58.9375059+00:00",
-  "LastUpdate_Ratings": "2023-06-16T02:58:12.7991209+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:05:32.6604213+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:57:43.9403906+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:04:38.8530636+00:00"
 }

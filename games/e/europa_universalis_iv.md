@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,997 (Ranked 76)  
+Progressed: 56,004 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,14 +418,14 @@ Completed: 0 (0.00%) (Ranked 224)
 | 2023-06-13 | 55,064 | 0 |
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
-| 2023-06-16 | 55,997 | 0 |
+| 2023-06-16 | 56,004 | 0 |
 ## Awards
-Max (Educational): 5,392  (Ranked 61)  
-Sum: 44,585 (Ranked 27)  
+Max (Educational): 5,397  (Ranked 61)  
+Sum: 44,590 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,392 |
+| This game is Educational | 5,397 |
 | This game is Highly Recommended | 5,176 |
 | This game has Challenging Combat | 5,147 |
 | This game is Extremely Fun | 5,105 |
@@ -588,3 +588,4 @@ Diff (max vs sum): 34
 | 2023-06-13 | 4.69 | - | 5,386 | 44,511 |
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
+| 2023-06-16 | 4.68 | - | 5,397 | 44,590 |

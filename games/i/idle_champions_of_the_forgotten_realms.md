@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,772 |
-| The Cursed Farmer | 2.00% | ~1,848 |
-| Beast Intentions | 1.00% | ~924 |
-| The Ring of Regeneration | 1.00% | ~924 |
-| The Mad Wizard | 1.00% | ~924 |
-| The Court of Storms | 0.90% | ~528 |
-| Were-verpowered | 0.80% | ~739 |
-| Seeking Allies | 0.80% | ~739 |
-| Are Ya Chicken? | 0.80% | ~739 |
-| Beware the Jabberwock | 0.80% | ~469 |
+| A Brief Tour of the Realms | 3.00% | ~2,774 |
+| The Cursed Farmer | 2.00% | ~1,850 |
+| Beast Intentions | 1.00% | ~925 |
+| The Ring of Regeneration | 1.00% | ~925 |
+| The Mad Wizard | 1.00% | ~925 |
+| The Court of Storms | 0.90% | ~529 |
+| Were-verpowered | 0.80% | ~740 |
+| Seeking Allies | 0.80% | ~740 |
+| Are Ya Chicken? | 0.80% | ~740 |
+| Beware the Jabberwock | 0.80% | ~470 |
 | Mad Cow Disease | 0.70% | ~647 |
 | Friendly Imps | 0.70% | ~647 |
-| A Persistent Buzzing | 0.60% | ~554 |
-| Pure Energy | 0.60% | ~554 |
+| A Persistent Buzzing | 0.60% | ~555 |
+| Terror in the Dark | 0.60% | ~555 |
+| Pure Energy | 0.60% | ~555 |
 | Coasting to the Finish | 0.60% | ~352 |
-| Checkmate | 0.50% | ~293 |
-| Vecna Out! | 0.50% | ~293 |
+| Checkmate | 0.50% | ~294 |
+| Vecna Out! | 0.50% | ~294 |
 | Beast Mode | 0.50% | ~462 |
-| Terror in the Dark | 0.50% | ~462 |
 | A Mysterious Summons | 0.50% | ~462 |
 | Building Trust | 0.50% | ~462 |
 | Unearthed Evil | 0.50% | ~462 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.50% | ~462 |
 | Exploring Port Nyanzaru | 0.50% | ~462 |
 | The Contagious Curse | 0.50% | ~462 |
-| Quick or Quack | 0.50% | ~293 |
+| Quick or Quack | 0.50% | ~294 |
 | Maddening | 0.40% | ~370 |
 | Owlbear Necessities | 0.40% | ~235 |
 | Best Thay Ever | 0.40% | ~235 |
@@ -243,6 +243,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frantic Excavation | 0.20% | ~185 |
 | Towering Expectations | 0.20% | ~185 |
 | Guests of the Groom | 0.20% | ~185 |
+| Careful Consideration | 0.20% | ~185 |
 | Bazaar Exploits | 0.20% | ~185 |
 | Cramped Quarters | 0.20% | ~185 |
 | Flame(skull) War | 0.20% | ~185 |
@@ -253,6 +254,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modrons in the Mud | 0.20% | ~185 |
 | Orcs Are Wild | 0.20% | ~185 |
 | An Abyssal Situation | 0.20% | ~185 |
+| Dino Nightmare | 0.20% | ~185 |
 | A Tale of Two Fiends | 0.20% | ~185 |
 | A Tale of Two Champions | 0.20% | ~185 |
 | Slow and Steady | 0.20% | ~185 |
@@ -266,6 +268,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sober Up | 0.20% | ~185 |
 | Crowded Streets | 0.20% | ~185 |
 | The Sunless Citadel | 0.20% | ~185 |
+| Meepo's Quest | 0.20% | ~185 |
 | Patience is Key | 0.20% | ~185 |
 | Troublesome Prisoner | 0.20% | ~185 |
 | Dark Doppelgangers | 0.20% | ~185 |
@@ -430,12 +433,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Late Game | 0.10% | ~92 |
 | Twilight Twist | 0.10% | ~59 |
 | Birds of a Feather | 0.10% | ~59 |
-| Careful Consideration | 0.10% | ~92 |
 | Tanking Expectations | 0.10% | ~59 |
 | Servants of the Demon Prince | 0.10% | ~59 |
 | The Madness Peaks | 0.10% | ~59 |
 | And a Pixie in a Pear Treant | 0.10% | ~59 |
-| Dino Nightmare | 0.10% | ~92 |
 | A Familiar Friend | 0.10% | ~59 |
 | A Tale of Two Years | 0.10% | ~59 |
 | DPS in the Deeps | 0.10% | ~59 |
@@ -443,7 +444,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Veteran Brigade | 0.10% | ~92 |
 | Social Grace | 0.10% | ~59 |
 | Evergreens with an Evergreen | 0.10% | ~59 |
-| Meepo's Quest | 0.10% | ~92 |
 | She's Harmless! | 0.10% | ~92 |
 | The Tallest of Kobolds | 0.10% | ~59 |
 | Vault of Poison | 0.10% | ~92 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~59 |
 | Ineffectual Intellectuals | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,405 (Ranked 64)  
+Progressed: 92,475 (Ranked 64)  
 Completed: 1,939 (2.10%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 1,939 (2.10%) (Ranked 67)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 92,405 | 1,939 |
+| 2023-06-16 | 92,475 | 1,939 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,116 (Ranked 37)  

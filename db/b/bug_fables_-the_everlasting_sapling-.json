@@ -206,9 +206,9 @@
       "ID": "BFT_COOK",
       "SetID": "7o7kd30",
       "Name": "Cooking Maestro",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BFT_CRYST",
@@ -222,9 +222,9 @@
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BFT_ENEMY",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:11.8733726+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:05:48.6689234+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.394399+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:00:53.3980387+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:11.8733921+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:59:32.7922122+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:05:48.6689443+00:00"
 }

@@ -16,16 +16,16 @@
 | Up and down | 76.00% | ~57 |
 | Rolling, Rolling, Rolling | 72.00% | ~54 |
 | Fire-fighter! | 68.00% | ~51 |
-| Oh, you're up to no gouda! | 63.00% | ~47 |
+| Oh, you're up to no gouda! | 64.00% | ~48 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~47 |
 | Meat grinder | 63.00% | ~47 |
 | You're not going to blow me up! | 57.00% | ~43 |
-| Mushroom soup of the day | 53.00% | ~40 |
+| Mushroom soup of the day | 55.00% | ~41 |
+| Butcher | 53.00% | ~40 |
 | Honk honk! | 52.00% | ~39 |
-| Butcher | 52.00% | ~39 |
 | Spare Ribs | 52.00% | ~39 |
 | My pants squeak when I walk | 49.00% | ~37 |
-| Thats disgusting! | 48.00% | ~36 |
+| Thats disgusting! | 49.00% | ~37 |
 | Cockadoodledoo! | 48.00% | ~36 |
 | Surprise!! | 44.00% | ~33 |
 | Self assessed tax return | 41.00% | ~31 |

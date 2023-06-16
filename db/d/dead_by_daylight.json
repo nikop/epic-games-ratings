@@ -6411,10 +6411,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 227631,
       "NumberOfAwardsMax": 28513
+    },
+    {
+      "Time": "2023-06-16T03:59:47.7696068+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 227704,
+      "NumberOfAwardsMax": 28513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227631,
+  "NumberOfAwards": 227704,
   "NumberOfAwardsMax": 28513,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6470,13 +6476,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24889
+      "Count": 24920
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23418
+      "Count": 23460
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6485,9 +6491,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 559528,
+  "EOS_Progressed": 559655,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29766,
+  "EOS_NewPlayers": 29764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12450,6 +12456,11 @@
       "Time": "2023-06-16T03:07:31.471915+00:00",
       "NumProgressed": 559528,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T04:06:04.3859593+00:00",
+      "NumProgressed": 559655,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13317,7 +13328,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_109",
@@ -13461,7 +13472,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_130",
@@ -13573,7 +13584,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_144",
@@ -13629,7 +13640,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACH_151",
@@ -13669,7 +13680,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_156",
@@ -13677,7 +13688,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_157",
@@ -13773,7 +13784,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "ACH_169",
@@ -13797,7 +13808,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACH_172",
@@ -13869,7 +13880,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACH_181",
@@ -13909,7 +13920,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_186",
@@ -14220,21 +14231,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 559528,
+      "Progressed": 559655,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 559528,
+      "Progressed": 559655,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-15T19:00:47.5273989+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:31.4719145+00:00",
+  "LastChanged": "2023-06-16T03:59:47.7696066+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:06:04.3859589+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:01:16.4208862+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:31.4725257+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:59:47.7696075+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:06:04.3864799+00:00"
 }

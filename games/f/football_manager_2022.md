@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~231,843 |
-| First Victory | 50.00% | ~231,843 |
-| Clean Sheet | 49.00% | ~227,206 |
-| He's Sold! | 47.00% | ~217,932 |
-| I'm The Boss! | 41.00% | ~190,111 |
-| Hat-trick | 41.00% | ~190,111 |
+| He's Signed! | 50.00% | ~231,844 |
+| First Victory | 50.00% | ~231,844 |
+| Clean Sheet | 49.00% | ~227,207 |
+| He's Sold! | 47.00% | ~217,933 |
+| I'm The Boss! | 41.00% | ~190,112 |
+| Hat-trick | 41.00% | ~190,112 |
 | Thumping | 37.00% | ~171,564 |
 | Scoring Streak | 37.00% | ~171,564 |
 | Unbeatable! | 36.00% | ~166,927 |
@@ -25,9 +25,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shrewd Spender | 29.00% | ~134,469 |
 | Star Man | 29.00% | ~134,469 |
 | Attack! | 27.00% | ~125,195 |
-| You're On Fire | 26.00% | ~120,558 |
-| Tremendous Trio | 26.00% | ~120,558 |
-| Record Sale | 26.00% | ~120,558 |
+| You're On Fire | 26.00% | ~120,559 |
+| Tremendous Trio | 26.00% | ~120,559 |
+| Record Sale | 26.00% | ~120,559 |
 | On A Roll | 25.00% | ~115,922 |
 | Unstoppable Force | 25.00% | ~115,922 |
 | Full Faith | 24.00% | ~111,285 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~97,374 |
 | What A Goal! | 21.00% | ~97,374 |
 | Cup Glory! | 21.00% | ~97,374 |
-| Irresistible Force | 19.00% | ~88,100 |
-| Excellent Match Cohesion | 19.00% | ~88,100 |
-| Do The Double | 18.00% | ~83,463 |
+| Irresistible Force | 19.00% | ~88,101 |
+| Excellent Match Cohesion | 19.00% | ~88,101 |
+| Do The Double | 18.00% | ~83,464 |
 | Top Form | 17.00% | ~78,827 |
 | Cash To Burn | 17.00% | ~78,827 |
 | Beating Expectations | 15.00% | ~69,553 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 14.00% | ~64,916 |
 | Comeback King! | 13.00% | ~60,279 |
 | You're Up! | 12.00% | ~55,642 |
-| Money, Money, Money | 11.00% | ~51,005 |
+| Money, Money, Money | 11.00% | ~51,006 |
 | Invincible! | 10.00% | ~46,369 |
 | Best In The World | 10.00% | ~46,369 |
 | Best In Europe | 9.00% | ~41,732 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~464 |
 | Shoestring Budget | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,686 (Ranked 33)  
+Progressed: 463,687 (Ranked 33)  
 Completed: 18 (0.00%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 18 (0.00%) (Ranked 224)
 | 2023-06-13 | 463,448 | 18 |
 | 2023-06-14 | 463,563 | 18 |
 | 2023-06-15 | 463,675 | 18 |
-| 2023-06-16 | 463,686 | 18 |
+| 2023-06-16 | 463,687 | 18 |
 ## Awards
 Max (Relaxing): 6,308  (Ranked 51)  
 Sum: 49,738 (Ranked 24)  

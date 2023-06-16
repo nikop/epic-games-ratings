@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -318,7 +318,7 @@
   ],
   "EOS_Progressed": 1432,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1541,9 +1541,9 @@
       "ID": "ACHIEVEMENTS_33",
       "SetID": "d4o538a",
       "Name": "Catch of the Day",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -1598,8 +1598,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-16T03:07:18.4304659+00:00",
+  "LastChanged_Achievements": "2023-06-16T04:05:53.6251409+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-16T03:01:27.5233132+00:00",
-  "LastUpdate_Achievements": "2023-06-16T03:07:18.4305316+00:00"
+  "LastUpdate_Ratings": "2023-06-16T03:59:55.7185448+00:00",
+  "LastUpdate_Achievements": "2023-06-16T04:05:53.625177+00:00"
 }
