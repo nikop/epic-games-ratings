@@ -10,7 +10,7 @@
 | Boss Killer | 23.00% | ~89 |
 | The Fallen | 21.00% | ~81 |
 | Trap Master | 21.00% | ~81 |
-| Artifact Collector | 19.00% | ~73 |
+| Artifact Collector | 20.00% | ~77 |
 | Ghost Buster | 16.00% | ~62 |
 | Reincarnation | 15.00% | ~58 |
 | Iconoclasm | 14.00% | ~54 |
@@ -19,7 +19,7 @@
 | The End | 13.00% | ~50 |
 | Gladiator | 12.00% | ~46 |
 | Lumberjack | 12.00% | ~46 |
-| Troubleshooter | 11.00% | ~42 |
+| Troubleshooter | 12.00% | ~46 |
 | Money Swag | 8.00% | ~31 |
 | Oops | 7.00% | ~27 |
 | Shield Crusher | 7.00% | ~27 |
@@ -30,22 +30,22 @@
 | Spell Master | 4.00% | ~15 |
 | Arrive Home | 3.00% | ~12 |
 | Holy Knight | 3.00% | ~12 |
+| Marksman | 3.00% | ~12 |
 | Hoarder | 2.00% | ~8 |
-| Marksman | 2.00% | ~8 |
 | Meat Lover | 2.00% | ~8 |
 | Sword Master | 2.00% | ~8 |
 | Witch | 2.00% | ~8 |
 | Assassin | 1.00% | ~4 |
+| Roughneck | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
 | Sling of David | 1.00% | ~4 |
 | Weapon Master | 1.00% | ~4 |
-| Roughneck | 0.80% | ~3 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385 (Ranked 222)  
+Progressed: 385 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

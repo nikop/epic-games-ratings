@@ -6,9 +6,9 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -650,9 +650,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15396,
+  "EOS_Progressed": 15397,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4115,6 +4115,11 @@
       "Time": "2023-06-16T21:03:55.5889894+00:00",
       "NumProgressed": 15396,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-16T22:04:34.1612842+00:00",
+      "NumProgressed": 15397,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4158,7 +4163,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4318,7 +4323,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4358,7 +4363,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4445,13 +4450,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15396,
+      "Progressed": 15397,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3322,
+      "Progressed": 3323,
       "Completed": 29
     }
   ],
@@ -4459,8 +4464,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-16T10:58:21.1627136+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:03:55.5889887+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:04:34.1612836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:46.5885514+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:03:55.5890436+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:57:59.6404549+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:04:34.1613372+00:00"
 }

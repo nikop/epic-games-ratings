@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -551,9 +551,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "Assassin",
@@ -679,9 +679,9 @@
       "ID": "Marksman",
       "SetID": "82505mn",
       "Name": "Marksman",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "MeatLover",
@@ -743,9 +743,9 @@
       "ID": "Roughneck",
       "SetID": "82505mn",
       "Name": "Roughneck",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RuneMaster",
@@ -831,9 +831,9 @@
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "WeaponMaster",
@@ -864,8 +864,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:32.4468024+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:32.5031324+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:59:13.160601+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:32.446837+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:59:50.2255617+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:32.5031651+00:00"
 }

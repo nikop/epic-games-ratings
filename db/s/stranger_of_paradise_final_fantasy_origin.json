@@ -4,11 +4,11 @@
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 547,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -4879,8 +4879,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-09T14:59:34.2587561+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:03:14.1504122+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:03:42.7817585+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:14.6618941+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:59:25.9199312+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:03:14.1504671+00:00"
+  "LastUpdate_Ratings": "2023-06-16T22:00:05.1508504+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:03:42.7818145+00:00"
 }

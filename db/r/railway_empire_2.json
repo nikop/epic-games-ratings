@@ -2358,9 +2358,9 @@
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 686
     },
     {
       "ID": "A42",
@@ -2390,17 +2390,17 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 821
     },
     {
       "ID": "A47",
@@ -2414,9 +2414,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "A49",
@@ -2479,8 +2479,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:34.7409505+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:34.9285984+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:55.3096955+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:34.7410118+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:58:10.4886352+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:34.9286585+00:00"
 }

@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 29.00% | ~105 |
 | Consequences | 28.00% | ~102 |
 | Opportunities | 27.00% | ~98 |
-| The Horror | 25.00% | ~91 |
+| The Horror | 26.00% | ~94 |
 | Collectibles of Chapter II | 22.00% | ~80 |
 | The Difference | 22.00% | ~80 |
 | It's Just an Accident | 21.00% | ~76 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 224)  
+Progressed: 363 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

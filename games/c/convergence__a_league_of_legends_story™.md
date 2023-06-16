@@ -34,6 +34,7 @@
 | Whiz Kid | 7.00% | ~49 |
 | Family Memories | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
+| Factorywood Explorer | 5.00% | ~35 |
 | Sump Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
 | Theater Explorer | 5.00% | ~35 |
@@ -42,13 +43,12 @@
 | Sartorialist | 4.00% | ~28 |
 | Cultivair Explorer | 4.00% | ~28 |
 | Entresol Explorer | 4.00% | ~28 |
-| Factorywood Explorer | 4.00% | ~28 |
 | Fairgrounds Explorer | 4.00% | ~28 |
 | Corin Goes Home | 3.00% | ~21 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |
+| Rungs Was Right | 3.00% | ~21 |
 | Hexlock for Protection | 2.00% | ~14 |
-| Rungs Was Right | 2.00% | ~14 |
 | Fitting In | 1.00% | ~7 |
 | Thinking Two Steps Ahead | 0.90% | ~6 |
 | Wunderkind | 0.90% | ~6 |
@@ -59,7 +59,7 @@
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702 (Ranked 193)  
-Completed: 2 (0.28%) (Ranked 143)  
+Completed: 3 (0.43%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,4 +87,4 @@ Completed: 2 (0.28%) (Ranked 143)
 | 2023-06-13 | 676 | 1 |
 | 2023-06-14 | 689 | 1 |
 | 2023-06-15 | 696 | 2 |
-| 2023-06-16 | 702 | 2 |
+| 2023-06-16 | 702 | 3 |

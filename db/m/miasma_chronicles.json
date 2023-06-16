@@ -2061,9 +2061,9 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 229
     },
     {
       "ID": "IM_THE_LAW",
@@ -2077,9 +2077,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 286
     },
     {
       "ID": "LUMBERJACK",
@@ -2173,9 +2173,9 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 92
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -2238,8 +2238,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:00:23.0260785+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:01:18.2293792+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:58:07.7731307+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:00:23.0261324+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:58:25.0138946+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:01:18.2294334+00:00"
 }

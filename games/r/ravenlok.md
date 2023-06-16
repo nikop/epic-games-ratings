@@ -25,17 +25,17 @@
 | Well Rested | 40.00% | ~401 |
 | Nightmare Fuel | 39.00% | ~391 |
 | Take Heart | 39.00% | ~391 |
-| The Guardian | 38.00% | ~381 |
+| The Guardian | 39.00% | ~391 |
+| Stronger! | 38.00% | ~381 |
 | Ancient Wisdom | 37.00% | ~371 |
+| Frog Facts! | 37.00% | ~371 |
 | All That Glistens | 37.00% | ~371 |
-| Stronger! | 37.00% | ~371 |
 | Spellbound | 36.00% | ~361 |
-| Frog Facts! | 36.00% | ~361 |
 | All Skilled Up! | 36.00% | ~361 |
 | It's Pointy! | 36.00% | ~361 |
 | Extinct Again! | 35.00% | ~351 |
 | Bird of Prey | 35.00% | ~351 |
-| Stardust | 34.00% | ~341 |
+| Stardust | 35.00% | ~351 |
 | Heartbreaker | 34.00% | ~341 |
 | Kidnapped! | 34.00% | ~341 |
 | Pull the Plug | 33.00% | ~331 |

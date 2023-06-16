@@ -6,51 +6,51 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,761 |
-| The Cursed Farmer | 2.00% | ~1,881 |
-| Beast Intentions | 1.00% | ~940 |
-| The Ring of Regeneration | 1.00% | ~940 |
-| The Mad Wizard | 1.00% | ~940 |
-| Are Ya Chicken? | 0.90% | ~846 |
-| The Court of Storms | 0.90% | ~543 |
-| Were-verpowered | 0.80% | ~752 |
-| Seeking Allies | 0.80% | ~752 |
-| Friendly Imps | 0.80% | ~752 |
-| Beware the Jabberwock | 0.80% | ~482 |
-| A Persistent Buzzing | 0.70% | ~658 |
-| Mad Cow Disease | 0.70% | ~658 |
-| Pure Energy | 0.70% | ~658 |
-| Terror in the Dark | 0.60% | ~564 |
-| Unearthed Evil | 0.60% | ~564 |
-| The Crumbling Temple | 0.60% | ~564 |
-| Exploring Port Nyanzaru | 0.60% | ~564 |
+| A Brief Tour of the Realms | 4.00% | ~3,766 |
+| The Cursed Farmer | 2.00% | ~1,883 |
+| Beast Intentions | 1.00% | ~941 |
+| The Ring of Regeneration | 1.00% | ~941 |
+| The Mad Wizard | 1.00% | ~941 |
+| Seeking Allies | 0.90% | ~847 |
+| Are Ya Chicken? | 0.90% | ~847 |
+| The Court of Storms | 0.90% | ~544 |
+| Were-verpowered | 0.80% | ~753 |
+| Friendly Imps | 0.80% | ~753 |
+| Beware the Jabberwock | 0.80% | ~483 |
+| A Persistent Buzzing | 0.70% | ~659 |
+| Mad Cow Disease | 0.70% | ~659 |
+| Pure Energy | 0.70% | ~659 |
+| Terror in the Dark | 0.60% | ~565 |
+| Unearthed Evil | 0.60% | ~565 |
+| The Crumbling Temple | 0.60% | ~565 |
+| Exploring Port Nyanzaru | 0.60% | ~565 |
 | Coasting to the Finish | 0.60% | ~362 |
-| Maddening | 0.50% | ~470 |
+| Maddening | 0.50% | ~471 |
 | Checkmate | 0.50% | ~302 |
 | Vecna Out! | 0.50% | ~302 |
-| Beast Mode | 0.50% | ~470 |
-| A Mysterious Summons | 0.50% | ~470 |
-| Building Trust | 0.50% | ~470 |
-| Useless Allies | 0.50% | ~470 |
-| Running of the Saurs | 0.50% | ~470 |
-| The Contagious Curse | 0.50% | ~470 |
-| Escort to Waterdeep | 0.50% | ~470 |
-| Waterdeep Detours | 0.50% | ~470 |
+| Beast Mode | 0.50% | ~471 |
+| A Mysterious Summons | 0.50% | ~471 |
+| Building Trust | 0.50% | ~471 |
+| Useless Allies | 0.50% | ~471 |
+| Running of the Saurs | 0.50% | ~471 |
+| The Contagious Curse | 0.50% | ~471 |
+| Escort to Waterdeep | 0.50% | ~471 |
+| Waterdeep Detours | 0.50% | ~471 |
 | Quick or Quack | 0.50% | ~302 |
-| Owlbear Necessities | 0.40% | ~241 |
-| Best Thay Ever | 0.40% | ~241 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~241 |
-| Pin and Skewer | 0.40% | ~241 |
-| Low Initiative | 0.40% | ~376 |
-| Street War | 0.40% | ~376 |
-| No Time To Rest | 0.40% | ~376 |
-| The Dinner Party | 0.40% | ~376 |
-| The Death Curse | 0.40% | ~376 |
-| Premature Betrayal | 0.40% | ~376 |
-| Underdeep Cartography | 0.40% | ~376 |
-| Overdue Rendezvous | 0.40% | ~376 |
-| The Templar's Camp | 0.40% | ~376 |
-| Rescue in the Jungle | 0.40% | ~376 |
+| Owlbear Necessities | 0.40% | ~242 |
+| Best Thay Ever | 0.40% | ~242 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~242 |
+| Pin and Skewer | 0.40% | ~242 |
+| Low Initiative | 0.40% | ~377 |
+| Street War | 0.40% | ~377 |
+| No Time To Rest | 0.40% | ~377 |
+| The Dinner Party | 0.40% | ~377 |
+| The Death Curse | 0.40% | ~377 |
+| Premature Betrayal | 0.40% | ~377 |
+| Underdeep Cartography | 0.40% | ~377 |
+| Overdue Rendezvous | 0.40% | ~377 |
+| The Templar's Camp | 0.40% | ~377 |
+| Rescue in the Jungle | 0.40% | ~377 |
 | Pros and CONs | 0.30% | ~282 |
 | Tall Tales | 0.30% | ~181 |
 | Third Third Out | 0.30% | ~181 |
@@ -236,6 +236,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Class Vacation | 0.20% | ~188 |
 | Backtracking Through Barovia | 0.20% | ~188 |
 | Diversity Day-Trip | 0.20% | ~188 |
+| Late Game | 0.20% | ~188 |
 | Shadowfell Stalwarts | 0.20% | ~121 |
 | Nimblest Escape | 0.20% | ~188 |
 | Stumbling Escape | 0.20% | ~188 |
@@ -431,7 +432,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Red Wizard 'Escort' | 0.10% | ~60 |
 | Spirit of the Trickster Gods | 0.10% | ~60 |
 | A Nod from Strahd | 0.10% | ~60 |
-| Late Game | 0.10% | ~94 |
 | Twilight Twist | 0.10% | ~60 |
 | Birds of a Feather | 0.10% | ~60 |
 | Tanking Expectations | 0.10% | ~60 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~60 |
 | Ineffectual Intellectuals | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,037 (Ranked 63)  
-Completed: 1,942 (2.07%) (Ranked 70)  
+Progressed: 94,140 (Ranked 63)  
+Completed: 1,942 (2.06%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,7 +557,7 @@ Completed: 1,942 (2.07%) (Ranked 70)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
-| 2023-06-16 | 94,037 | 1,942 |
+| 2023-06-16 | 94,140 | 1,942 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

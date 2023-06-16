@@ -2,9 +2,9 @@
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "L10_5_FINISH",
       "SetID": "6finf64",
       "Name": "Fuel",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "L10_5_PERFECT",
@@ -186,9 +186,9 @@
       "ID": "L11_FINISH",
       "SetID": "6finf64",
       "Name": "Alone Together",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "L11_PERFECT",
@@ -202,9 +202,9 @@
       "ID": "L12_FINISH",
       "SetID": "6finf64",
       "Name": "Threatening Nature",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "L12_PERFECT",
@@ -218,9 +218,9 @@
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "L13_PERFECT",
@@ -571,8 +571,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:03:48.0419551+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:04:24.5698851+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:25.562039+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:58:02.5606155+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:03:48.0420158+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:58:19.3688416+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:04:24.5699395+00:00"
 }

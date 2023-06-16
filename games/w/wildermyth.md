@@ -25,9 +25,9 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 7.00% | ~88 |
 | Everfading | 7.00% | ~88 |
 | A Story of Heroes | 7.00% | ~88 |
-| Let Me Get My Chisel | 6.00% | ~75 |
-| Plague Doctor | 6.00% | ~75 |
-| Another Tale to Tell | 6.00% | ~75 |
+| Let Me Get My Chisel | 6.00% | ~76 |
+| Plague Doctor | 6.00% | ~76 |
+| Another Tale to Tell | 6.00% | ~76 |
 | In Soil, In Smoke | 5.00% | ~63 |
 | Wingknight's Prowess | 5.00% | ~63 |
 | All My Birds, Safely Home | 5.00% | ~63 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.60% | ~8 |
 | Peacemaker | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258 (Ranked 170)  
-Completed: 4 (0.32%) (Ranked 136)  
+Progressed: 1,259 (Ranked 170)  
+Completed: 4 (0.32%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,6 +115,7 @@ Completed: 4 (0.32%) (Ranked 136)
 | 2023-06-12 | 1,254 | 4 |
 | 2023-06-14 | 1,257 | 4 |
 | 2023-06-15 | 1,258 | 4 |
+| 2023-06-16 | 1,259 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 460)  
 Sum: 27 (Ranked 471)  

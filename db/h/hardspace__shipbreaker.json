@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 772,
+  "EOS_Progressed": 774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1058,6 +1058,11 @@
       "Time": "2023-06-16T19:03:48.9012983+00:00",
       "NumProgressed": 772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T22:03:29.8858187+00:00",
+      "NumProgressed": 774,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1069,7 +1074,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1125,7 +1130,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1133,7 +1138,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1149,7 +1154,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1165,7 +1170,7 @@
       "Name": "Critical Thinker",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1205,7 +1210,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1221,7 +1226,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1229,7 +1234,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1237,7 +1242,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1245,7 +1250,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1269,7 +1274,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1277,14 +1282,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 772,
+      "Progressed": 774,
       "Completed": 0
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:02:43.3548185+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:03:29.8858179+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:27.5361194+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:02:43.3548401+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:57:36.3846703+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:03:29.8858434+00:00"
 }

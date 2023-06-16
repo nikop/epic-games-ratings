@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4693,
+  "EOS_Progressed": 4694,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4027,6 +4027,11 @@
       "Time": "2023-06-16T20:05:14.0314202+00:00",
       "NumProgressed": 4693,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-16T22:04:58.7308024+00:00",
+      "NumProgressed": 4694,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4078,7 +4083,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "15",
@@ -4140,9 +4145,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 845
     },
     {
       "ID": "22",
@@ -4158,7 +4163,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "24",
@@ -4174,7 +4179,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "26",
@@ -4198,7 +4203,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "29",
@@ -4206,7 +4211,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "3",
@@ -4230,7 +4235,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "32",
@@ -4254,7 +4259,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "35",
@@ -4389,13 +4394,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4693,
-      "Completed": 4693
+      "Progressed": 4694,
+      "Completed": 4694
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4693,
+      "Progressed": 4694,
       "Completed": 3
     }
   ],
@@ -4403,8 +4408,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:04:14.6541867+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:04:58.730802+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:59:07.7968873+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:04:14.6542485+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:59:43.5863995+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:04:58.7308612+00:00"
 }

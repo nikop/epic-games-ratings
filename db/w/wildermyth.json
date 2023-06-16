@@ -6,8 +6,8 @@
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1258,
+  "EOS_Progressed": 1259,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2023-06-15T18:05:58.6455329+00:00",
       "NumProgressed": 1258,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-16T22:06:21.1180458+00:00",
+      "NumProgressed": 1259,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -904,7 +909,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1008,7 +1013,7 @@
       "Name": "Plague Doctor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_loseBattle",
@@ -1104,7 +1109,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "completedStory_monarchs",
@@ -1303,15 +1308,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1258,
+      "Progressed": 1259,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:22.206378+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:21.1180453+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-16T21:00:08.9581414+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:22.2064335+00:00"
+  "LastUpdate_Ratings": "2023-06-16T22:00:58.1448284+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:21.1180977+00:00"
 }

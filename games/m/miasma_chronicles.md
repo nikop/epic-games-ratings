@@ -25,13 +25,13 @@ Rating: 4.31 (Ranked 763)
 | Are you not entertained? | 26.00% | ~298 |
 | Ganglord | 25.00% | ~286 |
 | Jarhead | 25.00% | ~286 |
-| Infiltrator | 24.00% | ~275 |
+| Infiltrator | 25.00% | ~286 |
 | Pushing Daisy | 24.00% | ~275 |
 | Experienced | 22.00% | ~252 |
 | There Can Be Only One! | 21.00% | ~240 |
 | Chain Killer | 20.00% | ~229 |
+| Hold The Line | 20.00% | ~229 |
 | Endgame | 19.00% | ~218 |
-| Hold The Line | 19.00% | ~218 |
 | Savior | 18.00% | ~206 |
 | The Watchers | 16.00% | ~183 |
 | Newtonian Knockout | 14.00% | ~160 |
@@ -40,8 +40,8 @@ Rating: 4.31 (Ranked 763)
 | Dr Jones | 11.00% | ~126 |
 | Commando | 10.00% | ~114 |
 | Chain Reaction | 8.00% | ~92 |
+| Side Order | 8.00% | ~92 |
 | Curveball | 7.00% | ~80 |
-| Side Order | 7.00% | ~80 |
 | Bot Whisperer | 6.00% | ~69 |
 | Wipe Out | 6.00% | ~69 |
 | Dressed To Kill | 5.00% | ~57 |

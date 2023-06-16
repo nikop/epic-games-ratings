@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6514,
+  "EOS_Progressed": 6516,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -3690,6 +3690,11 @@
       "Time": "2023-06-16T21:05:09.3094674+00:00",
       "NumProgressed": 6514,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-16T22:06:05.679921+00:00",
+      "NumProgressed": 6516,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -3725,7 +3730,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3749,7 +3754,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3868,7 +3873,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6514,
+      "Progressed": 6516,
       "Completed": 25
     }
   ],
@@ -3876,8 +3881,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:09.3094669+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:05.6799201+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:48.8697333+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:09.3095023+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:58:02.0031053+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:05.6799569+00:00"
 }

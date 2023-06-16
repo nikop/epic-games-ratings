@@ -22,7 +22,7 @@
 | This Is My Boomstick | 18.00% | ~14 |
 | 15K | 17.00% | ~21 |
 | Grave Digger | 16.00% | ~12 |
-| Drinking Problem | 13.00% | ~16 |
+| Drinking Problem | 14.00% | ~18 |
 | Summers Here | 13.00% | ~10 |
 | Eggtraordinary | 12.00% | ~15 |
 | Oh My Gourd | 10.00% | ~8 |
@@ -31,8 +31,8 @@
 | Pork Chop Express | 8.00% | ~10 |
 | Carrocketeer | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
+| Expert Survivor | 8.00% | ~6 |
 | Quit Horsin' Around | 7.00% | ~9 |
-| Expert Survivor | 7.00% | ~5 |
 | Quadsparagus | 7.00% | ~5 |
 | Fresh Pancake | 6.00% | ~8 |
 | Master Survivor | 6.00% | ~5 |

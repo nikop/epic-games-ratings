@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -317,6 +317,11 @@
       "Time": "2023-06-15T21:05:39.7001243+00:00",
       "NumProgressed": 501,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-16T22:06:27.7409592+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -336,7 +341,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "deadly_secret",
@@ -398,9 +403,9 @@
       "ID": "ending_7",
       "SetID": "d4f4pll",
       "Name": "Trust Me For Once",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "ending_8",
@@ -414,9 +419,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "free_champagne",
@@ -424,7 +429,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "kamikaze",
@@ -462,9 +467,9 @@
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 241
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -480,14 +485,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 16
     }
   ],
@@ -495,8 +500,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:27.6901129+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:27.7409585+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:12.1716269+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:27.6901284+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:57:16.3812931+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:27.7409767+00:00"
 }

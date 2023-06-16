@@ -22,8 +22,10 @@ Number of Ratings: 82  (23.09.2022)
 | Lured In | 0.20% | ~19 |
 | Millionaire | 0.20% | ~19 |
 | Mr Clean | 0.20% | ~19 |
+| Rat Race | 0.20% | ~19 |
 | Expert Renovator | 0.20% | ~19 |
 | Master Renovator | 0.20% | ~19 |
+| TGIF | 0.20% | ~19 |
 | Treasure Hunter | 0.20% | ~19 |
 | Expert Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
@@ -44,12 +46,10 @@ Number of Ratings: 82  (23.09.2022)
 | Passive Income | 0.10% | ~10 |
 | Petty Bickering | 0.10% | ~10 |
 | Privileged | 0.10% | ~10 |
-| Rat Race | 0.10% | ~10 |
 | Realtor | 0.10% | ~10 |
 | Master Realtor | 0.10% | ~10 |
 | Run, Forrest, Run! | 0.10% | ~10 |
 | Senpai | 0.10% | ~10 |
-| TGIF | 0.10% | ~10 |
 | The Aftershock | 0.10% | ~10 |
 | The More The Merrier | 0.10% | ~10 |
 | Well, Scratch That | 0.10% | ~10 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,684 (Ranked 115)  
+Progressed: 9,685 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 9,681 | 0 |
 | 2023-06-14 | 9,682 | 0 |
 | 2023-06-15 | 9,684 | 0 |
+| 2023-06-16 | 9,685 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

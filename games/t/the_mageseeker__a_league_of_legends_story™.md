@@ -25,7 +25,7 @@ Rating: 4.80 (Ranked 79)
 | Whispers in the Woods I | 26.00% | ~615 |
 | Hijack | 26.00% | ~615 |
 | Ancient power | 24.00% | ~568 |
-| I chose my shackles | 22.00% | ~521 |
+| I chose my shackles | 23.00% | ~544 |
 | Sacred Woods | 21.00% | ~497 |
 | Capelworth | 21.00% | ~497 |
 | Little light | 20.00% | ~473 |

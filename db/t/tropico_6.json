@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 137,
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3679,
+  "EOS_Progressed": 3680,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4539,6 +4539,11 @@
       "Time": "2023-06-16T21:00:26.8093699+00:00",
       "NumProgressed": 3679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T22:01:22.9980575+00:00",
+      "NumProgressed": 3680,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4654,7 +4659,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4710,7 +4715,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4822,7 +4827,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4869,15 +4874,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3679,
+      "Progressed": 3680,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:00:26.8093693+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:01:22.9980565+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:59:45.7276674+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:00:26.8094234+00:00"
+  "LastUpdate_Ratings": "2023-06-16T22:00:30.0183711+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:01:22.9981072+00:00"
 }

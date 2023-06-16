@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -855,6 +855,11 @@
       "Time": "2023-06-16T18:05:51.5075951+00:00",
       "NumProgressed": 443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T22:06:11.9535845+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -968,9 +973,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 222
     },
     {
       "ID": "Collectibles2",
@@ -1042,7 +1047,7 @@
       "Name": "Memories",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Murderer",
@@ -1153,14 +1158,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:05:14.50365+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:06:11.9535841+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:57:37.3755235+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:05:14.5036819+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:57:48.9087271+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:06:11.9536126+00:00"
 }

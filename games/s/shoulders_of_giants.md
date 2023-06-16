@@ -7,7 +7,7 @@ Rating: 4.35 (Ranked 730)
 | ---- | ---------- | ----- |
 | On the Shoulders of Giants | 88.00% | ~1,899 |
 | A Ribbiting Performance | 77.00% | ~1,662 |
-| At Least We Have Each Other... | 75.00% | ~1,618 |
+| At Least We Have Each Other... | 76.00% | ~1,640 |
 | Frogbot | 73.00% | ~1,575 |
 | Ouch | 55.00% | ~1,187 |
 | Fun in the Stun | 54.00% | ~1,165 |
@@ -26,7 +26,7 @@ Rating: 4.35 (Ranked 730)
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,158 (Ranked 154)  
-Completed: 9 (0.42%) (Ranked 126)  
+Completed: 9 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

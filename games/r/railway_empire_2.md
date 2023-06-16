@@ -10,13 +10,13 @@ Rating: 4.25 (Ranked 796)
 | A new Journey | 71.00% | ~870 |
 | From X to Y | 70.00% | ~858 |
 | Way of Iron | 69.00% | ~845 |
-| Mystery Tour | 66.00% | ~808 |
+| Mystery Tour | 67.00% | ~821 |
 | Brainstorm | 65.00% | ~796 |
 | We brake for nobody | 65.00% | ~796 |
 | Mind the Gap | 63.00% | ~772 |
 | Travel Company | 63.00% | ~772 |
 | All around the World | 60.00% | ~735 |
-| Right through the middle | 55.00% | ~674 |
+| Right through the middle | 56.00% | ~686 |
 | Facility Manager | 52.00% | ~637 |
 | Poor Devil | 52.00% | ~637 |
 | Producer | 48.00% | ~588 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 796)
 | Stoker | 33.00% | ~404 |
 | Going once, going twice, sold | 32.00% | ~392 |
 | Full Steam ahead | 30.00% | ~368 |
-| Bull and bear | 29.00% | ~355 |
+| Bull and bear | 30.00% | ~368 |
 | Mole | 27.00% | ~331 |
 | All mine | 26.00% | ~318 |
 | Financial Shark | 26.00% | ~318 |
@@ -43,8 +43,8 @@ Rating: 4.25 (Ranked 796)
 | Locusts | 14.00% | ~172 |
 | Networker | 14.00% | ~172 |
 | Resistance is futile | 13.00% | ~159 |
+| Settler | 11.00% | ~135 |
 | Max Power | 10.00% | ~122 |
-| Settler | 10.00% | ~122 |
 | Go West | 9.00% | ~110 |
 | Bold and beautiful | 9.00% | ~110 |
 | Tycoon | 7.00% | ~86 |

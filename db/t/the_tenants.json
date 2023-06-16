@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9684,
+  "EOS_Progressed": 9685,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -550,6 +550,11 @@
     {
       "Time": "2023-06-15T16:00:18.1550153+00:00",
       "NumProgressed": 9684,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-16T22:02:17.5464074+00:00",
+      "NumProgressed": 9685,
       "NumCompleted": 0
     }
   ],
@@ -1024,9 +1029,9 @@
       "ID": "ACH_RAT_RACE",
       "SetID": "13614nd",
       "Name": "Rat Race",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_REALTOR",
@@ -1144,9 +1149,9 @@
       "ID": "ACH_TGIF",
       "SetID": "13614nd",
       "Name": "TGIF",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_THE_AFTERSHOCK",
@@ -1249,21 +1254,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9684,
+      "Progressed": 9685,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-06-11T16:59:07.234811+00:00",
-  "LastChanged_Achievements": "2023-06-16T21:02:09.5927178+00:00",
+  "LastChanged_Achievements": "2023-06-16T22:02:17.5464069+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:10.1538297+00:00",
-  "LastUpdate_Ratings": "2023-06-16T20:58:37.3046054+00:00",
-  "LastUpdate_Achievements": "2023-06-16T21:02:09.5928224+00:00"
+  "LastUpdate_Ratings": "2023-06-16T21:59:01.2449506+00:00",
+  "LastUpdate_Achievements": "2023-06-16T22:02:17.546504+00:00"
 }
