@@ -50,8 +50,8 @@
 | 48 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.93% |
 | 51 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 52 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.92% |
 | 53 | [The Bunker](games/t/the_bunker.md) | 2.91% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
@@ -59,18 +59,18 @@
 | 57 | [Lamentum](games/l/lamentum.md) | 2.73% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.51% |
-| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
-| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 60 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.50% |
+| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.50% |
+| 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 65 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 65 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 68 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 69 | [Frogun](games/f/frogun.md) | 1.93% |
-| 70 | [Iron Danger](games/i/iron_danger.md) | 1.92% |
 | 70 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.92% |
+| 71 | [Iron Danger](games/i/iron_danger.md) | 1.91% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
 | 72 | [JARS](games/j/jars.md) | 1.82% |
 | 72 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
