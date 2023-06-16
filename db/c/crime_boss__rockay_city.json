@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1996,10 +1996,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1567,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-06-16T09:01:06.6987902+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1570,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1567,
+  "NumberOfAwards": 1570,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2025,7 +2031,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 309
+      "Count": 312
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2052,9 +2058,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 66847,
+  "EOS_Progressed": 66849,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7962,6 +7968,11 @@
       "Time": "2023-06-16T08:07:14.7967839+00:00",
       "NumProgressed": 66847,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-16T09:07:42.8660823+00:00",
+      "NumProgressed": 66849,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 37,
@@ -8117,7 +8128,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43451
+      "UsersEstimate": 43452
     },
     {
       "ID": "ACH_0210",
@@ -8125,7 +8136,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49467
+      "UsersEstimate": 49468
     },
     {
       "ID": "ACH_0211",
@@ -8141,7 +8152,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31418
+      "UsersEstimate": 31419
     },
     {
       "ID": "ACH_0300",
@@ -8189,7 +8200,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22728
+      "UsersEstimate": 22729
     },
     {
       "ID": "ACH_0420",
@@ -8197,7 +8208,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22728
+      "UsersEstimate": 22729
     },
     {
       "ID": "ACH_0430",
@@ -8205,7 +8216,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23396
+      "UsersEstimate": 23397
     },
     {
       "ID": "ACH_0431",
@@ -8268,16 +8279,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 66847,
+      "Progressed": 66849,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-06-15T20:00:05.5313995+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:07:14.7967834+00:00",
+  "LastChanged": "2023-06-16T09:01:06.6987901+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:07:42.8660816+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:25.7219377+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:01:00.1691349+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:07:14.7968501+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:01:06.6987908+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:07:42.8661703+00:00"
 }

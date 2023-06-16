@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~461 |
-| Terminated I | 82.00% | ~398 |
-| Challenge Accepted | 78.00% | ~378 |
-| Nanonic I | 78.00% | ~378 |
+| Augmented | 95.00% | ~462 |
+| Terminated I | 82.00% | ~399 |
+| Challenge Accepted | 78.00% | ~379 |
+| Nanonic I | 78.00% | ~379 |
 | Unlocked and Loaded | 75.00% | ~364 |
-| Terminated II | 65.00% | ~315 |
-| The City | 50.00% | ~242 |
-| Terminated III | 44.00% | ~213 |
+| Terminated II | 65.00% | ~316 |
+| The City | 50.00% | ~243 |
+| Terminated III | 43.00% | ~209 |
 | Challenge Mastered | 41.00% | ~199 |
 | Nanonic II | 36.00% | ~175 |
 | Rookie | 26.00% | ~126 |
-| Nanonic III | 25.00% | ~121 |
-| Supply Run | 25.00% | ~121 |
+| Supply Run | 25.00% | ~122 |
+| Nanonic III | 24.00% | ~117 |
 | Starship Docks | 23.00% | ~112 |
 | Cybernetic | 19.00% | ~92 |
 | The Bigger They Are | 18.00% | ~87 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 206)  
+Progressed: 486 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 225)
 | 2023-06-13 | 439 | 0 |
 | 2023-06-14 | 452 | 0 |
 | 2023-06-15 | 485 | 0 |
+| 2023-06-16 | 486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,6 +23,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.20% | ~45 |
 | For Survival | 0.20% | ~45 |
 | Good Boy! | 0.20% | ~45 |
+| Jack of all Trades | 0.20% | ~45 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
 | Erebus Purified | 0.10% | ~22 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Just the Beginning | 0.10% | ~22 |
 | Wasted Betrayal | 0.10% | ~22 |
 | Had to Do It | 0.10% | ~22 |
-| Jack of all Trades | 0.10% | ~22 |
 | Color Coordination | 0.10% | ~22 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |

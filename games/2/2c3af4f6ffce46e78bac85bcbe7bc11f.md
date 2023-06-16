@@ -9,6 +9,7 @@
 | Something to make you dream... | 67.00% | ~2 |
 | Something monumental... | 67.00% | ~2 |
 | Something to long for... | 67.00% | ~2 |
+| Something firmly rooted... | 67.00% | ~2 |
 | Something free... | 33.00% | ~1 |
 | Something free... (fragile) | 33.00% | ~1 |
 | Something more... | 33.00% | ~1 |
@@ -26,7 +27,6 @@
 | Something monumental... (fragile) | 33.00% | ~1 |
 | Something natural... | 33.00% | ~1 |
 | Something to long for... (fragile) | 33.00% | ~1 |
-| Something firmly rooted... | 33.00% | ~1 |
 | Something firmly rooted... (fragile) | 33.00% | ~1 |
 | Something reflective... | 33.00% | ~1 |
 | Something reflective... (fragile) | 33.00% | ~1 |

@@ -6,9 +6,9 @@ Rating: 4.52 (Ranked 516)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 31.00% | ~907 |
-| Confirming Suspicions | 25.00% | ~731 |
+| Confirming Suspicions | 25.00% | ~732 |
 | The Kraken Wakes | 21.00% | ~614 |
-| It's Starting to Crack | 18.00% | ~526 |
+| It's Starting to Crack | 18.00% | ~527 |
 | Lord of War | 16.00% | ~468 |
 | Change the Channel | 15.00% | ~439 |
 | Resourceful | 14.00% | ~410 |
@@ -16,7 +16,7 @@ Rating: 4.52 (Ranked 516)
 | Target America | 12.00% | ~351 |
 | Organ Grinder | 11.00% | ~322 |
 | As Quiet as a Mouse | 11.00% | ~322 |
-| The Kraken Sleeps | 10.00% | ~292 |
+| The Kraken Sleeps | 10.00% | ~293 |
 | Liberté | 9.00% | ~263 |
 | Just a Flesh Wound | 9.00% | ~263 |
 | Gunslinger | 9.00% | ~263 |
@@ -37,11 +37,11 @@ Rating: 4.52 (Ranked 516)
 | Precision Is Key | 4.00% | ~117 |
 | Rigged to Blow | 4.00% | ~117 |
 | My Little Friend | 3.00% | ~88 |
-| The Long Game | 2.00% | ~58 |
-| It'll Buff Right Out | 2.00% | ~58 |
-| Locomotion Commotion | 2.00% | ~58 |
-| Road Rage | 2.00% | ~58 |
-| Don't hold your breath | 2.00% | ~58 |
+| The Long Game | 2.00% | ~59 |
+| It'll Buff Right Out | 2.00% | ~59 |
+| Locomotion Commotion | 2.00% | ~59 |
+| Road Rage | 2.00% | ~59 |
+| Don't hold your breath | 2.00% | ~59 |
 | Herr Today, Gone Tomorrow | 2.00% | ~58 |
 | Strategist | 1.00% | ~29 |
 | Burn after reading | 1.00% | ~29 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 516)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,925 (Ranked 145)  
+Progressed: 2,926 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.07%) (Ranked 184)
 | 2023-06-13 | 2,801 | 2 |
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
-| 2023-06-16 | 2,925 | 2 |
+| 2023-06-16 | 2,926 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

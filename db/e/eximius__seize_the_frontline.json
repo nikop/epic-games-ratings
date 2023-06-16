@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -252,7 +252,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189258,
+  "EOS_Progressed": 189262,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
@@ -6157,6 +6157,11 @@
       "Time": "2023-06-16T08:06:50.6705218+00:00",
       "NumProgressed": 189258,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-16T09:07:19.6832607+00:00",
+      "NumProgressed": 189262,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -6176,7 +6181,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134373
+      "UsersEstimate": 134376
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -6200,7 +6205,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34066
+      "UsersEstimate": 34067
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -6295,7 +6300,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 189258,
+      "Progressed": 189262,
       "Completed": 4
     }
   ],
@@ -6303,8 +6308,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:06:50.6705211+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:07:19.6832598+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.5602508+00:00",
-  "LastUpdate_Ratings": "2023-06-16T08:00:39.8807808+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:06:50.6706017+00:00"
+  "LastUpdate_Ratings": "2023-06-16T09:00:44.9774366+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:07:19.6833177+00:00"
 }

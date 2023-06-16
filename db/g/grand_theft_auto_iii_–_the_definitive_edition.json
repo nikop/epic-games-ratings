@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -316,9 +316,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6652,
+  "EOS_Progressed": 6653,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4206,6 +4206,11 @@
       "Time": "2023-06-16T08:04:22.335621+00:00",
       "NumProgressed": 6652,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-16T09:04:50.9534471+00:00",
+      "NumProgressed": 6653,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4217,7 +4222,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH02",
@@ -4337,7 +4342,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH17",
@@ -4448,7 +4453,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6652,
+      "Progressed": 6653,
       "Completed": 37
     }
   ],
@@ -4456,8 +4461,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-15T22:58:13.3832302+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:04:22.3356204+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:04:50.9534461+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-16T07:58:24.0967814+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:04:22.3356671+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:58:28.3307941+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:04:50.953531+00:00"
 }

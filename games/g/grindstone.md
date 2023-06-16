@@ -6,26 +6,26 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,018 |
-| The Journey Begins | 98.00% | ~5,018 |
+| Quinceañera Time | 98.00% | ~5,019 |
+| The Journey Begins | 98.00% | ~5,019 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~3,994 |
-| There is No Escape | 71.00% | ~3,635 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,174 |
-| Royal Flush | 62.00% | ~3,174 |
-| Timber! | 60.00% | ~3,072 |
+| There is No Escape | 71.00% | ~3,636 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,175 |
+| Royal Flush | 62.00% | ~3,175 |
+| Timber! | 60.00% | ~3,073 |
 | Survive the Bombsequences | 59.00% | ~3,021 |
 | Killed 20 Jerks | 53.00% | ~2,714 |
 | Death Defied | 53.00% | ~2,714 |
 | Fortunate Soul | 49.00% | ~2,509 |
 | Jerk-Slayer | 43.00% | ~2,202 |
-| Employee of the Month | 37.00% | ~1,894 |
-| I Believe I Can Fly | 37.00% | ~1,894 |
+| Employee of the Month | 37.00% | ~1,895 |
+| I Believe I Can Fly | 37.00% | ~1,895 |
 | Bone Collector | 35.00% | ~1,792 |
 | Fe-Festival | 35.00% | ~1,792 |
-| Top of the Food Chain | 32.00% | ~1,638 |
-| Pardon my Slob | 32.00% | ~1,638 |
-| Humerus Achievement | 31.00% | ~1,587 |
-| Ghost Facers! | 27.00% | ~1,382 |
+| Top of the Food Chain | 32.00% | ~1,639 |
+| Pardon my Slob | 32.00% | ~1,639 |
+| Humerus Achievement | 31.00% | ~1,588 |
+| Ghost Facers! | 27.00% | ~1,383 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,075 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~922 |
 | Can't Touch This | 18.00% | ~922 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,120 (Ranked 129)  
+Progressed: 5,121 (Ranked 129)  
 Completed: 27 (0.53%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 27 (0.53%) (Ranked 117)
 | 2023-06-13 | 5,113 | 27 |
 | 2023-06-14 | 5,114 | 27 |
 | 2023-06-15 | 5,119 | 27 |
-| 2023-06-16 | 5,120 | 27 |
+| 2023-06-16 | 5,121 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

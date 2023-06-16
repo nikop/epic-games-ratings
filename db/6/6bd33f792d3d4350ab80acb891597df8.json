@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -25,9 +25,250 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CgkIxYDzrbcPEAIQAQ",
+      "SetID": "4egpam7",
+      "Name": "Catacomb Crawl",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQAg",
+      "SetID": "4egpam7",
+      "Name": "All in a Day\u0027s Work",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQAw",
+      "SetID": "4egpam7",
+      "Name": "The Bald Lady",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQBA",
+      "SetID": "4egpam7",
+      "Name": "Devil\u0027s Bargain",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQBQ",
+      "SetID": "4egpam7",
+      "Name": "Man of Faith",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQBg",
+      "SetID": "4egpam7",
+      "Name": "Uninvited Guests",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQBw",
+      "SetID": "4egpam7",
+      "Name": "Cave Exploration",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQCA",
+      "SetID": "4egpam7",
+      "Name": "Secrets of Justice",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQCQ",
+      "SetID": "4egpam7",
+      "Name": "Ancient Enigma",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQCg",
+      "SetID": "4egpam7",
+      "Name": "Pest Control",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQCw",
+      "SetID": "4egpam7",
+      "Name": "Target Practice",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQDA",
+      "SetID": "4egpam7",
+      "Name": "Chimney Sweeper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQDQ",
+      "SetID": "4egpam7",
+      "Name": "Control Pests",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQDg",
+      "SetID": "4egpam7",
+      "Name": "Fireman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQDw",
+      "SetID": "4egpam7",
+      "Name": "Dear Diary",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQEA",
+      "SetID": "4egpam7",
+      "Name": "Collector of Secrets",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQEQ",
+      "SetID": "4egpam7",
+      "Name": "Seeker of Mysteries",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQEg",
+      "SetID": "4egpam7",
+      "Name": "Artist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQEw",
+      "SetID": "4egpam7",
+      "Name": "Writer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQFA",
+      "SetID": "4egpam7",
+      "Name": "Archivist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQFQ",
+      "SetID": "4egpam7",
+      "Name": "The One with All",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQFg",
+      "SetID": "4egpam7",
+      "Name": "Dangerous Manipulation",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQFw",
+      "SetID": "4egpam7",
+      "Name": "I Could Do This Blindfolded",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQGA",
+      "SetID": "4egpam7",
+      "Name": "Makes You Stronger",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQGQ",
+      "SetID": "4egpam7",
+      "Name": "Mistakes Were Made",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQGg",
+      "SetID": "4egpam7",
+      "Name": "Short History of Time Travel",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQGw",
+      "SetID": "4egpam7",
+      "Name": "Slow and Steady",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQHA",
+      "SetID": "4egpam7",
+      "Name": "Healthy Moderation",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQHQ",
+      "SetID": "4egpam7",
+      "Name": "Feel the Rush",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CgkIxYDzrbcPEAIQHg",
+      "SetID": "4egpam7",
+      "Name": "Curious Soul",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4egpam7",
@@ -37,8 +278,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:02:01.6482894+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:02:09.9009846+00:00",
   "LastUpdate_AppInfo": "2023-06-13T08:57:29.7993367+00:00",
-  "LastUpdate_Ratings": "2023-06-16T07:57:07.8264295+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:02:01.6482971+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:57:09.1152064+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:02:09.9010125+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3166,6 +3166,11 @@
       "Time": "2023-06-16T04:05:54.317866+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-16T09:07:42.4613291+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3369,7 +3374,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "frostfireliberator",
@@ -3377,7 +3382,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "fullparty",
@@ -3497,7 +3502,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "milestonecollector",
@@ -3529,7 +3534,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "mysteriousrock",
@@ -3577,7 +3582,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "relicofthepast",
@@ -3633,7 +3638,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "thealchemist",
@@ -3665,7 +3670,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "thepowerofawakening",
@@ -3737,7 +3742,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "warmachinesarmy",
@@ -3776,7 +3781,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 1
     }
   ],
@@ -3784,8 +3789,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:07:14.433723+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:07:42.4613283+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-16T07:58:33.6300503+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:07:14.4338229+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:58:37.6312727+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:07:42.4614444+00:00"
 }

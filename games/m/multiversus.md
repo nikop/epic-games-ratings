@@ -6,27 +6,27 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~797,995 |
-| Bun-Puncher Supreme | 68.00% | ~733,293 |
-| You Mean Business | 68.00% | ~733,293 |
-| You're Getting Pretty Good At This! | 68.00% | ~733,293 |
-| Aerial Specialist | 63.00% | ~679,374 |
-| Proving Yourself | 63.00% | ~679,374 |
-| Stepping Out | 63.00% | ~679,374 |
-| The Throne Is Yours | 63.00% | ~679,374 |
-| Spike Specialist | 54.00% | ~582,321 |
-| Southpaw Specialist | 54.00% | ~582,321 |
-| Rightie Specialist | 54.00% | ~582,321 |
-| Signature Slammer | 43.00% | ~463,700 |
-| Distanced Damage Dealer | 42.00% | ~452,916 |
-| Watch Your Head | 42.00% | ~452,916 |
-| Catch This | 42.00% | ~452,916 |
+| Matchmaker | 74.00% | ~797,997 |
+| Bun-Puncher Supreme | 68.00% | ~733,294 |
+| You Mean Business | 68.00% | ~733,294 |
+| You're Getting Pretty Good At This! | 68.00% | ~733,294 |
+| Aerial Specialist | 63.00% | ~679,376 |
+| Proving Yourself | 63.00% | ~679,376 |
+| Stepping Out | 63.00% | ~679,376 |
+| The Throne Is Yours | 63.00% | ~679,376 |
+| Spike Specialist | 54.00% | ~582,322 |
+| Southpaw Specialist | 54.00% | ~582,322 |
+| Rightie Specialist | 54.00% | ~582,322 |
+| Signature Slammer | 43.00% | ~463,701 |
+| Distanced Damage Dealer | 42.00% | ~452,917 |
+| Watch Your Head | 42.00% | ~452,917 |
+| Catch This | 42.00% | ~452,917 |
 | Toast Master | 41.00% | ~442,133 |
 | Nice Speech | 41.00% | ~442,133 |
 | Credit Where It's Due | 41.00% | ~442,133 |
-| Life of the Party | 36.00% | ~388,214 |
-| Social Butterfly | 36.00% | ~388,214 |
-| Party Animal | 36.00% | ~388,214 |
+| Life of the Party | 36.00% | ~388,215 |
+| Social Butterfly | 36.00% | ~388,215 |
+| Party Animal | 36.00% | ~388,215 |
 | And Your Little Dog, Too! | 33.00% | ~355,863 |
 | Bring A Friend | 33.00% | ~355,863 |
 | Ringouts Are Better In Pairs | 33.00% | ~355,863 |
@@ -35,7 +35,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Going Down? | 29.00% | ~312,728 |
 | Run It Back | 6.00% | ~64,702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,372 (Ranked 11)  
+Progressed: 1,078,374 (Ranked 11)  
 Completed: 31,675 (2.94%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 31,675 (2.94%) (Ranked 50)
 | 2023-06-13 | 1,077,865 | 31,674 |
 | 2023-06-14 | 1,078,057 | 31,674 |
 | 2023-06-15 | 1,078,298 | 31,675 |
-| 2023-06-16 | 1,078,372 | 31,675 |
+| 2023-06-16 | 1,078,374 | 31,675 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 65)  
 Sum: 45,692 (Ranked 26)  

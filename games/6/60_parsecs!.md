@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~619 |
+| Space Colonization | 80.00% | ~510 |
 | Friendzone | 79.00% | ~504 |
-| Space Colonization | 79.00% | ~504 |
 | Hello World | 74.00% | ~472 |
 | Space Engineer | 63.00% | ~402 |
 | Tinkerer | 63.00% | ~402 |

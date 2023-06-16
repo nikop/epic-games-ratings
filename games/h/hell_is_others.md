@@ -5,19 +5,19 @@ Rating: 4.43 (Ranked 649)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,868 |
-| Predator I | 22.00% | ~55,261 |
+| Survivor | 31.00% | ~77,869 |
+| Predator I | 22.00% | ~55,262 |
 | Fixer I | 10.00% | ~25,119 |
 | A week in Century City | 10.00% | ~25,119 |
 | The Wait | 7.00% | ~17,583 |
 | Green thumb I | 6.00% | ~15,071 |
 | Cleaning Company | 6.00% | ~15,071 |
-| Well-oiled machine | 5.00% | ~12,559 |
-| Saver I | 5.00% | ~12,559 |
-| The Ascent | 4.00% | ~10,047 |
-| Pacifist | 4.00% | ~10,047 |
-| Vandalism | 4.00% | ~10,047 |
-| Capitalist I | 4.00% | ~10,047 |
+| Well-oiled machine | 5.00% | ~12,560 |
+| Saver I | 5.00% | ~12,560 |
+| The Ascent | 4.00% | ~10,048 |
+| Pacifist | 4.00% | ~10,048 |
+| Vandalism | 4.00% | ~10,048 |
+| Capitalist I | 4.00% | ~10,048 |
 | Adrenaline | 3.00% | ~7,536 |
 | By a hair | 2.00% | ~5,024 |
 | Fixer II | 2.00% | ~5,024 |
@@ -35,7 +35,7 @@ Rating: 4.43 (Ranked 649)
 | Don't try this at home | 1.00% | ~2,512 |
 | Bricklayer | 1.00% | ~2,512 |
 | Run the Economy | 1.00% | ~2,512 |
-| Committed Relationship | 0.80% | ~2,009 |
+| Committed Relationship | 0.80% | ~2,010 |
 | Number 1 | 0.70% | ~1,758 |
 | Interior designer | 0.60% | ~1,507 |
 | The Gamble | 0.50% | ~1,256 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 649)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,186 (Ranked 42)  
+Progressed: 251,191 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,15 +119,15 @@ Completed: 1 (0.00%) (Ranked 225)
 | 2023-06-13 | 251,048 | 1 |
 | 2023-06-14 | 251,116 | 1 |
 | 2023-06-15 | 251,171 | 1 |
-| 2023-06-16 | 251,186 | 1 |
+| 2023-06-16 | 251,191 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
-Sum: 116 (Ranked 396)  
-Diff (max vs sum): 64  
+Sum: 117 (Ranked 395)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 27 |
-| This game has Unique Visuals | 25 |
+| This game has Unique Visuals | 26 |
 | This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 20 |
 | This game has Challenging Combat | 20 |
@@ -212,3 +212,4 @@ Diff (max vs sum): 64
 | 2023-06-11 | 4.43 | 25 | 92 |
 | 2023-06-12 | 4.43 | 27 | 114 |
 | 2023-06-15 | 4.43 | 27 | 116 |
+| 2023-06-16 | 4.43 | 27 | 117 |

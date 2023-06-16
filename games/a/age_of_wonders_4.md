@@ -5,31 +5,31 @@ Rating: 4.59 (Ranked 413)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,697 |
-| Realm Estate | 76.00% | ~3,557 |
-| Secret Technique | 75.00% | ~3,510 |
-| Walls Cannot Stop Us | 73.00% | ~3,416 |
-| From Friends to Family | 69.00% | ~3,229 |
-| Magical Synergy | 65.00% | ~3,042 |
+| A Wonderful Discovery | 79.00% | ~3,698 |
+| Realm Estate | 76.00% | ~3,558 |
+| Secret Technique | 75.00% | ~3,511 |
+| Walls Cannot Stop Us | 73.00% | ~3,417 |
+| From Friends to Family | 69.00% | ~3,230 |
+| Magical Synergy | 65.00% | ~3,043 |
 | Bone Peddler | 61.00% | ~2,855 |
 | Stronger Together | 56.00% | ~2,621 |
-| Full Ascension | 55.00% | ~2,574 |
-| There Can Only Be One! | 48.00% | ~2,246 |
-| Seat of Power | 48.00% | ~2,246 |
+| Full Ascension | 55.00% | ~2,575 |
+| There Can Only Be One! | 48.00% | ~2,247 |
+| Seat of Power | 48.00% | ~2,247 |
 | Intimidation Tactics | 45.00% | ~2,106 |
-| My Final Form | 44.00% | ~2,059 |
-| Valley of Wonders | 43.00% | ~2,012 |
-| In a Liege of Your Own | 39.00% | ~1,825 |
+| My Final Form | 44.00% | ~2,060 |
+| Valley of Wonders | 43.00% | ~2,013 |
+| In a Liege of Your Own | 39.00% | ~1,826 |
 | Return of the Wizard King | 32.00% | ~1,498 |
 | Against the Odds | 32.00% | ~1,498 |
 | Digging for Treasure | 31.00% | ~1,451 |
-| Enchanted Archipelago | 28.00% | ~1,310 |
-| Impenetrable Fortress | 28.00% | ~1,310 |
+| Enchanted Archipelago | 28.00% | ~1,311 |
+| Impenetrable Fortress | 28.00% | ~1,311 |
 | The Magic That Empowers Me! | 21.00% | ~983 |
 | Preparation Is Everything | 21.00% | ~983 |
 | Arch Mage | 20.00% | ~936 |
-| God Emperor | 18.00% | ~842 |
-| Crimson Caldera | 18.00% | ~842 |
+| God Emperor | 18.00% | ~843 |
+| Crimson Caldera | 18.00% | ~843 |
 | Eternal Lord | 17.00% | ~796 |
 | The Creator | 15.00% | ~702 |
 | The Goddess of Nature | 15.00% | ~702 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 413)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,680 (Ranked 131)  
+Progressed: 4,681 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.06%) (Ranked 189)
 | 2023-06-13 | 4,615 | 3 |
 | 2023-06-14 | 4,635 | 3 |
 | 2023-06-15 | 4,678 | 3 |
-| 2023-06-16 | 4,680 | 3 |
+| 2023-06-16 | 4,681 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1001,9 +1001,9 @@
       "ID": "ACH001",
       "SetID": "69nfp41",
       "Name": "Seafarer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH002",
@@ -1401,8 +1401,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-16T08:07:10.8345718+00:00",
+  "LastChanged_Achievements": "2023-06-16T09:07:38.8292771+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-16T07:59:08.0377332+00:00",
-  "LastUpdate_Achievements": "2023-06-16T08:07:10.8346487+00:00"
+  "LastUpdate_Ratings": "2023-06-16T08:59:12.2474911+00:00",
+  "LastUpdate_Achievements": "2023-06-16T09:07:38.8293471+00:00"
 }
