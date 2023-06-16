@@ -51,23 +51,23 @@ Rating: 4.17 (Ranked 854)
 | Crime Is a Terrible Thing to Waste | 0.20% | ~71 |
 | The Cold, the Bad and the Ugly | 0.20% | ~71 |
 | Practice Makes Perfect | 0.20% | ~130 |
+| Talonted | 0.20% | ~130 |
 | The Man-Bat Family | 0.20% | ~130 |
-| Element of Surprise | 0.10% | ~35 |
-| It's Nice to Be Wanted | 0.10% | ~35 |
-| Gotham's Greatest Depths | 0.10% | ~35 |
-| Showdown Sovereign | 0.10% | ~35 |
-| That's Showbiz, Clayby | 0.10% | ~35 |
-| Talonted | 0.10% | ~65 |
-| Icebreaker | 0.10% | ~35 |
-| Don't Mecha Big Deal About It | 0.10% | ~35 |
+| Element of Surprise | 0.10% | ~36 |
+| It's Nice to Be Wanted | 0.10% | ~36 |
+| Gotham's Greatest Depths | 0.10% | ~36 |
+| Showdown Sovereign | 0.10% | ~36 |
+| That's Showbiz, Clayby | 0.10% | ~36 |
+| Icebreaker | 0.10% | ~36 |
+| Don't Mecha Big Deal About It | 0.10% | ~36 |
 | Batarang Collector | 0.10% | ~65 |
 | Read Owl About It | 0.10% | ~65 |
 | History Major | 0.10% | ~65 |
 | Claiming the Mural High Ground | 0.10% | ~65 |
-| A Sophisticated Mallet | 0.10% | ~35 |
-| Confronting Your Demon | 0.10% | ~35 |
+| A Sophisticated Mallet | 0.10% | ~36 |
+| Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,217 (Ranked 70)  
+Progressed: 65,222 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 95 (0.15%) (Ranked 162)
 | 2023-06-13 | 64,897 | 95 |
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
+| 2023-06-16 | 65,222 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,336  (Ranked 98)  
 Sum: 3,866 (Ranked 137)  

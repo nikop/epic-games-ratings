@@ -6,7 +6,7 @@
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 26,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 8,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -6485,9 +6485,9 @@
       "Count": 21724
     }
   ],
-  "EOS_Progressed": 558911,
+  "EOS_Progressed": 559085,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29850,
+  "EOS_NewPlayers": 29839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12435,6 +12435,11 @@
       "Time": "2023-06-15T23:06:45.7433082+00:00",
       "NumProgressed": 558911,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-16T00:06:00.2435399+00:00",
+      "NumProgressed": 559085,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13614,7 +13619,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH_151",
@@ -13662,7 +13667,7 @@
       "Name": "Resurgence",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH_157",
@@ -13780,9 +13785,9 @@
       "ID": "ACH_171",
       "SetID": "16jml5b",
       "Name": "Preemptive Strike",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH_172",
@@ -13852,9 +13857,9 @@
       "ID": "ACH_180",
       "SetID": "16jml5b",
       "Name": "Humanitarian",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH_181",
@@ -14205,21 +14210,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 558911,
+      "Progressed": 559085,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 558911,
+      "Progressed": 559085,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-15T19:00:47.5273989+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:45.7433077+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:06:00.2435394+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.7600756+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:00:43.6623299+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:45.7437944+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:59:53.1892164+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:06:00.2440769+00:00"
 }

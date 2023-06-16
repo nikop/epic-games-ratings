@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 118,
@@ -729,7 +729,7 @@
   ],
   "EOS_Progressed": 7277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4537,9 +4537,9 @@
       "ID": "ACH_SURGE_AHEAD",
       "SetID": "97mcd7i",
       "Name": "Surge Ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -4649,8 +4649,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:04:06.0126232+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:03:43.2273752+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.4243276+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:58:43.7931552+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:04:06.012673+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:58:15.6746369+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:03:43.2274422+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -389,8 +389,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:33.9197211+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:49.4175011+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:36.3006343+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:00:31.9752633+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:33.9197408+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:59:43.7607005+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:49.4175218+00:00"
 }

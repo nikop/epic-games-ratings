@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 0.70% | ~3,912 |
-| Resurgence | 0.70% | ~3,912 |
-| Preemptive Strike | 0.60% | ~3,353 |
-| Humanitarian | 0.60% | ~3,353 |
+| Healthy Obsession | 0.70% | ~3,914 |
+| Resurgence | 0.70% | ~3,914 |
+| Preemptive Strike | 0.70% | ~3,914 |
+| Humanitarian | 0.70% | ~3,914 |
 | Wounded Healer | 0.50% | ~2,795 |
 | Close Shave | 0.50% | ~2,795 |
 | Flight to Freedom | 0.50% | ~2,795 |
@@ -227,8 +227,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~559 |
 | Adept Gabriel | 0.10% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558,911 (Ranked 26)  
-Completed: 42 (0.01%) (Ranked 212)  
+Progressed: 559,085 (Ranked 26)  
+Completed: 42 (0.01%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,6 +284,7 @@ Completed: 42 (0.01%) (Ranked 212)
 | 2023-06-13 | 551,275 | 42 |
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
+| 2023-06-16 | 559,085 | 42 |
 ## Awards
 Max (Diverse Characters): 28,513  (Ranked 16)  
 Sum: 227,631 (Ranked 12)  

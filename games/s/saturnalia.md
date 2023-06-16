@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.25 (Ranked 797)  
+Rating: 4.25 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -243,6 +243,11 @@
       "Time": "2023-06-15T17:04:28.1438509+00:00",
       "NumProgressed": 299,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-16T00:04:28.0299372+00:00",
+      "NumProgressed": 300,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -252,9 +257,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 225
     },
     {
       "ID": "02_collector",
@@ -286,7 +291,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "06_living",
@@ -380,9 +385,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 168
     },
     {
       "ID": "18_foreman",
@@ -430,7 +435,7 @@
       "Name": "Close call!",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "24_mega",
@@ -565,15 +570,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:04:58.8952168+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:04:28.0299367+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:47.7652013+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:57:57.284637+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:04:58.8952413+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:57:38.1889638+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:04:28.0299695+00:00"
 }

@@ -118,9 +118,9 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "10",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:18.6989823+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:36.1575261+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:55.5216913+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:58:58.7324442+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:18.6990001+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:58:28.0556343+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:36.1575453+00:00"
 }

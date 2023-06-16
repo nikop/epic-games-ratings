@@ -22,7 +22,7 @@
 | The Bigger They Are | 18.00% | ~87 |
 | Eden Heights | 15.00% | ~73 |
 | Up Close And Personal | 15.00% | ~73 |
-| Outer Core | 11.00% | ~53 |
+| Outer Core | 12.00% | ~58 |
 | Trickshot | 7.00% | ~34 |
 | Inner Core | 6.00% | ~29 |
 | Integration | 4.00% | ~19 |

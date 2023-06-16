@@ -1574,9 +1574,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65217,
+  "EOS_Progressed": 65222,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1100,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6489,6 +6489,11 @@
       "Time": "2023-06-15T23:06:39.9456873+00:00",
       "NumProgressed": 65217,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-16T00:05:54.637506+00:00",
+      "NumProgressed": 65222,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6508,7 +6513,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -6516,7 +6521,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -6556,7 +6561,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -6564,7 +6569,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -6628,7 +6633,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -6666,9 +6671,9 @@
       "ID": "DEFEAT_COO_1",
       "SetID": "4eo5ebm",
       "Name": "Talonted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 130
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -6756,7 +6761,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -6764,7 +6769,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -6836,7 +6841,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -6972,7 +6977,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -6987,13 +6992,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65217,
+      "Progressed": 65222,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35497,
+      "Progressed": 35502,
       "Completed": 2646
     }
   ],
@@ -7001,8 +7006,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-15T06:59:26.9624091+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:39.9456868+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:54.6375054+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:00:10.7200901+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:39.9457539+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:59:27.1783208+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:54.6376006+00:00"
 }

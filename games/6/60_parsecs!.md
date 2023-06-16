@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~616 |
-| Space Colonization | 80.00% | ~508 |
+| Don't Panic! | 97.00% | ~617 |
 | Friendzone | 79.00% | ~502 |
-| Hello World | 74.00% | ~470 |
-| Tinkerer | 64.00% | ~406 |
-| Space Engineer | 63.00% | ~400 |
-| Dust to Dust | 57.00% | ~362 |
-| Across The Stars | 47.00% | ~298 |
+| Space Colonization | 79.00% | ~502 |
+| Hello World | 74.00% | ~471 |
+| Tinkerer | 64.00% | ~407 |
+| Space Engineer | 63.00% | ~401 |
+| Dust to Dust | 57.00% | ~363 |
+| Across The Stars | 47.00% | ~299 |
 | Crafty | 45.00% | ~286 |
 | All Seats Taken | 36.00% | ~229 |
-| For Science! | 32.00% | ~203 |
+| For Science! | 32.00% | ~204 |
 | Meet the Petersons | 31.00% | ~197 |
 | Stay Cool | 28.00% | ~178 |
 | KIA | 26.00% | ~165 |
-| Mutiny in making | 23.00% | ~146 |
+| Mutiny in making | 22.00% | ~140 |
 | Et tu, Astrocitizen? | 19.00% | ~121 |
 | Eco-Shuttle | 18.00% | ~114 |
 | Space Explorer | 15.00% | ~95 |
@@ -26,10 +26,10 @@
 | Gold Medalist | 11.00% | ~70 |
 | Non-Fiction | 11.00% | ~70 |
 | No Man Left Behind | 9.00% | ~57 |
-| Fix-It Felix | 7.00% | ~44 |
-| Intergalactic Breakup | 7.00% | ~44 |
-| Flawless Maegangement | 7.00% | ~44 |
-| Second Life | 7.00% | ~44 |
+| Fix-It Felix | 7.00% | ~45 |
+| Intergalactic Breakup | 7.00% | ~45 |
+| Flawless Maegangement | 7.00% | ~45 |
+| Second Life | 7.00% | ~45 |
 | Axel jump in space! | 6.00% | ~38 |
 | First of April | 6.00% | ~38 |
 | Extreme Makeover | 4.00% | ~25 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635 (Ranked 199)  
+Progressed: 636 (Ranked 198)  
 Completed: 1 (0.16%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.16%) (Ranked 157)
 | 2023-06-13 | 631 | 1 |
 | 2023-06-14 | 634 | 1 |
 | 2023-06-15 | 635 | 1 |
+| 2023-06-16 | 636 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

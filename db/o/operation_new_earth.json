@@ -225,7 +225,7 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -249,7 +249,7 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -257,7 +257,7 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -305,7 +305,7 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -337,9 +337,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -361,7 +361,7 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -377,7 +377,7 @@
       "ID": "objective_hero_level_up_6",
       "SetID": "bm61c2p",
       "Name": "Colonel",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -521,7 +521,7 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -536,8 +536,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:03:12.307403+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:03:06.6220076+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.3955715+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:00:52.9950225+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:03:12.3074259+00:00"
+  "LastUpdate_Ratings": "2023-06-16T00:00:00.0619305+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:03:06.6220457+00:00"
 }

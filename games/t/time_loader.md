@@ -16,9 +16,9 @@
 | Robot Bros | 26.00% | ~27 |
 | Act 2 | 25.00% | ~26 |
 | Harpoon | 22.00% | ~23 |
+| Act 3 | 22.00% | ~23 |
 | Cassette | 21.00% | ~22 |
-| Act 3 | 21.00% | ~22 |
-| Here we go again | 20.00% | ~21 |
+| Here we go again | 21.00% | ~22 |
 | Flyer | 17.00% | ~18 |
 | It’s in the Vault | 15.00% | ~16 |
 | Dr. Antivirus | 15.00% | ~16 |

@@ -1590,9 +1590,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19650,
+  "EOS_Progressed": 19651,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4625,6 +4625,11 @@
       "Time": "2023-06-15T23:06:17.4280725+00:00",
       "NumProgressed": 19650,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-16T00:05:34.9435042+00:00",
+      "NumProgressed": 19651,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4676,7 +4681,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "FirstMoney",
@@ -4684,7 +4689,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18471
+      "UsersEstimate": 18472
     },
     {
       "ID": "GameOver",
@@ -4740,7 +4745,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "MrAndMrsJantart",
@@ -4764,7 +4769,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "RafaelErko",
@@ -4804,7 +4809,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "YouDoItWrong",
@@ -4812,22 +4817,22 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19650,
+      "Progressed": 19651,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-15T19:59:37.6370768+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:17.4280719+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:34.9435033+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:59:50.5956723+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:17.4280995+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:59:10.9417649+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:34.9435439+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 107,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12501,
+  "EOS_Progressed": 12502,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6084,6 +6084,11 @@
       "Time": "2023-06-15T23:06:24.5656862+00:00",
       "NumProgressed": 12501,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-06-16T00:05:41.3477121+00:00",
+      "NumProgressed": 12502,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 20,
@@ -6215,7 +6220,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6223,7 +6228,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3500
+      "UsersEstimate": 3501
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6254,15 +6259,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12501,
+      "Progressed": 12502,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:24.5656849+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:41.3477113+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:00:35.4992376+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:24.565725+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:59:46.1413587+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:41.3477704+00:00"
 }

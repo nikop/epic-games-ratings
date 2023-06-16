@@ -20,8 +20,8 @@
 | North Town Energy | 27.00% | ~19 |
 | OK, I heard you!! | 27.00% | ~19 |
 | Lightbulb Detective | 24.00% | ~17 |
+| Unlimited Power!! | 23.00% | ~16 |
 | The Quiche and the Hair Dryer | 23.00% | ~16 |
-| Unlimited Power!! | 21.00% | ~15 |
 | Cartographer | 18.00% | ~13 |
 | South Square Lightbulbs | 17.00% | ~12 |
 | The Ghost and the Lamps | 15.00% | ~11 |

@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,377 |
-| Tutti Eroi! | 54.00% | ~3,377 |
-| You Shall Not Pass | 52.00% | ~3,252 |
-| Avanti Savoia! | 47.00% | ~2,939 |
-| Conrad von Hotzensocks | 36.00% | ~2,251 |
-| Mamma Mia! | 36.00% | ~2,251 |
-| Gabriele D'Annunzio | 32.00% | ~2,001 |
+| Peak Performance | 54.00% | ~3,378 |
+| Tutti Eroi! | 54.00% | ~3,378 |
+| You Shall Not Pass | 52.00% | ~3,253 |
+| Avanti Savoia! | 47.00% | ~2,940 |
+| Conrad von Hotzensocks | 36.00% | ~2,252 |
+| Mamma Mia! | 36.00% | ~2,252 |
+| Gabriele D'Annunzio | 32.00% | ~2,002 |
 | Silver Lining | 29.00% | ~1,814 |
 | Aurelio Baruzzi | 22.00% | ~1,376 |
 | Veni Vidi Vici | 22.00% | ~1,376 |
@@ -20,18 +20,18 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 20.00% | ~1,251 |
 | Insubordination | 19.00% | ~1,188 |
 | The Italian Job | 19.00% | ~1,188 |
-| Ragazzi del '99 | 17.00% | ~1,063 |
 | The Lion of the Isonzo | 17.00% | ~1,063 |
+| Ragazzi del '99 | 16.00% | ~1,001 |
 | Thus With A Kiss | 14.00% | ~876 |
 | Dirty Dozen | 13.00% | ~813 |
 | Luigi Cadorna | 13.00% | ~813 |
 | Uomo Universale | 13.00% | ~813 |
-| Machiavelli | 12.00% | ~750 |
-| Shaken, Not Stirred | 12.00% | ~750 |
+| Machiavelli | 12.00% | ~751 |
+| Shaken, Not Stirred | 12.00% | ~751 |
 | Die Bosniaken Kommen! | 11.00% | ~688 |
 | The Devil's Paintbrush | 11.00% | ~688 |
-| Dante's Inferno | 10.00% | ~625 |
-| I Have the High Ground | 10.00% | ~625 |
+| Dante's Inferno | 10.00% | ~626 |
+| I Have the High Ground | 10.00% | ~626 |
 | Millenial | 9.00% | ~563 |
 | The Show Must Go On | 8.00% | ~500 |
 | Tosca | 8.00% | ~500 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,254 (Ranked 125)  
+Progressed: 6,255 (Ranked 126)  
 Completed: 8 (0.13%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 8 (0.13%) (Ranked 167)
 | 2023-06-13 | 6,226 | 8 |
 | 2023-06-14 | 6,240 | 8 |
 | 2023-06-15 | 6,254 | 8 |
+| 2023-06-16 | 6,255 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 246 (Ranked 346)  

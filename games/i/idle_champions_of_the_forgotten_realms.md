@@ -6,37 +6,37 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~2,760 |
-| The Cursed Farmer | 2.00% | ~1,840 |
-| Beast Intentions | 1.00% | ~920 |
-| The Ring of Regeneration | 1.00% | ~920 |
-| The Mad Wizard | 1.00% | ~920 |
-| The Court of Storms | 0.90% | ~524 |
-| Seeking Allies | 0.80% | ~736 |
-| Are Ya Chicken? | 0.80% | ~736 |
-| Beware the Jabberwock | 0.80% | ~466 |
-| Were-verpowered | 0.70% | ~644 |
-| Friendly Imps | 0.70% | ~644 |
-| A Persistent Buzzing | 0.60% | ~552 |
-| Mad Cow Disease | 0.60% | ~552 |
-| Pure Energy | 0.60% | ~552 |
+| A Brief Tour of the Realms | 3.00% | ~2,764 |
+| The Cursed Farmer | 2.00% | ~1,842 |
+| Beast Intentions | 1.00% | ~921 |
+| The Ring of Regeneration | 1.00% | ~921 |
+| The Mad Wizard | 1.00% | ~921 |
+| The Court of Storms | 0.90% | ~526 |
+| Seeking Allies | 0.80% | ~737 |
+| Are Ya Chicken? | 0.80% | ~737 |
+| Beware the Jabberwock | 0.80% | ~467 |
+| Were-verpowered | 0.70% | ~645 |
+| Friendly Imps | 0.70% | ~645 |
+| A Persistent Buzzing | 0.60% | ~553 |
+| Mad Cow Disease | 0.60% | ~553 |
+| Pure Energy | 0.60% | ~553 |
 | Coasting to the Finish | 0.60% | ~350 |
-| Checkmate | 0.50% | ~291 |
-| Vecna Out! | 0.50% | ~291 |
-| Beast Mode | 0.50% | ~460 |
-| Terror in the Dark | 0.50% | ~460 |
-| A Mysterious Summons | 0.50% | ~460 |
-| Unearthed Evil | 0.50% | ~460 |
-| The Crumbling Temple | 0.50% | ~460 |
-| Useless Allies | 0.50% | ~460 |
-| Exploring Port Nyanzaru | 0.50% | ~460 |
-| The Contagious Curse | 0.50% | ~460 |
-| Quick or Quack | 0.50% | ~291 |
+| Checkmate | 0.50% | ~292 |
+| Vecna Out! | 0.50% | ~292 |
+| Beast Mode | 0.50% | ~461 |
+| Terror in the Dark | 0.50% | ~461 |
+| A Mysterious Summons | 0.50% | ~461 |
+| Unearthed Evil | 0.50% | ~461 |
+| The Crumbling Temple | 0.50% | ~461 |
+| Useless Allies | 0.50% | ~461 |
+| Exploring Port Nyanzaru | 0.50% | ~461 |
+| The Contagious Curse | 0.50% | ~461 |
+| Quick or Quack | 0.50% | ~292 |
 | Maddening | 0.40% | ~368 |
-| Owlbear Necessities | 0.40% | ~233 |
-| Best Thay Ever | 0.40% | ~233 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~233 |
-| Pin and Skewer | 0.40% | ~233 |
+| Owlbear Necessities | 0.40% | ~234 |
+| Best Thay Ever | 0.40% | ~234 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~234 |
+| Pin and Skewer | 0.40% | ~234 |
 | Low Initiative | 0.40% | ~368 |
 | Building Trust | 0.40% | ~368 |
 | No Time To Rest | 0.40% | ~368 |
@@ -51,7 +51,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.30% | ~175 |
 | Third Third Out | 0.30% | ~175 |
 | The Silken Swamp | 0.30% | ~276 |
-| The Lutes of Loomlurch | 0.30% | ~175 |
 | Supply Run | 0.30% | ~276 |
 | Keep Your Distance | 0.30% | ~175 |
 | Hands Off! | 0.30% | ~175 |
@@ -145,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.20% | ~117 |
 | Will of the Frozen Feywild | 0.20% | ~117 |
 | The Roots of Loomlurch | 0.20% | ~117 |
+| The Lutes of Loomlurch | 0.20% | ~117 |
 | Best Laid Plans | 0.20% | ~117 |
 | The Howling Peaks of Yon | 0.20% | ~117 |
 | The Invisible Wizards of Thay | 0.20% | ~117 |
@@ -227,6 +227,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~184 |
 | Flies on the Wall | 0.20% | ~184 |
 | The Killer Mists | 0.20% | ~184 |
+| Class Vacation | 0.20% | ~184 |
 | Backtracking Through Barovia | 0.20% | ~184 |
 | Diversity Day-Trip | 0.20% | ~184 |
 | Shadowfell Stalwarts | 0.20% | ~117 |
@@ -420,7 +421,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~92 |
 | Red Wizard 'Escort' | 0.10% | ~58 |
 | Spirit of the Trickster Gods | 0.10% | ~58 |
-| Class Vacation | 0.10% | ~92 |
 | A Nod from Strahd | 0.10% | ~58 |
 | Late Game | 0.10% | ~92 |
 | Twilight Twist | 0.10% | ~58 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~58 |
 | Overwhelming Force | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,003 (Ranked 64)  
-Completed: 1,938 (2.11%) (Ranked 67)  
+Progressed: 92,125 (Ranked 64)  
+Completed: 1,939 (2.10%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,6 +557,7 @@ Completed: 1,938 (2.11%) (Ranked 67)
 | 2023-06-13 | 90,650 | 1,931 |
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
+| 2023-06-16 | 92,125 | 1,939 |
 ## Awards
 Max (Diverse Characters): 4,943  (Ranked 64)  
 Sum: 30,116 (Ranked 37)  

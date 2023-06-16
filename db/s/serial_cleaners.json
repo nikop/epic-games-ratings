@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:06:24.8132809+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:05:41.5625035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:35.0981495+00:00",
-  "LastUpdate_Ratings": "2023-06-15T22:59:35.6931105+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:06:24.8132964+00:00"
+  "LastUpdate_Ratings": "2023-06-15T23:58:58.4584337+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:05:41.5625249+00:00"
 }

@@ -1,20 +1,20 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 797)  
+Rating: 4.25 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,428 |
-| Don't I Know You...? | 77.00% | ~1,374 |
-| Jailbreak | 65.00% | ~1,160 |
-| Suited and Booted | 38.00% | ~678 |
-| HEADSHOT! | 37.00% | ~660 |
+| Rigged And Ready | 80.00% | ~1,429 |
+| Don't I Know You...? | 77.00% | ~1,375 |
+| Jailbreak | 65.00% | ~1,161 |
+| Suited and Booted | 38.00% | ~679 |
+| HEADSHOT! | 37.00% | ~661 |
 | Sleeping With The Fishes | 35.00% | ~625 |
 | Overheated | 30.00% | ~536 |
 | High Performance | 30.00% | ~536 |
 | Powered Up | 28.00% | ~500 |
-| Studied The Blade | 24.00% | ~428 |
+| Studied The Blade | 24.00% | ~429 |
 | Home Invasion | 22.00% | ~393 |
 | Luminary | 22.00% | ~393 |
 | It's a Trap | 22.00% | ~393 |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 797)
 | Unforeseeable Consequences | 19.00% | ~339 |
 | Dead Again | 18.00% | ~321 |
 | Clean Cut | 18.00% | ~321 |
-| Full Arsenal | 17.00% | ~303 |
+| Full Arsenal | 17.00% | ~304 |
 | Can't Trust Banks | 15.00% | ~268 |
 | Mommy Dearest | 13.00% | ~232 |
 | Bad Dog | 13.00% | ~232 |
@@ -35,7 +35,7 @@ Rating: 4.25 (Ranked 797)
 | Where It All Began | 12.00% | ~214 |
 | Sorry, Didn't See You There | 12.00% | ~214 |
 | Corrupted Beauty | 11.00% | ~196 |
-| Triplets | 10.00% | ~178 |
+| Triplets | 10.00% | ~179 |
 | Defense in Depth | 9.00% | ~161 |
 | Stimulating The Local Economy | 9.00% | ~161 |
 | A Little Banged Up | 8.00% | ~143 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 797)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,785 (Ranked 158)  
+Progressed: 1,786 (Ranked 158)  
 Completed: 10 (0.56%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 10 (0.56%) (Ranked 114)
 | 2023-06-13 | 1,773 | 10 |
 | 2023-06-14 | 1,779 | 10 |
 | 2023-06-15 | 1,785 | 10 |
+| 2023-06-16 | 1,786 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

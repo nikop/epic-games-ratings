@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55221,
+  "EOS_Progressed": 55225,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3802,6 +3802,11 @@
       "Time": "2023-06-15T22:01:04.7348669+00:00",
       "NumProgressed": 55221,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-16T00:00:18.4851921+00:00",
+      "NumProgressed": 55225,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -3877,7 +3882,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "FlyingPresent",
@@ -4149,7 +4154,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "TimelySplash",
@@ -4204,7 +4209,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55221,
+      "Progressed": 55225,
       "Completed": 4
     }
   ],
@@ -4212,8 +4217,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-15T23:01:12.7602322+00:00",
+  "LastChanged_Achievements": "2023-06-16T00:00:18.4851915+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:08.1371786+00:00",
-  "LastUpdate_Ratings": "2023-06-15T23:01:00.7527991+00:00",
-  "LastUpdate_Achievements": "2023-06-15T23:01:12.7602843+00:00"
+  "LastUpdate_Ratings": "2023-06-16T00:00:07.0696141+00:00",
+  "LastUpdate_Achievements": "2023-06-16T00:00:18.4852692+00:00"
 }

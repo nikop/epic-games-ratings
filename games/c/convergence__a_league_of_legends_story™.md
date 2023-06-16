@@ -51,7 +51,7 @@
 | Rungs Was Right | 2.00% | ~14 |
 | Fitting In | 1.00% | ~7 |
 | Thinking Two Steps Ahead | 0.70% | ~5 |
-| Wunderkind | 0.60% | ~4 |
+| Wunderkind | 0.70% | ~5 |
 | Wildlife Protection | 0.30% | ~2 |
 | Going to Live Forever | 0.30% | ~2 |
 | A Lesson in Precision | 0.30% | ~2 |
