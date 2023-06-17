@@ -1586,9 +1586,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65387,
+  "EOS_Progressed": 65391,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6656,6 +6656,11 @@
       "Time": "2023-06-17T11:07:18.1703758+00:00",
       "NumProgressed": 65387,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-17T12:07:48.1442596+00:00",
+      "NumProgressed": 65391,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6851,7 +6856,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6971,7 +6976,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "HARLEY_2",
@@ -7059,7 +7064,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "MYSTERY_02",
@@ -7131,7 +7136,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -7154,13 +7159,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65387,
+      "Progressed": 65391,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35667,
+      "Progressed": 35671,
       "Completed": 2646
     }
   ],
@@ -7168,8 +7173,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-17T00:01:05.478898+00:00",
-  "LastChanged_Achievements": "2023-06-17T11:07:18.1703753+00:00",
+  "LastChanged_Achievements": "2023-06-17T12:07:48.1442589+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:00:42.4947721+00:00",
-  "LastUpdate_Achievements": "2023-06-17T11:07:18.1704424+00:00"
+  "LastUpdate_Ratings": "2023-06-17T12:00:46.1516688+00:00",
+  "LastUpdate_Achievements": "2023-06-17T12:07:48.1443449+00:00"
 }

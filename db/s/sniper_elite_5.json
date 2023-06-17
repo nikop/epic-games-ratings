@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2968,
+  "EOS_Progressed": 2969,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3785,6 +3785,11 @@
       "Time": "2023-06-17T11:07:10.9585554+00:00",
       "NumProgressed": 2968,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T12:07:40.2943536+00:00",
+      "NumProgressed": 2969,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3836,7 +3841,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -4036,7 +4041,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4204,7 +4209,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4363,13 +4368,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2919,
+      "Progressed": 2920,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2968,
+      "Progressed": 2969,
       "Completed": 2
     }
   ],
@@ -4377,8 +4382,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-16T20:01:05.3480168+00:00",
-  "LastChanged_Achievements": "2023-06-17T11:07:10.9585548+00:00",
+  "LastChanged_Achievements": "2023-06-17T12:07:40.2943527+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:01:37.7491967+00:00",
-  "LastUpdate_Achievements": "2023-06-17T11:07:10.9586268+00:00"
+  "LastUpdate_Ratings": "2023-06-17T12:01:46.7961848+00:00",
+  "LastUpdate_Achievements": "2023-06-17T12:07:40.2944446+00:00"
 }

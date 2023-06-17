@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3196,6 +3196,11 @@
       "Time": "2023-06-17T08:06:09.7597399+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T12:07:42.6393942+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3311,7 +3316,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "dragonmaster",
@@ -3391,7 +3396,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "fourleafclover",
@@ -3525,9 +3530,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "milestonecollector",
@@ -3543,7 +3548,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "missionsdedication",
@@ -3767,7 +3772,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "warmachinesarmy",
@@ -3799,14 +3804,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1416,
       "Completed": 1
     }
   ],
@@ -3814,8 +3819,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-17T11:07:13.1530767+00:00",
+  "LastChanged_Achievements": "2023-06-17T12:07:42.6393931+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-17T10:58:33.4366642+00:00",
-  "LastUpdate_Achievements": "2023-06-17T11:07:13.1531496+00:00"
+  "LastUpdate_Ratings": "2023-06-17T11:58:31.5247404+00:00",
+  "LastUpdate_Achievements": "2023-06-17T12:07:42.6394875+00:00"
 }

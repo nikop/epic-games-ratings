@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 96.00% | ~485 |
-| Terminated I | 82.00% | ~414 |
-| Challenge Accepted | 78.00% | ~394 |
-| Nanonic I | 78.00% | ~394 |
-| Unlocked and Loaded | 75.00% | ~379 |
-| Terminated II | 66.00% | ~333 |
-| The City | 50.00% | ~252 |
-| Terminated III | 44.00% | ~222 |
-| Challenge Mastered | 42.00% | ~212 |
-| Nanonic II | 37.00% | ~187 |
-| Rookie | 25.00% | ~126 |
-| Supply Run | 25.00% | ~126 |
-| Starship Docks | 24.00% | ~121 |
-| Nanonic III | 24.00% | ~121 |
-| Cybernetic | 19.00% | ~96 |
-| The Bigger They Are | 17.00% | ~86 |
+| Augmented | 96.00% | ~489 |
+| Terminated I | 82.00% | ~417 |
+| Challenge Accepted | 78.00% | ~397 |
+| Nanonic I | 78.00% | ~397 |
+| Unlocked and Loaded | 75.00% | ~382 |
+| Terminated II | 66.00% | ~336 |
+| The City | 50.00% | ~254 |
+| Terminated III | 44.00% | ~224 |
+| Challenge Mastered | 42.00% | ~214 |
+| Nanonic II | 37.00% | ~188 |
+| Rookie | 25.00% | ~127 |
+| Supply Run | 25.00% | ~127 |
+| Starship Docks | 24.00% | ~122 |
+| Nanonic III | 24.00% | ~122 |
+| Cybernetic | 19.00% | ~97 |
+| The Bigger They Are | 17.00% | ~87 |
 | Eden Heights | 15.00% | ~76 |
 | Up Close And Personal | 15.00% | ~76 |
 | Outer Core | 11.00% | ~56 |
-| Trickshot | 7.00% | ~35 |
-| Inner Core | 6.00% | ~30 |
+| Inner Core | 6.00% | ~31 |
+| Trickshot | 6.00% | ~31 |
 | Integration | 4.00% | ~20 |
 | Destruction | 3.00% | ~15 |
 | Ripperdoc | 3.00% | ~15 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.20% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505 (Ranked 205)  
+Progressed: 509 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 452 | 0 |
 | 2023-06-15 | 485 | 0 |
 | 2023-06-16 | 499 | 0 |
-| 2023-06-17 | 505 | 0 |
+| 2023-06-17 | 509 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

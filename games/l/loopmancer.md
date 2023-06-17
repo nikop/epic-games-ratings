@@ -11,17 +11,17 @@
 | Targeting the Enemy | 68.00% | ~64 |
 | Unavoidable | 63.00% | ~59 |
 | Revenge | 61.00% | ~57 |
-| Reunion | 40.00% | ~38 |
+| Reunion | 41.00% | ~39 |
 | Fluke | 34.00% | ~32 |
 | Victor's Prejudice | 33.00% | ~31 |
-| Elimination | 31.00% | ~29 |
+| Elimination | 32.00% | ~30 |
 | Excellent Driving Skills | 29.00% | ~27 |
 | Once Bitten, Twice Shy | 29.00% | ~27 |
 | Memento | 29.00% | ~27 |
 | Unsalvageable | 26.00% | ~24 |
 | Fleet-footed | 26.00% | ~24 |
 | Defeat the AI | 24.00% | ~23 |
-| Invincible | 23.00% | ~22 |
+| Invincible | 24.00% | ~23 |
 | Walking into a Trap | 22.00% | ~21 |
 | Neutralize | 22.00% | ~21 |
 | Best in Dragon City | 21.00% | ~20 |

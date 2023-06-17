@@ -15,14 +15,14 @@ Rating: 4.51 (Ranked 530)
 | Taking it back | 14.00% | ~416 |
 | Organ Grinder | 12.00% | ~356 |
 | Target America | 12.00% | ~356 |
-| As Quiet as a Mouse | 11.00% | ~326 |
-| The Kraken Sleeps | 11.00% | ~326 |
+| As Quiet as a Mouse | 11.00% | ~327 |
+| The Kraken Sleeps | 11.00% | ~327 |
 | Liberté | 10.00% | ~297 |
 | Just a Flesh Wound | 9.00% | ~267 |
 | Gunslinger | 9.00% | ~267 |
 | Sharpshooter | 9.00% | ~267 |
 | Explosive Efficiency | 9.00% | ~267 |
-| Enemy at the Gates | 8.00% | ~237 |
+| Enemy at the Gates | 8.00% | ~238 |
 | Opposing Force | 7.00% | ~208 |
 | Die Nussknacker Sweet! | 7.00% | ~208 |
 | Der Geist | 7.00% | ~208 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,968 (Ranked 145)  
+Progressed: 2,969 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
-| 2023-06-17 | 2,968 | 2 |
+| 2023-06-17 | 2,969 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

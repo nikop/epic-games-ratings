@@ -14,8 +14,8 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 23.00% | ~668 |
 | Blood for the Blood God! | 18.00% | ~523 |
 | Friendly Fire | 17.00% | ~494 |
-| Surgical Excision | 16.00% | ~464 |
-| Bloodless | 16.00% | ~464 |
+| Surgical Excision | 16.00% | ~465 |
+| Bloodless | 16.00% | ~465 |
 | Honoured Battle-Brother | 11.00% | ~319 |
 | The Emperor Protects | 11.00% | ~319 |
 | Nemesis Master | 11.00% | ~319 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,903 (Ranked 147)  
+Progressed: 2,904 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,17 +119,17 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 2,894 | 0 |
 | 2023-06-15 | 2,895 | 0 |
 | 2023-06-16 | 2,900 | 0 |
-| 2023-06-17 | 2,903 | 0 |
+| 2023-06-17 | 2,904 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 258)  
-Sum: 424 (Ranked 301)  
+Sum: 425 (Ranked 301)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 211 |
 | This game is Extremely Fun | 31 |
 | This game has Amazing Storytelling | 29 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game is Highly Recommended | 28 |
 | This game has Challenging Combat | 27 |
 | This game has Competitive Players | 25 |
@@ -218,3 +218,4 @@ Diff (max vs sum): -43
 | 2023-06-11 | 4.58 | - | 210 | 422 |
 | 2023-06-14 | 4.58 | - | 210 | 423 |
 | 2023-06-16 | 4.58 | - | 211 | 424 |
+| 2023-06-17 | 4.58 | - | 211 | 425 |

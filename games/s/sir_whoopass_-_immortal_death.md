@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~70 |
-| MLG 360 no scope kill! | 91.00% | ~69 |
-| Are you ready to rumble? | 89.00% | ~68 |
-| That's what cheese said! | 84.00% | ~64 |
-| I like you...but I have to kill you... | 83.00% | ~63 |
-| AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~62 |
-| Not so hip anymore! | 82.00% | ~62 |
-| Nerd | 82.00% | ~62 |
-| Blurry depth perception | 79.00% | ~60 |
-| Up and down | 75.00% | ~57 |
-| Rolling, Rolling, Rolling | 72.00% | ~55 |
+| Tastes just like chicken! | 92.00% | ~71 |
+| MLG 360 no scope kill! | 91.00% | ~70 |
+| Are you ready to rumble? | 90.00% | ~69 |
+| That's what cheese said! | 84.00% | ~65 |
+| I like you...but I have to kill you... | 83.00% | ~64 |
+| AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~63 |
+| Not so hip anymore! | 82.00% | ~63 |
+| Nerd | 82.00% | ~63 |
+| Blurry depth perception | 79.00% | ~61 |
+| Up and down | 75.00% | ~58 |
+| Rolling, Rolling, Rolling | 73.00% | ~56 |
 | Fire-fighter! | 68.00% | ~52 |
 | Oh, you're up to no gouda! | 64.00% | ~49 |
 | Make Love not War-Craft a Mistlefoe | 64.00% | ~49 |
-| Meat grinder | 62.00% | ~47 |
-| You're not going to blow me up! | 57.00% | ~43 |
-| Mushroom soup of the day | 54.00% | ~41 |
-| Honk honk! | 53.00% | ~40 |
-| Butcher | 53.00% | ~40 |
+| Meat grinder | 61.00% | ~47 |
+| You're not going to blow me up! | 56.00% | ~43 |
+| Mushroom soup of the day | 53.00% | ~41 |
+| Honk honk! | 52.00% | ~40 |
+| Butcher | 52.00% | ~40 |
 | Spare Ribs | 51.00% | ~39 |
-| My pants squeak when I walk | 49.00% | ~37 |
-| Thats disgusting! | 49.00% | ~37 |
+| My pants squeak when I walk | 48.00% | ~37 |
+| Thats disgusting! | 48.00% | ~37 |
 | Cockadoodledoo! | 47.00% | ~36 |
-| Surprise!! | 45.00% | ~34 |
+| Surprise!! | 44.00% | ~34 |
 | Self assessed tax return | 42.00% | ~32 |
 | Haemochromatosis | 38.00% | ~29 |
 | Pasta Bolognese | 38.00% | ~29 |
-| Make America Grate Again | 37.00% | ~28 |
-| You are no match for me, Billy! | 36.00% | ~27 |
-| Catch the bus with me! | 36.00% | ~27 |
-| Karaoke king | 36.00% | ~27 |
+| Make America Grate Again | 36.00% | ~28 |
+| You are no match for me, Billy! | 35.00% | ~27 |
+| Catch the bus with me! | 35.00% | ~27 |
+| Karaoke king | 35.00% | ~27 |
 | I'm going to get a concussion | 34.00% | ~26 |
 | You can't stop me, bro! | 34.00% | ~26 |
 | Meatballs, coming up! | 30.00% | ~23 |
 | A Megapint...? | 30.00% | ~23 |
-| Another one bites the iron | 28.00% | ~21 |
+| Another one bites the iron | 27.00% | ~21 |
 | Ripe Meat Off The Bone! | 25.00% | ~19 |
-| Hovering around | 24.00% | ~18 |
+| Hovering around | 23.00% | ~18 |
 | You're not so Big anymore, Boi! | 22.00% | ~17 |
 | Your daily dose of Vitamin C. | 22.00% | ~17 |
 | I cant stand still! | 22.00% | ~17 |
@@ -53,14 +53,14 @@
 | Deal with it | 14.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~10 |
 | You're looking mozzare-hella good! | 12.00% | ~9 |
-| I drink, but I'm not a drunk! | 11.00% | ~8 |
-| Timber! | 11.00% | ~8 |
-| Grumpy Immortal | 11.00% | ~8 |
-| Free Of Chains | 11.00% | ~8 |
+| I drink, but I'm not a drunk! | 10.00% | ~8 |
+| Timber! | 10.00% | ~8 |
+| Grumpy Immortal | 10.00% | ~8 |
+| Free Of Chains | 10.00% | ~8 |
 | Spoiler alert! | 9.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~7 |
 | Scrambled Eggs | 9.00% | ~7 |
-| My name is Whoopass, SIR Whoopass! | 7.00% | ~5 |
+| My name is Whoopass, SIR Whoopass! | 6.00% | ~5 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | I want to throw up! | 5.00% | ~4 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 302)  
+Progressed: 77 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-04 | 72 | 0 |
 | 2023-06-15 | 74 | 0 |
 | 2023-06-16 | 76 | 0 |
+| 2023-06-17 | 77 | 0 |

@@ -15,8 +15,8 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 1.00% | ~56 |
 | If at First You Don't Succeed... | 1.00% | ~56 |
 | Drunk and Disorderly: Stephanie | 0.90% | ~51 |
+| Drunk and Disorderly: Ashley | 0.60% | ~34 |
 | IRL Let's Player | 0.60% | ~34 |
-| Drunk and Disorderly: Ashley | 0.50% | ~28 |
 | Inspector | 0.50% | ~28 |
 | Newcomer: Vickie | 0.50% | ~28 |
 | Social Butterfly | 0.50% | ~28 |

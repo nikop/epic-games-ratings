@@ -5,16 +5,16 @@ Rating: 3.36 (Ranked 943)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~13,613 |
-| Hard Worker | 20.00% | ~12,376 |
-| Master, Commander | 20.00% | ~12,376 |
-| Mechanic | 19.00% | ~11,757 |
-| Adios, Friendo | 18.00% | ~11,138 |
-| Bottom's Up | 17.00% | ~10,519 |
-| Nice Try | 16.00% | ~9,901 |
-| Right On Target | 13.00% | ~8,044 |
-| Piano Man | 10.00% | ~6,188 |
-| Lazy Bones | 9.00% | ~5,569 |
+| Be Seeing You | 22.00% | ~13,615 |
+| Hard Worker | 20.00% | ~12,377 |
+| Master, Commander | 20.00% | ~12,377 |
+| Mechanic | 19.00% | ~11,758 |
+| Adios, Friendo | 18.00% | ~11,139 |
+| Bottom's Up | 17.00% | ~10,521 |
+| Nice Try | 16.00% | ~9,902 |
+| Right On Target | 13.00% | ~8,045 |
+| Piano Man | 10.00% | ~6,189 |
+| Lazy Bones | 9.00% | ~5,570 |
 | Sniper | 7.00% | ~4,332 |
 | Vinyl Vibes | 7.00% | ~4,332 |
 | Nothing Left to Say | 6.00% | ~3,713 |
@@ -22,16 +22,16 @@ Rating: 3.36 (Ranked 943)
 | Butcher | 4.00% | ~2,475 |
 | Magnetic Miracles | 4.00% | ~2,475 |
 | Spicy | 4.00% | ~2,475 |
-| A Man Of Taste | 3.00% | ~1,856 |
-| Ace in the Hole | 3.00% | ~1,856 |
-| Fair's Fair | 3.00% | ~1,856 |
-| Hearty | 3.00% | ~1,856 |
-| Meaty | 3.00% | ~1,856 |
-| Taco Toto | 3.00% | ~1,856 |
+| A Man Of Taste | 3.00% | ~1,857 |
+| Ace in the Hole | 3.00% | ~1,857 |
+| Fair's Fair | 3.00% | ~1,857 |
+| Hearty | 3.00% | ~1,857 |
+| Meaty | 3.00% | ~1,857 |
+| Taco Toto | 3.00% | ~1,857 |
 | Audiophile | 2.00% | ~1,238 |
 | Tape Head | 1.00% | ~619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,879 (Ranked 74)  
+Progressed: 61,886 (Ranked 74)  
 Completed: 541 (0.87%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 541 (0.87%) (Ranked 99)
 | 2023-06-14 | 61,510 | 533 |
 | 2023-06-15 | 61,648 | 536 |
 | 2023-06-16 | 61,810 | 539 |
-| 2023-06-17 | 61,879 | 541 |
+| 2023-06-17 | 61,886 | 541 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

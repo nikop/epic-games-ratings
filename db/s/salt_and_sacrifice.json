@@ -4,7 +4,7 @@
   "ProductSlug": "salt-and-sacrifice",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 116,
@@ -1428,7 +1428,7 @@
   ],
   "EOS_Progressed": 64755,
   "EOS_Completed": 1176,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
@@ -5487,8 +5487,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-06-17T10:58:49.0806782+00:00",
-  "LastChanged_Achievements": "2023-06-17T11:05:10.1818807+00:00",
+  "LastChanged_Achievements": "2023-06-17T12:05:32.4609985+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:55.7828035+00:00",
-  "LastUpdate_Ratings": "2023-06-17T10:58:49.0806787+00:00",
-  "LastUpdate_Achievements": "2023-06-17T11:05:10.1819332+00:00"
+  "LastUpdate_Ratings": "2023-06-17T11:58:47.7501278+00:00",
+  "LastUpdate_Achievements": "2023-06-17T12:05:32.4610652+00:00"
 }

@@ -32,19 +32,19 @@
 | Like Clockwork | 7.00% | ~49 |
 | Street Style | 7.00% | ~49 |
 | Whiz Kid | 7.00% | ~49 |
+| Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
 | Good Neighbor | 6.00% | ~42 |
-| Chaincrawler Explorer | 5.00% | ~35 |
 | Factorywood Explorer | 5.00% | ~35 |
 | Sump Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
 | Theater Explorer | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
+| Corin Goes Home | 4.00% | ~28 |
 | Sartorialist | 4.00% | ~28 |
 | Cultivair Explorer | 4.00% | ~28 |
 | Entresol Explorer | 4.00% | ~28 |
 | Fairgrounds Explorer | 4.00% | ~28 |
-| Corin Goes Home | 3.00% | ~21 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |

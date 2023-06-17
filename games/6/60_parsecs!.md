@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~619 |
-| Space Colonization | 80.00% | ~510 |
-| Friendzone | 79.00% | ~504 |
-| Hello World | 74.00% | ~472 |
-| Space Engineer | 63.00% | ~402 |
-| Tinkerer | 63.00% | ~402 |
+| Don't Panic! | 97.00% | ~620 |
+| Space Colonization | 80.00% | ~511 |
+| Friendzone | 79.00% | ~505 |
+| Hello World | 74.00% | ~473 |
+| Space Engineer | 63.00% | ~403 |
+| Tinkerer | 63.00% | ~403 |
 | Dust to Dust | 57.00% | ~364 |
-| Across The Stars | 47.00% | ~300 |
-| Crafty | 45.00% | ~287 |
+| Across The Stars | 46.00% | ~294 |
+| Crafty | 45.00% | ~288 |
 | All Seats Taken | 36.00% | ~230 |
 | For Science! | 32.00% | ~204 |
 | Meet the Petersons | 31.00% | ~198 |
@@ -25,7 +25,7 @@
 | Hands Full | 12.00% | ~77 |
 | Gold Medalist | 11.00% | ~70 |
 | Non-Fiction | 11.00% | ~70 |
-| No Man Left Behind | 9.00% | ~57 |
+| No Man Left Behind | 9.00% | ~58 |
 | Fix-It Felix | 7.00% | ~45 |
 | Intergalactic Breakup | 7.00% | ~45 |
 | Flawless Maegangement | 7.00% | ~45 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 638 (Ranked 199)  
+Progressed: 639 (Ranked 199)  
 Completed: 1 (0.16%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 1 (0.16%) (Ranked 159)
 | 2023-06-14 | 634 | 1 |
 | 2023-06-15 | 635 | 1 |
 | 2023-06-16 | 638 | 1 |
+| 2023-06-17 | 639 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 854)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,923 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,615 |
-| Loose Ends | 4.00% | ~2,615 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,616 |
+| Loose Ends | 4.00% | ~2,616 |
 | To the Victor Go the Spoils | 3.00% | ~1,962 |
 | Get ReQ'd | 3.00% | ~1,962 |
 | Knighthood | 3.00% | ~1,962 |
@@ -36,8 +36,8 @@ Rating: 4.17 (Ranked 854)
 | Seeking Asylum | 1.00% | ~654 |
 | Gotham Knight | 1.00% | ~654 |
 | Gotham City Confidential | 1.00% | ~654 |
-| Out of Their League | 0.90% | ~588 |
-| Solid Alibi | 0.90% | ~588 |
+| Out of Their League | 0.90% | ~589 |
+| Solid Alibi | 0.90% | ~589 |
 | Fusion Expert | 0.70% | ~458 |
 | Family Meeting | 0.70% | ~458 |
 | A Worthy Successor | 0.70% | ~458 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,387 (Ranked 70)  
+Progressed: 65,391 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 95 (0.15%) (Ranked 163)
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
-| 2023-06-17 | 65,387 | 95 |
+| 2023-06-17 | 65,391 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 97)  
 Sum: 3,870 (Ranked 137)  

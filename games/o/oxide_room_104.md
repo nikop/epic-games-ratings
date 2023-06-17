@@ -7,10 +7,10 @@
 | What's going on here? | 88.00% | ~30 |
 | Brute force | 85.00% | ~29 |
 | Nimble fingers | 76.00% | ~26 |
-| Room 104 | 74.00% | ~25 |
-| Let's play a game… | 71.00% | ~24 |
-| Face to face | 71.00% | ~24 |
-| Now or never | 65.00% | ~22 |
+| Room 104 | 76.00% | ~26 |
+| Let's play a game… | 74.00% | ~25 |
+| Face to face | 74.00% | ~25 |
+| Now or never | 68.00% | ~23 |
 | First aid | 56.00% | ~19 |
 | Soundtrack | 53.00% | ~18 |
 | Antidote | 47.00% | ~16 |

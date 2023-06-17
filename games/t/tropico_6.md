@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,799 |
-| Un-Lonely Island | 48.00% | ~1,768 |
-| The Beginning of a Servantship | 45.00% | ~1,657 |
+| Just One...More...Term... | 76.00% | ~2,801 |
+| Un-Lonely Island | 48.00% | ~1,769 |
+| The Beginning of a Servantship | 45.00% | ~1,658 |
 | Trade Is My Trait | 37.00% | ~1,363 |
 | Number 18 | 25.00% | ~921 |
 | We Don't Have Time For That | 19.00% | ~700 |
 | The Governator | 18.00% | ~663 |
 | The Legend of Langostino | 17.00% | ~626 |
-| Caribbean Comrade | 16.00% | ~589 |
-| The Dreamer of Dreams | 16.00% | ~589 |
+| Caribbean Comrade | 16.00% | ~590 |
+| The Dreamer of Dreams | 16.00% | ~590 |
+| Happy Ending? | 11.00% | ~405 |
 | Go Sovereigns! | 11.00% | ~405 |
 | For Science! | 11.00% | ~405 |
-| Happy Ending? | 10.00% | ~368 |
 | Of Seals And Men | 10.00% | ~368 |
 | Shackadelic | 10.00% | ~368 |
 | Double Trouble | 8.00% | ~295 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~184 |
 | Fairy Tale Come True | 5.00% | ~184 |
 | Apocalypso | 4.00% | ~147 |
-| Been there, Done That | 3.00% | ~110 |
-| Narcissist | 3.00% | ~110 |
-| Promising Endeavors | 3.00% | ~110 |
-| The Time For Wonders | 3.00% | ~110 |
+| Been there, Done That | 3.00% | ~111 |
+| Narcissist | 3.00% | ~111 |
+| Promising Endeavors | 3.00% | ~111 |
+| The Time For Wonders | 3.00% | ~111 |
 | Chain Gang | 2.00% | ~74 |
 | One Does Not Simply Stage A Coup | 2.00% | ~74 |
 | Sublime Subliminal Supreme | 2.00% | ~74 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~74 |
 | Curse of the Mummy | 2.00% | ~74 |
 | From Knight to Little Duck | 1.00% | ~37 |
-| Survivor | 1.00% | ~37 |
+| Survivor | 0.90% | ~33 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,683 (Ranked 137)  
+Progressed: 3,685 (Ranked 137)  
 Completed: 1 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.03%) (Ranked 200)
 | 2023-06-14 | 3,644 | 1 |
 | 2023-06-15 | 3,671 | 1 |
 | 2023-06-16 | 3,680 | 1 |
-| 2023-06-17 | 3,683 | 1 |
+| 2023-06-17 | 3,685 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 277)  

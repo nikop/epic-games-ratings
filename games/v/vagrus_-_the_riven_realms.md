@@ -12,8 +12,8 @@
 | Conciliator | 4.00% | ~4 |
 | Scribe | 4.00% | ~4 |
 | Breached | 4.00% | ~4 |
+| Fight Another Day | 4.00% | ~4 |
 | Tactician | 3.00% | ~3 |
-| Fight Another Day | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |

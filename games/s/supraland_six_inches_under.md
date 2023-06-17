@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Entered Cage Town | 93.00% | ~1,946 |
 | Stone Pickaxe | 93.00% | ~1,946 |
 | Surprise | 93.00% | ~1,946 |
-| Magnet | 90.00% | ~1,883 |
+| Magnet | 91.00% | ~1,904 |
 | Industrial Area | 89.00% | ~1,862 |
 | Magnet Repel | 88.00% | ~1,841 |
 | Boomeraxe | 87.00% | ~1,820 |
