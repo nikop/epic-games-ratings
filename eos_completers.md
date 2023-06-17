@@ -34,7 +34,7 @@
 | 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.88% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
-| 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 36 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
@@ -53,17 +53,17 @@
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 53 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 53 | [The Bunker](games/t/the_bunker.md) | 2.86% |
+| 54 | [The Bunker](games/t/the_bunker.md) | 2.83% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
+| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.71% |
+| 58 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.50% |
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
-| 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
+| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.47% |
+| 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -99,8 +99,8 @@
 | 97 | [Sable](games/s/sable.md) | 0.95% |
 | 98 | [Hades](games/h/hades.md) | 0.89% |
 | 99 | [Adios](games/a/adios.md) | 0.87% |
-| 100 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 100 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 101 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 102 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 102 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 104 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -457,4 +457,4 @@
 | 226 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 226 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 226 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,800 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,801 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
