@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13309,
+  "EOS_Progressed": 13310,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
@@ -4329,6 +4329,11 @@
       "Time": "2023-06-17T15:05:35.7836549+00:00",
       "NumProgressed": 13309,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-17T18:06:53.5874813+00:00",
+      "NumProgressed": 13310,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4364,7 +4369,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "tpote_achievement_13",
@@ -4372,7 +4377,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "tpote_achievement_14",
@@ -4580,7 +4585,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "tpote_achievement_38",
@@ -4628,7 +4633,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "tpote_achievement_6",
@@ -4667,15 +4672,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13309,
+      "Progressed": 13310,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:06:42.3001535+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:06:53.5874809+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:00:49.3536101+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:06:42.3001972+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:00:55.4062287+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:06:53.5875333+00:00"
 }

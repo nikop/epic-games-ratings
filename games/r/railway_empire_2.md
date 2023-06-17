@@ -11,10 +11,10 @@ Rating: 4.28 (Ranked 782)
 | Departure | 71.00% | ~882 |
 | Way of Iron | 69.00% | ~857 |
 | Mystery Tour | 67.00% | ~832 |
+| We brake for nobody | 66.00% | ~820 |
 | Brainstorm | 65.00% | ~807 |
-| We brake for nobody | 65.00% | ~807 |
+| Mind the Gap | 64.00% | ~795 |
 | Travel Company | 64.00% | ~795 |
-| Mind the Gap | 63.00% | ~782 |
 | All around the World | 61.00% | ~758 |
 | Right through the middle | 56.00% | ~696 |
 | Facility Manager | 52.00% | ~646 |
@@ -29,7 +29,7 @@ Rating: 4.28 (Ranked 782)
 | Bull and bear | 30.00% | ~373 |
 | All mine | 27.00% | ~335 |
 | Mole | 27.00% | ~335 |
-| Financial Shark | 26.00% | ~323 |
+| Financial Shark | 27.00% | ~335 |
 | Socializer | 25.00% | ~310 |
 | Country Life | 24.00% | ~298 |
 | General Manager | 23.00% | ~286 |
@@ -41,8 +41,8 @@ Rating: 4.28 (Ranked 782)
 | Traffic Junction | 16.00% | ~199 |
 | Assimilated | 15.00% | ~186 |
 | Locusts | 15.00% | ~186 |
+| Resistance is futile | 14.00% | ~174 |
 | Networker | 14.00% | ~174 |
-| Resistance is futile | 13.00% | ~161 |
 | Max Power | 11.00% | ~137 |
 | Settler | 11.00% | ~137 |
 | Go West | 10.00% | ~124 |

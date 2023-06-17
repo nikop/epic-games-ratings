@@ -25,7 +25,7 @@
 | Outer Core | 12.00% | ~63 |
 | Inner Core | 7.00% | ~36 |
 | Trickshot | 6.00% | ~31 |
-| Integration | 4.00% | ~21 |
+| Integration | 5.00% | ~26 |
 | Destruction | 3.00% | ~16 |
 | Fully Modded | 2.00% | ~10 |
 | Ripperdoc | 2.00% | ~10 |

@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 133,
@@ -576,7 +576,7 @@
   ],
   "EOS_Progressed": 4387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3518,9 +3518,9 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3773,8 +3773,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:04:03.0215924+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:04:07.2877627+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:00:34.4996492+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:03.0216273+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:00:39.7964786+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:07.2878052+00:00"
 }

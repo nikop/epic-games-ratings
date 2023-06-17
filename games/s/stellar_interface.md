@@ -19,8 +19,8 @@
 | Bronze Prince of Ball-air | 9.00% | ~4 |
 | Omicron Alpha | 9.00% | ~4 |
 | Pacifist | 9.00% | ~4 |
+| Collateral Damage I | 9.00% | ~4 |
 | Galactic Cadet | 6.00% | ~3 |
-| Collateral Damage I | 6.00% | ~3 |
 | Hoarder | 4.00% | ~2 |
 | Defrosted | 4.00% | ~2 |
 | 25Gb HDD | 4.00% | ~2 |

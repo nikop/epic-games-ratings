@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,789 |
-| Thorough | 9.00% | ~16,010 |
-| A thief's beginning | 8.00% | ~14,231 |
-| Disguised | 7.00% | ~12,452 |
-| Rollin' | 7.00% | ~12,452 |
-| Tanuki Time | 7.00% | ~12,452 |
-| Jonin | 6.00% | ~10,673 |
-| Rescue Takuma | 6.00% | ~10,673 |
-| Stoned Ox | 6.00% | ~10,673 |
-| Yabu | 6.00% | ~10,673 |
-| Chunin | 5.00% | ~8,894 |
-| Flying Rocks | 5.00% | ~8,894 |
-| Happy Planning | 5.00% | ~8,894 |
-| Ice Ice Yuki | 5.00% | ~8,894 |
-| Mugen Unchained | 5.00% | ~8,894 |
-| Warzone | 5.00% | ~8,894 |
+| Genin | 10.00% | ~17,790 |
+| Thorough | 9.00% | ~16,011 |
+| A thief's beginning | 8.00% | ~14,232 |
+| Disguised | 7.00% | ~12,453 |
+| Rollin' | 7.00% | ~12,453 |
+| Tanuki Time | 7.00% | ~12,453 |
+| Jonin | 6.00% | ~10,674 |
+| Rescue Takuma | 6.00% | ~10,674 |
+| Stoned Ox | 6.00% | ~10,674 |
+| Yabu | 6.00% | ~10,674 |
+| Chunin | 5.00% | ~8,895 |
+| Flying Rocks | 5.00% | ~8,895 |
+| Happy Planning | 5.00% | ~8,895 |
+| Ice Ice Yuki | 5.00% | ~8,895 |
+| Mugen Unchained | 5.00% | ~8,895 |
+| Warzone | 5.00% | ~8,895 |
 | Okkoto | 4.00% | ~7,116 |
 | Prisoners | 4.00% | ~7,116 |
 | Too Early | 4.00% | ~7,116 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~178 |
 | Release the Kraken | 0.10% | ~178 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,888 (Ranked 56)  
+Progressed: 177,904 (Ranked 56)  
 Completed: 53 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,10 +109,10 @@ Completed: 53 (0.03%) (Ranked 201)
 | 2023-06-14 | 177,064 | 52 |
 | 2023-06-15 | 177,339 | 52 |
 | 2023-06-16 | 177,609 | 52 |
-| 2023-06-17 | 177,888 | 53 |
+| 2023-06-17 | 177,904 | 53 |
 ## Awards
-Max (Great for Beginners): 551  (Ranked 180)  
-Sum: 4,684 (Ranked 126)  
+Max (Great for Beginners): 551  (Ranked 181)  
+Sum: 4,684 (Ranked 127)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |

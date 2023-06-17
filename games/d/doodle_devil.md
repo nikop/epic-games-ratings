@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Paradise lost | 96.00% | ~74 |
+| Paradise lost | 97.00% | ~75 |
 | Dark Kingdom Come | 77.00% | ~59 |
 | Master of Sins | 61.00% | ~47 |
 | Lucky Strike | 57.00% | ~44 |

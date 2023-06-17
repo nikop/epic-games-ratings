@@ -328,7 +328,7 @@
   "Tags": [],
   "EOS_Progressed": 2972,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4268,9 +4268,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -4403,8 +4403,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-17T16:01:16.5934353+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:07:03.4006409+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:07:15.5971239+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:01:27.3919544+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:07:03.4007091+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:01:35.0650576+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:07:15.5972104+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 847)
 | Flesh Wound | 16.00% | ~2,466 |
 | The Outer Way | 15.00% | ~2,312 |
 | Desperate Times | 14.00% | ~2,158 |
-| Paper Jams | 12.00% | ~1,849 |
+| Paper Jams | 12.00% | ~1,850 |
 | Chew 'Em Up | 11.00% | ~1,695 |
 | Reforged | 11.00% | ~1,695 |
 | If the SHU Fits... | 10.00% | ~1,541 |
@@ -24,9 +24,9 @@ Rating: 4.18 (Ranked 847)
 | You Need a Gun | 5.00% | ~771 |
 | What Lies Beneath | 5.00% | ~771 |
 | Power Up | 5.00% | ~771 |
-| The Commonality | 4.00% | ~616 |
-| Full Circle | 4.00% | ~616 |
-| Instigator | 4.00% | ~133 |
+| The Commonality | 4.00% | ~617 |
+| Full Circle | 4.00% | ~617 |
+| Instigator | 4.00% | ~134 |
 | I Do Belong Here | 3.00% | ~462 |
 | Big Game Hunter | 3.00% | ~100 |
 | Bear Trap | 3.00% | ~100 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 847)
 | Hoard Mode | 1.00% | ~33 |
 | Recidivist | 0.70% | ~23 |
 | Lifer | 0.70% | ~23 |
-| Armed to the Teeth | 0.30% | ~10 |
+| Armed to the Teeth | 0.40% | ~13 |
 | The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,411 (Ranked 104)  
+Progressed: 15,413 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,17 +103,17 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
-| 2023-06-17 | 15,411 | 56 |
+| 2023-06-17 | 15,413 | 56 |
 ## Awards
-Max (Amazing Characters): 54  (Ranked 388)  
-Sum: 316 (Ranked 330)  
-Diff (max vs sum): 58  
+Max (Highly Recommended): 54  (Ranked 388)  
+Sum: 318 (Ranked 329)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 54 |
 | This game has Quickly Understood Controls | 54 |
 | This game has Amazing Characters | 54 |
 | This game has Amazing Storytelling | 54 |
-| This game is Highly Recommended | 52 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
@@ -187,4 +187,4 @@ Diff (max vs sum): 58
 | 2023-06-14 | 4.18 | 54 | 311 |
 | 2023-06-15 | 4.18 | 54 | 314 |
 | 2023-06-16 | 4.18 | 54 | 315 |
-| 2023-06-17 | 4.18 | 54 | 316 |
+| 2023-06-17 | 4.18 | 54 | 318 |

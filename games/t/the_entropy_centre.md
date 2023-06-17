@@ -8,7 +8,7 @@
 | Wake Up | 80.00% | ~155 |
 | Time Gates | 65.00% | ~126 |
 | Command Centre | 46.00% | ~89 |
-| This is a Wall | 42.00% | ~81 |
+| This is a Wall | 43.00% | ~83 |
 | Extendable Bridges | 37.00% | ~72 |
 | 48 Attempts | 34.00% | ~66 |
 | Man's Best Friend | 34.00% | ~66 |

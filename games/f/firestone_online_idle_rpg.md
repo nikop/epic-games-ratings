@@ -1,21 +1,21 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 895)  
+Rating: 4.05 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,336 |
-| World Map | 80.00% | ~1,137 |
-| Temple of Eternals | 57.00% | ~810 |
-| Prestigious | 53.00% | ~753 |
+| Victor | 94.00% | ~1,337 |
+| World Map | 80.00% | ~1,138 |
+| Temple of Eternals | 57.00% | ~811 |
+| Prestigious | 53.00% | ~754 |
 | Fellowship Power | 41.00% | ~583 |
 | Guild Power | 24.00% | ~341 |
-| Prestigious x10 | 21.00% | ~298 |
+| Prestigious x10 | 21.00% | ~299 |
 | The game is on | 19.00% | ~270 |
 | Exotic Merchant | 17.00% | ~242 |
-| Dragon Clicker | 16.00% | ~227 |
-| Miner Clicker | 16.00% | ~227 |
+| Dragon Clicker | 16.00% | ~228 |
+| Miner Clicker | 16.00% | ~228 |
 | Inspection | 15.00% | ~213 |
 | Full Party | 14.00% | ~199 |
 | Dragon Master | 13.00% | ~185 |
@@ -36,9 +36,9 @@ Rating: 4.05 (Ranked 895)
 | Relic Of The Past | 8.00% | ~114 |
 | Scroll Master | 8.00% | ~114 |
 | The power of Awakening | 8.00% | ~114 |
-| Four Leaf Clover | 7.00% | ~99 |
-| Frostfire Liberator | 7.00% | ~99 |
-| Moving Up The Ladder | 7.00% | ~99 |
+| Four Leaf Clover | 7.00% | ~100 |
+| Frostfire Liberator | 7.00% | ~100 |
+| Moving Up The Ladder | 7.00% | ~100 |
 | Here We Go Again | 6.00% | ~85 |
 | Trader | 6.00% | ~85 |
 | How Do You Turn This On? | 5.00% | ~71 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,421 (Ranked 166)  
+Progressed: 1,422 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-14 | 1,396 | 1 |
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
-| 2023-06-17 | 1,421 | 1 |
+| 2023-06-17 | 1,422 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

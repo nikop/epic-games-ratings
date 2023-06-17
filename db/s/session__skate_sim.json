@@ -700,7 +700,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2453,
+  "EOS_Progressed": 2454,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -2700,6 +2700,11 @@
       "Time": "2023-06-17T02:11:30.1735253+00:00",
       "NumProgressed": 2453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T18:07:08.6171505+00:00",
+      "NumProgressed": 2454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2863,7 +2868,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3015,7 +3020,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3094,15 +3099,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2453,
+      "Progressed": 2454,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-17T00:00:13.6383166+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:06:56.862607+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:07:08.6171502+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.1070332+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:59:39.0202494+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:06:56.8626478+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:59:43.3010929+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:07:08.6171989+00:00"
 }

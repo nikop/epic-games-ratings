@@ -3,11 +3,11 @@
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
   "Ranking_Rating": 476,
-  "Ranking_Popularity": 127,
+  "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
@@ -4912,18 +4912,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 9643,
       "NumberOfAwardsMax": 1183
+    },
+    {
+      "Time": "2023-06-17T17:58:52.9003998+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9645,
+      "NumberOfAwardsMax": 1183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9643,
+  "NumberOfAwards": 9645,
   "NumberOfAwardsMax": 1183,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1181
+      "Count": 1183
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4991,8 +4997,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-06-17T10:59:00.3983629+00:00",
+  "LastChanged": "2023-06-17T17:58:52.9003997+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.1565379+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:58:44.9541318+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:03:33.8698652+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:58:52.9004004+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:03:36.4505627+00:00"
 }

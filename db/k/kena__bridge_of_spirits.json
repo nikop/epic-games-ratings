@@ -3,7 +3,7 @@
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 196,
-  "Ranking_Popularity": 121,
+  "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 171,
@@ -1166,9 +1166,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 426078,
+  "EOS_Progressed": 426079,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5306,6 +5306,11 @@
       "Time": "2023-06-17T17:03:58.1091487+00:00",
       "NumProgressed": 426078,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-06-17T18:04:02.1293838+00:00",
+      "NumProgressed": 426079,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 41,
@@ -5365,7 +5370,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 110780
+      "UsersEstimate": 110781
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -5373,7 +5378,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127823
+      "UsersEstimate": 127824
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -5437,7 +5442,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110780
+      "UsersEstimate": 110781
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -5461,7 +5466,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29825
+      "UsersEstimate": 29826
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -5485,7 +5490,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404774
+      "UsersEstimate": 404775
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -5501,7 +5506,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306776
+      "UsersEstimate": 306777
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -5517,7 +5522,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293994
+      "UsersEstimate": 293995
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -5533,7 +5538,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340862
+      "UsersEstimate": 340863
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -5541,7 +5546,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29825
+      "UsersEstimate": 29826
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -5557,7 +5562,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68172
+      "UsersEstimate": 68173
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -5565,7 +5570,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191735
+      "UsersEstimate": 191736
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -5581,7 +5586,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110780
+      "UsersEstimate": 110781
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -5644,15 +5649,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426078,
+      "Progressed": 426079,
       "Completed": 507
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-13T16:58:47.1145545+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:03:58.1091481+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:04:02.1293833+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.1842211+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:58:39.6626989+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:03:58.109193+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:58:46.823185+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:02.1294398+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251297,
+  "EOS_Progressed": 251302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6389,6 +6389,11 @@
       "Time": "2023-06-17T17:04:00.2226216+00:00",
       "NumProgressed": 251297,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T18:04:04.4195852+00:00",
+      "NumProgressed": 251302,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6424,7 +6429,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "Act5",
@@ -6432,7 +6437,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -6448,7 +6453,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77902
+      "UsersEstimate": 77904
     },
     {
       "ID": "BackHomeNTimes",
@@ -6480,7 +6485,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "BuyNWeapons",
@@ -6688,7 +6693,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55285
+      "UsersEstimate": 55286
     },
     {
       "ID": "KillOthers2",
@@ -6847,7 +6852,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251297,
+      "Progressed": 251302,
       "Completed": 1
     }
   ],
@@ -6855,8 +6860,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-16T11:01:23.1488422+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:04:00.2226208+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:04:04.4195844+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:01:08.1760378+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:00.2226847+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:01:14.9901552+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:04.4196658+00:00"
 }

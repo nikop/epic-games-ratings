@@ -22,9 +22,9 @@ Rating: 4.27 (Ranked 789)
 | The Penitent Ones | 3.00% | ~26 |
 | Prophecy Fulfilled | 3.00% | ~26 |
 | The Greedy Ones | 2.00% | ~18 |
+| The Unruly Ones | 2.00% | ~18 |
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
-| The Unruly Ones | 1.00% | ~9 |
 | The Council | 0.90% | ~8 |
 | The Mad | 0.80% | ~7 |
 | Charismatic Leader | 0.50% | ~4 |

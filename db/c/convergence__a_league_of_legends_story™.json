@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 703,
+  "EOS_Progressed": 704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2023-06-17T00:07:10.0381812+00:00",
       "NumProgressed": 703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-17T18:06:33.4254754+00:00",
+      "NumProgressed": 704,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1658,7 +1663,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "RewindParry",
@@ -1793,14 +1798,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 703,
+      "Progressed": 704,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:06:22.7421236+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:06:33.4254748+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:00:05.0695851+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:06:22.7421659+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:00:08.9229957+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:06:33.425528+00:00"
 }

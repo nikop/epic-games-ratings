@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DwarfHobo",
@@ -233,9 +233,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HastrmanAmanita",
@@ -249,9 +249,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HastrmanRum",
@@ -377,9 +377,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -439,8 +439,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:03:25.5525309+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:03:28.2449152+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:56:51.5527353+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:03:25.5525655+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:56:55.7756861+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:03:28.2449493+00:00"
 }

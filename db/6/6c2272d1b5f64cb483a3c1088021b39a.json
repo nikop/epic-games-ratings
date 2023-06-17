@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1710,9 +1710,9 @@
       "ID": "obsessed_carver_1",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 1",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "obsessed_carver_2",
@@ -1885,8 +1885,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:04:00.0332459+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:04:04.2902745+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:56:59.8069564+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:00.0332999+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:57:03.3028978+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:04.2903413+00:00"
 }

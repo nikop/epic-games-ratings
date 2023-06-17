@@ -4,7 +4,7 @@
   "ProductSlug": "trine-5",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-04-12T13:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:58:14.4047807+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:58:58.8112586+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:29.6378087+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:59:05.9642791+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:34.9061587+00:00"
 }

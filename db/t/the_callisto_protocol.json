@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 847,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 90,
@@ -606,18 +606,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-17T17:58:14.6652482+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
+  "NumberOfAwards": 318,
   "NumberOfAwardsMax": 54,
-  "MaxAwardTitle": "Amazing Characters",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game is Extremely Fun",
@@ -656,9 +662,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15411,
+  "EOS_Progressed": 15413,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4181,6 +4187,11 @@
       "Time": "2023-06-17T17:04:56.1711657+00:00",
       "NumProgressed": 15411,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-17T18:05:02.6185632+00:00",
+      "NumProgressed": 15413,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4198,9 +4209,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -4344,7 +4355,7 @@
       "Name": "The Commonality",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -4368,7 +4379,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4440,7 +4451,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4464,7 +4475,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -4511,22 +4522,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15411,
+      "Progressed": 15413,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3337,
+      "Progressed": 3339,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-17T14:57:54.7081073+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:04:56.1711652+00:00",
+  "LastChanged": "2023-06-17T17:58:14.6652478+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:05:02.6185627+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:58:08.9945863+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:56.1712057+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:58:14.6652487+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:05:02.618634+00:00"
 }

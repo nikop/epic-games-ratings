@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "backstory_buff",
@@ -374,17 +374,17 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "set_sail",
@@ -421,8 +421,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-17T17:04:04.9847409+00:00",
+  "LastChanged_Achievements": "2023-06-17T18:04:09.1105491+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.9003859+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:58:20.8542634+00:00",
-  "LastUpdate_Achievements": "2023-06-17T17:04:04.9847533+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:58:27.584305+00:00",
+  "LastUpdate_Achievements": "2023-06-17T18:04:09.1105625+00:00"
 }

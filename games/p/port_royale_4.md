@@ -1,20 +1,20 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 903)  
+Rating: 4.02 (Ranked 904)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~531 |
-| My little farm | 64.00% | ~425 |
-| Every beginning is difficult | 62.00% | ~412 |
-| 3, 2, 1, mine | 55.00% | ~365 |
-| Gofer | 55.00% | ~365 |
-| Seafarer | 54.00% | ~359 |
-| O Captain! My Captain! | 53.00% | ~352 |
-| Greed for gold | 42.00% | ~279 |
-| Intangible | 41.00% | ~272 |
+| Cabin boy | 80.00% | ~533 |
+| My little farm | 64.00% | ~426 |
+| Every beginning is difficult | 62.00% | ~413 |
+| 3, 2, 1, mine | 55.00% | ~366 |
+| Gofer | 55.00% | ~366 |
+| Seafarer | 54.00% | ~360 |
+| O Captain! My Captain! | 53.00% | ~353 |
+| Greed for gold | 42.00% | ~280 |
+| Intangible | 40.00% | ~266 |
 | I'm out of here for a while | 40.00% | ~266 |
 | In a mint condition | 37.00% | ~246 |
 | Licence to Kill | 34.00% | ~226 |
@@ -23,18 +23,18 @@ Number of Ratings: 53  (23.09.2022)
 | Megalomania | 28.00% | ~186 |
 | Christening | 26.00% | ~173 |
 | Groundskeeper | 25.00% | ~166 |
-| Wholesale | 21.00% | ~139 |
+| Wholesale | 21.00% | ~140 |
 | Walk the plank | 20.00% | ~133 |
 | Pearly gates | 17.00% | ~113 |
 | My precious! | 17.00% | ~113 |
-| Conquistador | 13.00% | ~86 |
+| Conquistador | 13.00% | ~87 |
 | Panic buying | 11.00% | ~73 |
 | Just a scratch | 9.00% | ~60 |
 | Your vessel, my vessel | 9.00% | ~60 |
 | All mine! | 8.00% | ~53 |
 | Paths of Glory | 8.00% | ~53 |
 | Panel of experts | 8.00% | ~53 |
-| Maker | 7.00% | ~46 |
+| Maker | 7.00% | ~47 |
 | Conglomerate | 6.00% | ~40 |
 | Buccaneer | 5.00% | ~33 |
 | The Grande Bouffe | 5.00% | ~33 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664 (Ranked 198)  
+Progressed: 666 (Ranked 198)  
 Completed: 1 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 1 (0.15%) (Ranked 164)
 | 2023-06-14 | 651 | 1 |
 | 2023-06-15 | 657 | 1 |
 | 2023-06-16 | 661 | 1 |
-| 2023-06-17 | 664 | 1 |
+| 2023-06-17 | 666 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

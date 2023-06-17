@@ -61,7 +61,7 @@ Rating: 4.50 (Ranked 547)
 | Sight Beyond Sights | 0.40% | ~12 |
 | Führerious Repetition | 0.40% | ~12 |
 | Reich To The Point | 0.40% | ~12 |
-| Covert Elimination | 0.30% | ~9 |
+| Covert Elimination | 0.40% | ~12 |
 | Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |

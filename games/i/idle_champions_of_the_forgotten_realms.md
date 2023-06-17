@@ -1,34 +1,34 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 893)  
+Rating: 4.06 (Ranked 894)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,777 |
-| Beast Intentions | 2.00% | ~1,911 |
-| The Cursed Farmer | 2.00% | ~1,911 |
-| The Mad Wizard | 2.00% | ~1,911 |
-| The Ring of Regeneration | 1.00% | ~955 |
-| Were-verpowered | 0.90% | ~860 |
-| Seeking Allies | 0.90% | ~860 |
-| Are Ya Chicken? | 0.90% | ~860 |
-| The Court of Storms | 0.90% | ~556 |
-| Mad Cow Disease | 0.80% | ~764 |
-| Friendly Imps | 0.80% | ~764 |
-| Beware the Jabberwock | 0.80% | ~494 |
+| A Brief Tour of the Realms | 5.00% | ~4,782 |
+| Beast Intentions | 2.00% | ~1,913 |
+| The Cursed Farmer | 2.00% | ~1,913 |
+| The Mad Wizard | 2.00% | ~1,913 |
+| The Ring of Regeneration | 1.00% | ~956 |
+| Are Ya Chicken? | 1.00% | ~956 |
+| Were-verpowered | 0.90% | ~861 |
+| Seeking Allies | 0.90% | ~861 |
+| The Court of Storms | 0.90% | ~557 |
+| Mad Cow Disease | 0.80% | ~765 |
+| Friendly Imps | 0.80% | ~765 |
+| Beware the Jabberwock | 0.80% | ~495 |
 | A Persistent Buzzing | 0.70% | ~669 |
 | Pure Energy | 0.70% | ~669 |
-| Terror in the Dark | 0.60% | ~573 |
-| A Mysterious Summons | 0.60% | ~573 |
-| Unearthed Evil | 0.60% | ~573 |
-| The Crumbling Temple | 0.60% | ~573 |
-| Exploring Port Nyanzaru | 0.60% | ~573 |
+| Terror in the Dark | 0.60% | ~574 |
+| A Mysterious Summons | 0.60% | ~574 |
+| Unearthed Evil | 0.60% | ~574 |
+| The Crumbling Temple | 0.60% | ~574 |
+| Exploring Port Nyanzaru | 0.60% | ~574 |
 | Coasting to the Finish | 0.60% | ~371 |
 | Maddening | 0.50% | ~478 |
-| Checkmate | 0.50% | ~309 |
-| Vecna Out! | 0.50% | ~309 |
+| Checkmate | 0.50% | ~310 |
+| Vecna Out! | 0.50% | ~310 |
 | Beast Mode | 0.50% | ~478 |
 | Low Initiative | 0.50% | ~478 |
 | Building Trust | 0.50% | ~478 |
@@ -37,42 +37,42 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.50% | ~478 |
 | Escort to Waterdeep | 0.50% | ~478 |
 | Waterdeep Detours | 0.50% | ~478 |
-| Quick or Quack | 0.50% | ~309 |
-| The Silken Swamp | 0.40% | ~382 |
-| Owlbear Necessities | 0.40% | ~247 |
-| Best Thay Ever | 0.40% | ~247 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~247 |
-| Pin and Skewer | 0.40% | ~247 |
-| Street War | 0.40% | ~382 |
-| March of the Undead | 0.40% | ~382 |
-| No Time To Rest | 0.40% | ~382 |
-| The Dinner Party | 0.40% | ~382 |
-| The Botched Kidnapping | 0.40% | ~382 |
-| The Death Curse | 0.40% | ~382 |
-| Premature Betrayal | 0.40% | ~382 |
-| Flying Monkey Skulls of Doom | 0.40% | ~382 |
-| Constant Banditry | 0.40% | ~382 |
-| Underdeep Cartography | 0.40% | ~382 |
-| Overdue Rendezvous | 0.40% | ~382 |
-| The Templar's Camp | 0.40% | ~382 |
-| Rescue in the Jungle | 0.40% | ~382 |
+| Quick or Quack | 0.50% | ~310 |
+| The Silken Swamp | 0.40% | ~383 |
+| Owlbear Necessities | 0.40% | ~248 |
+| Best Thay Ever | 0.40% | ~248 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~248 |
+| Pin and Skewer | 0.40% | ~248 |
+| Street War | 0.40% | ~383 |
+| March of the Undead | 0.40% | ~383 |
+| No Time To Rest | 0.40% | ~383 |
+| The Dinner Party | 0.40% | ~383 |
+| The Botched Kidnapping | 0.40% | ~383 |
+| The Death Curse | 0.40% | ~383 |
+| Premature Betrayal | 0.40% | ~383 |
+| Flying Monkey Skulls of Doom | 0.40% | ~383 |
+| Constant Banditry | 0.40% | ~383 |
+| Underdeep Cartography | 0.40% | ~383 |
+| Overdue Rendezvous | 0.40% | ~383 |
+| The Templar's Camp | 0.40% | ~383 |
+| Rescue in the Jungle | 0.40% | ~383 |
 | Pros and CONs | 0.30% | ~287 |
-| Tall Tales | 0.30% | ~185 |
-| Third Third Out | 0.30% | ~185 |
+| Tall Tales | 0.30% | ~186 |
+| Third Third Out | 0.30% | ~186 |
 | Wet Feet | 0.30% | ~287 |
 | Supply Run | 0.30% | ~287 |
-| Keep Your Distance | 0.30% | ~185 |
-| Hands Off! | 0.30% | ~185 |
-| The Dread Domain of Tovag | 0.30% | ~185 |
-| Frail Doesn't Mean Broken | 0.30% | ~185 |
-| The Castle of a Thousand Vecnas | 0.30% | ~185 |
-| The Sanctum of the Sword | 0.30% | ~185 |
-| Get Back In The Castle | 0.30% | ~185 |
-| Bully for Vecna | 0.30% | ~185 |
+| Keep Your Distance | 0.30% | ~186 |
+| Hands Off! | 0.30% | ~186 |
+| The Dread Domain of Tovag | 0.30% | ~186 |
+| Frail Doesn't Mean Broken | 0.30% | ~186 |
+| The Castle of a Thousand Vecnas | 0.30% | ~186 |
+| The Sanctum of the Sword | 0.30% | ~186 |
+| Get Back In The Castle | 0.30% | ~186 |
+| Bully for Vecna | 0.30% | ~186 |
 | Homecoming | 0.30% | ~287 |
 | The Lost Heir of Omu | 0.30% | ~287 |
-| No One Can Hear You Scream | 0.30% | ~185 |
-| Welcome to the Rock | 0.30% | ~185 |
+| No One Can Hear You Scream | 0.30% | ~186 |
+| Welcome to the Rock | 0.30% | ~186 |
 | The Forbidden City | 0.30% | ~287 |
 | Captured! | 0.30% | ~287 |
 | Force Grey Unleashed | 0.30% | ~287 |
@@ -104,17 +104,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.30% | ~287 |
 | Dinosaur Racing | 0.30% | ~287 |
 | Market Fluctuations | 0.30% | ~287 |
-| Hearts Aflame | 0.30% | ~185 |
-| Look Out! | 0.30% | ~185 |
-| Bad Odds in Avernus | 0.30% | ~185 |
-| An Even Worse Time in Avernus | 0.30% | ~185 |
+| Hearts Aflame | 0.30% | ~186 |
+| Look Out! | 0.30% | ~186 |
+| Bad Odds in Avernus | 0.30% | ~186 |
+| An Even Worse Time in Avernus | 0.30% | ~186 |
 | Close Escort | 0.30% | ~287 |
 | The Long Haul | 0.30% | ~287 |
 | Lost in the Deep | 0.30% | ~287 |
 | Easily Distracted | 0.30% | ~287 |
 | Rude Welcome | 0.30% | ~287 |
-| Witty Riposting | 0.30% | ~185 |
-| How Far Away is Thay | 0.30% | ~185 |
+| Witty Riposting | 0.30% | ~186 |
+| How Far Away is Thay | 0.30% | ~186 |
 | The Haunted Jungle | 0.30% | ~287 |
 | Upholding the Law | 0.20% | ~191 |
 | Starving in the Jungle | 0.20% | ~191 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~62 |
 | Ineffectual Intellectuals | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,535 (Ranked 63)  
-Completed: 1,946 (2.04%) (Ranked 71)  
+Progressed: 95,635 (Ranked 63)  
+Completed: 1,946 (2.03%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -558,7 +558,7 @@ Completed: 1,946 (2.04%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 95,535 | 1,946 |
+| 2023-06-17 | 95,635 | 1,946 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  
