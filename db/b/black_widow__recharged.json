@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15338,
+  "EOS_Progressed": 15340,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -4911,6 +4911,11 @@
       "Time": "2023-06-17T06:05:43.3805189+00:00",
       "NumProgressed": 15338,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-17T07:05:25.9573426+00:00",
+      "NumProgressed": 15340,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 14,
@@ -4922,7 +4927,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12117
+      "UsersEstimate": 12119
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -4978,7 +4983,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8129
+      "UsersEstimate": 8130
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -5033,15 +5038,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15338,
+      "Progressed": 15340,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-17T06:05:43.3805181+00:00",
+  "LastChanged_Achievements": "2023-06-17T07:05:25.9573422+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.2218881+00:00",
-  "LastUpdate_Ratings": "2023-06-17T05:59:59.7924451+00:00",
-  "LastUpdate_Achievements": "2023-06-17T06:05:43.3805926+00:00"
+  "LastUpdate_Ratings": "2023-06-17T06:59:57.3388252+00:00",
+  "LastUpdate_Achievements": "2023-06-17T07:05:25.9573823+00:00"
 }

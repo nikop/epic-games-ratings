@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,090 |
-| That's a Grand Army | 8.00% | ~4,524 |
-| That is mine! | 8.00% | ~4,524 |
-| Victorious! | 8.00% | ~4,524 |
-| Brothers in Arms | 6.00% | ~3,393 |
-| That's a Grand Navy | 6.00% | ~3,393 |
-| Seriously?! | 6.00% | ~3,393 |
+| Until death do us apart | 9.00% | ~5,091 |
+| That's a Grand Army | 8.00% | ~4,526 |
+| That is mine! | 8.00% | ~4,526 |
+| Victorious! | 8.00% | ~4,526 |
+| Brothers in Arms | 6.00% | ~3,394 |
+| That's a Grand Navy | 6.00% | ~3,394 |
+| Seriously?! | 6.00% | ~3,394 |
 | For the Glory | 5.00% | ~2,828 |
-| Cold War | 4.00% | ~2,262 |
-| True Catholic | 4.00% | ~2,262 |
+| Cold War | 4.00% | ~2,263 |
+| True Catholic | 4.00% | ~2,263 |
 | Defender of the Faith | 3.00% | ~1,697 |
 | It's all about the money | 3.00% | ~1,697 |
 | Respected | 3.00% | ~1,697 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~509 |
 | Isn't this the way to India? | 0.90% | ~509 |
 | Market Control | 0.90% | ~509 |
-| Down Under | 0.80% | ~452 |
-| Trustworthy | 0.80% | ~452 |
+| Down Under | 0.80% | ~453 |
+| Trustworthy | 0.80% | ~453 |
 | Electable! | 0.70% | ~396 |
 | All belongs to Mother Russia | 0.60% | ~339 |
 | At every continent | 0.60% | ~339 |
@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.20% | ~113 |
 | AAA Credit | 0.20% | ~113 |
 | An early Reich | 0.20% | ~113 |
+| Basileus | 0.20% | ~113 |
 | Fine Financials | 0.20% | ~113 |
 | A Fine Goosestep | 0.20% | ~113 |
 | Imperio español | 0.20% | ~113 |
@@ -118,7 +119,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.10% | ~57 |
 | Baltic Crusader | 0.10% | ~57 |
 | These Banners need a Saga | 0.10% | ~57 |
-| Basileus | 0.10% | ~57 |
 | Basque in Glory | 0.10% | ~57 |
 | Bengal Tiger | 0.10% | ~57 |
 | Better than Napoleon | 0.10% | ~57 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,556 (Ranked 76)  
+Progressed: 56,569 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
-| 2023-06-17 | 56,556 | 0 |
+| 2023-06-17 | 56,569 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
 Sum: 44,636 (Ranked 27)  

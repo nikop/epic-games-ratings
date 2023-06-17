@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 8.00% | ~2,676,144 |
-| Snowflake | 8.00% | ~2,676,144 |
-| Fall Throttle | 7.00% | ~2,341,626 |
-| Big Bully | 6.00% | ~2,007,108 |
-| Face First | 6.00% | ~2,007,108 |
-| One to Watch | 5.00% | ~1,672,590 |
-| Style Points | 5.00% | ~1,672,590 |
-| Troublemaker | 5.00% | ~1,672,590 |
-| Bargain Bucket | 4.00% | ~1,338,072 |
-| Flawless Victory | 4.00% | ~1,338,072 |
-| Fall Bae | 4.00% | ~1,338,072 |
-| Ahead of the Pack | 4.00% | ~1,338,072 |
-| Stumble Chums | 4.00% | ~1,338,072 |
-| Victory! | 4.00% | ~1,338,072 |
-| Catwalk Model | 2.00% | ~669,036 |
-| Down to the Wire | 2.00% | ~669,036 |
-| Household Name | 2.00% | ~669,036 |
-| Head Turner | 2.00% | ~669,036 |
-| One giant leap | 2.00% | ~669,036 |
-| Big Air | 1.00% | ~334,518 |
-| Star of the Show | 1.00% | ~334,518 |
-| Quite Dashing | 1.00% | ~334,518 |
-| Squad Goals | 1.00% | ~334,518 |
-| Shopping Spree | 0.90% | ~301,066 |
-| Low Baller | 0.80% | ~267,614 |
-| Mad Trendy | 0.80% | ~267,614 |
-| Top Tier | 0.80% | ~267,614 |
-| Veteran Status | 0.50% | ~167,259 |
-| Show Off | 0.50% | ~167,259 |
-| Track Star | 0.30% | ~100,355 |
-| Golden Guy | 0.30% | ~100,355 |
-| Big Tease | 0.20% | ~66,904 |
-| Fall Guy Fashionista | 0.20% | ~66,904 |
-| Infallible | 0.10% | ~33,452 |
+| One small trip | 8.00% | ~2,676,215 |
+| Snowflake | 8.00% | ~2,676,215 |
+| Fall Throttle | 7.00% | ~2,341,688 |
+| Big Bully | 6.00% | ~2,007,161 |
+| Face First | 6.00% | ~2,007,161 |
+| One to Watch | 5.00% | ~1,672,634 |
+| Style Points | 5.00% | ~1,672,634 |
+| Troublemaker | 5.00% | ~1,672,634 |
+| Bargain Bucket | 4.00% | ~1,338,107 |
+| Flawless Victory | 4.00% | ~1,338,107 |
+| Fall Bae | 4.00% | ~1,338,107 |
+| Ahead of the Pack | 4.00% | ~1,338,107 |
+| Stumble Chums | 4.00% | ~1,338,107 |
+| Victory! | 4.00% | ~1,338,107 |
+| Catwalk Model | 2.00% | ~669,054 |
+| Down to the Wire | 2.00% | ~669,054 |
+| Household Name | 2.00% | ~669,054 |
+| Head Turner | 2.00% | ~669,054 |
+| One giant leap | 2.00% | ~669,054 |
+| Big Air | 1.00% | ~334,527 |
+| Star of the Show | 1.00% | ~334,527 |
+| Quite Dashing | 1.00% | ~334,527 |
+| Squad Goals | 1.00% | ~334,527 |
+| Shopping Spree | 0.90% | ~301,074 |
+| Low Baller | 0.80% | ~267,621 |
+| Mad Trendy | 0.80% | ~267,621 |
+| Top Tier | 0.80% | ~267,621 |
+| Veteran Status | 0.50% | ~167,263 |
+| Show Off | 0.50% | ~167,263 |
+| Track Star | 0.30% | ~100,358 |
+| Golden Guy | 0.30% | ~100,358 |
+| Big Tease | 0.20% | ~66,905 |
+| Fall Guy Fashionista | 0.20% | ~66,905 |
+| Infallible | 0.10% | ~33,453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,451,798 (Ranked 1)  
-Completed: 33,627 (0.10%) (Ranked 172)  
+Progressed: 33,452,683 (Ranked 1)  
+Completed: 33,629 (0.10%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,10 +99,10 @@ Completed: 33,627 (0.10%) (Ranked 172)
 | 2023-06-14 | 33,403,270 | 33,438 |
 | 2023-06-15 | 33,423,549 | 33,516 |
 | 2023-06-16 | 33,445,734 | 33,602 |
-| 2023-06-17 | 33,451,798 | 33,627 |
+| 2023-06-17 | 33,452,683 | 33,629 |
 ## Awards
 Max (Great for Beginners): 141,895  (Ranked 7)  
-Sum: 1,319,312 (Ranked 5)  
+Sum: 1,319,365 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 122,360 |
 | This game is Extremely Fun | 117,902 |
 | This game is Highly Recommended | 111,346 |
-| This game has Amazing Characters | 108,474 |
+| This game has Amazing Characters | 108,527 |
 | This game has Amazing Storytelling | 103,383 |
 | This game has Playful Visuals | 99,355 |
 ## Ratings History
@@ -263,4 +263,4 @@ Diff (max vs sum): 2
 | 2023-06-14 | 4.53 | - | 141,735 | 1,318,009 |
 | 2023-06-15 | 4.53 | - | 141,809 | 1,318,539 |
 | 2023-06-16 | 4.53 | - | 141,895 | 1,319,125 |
-| 2023-06-17 | 4.53 | - | 141,895 | 1,319,312 |
+| 2023-06-17 | 4.53 | - | 141,895 | 1,319,365 |

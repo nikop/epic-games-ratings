@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,643 |
-| Resurgence | 1.00% | ~5,643 |
-| Preemptive Strike | 1.00% | ~5,643 |
-| Humanitarian | 1.00% | ~5,643 |
-| Wounded Healer | 0.80% | ~4,514 |
-| Close Shave | 0.80% | ~4,514 |
-| Flight to Freedom | 0.70% | ~3,950 |
+| Healthy Obsession | 1.00% | ~5,644 |
+| Resurgence | 1.00% | ~5,644 |
+| Preemptive Strike | 1.00% | ~5,644 |
+| Humanitarian | 1.00% | ~5,644 |
+| Wounded Healer | 0.80% | ~4,515 |
+| Close Shave | 0.80% | ~4,515 |
+| Flight to Freedom | 0.70% | ~3,951 |
 | Unforgettable Getaway | 0.60% | ~3,386 |
 | First to the Punch | 0.60% | ~3,386 |
 | Old West Oasis | 0.60% | ~3,386 |
 | With Scars to Show | 0.60% | ~3,386 |
-| Operation: Survival | 0.50% | ~2,821 |
-| Classy Act | 0.50% | ~2,821 |
-| Every Last Drop | 0.50% | ~2,821 |
-| Raccoon City Recruit | 0.50% | ~2,821 |
-| Ancestor's Rite | 0.40% | ~2,257 |
-| Cutting Out | 0.40% | ~2,257 |
-| Outrun Evil | 0.40% | ~2,257 |
-| Grim Pilgrimage | 0.40% | ~2,257 |
-| A Fast Death | 0.40% | ~2,257 |
-| Lifting The Fog | 0.40% | ~2,257 |
-| Chorus of Chaos | 0.40% | ~2,257 |
+| Operation: Survival | 0.50% | ~2,822 |
+| Classy Act | 0.50% | ~2,822 |
+| Every Last Drop | 0.50% | ~2,822 |
+| Raccoon City Recruit | 0.50% | ~2,822 |
+| Ancestor's Rite | 0.40% | ~2,258 |
+| Cutting Out | 0.40% | ~2,258 |
+| Outrun Evil | 0.40% | ~2,258 |
+| Grim Pilgrimage | 0.40% | ~2,258 |
+| A Fast Death | 0.40% | ~2,258 |
+| Lifting The Fog | 0.40% | ~2,258 |
+| Chorus of Chaos | 0.40% | ~2,258 |
 | Devoted Gatekeeping | 0.30% | ~1,693 |
 | Shrine Apparatus | 0.30% | ~1,693 |
 | Broken Bodies | 0.30% | ~1,693 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~564 |
 | Adept Gabriel | 0.10% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,268 (Ranked 26)  
+Progressed: 564,383 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 564,268 | 42 |
+| 2023-06-17 | 564,383 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
 Sum: 228,000 (Ranked 12)  

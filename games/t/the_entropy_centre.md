@@ -15,7 +15,7 @@
 | Chain Reaction | 33.00% | ~63 |
 | Handyman | 21.00% | ~40 |
 | No Time To Relax | 17.00% | ~33 |
-| Bad Robots | 15.00% | ~29 |
+| Bad Robots | 16.00% | ~31 |
 | Running Boots | 14.00% | ~27 |
 | Archivist | 14.00% | ~27 |
 | Fashionista | 13.00% | ~25 |

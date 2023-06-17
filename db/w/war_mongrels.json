@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -857,6 +857,11 @@
       "Time": "2023-06-17T06:03:50.3599785+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T07:03:30.5345621+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1108,7 +1113,7 @@
       "Name": "The Motivation",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1116,7 +1121,7 @@
       "Name": "Heroism",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1132,15 +1137,15 @@
       "Name": "Opportunities",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1156,7 +1161,7 @@
       "Name": "Vengeance",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1252,7 +1257,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1260,7 +1265,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1276,7 +1281,7 @@
       "Name": "Eat Lead!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1292,7 +1297,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1339,15 +1344,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
-  "LastChanged_Achievements": "2023-06-17T06:03:50.3599777+00:00",
+  "LastChanged_Achievements": "2023-06-17T07:03:30.5345615+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4627479+00:00",
-  "LastUpdate_Ratings": "2023-06-17T05:57:32.1179846+00:00",
-  "LastUpdate_Achievements": "2023-06-17T06:03:50.3600807+00:00"
+  "LastUpdate_Ratings": "2023-06-17T06:57:23.0838658+00:00",
+  "LastUpdate_Achievements": "2023-06-17T07:03:30.5346204+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,731 |
-| The Cursed Farmer | 2.00% | ~1,892 |
-| Beast Intentions | 1.00% | ~946 |
-| The Ring of Regeneration | 1.00% | ~946 |
-| The Mad Wizard | 1.00% | ~946 |
+| A Brief Tour of the Realms | 5.00% | ~4,733 |
+| The Cursed Farmer | 2.00% | ~1,893 |
+| Beast Intentions | 1.00% | ~947 |
+| The Ring of Regeneration | 1.00% | ~947 |
+| The Mad Wizard | 1.00% | ~947 |
 | Seeking Allies | 0.90% | ~852 |
 | Are Ya Chicken? | 0.90% | ~852 |
 | The Court of Storms | 0.90% | ~548 |
 | Were-verpowered | 0.80% | ~757 |
 | Friendly Imps | 0.80% | ~757 |
-| Beware the Jabberwock | 0.80% | ~487 |
-| A Persistent Buzzing | 0.70% | ~662 |
-| Mad Cow Disease | 0.70% | ~662 |
-| Pure Energy | 0.70% | ~662 |
+| Beware the Jabberwock | 0.80% | ~488 |
+| A Persistent Buzzing | 0.70% | ~663 |
+| Mad Cow Disease | 0.70% | ~663 |
+| Pure Energy | 0.70% | ~663 |
 | Terror in the Dark | 0.60% | ~568 |
 | Unearthed Evil | 0.60% | ~568 |
 | The Crumbling Temple | 0.60% | ~568 |
 | Exploring Port Nyanzaru | 0.60% | ~568 |
-| Coasting to the Finish | 0.60% | ~365 |
+| Coasting to the Finish | 0.60% | ~366 |
 | Maddening | 0.50% | ~473 |
-| Checkmate | 0.50% | ~304 |
-| Vecna Out! | 0.50% | ~304 |
+| Checkmate | 0.50% | ~305 |
+| Vecna Out! | 0.50% | ~305 |
 | Beast Mode | 0.50% | ~473 |
 | A Mysterious Summons | 0.50% | ~473 |
 | Building Trust | 0.50% | ~473 |
@@ -36,24 +36,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.50% | ~473 |
 | Escort to Waterdeep | 0.50% | ~473 |
 | Waterdeep Detours | 0.50% | ~473 |
-| Quick or Quack | 0.50% | ~304 |
-| The Silken Swamp | 0.40% | ~378 |
+| Quick or Quack | 0.50% | ~305 |
+| The Silken Swamp | 0.40% | ~379 |
 | Owlbear Necessities | 0.40% | ~244 |
 | Best Thay Ever | 0.40% | ~244 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~244 |
 | Pin and Skewer | 0.40% | ~244 |
-| Low Initiative | 0.40% | ~378 |
-| Street War | 0.40% | ~378 |
-| March of the Undead | 0.40% | ~378 |
-| No Time To Rest | 0.40% | ~378 |
-| The Dinner Party | 0.40% | ~378 |
-| The Botched Kidnapping | 0.40% | ~378 |
-| The Death Curse | 0.40% | ~378 |
-| Premature Betrayal | 0.40% | ~378 |
-| Underdeep Cartography | 0.40% | ~378 |
-| Overdue Rendezvous | 0.40% | ~378 |
-| The Templar's Camp | 0.40% | ~378 |
-| Rescue in the Jungle | 0.40% | ~378 |
+| Low Initiative | 0.40% | ~379 |
+| Street War | 0.40% | ~379 |
+| March of the Undead | 0.40% | ~379 |
+| No Time To Rest | 0.40% | ~379 |
+| The Dinner Party | 0.40% | ~379 |
+| The Botched Kidnapping | 0.40% | ~379 |
+| The Death Curse | 0.40% | ~379 |
+| Premature Betrayal | 0.40% | ~379 |
+| Underdeep Cartography | 0.40% | ~379 |
+| Overdue Rendezvous | 0.40% | ~379 |
+| The Templar's Camp | 0.40% | ~379 |
+| Rescue in the Jungle | 0.40% | ~379 |
 | Pros and CONs | 0.30% | ~284 |
 | Tall Tales | 0.30% | ~183 |
 | Third Third Out | 0.30% | ~183 |
@@ -86,9 +86,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.30% | ~284 |
 | Trollskull Manor | 0.30% | ~284 |
 | Attack on the Manor | 0.30% | ~284 |
+| Treasure Hunters | 0.30% | ~284 |
 | The Guardian of Orolunga | 0.30% | ~284 |
 | The Lost Love | 0.30% | ~284 |
 | Flies on the Wall | 0.30% | ~284 |
+| Backtracking Through Barovia | 0.30% | ~284 |
 | Nimble Escape | 0.30% | ~284 |
 | Fugitives | 0.30% | ~284 |
 | Hopelessly Lost | 0.30% | ~284 |
@@ -231,13 +233,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.20% | ~189 |
 | Our Time To Shine | 0.20% | ~189 |
 | Review by the Blackstaff | 0.20% | ~122 |
-| Treasure Hunters | 0.20% | ~189 |
 | Think Your Way Out Of It | 0.20% | ~189 |
 | A Saurial's Lament | 0.20% | ~189 |
 | A Saurial's Resolve | 0.20% | ~189 |
 | The Killer Mists | 0.20% | ~189 |
 | Class Vacation | 0.20% | ~189 |
-| Backtracking Through Barovia | 0.20% | ~189 |
 | Diversity Day-Trip | 0.20% | ~189 |
 | Late Game | 0.20% | ~189 |
 | Shadowfell Stalwarts | 0.20% | ~122 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,617 (Ranked 63)  
+Progressed: 94,664 (Ranked 63)  
 Completed: 1,943 (2.05%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 1,943 (2.05%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 94,617 | 1,943 |
+| 2023-06-17 | 94,664 | 1,943 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

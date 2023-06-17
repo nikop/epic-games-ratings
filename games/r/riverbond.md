@@ -6,20 +6,20 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~363,718 |
-| Now You're Talking | 62.00% | ~322,150 |
-| Steel Yourself | 62.00% | ~322,150 |
-| Window Dressing | 50.00% | ~259,798 |
-| Trigger Happy | 46.00% | ~239,015 |
-| Riverborn | 45.00% | ~233,819 |
-| Starry Eyed | 34.00% | ~176,663 |
-| Poking Around | 34.00% | ~176,663 |
-| Talk of the Town | 24.00% | ~124,703 |
-| AAARR! | 23.00% | ~119,507 |
-| Hello Darkness | 23.00% | ~119,507 |
-| Wind At Our Backs | 22.00% | ~114,311 |
-| To the Beat | 20.00% | ~103,919 |
-| Sunny Shores | 17.00% | ~88,331 |
+| First Step | 70.00% | ~363,720 |
+| Now You're Talking | 62.00% | ~322,152 |
+| Steel Yourself | 62.00% | ~322,152 |
+| Window Dressing | 50.00% | ~259,800 |
+| Trigger Happy | 46.00% | ~239,016 |
+| Riverborn | 45.00% | ~233,820 |
+| Starry Eyed | 34.00% | ~176,664 |
+| Poking Around | 34.00% | ~176,664 |
+| Talk of the Town | 24.00% | ~124,704 |
+| AAARR! | 23.00% | ~119,508 |
+| Hello Darkness | 23.00% | ~119,508 |
+| Wind At Our Backs | 22.00% | ~114,312 |
+| To the Beat | 20.00% | ~103,920 |
+| Sunny Shores | 17.00% | ~88,332 |
 | Sunday Best | 16.00% | ~83,136 |
 | To Victory! | 15.00% | ~77,940 |
 | Two of a Kind | 14.00% | ~72,744 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,559 |
 | Point Taken | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,597 (Ranked 29)  
-Completed: 429 (0.08%) (Ranked 182)  
+Progressed: 519,600 (Ranked 29)  
+Completed: 430 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 429 (0.08%) (Ranked 182)
 | 2023-06-14 | 519,418 | 425 |
 | 2023-06-15 | 519,482 | 427 |
 | 2023-06-16 | 519,570 | 427 |
-| 2023-06-17 | 519,597 | 429 |
+| 2023-06-17 | 519,600 | 430 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

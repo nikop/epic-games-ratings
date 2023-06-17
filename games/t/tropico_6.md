@@ -10,7 +10,7 @@ Number of Ratings: 398  (23.09.2022)
 | Un-Lonely Island | 48.00% | ~1,767 |
 | The Beginning of a Servantship | 45.00% | ~1,657 |
 | Trade Is My Trait | 37.00% | ~1,362 |
-| Number 18 | 24.00% | ~884 |
+| Number 18 | 25.00% | ~920 |
 | We Don't Have Time For That | 19.00% | ~700 |
 | The Governator | 18.00% | ~663 |
 | The Legend of Langostino | 17.00% | ~626 |

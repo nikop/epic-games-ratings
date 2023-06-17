@@ -7,8 +7,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 18.00% | ~1,787 |
-| Burning City | 12.00% | ~1,191 |
-| A Spark | 12.00% | ~1,191 |
+| Burning City | 12.00% | ~1,192 |
+| A Spark | 12.00% | ~1,192 |
 | Mythic Choices | 10.00% | ~993 |
 | Defender's Heart | 10.00% | ~993 |
 | Banner over the Citadel | 9.00% | ~894 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.60% | ~60 |
 | Dreadful Dragon | 0.50% | ~50 |
 | Masterful Charge | 0.40% | ~40 |
-| Prelate's Nemesis | 0.30% | ~30 |
+| Prelate's Nemesis | 0.40% | ~40 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
 | Ashes to Ashes | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,929 (Ranked 114)  
+Progressed: 9,930 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 9,861 | 0 |
 | 2023-06-15 | 9,896 | 0 |
 | 2023-06-16 | 9,923 | 0 |
-| 2023-06-17 | 9,929 | 0 |
+| 2023-06-17 | 9,930 | 0 |
 ## Awards
 Max (Character Customization): 1,662  (Ranked 112)  
 Sum: 6,751 (Ranked 109)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 23,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4342,9 +4342,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 94617,
+  "EOS_Progressed": 94664,
   "EOS_Completed": 1943,
-  "EOS_NewPlayers": 4319,
+  "EOS_NewPlayers": 4363,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
@@ -10272,6 +10272,11 @@
       "Time": "2023-06-17T06:06:06.243538+00:00",
       "NumProgressed": 94617,
       "NumCompleted": 1943
+    },
+    {
+      "Time": "2023-06-17T07:05:50.759911+00:00",
+      "NumProgressed": 94664,
+      "NumCompleted": 1943
     }
   ],
   "TotalAchievements": 493,
@@ -10283,7 +10288,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4733
     },
     {
       "ID": "objective_completed_10",
@@ -10587,7 +10592,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_1090",
@@ -10651,7 +10656,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "objective_completed_110",
@@ -11155,7 +11160,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "objective_completed_1204",
@@ -11171,7 +11176,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "objective_completed_1209",
@@ -11259,7 +11264,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "objective_completed_130",
@@ -11467,7 +11472,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_164",
@@ -11483,7 +11488,7 @@
       "Name": "Street War",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_166",
@@ -11515,7 +11520,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_170",
@@ -11619,7 +11624,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_208",
@@ -11699,7 +11704,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_231",
@@ -11731,7 +11736,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_236",
@@ -11955,7 +11960,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_34",
@@ -11963,7 +11968,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "objective_completed_35",
@@ -11979,15 +11984,15 @@
       "Name": "The Death Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 284
     },
     {
       "ID": "objective_completed_378",
@@ -12097,9 +12102,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 284
     },
     {
       "ID": "objective_completed_394",
@@ -12227,7 +12232,7 @@
       "Name": "Premature Betrayal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_410",
@@ -12419,7 +12424,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "objective_completed_54",
@@ -13427,7 +13432,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "objective_completed_70",
@@ -13491,7 +13496,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_8",
@@ -13507,7 +13512,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_802",
@@ -14027,7 +14032,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "objective_completed_902",
@@ -14155,7 +14160,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_95",
@@ -14187,7 +14192,7 @@
       "Name": "Rescue in the Jungle",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_completed_1355",
@@ -14203,7 +14208,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "objective_completed_1360",
@@ -14211,7 +14216,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_1361",
@@ -14219,28 +14224,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 60891,
+      "Progressed": 60938,
       "Completed": 2798
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 94617,
+      "Progressed": 94664,
       "Completed": 1943
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-16T19:58:23.2627907+00:00",
-  "LastChanged_Achievements": "2023-06-17T06:06:06.243537+00:00",
+  "LastChanged_Achievements": "2023-06-17T07:05:50.7599104+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-17T05:58:00.2143998+00:00",
-  "LastUpdate_Achievements": "2023-06-17T06:06:06.2468492+00:00"
+  "LastUpdate_Ratings": "2023-06-17T06:57:53.2478422+00:00",
+  "LastUpdate_Achievements": "2023-06-17T07:05:50.7623356+00:00"
 }
