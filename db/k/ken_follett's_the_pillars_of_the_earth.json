@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13311,
+  "EOS_Progressed": 13312,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4339,6 +4339,11 @@
       "Time": "2023-06-17T20:05:35.5628219+00:00",
       "NumProgressed": 13311,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-17T21:06:39.0586327+00:00",
+      "NumProgressed": 13312,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4454,7 +4459,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "tpote_achievement_22",
@@ -4510,7 +4515,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "tpote_achievement_29",
@@ -4662,7 +4667,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "tpote_achievement_9",
@@ -4677,15 +4682,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13311,
+      "Progressed": 13312,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:35.5628215+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:39.0586322+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:35.8939951+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:35.5628757+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:00:42.96705+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:39.0586813+00:00"
 }

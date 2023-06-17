@@ -1,37 +1,37 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,629 |
-| First Steps | 81.00% | ~28,419 |
-| Control the Shadows | 68.00% | ~23,858 |
-| Tools of the Trade | 63.00% | ~22,104 |
-| Apprentice | 60.00% | ~21,051 |
-| Secret Seeker | 57.00% | ~19,998 |
-| Forge of Assassins | 56.00% | ~19,648 |
-| Revenant | 52.00% | ~18,244 |
-| I don’t Care! | 45.00% | ~15,788 |
-| Bird of Prey | 37.00% | ~12,981 |
-| Engraved with Power | 32.00% | ~11,227 |
+| Awakening | 93.00% | ~32,632 |
+| First Steps | 81.00% | ~28,421 |
+| Control the Shadows | 68.00% | ~23,860 |
+| Tools of the Trade | 63.00% | ~22,105 |
+| Apprentice | 60.00% | ~21,053 |
+| Secret Seeker | 57.00% | ~20,000 |
+| Forge of Assassins | 56.00% | ~19,649 |
+| Revenant | 52.00% | ~18,246 |
+| I don’t Care! | 45.00% | ~15,790 |
+| Bird of Prey | 37.00% | ~12,983 |
+| Engraved with Power | 32.00% | ~11,228 |
 | Lady | 30.00% | ~10,526 |
-| Fashionable Assassin | 27.00% | ~9,473 |
-| Apex Predator | 24.00% | ~8,420 |
+| Fashionable Assassin | 27.00% | ~9,474 |
+| Apex Predator | 24.00% | ~8,421 |
 | Soul Reaver | 22.00% | ~7,719 |
 | Embers | 21.00% | ~7,368 |
-| Wall Lizard | 20.00% | ~7,017 |
-| Clinging to Life | 18.00% | ~6,315 |
-| Burning | 17.00% | ~5,964 |
+| Wall Lizard | 20.00% | ~7,018 |
+| Clinging to Life | 18.00% | ~6,316 |
+| Burning | 17.00% | ~5,965 |
 | Look Behind You | 16.00% | ~5,614 |
 | Sleeping on the Job | 16.00% | ~5,614 |
 | Family | 14.00% | ~4,912 |
 | War Engines | 14.00% | ~4,912 |
 | Signature Move | 14.00% | ~4,912 |
-| Ruse | 11.00% | ~3,859 |
-| Master Ninja | 10.00% | ~3,508 |
+| Ruse | 11.00% | ~3,860 |
+| Master Ninja | 10.00% | ~3,509 |
 | Hatching | 9.00% | ~3,158 |
 | Bonds | 9.00% | ~3,158 |
 | Get Over Here | 9.00% | ~3,158 |
@@ -42,8 +42,8 @@ Number of Ratings: 88  (23.09.2022)
 | The Lookout | 5.00% | ~1,754 |
 | The Spirit of Vengeance | 5.00% | ~1,754 |
 | Hollow | 5.00% | ~1,754 |
-| Left Behind | 4.00% | ~1,403 |
-| Secrets of the Earth | 4.00% | ~1,403 |
+| Left Behind | 4.00% | ~1,404 |
+| Secrets of the Earth | 4.00% | ~1,404 |
 | The Lion’s Den | 3.00% | ~1,053 |
 | Heart of Fire | 3.00% | ~1,053 |
 | Forest Spirits | 3.00% | ~1,053 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~351 |
 | Anger Management | 1.00% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,085 (Ranked 88)  
+Progressed: 35,088 (Ranked 88)  
 Completed: 174 (0.50%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 174 (0.50%) (Ranked 120)
 | 2023-06-14 | 34,861 | 173 |
 | 2023-06-15 | 34,945 | 173 |
 | 2023-06-16 | 35,023 | 173 |
-| 2023-06-17 | 35,085 | 174 |
+| 2023-06-17 | 35,088 | 174 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

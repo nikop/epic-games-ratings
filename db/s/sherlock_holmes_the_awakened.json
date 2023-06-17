@@ -41,10 +41,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 481,
-  "EOS_Completed": 19,
+  "EOS_Completed": 20,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.95,
+  "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1510,6 +1510,11 @@
       "Time": "2023-06-17T20:04:12.457154+00:00",
       "NumProgressed": 481,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-17T21:04:48.277444+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 28,
@@ -1639,9 +1644,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "MQ05_3",
@@ -1687,9 +1692,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 197
     },
     {
       "ID": "MQ07_1",
@@ -1745,15 +1750,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 481,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:04:12.4571536+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:04:48.2774435+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:57:13.7419706+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:04:12.457184+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:57:23.9885685+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:04:48.2774709+00:00"
 }

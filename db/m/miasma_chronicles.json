@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2157,9 +2157,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 173
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2294,8 +2294,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:00:14.7855793+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:01:38.4866673+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:58:10.7033398+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:00:14.785637+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:58:37.7574097+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:01:38.4867149+00:00"
 }

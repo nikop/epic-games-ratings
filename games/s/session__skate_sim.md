@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,6 +20,7 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 7.00% | ~172 |
 | Finally he zips it | 6.00% | ~147 |
 | That pinch! | 6.00% | ~147 |
+| Tight lipslides | 6.00% | ~147 |
 | Bottom ply killer | 5.00% | ~123 |
 | Fashionista | 5.00% | ~123 |
 | Fulfilled the dream | 5.00% | ~123 |
@@ -27,7 +28,6 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~123 |
 | Squad goals | 5.00% | ~123 |
 | Sup widdit big dog! | 5.00% | ~123 |
-| Tight lipslides | 5.00% | ~123 |
 | Commence the Hijinx! | 4.00% | ~98 |
 | Cops called! | 4.00% | ~98 |
 | DIY Boss | 4.00% | ~98 |

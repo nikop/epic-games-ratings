@@ -6,30 +6,30 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,239 |
-| First Class Student | 8.00% | ~22,434 |
-| Troll with the Punches | 8.00% | ~22,434 |
-| Grappling with a Graphorn | 7.00% | ~19,630 |
-| The One Who Mastered Memories | 7.00% | ~19,630 |
-| The Hallowed Hero | 7.00% | ~19,630 |
-| The Hero of Hogwarts | 7.00% | ~19,630 |
-| The Defender of Dragons | 7.00% | ~19,630 |
-| A Keen Sense of Spell | 7.00% | ~19,630 |
-| Loom for Improvement | 7.00% | ~19,630 |
-| A Talent for Spending | 7.00% | ~19,630 |
-| Coasting Along | 7.00% | ~19,630 |
-| That's a Keeper | 7.00% | ~19,630 |
+| First Class Student | 8.00% | ~22,435 |
+| Troll with the Punches | 8.00% | ~22,435 |
+| Grappling with a Graphorn | 7.00% | ~19,631 |
+| The One Who Mastered Memories | 7.00% | ~19,631 |
+| The Hallowed Hero | 7.00% | ~19,631 |
+| The Hero of Hogwarts | 7.00% | ~19,631 |
+| The Defender of Dragons | 7.00% | ~19,631 |
+| A Keen Sense of Spell | 7.00% | ~19,631 |
+| Loom for Improvement | 7.00% | ~19,631 |
+| A Talent for Spending | 7.00% | ~19,631 |
+| Coasting Along | 7.00% | ~19,631 |
+| That's a Keeper | 7.00% | ~19,631 |
 | A Sallow Grave | 6.00% | ~16,826 |
 | Challenge Accepted | 6.00% | ~16,826 |
 | Followed the Butterflies | 6.00% | ~16,826 |
 | The Spell Master | 6.00% | ~16,826 |
 | Rising From the Ashes | 6.00% | ~16,826 |
-| The Avenging Gazelle | 5.00% | ~14,021 |
-| Beast Friends | 5.00% | ~14,021 |
-| Flight the Good Flight | 5.00% | ~14,021 |
-| The Seeker of Knowledge | 4.00% | ~11,217 |
-| The Root of the Problem | 4.00% | ~11,217 |
-| Third Time's a Charm | 4.00% | ~11,217 |
-| Raising Expectations | 4.00% | ~11,217 |
+| The Avenging Gazelle | 5.00% | ~14,022 |
+| Beast Friends | 5.00% | ~14,022 |
+| Flight the Good Flight | 5.00% | ~14,022 |
+| The Seeker of Knowledge | 4.00% | ~11,218 |
+| The Root of the Problem | 4.00% | ~11,218 |
+| Third Time's a Charm | 4.00% | ~11,218 |
+| Raising Expectations | 4.00% | ~11,218 |
 | The Toast of the Town | 3.00% | ~8,413 |
 | Going Through the Potions | 3.00% | ~8,413 |
 | Room with a View | 3.00% | ~8,413 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,428 (Ranked 41)  
+Progressed: 280,438 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,10 +109,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
-| 2023-06-17 | 280,428 | 408 |
+| 2023-06-17 | 280,438 | 408 |
 ## Awards
 Max (Character Customization): 20,077  (Ranked 18)  
-Sum: 37,219 (Ranked 32)  
+Sum: 37,223 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -125,7 +125,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 810 |
 | This game has Amazing Characters | 796 |
 | This game is Highly Recommended | 779 |
-| This game has Quickly Understood Controls | 724 |
+| This game has Quickly Understood Controls | 728 |
 | This game has Beautiful Visuals | 675 |
 | This game has a Creative Community | 513 |
 ## Ratings History
@@ -216,4 +216,4 @@ Diff (max vs sum): -14
 | 2023-06-14 | 4.77 | 19,955 | 37,005 |
 | 2023-06-15 | 4.77 | 19,994 | 37,095 |
 | 2023-06-16 | 4.77 | 20,032 | 37,165 |
-| 2023-06-17 | 4.77 | 20,077 | 37,219 |
+| 2023-06-17 | 4.77 | 20,077 | 37,223 |

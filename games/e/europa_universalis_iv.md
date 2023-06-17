@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,126 |
-| That's a Grand Army | 8.00% | ~4,556 |
-| That is mine! | 8.00% | ~4,556 |
-| Victorious! | 8.00% | ~4,556 |
-| Brothers in Arms | 6.00% | ~3,417 |
-| That's a Grand Navy | 6.00% | ~3,417 |
-| Seriously?! | 6.00% | ~3,417 |
-| For the Glory | 5.00% | ~2,848 |
-| Cold War | 4.00% | ~2,278 |
-| True Catholic | 4.00% | ~2,278 |
+| Until death do us apart | 9.00% | ~5,128 |
+| That's a Grand Army | 8.00% | ~4,558 |
+| That is mine! | 8.00% | ~4,558 |
+| Victorious! | 8.00% | ~4,558 |
+| Brothers in Arms | 6.00% | ~3,418 |
+| That's a Grand Navy | 6.00% | ~3,418 |
+| Seriously?! | 6.00% | ~3,418 |
+| For the Glory | 5.00% | ~2,849 |
+| Cold War | 4.00% | ~2,279 |
+| True Catholic | 4.00% | ~2,279 |
 | Defender of the Faith | 3.00% | ~1,709 |
 | It's all about the money | 3.00% | ~1,709 |
 | Respected | 3.00% | ~1,709 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,953 (Ranked 76)  
+Progressed: 56,973 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,17 +419,17 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
-| 2023-06-17 | 56,953 | 0 |
+| 2023-06-17 | 56,973 | 0 |
 ## Awards
-Max (Educational): 5,397  (Ranked 61)  
-Sum: 44,667 (Ranked 27)  
+Max (Educational): 5,404  (Ranked 61)  
+Sum: 44,681 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,397 |
+| This game is Educational | 5,404 |
 | This game is Highly Recommended | 5,188 |
 | This game has Challenging Combat | 5,158 |
-| This game is Extremely Fun | 5,117 |
+| This game is Extremely Fun | 5,124 |
 | This game has Diverse Characters | 5,084 |
 | This game is Relaxing | 5,014 |
 | This game has Competitive Players | 4,868 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 34
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
 | 2023-06-16 | 4.69 | - | 5,397 | 44,627 |
-| 2023-06-17 | 4.69 | - | 5,397 | 44,667 |
+| 2023-06-17 | 4.69 | - | 5,404 | 44,681 |

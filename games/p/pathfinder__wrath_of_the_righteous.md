@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 10.00% | ~994 |
 | Defender's Heart | 10.00% | ~994 |
 | Banner over the Citadel | 9.00% | ~895 |
-| Queen's Gratitude | 8.00% | ~795 |
+| Queen's Gratitude | 8.00% | ~796 |
 | Fifth Crusade | 5.00% | ~497 |
 | Embrace of the Abyss | 4.00% | ~398 |
 | Path of the Angel | 4.00% | ~398 |
@@ -36,11 +36,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~199 |
 | Your First Big Enemy | 2.00% | ~199 |
 | Hey, I Know You! | 2.00% | ~199 |
-| Stay Underground | 2.00% | ~174 |
-| Hanged Man's Notes | 2.00% | ~174 |
-| Sarkoris Will Be Green | 2.00% | ~174 |
-| The Lady of the Forest | 2.00% | ~174 |
-| Beware Still Water | 2.00% | ~174 |
+| Stay Underground | 2.00% | ~175 |
+| Hanged Man's Notes | 2.00% | ~175 |
+| Sarkoris Will Be Green | 2.00% | ~175 |
+| The Lady of the Forest | 2.00% | ~175 |
+| Beware Still Water | 2.00% | ~175 |
 | Path of the Demon | 1.00% | ~99 |
 | Path of the Aeon | 1.00% | ~99 |
 | Abyssal Conspiracy | 1.00% | ~99 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,943 (Ranked 114)  
+Progressed: 9,945 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 9,861 | 0 |
 | 2023-06-15 | 9,896 | 0 |
 | 2023-06-16 | 9,923 | 0 |
-| 2023-06-17 | 9,943 | 0 |
+| 2023-06-17 | 9,945 | 0 |
 ## Awards
 Max (Character Customization): 1,662  (Ranked 113)  
 Sum: 6,751 (Ranked 109)  

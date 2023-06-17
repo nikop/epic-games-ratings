@@ -10,7 +10,7 @@
 | Wait! Wait! Not yet! | 37.00% | ~164 |
 | Like Flying... | 33.00% | ~147 |
 | Memories | 29.00% | ~129 |
-| The Maggot | 26.00% | ~115 |
+| The Maggot | 27.00% | ~120 |
 | The Breeder | 22.00% | ~98 |
 | The Veteran | 18.00% | ~80 |
 | The Traitor | 14.00% | ~62 |
@@ -19,8 +19,8 @@
 | Her Eyes | 9.00% | ~40 |
 | He's so Annoying | 8.00% | ~36 |
 | Murderer | 8.00% | ~36 |
+| Trigger-Happy | 8.00% | ~36 |
 | Gollum/Sméagol | 7.00% | ~31 |
-| Trigger-Happy | 7.00% | ~31 |
 | The Friend | 6.00% | ~27 |
 | Master of the Old Game | 5.00% | ~22 |
 | Made a Song | 5.00% | ~22 |

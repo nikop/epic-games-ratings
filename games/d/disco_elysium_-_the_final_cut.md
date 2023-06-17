@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,093 |
+| Goodest Of The Good Cops | 28.00% | ~34,094 |
 | Biggest Communism Builder | 24.00% | ~29,223 |
-| The World's Most Laughable Centrist | 20.00% | ~24,352 |
+| The World's Most Laughable Centrist | 20.00% | ~24,353 |
 | Il Coppo Del'Arte! | 18.00% | ~21,917 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,482 |
 | Hyperstellar Law Official | 15.00% | ~18,264 |
@@ -16,12 +16,12 @@ Number of Ratings: 1,611  (23.09.2022)
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,829 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,829 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,394 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,958 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,959 |
 | Unbelievably Boring **** | 8.00% | ~9,741 |
 | Enemy Of The Physical Realm | 8.00% | ~9,741 |
 | Hardie's Heroes | 5.00% | ~6,088 |
-| The Lawbringer | 4.00% | ~4,870 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,870 |
+| The Lawbringer | 4.00% | ~4,871 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,871 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,653 |
 | Bother Kim After Hours | 3.00% | ~3,653 |
 | Baddest Of the Bad Cops | 2.00% | ~2,435 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,761 (Ranked 59)  
+Progressed: 121,763 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,11 +105,11 @@ Completed: 25 (0.02%) (Ranked 207)
 | 2023-06-14 | 121,513 | 25 |
 | 2023-06-15 | 121,622 | 25 |
 | 2023-06-16 | 121,694 | 25 |
-| 2023-06-17 | 121,761 | 25 |
+| 2023-06-17 | 121,763 | 25 |
 ## Awards
-Max (Character Customization): 696  (Ranked 159)  
+Max (Character Customization): 696  (Ranked 160)  
 Sum: 1,056 (Ranked 232)  
-Diff (max vs sum): -73  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 696 |

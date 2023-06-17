@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -321,6 +321,11 @@
       "Time": "2023-06-17T20:03:08.5413813+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T21:03:36.2747905+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -412,15 +417,15 @@
       "Name": "Keeping Busy",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_headquarters_20",
@@ -434,7 +439,7 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -442,9 +447,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -452,7 +457,7 @@
       "Name": "Sergeant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -490,23 +495,23 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 73
     },
@@ -530,9 +535,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -580,7 +585,7 @@
       "Name": "Factory Expansion",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -588,7 +593,7 @@
       "Name": "Defenses Online",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -602,9 +607,9 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -635,14 +640,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:03:08.5413809+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:03:36.27479+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:57.1070655+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:03:08.5414126+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:01:13.5797927+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:03:36.2748141+00:00"
 }

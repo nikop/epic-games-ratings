@@ -18,9 +18,9 @@ Rating: 4.62 (Ranked 346)
 | Open Sesame | 43.00% | ~207 |
 | Sticky Fingers | 43.00% | ~207 |
 | Knives Out | 43.00% | ~207 |
+| Back In The Saddle | 42.00% | ~202 |
 | Land, Ho! | 42.00% | ~202 |
-| Back In The Saddle | 41.00% | ~197 |
-| No Man Is An Island | 40.00% | ~192 |
+| No Man Is An Island | 41.00% | ~197 |
 | At Wits' End | 40.00% | ~192 |
 | Bookworm | 37.00% | ~178 |
 | Up In Flames | 37.00% | ~178 |
@@ -35,7 +35,7 @@ Rating: 4.62 (Ranked 346)
 | Reawakened | 5.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 481 (Ranked 208)  
-Completed: 19 (3.95%) (Ranked 39)  
+Completed: 20 (4.16%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 19 (3.95%) (Ranked 39)
 | 2023-06-14 | 460 | 18 |
 | 2023-06-15 | 468 | 19 |
 | 2023-06-16 | 474 | 19 |
-| 2023-06-17 | 481 | 19 |
+| 2023-06-17 | 481 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

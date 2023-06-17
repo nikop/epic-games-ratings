@@ -1,16 +1,16 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,759 |
-| Let There Be Light | 25.00% | ~13,874 |
-| Float Like a Butterfly | 24.00% | ~13,319 |
-| Nordic Walking | 19.00% | ~10,544 |
-| Bright Falls' Finest | 19.00% | ~10,544 |
+| Follow the Light | 32.00% | ~17,761 |
+| Let There Be Light | 25.00% | ~13,876 |
+| Float Like a Butterfly | 24.00% | ~13,321 |
+| Nordic Walking | 19.00% | ~10,546 |
+| Bright Falls' Finest | 19.00% | ~10,546 |
 | Under a Thin Layer of Skin | 16.00% | ~8,880 |
 | Park Ranger | 13.00% | ~7,215 |
 | Finders Keepers | 13.00% | ~7,215 |
@@ -28,18 +28,18 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 9.00% | ~4,995 |
 | Collateral Carnage | 9.00% | ~4,995 |
 | Gatekeeper | 8.00% | ~4,440 |
+| The Lady of the Light | 8.00% | ~4,440 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,440 |
 | Thunder and Lightning | 8.00% | ~4,440 |
 | Two For the Price of One | 8.00% | ~4,440 |
 | Energized! | 8.00% | ~4,440 |
-| A Friend in Need | 8.00% | ~1,517 |
-| The Lady of the Light | 7.00% | ~3,885 |
+| A Friend in Need | 8.00% | ~1,518 |
 | Right of Way | 7.00% | ~3,885 |
 | Tornado Wrangler | 6.00% | ~3,330 |
 | What Light Through Yonder Window | 6.00% | ~3,330 |
 | A Friend Indeed | 6.00% | ~1,138 |
 | Departure | 5.00% | ~2,775 |
-| Ding! | 5.00% | ~948 |
+| Ding! | 5.00% | ~949 |
 | Children of the Elder God | 4.00% | ~2,220 |
 | Drink 'Em Both Up | 4.00% | ~2,220 |
 | Hardboiled Writer | 4.00% | ~2,220 |
@@ -61,20 +61,20 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~76 |
 | Whirlwind | 0.40% | ~76 |
 | Creative Space | 0.40% | ~76 |
-| Alan, Wake Up | 0.30% | ~166 |
-| Picking Up After Yourself | 0.30% | ~166 |
+| Alan, Wake Up | 0.30% | ~167 |
+| Picking Up After Yourself | 0.30% | ~167 |
 | Run-On Sentence | 0.30% | ~57 |
 | Meet the Deadline | 0.20% | ~111 |
 | Gunless Wonder | 0.20% | ~111 |
 | Bright Falls Aficionado | 0.20% | ~111 |
 | Tick Tock | 0.20% | ~38 |
 | Licensed Properties | 0.20% | ~38 |
-| Every Nook and Cranny | 0.10% | ~55 |
-| Collector's Edition | 0.10% | ~55 |
-| Hypercaffeinated | 0.10% | ~55 |
+| Every Nook and Cranny | 0.10% | ~56 |
+| Collector's Edition | 0.10% | ~56 |
+| Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,497 (Ranked 77)  
+Progressed: 55,503 (Ranked 77)  
 Completed: 55 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 55 (0.10%) (Ranked 173)
 | 2023-06-14 | 54,950 | 55 |
 | 2023-06-15 | 55,202 | 55 |
 | 2023-06-16 | 55,360 | 55 |
-| 2023-06-17 | 55,497 | 55 |
+| 2023-06-17 | 55,503 | 55 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

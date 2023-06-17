@@ -34,12 +34,12 @@ Rating: 3.46 (Ranked 943)
 | Right This Way | 4.00% | ~68 |
 | Nice Try | 4.00% | ~68 |
 | Revelations | 3.00% | ~51 |
+| Contingency Plans | 3.00% | ~51 |
 | Sic Transit Umbra | 3.00% | ~51 |
 | Silence Is Golden | 3.00% | ~51 |
 | Good Morning | 3.00% | ~51 |
 | Check, Please! | 3.00% | ~51 |
 | Enemy of My Enemy | 3.00% | ~51 |
-| Contingency Plans | 2.00% | ~34 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |

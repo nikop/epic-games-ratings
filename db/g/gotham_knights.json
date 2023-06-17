@@ -1592,9 +1592,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65442,
+  "EOS_Progressed": 65452,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6707,6 +6707,11 @@
       "Time": "2023-06-17T20:05:58.190564+00:00",
       "NumProgressed": 65442,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-17T21:07:07.1158973+00:00",
+      "NumProgressed": 65452,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6798,7 +6803,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "APPLY_STATUS",
@@ -6878,7 +6883,7 @@
       "Name": "Not On My Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -6894,7 +6899,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -6926,7 +6931,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -6934,7 +6939,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "FREEZE_1",
@@ -6942,7 +6947,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "FREEZE_1_5",
@@ -7030,7 +7035,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "HARLEY_3",
@@ -7094,7 +7099,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -7118,7 +7123,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "MYSTERY_03",
@@ -7158,7 +7163,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "MYSTERY_08",
@@ -7166,7 +7171,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "SECRET_CACHE",
@@ -7174,7 +7179,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -7182,7 +7187,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -7205,13 +7210,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65442,
+      "Progressed": 65452,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35722,
+      "Progressed": 35732,
       "Completed": 2646
     }
   ],
@@ -7219,8 +7224,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-17T13:02:58.5147697+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:58.1905635+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:07:07.1158969+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:24.1162283+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:58.1906547+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:00:25.0632836+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:07:07.1159667+00:00"
 }

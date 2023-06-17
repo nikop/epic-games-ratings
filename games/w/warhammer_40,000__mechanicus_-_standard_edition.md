@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 649)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,621 |
-| This is only the beginning | 19.00% | ~40,752 |
-| Knowledge is power | 12.00% | ~25,738 |
-| Power Ranger | 9.00% | ~19,304 |
-| Galvanic Rifle | 9.00% | ~19,304 |
-| Taser Goad | 9.00% | ~19,304 |
-| Radium Ready | 9.00% | ~19,304 |
-| Half a cog | 9.00% | ~19,304 |
-| Watch them crumble | 6.00% | ~12,869 |
-| Competent Cohort | 4.00% | ~8,579 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,579 |
-| One with the Machine | 4.00% | ~8,579 |
+| No aid from the Omnissiah | 25.00% | ~53,625 |
+| This is only the beginning | 19.00% | ~40,755 |
+| Knowledge is power | 12.00% | ~25,740 |
+| Power Ranger | 9.00% | ~19,305 |
+| Galvanic Rifle | 9.00% | ~19,305 |
+| Taser Goad | 9.00% | ~19,305 |
+| Radium Ready | 9.00% | ~19,305 |
+| Half a cog | 9.00% | ~19,305 |
+| Watch them crumble | 6.00% | ~12,870 |
+| Competent Cohort | 4.00% | ~8,580 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,580 |
+| One with the Machine | 4.00% | ~8,580 |
 | Legio Cybernetica | 3.00% | ~6,435 |
 | Fleshy Disposal | 3.00% | ~6,435 |
 | Battle Servitor | 2.00% | ~4,290 |
@@ -24,23 +24,23 @@ Rating: 4.43 (Ranked 649)
 | Impatient destruction | 2.00% | ~4,290 |
 | Vivisected Vizier | 2.00% | ~4,290 |
 | Architect Abortion | 2.00% | ~4,290 |
-| Cohortus Maximus | 0.70% | ~1,501 |
+| Cohortus Maximus | 0.70% | ~1,502 |
 | Mother of Xenarites | 0.40% | ~858 |
-| False God | 0.30% | ~643 |
+| False God | 0.30% | ~644 |
 | Hard | 0.20% | ~429 |
 | Transonic Blur | 0.20% | ~429 |
-| Sterile Perfection | 0.10% | ~214 |
-| Impossible | 0.10% | ~214 |
-| Sensory overload | 0.10% | ~214 |
-| Melee Machine | 0.10% | ~214 |
-| AoE-phobia | 0.10% | ~214 |
-| Zero to Hero | 0.10% | ~214 |
-| No Omnissian Guidance | 0.10% | ~214 |
-| Not the Men-of-Iron | 0.10% | ~214 |
-| Perma-live | 0.10% | ~214 |
-| Purge the Heretek | 0.10% | ~214 |
+| Sterile Perfection | 0.10% | ~215 |
+| Impossible | 0.10% | ~215 |
+| Sensory overload | 0.10% | ~215 |
+| Melee Machine | 0.10% | ~215 |
+| AoE-phobia | 0.10% | ~215 |
+| Zero to Hero | 0.10% | ~215 |
+| No Omnissian Guidance | 0.10% | ~215 |
+| Not the Men-of-Iron | 0.10% | ~215 |
+| Perma-live | 0.10% | ~215 |
+| Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,485 (Ranked 50)  
+Progressed: 214,501 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 4 (0.00%) (Ranked 228)
 | 2023-06-14 | 214,157 | 4 |
 | 2023-06-15 | 214,265 | 4 |
 | 2023-06-16 | 214,359 | 4 |
-| 2023-06-17 | 214,485 | 4 |
+| 2023-06-17 | 214,501 | 4 |
 ## Awards
 Max (Highly Recommended): 279  (Ranked 235)  
 Sum: 2,107 (Ranked 186)  

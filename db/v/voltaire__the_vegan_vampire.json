@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -163,6 +163,11 @@
       "Time": "2023-06-14T13:10:24.3650639+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T21:04:19.356247+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -206,7 +211,7 @@
       "Name": "Good to grow",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FISH",
@@ -246,7 +251,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "HUNTING",
@@ -404,9 +409,9 @@
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "V_VEGAN",
@@ -421,7 +426,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
@@ -429,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:03:41.0540914+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:04:19.3562464+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.6763703+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:57:24.8275441+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:03:41.0541142+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:57:38.2734488+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:04:19.3562643+00:00"
 }

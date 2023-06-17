@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,599 |
-| Wallbanger | 5.00% | ~19,599 |
-| Exploitative | 4.00% | ~15,679 |
-| High Speed Low Drag | 4.00% | ~15,679 |
-| Wet Feet | 4.00% | ~15,679 |
-| Checkpoint Victory | 3.00% | ~11,759 |
-| Lucky | 3.00% | ~11,759 |
-| Stylin' | 3.00% | ~11,759 |
-| Turf War | 3.00% | ~11,759 |
-| Banged | 2.00% | ~7,839 |
-| First Blood | 2.00% | ~7,839 |
-| Flaccid Paralysis | 2.00% | ~7,839 |
-| Push Victory | 2.00% | ~7,839 |
-| Self-destructive | 2.00% | ~7,839 |
-| Blindfire | 1.00% | ~3,920 |
-| Efficient | 1.00% | ~3,920 |
-| Ruthless | 1.00% | ~3,920 |
-| Semper Paratus | 1.00% | ~3,920 |
+| Point Shooting | 5.00% | ~19,603 |
+| Wallbanger | 5.00% | ~19,603 |
+| Exploitative | 4.00% | ~15,682 |
+| High Speed Low Drag | 4.00% | ~15,682 |
+| Wet Feet | 4.00% | ~15,682 |
+| Checkpoint Victory | 3.00% | ~11,762 |
+| Lucky | 3.00% | ~11,762 |
+| Stylin' | 3.00% | ~11,762 |
+| Turf War | 3.00% | ~11,762 |
+| Banged | 2.00% | ~7,841 |
+| First Blood | 2.00% | ~7,841 |
+| Flaccid Paralysis | 2.00% | ~7,841 |
+| Push Victory | 2.00% | ~7,841 |
+| Self-destructive | 2.00% | ~7,841 |
+| Blindfire | 1.00% | ~3,921 |
+| Efficient | 1.00% | ~3,921 |
+| Ruthless | 1.00% | ~3,921 |
+| Semper Paratus | 1.00% | ~3,921 |
 | Carrying | 0.90% | ~3,528 |
 | Mount & Gun | 0.90% | ~3,528 |
 | Personal | 0.90% | ~3,528 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~392 |
 | Road Hazard | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391,974 (Ranked 39)  
+Progressed: 392,051 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 2 (0.00%) (Ranked 228)
 | 2023-06-14 | 387,902 | 2 |
 | 2023-06-15 | 389,537 | 2 |
 | 2023-06-16 | 390,847 | 2 |
-| 2023-06-17 | 391,974 | 2 |
+| 2023-06-17 | 392,051 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 359  (Ranked 215)  
 Sum: 2,717 (Ranked 162)  

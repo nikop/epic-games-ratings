@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.70 (Ranked 196)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,233 |
-| Rookie | 25.00% | ~6,697 |
-| Nomad | 18.00% | ~4,822 |
-| Picking Up Speed | 17.00% | ~4,554 |
-| Welcome Maya | 16.00% | ~4,286 |
+| Finding Your Footing | 27.00% | ~7,235 |
+| Rookie | 25.00% | ~6,699 |
+| Nomad | 18.00% | ~4,823 |
+| Picking Up Speed | 17.00% | ~4,555 |
+| Welcome Maya | 16.00% | ~4,287 |
 | Sightseer | 12.00% | ~3,215 |
-| Scout | 10.00% | ~2,679 |
-| Amateur | 9.00% | ~2,411 |
-| Wanderer | 9.00% | ~2,411 |
-| Enter Paz | 8.00% | ~2,143 |
-| Unlock Maya | 7.00% | ~1,875 |
-| Aviator | 6.00% | ~1,607 |
-| One With The Board | 6.00% | ~1,607 |
-| My Little Friend | 5.00% | ~1,339 |
-| Voyager | 5.00% | ~1,339 |
+| Scout | 10.00% | ~2,680 |
+| Amateur | 9.00% | ~2,412 |
+| Wanderer | 9.00% | ~2,412 |
+| Enter Paz | 8.00% | ~2,144 |
+| Unlock Maya | 7.00% | ~1,876 |
+| Aviator | 6.00% | ~1,608 |
+| One With The Board | 6.00% | ~1,608 |
+| My Little Friend | 5.00% | ~1,340 |
+| Voyager | 5.00% | ~1,340 |
 | Sandboarder | 4.00% | ~1,072 |
 | Izel Has Arrived | 4.00% | ~1,072 |
 | Junkie | 3.00% | ~804 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~27 |
 | Windswept | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,788 (Ranked 93)  
+Progressed: 26,795 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 5 (0.02%) (Ranked 207)
 | 2023-06-14 | 26,301 | 5 |
 | 2023-06-15 | 26,473 | 5 |
 | 2023-06-16 | 26,626 | 5 |
-| 2023-06-17 | 26,788 | 5 |
+| 2023-06-17 | 26,795 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 406)  
 Sum: 347 (Ranked 320)  
@@ -211,3 +211,4 @@ Diff (max vs sum): 86
 | 2023-06-01 | 4.69 | - | 44 | 345 |
 | 2023-06-07 | 4.69 | - | 44 | 346 |
 | 2023-06-15 | 4.69 | - | 45 | 347 |
+| 2023-06-17 | 4.70 | - | 45 | 347 |

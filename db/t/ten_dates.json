@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-06-17T15:05:32.0576386+00:00",
       "NumProgressed": 256,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-17T21:06:34.1066306+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -406,7 +411,7 @@
       "Name": "Let it begin",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "profile_ryan",
@@ -446,7 +451,7 @@
       "Name": "The lad",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "success_brandy",
@@ -525,7 +530,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 3
     }
   ],
@@ -533,8 +538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:31.7035917+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:34.1066298+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:09.8501541+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:57:21.1204167+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:31.7036042+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:57:33.0950365+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:34.1066438+00:00"
 }

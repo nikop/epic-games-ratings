@@ -2,9 +2,9 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -182,9 +182,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "11_Itsinthevault",
@@ -254,9 +254,9 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "20_AccessProtocol",
@@ -351,8 +351,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:41.0778788+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:45.7578375+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:38.5606048+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:57:48.7520965+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:41.0778983+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:58:10.3772763+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:45.7578549+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -187,6 +187,11 @@
       "Time": "2023-06-17T13:09:30.1767651+00:00",
       "NumProgressed": 166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-17T21:06:55.0477746+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -198,7 +203,7 @@
       "Name": "Bromance",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "comedy_killer",
@@ -206,7 +211,7 @@
       "Name": "Comedy Killer",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -214,7 +219,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "deathlooper",
@@ -228,9 +233,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "leader_you_are_not",
@@ -238,7 +243,7 @@
       "Name": "A leader, you are not",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "lootaphilia",
@@ -270,15 +275,15 @@
       "Name": "Mission Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -286,7 +291,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "thats_my_boy",
@@ -333,7 +338,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 4
     }
   ],
@@ -341,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:48.5775998+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:55.0477741+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4409557+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:32.688713+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:48.5776115+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:00:37.1387077+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:55.0477862+00:00"
 }

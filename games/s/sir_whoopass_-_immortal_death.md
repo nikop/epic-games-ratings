@@ -19,38 +19,38 @@
 | Oh, you're up to no gouda! | 63.00% | ~50 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~50 |
 | Meat grinder | 59.00% | ~47 |
-| You're not going to blow me up! | 54.00% | ~43 |
+| You're not going to blow me up! | 56.00% | ~44 |
 | Mushroom soup of the day | 53.00% | ~42 |
 | Honk honk! | 52.00% | ~41 |
-| Butcher | 51.00% | ~40 |
-| Spare Ribs | 49.00% | ~39 |
-| My pants squeak when I walk | 48.00% | ~38 |
+| Butcher | 52.00% | ~41 |
+| Spare Ribs | 51.00% | ~40 |
+| My pants squeak when I walk | 49.00% | ~39 |
 | Thats disgusting! | 48.00% | ~38 |
 | Cockadoodledoo! | 47.00% | ~37 |
-| Surprise!! | 43.00% | ~34 |
-| Self assessed tax return | 41.00% | ~32 |
+| Surprise!! | 44.00% | ~35 |
+| Self assessed tax return | 42.00% | ~33 |
+| Make America Grate Again | 37.00% | ~29 |
 | Haemochromatosis | 37.00% | ~29 |
 | Pasta Bolognese | 37.00% | ~29 |
-| Make America Grate Again | 35.00% | ~28 |
+| You are no match for me, Billy! | 35.00% | ~28 |
 | Karaoke king | 35.00% | ~28 |
-| You are no match for me, Billy! | 34.00% | ~27 |
+| You can't stop me, bro! | 35.00% | ~28 |
 | Catch the bus with me! | 34.00% | ~27 |
-| You can't stop me, bro! | 34.00% | ~27 |
 | I'm going to get a concussion | 33.00% | ~26 |
 | Meatballs, coming up! | 30.00% | ~24 |
 | A Megapint...? | 30.00% | ~24 |
-| Another one bites the iron | 27.00% | ~21 |
+| Another one bites the iron | 28.00% | ~22 |
 | Ripe Meat Off The Bone! | 24.00% | ~19 |
 | Hovering around | 24.00% | ~19 |
+| Kleptomaniac | 23.00% | ~18 |
 | You're not so Big anymore, Boi! | 22.00% | ~17 |
 | Your daily dose of Vitamin C. | 22.00% | ~17 |
 | I cant stand still! | 22.00% | ~17 |
-| Kleptomaniac | 22.00% | ~17 |
 | Master Butcher | 18.00% | ~14 |
 | Just wing it! | 18.00% | ~14 |
+| Yeehaw!!! | 15.00% | ~12 |
 | Slimy... yet satisfying | 15.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~11 |
-| Yeehaw!!! | 14.00% | ~11 |
 | Deal with it | 14.00% | ~11 |
 | You're looking mozzare-hella good! | 11.00% | ~9 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |

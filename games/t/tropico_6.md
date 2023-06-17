@@ -1,26 +1,26 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,807 |
-| Un-Lonely Island | 48.00% | ~1,773 |
-| The Beginning of a Servantship | 45.00% | ~1,662 |
-| Trade Is My Trait | 37.00% | ~1,367 |
+| Just One...More...Term... | 76.00% | ~2,810 |
+| Un-Lonely Island | 48.00% | ~1,775 |
+| The Beginning of a Servantship | 45.00% | ~1,664 |
+| Trade Is My Trait | 37.00% | ~1,368 |
 | Number 18 | 25.00% | ~924 |
 | We Don't Have Time For That | 20.00% | ~739 |
 | The Governator | 18.00% | ~665 |
 | The Legend of Langostino | 17.00% | ~628 |
-| Caribbean Comrade | 16.00% | ~591 |
-| The Dreamer of Dreams | 16.00% | ~591 |
-| Happy Ending? | 11.00% | ~406 |
-| Go Sovereigns! | 11.00% | ~406 |
-| For Science! | 11.00% | ~406 |
-| Of Seals And Men | 10.00% | ~369 |
-| Shackadelic | 10.00% | ~369 |
+| Caribbean Comrade | 16.00% | ~592 |
+| The Dreamer of Dreams | 16.00% | ~592 |
+| Go Sovereigns! | 11.00% | ~407 |
+| For Science! | 11.00% | ~407 |
+| Happy Ending? | 10.00% | ~370 |
+| Of Seals And Men | 10.00% | ~370 |
+| Shackadelic | 10.00% | ~370 |
 | Double Trouble | 8.00% | ~296 |
 | Firestarter | 8.00% | ~296 |
 | Make Tropico Great Again! | 8.00% | ~296 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~33 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,694 (Ranked 138)  
+Progressed: 3,697 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-14 | 3,644 | 1 |
 | 2023-06-15 | 3,671 | 1 |
 | 2023-06-16 | 3,680 | 1 |
-| 2023-06-17 | 3,694 | 1 |
+| 2023-06-17 | 3,697 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 278)  

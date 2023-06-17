@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 29,
-  "Ranking_Popularity": 159,
+  "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 207,
@@ -1139,9 +1139,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121761,
+  "EOS_Progressed": 121763,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6724,6 +6724,11 @@
       "Time": "2023-06-17T20:05:47.2818095+00:00",
       "NumProgressed": 121761,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-17T21:06:53.445422+00:00",
+      "NumProgressed": 121763,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6815,7 +6820,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34093
+      "UsersEstimate": 34094
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -6831,7 +6836,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -6847,7 +6852,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24352
+      "UsersEstimate": 24353
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -6895,7 +6900,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10958
+      "UsersEstimate": 10959
     },
     {
       "ID": "ACH_GLUTEN",
@@ -7031,7 +7036,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -7054,15 +7059,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121761,
+      "Progressed": 121763,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-13T14:58:46.2792638+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:47.2818091+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:53.4454216+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:58:50.0455329+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:47.2818715+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:59:33.3936135+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:53.4454713+00:00"
 }

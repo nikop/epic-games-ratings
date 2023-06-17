@@ -3,9 +3,9 @@
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "ProductSlug": "vampire-the-masquerade-swansong",
   "Ranking_Rating": 822,
-  "Ranking_Popularity": 355,
-  "Ranking_PopularitySum": 417,
-  "Ranking_EOS_Progress": 369,
+  "Ranking_Popularity": 354,
+  "Ranking_PopularitySum": 415,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 125,
@@ -443,18 +443,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 77,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-06-17T20:59:52.7431622+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 77,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 78,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 77
+      "Count": 78
     }
   ],
   "EOS_Progressed": 12,
@@ -482,9 +488,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
-  "LastChanged": "2023-05-17T13:59:38.6996147+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:29.2683892+00:00",
+  "LastChanged": "2023-06-17T20:59:52.7431621+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:31.1593094+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:56.2800425+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:03.0370455+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:29.2683933+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:59:52.7431626+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:31.1593174+00:00"
 }

@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3261,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3440,9 +3440,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2609
     },
     {
       "ID": "Ach002",
@@ -3943,8 +3943,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:57.3782986+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:07:06.1987815+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:58:22.9135698+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:57.3783773+00:00"
+  "LastUpdate_Ratings": "2023-06-17T20:58:56.033014+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:07:06.1988413+00:00"
 }

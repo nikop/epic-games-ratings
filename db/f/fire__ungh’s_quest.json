@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -418,9 +418,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Level_completed_001_002",
@@ -474,9 +474,9 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Level_completed_008_005",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:42.9352259+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:06:48.1088008+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:25.9828618+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:59:29.7118046+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:42.9352446+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:00:32.4974512+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:06:48.1088185+00:00"
 }

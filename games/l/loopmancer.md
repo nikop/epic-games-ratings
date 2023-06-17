@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 103.00% | ~97 |
-| Break no Sweat | 97.00% | ~91 |
-| Every little bit counts | 97.00% | ~91 |
-| Growth | 86.00% | ~81 |
-| Targeting the Enemy | 68.00% | ~64 |
-| Unavoidable | 63.00% | ~59 |
-| Revenge | 61.00% | ~57 |
+| Black Cat's Warning | 102.00% | ~97 |
+| Break no Sweat | 96.00% | ~91 |
+| Every little bit counts | 96.00% | ~91 |
+| Growth | 85.00% | ~81 |
+| Targeting the Enemy | 67.00% | ~64 |
+| Unavoidable | 62.00% | ~59 |
+| Revenge | 60.00% | ~57 |
 | Reunion | 41.00% | ~39 |
 | Fluke | 34.00% | ~32 |
 | Victor's Prejudice | 33.00% | ~31 |
 | Elimination | 32.00% | ~30 |
-| Excellent Driving Skills | 29.00% | ~27 |
-| Once Bitten, Twice Shy | 29.00% | ~27 |
-| Memento | 29.00% | ~27 |
-| Unsalvageable | 26.00% | ~24 |
-| Fleet-footed | 26.00% | ~24 |
+| Excellent Driving Skills | 28.00% | ~27 |
+| Once Bitten, Twice Shy | 28.00% | ~27 |
+| Memento | 28.00% | ~27 |
+| Fleet-footed | 26.00% | ~25 |
+| Unsalvageable | 25.00% | ~24 |
 | Defeat the AI | 24.00% | ~23 |
 | Invincible | 24.00% | ~23 |
 | Walking into a Trap | 22.00% | ~21 |
@@ -31,9 +31,9 @@
 | Reappearance | 15.00% | ~14 |
 | Brain in a Vat | 15.00% | ~14 |
 | King of the Streets | 11.00% | ~10 |
-| Calamity | 10.00% | ~9 |
-| Survival Expert | 10.00% | ~9 |
-| Rest in peace | 9.00% | ~8 |
+| Calamity | 9.00% | ~9 |
+| Survival Expert | 9.00% | ~9 |
+| Rest in peace | 8.00% | ~8 |
 | Still A Chance | 7.00% | ~7 |
 | Achieving Excellence | 7.00% | ~7 |
 | Fashionista | 7.00% | ~7 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 287)  
+Progressed: 95 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 94 | 0 |
 | 2023-06-15 | 95 | 0 |
 | 2023-06-16 | 93 | 0 |
-| 2023-06-17 | 94 | 0 |
+| 2023-06-17 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2394,10 +2394,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6420,
       "NumberOfAwardsMax": 2314
+    },
+    {
+      "Time": "2023-06-17T21:01:26.3670437+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6421,
+      "NumberOfAwardsMax": 2314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6420,
+  "NumberOfAwards": 6421,
   "NumberOfAwardsMax": 2314,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2429,7 +2435,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 456
+      "Count": 457
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2474,9 +2480,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49605,
+  "EOS_Progressed": 49606,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -7584,6 +7590,11 @@
       "Time": "2023-06-17T20:05:57.0222243+00:00",
       "NumProgressed": 49605,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-06-17T21:07:05.7136098+00:00",
+      "NumProgressed": 49606,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 45,
@@ -7619,7 +7630,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39188
+      "UsersEstimate": 39189
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7707,7 +7718,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29267
+      "UsersEstimate": 29268
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -7715,7 +7726,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22818
+      "UsersEstimate": 22819
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -7731,7 +7742,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23314
+      "UsersEstimate": 23315
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -7755,7 +7766,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12897
+      "UsersEstimate": 12898
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -7859,7 +7870,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48117
+      "UsersEstimate": 48118
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7954,15 +7965,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49605,
+      "Progressed": 49606,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-17T15:00:17.847169+00:00",
-  "LastChanged_Achievements": "2023-06-17T20:05:57.022224+00:00",
+  "LastChanged": "2023-06-17T21:01:26.3670436+00:00",
+  "LastChanged_Achievements": "2023-06-17T21:07:05.7136089+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:00:07.8974491+00:00",
-  "LastUpdate_Achievements": "2023-06-17T20:05:57.0222885+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:01:26.367044+00:00",
+  "LastUpdate_Achievements": "2023-06-17T21:07:05.7136619+00:00"
 }
