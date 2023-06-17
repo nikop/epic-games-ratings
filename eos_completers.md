@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.20% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.95% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.16% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -59,12 +59,12 @@
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.59% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
-| 65 | [Bloodshore](games/b/bloodshore.md) | 2.41% |
+| 65 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 68 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
@@ -74,18 +74,18 @@
 | 72 | [Frogun](games/f/frogun.md) | 1.93% |
 | 73 | [Iron Danger](games/i/iron_danger.md) | 1.88% |
 | 74 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.82% |
 | 75 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
 | 75 | [JARS](games/j/jars.md) | 1.82% |
 | 75 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
-| 79 | [Sifu](games/s/sifu.md) | 1.80% |
+| 78 | [Sifu](games/s/sifu.md) | 1.80% |
+| 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.75% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
 | 83 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 84 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
-| 85 | [Night Book](games/n/night_book.md) | 1.48% |
-| 86 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.46% |
+| 84 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.50% |
+| 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
+| 86 | [Night Book](games/n/night_book.md) | 1.48% |
 | 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 88 | [Chorus](games/c/chorus.md) | 1.22% |
@@ -127,8 +127,8 @@
 | 124 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 127 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.43% |
+| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
 | 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.41% |
 | 130 | [Tchia](games/t/tchia.md) | 0.38% |
 | 131 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 132 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
