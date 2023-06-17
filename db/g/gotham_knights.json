@@ -1586,7 +1586,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65357,
+  "EOS_Progressed": 65360,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
@@ -6626,6 +6626,11 @@
       "Time": "2023-06-17T03:06:53.7597436+00:00",
       "NumProgressed": 65357,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-17T04:06:13.2591601+00:00",
+      "NumProgressed": 65360,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6781,7 +6786,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6837,7 +6842,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -6981,7 +6986,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7019,9 +7024,9 @@
       "ID": "KNIGHTHOOD_2",
       "SetID": "4eo5ebm",
       "Name": "A Worthy Successor",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 458
     },
     {
       "ID": "MYSTERY_01",
@@ -7124,13 +7129,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65357,
+      "Progressed": 65360,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35637,
+      "Progressed": 35640,
       "Completed": 2646
     }
   ],
@@ -7138,8 +7143,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-17T00:01:05.478898+00:00",
-  "LastChanged_Achievements": "2023-06-17T03:06:53.7597434+00:00",
+  "LastChanged_Achievements": "2023-06-17T04:06:13.2591596+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-17T03:00:13.0784907+00:00",
-  "LastUpdate_Achievements": "2023-06-17T03:06:53.7598542+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:59:32.3269904+00:00",
+  "LastUpdate_Achievements": "2023-06-17T04:06:13.2592643+00:00"
 }

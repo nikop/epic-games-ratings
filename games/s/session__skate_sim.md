@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,6 +29,7 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~123 |
 | Sup widdit big dog! | 5.00% | ~123 |
 | Commence the Hijinx! | 4.00% | ~98 |
+| Cops called! | 4.00% | ~98 |
 | DIY Boss | 4.00% | ~98 |
 | Globetrotter | 4.00% | ~98 |
 | Laid back | 4.00% | ~98 |
@@ -38,7 +39,6 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~98 |
 | Tank commander | 4.00% | ~98 |
 | Trick shot marksman | 4.00% | ~98 |
-| Cops called! | 3.00% | ~74 |
 | G.O.A.T. status | 3.00% | ~74 |
 | Hoarder | 3.00% | ~74 |
 | Prince of Philly | 3.00% | ~74 |

@@ -7,26 +7,26 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~4,700 |
-| Worker Specialization | 78.00% | ~4,640 |
-| First Contact | 73.00% | ~4,343 |
-| Win a Battle | 67.00% | ~3,986 |
+| Worker Specialization | 78.00% | ~4,641 |
+| First Contact | 73.00% | ~4,344 |
+| Win a Battle | 67.00% | ~3,987 |
 | Anomaly Researcher | 63.00% | ~3,748 |
-| Unleash My Power | 62.00% | ~3,688 |
+| Unleash My Power | 62.00% | ~3,689 |
 | Own 30 Planets | 35.00% | ~2,082 |
-| Xenocide | 33.00% | ~1,963 |
+| Xenocide | 33.00% | ~1,964 |
 | Design a Civilization | 32.00% | ~1,904 |
 | Commodity Trader | 31.00% | ~1,844 |
 | Design a Ship | 29.00% | ~1,725 |
 | Commodity Seller | 26.00% | ~1,547 |
 | Prestige Victory! | 14.00% | ~833 |
 | Galactic War | 11.00% | ~654 |
-| Trading Partner | 9.00% | ~535 |
+| Trading Partner | 9.00% | ~536 |
 | Fleet Victory | 8.00% | ~476 |
-| Win as Terrans | 7.00% | ~416 |
+| Win as Terrans | 7.00% | ~417 |
 | Gain an Ally | 6.00% | ~357 |
 | Win with a Custom Faction | 6.00% | ~357 |
-| War with the Unknown | 5.00% | ~297 |
-| Win Quickly | 5.00% | ~297 |
+| War with the Unknown | 5.00% | ~298 |
+| Win Quickly | 5.00% | ~298 |
 | Conquest Victory! | 4.00% | ~238 |
 | Win an Immense Game | 4.00% | ~238 |
 | Pirate Cleansing | 3.00% | ~178 |
@@ -35,9 +35,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Mimot | 2.00% | ~119 |
 | Win as the Yor | 2.00% | ~119 |
 | Influence Victory! | 2.00% | ~119 |
-| Win as Arceans | 1.00% | ~59 |
-| Win as the Baratak | 1.00% | ~59 |
-| Win as Festron | 1.00% | ~59 |
+| Win as Arceans | 1.00% | ~60 |
+| Win as the Baratak | 1.00% | ~60 |
+| Win as Festron | 1.00% | ~60 |
 | Win as the Navigators | 0.90% | ~54 |
 | Win as Torians | 0.90% | ~54 |
 | Win as the Manti | 0.80% | ~48 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,949 (Ranked 127)  
+Progressed: 5,950 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 5,938 | 0 |
 | 2023-06-15 | 5,943 | 0 |
 | 2023-06-16 | 5,948 | 0 |
-| 2023-06-17 | 5,949 | 0 |
+| 2023-06-17 | 5,950 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 341)  
 Sum: 663 (Ranked 271)  

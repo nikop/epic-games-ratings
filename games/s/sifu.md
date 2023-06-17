@@ -29,10 +29,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~189 |
 | The best strikes are the ones we avoid | 1.00% | ~189 |
 | Scareless | 0.90% | ~6,387 |
+| Kung-Fu Tussle | 0.90% | ~6,387 |
 | Dance of the Praying Mantis | 0.80% | ~5,677 |
 | Qi Gong: Mind | 0.80% | ~5,677 |
 | I know Kung-Fu | 0.80% | ~5,677 |
-| Kung-Fu Tussle | 0.80% | ~5,677 |
 | Muk Yan Master | 0.60% | ~4,258 |
 | Detective Story | 0.60% | ~4,258 |
 | Deadly Venom | 0.60% | ~114 |
@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,548 |
 | Iron Money | 0.50% | ~3,548 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,548 |
-| Prodigal Child | 0.40% | ~2,838 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,838 |
-| Sword Stained With Blood | 0.40% | ~2,838 |
+| Prodigal Child | 0.40% | ~2,839 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,839 |
+| Sword Stained With Blood | 0.40% | ~2,839 |
 | Martial Hub | 0.40% | ~76 |
 | Secure, Protect, Leave | 0.40% | ~76 |
 | Drunken Fighter | 0.30% | ~2,129 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,419 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,625 (Ranked 17)  
-Completed: 12,773 (1.80%) (Ranked 77)  
+Progressed: 709,628 (Ranked 17)  
+Completed: 12,774 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 12,773 (1.80%) (Ranked 77)
 | 2023-06-14 | 709,340 | 12,770 |
 | 2023-06-15 | 709,521 | 12,771 |
 | 2023-06-16 | 709,616 | 12,773 |
-| 2023-06-17 | 709,625 | 12,773 |
+| 2023-06-17 | 709,628 | 12,774 |
 ## Awards
 Max (Great Boss Battles): 6,183  (Ranked 52)  
 Sum: 10,560 (Ranked 78)  

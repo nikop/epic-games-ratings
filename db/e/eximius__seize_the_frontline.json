@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189345,
+  "EOS_Progressed": 189351,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6247,6 +6247,11 @@
       "Time": "2023-06-17T03:06:28.1957295+00:00",
       "NumProgressed": 189345,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-17T04:05:51.1002271+00:00",
+      "NumProgressed": 189351,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -6266,7 +6271,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134435
+      "UsersEstimate": 134439
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -6274,7 +6279,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9468
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -6282,7 +6287,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "ACH_INITIATION",
@@ -6290,7 +6295,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34082
+      "UsersEstimate": 34083
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -6306,7 +6311,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -6322,7 +6327,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -6338,7 +6343,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9468
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -6370,7 +6375,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -6378,14 +6383,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9468
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 189345,
+      "Progressed": 189351,
       "Completed": 4
     }
   ],
@@ -6393,8 +6398,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-17T03:06:28.1957291+00:00",
+  "LastChanged_Achievements": "2023-06-17T04:05:51.1002265+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.1083099+00:00",
-  "LastUpdate_Ratings": "2023-06-17T03:00:08.7762576+00:00",
-  "LastUpdate_Achievements": "2023-06-17T03:06:28.1958133+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:59:28.9737065+00:00",
+  "LastUpdate_Achievements": "2023-06-17T04:05:51.1002717+00:00"
 }

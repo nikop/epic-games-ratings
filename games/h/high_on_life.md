@@ -1,22 +1,22 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 258)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,993 |
-| Mods Please Ban | 77.00% | ~17,620 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,391 |
+| Eye Scream, You Scream | 83.00% | ~18,994 |
+| Mods Please Ban | 77.00% | ~17,621 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,392 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,705 |
-| First Bounty Down | 59.00% | ~13,501 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,043 |
+| First Bounty Down | 59.00% | ~13,502 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,044 |
 | Luglox Genocide | 43.00% | ~9,840 |
-| Playing Card To Get | 33.00% | ~7,551 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,551 |
+| Playing Card To Get | 33.00% | ~7,552 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,552 |
 | Creature Feature | 29.00% | ~6,636 |
-| Satisfied Gus-tomer | 28.00% | ~6,407 |
-| Cold-Blooded Driller | 28.00% | ~6,407 |
+| Satisfied Gus-tomer | 28.00% | ~6,408 |
+| Cold-Blooded Driller | 28.00% | ~6,408 |
 | Are You Packin'? | 25.00% | ~5,721 |
 | G3 Graduation | 25.00% | ~5,721 |
 | RIP Davey Glutes | 24.00% | ~5,492 |
@@ -31,14 +31,14 @@ Rating: 4.67 (Ranked 257)
 | Seeing All The Sights | 16.00% | ~3,661 |
 | Carried Stan's Load To Completion | 13.00% | ~2,975 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,746 |
-| Eatin' Good in the Neighborhood | 9.00% | ~2,059 |
+| Eatin' Good in the Neighborhood | 9.00% | ~2,060 |
 | Sequel-Bait | 8.00% | ~1,831 |
 | Gunning For Your Job | 7.00% | ~1,602 |
 | Playing Favorites | 6.00% | ~1,373 |
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,883 (Ranked 96)  
+Progressed: 22,884 (Ranked 96)  
 Completed: 8 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 8 (0.03%) (Ranked 200)
 | 2023-06-14 | 22,867 | 8 |
 | 2023-06-15 | 22,872 | 8 |
 | 2023-06-16 | 22,882 | 8 |
-| 2023-06-17 | 22,883 | 8 |
+| 2023-06-17 | 22,884 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

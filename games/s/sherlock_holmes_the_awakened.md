@@ -20,7 +20,7 @@ Rating: 4.60 (Ranked 390)
 | Back In The Saddle | 42.00% | ~200 |
 | Knives Out | 42.00% | ~200 |
 | Land, Ho! | 41.00% | ~195 |
-| No Man Is An Island | 39.00% | ~185 |
+| No Man Is An Island | 40.00% | ~190 |
 | At Wits' End | 39.00% | ~185 |
 | Up In Flames | 37.00% | ~176 |
 | Fhtagn! | 37.00% | ~176 |

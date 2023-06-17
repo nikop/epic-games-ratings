@@ -49,9 +49,9 @@
 | Master Butcher | 18.00% | ~14 |
 | Just wing it! | 18.00% | ~14 |
 | Slimy... yet satisfying | 16.00% | ~12 |
+| Yeehaw!!! | 14.00% | ~11 |
 | Deal with it | 14.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~10 |
-| Yeehaw!!! | 13.00% | ~10 |
 | You're looking mozzare-hella good! | 12.00% | ~9 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Timber! | 11.00% | ~8 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 301)  
+Progressed: 76 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
