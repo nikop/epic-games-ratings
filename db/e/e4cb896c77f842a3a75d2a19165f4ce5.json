@@ -3,7 +3,7 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -174,6 +174,11 @@
       "Time": "2023-06-17T05:01:33.455211+00:00",
       "NumProgressed": 80,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T06:00:35.2259933+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 11,
@@ -185,13 +190,13 @@
       "Name": "Pit-house",
       "Percentage": 99,
       "XP": 45,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 45,
       "UsersEstimate": 71
     },
@@ -199,7 +204,7 @@
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 45,
       "UsersEstimate": 57
     },
@@ -207,7 +212,7 @@
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 95,
       "UsersEstimate": 49
     },
@@ -215,7 +220,7 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 95,
       "UsersEstimate": 19
     },
@@ -231,7 +236,7 @@
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 95,
       "UsersEstimate": 10
     },
@@ -263,7 +268,7 @@
       "ID": "LEVEL_060",
       "SetID": "7jk5g4e",
       "Name": "A great viking explorer!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 200,
       "UsersEstimate": 2
     }
@@ -272,13 +277,13 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:01:33.4552105+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:00:35.2259922+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.6953056+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:57:18.1170925+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:01:33.4552228+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:03.2431257+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:00:35.2260282+00:00"
 }

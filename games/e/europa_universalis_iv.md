@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,089 |
+| Until death do us apart | 9.00% | ~5,090 |
 | That's a Grand Army | 8.00% | ~4,524 |
 | That is mine! | 8.00% | ~4,524 |
 | Victorious! | 8.00% | ~4,524 |
 | Brothers in Arms | 6.00% | ~3,393 |
 | That's a Grand Navy | 6.00% | ~3,393 |
 | Seriously?! | 6.00% | ~3,393 |
-| For the Glory | 5.00% | ~2,827 |
+| For the Glory | 5.00% | ~2,828 |
 | Cold War | 4.00% | ~2,262 |
 | True Catholic | 4.00% | ~2,262 |
-| Defender of the Faith | 3.00% | ~1,696 |
-| It's all about the money | 3.00% | ~1,696 |
-| Respected | 3.00% | ~1,696 |
-| Truly Divine Ruler | 3.00% | ~1,696 |
+| Defender of the Faith | 3.00% | ~1,697 |
+| It's all about the money | 3.00% | ~1,697 |
+| Respected | 3.00% | ~1,697 |
+| Truly Divine Ruler | 3.00% | ~1,697 |
 | Agressive Expander | 2.00% | ~1,131 |
 | Blockader | 2.00% | ~1,131 |
 | Combined Arms | 2.00% | ~1,131 |
@@ -31,23 +31,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,131 |
 | The Princess is in this Castle | 2.00% | ~1,131 |
 | Total Control | 2.00% | ~1,131 |
-| All That's Thine Shall Be Mine | 1.00% | ~565 |
-| Azur semé de lis or | 1.00% | ~565 |
-| Bright Spark | 1.00% | ~565 |
-| City of Cities | 1.00% | ~565 |
-| Factionalism | 1.00% | ~565 |
-| A Golden Empire | 1.00% | ~565 |
-| The Five Colonies | 1.00% | ~565 |
-| This navy can take it all | 1.00% | ~565 |
+| All That's Thine Shall Be Mine | 1.00% | ~566 |
+| Azur semé de lis or | 1.00% | ~566 |
+| Bright Spark | 1.00% | ~566 |
+| City of Cities | 1.00% | ~566 |
+| Factionalism | 1.00% | ~566 |
+| A Golden Empire | 1.00% | ~566 |
+| The Five Colonies | 1.00% | ~566 |
+| This navy can take it all | 1.00% | ~566 |
 | The Emperors new clothes | 0.90% | ~509 |
 | Isn't this the way to India? | 0.90% | ~509 |
 | Market Control | 0.90% | ~509 |
 | Down Under | 0.80% | ~452 |
 | Trustworthy | 0.80% | ~452 |
+| Electable! | 0.70% | ~396 |
 | All belongs to Mother Russia | 0.60% | ~339 |
 | At every continent | 0.60% | ~339 |
 | Early-Modern Warfare | 0.60% | ~339 |
-| Electable! | 0.60% | ~339 |
 | Populists in Government | 0.60% | ~339 |
 | Time Bandit | 0.60% | ~339 |
 | One Family to Rule them All | 0.50% | ~283 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,544 (Ranked 76)  
+Progressed: 56,556 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
-| 2023-06-17 | 56,544 | 0 |
+| 2023-06-17 | 56,556 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
 Sum: 44,636 (Ranked 27)  

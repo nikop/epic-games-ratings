@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4342,10 +4342,10 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 94573,
+  "EOS_Progressed": 94617,
   "EOS_Completed": 1943,
-  "EOS_NewPlayers": 4282,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 4319,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
@@ -10267,6 +10267,11 @@
       "Time": "2023-06-17T05:06:47.3989018+00:00",
       "NumProgressed": 94573,
       "NumCompleted": 1943
+    },
+    {
+      "Time": "2023-06-17T06:06:06.243538+00:00",
+      "NumProgressed": 94617,
+      "NumCompleted": 1943
     }
   ],
   "TotalAchievements": 493,
@@ -10278,7 +10283,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4729
+      "UsersEstimate": 4731
     },
     {
       "ID": "objective_completed_10",
@@ -10660,9 +10665,9 @@
       "ID": "objective_completed_1100",
       "SetID": "415jc5c",
       "Name": "The Dark Heart",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_completed_1101",
@@ -10918,7 +10923,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_completed_1158",
@@ -10950,7 +10955,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_completed_1163",
@@ -11102,7 +11107,7 @@
       "Name": "Unreasonable Doesn\u0027t Mean Stupid",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_completed_1193",
@@ -11158,7 +11163,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_completed_1208",
@@ -11398,7 +11403,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "objective_completed_150",
@@ -11606,7 +11611,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "objective_completed_20",
@@ -11950,7 +11955,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "objective_completed_34",
@@ -11966,7 +11971,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "objective_completed_36",
@@ -12070,7 +12075,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "objective_completed_390",
@@ -12142,7 +12147,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "objective_completed_40",
@@ -12422,7 +12427,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "objective_completed_540",
@@ -14221,21 +14226,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 60847,
-      "Completed": 2797
+      "Progressed": 60891,
+      "Completed": 2798
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 94573,
+      "Progressed": 94617,
       "Completed": 1943
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-16T19:58:23.2627907+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:06:47.3989013+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:06:06.243537+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:58:25.7720723+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:06:47.4015766+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:58:00.2143998+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:06:06.2468492+00:00"
 }

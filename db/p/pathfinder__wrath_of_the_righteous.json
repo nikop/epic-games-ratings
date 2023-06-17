@@ -2858,7 +2858,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9928,
+  "EOS_Progressed": 9929,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
@@ -6728,6 +6728,11 @@
       "Time": "2023-06-17T05:06:43.8324899+00:00",
       "NumProgressed": 9928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T06:06:02.7972622+00:00",
+      "NumProgressed": 9929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6955,7 +6960,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -7043,7 +7048,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "41_PlayfulMood",
@@ -7666,21 +7671,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8710,
+      "Progressed": 8711,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9928,
+      "Progressed": 9929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-16T17:58:17.7670008+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:06:43.8324891+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:06:02.797261+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:58:43.1001904+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:06:43.8326644+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:58:14.0870349+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:06:02.797612+00:00"
 }

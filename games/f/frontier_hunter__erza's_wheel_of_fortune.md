@@ -19,12 +19,12 @@
 | Giant Lizard Killer | 60.00% | ~18 |
 | Handyman | 60.00% | ~18 |
 | Nosebleeder | 57.00% | ~17 |
+| Weapon Boost | 57.00% | ~17 |
 | Guardian | 53.00% | ~16 |
 | Trader | 53.00% | ~16 |
-| Weapon Boost | 53.00% | ~16 |
+| Youth Magnet | 50.00% | ~15 |
+| Furious Scorpion Killer | 50.00% | ~15 |
 | Flying Kobold Killer | 47.00% | ~14 |
-| Youth Magnet | 47.00% | ~14 |
-| Furious Scorpion Killer | 47.00% | ~14 |
 | Master Artificer | 47.00% | ~14 |
 | Lethal Blade Mantis Killer | 43.00% | ~13 |
 | Squeaky Clean | 43.00% | ~13 |

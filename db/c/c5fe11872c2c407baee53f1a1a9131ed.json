@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "ach_spreader_zone",
       "SetID": "5a4225j",
       "Name": "Won Spreader Zone",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_toosoon",
@@ -387,8 +387,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:03:42.3710368+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:03:32.070084+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:56.1724117+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:57:15.8538124+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:03:42.3710745+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:01.4368763+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:03:32.070118+00:00"
 }

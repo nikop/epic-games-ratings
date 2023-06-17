@@ -8,15 +8,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~231,896 |
 | First Victory | 50.00% | ~231,896 |
-| Clean Sheet | 49.00% | ~227,258 |
-| He's Sold! | 47.00% | ~217,982 |
+| Clean Sheet | 49.00% | ~227,259 |
+| He's Sold! | 47.00% | ~217,983 |
 | I'm The Boss! | 41.00% | ~190,155 |
 | Hat-trick | 41.00% | ~190,155 |
 | Thumping | 37.00% | ~171,603 |
 | Scoring Streak | 37.00% | ~171,603 |
 | Unbeatable! | 36.00% | ~166,965 |
-| Superb Dressing Room Atmosphere | 35.00% | ~162,327 |
-| Total Support | 32.00% | ~148,413 |
+| Superb Dressing Room Atmosphere | 35.00% | ~162,328 |
+| Total Support | 32.00% | ~148,414 |
 | Record Signing | 31.00% | ~143,776 |
 | Millionaire's Club | 31.00% | ~143,776 |
 | Team Performance | 30.00% | ~139,138 |
@@ -37,12 +37,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Iron Curtain | 23.00% | ~106,672 |
 | Top Of The Class | 22.00% | ~102,034 |
 | Goal Machine | 22.00% | ~102,034 |
-| Splashing The Cash | 21.00% | ~97,396 |
-| Clean Bill of Health | 21.00% | ~97,396 |
-| What A Goal! | 21.00% | ~97,396 |
-| Cup Glory! | 21.00% | ~97,396 |
-| Irresistible Force | 19.00% | ~88,120 |
-| Excellent Match Cohesion | 19.00% | ~88,120 |
+| Splashing The Cash | 21.00% | ~97,397 |
+| Clean Bill of Health | 21.00% | ~97,397 |
+| What A Goal! | 21.00% | ~97,397 |
+| Cup Glory! | 21.00% | ~97,397 |
+| Irresistible Force | 19.00% | ~88,121 |
+| Excellent Match Cohesion | 19.00% | ~88,121 |
 | Do The Double | 18.00% | ~83,483 |
 | Top Form | 17.00% | ~78,845 |
 | Cash To Burn | 17.00% | ~78,845 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~464 |
 | Shoestring Budget | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,792 (Ranked 33)  
+Progressed: 463,793 (Ranked 33)  
 Completed: 18 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 18 (0.00%) (Ranked 226)
 | 2023-06-14 | 463,563 | 18 |
 | 2023-06-15 | 463,675 | 18 |
 | 2023-06-16 | 463,780 | 18 |
-| 2023-06-17 | 463,792 | 18 |
+| 2023-06-17 | 463,793 | 18 |
 ## Awards
 Max (Relaxing): 6,308  (Ranked 51)  
 Sum: 49,739 (Ranked 24)  

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Switch off the light | 18.00% | ~2 |
-| Complete 25 levels | 9.00% | ~1 |
-| Complete 50 levels | 9.00% | ~1 |
-| Complete 100 levels | 9.00% | ~1 |
-| Complete 25 6x6 levels | 9.00% | ~1 |
-| Use 10 hints | 9.00% | ~1 |
-| Use 20 hints | 9.00% | ~1 |
-| Use 50 hints | 9.00% | ~1 |
+| Switch off the light | 17.00% | ~2 |
+| Complete 25 levels | 8.00% | ~1 |
+| Complete 50 levels | 8.00% | ~1 |
+| Complete 100 levels | 8.00% | ~1 |
+| Complete 25 6x6 levels | 8.00% | ~1 |
+| Use 10 hints | 8.00% | ~1 |
+| Use 20 hints | 8.00% | ~1 |
+| Use 50 hints | 8.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
 | Addicted for 10 Days | 0.00% | ~0 |
@@ -48,7 +48,7 @@
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 373)  
+Progressed: 12 (Ranked 369)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-07 | 5 | 0 |
 | 2023-06-08 | 9 | 0 |
 | 2023-06-13 | 10 | 0 |
-| 2023-06-17 | 11 | 0 |
+| 2023-06-17 | 12 | 0 |

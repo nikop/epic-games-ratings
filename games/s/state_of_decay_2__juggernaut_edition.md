@@ -1,7 +1,7 @@
 # State of Decay 2: Juggernaut Edition
 [Store](https://store.epicgames.com/en-US/p/state-of-decay-2-juggernaut-edition)  
 [View Rawdata](../../db/s/state_of_decay_2__juggernaut_edition.json)  
-Rating: 4.72 (Ranked 167)  
+Rating: 4.73 (Ranked 156)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 314  (Ranked 227)  
@@ -158,3 +158,4 @@ Diff (max vs sum): 60
 | 2023-06-11 | 4.73 | - | 314 | 2,413 |
 | 2023-06-14 | 4.73 | - | 314 | 2,415 |
 | 2023-06-16 | 4.72 | - | 314 | 2,416 |
+| 2023-06-17 | 4.73 | - | 314 | 2,416 |

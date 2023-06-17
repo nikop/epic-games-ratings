@@ -25,7 +25,7 @@
 | I need a hero | 4.00% | ~2 |
 | Master of puppets | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 312)  
+Progressed: 55 (Ranked 313)  
 Completed: 1 (1.82%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

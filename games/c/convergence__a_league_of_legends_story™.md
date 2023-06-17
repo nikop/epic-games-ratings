@@ -49,8 +49,8 @@
 | Golem Hunter | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |
 | Hexlock for Protection | 2.00% | ~14 |
+| Thinking Two Steps Ahead | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
-| Thinking Two Steps Ahead | 0.90% | ~6 |
 | Wunderkind | 0.90% | ~6 |
 | Wildlife Protection | 0.40% | ~3 |
 | A Lesson in Precision | 0.40% | ~3 |

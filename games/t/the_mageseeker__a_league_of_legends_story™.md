@@ -5,7 +5,7 @@ Rating: 4.80 (Ranked 79)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,248 |
+| For Demacia | 96.00% | ~2,271 |
 | No more cages! | 92.00% | ~2,177 |
 | Everfrost | 77.00% | ~1,822 |
 | Pentakill | 76.00% | ~1,798 |

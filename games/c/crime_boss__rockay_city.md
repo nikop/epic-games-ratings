@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,548 |
-| First One’s Free | 65.00% | ~43,522 |
-| Neophyte Ninja | 50.00% | ~33,478 |
-| Too Old for This | 47.00% | ~31,470 |
-| Fancy Pants | 35.00% | ~23,435 |
-| Case Closed | 34.00% | ~22,765 |
-| King of the Hill | 34.00% | ~22,765 |
-| Underworld Initiate | 29.00% | ~19,418 |
-| Roid Ranger | 21.00% | ~14,061 |
-| True Player | 19.00% | ~12,722 |
-| Off the Rocks | 19.00% | ~12,722 |
-| Raider’s Ruin | 16.00% | ~10,713 |
-| Dragonslayer | 16.00% | ~10,713 |
-| Hidden Sonata | 13.00% | ~8,704 |
-| Rockay Rex | 11.00% | ~7,365 |
+| Downed but Not Outed | 74.00% | ~49,551 |
+| First One’s Free | 65.00% | ~43,525 |
+| Neophyte Ninja | 50.00% | ~33,480 |
+| Too Old for This | 47.00% | ~31,472 |
+| Fancy Pants | 35.00% | ~23,436 |
+| Case Closed | 34.00% | ~22,767 |
+| King of the Hill | 34.00% | ~22,767 |
+| Underworld Initiate | 29.00% | ~19,419 |
+| Roid Ranger | 21.00% | ~14,062 |
+| True Player | 19.00% | ~12,723 |
+| Off the Rocks | 19.00% | ~12,723 |
+| Raider’s Ruin | 16.00% | ~10,714 |
+| Dragonslayer | 16.00% | ~10,714 |
+| Hidden Sonata | 13.00% | ~8,705 |
+| Rockay Rex | 11.00% | ~7,366 |
 | Freebooter | 10.00% | ~6,696 |
 | Track Star | 9.00% | ~6,026 |
 | Classy Joint | 9.00% | ~6,026 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 918)
 | Geek Out | 0.50% | ~335 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,957 (Ranked 69)  
+Progressed: 66,961 (Ranked 69)  
 Completed: 33 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,10 @@ Completed: 33 (0.05%) (Ranked 195)
 | 2023-06-14 | 66,666 | 33 |
 | 2023-06-15 | 66,810 | 33 |
 | 2023-06-16 | 66,929 | 33 |
-| 2023-06-17 | 66,957 | 33 |
+| 2023-06-17 | 66,961 | 33 |
 ## Awards
 Max (Diverse Characters): 329  (Ranked 222)  
-Sum: 1,573 (Ranked 208)  
+Sum: 1,575 (Ranked 208)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): 14
 | This game is Highly Recommended | 322 |
 | This game has Quickly Understood Controls | 312 |
 | This game has Amazing Characters | 306 |
-| This game has Challenging Combat | 304 |
+| This game has Challenging Combat | 306 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -199,3 +199,4 @@ Diff (max vs sum): 14
 | 2023-06-14 | 3.93 | 328 | 1,566 |
 | 2023-06-15 | 3.93 | 328 | 1,567 |
 | 2023-06-16 | 3.93 | 329 | 1,573 |
+| 2023-06-17 | 3.93 | 329 | 1,575 |

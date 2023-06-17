@@ -2,9 +2,9 @@
   "ID": "f8bbf6bb94794b1aa2161cd923d11e5e",
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
-  "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -117,6 +117,11 @@
       "Time": "2023-06-17T04:03:47.1645142+00:00",
       "NumProgressed": 105,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-17T06:03:34.1358743+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -168,7 +173,7 @@
       "Name": "Last Goodbye",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -176,21 +181,21 @@
       "Name": "The Routine",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Replace Fuse",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
       "UsersEstimate": 69
     },
@@ -198,7 +203,7 @@
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
       "UsersEstimate": 67
     },
@@ -206,7 +211,7 @@
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
       "UsersEstimate": 66
     },
@@ -214,7 +219,7 @@
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 64
     },
@@ -222,9 +227,9 @@
       "ID": "CHAPTER_09_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Radiation",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
@@ -254,7 +259,7 @@
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 50
     },
@@ -272,7 +277,7 @@
       "Name": "Churchill",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PEG_COMMISSIONER",
@@ -280,7 +285,7 @@
       "Name": "Commissioner",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "PEG_DOCTOR",
@@ -288,13 +293,13 @@
       "Name": "Doctor",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -312,7 +317,7 @@
       "Name": "Mother",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PEG_NURSE",
@@ -334,7 +339,7 @@
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -351,7 +356,7 @@
     {
       "ID": "bho0i1h",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 3
     }
   ],
@@ -359,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:03:44.6164147+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:03:34.1358734+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.0750872+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:58:22.5306424+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:03:44.6164368+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:57.6097649+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:03:34.1359079+00:00"
 }

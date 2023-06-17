@@ -9,15 +9,15 @@
 | Champollion | 80.00% | ~4 |
 | Scholar | 80.00% | ~4 |
 | Welcome to the Tower | 80.00% | ~4 |
+| A new dawn | 80.00% | ~4 |
 | Cable guy | 60.00% | ~3 |
+| True G4M3R | 60.00% | ~3 |
 | The Preacher's fate | 60.00% | ~3 |
 | The great escape | 60.00% | ~3 |
-| A new dawn | 60.00% | ~3 |
 | The darkness | 60.00% | ~3 |
 | One last step | 60.00% | ~3 |
 | A good beginning | 40.00% | ~2 |
 | Feels like springtime | 40.00% | ~2 |
-| True G4M3R | 40.00% | ~2 |
 | I did it | 20.00% | ~1 |
 | In this together | 20.00% | ~1 |
 | Peace walker | 20.00% | ~1 |

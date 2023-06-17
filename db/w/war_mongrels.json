@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -852,6 +852,11 @@
       "Time": "2023-06-16T06:04:25.0161582+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T06:03:50.3599785+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -967,7 +972,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_COLL_20",
@@ -975,7 +980,7 @@
       "Name": "Prospector",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -983,7 +988,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1007,7 +1012,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1085,9 +1090,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1095,7 +1100,7 @@
       "Name": "The Breaking Point",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1109,9 +1114,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1135,7 +1140,7 @@
       "Name": "The Horror",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1159,7 +1164,7 @@
       "Name": "Broken Hopes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1167,7 +1172,7 @@
       "Name": "Sorrow",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -1231,7 +1236,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1295,7 +1300,7 @@
       "Name": "King of Knives",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_NEST1",
@@ -1334,15 +1339,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:04:04.0113112+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:03:50.3599777+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4627479+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:57:51.4411833+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:04:04.0113654+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:32.1179846+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:03:50.3600807+00:00"
 }

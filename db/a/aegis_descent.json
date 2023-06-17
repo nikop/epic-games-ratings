@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -227,6 +227,11 @@
       "Time": "2023-06-16T08:02:00.0037862+00:00",
       "NumProgressed": 387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T06:00:35.3773555+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -254,7 +259,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Award_BumperCar",
@@ -278,7 +283,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -286,7 +291,7 @@
       "Name": "Death from Above",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -302,15 +307,15 @@
       "Name": "The Disruptor",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 178
     },
     {
       "ID": "Award_EarlyBird",
@@ -318,7 +323,7 @@
       "Name": "Early Bird",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_ExtraAmmo",
@@ -326,7 +331,7 @@
       "Name": "Extra Ammo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Award_FinalAscension",
@@ -342,7 +347,7 @@
       "Name": "First Victory",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_Gunner",
@@ -390,7 +395,7 @@
       "Name": "Hull King",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Award_IntelKing",
@@ -478,15 +483,15 @@
       "Name": "Salvage",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 287
     },
     {
       "ID": "Award_ShellShock",
@@ -582,14 +587,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 1
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:01:33.2734924+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:00:35.3773545+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:56.8206036+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:58:37.9948823+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:01:33.2735306+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:58:09.9343136+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:00:35.3774191+00:00"
 }

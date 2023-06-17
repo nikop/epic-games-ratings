@@ -316,9 +316,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -620,9 +620,9 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -691,8 +691,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:01:40.0327862+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:00:41.0382147+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:57:15.6805306+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:01:40.0328617+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:01.2824472+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:00:41.0382891+00:00"
 }

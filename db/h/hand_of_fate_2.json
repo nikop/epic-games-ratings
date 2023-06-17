@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657990,
+  "EOS_Progressed": 657992,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6155,6 +6155,11 @@
       "Time": "2023-06-17T05:06:26.5889299+00:00",
       "NumProgressed": 657990,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-17T06:05:47.8249374+00:00",
+      "NumProgressed": 657992,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6166,7 +6171,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473753
+      "UsersEstimate": 473754
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6174,7 +6179,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381634
+      "UsersEstimate": 381635
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6190,7 +6195,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39479
+      "UsersEstimate": 39480
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -6318,7 +6323,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111858
+      "UsersEstimate": 111859
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -6326,7 +6331,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39479
+      "UsersEstimate": 39480
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -6476,9 +6481,9 @@
       "ID": "Achievement_40_Broken_Heart",
       "SetID": "27hb4pl",
       "Name": "Broken Heart",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39479
+      "UsersEstimate": 46059
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -6549,15 +6554,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657990,
+      "Progressed": 657992,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:06:26.5889294+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:05:47.8249364+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-17T04:57:59.2862057+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:06:26.5890245+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:57:39.3937689+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:05:47.8250689+00:00"
 }

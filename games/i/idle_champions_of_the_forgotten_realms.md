@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,729 |
-| The Cursed Farmer | 2.00% | ~1,891 |
+| A Brief Tour of the Realms | 5.00% | ~4,731 |
+| The Cursed Farmer | 2.00% | ~1,892 |
 | Beast Intentions | 1.00% | ~946 |
 | The Ring of Regeneration | 1.00% | ~946 |
 | The Mad Wizard | 1.00% | ~946 |
-| Seeking Allies | 0.90% | ~851 |
-| Are Ya Chicken? | 0.90% | ~851 |
+| Seeking Allies | 0.90% | ~852 |
+| Are Ya Chicken? | 0.90% | ~852 |
 | The Court of Storms | 0.90% | ~548 |
 | Were-verpowered | 0.80% | ~757 |
 | Friendly Imps | 0.80% | ~757 |
@@ -20,10 +20,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.70% | ~662 |
 | Mad Cow Disease | 0.70% | ~662 |
 | Pure Energy | 0.70% | ~662 |
-| Terror in the Dark | 0.60% | ~567 |
-| Unearthed Evil | 0.60% | ~567 |
-| The Crumbling Temple | 0.60% | ~567 |
-| Exploring Port Nyanzaru | 0.60% | ~567 |
+| Terror in the Dark | 0.60% | ~568 |
+| Unearthed Evil | 0.60% | ~568 |
+| The Crumbling Temple | 0.60% | ~568 |
+| Exploring Port Nyanzaru | 0.60% | ~568 |
 | Coasting to the Finish | 0.60% | ~365 |
 | Maddening | 0.50% | ~473 |
 | Checkmate | 0.50% | ~304 |
@@ -38,10 +38,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~473 |
 | Quick or Quack | 0.50% | ~304 |
 | The Silken Swamp | 0.40% | ~378 |
-| Owlbear Necessities | 0.40% | ~243 |
-| Best Thay Ever | 0.40% | ~243 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~243 |
-| Pin and Skewer | 0.40% | ~243 |
+| Owlbear Necessities | 0.40% | ~244 |
+| Best Thay Ever | 0.40% | ~244 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~244 |
+| Pin and Skewer | 0.40% | ~244 |
 | Low Initiative | 0.40% | ~378 |
 | Street War | 0.40% | ~378 |
 | March of the Undead | 0.40% | ~378 |
@@ -146,6 +146,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~122 |
 | Zarak's Revenge | 0.20% | ~122 |
 | Bully for You! | 0.20% | ~122 |
+| The Dark Heart | 0.20% | ~122 |
 | Hatchlings Underfoot | 0.20% | ~189 |
 | Don't Look Up! | 0.20% | ~189 |
 | Will of the Feywild | 0.20% | ~122 |
@@ -400,7 +401,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~61 |
 | Icequake | 0.10% | ~61 |
 | A Lesson in Classes | 0.10% | ~61 |
-| The Dark Heart | 0.10% | ~61 |
 | Undergeared | 0.10% | ~61 |
 | Underdark Chill | 0.10% | ~61 |
 | The Alien Underdark | 0.10% | ~61 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,573 (Ranked 63)  
+Progressed: 94,617 (Ranked 63)  
 Completed: 1,943 (2.05%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 1,943 (2.05%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 94,573 | 1,943 |
+| 2023-06-17 | 94,617 | 1,943 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

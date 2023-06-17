@@ -218,17 +218,17 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -362,9 +362,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-17T05:06:20.0401422+00:00",
+  "LastChanged_Achievements": "2023-06-17T06:05:42.2921896+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.7029568+00:00",
-  "LastUpdate_Ratings": "2023-06-17T05:00:09.3343321+00:00",
-  "LastUpdate_Achievements": "2023-06-17T05:06:20.0402001+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:59:26.5109226+00:00",
+  "LastUpdate_Achievements": "2023-06-17T06:05:42.2922693+00:00"
 }
