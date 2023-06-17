@@ -30,8 +30,8 @@
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,352 | 4.60 | 390 |
 | 29 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,335 | 4.24 | 806 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,166 | 4.42 | 658 |
-| 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,692 | 4.39 | 698 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,669 | 4.87 | 26 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,698 | 4.87 | 26 |
+| 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,692 | 4.39 | 698 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,271 | 4.69 | 220 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,553 | 4.45 | 620 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,990 | 4.88 | 19 |
@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,171 | 4.69 | 220 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,131 | 4.57 | 444 |
 | 89 | [Hades](games/h/hades.md) | 3,121 | 4.92 | 4 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,775 | 4.67 | 258 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,785 | 4.67 | 258 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,515 | 4.61 | 362 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 782 |
 | 93 | [Among Us](games/a/among_us.md) | 2,473 | 4.57 | 444 |
@@ -215,7 +215,7 @@
 | 212 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 370 | 3.99 | 909 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 366 | 4.70 | 196 |
 | 215 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 358 | 4.62 | 346 |
-| 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 351 | 4.60 | 390 |
+| 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 353 | 4.60 | 390 |
 | 217 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 349 | 4.32 | 753 |
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 343 | 4.71 | 181 |
 | 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 340 | 4.76 | 117 |
@@ -386,9 +386,9 @@
 | 384 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 633 |
 | 385 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.59 | 413 |
 | 386 | [The Outlast Trials](games/t/the_outlast_trials.md) | 57 | 4.66 | 277 |
-| 387 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 54 | 4.34 | 739 |
-| 387 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 54 | 4.18 | 847 |
-| 389 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 53 | 4.61 | 362 |
+| 387 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 55 | 4.61 | 362 |
+| 388 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 54 | 4.34 | 739 |
+| 388 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 54 | 4.18 | 847 |
 | 390 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 879 |
 | 391 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 52 |
 | 391 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.65 | 295 |

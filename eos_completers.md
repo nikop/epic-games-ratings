@@ -56,12 +56,12 @@
 | 53 | [The Bunker](games/t/the_bunker.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.73% |
-| 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
+| 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.56% |
-| 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.50% |
+| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
@@ -70,7 +70,7 @@
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.14% |
 | 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.06% |
+| 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.05% |
 | 72 | [Frogun](games/f/frogun.md) | 1.93% |
 | 73 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
 | 74 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |

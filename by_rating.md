@@ -26,7 +26,7 @@
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 497 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,393 | 118 |
-| 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,669 | 32 |
+| 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,698 | 31 |
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,009 | 139 |
 | 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 497 |
 | 29 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 485 |
@@ -274,7 +274,7 @@
 | 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 497 |
 | 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 497 |
 | 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 497 |
-| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,775 | 90 |
+| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,785 | 90 |
 | 258 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 93 | 339 |
 | 277 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 413 |
 | 277 | [Crashlands](games/c/crashlands.md) | 4.66 | 190 | 268 |
@@ -371,7 +371,7 @@
 | 362 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 210 |
 | 362 | [Darkwood](games/d/darkwood.md) | 4.61 | 320 | 225 |
 | 362 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 374 |
-| 362 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 53 | 389 |
+| 362 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 55 | 387 |
 | 362 | [GRIME](games/g/grime.md) | 4.61 | 0 | 497 |
 | 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,111 | 132 |
 | 362 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 497 |
@@ -411,7 +411,7 @@
 | 390 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 497 |
 | 390 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 485 |
 | 390 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 497 |
-| 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 351 | 216 |
+| 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 353 | 216 |
 | 413 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.59 | 0 | 497 |
 | 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 406 |
 | 413 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 497 |
@@ -702,7 +702,7 @@
 | 698 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 497 |
 | 698 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 497 |
 | 698 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 557 | 178 |
-| 698 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,692 | 31 |
+| 698 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,692 | 32 |
 | 698 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 363 |
 | 698 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 497 |
 | 698 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 223 |
@@ -741,7 +741,7 @@
 | 739 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 460 |
 | 739 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 497 |
 | 739 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 497 |
-| 739 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 54 | 387 |
+| 739 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 54 | 388 |
 | 739 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 497 |
 | 739 | [Paladins](games/p/paladins.md) | 4.34 | 3,306 | 84 |
 | 739 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 497 |
@@ -849,7 +849,7 @@
 | 847 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 341 |
 | 847 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 497 |
 | 847 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 333 |
-| 847 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 54 | 387 |
+| 847 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 54 | 388 |
 | 847 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 497 |
 | 847 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 497 |
 | 847 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 497 |
