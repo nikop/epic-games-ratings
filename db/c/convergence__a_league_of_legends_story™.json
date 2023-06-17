@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1565,9 +1565,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "MapCompletion1",
@@ -1717,9 +1717,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "SyronGift",
@@ -1757,9 +1757,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "WatcherFought",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:06:33.4254748+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:06:49.3368058+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-17T18:00:08.9229957+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:06:33.425528+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:00:25.6869748+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:06:49.3369059+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3004,
+  "EOS_Progressed": 3005,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2194,6 +2194,11 @@
       "Time": "2023-06-17T14:07:16.482367+00:00",
       "NumProgressed": 3004,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-17T19:07:32.6501722+00:00",
+      "NumProgressed": 3005,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2243,9 +2248,9 @@
       "ID": "bonus6",
       "SetID": "2h56gn1",
       "Name": "All Geared Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "campaign1",
@@ -2293,7 +2298,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "campaign15",
@@ -2341,7 +2346,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "campaign20",
@@ -2468,7 +2473,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3004,
+      "Progressed": 3005,
       "Completed": 10
     }
   ],
@@ -2476,8 +2481,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:07:16.4199133+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:32.6501716+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:43.7052896+00:00",
-  "LastUpdate_Ratings": "2023-06-17T18:01:10.5009429+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:07:16.4199717+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:01:28.9448274+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:32.6502384+00:00"
 }

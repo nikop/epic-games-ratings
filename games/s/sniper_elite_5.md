@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~921 |
+| Meeting Resistance | 31.00% | ~922 |
 | Confirming Suspicions | 26.00% | ~773 |
-| The Kraken Wakes | 21.00% | ~624 |
-| It's Starting to Crack | 19.00% | ~565 |
+| The Kraken Wakes | 21.00% | ~625 |
+| It's Starting to Crack | 18.00% | ~535 |
 | Lord of War | 16.00% | ~476 |
 | Change the Channel | 16.00% | ~476 |
 | Resourceful | 14.00% | ~416 |
@@ -18,10 +18,10 @@ Rating: 4.50 (Ranked 547)
 | As Quiet as a Mouse | 11.00% | ~327 |
 | The Kraken Sleeps | 11.00% | ~327 |
 | Liberté | 10.00% | ~297 |
-| Just a Flesh Wound | 9.00% | ~267 |
-| Gunslinger | 9.00% | ~267 |
-| Sharpshooter | 9.00% | ~267 |
-| Explosive Efficiency | 9.00% | ~267 |
+| Sharpshooter | 10.00% | ~297 |
+| Explosive Efficiency | 10.00% | ~297 |
+| Just a Flesh Wound | 9.00% | ~268 |
+| Gunslinger | 9.00% | ~268 |
 | Enemy at the Gates | 8.00% | ~238 |
 | Opposing Force | 7.00% | ~208 |
 | Die Nussknacker Sweet! | 7.00% | ~208 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,972 (Ranked 145)  
+Progressed: 2,974 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.07%) (Ranked 188)
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
-| 2023-06-17 | 2,972 | 2 |
+| 2023-06-17 | 2,974 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

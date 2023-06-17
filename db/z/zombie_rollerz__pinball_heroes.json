@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "CLG_UNLOCK_10008",
       "SetID": "89cjc9l",
       "Name": "The Droid",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CLG_UNLOCK_10009",
@@ -685,9 +685,9 @@
       "ID": "PRG_HARD_10009",
       "SetID": "89cjc9l",
       "Name": "Tongs",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10010",
@@ -805,9 +805,9 @@
       "ID": "PRG_MODE_HELL",
       "SetID": "89cjc9l",
       "Name": "Highway to Hell",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PRG_NORMAL_10001",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:07:26.7223625+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:42.70132+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:57:40.5829759+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:07:26.7224389+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:57:56.4049686+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:42.7014672+00:00"
 }

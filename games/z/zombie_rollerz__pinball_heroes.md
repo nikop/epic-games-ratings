@@ -37,22 +37,22 @@
 | Turquoise | 15.00% | ~16 |
 | The Steampunk | 14.00% | ~15 |
 | Verse | 13.00% | ~14 |
+| The Droid | 11.00% | ~12 |
 | Iron | 11.00% | ~12 |
-| The Droid | 10.00% | ~11 |
 | Tested | 9.00% | ~10 |
 | The Bomber | 8.00% | ~9 |
 | The Astronaut | 6.00% | ~6 |
 | Power Overwhelming | 5.00% | ~5 |
+| Highway to Hell | 5.00% | ~5 |
 | Anvil | 5.00% | ~5 |
 | The Exorcist | 4.00% | ~4 |
 | Mithril | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
-| Highway to Hell | 4.00% | ~4 |
 | Aluminum | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
+| Tongs | 3.00% | ~3 |
 | It's a Trap! | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
-| Tongs | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Concluded | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |

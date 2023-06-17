@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,875 |
-| Titan's First Steps | 96.00% | ~125,567 |
-| Basic in Bulk | 91.00% | ~119,027 |
-| Tinkle of Coins | 87.00% | ~113,795 |
-| Disintermediation | 76.00% | ~99,407 |
-| Capitalism Ho! | 74.00% | ~96,791 |
-| It's Free Real Estate | 70.00% | ~91,559 |
-| Budding Merchant | 66.00% | ~86,327 |
-| Another Satisfied Customer | 61.00% | ~79,787 |
-| One Easy Payment | 60.00% | ~78,479 |
-| Own the Means of Production | 60.00% | ~78,479 |
-| Some Assembly Required | 58.00% | ~75,863 |
-| Pretty Penny | 57.00% | ~74,555 |
+| Sponsored by Argon | 97.00% | ~126,877 |
+| Titan's First Steps | 96.00% | ~125,569 |
+| Basic in Bulk | 91.00% | ~119,029 |
+| Tinkle of Coins | 87.00% | ~113,797 |
+| Disintermediation | 76.00% | ~99,409 |
+| Capitalism Ho! | 74.00% | ~96,793 |
+| It's Free Real Estate | 70.00% | ~91,561 |
+| Budding Merchant | 66.00% | ~86,329 |
+| Another Satisfied Customer | 61.00% | ~79,789 |
+| One Easy Payment | 60.00% | ~78,481 |
+| Own the Means of Production | 60.00% | ~78,481 |
+| Some Assembly Required | 58.00% | ~75,865 |
+| Pretty Penny | 57.00% | ~74,557 |
 | One-Armed Bandit | 50.00% | ~65,400 |
 | Through Repetition, Perfection | 46.00% | ~60,168 |
 | The Daily Grind | 45.00% | ~58,860 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~654 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,799 (Ranked 58)  
+Progressed: 130,801 (Ranked 58)  
 Completed: 102 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 102 (0.08%) (Ranked 183)
 | 2023-06-14 | 130,591 | 99 |
 | 2023-06-15 | 130,666 | 101 |
 | 2023-06-16 | 130,736 | 101 |
-| 2023-06-17 | 130,799 | 102 |
+| 2023-06-17 | 130,801 | 102 |
 ## Awards
 Max (Great for Beginners): 4,628  (Ranked 67)  
 Sum: 26,775 (Ranked 44)  

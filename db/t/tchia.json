@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6522,
+  "EOS_Progressed": 6523,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -3725,6 +3725,11 @@
       "Time": "2023-06-17T17:06:36.4867635+00:00",
       "NumProgressed": 6522,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-17T19:07:03.6790344+00:00",
+      "NumProgressed": 6523,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -3808,7 +3813,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -3840,7 +3845,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "LIBERATOR",
@@ -3903,7 +3908,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6522,
+      "Progressed": 6523,
       "Completed": 25
     }
   ],
@@ -3911,8 +3916,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:06:47.5914064+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:03.6790341+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:39.0448454+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:58:18.3408245+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:06:47.5914399+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:58:36.0603956+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:03.6790953+00:00"
 }

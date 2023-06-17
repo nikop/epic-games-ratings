@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -914,9 +914,9 @@
       "ID": "OLD_FRIEND",
       "SetID": "62d2oh4",
       "Name": "An Old Friend",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "POSITRONIUM",
@@ -1019,8 +1019,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:06:55.4757385+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:11.5628472+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.2136356+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:57:28.2919302+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:06:55.4757622+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:57:44.6363479+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:11.5628929+00:00"
 }

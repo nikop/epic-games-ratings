@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,356 |
-| Battering Crew | 20.00% | ~3,178 |
-| The Kingsroad | 19.00% | ~3,019 |
-| Well Stocked | 14.00% | ~2,224 |
-| Royal Fleet | 14.00% | ~2,224 |
-| The Kraken’s Grasp | 10.00% | ~1,589 |
-| Alliance | 9.00% | ~1,430 |
-| Daggers in the Dark | 8.00% | ~1,271 |
-| Oathkeeper | 8.00% | ~1,271 |
-| Influential | 8.00% | ~1,271 |
-| A Long Journey | 8.00% | ~1,271 |
-| Ours is the Fury | 7.00% | ~1,112 |
-| We Do Not Sow | 7.00% | ~1,112 |
-| Winter is Coming | 7.00% | ~1,112 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~953 |
-| Hear me Roar! | 6.00% | ~953 |
-| Defender of the Wall | 6.00% | ~953 |
-| Growing Strong | 5.00% | ~794 |
+| Conqueror | 40.00% | ~6,360 |
+| Battering Crew | 20.00% | ~3,180 |
+| The Kingsroad | 19.00% | ~3,021 |
+| Well Stocked | 14.00% | ~2,226 |
+| Royal Fleet | 14.00% | ~2,226 |
+| The Kraken’s Grasp | 10.00% | ~1,590 |
+| Alliance | 9.00% | ~1,431 |
+| Daggers in the Dark | 8.00% | ~1,272 |
+| Oathkeeper | 8.00% | ~1,272 |
+| Influential | 8.00% | ~1,272 |
+| A Long Journey | 8.00% | ~1,272 |
+| Ours is the Fury | 7.00% | ~1,113 |
+| We Do Not Sow | 7.00% | ~1,113 |
+| Winter is Coming | 7.00% | ~1,113 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~954 |
+| Hear me Roar! | 6.00% | ~954 |
+| Defender of the Wall | 6.00% | ~954 |
+| Growing Strong | 5.00% | ~795 |
 | What is Dead may Never Die | 3.00% | ~477 |
 | The Swift | 3.00% | ~477 |
 | King in the North | 2.00% | ~318 |
 | War of the Five Kings | 1.00% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,889 (Ranked 102)  
+Progressed: 15,900 (Ranked 102)  
 Completed: 33 (0.21%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 33 (0.21%) (Ranked 154)
 | 2023-06-14 | 15,632 | 33 |
 | 2023-06-15 | 15,713 | 33 |
 | 2023-06-16 | 15,812 | 33 |
-| 2023-06-17 | 15,889 | 33 |
+| 2023-06-17 | 15,900 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 782 (Ranked 255)  

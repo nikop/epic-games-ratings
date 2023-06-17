@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 514)
 | ---- | ---------- | ----- |
 | Fresh Prince of Trudograd | 87.00% | ~962 |
 | Household | 6.00% | ~66 |
-| An Old Friend | 5.00% | ~55 |
+| An Old Friend | 6.00% | ~66 |
 | Atomic Soda | 4.00% | ~44 |
 | Lot 49 | 4.00% | ~44 |
 | Viva La Revolution | 4.00% | ~44 |

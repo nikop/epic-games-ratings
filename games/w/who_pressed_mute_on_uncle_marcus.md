@@ -12,14 +12,14 @@
 | Don't fear the baldness | 40.00% | ~76 |
 | Instinct | 37.00% | ~70 |
 | Blow | 34.00% | ~65 |
+| Just like me | 32.00% | ~61 |
 | I bless the rain down in London | 31.00% | ~59 |
-| Just like me | 31.00% | ~59 |
 | Brown nosing | 28.00% | ~53 |
 | Cheat | 28.00% | ~53 |
 | Delusions | 28.00% | ~53 |
 | Prove it | 25.00% | ~48 |
 | The truth | 25.00% | ~48 |
-| Making a murderer | 17.00% | ~32 |
+| Making a murderer | 18.00% | ~34 |
 | The whole truth | 14.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 190 (Ranked 259)  

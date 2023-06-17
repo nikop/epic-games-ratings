@@ -6,12 +6,12 @@ Rating: 4.56 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 18.00% | ~481 |
-| Sputnik 2049 | 16.00% | ~427 |
-| Infinite Growth... | 15.00% | ~400 |
+| Sputnik 2049 | 16.00% | ~428 |
+| Infinite Growth... | 15.00% | ~401 |
 | Without Breaking Some Eggs... | 14.00% | ~374 |
 | Space Society | 10.00% | ~267 |
+| A Thousand Strong | 10.00% | ~267 |
 | Ready for a New World | 10.00% | ~267 |
-| A Thousand Strong | 9.00% | ~240 |
 | Permanent Redesigns | 8.00% | ~214 |
 | Ain't Nobody Got Time for That | 8.00% | ~214 |
 | Guy de Borderlands | 7.00% | ~187 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 454)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,670 (Ranked 150)  
+Progressed: 2,672 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 2,639 | 0 |
 | 2023-06-15 | 2,660 | 0 |
 | 2023-06-16 | 2,666 | 0 |
-| 2023-06-17 | 2,670 | 0 |
+| 2023-06-17 | 2,672 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

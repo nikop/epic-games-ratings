@@ -6,9 +6,9 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,290 |
+| Fish Just Got Reel | 75.00% | ~3,291 |
 | Hey Good Hookin | 65.00% | ~2,852 |
-| I'm on a Boat! | 56.00% | ~2,457 |
+| I'm on a Boat! | 55.00% | ~2,413 |
 | Can you smell what the Rod is Hooking | 49.00% | ~2,150 |
 | Scaling up | 49.00% | ~2,150 |
 | Ready to Rod and Roll | 41.00% | ~1,799 |
@@ -19,13 +19,13 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 26.00% | ~1,141 |
 | Going for Gold | 23.00% | ~1,009 |
 | I'm Hooked! | 18.00% | ~790 |
-| More than a Tourist | 12.00% | ~526 |
-| Diamond in the Rough | 12.00% | ~526 |
+| More than a Tourist | 12.00% | ~527 |
+| Diamond in the Rough | 12.00% | ~527 |
 | Hook, Line and Sinker | 7.00% | ~307 |
 | Marathon | 7.00% | ~307 |
 | Big Fish Small Pond | 6.00% | ~263 |
 | I'm the Captain Now | 5.00% | ~219 |
-| School's Out for Summer | 4.00% | ~175 |
+| School's Out for Summer | 4.00% | ~176 |
 | Gonna Need a Bigger Boat | 3.00% | ~132 |
 | The Beetles | 2.00% | ~88 |
 | Taylor Made | 1.00% | ~44 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,387 (Ranked 133)  
+Progressed: 4,388 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 4,346 | 0 |
 | 2023-06-15 | 4,369 | 0 |
 | 2023-06-16 | 4,378 | 0 |
-| 2023-06-17 | 4,387 | 0 |
+| 2023-06-17 | 4,388 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 442)  
 Sum: 158 (Ranked 382)  

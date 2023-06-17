@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4434,
+  "EOS_Progressed": 4435,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1380,6 +1380,11 @@
       "Time": "2023-06-17T14:02:32.6458178+00:00",
       "NumProgressed": 4434,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-17T19:02:43.404268+00:00",
+      "NumProgressed": 4435,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1439,7 +1444,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1447,7 +1452,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1455,7 +1460,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1477,9 +1482,9 @@
       "ID": "ID_ACHIEV_12",
       "SetID": "98bke8c",
       "Name": "Gear Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 621
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1559,7 +1564,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -1607,7 +1612,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1671,7 +1676,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1773,9 +1778,9 @@
       "ID": "ID_ACHIEV_50",
       "SetID": "98bke8c",
       "Name": "Carbon Cat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 266
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1926,15 +1931,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4434,
+      "Progressed": 4435,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:02:26.6968216+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:02:43.4042673+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.1207834+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:58:22.0955195+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:02:26.6968993+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:58:39.1290933+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:02:43.4043762+00:00"
 }

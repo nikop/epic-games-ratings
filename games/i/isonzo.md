@@ -8,14 +8,14 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,386 |
 | Tutti Eroi! | 54.00% | ~3,386 |
-| You Shall Not Pass | 52.00% | ~3,260 |
+| You Shall Not Pass | 52.00% | ~3,261 |
 | Avanti Savoia! | 47.00% | ~2,947 |
-| Conrad von Hotzensocks | 36.00% | ~2,257 |
-| Mamma Mia! | 36.00% | ~2,257 |
-| Gabriele D'Annunzio | 32.00% | ~2,006 |
-| Silver Lining | 29.00% | ~1,818 |
-| Aurelio Baruzzi | 22.00% | ~1,379 |
-| Veni Vidi Vici | 22.00% | ~1,379 |
+| Conrad von Hotzensocks | 36.00% | ~2,258 |
+| Mamma Mia! | 36.00% | ~2,258 |
+| Gabriele D'Annunzio | 32.00% | ~2,007 |
+| Silver Lining | 29.00% | ~1,819 |
+| Aurelio Baruzzi | 22.00% | ~1,380 |
+| Veni Vidi Vici | 22.00% | ~1,380 |
 | Decimation | 20.00% | ~1,254 |
 | Donatello | 20.00% | ~1,254 |
 | Insubordination | 19.00% | ~1,191 |
@@ -26,8 +26,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 13.00% | ~815 |
 | Luigi Cadorna | 13.00% | ~815 |
 | Uomo Universale | 13.00% | ~815 |
-| Machiavelli | 12.00% | ~752 |
-| Shaken, Not Stirred | 12.00% | ~752 |
+| Machiavelli | 12.00% | ~753 |
+| Shaken, Not Stirred | 12.00% | ~753 |
 | Die Bosniaken Kommen! | 11.00% | ~690 |
 | The Devil's Paintbrush | 11.00% | ~690 |
 | Dante's Inferno | 10.00% | ~627 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,270 (Ranked 126)  
+Progressed: 6,271 (Ranked 126)  
 Completed: 8 (0.13%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 8 (0.13%) (Ranked 170)
 | 2023-06-14 | 6,240 | 8 |
 | 2023-06-15 | 6,254 | 8 |
 | 2023-06-16 | 6,266 | 8 |
-| 2023-06-17 | 6,270 | 8 |
+| 2023-06-17 | 6,271 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 247 (Ranked 346)  

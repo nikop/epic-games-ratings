@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -418,11 +418,11 @@
       "Count": 170
     }
   ],
-  "EOS_Progressed": 10644,
-  "EOS_Completed": 18,
-  "EOS_NewPlayers": 499,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Progressed": 10645,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 495,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -5053,6 +5053,11 @@
       "Time": "2023-06-17T18:07:18.9873106+00:00",
       "NumProgressed": 10644,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-17T19:07:34.9373801+00:00",
+      "NumProgressed": 10645,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5064,7 +5069,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8515
+      "UsersEstimate": 8516
     },
     {
       "ID": "ACH02",
@@ -5112,7 +5117,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH08",
@@ -5343,16 +5348,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10644,
-      "Completed": 18
+      "Progressed": 10645,
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-17T10:01:01.4078988+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:07:18.9873101+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:34.9373795+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-17T18:01:14.785096+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:07:18.9873684+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:01:33.7082738+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:34.9374783+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -40,11 +40,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.97,
+  "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1500,6 +1500,11 @@
       "Time": "2023-06-17T18:04:55.6007816+00:00",
       "NumProgressed": 479,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-17T19:05:11.274244+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 28,
@@ -1511,7 +1516,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MQ01_2",
@@ -1519,7 +1524,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ02_1",
@@ -1527,7 +1532,7 @@
       "Name": "High Profile",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MQ02_2",
@@ -1559,7 +1564,7 @@
       "Name": "Fond Memories",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MQ03_2",
@@ -1599,7 +1604,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "MQ04_2",
@@ -1629,9 +1634,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 197
     },
     {
       "ID": "MQ05_3",
@@ -1655,7 +1660,7 @@
       "Name": "Brain Food",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ06_2",
@@ -1663,7 +1668,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MQ06_3",
@@ -1671,7 +1676,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "MQ06_4",
@@ -1703,7 +1708,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ08_2",
@@ -1711,7 +1716,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MQ08_3",
@@ -1719,7 +1724,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PLTN",
@@ -1734,7 +1739,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 19
     }
   ],
@@ -1742,8 +1747,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:04:55.600781+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:05:11.2742433+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:57:25.6418972+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:04:55.6008072+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:57:41.8603931+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:05:11.2742933+00:00"
 }

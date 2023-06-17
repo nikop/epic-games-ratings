@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 301
     },
     {
       "ID": "win-first-level",
@@ -588,8 +588,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-17T18:07:09.0205346+00:00",
+  "LastChanged_Achievements": "2023-06-17T19:07:25.2276546+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:21.782645+00:00",
-  "LastUpdate_Ratings": "2023-06-17T17:59:16.346258+00:00",
-  "LastUpdate_Achievements": "2023-06-17T18:07:09.0205606+00:00"
+  "LastUpdate_Ratings": "2023-06-17T18:59:34.1258781+00:00",
+  "LastUpdate_Achievements": "2023-06-17T19:07:25.2276942+00:00"
 }
