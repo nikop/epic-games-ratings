@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3186,6 +3186,11 @@
       "Time": "2023-06-16T19:06:22.6383199+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T02:11:38.3329005+00:00",
+      "NumProgressed": 1414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3205,7 +3210,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "angelpower",
@@ -3229,7 +3234,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "beastwarmachines",
@@ -3277,7 +3282,7 @@
       "Name": "Crystal Mining",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "dailyquestcompletionist",
@@ -3317,7 +3322,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ebonyjungleliberator",
@@ -3333,7 +3338,7 @@
       "Name": "Enchanting skill",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "enchantingskillx5",
@@ -3349,7 +3354,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "enhancedwarmachines",
@@ -3381,7 +3386,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "fourleafclover",
@@ -3501,7 +3506,7 @@
       "Name": "Lock And Load",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "masterenchanter",
@@ -3515,9 +3520,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 99
     },
     {
       "ID": "milestonecollector",
@@ -3525,7 +3530,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "minerclicker",
@@ -3557,7 +3562,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "mythicpower",
@@ -3573,7 +3578,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "pokerface",
@@ -3589,7 +3594,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "prestigiousx10",
@@ -3645,7 +3650,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "templeofeternals",
@@ -3653,7 +3658,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "thealchemist",
@@ -3685,7 +3690,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "thepowerofawakening",
@@ -3701,7 +3706,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "titanpower",
@@ -3757,7 +3762,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1329
     },
     {
       "ID": "warmachinesarmy",
@@ -3789,14 +3794,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1414,
       "Completed": 1
     }
   ],
@@ -3804,8 +3809,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:55.7119457+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:38.3329+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:53.1826099+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:55.7120594+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:03:14.8977103+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:38.3329735+00:00"
 }

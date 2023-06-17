@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "BADGE_BOSS_5_KILL",
       "SetID": "ak6pfjk",
       "Name": "Deposition",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BADGE_BOSS_6_KILL",
@@ -224,9 +224,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -512,9 +512,9 @@
       "ID": "BADGE_SKILL_BRANCH_MAX",
       "SetID": "ak6pfjk",
       "Name": "Father of Nation",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "BADGE_SKILL_MAX",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:04:58.6500419+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:09:06.8269809+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:15.484612+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:59:36.4761214+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:04:58.6500886+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:03:49.2521678+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:09:06.8270163+00:00"
 }

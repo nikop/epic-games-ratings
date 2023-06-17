@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -1935,9 +1935,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 541
     },
     {
       "ID": "Achievement_006",
@@ -1983,9 +1983,9 @@
       "ID": "Achievement_011",
       "SetID": "6b34g18",
       "Name": "Block Party",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 135
     },
     {
       "ID": "Achievement_012",
@@ -2448,8 +2448,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:03:54.7935524+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:08:21.8899467+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:38.8578468+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:03:54.7936411+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:03:01.6515265+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:08:21.8900076+00:00"
 }

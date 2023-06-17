@@ -13,6 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 2.00% | ~307 |
 | Bandit Camp | 2.00% | ~307 |
 | Barren Lands | 2.00% | ~307 |
+| Ancient Battleground | 2.00% | ~307 |
 | Fertile Meadows | 2.00% | ~307 |
 | Lost Colonies | 2.00% | ~307 |
 | Coral Forest | 2.00% | ~307 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 1.00% | ~154 |
 | Refinery | 1.00% | ~154 |
 | Against All Odds | 1.00% | ~154 |
-| Ancient Battleground | 1.00% | ~154 |
 | Sparkdew Crystals | 1.00% | ~154 |
 | Dangerous Lands | 1.00% | ~154 |
 | Haunted Forest | 1.00% | ~154 |

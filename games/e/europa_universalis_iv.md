@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,083 |
-| That's a Grand Army | 8.00% | ~4,518 |
-| That is mine! | 8.00% | ~4,518 |
-| Victorious! | 8.00% | ~4,518 |
-| Brothers in Arms | 6.00% | ~3,389 |
-| That's a Grand Navy | 6.00% | ~3,389 |
-| Seriously?! | 6.00% | ~3,389 |
-| For the Glory | 5.00% | ~2,824 |
-| Cold War | 4.00% | ~2,259 |
-| True Catholic | 4.00% | ~2,259 |
-| Defender of the Faith | 3.00% | ~1,694 |
-| It's all about the money | 3.00% | ~1,694 |
-| Respected | 3.00% | ~1,694 |
-| Truly Divine Ruler | 3.00% | ~1,694 |
+| Until death do us apart | 9.00% | ~5,085 |
+| That's a Grand Army | 8.00% | ~4,520 |
+| That is mine! | 8.00% | ~4,520 |
+| Victorious! | 8.00% | ~4,520 |
+| Brothers in Arms | 6.00% | ~3,390 |
+| That's a Grand Navy | 6.00% | ~3,390 |
+| Seriously?! | 6.00% | ~3,390 |
+| For the Glory | 5.00% | ~2,825 |
+| Cold War | 4.00% | ~2,260 |
+| True Catholic | 4.00% | ~2,260 |
+| Defender of the Faith | 3.00% | ~1,695 |
+| It's all about the money | 3.00% | ~1,695 |
+| Respected | 3.00% | ~1,695 |
+| Truly Divine Ruler | 3.00% | ~1,695 |
 | Agressive Expander | 2.00% | ~1,130 |
 | Blockader | 2.00% | ~1,130 |
 | Combined Arms | 2.00% | ~1,130 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~565 |
 | The Five Colonies | 1.00% | ~565 |
 | This navy can take it all | 1.00% | ~565 |
-| The Emperors new clothes | 0.90% | ~508 |
-| Isn't this the way to India? | 0.90% | ~508 |
-| Market Control | 0.90% | ~508 |
+| The Emperors new clothes | 0.90% | ~509 |
+| Isn't this the way to India? | 0.90% | ~509 |
+| Market Control | 0.90% | ~509 |
 | Down Under | 0.80% | ~452 |
 | Trustworthy | 0.80% | ~452 |
 | All belongs to Mother Russia | 0.60% | ~339 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~226 |
 | The Continuation of Diplomacy | 0.40% | ~226 |
 | Wonderful | 0.40% | ~226 |
-| A Decent Reserve | 0.30% | ~169 |
-| A Pile of Gold | 0.30% | ~169 |
-| Grand Duchy | 0.30% | ~169 |
-| Multiculturalism | 0.30% | ~169 |
-| No Pirates in my Caribbean | 0.30% | ~169 |
-| Not so sad a state... | 0.30% | ~169 |
-| The Chrysanthemum Throne | 0.30% | ~169 |
-| Three Trivial Tributary Tribes | 0.30% | ~169 |
-| Traditional Player | 0.30% | ~169 |
-| Vasa or Wettin? | 0.30% | ~169 |
-| World Discoverer | 0.30% | ~169 |
+| A Decent Reserve | 0.30% | ~170 |
+| A Pile of Gold | 0.30% | ~170 |
+| Grand Duchy | 0.30% | ~170 |
+| Multiculturalism | 0.30% | ~170 |
+| No Pirates in my Caribbean | 0.30% | ~170 |
+| Not so sad a state... | 0.30% | ~170 |
+| The Chrysanthemum Throne | 0.30% | ~170 |
+| Three Trivial Tributary Tribes | 0.30% | ~170 |
+| Traditional Player | 0.30% | ~170 |
+| Vasa or Wettin? | 0.30% | ~170 |
+| World Discoverer | 0.30% | ~170 |
 | A Protected Market | 0.20% | ~113 |
 | AAA Credit | 0.20% | ~113 |
 | An early Reich | 0.20% | ~113 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,478 (Ranked 76)  
+Progressed: 56,500 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,10 +419,10 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 55,515 | 0 |
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
-| 2023-06-17 | 56,478 | 0 |
+| 2023-06-17 | 56,500 | 0 |
 ## Awards
 Max (Educational): 5,397  (Ranked 61)  
-Sum: 44,627 (Ranked 27)  
+Sum: 44,636 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -431,7 +431,7 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 5,154 |
 | This game is Extremely Fun | 5,117 |
 | This game has Diverse Characters | 5,084 |
-| This game is Relaxing | 5,005 |
+| This game is Relaxing | 5,014 |
 | This game has Competitive Players | 4,861 |
 | This game has Amazing Storytelling | 4,585 |
 | This game has Amazing Characters | 4,243 |
@@ -590,3 +590,4 @@ Diff (max vs sum): 34
 | 2023-06-14 | 4.69 | - | 5,392 | 44,546 |
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
 | 2023-06-16 | 4.69 | - | 5,397 | 44,627 |
+| 2023-06-17 | 4.68 | - | 5,397 | 44,636 |

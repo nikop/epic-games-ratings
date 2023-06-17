@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12586,
+  "EOS_Progressed": 12591,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -6194,6 +6194,11 @@
       "Time": "2023-06-17T00:07:43.3722358+00:00",
       "NumProgressed": 12586,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2023-06-17T02:11:27.354441+00:00",
+      "NumProgressed": 12591,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 20,
@@ -6221,7 +6226,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -6237,7 +6242,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -6261,7 +6266,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -6269,7 +6274,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "FOUND_ERIN",
@@ -6277,7 +6282,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -6301,7 +6306,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6317,7 +6322,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6325,7 +6330,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9565
+      "UsersEstimate": 9569
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6333,7 +6338,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6341,7 +6346,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6357,22 +6362,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12586,
+      "Progressed": 12591,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:43.3722351+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:27.3544406+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-17T00:01:34.690387+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:43.3723248+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:05:28.2705411+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:27.354477+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2957,
+  "EOS_Progressed": 2959,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3755,6 +3755,11 @@
       "Time": "2023-06-16T23:09:17.6522577+00:00",
       "NumProgressed": 2957,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T02:11:36.2968855+00:00",
+      "NumProgressed": 2959,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3766,7 +3771,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3790,7 +3795,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3814,7 +3819,7 @@
       "Name": "Fields of Glory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3894,7 +3899,7 @@
       "Name": "Skirmisher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3918,7 +3923,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4078,7 +4083,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4134,7 +4139,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4172,9 +4177,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 325
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4292,9 +4297,9 @@
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
       "SetID": "83mdf7p",
       "Name": "Fight Another Day",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -4333,13 +4338,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2908,
+      "Progressed": 2910,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2957,
+      "Progressed": 2959,
       "Completed": 2
     }
   ],
@@ -4347,8 +4352,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-16T20:01:05.3480168+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:53.1927488+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:36.296885+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T00:02:06.2312828+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:53.1928774+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:05:53.5800046+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:36.2969519+00:00"
 }

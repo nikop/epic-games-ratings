@@ -17,7 +17,7 @@ Rating: 3.46 (Ranked 942)
 | Welcome to the Neighborhood | 37.00% | ~625 |
 | Fly Fisher | 35.00% | ~592 |
 | Throw The First Stone | 34.00% | ~575 |
-| Enter of Your Own Free Will | 31.00% | ~524 |
+| Enter of Your Own Free Will | 32.00% | ~541 |
 | Heart Attack | 31.00% | ~524 |
 | Skin of Their Teeth | 30.00% | ~507 |
 | Grounded | 23.00% | ~389 |
@@ -27,8 +27,8 @@ Rating: 3.46 (Ranked 942)
 | Radio Silence | 15.00% | ~254 |
 | Helping Hand | 12.00% | ~203 |
 | You Clean It Up | 11.00% | ~186 |
+| Block Party | 8.00% | ~135 |
 | Starve the Beast | 8.00% | ~135 |
-| Block Party | 7.00% | ~118 |
 | From the Shadows | 5.00% | ~84 |
 | Bell-ringer | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |

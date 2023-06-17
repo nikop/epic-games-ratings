@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 847)
 | Bear Trap | 3.00% | ~100 |
 | In Striking Distance | 2.00% | ~308 |
 | Mugshot | 2.00% | ~308 |
-| Big Spender | 2.00% | ~66 |
+| Big Spender | 2.00% | ~67 |
 | Grim Reaper | 1.00% | ~154 |
 | Parole Denied | 1.00% | ~33 |
 | Hoard Mode | 1.00% | ~33 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,398 (Ranked 104)  
+Progressed: 15,400 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
+| 2023-06-17 | 15,400 | 56 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 387)  
 Sum: 315 (Ranked 330)  

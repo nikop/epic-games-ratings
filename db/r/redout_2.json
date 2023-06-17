@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -736,9 +736,9 @@
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 174
     },
     {
       "ID": "ONEMODULE",
@@ -768,9 +768,9 @@
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 195
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -857,8 +857,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:57.1609883+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:39.6017278+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:49.1580209+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:59.7483551+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:57.1610352+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:03:20.2377777+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:39.6017664+00:00"
 }

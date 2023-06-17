@@ -2,13 +2,13 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1063,6 +1063,11 @@
       "Time": "2023-06-16T22:03:29.8858187+00:00",
       "NumProgressed": 774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T02:08:39.5926408+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1074,7 +1079,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1098,7 +1103,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1106,7 +1111,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1114,7 +1119,7 @@
       "Name": "A successful procedure!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1122,7 +1127,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1154,7 +1159,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1170,7 +1175,7 @@
       "Name": "Critical Thinker",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1202,7 +1207,7 @@
       "Name": "Ghost in the Ship",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ITS_HEATING_UP",
@@ -1210,7 +1215,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1218,7 +1223,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1226,7 +1231,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1234,7 +1239,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1242,7 +1247,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1250,7 +1255,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1282,14 +1287,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 776,
       "Completed": 0
     }
   ],
@@ -1297,8 +1302,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:04:26.4317428+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:08:39.5926397+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.6635362+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:16.8282713+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:04:26.4317728+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:02:41.0504357+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:08:39.5926587+00:00"
 }

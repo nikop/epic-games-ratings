@@ -16,7 +16,7 @@
 | Debris Collector | 20.00% | ~57 |
 | Bunny Cuddles | 16.00% | ~46 |
 | Winter Wonderland | 14.00% | ~40 |
-| Park Manager | 11.00% | ~32 |
+| Park Manager | 12.00% | ~34 |
 | Spring Blossom | 8.00% | ~23 |
 | Pom Pom | 8.00% | ~23 |
 | Bunny Fluffle | 7.00% | ~20 |
@@ -24,7 +24,7 @@
 | Tropical Summer | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 287 (Ranked 236)  
-Completed: 8 (2.79%) (Ranked 56)  
+Completed: 8 (2.79%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

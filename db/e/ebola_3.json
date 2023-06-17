@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -788,6 +788,11 @@
       "Time": "2023-06-15T14:05:36.1210624+00:00",
       "NumProgressed": 192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T02:11:44.3917755+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -821,9 +826,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "achBett",
@@ -861,9 +866,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "achCity",
@@ -941,9 +946,9 @@
       "ID": "achDog",
       "SetID": "72gjli4",
       "Name": "Doberman \u2714",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "achEva",
@@ -983,7 +988,7 @@
       "Name": "Hospital \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achIvan",
@@ -1069,9 +1074,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "achPriest",
@@ -1175,7 +1180,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achWeapon",
@@ -1198,7 +1203,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 0
     }
   ],
@@ -1206,8 +1211,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:08:02.389636+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:44.3917751+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:44.5726171+00:00",
-  "LastUpdate_Ratings": "2023-06-17T00:01:41.7161707+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:08:02.3896875+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:05:34.4165369+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:44.3918126+00:00"
 }

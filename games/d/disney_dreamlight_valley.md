@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~2,652 |
-| Photographer | 74.00% | ~2,583 |
-| Valley's Helper | 70.00% | ~2,443 |
-| Constructor | 62.00% | ~2,164 |
-| Renovator | 59.00% | ~2,059 |
-| Bestest Friend | 57.00% | ~1,989 |
-| Banker | 50.00% | ~1,745 |
-| Gardener | 39.00% | ~1,361 |
-| Generous | 29.00% | ~1,012 |
-| Chef Cook | 23.00% | ~803 |
-| Miner | 11.00% | ~384 |
-| Duty Bound | 8.00% | ~279 |
-| Angler | 7.00% | ~244 |
-| Thorn Cleaner | 4.00% | ~140 |
-| Chit Chatter | 3.00% | ~105 |
+| Goofy's Investor | 76.00% | ~2,681 |
+| Photographer | 74.00% | ~2,610 |
+| Valley's Helper | 70.00% | ~2,469 |
+| Constructor | 61.00% | ~2,151 |
+| Renovator | 59.00% | ~2,081 |
+| Bestest Friend | 57.00% | ~2,010 |
+| Banker | 50.00% | ~1,764 |
+| Gardener | 38.00% | ~1,340 |
+| Generous | 28.00% | ~988 |
+| Chef Cook | 23.00% | ~811 |
+| Miner | 11.00% | ~388 |
+| Duty Bound | 8.00% | ~282 |
+| Angler | 7.00% | ~247 |
+| Thorn Cleaner | 4.00% | ~141 |
+| Chit Chatter | 3.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,490 (Ranked 139)  
-Completed: 96 (2.75%) (Ranked 57)  
+Progressed: 3,527 (Ranked 138)  
+Completed: 96 (2.72%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -31,14 +31,14 @@ Completed: 96 (2.75%) (Ranked 57)
 | 2023-06-14 | 2,540 | 86 |
 | 2023-06-15 | 3,141 | 94 |
 | 2023-06-16 | 3,476 | 96 |
-| 2023-06-17 | 3,490 | 96 |
+| 2023-06-17 | 3,527 | 96 |
 ## Awards
-Max (Great for Beginners): 869  (Ranked 146)  
-Sum: 7,160 (Ranked 103)  
+Max (Great for Beginners): 873  (Ranked 146)  
+Sum: 7,164 (Ranked 103)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 869 |
+| This game is Great for Beginners | 873 |
 | This game is Relaxing | 776 |
 | This game is Highly Recommended | 766 |
 | This game has Amazing Characters | 762 |
@@ -154,3 +154,4 @@ Diff (max vs sum): 43
 | 2023-06-14 | 4.76 | - | 866 | 7,147 |
 | 2023-06-15 | 4.76 | - | 869 | 7,154 |
 | 2023-06-16 | 4.76 | - | 869 | 7,160 |
+| 2023-06-17 | 4.76 | - | 873 | 7,164 |

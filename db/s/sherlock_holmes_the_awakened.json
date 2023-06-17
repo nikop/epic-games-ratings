@@ -5,10 +5,10 @@
   "Ranking_Rating": 390,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -34,11 +34,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.01,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1469,6 +1469,11 @@
       "Time": "2023-06-16T20:04:42.7410643+00:00",
       "NumProgressed": 474,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-17T02:09:36.5497274+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 28,
@@ -1480,7 +1485,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MQ01_2",
@@ -1536,7 +1541,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MQ03_3",
@@ -1544,7 +1549,7 @@
       "Name": "History Check",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "MQ03_4",
@@ -1560,7 +1565,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "MQ04_1",
@@ -1576,7 +1581,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MQ04_3",
@@ -1584,7 +1589,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MQ05_1",
@@ -1600,7 +1605,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "MQ05_3",
@@ -1616,7 +1621,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "MQ06_1",
@@ -1640,7 +1645,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "MQ06_4",
@@ -1680,7 +1685,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "MQ08_3",
@@ -1688,7 +1693,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "PLTN",
@@ -1703,7 +1708,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 19
     }
   ],
@@ -1711,8 +1716,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-15T15:57:25.3559877+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:05:33.5135381+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:09:36.549727+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:57:56.1072558+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:05:33.5135692+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:02:24.7582744+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:09:36.5497488+00:00"
 }

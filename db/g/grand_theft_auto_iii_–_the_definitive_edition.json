@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -316,11 +316,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6666,
+  "EOS_Progressed": 6667,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 314,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_NewPlayers": 312,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -4261,6 +4261,11 @@
       "Time": "2023-06-17T00:05:06.5948373+00:00",
       "NumProgressed": 6666,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-17T02:09:13.7068706+00:00",
+      "NumProgressed": 6667,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4272,7 +4277,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5534
     },
     {
       "ID": "ACH02",
@@ -4503,7 +4508,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6666,
+      "Progressed": 6667,
       "Completed": 37
     }
   ],
@@ -4511,8 +4516,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-15T22:58:13.3832302+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:05:06.5948367+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:09:13.7068702+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:44.2606705+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:05:06.5949089+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:03:05.7834673+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:09:13.7069043+00:00"
 }

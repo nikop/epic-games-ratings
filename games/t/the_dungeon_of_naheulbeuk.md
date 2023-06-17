@@ -36,9 +36,9 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 23.00% | ~24 |
 | The beards of change | 21.00% | ~22 |
 | The Woman in the High Castle | 20.00% | ~21 |
+| Cursed die | 19.00% | ~20 |
 | Urik's Depths | 19.00% | ~20 |
 | The Blood Countess | 19.00% | ~20 |
-| Cursed die | 18.00% | ~19 |
 | Res Judicata | 17.00% | ~18 |
 | In Navalu's footsteps | 17.00% | ~18 |
 | Law and Order | 16.00% | ~16 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 283)  
+Progressed: 103 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |

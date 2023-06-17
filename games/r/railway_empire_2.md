@@ -29,7 +29,7 @@ Rating: 4.25 (Ranked 796)
 | Bull and bear | 30.00% | ~368 |
 | All mine | 27.00% | ~331 |
 | Mole | 27.00% | ~331 |
-| Financial Shark | 26.00% | ~318 |
+| Financial Shark | 27.00% | ~331 |
 | Socializer | 25.00% | ~306 |
 | Country Life | 24.00% | ~294 |
 | General Manager | 23.00% | ~282 |

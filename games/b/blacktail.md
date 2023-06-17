@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Mushrooming enthusiast | 0.40% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 206)  
+Progressed: 493 (Ranked 207)  
 Completed: 1 (0.20%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |

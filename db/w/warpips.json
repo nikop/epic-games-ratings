@@ -2,13 +2,13 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 670,
-  "Ranking_Popularity": 475,
+  "Ranking_Rating": 669,
+  "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -394,12 +394,18 @@
       "Rating": 4.41,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-06-17T02:02:31.2503374+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Playful Visuals",
+  "NumberOfAwards": 90,
+  "NumberOfAwardsMax": 24,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
@@ -411,7 +417,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -446,9 +452,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-06-14T15:57:32.1978447+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:16.9737579+00:00",
+  "LastChanged": "2023-06-17T02:02:31.2503372+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:04.5304329+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.0260908+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:05.3569484+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:16.9737614+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:02:31.2503377+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:04.5304359+00:00"
 }

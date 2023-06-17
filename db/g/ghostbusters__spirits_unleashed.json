@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1242,9 +1242,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23336,
+  "EOS_Progressed": 23337,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5707,6 +5707,11 @@
       "Time": "2023-06-16T22:06:33.2943368+00:00",
       "NumProgressed": 23336,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-17T02:11:39.2526152+00:00",
+      "NumProgressed": 23337,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5718,7 +5723,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17035
+      "UsersEstimate": 17036
     },
     {
       "ID": "Animated",
@@ -5806,7 +5811,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "Dont_Need_These",
@@ -5822,7 +5827,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5367
+      "UsersEstimate": 5368
     },
     {
       "ID": "Efficient",
@@ -5830,7 +5835,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14935
+      "UsersEstimate": 14936
     },
     {
       "ID": "Escape_Artist",
@@ -5854,7 +5859,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12601
+      "UsersEstimate": 12602
     },
     {
       "ID": "GB_In_Training",
@@ -5934,7 +5939,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "Reckless",
@@ -5966,7 +5971,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "Rivalry",
@@ -6014,7 +6019,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "Stylish",
@@ -6022,7 +6027,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20069
+      "UsersEstimate": 20070
     },
     {
       "ID": "Summoner",
@@ -6062,7 +6067,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "Therapeutic",
@@ -6078,7 +6083,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "Tobins_Prodigy",
@@ -6125,7 +6130,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23336,
+      "Progressed": 23337,
       "Completed": 40
     }
   ],
@@ -6133,8 +6138,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-16T04:59:30.2302404+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:56.6110785+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:39.2526148+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-17T00:00:03.0685284+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:56.6111564+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:04:11.3533652+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:39.2526721+00:00"
 }

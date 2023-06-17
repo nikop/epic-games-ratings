@@ -29,8 +29,8 @@
 | Tastes Like Chicken | 62.00% | ~99 |
 | Combo Breaker | 61.00% | ~98 |
 | Thunderstorm | 61.00% | ~98 |
+| Brilliant: Holy Mountain | 60.00% | ~96 |
 | Clean Forests | 59.00% | ~94 |
-| Brilliant: Holy Mountain | 59.00% | ~94 |
 | Starry: Meadowshire | 55.00% | ~88 |
 | Lieutenant of the Evil | 55.00% | ~88 |
 | Avada Kedavra | 54.00% | ~86 |
@@ -38,7 +38,7 @@
 | Starry: Holy Mountain | 51.00% | ~82 |
 | It's a Trap | 51.00% | ~82 |
 | Brilliant: Arcania | 48.00% | ~77 |
-| Deposition | 46.00% | ~74 |
+| Deposition | 47.00% | ~75 |
 | Starry: Tanglewood | 45.00% | ~72 |
 | Starry: Arcania | 43.00% | ~69 |
 | Sing, My Angel | 40.00% | ~64 |
@@ -46,7 +46,7 @@
 | Starry: The Coreland | 36.00% | ~58 |
 | Feed the Fishes | 35.00% | ~56 |
 | Brilliant: Wasteland | 32.00% | ~51 |
-| Father of Nation | 30.00% | ~48 |
+| Father of Nation | 31.00% | ~50 |
 | Dwarven Countdown | 28.00% | ~45 |
 | Starry: Wasteland | 27.00% | ~43 |
 | Deadman's Chest | 26.00% | ~42 |

@@ -6,52 +6,52 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,772 |
-| The Cursed Farmer | 2.00% | ~1,886 |
-| Beast Intentions | 1.00% | ~943 |
-| The Ring of Regeneration | 1.00% | ~943 |
-| The Mad Wizard | 1.00% | ~943 |
-| Seeking Allies | 0.90% | ~849 |
-| Are Ya Chicken? | 0.90% | ~849 |
-| The Court of Storms | 0.90% | ~545 |
-| Were-verpowered | 0.80% | ~754 |
-| Friendly Imps | 0.80% | ~754 |
-| Beware the Jabberwock | 0.80% | ~484 |
-| A Persistent Buzzing | 0.70% | ~660 |
-| Mad Cow Disease | 0.70% | ~660 |
-| Pure Energy | 0.70% | ~660 |
+| A Brief Tour of the Realms | 4.00% | ~3,776 |
+| The Cursed Farmer | 2.00% | ~1,888 |
+| Beast Intentions | 1.00% | ~944 |
+| The Ring of Regeneration | 1.00% | ~944 |
+| The Mad Wizard | 1.00% | ~944 |
+| Seeking Allies | 0.90% | ~850 |
+| Are Ya Chicken? | 0.90% | ~850 |
+| The Court of Storms | 0.90% | ~546 |
+| Were-verpowered | 0.80% | ~755 |
+| Friendly Imps | 0.80% | ~755 |
+| Beware the Jabberwock | 0.80% | ~485 |
+| A Persistent Buzzing | 0.70% | ~661 |
+| Mad Cow Disease | 0.70% | ~661 |
+| Pure Energy | 0.70% | ~661 |
 | Terror in the Dark | 0.60% | ~566 |
 | Unearthed Evil | 0.60% | ~566 |
 | The Crumbling Temple | 0.60% | ~566 |
 | Exploring Port Nyanzaru | 0.60% | ~566 |
-| Coasting to the Finish | 0.60% | ~363 |
-| Maddening | 0.50% | ~471 |
+| Coasting to the Finish | 0.60% | ~364 |
+| Maddening | 0.50% | ~472 |
 | Checkmate | 0.50% | ~303 |
 | Vecna Out! | 0.50% | ~303 |
-| Beast Mode | 0.50% | ~471 |
-| A Mysterious Summons | 0.50% | ~471 |
-| Building Trust | 0.50% | ~471 |
-| Useless Allies | 0.50% | ~471 |
-| Running of the Saurs | 0.50% | ~471 |
-| The Contagious Curse | 0.50% | ~471 |
-| Escort to Waterdeep | 0.50% | ~471 |
-| Waterdeep Detours | 0.50% | ~471 |
+| Beast Mode | 0.50% | ~472 |
+| A Mysterious Summons | 0.50% | ~472 |
+| Building Trust | 0.50% | ~472 |
+| Useless Allies | 0.50% | ~472 |
+| Running of the Saurs | 0.50% | ~472 |
+| The Contagious Curse | 0.50% | ~472 |
+| Escort to Waterdeep | 0.50% | ~472 |
+| Waterdeep Detours | 0.50% | ~472 |
 | Quick or Quack | 0.50% | ~303 |
-| Owlbear Necessities | 0.40% | ~242 |
-| Best Thay Ever | 0.40% | ~242 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~242 |
-| Pin and Skewer | 0.40% | ~242 |
-| Low Initiative | 0.40% | ~377 |
-| Street War | 0.40% | ~377 |
-| No Time To Rest | 0.40% | ~377 |
-| The Dinner Party | 0.40% | ~377 |
-| The Botched Kidnapping | 0.40% | ~377 |
-| The Death Curse | 0.40% | ~377 |
-| Premature Betrayal | 0.40% | ~377 |
-| Underdeep Cartography | 0.40% | ~377 |
-| Overdue Rendezvous | 0.40% | ~377 |
-| The Templar's Camp | 0.40% | ~377 |
-| Rescue in the Jungle | 0.40% | ~377 |
+| Owlbear Necessities | 0.40% | ~243 |
+| Best Thay Ever | 0.40% | ~243 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~243 |
+| Pin and Skewer | 0.40% | ~243 |
+| Low Initiative | 0.40% | ~378 |
+| Street War | 0.40% | ~378 |
+| No Time To Rest | 0.40% | ~378 |
+| The Dinner Party | 0.40% | ~378 |
+| The Botched Kidnapping | 0.40% | ~378 |
+| The Death Curse | 0.40% | ~378 |
+| Premature Betrayal | 0.40% | ~378 |
+| Underdeep Cartography | 0.40% | ~378 |
+| Overdue Rendezvous | 0.40% | ~378 |
+| The Templar's Camp | 0.40% | ~378 |
+| Rescue in the Jungle | 0.40% | ~378 |
 | Pros and CONs | 0.30% | ~283 |
 | Tall Tales | 0.30% | ~182 |
 | Third Third Out | 0.30% | ~182 |
@@ -286,6 +286,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.20% | ~189 |
 | Vault of Pixies | 0.20% | ~189 |
 | Champions of Waterdeep | 0.20% | ~189 |
+| On The Job Learning | 0.20% | ~189 |
 | The Twilight Grove | 0.20% | ~189 |
 | Elturel Has Fallen | 0.20% | ~189 |
 | Everything is Awful | 0.20% | ~189 |
@@ -328,6 +329,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~121 |
 | Madcap Adventures Redux | 0.20% | ~121 |
 | Tiamat's Army | 0.20% | ~121 |
+| Fight Dragons with Dragons | 0.20% | ~121 |
 | Questlines | 0.20% | ~121 |
 | Raggadragga's Crew | 0.20% | ~121 |
 | Bel's Forge | 0.20% | ~121 |
@@ -449,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.10% | ~61 |
 | Vault of Poison | 0.10% | ~94 |
 | Vault of Cuteness | 0.10% | ~61 |
-| On The Job Learning | 0.10% | ~94 |
 | Strike! | 0.10% | ~61 |
 | Take Five | 0.10% | ~61 |
 | Lost in the Goblin Halls | 0.10% | ~94 |
@@ -463,7 +464,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.10% | ~61 |
 | When the Going Gets Tough | 0.10% | ~61 |
 | Show of Strength | 0.10% | ~61 |
-| Fight Dragons with Dragons | 0.10% | ~61 |
 | Just The Worst | 0.10% | ~61 |
 | Fire and Brimstone | 0.10% | ~61 |
 | A Tenday at Golgamann's | 0.10% | ~61 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,288 (Ranked 63)  
+Progressed: 94,407 (Ranked 63)  
 Completed: 1,943 (2.06%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 1,943 (2.06%) (Ranked 70)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 94,288 | 1,943 |
+| 2023-06-17 | 94,407 | 1,943 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

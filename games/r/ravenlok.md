@@ -36,19 +36,19 @@
 | Extinct Again! | 35.00% | ~351 |
 | Bird of Prey | 35.00% | ~351 |
 | Stardust | 35.00% | ~351 |
-| Heartbreaker | 34.00% | ~341 |
-| Kidnapped! | 34.00% | ~341 |
+| Heartbreaker | 35.00% | ~351 |
+| Kidnapped! | 35.00% | ~351 |
 | Pull the Plug | 33.00% | ~331 |
 | Soul Slayer | 33.00% | ~331 |
+| The Downfall | 33.00% | ~331 |
 | All Heart | 33.00% | ~331 |
 | Trick Question! | 33.00% | ~331 |
 | Final Showdown | 33.00% | ~331 |
-| The Downfall | 32.00% | ~321 |
-| Spot of Tea? | 32.00% | ~321 |
-| Going Home | 32.00% | ~321 |
+| Spot of Tea? | 33.00% | ~331 |
+| Going Home | 33.00% | ~331 |
 | Extraordinary! | 31.00% | ~311 |
 | Mirror, Mirror | 30.00% | ~301 |
-| Flower Power | 26.00% | ~261 |
+| Flower Power | 27.00% | ~271 |
 | Shopping Spree! | 24.00% | ~241 |
 | Crowned | 22.00% | ~221 |
 | Max Level! | 15.00% | ~151 |

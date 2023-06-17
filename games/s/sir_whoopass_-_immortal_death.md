@@ -52,7 +52,7 @@
 | Deal with it | 14.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~10 |
 | Yeehaw!!! | 13.00% | ~10 |
-| You're looking mozzare-hella good! | 11.00% | ~8 |
+| You're looking mozzare-hella good! | 12.00% | ~9 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Timber! | 11.00% | ~8 |
 | Grumpy Immortal | 11.00% | ~8 |

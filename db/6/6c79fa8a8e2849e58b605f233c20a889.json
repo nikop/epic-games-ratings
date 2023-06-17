@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-06-16T23:07:15.1387116+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T02:09:11.697282+00:00",
+      "NumProgressed": 1560,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2112,7 +2117,7 @@
       "Name": "Aggressor",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AI_DRAW",
@@ -2120,7 +2125,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "BOT_DESTROYER",
@@ -2136,7 +2141,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CONQUEROR",
@@ -2144,7 +2149,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -2192,7 +2197,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 608
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2208,7 +2213,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "GRASSHOPPER",
@@ -2216,7 +2221,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 917
+      "UsersEstimate": 920
     },
     {
       "ID": "GUARD_MAKER",
@@ -2287,14 +2292,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1560,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:05:04.3899034+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:09:11.6972815+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:57:42.7237053+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:05:04.3899348+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:02:14.4027256+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:09:11.6973046+00:00"
 }

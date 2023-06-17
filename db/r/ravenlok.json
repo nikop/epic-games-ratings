@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "EOS_Progressed": 1004,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
@@ -2490,9 +2490,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 321
+      "UsersEstimate": 331
     },
     {
       "ID": "18",
@@ -2538,9 +2538,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 351
     },
     {
       "ID": "23",
@@ -2554,9 +2554,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 351
     },
     {
       "ID": "25",
@@ -2746,9 +2746,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 271
     },
     {
       "ID": "47",
@@ -2786,17 +2786,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 331
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 331
     },
     {
       "ID": "7",
@@ -2835,8 +2835,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-17T00:07:34.5340864+00:00",
+  "LastChanged_Achievements": "2023-06-17T02:11:19.7445541+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0914361+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:58:09.4233294+00:00",
-  "LastUpdate_Achievements": "2023-06-17T00:07:34.5341534+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:02:34.5126642+00:00",
+  "LastUpdate_Achievements": "2023-06-17T02:11:19.7446002+00:00"
 }
