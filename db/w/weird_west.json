@@ -6,9 +6,9 @@
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1656,
+  "EOS_Progressed": 1657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1135,6 +1135,11 @@
       "Time": "2023-06-17T10:07:04.7882901+00:00",
       "NumProgressed": 1656,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T15:05:44.8727326+00:00",
+      "NumProgressed": 1657,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -1218,7 +1223,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1226,7 +1231,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1250,7 +1255,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -1288,9 +1293,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1330,7 +1335,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -1392,9 +1397,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1077
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1442,7 +1447,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1522,7 +1527,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1560,24 +1565,24 @@
       "ID": "ACH_WORKERS_RIGHTS",
       "SetID": "8j30i9k",
       "Name": "Workers\u0027 Rights",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1656,
+      "Progressed": 1657,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:06.0524504+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:05:44.8727319+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.0482083+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:59:01.6281857+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:06.0525113+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:58:24.4550489+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:05:44.8727853+00:00"
 }

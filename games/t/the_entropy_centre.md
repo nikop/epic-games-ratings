@@ -19,10 +19,10 @@
 | Archivist | 14.00% | ~27 |
 | Running Boots | 13.00% | ~25 |
 | Fashionista | 12.00% | ~23 |
+| Kaboom! | 10.00% | ~19 |
 | Looper | 10.00% | ~19 |
-| Kaboom! | 9.00% | ~17 |
+| Reunited | 10.00% | ~19 |
 | All Alone | 9.00% | ~17 |
-| Reunited | 9.00% | ~17 |
 | So Close | 8.00% | ~15 |
 | Transformers, cubes in disguise | 8.00% | ~15 |
 | Final Charge | 8.00% | ~15 |
@@ -33,7 +33,7 @@
 | Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 193 (Ranked 257)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

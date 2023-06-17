@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~3,980 |
 | Explorer | 53.00% | ~3,458 |
 | Healer | 53.00% | ~3,458 |
-| Aspiring Inventor | 44.00% | ~2,871 |
+| Aspiring Inventor | 45.00% | ~2,936 |
 | Adventurer | 41.00% | ~2,675 |
 | Famous Healer | 38.00% | ~2,480 |
 | Local Leader | 35.00% | ~2,284 |
@@ -24,7 +24,7 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~1,827 |
 | Legendary Explorer | 27.00% | ~1,762 |
 | Finders, Keepers | 26.00% | ~1,696 |
-| Top Notch | 24.00% | ~1,566 |
+| Top Notch | 25.00% | ~1,631 |
 | Ice Lakes | 23.00% | ~1,501 |
 | Mentor | 23.00% | ~1,501 |
 | Great Leader | 22.00% | ~1,436 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,525 (Ranked 124)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

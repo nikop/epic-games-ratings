@@ -14,8 +14,8 @@
 | Berry Nice | 7.00% | ~15 |
 | Fourth Shard | 7.00% | ~15 |
 | Keyu Exterminator | 6.00% | ~13 |
+| Tastes Like Chicken | 6.00% | ~13 |
 | Big Fish | 5.00% | ~11 |
-| Tastes Like Chicken | 5.00% | ~11 |
 | Fifth Shard | 5.00% | ~11 |
 | Good Stew | 3.00% | ~6 |
 | Green Thumb | 3.00% | ~6 |
@@ -29,7 +29,7 @@
 | Troll Hunter | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 213 (Ranked 251)  
-Completed: 4 (1.88%) (Ranked 73)  
+Completed: 4 (1.88%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

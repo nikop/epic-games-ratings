@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,441 |
-| Self-Improvement | 72.00% | ~1,192 |
-| Perky | 66.00% | ~1,093 |
+| Unforgiven | 87.00% | ~1,442 |
+| Self-Improvement | 72.00% | ~1,193 |
+| Perky | 65.00% | ~1,077 |
 | Let’s Ride | 60.00% | ~994 |
 | Welcome to the Weird West | 57.00% | ~944 |
 | Dead or Alive | 55.00% | ~911 |
-| Full House | 36.00% | ~596 |
+| Full House | 36.00% | ~597 |
 | Off the Trail | 34.00% | ~563 |
-| Justice Served | 29.00% | ~480 |
+| Justice Served | 28.00% | ~464 |
 | Chain Reaction | 26.00% | ~431 |
 | Dishonored | 25.00% | ~414 |
 | Rain of Death | 25.00% | ~414 |
@@ -25,20 +25,20 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~265 |
 | Here Comes Santa Claus | 16.00% | ~265 |
 | Winds of War | 16.00% | ~265 |
-| For Balance | 15.00% | ~248 |
+| For Balance | 15.00% | ~249 |
 | Dog Days | 13.00% | ~215 |
-| Workers' Rights | 13.00% | ~215 |
 | Elusive Prey | 12.00% | ~199 |
 | Out on the Ebb Tide | 12.00% | ~199 |
 | Power Behind the Pulpit | 12.00% | ~199 |
 | Turning the Tables | 12.00% | ~199 |
+| Workers' Rights | 12.00% | ~199 |
 | Something Wicked This Way Comes… | 11.00% | ~182 |
 | There is Hope | 11.00% | ~182 |
 | Loyalty to the Pack | 9.00% | ~149 |
 | Mystery Machine | 9.00% | ~149 |
 | The Philosopher’s Stone | 9.00% | ~149 |
-| Gold Digger | 8.00% | ~132 |
-| Eternity Can Wait | 8.00% | ~132 |
+| Gold Digger | 8.00% | ~133 |
+| Eternity Can Wait | 8.00% | ~133 |
 | Do Not Pass Go… | 7.00% | ~116 |
 | Getting the Gang Back Together | 7.00% | ~116 |
 | Monster Hunter | 7.00% | ~116 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,656 (Ranked 162)  
-Completed: 2 (0.12%) (Ranked 170)  
+Progressed: 1,657 (Ranked 162)  
+Completed: 2 (0.12%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 2 (0.12%) (Ranked 170)
 | 2023-06-14 | 1,647 | 2 |
 | 2023-06-15 | 1,650 | 2 |
 | 2023-06-16 | 1,654 | 2 |
-| 2023-06-17 | 1,656 | 2 |
+| 2023-06-17 | 1,657 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 471)  
 Sum: 24 (Ranked 477)  

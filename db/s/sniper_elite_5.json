@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2971,
+  "EOS_Progressed": 2972,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3800,6 +3800,11 @@
       "Time": "2023-06-17T14:07:15.59929+00:00",
       "NumProgressed": 2971,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T15:05:52.2808129+00:00",
+      "NumProgressed": 2972,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3979,7 +3984,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4019,7 +4024,7 @@
       "Name": "Lord of War",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4147,7 +4152,7 @@
       "Name": "Change the Channel",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4378,13 +4383,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2922,
+      "Progressed": 2923,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2971,
+      "Progressed": 2972,
       "Completed": 2
     }
   ],
@@ -4392,8 +4397,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-16T20:01:05.3480168+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:15.5992895+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:05:52.2808122+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:01:45.4137143+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:15.5993969+00:00"
+  "LastUpdate_Ratings": "2023-06-17T15:00:14.1672519+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:05:52.2809024+00:00"
 }

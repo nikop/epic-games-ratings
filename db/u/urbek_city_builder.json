@@ -3,9 +3,9 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "WELFARE_1",
@@ -1277,8 +1277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:23.6023666+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:05:58.498775+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:28.8250127+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:59:30.0142182+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:23.6024581+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:58:42.5474822+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:05:58.4988669+00:00"
 }

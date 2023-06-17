@@ -6,7 +6,7 @@
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15857,
+  "EOS_Progressed": 15860,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -7195,6 +7195,11 @@
       "Time": "2023-06-17T14:07:00.7279292+00:00",
       "NumProgressed": 15857,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-17T15:05:40.985412+00:00",
+      "NumProgressed": 15860,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 22,
@@ -7230,7 +7235,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "1019",
@@ -7254,7 +7259,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "1022",
@@ -7262,7 +7267,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "1023",
@@ -7326,7 +7331,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "1031",
@@ -7342,7 +7347,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "1033",
@@ -7381,15 +7386,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 15857,
+      "Progressed": 15860,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:00.7279284+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:05:40.9854114+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.0084134+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:01:21.5892654+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:00.7280014+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:59:55.5002815+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:05:40.9854631+00:00"
 }

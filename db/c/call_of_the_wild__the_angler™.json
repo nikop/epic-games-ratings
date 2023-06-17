@@ -6,9 +6,9 @@
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -574,7 +574,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4382,
+  "EOS_Progressed": 4384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -3454,6 +3454,11 @@
       "Time": "2023-06-17T11:04:12.0627951+00:00",
       "NumProgressed": 4382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T15:03:39.161639+00:00",
+      "NumProgressed": 4384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3465,7 +3470,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3288
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3473,7 +3478,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3481,7 +3486,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2850
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3497,7 +3502,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3505,7 +3510,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3513,15 +3518,15 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2104
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3529,7 +3534,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3537,7 +3542,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3569,7 +3574,7 @@
       "Name": "Goldfish?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -3697,7 +3702,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -3744,13 +3749,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4382,
+      "Progressed": 4384,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3754,
+      "Progressed": 3756,
       "Completed": 112
     }
   ],
@@ -3758,8 +3763,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:04:06.2651186+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:03:39.1616382+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:00:49.0726023+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:04:06.265175+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:59:34.032593+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:03:39.1616855+00:00"
 }

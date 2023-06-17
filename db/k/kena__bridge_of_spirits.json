@@ -6,9 +6,9 @@
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 36,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1166,9 +1166,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 426073,
+  "EOS_Progressed": 426074,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5291,6 +5291,11 @@
       "Time": "2023-06-17T14:04:00.9570063+00:00",
       "NumProgressed": 426073,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-06-17T15:03:35.6205619+00:00",
+      "NumProgressed": 426074,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 41,
@@ -5470,7 +5475,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404769
+      "UsersEstimate": 404770
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -5502,7 +5507,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293990
+      "UsersEstimate": 293991
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -5518,7 +5523,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340858
+      "UsersEstimate": 340859
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -5558,7 +5563,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136343
+      "UsersEstimate": 136344
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -5590,7 +5595,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183211
+      "UsersEstimate": 183212
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -5629,15 +5634,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426073,
+      "Progressed": 426074,
       "Completed": 507
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-13T16:58:47.1145545+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:04:00.9570054+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:03:35.6205612+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.1842211+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:58:50.5047922+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:04:00.9571065+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:58:17.2140588+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:03:35.6206196+00:00"
 }

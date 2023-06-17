@@ -19,12 +19,12 @@
 | Immaculate Aim | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
+| The Betrayer | 9.00% | ~63 |
 | The Wicked Twins | 9.00% | ~63 |
 | Honest Mistake | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Fast Learner | 9.00% | ~63 |
 | Like Clockwork | 8.00% | ~56 |
-| The Betrayer | 8.00% | ~56 |
 | The Man Who Shattered Time | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
 | Check Your Pulse | 8.00% | ~56 |
@@ -59,7 +59,7 @@
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 703 (Ranked 194)  
-Completed: 3 (0.43%) (Ranked 126)  
+Completed: 3 (0.43%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

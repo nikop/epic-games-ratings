@@ -2,10 +2,10 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 838,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-06-17T14:02:26.7827232+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T15:02:13.6286075+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -142,7 +147,7 @@
       "Name": "Self Portrait",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -166,7 +171,7 @@
       "Name": "Rainbow!",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -190,7 +195,7 @@
       "Name": "Vermeer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -214,7 +219,7 @@
       "Name": "You tried your best!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -230,7 +235,7 @@
       "Name": "Facepalm",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -310,7 +315,7 @@
       "Name": "Art Intern",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -326,7 +331,7 @@
       "Name": "First Prize!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -334,21 +339,21 @@
       "Name": "First Sketch",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 838,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:02:26.7827224+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:02:13.6286068+00:00",
   "LastUpdate_AppInfo": "2023-06-16T16:59:01.0673973+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:56:54.3005731+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:02:26.7827501+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:56:56.777104+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:02:13.6288396+00:00"
 }

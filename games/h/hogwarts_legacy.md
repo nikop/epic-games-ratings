@@ -6,18 +6,18 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,234 |
-| First Class Student | 8.00% | ~22,430 |
-| Troll with the Punches | 8.00% | ~22,430 |
-| Grappling with a Graphorn | 7.00% | ~19,626 |
-| The One Who Mastered Memories | 7.00% | ~19,626 |
-| The Hallowed Hero | 7.00% | ~19,626 |
-| The Hero of Hogwarts | 7.00% | ~19,626 |
-| The Defender of Dragons | 7.00% | ~19,626 |
-| A Keen Sense of Spell | 7.00% | ~19,626 |
-| Loom for Improvement | 7.00% | ~19,626 |
-| A Talent for Spending | 7.00% | ~19,626 |
-| Coasting Along | 7.00% | ~19,626 |
-| That's a Keeper | 7.00% | ~19,626 |
+| First Class Student | 8.00% | ~22,431 |
+| Troll with the Punches | 8.00% | ~22,431 |
+| Grappling with a Graphorn | 7.00% | ~19,627 |
+| The One Who Mastered Memories | 7.00% | ~19,627 |
+| The Hallowed Hero | 7.00% | ~19,627 |
+| The Hero of Hogwarts | 7.00% | ~19,627 |
+| The Defender of Dragons | 7.00% | ~19,627 |
+| A Keen Sense of Spell | 7.00% | ~19,627 |
+| Loom for Improvement | 7.00% | ~19,627 |
+| A Talent for Spending | 7.00% | ~19,627 |
+| Coasting Along | 7.00% | ~19,627 |
+| That's a Keeper | 7.00% | ~19,627 |
 | Challenge Accepted | 6.00% | ~16,823 |
 | Followed the Butterflies | 6.00% | ~16,823 |
 | The Spell Master | 6.00% | ~16,823 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,377 (Ranked 41)  
-Completed: 408 (0.15%) (Ranked 163)  
+Progressed: 280,383 (Ranked 41)  
+Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
-| 2023-06-17 | 280,377 | 408 |
+| 2023-06-17 | 280,383 | 408 |
 ## Awards
 Max (Character Customization): 20,077  (Ranked 18)  
 Sum: 37,215 (Ranked 32)  

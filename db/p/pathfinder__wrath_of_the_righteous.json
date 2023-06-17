@@ -6,9 +6,9 @@
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 114,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2858,7 +2858,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9938,
+  "EOS_Progressed": 9939,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -6763,6 +6763,11 @@
       "Time": "2023-06-17T13:09:44.9107612+00:00",
       "NumProgressed": 9938,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T15:06:01.2250261+00:00",
+      "NumProgressed": 9939,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6790,7 +6795,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "04_FithCrusade",
@@ -6988,9 +6993,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 80
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -7701,21 +7706,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8720,
+      "Progressed": 8721,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9938,
+      "Progressed": 9939,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-16T17:58:17.7670008+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:26.655377+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:06:01.2250256+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:58:52.4644105+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:26.6556017+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:58:18.3918817+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:06:01.2252156+00:00"
 }

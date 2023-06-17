@@ -6,8 +6,8 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2388,10 +2388,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6419,
       "NumberOfAwardsMax": 2314
+    },
+    {
+      "Time": "2023-06-17T15:00:17.8471692+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6420,
+      "NumberOfAwardsMax": 2314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6419,
+  "NumberOfAwards": 6420,
   "NumberOfAwardsMax": 2314,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2411,7 +2417,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 480
+      "Count": 481
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2468,9 +2474,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49599,
+  "EOS_Progressed": 49601,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -7558,6 +7564,11 @@
       "Time": "2023-06-17T14:07:21.8934835+00:00",
       "NumProgressed": 49599,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-06-17T15:05:57.0199169+00:00",
+      "NumProgressed": 49601,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 45,
@@ -7593,7 +7604,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39183
+      "UsersEstimate": 39185
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7681,7 +7692,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29263
+      "UsersEstimate": 29265
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -7761,7 +7772,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28271
+      "UsersEstimate": 28273
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -7809,7 +7820,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28767
+      "UsersEstimate": 28769
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -7833,7 +7844,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48111
+      "UsersEstimate": 48113
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7873,7 +7884,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35215
+      "UsersEstimate": 35217
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -7905,7 +7916,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26287
+      "UsersEstimate": 26289
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -7921,22 +7932,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35215
+      "UsersEstimate": 35217
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49599,
+      "Progressed": 49601,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-16T16:01:06.3951629+00:00",
-  "LastChanged_Achievements": "2023-06-17T14:07:21.8934828+00:00",
+  "LastChanged": "2023-06-17T15:00:17.847169+00:00",
+  "LastChanged_Achievements": "2023-06-17T15:05:57.0199164+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:01:49.5701+00:00",
-  "LastUpdate_Achievements": "2023-06-17T14:07:21.8936012+00:00"
+  "LastUpdate_Ratings": "2023-06-17T15:00:17.8471695+00:00",
+  "LastUpdate_Achievements": "2023-06-17T15:05:57.0199834+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,020 |
-| The Journey Begins | 98.00% | ~5,020 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,995 |
+| Quinceañera Time | 98.00% | ~5,021 |
+| The Journey Begins | 98.00% | ~5,021 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,996 |
 | There is No Escape | 71.00% | ~3,637 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,176 |
 | Royal Flush | 62.00% | ~3,176 |
-| Timber! | 60.00% | ~3,073 |
-| Survive the Bombsequences | 59.00% | ~3,022 |
+| Timber! | 60.00% | ~3,074 |
+| Survive the Bombsequences | 59.00% | ~3,023 |
 | Killed 20 Jerks | 53.00% | ~2,715 |
 | Death Defied | 53.00% | ~2,715 |
 | Fortunate Soul | 49.00% | ~2,510 |
-| Jerk-Slayer | 43.00% | ~2,202 |
-| Employee of the Month | 37.00% | ~1,895 |
-| I Believe I Can Fly | 37.00% | ~1,895 |
+| Jerk-Slayer | 43.00% | ~2,203 |
+| Employee of the Month | 37.00% | ~1,896 |
+| I Believe I Can Fly | 37.00% | ~1,896 |
 | Bone Collector | 35.00% | ~1,793 |
 | Fe-Festival | 35.00% | ~1,793 |
 | Top of the Food Chain | 32.00% | ~1,639 |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,122 (Ranked 129)  
-Completed: 27 (0.53%) (Ranked 118)  
+Progressed: 5,123 (Ranked 129)  
+Completed: 27 (0.53%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 27 (0.53%) (Ranked 118)
 | 2023-06-14 | 5,114 | 27 |
 | 2023-06-15 | 5,119 | 27 |
 | 2023-06-16 | 5,121 | 27 |
-| 2023-06-17 | 5,122 | 27 |
+| 2023-06-17 | 5,123 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

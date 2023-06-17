@@ -14,13 +14,13 @@ Rating: 4.18 (Ranked 847)
 | If the SHU Fits... | 10.00% | ~1,541 |
 | Get a Grip | 9.00% | ~1,387 |
 | Workplace Hazard | 9.00% | ~1,387 |
-| Giving Back | 8.00% | ~1,232 |
-| Without A Paddle | 8.00% | ~1,232 |
-| Two Heads Are Better Than One | 6.00% | ~924 |
-| Terminated | 6.00% | ~924 |
-| Float Like A Butterfly | 6.00% | ~924 |
-| In the Pipe, Five by Five | 6.00% | ~924 |
-| Crash Site | 6.00% | ~924 |
+| Giving Back | 8.00% | ~1,233 |
+| Without A Paddle | 8.00% | ~1,233 |
+| Two Heads Are Better Than One | 6.00% | ~925 |
+| Terminated | 6.00% | ~925 |
+| Float Like A Butterfly | 6.00% | ~925 |
+| In the Pipe, Five by Five | 6.00% | ~925 |
+| Crash Site | 6.00% | ~925 |
 | You Need a Gun | 5.00% | ~770 |
 | Power Up | 5.00% | ~770 |
 | The Commonality | 4.00% | ~616 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,406 (Ranked 104)  
-Completed: 56 (0.36%) (Ranked 131)  
+Progressed: 15,409 (Ranked 104)  
+Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,16 +103,16 @@ Completed: 56 (0.36%) (Ranked 131)
 | 2023-06-14 | 15,273 | 55 |
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
-| 2023-06-17 | 15,406 | 56 |
+| 2023-06-17 | 15,409 | 56 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 388)  
-Sum: 315 (Ranked 330)  
+Sum: 316 (Ranked 330)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 54 |
 | This game has Amazing Characters | 54 |
 | This game has Amazing Storytelling | 54 |
-| This game has Quickly Understood Controls | 53 |
 | This game is Highly Recommended | 52 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
@@ -187,3 +187,4 @@ Diff (max vs sum): 58
 | 2023-06-14 | 4.18 | 54 | 311 |
 | 2023-06-15 | 4.18 | 54 | 314 |
 | 2023-06-16 | 4.18 | 54 | 315 |
+| 2023-06-17 | 4.18 | 54 | 316 |

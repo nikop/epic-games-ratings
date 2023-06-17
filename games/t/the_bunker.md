@@ -19,9 +19,9 @@
 | Churchill | 51.00% | ~54 |
 | Sam | 51.00% | ~54 |
 | Doctor | 49.00% | ~52 |
+| Leave | 48.00% | ~51 |
 | Commissioner | 48.00% | ~51 |
 | Engineer | 48.00% | ~51 |
-| Leave | 47.00% | ~50 |
 | Soldier | 47.00% | ~50 |
 | Press Play | 37.00% | ~39 |
 | General | 25.00% | ~26 |
@@ -33,8 +33,8 @@
 | Friends | 5.00% | ~5 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 281)  
-Completed: 3 (2.83%) (Ranked 54)  
+Progressed: 106 (Ranked 282)  
+Completed: 3 (2.83%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
