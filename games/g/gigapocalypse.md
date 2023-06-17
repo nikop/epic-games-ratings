@@ -16,12 +16,12 @@
 | Quite A Snack | 58.00% | ~90 |
 | Overwhelming Power | 54.00% | ~84 |
 | Impenetrable Skin | 53.00% | ~83 |
-| Chomp Chomp! | 43.00% | ~67 |
+| Chomp Chomp! | 44.00% | ~69 |
 | Supreme Power | 42.00% | ~66 |
+| The Duelist | 40.00% | ~62 |
 | Glorious Battle | 40.00% | ~62 |
 | Diaper Time! | 40.00% | ~62 |
 | Target Practice | 40.00% | ~62 |
-| The Duelist | 39.00% | ~61 |
 | Mutant And Proud | 37.00% | ~58 |
 | Meat Larder | 37.00% | ~58 |
 | The Emperor's New Clothes | 32.00% | ~50 |

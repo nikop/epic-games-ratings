@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2979,
+  "EOS_Progressed": 2980,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3826,6 +3826,11 @@
       "Time": "2023-06-17T22:05:55.2847354+00:00",
       "NumProgressed": 2979,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T23:06:22.6123369+00:00",
+      "NumProgressed": 2980,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3901,7 +3906,7 @@
       "Name": "Organ Grinder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3917,7 +3922,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4147,9 +4152,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 566
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4229,7 +4234,7 @@
       "Name": "Target America",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4404,13 +4409,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2930,
+      "Progressed": 2931,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2979,
+      "Progressed": 2980,
       "Completed": 2
     }
   ],
@@ -4418,8 +4423,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-17T16:01:16.5934353+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:05:55.2847351+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:06:22.6123364+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:00:11.985474+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:05:55.2848059+00:00"
+  "LastUpdate_Ratings": "2023-06-17T23:00:52.3345675+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:06:22.6124423+00:00"
 }

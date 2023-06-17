@@ -1,38 +1,38 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 168)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~7,494 |
-| Sword Runner | 63.00% | ~6,132 |
-| Wallrunner | 56.00% | ~5,450 |
-| Running out of breath | 55.00% | ~5,353 |
-| Homerunner | 46.00% | ~4,477 |
-| Out of order | 46.00% | ~4,477 |
-| I call it luck | 45.00% | ~4,380 |
-| Where are my Keys? | 42.00% | ~4,088 |
+| Longrunner | 77.00% | ~7,496 |
+| Sword Runner | 62.00% | ~6,036 |
+| Wallrunner | 56.00% | ~5,452 |
+| Running out of breath | 55.00% | ~5,354 |
+| Homerunner | 46.00% | ~4,478 |
+| Out of order | 46.00% | ~4,478 |
+| I call it luck | 45.00% | ~4,381 |
+| Where are my Keys? | 42.00% | ~4,089 |
 | Back to hell | 38.00% | ~3,699 |
-| Perfection | 33.00% | ~3,212 |
-| Why not both | 31.00% | ~3,017 |
+| Perfection | 33.00% | ~3,213 |
+| Why not both | 31.00% | ~3,018 |
 | Sword to a gunfight | 30.00% | ~2,920 |
 | Upgrades not mandatory | 30.00% | ~2,920 |
 | Artificial selection | 29.00% | ~2,823 |
 | Control freak | 29.00% | ~2,823 |
-| Running Wild | 28.00% | ~2,725 |
+| Running Wild | 28.00% | ~2,726 |
 | Finish line | 27.00% | ~2,628 |
 | Unstoppable force | 23.00% | ~2,239 |
 | Wave of mutilation | 23.00% | ~2,239 |
 | Can't Run Can't Hide | 18.00% | ~1,752 |
 | R is for Running | 17.00% | ~1,655 |
-| Dead in the air | 16.00% | ~1,557 |
+| Dead in the air | 16.00% | ~1,558 |
 | Improvise, adapt, overrun | 14.00% | ~1,363 |
 | Pre-empative strike | 14.00% | ~1,363 |
-| Strike | 13.00% | ~1,265 |
+| Strike | 13.00% | ~1,266 |
 | More than human | 12.00% | ~1,168 |
-| Triple A | 10.00% | ~973 |
+| Triple A | 10.00% | ~974 |
 | Fine addition | 7.00% | ~681 |
 | One Of Those Days | 7.00% | ~681 |
 | Push it to the limit | 5.00% | ~487 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.40% | ~39 |
 | Up Close And Personal | 0.40% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,733 (Ranked 115)  
+Progressed: 9,735 (Ranked 115)  
 Completed: 46 (0.47%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 46 (0.47%) (Ranked 124)
 | 2023-06-14 | 9,386 | 46 |
 | 2023-06-15 | 9,487 | 46 |
 | 2023-06-16 | 9,602 | 46 |
-| 2023-06-17 | 9,733 | 46 |
+| 2023-06-17 | 9,735 | 46 |
 ## Awards
 Max (Great Boss Battles): 468  (Ranked 193)  
 Sum: 626 (Ranked 283)  

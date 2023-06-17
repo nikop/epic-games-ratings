@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 18.00% | ~481 |
+| Wakey Wakey | 18.00% | ~482 |
 | Sputnik 2049 | 16.00% | ~428 |
 | Infinite Growth... | 15.00% | ~401 |
-| Without Breaking Some Eggs... | 14.00% | ~374 |
-| Space Society | 10.00% | ~267 |
-| A Thousand Strong | 10.00% | ~267 |
-| Ready for a New World | 10.00% | ~267 |
+| Without Breaking Some Eggs... | 14.00% | ~375 |
+| Space Society | 10.00% | ~268 |
+| A Thousand Strong | 10.00% | ~268 |
+| Ready for a New World | 10.00% | ~268 |
 | Permanent Redesigns | 8.00% | ~214 |
 | Ain't Nobody Got Time for That | 8.00% | ~214 |
 | Guy de Borderlands | 7.00% | ~187 |
@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 454)
 | Breaking Protocol | 7.00% | ~187 |
 | The Ship of Theseus | 7.00% | ~187 |
 | Hope Seeker | 7.00% | ~187 |
-| A Hunk of Junk | 6.00% | ~160 |
+| A Hunk of Junk | 6.00% | ~161 |
 | Exceeding Capacity | 5.00% | ~134 |
 | Man's Best Friend | 4.00% | ~107 |
 | Power Outage | 4.00% | ~107 |
@@ -29,15 +29,15 @@ Rating: 4.56 (Ranked 454)
 | Access Granted | 3.00% | ~80 |
 | Necessary Enhancement | 3.00% | ~80 |
 | From the Past | 3.00% | ~80 |
-| Oats | 2.00% | ~53 |
-| What They Hide From Us | 2.00% | ~53 |
-| ...  in a finite world | 2.00% | ~53 |
-| Sustainable Energy | 2.00% | ~53 |
-| In Dolos We Trust | 2.00% | ~53 |
-| BRAWL! | 2.00% | ~53 |
-| All in Good Health | 2.00% | ~53 |
-| Pedal to the Metal | 2.00% | ~53 |
-| What the Ruins Teach Us | 2.00% | ~53 |
+| Oats | 2.00% | ~54 |
+| What They Hide From Us | 2.00% | ~54 |
+| ...  in a finite world | 2.00% | ~54 |
+| Sustainable Energy | 2.00% | ~54 |
+| In Dolos We Trust | 2.00% | ~54 |
+| BRAWL! | 2.00% | ~54 |
+| All in Good Health | 2.00% | ~54 |
+| Pedal to the Metal | 2.00% | ~54 |
+| What the Ruins Teach Us | 2.00% | ~54 |
 | Mutual Loyalty | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 454)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,674 (Ranked 150)  
+Progressed: 2,676 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 2,639 | 0 |
 | 2023-06-15 | 2,660 | 0 |
 | 2023-06-16 | 2,666 | 0 |
-| 2023-06-17 | 2,674 | 0 |
+| 2023-06-17 | 2,676 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

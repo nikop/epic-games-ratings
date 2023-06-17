@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1679,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 8.4,
   "EosHistory": [
@@ -2773,6 +2773,11 @@
       "Time": "2023-06-17T18:06:54.9827137+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-06-17T23:06:04.3035774+00:00",
+      "NumProgressed": 1679,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 12,
@@ -2800,7 +2805,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "Green Ticket Roundup",
@@ -2870,16 +2875,16 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 141
     }
   ],
@@ -2887,8 +2892,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:05:39.5378338+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:06:04.3035765+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:59:19.6586698+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:05:39.537856+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:59:50.568075+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:06:04.3036019+00:00"
 }

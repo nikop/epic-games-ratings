@@ -1445,9 +1445,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "CultivairChests1",
@@ -1765,9 +1765,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "WatcherSpared",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:05:23.3006099+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:05:46.0314839+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:59:11.2590279+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:05:23.3006528+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:59:38.3706449+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:05:46.0315404+00:00"
 }

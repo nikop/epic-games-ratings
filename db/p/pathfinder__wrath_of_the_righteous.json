@@ -2784,24 +2784,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 6751,
       "NumberOfAwardsMax": 1662
+    },
+    {
+      "Time": "2023-06-17T22:58:30.3517419+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6753,
+      "NumberOfAwardsMax": 1663
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6751,
-  "NumberOfAwardsMax": 1662,
+  "NumberOfAwards": 6753,
+  "NumberOfAwardsMax": 1663,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1662
+      "Count": 1663
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 597
+      "Count": 598
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2858,9 +2864,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9945,
+  "EOS_Progressed": 9946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6783,6 +6789,11 @@
       "Time": "2023-06-17T21:07:10.339438+00:00",
       "NumProgressed": 9945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T23:06:31.8386058+00:00",
+      "NumProgressed": 9946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6802,7 +6813,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -6930,7 +6941,7 @@
       "Name": "Mythic Choices",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "19_EqualToAroden",
@@ -7042,7 +7053,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -7721,21 +7732,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8727,
+      "Progressed": 8728,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9945,
+      "Progressed": 9946,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-16T17:58:17.7670008+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:06:03.6615895+00:00",
+  "LastChanged": "2023-06-17T22:58:30.3517418+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:06:31.8386053+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:58:17.210254+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:06:03.6617334+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:58:30.3517432+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:06:31.8387871+00:00"
 }

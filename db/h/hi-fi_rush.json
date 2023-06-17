@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3262,
+  "EOS_Progressed": 3263,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 1,
@@ -3436,6 +3436,11 @@
       "Time": "2023-06-17T22:06:00.1573042+00:00",
       "NumProgressed": 3262,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-17T23:06:27.9477745+00:00",
+      "NumProgressed": 3263,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 61,
@@ -3445,9 +3450,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2578
     },
     {
       "ID": "Ach002",
@@ -3479,7 +3484,7 @@
       "Name": "Headliner",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Ach006",
@@ -3495,7 +3500,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "Ach008",
@@ -3575,7 +3580,7 @@
       "Name": "I play my own way!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "Ach018",
@@ -3583,7 +3588,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "Ach019",
@@ -3655,7 +3660,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "Ach028",
@@ -3679,7 +3684,7 @@
       "Name": "This is a breeze!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Ach031",
@@ -3695,7 +3700,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "Ach033",
@@ -3847,7 +3852,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "Ach052",
@@ -3934,22 +3939,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3262,
+      "Progressed": 3263,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1783,
-      "Completed": 1783
+      "Progressed": 1784,
+      "Completed": 1784
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:06:00.1573037+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:06:27.9477737+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:58:27.9288908+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:06:00.1573629+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:58:43.3779799+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:06:27.9478519+00:00"
 }

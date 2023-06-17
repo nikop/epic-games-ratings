@@ -35,10 +35,10 @@ Rating: 4.80 (Ranked 79)
 | Whispers in the Woods II | 16.00% | ~379 |
 | Quickmoore Headquarters | 16.00% | ~379 |
 | No more holding back | 15.00% | ~355 |
+| Terbisia | 15.00% | ~355 |
 | Whispers in the Woods III | 14.00% | ~332 |
 | True power | 14.00% | ~332 |
 | Meltridge | 14.00% | ~332 |
-| Terbisia | 14.00% | ~332 |
 | My heart and sword always for Demacia | 13.00% | ~308 |
 | Friendly fire | 13.00% | ~308 |
 | The Central Headquarters | 13.00% | ~308 |

@@ -38,9 +38,9 @@
 | Speed of light | 19.00% | ~62 |
 | Out of this League | 16.00% | ~52 |
 | Special Forces | 15.00% | ~49 |
+| Toot Toot! | 14.00% | ~46 |
 | Blasting away! | 14.00% | ~46 |
 | Earth Defense Force | 13.00% | ~43 |
-| Toot Toot! | 13.00% | ~43 |
 | Rocketman | 13.00% | ~43 |
 | High Roller | 12.00% | ~39 |
 | Event Pro | 11.00% | ~36 |

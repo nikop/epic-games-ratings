@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -310,15 +310,21 @@
       "Rating": 4.12,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-17T22:58:00.5201107+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6683,
+  "EOS_Progressed": 6685,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4336,6 +4342,11 @@
       "Time": "2023-06-17T22:03:53.4366201+00:00",
       "NumProgressed": 6683,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-17T23:03:50.5887106+00:00",
+      "NumProgressed": 6685,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4347,7 +4358,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5547
+      "UsersEstimate": 5549
     },
     {
       "ID": "ACH02",
@@ -4355,7 +4366,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "ACH03",
@@ -4371,7 +4382,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH05",
@@ -4411,7 +4422,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH10",
@@ -4419,7 +4430,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH11",
@@ -4451,7 +4462,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH15",
@@ -4483,7 +4494,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH19",
@@ -4539,7 +4550,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH26",
@@ -4578,16 +4589,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6683,
+      "Progressed": 6685,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-06-15T22:58:13.3832302+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:03:53.4366193+00:00",
+  "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:03:50.5887102+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:57:55.454016+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:03:53.4366569+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:58:00.5201111+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:03:50.5887546+00:00"
 }

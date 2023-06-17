@@ -6,37 +6,37 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,678 |
-| Resurgence | 1.00% | ~5,678 |
-| Close Shave | 1.00% | ~5,678 |
-| Preemptive Strike | 1.00% | ~5,678 |
-| Humanitarian | 1.00% | ~5,678 |
-| Wounded Healer | 0.90% | ~5,110 |
-| Flight to Freedom | 0.80% | ~4,542 |
-| Unforgettable Getaway | 0.70% | ~3,974 |
-| First to the Punch | 0.70% | ~3,974 |
-| Old West Oasis | 0.70% | ~3,974 |
-| With Scars to Show | 0.70% | ~3,974 |
-| Operation: Survival | 0.60% | ~3,407 |
-| Classy Act | 0.60% | ~3,407 |
-| Every Last Drop | 0.60% | ~3,407 |
-| Raccoon City Recruit | 0.60% | ~3,407 |
-| Cutting Out | 0.50% | ~2,839 |
-| Outrun Evil | 0.50% | ~2,839 |
-| A Fast Death | 0.50% | ~2,839 |
-| Lifting The Fog | 0.50% | ~2,839 |
-| Chorus of Chaos | 0.50% | ~2,839 |
-| Ancestor's Rite | 0.40% | ~2,271 |
-| Devoted Gatekeeping | 0.40% | ~2,271 |
-| Shrine Apparatus | 0.40% | ~2,271 |
-| Grim Pilgrimage | 0.40% | ~2,271 |
-| Selfless Survival | 0.40% | ~2,271 |
-| End of Days | 0.40% | ~2,271 |
-| Broken Bodies | 0.30% | ~1,703 |
-| I See You | 0.30% | ~1,703 |
-| Insult and Injury | 0.30% | ~1,703 |
-| Outrun the Overlap | 0.30% | ~1,703 |
-| Rebuilding The Borgo | 0.30% | ~1,703 |
+| Healthy Obsession | 1.00% | ~5,680 |
+| Resurgence | 1.00% | ~5,680 |
+| Close Shave | 1.00% | ~5,680 |
+| Preemptive Strike | 1.00% | ~5,680 |
+| Humanitarian | 1.00% | ~5,680 |
+| Wounded Healer | 0.90% | ~5,112 |
+| Flight to Freedom | 0.80% | ~4,544 |
+| Unforgettable Getaway | 0.70% | ~3,976 |
+| First to the Punch | 0.70% | ~3,976 |
+| Old West Oasis | 0.70% | ~3,976 |
+| Every Last Drop | 0.70% | ~3,976 |
+| With Scars to Show | 0.70% | ~3,976 |
+| Operation: Survival | 0.60% | ~3,408 |
+| Classy Act | 0.60% | ~3,408 |
+| Raccoon City Recruit | 0.60% | ~3,408 |
+| Ancestor's Rite | 0.50% | ~2,840 |
+| Cutting Out | 0.50% | ~2,840 |
+| Outrun Evil | 0.50% | ~2,840 |
+| A Fast Death | 0.50% | ~2,840 |
+| Lifting The Fog | 0.50% | ~2,840 |
+| Chorus of Chaos | 0.50% | ~2,840 |
+| Devoted Gatekeeping | 0.40% | ~2,272 |
+| Shrine Apparatus | 0.40% | ~2,272 |
+| Grim Pilgrimage | 0.40% | ~2,272 |
+| Selfless Survival | 0.40% | ~2,272 |
+| End of Days | 0.40% | ~2,272 |
+| Broken Bodies | 0.30% | ~1,704 |
+| I See You | 0.30% | ~1,704 |
+| Insult and Injury | 0.30% | ~1,704 |
+| Outrun the Overlap | 0.30% | ~1,704 |
+| Rebuilding The Borgo | 0.30% | ~1,704 |
 | Heavy Burden | 0.20% | ~1,136 |
 | Death of Ignorance | 0.20% | ~1,136 |
 | Power Moves | 0.20% | ~1,136 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~568 |
 | Adept Gabriel | 0.10% | ~568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567,779 (Ranked 26)  
+Progressed: 567,986 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 42 (0.01%) (Ranked 215)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 567,779 | 42 |
+| 2023-06-17 | 567,986 | 42 |
 ## Awards
 Max (Diverse Characters): 28,602  (Ranked 15)  
 Sum: 228,232 (Ranked 12)  

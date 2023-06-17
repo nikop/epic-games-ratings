@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 2369,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2949,9 +2949,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 355
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -3110,8 +3110,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-17T22:05:53.5230971+00:00",
+  "LastChanged_Achievements": "2023-06-17T23:06:20.4998038+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:57:38.6921307+00:00",
-  "LastUpdate_Achievements": "2023-06-17T22:05:53.5231501+00:00"
+  "LastUpdate_Ratings": "2023-06-17T22:57:42.3548049+00:00",
+  "LastUpdate_Achievements": "2023-06-17T23:06:20.4998745+00:00"
 }
