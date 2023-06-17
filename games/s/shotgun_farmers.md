@@ -5,35 +5,35 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 60.00% | ~76 |
-| Aspairagus | 56.00% | ~43 |
+| Aspairagus | 57.00% | ~43 |
 | Survivor | 48.00% | ~36 |
 | First Blood | 44.00% | ~55 |
 | Triple Kill | 42.00% | ~53 |
+| No Diggity | 38.00% | ~29 |
 | No Asperascope | 37.00% | ~47 |
 | Cornivore | 37.00% | ~47 |
 | Early Survivor | 37.00% | ~28 |
-| No Diggity | 37.00% | ~28 |
 | I Believe I Can Fly | 35.00% | ~44 |
 | Bouncemato | 25.00% | ~19 |
 | Amateur Survivor | 25.00% | ~19 |
-| Quick-Draw Pod | 19.00% | ~14 |
+| Quick-Draw Pod | 20.00% | ~15 |
 | 10K | 18.00% | ~23 |
 | Professional Survivor | 18.00% | ~14 |
 | This Is My Boomstick | 18.00% | ~14 |
 | 15K | 17.00% | ~21 |
-| Grave Digger | 16.00% | ~12 |
+| Grave Digger | 17.00% | ~13 |
 | Drinking Problem | 14.00% | ~18 |
 | Summers Here | 13.00% | ~10 |
 | Eggtraordinary | 12.00% | ~15 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
 | Skin Of Your Teeth | 9.00% | ~11 |
+| Quit Horsin' Around | 8.00% | ~10 |
 | Pork Chop Express | 8.00% | ~10 |
 | Carrocketeer | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Expert Survivor | 8.00% | ~6 |
-| Quit Horsin' Around | 7.00% | ~9 |
-| Quadsparagus | 7.00% | ~5 |
+| Quadsparagus | 8.00% | ~6 |
 | Fresh Pancake | 6.00% | ~8 |
 | Master Survivor | 6.00% | ~5 |
 | Bring Home The Bacon | 4.00% | ~5 |

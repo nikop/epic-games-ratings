@@ -5,37 +5,37 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~295 |
-| Read Between The Lines | 61.00% | ~290 |
-| High Profile | 55.00% | ~262 |
-| Whispers In The Dark | 54.00% | ~257 |
+| To Hell In A Handcart | 62.00% | ~296 |
+| Read Between The Lines | 61.00% | ~291 |
+| High Profile | 56.00% | ~267 |
+| Whispers In The Dark | 54.00% | ~258 |
 | Fond Memories | 51.00% | ~243 |
-| History Check | 49.00% | ~233 |
-| A Method To His Madness | 49.00% | ~233 |
-| Lock, Stock, And Barrel | 45.00% | ~214 |
-| The New World | 45.00% | ~214 |
-| Gaze Into The Abyss | 44.00% | ~209 |
+| A Method To His Madness | 49.00% | ~234 |
+| History Check | 48.00% | ~229 |
+| Lock, Stock, And Barrel | 45.00% | ~215 |
+| Gaze Into The Abyss | 44.00% | ~210 |
+| The New World | 44.00% | ~210 |
 | Open Sesame | 43.00% | ~205 |
 | Sticky Fingers | 43.00% | ~205 |
 | Back In The Saddle | 42.00% | ~200 |
 | Knives Out | 42.00% | ~200 |
-| Land, Ho! | 41.00% | ~195 |
-| No Man Is An Island | 40.00% | ~190 |
+| Land, Ho! | 41.00% | ~196 |
+| No Man Is An Island | 40.00% | ~191 |
 | At Wits' End | 39.00% | ~186 |
 | Up In Flames | 37.00% | ~176 |
 | Fhtagn! | 37.00% | ~176 |
-| Going Once... | 36.00% | ~171 |
-| Bookworm | 36.00% | ~171 |
+| Going Once... | 36.00% | ~172 |
+| Bookworm | 36.00% | ~172 |
 | Let Me Be Frank | 34.00% | ~162 |
 | Brain Food | 31.00% | ~148 |
 | No Stone Unturned | 31.00% | ~148 |
 | Curiosity Killed The Cat | 20.00% | ~95 |
-| Read It And Weep | 19.00% | ~90 |
+| Read It And Weep | 19.00% | ~91 |
 | Big Breakthrough | 14.00% | ~67 |
 | Reawakened | 5.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 208)  
-Completed: 19 (3.99%) (Ranked 37)  
+Progressed: 477 (Ranked 208)  
+Completed: 19 (3.98%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 19 (3.99%) (Ranked 37)
 | 2023-06-14 | 460 | 18 |
 | 2023-06-15 | 468 | 19 |
 | 2023-06-16 | 474 | 19 |
-| 2023-06-17 | 476 | 19 |
+| 2023-06-17 | 477 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

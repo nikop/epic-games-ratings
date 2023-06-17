@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -748,7 +748,7 @@
       "ID": "AchievementInnovator",
       "SetID": "76o014g",
       "Name": "Innovator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -812,9 +812,9 @@
       "ID": "AchievementLuckyVandal",
       "SetID": "76o014g",
       "Name": "Lucky vandal",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "AchievementMegaRailroad",
@@ -1052,9 +1052,9 @@
       "ID": "AchievementVandal",
       "SetID": "76o014g",
       "Name": "Vandal",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "AchievementVostok_NAME",
@@ -1114,8 +1114,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:33.8004666+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:04:04.4817587+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4263139+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:57:23.0365675+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:33.8005512+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:57:47.8925244+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:04:04.4818353+00:00"
 }

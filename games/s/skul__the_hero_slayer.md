@@ -1,15 +1,15 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.71 (Ranked 181)  
+Rating: 4.71 (Ranked 180)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,285 |
-| What should I buy? | 83.00% | ~6,501 |
-| Focus! | 62.00% | ~4,856 |
-| Rescued Elder Ent | 62.00% | ~4,856 |
+| The Legend Begins | 93.00% | ~7,286 |
+| What should I buy? | 83.00% | ~6,502 |
+| Focus! | 62.00% | ~4,857 |
+| Rescued Elder Ent | 62.00% | ~4,857 |
 | The End of the Gold Mane Knights | 47.00% | ~3,682 |
 | False Goddess, Disappear | 39.00% | ~3,055 |
 | Rules of Etiquette | 39.00% | ~3,055 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~78 |
 | Cold-Blooded | 0.80% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,833 (Ranked 118)  
+Progressed: 7,834 (Ranked 118)  
 Completed: 12 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 12 (0.15%) (Ranked 163)
 | 2023-06-14 | 7,811 | 12 |
 | 2023-06-15 | 7,822 | 12 |
 | 2023-06-16 | 7,832 | 12 |
-| 2023-06-17 | 7,833 | 12 |
+| 2023-06-17 | 7,834 | 12 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 313)  
 Sum: 762 (Ranked 256)  

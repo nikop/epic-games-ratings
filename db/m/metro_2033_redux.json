@@ -2,9 +2,9 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
-  "Ranking_Rating": 196,
-  "Ranking_Popularity": 127,
-  "Ranking_PopularitySum": 224,
+  "Ranking_Rating": 219,
+  "Ranking_Popularity": 128,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 335,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 5684,
   "RatingHistory": [
     {
@@ -854,6 +854,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 1284,
       "NumberOfAwardsMax": 1175
+    },
+    {
+      "Time": "2023-06-17T08:00:23.633763+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1284,
+      "NumberOfAwardsMax": 1175
     }
   ],
   "ReviewsDisabled": false,
@@ -909,8 +915,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2023-06-13T08:01:35.0502734+00:00",
+  "LastChanged": "2023-06-17T08:00:23.6337629+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:57.7719856+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:00:03.3499684+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:04:59.7818784+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:00:23.6337634+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:05:29.6726374+00:00"
 }

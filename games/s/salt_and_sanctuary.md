@@ -6,27 +6,27 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,546 |
-| The Three | 64.00% | ~335,843 |
-| The Banquet | 40.00% | ~209,902 |
-| Devara's Light | 30.00% | ~157,426 |
-| The Iron Ones | 18.00% | ~94,456 |
+| Find Sanctuary | 83.00% | ~435,550 |
+| The Three | 64.00% | ~335,846 |
+| The Banquet | 40.00% | ~209,904 |
+| Devara's Light | 30.00% | ~157,428 |
+| The Iron Ones | 18.00% | ~94,457 |
 | The Village | 16.00% | ~83,961 |
 | The Forest | 14.00% | ~73,466 |
-| Branded | 13.00% | ~68,218 |
-| The Imposter | 13.00% | ~68,218 |
-| The Keep | 13.00% | ~68,218 |
+| Branded | 13.00% | ~68,219 |
+| The Imposter | 13.00% | ~68,219 |
+| The Keep | 13.00% | ~68,219 |
 | The Castle | 11.00% | ~57,723 |
 | The Dome | 9.00% | ~47,228 |
 | The Red Hall | 9.00% | ~47,228 |
-| The Sacrifice | 8.00% | ~41,980 |
+| The Sacrifice | 8.00% | ~41,981 |
 | The Cave | 7.00% | ~36,733 |
 | The Stone Roots | 7.00% | ~36,733 |
 | The Ziggurat | 7.00% | ~36,733 |
-| Storied | 6.00% | ~31,485 |
-| The Construct | 6.00% | ~31,485 |
-| The Mire | 6.00% | ~31,485 |
-| The Ruins | 6.00% | ~31,485 |
+| Storied | 6.00% | ~31,486 |
+| The Construct | 6.00% | ~31,486 |
+| The Mire | 6.00% | ~31,486 |
+| The Ruins | 6.00% | ~31,486 |
 | The Alkymancery | 5.00% | ~26,238 |
 | The Lake | 5.00% | ~26,238 |
 | The Pitchwoods | 5.00% | ~26,238 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,495 |
 | Fading Fast | 1.00% | ~5,248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,754 (Ranked 28)  
+Progressed: 524,759 (Ranked 28)  
 Completed: 1,450 (0.28%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 1,450 (0.28%) (Ranked 144)
 | 2023-06-14 | 524,507 | 1,448 |
 | 2023-06-15 | 524,603 | 1,449 |
 | 2023-06-16 | 524,715 | 1,450 |
-| 2023-06-17 | 524,754 | 1,450 |
+| 2023-06-17 | 524,759 | 1,450 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 238)  
-Sum: 1,895 (Ranked 194)  
+Sum: 1,896 (Ranked 194)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): 44
 | This game has Quickly Understood Controls | 253 |
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 231 |
-| This game has Diverse Characters | 228 |
+| This game has Diverse Characters | 229 |
 | This game has Amazing Storytelling | 226 |
 | This game has Amazing Characters | 222 |
 | This game has Unique Visuals | 215 |
@@ -242,3 +242,4 @@ Diff (max vs sum): 44
 | 2023-06-12 | 4.61 | - | 271 | 1,893 |
 | 2023-06-14 | 4.61 | - | 272 | 1,894 |
 | 2023-06-15 | 4.61 | - | 273 | 1,895 |
+| 2023-06-17 | 4.61 | - | 273 | 1,896 |

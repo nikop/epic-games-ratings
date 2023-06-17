@@ -49,8 +49,8 @@ Number of Ratings: 801  (23.09.2022)
 | Event Horizon | 3.00% | ~219 |
 | Start Your Collection | 3.00% | ~219 |
 | Nexuwizard | 2.00% | ~146 |
+| Everybody Freeze | 1.00% | ~73 |
 | Nature Is Lit | 1.00% | ~73 |
-| Everybody Freeze | 0.90% | ~66 |
 | The Collector | 0.90% | ~66 |
 | Shield and Shred | 0.60% | ~44 |
 | I'm The Pluggernaut | 0.50% | ~36 |

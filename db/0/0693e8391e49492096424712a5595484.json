@@ -98,9 +98,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BearRum",
@@ -138,9 +138,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BroomAmanita",
@@ -162,9 +162,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DevilRope",
@@ -210,9 +210,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HastrmanAcorn",
@@ -266,9 +266,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PriestBroom",
@@ -306,17 +306,17 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PrincessThrone",
@@ -330,9 +330,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RogueEat",
@@ -394,9 +394,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SwordMoneyBag",
@@ -424,8 +424,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:02:22.8523775+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:03:24.2315049+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:56:49.0565884+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:02:22.8524158+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:57:12.8797691+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:03:24.2315338+00:00"
 }

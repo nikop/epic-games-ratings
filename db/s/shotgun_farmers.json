@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -744,9 +744,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -976,9 +976,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1096,7 +1096,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -1112,9 +1112,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1168,17 +1168,17 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_y_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Quadsparagus",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -1199,8 +1199,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:14.5706655+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:03:45.4823749+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.6214282+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:58:06.9201887+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:14.5707498+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:58:31.3280215+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:03:45.482437+00:00"
 }

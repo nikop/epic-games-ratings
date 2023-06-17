@@ -18,10 +18,10 @@ Rating: 4.51 (Ranked 530)
 | As Quiet as a Mouse | 11.00% | ~326 |
 | The Kraken Sleeps | 11.00% | ~326 |
 | Liberté | 10.00% | ~296 |
-| Just a Flesh Wound | 9.00% | ~266 |
-| Gunslinger | 9.00% | ~266 |
-| Sharpshooter | 9.00% | ~266 |
-| Explosive Efficiency | 9.00% | ~266 |
+| Just a Flesh Wound | 9.00% | ~267 |
+| Gunslinger | 9.00% | ~267 |
+| Sharpshooter | 9.00% | ~267 |
+| Explosive Efficiency | 9.00% | ~267 |
 | Enemy at the Gates | 8.00% | ~237 |
 | Opposing Force | 7.00% | ~207 |
 | Die Nussknacker Sweet! | 7.00% | ~207 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,961 (Ranked 145)  
+Progressed: 2,962 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
-| 2023-06-17 | 2,961 | 2 |
+| 2023-06-17 | 2,962 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

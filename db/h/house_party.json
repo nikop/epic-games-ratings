@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5617,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3067,9 +3067,9 @@
       "ID": "NowItsAParty",
       "SetID": "bmkn7o4",
       "Name": "Now It\u0027s a Party!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "Pat_Relentless",
@@ -3321,8 +3321,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:45.6472834+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:04:16.10799+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:06.6415153+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:57:15.1884983+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:45.6473692+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:57:39.2157182+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:04:16.1080636+00:00"
 }

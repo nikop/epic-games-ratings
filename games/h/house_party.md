@@ -28,6 +28,7 @@ Number of Ratings: 177  (23.09.2022)
 | I'll Be Back | 0.30% | ~17 |
 | Casanova | 0.30% | ~17 |
 | It Smells Like Roses | 0.30% | ~8 |
+| Now It's a Party! | 0.30% | ~17 |
 | The Crush | 0.30% | ~17 |
 | The Magic Number | 0.30% | ~17 |
 | Vickie | 0.30% | ~17 |
@@ -35,7 +36,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
-| Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |

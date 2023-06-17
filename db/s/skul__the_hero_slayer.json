@@ -2,12 +2,12 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 181,
+  "Ranking_Rating": 180,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -854,7 +854,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7833,
+  "EOS_Progressed": 7834,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
@@ -2999,6 +2999,11 @@
       "Time": "2023-06-17T04:05:50.7791738+00:00",
       "NumProgressed": 7833,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-17T08:05:51.2635985+00:00",
+      "NumProgressed": 7834,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3034,7 +3039,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4857
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3138,7 +3143,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4857
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3170,7 +3175,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3194,22 +3199,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7833,
+      "Progressed": 7834,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-17T05:58:47.3305683+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:05:20.3444072+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:05:51.2635981+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:58:41.0058884+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:05:20.3444349+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:59:04.2719671+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:05:51.263622+00:00"
 }

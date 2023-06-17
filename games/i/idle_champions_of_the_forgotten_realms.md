@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,733 |
-| The Cursed Farmer | 2.00% | ~1,893 |
+| A Brief Tour of the Realms | 5.00% | ~4,736 |
+| The Cursed Farmer | 2.00% | ~1,895 |
+| The Mad Wizard | 2.00% | ~1,895 |
 | Beast Intentions | 1.00% | ~947 |
 | The Ring of Regeneration | 1.00% | ~947 |
-| The Mad Wizard | 1.00% | ~947 |
-| Seeking Allies | 0.90% | ~852 |
-| Are Ya Chicken? | 0.90% | ~852 |
-| The Court of Storms | 0.90% | ~548 |
-| Were-verpowered | 0.80% | ~757 |
-| Friendly Imps | 0.80% | ~757 |
+| Seeking Allies | 0.90% | ~853 |
+| Are Ya Chicken? | 0.90% | ~853 |
+| The Court of Storms | 0.90% | ~549 |
+| Were-verpowered | 0.80% | ~758 |
+| Friendly Imps | 0.80% | ~758 |
 | Beware the Jabberwock | 0.80% | ~488 |
 | A Persistent Buzzing | 0.70% | ~663 |
 | Mad Cow Disease | 0.70% | ~663 |
@@ -25,17 +25,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.60% | ~568 |
 | Exploring Port Nyanzaru | 0.60% | ~568 |
 | Coasting to the Finish | 0.60% | ~366 |
-| Maddening | 0.50% | ~473 |
+| Maddening | 0.50% | ~474 |
 | Checkmate | 0.50% | ~305 |
 | Vecna Out! | 0.50% | ~305 |
-| Beast Mode | 0.50% | ~473 |
-| A Mysterious Summons | 0.50% | ~473 |
-| Building Trust | 0.50% | ~473 |
-| Useless Allies | 0.50% | ~473 |
-| Running of the Saurs | 0.50% | ~473 |
-| The Contagious Curse | 0.50% | ~473 |
-| Escort to Waterdeep | 0.50% | ~473 |
-| Waterdeep Detours | 0.50% | ~473 |
+| Beast Mode | 0.50% | ~474 |
+| A Mysterious Summons | 0.50% | ~474 |
+| Building Trust | 0.50% | ~474 |
+| Useless Allies | 0.50% | ~474 |
+| Running of the Saurs | 0.50% | ~474 |
+| The Contagious Curse | 0.50% | ~474 |
+| Escort to Waterdeep | 0.50% | ~474 |
+| Waterdeep Detours | 0.50% | ~474 |
 | Quick or Quack | 0.50% | ~305 |
 | The Silken Swamp | 0.40% | ~379 |
 | Owlbear Necessities | 0.40% | ~244 |
@@ -148,7 +148,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~122 |
 | Zarak's Revenge | 0.20% | ~122 |
 | Bully for You! | 0.20% | ~122 |
-| The Dark Heart | 0.20% | ~122 |
 | Hatchlings Underfoot | 0.20% | ~189 |
 | Don't Look Up! | 0.20% | ~189 |
 | Will of the Feywild | 0.20% | ~122 |
@@ -288,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.20% | ~189 |
 | Vault of Pixies | 0.20% | ~189 |
 | Champions of Waterdeep | 0.20% | ~189 |
-| On The Job Learning | 0.20% | ~189 |
 | The Twilight Grove | 0.20% | ~189 |
 | Elturel Has Fallen | 0.20% | ~189 |
 | Everything is Awful | 0.20% | ~189 |
@@ -401,6 +399,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~61 |
 | Icequake | 0.10% | ~61 |
 | A Lesson in Classes | 0.10% | ~61 |
+| The Dark Heart | 0.10% | ~61 |
 | Undergeared | 0.10% | ~61 |
 | Underdark Chill | 0.10% | ~61 |
 | The Alien Underdark | 0.10% | ~61 |
@@ -451,6 +450,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.10% | ~61 |
 | Vault of Poison | 0.10% | ~95 |
 | Vault of Cuteness | 0.10% | ~61 |
+| On The Job Learning | 0.10% | ~95 |
 | Strike! | 0.10% | ~61 |
 | Take Five | 0.10% | ~61 |
 | Lost in the Goblin Halls | 0.10% | ~95 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,664 (Ranked 63)  
-Completed: 1,943 (2.05%) (Ranked 71)  
+Progressed: 94,728 (Ranked 63)  
+Completed: 1,944 (2.05%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -558,7 +558,7 @@ Completed: 1,943 (2.05%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 94,664 | 1,943 |
+| 2023-06-17 | 94,728 | 1,944 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

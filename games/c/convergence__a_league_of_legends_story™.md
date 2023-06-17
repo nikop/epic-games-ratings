@@ -13,11 +13,11 @@
 | Cartographer | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
 | The Harder They Fall | 10.00% | ~70 |
+| No, Thanks! | 10.00% | ~70 |
 | The Prince in Heels | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
-| No, Thanks! | 9.00% | ~63 |
 | Breaking Down Barriers | 9.00% | ~63 |
 | The Wicked Twins | 9.00% | ~63 |
 | Honest Mistake | 9.00% | ~63 |

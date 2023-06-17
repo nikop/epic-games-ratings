@@ -729,7 +729,7 @@
   ],
   "EOS_Progressed": 7292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4354,9 +4354,9 @@
       "ID": "ACH_EVERYBODY_FREEZE",
       "SetID": "97mcd7i",
       "Name": "Everybody Freeze",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIELD_MEDIC",
@@ -4714,8 +4714,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:36.3497045+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:04:06.9831793+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.8888573+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:58:10.2096369+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:36.3497693+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:58:34.7298872+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:04:06.9832392+00:00"
 }

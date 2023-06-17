@@ -243,17 +243,17 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LEAVE",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:14.0621755+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:03:44.958795+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.0750872+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:57:50.6182321+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:14.0621946+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:58:15.4065607+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:03:44.9588115+00:00"
 }

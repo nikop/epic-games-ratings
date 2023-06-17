@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-06-15T04:01:30.1966351+00:00",
       "NumProgressed": 594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T08:00:48.554691+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -602,9 +607,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -620,7 +625,7 @@
       "Name": "Taste",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -652,7 +657,7 @@
       "Name": "Shapely",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -708,7 +713,7 @@
       "Name": "Jawstag",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -722,9 +727,9 @@
       "ID": "DEFEAT_SHIDRA",
       "SetID": "ccc0dlh",
       "Name": "Inevitable",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -772,7 +777,7 @@
       "Name": "Imprint",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -842,9 +847,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "QUEST_CHILD",
@@ -891,21 +896,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:00:25.8191865+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:00:48.5546904+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.2798351+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:00:00.0306924+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:00:25.8192249+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:00:21.3592739+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:00:48.5547204+00:00"
 }

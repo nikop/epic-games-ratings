@@ -4342,10 +4342,10 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 94664,
-  "EOS_Completed": 1943,
-  "EOS_NewPlayers": 4363,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 94728,
+  "EOS_Completed": 1944,
+  "EOS_NewPlayers": 4424,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
@@ -10277,6 +10277,11 @@
       "Time": "2023-06-17T07:05:50.759911+00:00",
       "NumProgressed": 94664,
       "NumCompleted": 1943
+    },
+    {
+      "Time": "2023-06-17T08:06:20.2236653+00:00",
+      "NumProgressed": 94728,
+      "NumCompleted": 1944
     }
   ],
   "TotalAchievements": 493,
@@ -10288,7 +10293,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4736
     },
     {
       "ID": "objective_completed_10",
@@ -10296,7 +10301,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_100",
@@ -10670,9 +10675,9 @@
       "ID": "objective_completed_1100",
       "SetID": "415jc5c",
       "Name": "The Dark Heart",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_completed_1101",
@@ -11152,7 +11157,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "objective_completed_1203",
@@ -11392,7 +11397,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_149",
@@ -11480,7 +11485,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_165",
@@ -11512,7 +11517,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_17",
@@ -11960,7 +11965,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1895
     },
     {
       "ID": "objective_completed_34",
@@ -12080,7 +12085,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_390",
@@ -12152,7 +12157,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_40",
@@ -12160,7 +12165,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_400",
@@ -12750,9 +12755,9 @@
       "ID": "objective_completed_586",
       "SetID": "cc37lbc",
       "Name": "On The Job Learning",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 95
     },
     {
       "ID": "objective_completed_587",
@@ -12776,7 +12781,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_590",
@@ -12832,7 +12837,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_60",
@@ -13360,7 +13365,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_690",
@@ -13430,9 +13435,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 1895
     },
     {
       "ID": "objective_completed_70",
@@ -13464,7 +13469,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_completed_75",
@@ -13504,7 +13509,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "objective_completed_80",
@@ -14200,7 +14205,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_completed_1356",
@@ -14231,21 +14236,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 60938,
+      "Progressed": 61002,
       "Completed": 2798
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 94664,
-      "Completed": 1943
+      "Progressed": 94728,
+      "Completed": 1944
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-16T19:58:23.2627907+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:05:50.7599104+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:06:20.2236649+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:57:53.2478422+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:05:50.7623356+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:58:18.4114886+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:06:20.225851+00:00"
 }

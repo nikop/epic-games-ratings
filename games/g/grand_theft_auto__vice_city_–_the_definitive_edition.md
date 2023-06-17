@@ -8,11 +8,11 @@ Rating: 4.61 (Ranked 362)
 | Legal Counsel | 44.00% | ~3,773 |
 | Greasy Palms | 40.00% | ~3,430 |
 | South American Connection | 24.00% | ~2,058 |
-| Life of the Party | 18.00% | ~1,543 |
-| Tommy Two-Wheels | 14.00% | ~1,200 |
+| Life of the Party | 18.00% | ~1,544 |
+| Tommy Two-Wheels | 14.00% | ~1,201 |
 | Big Heat from Little Havana | 13.00% | ~1,115 |
 | Chauffeur | 13.00% | ~1,115 |
-| Salutations My Little Friend | 10.00% | ~857 |
+| Salutations My Little Friend | 10.00% | ~858 |
 | Iron-y | 9.00% | ~772 |
 | Gun for Hire | 8.00% | ~686 |
 | Mischief Managed | 7.00% | ~600 |
@@ -25,12 +25,12 @@ Rating: 4.61 (Ranked 362)
 | High Quality H2O | 3.00% | ~257 |
 | Pie Guy | 3.00% | ~257 |
 | Don't Need Roads | 3.00% | ~257 |
-| Running Rampant | 2.00% | ~171 |
-| Bull in a China Shop | 2.00% | ~171 |
-| Somebody Call the Wambulance? | 2.00% | ~171 |
-| Just Like the Real Thing | 2.00% | ~171 |
-| Take the Cannoli | 2.00% | ~171 |
-| City Sleuth | 2.00% | ~171 |
+| Running Rampant | 2.00% | ~172 |
+| Bull in a China Shop | 2.00% | ~172 |
+| Somebody Call the Wambulance? | 2.00% | ~172 |
+| Just Like the Real Thing | 2.00% | ~172 |
+| Take the Cannoli | 2.00% | ~172 |
+| City Sleuth | 2.00% | ~172 |
 | One is Better Than Two | 1.00% | ~86 |
 | Chopper’d Up | 1.00% | ~86 |
 | I'm Famous! | 0.90% | ~77 |
@@ -40,8 +40,8 @@ Rating: 4.61 (Ranked 362)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,574 (Ranked 117)  
-Completed: 34 (0.40%) (Ranked 128)  
+Progressed: 8,575 (Ranked 117)  
+Completed: 35 (0.41%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 34 (0.40%) (Ranked 128)
 | 2023-06-14 | 8,456 | 31 |
 | 2023-06-15 | 8,528 | 32 |
 | 2023-06-16 | 8,563 | 34 |
-| 2023-06-17 | 8,574 | 34 |
+| 2023-06-17 | 8,575 | 35 |
 ## Awards
 Max (Great Boss Battles): 55  (Ranked 387)  
 Sum: 55 (Ranked 438)  

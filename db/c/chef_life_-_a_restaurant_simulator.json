@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-06-17T00:04:42.1053045+00:00",
       "NumProgressed": 394,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T08:03:50.2777439+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1694,9 +1699,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "Clothes10",
@@ -1816,7 +1821,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Packing20",
@@ -1840,7 +1845,7 @@
       "Name": "Home Cook",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "RecipeDifferent30",
@@ -1959,7 +1964,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 0
     }
   ],
@@ -1967,8 +1972,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-17T07:03:19.3826196+00:00",
+  "LastChanged_Achievements": "2023-06-17T08:03:50.2777435+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.5679177+00:00",
-  "LastUpdate_Ratings": "2023-06-17T06:58:10.8558801+00:00",
-  "LastUpdate_Achievements": "2023-06-17T07:03:19.3826589+00:00"
+  "LastUpdate_Ratings": "2023-06-17T07:58:35.2717972+00:00",
+  "LastUpdate_Achievements": "2023-06-17T08:03:50.2777743+00:00"
 }

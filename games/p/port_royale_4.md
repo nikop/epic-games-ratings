@@ -1,36 +1,36 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 904)  
+Rating: 4.02 (Ranked 903)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~535 |
-| My little farm | 64.00% | ~423 |
+| Cabin boy | 81.00% | ~536 |
+| My little farm | 64.00% | ~424 |
 | Every beginning is difficult | 62.00% | ~410 |
-| 3, 2, 1, mine | 56.00% | ~370 |
+| 3, 2, 1, mine | 55.00% | ~364 |
 | Gofer | 55.00% | ~364 |
 | Seafarer | 54.00% | ~357 |
-| O Captain! My Captain! | 53.00% | ~350 |
+| O Captain! My Captain! | 53.00% | ~351 |
 | Greed for gold | 42.00% | ~278 |
-| Intangible | 41.00% | ~271 |
-| I'm out of here for a while | 40.00% | ~264 |
+| Intangible | 40.00% | ~265 |
+| I'm out of here for a while | 40.00% | ~265 |
 | In a mint condition | 37.00% | ~245 |
 | Licence to Kill | 34.00% | ~225 |
 | Pirates! | 34.00% | ~225 |
 | Collectionitis | 28.00% | ~185 |
 | Megalomania | 28.00% | ~185 |
 | Christening | 26.00% | ~172 |
-| Groundskeeper | 25.00% | ~165 |
+| Groundskeeper | 24.00% | ~159 |
 | Wholesale | 21.00% | ~139 |
 | Walk the plank | 20.00% | ~132 |
-| My precious! | 17.00% | ~112 |
+| My precious! | 17.00% | ~113 |
 | Pearly gates | 16.00% | ~106 |
 | Conquistador | 13.00% | ~86 |
 | Panic buying | 11.00% | ~73 |
-| Just a scratch | 9.00% | ~59 |
-| Your vessel, my vessel | 9.00% | ~59 |
+| Just a scratch | 9.00% | ~60 |
+| Your vessel, my vessel | 9.00% | ~60 |
 | All mine! | 8.00% | ~53 |
 | Paths of Glory | 8.00% | ~53 |
 | Panel of experts | 8.00% | ~53 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 197)  
+Progressed: 662 (Ranked 197)  
 Completed: 1 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 1 (0.15%) (Ranked 163)
 | 2023-06-14 | 651 | 1 |
 | 2023-06-15 | 657 | 1 |
 | 2023-06-16 | 661 | 1 |
+| 2023-06-17 | 662 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
