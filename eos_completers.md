@@ -18,7 +18,7 @@
 | 16 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.05% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.38% |
 | 20 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [Remains](games/r/remains.md) | 7.50% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
@@ -56,13 +56,13 @@
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
-| 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 56 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.74% |
+| 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.70% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.49% |
+| 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
@@ -78,8 +78,8 @@
 | 74 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 77 | [Sifu](games/s/sifu.md) | 1.80% |
 | 78 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.61% |
 | 79 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
+| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.60% |
 | 81 | [Somerville](games/s/somerville.md) | 1.58% |
 | 82 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 83 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
@@ -138,8 +138,8 @@
 | 135 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 137 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 137 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
+| 137 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 140 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 142 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 142 | [The Surge](games/t/the_surge.md) | 0.29% |
