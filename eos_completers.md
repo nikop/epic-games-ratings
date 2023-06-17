@@ -36,8 +36,8 @@
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
 | 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 36 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.23% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
+| 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.20% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.97% |
 | 39 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 40 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -58,16 +58,16 @@
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.68% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.67% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 63 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 2.41% |
 | 65 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.20% |
-| 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 66 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
+| 66 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.15% |
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.14% |
 | 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.04% |
@@ -122,8 +122,8 @@
 | 119 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
 | 119 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
-| 123 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
-| 124 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
+| 123 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 123 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.43% |
 | 127 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
