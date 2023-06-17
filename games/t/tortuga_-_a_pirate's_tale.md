@@ -14,7 +14,7 @@ Rating: 3.83 (Ranked 929)
 | ... And Where Do the Stories Come From? | 41.00% | ~6,450 |
 | House Party! | 33.00% | ~5,192 |
 | Make It Rain | 23.00% | ~3,618 |
-| Curse of the Seven Seas | 21.00% | ~3,304 |
+| Curse of the Seven Seas | 22.00% | ~3,461 |
 | Head First | 15.00% | ~2,360 |
 | To the World's End | 12.00% | ~1,888 |
 | Table for Six | 11.00% | ~1,731 |

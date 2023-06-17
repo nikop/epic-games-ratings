@@ -5,29 +5,29 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,112 |
-| 50 HEADSHOTS | 12.00% | ~49,950 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,462 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,462 |
-| 200 HEADSHOTS | 7.00% | ~29,137 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,137 |
+| 100 KILLS | 13.00% | ~54,113 |
+| 50 HEADSHOTS | 12.00% | ~49,951 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,463 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,463 |
+| 200 HEADSHOTS | 7.00% | ~29,138 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,138 |
 | FINISHED CHAPTER 3 | 6.00% | ~24,975 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,812 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,813 |
 | 1000 KILLS | 4.00% | ~16,650 |
 | FINISH CHAPTER 5 | 4.00% | ~16,650 |
 | FINISH CHAPTER 6 | 4.00% | ~16,650 |
 | CATHARTIC ESCAPISM | 4.00% | ~16,650 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,325 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,914 |
-| FIRST BLOOD | 0.60% | ~2,497 |
+| FIRST BLOOD | 0.60% | ~2,498 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,665 |
 | PACEMAKER | 0.40% | ~1,665 |
 | TIME PARADOX | 0.40% | ~1,665 |
 | NEW GAME PLUS | 0.30% | ~1,249 |
 | OUT OF ORDER | 0.30% | ~1,249 |
 | PARTYHARD | 0.30% | ~1,249 |
-| CHURCH | 0.20% | ~832 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~832 |
+| CHURCH | 0.20% | ~833 |
+| FIREFIGHT LEVEL 40 | 0.20% | ~833 |
 | HEY THATS CHEATING | 0.10% | ~416 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~416 |
 | BUT WHY? | 0.10% | ~416 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 238)
 | THE GAMBLER | 0.10% | ~416 |
 | WARRIOR IN A GARDEN | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,247 (Ranked 37)  
+Progressed: 416,256 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 37 (0.01%) (Ranked 214)
 | 2023-06-14 | 415,619 | 37 |
 | 2023-06-15 | 415,918 | 37 |
 | 2023-06-16 | 416,247 | 37 |
+| 2023-06-17 | 416,256 | 37 |
 ## Awards
 Max (Great Boss Battles): 177  (Ranked 275)  
 Sum: 177 (Ranked 368)  

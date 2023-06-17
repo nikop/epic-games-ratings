@@ -80,6 +80,7 @@ Number of Ratings: 37  (23.09.2022)
 | Buried | 0.50% | ~21 |
 | Craftsmen challenge | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
+| An honorable departure | 0.50% | ~21 |
 | Penny pincher | 0.50% | ~21 |
 | Negotiator | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
@@ -87,7 +88,6 @@ Number of Ratings: 37  (23.09.2022)
 | Governor-elect | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
-| An honorable departure | 0.40% | ~17 |
 | I've been everywhere VII | 0.40% | ~17 |
 | Impregnable | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |

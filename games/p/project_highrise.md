@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~128 |
-| Starting Skyward | 51.00% | ~112 |
-| Grime is Not Good | 46.00% | ~101 |
-| Campaign Launch | 40.00% | ~88 |
-| Floor Galore | 37.00% | ~81 |
-| Dinner Dash | 37.00% | ~81 |
-| It's Technical | 35.00% | ~77 |
+| Starting Skyward | 51.00% | ~113 |
+| Grime is Not Good | 46.00% | ~102 |
+| Campaign Launch | 39.00% | ~86 |
+| Floor Galore | 37.00% | ~82 |
+| Dinner Dash | 37.00% | ~82 |
 | Need a Consult | 34.00% | ~75 |
-| Delegate Maintenance | 34.00% | ~75 |
+| It's Technical | 34.00% | ~75 |
 | Upgrade Unlock | 33.00% | ~73 |
-| Proper Walls | 31.00% | ~68 |
-| Destination Destiny | 27.00% | ~59 |
-| Happy Tenants | 25.00% | ~55 |
+| Delegate Maintenance | 33.00% | ~73 |
+| Proper Walls | 31.00% | ~69 |
+| Destination Destiny | 27.00% | ~60 |
+| Happy Tenants | 24.00% | ~53 |
 | Smooth Service | 23.00% | ~51 |
-| Your Prestige is Rising | 22.00% | ~48 |
-| Potent Potables | 22.00% | ~48 |
-| Retail Revenue | 22.00% | ~48 |
+| Your Prestige is Rising | 22.00% | ~49 |
+| Potent Potables | 22.00% | ~49 |
+| Retail Revenue | 22.00% | ~49 |
 | Lux Living | 21.00% | ~46 |
 | Leveled Up Shops | 21.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~44 |
@@ -34,12 +34,12 @@
 | Under One Roof | 16.00% | ~35 |
 | Cashflow Chief | 16.00% | ~35 |
 | Established Fame | 15.00% | ~33 |
-| Boutique Benefits | 15.00% | ~33 |
 | Terrifically Trashed | 15.00% | ~33 |
-| Thrilled Tenants | 15.00% | ~33 |
 | Starred Dining | 14.00% | ~31 |
+| Boutique Benefits | 14.00% | ~31 |
+| Thrilled Tenants | 14.00% | ~31 |
 | Swimming in Surplus | 13.00% | ~29 |
-| Smooth Operator | 12.00% | ~26 |
+| Smooth Operator | 12.00% | ~27 |
 | 28 Days Later | 11.00% | ~24 |
 | Master of Puppets | 10.00% | ~22 |
 | Plaza Plan | 9.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 249)  
+Progressed: 221 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 216 | 0 |
 | 2023-06-15 | 219 | 0 |
 | 2023-06-16 | 220 | 0 |
+| 2023-06-17 | 221 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -58,7 +58,7 @@
   "Tags": [],
   "EOS_Progressed": 1225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2142,9 +2142,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 882
     },
     {
       "ID": "A15",
@@ -2262,9 +2262,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 404
     },
     {
       "ID": "A30",
@@ -2479,8 +2479,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:09:21.7230223+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:07:58.8413403+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:01:10.3237093+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:09:21.7230837+00:00"
+  "LastUpdate_Ratings": "2023-06-16T23:58:56.091202+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:07:58.841414+00:00"
 }

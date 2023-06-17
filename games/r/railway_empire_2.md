@@ -6,8 +6,8 @@ Rating: 4.25 (Ranked 796)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~894 |
+| A new Journey | 72.00% | ~882 |
 | Departure | 71.00% | ~870 |
-| A new Journey | 71.00% | ~870 |
 | From X to Y | 70.00% | ~858 |
 | Way of Iron | 69.00% | ~845 |
 | Mystery Tour | 67.00% | ~821 |
@@ -24,7 +24,7 @@ Rating: 4.25 (Ranked 796)
 | Bridge Builder | 39.00% | ~478 |
 | Access granted | 34.00% | ~417 |
 | Stoker | 33.00% | ~404 |
-| Going once, going twice, sold | 32.00% | ~392 |
+| Going once, going twice, sold | 33.00% | ~404 |
 | Full Steam ahead | 30.00% | ~368 |
 | Bull and bear | 30.00% | ~368 |
 | All mine | 27.00% | ~331 |

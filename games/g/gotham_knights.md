@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,920 |
+| First Step Into the Knight | 6.00% | ~3,921 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,614 |
 | Loose Ends | 4.00% | ~2,614 |
 | To the Victor Go the Spoils | 3.00% | ~1,960 |
@@ -16,8 +16,10 @@ Rating: 4.17 (Ranked 854)
 | Protector of Gotham | 2.00% | ~1,307 |
 | Something in the Clay | 2.00% | ~1,307 |
 | The Show Mud Go On | 2.00% | ~1,307 |
+| Rock and a Hard Place | 2.00% | ~1,307 |
 | Quartzer Life Crisis | 2.00% | ~1,307 |
 | Snow Problem | 2.00% | ~1,307 |
+| Cooldown | 2.00% | ~1,307 |
 | Working Hard or Harley Working? | 2.00% | ~1,307 |
 | Universal Health Scare | 2.00% | ~1,307 |
 | Unstoppable Force | 2.00% | ~1,307 |
@@ -26,12 +28,10 @@ Rating: 4.17 (Ranked 854)
 | From Inside Gotham's Walls | 2.00% | ~1,307 |
 | End of an Era | 1.00% | ~653 |
 | In Your Element | 1.00% | ~653 |
-| Rock and a Hard Place | 1.00% | ~653 |
 | Not On My Watch | 1.00% | ~653 |
 | Bulldozed | 1.00% | ~653 |
 | Shock Til They Drop | 1.00% | ~653 |
 | Drone You Out | 1.00% | ~653 |
-| Cooldown | 1.00% | ~653 |
 | Voiceless | 1.00% | ~653 |
 | Seeking Asylum | 1.00% | ~653 |
 | Gotham Knight | 1.00% | ~653 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,340 (Ranked 70)  
+Progressed: 65,345 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,13 +125,14 @@ Completed: 95 (0.15%) (Ranked 163)
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
+| 2023-06-17 | 65,345 | 95 |
 ## Awards
-Max (Great Boss Battles): 2,336  (Ranked 97)  
-Sum: 3,867 (Ranked 137)  
+Max (Great Boss Battles): 2,339  (Ranked 97)  
+Sum: 3,870 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,336 |
+| This game has Great Boss Battles | 2,339 |
 | This game is Extremely Fun | 200 |
 | This game has Quickly Understood Controls | 198 |
 | This game is Relaxing | 198 |
@@ -260,3 +261,4 @@ Diff (max vs sum): -40
 | 2023-06-14 | 4.17 | 2,331 | 3,858 |
 | 2023-06-15 | 4.17 | 2,336 | 3,866 |
 | 2023-06-16 | 4.17 | 2,336 | 3,867 |
+| 2023-06-17 | 4.17 | 2,339 | 3,870 |

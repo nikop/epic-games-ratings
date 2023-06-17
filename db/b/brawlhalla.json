@@ -2,12 +2,12 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -2922,10 +2922,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1556,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-06-17T00:00:56.0126972+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1562,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1556,
+  "NumberOfAwards": 1562,
   "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2963,13 +2969,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 114
+      "Count": 117
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 117
+      "Count": 120
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3014,8 +3020,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-16T21:59:54.6724826+00:00",
+  "LastChanged": "2023-06-17T00:00:56.0126971+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.5502935+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:02:35.5703613+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:06:28.5734047+00:00"
+  "LastUpdate_Ratings": "2023-06-17T00:00:56.0126977+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:03:52.9597735+00:00"
 }

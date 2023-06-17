@@ -1512,18 +1512,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3867,
       "NumberOfAwardsMax": 2336
+    },
+    {
+      "Time": "2023-06-17T00:01:05.4788982+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3870,
+      "NumberOfAwardsMax": 2339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3867,
-  "NumberOfAwardsMax": 2336,
+  "NumberOfAwards": 3870,
+  "NumberOfAwardsMax": 2339,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2336
+      "Count": 2339
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1580,9 +1586,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65340,
+  "EOS_Progressed": 65345,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6605,6 +6611,11 @@
       "Time": "2023-06-16T23:09:23.6658185+00:00",
       "NumProgressed": 65340,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-17T00:08:00.9707783+00:00",
+      "NumProgressed": 65345,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6734,9 +6745,9 @@
       "ID": "CLAYFACE_3",
       "SetID": "4eo5ebm",
       "Name": "Rock and a Hard Place",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 1307
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -6862,9 +6873,9 @@
       "ID": "FREEZE_3",
       "SetID": "4eo5ebm",
       "Name": "Cooldown",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 1307
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -6960,7 +6971,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7103,22 +7114,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65340,
+      "Progressed": 65345,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35620,
+      "Progressed": 35625,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-16T20:59:24.4042871+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:09:23.6658179+00:00",
+  "LastChanged": "2023-06-17T00:01:05.478898+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:08:00.9707778+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:02:42.9533632+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:09:23.66591+00:00"
+  "LastUpdate_Ratings": "2023-06-17T00:01:05.4788986+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:08:00.9709097+00:00"
 }

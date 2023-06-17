@@ -16,13 +16,13 @@ Number of Ratings: 706  (23.09.2022)
 | Onward | 53.00% | ~2,019 |
 | Home Cooked Meal | 50.00% | ~1,905 |
 | The First Week | 50.00% | ~1,905 |
+| Studious Researcher | 49.00% | ~1,867 |
 | Feast or Famine | 48.00% | ~1,829 |
-| Studious Researcher | 48.00% | ~1,829 |
 | Beam Me Up | 47.00% | ~1,791 |
 | Adept Researcher | 44.00% | ~1,676 |
 | Retribution | 37.00% | ~1,410 |
+| Fit For A King | 37.00% | ~1,410 |
 | ...And Don’t Come Back! | 37.00% | ~1,410 |
-| Fit For A King | 36.00% | ~1,372 |
 | Luminary Researcher | 35.00% | ~1,334 |
 | Heating Up | 26.00% | ~991 |
 | Winter Is Coming | 22.00% | ~838 |

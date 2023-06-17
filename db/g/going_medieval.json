@@ -1090,7 +1090,7 @@
   ],
   "EOS_Progressed": 3810,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3258,9 +3258,9 @@
       "ID": "STORE_NUTRITION_20000",
       "SetID": "5349c2e",
       "Name": "Fit For A King",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1410
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -3362,9 +3362,9 @@
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1867
     }
   ],
   "AchievementSets": [
@@ -3378,8 +3378,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-16T17:59:36.6676909+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:09:11.9056701+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:07:45.7758763+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:02:46.9098252+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:09:11.9057069+00:00"
+  "LastUpdate_Ratings": "2023-06-17T00:01:11.9438158+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:07:45.7759332+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2796,
-  "EOS_Completed": 34,
-  "EOS_NewPlayers": 50,
-  "EOS_NewCompleters": 28,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Progressed": 2798,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 51,
+  "EOS_NewCompleters": 30,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2755,6 +2755,11 @@
       "Time": "2023-06-16T23:07:25.0248943+00:00",
       "NumProgressed": 2796,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-17T00:05:17.4655938+00:00",
+      "NumProgressed": 2798,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 24,
@@ -2766,7 +2771,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "10",
@@ -2774,7 +2779,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "11",
@@ -2806,7 +2811,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "15",
@@ -2854,7 +2859,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "20",
@@ -2918,7 +2923,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "6",
@@ -2957,13 +2962,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2796,
-      "Completed": 34
+      "Progressed": 2798,
+      "Completed": 36
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:07:25.0248937+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:05:17.4655849+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:01:59.3223526+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:07:25.0249296+00:00"
+  "LastUpdate_Ratings": "2023-06-17T00:00:07.6231626+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:05:17.4656327+00:00"
 }

@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~123 |
 | Fulfilled the dream | 5.00% | ~123 |
 | G'Day Mate! | 5.00% | ~123 |
+| Purple passion | 5.00% | ~123 |
 | Squad goals | 5.00% | ~123 |
 | Sup widdit big dog! | 5.00% | ~123 |
 | Commence the Hijinx! | 4.00% | ~98 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~98 |
 | Manny Destroys All | 4.00% | ~98 |
 | NAHELL! | 4.00% | ~98 |
-| Purple passion | 4.00% | ~98 |
 | Renaissance man | 4.00% | ~98 |
 | Tank commander | 4.00% | ~98 |
 | Trick shot marksman | 4.00% | ~98 |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-16 | 2,452 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
-Sum: 421 (Ranked 303)  
+Sum: 422 (Ranked 303)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -124,8 +124,8 @@ Diff (max vs sum): 98
 | This game has Amazing Characters | 39 |
 | This game is Relaxing | 38 |
 | This game has Realistic Visuals | 38 |
+| This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 37 |
-| This game has Diverse Characters | 37 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 27 |
 | This game is Educational | 22 |
@@ -234,3 +234,4 @@ Diff (max vs sum): 98
 | 2023-06-09 | 4.67 | - | 48 | 421 |
 | 2023-06-11 | 4.66 | - | 48 | 421 |
 | 2023-06-12 | 4.67 | - | 48 | 421 |
+| 2023-06-17 | 4.67 | - | 48 | 422 |

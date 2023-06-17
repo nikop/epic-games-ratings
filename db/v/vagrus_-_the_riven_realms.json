@@ -363,9 +363,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -539,9 +539,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -627,9 +627,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1108,8 +1108,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:09:21.4617964+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:07:58.1693094+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.6141663+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:01:50.0375406+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:09:21.4619192+00:00"
+  "LastUpdate_Ratings": "2023-06-16T23:59:52.0475776+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:07:58.1694407+00:00"
 }

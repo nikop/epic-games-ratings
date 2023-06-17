@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 124,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1624,6 +1624,11 @@
       "Time": "2023-06-16T18:03:36.9536515+00:00",
       "NumProgressed": 393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T00:04:42.1053045+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1857,9 +1862,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ServiceMaxClient",
@@ -1889,9 +1894,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "TrattoriaSet",
@@ -1954,7 +1959,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 0
     }
   ],
@@ -1962,8 +1967,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-16T23:06:58.3148253+00:00",
+  "LastChanged_Achievements": "2023-06-17T00:04:42.1053041+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.5679177+00:00",
-  "LastUpdate_Ratings": "2023-06-16T23:01:28.9363799+00:00",
-  "LastUpdate_Achievements": "2023-06-16T23:06:58.3148697+00:00"
+  "LastUpdate_Ratings": "2023-06-16T23:59:21.5958212+00:00",
+  "LastUpdate_Achievements": "2023-06-17T00:04:42.1053493+00:00"
 }

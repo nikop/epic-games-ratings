@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 66.00% | ~38 |
-| Jalopy Poppy | 64.00% | ~37 |
-| Green-Bodied Monster | 53.00% | ~31 |
-| Chopper Stopper | 47.00% | ~27 |
-| Test of Faith | 40.00% | ~23 |
-| Aerosolized | 40.00% | ~23 |
-| Monstrosity Atrocity | 34.00% | ~20 |
-| Reign of Terror | 31.00% | ~18 |
-| Crushing All Cars | 26.00% | ~15 |
-| Horror Show | 21.00% | ~12 |
-| Brain Chopper | 19.00% | ~11 |
-| Night Bird | 14.00% | ~8 |
+| Terror Rising | 65.00% | ~39 |
+| Jalopy Poppy | 63.00% | ~38 |
+| Green-Bodied Monster | 53.00% | ~32 |
+| Chopper Stopper | 47.00% | ~28 |
+| Aerosolized | 40.00% | ~24 |
+| Test of Faith | 38.00% | ~23 |
+| Monstrosity Atrocity | 33.00% | ~20 |
+| Reign of Terror | 30.00% | ~18 |
+| Crushing All Cars | 25.00% | ~15 |
+| Horror Show | 20.00% | ~12 |
+| Brain Chopper | 18.00% | ~11 |
+| Night Bird | 13.00% | ~8 |
 | Demolition Ambition | 12.00% | ~7 |
-| Kill All Humans! | 9.00% | ~5 |
+| Kill All Humans! | 8.00% | ~5 |
 | Hindenburgerer | 7.00% | ~4 |
 | Punchy Wagon | 7.00% | ~4 |
 | Holy Terror | 5.00% | ~3 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~2 |
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 310)  
-Completed: 2 (3.45%) (Ranked 44)  
+Progressed: 60 (Ranked 310)  
+Completed: 2 (3.33%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 2 (3.45%) (Ranked 44)
 | 2023-06-06 | 55 | 2 |
 | 2023-06-09 | 56 | 2 |
 | 2023-06-13 | 58 | 2 |
+| 2023-06-17 | 60 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

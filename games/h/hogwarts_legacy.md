@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,226 |
-| First Class Student | 8.00% | ~22,423 |
-| Troll with the Punches | 8.00% | ~22,423 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,227 |
+| First Class Student | 8.00% | ~22,424 |
+| Troll with the Punches | 8.00% | ~22,424 |
 | Grappling with a Graphorn | 7.00% | ~19,621 |
 | The One Who Mastered Memories | 7.00% | ~19,621 |
 | The Hallowed Hero | 7.00% | ~19,621 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 107)
 | Savvy Spender | 0.90% | ~2,523 |
 | Merlin's Beard! | 0.70% | ~1,962 |
 | Spilled Milk | 0.60% | ~1,682 |
-| The Nature of the Beast | 0.50% | ~1,401 |
+| The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,293 (Ranked 41)  
+Progressed: 280,300 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,9 +109,10 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
+| 2023-06-17 | 280,300 | 408 |
 ## Awards
 Max (Character Customization): 20,032  (Ranked 18)  
-Sum: 37,162 (Ranked 32)  
+Sum: 37,165 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -120,8 +121,8 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 839 |
 | This game is Relaxing | 834 |
 | This game is Extremely Fun | 827 |
+| This game has Diverse Characters | 810 |
 | This game has Amazing Storytelling | 810 |
-| This game has Diverse Characters | 807 |
 | This game has Amazing Characters | 796 |
 | This game is Highly Recommended | 779 |
 | This game has Quickly Understood Controls | 724 |
@@ -214,4 +215,4 @@ Diff (max vs sum): -14
 | 2023-06-13 | 4.77 | 19,915 | 36,915 |
 | 2023-06-14 | 4.77 | 19,955 | 37,005 |
 | 2023-06-15 | 4.77 | 19,994 | 37,095 |
-| 2023-06-16 | 4.77 | 20,032 | 37,162 |
+| 2023-06-16 | 4.77 | 20,032 | 37,165 |
