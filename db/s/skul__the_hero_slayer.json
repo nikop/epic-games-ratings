@@ -856,7 +856,7 @@
   ],
   "EOS_Progressed": 7835,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3130,9 +3130,9 @@
       "ID": "Manners",
       "SetID": "97dk767",
       "Name": "Rules of Etiquette",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3134
     },
     {
       "ID": "RookieWelcome",
@@ -3218,8 +3218,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-17T05:58:47.3305683+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:06:53.4563642+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:06:49.829464+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:59:32.1057521+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:06:53.4563889+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:59:42.067106+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:06:49.8294879+00:00"
 }

@@ -650,9 +650,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15403,
+  "EOS_Progressed": 15404,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4145,6 +4145,11 @@
       "Time": "2023-06-17T10:05:15.6432261+00:00",
       "NumProgressed": 15403,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-17T11:05:03.8712951+00:00",
+      "NumProgressed": 15404,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4188,7 +4193,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4282,9 +4287,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1694
     },
     {
       "ID": "KILL_ROBOT",
@@ -4306,9 +4311,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 616
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -4348,7 +4353,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4388,7 +4393,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4475,13 +4480,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15403,
+      "Progressed": 15404,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3329,
+      "Progressed": 3330,
       "Completed": 29
     }
   ],
@@ -4489,8 +4494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-16T10:58:21.1627136+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:05:15.6432256+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:05:03.8712947+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:58:20.6553269+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:05:15.6432676+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:58:23.6615964+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:05:03.8713366+00:00"
 }

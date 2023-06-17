@@ -9,11 +9,11 @@
 | Challenge Accepted | 78.00% | ~394 |
 | Nanonic I | 78.00% | ~394 |
 | Unlocked and Loaded | 75.00% | ~379 |
-| Terminated II | 65.00% | ~328 |
+| Terminated II | 66.00% | ~333 |
 | The City | 50.00% | ~252 |
 | Terminated III | 44.00% | ~222 |
 | Challenge Mastered | 42.00% | ~212 |
-| Nanonic II | 36.00% | ~182 |
+| Nanonic II | 37.00% | ~187 |
 | Rookie | 25.00% | ~126 |
 | Supply Run | 25.00% | ~126 |
 | Starship Docks | 24.00% | ~121 |

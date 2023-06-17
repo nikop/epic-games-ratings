@@ -7,7 +7,7 @@ Rating: 4.61 (Ranked 362)
 | ---- | ---------- | ----- |
 | Legal Counsel | 44.00% | ~3,774 |
 | Greasy Palms | 40.00% | ~3,431 |
-| South American Connection | 24.00% | ~2,058 |
+| South American Connection | 24.00% | ~2,059 |
 | Life of the Party | 18.00% | ~1,544 |
 | Tommy Two-Wheels | 14.00% | ~1,201 |
 | Big Heat from Little Havana | 13.00% | ~1,115 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 362)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,577 (Ranked 117)  
+Progressed: 8,578 (Ranked 117)  
 Completed: 35 (0.41%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 35 (0.41%) (Ranked 128)
 | 2023-06-14 | 8,456 | 31 |
 | 2023-06-15 | 8,528 | 32 |
 | 2023-06-16 | 8,563 | 34 |
-| 2023-06-17 | 8,577 | 35 |
+| 2023-06-17 | 8,578 | 35 |
 ## Awards
 Max (Great Boss Battles): 55  (Ranked 387)  
 Sum: 55 (Ranked 438)  

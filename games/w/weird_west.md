@@ -8,7 +8,7 @@ Number of Ratings: 125  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,441 |
 | Self-Improvement | 72.00% | ~1,192 |
-| Perky | 65.00% | ~1,076 |
+| Perky | 66.00% | ~1,093 |
 | Let’s Ride | 60.00% | ~994 |
 | Welcome to the Weird West | 57.00% | ~944 |
 | Dead or Alive | 55.00% | ~911 |
@@ -16,10 +16,10 @@ Number of Ratings: 125  (23.09.2022)
 | Off the Trail | 33.00% | ~546 |
 | Justice Served | 28.00% | ~464 |
 | Chain Reaction | 26.00% | ~431 |
+| Dishonored | 25.00% | ~414 |
 | Rain of Death | 25.00% | ~414 |
 | Scholar | 25.00% | ~414 |
 | Through Their Eyes | 25.00% | ~414 |
-| Dishonored | 24.00% | ~397 |
 | The Great Escape | 23.00% | ~381 |
 | That’s All, Folks | 18.00% | ~298 |
 | Fallen Star | 16.00% | ~265 |

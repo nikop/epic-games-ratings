@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19148,
+  "EOS_Progressed": 19151,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3535,6 +3535,11 @@
       "Time": "2023-06-17T10:06:47.438922+00:00",
       "NumProgressed": 19148,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-17T11:06:43.4153178+00:00",
+      "NumProgressed": 19151,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -3562,7 +3567,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "FirstTame",
@@ -3570,7 +3575,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MeetElder",
@@ -3602,7 +3607,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PickupChitin",
@@ -3610,7 +3615,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "PickupKey",
@@ -3634,7 +3639,7 @@
       "Name": "Smooth as silk",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PickupStone",
@@ -3642,14 +3647,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 19148,
+      "Progressed": 19151,
       "Completed": 18
     }
   ],
@@ -3657,8 +3662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-06-11T15:57:24.1811843+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:06:47.4389213+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:06:43.4153173+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.8143734+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:57:50.861771+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:06:47.4389452+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:57:46.4602813+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:06:43.4153424+00:00"
 }

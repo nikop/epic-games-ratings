@@ -5,9 +5,9 @@
   "Ranking_Rating": 454,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 638,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -325,6 +325,11 @@
       "Time": "2023-06-16T05:01:36.6667564+00:00",
       "NumProgressed": 637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T11:02:11.3589165+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -400,7 +405,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -432,7 +437,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "In the smacker...I think",
@@ -446,9 +451,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "Lady_Luck",
@@ -536,7 +541,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "The_Warlord",
@@ -584,7 +589,7 @@
       "Name": "Woman on a (side) mission",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "You_are_the_One",
@@ -600,7 +605,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "posters",
@@ -623,7 +628,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 638,
       "Completed": 0
     }
   ],
@@ -631,8 +636,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:03:12.3538846+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:02:11.3589157+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.1262224+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:58:02.7066+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:03:12.3539107+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:58:00.817701+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:02:11.3589392+00:00"
 }

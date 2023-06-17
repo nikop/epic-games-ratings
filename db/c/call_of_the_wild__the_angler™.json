@@ -574,7 +574,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4381,
+  "EOS_Progressed": 4382,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -3449,6 +3449,11 @@
       "Time": "2023-06-17T08:03:53.0699216+00:00",
       "NumProgressed": 4381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T11:04:12.0627951+00:00",
+      "NumProgressed": 4382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3484,7 +3489,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -3508,7 +3513,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3739,13 +3744,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4381,
+      "Progressed": 4382,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3753,
+      "Progressed": 3754,
       "Completed": 112
     }
   ],
@@ -3753,8 +3758,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:04:27.0259804+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:04:12.0627946+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-17T10:00:29.7500757+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:04:27.026015+00:00"
+  "LastUpdate_Ratings": "2023-06-17T11:00:45.8761998+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:04:12.0628346+00:00"
 }

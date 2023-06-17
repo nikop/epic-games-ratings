@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -442,10 +442,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 8577,
+  "EOS_Progressed": 8578,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 454,
-  "EOS_NewCompleters": 7,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -4837,6 +4837,11 @@
       "Time": "2023-06-17T10:01:33.0703598+00:00",
       "NumProgressed": 8577,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-17T11:01:52.3489505+00:00",
+      "NumProgressed": 8578,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 34,
@@ -5024,7 +5029,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "ACH24",
@@ -5119,7 +5124,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8577,
+      "Progressed": 8578,
       "Completed": 35
     }
   ],
@@ -5127,8 +5132,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:01:33.0703593+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:01:52.3489499+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:58:44.865301+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:01:33.070406+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:58:50.750372+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:01:52.3490026+00:00"
 }

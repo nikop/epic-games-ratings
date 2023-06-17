@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1147,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-06-17T04:00:35.5972227+00:00",
       "NumProgressed": 1147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T11:02:23.9054107+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 51,
@@ -1854,7 +1859,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1886,7 +1891,7 @@
       "Name": "Chain Killer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1918,7 +1923,7 @@
       "Name": "Croaked",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "CRUELTY",
@@ -1982,7 +1987,7 @@
       "Name": "Editor Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ENDGAME",
@@ -1998,7 +2003,7 @@
       "Name": "Exorcist",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "EXPERIENCED",
@@ -2006,7 +2011,7 @@
       "Name": "Experienced",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "FIRESTARTER",
@@ -2014,7 +2019,7 @@
       "Name": "Firestarter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2022,7 +2027,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2054,7 +2059,7 @@
       "Name": "Giant Killer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "GOAL",
@@ -2070,7 +2075,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2078,7 +2083,7 @@
       "Name": "Hold The Line",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "IM_THE_LAW",
@@ -2126,7 +2131,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2166,7 +2171,7 @@
       "Name": "Savior",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "SENSEI",
@@ -2245,7 +2250,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1147,
+      "Progressed": 1148,
       "Completed": 1
     }
   ],
@@ -2253,8 +2258,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:03:24.4305894+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:02:23.90541+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:58:47.8667642+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:03:24.4306302+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:58:53.6975414+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:02:23.9054577+00:00"
 }

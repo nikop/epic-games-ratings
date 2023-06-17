@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1045,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -1160,6 +1160,11 @@
       "Time": "2023-06-17T00:07:50.6325283+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T11:07:07.7792425+00:00",
+      "NumProgressed": 1045,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1217,9 +1222,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 157
     },
     {
       "ID": "Defense_Common",
@@ -1321,9 +1326,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 251
     },
     {
       "ID": "KillAllM2",
@@ -1363,7 +1368,7 @@
       "Name": "Mosquito bite",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Scout",
@@ -1410,15 +1415,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1045,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-17T10:07:10.3785306+00:00",
+  "LastChanged_Achievements": "2023-06-17T11:07:07.7792421+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:59:51.4274192+00:00",
-  "LastUpdate_Achievements": "2023-06-17T10:07:10.3785516+00:00"
+  "LastUpdate_Ratings": "2023-06-17T11:00:04.0524084+00:00",
+  "LastUpdate_Achievements": "2023-06-17T11:07:07.7792622+00:00"
 }

@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,232 |
-| First Class Student | 8.00% | ~22,428 |
-| Troll with the Punches | 8.00% | ~22,428 |
+| First Class Student | 8.00% | ~22,429 |
+| Troll with the Punches | 8.00% | ~22,429 |
 | Grappling with a Graphorn | 7.00% | ~19,625 |
 | The One Who Mastered Memories | 7.00% | ~19,625 |
 | The Hallowed Hero | 7.00% | ~19,625 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 107)
 | Finishing Touches | 1.00% | ~2,804 |
 | A Forte for Achievement | 1.00% | ~2,804 |
 | Savvy Spender | 0.90% | ~2,523 |
-| Merlin's Beard! | 0.70% | ~1,962 |
+| Merlin's Beard! | 0.70% | ~1,963 |
 | Spilled Milk | 0.60% | ~1,682 |
 | The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,353 (Ranked 41)  
+Progressed: 280,358 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,16 +109,16 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
-| 2023-06-17 | 280,353 | 408 |
+| 2023-06-17 | 280,358 | 408 |
 ## Awards
 Max (Character Customization): 20,077  (Ranked 18)  
-Sum: 37,212 (Ranked 32)  
+Sum: 37,215 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,077 |
 | This game has Great Boss Battles | 9,527 |
-| This game is Great for Beginners | 839 |
+| This game is Great for Beginners | 842 |
 | This game is Relaxing | 834 |
 | This game is Extremely Fun | 829 |
 | This game has Diverse Characters | 810 |
@@ -216,4 +216,4 @@ Diff (max vs sum): -14
 | 2023-06-14 | 4.77 | 19,955 | 37,005 |
 | 2023-06-15 | 4.77 | 19,994 | 37,095 |
 | 2023-06-16 | 4.77 | 20,032 | 37,165 |
-| 2023-06-17 | 4.77 | 20,077 | 37,212 |
+| 2023-06-17 | 4.77 | 20,077 | 37,215 |
