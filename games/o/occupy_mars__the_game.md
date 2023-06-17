@@ -6,18 +6,18 @@ Rating: 3.86 (Ranked 924)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~522 |
-| Electrician | 34.00% | ~432 |
-| Fear my botany powers, Mars | 32.00% | ~407 |
+| Electrician | 34.00% | ~433 |
+| Fear my botany powers, Mars | 32.00% | ~408 |
 | Zero Waste | 30.00% | ~382 |
 | Bob The Builder | 30.00% | ~382 |
 | I am the greatest botanist on this planet. | 29.00% | ~369 |
-| Gardener | 24.00% | ~305 |
-| Miner | 24.00% | ~305 |
+| Gardener | 24.00% | ~306 |
+| Miner | 24.00% | ~306 |
 | Occupy Mars! | 22.00% | ~280 |
-| Houston we have a problem | 21.00% | ~267 |
+| Houston we have a problem | 21.00% | ~268 |
 | Detective | 18.00% | ~229 |
-| The Collector | 15.00% | ~191 |
-| Get your hands dirty | 9.00% | ~114 |
+| The Collector | 16.00% | ~204 |
+| Get your hands dirty | 9.00% | ~115 |
 | All Wheel Trouble | 7.00% | ~89 |
 | Space Forest | 7.00% | ~89 |
 | ITS crash site | 5.00% | ~64 |
@@ -30,10 +30,10 @@ Rating: 3.86 (Ranked 924)
 | Explosive Miner | 0.90% | ~11 |
 | Rocket Jump | 0.90% | ~11 |
 | Thunderstruck | 0.70% | ~9 |
-| 5G Network | 0.60% | ~8 |
-| Bull’s eye | 0.60% | ~8 |
 | Caveman | 0.60% | ~8 |
-| Rover Mechanic | 0.60% | ~8 |
+| 5G Network | 0.50% | ~6 |
+| Bull’s eye | 0.50% | ~6 |
+| Rover Mechanic | 0.50% | ~6 |
 | Planetary Defence | 0.40% | ~5 |
 | Korolev crater | 0.40% | ~5 |
 | One does not simply... | 0.30% | ~4 |
@@ -54,7 +54,7 @@ Rating: 3.86 (Ranked 924)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,272 (Ranked 169)  
+Progressed: 1,274 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-14 | 1,252 | 0 |
 | 2023-06-15 | 1,264 | 0 |
 | 2023-06-16 | 1,269 | 0 |
-| 2023-06-17 | 1,272 | 0 |
+| 2023-06-17 | 1,274 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

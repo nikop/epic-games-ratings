@@ -18,8 +18,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Prequel to the Sequel | 0.50% | ~111 |
 | Truly Blessed | 0.30% | ~67 |
 | Pillow Investments | 0.30% | ~67 |
+| Looks Familiar | 0.30% | ~67 |
 | For Glory | 0.30% | ~67 |
-| Looks Familiar | 0.20% | ~45 |
 | For Justice | 0.20% | ~45 |
 | For Survival | 0.20% | ~45 |
 | For Love | 0.20% | ~45 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,281 (Ranked 97)  
+Progressed: 22,282 (Ranked 97)  
 Completed: 35 (0.16%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 35 (0.16%) (Ranked 159)
 | 2023-06-14 | 22,238 | 35 |
 | 2023-06-15 | 22,264 | 35 |
 | 2023-06-16 | 22,274 | 35 |
-| 2023-06-17 | 22,281 | 35 |
+| 2023-06-17 | 22,282 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 252)  
 Sum: 1,648 (Ranked 202)  

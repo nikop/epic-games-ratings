@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 2801,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3505,
+  "EOS_Progressed": 3506,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-06-17T02:11:21.7985366+00:00",
       "NumProgressed": 3505,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-17T14:06:58.693148+00:00",
+      "NumProgressed": 3506,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -328,7 +333,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "17",
@@ -368,7 +373,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "21",
@@ -440,7 +445,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "3",
@@ -551,7 +556,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3505,
+      "Progressed": 3506,
       "Completed": -29
     }
   ],
@@ -559,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:09:19.28375+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:06:58.6931473+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:00.2016916+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:00:10.7780496+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:09:19.2837724+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:57:25.3488837+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:06:58.693181+00:00"
 }

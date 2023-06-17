@@ -13,7 +13,7 @@
 | No Asperascope | 37.00% | ~47 |
 | Cornivore | 37.00% | ~47 |
 | Early Survivor | 37.00% | ~28 |
-| I Believe I Can Fly | 35.00% | ~44 |
+| I Believe I Can Fly | 36.00% | ~45 |
 | Bouncemato | 25.00% | ~19 |
 | Amateur Survivor | 25.00% | ~19 |
 | Quick-Draw Pod | 20.00% | ~15 |
@@ -25,9 +25,9 @@
 | Drinking Problem | 14.00% | ~18 |
 | Summers Here | 13.00% | ~10 |
 | Eggtraordinary | 12.00% | ~15 |
+| Skin Of Your Teeth | 10.00% | ~13 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
-| Skin Of Your Teeth | 9.00% | ~11 |
 | Quit Horsin' Around | 8.00% | ~10 |
 | Pork Chop Express | 8.00% | ~10 |
 | Carrocketeer | 8.00% | ~10 |

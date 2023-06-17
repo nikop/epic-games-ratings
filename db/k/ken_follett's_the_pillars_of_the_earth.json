@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13306,
+  "EOS_Progressed": 13307,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4319,6 +4319,11 @@
       "Time": "2023-06-17T13:09:14.6553989+00:00",
       "NumProgressed": 13306,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-17T14:06:53.719486+00:00",
+      "NumProgressed": 13307,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4346,7 +4351,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     },
     {
       "ID": "tpote_achievement_12",
@@ -4546,7 +4551,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "tpote_achievement_35",
@@ -4618,7 +4623,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "tpote_achievement_6",
@@ -4626,7 +4631,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     },
     {
       "ID": "tpote_achievement_7",
@@ -4642,7 +4647,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "tpote_achievement_9",
@@ -4657,15 +4662,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13306,
+      "Progressed": 13307,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:09:14.6553985+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:06:53.7194853+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:03:15.4414885+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:09:14.6554518+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:01:05.2481301+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:06:53.7195816+00:00"
 }

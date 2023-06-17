@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "leader_you_are_not",
@@ -276,17 +276,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "thats_my_boy",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:09:30.1767643+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:07:10.9580465+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4409557+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:03:11.3833869+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:09:30.1767753+00:00"
+  "LastUpdate_Ratings": "2023-06-17T14:00:59.3025484+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:07:10.9580686+00:00"
 }

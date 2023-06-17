@@ -21,7 +21,7 @@ Rating: 3.46 (Ranked 942)
 | Heart Attack | 31.00% | ~524 |
 | Skin of Their Teeth | 30.00% | ~507 |
 | Grounded | 23.00% | ~389 |
-| Bad Wiring | 20.00% | ~338 |
+| Bad Wiring | 21.00% | ~355 |
 | I Spit On Your Grave | 19.00% | ~321 |
 | Neighborhood Revitalization | 15.00% | ~254 |
 | Radio Silence | 15.00% | ~254 |

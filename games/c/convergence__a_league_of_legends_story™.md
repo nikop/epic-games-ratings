@@ -23,13 +23,13 @@
 | Honest Mistake | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Fast Learner | 9.00% | ~63 |
+| Like Clockwork | 8.00% | ~56 |
 | The Betrayer | 8.00% | ~56 |
 | The Man Who Shattered Time | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
 | Check Your Pulse | 8.00% | ~56 |
 | The Family Fortune | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
-| Like Clockwork | 7.00% | ~49 |
 | Street Style | 7.00% | ~49 |
 | Whiz Kid | 7.00% | ~49 |
 | Chaincrawler Explorer | 6.00% | ~42 |

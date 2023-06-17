@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.32 (Ranked 753)  
+Rating: 4.32 (Ranked 754)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,10 +23,10 @@ Rating: 4.32 (Ranked 753)
 | Curious and Beautiful | 43.00% | ~167 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~167 |
 | The Interrogations | 43.00% | ~167 |
+| Well-acquainted | 41.00% | ~159 |
 | Zakariya Demir | 41.00% | ~159 |
-| Well-acquainted | 40.00% | ~156 |
 | Well-read | 38.00% | ~148 |
-| Cassandra Van den Bosch | 36.00% | ~140 |
+| Cassandra Van den Bosch | 37.00% | ~144 |
 | The Secret | 36.00% | ~140 |
 | Gedeon Demir | 34.00% | ~132 |
 | Rehana Piette | 33.00% | ~128 |

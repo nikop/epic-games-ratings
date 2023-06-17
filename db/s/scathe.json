@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -198,6 +198,11 @@
       "Time": "2023-06-17T13:04:10.4936588+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T14:02:06.5208632+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -223,17 +228,17 @@
       "ID": "ACHIEVEMENT_BAD_BLOOD",
       "SetID": "2ff85j2",
       "Name": "Bad Blood",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
@@ -263,9 +268,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -279,9 +284,9 @@
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
       "SetID": "2ff85j2",
       "Name": "Half a Life",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -383,9 +388,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -423,9 +428,9 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_UNREAL_4",
@@ -448,7 +453,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
@@ -456,8 +461,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:04:10.4936582+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:02:06.5208622+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:17.1688317+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:00:29.0710934+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:04:10.4936816+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:57:49.7944852+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:02:06.5209069+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2098,6 +2098,11 @@
       "Time": "2023-06-17T12:05:06.6024041+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T14:04:42.6689742+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2179,9 +2184,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -2195,9 +2200,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -2229,15 +2234,15 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
       "SetID": "l546gc",
       "Name": "Bull\u2019s eye",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
@@ -2285,7 +2290,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2301,7 +2306,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -2309,7 +2314,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -2333,7 +2338,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2357,7 +2362,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2435,9 +2440,9 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -2492,7 +2497,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1274,
       "Completed": 0
     }
   ],
@@ -2500,8 +2505,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-16T13:03:21.7324195+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:07:20.4484119+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:04:42.6689735+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.7999055+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:00:21.9150561+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:07:20.4484516+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:57:39.8316274+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:04:42.6690234+00:00"
 }

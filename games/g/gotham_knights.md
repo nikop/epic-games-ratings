@@ -44,8 +44,8 @@ Rating: 4.17 (Ranked 854)
 | Expert Crime Fighter | 0.60% | ~392 |
 | Dressed to Impress | 0.50% | ~327 |
 | A Momentum Occasion | 0.40% | ~262 |
+| Bat Out of Hell | 0.40% | ~262 |
 | He'd Be So Proud of You | 0.30% | ~196 |
-| Bat Out of Hell | 0.30% | ~196 |
 | Hammer and Icicle | 0.20% | ~71 |
 | Renewable Enemy Source | 0.20% | ~71 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~71 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,398 (Ranked 70)  
+Progressed: 65,401 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 95 (0.15%) (Ranked 163)
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
-| 2023-06-17 | 65,398 | 95 |
+| 2023-06-17 | 65,401 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 97)  
 Sum: 3,871 (Ranked 137)  

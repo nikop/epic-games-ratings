@@ -442,9 +442,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 8581,
+  "EOS_Progressed": 8583,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4852,6 +4852,11 @@
       "Time": "2023-06-17T13:04:08.3389951+00:00",
       "NumProgressed": 8581,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-17T14:02:03.9158546+00:00",
+      "NumProgressed": 8583,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 34,
@@ -4967,7 +4972,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ACH15",
@@ -4991,7 +4996,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH18",
@@ -5023,7 +5028,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     },
     {
       "ID": "ACH22",
@@ -5039,7 +5044,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH24",
@@ -5063,7 +5068,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ACH27",
@@ -5134,7 +5139,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8581,
+      "Progressed": 8583,
       "Completed": 35
     }
   ],
@@ -5142,8 +5147,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:04:08.3389946+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:02:03.9158539+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:01:19.049908+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:04:08.3390382+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:58:46.1472659+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:02:03.9159143+00:00"
 }

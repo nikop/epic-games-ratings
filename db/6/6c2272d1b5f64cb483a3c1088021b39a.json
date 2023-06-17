@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -1527,9 +1527,9 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "elite_deck_2",
@@ -1870,8 +1870,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:06:45.3218177+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:04:03.0435199+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-17T12:59:51.6292908+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:06:45.3218774+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:57:04.4113868+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:04:03.0436418+00:00"
 }

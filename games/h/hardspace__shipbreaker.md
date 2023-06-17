@@ -21,7 +21,7 @@ Number of Ratings: 36  (23.09.2022)
 | I ain’t afraid of no Ghost | 22.00% | ~171 |
 | Act II Complete | 19.00% | ~148 |
 | A successful procedure! | 18.00% | ~140 |
-| Bing Bang BOOM | 17.00% | ~132 |
+| Bing Bang BOOM | 18.00% | ~140 |
 | Breaking the Ice | 16.00% | ~124 |
 | Solidarity Forever | 11.00% | ~85 |
 | A Tucked Tale | 10.00% | ~78 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 777 (Ranked 189)  
+Progressed: 777 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |

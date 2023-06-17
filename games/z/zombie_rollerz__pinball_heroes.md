@@ -32,24 +32,24 @@
 | Out of the Frying Pan... | 19.00% | ~20 |
 | The Blacksmith | 18.00% | ~19 |
 | The Ooze | 16.00% | ~17 |
+| The Assistant | 15.00% | ~16 |
 | Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
-| The Assistant | 14.00% | ~15 |
-| The Steampunk | 13.00% | ~14 |
+| The Steampunk | 14.00% | ~15 |
 | Verse | 13.00% | ~14 |
 | Iron | 11.00% | ~12 |
 | The Droid | 10.00% | ~11 |
 | Tested | 9.00% | ~10 |
 | The Bomber | 8.00% | ~8 |
 | The Astronaut | 6.00% | ~6 |
+| Power Overwhelming | 5.00% | ~5 |
 | Anvil | 5.00% | ~5 |
-| Power Overwhelming | 4.00% | ~4 |
 | The Exorcist | 4.00% | ~4 |
+| Mithril | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
 | Highway to Hell | 4.00% | ~4 |
 | Aluminum | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
-| Mithril | 3.00% | ~3 |
 | It's a Trap! | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
 | Tongs | 2.00% | ~2 |

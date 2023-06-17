@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2802,
+  "EOS_Progressed": 2803,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -2785,6 +2785,11 @@
       "Time": "2023-06-17T10:04:54.6058288+00:00",
       "NumProgressed": 2802,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-06-17T14:04:37.597422+00:00",
+      "NumProgressed": 2803,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 24,
@@ -2796,7 +2801,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "10",
@@ -2884,7 +2889,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "20",
@@ -2948,7 +2953,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "6",
@@ -2987,13 +2992,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2802,
+      "Progressed": 2803,
       "Completed": 41
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:07:15.7471099+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:04:37.5974214+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:02:06.5864905+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:07:15.7471363+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:59:40.8661142+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:04:37.5974785+00:00"
 }

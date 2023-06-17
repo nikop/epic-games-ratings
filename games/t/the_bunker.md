@@ -15,7 +15,7 @@
 | Radiation | 59.00% | ~63 |
 | Descent | 58.00% | ~61 |
 | Awakenings | 58.00% | ~61 |
-| Cold Storage | 57.00% | ~60 |
+| Cold Storage | 58.00% | ~61 |
 | Churchill | 51.00% | ~54 |
 | Sam | 51.00% | ~54 |
 | Doctor | 49.00% | ~52 |

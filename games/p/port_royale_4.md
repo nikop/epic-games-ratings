@@ -14,7 +14,7 @@ Number of Ratings: 53  (23.09.2022)
 | Seafarer | 54.00% | ~358 |
 | O Captain! My Captain! | 53.00% | ~351 |
 | Greed for gold | 42.00% | ~278 |
-| Intangible | 40.00% | ~265 |
+| Intangible | 41.00% | ~272 |
 | I'm out of here for a while | 40.00% | ~265 |
 | In a mint condition | 37.00% | ~245 |
 | Licence to Kill | 34.00% | ~225 |

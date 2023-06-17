@@ -2,20 +2,20 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.31,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
@@ -104,6 +104,12 @@
     {
       "Time": "2023-06-14T19:58:49.3526803+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-17T13:58:49.4245924+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2174,9 +2180,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "SENSEI",
@@ -2262,9 +2268,9 @@
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-06-14T19:58:49.3526802+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:03:58.9074085+00:00",
+  "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:01:53.482022+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:01:21.6550711+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:03:58.9093823+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:58:49.424593+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:01:53.4844964+00:00"
 }

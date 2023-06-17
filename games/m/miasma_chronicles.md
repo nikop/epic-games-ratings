@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.31 (Ranked 763)  
+Rating: 4.34 (Ranked 739)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,7 +32,7 @@ Rating: 4.31 (Ranked 763)
 | Chain Killer | 20.00% | ~230 |
 | Hold The Line | 20.00% | ~230 |
 | Endgame | 19.00% | ~218 |
-| Savior | 18.00% | ~207 |
+| Savior | 19.00% | ~218 |
 | The Watchers | 16.00% | ~184 |
 | Newtonian Knockout | 14.00% | ~161 |
 | Ruthless | 13.00% | ~150 |
@@ -106,3 +106,4 @@ Completed: 1 (0.09%) (Ranked 179)
 | 2023-06-12 | 4.33 | 0 | 0 |
 | 2023-06-13 | 4.32 | 0 | 0 |
 | 2023-06-14 | 4.31 | 0 | 0 |
+| 2023-06-17 | 4.34 | 0 | 0 |

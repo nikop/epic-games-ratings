@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3201,6 +3201,11 @@
       "Time": "2023-06-17T12:07:42.6393942+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T14:07:17.9420526+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3260,7 +3265,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "cauldronliberator",
@@ -3484,7 +3489,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "jewelenchanting",
@@ -3604,7 +3609,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "prestigiousx10",
@@ -3612,7 +3617,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "relicofthepast",
@@ -3628,7 +3633,7 @@
       "Name": "Sailor",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "scientist",
@@ -3658,9 +3663,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 170
     },
     {
       "ID": "templeofeternals",
@@ -3668,7 +3673,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "thealchemist",
@@ -3740,7 +3745,7 @@
       "Name": "Training makes a Pro player",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "transmute",
@@ -3748,7 +3753,7 @@
       "Name": "Transmute",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "treeoflife",
@@ -3772,7 +3777,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "warmachinesarmy",
@@ -3804,14 +3809,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1417,
       "Completed": 1
     }
   ],
@@ -3819,8 +3824,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-17T13:09:36.6089768+00:00",
+  "LastChanged_Achievements": "2023-06-17T14:07:17.9420518+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-17T13:01:03.9190323+00:00",
-  "LastUpdate_Achievements": "2023-06-17T13:09:36.6090498+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:58:28.4704353+00:00",
+  "LastUpdate_Achievements": "2023-06-17T14:07:17.942169+00:00"
 }
