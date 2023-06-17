@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,229 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,230 |
 | First Class Student | 8.00% | ~22,426 |
 | Troll with the Punches | 8.00% | ~22,426 |
 | Grappling with a Graphorn | 7.00% | ~19,623 |
@@ -18,10 +18,10 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,623 |
 | Coasting Along | 7.00% | ~19,623 |
 | That's a Keeper | 7.00% | ~19,623 |
-| Challenge Accepted | 6.00% | ~16,819 |
-| Followed the Butterflies | 6.00% | ~16,819 |
-| The Spell Master | 6.00% | ~16,819 |
-| Rising From the Ashes | 6.00% | ~16,819 |
+| Challenge Accepted | 6.00% | ~16,820 |
+| Followed the Butterflies | 6.00% | ~16,820 |
+| The Spell Master | 6.00% | ~16,820 |
+| Rising From the Ashes | 6.00% | ~16,820 |
 | The Avenging Gazelle | 5.00% | ~14,016 |
 | Beast Friends | 5.00% | ~14,016 |
 | A Sallow Grave | 5.00% | ~14,016 |
@@ -36,10 +36,10 @@ Rating: 4.77 (Ranked 107)
 | The Intrepid Explorer | 3.00% | ~8,410 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,410 |
 | The Ends Petrify the Means | 3.00% | ~8,410 |
-| Put Down Roots | 2.00% | ~5,606 |
-| The Auror's Apprentice | 2.00% | ~5,606 |
-| Floo Around the World | 2.00% | ~5,606 |
-| The Wise Owl | 2.00% | ~5,606 |
+| Put Down Roots | 2.00% | ~5,607 |
+| The Auror's Apprentice | 2.00% | ~5,607 |
+| Floo Around the World | 2.00% | ~5,607 |
+| The Wise Owl | 2.00% | ~5,607 |
 | The Good Samaritan | 1.00% | ~2,803 |
 | Rise to the Challenges | 1.00% | ~2,803 |
 | Demiguise Dread | 1.00% | ~2,803 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,324 (Ranked 41)  
+Progressed: 280,329 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-14 | 279,708 | 406 |
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
-| 2023-06-17 | 280,324 | 408 |
+| 2023-06-17 | 280,329 | 408 |
 ## Awards
 Max (Character Customization): 20,032  (Ranked 18)  
 Sum: 37,165 (Ranked 32)  

@@ -6,14 +6,14 @@ Rating: 4.43 (Ranked 649)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~77,888 |
-| Predator I | 22.00% | ~55,275 |
+| Predator I | 22.00% | ~55,276 |
 | Fixer I | 10.00% | ~25,125 |
 | A week in Century City | 10.00% | ~25,125 |
 | The Wait | 7.00% | ~17,588 |
 | Green thumb I | 6.00% | ~15,075 |
 | Cleaning Company | 6.00% | ~15,075 |
-| Well-oiled machine | 5.00% | ~12,562 |
-| Saver I | 5.00% | ~12,562 |
+| Well-oiled machine | 5.00% | ~12,563 |
+| Saver I | 5.00% | ~12,563 |
 | The Ascent | 4.00% | ~10,050 |
 | Pacifist | 4.00% | ~10,050 |
 | Vandalism | 4.00% | ~10,050 |
@@ -27,14 +27,14 @@ Rating: 4.43 (Ranked 649)
 | Predator II | 2.00% | ~5,025 |
 | Truffle Dog | 2.00% | ~5,025 |
 | A month in Century City | 2.00% | ~5,025 |
-| The Strengthening | 1.00% | ~2,512 |
-| Saver II | 1.00% | ~2,512 |
-| It's the last one, I swear | 1.00% | ~2,512 |
-| Botanist | 1.00% | ~2,512 |
-| Green thumb II | 1.00% | ~2,512 |
-| Don't try this at home | 1.00% | ~2,512 |
-| Bricklayer | 1.00% | ~2,512 |
-| Run the Economy | 1.00% | ~2,512 |
+| The Strengthening | 1.00% | ~2,513 |
+| Saver II | 1.00% | ~2,513 |
+| It's the last one, I swear | 1.00% | ~2,513 |
+| Botanist | 1.00% | ~2,513 |
+| Green thumb II | 1.00% | ~2,513 |
+| Don't try this at home | 1.00% | ~2,513 |
+| Bricklayer | 1.00% | ~2,513 |
+| Run the Economy | 1.00% | ~2,513 |
 | Committed Relationship | 0.80% | ~2,010 |
 | Number 1 | 0.70% | ~1,759 |
 | Interior designer | 0.60% | ~1,508 |
@@ -48,9 +48,9 @@ Rating: 4.43 (Ranked 649)
 | Fixer III | 0.30% | ~754 |
 | AML questionnaire | 0.30% | ~754 |
 | Heartbreaker | 0.30% | ~754 |
-| Workhorse | 0.20% | ~502 |
-| Homerun | 0.20% | ~502 |
-| A season in Century City | 0.20% | ~502 |
+| Workhorse | 0.20% | ~503 |
+| Homerun | 0.20% | ~503 |
+| A season in Century City | 0.20% | ~503 |
 | Saver III | 0.10% | ~251 |
 | Collector | 0.10% | ~251 |
 | Mansion | 0.10% | ~251 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 649)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,250 (Ranked 42)  
+Progressed: 251,253 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 1 (0.00%) (Ranked 226)
 | 2023-06-14 | 251,116 | 1 |
 | 2023-06-15 | 251,171 | 1 |
 | 2023-06-16 | 251,234 | 1 |
-| 2023-06-17 | 251,250 | 1 |
+| 2023-06-17 | 251,253 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
 Sum: 137 (Ranked 388)  

@@ -47,8 +47,8 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
 | True Mastery | 0.60% | ~17 |
-| The Flesh is Weak | 0.50% | ~14 |
-| Warp Flickers | 0.50% | ~14 |
+| The Flesh is Weak | 0.50% | ~15 |
+| Warp Flickers | 0.50% | ~15 |
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,900 (Ranked 147)  
+Progressed: 2,901 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 2,894 | 0 |
 | 2023-06-15 | 2,895 | 0 |
 | 2023-06-16 | 2,900 | 0 |
+| 2023-06-17 | 2,901 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 258)  
 Sum: 424 (Ranked 301)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3681,
+  "EOS_Progressed": 3682,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -4549,6 +4549,11 @@
       "Time": "2023-06-17T02:07:16.8798439+00:00",
       "NumProgressed": 3681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T05:01:39.8555918+00:00",
+      "NumProgressed": 3682,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4576,7 +4581,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4656,7 +4661,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4678,9 +4683,9 @@
       "ID": "ACH_EP_SPEAKEASY",
       "SetID": "1p8ab95",
       "Name": "Number 18",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4688,7 +4693,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4744,7 +4749,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4840,7 +4845,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4879,15 +4884,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3681,
+      "Progressed": 3682,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-17T04:00:39.0905821+00:00",
+  "LastChanged_Achievements": "2023-06-17T05:01:39.855591+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-17T03:59:52.979065+00:00",
-  "LastUpdate_Achievements": "2023-06-17T04:00:39.0906487+00:00"
+  "LastUpdate_Ratings": "2023-06-17T05:00:40.2359897+00:00",
+  "LastUpdate_Achievements": "2023-06-17T05:01:39.8556671+00:00"
 }

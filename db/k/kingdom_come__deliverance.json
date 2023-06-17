@@ -5352,9 +5352,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 788070,
+  "EOS_Progressed": 788071,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 1616,
+  "EOS_NewPlayers": 1612,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11377,6 +11377,11 @@
       "Time": "2023-06-17T04:06:13.1079111+00:00",
       "NumProgressed": 788070,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-06-17T05:06:40.1232265+00:00",
+      "NumProgressed": 788071,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 82,
@@ -11604,7 +11609,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118210
+      "UsersEstimate": 118211
     },
     {
       "ID": "Freud",
@@ -11964,7 +11969,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94568
+      "UsersEstimate": 94569
     },
     {
       "ID": "TisButAScratch",
@@ -12043,15 +12048,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 788070,
+      "Progressed": 788071,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-16T23:01:29.8415519+00:00",
-  "LastChanged_Achievements": "2023-06-17T04:06:13.1079106+00:00",
+  "LastChanged_Achievements": "2023-06-17T05:06:40.123226+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:05.4980914+00:00",
-  "LastUpdate_Ratings": "2023-06-17T03:58:22.1982513+00:00",
-  "LastUpdate_Achievements": "2023-06-17T04:06:13.1080513+00:00"
+  "LastUpdate_Ratings": "2023-06-17T04:58:48.2198962+00:00",
+  "LastUpdate_Achievements": "2023-06-17T05:06:40.1233924+00:00"
 }

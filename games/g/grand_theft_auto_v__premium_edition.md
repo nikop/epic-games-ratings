@@ -5,18 +5,18 @@ Rating: 4.68 (Ranked 239)
 Number of Ratings: 573,831  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 185,469  (Ranked 4)  
-Sum: 1,456,816 (Ranked 3)  
+Sum: 1,458,566 (Ranked 3)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 185,469 |
 | This game has Diverse Characters | 170,687 |
-| This game is Relaxing | 165,571 |
+| This game is Relaxing | 166,210 |
 | This game has Quickly Understood Controls | 159,814 |
 | This game is Extremely Fun | 157,367 |
+| This game has Competitive Players | 156,357 |
 | This game is Highly Recommended | 156,145 |
-| This game has Competitive Players | 155,778 |
-| This game has Amazing Storytelling | 155,146 |
+| This game has Amazing Storytelling | 155,678 |
 | This game has Amazing Characters | 150,839 |
 | This game has Obsessive Gameplay | 78,155 |
 ## Ratings History
@@ -166,4 +166,4 @@ Diff (max vs sum): 1
 | 2023-06-14 | 4.68 | - | 183,401 | 1,444,906 |
 | 2023-06-15 | 4.68 | - | 184,010 | 1,448,610 |
 | 2023-06-16 | 4.68 | - | 184,817 | 1,454,540 |
-| 2023-06-17 | 4.68 | - | 185,469 | 1,456,816 |
+| 2023-06-17 | 4.68 | - | 185,469 | 1,458,566 |

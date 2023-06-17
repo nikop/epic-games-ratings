@@ -43,9 +43,9 @@ Rating: 4.56 (Ranked 454)
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Delivery! | 1.00% | ~27 |
+| Help of the Forgotten Member | 1.00% | ~27 |
 | Pulsar Disciple | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~24 |
-| Help of the Forgotten Member | 0.90% | ~24 |
 | You Had One Job... | 0.80% | ~21 |
 | Tiqqun Unchained | 0.80% | ~21 |
 | Scientifically Accurate | 0.80% | ~21 |

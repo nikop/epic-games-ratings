@@ -7,22 +7,22 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,624 |
-| Leader | 61.00% | ~3,972 |
-| Explorer | 53.00% | ~3,451 |
-| Healer | 53.00% | ~3,451 |
-| Aspiring Inventor | 44.00% | ~2,865 |
+| Leader | 61.00% | ~3,973 |
+| Explorer | 53.00% | ~3,452 |
+| Healer | 53.00% | ~3,452 |
+| Aspiring Inventor | 44.00% | ~2,866 |
 | Adventurer | 41.00% | ~2,670 |
 | Famous Healer | 38.00% | ~2,475 |
-| Local Leader | 35.00% | ~2,279 |
+| Local Leader | 35.00% | ~2,280 |
 | New Opportunities | 34.00% | ~2,214 |
 | Famous Explorer | 33.00% | ~2,149 |
 | Energized | 33.00% | ~2,149 |
 | The Long Haul | 33.00% | ~2,149 |
 | Survivor | 31.00% | ~2,019 |
 | The Great Healer | 30.00% | ~1,954 |
-| Cleaner | 28.00% | ~1,823 |
-| Catastrofan | 28.00% | ~1,823 |
-| Legendary Explorer | 27.00% | ~1,758 |
+| Cleaner | 28.00% | ~1,824 |
+| Catastrofan | 28.00% | ~1,824 |
+| Legendary Explorer | 27.00% | ~1,759 |
 | Finders, Keepers | 26.00% | ~1,693 |
 | Top Notch | 24.00% | ~1,563 |
 | Ice Lakes | 23.00% | ~1,498 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 14.00% | ~912 |
 | Famous Adventurer | 13.00% | ~847 |
 | Prepared for Anything | 13.00% | ~847 |
-| Big Catastrofan | 12.00% | ~781 |
+| Big Catastrofan | 12.00% | ~782 |
 | It's a Finnish Thing | 10.00% | ~651 |
 | Sky Burial | 9.00% | ~586 |
 | Trader | 8.00% | ~521 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | New Eden | 6.00% | ~391 |
 | Amped Up | 6.00% | ~391 |
 | Look, no Hands! | 5.00% | ~326 |
-| Luxurious Living | 4.00% | ~260 |
+| Luxurious Living | 4.00% | ~261 |
 | Mogul | 3.00% | ~195 |
 | Ranch Hand | 3.00% | ~195 |
 | Diplomat | 2.00% | ~130 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~7 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,512 (Ranked 125)  
+Progressed: 6,513 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 6,449 | 0 |
 | 2023-06-15 | 6,480 | 0 |
 | 2023-06-16 | 6,507 | 0 |
-| 2023-06-17 | 6,512 | 0 |
+| 2023-06-17 | 6,513 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 665 (Ranked 270)  

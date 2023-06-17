@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~917 |
-| Confirming Suspicions | 26.00% | ~769 |
-| The Kraken Wakes | 21.00% | ~621 |
+| Meeting Resistance | 31.00% | ~918 |
+| Confirming Suspicions | 26.00% | ~770 |
+| The Kraken Wakes | 21.00% | ~622 |
 | It's Starting to Crack | 18.00% | ~533 |
-| Lord of War | 16.00% | ~473 |
-| Change the Channel | 16.00% | ~473 |
+| Lord of War | 16.00% | ~474 |
+| Change the Channel | 16.00% | ~474 |
 | Resourceful | 14.00% | ~414 |
 | Taking it back | 14.00% | ~414 |
 | Organ Grinder | 12.00% | ~355 |
 | Target America | 12.00% | ~355 |
-| As Quiet as a Mouse | 11.00% | ~325 |
-| The Kraken Sleeps | 11.00% | ~325 |
+| As Quiet as a Mouse | 11.00% | ~326 |
+| The Kraken Sleeps | 11.00% | ~326 |
 | Liberté | 10.00% | ~296 |
 | Just a Flesh Wound | 9.00% | ~266 |
 | Gunslinger | 9.00% | ~266 |
@@ -37,13 +37,13 @@ Rating: 4.51 (Ranked 530)
 | Precision Is Key | 4.00% | ~118 |
 | Rigged to Blow | 4.00% | ~118 |
 | My Little Friend | 3.00% | ~89 |
+| Strategist | 2.00% | ~59 |
 | The Long Game | 2.00% | ~59 |
 | It'll Buff Right Out | 2.00% | ~59 |
 | Locomotion Commotion | 2.00% | ~59 |
 | Road Rage | 2.00% | ~59 |
 | Don't hold your breath | 2.00% | ~59 |
 | Herr Today, Gone Tomorrow | 2.00% | ~58 |
-| Strategist | 1.00% | ~30 |
 | Tinkerer | 1.00% | ~30 |
 | Operation Foxley | 1.00% | ~29 |
 | Ghost of Falaise | 1.00% | ~29 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,959 (Ranked 145)  
+Progressed: 2,960 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
-| 2023-06-17 | 2,959 | 2 |
+| 2023-06-17 | 2,960 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
