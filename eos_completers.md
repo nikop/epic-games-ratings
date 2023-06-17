@@ -14,15 +14,15 @@
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.24% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
 | 16 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.05% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 19 | [Smelter](games/s/smelter.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.33% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
+| 20 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.31% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.14% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.07% |
@@ -43,9 +43,9 @@
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.68% |
 | 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.52% |
-| 44 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.45% |
-| 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.40% |
+| 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
+| 45 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.40% |
+| 46 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.26% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.19% |
 | 49 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
@@ -56,7 +56,7 @@
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 55 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.82% |
 | 56 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.76% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.75% |
 | 58 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
@@ -85,9 +85,9 @@
 | 83 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 83 | [Night Book](games/n/night_book.md) | 1.49% |
 | 85 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
-| 86 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 86 | [Chorus](games/c/chorus.md) | 1.22% |
-| 86 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.22% |
+| 86 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.29% |
+| 87 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
+| 87 | [Chorus](games/c/chorus.md) | 1.22% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 90 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 90 | [Ten Dates](games/t/ten_dates.md) | 1.18% |
@@ -133,9 +133,9 @@
 | 130 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 132 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
 | 132 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 134 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 134 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 134 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 134 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 135 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 135 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 137 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 137 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
