@@ -58,13 +58,13 @@
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.70% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.69% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 63 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.41% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
@@ -84,7 +84,7 @@
 | 82 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 83 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 84 | [Night Book](games/n/night_book.md) | 1.48% |
-| 85 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.39% |
+| 85 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.43% |
 | 86 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 87 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 87 | [Chorus](games/c/chorus.md) | 1.22% |
@@ -129,10 +129,10 @@
 | 127 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.41% |
 | 129 | [Tchia](games/t/tchia.md) | 0.38% |
-| 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 130 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 132 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
-| 132 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 131 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
+| 131 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 134 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 135 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 135 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |

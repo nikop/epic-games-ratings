@@ -39,7 +39,7 @@
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 40 | 416 |
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,275 | 124 |
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 473 | 191 |
-| 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,622 | 42 |
+| 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,627 | 41 |
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,493 | 60 |
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 341 | 219 |
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 497 |
@@ -109,7 +109,7 @@
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 497 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,311 | 83 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,752 | 57 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,032 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,077 | 18 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 497 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 425 |
 | 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 145 | 292 |
@@ -234,7 +234,7 @@
 | 219 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 497 |
 | 219 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 497 |
 | 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 39 | 419 |
-| 219 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 896 | 145 |
+| 219 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 899 | 145 |
 | 219 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 497 |
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 497 |
 | 219 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 497 |
@@ -376,7 +376,7 @@
 | 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,111 | 133 |
 | 362 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 497 |
 | 362 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,515 | 91 |
-| 362 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 631 | 166 |
+| 362 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 631 | 167 |
 | 362 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 440 | 197 |
 | 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,250 | 37 |
 | 362 | [Returnal™](games/r/returnal™.md) | 4.61 | 38 | 422 |
@@ -416,12 +416,12 @@
 | 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 406 |
 | 413 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 497 |
 | 413 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,930 | 10 |
-| 413 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 631 | 166 |
+| 413 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 632 | 166 |
 | 413 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 58 | 385 |
 | 413 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 497 |
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
 | 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
-| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,251 | 85 |
+| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,255 | 85 |
 | 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 158 |
 | 413 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 347 |
 | 425 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 497 |
@@ -715,21 +715,21 @@
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 497 |
 | 707 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 85 | 347 |
 | 707 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 442 |
-| 716 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 497 |
 | 716 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,138 | 103 |
 | 716 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
 | 716 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 402 |
 | 716 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 95 | 335 |
 | 716 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 419 |
-| 722 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
-| 722 | [Core](games/c/core.md) | 4.36 | 736 | 155 |
-| 722 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 281 |
-| 722 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 497 |
-| 722 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,514 | 27 |
-| 722 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
-| 722 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
-| 722 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 497 |
-| 722 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
+| 721 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
+| 721 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 497 |
+| 721 | [Core](games/c/core.md) | 4.36 | 736 | 155 |
+| 721 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 281 |
+| 721 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 497 |
+| 721 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,514 | 27 |
+| 721 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
+| 721 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
+| 721 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 497 |
+| 721 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
 | 731 | [Ashen](games/a/ashen.md) | 4.35 | 0 | 497 |
 | 731 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 497 |
 | 731 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 95 | 335 |
