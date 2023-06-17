@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | It's Rewind Time | 91.00% | ~177 |
 | Wake Up | 80.00% | ~155 |
-| Time Gates | 64.00% | ~124 |
+| Time Gates | 65.00% | ~126 |
 | Command Centre | 46.00% | ~89 |
 | This is a Wall | 42.00% | ~81 |
 | Extendable Bridges | 37.00% | ~72 |
@@ -19,8 +19,8 @@
 | Archivist | 14.00% | ~27 |
 | Running Boots | 13.00% | ~25 |
 | Fashionista | 12.00% | ~23 |
+| Looper | 11.00% | ~21 |
 | Kaboom! | 10.00% | ~19 |
-| Looper | 10.00% | ~19 |
 | Reunited | 10.00% | ~19 |
 | All Alone | 9.00% | ~17 |
 | So Close | 8.00% | ~16 |

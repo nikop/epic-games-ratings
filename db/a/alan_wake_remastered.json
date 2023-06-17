@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55469,
+  "EOS_Progressed": 55473,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1878,
+  "EOS_NewPlayers": 1854,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5192,6 +5192,11 @@
       "Time": "2023-06-17T16:07:06.7442846+00:00",
       "NumProgressed": 55469,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-17T17:07:00.6482319+00:00",
+      "NumProgressed": 55473,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 67,
@@ -5203,7 +5208,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17750
+      "UsersEstimate": 17751
     },
     {
       "ID": "02",
@@ -5211,7 +5216,7 @@
       "Name": "Nordic Walking",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10539
+      "UsersEstimate": 10540
     },
     {
       "ID": "03",
@@ -5219,7 +5224,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10539
+      "UsersEstimate": 10540
     },
     {
       "ID": "04",
@@ -5235,7 +5240,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "06",
@@ -5251,7 +5256,7 @@
       "Name": "Heavy Metal",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "08",
@@ -5259,7 +5264,7 @@
       "Name": "Iron Horse",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "09",
@@ -5291,7 +5296,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "13",
@@ -5331,7 +5336,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "18",
@@ -5411,7 +5416,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "28",
@@ -5443,7 +5448,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6656
+      "UsersEstimate": 6657
     },
     {
       "ID": "32",
@@ -5451,7 +5456,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13313
+      "UsersEstimate": 13314
     },
     {
       "ID": "33",
@@ -5475,7 +5480,7 @@
       "Name": "Let There Be Light",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13867
+      "UsersEstimate": 13868
     },
     {
       "ID": "36",
@@ -5738,21 +5743,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55469,
+      "Progressed": 55473,
       "Completed": 55
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 18937,
+      "Progressed": 18941,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:07:06.7442842+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:07:00.6482314+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:57:48.6362009+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:07:06.744356+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:57:52.7714084+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:07:00.6483035+00:00"
 }

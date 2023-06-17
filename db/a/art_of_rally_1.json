@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10141,
+  "EOS_Progressed": 10142,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-06-17T16:06:51.3020431+00:00",
       "NumProgressed": 10141,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-17T17:06:45.0666364+00:00",
+      "NumProgressed": 10142,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1059,7 +1064,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_BICYCLE",
@@ -1091,7 +1096,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -1107,7 +1112,7 @@
       "Name": "viking",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -1235,7 +1240,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5679
+      "UsersEstimate": 5680
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1251,7 +1256,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9735
+      "UsersEstimate": 9736
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1267,7 +1272,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5983
+      "UsersEstimate": 5984
     },
     {
       "ID": "ACH_NIGHT",
@@ -1315,7 +1320,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "ACH_SNOW",
@@ -1370,15 +1375,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10141,
+      "Progressed": 10142,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:06:51.3020426+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:06:45.0666357+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0768896+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:57:30.7675233+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:06:51.3020727+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:57:35.4120964+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:06:45.0666646+00:00"
 }

@@ -284,9 +284,9 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BronzeGilgameshBossDefeatedAchievement",
@@ -820,9 +820,9 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed100000EnemiesAchievement",
@@ -956,9 +956,9 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PerksUnlocked10Achievement",
@@ -972,9 +972,9 @@
       "ID": "PerksUnlocked25Achievement",
       "SetID": "a8djcgh",
       "Name": "25Gb HDD",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PerksUnlocked50Achievement",
@@ -1020,9 +1020,9 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PlayedFor20HoursAchievement",
@@ -1268,9 +1268,9 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "VisitOverlord50TimeAchievement",
@@ -1323,8 +1323,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:07:21.8184949+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:07:16.238244+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.7951701+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:59:08.0893939+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:07:21.8186701+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:59:13.5313112+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:07:16.2384093+00:00"
 }

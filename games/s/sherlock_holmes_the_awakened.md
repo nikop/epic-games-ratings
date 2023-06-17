@@ -17,15 +17,15 @@ Rating: 4.62 (Ranked 346)
 | The New World | 44.00% | ~210 |
 | Open Sesame | 43.00% | ~206 |
 | Sticky Fingers | 43.00% | ~206 |
-| Knives Out | 42.00% | ~201 |
+| Knives Out | 43.00% | ~206 |
+| Land, Ho! | 42.00% | ~201 |
 | Back In The Saddle | 41.00% | ~196 |
-| Land, Ho! | 41.00% | ~196 |
 | No Man Is An Island | 40.00% | ~191 |
 | At Wits' End | 39.00% | ~186 |
+| Bookworm | 37.00% | ~177 |
 | Up In Flames | 37.00% | ~177 |
 | Fhtagn! | 37.00% | ~177 |
 | Going Once... | 36.00% | ~172 |
-| Bookworm | 36.00% | ~172 |
 | Let Me Be Frank | 34.00% | ~163 |
 | Brain Food | 32.00% | ~153 |
 | No Stone Unturned | 31.00% | ~148 |

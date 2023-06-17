@@ -1,34 +1,34 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 391)  
+Rating: 4.60 (Ranked 390)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 72.00% | ~2,758 |
-| Having A Field Day | 71.00% | ~2,720 |
-| Reap What You Sow | 68.00% | ~2,605 |
-| The First Day | 65.00% | ~2,490 |
-| Green Thumb | 64.00% | ~2,452 |
-| Novice Researcher | 62.00% | ~2,375 |
-| Putting Food on the Table | 58.00% | ~2,222 |
-| Onward | 53.00% | ~2,030 |
-| Home Cooked Meal | 51.00% | ~1,954 |
+| Get A Room | 72.00% | ~2,760 |
+| Having A Field Day | 71.00% | ~2,721 |
+| Reap What You Sow | 68.00% | ~2,606 |
+| The First Day | 65.00% | ~2,491 |
+| Green Thumb | 64.00% | ~2,453 |
+| Novice Researcher | 62.00% | ~2,376 |
+| Putting Food on the Table | 58.00% | ~2,223 |
+| Onward | 53.00% | ~2,031 |
+| Home Cooked Meal | 51.00% | ~1,955 |
 | The First Week | 50.00% | ~1,916 |
-| Studious Researcher | 49.00% | ~1,877 |
-| Feast or Famine | 48.00% | ~1,839 |
-| Beam Me Up | 47.00% | ~1,801 |
-| Adept Researcher | 44.00% | ~1,686 |
-| Retribution | 37.00% | ~1,417 |
-| Fit For A King | 37.00% | ~1,417 |
-| ...And Don’t Come Back! | 37.00% | ~1,417 |
-| Luminary Researcher | 35.00% | ~1,341 |
-| Heating Up | 26.00% | ~996 |
+| Studious Researcher | 49.00% | ~1,878 |
+| Feast or Famine | 48.00% | ~1,840 |
+| Beam Me Up | 47.00% | ~1,802 |
+| Adept Researcher | 44.00% | ~1,687 |
+| Retribution | 37.00% | ~1,418 |
+| Fit For A King | 37.00% | ~1,418 |
+| ...And Don’t Come Back! | 37.00% | ~1,418 |
+| Luminary Researcher | 35.00% | ~1,342 |
+| Heating Up | 26.00% | ~997 |
 | Winter Is Coming | 22.00% | ~843 |
 | Winter Is Here | 19.00% | ~728 |
-| A Party Now | 17.00% | ~651 |
-| Oh Deer! | 17.00% | ~651 |
+| A Party Now | 17.00% | ~652 |
+| Oh Deer! | 17.00% | ~652 |
 | Disassembled | 16.00% | ~613 |
 | All Year Round | 16.00% | ~613 |
 | Nothing Wasted | 10.00% | ~383 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~77 |
 | Wabbit Season | 0.70% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,831 (Ranked 136)  
+Progressed: 3,833 (Ranked 136)  
 Completed: 8 (0.21%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 8 (0.21%) (Ranked 154)
 | 2023-06-14 | 3,722 | 8 |
 | 2023-06-15 | 3,774 | 8 |
 | 2023-06-16 | 3,810 | 8 |
-| 2023-06-17 | 3,831 | 8 |
+| 2023-06-17 | 3,833 | 8 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
 Sum: 953 (Ranked 236)  

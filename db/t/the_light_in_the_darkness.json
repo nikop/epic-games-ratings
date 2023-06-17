@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 141,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 12,
@@ -2763,6 +2763,11 @@
       "Time": "2023-06-17T16:06:49.9052079+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-06-17T17:06:43.6923884+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 12,
@@ -2774,7 +2779,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Bernard",
@@ -2798,7 +2803,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Jacques a Dit",
@@ -2806,7 +2811,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "Jakob",
@@ -2854,7 +2859,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Nuremberg Laws",
@@ -2869,7 +2874,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 141
     }
   ],
@@ -2877,8 +2882,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:06:49.9052075+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:06:43.6923877+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:00:08.5243551+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:06:49.9052292+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:00:17.9454228+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:06:43.6924079+00:00"
 }

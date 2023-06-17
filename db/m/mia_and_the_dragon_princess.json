@@ -2,8 +2,8 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-05-30T21:03:18.9980044+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T17:04:04.9847414+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -281,7 +286,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -313,7 +318,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
       "UsersEstimate": 10
     },
@@ -353,7 +358,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -369,7 +374,7 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -393,7 +398,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -401,7 +406,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 16
     }
@@ -410,14 +415,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:04:11.9611615+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:04:04.9847409+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.9003859+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:58:17.7916964+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:04:11.9611731+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:58:20.8542634+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:04:04.9847533+00:00"
 }

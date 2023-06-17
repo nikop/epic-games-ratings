@@ -2436,9 +2436,9 @@
       "ID": "1",
       "SetID": "d0g98p",
       "Name": "Once Upon a Time",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 976
     },
     {
       "ID": "10",
@@ -2524,9 +2524,9 @@
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 956
     },
     {
       "ID": "20",
@@ -2845,8 +2845,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:06:51.3945032+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:06:45.1562159+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0914361+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:57:32.0362444+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:06:51.3945478+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:57:36.7239169+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:06:45.1562601+00:00"
 }

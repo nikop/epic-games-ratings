@@ -22,8 +22,8 @@
 | Gollum/Sméagol | 7.00% | ~31 |
 | Trigger-Happy | 7.00% | ~31 |
 | The Friend | 6.00% | ~27 |
+| Master of the Old Game | 5.00% | ~22 |
 | Made a Song | 5.00% | ~22 |
-| Master of the Old Game | 4.00% | ~18 |
 | So Silly! | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |
 | Break a Leg! | 2.00% | ~9 |

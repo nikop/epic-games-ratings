@@ -4,7 +4,7 @@
   "ProductSlug": "delivery-from-the-pain-73198e",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-12T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -250,6 +250,11 @@
     {
       "Time": "2023-06-17T13:06:26.1595818+00:00",
       "NumProgressed": 65,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T17:03:38.9990531+00:00",
+      "NumProgressed": 66,
       "NumCompleted": 0
     }
   ],
@@ -909,14 +914,14 @@
     {
       "ID": "b90k33f",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-13T22:58:14.2557499+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:17.7528576+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:03:46.8454753+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:03:38.9990524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:11.3613741+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:58:50.5332404+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:03:46.8455514+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:58:53.3793709+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:03:38.9991289+00:00"
 }

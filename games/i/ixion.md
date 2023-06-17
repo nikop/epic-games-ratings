@@ -23,11 +23,11 @@ Rating: 4.56 (Ranked 454)
 | Exceeding Capacity | 5.00% | ~133 |
 | Man's Best Friend | 4.00% | ~107 |
 | Power Outage | 4.00% | ~107 |
+| Convenient Transport | 4.00% | ~107 |
 | Please Make it Stop! | 4.00% | ~107 |
 | Sightseeing | 3.00% | ~80 |
 | Access Granted | 3.00% | ~80 |
 | Necessary Enhancement | 3.00% | ~80 |
-| Convenient Transport | 3.00% | ~80 |
 | From the Past | 3.00% | ~80 |
 | Oats | 2.00% | ~53 |
 | What They Hide From Us | 2.00% | ~53 |

@@ -11,8 +11,8 @@
 | Sergeant | 31.00% | ~36 |
 | Covert Operative | 29.00% | ~34 |
 | On Target | 25.00% | ~29 |
+| Lieutenant | 24.00% | ~28 |
 | Stocking Up | 24.00% | ~28 |
-| Lieutenant | 23.00% | ~27 |
 | Infantry Reporting | 21.00% | ~25 |
 | Getting Deployment | 20.00% | ~23 |
 | Keeping Busy | 17.00% | ~20 |
@@ -23,12 +23,12 @@
 | Captain | 11.00% | ~13 |
 | Exterminator | 9.00% | ~11 |
 | Moving On Up | 8.00% | ~9 |
+| Player Betrayer | 5.00% | ~6 |
 | Silver Achiever | 5.00% | ~6 |
 | Advanced Warfare | 5.00% | ~6 |
 | Major | 5.00% | ~6 |
 | Battle Ready | 5.00% | ~6 |
 | Know The Enemy | 4.00% | ~5 |
-| Player Betrayer | 4.00% | ~5 |
 | Gold Achiever | 4.00% | ~5 |
 | Colonel | 4.00% | ~5 |
 | Control the Skies | 4.00% | ~5 |

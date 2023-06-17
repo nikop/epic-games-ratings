@@ -13,16 +13,17 @@
 | Rambo I | 21.00% | ~10 |
 | 10Gb HDD | 21.00% | ~10 |
 | The Vette | 17.00% | ~8 |
+| Almost There I | 15.00% | ~7 |
 | Mega Kill | 13.00% | ~6 |
-| Almost There I | 13.00% | ~6 |
-| Stoic | 11.00% | ~5 |
+| Stoic | 13.00% | ~6 |
+| Bronze Prince of Ball-air | 9.00% | ~4 |
 | Omicron Alpha | 9.00% | ~4 |
-| Bronze Prince of Ball-air | 6.00% | ~3 |
-| Pacifist | 6.00% | ~3 |
+| Pacifist | 9.00% | ~4 |
+| Galactic Cadet | 6.00% | ~3 |
 | Collateral Damage I | 6.00% | ~3 |
 | Hoarder | 4.00% | ~2 |
 | Defrosted | 4.00% | ~2 |
-| Galactic Cadet | 4.00% | ~2 |
+| 25Gb HDD | 4.00% | ~2 |
 | Bronze Foundation | 2.00% | ~1 |
 | System Ensign | 2.00% | ~1 |
 | Sectoral Ensign | 2.00% | ~1 |
@@ -48,7 +49,6 @@
 | Usurper II | 2.00% | ~1 |
 | Unstoppable | 2.00% | ~1 |
 | Flower Power | 2.00% | ~1 |
-| 25Gb HDD | 2.00% | ~1 |
 | 50Gb HDD | 2.00% | ~1 |
 | Galactic Lieutenant | 2.00% | ~1 |
 | Silver Prince of Ball-air | 2.00% | ~1 |

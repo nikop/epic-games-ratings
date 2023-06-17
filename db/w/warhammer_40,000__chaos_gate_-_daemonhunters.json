@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2904,
+  "EOS_Progressed": 2905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-06-17T12:07:49.582462+00:00",
       "NumProgressed": 2904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T17:07:11.9037204+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1905,7 +1910,7 @@
       "Name": "Look Over There!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "BloodAndIron",
@@ -1977,7 +1982,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2057,7 +2062,7 @@
       "Name": "Not So Fast...",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "Kills_Bleed",
@@ -2081,7 +2086,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Kills_Exterminator",
@@ -2113,7 +2118,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "Kills_Streak",
@@ -2153,7 +2158,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2161,7 +2166,7 @@
       "Name": "Nemesis Master",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2169,7 +2174,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MasterOfTheForge",
@@ -2257,7 +2262,7 @@
       "Name": "A Foul Creche",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2360,21 +2365,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2904,
+      "Progressed": 2905,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2904,
+      "Progressed": 2905,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-17T11:59:21.6190284+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:07:17.8028351+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:07:11.9037197+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:20.4895747+00:00",
-  "LastUpdate_Ratings": "2023-06-17T15:59:02.1507691+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:07:17.8028842+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:59:06.953029+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:07:11.9037686+00:00"
 }

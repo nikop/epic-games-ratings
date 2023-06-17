@@ -24,7 +24,7 @@
 | Honk honk! | 51.00% | ~40 |
 | Butcher | 51.00% | ~40 |
 | Spare Ribs | 50.00% | ~39 |
-| My pants squeak when I walk | 47.00% | ~37 |
+| My pants squeak when I walk | 49.00% | ~38 |
 | Thats disgusting! | 47.00% | ~37 |
 | Cockadoodledoo! | 46.00% | ~36 |
 | Surprise!! | 44.00% | ~34 |
@@ -35,13 +35,13 @@
 | You are no match for me, Billy! | 35.00% | ~27 |
 | Catch the bus with me! | 35.00% | ~27 |
 | Karaoke king | 35.00% | ~27 |
+| You can't stop me, bro! | 35.00% | ~27 |
 | I'm going to get a concussion | 33.00% | ~26 |
-| You can't stop me, bro! | 33.00% | ~26 |
-| Meatballs, coming up! | 29.00% | ~23 |
+| Meatballs, coming up! | 31.00% | ~24 |
 | A Megapint...? | 29.00% | ~23 |
 | Another one bites the iron | 27.00% | ~21 |
 | Ripe Meat Off The Bone! | 24.00% | ~19 |
-| Hovering around | 23.00% | ~18 |
+| Hovering around | 24.00% | ~19 |
 | You're not so Big anymore, Boi! | 22.00% | ~17 |
 | Your daily dose of Vitamin C. | 22.00% | ~17 |
 | I cant stand still! | 22.00% | ~17 |
@@ -49,9 +49,9 @@
 | Master Butcher | 18.00% | ~14 |
 | Just wing it! | 18.00% | ~14 |
 | Slimy... yet satisfying | 15.00% | ~12 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~11 |
 | Yeehaw!!! | 14.00% | ~11 |
 | Deal with it | 14.00% | ~11 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~10 |
 | You're looking mozzare-hella good! | 12.00% | ~9 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |
 | Timber! | 10.00% | ~8 |

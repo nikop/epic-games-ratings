@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -443,9 +443,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -626,8 +626,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-17T16:03:43.6413012+00:00",
+  "LastChanged_Achievements": "2023-06-17T17:03:35.8102147+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-17T16:01:08.4153975+00:00",
-  "LastUpdate_Achievements": "2023-06-17T16:03:43.6413241+00:00"
+  "LastUpdate_Ratings": "2023-06-17T17:01:18.6795421+00:00",
+  "LastUpdate_Achievements": "2023-06-17T17:03:35.8102417+00:00"
 }

@@ -16,6 +16,7 @@
 | No, Thanks! | 10.00% | ~70 |
 | Breaking Down Barriers | 10.00% | ~70 |
 | The Prince in Heels | 10.00% | ~70 |
+| Fast Learner | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
@@ -23,11 +24,10 @@
 | The Wicked Twins | 9.00% | ~63 |
 | Honest Mistake | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
-| Fast Learner | 9.00% | ~63 |
+| Check Your Pulse | 9.00% | ~63 |
 | Like Clockwork | 8.00% | ~56 |
 | The Man Who Shattered Time | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
-| Check Your Pulse | 8.00% | ~56 |
 | The Family Fortune | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Street Style | 7.00% | ~49 |

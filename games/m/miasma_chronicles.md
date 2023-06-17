@@ -5,25 +5,25 @@ Rating: 4.34 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,047 |
-| Ranidaphobia | 76.00% | ~875 |
-| Aspiring Editor | 73.00% | ~840 |
+| First Blood | 91.00% | ~1,048 |
+| Ranidaphobia | 76.00% | ~876 |
+| Aspiring Editor | 73.00% | ~841 |
 | Gun for Hire | 68.00% | ~783 |
-| I am the law! | 61.00% | ~702 |
-| Lumberjack | 48.00% | ~552 |
-| Croaked | 44.00% | ~506 |
-| Limp Richard | 42.00% | ~483 |
-| From Darkness to Light | 42.00% | ~483 |
+| I am the law! | 61.00% | ~703 |
+| Lumberjack | 48.00% | ~553 |
+| Croaked | 43.00% | ~495 |
+| Limp Richard | 42.00% | ~484 |
+| From Darkness to Light | 42.00% | ~484 |
 | Editor Adept | 41.00% | ~472 |
 | Exorcist | 41.00% | ~472 |
 | Firestarter | 39.00% | ~449 |
-| Giant Killer | 37.00% | ~426 |
-| Sensei | 36.00% | ~414 |
-| The meaning of Kain | 34.00% | ~391 |
-| Technophobe | 32.00% | ~368 |
-| Recycler | 30.00% | ~345 |
-| Are you not entertained? | 26.00% | ~299 |
-| Jarhead | 26.00% | ~299 |
+| Giant Killer | 38.00% | ~438 |
+| Sensei | 36.00% | ~415 |
+| The meaning of Kain | 34.00% | ~392 |
+| Technophobe | 32.00% | ~369 |
+| Recycler | 30.00% | ~346 |
+| Are you not entertained? | 26.00% | ~300 |
+| Jarhead | 26.00% | ~300 |
 | Ganglord | 25.00% | ~288 |
 | Infiltrator | 25.00% | ~288 |
 | Pushing Daisy | 24.00% | ~276 |
@@ -34,7 +34,7 @@ Rating: 4.34 (Ranked 739)
 | Endgame | 19.00% | ~219 |
 | Savior | 19.00% | ~219 |
 | The Watchers | 16.00% | ~184 |
-| Newtonian Knockout | 15.00% | ~173 |
+| Newtonian Knockout | 14.00% | ~161 |
 | Ruthless | 13.00% | ~150 |
 | Dr Jones | 12.00% | ~138 |
 | Chaos Theory | 11.00% | ~127 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 739)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 174)  
+Progressed: 1,152 (Ranked 174)  
 Completed: 1 (0.09%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.09%) (Ranked 180)
 | 2023-06-14 | 1,127 | 0 |
 | 2023-06-15 | 1,138 | 0 |
 | 2023-06-16 | 1,145 | 1 |
-| 2023-06-17 | 1,151 | 1 |
+| 2023-06-17 | 1,152 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

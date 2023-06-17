@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 547)
 | Meeting Resistance | 31.00% | ~921 |
 | Confirming Suspicions | 26.00% | ~773 |
 | The Kraken Wakes | 21.00% | ~624 |
-| It's Starting to Crack | 18.00% | ~535 |
+| It's Starting to Crack | 19.00% | ~565 |
 | Lord of War | 16.00% | ~476 |
 | Change the Channel | 16.00% | ~476 |
 | Resourceful | 14.00% | ~416 |
@@ -59,8 +59,8 @@ Rating: 4.50 (Ranked 547)
 | Can't Outrun A Bullet | 0.50% | ~15 |
 | If You Go Down To The Woods Today | 0.50% | ~15 |
 | Sight Beyond Sights | 0.40% | ~12 |
+| Führerious Repetition | 0.40% | ~12 |
 | Reich To The Point | 0.40% | ~12 |
-| Führerious Repetition | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |

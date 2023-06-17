@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~111 |
+| Brace for impact! | 34.00% | ~112 |
 | Baby's First Car | 32.00% | ~105 |
 | Pushover | 32.00% | ~105 |
-| Amateur Mechanic | 31.00% | ~101 |
-| A Forest Walk | 31.00% | ~101 |
+| Amateur Mechanic | 31.00% | ~102 |
+| A Forest Walk | 31.00% | ~102 |
 | C-C-C-Combo! | 29.00% | ~95 |
 | Multiply that! | 29.00% | ~95 |
-| Fore! | 27.00% | ~88 |
-| Insurance fraud | 27.00% | ~88 |
-| Snow Fun! | 27.00% | ~88 |
+| Fore! | 27.00% | ~89 |
+| Insurance fraud | 27.00% | ~89 |
+| Snow Fun! | 27.00% | ~89 |
 | The Collector | 26.00% | ~85 |
 | To and Fro | 25.00% | ~82 |
 | The Wild West | 25.00% | ~82 |
@@ -21,16 +21,16 @@
 | I see the light! | 25.00% | ~82 |
 | In the Bag! | 25.00% | ~82 |
 | You're it | 25.00% | ~82 |
-| First Come, First Serve | 24.00% | ~78 |
-| Disoriented | 24.00% | ~78 |
-| Take that Frosty! | 24.00% | ~78 |
-| Goodbye cruel world | 24.00% | ~78 |
-| Beach Party! | 24.00% | ~78 |
+| First Come, First Serve | 24.00% | ~79 |
+| Take that Frosty! | 24.00% | ~79 |
+| Goodbye cruel world | 24.00% | ~79 |
+| Beach Party! | 24.00% | ~79 |
 | Car-Tapult | 23.00% | ~75 |
+| Disoriented | 23.00% | ~75 |
 | Anger Issues | 23.00% | ~75 |
 | Your Highness | 22.00% | ~72 |
 | Event Amateur | 21.00% | ~69 |
-| Feeling Dizzy? | 20.00% | ~65 |
+| Feeling Dizzy? | 20.00% | ~66 |
 | Drift King! | 19.00% | ~62 |
 | Feeling Hot Hot Hot! | 19.00% | ~62 |
 | Ferry Good! | 19.00% | ~62 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 230)  
+Progressed: 328 (Ranked 230)  
 Completed: 2 (0.61%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 2 (0.61%) (Ranked 116)
 | 2023-06-08 | 324 | 2 |
 | 2023-06-11 | 325 | 2 |
 | 2023-06-13 | 326 | 2 |
-| 2023-06-17 | 327 | 2 |
+| 2023-06-17 | 328 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,858 |
-| My First Runbow | 50.00% | ~122,508 |
-| It's The Fall | 26.00% | ~63,704 |
-| The Stunner | 21.00% | ~51,453 |
-| Be Aggressive | 20.00% | ~49,003 |
-| Curator | 20.00% | ~49,003 |
-| Crowning Around | 18.00% | ~44,103 |
+| In The Zone | 53.00% | ~129,861 |
+| My First Runbow | 50.00% | ~122,510 |
+| It's The Fall | 26.00% | ~63,705 |
+| The Stunner | 21.00% | ~51,454 |
+| Be Aggressive | 20.00% | ~49,004 |
+| Curator | 20.00% | ~49,004 |
+| Crowning Around | 18.00% | ~44,104 |
 | Can You Dig It? | 17.00% | ~41,653 |
-| You Juan-A-Go? | 16.00% | ~39,202 |
-| Chan-tastic | 15.00% | ~36,752 |
-| Muddy Waters | 14.00% | ~34,302 |
-| Toasty! | 13.00% | ~31,852 |
-| Lazy Laser | 8.00% | ~19,601 |
+| You Juan-A-Go? | 16.00% | ~39,203 |
+| Chan-tastic | 15.00% | ~36,753 |
+| Muddy Waters | 14.00% | ~34,303 |
+| Toasty! | 13.00% | ~31,853 |
+| Lazy Laser | 8.00% | ~19,602 |
 | Into The Drift | 7.00% | ~17,151 |
 | Ready? Fight! | 7.00% | ~17,151 |
 | Just A Phaze | 6.00% | ~14,701 |
 | Butt Butt | 6.00% | ~14,701 |
-| He Who Laughs Last | 3.00% | ~7,350 |
-| Shoo, Cat! | 3.00% | ~7,350 |
+| He Who Laughs Last | 3.00% | ~7,351 |
+| Shoo, Cat! | 3.00% | ~7,351 |
 | And You're Okay | 2.00% | ~4,900 |
 | Blotbuster | 2.00% | ~4,900 |
 | Just A Bit | 1.00% | ~2,450 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,015 (Ranked 43)  
+Progressed: 245,020 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.00%) (Ranked 228)
 | 2023-06-14 | 244,833 | 3 |
 | 2023-06-15 | 244,894 | 3 |
 | 2023-06-16 | 244,965 | 3 |
-| 2023-06-17 | 245,015 | 3 |
+| 2023-06-17 | 245,020 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
