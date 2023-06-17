@@ -6,56 +6,56 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,767 |
-| Beast Intentions | 2.00% | ~1,907 |
-| The Cursed Farmer | 2.00% | ~1,907 |
-| The Mad Wizard | 2.00% | ~1,907 |
-| The Ring of Regeneration | 1.00% | ~953 |
-| Were-verpowered | 0.90% | ~858 |
-| Seeking Allies | 0.90% | ~858 |
-| Are Ya Chicken? | 0.90% | ~858 |
+| A Brief Tour of the Realms | 5.00% | ~4,772 |
+| Beast Intentions | 2.00% | ~1,909 |
+| The Cursed Farmer | 2.00% | ~1,909 |
+| The Mad Wizard | 2.00% | ~1,909 |
+| The Ring of Regeneration | 1.00% | ~954 |
+| Were-verpowered | 0.90% | ~859 |
+| Seeking Allies | 0.90% | ~859 |
+| Are Ya Chicken? | 0.90% | ~859 |
 | The Court of Storms | 0.90% | ~555 |
 | Mad Cow Disease | 0.80% | ~763 |
 | Friendly Imps | 0.80% | ~763 |
-| Beware the Jabberwock | 0.80% | ~493 |
-| A Persistent Buzzing | 0.70% | ~667 |
-| Pure Energy | 0.70% | ~667 |
-| Terror in the Dark | 0.60% | ~572 |
-| A Mysterious Summons | 0.60% | ~572 |
-| Unearthed Evil | 0.60% | ~572 |
-| The Crumbling Temple | 0.60% | ~572 |
-| Exploring Port Nyanzaru | 0.60% | ~572 |
+| Beware the Jabberwock | 0.80% | ~494 |
+| A Persistent Buzzing | 0.70% | ~668 |
+| Pure Energy | 0.70% | ~668 |
+| Terror in the Dark | 0.60% | ~573 |
+| A Mysterious Summons | 0.60% | ~573 |
+| Unearthed Evil | 0.60% | ~573 |
+| The Crumbling Temple | 0.60% | ~573 |
+| Exploring Port Nyanzaru | 0.60% | ~573 |
 | Coasting to the Finish | 0.60% | ~370 |
 | Maddening | 0.50% | ~477 |
-| Checkmate | 0.50% | ~308 |
-| Vecna Out! | 0.50% | ~308 |
+| Checkmate | 0.50% | ~309 |
+| Vecna Out! | 0.50% | ~309 |
 | Beast Mode | 0.50% | ~477 |
+| Low Initiative | 0.50% | ~477 |
 | Building Trust | 0.50% | ~477 |
 | Useless Allies | 0.50% | ~477 |
 | Running of the Saurs | 0.50% | ~477 |
 | The Contagious Curse | 0.50% | ~477 |
 | Escort to Waterdeep | 0.50% | ~477 |
 | Waterdeep Detours | 0.50% | ~477 |
-| Quick or Quack | 0.50% | ~308 |
-| The Silken Swamp | 0.40% | ~381 |
-| Owlbear Necessities | 0.40% | ~246 |
-| Best Thay Ever | 0.40% | ~246 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~246 |
-| Pin and Skewer | 0.40% | ~246 |
-| Low Initiative | 0.40% | ~381 |
-| Street War | 0.40% | ~381 |
-| March of the Undead | 0.40% | ~381 |
-| No Time To Rest | 0.40% | ~381 |
-| The Dinner Party | 0.40% | ~381 |
-| The Botched Kidnapping | 0.40% | ~381 |
-| The Death Curse | 0.40% | ~381 |
-| Premature Betrayal | 0.40% | ~381 |
-| Flying Monkey Skulls of Doom | 0.40% | ~381 |
-| Constant Banditry | 0.40% | ~381 |
-| Underdeep Cartography | 0.40% | ~381 |
-| Overdue Rendezvous | 0.40% | ~381 |
-| The Templar's Camp | 0.40% | ~381 |
-| Rescue in the Jungle | 0.40% | ~381 |
+| Quick or Quack | 0.50% | ~309 |
+| The Silken Swamp | 0.40% | ~382 |
+| Owlbear Necessities | 0.40% | ~247 |
+| Best Thay Ever | 0.40% | ~247 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~247 |
+| Pin and Skewer | 0.40% | ~247 |
+| Street War | 0.40% | ~382 |
+| March of the Undead | 0.40% | ~382 |
+| No Time To Rest | 0.40% | ~382 |
+| The Dinner Party | 0.40% | ~382 |
+| The Botched Kidnapping | 0.40% | ~382 |
+| The Death Curse | 0.40% | ~382 |
+| Premature Betrayal | 0.40% | ~382 |
+| Flying Monkey Skulls of Doom | 0.40% | ~382 |
+| Constant Banditry | 0.40% | ~382 |
+| Underdeep Cartography | 0.40% | ~382 |
+| Overdue Rendezvous | 0.40% | ~382 |
+| The Templar's Camp | 0.40% | ~382 |
+| Rescue in the Jungle | 0.40% | ~382 |
 | Pros and CONs | 0.30% | ~286 |
 | Tall Tales | 0.30% | ~185 |
 | Third Third Out | 0.30% | ~185 |
@@ -136,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Blast the Brigands | 0.20% | ~123 |
 | Don't Squeeze the Spiders | 0.20% | ~123 |
 | The Spire of Iriolarthas | 0.20% | ~123 |
+| The Fall of Ythryn | 0.20% | ~123 |
 | The Prince of a Thousand Enemies | 0.20% | ~123 |
 | Uncommon Allies | 0.20% | ~123 |
 | The Birds | 0.20% | ~123 |
@@ -150,6 +151,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~123 |
 | Zarak's Revenge | 0.20% | ~123 |
 | Bully for You! | 0.20% | ~123 |
+| The Dark Heart | 0.20% | ~123 |
 | Hatchlings Underfoot | 0.20% | ~191 |
 | Don't Look Up! | 0.20% | ~191 |
 | Will of the Feywild | 0.20% | ~123 |
@@ -199,6 +201,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Band | 0.20% | ~123 |
 | Periodic Petrification | 0.20% | ~191 |
 | No Good at All | 0.20% | ~191 |
+| Fall From Grace | 0.20% | ~191 |
 | Home Field Advantage | 0.20% | ~191 |
 | Double Vision | 0.20% | ~191 |
 | Underground Railroad | 0.20% | ~191 |
@@ -397,10 +400,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~62 |
 | And Your Enemies Closer | 0.10% | ~62 |
 | Always Watching | 0.10% | ~62 |
-| The Fall of Ythryn | 0.10% | ~62 |
 | Icequake | 0.10% | ~62 |
 | A Lesson in Classes | 0.10% | ~62 |
-| The Dark Heart | 0.10% | ~62 |
 | Undergeared | 0.10% | ~62 |
 | Underdark Chill | 0.10% | ~62 |
 | The Alien Underdark | 0.10% | ~62 |
@@ -422,7 +423,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~62 |
 | A Nimble Approach | 0.10% | ~62 |
 | The Egg of Nat's Desire | 0.10% | ~62 |
-| Fall From Grace | 0.10% | ~95 |
 | Acererak's Puzzle | 0.10% | ~62 |
 | Drop of Time | 0.10% | ~62 |
 | They Who Smelt It | 0.10% | ~95 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~62 |
 | Ineffectual Intellectuals | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,341 (Ranked 63)  
-Completed: 1,945 (2.04%) (Ranked 72)  
+Progressed: 95,433 (Ranked 63)  
+Completed: 1,946 (2.04%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -558,7 +558,7 @@ Completed: 1,945 (2.04%) (Ranked 72)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 95,341 | 1,945 |
+| 2023-06-17 | 95,433 | 1,946 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

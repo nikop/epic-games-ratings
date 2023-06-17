@@ -15,16 +15,16 @@
 | The Veteran | 18.00% | ~80 |
 | The Traitor | 14.00% | ~62 |
 | The Spider | 14.00% | ~62 |
-| Good as Fish | 9.00% | ~40 |
+| Good as Fish | 10.00% | ~44 |
 | Her Eyes | 9.00% | ~40 |
 | He's so Annoying | 8.00% | ~36 |
 | Murderer | 8.00% | ~36 |
 | Gollum/Sméagol | 7.00% | ~31 |
 | Trigger-Happy | 7.00% | ~31 |
 | The Friend | 6.00% | ~27 |
+| Made a Song | 5.00% | ~22 |
 | Master of the Old Game | 4.00% | ~18 |
 | So Silly! | 4.00% | ~18 |
-| Made a Song | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |
 | Break a Leg! | 2.00% | ~9 |
 | And now we wish... | 2.00% | ~9 |

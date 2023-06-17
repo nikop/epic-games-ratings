@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-06-17T15:02:09.2097214+00:00",
       "NumProgressed": 520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T16:02:20.9701622+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1019,7 +1024,7 @@
       "Name": "Augmented",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1033,17 +1038,17 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHV_CITY",
@@ -1051,7 +1056,7 @@
       "Name": "The City",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1139,7 +1144,7 @@
       "Name": "Nanonic II",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -1155,15 +1160,15 @@
       "Name": "Outer Core",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHV_ROOKIE",
@@ -1177,9 +1182,9 @@
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -1187,7 +1192,7 @@
       "Name": "Terminated I",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1195,7 +1200,7 @@
       "Name": "Terminated II",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1219,7 +1224,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1242,7 +1247,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 0
     }
   ],
@@ -1250,8 +1255,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-17T15:02:09.2097208+00:00",
+  "LastChanged_Achievements": "2023-06-17T16:02:20.9701618+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:59:22.8635243+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:02:09.2097482+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:00:12.8341225+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:02:20.970183+00:00"
 }

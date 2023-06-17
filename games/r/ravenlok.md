@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 97.00% | ~975 |
-| Waff! | 95.00% | ~955 |
-| Into the Barn | 86.00% | ~864 |
-| A Prophecy | 85.00% | ~854 |
+| Once Upon a Time | 96.00% | ~966 |
+| Waff! | 94.00% | ~946 |
+| Into the Barn | 86.00% | ~865 |
+| A Prophecy | 85.00% | ~855 |
 | Sword, Shield, Fight! | 75.00% | ~754 |
 | A Grand Visit | 71.00% | ~714 |
-| Fun Guy | 62.00% | ~623 |
-| Vibing | 61.00% | ~613 |
+| Fun Guy | 62.00% | ~624 |
+| Vibing | 61.00% | ~614 |
 | Tragic Brave | 53.00% | ~533 |
-| Awakened Spirits | 50.00% | ~502 |
-| Little Shop | 49.00% | ~492 |
-| Surprise! | 45.00% | ~452 |
-| An Actor! | 45.00% | ~452 |
-| Curtain Call | 43.00% | ~432 |
+| Awakened Spirits | 50.00% | ~503 |
+| Little Shop | 49.00% | ~493 |
+| Surprise! | 45.00% | ~453 |
+| An Actor! | 45.00% | ~453 |
+| Curtain Call | 43.00% | ~433 |
 | Piece of Cake | 41.00% | ~412 |
 | Glimmer of Hope | 41.00% | ~412 |
 | Gooey Delight! | 40.00% | ~402 |
@@ -38,24 +38,24 @@
 | Stardust | 35.00% | ~352 |
 | Heartbreaker | 35.00% | ~352 |
 | Kidnapped! | 35.00% | ~352 |
-| Trick Question! | 34.00% | ~342 |
 | Pull the Plug | 33.00% | ~332 |
 | Soul Slayer | 33.00% | ~332 |
 | The Downfall | 33.00% | ~332 |
 | All Heart | 33.00% | ~332 |
+| Trick Question! | 33.00% | ~332 |
 | Final Showdown | 33.00% | ~332 |
 | Spot of Tea? | 33.00% | ~332 |
 | Going Home | 33.00% | ~332 |
 | Extraordinary! | 31.00% | ~312 |
 | Mirror, Mirror | 30.00% | ~302 |
-| Flower Power | 27.00% | ~271 |
+| Flower Power | 27.00% | ~272 |
 | Shopping Spree! | 24.00% | ~241 |
 | Crowned | 22.00% | ~221 |
 | Max Level! | 15.00% | ~151 |
-| Dance Master | 9.00% | ~90 |
-| Bombs Away! | 9.00% | ~90 |
+| Dance Master | 9.00% | ~91 |
+| Bombs Away! | 9.00% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,005 (Ranked 182)  
+Progressed: 1,006 (Ranked 182)  
 Completed: 71 (7.06%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 71 (7.06%) (Ranked 27)
 | 2023-06-14 | 998 | 70 |
 | 2023-06-15 | 1,001 | 71 |
 | 2023-06-16 | 1,004 | 71 |
-| 2023-06-17 | 1,005 | 71 |
+| 2023-06-17 | 1,006 | 71 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

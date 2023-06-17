@@ -15,11 +15,11 @@ Rating: 4.89 (Ranked 13)
 | Perfect Parry | 53.00% | ~1,727 |
 | Alright, that felt AWESOME! | 53.00% | ~1,727 |
 | I play my own way! | 49.00% | ~1,597 |
-| This will cost you big time | 46.00% | ~1,499 |
+| This will cost you big time | 47.00% | ~1,532 |
 | Uh, they were broken when I got here | 45.00% | ~1,467 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,434 |
 | Kissing the sky! | 43.00% | ~1,401 |
-| Does that say weakpoint? | 40.00% | ~1,304 |
+| Does that say weakpoint? | 41.00% | ~1,336 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,271 |
 | The Negotiator | 37.00% | ~1,206 |
 | You must like calling me in, Chai | 32.00% | ~1,043 |

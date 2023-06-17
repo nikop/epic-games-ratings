@@ -10,7 +10,7 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 57.00% | ~156 |
 | Mushroom Picker | 55.00% | ~151 |
 | Scrapper | 47.00% | ~129 |
-| Cook | 41.00% | ~112 |
+| Cook | 42.00% | ~115 |
 | Teleport | 41.00% | ~112 |
 | Scrap Master | 38.00% | ~104 |
 | Smelter | 36.00% | ~99 |

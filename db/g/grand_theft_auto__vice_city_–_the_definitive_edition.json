@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -442,9 +442,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 8583,
+  "EOS_Progressed": 8584,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4857,6 +4857,11 @@
       "Time": "2023-06-17T14:02:03.9158546+00:00",
       "NumProgressed": 8583,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-17T16:01:37.2217218+00:00",
+      "NumProgressed": 8584,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 34,
@@ -4884,7 +4889,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH04",
@@ -4908,7 +4913,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH07",
@@ -4916,7 +4921,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH08",
@@ -4924,7 +4929,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH09",
@@ -4972,7 +4977,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "ACH15",
@@ -5012,7 +5017,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH20",
@@ -5139,7 +5144,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8583,
+      "Progressed": 8584,
       "Completed": 35
     }
   ],
@@ -5147,8 +5152,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-17T15:00:27.7142899+00:00",
+  "LastChanged_Achievements": "2023-06-17T16:01:37.2217213+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:58:13.6894084+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:00:27.7143508+00:00"
+  "LastUpdate_Ratings": "2023-06-17T15:58:32.0285961+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:01:37.2217698+00:00"
 }

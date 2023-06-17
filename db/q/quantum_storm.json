@@ -4,7 +4,7 @@
   "ProductSlug": "quantum-storm-3d80ad",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.3175487+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:59:38.9169405+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:00:31.3542405+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:00:31.945985+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:02:12.059012+00:00"
 }

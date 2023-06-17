@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -232,10 +232,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4704,
+  "EOS_Progressed": 4705,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 198,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -4082,6 +4082,11 @@
       "Time": "2023-06-17T15:04:37.4242017+00:00",
       "NumProgressed": 4704,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-17T16:05:28.1104248+00:00",
+      "NumProgressed": 4705,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4133,7 +4138,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "15",
@@ -4141,7 +4146,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "16",
@@ -4205,7 +4210,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "23",
@@ -4213,7 +4218,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "24",
@@ -4221,15 +4226,15 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3482
     },
     {
       "ID": "26",
@@ -4237,7 +4242,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "27",
@@ -4245,7 +4250,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "28",
@@ -4261,7 +4266,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "3",
@@ -4333,7 +4338,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "38",
@@ -4444,13 +4449,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4704,
-      "Completed": 4704
+      "Progressed": 4705,
+      "Completed": 4705
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4704,
+      "Progressed": 4705,
       "Completed": 3
     }
   ],
@@ -4458,8 +4463,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-17T15:04:37.4242011+00:00",
+  "LastChanged_Achievements": "2023-06-17T16:05:28.1104243+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:59:14.4069396+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:04:37.4242584+00:00"
+  "LastUpdate_Ratings": "2023-06-17T15:59:59.8920001+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:05:28.1104709+00:00"
 }

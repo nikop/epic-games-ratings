@@ -196,9 +196,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "comedy_killer",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-17T15:05:48.7446805+00:00",
+  "LastChanged_Achievements": "2023-06-17T16:07:04.9772486+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4409557+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:59:40.5771531+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:05:48.7446951+00:00"
+  "LastUpdate_Ratings": "2023-06-17T16:00:34.8466789+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:07:04.9772606+00:00"
 }

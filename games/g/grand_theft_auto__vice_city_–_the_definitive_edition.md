@@ -1,19 +1,19 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 363)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 44.00% | ~3,777 |
-| Greasy Palms | 40.00% | ~3,433 |
+| Greasy Palms | 40.00% | ~3,434 |
 | South American Connection | 24.00% | ~2,060 |
 | Life of the Party | 18.00% | ~1,545 |
 | Tommy Two-Wheels | 14.00% | ~1,202 |
 | Big Heat from Little Havana | 13.00% | ~1,116 |
 | Chauffeur | 13.00% | ~1,116 |
 | Salutations My Little Friend | 10.00% | ~858 |
-| Iron-y | 9.00% | ~772 |
+| Iron-y | 9.00% | ~773 |
 | Gun for Hire | 8.00% | ~687 |
 | Mischief Managed | 7.00% | ~601 |
 | Vice City Mogul | 6.00% | ~515 |
@@ -21,10 +21,10 @@ Rating: 4.61 (Ranked 362)
 | Catch Me if You Can | 5.00% | ~429 |
 | Grand Theft Auto | 5.00% | ~429 |
 | Not my First Time | 4.00% | ~343 |
-| Point A to Point B | 3.00% | ~257 |
-| High Quality H2O | 3.00% | ~257 |
-| Pie Guy | 3.00% | ~257 |
-| Don't Need Roads | 3.00% | ~257 |
+| Point A to Point B | 3.00% | ~258 |
+| High Quality H2O | 3.00% | ~258 |
+| Pie Guy | 3.00% | ~258 |
+| Don't Need Roads | 3.00% | ~258 |
 | Running Rampant | 2.00% | ~172 |
 | Bull in a China Shop | 2.00% | ~172 |
 | Somebody Call the Wambulance? | 2.00% | ~172 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 362)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,583 (Ranked 117)  
+Progressed: 8,584 (Ranked 117)  
 Completed: 35 (0.41%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 35 (0.41%) (Ranked 129)
 | 2023-06-14 | 8,456 | 31 |
 | 2023-06-15 | 8,528 | 32 |
 | 2023-06-16 | 8,563 | 34 |
-| 2023-06-17 | 8,583 | 35 |
+| 2023-06-17 | 8,584 | 35 |
 ## Awards
 Max (Great Boss Battles): 55  (Ranked 387)  
 Sum: 55 (Ranked 438)  

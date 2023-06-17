@@ -14,8 +14,8 @@ Rating: 4.34 (Ranked 739)
 | Croaked | 44.00% | ~506 |
 | Limp Richard | 42.00% | ~483 |
 | From Darkness to Light | 42.00% | ~483 |
+| Editor Adept | 41.00% | ~472 |
 | Exorcist | 41.00% | ~472 |
-| Editor Adept | 40.00% | ~460 |
 | Firestarter | 39.00% | ~449 |
 | Giant Killer | 37.00% | ~426 |
 | Sensei | 36.00% | ~414 |
@@ -23,8 +23,8 @@ Rating: 4.34 (Ranked 739)
 | Technophobe | 32.00% | ~368 |
 | Recycler | 30.00% | ~345 |
 | Are you not entertained? | 26.00% | ~299 |
+| Jarhead | 26.00% | ~299 |
 | Ganglord | 25.00% | ~288 |
-| Jarhead | 25.00% | ~288 |
 | Infiltrator | 25.00% | ~288 |
 | Pushing Daisy | 24.00% | ~276 |
 | Experienced | 22.00% | ~253 |

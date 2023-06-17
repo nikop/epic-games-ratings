@@ -5,37 +5,37 @@ Rating: 4.05 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,332 |
-| World Map | 80.00% | ~1,134 |
-| Temple of Eternals | 57.00% | ~808 |
-| Prestigious | 53.00% | ~751 |
-| Fellowship Power | 41.00% | ~581 |
-| Guild Power | 24.00% | ~340 |
+| Victor | 94.00% | ~1,335 |
+| World Map | 80.00% | ~1,136 |
+| Temple of Eternals | 57.00% | ~809 |
+| Prestigious | 53.00% | ~753 |
+| Fellowship Power | 41.00% | ~582 |
+| Guild Power | 24.00% | ~341 |
 | Prestigious x10 | 21.00% | ~298 |
-| The game is on | 19.00% | ~269 |
+| The game is on | 19.00% | ~270 |
 | Exotic Merchant | 17.00% | ~241 |
 | Dragon Clicker | 16.00% | ~227 |
 | Miner Clicker | 16.00% | ~227 |
 | Inspection | 15.00% | ~213 |
-| Full Party | 14.00% | ~198 |
-| Dragon Master | 13.00% | ~184 |
-| Enlightenment | 13.00% | ~184 |
-| Hero inspection | 13.00% | ~184 |
-| Lieutenant | 13.00% | ~184 |
-| Mysterious Rock | 12.00% | ~170 |
+| Full Party | 14.00% | ~199 |
+| Dragon Master | 13.00% | ~185 |
+| Enlightenment | 13.00% | ~185 |
+| Hero inspection | 13.00% | ~185 |
+| Lieutenant | 13.00% | ~185 |
 | Natural Talent | 12.00% | ~170 |
-| Superior | 12.00% | ~170 |
 | The Unstoppable | 12.00% | ~170 |
 | Milestone collector | 11.00% | ~156 |
+| Mysterious Rock | 11.00% | ~156 |
+| Superior | 11.00% | ~156 |
 | Scientist | 10.00% | ~142 |
-| Challenger | 8.00% | ~113 |
-| Daily Quest Completionist | 8.00% | ~113 |
-| Doing My Part | 8.00% | ~113 |
-| Hunter | 8.00% | ~113 |
-| Mastery | 8.00% | ~113 |
-| Relic Of The Past | 8.00% | ~113 |
-| Scroll Master | 8.00% | ~113 |
-| The power of Awakening | 8.00% | ~113 |
+| Challenger | 8.00% | ~114 |
+| Daily Quest Completionist | 8.00% | ~114 |
+| Doing My Part | 8.00% | ~114 |
+| Hunter | 8.00% | ~114 |
+| Mastery | 8.00% | ~114 |
+| Relic Of The Past | 8.00% | ~114 |
+| Scroll Master | 8.00% | ~114 |
+| The power of Awakening | 8.00% | ~114 |
 | Four Leaf Clover | 7.00% | ~99 |
 | Frostfire Liberator | 7.00% | ~99 |
 | Moving Up The Ladder | 7.00% | ~99 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,417 (Ranked 166)  
+Progressed: 1,420 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-14 | 1,396 | 1 |
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
-| 2023-06-17 | 1,417 | 1 |
+| 2023-06-17 | 1,420 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

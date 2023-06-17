@@ -1,41 +1,41 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 515)  
+Rating: 4.52 (Ranked 514)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,659 |
-| Resurgence | 1.00% | ~5,659 |
-| Preemptive Strike | 1.00% | ~5,659 |
-| Humanitarian | 1.00% | ~5,659 |
-| Close Shave | 0.90% | ~5,093 |
-| Wounded Healer | 0.80% | ~4,527 |
-| Unforgettable Getaway | 0.70% | ~3,961 |
-| Flight to Freedom | 0.70% | ~3,961 |
-| First to the Punch | 0.60% | ~3,395 |
-| Old West Oasis | 0.60% | ~3,395 |
-| Every Last Drop | 0.60% | ~3,395 |
-| With Scars to Show | 0.60% | ~3,395 |
-| Cutting Out | 0.50% | ~2,829 |
-| Operation: Survival | 0.50% | ~2,829 |
-| Classy Act | 0.50% | ~2,829 |
-| Raccoon City Recruit | 0.50% | ~2,829 |
-| A Fast Death | 0.50% | ~2,829 |
-| Lifting The Fog | 0.50% | ~2,829 |
-| Chorus of Chaos | 0.50% | ~2,829 |
-| Ancestor's Rite | 0.40% | ~2,264 |
-| Outrun Evil | 0.40% | ~2,264 |
-| Grim Pilgrimage | 0.40% | ~2,264 |
-| End of Days | 0.40% | ~2,264 |
-| Devoted Gatekeeping | 0.30% | ~1,698 |
-| Shrine Apparatus | 0.30% | ~1,698 |
-| Broken Bodies | 0.30% | ~1,698 |
-| Selfless Survival | 0.30% | ~1,698 |
-| I See You | 0.30% | ~1,698 |
-| Insult and Injury | 0.30% | ~1,698 |
-| Outrun the Overlap | 0.30% | ~1,698 |
+| Healthy Obsession | 1.00% | ~5,662 |
+| Resurgence | 1.00% | ~5,662 |
+| Preemptive Strike | 1.00% | ~5,662 |
+| Humanitarian | 1.00% | ~5,662 |
+| Wounded Healer | 0.90% | ~5,096 |
+| Close Shave | 0.90% | ~5,096 |
+| Flight to Freedom | 0.80% | ~4,529 |
+| Unforgettable Getaway | 0.70% | ~3,963 |
+| Old West Oasis | 0.70% | ~3,963 |
+| First to the Punch | 0.60% | ~3,397 |
+| Every Last Drop | 0.60% | ~3,397 |
+| With Scars to Show | 0.60% | ~3,397 |
+| Cutting Out | 0.50% | ~2,831 |
+| Operation: Survival | 0.50% | ~2,831 |
+| Classy Act | 0.50% | ~2,831 |
+| Raccoon City Recruit | 0.50% | ~2,831 |
+| A Fast Death | 0.50% | ~2,831 |
+| Lifting The Fog | 0.50% | ~2,831 |
+| Chorus of Chaos | 0.50% | ~2,831 |
+| Ancestor's Rite | 0.40% | ~2,265 |
+| Outrun Evil | 0.40% | ~2,265 |
+| Grim Pilgrimage | 0.40% | ~2,265 |
+| End of Days | 0.40% | ~2,265 |
+| Devoted Gatekeeping | 0.30% | ~1,699 |
+| Shrine Apparatus | 0.30% | ~1,699 |
+| Broken Bodies | 0.30% | ~1,699 |
+| Selfless Survival | 0.30% | ~1,699 |
+| I See You | 0.30% | ~1,699 |
+| Insult and Injury | 0.30% | ~1,699 |
+| Outrun the Overlap | 0.30% | ~1,699 |
 | Heavy Burden | 0.20% | ~1,132 |
 | Death of Ignorance | 0.20% | ~1,132 |
 | Power Moves | 0.20% | ~1,132 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~566 |
 | Adept Gabriel | 0.10% | ~566 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 565,897 (Ranked 26)  
+Progressed: 566,172 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 42 (0.01%) (Ranked 215)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 565,897 | 42 |
+| 2023-06-17 | 566,172 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
-Sum: 228,062 (Ranked 12)  
+Sum: 228,087 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 4
 | This game has Quickly Understood Controls | 25,574 |
 | This game has Challenging Combat | 24,955 |
 | This game has Amazing Storytelling | 23,489 |
-| This game has a Competitive Community | 21,762 |
+| This game has a Competitive Community | 21,787 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -450,4 +450,4 @@ Diff (max vs sum): 4
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
 | 2023-06-15 | 4.52 | - | 28,513 | 227,631 |
 | 2023-06-16 | 4.52 | - | 28,559 | 227,936 |
-| 2023-06-17 | 4.52 | - | 28,559 | 228,062 |
+| 2023-06-17 | 4.52 | - | 28,559 | 228,087 |

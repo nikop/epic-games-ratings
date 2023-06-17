@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-06-17T11:06:52.7418333+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T16:06:50.9177818+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -569,7 +574,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ACT10",
@@ -577,7 +582,7 @@
       "Name": "So Close",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ACT11",
@@ -585,7 +590,7 @@
       "Name": "Transformers, cubes in disguise",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ACT12",
@@ -609,7 +614,7 @@
       "Name": "Final Charge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ACT15",
@@ -617,7 +622,7 @@
       "Name": "Cataclysm",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ACT16",
@@ -631,9 +636,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ACT3",
@@ -657,7 +662,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_ACT6",
@@ -679,9 +684,9 @@
       "ID": "ACH_ACT8",
       "SetID": "2310cb1",
       "Name": "Bad Robots",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT9",
@@ -737,7 +742,7 @@
       "Name": "Handyman",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_LOOPER",
@@ -761,7 +766,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -784,7 +789,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 0
     }
   ],
@@ -792,8 +797,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-17T15:05:37.6657374+00:00",
+  "LastChanged_Achievements": "2023-06-17T16:06:50.9177813+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.4396906+00:00",
-  "LastUpdate_Ratings": "2023-06-17T14:57:31.7667703+00:00",
-  "LastUpdate_Achievements": "2023-06-17T15:05:37.6657603+00:00"
+  "LastUpdate_Ratings": "2023-06-17T15:57:33.6765377+00:00",
+  "LastUpdate_Achievements": "2023-06-17T16:06:50.9178132+00:00"
 }

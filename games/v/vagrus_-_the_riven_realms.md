@@ -17,17 +17,17 @@
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
-| Bounty Hunter | 1.00% | ~1 |
-| Loremaster | 1.00% | ~1 |
-| Xevarian Gambit | 1.00% | ~1 |
-| Harbinger | 1.00% | ~1 |
-| Courier | 1.00% | ~1 |
-| The Voice of Hereafter | 1.00% | ~1 |
-| Acquaintance | 1.00% | ~1 |
-| Tail-wind | 1.00% | ~1 |
-| Taskmaster | 1.00% | ~1 |
-| Merchant | 1.00% | ~1 |
-| Trouble at Fort Larius | 1.00% | ~1 |
+| Bounty Hunter | 0.90% | ~1 |
+| Loremaster | 0.90% | ~1 |
+| Xevarian Gambit | 0.90% | ~1 |
+| Harbinger | 0.90% | ~1 |
+| Courier | 0.90% | ~1 |
+| The Voice of Hereafter | 0.90% | ~1 |
+| Acquaintance | 0.90% | ~1 |
+| Tail-wind | 0.90% | ~1 |
+| Taskmaster | 0.90% | ~1 |
+| Merchant | 0.90% | ~1 |
+| Trouble at Fort Larius | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 283)  
+Progressed: 106 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-12 | 101 | 0 |
 | 2023-06-15 | 102 | 0 |
 | 2023-06-16 | 105 | 0 |
+| 2023-06-17 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

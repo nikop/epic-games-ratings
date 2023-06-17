@@ -16,16 +16,16 @@ Number of Ratings: 398  (23.09.2022)
 | The Legend of Langostino | 17.00% | ~627 |
 | Caribbean Comrade | 16.00% | ~590 |
 | The Dreamer of Dreams | 16.00% | ~590 |
+| Happy Ending? | 11.00% | ~406 |
 | Go Sovereigns! | 11.00% | ~406 |
 | For Science! | 11.00% | ~406 |
-| Happy Ending? | 10.00% | ~369 |
 | Of Seals And Men | 10.00% | ~369 |
 | Shackadelic | 10.00% | ~369 |
 | Double Trouble | 8.00% | ~295 |
 | Firestarter | 8.00% | ~295 |
 | Make Tropico Great Again! | 8.00% | ~295 |
+| French Connection | 8.00% | ~295 |
 | Don't Panic! | 7.00% | ~258 |
-| French Connection | 7.00% | ~258 |
 | Beware The Betman | 6.00% | ~221 |
 | I Owe You Nothing | 6.00% | ~221 |
 | Watch The World Burn | 6.00% | ~221 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~33 |
 | My Ways | 0.40% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,689 (Ranked 137)  
+Progressed: 3,690 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-14 | 3,644 | 1 |
 | 2023-06-15 | 3,671 | 1 |
 | 2023-06-16 | 3,680 | 1 |
-| 2023-06-17 | 3,689 | 1 |
+| 2023-06-17 | 3,690 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 277)  
