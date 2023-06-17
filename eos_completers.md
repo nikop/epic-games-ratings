@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.78% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.74% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
@@ -44,7 +44,7 @@
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.52% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 45 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.40% |
+| 45 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.38% |
 | 46 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.26% |
 | 48 | [The Complex](games/t/the_complex.md) | 3.19% |
@@ -58,14 +58,14 @@
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.67% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.66% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 63 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 65 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.27% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.25% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.14% |
@@ -133,9 +133,9 @@
 | 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 131 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
 | 131 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 134 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 134 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 134 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 134 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 135 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 135 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 137 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 137 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 137 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
