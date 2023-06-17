@@ -262,7 +262,7 @@
 | 258 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 69 | 369 |
 | 258 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 363 |
 | 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 497 |
-| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 561 | 176 |
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 562 | 176 |
 | 258 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 0 | 497 |
 | 258 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 0 | 497 |
 | 258 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 497 |
@@ -390,7 +390,7 @@
 | 362 | [Warframe](games/w/warframe.md) | 4.61 | 15,460 | 21 |
 | 362 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 497 |
 | 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,352 | 28 |
-| 390 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 168 | 282 |
+| 390 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 168 | 283 |
 | 390 | [Control](games/c/control.md) | 4.60 | 8,350 | 39 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
 | 390 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 38,409 | 12 |
@@ -430,7 +430,7 @@
 | 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,800 | 40 |
 | 425 | [Everything](games/e/everything.md) | 4.58 | 0 | 497 |
 | 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 244 |
-| 425 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 167 | 283 |
+| 425 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 170 | 281 |
 | 425 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 425 |
 | 425 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 218 | 252 |
 | 425 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,479 | 116 |

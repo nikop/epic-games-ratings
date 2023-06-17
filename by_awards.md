@@ -175,7 +175,7 @@
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 580 | 4.74 | 145 |
 | 174 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 579 | 4.60 | 390 |
 | 175 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 571 | 4.73 | 156 |
-| 176 | [FAR CRY 4](games/f/far_cry_4.md) | 561 | 4.67 | 258 |
+| 176 | [FAR CRY 4](games/f/far_cry_4.md) | 562 | 4.67 | 258 |
 | 177 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 240 |
 | 178 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 557 | 4.39 | 698 |
 | 179 | [Filament](games/f/filament.md) | 554 | 4.32 | 753 |
@@ -281,8 +281,8 @@
 | 279 | [Space Punks](games/s/space_punks.md) | 173 | 4.16 | 858 |
 | 279 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 782 |
 | 281 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 721 |
-| 282 | [Brawlhalla](games/b/brawlhalla.md) | 168 | 4.60 | 390 |
-| 283 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 167 | 4.58 | 425 |
+| 281 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 170 | 4.58 | 425 |
+| 283 | [Brawlhalla](games/b/brawlhalla.md) | 168 | 4.60 | 390 |
 | 284 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 166 | 4.65 | 295 |
 | 285 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 707 |
 | 285 | [Mothergunship](games/m/mothergunship.md) | 164 | 4.38 | 707 |
