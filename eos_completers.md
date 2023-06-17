@@ -9,9 +9,9 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
-| 10 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.03% |
-| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.03% |
+| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
+| 12 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 14.29% |
 | 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
@@ -23,7 +23,7 @@
 | 21 | [Smelter](games/s/smelter.md) | 8.33% |
 | 22 | [Remains](games/r/remains.md) | 7.50% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.14% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.06% |
@@ -55,11 +55,11 @@
 | 53 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 55 | [The Bunker](games/t/the_bunker.md) | 2.83% |
-| 56 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
+| 56 | [Bunny Park](games/b/bunny_park.md) | 2.78% |
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.65% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.64% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
@@ -67,11 +67,11 @@
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.41% |
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
+| 68 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
+| 68 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.04% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.02% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.00% |
 | 73 | [Frogun](games/f/frogun.md) | 1.93% |
 | 74 | [Iron Danger](games/i/iron_danger.md) | 1.88% |
 | 75 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
