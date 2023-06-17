@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -76,6 +76,11 @@
     {
       "Time": "2023-06-12T02:22:31.1904597+00:00",
       "NumProgressed": 87,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T20:00:32.4749695+00:00",
+      "NumProgressed": 88,
       "NumCompleted": 1
     }
   ],
@@ -142,7 +147,7 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -176,7 +181,7 @@
       "Name": "What is this?",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -230,7 +235,7 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -238,9 +243,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -366,9 +371,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -455,7 +460,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 1
     }
   ],
@@ -463,8 +468,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:02:32.2680447+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:00:32.4749691+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:43.0865858+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:00:02.4112798+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:02:32.2684358+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:58:50.4255859+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:00:32.4751899+00:00"
 }

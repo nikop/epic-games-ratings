@@ -19,8 +19,8 @@
 | An Actor! | 45.00% | ~453 |
 | Curtain Call | 43.00% | ~433 |
 | Piece of Cake | 41.00% | ~413 |
+| Gooey Delight! | 41.00% | ~413 |
 | Glimmer of Hope | 41.00% | ~413 |
-| Gooey Delight! | 40.00% | ~403 |
 | Teacups for Toppy | 40.00% | ~403 |
 | Well Rested | 40.00% | ~403 |
 | Nightmare Fuel | 39.00% | ~393 |

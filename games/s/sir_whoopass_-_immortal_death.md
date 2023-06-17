@@ -13,32 +13,32 @@
 | Not so hip anymore! | 82.00% | ~65 |
 | Nerd | 82.00% | ~65 |
 | Blurry depth perception | 80.00% | ~63 |
-| Up and down | 73.00% | ~58 |
+| Up and down | 75.00% | ~59 |
 | Rolling, Rolling, Rolling | 72.00% | ~57 |
-| Fire-fighter! | 67.00% | ~53 |
-| Oh, you're up to no gouda! | 62.00% | ~49 |
-| Make Love not War-Craft a Mistlefoe | 62.00% | ~49 |
+| Fire-fighter! | 68.00% | ~54 |
+| Oh, you're up to no gouda! | 63.00% | ~50 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~50 |
 | Meat grinder | 59.00% | ~47 |
 | You're not going to blow me up! | 54.00% | ~43 |
-| Mushroom soup of the day | 52.00% | ~41 |
-| Honk honk! | 51.00% | ~40 |
+| Mushroom soup of the day | 53.00% | ~42 |
+| Honk honk! | 52.00% | ~41 |
 | Butcher | 51.00% | ~40 |
 | Spare Ribs | 49.00% | ~39 |
 | My pants squeak when I walk | 48.00% | ~38 |
-| Thats disgusting! | 47.00% | ~37 |
-| Cockadoodledoo! | 46.00% | ~36 |
+| Thats disgusting! | 48.00% | ~38 |
+| Cockadoodledoo! | 47.00% | ~37 |
 | Surprise!! | 43.00% | ~34 |
 | Self assessed tax return | 41.00% | ~32 |
 | Haemochromatosis | 37.00% | ~29 |
 | Pasta Bolognese | 37.00% | ~29 |
 | Make America Grate Again | 35.00% | ~28 |
+| Karaoke king | 35.00% | ~28 |
 | You are no match for me, Billy! | 34.00% | ~27 |
 | Catch the bus with me! | 34.00% | ~27 |
-| Karaoke king | 34.00% | ~27 |
 | You can't stop me, bro! | 34.00% | ~27 |
 | I'm going to get a concussion | 33.00% | ~26 |
 | Meatballs, coming up! | 30.00% | ~24 |
-| A Megapint...? | 29.00% | ~23 |
+| A Megapint...? | 30.00% | ~24 |
 | Another one bites the iron | 27.00% | ~21 |
 | Ripe Meat Off The Bone! | 24.00% | ~19 |
 | Hovering around | 24.00% | ~19 |

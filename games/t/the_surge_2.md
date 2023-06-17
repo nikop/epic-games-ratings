@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,436 |
-| Don't I Know You...? | 77.00% | ~1,382 |
+| Rigged And Ready | 80.00% | ~1,437 |
+| Don't I Know You...? | 77.00% | ~1,383 |
 | Jailbreak | 65.00% | ~1,167 |
 | Suited and Booted | 38.00% | ~682 |
-| HEADSHOT! | 37.00% | ~664 |
-| Sleeping With The Fishes | 35.00% | ~628 |
-| Overheated | 30.00% | ~538 |
-| High Performance | 30.00% | ~538 |
+| HEADSHOT! | 37.00% | ~665 |
+| Sleeping With The Fishes | 35.00% | ~629 |
+| Overheated | 30.00% | ~539 |
+| High Performance | 30.00% | ~539 |
 | Powered Up | 28.00% | ~503 |
 | Studied The Blade | 24.00% | ~431 |
 | Home Invasion | 22.00% | ~395 |
@@ -31,10 +31,10 @@ Rating: 4.25 (Ranked 797)
 | Bad Dog | 13.00% | ~233 |
 | Risk Tolerant | 13.00% | ~233 |
 | What A Catchy Song | 13.00% | ~233 |
-| Marked For Success | 12.00% | ~215 |
-| Where It All Began | 12.00% | ~215 |
-| Sorry, Didn't See You There | 12.00% | ~215 |
-| Corrupted Beauty | 11.00% | ~197 |
+| Marked For Success | 12.00% | ~216 |
+| Where It All Began | 12.00% | ~216 |
+| Sorry, Didn't See You There | 12.00% | ~216 |
+| Corrupted Beauty | 11.00% | ~198 |
 | Triplets | 10.00% | ~180 |
 | Defense in Depth | 9.00% | ~162 |
 | Stimulating The Local Economy | 9.00% | ~162 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 797)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,795 (Ranked 158)  
+Progressed: 1,796 (Ranked 158)  
 Completed: 10 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 10 (0.56%) (Ranked 117)
 | 2023-06-14 | 1,779 | 10 |
 | 2023-06-15 | 1,785 | 10 |
 | 2023-06-16 | 1,791 | 10 |
-| 2023-06-17 | 1,795 | 10 |
+| 2023-06-17 | 1,796 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

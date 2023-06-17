@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-06-17T18:07:17.9963387+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T20:05:53.8622853+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3464,7 +3469,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "herewegoagain",
@@ -3560,7 +3565,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "minerclicker",
@@ -3592,7 +3597,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "mythicpower",
@@ -3680,7 +3685,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "templeofeternals",
@@ -3792,7 +3797,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "warmachinesarmy",
@@ -3831,7 +3836,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 1
     }
   ],
@@ -3839,8 +3844,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:07:33.9316897+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:05:53.8622851+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-17T18:58:42.3360167+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:07:33.9318375+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:57:53.9067318+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:05:53.8623769+00:00"
 }

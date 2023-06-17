@@ -42,8 +42,8 @@
 | Weapon Master | 1.00% | ~4 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |
+| Necromancer | 0.30% | ~1 |
 | Cryomancer | 0.00% | ~0 |
-| Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 385 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 228)  

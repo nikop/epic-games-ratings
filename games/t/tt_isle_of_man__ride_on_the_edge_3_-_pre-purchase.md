@@ -13,8 +13,8 @@
 | Highly Qualified | 8.00% | ~7 |
 | No Room for Improvement | 8.00% | ~7 |
 | Start Your Engines | 8.00% | ~7 |
+| Lone Wolf | 8.00% | ~7 |
 | Upgradeaholic | 7.00% | ~6 |
-| Lone Wolf | 7.00% | ~6 |
 | Playing God | 7.00% | ~6 |
 | Nerd | 6.00% | ~5 |
 | Tailor-Made | 6.00% | ~5 |
@@ -23,6 +23,7 @@
 | POI Hunter | 3.00% | ~3 |
 | Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
+| Time Lord | 3.00% | ~3 |
 | First and Foremost | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
 | Made Mother Proud | 3.00% | ~3 |
@@ -36,7 +37,6 @@
 | The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |
 | Checklist | 2.00% | ~2 |
-| Time Lord | 2.00% | ~2 |
 | Time Is of the Essence | 2.00% | ~2 |
 | Made Father Proud | 2.00% | ~2 |
 | Win-Win! | 2.00% | ~2 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 292)  
+Progressed: 87 (Ranked 293)  
 Completed: 2 (2.30%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |

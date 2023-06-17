@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -2376,9 +2376,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 541
     },
     {
       "ID": "campaign6",
@@ -2481,8 +2481,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:07:32.6501716+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:05:52.8077546+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:43.7052896+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:01:28.9448274+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:07:32.6502384+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:59:46.4360766+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:05:52.8077946+00:00"
 }

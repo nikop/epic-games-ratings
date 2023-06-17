@@ -10,7 +10,7 @@ Rating: 4.59 (Ranked 412)
 | Secret Technique | 75.00% | ~3,534 |
 | Walls Cannot Stop Us | 74.00% | ~3,487 |
 | From Friends to Family | 69.00% | ~3,251 |
-| Magical Synergy | 65.00% | ~3,063 |
+| Magical Synergy | 66.00% | ~3,110 |
 | Bone Peddler | 61.00% | ~2,874 |
 | Stronger Together | 57.00% | ~2,686 |
 | Full Ascension | 55.00% | ~2,592 |

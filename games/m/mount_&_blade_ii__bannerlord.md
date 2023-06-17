@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,230 |
-| Landlord | 30.00% | ~16,025 |
+| Lawbringer | 36.00% | ~19,231 |
+| Landlord | 30.00% | ~16,026 |
 | Bannerlord | 21.00% | ~11,218 |
 | Horde breaker | 21.00% | ~11,218 |
 | Lawmaker | 21.00% | ~11,218 |
@@ -20,9 +20,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Against all odds | 10.00% | ~5,342 |
 | Duelist | 9.00% | ~4,808 |
 | Swordbearer | 9.00% | ~4,808 |
-| Dynasty | 8.00% | ~4,273 |
-| I spit on your grave | 8.00% | ~4,273 |
-| What have the Romans ever done for us? | 8.00% | ~4,273 |
+| Dynasty | 8.00% | ~4,274 |
+| I spit on your grave | 8.00% | ~4,274 |
+| What have the Romans ever done for us? | 8.00% | ~4,274 |
 | Butterlord | 7.00% | ~3,739 |
 | Mastery | 7.00% | ~3,739 |
 | This Is Our Land | 7.00% | ~3,739 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,418 (Ranked 79)  
+Progressed: 53,420 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,10 +116,10 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 53,184 | 0 |
 | 2023-06-15 | 53,261 | 0 |
 | 2023-06-16 | 53,345 | 0 |
-| 2023-06-17 | 53,418 | 0 |
+| 2023-06-17 | 53,420 | 0 |
 ## Awards
 Max (Character Customization): 6,679  (Ranked 49)  
-Sum: 13,427 (Ranked 68)  
+Sum: 13,428 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): -19
 | This game is Highly Recommended | 794 |
 | This game is Extremely Fun | 762 |
 | This game has Amazing Storytelling | 752 |
-| This game has Quickly Understood Controls | 739 |
+| This game has Quickly Understood Controls | 740 |
 | This game has Amazing Characters | 736 |
 | This game is Relaxing | 735 |
 | This game has a Creative Community | 543 |
@@ -291,4 +291,4 @@ Diff (max vs sum): -19
 | 2023-06-14 | 4.75 | - | 6,664 | 13,394 |
 | 2023-06-15 | 4.75 | - | 6,667 | 13,401 |
 | 2023-06-16 | 4.75 | - | 6,672 | 13,413 |
-| 2023-06-17 | 4.75 | - | 6,679 | 13,427 |
+| 2023-06-17 | 4.75 | - | 6,679 | 13,428 |

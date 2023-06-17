@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4825,10 +4825,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 13427,
       "NumberOfAwardsMax": 6679
+    },
+    {
+      "Time": "2023-06-17T19:59:22.0257931+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 13428,
+      "NumberOfAwardsMax": 6679
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13427,
+  "NumberOfAwards": 13428,
   "NumberOfAwardsMax": 6679,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4878,7 +4884,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 739
+      "Count": 740
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4905,9 +4911,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53418,
+  "EOS_Progressed": 53420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10815,6 +10821,11 @@
       "Time": "2023-06-17T19:07:37.9468188+00:00",
       "NumProgressed": 53418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T20:05:57.1099522+00:00",
+      "NumProgressed": 53420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10914,7 +10925,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "Entrepreneur",
@@ -11002,7 +11013,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "Jack of All Trades",
@@ -11050,7 +11061,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 16025
+      "UsersEstimate": 16026
     },
     {
       "ID": "Lawbringer",
@@ -11058,7 +11069,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19230
+      "UsersEstimate": 19231
     },
     {
       "ID": "Lawmaker",
@@ -11226,22 +11237,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53418,
+      "Progressed": 53420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-17T18:00:33.1677761+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:07:37.9468181+00:00",
+  "LastChanged": "2023-06-17T19:59:22.0257929+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:05:57.1099519+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:00:51.7352925+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:07:37.9469626+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:59:22.0257936+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:05:57.1100294+00:00"
 }

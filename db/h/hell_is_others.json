@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251306,
+  "EOS_Progressed": 251313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6399,6 +6399,11 @@
       "Time": "2023-06-17T19:04:20.2250745+00:00",
       "NumProgressed": 251306,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T20:03:26.8932209+00:00",
+      "NumProgressed": 251313,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6410,7 +6415,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17591
+      "UsersEstimate": 17592
     },
     {
       "ID": "Act2",
@@ -6418,7 +6423,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10052
+      "UsersEstimate": 10053
     },
     {
       "ID": "Act3",
@@ -6458,7 +6463,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77905
+      "UsersEstimate": 77907
     },
     {
       "ID": "BackHomeNTimes",
@@ -6466,7 +6471,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12565
+      "UsersEstimate": 12566
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -6474,7 +6479,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10052
+      "UsersEstimate": 10053
     },
     {
       "ID": "BreakNWindows",
@@ -6482,7 +6487,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10052
+      "UsersEstimate": 10053
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -6538,7 +6543,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12565
+      "UsersEstimate": 12566
     },
     {
       "ID": "CreedsInBank2",
@@ -6610,7 +6615,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15078
+      "UsersEstimate": 15079
     },
     {
       "ID": "GrowPlants2",
@@ -6666,7 +6671,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15078
+      "UsersEstimate": 15079
     },
     {
       "ID": "KillOtherWithKatana",
@@ -6698,7 +6703,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55287
+      "UsersEstimate": 55289
     },
     {
       "ID": "KillOthers2",
@@ -6754,7 +6759,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "NewFloor",
@@ -6778,7 +6783,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10052
+      "UsersEstimate": 10053
     },
     {
       "ID": "Patrimony2",
@@ -6857,7 +6862,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251306,
+      "Progressed": 251313,
       "Completed": 1
     }
   ],
@@ -6865,8 +6870,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-16T11:01:23.1488422+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:04:20.2250738+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:03:26.8932204+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:01:33.9145797+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:04:20.2251939+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:59:50.1264927+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:03:26.8933051+00:00"
 }

@@ -1,13 +1,13 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 767)  
+Rating: 4.30 (Ranked 768)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tuto | 60.00% | ~234 |
-| Joma | 43.00% | ~168 |
+| Joma | 44.00% | ~172 |
 | Campaign Bronze | 35.00% | ~136 |
 | Lorian | 30.00% | ~117 |
 | Metropolis | 26.00% | ~101 |

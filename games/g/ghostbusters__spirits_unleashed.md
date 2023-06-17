@@ -5,14 +5,14 @@ Rating: 4.49 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,121 |
-| Advancement | 73.00% | ~17,080 |
-| Meticulously Efficient | 64.00% | ~14,974 |
-| Discovery | 62.00% | ~14,506 |
-| Swift Rift Removers | 55.00% | ~12,868 |
-| Fully Upgraded | 54.00% | ~12,634 |
-| Cultured | 52.00% | ~12,166 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~11,932 |
+| Stylish | 86.00% | ~20,122 |
+| Advancement | 73.00% | ~17,081 |
+| Meticulously Efficient | 64.00% | ~14,975 |
+| Discovery | 62.00% | ~14,507 |
+| Swift Rift Removers | 55.00% | ~12,869 |
+| Fully Upgraded | 54.00% | ~12,635 |
+| Cultured | 52.00% | ~12,167 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~11,933 |
 | Vaporous Expansion | 48.00% | ~11,231 |
 | Teamwork | 44.00% | ~10,295 |
 | There you are! | 43.00% | ~10,061 |
@@ -30,14 +30,14 @@ Rating: 4.49 (Ranked 567)
 | Pesky Jerks | 26.00% | ~6,083 |
 | Right back at ya | 26.00% | ~6,083 |
 | Stunner | 26.00% | ~6,083 |
-| Animated | 24.00% | ~5,615 |
-| Collector | 24.00% | ~5,615 |
-| Skilled | 24.00% | ~5,615 |
-| Ectoplasmic Entity | 23.00% | ~5,381 |
-| Rift Destroyer | 20.00% | ~4,679 |
-| Tobin's Prodigy | 19.00% | ~4,445 |
-| Terrifying | 18.00% | ~4,211 |
-| Reckless | 17.00% | ~3,977 |
+| Animated | 24.00% | ~5,616 |
+| Collector | 24.00% | ~5,616 |
+| Skilled | 24.00% | ~5,616 |
+| Ectoplasmic Entity | 23.00% | ~5,382 |
+| Rift Destroyer | 20.00% | ~4,680 |
+| Tobin's Prodigy | 19.00% | ~4,446 |
+| Terrifying | 18.00% | ~4,212 |
+| Reckless | 17.00% | ~3,978 |
 | Diabolical | 16.00% | ~3,744 |
 | Escape Artist | 16.00% | ~3,744 |
 | Seasoned | 16.00% | ~3,744 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 567)
 | I don't need these | 1.00% | ~234 |
 | Mycophile | 1.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,397 (Ranked 95)  
+Progressed: 23,398 (Ranked 95)  
 Completed: 40 (0.17%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 40 (0.17%) (Ranked 159)
 | 2023-06-14 | 23,170 | 40 |
 | 2023-06-15 | 23,279 | 40 |
 | 2023-06-16 | 23,336 | 40 |
-| 2023-06-17 | 23,397 | 40 |
+| 2023-06-17 | 23,398 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
 Sum: 2,118 (Ranked 185)  

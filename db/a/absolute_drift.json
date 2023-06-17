@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523806,
+  "EOS_Progressed": 1523813,
   "EOS_Completed": 623,
-  "EOS_NewPlayers": 1578,
+  "EOS_NewPlayers": 1570,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6550,6 +6550,11 @@
       "Time": "2023-06-17T19:04:57.44957+00:00",
       "NumProgressed": 1523806,
       "NumCompleted": 623
+    },
+    {
+      "Time": "2023-06-17T20:03:52.8190068+00:00",
+      "NumProgressed": 1523813,
+      "NumCompleted": 623
     }
   ],
   "TotalAchievements": 20,
@@ -6569,7 +6574,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106666
+      "UsersEstimate": 106667
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -6673,7 +6678,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121904
+      "UsersEstimate": 121905
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6705,7 +6710,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76190
+      "UsersEstimate": 76191
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -6720,15 +6725,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523806,
+      "Progressed": 1523813,
       "Completed": 623
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:04:57.4495695+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:03:52.8190063+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:01:16.3001498+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:04:57.4496619+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:59:38.0562466+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:03:52.8190574+00:00"
 }

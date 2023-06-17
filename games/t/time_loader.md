@@ -12,9 +12,9 @@
 | Wrench | 33.00% | ~35 |
 | Purr-fect | 32.00% | ~34 |
 | Mug | 30.00% | ~32 |
-| Soldering iron | 29.00% | ~31 |
-| Robot Bros | 25.00% | ~27 |
-| Act 2 | 24.00% | ~26 |
+| Soldering iron | 30.00% | ~32 |
+| Robot Bros | 26.00% | ~28 |
+| Act 2 | 25.00% | ~27 |
 | Cassette | 21.00% | ~22 |
 | Harpoon | 21.00% | ~22 |
 | Here we go again | 21.00% | ~22 |
@@ -34,7 +34,7 @@
 | Leave me alone | 8.00% | ~9 |
 | Secret ending | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 280)  
+Progressed: 107 (Ranked 282)  
 Completed: 8 (7.48%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |

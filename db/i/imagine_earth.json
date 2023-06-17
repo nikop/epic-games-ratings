@@ -2,13 +2,13 @@
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
   "ProductSlug": "imagine-earth-7498e4",
-  "Ranking_Rating": 767,
+  "Ranking_Rating": 768,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -76,7 +76,7 @@
   "Tags": [],
   "EOS_Progressed": 390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -348,9 +348,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "PlanetLorian",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-06-17T19:02:38.3034714+00:00",
+  "LastChanged_Achievements": "2023-06-17T20:00:36.5889957+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.8922938+00:00",
-  "LastUpdate_Ratings": "2023-06-17T19:00:14.2805349+00:00",
-  "LastUpdate_Achievements": "2023-06-17T19:02:38.3035016+00:00"
+  "LastUpdate_Ratings": "2023-06-17T19:58:59.2388171+00:00",
+  "LastUpdate_Achievements": "2023-06-17T20:00:36.589013+00:00"
 }
