@@ -35,8 +35,8 @@
 | Master Cook | 35.00% | ~11 |
 | Berserker Slayer | 26.00% | ~8 |
 | Boss challenge | 23.00% | ~7 |
+| Warden Slayer | 23.00% | ~7 |
 | Giantess Slayer | 19.00% | ~6 |
-| Warden Slayer | 19.00% | ~6 |
 | Big Face Goalkeeper Challenge | 10.00% | ~3 |
 | Blade Mantis Challenge | 6.00% | ~2 |
 | Giant Claw Spider Challenge | 6.00% | ~2 |
@@ -51,7 +51,7 @@
 | Giant Lizard Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

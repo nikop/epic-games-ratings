@@ -19,12 +19,12 @@ Rating: 3.81 (Ranked 931)
 | Lumber Specialist | 29.00% | ~416 |
 | Catch of the Day | 24.00% | ~344 |
 | Kind-hearted | 22.00% | ~316 |
-| Amateur Chef | 20.00% | ~287 |
+| Amateur Chef | 21.00% | ~301 |
 | Fishing Guru | 18.00% | ~258 |
 | Community Helper | 16.00% | ~230 |
 | Spark of Love | 15.00% | ~215 |
+| Expert Chemist | 13.00% | ~187 |
 | Stone Specialist | 13.00% | ~187 |
-| Expert Chemist | 12.00% | ~172 |
 | Ablutomaniac | 12.00% | ~172 |
 | Line Cook | 11.00% | ~158 |
 | Sociable | 11.00% | ~158 |
@@ -45,7 +45,7 @@ Rating: 3.81 (Ranked 931)
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,435 (Ranked 165)  
-Completed: 7 (0.49%) (Ranked 121)  
+Completed: 7 (0.49%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

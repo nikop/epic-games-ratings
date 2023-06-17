@@ -6,12 +6,12 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~536 |
+| Cabin boy | 81.00% | ~537 |
 | My little farm | 64.00% | ~424 |
-| Every beginning is difficult | 62.00% | ~410 |
-| 3, 2, 1, mine | 55.00% | ~364 |
-| Gofer | 55.00% | ~364 |
-| Seafarer | 54.00% | ~357 |
+| Every beginning is difficult | 62.00% | ~411 |
+| 3, 2, 1, mine | 55.00% | ~365 |
+| Gofer | 55.00% | ~365 |
+| Seafarer | 54.00% | ~358 |
 | O Captain! My Captain! | 53.00% | ~351 |
 | Greed for gold | 42.00% | ~278 |
 | Intangible | 40.00% | ~265 |
@@ -19,14 +19,14 @@ Number of Ratings: 53  (23.09.2022)
 | In a mint condition | 37.00% | ~245 |
 | Licence to Kill | 34.00% | ~225 |
 | Pirates! | 34.00% | ~225 |
-| Collectionitis | 28.00% | ~185 |
-| Megalomania | 28.00% | ~185 |
+| Collectionitis | 28.00% | ~186 |
+| Megalomania | 28.00% | ~186 |
 | Christening | 26.00% | ~172 |
 | Groundskeeper | 25.00% | ~166 |
 | Wholesale | 21.00% | ~139 |
-| Walk the plank | 20.00% | ~132 |
+| Walk the plank | 20.00% | ~133 |
+| Pearly gates | 17.00% | ~113 |
 | My precious! | 17.00% | ~113 |
-| Pearly gates | 16.00% | ~106 |
 | Conquistador | 13.00% | ~86 |
 | Panic buying | 11.00% | ~73 |
 | Just a scratch | 9.00% | ~60 |
@@ -38,8 +38,8 @@ Number of Ratings: 53  (23.09.2022)
 | Conglomerate | 6.00% | ~40 |
 | Buccaneer | 5.00% | ~33 |
 | The Grande Bouffe | 5.00% | ~33 |
-| Flying Dutchman | 4.00% | ~26 |
-| Overpopulation | 4.00% | ~26 |
+| Flying Dutchman | 4.00% | ~27 |
+| Overpopulation | 4.00% | ~27 |
 | Premier Maître | 3.00% | ~20 |
 | A true pirate! | 3.00% | ~20 |
 | Supreme conqueror | 2.00% | ~13 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662 (Ranked 198)  
+Progressed: 663 (Ranked 198)  
 Completed: 1 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 1 (0.15%) (Ranked 163)
 | 2023-06-14 | 651 | 1 |
 | 2023-06-15 | 657 | 1 |
 | 2023-06-16 | 661 | 1 |
-| 2023-06-17 | 662 | 1 |
+| 2023-06-17 | 663 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

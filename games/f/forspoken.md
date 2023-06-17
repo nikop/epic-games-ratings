@@ -8,11 +8,11 @@ Rating: 4.15 (Ranked 863)
 | Attachments | 9.00% | ~3,476 |
 | Unlocked Potential | 9.00% | ~3,476 |
 | Tinkerer | 7.00% | ~2,704 |
-| Leapfrogger | 6.00% | ~2,317 |
-| Knock 'Em Dead | 6.00% | ~2,317 |
-| Pilgrimage: Initiate | 6.00% | ~2,317 |
-| Hell of a Run | 6.00% | ~2,317 |
-| Call of the Fount: Baptized | 6.00% | ~2,317 |
+| Leapfrogger | 6.00% | ~2,318 |
+| Knock 'Em Dead | 6.00% | ~2,318 |
+| Pilgrimage: Initiate | 6.00% | ~2,318 |
+| Hell of a Run | 6.00% | ~2,318 |
+| Call of the Fount: Baptized | 6.00% | ~2,318 |
 | No Mercy | 5.00% | ~1,931 |
 | Explorer: Seeker | 5.00% | ~1,931 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,545 |
@@ -21,12 +21,12 @@ Rating: 4.15 (Ranked 863)
 | The Interloper | 3.00% | ~1,159 |
 | Hop, Step, Jump | 3.00% | ~1,159 |
 | Endless Runner | 3.00% | ~1,159 |
-| Outdoorsperson | 2.00% | ~772 |
-| What Must Be Done | 2.00% | ~772 |
-| Might and Main | 2.00% | ~772 |
-| Damned If You Do... | 2.00% | ~772 |
-| Explorer: Pathfinder | 2.00% | ~772 |
-| From Every Angle | 2.00% | ~772 |
+| Outdoorsperson | 2.00% | ~773 |
+| What Must Be Done | 2.00% | ~773 |
+| Might and Main | 2.00% | ~773 |
+| Damned If You Do... | 2.00% | ~773 |
+| Explorer: Pathfinder | 2.00% | ~773 |
+| From Every Angle | 2.00% | ~773 |
 | The Hue of Blue | 1.00% | ~386 |
 | The Truth Will Out | 1.00% | ~386 |
 | Breaking Point | 1.00% | ~386 |
@@ -38,7 +38,7 @@ Rating: 4.15 (Ranked 863)
 | Awakening | 0.60% | ~232 |
 | Realized Potential | 0.60% | ~232 |
 | Explorer: Trailblazer | 0.50% | ~193 |
-| Through the Eyes of Another: Seer | 0.40% | ~154 |
+| Through the Eyes of Another: Seer | 0.40% | ~155 |
 | Archivist | 0.30% | ~116 |
 | Craftsperson | 0.30% | ~116 |
 | Tit for Tat | 0.30% | ~116 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 863)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,624 (Ranked 86)  
+Progressed: 38,627 (Ranked 86)  
 Completed: 2 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.01%) (Ranked 214)
 | 2023-06-14 | 38,583 | 2 |
 | 2023-06-15 | 38,598 | 2 |
 | 2023-06-16 | 38,614 | 2 |
-| 2023-06-17 | 38,624 | 2 |
+| 2023-06-17 | 38,627 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

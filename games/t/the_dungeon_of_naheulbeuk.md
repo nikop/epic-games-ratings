@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 96.00% | ~100 |
+| Alt+F4 | 95.00% | ~100 |
 | Where's that freaking Dwarf? | 89.00% | ~93 |
-| Sock! SOCK! | 77.00% | ~80 |
-| Fireproof Wizardess | 63.00% | ~66 |
-| Livin' in a dwarven paradise | 59.00% | ~61 |
-| Déjà vu | 56.00% | ~58 |
-| GG EZ | 53.00% | ~55 |
-| Way of the Wimp | 52.00% | ~54 |
-| DM intervention | 52.00% | ~54 |
+| Sock! SOCK! | 76.00% | ~80 |
+| Fireproof Wizardess | 62.00% | ~65 |
+| Livin' in a dwarven paradise | 58.00% | ~61 |
+| Déjà vu | 55.00% | ~58 |
+| GG EZ | 52.00% | ~55 |
+| Way of the Wimp | 51.00% | ~54 |
+| DM intervention | 51.00% | ~54 |
 | Speedrun | 45.00% | ~47 |
 | Oh, when I'll be level 10... | 44.00% | ~46 |
 | A beer, two curses, three companions | 39.00% | ~41 |
 | I am the night | 39.00% | ~41 |
-| Thieves' Guild Accreditation | 38.00% | ~40 |
-| Team Building Exercise | 38.00% | ~40 |
-| The plot thickens... At the tavern | 37.00% | ~38 |
-| The Ranger of Chaos | 37.00% | ~38 |
-| Dwarf Fortress | 35.00% | ~36 |
-| Look but don't touch | 32.00% | ~33 |
-| Shiny and Crôm | 30.00% | ~31 |
-| Gargantua | 30.00% | ~31 |
-| Material Girl | 30.00% | ~31 |
+| Thieves' Guild Accreditation | 37.00% | ~39 |
+| Team Building Exercise | 37.00% | ~39 |
+| The plot thickens... At the tavern | 36.00% | ~38 |
+| The Ranger of Chaos | 36.00% | ~38 |
+| Dwarf Fortress | 34.00% | ~36 |
+| Look but don't touch | 31.00% | ~33 |
+| Shiny and Crôm | 30.00% | ~32 |
+| Gargantua | 30.00% | ~32 |
+| Material Girl | 30.00% | ~32 |
 | The demons' feast | 28.00% | ~29 |
 | The Great Library | 28.00% | ~29 |
 | Torture and Sensibility | 28.00% | ~29 |
@@ -43,12 +43,12 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 16.00% | ~17 |
 | Law and Order | 15.00% | ~16 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~15 |
-| The Dungeon Master | 13.00% | ~14 |
 | Necrophilia | 13.00% | ~14 |
-| He’s alive! Aliiiive! | 13.00% | ~14 |
 | Dead for good | 13.00% | ~14 |
-| Scholar of the Lands of Fangh | 12.00% | ~12 |
-| It's been a hard day's night | 11.00% | ~11 |
+| The Dungeon Master | 12.00% | ~13 |
+| He’s alive! Aliiiive! | 12.00% | ~13 |
+| Scholar of the Lands of Fangh | 11.00% | ~12 |
+| It's been a hard day's night | 10.00% | ~10 |
 | An old poacher makes the best gamekeeper | 9.00% | ~9 |
 | Lëgal Legend | 9.00% | ~9 |
 | Inception | 8.00% | ~8 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 226)  
+Progressed: 105 (Ranked 283)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 87 | 0 |
 | 2023-06-15 | 96 | 0 |
 | 2023-06-16 | 103 | 0 |
-| 2023-06-17 | 104 | 0 |
+| 2023-06-17 | 105 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 434)  

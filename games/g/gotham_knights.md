@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,923 |
+| First Step Into the Knight | 6.00% | ~3,924 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,616 |
 | Loose Ends | 4.00% | ~2,616 |
 | To the Victor Go the Spoils | 3.00% | ~1,962 |
@@ -36,8 +36,8 @@ Rating: 4.17 (Ranked 854)
 | Seeking Asylum | 1.00% | ~654 |
 | Gotham Knight | 1.00% | ~654 |
 | Gotham City Confidential | 1.00% | ~654 |
+| Solid Alibi | 1.00% | ~654 |
 | Out of Their League | 0.90% | ~589 |
-| Solid Alibi | 0.90% | ~589 |
 | Fusion Expert | 0.70% | ~458 |
 | Family Meeting | 0.70% | ~458 |
 | A Worthy Successor | 0.70% | ~458 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,391 (Ranked 70)  
+Progressed: 65,398 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,10 +125,10 @@ Completed: 95 (0.15%) (Ranked 163)
 | 2023-06-14 | 65,051 | 95 |
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
-| 2023-06-17 | 65,391 | 95 |
+| 2023-06-17 | 65,398 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 97)  
-Sum: 3,870 (Ranked 137)  
+Sum: 3,871 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -138,7 +138,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 198 |
 | This game has Amazing Characters | 195 |
 | This game has Diverse Characters | 188 |
-| This game has Amazing Storytelling | 186 |
+| This game has Amazing Storytelling | 187 |
 | This game is Great for Beginners | 184 |
 | This game is Highly Recommended | 182 |
 | This game is Great for Quick Sessions | 60 |
@@ -261,4 +261,4 @@ Diff (max vs sum): -40
 | 2023-06-14 | 4.17 | 2,331 | 3,858 |
 | 2023-06-15 | 4.17 | 2,336 | 3,866 |
 | 2023-06-16 | 4.17 | 2,336 | 3,867 |
-| 2023-06-17 | 4.17 | 2,339 | 3,870 |
+| 2023-06-17 | 4.17 | 2,339 | 3,871 |

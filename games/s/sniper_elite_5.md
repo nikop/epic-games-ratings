@@ -5,10 +5,10 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~920 |
+| Meeting Resistance | 31.00% | ~921 |
 | Confirming Suspicions | 26.00% | ~772 |
-| The Kraken Wakes | 21.00% | ~623 |
-| It's Starting to Crack | 18.00% | ~534 |
+| The Kraken Wakes | 21.00% | ~624 |
+| It's Starting to Crack | 18.00% | ~535 |
 | Lord of War | 16.00% | ~475 |
 | Change the Channel | 16.00% | ~475 |
 | Resourceful | 14.00% | ~416 |
@@ -54,8 +54,8 @@ Rating: 4.51 (Ranked 530)
 | Souvenir hunter | 0.80% | ~24 |
 | Shoot for the Moon | 0.80% | ~24 |
 | Eagle Eyed | 0.60% | ~18 |
+| Up close and personal | 0.60% | ~18 |
 | Fight Another Day | 0.60% | ~18 |
-| Up close and personal | 0.50% | ~15 |
 | Can't Outrun A Bullet | 0.50% | ~15 |
 | If You Go Down To The Woods Today | 0.50% | ~15 |
 | Sight Beyond Sights | 0.40% | ~12 |
@@ -65,10 +65,10 @@ Rating: 4.51 (Ranked 530)
 | Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
+| Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
-| Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,969 (Ranked 145)  
+Progressed: 2,970 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-14 | 2,857 | 2 |
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
-| 2023-06-17 | 2,969 | 2 |
+| 2023-06-17 | 2,970 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

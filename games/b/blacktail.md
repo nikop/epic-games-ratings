@@ -6,24 +6,24 @@ Rating: 4.68 (Ranked 240)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 25.00% | ~124 |
-| Dental maturity | 19.00% | ~94 |
+| Dental maturity | 20.00% | ~99 |
 | Devil's in the details | 13.00% | ~64 |
 | Uprooting | 12.00% | ~59 |
 | Forbidden techniques | 11.00% | ~54 |
 | Slavic squatter | 9.00% | ~44 |
 | Devoted | 8.00% | ~40 |
-| Gold rush | 6.00% | ~30 |
+| Gold rush | 7.00% | ~35 |
 | Spirit animal | 6.00% | ~30 |
 | A friend in need... | 5.00% | ~25 |
 | Sneak peek | 4.00% | ~20 |
 | Favorite | 4.00% | ~20 |
 | Fishing fanatic | 4.00% | ~20 |
+| The word around is... | 4.00% | ~20 |
 | Liar Liar | 4.00% | ~20 |
 | The cycle acknowledged | 4.00% | ~20 |
 | Queen | 4.00% | ~20 |
 | Baba Yaga | 4.00% | ~20 |
 | Extensive retelling | 3.00% | ~15 |
-| The word around is... | 3.00% | ~15 |
 | Both sides | 3.00% | ~15 |
 | Witch's cookbook | 3.00% | ~15 |
 | Goal! | 2.00% | ~10 |

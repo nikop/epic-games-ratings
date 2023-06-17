@@ -22,9 +22,9 @@ Rating: 4.32 (Ranked 753)
 | Comtesse Margaux de Vos | 44.00% | ~171 |
 | Curious and Beautiful | 43.00% | ~167 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~167 |
-| The Interrogations | 42.00% | ~163 |
+| The Interrogations | 43.00% | ~167 |
+| Zakariya Demir | 41.00% | ~159 |
 | Well-acquainted | 40.00% | ~156 |
-| Zakariya Demir | 40.00% | ~156 |
 | Well-read | 38.00% | ~148 |
 | Cassandra Van den Bosch | 36.00% | ~140 |
 | The Secret | 36.00% | ~140 |
@@ -43,8 +43,8 @@ Rating: 4.32 (Ranked 753)
 | Archibald Sterling | 24.00% | ~93 |
 | Well-prepared | 20.00% | ~78 |
 | The Truth | 20.00% | ~78 |
+| Sunken Secrets | 18.00% | ~70 |
 | I Like an Audience | 18.00% | ~70 |
-| Sunken Secrets | 17.00% | ~66 |
 | What Else Did I Miss? | 17.00% | ~66 |
 | The Denouement | 16.00% | ~62 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |

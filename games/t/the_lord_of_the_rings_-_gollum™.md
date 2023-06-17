@@ -8,17 +8,17 @@
 | Welcome to Mordor! | 51.00% | ~226 |
 | Collectibles Part 1 | 50.00% | ~222 |
 | Wait! Wait! Not yet! | 37.00% | ~164 |
-| Like Flying... | 32.00% | ~142 |
+| Like Flying... | 33.00% | ~147 |
 | Memories | 29.00% | ~129 |
 | The Maggot | 26.00% | ~115 |
 | The Breeder | 22.00% | ~98 |
 | The Veteran | 18.00% | ~80 |
 | The Traitor | 14.00% | ~62 |
-| The Spider | 13.00% | ~58 |
+| The Spider | 14.00% | ~62 |
 | Good as Fish | 9.00% | ~40 |
 | Her Eyes | 9.00% | ~40 |
+| He's so Annoying | 8.00% | ~36 |
 | Murderer | 8.00% | ~36 |
-| He's so Annoying | 7.00% | ~31 |
 | Gollum/Sméagol | 7.00% | ~31 |
 | Trigger-Happy | 7.00% | ~31 |
 | The Friend | 6.00% | ~27 |

@@ -12,8 +12,8 @@
 | Extendable Bridges | 37.00% | ~71 |
 | 48 Attempts | 34.00% | ~66 |
 | Man's Best Friend | 34.00% | ~66 |
-| Chain Reaction | 33.00% | ~64 |
-| Handyman | 21.00% | ~41 |
+| Chain Reaction | 34.00% | ~66 |
+| Handyman | 22.00% | ~42 |
 | No Time To Relax | 17.00% | ~33 |
 | Bad Robots | 16.00% | ~31 |
 | Archivist | 14.00% | ~27 |
@@ -33,7 +33,7 @@
 | Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 193 (Ranked 257)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -1470,9 +1470,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_022",
@@ -1557,8 +1557,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-17T12:05:12.1882298+00:00",
+  "LastChanged_Achievements": "2023-06-17T13:07:25.3201129+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.8913307+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:57:16.4654829+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:05:12.1882615+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:00:01.2042079+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:07:25.3201381+00:00"
 }

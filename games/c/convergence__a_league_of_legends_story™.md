@@ -7,10 +7,10 @@
 | Time Heals All Wounds | 13.00% | ~91 |
 | The Mysterious Stranger | 11.00% | ~77 |
 | Rail Rat | 11.00% | ~77 |
+| Cartographer | 11.00% | ~77 |
 | The Steel Shadow | 10.00% | ~70 |
 | Treasure Trove | 10.00% | ~70 |
 | Make Up For Lost Time | 10.00% | ~70 |
-| Cartographer | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
 | The Harder They Fall | 10.00% | ~70 |
 | No, Thanks! | 10.00% | ~70 |

@@ -6,56 +6,56 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,753 |
-| Beast Intentions | 2.00% | ~1,901 |
-| The Cursed Farmer | 2.00% | ~1,901 |
-| The Mad Wizard | 2.00% | ~1,901 |
-| The Ring of Regeneration | 1.00% | ~951 |
+| A Brief Tour of the Realms | 5.00% | ~4,758 |
+| Beast Intentions | 2.00% | ~1,903 |
+| The Cursed Farmer | 2.00% | ~1,903 |
+| The Mad Wizard | 2.00% | ~1,903 |
+| The Ring of Regeneration | 1.00% | ~952 |
 | Were-verpowered | 0.90% | ~856 |
 | Seeking Allies | 0.90% | ~856 |
 | Are Ya Chicken? | 0.90% | ~856 |
-| The Court of Storms | 0.90% | ~552 |
-| Friendly Imps | 0.80% | ~760 |
+| The Court of Storms | 0.90% | ~553 |
+| Friendly Imps | 0.80% | ~761 |
 | Beware the Jabberwock | 0.80% | ~491 |
-| A Persistent Buzzing | 0.70% | ~665 |
-| Mad Cow Disease | 0.70% | ~665 |
-| Pure Energy | 0.70% | ~665 |
-| Terror in the Dark | 0.60% | ~570 |
-| A Mysterious Summons | 0.60% | ~570 |
-| Unearthed Evil | 0.60% | ~570 |
-| The Crumbling Temple | 0.60% | ~570 |
-| Exploring Port Nyanzaru | 0.60% | ~570 |
-| Coasting to the Finish | 0.60% | ~368 |
-| Maddening | 0.50% | ~475 |
+| A Persistent Buzzing | 0.70% | ~666 |
+| Mad Cow Disease | 0.70% | ~666 |
+| Pure Energy | 0.70% | ~666 |
+| Terror in the Dark | 0.60% | ~571 |
+| A Mysterious Summons | 0.60% | ~571 |
+| Unearthed Evil | 0.60% | ~571 |
+| The Crumbling Temple | 0.60% | ~571 |
+| Exploring Port Nyanzaru | 0.60% | ~571 |
+| Coasting to the Finish | 0.60% | ~369 |
+| Maddening | 0.50% | ~476 |
 | Checkmate | 0.50% | ~307 |
 | Vecna Out! | 0.50% | ~307 |
-| Beast Mode | 0.50% | ~475 |
-| Building Trust | 0.50% | ~475 |
-| Useless Allies | 0.50% | ~475 |
-| Running of the Saurs | 0.50% | ~475 |
-| The Contagious Curse | 0.50% | ~475 |
-| Escort to Waterdeep | 0.50% | ~475 |
-| Waterdeep Detours | 0.50% | ~475 |
+| Beast Mode | 0.50% | ~476 |
+| Building Trust | 0.50% | ~476 |
+| Useless Allies | 0.50% | ~476 |
+| Running of the Saurs | 0.50% | ~476 |
+| The Contagious Curse | 0.50% | ~476 |
+| Escort to Waterdeep | 0.50% | ~476 |
+| Waterdeep Detours | 0.50% | ~476 |
 | Quick or Quack | 0.50% | ~307 |
-| The Silken Swamp | 0.40% | ~380 |
-| Owlbear Necessities | 0.40% | ~245 |
-| Best Thay Ever | 0.40% | ~245 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~245 |
-| Pin and Skewer | 0.40% | ~245 |
-| Low Initiative | 0.40% | ~380 |
-| Street War | 0.40% | ~380 |
-| March of the Undead | 0.40% | ~380 |
-| No Time To Rest | 0.40% | ~380 |
-| The Dinner Party | 0.40% | ~380 |
-| The Botched Kidnapping | 0.40% | ~380 |
-| The Death Curse | 0.40% | ~380 |
-| Premature Betrayal | 0.40% | ~380 |
-| Flying Monkey Skulls of Doom | 0.40% | ~380 |
-| Constant Banditry | 0.40% | ~380 |
-| Underdeep Cartography | 0.40% | ~380 |
-| Overdue Rendezvous | 0.40% | ~380 |
-| The Templar's Camp | 0.40% | ~380 |
-| Rescue in the Jungle | 0.40% | ~380 |
+| The Silken Swamp | 0.40% | ~381 |
+| Owlbear Necessities | 0.40% | ~246 |
+| Best Thay Ever | 0.40% | ~246 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~246 |
+| Pin and Skewer | 0.40% | ~246 |
+| Low Initiative | 0.40% | ~381 |
+| Street War | 0.40% | ~381 |
+| March of the Undead | 0.40% | ~381 |
+| No Time To Rest | 0.40% | ~381 |
+| The Dinner Party | 0.40% | ~381 |
+| The Botched Kidnapping | 0.40% | ~381 |
+| The Death Curse | 0.40% | ~381 |
+| Premature Betrayal | 0.40% | ~381 |
+| Flying Monkey Skulls of Doom | 0.40% | ~381 |
+| Constant Banditry | 0.40% | ~381 |
+| Underdeep Cartography | 0.40% | ~381 |
+| Overdue Rendezvous | 0.40% | ~381 |
+| The Templar's Camp | 0.40% | ~381 |
+| Rescue in the Jungle | 0.40% | ~381 |
 | Pros and CONs | 0.30% | ~285 |
 | Tall Tales | 0.30% | ~184 |
 | Third Third Out | 0.30% | ~184 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,056 (Ranked 63)  
-Completed: 1,945 (2.05%) (Ranked 71)  
+Progressed: 95,152 (Ranked 63)  
+Completed: 1,945 (2.04%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -558,7 +558,7 @@ Completed: 1,945 (2.05%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 95,056 | 1,945 |
+| 2023-06-17 | 95,152 | 1,945 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

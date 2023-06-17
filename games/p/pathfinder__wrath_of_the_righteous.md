@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 18.00% | ~1,788 |
-| Burning City | 12.00% | ~1,192 |
-| A Spark | 12.00% | ~1,192 |
-| Mythic Choices | 10.00% | ~993 |
-| Defender's Heart | 10.00% | ~993 |
+| Devoured by Darkness | 18.00% | ~1,789 |
+| Burning City | 12.00% | ~1,193 |
+| A Spark | 12.00% | ~1,193 |
+| Mythic Choices | 10.00% | ~994 |
+| Defender's Heart | 10.00% | ~994 |
 | Banner over the Citadel | 9.00% | ~894 |
 | Queen's Gratitude | 8.00% | ~795 |
 | Fifth Crusade | 5.00% | ~497 |
-| Embrace of the Abyss | 4.00% | ~397 |
-| Path of the Angel | 4.00% | ~397 |
-| Great Upstart | 4.00% | ~397 |
-| All Paths Open | 4.00% | ~397 |
-| Demonic and Divine | 4.00% | ~397 |
+| Embrace of the Abyss | 4.00% | ~398 |
+| Path of the Angel | 4.00% | ~398 |
+| Great Upstart | 4.00% | ~398 |
+| All Paths Open | 4.00% | ~398 |
+| Demonic and Divine | 4.00% | ~398 |
 | Path of the Azata | 3.00% | ~298 |
 | Transformation | 3.00% | ~298 |
 | The Legacy | 3.00% | ~298 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Abyssal Conspiracy | 1.00% | ~99 |
 | Truly Important Deed | 1.00% | ~99 |
 | This Wall Won't Fall | 0.90% | ~78 |
-| The Final Threshold | 0.80% | ~79 |
+| The Final Threshold | 0.80% | ~80 |
 | Not the Last Sarkorian | 0.80% | ~70 |
 | Strategic Victory | 0.70% | ~70 |
 | End of Eternal Guard | 0.70% | ~70 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,934 (Ranked 114)  
-Completed: 0 (0.00%) (Ranked 226)  
+Progressed: 9,938 (Ranked 114)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 9,861 | 0 |
 | 2023-06-15 | 9,896 | 0 |
 | 2023-06-16 | 9,923 | 0 |
-| 2023-06-17 | 9,934 | 0 |
+| 2023-06-17 | 9,938 | 0 |
 ## Awards
 Max (Character Customization): 1,662  (Ranked 112)  
 Sum: 6,751 (Ranked 109)  

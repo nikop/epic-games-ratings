@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-06-17T08:06:06.3022946+00:00",
       "NumProgressed": 662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T13:09:32.3228307+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1005,7 +1010,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH001",
@@ -1013,7 +1018,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH002",
@@ -1037,7 +1042,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH005",
@@ -1101,7 +1106,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH013",
@@ -1139,9 +1144,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH018",
@@ -1173,7 +1178,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH022",
@@ -1189,7 +1194,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH024",
@@ -1245,7 +1250,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH031",
@@ -1293,7 +1298,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH037",
@@ -1381,7 +1386,7 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH048",
@@ -1389,7 +1394,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH049",
@@ -1404,15 +1409,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 663,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-17T12:07:38.1450806+00:00",
+  "LastChanged_Achievements": "2023-06-17T13:09:32.3228299+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9795922+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:59:05.8307683+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:07:38.1451283+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:01:34.0131168+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:09:32.3228654+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,588 |
+| Tattletale | 42.00% | ~5,589 |
 | Man of politics | 35.00% | ~4,657 |
 | Friends of sorts | 34.00% | ~4,524 |
 | Yet another secret | 34.00% | ~4,524 |
@@ -28,13 +28,13 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,464 |
 | Friar Tuck | 11.00% | ~1,464 |
 | First profit | 11.00% | ~1,464 |
-| Team player | 10.00% | ~1,330 |
-| Skilled merchant | 9.00% | ~1,197 |
-| Nothing but make-believe | 9.00% | ~1,197 |
-| Brother Marcus | 9.00% | ~1,197 |
-| The oath | 9.00% | ~1,197 |
-| The truth revealed | 9.00% | ~1,197 |
-| The End. | 9.00% | ~1,197 |
+| Team player | 10.00% | ~1,331 |
+| Skilled merchant | 9.00% | ~1,198 |
+| Nothing but make-believe | 9.00% | ~1,198 |
+| Brother Marcus | 9.00% | ~1,198 |
+| The oath | 9.00% | ~1,198 |
+| The truth revealed | 9.00% | ~1,198 |
+| The End. | 9.00% | ~1,198 |
 | A cry for help | 8.00% | ~1,064 |
 | Silentium est aureum | 7.00% | ~931 |
 | Rebel without a cause | 6.00% | ~798 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~399 |
 | Boy of mystery | 2.00% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,305 (Ranked 108)  
+Progressed: 13,306 (Ranked 108)  
 Completed: 100 (0.75%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 100 (0.75%) (Ranked 105)
 | 2023-06-14 | 13,257 | 100 |
 | 2023-06-15 | 13,275 | 100 |
 | 2023-06-16 | 13,294 | 100 |
-| 2023-06-17 | 13,305 | 100 |
+| 2023-06-17 | 13,306 | 100 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 291)  
 Sum: 188 (Ranked 361)  

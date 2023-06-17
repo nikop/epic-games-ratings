@@ -3,9 +3,9 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.1780246+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:57:23.0671445+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:03:44.3812878+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:00:07.8209622+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:06:17.9151723+00:00"
 }

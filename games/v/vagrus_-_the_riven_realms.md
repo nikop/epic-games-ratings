@@ -9,7 +9,7 @@
 | The Package | 22.00% | ~23 |
 | Conquered | 12.00% | ~13 |
 | Randomized | 11.00% | ~12 |
-| Conciliator | 4.00% | ~4 |
+| Conciliator | 5.00% | ~5 |
 | Scribe | 4.00% | ~4 |
 | Breached | 4.00% | ~4 |
 | Fight Another Day | 4.00% | ~4 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 105 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

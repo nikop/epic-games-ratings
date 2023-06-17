@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -1432,9 +1432,9 @@
       "ID": "ID_ACHIEV_07",
       "SetID": "98bke8c",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3768
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1544,9 +1544,9 @@
       "ID": "ID_ACHIEV_21",
       "SetID": "98bke8c",
       "Name": "Shall Not Pass",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 488
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -1928,8 +1928,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-17T12:02:33.3432973+00:00",
+  "LastChanged_Achievements": "2023-06-17T13:05:13.517785+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.1207834+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:58:28.9387731+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:02:33.3433739+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:01:01.7152254+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:05:13.5178537+00:00"
 }

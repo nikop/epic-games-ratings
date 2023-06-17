@@ -21,10 +21,10 @@ Rating: 3.86 (Ranked 924)
 | All Wheel Trouble | 7.00% | ~89 |
 | Space Forest | 7.00% | ~89 |
 | ITS crash site | 5.00% | ~64 |
+| “Aliens” | 4.00% | ~51 |
 | DeDust | 4.00% | ~51 |
-| “Aliens” | 3.00% | ~38 |
+| Plumber | 3.00% | ~38 |
 | Hard Landing | 2.00% | ~25 |
-| Plumber | 2.00% | ~25 |
 | To infinity and beyond! | 2.00% | ~25 |
 | Driver's License | 1.00% | ~13 |
 | Explosive Miner | 0.90% | ~11 |
@@ -55,7 +55,7 @@ Rating: 3.86 (Ranked 924)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,272 (Ranked 169)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

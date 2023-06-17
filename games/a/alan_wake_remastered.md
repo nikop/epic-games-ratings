@@ -6,56 +6,56 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,742 |
-| Let There Be Light | 25.00% | ~13,861 |
-| Float Like a Butterfly | 24.00% | ~13,307 |
-| Nordic Walking | 19.00% | ~10,534 |
-| Bright Falls' Finest | 19.00% | ~10,534 |
-| Under a Thin Layer of Skin | 16.00% | ~8,871 |
-| Park Ranger | 13.00% | ~7,208 |
-| Finders Keepers | 13.00% | ~7,208 |
-| Paging Mr. Wake | 13.00% | ~7,208 |
-| Back! Back, I Say! | 12.00% | ~6,653 |
-| They're Heeeeeere! | 11.00% | ~6,099 |
-| Sound and Fury | 11.00% | ~6,099 |
-| Missed by a Mile | 11.00% | ~6,099 |
-| Damn Good Cup of Coffee | 11.00% | ~6,099 |
-| Wheels Within Wheels | 10.00% | ~5,544 |
-| The Six-Gun Scribe | 10.00% | ~5,544 |
-| Come One, Come All | 10.00% | ~5,544 |
-| Heavy Metal | 9.00% | ~4,990 |
-| Iron Horse | 9.00% | ~4,990 |
-| Perchance to Dream | 9.00% | ~4,990 |
-| Collateral Carnage | 9.00% | ~4,990 |
+| Follow the Light | 32.00% | ~17,745 |
+| Let There Be Light | 25.00% | ~13,863 |
+| Float Like a Butterfly | 24.00% | ~13,308 |
+| Nordic Walking | 19.00% | ~10,536 |
+| Bright Falls' Finest | 19.00% | ~10,536 |
+| Under a Thin Layer of Skin | 16.00% | ~8,872 |
+| Park Ranger | 13.00% | ~7,209 |
+| Finders Keepers | 13.00% | ~7,209 |
+| Paging Mr. Wake | 13.00% | ~7,209 |
+| Back! Back, I Say! | 12.00% | ~6,654 |
+| They're Heeeeeere! | 11.00% | ~6,100 |
+| Sound and Fury | 11.00% | ~6,100 |
+| Missed by a Mile | 11.00% | ~6,100 |
+| Damn Good Cup of Coffee | 11.00% | ~6,100 |
+| Wheels Within Wheels | 10.00% | ~5,545 |
+| The Six-Gun Scribe | 10.00% | ~5,545 |
+| Come One, Come All | 10.00% | ~5,545 |
+| Heavy Metal | 9.00% | ~4,991 |
+| Iron Horse | 9.00% | ~4,991 |
+| Perchance to Dream | 9.00% | ~4,991 |
+| Collateral Carnage | 9.00% | ~4,991 |
 | Gatekeeper | 8.00% | ~4,436 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,436 |
 | Thunder and Lightning | 8.00% | ~4,436 |
 | Two For the Price of One | 8.00% | ~4,436 |
 | Energized! | 8.00% | ~4,436 |
-| A Friend in Need | 8.00% | ~1,513 |
-| The Lady of the Light | 7.00% | ~3,881 |
-| Right of Way | 7.00% | ~3,881 |
+| A Friend in Need | 8.00% | ~1,514 |
+| The Lady of the Light | 7.00% | ~3,882 |
+| Right of Way | 7.00% | ~3,882 |
 | Tornado Wrangler | 6.00% | ~3,327 |
 | What Light Through Yonder Window | 6.00% | ~3,327 |
 | A Friend Indeed | 6.00% | ~1,135 |
-| Departure | 5.00% | ~2,772 |
+| Departure | 5.00% | ~2,773 |
 | Ding! | 5.00% | ~946 |
 | Children of the Elder God | 4.00% | ~2,218 |
 | Drink 'Em Both Up | 4.00% | ~2,218 |
 | Hardboiled Writer | 4.00% | ~2,218 |
-| Boob Tube | 3.00% | ~1,663 |
-| If It Flies, It Burns | 3.00% | ~1,663 |
-| KBF-FM | 3.00% | ~1,663 |
-| Kill Your Darlings | 3.00% | ~567 |
-| Heartbreaker | 3.00% | ~567 |
+| Boob Tube | 3.00% | ~1,664 |
+| If It Flies, It Burns | 3.00% | ~1,664 |
+| KBF-FM | 3.00% | ~1,664 |
+| Kill Your Darlings | 3.00% | ~568 |
+| Heartbreaker | 3.00% | ~568 |
 | Medical Opinions | 2.00% | ~1,109 |
 | Taken Season | 2.00% | ~1,109 |
 | Carny | 2.00% | ~1,109 |
 | An Idyllic Small Town | 2.00% | ~1,109 |
 | Iron Will | 2.00% | ~378 |
-| Couch Potato | 1.00% | ~554 |
+| Couch Potato | 1.00% | ~555 |
 | Go Gentle Into That Good Light | 1.00% | ~189 |
-| Words Will Never Harm You | 0.60% | ~113 |
+| Words Will Never Harm You | 0.60% | ~114 |
 | Fast and Furious | 0.50% | ~95 |
 | Cardboard Companions | 0.50% | ~95 |
 | License Revoked | 0.40% | ~76 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~55 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,444 (Ranked 77)  
+Progressed: 55,452 (Ranked 77)  
 Completed: 55 (0.10%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 55 (0.10%) (Ranked 172)
 | 2023-06-14 | 54,950 | 55 |
 | 2023-06-15 | 55,202 | 55 |
 | 2023-06-16 | 55,360 | 55 |
-| 2023-06-17 | 55,444 | 55 |
+| 2023-06-17 | 55,452 | 55 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

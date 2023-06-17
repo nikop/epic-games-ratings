@@ -6,29 +6,29 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,577 |
-| Wallbanger | 5.00% | ~19,577 |
-| Exploitative | 4.00% | ~15,661 |
-| High Speed Low Drag | 4.00% | ~15,661 |
-| Wet Feet | 4.00% | ~15,661 |
-| Checkpoint Victory | 3.00% | ~11,746 |
-| Lucky | 3.00% | ~11,746 |
-| Stylin' | 3.00% | ~11,746 |
-| Turf War | 3.00% | ~11,746 |
-| Banged | 2.00% | ~7,831 |
-| First Blood | 2.00% | ~7,831 |
-| Flaccid Paralysis | 2.00% | ~7,831 |
-| Push Victory | 2.00% | ~7,831 |
-| Self-destructive | 2.00% | ~7,831 |
-| Blindfire | 1.00% | ~3,915 |
-| Efficient | 1.00% | ~3,915 |
-| Ruthless | 1.00% | ~3,915 |
-| Semper Paratus | 1.00% | ~3,915 |
+| Point Shooting | 5.00% | ~19,579 |
+| Wallbanger | 5.00% | ~19,579 |
+| Exploitative | 4.00% | ~15,663 |
+| High Speed Low Drag | 4.00% | ~15,663 |
+| Wet Feet | 4.00% | ~15,663 |
+| Checkpoint Victory | 3.00% | ~11,747 |
+| Lucky | 3.00% | ~11,747 |
+| Stylin' | 3.00% | ~11,747 |
+| Turf War | 3.00% | ~11,747 |
+| Banged | 2.00% | ~7,832 |
+| First Blood | 2.00% | ~7,832 |
+| Flaccid Paralysis | 2.00% | ~7,832 |
+| Push Victory | 2.00% | ~7,832 |
+| Self-destructive | 2.00% | ~7,832 |
+| Blindfire | 1.00% | ~3,916 |
+| Efficient | 1.00% | ~3,916 |
+| Ruthless | 1.00% | ~3,916 |
+| Semper Paratus | 1.00% | ~3,916 |
 | Carrying | 0.90% | ~3,524 |
 | Mount & Gun | 0.90% | ~3,524 |
 | Personal | 0.90% | ~3,524 |
-| Grounded | 0.80% | ~3,132 |
-| Play to Win | 0.80% | ~3,132 |
+| Grounded | 0.80% | ~3,133 |
+| Play to Win | 0.80% | ~3,133 |
 | #1 | 0.70% | ~2,741 |
 | Special Delivery | 0.70% | ~2,741 |
 | Firefight Victory | 0.60% | ~2,349 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~392 |
 | Road Hazard | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391,532 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 226)  
+Progressed: 391,582 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,10 +100,10 @@ Completed: 2 (0.00%) (Ranked 226)
 | 2023-06-14 | 387,902 | 2 |
 | 2023-06-15 | 389,537 | 2 |
 | 2023-06-16 | 390,847 | 2 |
-| 2023-06-17 | 391,532 | 2 |
+| 2023-06-17 | 391,582 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 359  (Ranked 215)  
-Sum: 2,716 (Ranked 162)  
+Sum: 2,717 (Ranked 162)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +115,7 @@ Diff (max vs sum): 53
 | This game has Amazing Storytelling | 290 |
 | This game is Highly Recommended | 288 |
 | This game has Amazing Characters | 280 |
-| This game has a Competitive Community | 241 |
+| This game has a Competitive Community | 242 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -273,4 +273,4 @@ Diff (max vs sum): 53
 | 2023-06-13 | 4.62 | - | 357 | 2,707 |
 | 2023-06-15 | 4.62 | - | 358 | 2,713 |
 | 2023-06-16 | 4.62 | - | 358 | 2,714 |
-| 2023-06-17 | 4.62 | - | 359 | 2,716 |
+| 2023-06-17 | 4.62 | - | 359 | 2,717 |

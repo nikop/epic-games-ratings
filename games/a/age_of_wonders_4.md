@@ -1,19 +1,19 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 413)  
+Rating: 4.59 (Ranked 412)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,715 |
 | Realm Estate | 76.00% | ~3,574 |
-| Secret Technique | 75.00% | ~3,526 |
-| Walls Cannot Stop Us | 73.00% | ~3,432 |
-| From Friends to Family | 69.00% | ~3,244 |
-| Magical Synergy | 65.00% | ~3,056 |
-| Bone Peddler | 61.00% | ~2,868 |
-| Stronger Together | 57.00% | ~2,680 |
-| Full Ascension | 55.00% | ~2,586 |
+| Secret Technique | 75.00% | ~3,527 |
+| Walls Cannot Stop Us | 73.00% | ~3,433 |
+| From Friends to Family | 69.00% | ~3,245 |
+| Magical Synergy | 65.00% | ~3,057 |
+| Bone Peddler | 61.00% | ~2,869 |
+| Stronger Together | 57.00% | ~2,681 |
+| Full Ascension | 55.00% | ~2,587 |
 | Seat of Power | 49.00% | ~2,304 |
 | There Can Only Be One! | 48.00% | ~2,257 |
 | Intimidation Tactics | 45.00% | ~2,116 |
@@ -25,12 +25,12 @@ Rating: 4.59 (Ranked 413)
 | Digging for Treasure | 31.00% | ~1,458 |
 | Enchanted Archipelago | 29.00% | ~1,364 |
 | Impenetrable Fortress | 28.00% | ~1,317 |
-| The Magic That Empowers Me! | 21.00% | ~987 |
-| Preparation Is Everything | 21.00% | ~987 |
-| Arch Mage | 20.00% | ~940 |
-| God Emperor | 19.00% | ~893 |
-| Eternal Lord | 18.00% | ~846 |
-| Crimson Caldera | 18.00% | ~846 |
+| The Magic That Empowers Me! | 21.00% | ~988 |
+| Preparation Is Everything | 21.00% | ~988 |
+| Arch Mage | 20.00% | ~941 |
+| God Emperor | 19.00% | ~894 |
+| Eternal Lord | 18.00% | ~847 |
+| Crimson Caldera | 18.00% | ~847 |
 | Lord of Chaos | 15.00% | ~705 |
 | The Creator | 15.00% | ~705 |
 | The Goddess of Nature | 15.00% | ~705 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 413)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,702 (Ranked 131)  
+Progressed: 4,703 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 3 (0.06%) (Ranked 190)
 | 2023-06-14 | 4,635 | 3 |
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
-| 2023-06-17 | 4,702 | 3 |
+| 2023-06-17 | 4,703 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 96.00% | ~489 |
-| Terminated I | 82.00% | ~417 |
+| Terminated I | 83.00% | ~422 |
+| Nanonic I | 79.00% | ~402 |
 | Challenge Accepted | 78.00% | ~397 |
-| Nanonic I | 78.00% | ~397 |
-| Unlocked and Loaded | 75.00% | ~382 |
+| Unlocked and Loaded | 76.00% | ~387 |
 | Terminated II | 66.00% | ~336 |
-| The City | 50.00% | ~254 |
+| The City | 51.00% | ~260 |
 | Terminated III | 44.00% | ~224 |
 | Challenge Mastered | 42.00% | ~214 |
 | Nanonic II | 37.00% | ~188 |
@@ -19,9 +19,9 @@
 | Starship Docks | 24.00% | ~122 |
 | Nanonic III | 24.00% | ~122 |
 | Cybernetic | 19.00% | ~97 |
-| The Bigger They Are | 17.00% | ~87 |
+| The Bigger They Are | 18.00% | ~92 |
+| Up Close And Personal | 16.00% | ~81 |
 | Eden Heights | 15.00% | ~76 |
-| Up Close And Personal | 15.00% | ~76 |
 | Outer Core | 11.00% | ~56 |
 | Inner Core | 6.00% | ~31 |
 | Trickshot | 6.00% | ~31 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 509 (Ranked 205)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

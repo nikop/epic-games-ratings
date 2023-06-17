@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 460832,
+  "EOS_Progressed": 460837,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6315,6 +6315,11 @@
       "Time": "2023-06-17T12:07:48.1553364+00:00",
       "NumProgressed": 460832,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-17T13:09:41.8051009+00:00",
+      "NumProgressed": 460837,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6414,7 +6419,7 @@
       "Name": "The Shutdown",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "achievement_story_landa",
@@ -6750,7 +6755,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -6957,21 +6962,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4766,
+      "Progressed": 4771,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460832,
+      "Progressed": 460837,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-17T12:07:48.1553358+00:00",
+  "LastChanged_Achievements": "2023-06-17T13:09:41.8051001+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:54.1590462+00:00",
-  "LastUpdate_Ratings": "2023-06-17T12:00:08.0842428+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:07:48.15544+00:00"
+  "LastUpdate_Ratings": "2023-06-17T13:02:26.9928286+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:09:41.8052037+00:00"
 }

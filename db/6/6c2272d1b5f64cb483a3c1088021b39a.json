@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1321,6 +1321,11 @@
       "Time": "2023-06-17T10:04:24.3589689+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T13:06:45.3218184+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1332,7 +1337,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "adventurous_2",
@@ -1402,7 +1407,7 @@
       "ID": "catacombs_raid_1",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 1",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1452,7 +1457,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "conqueror_2",
@@ -1500,15 +1505,15 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 263
     },
     {
       "ID": "elemental_stones_2",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 2",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "elemental_stones_3",
@@ -1859,14 +1864,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-17T12:04:26.5685034+00:00",
+  "LastChanged_Achievements": "2023-06-17T13:06:45.3218177+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-17T11:57:05.3883635+00:00",
-  "LastUpdate_Achievements": "2023-06-17T12:04:26.5685726+00:00"
+  "LastUpdate_Ratings": "2023-06-17T12:59:51.6292908+00:00",
+  "LastUpdate_Achievements": "2023-06-17T13:06:45.3218774+00:00"
 }

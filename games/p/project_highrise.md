@@ -10,7 +10,7 @@
 | Campaign Launch | 39.00% | ~86 |
 | Floor Galore | 37.00% | ~82 |
 | Dinner Dash | 37.00% | ~82 |
-| Need a Consult | 34.00% | ~75 |
+| Need a Consult | 35.00% | ~77 |
 | It's Technical | 34.00% | ~75 |
 | Upgrade Unlock | 33.00% | ~73 |
 | Delegate Maintenance | 33.00% | ~73 |
@@ -56,12 +56,12 @@
 | Penthouse in the Sky | 6.00% | ~13 |
 | I'm Busy Ruling | 6.00% | ~13 |
 | Careful Constructor | 6.00% | ~13 |
+| Water Features | 6.00% | ~13 |
 | Sky High Stature | 6.00% | ~13 |
 | Tuned In | 6.00% | ~13 |
 | It's a Gas | 6.00% | ~13 |
 | Baron of Business | 5.00% | ~11 |
 | Office Bigwigs | 5.00% | ~11 |
-| Water Features | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
 | Luxury Boutiques | 4.00% | ~9 |
 | Three of a Kind | 4.00% | ~9 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221 (Ranked 249)  
-Completed: 0 (0.00%) (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

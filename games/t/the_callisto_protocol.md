@@ -11,9 +11,9 @@ Rating: 4.18 (Ranked 847)
 | Paper Jams | 12.00% | ~1,849 |
 | Chew 'Em Up | 11.00% | ~1,695 |
 | Reforged | 11.00% | ~1,695 |
+| If the SHU Fits... | 10.00% | ~1,540 |
 | Get a Grip | 9.00% | ~1,386 |
 | Workplace Hazard | 9.00% | ~1,386 |
-| If the SHU Fits... | 9.00% | ~1,386 |
 | Giving Back | 8.00% | ~1,232 |
 | Without A Paddle | 8.00% | ~1,232 |
 | Two Heads Are Better Than One | 6.00% | ~924 |
