@@ -58,7 +58,7 @@
   "Tags": [],
   "EOS_Progressed": 1225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2294,9 +2294,9 @@
       "ID": "A33",
       "SetID": "9b7p7eo",
       "Name": "Locusts",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 184
     },
     {
       "ID": "A34",
@@ -2479,8 +2479,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:41.1701827+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:06:51.8589564+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:03:17.2967922+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:41.1702303+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:58:22.1371633+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:06:51.8590322+00:00"
 }

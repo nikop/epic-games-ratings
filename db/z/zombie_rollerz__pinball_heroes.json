@@ -427,9 +427,9 @@
       "ID": "CLG_UNLOCK_10006",
       "SetID": "89cjc9l",
       "Name": "The Assistant",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CLG_UNLOCK_10007",
@@ -451,9 +451,9 @@
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -507,9 +507,9 @@
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -908,8 +908,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:46.4511145+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:06:56.915489+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:02:36.6130508+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:46.4511753+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:57:42.1931862+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:06:56.9155591+00:00"
 }

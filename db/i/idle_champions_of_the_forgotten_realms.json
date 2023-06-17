@@ -4342,9 +4342,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 94407,
+  "EOS_Progressed": 94460,
   "EOS_Completed": 1943,
-  "EOS_NewPlayers": 4126,
+  "EOS_NewPlayers": 4176,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
@@ -10252,6 +10252,11 @@
       "Time": "2023-06-17T02:11:50.3797345+00:00",
       "NumProgressed": 94407,
       "NumCompleted": 1943
+    },
+    {
+      "Time": "2023-06-17T03:07:00.9159567+00:00",
+      "NumProgressed": 94460,
+      "NumCompleted": 1943
     }
   ],
   "TotalAchievements": 493,
@@ -10263,7 +10268,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3778
     },
     {
       "ID": "objective_completed_10",
@@ -10565,9 +10570,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 378
     },
     {
       "ID": "objective_completed_1090",
@@ -10631,7 +10636,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "objective_completed_110",
@@ -11127,7 +11132,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_1203",
@@ -11135,7 +11140,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "objective_completed_1204",
@@ -11151,7 +11156,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "objective_completed_1209",
@@ -11383,7 +11388,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "objective_completed_150",
@@ -11591,7 +11596,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "objective_completed_20",
@@ -11935,7 +11940,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "objective_completed_34",
@@ -11943,7 +11948,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "objective_completed_35",
@@ -11951,7 +11956,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "objective_completed_36",
@@ -12407,7 +12412,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "objective_completed_540",
@@ -12885,9 +12890,9 @@
       "ID": "objective_completed_61",
       "SetID": "cc37lbc",
       "Name": "Market Fluctuations",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 283
     },
     {
       "ID": "objective_completed_610",
@@ -13407,7 +13412,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "objective_completed_70",
@@ -13479,7 +13484,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_80",
@@ -14175,7 +14180,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_completed_1356",
@@ -14191,7 +14196,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "objective_completed_1361",
@@ -14199,28 +14204,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 60681,
+      "Progressed": 60734,
       "Completed": 2796
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 94407,
+      "Progressed": 94460,
       "Completed": 1943
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-16T19:58:23.2627907+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:50.3797341+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:07:00.915956+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:03:17.0183284+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:50.3819795+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:58:21.8751407+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:07:00.9189208+00:00"
 }

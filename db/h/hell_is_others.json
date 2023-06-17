@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251246,
+  "EOS_Progressed": 251249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6314,6 +6314,11 @@
       "Time": "2023-06-17T02:08:53.9270981+00:00",
       "NumProgressed": 251246,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T03:03:46.6264795+00:00",
+      "NumProgressed": 251249,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6373,7 +6378,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77886
+      "UsersEstimate": 77887
     },
     {
       "ID": "BackHomeNTimes",
@@ -6507,9 +6512,9 @@
       "ID": "FullInventoryExpansion",
       "SetID": "3l9dm1h",
       "Name": "Workhorse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "GrowPlantWithFertilisers",
@@ -6613,7 +6618,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55274
+      "UsersEstimate": 55275
     },
     {
       "ID": "KillOthers2",
@@ -6772,7 +6777,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251246,
+      "Progressed": 251249,
       "Completed": 1
     }
   ],
@@ -6780,8 +6785,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-16T11:01:23.1488422+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:08:53.9270977+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:03:46.6264788+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:05:36.9707022+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:08:53.9271622+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:00:48.3027089+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:03:46.6265675+00:00"
 }

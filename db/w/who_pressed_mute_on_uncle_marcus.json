@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "just_like_me",
@@ -414,9 +414,9 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:25.0150189+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:06:35.8797007+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:37.8118937+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:05:25.198403+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:25.0150297+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:00:36.3129865+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:06:35.8797137+00:00"
 }

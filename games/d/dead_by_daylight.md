@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,636 |
-| Resurgence | 1.00% | ~5,636 |
-| Preemptive Strike | 1.00% | ~5,636 |
-| Humanitarian | 0.90% | ~5,073 |
-| Close Shave | 0.80% | ~4,509 |
-| Wounded Healer | 0.70% | ~3,945 |
-| Flight to Freedom | 0.70% | ~3,945 |
-| Unforgettable Getaway | 0.60% | ~3,382 |
-| First to the Punch | 0.60% | ~3,382 |
-| Old West Oasis | 0.60% | ~3,382 |
-| With Scars to Show | 0.60% | ~3,382 |
-| Every Last Drop | 0.50% | ~2,818 |
+| Healthy Obsession | 1.00% | ~5,638 |
+| Resurgence | 1.00% | ~5,638 |
+| Preemptive Strike | 1.00% | ~5,638 |
+| Humanitarian | 1.00% | ~5,638 |
+| Close Shave | 0.80% | ~4,510 |
+| Wounded Healer | 0.70% | ~3,947 |
+| Flight to Freedom | 0.70% | ~3,947 |
+| Unforgettable Getaway | 0.60% | ~3,383 |
+| First to the Punch | 0.60% | ~3,383 |
+| Old West Oasis | 0.60% | ~3,383 |
+| With Scars to Show | 0.60% | ~3,383 |
+| Operation: Survival | 0.50% | ~2,819 |
+| Every Last Drop | 0.50% | ~2,819 |
 | Cutting Out | 0.40% | ~2,255 |
 | Outrun Evil | 0.40% | ~2,255 |
-| Operation: Survival | 0.40% | ~2,255 |
 | Classy Act | 0.40% | ~2,255 |
 | Raccoon City Recruit | 0.40% | ~2,255 |
 | A Fast Death | 0.40% | ~2,255 |
@@ -35,15 +35,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.30% | ~1,691 |
 | Insult and Injury | 0.30% | ~1,691 |
 | Outrun the Overlap | 0.30% | ~1,691 |
-| Heavy Burden | 0.20% | ~1,127 |
-| I See You | 0.20% | ~1,127 |
-| Power Moves | 0.20% | ~1,127 |
-| Punch Drunk | 0.20% | ~1,127 |
-| Prowler | 0.20% | ~1,127 |
-| Triage | 0.20% | ~1,127 |
-| High Speed Pursuit | 0.20% | ~1,127 |
-| Rebuilding The Borgo | 0.20% | ~1,127 |
-| Hack the Mainframe | 0.20% | ~1,127 |
+| Heavy Burden | 0.20% | ~1,128 |
+| I See You | 0.20% | ~1,128 |
+| Power Moves | 0.20% | ~1,128 |
+| Punch Drunk | 0.20% | ~1,128 |
+| Prowler | 0.20% | ~1,128 |
+| Triage | 0.20% | ~1,128 |
+| High Speed Pursuit | 0.20% | ~1,128 |
+| Rebuilding The Borgo | 0.20% | ~1,128 |
+| Hack the Mainframe | 0.20% | ~1,128 |
 | The Grand Sacrifice | 0.10% | ~564 |
 | A bite for the Entity | 0.10% | ~564 |
 | A feast for the Entity | 0.10% | ~564 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~564 |
 | Adept Gabriel | 0.10% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563,638 (Ranked 26)  
+Progressed: 563,792 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 563,638 | 42 |
+| 2023-06-17 | 563,792 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
 Sum: 227,936 (Ranked 12)  

@@ -28,15 +28,15 @@
 | 1 is all I need | 21.00% | ~22 |
 | The Slime | 21.00% | ~22 |
 | The Giant | 19.00% | ~20 |
+| The Flower | 18.00% | ~19 |
 | Out of the Frying Pan... | 18.00% | ~19 |
 | The Blacksmith | 17.00% | ~18 |
-| The Flower | 17.00% | ~18 |
 | The Ooze | 16.00% | ~17 |
 | Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
-| The Assistant | 13.00% | ~14 |
+| The Assistant | 14.00% | ~15 |
+| The Steampunk | 12.00% | ~13 |
 | Verse | 12.00% | ~13 |
-| The Steampunk | 11.00% | ~12 |
 | The Droid | 10.00% | ~10 |
 | Iron | 10.00% | ~10 |
 | Tested | 10.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61830,
+  "EOS_Progressed": 61832,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1162,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -6126,6 +6126,11 @@
       "Time": "2023-06-17T02:11:28.5699655+00:00",
       "NumProgressed": 61830,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-06-17T03:06:39.485655+00:00",
+      "NumProgressed": 61832,
+      "NumCompleted": 541
     }
   ],
   "TotalAchievements": 25,
@@ -6153,7 +6158,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11129
+      "UsersEstimate": 11130
     },
     {
       "ID": "Audiophile",
@@ -6336,7 +6341,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61830,
+      "Progressed": 61832,
       "Completed": 541
     }
   ],
@@ -6344,8 +6349,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:28.5699606+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:06:39.4856547+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:00.3005038+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:05:52.2578321+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:28.5700078+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:01:04.8280089+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:06:39.4956526+00:00"
 }

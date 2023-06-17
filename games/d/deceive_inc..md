@@ -6,29 +6,29 @@ Rating: 4.64 (Ranked 316)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,364 |
-| Mainframe Hacker | 47.00% | ~3,204 |
-| The Spy who eliminated me | 47.00% | ~3,204 |
-| Tomorrow Never Dyes | 46.00% | ~3,136 |
-| Never Say Loser Again | 40.00% | ~2,727 |
+| Mainframe Hacker | 47.00% | ~3,205 |
+| The Spy who eliminated me | 47.00% | ~3,205 |
+| Tomorrow Never Dyes | 46.00% | ~3,137 |
+| Never Say Loser Again | 40.00% | ~2,728 |
 | For your Eyes only | 39.00% | ~2,659 |
 | From the Vault with Love | 37.00% | ~2,523 |
 | Tailor-Made | 37.00% | ~2,523 |
-| Fully Decked Out | 35.00% | ~2,386 |
+| Fully Decked Out | 35.00% | ~2,387 |
 | You Only Live Twice | 33.00% | ~2,250 |
 | A view to Win | 28.00% | ~1,909 |
-| Private Collection | 25.00% | ~1,704 |
-| Smells Like Trouble | 25.00% | ~1,704 |
-| Assistant Accountant | 24.00% | ~1,636 |
-| The Living Portrait | 24.00% | ~1,636 |
-| My Motto, My Creed | 24.00% | ~1,636 |
-| Killer Looks | 24.00% | ~1,636 |
-| Hostile Takeover | 24.00% | ~1,636 |
+| Private Collection | 25.00% | ~1,705 |
+| Smells Like Trouble | 25.00% | ~1,705 |
+| Assistant Accountant | 24.00% | ~1,637 |
+| The Living Portrait | 24.00% | ~1,637 |
+| My Motto, My Creed | 24.00% | ~1,637 |
+| Killer Looks | 24.00% | ~1,637 |
+| Hostile Takeover | 24.00% | ~1,637 |
 | Keycards Royale | 23.00% | ~1,568 |
 | Dr. No Kill | 23.00% | ~1,568 |
 | In It to Win It | 22.00% | ~1,500 |
 | Security Supervisor | 10.00% | ~682 |
 | Social of Solace | 9.00% | ~614 |
-| License to Thrill | 8.00% | ~545 |
+| License to Thrill | 8.00% | ~546 |
 | Safe Withdrawal | 6.00% | ~409 |
 | Live and let lie | 5.00% | ~341 |
 | Call Me Maybe | 5.00% | ~341 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,818 (Ranked 121)  
+Progressed: 6,819 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 6,800 | 0 |
 | 2023-06-15 | 6,809 | 0 |
 | 2023-06-16 | 6,818 | 0 |
+| 2023-06-17 | 6,819 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,28 +6,28 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~3,776 |
-| The Cursed Farmer | 2.00% | ~1,888 |
-| Beast Intentions | 1.00% | ~944 |
-| The Ring of Regeneration | 1.00% | ~944 |
-| The Mad Wizard | 1.00% | ~944 |
+| A Brief Tour of the Realms | 4.00% | ~3,778 |
+| The Cursed Farmer | 2.00% | ~1,889 |
+| Beast Intentions | 1.00% | ~945 |
+| The Ring of Regeneration | 1.00% | ~945 |
+| The Mad Wizard | 1.00% | ~945 |
 | Seeking Allies | 0.90% | ~850 |
 | Are Ya Chicken? | 0.90% | ~850 |
-| The Court of Storms | 0.90% | ~546 |
-| Were-verpowered | 0.80% | ~755 |
-| Friendly Imps | 0.80% | ~755 |
-| Beware the Jabberwock | 0.80% | ~485 |
+| The Court of Storms | 0.90% | ~547 |
+| Were-verpowered | 0.80% | ~756 |
+| Friendly Imps | 0.80% | ~756 |
+| Beware the Jabberwock | 0.80% | ~486 |
 | A Persistent Buzzing | 0.70% | ~661 |
 | Mad Cow Disease | 0.70% | ~661 |
 | Pure Energy | 0.70% | ~661 |
-| Terror in the Dark | 0.60% | ~566 |
-| Unearthed Evil | 0.60% | ~566 |
-| The Crumbling Temple | 0.60% | ~566 |
-| Exploring Port Nyanzaru | 0.60% | ~566 |
+| Terror in the Dark | 0.60% | ~567 |
+| Unearthed Evil | 0.60% | ~567 |
+| The Crumbling Temple | 0.60% | ~567 |
+| Exploring Port Nyanzaru | 0.60% | ~567 |
 | Coasting to the Finish | 0.60% | ~364 |
 | Maddening | 0.50% | ~472 |
-| Checkmate | 0.50% | ~303 |
-| Vecna Out! | 0.50% | ~303 |
+| Checkmate | 0.50% | ~304 |
+| Vecna Out! | 0.50% | ~304 |
 | Beast Mode | 0.50% | ~472 |
 | A Mysterious Summons | 0.50% | ~472 |
 | Building Trust | 0.50% | ~472 |
@@ -36,7 +36,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.50% | ~472 |
 | Escort to Waterdeep | 0.50% | ~472 |
 | Waterdeep Detours | 0.50% | ~472 |
-| Quick or Quack | 0.50% | ~303 |
+| Quick or Quack | 0.50% | ~304 |
+| The Silken Swamp | 0.40% | ~378 |
 | Owlbear Necessities | 0.40% | ~243 |
 | Best Thay Ever | 0.40% | ~243 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~243 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.30% | ~283 |
 | Tall Tales | 0.30% | ~182 |
 | Third Third Out | 0.30% | ~182 |
-| The Silken Swamp | 0.30% | ~283 |
 | Wet Feet | 0.30% | ~283 |
 | Supply Run | 0.30% | ~283 |
 | Keep Your Distance | 0.30% | ~182 |
@@ -98,6 +98,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~283 |
 | The Darkness Runs Deeper | 0.30% | ~283 |
 | Dinosaur Racing | 0.30% | ~283 |
+| Market Fluctuations | 0.30% | ~283 |
 | Hearts Aflame | 0.30% | ~182 |
 | Look Out! | 0.30% | ~182 |
 | Bad Odds in Avernus | 0.30% | ~182 |
@@ -296,7 +297,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.20% | ~189 |
 | Shadow Stalkers | 0.20% | ~121 |
 | Avernus Frozen Over | 0.20% | ~121 |
-| Market Fluctuations | 0.20% | ~189 |
 | Once More Into The Breach | 0.20% | ~189 |
 | Nightmare Mode | 0.20% | ~121 |
 | Wyllowwood | 0.20% | ~189 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~61 |
 | Ineffectual Intellectuals | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,407 (Ranked 63)  
+Progressed: 94,460 (Ranked 63)  
 Completed: 1,943 (2.06%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 1,943 (2.06%) (Ranked 70)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 94,407 | 1,943 |
+| 2023-06-17 | 94,460 | 1,943 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,126 (Ranked 37)  

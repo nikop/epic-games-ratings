@@ -40,7 +40,7 @@ Rating: 4.25 (Ranked 796)
 | Traffic Jam | 16.00% | ~196 |
 | Traffic Junction | 16.00% | ~196 |
 | Assimilated | 15.00% | ~184 |
-| Locusts | 14.00% | ~172 |
+| Locusts | 15.00% | ~184 |
 | Networker | 14.00% | ~172 |
 | Resistance is futile | 13.00% | ~159 |
 | Settler | 11.00% | ~135 |

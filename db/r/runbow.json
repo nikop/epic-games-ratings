@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244974,
+  "EOS_Progressed": 244975,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5479,6 +5479,11 @@
       "Time": "2023-06-17T02:11:28.3706751+00:00",
       "NumProgressed": 244974,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-17T03:06:39.2552646+00:00",
+      "NumProgressed": 244975,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5506,7 +5511,7 @@
       "Name": "And You\u0027re Okay",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "beAgressive",
@@ -5522,7 +5527,7 @@
       "Name": "Blotbuster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "breakingOut",
@@ -5586,7 +5591,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44095
+      "UsersEstimate": 44096
     },
     {
       "ID": "curator",
@@ -5666,7 +5671,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129836
+      "UsersEstimate": 129837
     },
     {
       "ID": "indegestible",
@@ -5690,7 +5695,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63693
+      "UsersEstimate": 63694
     },
     {
       "ID": "justABit",
@@ -5730,7 +5735,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122487
+      "UsersEstimate": 122488
     },
     {
       "ID": "notScared",
@@ -5857,7 +5862,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244974,
+      "Progressed": 244975,
       "Completed": 3
     }
   ],
@@ -5865,8 +5870,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:11:28.3706747+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:06:39.2552641+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:04:25.7578989+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:11:28.3707335+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:59:31.4016497+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:06:39.2553421+00:00"
 }

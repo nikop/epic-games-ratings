@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1560,
+  "EOS_Progressed": 1561,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-06-17T02:09:11.697282+00:00",
       "NumProgressed": 1560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T03:04:04.9443495+00:00",
+      "NumProgressed": 1561,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2197,15 +2202,15 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 31
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -2221,7 +2226,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "GUARD_MAKER",
@@ -2292,14 +2297,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1560,
+      "Progressed": 1561,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-17T02:09:11.6972815+00:00",
+  "LastChanged_Achievements": "2023-06-17T03:04:04.9443485+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:02:14.4027256+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:09:11.6973046+00:00"
+  "LastUpdate_Ratings": "2023-06-17T02:57:19.4880402+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:04:04.9443821+00:00"
 }

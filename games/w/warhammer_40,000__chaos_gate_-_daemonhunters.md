@@ -19,8 +19,8 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 11.00% | ~319 |
 | The Emperor Protects | 11.00% | ~319 |
 | Nemesis Master | 11.00% | ~319 |
+| Gunmaster | 11.00% | ~319 |
 | A Foul Creche | 11.00% | ~319 |
-| Gunmaster | 10.00% | ~290 |
 | Opportunist | 8.00% | ~232 |
 | Efficient Killer | 8.00% | ~232 |
 | Just a Scratch | 8.00% | ~232 |

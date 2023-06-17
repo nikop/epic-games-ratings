@@ -2,12 +2,12 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -5594,10 +5594,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1455775,
       "NumberOfAwardsMax": 185469
+    },
+    {
+      "Time": "2023-06-17T03:00:41.5602256+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1456309,
+      "NumberOfAwardsMax": 185469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1455775,
+  "NumberOfAwards": 1456309,
   "NumberOfAwardsMax": 185469,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5611,7 +5617,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 155611
+      "Count": 156145
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5673,8 +5679,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-17T02:05:30.9853861+00:00",
+  "LastChanged": "2023-06-17T03:00:41.5602255+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.0838985+00:00",
-  "LastUpdate_Ratings": "2023-06-17T02:05:30.9853874+00:00",
-  "LastUpdate_Achievements": "2023-06-17T02:09:56.0527269+00:00"
+  "LastUpdate_Ratings": "2023-06-17T03:00:41.5602265+00:00",
+  "LastUpdate_Achievements": "2023-06-17T03:04:49.5705854+00:00"
 }
