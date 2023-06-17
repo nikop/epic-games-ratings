@@ -78,7 +78,7 @@
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 199 |
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 497 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 460 |
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,308 | 51 |
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,310 | 51 |
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,400 | 95 |
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 201 | 263 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 326 |
@@ -318,7 +318,7 @@
 | 316 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 497 |
 | 316 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 497 |
 | 316 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 497 |
-| 316 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,938 | 54 |
+| 316 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,940 | 54 |
 | 316 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 315 |
 | 316 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 497 |
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 497 |
@@ -667,7 +667,7 @@
 | 658 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 241 |
 | 658 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 137 | 296 |
 | 658 | [Tunche](games/t/tunche.md) | 4.42 | 20 | 492 |
-| 658 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,129 | 132 |
+| 658 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,131 | 132 |
 | 669 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 497 |
 | 669 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 497 |
 | 669 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 337 |
@@ -701,7 +701,7 @@
 | 698 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 497 |
 | 698 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 497 |
 | 698 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 497 |
-| 698 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 557 | 178 |
+| 698 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 559 | 178 |
 | 698 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,692 | 32 |
 | 698 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 363 |
 | 698 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 497 |
