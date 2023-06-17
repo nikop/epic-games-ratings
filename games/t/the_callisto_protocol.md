@@ -16,12 +16,12 @@ Rating: 4.18 (Ranked 847)
 | Get a Grip | 8.00% | ~1,232 |
 | Without A Paddle | 8.00% | ~1,232 |
 | Giving Back | 7.00% | ~1,078 |
+| Two Heads Are Better Than One | 6.00% | ~924 |
 | Terminated | 6.00% | ~924 |
 | Float Like A Butterfly | 6.00% | ~924 |
 | In the Pipe, Five by Five | 6.00% | ~924 |
 | Crash Site | 6.00% | ~924 |
 | You Need a Gun | 5.00% | ~770 |
-| Two Heads Are Better Than One | 5.00% | ~770 |
 | Power Up | 5.00% | ~770 |
 | What Lies Beneath | 4.00% | ~616 |
 | Full Circle | 4.00% | ~616 |
@@ -47,7 +47,7 @@ Rating: 4.18 (Ranked 847)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,402 (Ranked 104)  
-Completed: 56 (0.36%) (Ranked 132)  
+Completed: 56 (0.36%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

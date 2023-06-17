@@ -6,47 +6,47 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~388,303 |
-| Hey! That's mine! | 78.00% | ~373,921 |
-| Happy Returns | 77.00% | ~369,127 |
-| Field Promotion | 74.00% | ~354,746 |
-| Leadhead | 71.00% | ~340,364 |
-| Eradicator | 67.00% | ~321,189 |
-| Surplus | 65.00% | ~311,601 |
-| I Spy | 64.00% | ~306,807 |
-| Burn Baby Burn | 59.00% | ~282,838 |
-| Yellow Beats Green | 55.00% | ~263,662 |
-| Salvage Rights | 53.00% | ~254,075 |
-| Pew Pew | 50.00% | ~239,693 |
-| What IS that? | 50.00% | ~239,693 |
-| Close Call | 49.00% | ~234,899 |
-| Penny Pincher | 49.00% | ~234,899 |
-| Arsenal | 46.00% | ~220,518 |
-| Boot Camp | 45.00% | ~215,724 |
-| Flawless Victory | 42.00% | ~201,342 |
-| Confident | 40.00% | ~191,754 |
-| Exterminator | 36.00% | ~172,579 |
-| Sharpshooter | 33.00% | ~158,197 |
-| Great Ball of Fire | 32.00% | ~153,404 |
-| Not So Fast | 32.00% | ~153,404 |
-| No Sale | 30.00% | ~143,816 |
-| Kaboom! | 29.00% | ~139,022 |
-| Liquidator | 29.00% | ~139,022 |
-| High Voltage | 24.00% | ~115,053 |
-| Filthy Rich | 19.00% | ~91,083 |
-| The Not-So-Friendly Skies | 18.00% | ~86,289 |
+| First Blood | 81.00% | ~388,306 |
+| Hey! That's mine! | 78.00% | ~373,924 |
+| Happy Returns | 77.00% | ~369,130 |
+| Field Promotion | 74.00% | ~354,749 |
+| Leadhead | 71.00% | ~340,367 |
+| Eradicator | 67.00% | ~321,191 |
+| Surplus | 65.00% | ~311,604 |
+| I Spy | 64.00% | ~306,810 |
+| Burn Baby Burn | 59.00% | ~282,840 |
+| Yellow Beats Green | 55.00% | ~263,664 |
+| Salvage Rights | 53.00% | ~254,077 |
+| Pew Pew | 50.00% | ~239,695 |
+| What IS that? | 50.00% | ~239,695 |
+| Close Call | 49.00% | ~234,901 |
+| Penny Pincher | 49.00% | ~234,901 |
+| Arsenal | 46.00% | ~220,519 |
+| Boot Camp | 45.00% | ~215,726 |
+| Flawless Victory | 42.00% | ~201,344 |
+| Confident | 40.00% | ~191,756 |
+| Exterminator | 36.00% | ~172,580 |
+| Sharpshooter | 33.00% | ~158,199 |
+| Great Ball of Fire | 32.00% | ~153,405 |
+| Not So Fast | 32.00% | ~153,405 |
+| No Sale | 30.00% | ~143,817 |
+| Kaboom! | 29.00% | ~139,023 |
+| Liquidator | 29.00% | ~139,023 |
+| High Voltage | 24.00% | ~115,054 |
+| Filthy Rich | 19.00% | ~91,084 |
+| The Not-So-Friendly Skies | 18.00% | ~86,290 |
 | Power Builder | 17.00% | ~81,496 |
 | Pyrrhic Victory | 17.00% | ~81,496 |
 | Death From Above | 16.00% | ~76,702 |
 | Retry | 16.00% | ~76,702 |
-| Head Trauma | 12.00% | ~57,526 |
+| Head Trauma | 12.00% | ~57,527 |
 | Full Defense | 10.00% | ~47,939 |
 | Overseer | 9.00% | ~43,145 |
 | Annihilator | 8.00% | ~38,351 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,351 |
 | Indecisive | 6.00% | ~28,763 |
-| Base Defender | 5.00% | ~23,969 |
-| Relay Race | 5.00% | ~23,969 |
+| Base Defender | 5.00% | ~23,970 |
+| Relay Race | 5.00% | ~23,970 |
 | Diversity | 3.00% | ~14,382 |
 | Full Potential | 3.00% | ~14,382 |
 | Tower Expert | 3.00% | ~14,382 |
@@ -57,9 +57,9 @@ Number of Ratings: 1,225  (23.09.2022)
 | Untouchable | 2.00% | ~9,588 |
 | Flurry | 1.00% | ~4,794 |
 | Well Invested | 1.00% | ~4,794 |
-| Gun Crazy | 0.90% | ~4,314 |
-| Planet Defender | 0.90% | ~4,314 |
-| Xenocide | 0.90% | ~4,314 |
+| Gun Crazy | 0.90% | ~4,315 |
+| Planet Defender | 0.90% | ~4,315 |
+| Xenocide | 0.90% | ~4,315 |
 | Master Siege Breaker | 0.80% | ~3,835 |
 | Few and Proud | 0.80% | ~3,835 |
 | Shell-shocked | 0.70% | ~3,356 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~479 |
 | You Monster | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,386 (Ranked 32)  
+Progressed: 479,390 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 4 (0.00%) (Ranked 226)
 | 2023-06-14 | 479,241 | 4 |
 | 2023-06-15 | 479,297 | 4 |
 | 2023-06-16 | 479,370 | 4 |
-| 2023-06-17 | 479,386 | 4 |
+| 2023-06-17 | 479,390 | 4 |
 ## Awards
 Max (Great for Beginners): 233  (Ranked 249)  
 Sum: 1,648 (Ranked 202)  

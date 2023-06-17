@@ -57,7 +57,7 @@ Rating: 4.64 (Ranked 316)
 | Konrad style! | 1.00% | ~43 |
 | Cuckoo's nest | 0.70% | ~30 |
 | Bughunter | 0.70% | ~30 |
-| Cat Lady | 0.60% | ~26 |
+| Cat Lady | 0.70% | ~30 |
 | Naysayer | 0.60% | ~26 |
 | Pro gamer | 0.60% | ~26 |
 | Manhattan Project | 0.40% | ~17 |

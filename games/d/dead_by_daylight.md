@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,645 |
-| Resurgence | 1.00% | ~5,645 |
-| Preemptive Strike | 1.00% | ~5,645 |
-| Humanitarian | 1.00% | ~5,645 |
-| Wounded Healer | 0.80% | ~4,516 |
-| Close Shave | 0.80% | ~4,516 |
-| Flight to Freedom | 0.70% | ~3,952 |
-| Unforgettable Getaway | 0.60% | ~3,387 |
-| First to the Punch | 0.60% | ~3,387 |
-| Old West Oasis | 0.60% | ~3,387 |
-| With Scars to Show | 0.60% | ~3,387 |
+| Healthy Obsession | 1.00% | ~5,646 |
+| Resurgence | 1.00% | ~5,646 |
+| Preemptive Strike | 1.00% | ~5,646 |
+| Humanitarian | 1.00% | ~5,646 |
+| Wounded Healer | 0.80% | ~4,517 |
+| Close Shave | 0.80% | ~4,517 |
+| Flight to Freedom | 0.70% | ~3,953 |
+| Unforgettable Getaway | 0.60% | ~3,388 |
+| First to the Punch | 0.60% | ~3,388 |
+| Old West Oasis | 0.60% | ~3,388 |
+| With Scars to Show | 0.60% | ~3,388 |
 | Operation: Survival | 0.50% | ~2,823 |
 | Classy Act | 0.50% | ~2,823 |
 | Every Last Drop | 0.50% | ~2,823 |
 | Raccoon City Recruit | 0.50% | ~2,823 |
 | A Fast Death | 0.50% | ~2,823 |
-| Ancestor's Rite | 0.40% | ~2,258 |
-| Cutting Out | 0.40% | ~2,258 |
-| Outrun Evil | 0.40% | ~2,258 |
-| Grim Pilgrimage | 0.40% | ~2,258 |
-| Lifting The Fog | 0.40% | ~2,258 |
-| Chorus of Chaos | 0.40% | ~2,258 |
+| Ancestor's Rite | 0.40% | ~2,259 |
+| Cutting Out | 0.40% | ~2,259 |
+| Outrun Evil | 0.40% | ~2,259 |
+| Grim Pilgrimage | 0.40% | ~2,259 |
+| Lifting The Fog | 0.40% | ~2,259 |
+| Chorus of Chaos | 0.40% | ~2,259 |
 | Devoted Gatekeeping | 0.30% | ~1,694 |
 | Shrine Apparatus | 0.30% | ~1,694 |
 | Broken Bodies | 0.30% | ~1,694 |
@@ -36,6 +36,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.30% | ~1,694 |
 | Outrun the Overlap | 0.30% | ~1,694 |
 | Heavy Burden | 0.20% | ~1,129 |
+| Death of Ignorance | 0.20% | ~1,129 |
 | I See You | 0.20% | ~1,129 |
 | Power Moves | 0.20% | ~1,129 |
 | Punch Drunk | 0.20% | ~1,129 |
@@ -173,7 +174,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Deathslinger | 0.10% | ~565 |
 | Adept Zarina | 0.10% | ~565 |
 | Cleansed in Agony | 0.10% | ~565 |
-| Death of Ignorance | 0.10% | ~565 |
 | Adept Executioner | 0.10% | ~565 |
 | Adept Cheryl | 0.10% | ~565 |
 | Speed Kills | 0.10% | ~565 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~565 |
 | Adept Gabriel | 0.10% | ~565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,511 (Ranked 26)  
+Progressed: 564,644 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 564,511 | 42 |
+| 2023-06-17 | 564,644 | 42 |
 ## Awards
 Max (Diverse Characters): 28,559  (Ranked 16)  
 Sum: 228,000 (Ranked 12)  

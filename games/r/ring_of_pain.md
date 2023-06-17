@@ -6,36 +6,36 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,681 |
-| Uncharted Territory | 89.00% | ~205,517 |
-| Getting A Glimpse | 73.00% | ~168,570 |
+| First Steps | 96.00% | ~221,682 |
+| Uncharted Territory | 89.00% | ~205,518 |
+| Getting A Glimpse | 73.00% | ~168,571 |
 | A Quick Escape | 65.00% | ~150,097 |
-| Explorer | 62.00% | ~143,169 |
-| Defeat The Dark | 61.00% | ~140,860 |
-| An Offering | 61.00% | ~140,860 |
-| Colorful Corpse | 58.00% | ~133,932 |
-| That Was Quick | 56.00% | ~129,314 |
-| A Donation | 56.00% | ~129,314 |
+| Explorer | 62.00% | ~143,170 |
+| Defeat The Dark | 61.00% | ~140,861 |
+| An Offering | 61.00% | ~140,861 |
+| Colorful Corpse | 58.00% | ~133,933 |
+| That Was Quick | 56.00% | ~129,315 |
+| A Donation | 56.00% | ~129,315 |
 | Goodbye, Frog Friend | 54.00% | ~124,696 |
 | Heavy Hitter | 53.00% | ~122,387 |
-| Heartless | 46.00% | ~106,222 |
-| Spine Breaker | 46.00% | ~106,222 |
-| Deflection | 45.00% | ~103,913 |
+| Heartless | 46.00% | ~106,223 |
+| Spine Breaker | 46.00% | ~106,223 |
+| Deflection | 45.00% | ~103,914 |
 | Sneaky | 43.00% | ~99,295 |
 | Delving Deeper | 42.00% | ~96,986 |
-| Ambitious Intent | 41.00% | ~94,676 |
-| C-C-Combo | 41.00% | ~94,676 |
-| The Bestiary | 40.00% | ~92,367 |
+| Ambitious Intent | 41.00% | ~94,677 |
+| C-C-Combo | 41.00% | ~94,677 |
+| The Bestiary | 40.00% | ~92,368 |
 | Nothing To Lose | 39.00% | ~90,058 |
 | What's Yours Is Mine | 38.00% | ~87,749 |
-| R.I.P | 36.00% | ~83,130 |
-| Shootout | 35.00% | ~80,821 |
+| R.I.P | 36.00% | ~83,131 |
+| Shootout | 35.00% | ~80,822 |
 | Cold Hearted | 34.00% | ~78,512 |
 | I Am Overburdened | 34.00% | ~78,512 |
 | Dig Your Own Grave | 33.00% | ~76,203 |
 | Toxic | 33.00% | ~76,203 |
 | Who To Trust? | 32.00% | ~73,894 |
-| Flesh Wound | 29.00% | ~66,966 |
+| Flesh Wound | 29.00% | ~66,967 |
 | Walk It Off | 27.00% | ~62,348 |
 | Stone Touch | 27.00% | ~62,348 |
 | Acid Bath | 27.00% | ~62,348 |
@@ -44,11 +44,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 26.00% | ~60,039 |
 | New Perspectives | 26.00% | ~60,039 |
 | Shapeshifting | 26.00% | ~60,039 |
-| Save Our Souls | 24.00% | ~55,420 |
+| Save Our Souls | 24.00% | ~55,421 |
 | To The Death! | 20.00% | ~46,184 |
 | Just Chilling | 20.00% | ~46,184 |
-| Well Prepared | 19.00% | ~43,874 |
-| Stop Hitting Yourself | 19.00% | ~43,874 |
+| Well Prepared | 19.00% | ~43,875 |
+| Stop Hitting Yourself | 19.00% | ~43,875 |
 | All Consuming | 18.00% | ~41,565 |
 | Illuminate, Eliminate | 17.00% | ~39,256 |
 | Shadow Spreads | 16.00% | ~36,947 |
@@ -64,13 +64,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 10.00% | ~23,092 |
 | Barbecue | 10.00% | ~23,092 |
 | Snake Sneak | 9.00% | ~20,783 |
-| Challenge Increases | 8.00% | ~18,473 |
-| New Game+ | 8.00% | ~18,473 |
-| Clearing The Room | 8.00% | ~18,473 |
-| Decisions, Decisions | 8.00% | ~18,473 |
-| Fragile Mortality | 8.00% | ~18,473 |
-| Defuser | 8.00% | ~18,473 |
-| Precious | 8.00% | ~18,473 |
+| Challenge Increases | 8.00% | ~18,474 |
+| New Game+ | 8.00% | ~18,474 |
+| Clearing The Room | 8.00% | ~18,474 |
+| Decisions, Decisions | 8.00% | ~18,474 |
+| Fragile Mortality | 8.00% | ~18,474 |
+| Defuser | 8.00% | ~18,474 |
+| Precious | 8.00% | ~18,474 |
 | Friend of Vermin | 7.00% | ~16,164 |
 | Juggernaut | 7.00% | ~16,164 |
 | Path To Enlightenment | 7.00% | ~16,164 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~924 |
 | Near Death Experience | 0.30% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,918 (Ranked 45)  
+Progressed: 230,919 (Ranked 45)  
 Completed: 239 (0.10%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 239 (0.10%) (Ranked 172)
 | 2023-06-14 | 230,764 | 239 |
 | 2023-06-15 | 230,828 | 239 |
 | 2023-06-16 | 230,891 | 239 |
-| 2023-06-17 | 230,918 | 239 |
+| 2023-06-17 | 230,919 | 239 |
 ## Awards
 Max (Quickly Understood Controls): 1,479  (Ranked 116)  
 Sum: 12,925 (Ranked 69)  

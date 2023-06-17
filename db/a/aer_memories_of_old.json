@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12617,
+  "EOS_Progressed": 12623,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -6229,6 +6229,11 @@
       "Time": "2023-06-17T08:06:00.2348157+00:00",
       "NumProgressed": 12617,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2023-06-17T09:07:24.3735026+00:00",
+      "NumProgressed": 12623,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 20,
@@ -6240,7 +6245,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -6272,7 +6277,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -6288,7 +6293,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -6296,7 +6301,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -6336,7 +6341,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6344,7 +6349,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "GAME_FINISHED",
@@ -6352,7 +6357,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6360,7 +6365,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9589
+      "UsersEstimate": 9593
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6368,7 +6373,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6376,7 +6381,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6384,7 +6389,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "WEST_FINISHED",
@@ -6392,22 +6397,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12617,
+      "Progressed": 12623,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:06:00.2348155+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:07:24.3735021+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-17T08:00:06.7116046+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:06:00.234852+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:01:27.616722+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:07:24.3735552+00:00"
 }

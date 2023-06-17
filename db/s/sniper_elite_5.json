@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2962,
+  "EOS_Progressed": 2967,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3775,6 +3775,11 @@
       "Time": "2023-06-17T08:06:08.1870965+00:00",
       "NumProgressed": 2962,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T09:07:34.5029424+00:00",
+      "NumProgressed": 2967,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3794,7 +3799,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3818,7 +3823,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3850,7 +3855,7 @@
       "Name": "Organ Grinder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3866,7 +3871,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 920
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3946,7 +3951,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3954,7 +3959,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3970,7 +3975,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -3994,7 +3999,7 @@
       "Name": "Lord of War",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4002,7 +4007,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -4018,7 +4023,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -4034,7 +4039,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4042,7 +4047,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -4050,7 +4055,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -4098,7 +4103,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4122,7 +4127,7 @@
       "Name": "Change the Channel",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4162,7 +4167,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -4178,15 +4183,15 @@
       "Name": "Target America",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -4314,7 +4319,7 @@
       "Name": "Fight Another Day",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -4353,13 +4358,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2913,
+      "Progressed": 2918,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2962,
+      "Progressed": 2967,
       "Completed": 2
     }
   ],
@@ -4367,8 +4372,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-16T20:01:05.3480168+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:06:08.1870961+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:07:34.5029419+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-17T08:00:28.4102386+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:06:08.1871651+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:01:58.2965033+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:07:34.5030208+00:00"
 }

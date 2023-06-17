@@ -13,10 +13,10 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 21.00% | ~125 |
 | Devourer | 15.00% | ~89 |
 | Silenced Whispers | 14.00% | ~83 |
+| Glare | 13.00% | ~23 |
 | Harmless | 13.00% | ~77 |
 | Yank | 13.00% | ~77 |
 | Scion | 12.00% | ~21 |
-| Glare | 12.00% | ~21 |
 | Sharpened Vessel | 12.00% | ~71 |
 | Jawcrab | 11.00% | ~65 |
 | Feast | 11.00% | ~65 |

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2800,
-  "EOS_Completed": 39,
-  "EOS_NewPlayers": 53,
-  "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Progressed": 2801,
+  "EOS_Completed": 40,
+  "EOS_NewPlayers": 54,
+  "EOS_NewCompleters": 34,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2775,6 +2775,11 @@
       "Time": "2023-06-17T05:04:20.5746448+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-17T09:04:59.3909968+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 24,
@@ -2938,7 +2943,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "6",
@@ -2977,13 +2982,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2800,
-      "Completed": 39
+      "Progressed": 2801,
+      "Completed": 40
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:04:14.8085712+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:04:59.3909963+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:59:06.0713255+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:04:14.8085983+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:59:58.6562145+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:04:59.3910327+00:00"
 }

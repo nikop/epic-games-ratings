@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1632,9 +1632,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1768,9 +1768,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1799,8 +1799,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:05:35.7520636+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:06:51.9130076+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:59:27.3622112+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:05:35.7521063+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:00:30.7114583+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:06:51.9130549+00:00"
 }

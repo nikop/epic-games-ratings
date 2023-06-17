@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 34.00% | ~111 |
-| Baby's First Car | 32.00% | ~104 |
-| Pushover | 32.00% | ~104 |
+| Baby's First Car | 32.00% | ~105 |
+| Pushover | 32.00% | ~105 |
 | Amateur Mechanic | 31.00% | ~101 |
 | A Forest Walk | 31.00% | ~101 |
 | C-C-C-Combo! | 29.00% | ~95 |
@@ -29,7 +29,7 @@
 | Car-Tapult | 23.00% | ~75 |
 | Anger Issues | 23.00% | ~75 |
 | Your Highness | 22.00% | ~72 |
-| Event Amateur | 21.00% | ~68 |
+| Event Amateur | 21.00% | ~69 |
 | Feeling Dizzy? | 20.00% | ~65 |
 | Drift King! | 19.00% | ~62 |
 | Feeling Hot Hot Hot! | 19.00% | ~62 |
@@ -39,9 +39,9 @@
 | Out of this League | 16.00% | ~52 |
 | Special Forces | 15.00% | ~49 |
 | Blasting away! | 14.00% | ~46 |
-| Earth Defense Force | 13.00% | ~42 |
-| Toot Toot! | 13.00% | ~42 |
-| Rocketman | 13.00% | ~42 |
+| Earth Defense Force | 13.00% | ~43 |
+| Toot Toot! | 13.00% | ~43 |
+| Rocketman | 13.00% | ~43 |
 | High Roller | 12.00% | ~39 |
 | Event Pro | 11.00% | ~36 |
 | Space Crash | 8.00% | ~26 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 230)  
+Progressed: 327 (Ranked 230)  
 Completed: 2 (0.61%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 2 (0.61%) (Ranked 115)
 | 2023-06-08 | 324 | 2 |
 | 2023-06-11 | 325 | 2 |
 | 2023-06-13 | 326 | 2 |
+| 2023-06-17 | 327 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

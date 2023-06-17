@@ -9,7 +9,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 2.00% | ~446 |
 | Captain and Crew | 1.00% | ~223 |
 | Harvest and Home | 1.00% | ~223 |
-| Poise and Poisons | 0.90% | ~200 |
+| Poise and Poisons | 0.90% | ~201 |
 | Suns and Soldiers | 0.70% | ~156 |
 | No Harm in Looking | 0.70% | ~156 |
 | Hands and Hammers | 0.60% | ~134 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,277 (Ranked 97)  
+Progressed: 22,278 (Ranked 97)  
 Completed: 35 (0.16%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,17 +104,17 @@ Completed: 35 (0.16%) (Ranked 159)
 | 2023-06-14 | 22,238 | 35 |
 | 2023-06-15 | 22,264 | 35 |
 | 2023-06-16 | 22,274 | 35 |
-| 2023-06-17 | 22,277 | 35 |
+| 2023-06-17 | 22,278 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 252)  
-Sum: 1,647 (Ranked 203)  
-Diff (max vs sum): 49  
+Sum: 1,648 (Ranked 202)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 218 |
 | This game has Quickly Understood Controls | 202 |
 | This game has Diverse Characters | 194 |
-| This game has Challenging Combat | 190 |
+| This game has Challenging Combat | 191 |
 | This game is Highly Recommended | 187 |
 | This game is Relaxing | 182 |
 | This game has Amazing Storytelling | 162 |
@@ -210,3 +210,4 @@ Diff (max vs sum): 49
 | 2023-06-09 | 4.85 | - | 218 | 1,644 |
 | 2023-06-10 | 4.85 | - | 218 | 1,645 |
 | 2023-06-13 | 4.85 | - | 218 | 1,647 |
+| 2023-06-17 | 4.85 | - | 218 | 1,648 |

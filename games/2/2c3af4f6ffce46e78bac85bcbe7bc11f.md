@@ -9,8 +9,10 @@
 | Something ever-changing... | 67.00% | ~2 |
 | Something fully in bloom... | 67.00% | ~2 |
 | Something foundational... | 67.00% | ~2 |
+| Somewhere to belong... | 67.00% | ~2 |
 | Something to make you dream... | 67.00% | ~2 |
 | Something monumental... | 67.00% | ~2 |
+| Something natural... | 67.00% | ~2 |
 | Something to long for... | 67.00% | ~2 |
 | Something firmly rooted... | 67.00% | ~2 |
 | Something reflective... | 67.00% | ~2 |
@@ -22,11 +24,9 @@
 | Something fully in bloom... (fragile) | 33.00% | ~1 |
 | Something fragile... | 33.00% | ~1 |
 | Something foundational... (fragile) | 33.00% | ~1 |
-| Somewhere to belong... | 33.00% | ~1 |
 | Somewhere to belong... (fragile) | 33.00% | ~1 |
 | Something to make you dream... (fragile) | 33.00% | ~1 |
 | Something monumental... (fragile) | 33.00% | ~1 |
-| Something natural... | 33.00% | ~1 |
 | Something to long for... (fragile) | 33.00% | ~1 |
 | Something firmly rooted... (fragile) | 33.00% | ~1 |
 | Something reflective... (fragile) | 33.00% | ~1 |

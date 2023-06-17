@@ -12,25 +12,25 @@
 | Fashion Connoisseur | 81.00% | ~25 |
 | Storm Traveller | 77.00% | ~24 |
 | Beginner Artificer | 74.00% | ~23 |
-| Flower Thief | 71.00% | ~22 |
+| Flower Thief | 74.00% | ~23 |
 | Apostle of Flame | 71.00% | ~22 |
-| Beginner Cook | 65.00% | ~20 |
+| Beginner Cook | 68.00% | ~21 |
 | Seal Breaker | 65.00% | ~20 |
 | Giant Lizard Killer | 61.00% | ~19 |
 | Handyman | 61.00% | ~19 |
 | Nosebleeder | 58.00% | ~18 |
+| Trader | 58.00% | ~18 |
 | Weapon Boost | 58.00% | ~18 |
 | Guardian | 55.00% | ~17 |
-| Trader | 55.00% | ~17 |
 | Youth Magnet | 52.00% | ~16 |
 | Furious Scorpion Killer | 52.00% | ~16 |
 | Flying Kobold Killer | 48.00% | ~15 |
 | Lethal Blade Mantis Killer | 48.00% | ~15 |
 | Squeaky Clean | 48.00% | ~15 |
+| Kind Adventurer | 48.00% | ~15 |
 | Master Artificer | 48.00% | ~15 |
-| Kind Adventurer | 45.00% | ~14 |
-| Mermaid Killer | 42.00% | ~13 |
-| Cave Master | 39.00% | ~12 |
+| Mermaid Killer | 45.00% | ~14 |
+| Cave Master | 42.00% | ~13 |
 | Face Slapper | 39.00% | ~12 |
 | Master Cook | 35.00% | ~11 |
 | Berserker Slayer | 23.00% | ~7 |

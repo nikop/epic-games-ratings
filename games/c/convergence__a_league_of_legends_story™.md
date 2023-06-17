@@ -14,11 +14,11 @@
 | Time Flies | 10.00% | ~70 |
 | The Harder They Fall | 10.00% | ~70 |
 | No, Thanks! | 10.00% | ~70 |
+| Breaking Down Barriers | 10.00% | ~70 |
 | The Prince in Heels | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
-| Breaking Down Barriers | 9.00% | ~63 |
 | The Wicked Twins | 9.00% | ~63 |
 | Honest Mistake | 9.00% | ~63 |
 | Fast Learner | 9.00% | ~63 |
@@ -33,13 +33,13 @@
 | Street Style | 7.00% | ~49 |
 | Whiz Kid | 7.00% | ~49 |
 | Family Memories | 6.00% | ~42 |
+| Good Neighbor | 6.00% | ~42 |
 | Chaincrawler Explorer | 5.00% | ~35 |
 | Factorywood Explorer | 5.00% | ~35 |
 | Sump Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
 | Theater Explorer | 5.00% | ~35 |
 | Ask Questions Later | 5.00% | ~35 |
-| Good Neighbor | 5.00% | ~35 |
 | Sartorialist | 4.00% | ~28 |
 | Cultivair Explorer | 4.00% | ~28 |
 | Entresol Explorer | 4.00% | ~28 |

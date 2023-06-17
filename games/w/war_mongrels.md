@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 62.00% | ~226 |
-| Cowardice | 54.00% | ~197 |
+| Cowardice | 55.00% | ~201 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~172 |
 | Eat Lead! | 44.00% | ~161 |
 | Prospector | 40.00% | ~146 |
@@ -17,8 +17,8 @@ Number of Ratings: 34  (23.09.2022)
 | The Motivation | 35.00% | ~128 |
 | Sniper Wolf | 35.00% | ~128 |
 | Missing in Action | 33.00% | ~120 |
+| Collectibles of Chapter I | 32.00% | ~117 |
 | Heroism | 32.00% | ~117 |
-| Collectibles of Chapter I | 31.00% | ~113 |
 | King of Knives | 29.00% | ~106 |
 | Consequences | 28.00% | ~102 |
 | Opportunities | 27.00% | ~99 |

@@ -4,7 +4,7 @@
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -157,9 +157,9 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Home_Fragile",
@@ -205,9 +205,9 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Star",
@@ -267,8 +267,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:01:05.6101991+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:02:54.2403741+00:00",
   "LastUpdate_AppInfo": "2023-06-14T11:56:57.5952749+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:57:20.8559988+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:01:05.6102147+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:57:25.9919171+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:02:54.240392+00:00"
 }

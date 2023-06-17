@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193550,
+  "EOS_Progressed": 193559,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6192,6 +6192,11 @@
       "Time": "2023-06-17T08:05:51.662411+00:00",
       "NumProgressed": 193550,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-06-17T09:07:13.1075821+00:00",
+      "NumProgressed": 193559,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 29,
@@ -6227,7 +6232,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 181937
+      "UsersEstimate": 181945
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6275,7 +6280,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -6339,7 +6344,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -6371,7 +6376,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -6387,7 +6392,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19355
+      "UsersEstimate": 19356
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -6434,7 +6439,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193550,
+      "Progressed": 193559,
       "Completed": 442
     }
   ],
@@ -6442,8 +6447,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:05:51.6624106+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:07:13.1075817+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:58:58.1955026+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:05:51.662455+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:59:47.2188938+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:07:13.1076429+00:00"
 }

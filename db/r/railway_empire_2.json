@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -2141,9 +2141,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 872
     },
     {
       "ID": "A13",
@@ -2341,9 +2341,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 737
+      "UsersEstimate": 749
     },
     {
       "ID": "A38",
@@ -2397,9 +2397,9 @@
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 221
     },
     {
       "ID": "A45",
@@ -2494,8 +2494,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-16T13:03:56.0352439+00:00",
-  "LastChanged_Achievements": "2023-06-17T08:06:12.4813282+00:00",
+  "LastChanged_Achievements": "2023-06-17T09:07:39.6679107+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-17T07:58:18.5741534+00:00",
-  "LastUpdate_Achievements": "2023-06-17T08:06:12.4813754+00:00"
+  "LastUpdate_Ratings": "2023-06-17T08:58:48.3913755+00:00",
+  "LastUpdate_Achievements": "2023-06-17T09:07:39.6680025+00:00"
 }
