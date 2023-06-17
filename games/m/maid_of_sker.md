@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Choking Hazard | 41.00% | ~63 |
-| Animal Lover | 33.00% | ~50 |
-| Don't Breathe | 29.00% | ~44 |
-| Rapturous Applause! | 14.00% | ~21 |
-| Smooth Operator | 14.00% | ~21 |
+| Animal Lover | 32.00% | ~49 |
+| Don't Breathe | 29.00% | ~45 |
+| Rapturous Applause! | 14.00% | ~22 |
+| Smooth Operator | 14.00% | ~22 |
 | Easy Listening | 12.00% | ~18 |
 | Perfect Harmony! | 10.00% | ~15 |
 | Chief Butler | 8.00% | ~12 |
@@ -19,10 +19,10 @@
 | Maids of Sker | 1.00% | ~2 |
 | Phonic Boom | 1.00% | ~2 |
 | The Long Night | 1.00% | ~2 |
-| Axe of Kindness | 0.70% | ~1 |
-| In Darkness | 0.70% | ~1 |
-| Luddite | 0.70% | ~1 |
-| Scholar | 0.70% | ~1 |
+| Axe of Kindness | 0.60% | ~1 |
+| In Darkness | 0.60% | ~1 |
+| Luddite | 0.60% | ~1 |
+| Scholar | 0.60% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 269)  
+Progressed: 154 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-09 | 150 | 0 |
 | 2023-06-11 | 152 | 0 |
 | 2023-06-16 | 153 | 0 |
+| 2023-06-17 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

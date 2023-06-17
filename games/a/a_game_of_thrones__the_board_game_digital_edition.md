@@ -1,25 +1,25 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 829)  
+Rating: 4.20 (Ranked 830)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,367 |
-| Battering Crew | 20.00% | ~3,184 |
-| The Kingsroad | 19.00% | ~3,024 |
+| Conqueror | 40.00% | ~6,369 |
+| Battering Crew | 20.00% | ~3,185 |
+| The Kingsroad | 19.00% | ~3,025 |
 | Well Stocked | 14.00% | ~2,229 |
 | Royal Fleet | 14.00% | ~2,229 |
 | The Kraken’s Grasp | 10.00% | ~1,592 |
 | Alliance | 9.00% | ~1,433 |
-| Daggers in the Dark | 8.00% | ~1,273 |
-| Oathkeeper | 8.00% | ~1,273 |
-| Influential | 8.00% | ~1,273 |
-| A Long Journey | 8.00% | ~1,273 |
-| Ours is the Fury | 7.00% | ~1,114 |
-| We Do Not Sow | 7.00% | ~1,114 |
-| Winter is Coming | 7.00% | ~1,114 |
+| Daggers in the Dark | 8.00% | ~1,274 |
+| Oathkeeper | 8.00% | ~1,274 |
+| Influential | 8.00% | ~1,274 |
+| A Long Journey | 8.00% | ~1,274 |
+| Ours is the Fury | 7.00% | ~1,115 |
+| We Do Not Sow | 7.00% | ~1,115 |
+| Winter is Coming | 7.00% | ~1,115 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~955 |
 | Hear me Roar! | 6.00% | ~955 |
 | Defender of the Wall | 6.00% | ~955 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~318 |
 | War of the Five Kings | 1.00% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,918 (Ranked 102)  
+Progressed: 15,923 (Ranked 102)  
 Completed: 33 (0.21%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 33 (0.21%) (Ranked 154)
 | 2023-06-14 | 15,632 | 33 |
 | 2023-06-15 | 15,713 | 33 |
 | 2023-06-16 | 15,812 | 33 |
-| 2023-06-17 | 15,918 | 33 |
+| 2023-06-17 | 15,923 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 782 (Ranked 255)  

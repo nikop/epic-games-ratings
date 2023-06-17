@@ -5,7 +5,7 @@
   "Ranking_Rating": 739,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 174,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 76,
@@ -1957,9 +1957,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 508
     },
     {
       "ID": "CRUELTY",
@@ -2294,8 +2294,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:01:38.4866673+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:00:25.554567+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:58:37.7574097+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:01:38.4867149+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:58:15.3659561+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:00:25.5546153+00:00"
 }

@@ -40,16 +40,16 @@
 | Meatballs, coming up! | 30.00% | ~24 |
 | A Megapint...? | 30.00% | ~24 |
 | Another one bites the iron | 28.00% | ~22 |
-| Ripe Meat Off The Bone! | 24.00% | ~19 |
-| Hovering around | 24.00% | ~19 |
+| Ripe Meat Off The Bone! | 25.00% | ~20 |
+| Hovering around | 25.00% | ~20 |
 | Kleptomaniac | 23.00% | ~18 |
 | You're not so Big anymore, Boi! | 22.00% | ~17 |
 | Your daily dose of Vitamin C. | 22.00% | ~17 |
 | I cant stand still! | 22.00% | ~17 |
 | Master Butcher | 18.00% | ~14 |
 | Just wing it! | 18.00% | ~14 |
+| Slimy... yet satisfying | 16.00% | ~13 |
 | Yeehaw!!! | 15.00% | ~12 |
-| Slimy... yet satisfying | 15.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~11 |
 | Deal with it | 14.00% | ~11 |
 | You're looking mozzare-hella good! | 11.00% | ~9 |
@@ -66,6 +66,7 @@
 | I want to throw up! | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~3 |
+| Ancient Ruins of Stubbed Toes | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
@@ -75,7 +76,6 @@
 | Ancient Ruins of Moldy Ceiling | 3.00% | ~2 |
 | Ancient Ruins of Peekaboo | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
-| Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
 | Ancient Ruins of Chilly Winds | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
 | Consider it dealt with | 1.00% | ~1 |

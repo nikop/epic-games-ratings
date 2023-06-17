@@ -23,6 +23,7 @@
 | POI Hunter | 3.00% | ~3 |
 | Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
+| Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First and Foremost | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
@@ -33,7 +34,6 @@
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
 | Geek | 2.00% | ~2 |
-| Last One Standing | 2.00% | ~2 |
 | The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |
 | Checklist | 2.00% | ~2 |

@@ -9,10 +9,10 @@
 | Rail Rat | 11.00% | ~77 |
 | Make Up For Lost Time | 11.00% | ~77 |
 | Cartographer | 11.00% | ~77 |
+| Time Flies | 11.00% | ~77 |
 | Immaculate Aim | 11.00% | ~77 |
 | The Steel Shadow | 10.00% | ~70 |
 | Treasure Trove | 10.00% | ~70 |
-| Time Flies | 10.00% | ~70 |
 | The Harder They Fall | 10.00% | ~70 |
 | No, Thanks! | 10.00% | ~70 |
 | Breaking Down Barriers | 10.00% | ~70 |
@@ -22,11 +22,11 @@
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
 | The Betrayer | 9.00% | ~63 |
+| The Man Who Shattered Time | 9.00% | ~63 |
 | The Wicked Twins | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Check Your Pulse | 9.00% | ~63 |
 | Like Clockwork | 8.00% | ~56 |
-| The Man Who Shattered Time | 8.00% | ~56 |
 | The Loose Cannon | 8.00% | ~56 |
 | The Family Fortune | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
@@ -50,15 +50,15 @@
 | Rungs Was Right | 3.00% | ~21 |
 | Hexlock for Protection | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
+| Wunderkind | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
-| Wunderkind | 0.90% | ~6 |
 | Wildlife Protection | 0.40% | ~3 |
 | A Lesson in Precision | 0.40% | ~3 |
 | Going to Live Forever | 0.30% | ~2 |
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704 (Ranked 194)  
+Progressed: 704 (Ranked 195)  
 Completed: 3 (0.43%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

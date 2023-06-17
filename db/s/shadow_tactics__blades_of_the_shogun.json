@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1213,9 +1213,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 177953,
+  "EOS_Progressed": 177960,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 2047,
+  "EOS_NewPlayers": 2041,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7383,6 +7383,11 @@
       "Time": "2023-06-17T21:06:57.9768964+00:00",
       "NumProgressed": 177953,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-17T22:05:53.5558427+00:00",
+      "NumProgressed": 177960,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 44,
@@ -7394,7 +7399,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "AtheistOx",
@@ -7466,7 +7471,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17795
+      "UsersEstimate": 17796
     },
     {
       "ID": "HappyLittleAccidents",
@@ -7514,7 +7519,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "Mercyful",
@@ -7610,7 +7615,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "Rollin",
@@ -7642,7 +7647,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "TanukiTime",
@@ -7738,22 +7743,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 177953,
+      "Progressed": 177960,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-17T06:58:43.4051168+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:06:57.9768956+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:05:53.5558422+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.3465438+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:59:27.4202281+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:06:57.9769522+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:58:51.0250459+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:05:53.5558986+00:00"
 }

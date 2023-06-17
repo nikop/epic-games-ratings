@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -162,6 +162,11 @@
       "Time": "2023-06-16T22:04:54.6573834+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-17T22:04:34.3383407+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -171,15 +176,15 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "axe_of_kindness",
       "SetID": "3j2phem",
       "Name": "Axe of Kindness",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "easy_listening",
@@ -283,7 +288,7 @@
       "ID": "in_darkness",
       "SetID": "3j2phem",
       "Name": "In Darkness",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -299,7 +304,7 @@
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -357,13 +362,13 @@
       "Name": "Rapturous Applause!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "scholar",
       "SetID": "3j2phem",
       "Name": "Scholar",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -381,7 +386,7 @@
       "Name": "Smooth Operator",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "the_long_night",
@@ -412,7 +417,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
@@ -420,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:05:16.6689833+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:04:34.3383402+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:48.8292075+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:59:41.9039929+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:05:16.6690026+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:59:00.2718449+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:04:34.3383584+00:00"
 }

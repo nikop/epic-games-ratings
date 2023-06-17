@@ -13,23 +13,23 @@
 | Revenge | 60.00% | ~57 |
 | Reunion | 41.00% | ~39 |
 | Fluke | 34.00% | ~32 |
+| Elimination | 33.00% | ~31 |
 | Victor's Prejudice | 33.00% | ~31 |
-| Elimination | 32.00% | ~30 |
+| Memento | 29.00% | ~28 |
 | Excellent Driving Skills | 28.00% | ~27 |
 | Once Bitten, Twice Shy | 28.00% | ~27 |
-| Memento | 28.00% | ~27 |
 | Fleet-footed | 26.00% | ~25 |
+| Defeat the AI | 25.00% | ~24 |
 | Unsalvageable | 25.00% | ~24 |
-| Defeat the AI | 24.00% | ~23 |
-| Invincible | 24.00% | ~23 |
+| Invincible | 25.00% | ~24 |
 | Walking into a Trap | 22.00% | ~21 |
 | Neutralize | 22.00% | ~21 |
 | Best in Dragon City | 21.00% | ~20 |
 | Disdain | 20.00% | ~19 |
 | Final Battle | 18.00% | ~17 |
 | Outsider's Profit | 18.00% | ~17 |
+| Brain in a Vat | 16.00% | ~15 |
 | Reappearance | 15.00% | ~14 |
-| Brain in a Vat | 15.00% | ~14 |
 | King of the Streets | 11.00% | ~10 |
 | Calamity | 9.00% | ~9 |
 | Survival Expert | 9.00% | ~9 |

@@ -233,9 +233,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "leader_you_are_not",
@@ -281,9 +281,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -346,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:06:55.0477741+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:05:51.2367851+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4409557+00:00",
-  "LastUpdate_Ratings": "2023-06-17T21:00:37.1387077+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:06:55.0477862+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:59:40.3871082+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:05:51.2367966+00:00"
 }

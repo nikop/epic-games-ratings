@@ -10,8 +10,8 @@ Rating: 4.62 (Ranked 346)
 | High Profile | 56.00% | ~269 |
 | Whispers In The Dark | 54.00% | ~260 |
 | Fond Memories | 51.00% | ~245 |
+| History Check | 49.00% | ~236 |
 | A Method To His Madness | 49.00% | ~236 |
-| History Check | 48.00% | ~231 |
 | Lock, Stock, And Barrel | 45.00% | ~216 |
 | The New World | 45.00% | ~216 |
 | Gaze Into The Abyss | 44.00% | ~212 |
@@ -22,9 +22,9 @@ Rating: 4.62 (Ranked 346)
 | Land, Ho! | 42.00% | ~202 |
 | No Man Is An Island | 41.00% | ~197 |
 | At Wits' End | 40.00% | ~192 |
+| Fhtagn! | 38.00% | ~183 |
 | Bookworm | 37.00% | ~178 |
 | Up In Flames | 37.00% | ~178 |
-| Fhtagn! | 37.00% | ~178 |
 | Going Once... | 36.00% | ~173 |
 | Let Me Be Frank | 34.00% | ~164 |
 | Brain Food | 32.00% | ~154 |

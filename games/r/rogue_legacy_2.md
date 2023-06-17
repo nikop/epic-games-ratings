@@ -107,12 +107,12 @@ Completed: 35 (0.16%) (Ranked 160)
 | 2023-06-17 | 22,287 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 253)  
-Sum: 1,649 (Ranked 202)  
+Sum: 1,650 (Ranked 202)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 218 |
-| This game has Quickly Understood Controls | 202 |
+| This game has Quickly Understood Controls | 203 |
 | This game has Diverse Characters | 194 |
 | This game has Challenging Combat | 191 |
 | This game is Highly Recommended | 188 |
@@ -210,4 +210,4 @@ Diff (max vs sum): 51
 | 2023-06-09 | 4.85 | - | 218 | 1,644 |
 | 2023-06-10 | 4.85 | - | 218 | 1,645 |
 | 2023-06-13 | 4.85 | - | 218 | 1,647 |
-| 2023-06-17 | 4.85 | - | 218 | 1,649 |
+| 2023-06-17 | 4.85 | - | 218 | 1,650 |

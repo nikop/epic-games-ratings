@@ -5,8 +5,8 @@ Rating: 4.05 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,339 |
-| World Map | 80.00% | ~1,139 |
+| Victor | 94.00% | ~1,340 |
+| World Map | 80.00% | ~1,140 |
 | Temple of Eternals | 57.00% | ~812 |
 | Prestigious | 53.00% | ~755 |
 | Fellowship Power | 41.00% | ~584 |
@@ -17,7 +17,7 @@ Rating: 4.05 (Ranked 896)
 | Dragon Clicker | 16.00% | ~228 |
 | Miner Clicker | 16.00% | ~228 |
 | Inspection | 15.00% | ~214 |
-| Full Party | 14.00% | ~199 |
+| Full Party | 14.00% | ~200 |
 | Dragon Master | 13.00% | ~185 |
 | Enlightenment | 13.00% | ~185 |
 | Hero inspection | 13.00% | ~185 |
@@ -39,8 +39,8 @@ Rating: 4.05 (Ranked 896)
 | Four Leaf Clover | 7.00% | ~100 |
 | Frostfire Liberator | 7.00% | ~100 |
 | Moving Up The Ladder | 7.00% | ~100 |
-| Here We Go Again | 6.00% | ~85 |
-| Trader | 6.00% | ~85 |
+| Here We Go Again | 6.00% | ~86 |
+| Trader | 6.00% | ~86 |
 | How Do You Turn This On? | 5.00% | ~71 |
 | Master Enchanter | 5.00% | ~71 |
 | Missions Dedication | 5.00% | ~71 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 896)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 166)  
+Progressed: 1,425 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-14 | 1,396 | 1 |
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
-| 2023-06-17 | 1,424 | 1 |
+| 2023-06-17 | 1,425 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

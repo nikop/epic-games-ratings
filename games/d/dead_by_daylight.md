@@ -6,45 +6,45 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 1.00% | ~5,675 |
-| Resurgence | 1.00% | ~5,675 |
-| Close Shave | 1.00% | ~5,675 |
-| Preemptive Strike | 1.00% | ~5,675 |
-| Humanitarian | 1.00% | ~5,675 |
-| Wounded Healer | 0.90% | ~5,108 |
-| Flight to Freedom | 0.80% | ~4,540 |
-| Unforgettable Getaway | 0.70% | ~3,973 |
-| First to the Punch | 0.70% | ~3,973 |
-| Old West Oasis | 0.70% | ~3,973 |
-| With Scars to Show | 0.70% | ~3,973 |
-| Operation: Survival | 0.60% | ~3,405 |
-| Classy Act | 0.60% | ~3,405 |
-| Every Last Drop | 0.60% | ~3,405 |
-| Raccoon City Recruit | 0.60% | ~3,405 |
-| Cutting Out | 0.50% | ~2,838 |
-| Outrun Evil | 0.50% | ~2,838 |
-| A Fast Death | 0.50% | ~2,838 |
-| Lifting The Fog | 0.50% | ~2,838 |
-| Chorus of Chaos | 0.50% | ~2,838 |
-| Ancestor's Rite | 0.40% | ~2,270 |
-| Devoted Gatekeeping | 0.40% | ~2,270 |
-| Grim Pilgrimage | 0.40% | ~2,270 |
-| Selfless Survival | 0.40% | ~2,270 |
-| End of Days | 0.40% | ~2,270 |
-| Shrine Apparatus | 0.30% | ~1,703 |
+| Healthy Obsession | 1.00% | ~5,678 |
+| Resurgence | 1.00% | ~5,678 |
+| Close Shave | 1.00% | ~5,678 |
+| Preemptive Strike | 1.00% | ~5,678 |
+| Humanitarian | 1.00% | ~5,678 |
+| Wounded Healer | 0.90% | ~5,110 |
+| Flight to Freedom | 0.80% | ~4,542 |
+| Unforgettable Getaway | 0.70% | ~3,974 |
+| First to the Punch | 0.70% | ~3,974 |
+| Old West Oasis | 0.70% | ~3,974 |
+| With Scars to Show | 0.70% | ~3,974 |
+| Operation: Survival | 0.60% | ~3,407 |
+| Classy Act | 0.60% | ~3,407 |
+| Every Last Drop | 0.60% | ~3,407 |
+| Raccoon City Recruit | 0.60% | ~3,407 |
+| Cutting Out | 0.50% | ~2,839 |
+| Outrun Evil | 0.50% | ~2,839 |
+| A Fast Death | 0.50% | ~2,839 |
+| Lifting The Fog | 0.50% | ~2,839 |
+| Chorus of Chaos | 0.50% | ~2,839 |
+| Ancestor's Rite | 0.40% | ~2,271 |
+| Devoted Gatekeeping | 0.40% | ~2,271 |
+| Shrine Apparatus | 0.40% | ~2,271 |
+| Grim Pilgrimage | 0.40% | ~2,271 |
+| Selfless Survival | 0.40% | ~2,271 |
+| End of Days | 0.40% | ~2,271 |
 | Broken Bodies | 0.30% | ~1,703 |
 | I See You | 0.30% | ~1,703 |
 | Insult and Injury | 0.30% | ~1,703 |
 | Outrun the Overlap | 0.30% | ~1,703 |
 | Rebuilding The Borgo | 0.30% | ~1,703 |
-| Heavy Burden | 0.20% | ~1,135 |
-| Death of Ignorance | 0.20% | ~1,135 |
-| Power Moves | 0.20% | ~1,135 |
-| Punch Drunk | 0.20% | ~1,135 |
-| Prowler | 0.20% | ~1,135 |
-| Triage | 0.20% | ~1,135 |
-| High Speed Pursuit | 0.20% | ~1,135 |
-| Hack the Mainframe | 0.20% | ~1,135 |
+| Heavy Burden | 0.20% | ~1,136 |
+| Death of Ignorance | 0.20% | ~1,136 |
+| Power Moves | 0.20% | ~1,136 |
+| Punch Drunk | 0.20% | ~1,136 |
+| Prowler | 0.20% | ~1,136 |
+| Triage | 0.20% | ~1,136 |
+| High Speed Pursuit | 0.20% | ~1,136 |
+| Hack the Mainframe | 0.20% | ~1,136 |
 | The Grand Sacrifice | 0.10% | ~568 |
 | A bite for the Entity | 0.10% | ~568 |
 | A feast for the Entity | 0.10% | ~568 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~568 |
 | Adept Gabriel | 0.10% | ~568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567,536 (Ranked 26)  
+Progressed: 567,779 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 42 (0.01%) (Ranked 215)
 | 2023-06-14 | 555,102 | 42 |
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
-| 2023-06-17 | 567,536 | 42 |
+| 2023-06-17 | 567,779 | 42 |
 ## Awards
 Max (Diverse Characters): 28,602  (Ranked 15)  
-Sum: 228,203 (Ranked 12)  
+Sum: 228,232 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 25,947 |
 | This game has Amazing Characters | 25,815 |
 | This game is Extremely Fun | 25,769 |
-| This game has Quickly Understood Controls | 25,574 |
+| This game has Quickly Understood Controls | 25,603 |
 | This game has Challenging Combat | 24,955 |
 | This game has Amazing Storytelling | 23,489 |
 | This game has a Competitive Community | 21,787 |
@@ -450,4 +450,4 @@ Diff (max vs sum): 3
 | 2023-06-14 | 4.52 | - | 28,462 | 227,336 |
 | 2023-06-15 | 4.52 | - | 28,513 | 227,631 |
 | 2023-06-16 | 4.52 | - | 28,559 | 227,936 |
-| 2023-06-17 | 4.52 | - | 28,602 | 228,203 |
+| 2023-06-17 | 4.52 | - | 28,602 | 228,232 |

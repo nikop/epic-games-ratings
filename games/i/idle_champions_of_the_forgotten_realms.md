@@ -6,37 +6,37 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~4,794 |
-| Beast Intentions | 2.00% | ~1,918 |
-| The Cursed Farmer | 2.00% | ~1,918 |
-| The Mad Wizard | 2.00% | ~1,918 |
-| The Ring of Regeneration | 1.00% | ~959 |
-| Are Ya Chicken? | 1.00% | ~959 |
-| Were-verpowered | 0.90% | ~863 |
-| Seeking Allies | 0.90% | ~863 |
-| The Court of Storms | 0.90% | ~559 |
-| Mad Cow Disease | 0.80% | ~767 |
-| Friendly Imps | 0.80% | ~767 |
-| A Persistent Buzzing | 0.70% | ~671 |
-| Pure Energy | 0.70% | ~671 |
-| Beware the Jabberwock | 0.70% | ~435 |
-| Terror in the Dark | 0.60% | ~575 |
-| A Mysterious Summons | 0.60% | ~575 |
-| Unearthed Evil | 0.60% | ~575 |
-| The Crumbling Temple | 0.60% | ~575 |
-| Exploring Port Nyanzaru | 0.60% | ~575 |
+| A Brief Tour of the Realms | 5.00% | ~4,799 |
+| Beast Intentions | 2.00% | ~1,919 |
+| The Cursed Farmer | 2.00% | ~1,919 |
+| The Mad Wizard | 2.00% | ~1,919 |
+| The Ring of Regeneration | 1.00% | ~960 |
+| Are Ya Chicken? | 1.00% | ~960 |
+| Were-verpowered | 0.90% | ~864 |
+| Seeking Allies | 0.90% | ~864 |
+| The Court of Storms | 0.90% | ~560 |
+| Mad Cow Disease | 0.80% | ~768 |
+| Friendly Imps | 0.80% | ~768 |
+| A Persistent Buzzing | 0.70% | ~672 |
+| Pure Energy | 0.70% | ~672 |
+| Beware the Jabberwock | 0.70% | ~436 |
+| Terror in the Dark | 0.60% | ~576 |
+| A Mysterious Summons | 0.60% | ~576 |
+| Unearthed Evil | 0.60% | ~576 |
+| The Crumbling Temple | 0.60% | ~576 |
+| Exploring Port Nyanzaru | 0.60% | ~576 |
 | Coasting to the Finish | 0.60% | ~373 |
-| Maddening | 0.50% | ~479 |
+| Maddening | 0.50% | ~480 |
 | Checkmate | 0.50% | ~311 |
 | Vecna Out! | 0.50% | ~311 |
-| Beast Mode | 0.50% | ~479 |
-| Low Initiative | 0.50% | ~479 |
-| Building Trust | 0.50% | ~479 |
-| Useless Allies | 0.50% | ~479 |
-| Running of the Saurs | 0.50% | ~479 |
-| The Contagious Curse | 0.50% | ~479 |
-| Escort to Waterdeep | 0.50% | ~479 |
-| Waterdeep Detours | 0.50% | ~479 |
+| Beast Mode | 0.50% | ~480 |
+| Low Initiative | 0.50% | ~480 |
+| Building Trust | 0.50% | ~480 |
+| Useless Allies | 0.50% | ~480 |
+| Running of the Saurs | 0.50% | ~480 |
+| The Contagious Curse | 0.50% | ~480 |
+| Escort to Waterdeep | 0.50% | ~480 |
+| Waterdeep Detours | 0.50% | ~480 |
 | Quick or Quack | 0.50% | ~311 |
 | The Silken Swamp | 0.40% | ~384 |
 | Owlbear Necessities | 0.40% | ~249 |
@@ -59,22 +59,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.40% | ~384 |
 | Rescue in the Jungle | 0.40% | ~384 |
 | Pros and CONs | 0.30% | ~288 |
-| Tall Tales | 0.30% | ~186 |
-| Third Third Out | 0.30% | ~186 |
+| Tall Tales | 0.30% | ~187 |
+| Third Third Out | 0.30% | ~187 |
 | Wet Feet | 0.30% | ~288 |
 | Supply Run | 0.30% | ~288 |
-| Keep Your Distance | 0.30% | ~186 |
-| Hands Off! | 0.30% | ~186 |
-| The Dread Domain of Tovag | 0.30% | ~186 |
-| Frail Doesn't Mean Broken | 0.30% | ~186 |
-| The Castle of a Thousand Vecnas | 0.30% | ~186 |
-| The Sanctum of the Sword | 0.30% | ~186 |
-| Get Back In The Castle | 0.30% | ~186 |
-| Bully for Vecna | 0.30% | ~186 |
+| Keep Your Distance | 0.30% | ~187 |
+| Hands Off! | 0.30% | ~187 |
+| The Dread Domain of Tovag | 0.30% | ~187 |
+| Frail Doesn't Mean Broken | 0.30% | ~187 |
+| The Castle of a Thousand Vecnas | 0.30% | ~187 |
+| The Sanctum of the Sword | 0.30% | ~187 |
+| Get Back In The Castle | 0.30% | ~187 |
+| Bully for Vecna | 0.30% | ~187 |
 | Homecoming | 0.30% | ~288 |
 | The Lost Heir of Omu | 0.30% | ~288 |
-| No One Can Hear You Scream | 0.30% | ~186 |
-| Welcome to the Rock | 0.30% | ~186 |
+| No One Can Hear You Scream | 0.30% | ~187 |
+| Welcome to the Rock | 0.30% | ~187 |
 | The Forbidden City | 0.30% | ~288 |
 | Captured! | 0.30% | ~288 |
 | Force Grey Unleashed | 0.30% | ~288 |
@@ -106,17 +106,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.30% | ~288 |
 | Dinosaur Racing | 0.30% | ~288 |
 | Market Fluctuations | 0.30% | ~288 |
-| Hearts Aflame | 0.30% | ~186 |
-| Look Out! | 0.30% | ~186 |
-| Bad Odds in Avernus | 0.30% | ~186 |
-| An Even Worse Time in Avernus | 0.30% | ~186 |
+| Hearts Aflame | 0.30% | ~187 |
+| Look Out! | 0.30% | ~187 |
+| Bad Odds in Avernus | 0.30% | ~187 |
+| An Even Worse Time in Avernus | 0.30% | ~187 |
 | Close Escort | 0.30% | ~288 |
 | The Long Haul | 0.30% | ~288 |
 | Lost in the Deep | 0.30% | ~288 |
 | Easily Distracted | 0.30% | ~288 |
 | Rude Welcome | 0.30% | ~288 |
-| Witty Riposting | 0.30% | ~186 |
-| How Far Away is Thay | 0.30% | ~186 |
+| Witty Riposting | 0.30% | ~187 |
+| How Far Away is Thay | 0.30% | ~187 |
 | The Haunted Jungle | 0.30% | ~288 |
 | Upholding the Law | 0.20% | ~192 |
 | Starving in the Jungle | 0.20% | ~192 |
@@ -228,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~124 |
 | Hold for the Red Wizards | 0.20% | ~192 |
 | Form Ranks | 0.20% | ~192 |
+| Distribute Your Weight | 0.20% | ~192 |
 | Only the Strong Survive | 0.20% | ~192 |
 | Shorty's Day Off | 0.20% | ~192 |
 | Intelligence Hunt | 0.20% | ~192 |
@@ -238,6 +239,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.20% | ~192 |
 | Review by the Blackstaff | 0.20% | ~124 |
 | Think Your Way Out Of It | 0.20% | ~192 |
+| Air's Getting Pretty Thin | 0.20% | ~192 |
 | A Saurial's Lament | 0.20% | ~192 |
 | A Saurial's Resolve | 0.20% | ~192 |
 | The Killer Mists | 0.20% | ~192 |
@@ -302,6 +304,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadow Stalkers | 0.20% | ~124 |
 | Avernus Frozen Over | 0.20% | ~124 |
 | Once More Into The Breach | 0.20% | ~192 |
+| Thrice More Into The Breach | 0.20% | ~124 |
 | Nightmare Mode | 0.20% | ~124 |
 | Wyllowwood | 0.20% | ~192 |
 | Displaced Anger | 0.20% | ~192 |
@@ -345,6 +348,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Giant-Size Adventure | 0.20% | ~124 |
 | The Everlasting Rime | 0.20% | ~124 |
 | Enemy Summit | 0.20% | ~124 |
+| Mirage Arcane | 0.20% | ~124 |
 | Only Human | 0.20% | ~124 |
 | Moose Tracks | 0.20% | ~124 |
 | An Awakened Axe | 0.20% | ~124 |
@@ -388,9 +392,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Underdark | 0.20% | ~124 |
 | Leemooggoogoon Rises | 0.20% | ~124 |
 | Ending the Rime - Part 1 | 0.20% | ~124 |
+| Ambitious Speakers - Part 1 | 0.20% | ~124 |
 | Ending the Rime - Part 2 | 0.20% | ~124 |
 | Ambitious Speakers - Part 2 | 0.20% | ~124 |
+| Shady Sidekicks - Part 2 | 0.20% | ~124 |
 | Reghed Glacier Mysteries | 0.20% | ~124 |
+| Mysteries Unlocked | 0.20% | ~124 |
 | Tekeli-li's Hunt | 0.20% | ~124 |
 | Neutral No More | 0.20% | ~124 |
 | Encroaching Madness | 0.20% | ~124 |
@@ -428,12 +435,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~62 |
 | Drop of Time | 0.10% | ~62 |
 | They Who Smelt It | 0.10% | ~96 |
-| Distribute Your Weight | 0.10% | ~96 |
 | Mongrelfolk Incursion | 0.10% | ~62 |
 | Seeds of Corruption | 0.10% | ~96 |
 | The Strahd Squad | 0.10% | ~62 |
 | Home Not So Alone | 0.10% | ~62 |
-| Air's Getting Pretty Thin | 0.10% | ~96 |
 | Red Wizard 'Escort' | 0.10% | ~62 |
 | Spirit of the Trickster Gods | 0.10% | ~62 |
 | A Nod from Strahd | 0.10% | ~62 |
@@ -461,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Nimble Grove | 0.10% | ~96 |
 | The Misty Grove | 0.10% | ~62 |
 | Twice More Into The Breach | 0.10% | ~96 |
-| Thrice More Into The Breach | 0.10% | ~62 |
 | Zapper Overload | 0.10% | ~62 |
 | Best Friend Search Squad! | 0.10% | ~62 |
 | When the Going Gets Tough | 0.10% | ~62 |
@@ -473,7 +477,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~62 |
 | Prisoners of Unknown Choices | 0.10% | ~62 |
 | Power of Three | 0.10% | ~62 |
-| Mirage Arcane | 0.10% | ~62 |
 | Lone Wolf Party | 0.10% | ~62 |
 | A Neutral Party | 0.10% | ~62 |
 | Rickety Rubble | 0.10% | ~62 |
@@ -486,10 +489,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Hornfirth | 0.10% | ~62 |
 | Stragglers | 0.10% | ~62 |
 | Volo's Guide to Kuo-toa | 0.10% | ~62 |
-| Ambitious Speakers - Part 1 | 0.10% | ~62 |
 | Shady Sidekicks - Part 1 | 0.10% | ~62 |
-| Shady Sidekicks - Part 2 | 0.10% | ~62 |
-| Mysteries Unlocked | 0.10% | ~62 |
 | Male Pattern Boldness | 0.10% | ~62 |
 | Cackling Horror | 0.10% | ~62 |
 | Working for the Weak End | 0.10% | ~62 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~62 |
 | Ineffectual Intellectuals | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,889 (Ranked 63)  
-Completed: 1,946 (2.03%) (Ranked 71)  
+Progressed: 95,972 (Ranked 63)  
+Completed: 1,947 (2.03%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -558,7 +558,7 @@ Completed: 1,946 (2.03%) (Ranked 71)
 | 2023-06-14 | 90,722 | 1,934 |
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
-| 2023-06-17 | 95,889 | 1,946 |
+| 2023-06-17 | 95,972 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,946  (Ranked 64)  
 Sum: 30,128 (Ranked 37)  

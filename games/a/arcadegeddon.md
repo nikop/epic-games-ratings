@@ -17,7 +17,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get Furious | 56.00% | ~4,085 |
 | Gunplay And Cosplay | 55.00% | ~4,012 |
 | Hacks In Stacks | 54.00% | ~3,939 |
-| Meching Enemies | 48.00% | ~3,502 |
+| Meching Enemies | 49.00% | ~3,575 |
 | Ticket Toddler | 45.00% | ~3,283 |
 | Booty Bashing | 43.00% | ~3,137 |
 | Here Comes a New Challenger | 38.00% | ~2,772 |

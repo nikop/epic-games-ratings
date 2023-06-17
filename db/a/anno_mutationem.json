@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -448,9 +448,9 @@
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "Keep_em_coming",
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:02:23.6075396+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:02:14.9448478+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.1262224+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:57:49.2304562+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:02:23.607562+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:57:40.4851388+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:02:14.9448709+00:00"
 }

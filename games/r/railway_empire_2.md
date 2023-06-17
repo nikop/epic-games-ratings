@@ -5,7 +5,7 @@ Rating: 4.28 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~911 |
+| Country Bumpkin | 74.00% | ~924 |
 | A new Journey | 72.00% | ~899 |
 | From X to Y | 71.00% | ~886 |
 | Departure | 71.00% | ~886 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 782)
 | General Manager | 23.00% | ~287 |
 | Hostile Takeover | 23.00% | ~287 |
 | Seven at one stroke | 22.00% | ~275 |
-| Trailblazer | 18.00% | ~225 |
+| Trailblazer | 19.00% | ~237 |
 | Breaking Ground | 17.00% | ~212 |
 | Traffic Jam | 16.00% | ~200 |
 | Traffic Junction | 16.00% | ~200 |

@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FIRST_HARVEST",
@@ -401,9 +401,9 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "UNLOCK_WELL",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:04:19.3562464+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:03:50.1108137+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.6763703+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:57:38.2734488+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:04:19.3562643+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:57:32.5376693+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:03:50.110833+00:00"
 }

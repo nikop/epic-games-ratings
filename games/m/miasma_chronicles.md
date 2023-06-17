@@ -11,7 +11,7 @@ Rating: 4.34 (Ranked 739)
 | Gun for Hire | 68.00% | ~785 |
 | I am the law! | 61.00% | ~705 |
 | Lumberjack | 48.00% | ~554 |
-| Croaked | 43.00% | ~497 |
+| Croaked | 44.00% | ~508 |
 | Limp Richard | 42.00% | ~485 |
 | From Darkness to Light | 42.00% | ~485 |
 | Editor Adept | 41.00% | ~474 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 739)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,155 (Ranked 174)  
+Progressed: 1,155 (Ranked 175)  
 Completed: 1 (0.09%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -490,7 +490,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2937,
+  "EOS_Progressed": 2938,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -2690,6 +2690,11 @@
       "Time": "2023-06-17T21:03:57.8038494+00:00",
       "NumProgressed": 2937,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-17T22:03:33.6298778+00:00",
+      "NumProgressed": 2938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2717,7 +2722,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ApexPredator_27",
@@ -2765,7 +2770,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2781,7 +2786,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -2861,7 +2866,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PerfectDefense_31",
@@ -2917,7 +2922,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "Tapped_22",
@@ -2925,7 +2930,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2957,7 +2962,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -3021,7 +3026,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3036,15 +3041,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2937,
+      "Progressed": 2938,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:03:57.8038489+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:03:33.6298774+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:31.2469742+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:58:01.702198+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:03:57.8038845+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:57:50.2859126+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:03:33.6299156+00:00"
 }

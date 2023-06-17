@@ -27,9 +27,9 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 31.00% | ~33 |
 | Material Girl | 31.00% | ~33 |
 | Shiny and Crôm | 30.00% | ~32 |
+| The Great Library | 30.00% | ~32 |
 | Gargantua | 30.00% | ~32 |
 | The demons' feast | 29.00% | ~31 |
-| The Great Library | 29.00% | ~31 |
 | Torture and Sensibility | 28.00% | ~30 |
 | The Statuette of Gladeulfeurah | 26.00% | ~28 |
 | A tale of adventurers not quite like the others... | 26.00% | ~28 |

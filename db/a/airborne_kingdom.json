@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6641,
+  "EOS_Progressed": 6642,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -1988,6 +1988,11 @@
       "Time": "2023-06-17T20:05:38.9170555+00:00",
       "NumProgressed": 6641,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-17T22:05:41.9721925+00:00",
+      "NumProgressed": 6642,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2039,7 +2044,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -2095,7 +2100,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -2119,7 +2124,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -2133,9 +2138,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2657
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2151,7 +2156,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2175,7 +2180,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -2199,7 +2204,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2214,15 +2219,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6641,
+      "Progressed": 6642,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-17T21:06:43.5051916+00:00",
+  "LastChanged_Achievements": "2023-06-17T22:05:41.9721921+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-17T20:57:37.5686523+00:00",
-  "LastUpdate_Achievements": "2023-06-17T21:06:43.5052158+00:00"
+  "LastUpdate_Ratings": "2023-06-17T21:57:32.0073855+00:00",
+  "LastUpdate_Achievements": "2023-06-17T22:05:41.9722151+00:00"
 }
