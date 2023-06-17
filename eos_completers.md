@@ -13,9 +13,9 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 14.99% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 13 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 12.50% |
-| 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
+| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 15 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 11.11% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Remains](games/r/remains.md) | 10.00% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
@@ -29,7 +29,7 @@
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.05% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.91% |
 | 29 | [Scorn](games/s/scorn.md) | 6.86% |
-| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.67% |
+| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.45% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.88% |
@@ -49,7 +49,7 @@
 | 47 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.25% |
 | 49 | [The Complex](games/t/the_complex.md) | 3.19% |
-| 50 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.15% |
+| 50 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.14% |
 | 51 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 52 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 53 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -59,7 +59,7 @@
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
@@ -78,7 +78,7 @@
 | 75 | [JARS](games/j/jars.md) | 1.82% |
 | 75 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
-| 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.71% |
+| 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.68% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
@@ -457,4 +457,4 @@
 | 228 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 228 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,801 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,802 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
