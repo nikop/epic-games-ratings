@@ -52,14 +52,14 @@
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 53 | [The Bunker](games/t/the_bunker.md) | 2.88% |
-| 54 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 53 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 53 | [The Bunker](games/t/the_bunker.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 56 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
-| 56 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.74% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.73% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.70% |
+| 60 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.56% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
@@ -68,22 +68,22 @@
 | 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 67 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 69 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.06% |
-| 71 | [Frogun](games/f/frogun.md) | 1.93% |
-| 72 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
-| 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
-| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
-| 74 | [JARS](games/j/jars.md) | 1.82% |
-| 74 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
-| 77 | [Sifu](games/s/sifu.md) | 1.80% |
-| 78 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 79 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
-| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.60% |
+| 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.14% |
+| 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.06% |
+| 72 | [Frogun](games/f/frogun.md) | 1.93% |
+| 73 | [Iron Danger](games/i/iron_danger.md) | 1.89% |
+| 74 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
+| 75 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.82% |
+| 75 | [JARS](games/j/jars.md) | 1.82% |
+| 75 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
+| 78 | [Sifu](games/s/sifu.md) | 1.80% |
+| 79 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 80 | [Poosh XL](games/p/poosh_xl.md) | 1.61% |
 | 81 | [Somerville](games/s/somerville.md) | 1.58% |
 | 82 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 83 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
-| 83 | [Night Book](games/n/night_book.md) | 1.49% |
+| 84 | [Night Book](games/n/night_book.md) | 1.48% |
 | 85 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.39% |
 | 86 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 87 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
@@ -99,8 +99,8 @@
 | 97 | [Sable](games/s/sable.md) | 0.95% |
 | 98 | [Hades](games/h/hades.md) | 0.89% |
 | 99 | [Adios](games/a/adios.md) | 0.87% |
+| 100 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 100 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 101 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 102 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 102 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 104 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
