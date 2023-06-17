@@ -44,7 +44,7 @@
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 341 | 219 |
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 497 |
 | 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 232 | 250 |
-| 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 252 |
+| 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 253 |
 | 40 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 123 | 305 |
 | 40 | [Subnautica](games/s/subnautica.md) | 4.85 | 668 | 164 |
 | 40 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 497 |
@@ -306,7 +306,7 @@
 | 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 497 |
 | 295 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.65 | 0 | 497 |
 | 295 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 497 |
-| 295 | [Old World](games/o/old_world.md) | 4.65 | 218 | 252 |
+| 295 | [Old World](games/o/old_world.md) | 4.65 | 218 | 253 |
 | 295 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,882 | 106 |
 | 295 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 391 |
 | 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 497 |
@@ -432,7 +432,7 @@
 | 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 244 |
 | 425 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 170 | 281 |
 | 425 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 425 |
-| 425 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 218 | 252 |
+| 425 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 219 | 252 |
 | 425 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,479 | 117 |
 | 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 117 | 311 |
 | 425 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 260 |
@@ -766,13 +766,13 @@
 | 764 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 497 |
 | 764 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 949 | 144 |
 | 764 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 497 |
-| 767 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 497 |
-| 767 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 497 |
-| 767 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 497 |
-| 767 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 497 |
-| 767 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 497 |
-| 767 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.30 | 0 | 497 |
-| 767 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.30 | 28 | 458 |
+| 764 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.31 | 28 | 458 |
+| 768 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 497 |
+| 768 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 497 |
+| 768 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 497 |
+| 768 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 497 |
+| 768 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 497 |
+| 768 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.30 | 0 | 497 |
 | 774 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 497 |
 | 774 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
 | 774 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,421,955 | 1 |
