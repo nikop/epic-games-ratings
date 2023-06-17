@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -344,10 +344,10 @@
     }
   ],
   "EOS_Progressed": 2092,
-  "EOS_Completed": 249,
+  "EOS_Completed": 250,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.9,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 11.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -978,6 +978,11 @@
       "Time": "2023-06-16T16:06:48.7693353+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-06-17T10:07:20.5506969+00:00",
+      "NumProgressed": 2092,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 53,
@@ -1187,9 +1192,9 @@
       "ID": "HighJump",
       "SetID": "5lok9mm",
       "Name": "High Jump",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2029
     },
     {
       "ID": "HotGuy",
@@ -1203,9 +1208,9 @@
       "ID": "KneeBending",
       "SetID": "5lok9mm",
       "Name": "Knee bending",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2029
     },
     {
       "ID": "Magnet",
@@ -1413,14 +1418,14 @@
       "ID": "5lok9mm",
       "IsBase": true,
       "Progressed": 2092,
-      "Completed": 249
+      "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:07:42.2503033+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:07:20.5506964+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:33.6497222+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:01:18.0957843+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:07:42.2503557+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:00:43.999023+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:07:20.550736+00:00"
 }

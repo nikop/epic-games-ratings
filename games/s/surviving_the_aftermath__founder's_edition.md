@@ -6,30 +6,30 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,626 |
+| First Step | 71.00% | ~4,627 |
 | Leader | 61.00% | ~3,975 |
-| Explorer | 53.00% | ~3,453 |
-| Healer | 53.00% | ~3,453 |
+| Explorer | 53.00% | ~3,454 |
+| Healer | 53.00% | ~3,454 |
 | Aspiring Inventor | 44.00% | ~2,867 |
 | Adventurer | 41.00% | ~2,672 |
 | Famous Healer | 38.00% | ~2,476 |
 | Local Leader | 35.00% | ~2,281 |
-| New Opportunities | 34.00% | ~2,215 |
-| Famous Explorer | 33.00% | ~2,150 |
-| Energized | 33.00% | ~2,150 |
-| The Long Haul | 33.00% | ~2,150 |
+| New Opportunities | 34.00% | ~2,216 |
+| Famous Explorer | 33.00% | ~2,151 |
+| Energized | 33.00% | ~2,151 |
+| The Long Haul | 33.00% | ~2,151 |
 | Survivor | 31.00% | ~2,020 |
 | The Great Healer | 30.00% | ~1,955 |
-| Cleaner | 28.00% | ~1,824 |
-| Catastrofan | 28.00% | ~1,824 |
-| Legendary Explorer | 27.00% | ~1,759 |
+| Cleaner | 28.00% | ~1,825 |
+| Catastrofan | 28.00% | ~1,825 |
+| Legendary Explorer | 27.00% | ~1,760 |
 | Finders, Keepers | 26.00% | ~1,694 |
 | Top Notch | 24.00% | ~1,564 |
 | Ice Lakes | 23.00% | ~1,499 |
 | Mentor | 23.00% | ~1,499 |
 | Great Leader | 22.00% | ~1,434 |
 | Real Survivor | 22.00% | ~1,434 |
-| Merchant | 21.00% | ~1,368 |
+| Merchant | 21.00% | ~1,369 |
 | War Never Changes | 19.00% | ~1,238 |
 | Rocket Surgeon | 19.00% | ~1,238 |
 | Big Game Hunter | 17.00% | ~1,108 |
@@ -41,7 +41,7 @@ Number of Ratings: 836  (23.09.2022)
 | Prepared for Anything | 13.00% | ~847 |
 | Big Catastrofan | 12.00% | ~782 |
 | It's a Finnish Thing | 10.00% | ~652 |
-| Sky Burial | 9.00% | ~586 |
+| Sky Burial | 9.00% | ~587 |
 | Trader | 8.00% | ~521 |
 | Bread and Circuses | 7.00% | ~456 |
 | Tailored to fit | 7.00% | ~456 |
@@ -50,8 +50,8 @@ Number of Ratings: 836  (23.09.2022)
 | Amped Up | 6.00% | ~391 |
 | Look, no Hands! | 5.00% | ~326 |
 | Luxurious Living | 4.00% | ~261 |
-| Mogul | 3.00% | ~195 |
-| Ranch Hand | 3.00% | ~195 |
+| Mogul | 3.00% | ~196 |
+| Ranch Hand | 3.00% | ~196 |
 | Diplomat | 2.00% | ~130 |
 | Doomsday is canceled | 2.00% | ~130 |
 | Biggest Catastrofan | 2.00% | ~130 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~7 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,516 (Ranked 125)  
+Progressed: 6,517 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 6,449 | 0 |
 | 2023-06-15 | 6,480 | 0 |
 | 2023-06-16 | 6,507 | 0 |
-| 2023-06-17 | 6,516 | 0 |
+| 2023-06-17 | 6,517 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 665 (Ranked 270)  

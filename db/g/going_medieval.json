@@ -1008,10 +1008,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 952,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-06-17T10:00:31.9490923+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 953,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 952,
+  "NumberOfAwards": 953,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1055,7 +1061,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3355,9 +3361,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2367
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -3402,9 +3408,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-06-16T17:59:36.6676909+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:07:26.7142377+00:00",
+  "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:07:06.3199208+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:01:03.7677509+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:07:26.7142703+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:00:31.9490926+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:07:06.3199477+00:00"
 }

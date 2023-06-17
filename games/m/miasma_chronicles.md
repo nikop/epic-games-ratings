@@ -14,8 +14,8 @@ Rating: 4.31 (Ranked 763)
 | Croaked | 43.00% | ~493 |
 | Limp Richard | 42.00% | ~482 |
 | From Darkness to Light | 42.00% | ~482 |
+| Editor Adept | 41.00% | ~470 |
 | Exorcist | 41.00% | ~470 |
-| Editor Adept | 40.00% | ~459 |
 | Firestarter | 39.00% | ~447 |
 | Giant Killer | 37.00% | ~424 |
 | Sensei | 36.00% | ~413 |

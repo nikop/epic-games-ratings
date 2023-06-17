@@ -8,10 +8,10 @@ Number of Ratings: 209  (23.09.2022)
 | ---- | ---------- | ----- |
 | Good Morning | 99.00% | ~2,071 |
 | Hit Rock Bottom | 97.00% | ~2,029 |
+| High Jump | 97.00% | ~2,029 |
+| Knee bending | 97.00% | ~2,029 |
 | Rocket Launched | 97.00% | ~2,029 |
 | Speed | 97.00% | ~2,029 |
-| High Jump | 96.00% | ~2,008 |
-| Knee bending | 96.00% | ~2,008 |
 | Pickaxe | 94.00% | ~1,966 |
 | Revenge | 94.00% | ~1,966 |
 | Cage Town | 94.00% | ~1,966 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,092 (Ranked 156)  
-Completed: 249 (11.90%) (Ranked 14)  
+Completed: 250 (11.95%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,6 +115,7 @@ Completed: 249 (11.90%) (Ranked 14)
 | 2023-06-14 | 2,089 | 249 |
 | 2023-06-15 | 2,090 | 249 |
 | 2023-06-16 | 2,092 | 249 |
+| 2023-06-17 | 2,092 | 250 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 331)  
 Sum: 98 (Ranked 405)  

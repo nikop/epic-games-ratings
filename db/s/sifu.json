@@ -4662,9 +4662,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709645,
+  "EOS_Progressed": 709650,
   "EOS_Completed": 12774,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10182,6 +10182,11 @@
       "Time": "2023-06-17T09:07:39.3260427+00:00",
       "NumProgressed": 709645,
       "NumCompleted": 12774
+    },
+    {
+      "Time": "2023-06-17T10:07:17.8254616+00:00",
+      "NumProgressed": 709650,
+      "NumCompleted": 12774
     }
   ],
   "TotalAchievements": 50,
@@ -10529,7 +10534,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10537,7 +10542,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10545,7 +10550,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -10577,7 +10582,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -10592,21 +10597,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18946,
+      "Progressed": 18951,
       "Completed": 10277
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709645,
+      "Progressed": 709650,
       "Completed": 12774
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-17T09:00:01.9590756+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:07:39.3260423+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:07:17.8254611+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:00:01.9590764+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:07:39.3261275+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:59:37.1678937+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:07:17.8255198+00:00"
 }

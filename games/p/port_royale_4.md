@@ -22,7 +22,7 @@ Number of Ratings: 53  (23.09.2022)
 | Collectionitis | 28.00% | ~185 |
 | Megalomania | 28.00% | ~185 |
 | Christening | 26.00% | ~172 |
-| Groundskeeper | 24.00% | ~159 |
+| Groundskeeper | 25.00% | ~166 |
 | Wholesale | 21.00% | ~139 |
 | Walk the plank | 20.00% | ~132 |
 | My precious! | 17.00% | ~113 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662 (Ranked 197)  
+Progressed: 662 (Ranked 198)  
 Completed: 1 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |

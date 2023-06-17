@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 334)  
+Progressed: 40 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 18 | 0 |
 | 2023-06-15 | 29 | 0 |
 | 2023-06-16 | 36 | 0 |
-| 2023-06-17 | 39 | 0 |
+| 2023-06-17 | 40 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

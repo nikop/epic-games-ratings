@@ -8,7 +8,7 @@ Rating: 4.56 (Ranked 454)
 | Wakey Wakey | 18.00% | ~480 |
 | Infinite Growth... | 15.00% | ~400 |
 | Sputnik 2049 | 15.00% | ~400 |
-| Without Breaking Some Eggs... | 14.00% | ~373 |
+| Without Breaking Some Eggs... | 14.00% | ~374 |
 | Space Society | 10.00% | ~267 |
 | Ready for a New World | 10.00% | ~267 |
 | A Thousand Strong | 9.00% | ~240 |
@@ -48,7 +48,7 @@ Rating: 4.56 (Ranked 454)
 | Tiqqun Contender | 0.90% | ~24 |
 | You Had One Job... | 0.80% | ~21 |
 | Tiqqun Unchained | 0.80% | ~21 |
-| Scientifically Accurate | 0.80% | ~21 |
+| Scientifically Accurate | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |
 | Gregor Spinoza | 0.60% | ~16 |
 | Remember the Dead | 0.30% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 454)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,666 (Ranked 150)  
+Progressed: 2,668 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 226)
 | 2023-06-14 | 2,639 | 0 |
 | 2023-06-15 | 2,660 | 0 |
 | 2023-06-16 | 2,666 | 0 |
+| 2023-06-17 | 2,668 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

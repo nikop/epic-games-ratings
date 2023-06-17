@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6545,9 +6545,9 @@
       "Count": 21762
     }
   ],
-  "EOS_Progressed": 564644,
+  "EOS_Progressed": 564787,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29502,
+  "EOS_NewPlayers": 29491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12655,6 +12655,11 @@
       "Time": "2023-06-17T09:07:48.6377734+00:00",
       "NumProgressed": 564644,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-17T10:07:26.3492919+00:00",
+      "NumProgressed": 564787,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13490,7 +13495,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_105",
@@ -13522,7 +13527,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "ACH_109",
@@ -13562,7 +13567,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "ACH_114",
@@ -13666,7 +13671,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "ACH_130",
@@ -13682,7 +13687,7 @@
       "Name": "Operation: Survival",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_132",
@@ -13778,7 +13783,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "ACH_144",
@@ -13810,7 +13815,7 @@
       "Name": "Death of Ignorance",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_148",
@@ -13826,7 +13831,7 @@
       "Name": "Classy Act",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_150",
@@ -13834,7 +13839,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5648
     },
     {
       "ID": "ACH_151",
@@ -13858,7 +13863,7 @@
       "Name": "I See You",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_154",
@@ -13874,7 +13879,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_156",
@@ -13882,7 +13887,7 @@
       "Name": "Resurgence",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5648
     },
     {
       "ID": "ACH_157",
@@ -13930,7 +13935,7 @@
       "Name": "Power Moves",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_163",
@@ -13976,9 +13981,9 @@
       "ID": "ACH_168",
       "SetID": "16jml5b",
       "Name": "Close Shave",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 4517
+      "UsersEstimate": 5083
     },
     {
       "ID": "ACH_169",
@@ -14002,7 +14007,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5648
     },
     {
       "ID": "ACH_172",
@@ -14018,7 +14023,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_174",
@@ -14050,7 +14055,7 @@
       "Name": "Punch Drunk",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_178",
@@ -14074,7 +14079,7 @@
       "Name": "Humanitarian",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5648
     },
     {
       "ID": "ACH_181",
@@ -14098,7 +14103,7 @@
       "Name": "Prowler",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_184",
@@ -14114,7 +14119,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "ACH_186",
@@ -14122,7 +14127,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACH_187",
@@ -14170,7 +14175,7 @@
       "Name": "Triage",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_193",
@@ -14242,7 +14247,7 @@
       "Name": "High Speed Pursuit",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_202",
@@ -14290,7 +14295,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_208",
@@ -14306,7 +14311,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_210",
@@ -14354,7 +14359,7 @@
       "Name": "Hack the Mainframe",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_216",
@@ -14425,21 +14430,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 564644,
+      "Progressed": 564787,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 564644,
+      "Progressed": 564787,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-17T05:59:54.9653325+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:07:48.6377726+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:07:26.3492913+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:48.0585833+00:00",
-  "LastUpdate_Ratings": "2023-06-17T09:01:39.3741806+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:07:48.6382228+00:00"
+  "LastUpdate_Ratings": "2023-06-17T10:01:02.4360655+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:07:26.3497648+00:00"
 }

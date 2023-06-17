@@ -31,10 +31,10 @@
 | Master Artificer | 48.00% | ~15 |
 | Mermaid Killer | 45.00% | ~14 |
 | Cave Master | 42.00% | ~13 |
-| Face Slapper | 39.00% | ~12 |
+| Face Slapper | 42.00% | ~13 |
 | Master Cook | 35.00% | ~11 |
+| Boss challenge | 23.00% | ~7 |
 | Berserker Slayer | 23.00% | ~7 |
-| Boss challenge | 19.00% | ~6 |
 | Warden Slayer | 19.00% | ~6 |
 | Giantess Slayer | 16.00% | ~5 |
 | Big Face Goalkeeper Challenge | 10.00% | ~3 |

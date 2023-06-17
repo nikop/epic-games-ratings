@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2801,
-  "EOS_Completed": 40,
+  "EOS_Progressed": 2802,
+  "EOS_Completed": 41,
   "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 34,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_NewCompleters": 35,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2780,6 +2780,11 @@
       "Time": "2023-06-17T09:04:59.3909968+00:00",
       "NumProgressed": 2801,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-17T10:04:54.6058288+00:00",
+      "NumProgressed": 2802,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 24,
@@ -2799,7 +2804,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "11",
@@ -2831,7 +2836,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "15",
@@ -2887,7 +2892,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "21",
@@ -2911,7 +2916,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "24",
@@ -2919,7 +2924,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "3",
@@ -2935,7 +2940,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "5",
@@ -2951,7 +2956,7 @@
       "Name": "PRO",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "7",
@@ -2982,13 +2987,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2801,
-      "Completed": 40
+      "Progressed": 2802,
+      "Completed": 41
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:04:59.3909963+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:04:54.6058283+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-17T08:59:58.6562145+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:04:59.3910327+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:59:34.4214762+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:04:54.6058555+00:00"
 }

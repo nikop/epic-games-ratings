@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1655,
+  "EOS_Progressed": 1656,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-06-17T00:07:43.6619375+00:00",
       "NumProgressed": 1655,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-17T10:07:04.7882901+00:00",
+      "NumProgressed": 1656,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -1141,7 +1146,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1149,7 +1154,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1285,7 +1290,7 @@
       "Name": "Justice Served",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1293,7 +1298,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1517,7 +1522,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1525,7 +1530,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1564,15 +1569,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1655,
+      "Progressed": 1656,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:07:24.9106474+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:07:04.7882896+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.0482083+00:00",
-  "LastUpdate_Ratings": "2023-06-17T08:59:17.849524+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:07:24.910689+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:58:58.4588098+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:07:04.7883296+00:00"
 }

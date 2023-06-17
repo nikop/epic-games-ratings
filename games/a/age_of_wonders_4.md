@@ -5,15 +5,15 @@ Rating: 4.59 (Ranked 413)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,712 |
-| Realm Estate | 76.00% | ~3,571 |
-| Secret Technique | 75.00% | ~3,524 |
-| Walls Cannot Stop Us | 73.00% | ~3,430 |
-| From Friends to Family | 69.00% | ~3,242 |
-| Magical Synergy | 65.00% | ~3,054 |
-| Bone Peddler | 61.00% | ~2,866 |
-| Stronger Together | 56.00% | ~2,631 |
-| Full Ascension | 55.00% | ~2,584 |
+| A Wonderful Discovery | 79.00% | ~3,713 |
+| Realm Estate | 76.00% | ~3,572 |
+| Secret Technique | 75.00% | ~3,525 |
+| Walls Cannot Stop Us | 73.00% | ~3,431 |
+| From Friends to Family | 69.00% | ~3,243 |
+| Magical Synergy | 65.00% | ~3,055 |
+| Bone Peddler | 61.00% | ~2,867 |
+| Stronger Together | 56.00% | ~2,632 |
+| Full Ascension | 55.00% | ~2,585 |
 | Seat of Power | 49.00% | ~2,303 |
 | There Can Only Be One! | 48.00% | ~2,256 |
 | Intimidation Tactics | 45.00% | ~2,115 |
@@ -23,7 +23,7 @@ Rating: 4.59 (Ranked 413)
 | Return of the Wizard King | 32.00% | ~1,504 |
 | Against the Odds | 32.00% | ~1,504 |
 | Digging for Treasure | 31.00% | ~1,457 |
-| Enchanted Archipelago | 28.00% | ~1,316 |
+| Enchanted Archipelago | 29.00% | ~1,363 |
 | Impenetrable Fortress | 28.00% | ~1,316 |
 | The Magic That Empowers Me! | 21.00% | ~987 |
 | Preparation Is Everything | 21.00% | ~987 |
@@ -46,11 +46,11 @@ Rating: 4.59 (Ranked 413)
 | I Want to Break Free | 2.00% | ~94 |
 | Manufactured War | 2.00% | ~94 |
 | I'll Fight You All | 1.00% | ~47 |
-| The Grey Wizard | 0.50% | ~23 |
+| The Grey Wizard | 0.50% | ~24 |
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,699 (Ranked 131)  
+Progressed: 4,700 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 3 (0.06%) (Ranked 190)
 | 2023-06-14 | 4,635 | 3 |
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
-| 2023-06-17 | 4,699 | 3 |
+| 2023-06-17 | 4,700 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -650,9 +650,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15402,
+  "EOS_Progressed": 15403,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4140,6 +4140,11 @@
       "Time": "2023-06-17T08:04:31.5615334+00:00",
       "NumProgressed": 15402,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-17T10:05:15.6432261+00:00",
+      "NumProgressed": 15403,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4165,9 +4170,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1232
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4253,9 +4258,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1386
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -4317,9 +4322,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1694
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4470,13 +4475,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15402,
+      "Progressed": 15403,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3328,
+      "Progressed": 3329,
       "Completed": 29
     }
   ],
@@ -4484,8 +4489,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-16T10:58:21.1627136+00:00",
-  "LastChanged_Achievements": "2023-06-17T09:05:22.8082608+00:00",
+  "LastChanged_Achievements": "2023-06-17T10:05:15.6432256+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-17T08:58:35.6348622+00:00",
-  "LastUpdate_Achievements": "2023-06-17T09:05:22.8083006+00:00"
+  "LastUpdate_Ratings": "2023-06-17T09:58:20.6553269+00:00",
+  "LastUpdate_Achievements": "2023-06-17T10:05:15.6432676+00:00"
 }

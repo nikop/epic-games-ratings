@@ -5,8 +5,8 @@ Rating: 4.58 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,504 |
-| Pay 'n' Spray | 49.00% | ~5,209 |
+| Getting Started | 80.00% | ~8,506 |
+| Pay 'n' Spray | 49.00% | ~5,210 |
 | All Dressed Up for San Fierro | 23.00% | ~2,445 |
 | The American Dream | 17.00% | ~1,807 |
 | School's Out | 16.00% | ~1,701 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 425)
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,630 (Ranked 112)  
+Progressed: 10,632 (Ranked 112)  
 Completed: 18 (0.17%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,14 +99,14 @@ Completed: 18 (0.17%) (Ranked 157)
 | 2023-06-14 | 10,511 | 18 |
 | 2023-06-15 | 10,587 | 18 |
 | 2023-06-16 | 10,617 | 18 |
-| 2023-06-17 | 10,630 | 18 |
+| 2023-06-17 | 10,632 | 18 |
 ## Awards
-Max (Great Boss Battles): 167  (Ranked 283)  
-Sum: 167 (Ranked 373)  
-Diff (max vs sum): -90  
+Max (Great Boss Battles): 170  (Ranked 281)  
+Sum: 170 (Ranked 372)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 167 |
+| This game has Great Boss Battles | 170 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -166,3 +166,4 @@ Diff (max vs sum): -90
 | 2023-06-14 | 4.57 | 164 | 164 |
 | 2023-06-15 | 4.58 | 164 | 164 |
 | 2023-06-16 | 4.58 | 167 | 167 |
+| 2023-06-17 | 4.58 | 170 | 170 |

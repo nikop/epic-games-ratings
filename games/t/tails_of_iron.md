@@ -18,8 +18,8 @@ Rating: 4.52 (Ranked 515)
 | Defeat 25 Mozis | 45.00% | ~764 |
 | Collect Gold | 44.00% | ~747 |
 | Smithy Ready to Craft | 44.00% | ~747 |
-| Fix the Travellers Wagon | 42.00% | ~713 |
-| Complete Elder Faction | 39.00% | ~662 |
+| Fix the Travellers Wagon | 43.00% | ~730 |
+| Complete Elder Faction | 40.00% | ~679 |
 | Throne Room Fit For A King | 37.00% | ~628 |
 | End of the Mozis | 36.00% | ~611 |
 | Meet the Creatures from the Deep | 34.00% | ~577 |

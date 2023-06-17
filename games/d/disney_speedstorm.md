@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 52.00% | ~1,457 |
-| EXTRA BOOST | 41.00% | ~1,148 |
-| IT MAKES BOOM! | 41.00% | ~1,148 |
-| PRO | 32.00% | ~896 |
-| PROTECTED | 30.00% | ~840 |
-| A TIGER'S FEAR | 29.00% | ~812 |
-| HERE ARE SOME BARE NECESSITIES | 29.00% | ~812 |
-| AGGRESSIVE RACER | 29.00% | ~812 |
+| EXTRA BOOST | 41.00% | ~1,149 |
+| IT MAKES BOOM! | 41.00% | ~1,149 |
+| PRO | 32.00% | ~897 |
+| PROTECTED | 30.00% | ~841 |
+| A TIGER'S FEAR | 29.00% | ~813 |
+| HERE ARE SOME BARE NECESSITIES | 29.00% | ~813 |
+| AGGRESSIVE RACER | 29.00% | ~813 |
 | ACE SPEEDSTER | 22.00% | ~616 |
 | IT'S A LONG WAY TO THE TOP | 18.00% | ~504 |
 | DEFEAT OUR CHAMPION | 12.00% | ~336 |
@@ -29,8 +29,8 @@
 | EXPERIENCED CREW | 4.00% | ~112 |
 | FRAMED! | 3.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,801 (Ranked 148)  
-Completed: 40 (1.43%) (Ranked 85)  
+Progressed: 2,802 (Ranked 148)  
+Completed: 41 (1.46%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,4 +87,4 @@ Completed: 40 (1.43%) (Ranked 85)
 | 2023-06-14 | 2,783 | 15 |
 | 2023-06-15 | 2,793 | 17 |
 | 2023-06-16 | 2,796 | 34 |
-| 2023-06-17 | 2,801 | 40 |
+| 2023-06-17 | 2,802 | 41 |
