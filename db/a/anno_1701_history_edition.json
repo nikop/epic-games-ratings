@@ -2,7 +2,7 @@
   "ID": "db9ef498b3fa4b26afb501ea352e3c46",
   "Name": "Anno 1701 History Edition",
   "ProductSlug": "anno-1701",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 459,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.55,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -274,6 +274,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-18T05:58:57.0302713+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -292,8 +298,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:28.7529915+00:00",
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
-  "LastChanged": "2023-05-24T02:03:40.2057392+00:00",
+  "LastChanged": "2023-06-18T05:58:57.0302711+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:44.6807372+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:58:54.4530666+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:04:46.967232+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:58:57.0302719+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:04:51.9953497+00:00"
 }

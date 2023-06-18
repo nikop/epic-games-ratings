@@ -201,9 +201,9 @@
       "ID": "MysteriesOfRin",
       "SetID": "4nce15l",
       "Name": "Mysteries of Rin",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Opulent",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-18T05:05:36.3797865+00:00",
+  "LastChanged_Achievements": "2023-06-18T06:05:40.9692281+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.2117335+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:58:49.1135348+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:05:36.3797974+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:58:50.9499655+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:05:40.9692452+00:00"
 }

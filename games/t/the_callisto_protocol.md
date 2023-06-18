@@ -7,7 +7,7 @@ Rating: 4.18 (Ranked 848)
 | ---- | ---------- | ----- |
 | Flesh Wound | 16.00% | ~2,468 |
 | The Outer Way | 15.00% | ~2,314 |
-| Desperate Times | 14.00% | ~2,159 |
+| Desperate Times | 14.00% | ~2,160 |
 | Paper Jams | 12.00% | ~1,851 |
 | Chew 'Em Up | 11.00% | ~1,697 |
 | Reforged | 11.00% | ~1,697 |
@@ -16,20 +16,20 @@ Rating: 4.18 (Ranked 848)
 | Get a Grip | 9.00% | ~1,388 |
 | Giving Back | 8.00% | ~1,234 |
 | Without A Paddle | 8.00% | ~1,234 |
-| Two Heads Are Better Than One | 6.00% | ~925 |
-| Terminated | 6.00% | ~925 |
-| Float Like A Butterfly | 6.00% | ~925 |
-| In the Pipe, Five by Five | 6.00% | ~925 |
-| Crash Site | 6.00% | ~925 |
-| Power Up | 6.00% | ~925 |
+| Two Heads Are Better Than One | 6.00% | ~926 |
+| Terminated | 6.00% | ~926 |
+| Float Like A Butterfly | 6.00% | ~926 |
+| In the Pipe, Five by Five | 6.00% | ~926 |
+| Crash Site | 6.00% | ~926 |
+| Power Up | 6.00% | ~926 |
 | You Need a Gun | 5.00% | ~771 |
 | What Lies Beneath | 5.00% | ~771 |
 | The Commonality | 4.00% | ~617 |
 | Full Circle | 4.00% | ~617 |
 | Instigator | 4.00% | ~134 |
 | I Do Belong Here | 3.00% | ~463 |
-| Big Game Hunter | 3.00% | ~100 |
-| Bear Trap | 3.00% | ~100 |
+| Big Game Hunter | 3.00% | ~101 |
+| Bear Trap | 3.00% | ~101 |
 | In Striking Distance | 2.00% | ~308 |
 | Mugshot | 2.00% | ~308 |
 | Big Spender | 2.00% | ~67 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 848)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,424 (Ranked 104)  
+Progressed: 15,425 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
-| 2023-06-18 | 15,424 | 56 |
+| 2023-06-18 | 15,425 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 387)  
 Sum: 319 (Ranked 328)  

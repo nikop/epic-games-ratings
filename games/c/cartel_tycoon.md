@@ -14,10 +14,10 @@ Number of Ratings: 101  (23.09.2022)
 | Didn't Miss A Single One | 44.00% | ~175 |
 | Spread | 40.00% | ~159 |
 | That was base | 38.00% | ~151 |
-| Safe Pair of Hands | 35.00% | ~139 |
-| Don't Let Mom Know You're A Druglord | 29.00% | ~115 |
+| Safe Pair of Hands | 36.00% | ~143 |
+| Don't Let Mom Know You're A Druglord | 30.00% | ~119 |
 | Architect of Fortunes | 25.00% | ~100 |
-| Pampered Life | 24.00% | ~96 |
+| Pampered Life | 25.00% | ~100 |
 | Bite the Blow | 23.00% | ~92 |
 | Spreading Fear | 9.00% | ~36 |
 | I'm Going To Call You Kitty | 8.00% | ~32 |

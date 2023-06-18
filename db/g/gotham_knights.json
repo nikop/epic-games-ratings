@@ -1604,9 +1604,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65488,
+  "EOS_Progressed": 65490,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6759,6 +6759,11 @@
       "Time": "2023-06-18T05:05:57.7906493+00:00",
       "NumProgressed": 65488,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T06:06:02.934726+00:00",
+      "NumProgressed": 65490,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6912,9 +6917,9 @@
       "ID": "CRAFTING_MOD_CHIPS",
       "SetID": "4eo5ebm",
       "Name": "Fusion Expert",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 524
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6976,9 +6981,9 @@
       "ID": "DEFEAT_OC_2",
       "SetID": "4eo5ebm",
       "Name": "Shock Til They Drop",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 1310
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -7257,13 +7262,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65488,
+      "Progressed": 65490,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35768,
+      "Progressed": 35770,
       "Completed": 2646
     }
   ],
@@ -7271,8 +7276,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-18T03:14:30.7666211+00:00",
-  "LastChanged_Achievements": "2023-06-18T05:05:57.7906486+00:00",
+  "LastChanged_Achievements": "2023-06-18T06:06:02.9347254+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:59:29.1736884+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:05:57.7907169+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:59:31.5897224+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:06:02.9348138+00:00"
 }

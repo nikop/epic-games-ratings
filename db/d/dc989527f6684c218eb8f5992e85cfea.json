@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1273,
+  "EOS_NewPlayers": 1291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-06-18T05:00:17.9074209+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T06:00:22.6385405+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -205,9 +210,9 @@
       "ID": "ACH_CHANGE_AVATAR_FIRST_TIME",
       "SetID": "5ck0pmd",
       "Name": "Self Portrait",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -245,9 +250,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Dal\u00ED",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -277,9 +282,9 @@
       "ID": "ACH_NOONE_GUESSED_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "You tried your best!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -293,9 +298,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -375,7 +380,7 @@
       "Name": "Art Intern",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -399,21 +404,21 @@
       "Name": "First Sketch",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1342,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-06-18T05:00:17.9074032+00:00",
+  "LastChanged_Achievements": "2023-06-18T06:00:22.6385143+00:00",
   "LastUpdate_AppInfo": "2023-06-16T16:59:01.0673973+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:56:55.5858114+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:00:17.9093048+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:56:53.4873108+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:00:22.6395172+00:00"
 }

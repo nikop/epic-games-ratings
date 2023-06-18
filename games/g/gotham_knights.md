@@ -18,6 +18,7 @@ Rating: 4.18 (Ranked 848)
 | Something in the Clay | 2.00% | ~1,310 |
 | The Show Mud Go On | 2.00% | ~1,310 |
 | Rock and a Hard Place | 2.00% | ~1,310 |
+| Shock Til They Drop | 2.00% | ~1,310 |
 | Quartzer Life Crisis | 2.00% | ~1,310 |
 | Snow Problem | 2.00% | ~1,310 |
 | Cooldown | 2.00% | ~1,310 |
@@ -31,14 +32,13 @@ Rating: 4.18 (Ranked 848)
 | End of an Era | 1.00% | ~655 |
 | Not On My Watch | 1.00% | ~655 |
 | Bulldozed | 1.00% | ~655 |
-| Shock Til They Drop | 1.00% | ~655 |
 | Drone You Out | 1.00% | ~655 |
 | Seeking Asylum | 1.00% | ~655 |
 | Gotham Knight | 1.00% | ~655 |
 | Gotham City Confidential | 1.00% | ~655 |
 | Solid Alibi | 1.00% | ~655 |
 | Out of Their League | 0.90% | ~589 |
-| Fusion Expert | 0.70% | ~458 |
+| Fusion Expert | 0.80% | ~524 |
 | Family Meeting | 0.70% | ~458 |
 | A Worthy Successor | 0.70% | ~458 |
 | Expert Crime Fighter | 0.60% | ~393 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,488 (Ranked 70)  
+Progressed: 65,490 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 95 (0.15%) (Ranked 164)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,488 | 95 |
+| 2023-06-18 | 65,490 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 98)  
 Sum: 3,875 (Ranked 137)  

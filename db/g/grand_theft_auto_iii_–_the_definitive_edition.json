@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6693,
+  "EOS_Progressed": 6694,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4367,6 +4367,11 @@
       "Time": "2023-06-18T05:03:53.2092494+00:00",
       "NumProgressed": 6693,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-18T06:03:58.0642251+00:00",
+      "NumProgressed": 6694,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4378,7 +4383,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "ACH02",
@@ -4402,7 +4407,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "ACH05",
@@ -4498,7 +4503,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "ACH17",
@@ -4609,7 +4614,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6693,
+      "Progressed": 6694,
       "Completed": 37
     }
   ],
@@ -4617,8 +4622,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-18T05:03:53.2092491+00:00",
+  "LastChanged_Achievements": "2023-06-18T06:03:58.0642247+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:57:51.7490764+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:03:53.2092809+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:57:48.8892227+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:03:58.0642773+00:00"
 }

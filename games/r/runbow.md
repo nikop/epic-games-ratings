@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,886 |
+| In The Zone | 53.00% | ~129,887 |
 | My First Runbow | 50.00% | ~122,534 |
 | It's The Fall | 26.00% | ~63,718 |
 | The Stunner | 21.00% | ~51,464 |
@@ -17,7 +17,7 @@ Rating: 4.46 (Ranked 603)
 | Chan-tastic | 15.00% | ~36,760 |
 | Muddy Waters | 14.00% | ~34,310 |
 | Toasty! | 13.00% | ~31,859 |
-| Lazy Laser | 8.00% | ~19,605 |
+| Lazy Laser | 8.00% | ~19,606 |
 | Into The Drift | 7.00% | ~17,155 |
 | Ready? Fight! | 7.00% | ~17,155 |
 | Just A Phaze | 6.00% | ~14,704 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,068 (Ranked 43)  
+Progressed: 245,069 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 3 (0.00%) (Ranked 228)
 | 2023-06-15 | 244,894 | 3 |
 | 2023-06-16 | 244,965 | 3 |
 | 2023-06-17 | 245,051 | 3 |
-| 2023-06-18 | 245,068 | 3 |
+| 2023-06-18 | 245,069 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~39,267 |
-| INFUSED WITH LIGHT | 52.00% | ~30,476 |
-| FOXIN' AROUND | 28.00% | ~16,410 |
-| FETCH | 27.00% | ~15,824 |
-| BLOOMS OF LIGHT | 26.00% | ~15,238 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~39,269 |
+| INFUSED WITH LIGHT | 52.00% | ~30,478 |
+| FOXIN' AROUND | 28.00% | ~16,411 |
+| FETCH | 27.00% | ~15,825 |
+| BLOOMS OF LIGHT | 26.00% | ~15,239 |
 | BEST FRIENDS | 22.00% | ~12,894 |
-| AWAKEN | 21.00% | ~12,307 |
-| ERADICATE | 20.00% | ~11,721 |
-| SPIRIT BARK | 20.00% | ~11,721 |
-| GARDEN OF LIGHT | 18.00% | ~10,549 |
-| SPIRIT FORM | 16.00% | ~9,377 |
-| UPROOTING DARKNESS | 15.00% | ~8,791 |
-| WRITTEN IN STONE | 15.00% | ~8,791 |
+| AWAKEN | 21.00% | ~12,308 |
+| ERADICATE | 20.00% | ~11,722 |
+| SPIRIT BARK | 20.00% | ~11,722 |
+| GARDEN OF LIGHT | 18.00% | ~10,550 |
+| SPIRIT FORM | 16.00% | ~9,378 |
+| UPROOTING DARKNESS | 15.00% | ~8,792 |
+| WRITTEN IN STONE | 15.00% | ~8,792 |
 | WEIGHTLESS | 11.00% | ~6,447 |
 | SPIRIT DASH | 10.00% | ~5,861 |
 | OLD COMPANION | 9.00% | ~5,275 |
 | PLAGUE DOCTOR | 8.00% | ~4,689 |
 | SPIRITED AWAY | 8.00% | ~4,689 |
-| MATCH MAKER | 7.00% | ~4,102 |
-| NORTHERN LIGHTS | 7.00% | ~4,102 |
+| MATCH MAKER | 7.00% | ~4,103 |
+| NORTHERN LIGHTS | 7.00% | ~4,103 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,344 |
 | ANCIENT HISTORY | 3.00% | ~1,758 |
 | NONE FORGOTTEN | 2.00% | ~1,172 |
 | KINDRED SPIRITS | 0.60% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,607 (Ranked 75)  
+Progressed: 58,611 (Ranked 75)  
 Completed: 295 (0.50%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 295 (0.50%) (Ranked 120)
 | 2023-06-15 | 58,290 | 292 |
 | 2023-06-16 | 58,417 | 292 |
 | 2023-06-17 | 58,580 | 295 |
-| 2023-06-18 | 58,607 | 295 |
+| 2023-06-18 | 58,611 | 295 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 470)  
 Sum: 93 (Ranked 408)  

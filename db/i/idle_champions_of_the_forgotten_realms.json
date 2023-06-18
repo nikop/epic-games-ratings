@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4354,10 +4354,10 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 96385,
+  "EOS_Progressed": 96433,
   "EOS_Completed": 1947,
-  "EOS_NewPlayers": 5997,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 6041,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
@@ -10394,6 +10394,11 @@
       "Time": "2023-06-18T05:06:04.3445164+00:00",
       "NumProgressed": 96385,
       "NumCompleted": 1947
+    },
+    {
+      "Time": "2023-06-18T06:06:09.2778735+00:00",
+      "NumProgressed": 96433,
+      "NumCompleted": 1947
     }
   ],
   "TotalAchievements": 493,
@@ -10405,7 +10410,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5786
     },
     {
       "ID": "objective_completed_10",
@@ -10773,7 +10778,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "objective_completed_110",
@@ -11269,7 +11274,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "objective_completed_1203",
@@ -11277,7 +11282,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "objective_completed_1204",
@@ -11293,7 +11298,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "objective_completed_1209",
@@ -11525,7 +11530,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "objective_completed_150",
@@ -11597,7 +11602,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "objective_completed_165",
@@ -11733,7 +11738,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "objective_completed_20",
@@ -12077,7 +12082,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "objective_completed_34",
@@ -12093,7 +12098,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "objective_completed_36",
@@ -12549,7 +12554,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "objective_completed_540",
@@ -13549,7 +13554,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "objective_completed_70",
@@ -14341,28 +14346,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 62659,
+      "Progressed": 62707,
       "Completed": 2802
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 96385,
+      "Progressed": 96433,
       "Completed": 1947
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T02:21:33.2707789+00:00",
-  "LastChanged_Achievements": "2023-06-18T05:06:04.3445159+00:00",
+  "LastChanged_Achievements": "2023-06-18T06:06:09.2778732+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:57:59.9841952+00:00",
-  "LastUpdate_Achievements": "2023-06-18T05:06:04.3466518+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:57:57.1619798+00:00",
+  "LastUpdate_Achievements": "2023-06-18T06:06:09.2802304+00:00"
 }

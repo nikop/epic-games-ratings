@@ -38,10 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 4.00% | ~98 |
 | Renaissance man | 4.00% | ~98 |
 | Tank commander | 4.00% | ~98 |
+| Trick shot marksman | 4.00% | ~98 |
 | G.O.A.T. status | 3.00% | ~74 |
 | Hoarder | 3.00% | ~74 |
 | Prince of Philly | 3.00% | ~74 |
-| Trick shot marksman | 3.00% | ~74 |
 | We get it, you're good | 3.00% | ~74 |
 | Cross lock country | 2.00% | ~49 |
 | Many plys later... | 2.00% | ~49 |

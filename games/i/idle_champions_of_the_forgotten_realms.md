@@ -6,29 +6,29 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,783 |
-| The Cursed Farmer | 3.00% | ~2,892 |
-| Beast Intentions | 2.00% | ~1,928 |
-| The Mad Wizard | 2.00% | ~1,928 |
+| A Brief Tour of the Realms | 6.00% | ~5,786 |
+| The Cursed Farmer | 3.00% | ~2,893 |
+| Beast Intentions | 2.00% | ~1,929 |
+| The Mad Wizard | 2.00% | ~1,929 |
 | The Ring of Regeneration | 1.00% | ~964 |
 | Seeking Allies | 1.00% | ~964 |
 | Are Ya Chicken? | 1.00% | ~964 |
-| Were-verpowered | 0.90% | ~867 |
+| Were-verpowered | 0.90% | ~868 |
 | The Court of Storms | 0.90% | ~564 |
 | Mad Cow Disease | 0.80% | ~771 |
 | Friendly Imps | 0.80% | ~771 |
 | A Persistent Buzzing | 0.70% | ~675 |
 | Pure Energy | 0.70% | ~675 |
 | Beware the Jabberwock | 0.70% | ~439 |
-| Terror in the Dark | 0.60% | ~578 |
-| A Mysterious Summons | 0.60% | ~578 |
-| Unearthed Evil | 0.60% | ~578 |
-| The Crumbling Temple | 0.60% | ~578 |
-| Exploring Port Nyanzaru | 0.60% | ~578 |
+| Terror in the Dark | 0.60% | ~579 |
+| A Mysterious Summons | 0.60% | ~579 |
+| Unearthed Evil | 0.60% | ~579 |
+| The Crumbling Temple | 0.60% | ~579 |
+| Exploring Port Nyanzaru | 0.60% | ~579 |
 | Coasting to the Finish | 0.60% | ~376 |
 | Maddening | 0.50% | ~482 |
-| Checkmate | 0.50% | ~313 |
-| Vecna Out! | 0.50% | ~313 |
+| Checkmate | 0.50% | ~314 |
+| Vecna Out! | 0.50% | ~314 |
 | Beast Mode | 0.50% | ~482 |
 | Low Initiative | 0.50% | ~482 |
 | Building Trust | 0.50% | ~482 |
@@ -38,7 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.50% | ~482 |
 | Waterdeep Detours | 0.50% | ~482 |
 | Underdeep Cartography | 0.50% | ~482 |
-| Quick or Quack | 0.50% | ~313 |
+| Quick or Quack | 0.50% | ~314 |
 | The Silken Swamp | 0.40% | ~386 |
 | Owlbear Necessities | 0.40% | ~251 |
 | Best Thay Ever | 0.40% | ~251 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,385 (Ranked 63)  
+Progressed: 96,433 (Ranked 63)  
 Completed: 1,947 (2.02%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,385 | 1,947 |
+| 2023-06-18 | 96,433 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

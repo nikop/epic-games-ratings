@@ -5,17 +5,17 @@ Rating: 4.59 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,723 |
-| Realm Estate | 76.00% | ~3,582 |
-| Secret Technique | 75.00% | ~3,535 |
+| A Wonderful Discovery | 79.00% | ~3,724 |
+| Realm Estate | 76.00% | ~3,583 |
+| Secret Technique | 75.00% | ~3,536 |
 | Walls Cannot Stop Us | 74.00% | ~3,488 |
-| From Friends to Family | 69.00% | ~3,252 |
+| From Friends to Family | 69.00% | ~3,253 |
 | Magical Synergy | 66.00% | ~3,111 |
-| Bone Peddler | 61.00% | ~2,875 |
-| Stronger Together | 57.00% | ~2,686 |
-| Full Ascension | 55.00% | ~2,592 |
-| There Can Only Be One! | 49.00% | ~2,309 |
-| Seat of Power | 49.00% | ~2,309 |
+| Bone Peddler | 61.00% | ~2,876 |
+| Stronger Together | 57.00% | ~2,687 |
+| Full Ascension | 55.00% | ~2,593 |
+| There Can Only Be One! | 49.00% | ~2,310 |
+| Seat of Power | 49.00% | ~2,310 |
 | My Final Form | 45.00% | ~2,121 |
 | Intimidation Tactics | 45.00% | ~2,121 |
 | Valley of Wonders | 43.00% | ~2,027 |
@@ -28,9 +28,9 @@ Rating: 4.59 (Ranked 411)
 | The Magic That Empowers Me! | 21.00% | ~990 |
 | Preparation Is Everything | 21.00% | ~990 |
 | Arch Mage | 20.00% | ~943 |
-| God Emperor | 19.00% | ~895 |
-| Eternal Lord | 18.00% | ~848 |
-| Crimson Caldera | 18.00% | ~848 |
+| God Emperor | 19.00% | ~896 |
+| Eternal Lord | 18.00% | ~849 |
+| Crimson Caldera | 18.00% | ~849 |
 | Lord of Chaos | 15.00% | ~707 |
 | The Creator | 15.00% | ~707 |
 | The Goddess of Nature | 15.00% | ~707 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 411)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,713 (Ranked 131)  
+Progressed: 4,714 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
-| 2023-06-18 | 4,713 | 3 |
+| 2023-06-18 | 4,714 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
