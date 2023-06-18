@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75355,
+  "EOS_Progressed": 75360,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6573,6 +6573,11 @@
       "Time": "2023-06-18T17:07:03.556661+00:00",
       "NumProgressed": 75355,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-06-18T18:06:36.1401763+00:00",
+      "NumProgressed": 75360,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 10,
@@ -6608,7 +6613,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Drawings04",
@@ -6616,7 +6621,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "DrawingsAll",
@@ -6648,7 +6653,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 27128
+      "UsersEstimate": 27130
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -6656,22 +6661,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8289
+      "UsersEstimate": 8290
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 75355,
+      "Progressed": 75360,
       "Completed": 346
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:03.5566603+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:06:36.1401758+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.4152225+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:01:39.6016109+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:03.5567389+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:01:06.2010587+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:06:36.140211+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -3228,9 +3228,9 @@
       "ID": "ThatsANiceBush",
       "SetID": "5f3a6d9",
       "Name": "That\u0027s a Nice Bush!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "TheCrush",
@@ -3346,8 +3346,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:04:48.3025726+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:04:36.3631708+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:06.6415153+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:57:42.9368264+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:04:48.3027227+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:57:35.3914009+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:04:36.3632358+00:00"
 }

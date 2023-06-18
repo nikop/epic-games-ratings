@@ -11,15 +11,15 @@
 | The child of the night | 70.00% | ~39 |
 | I have an army! | 68.00% | ~38 |
 | Sticky fingers | 46.00% | ~26 |
-| A horrible thing will happen... | 41.00% | ~23 |
+| A horrible thing will happen... | 43.00% | ~24 |
 | Vampires | 38.00% | ~21 |
 | Bloody stream | 34.00% | ~19 |
 | Fangs | 21.00% | ~12 |
 | Mirrors | 13.00% | ~7 |
+| I need a hero | 7.00% | ~4 |
 | At least there is something to read | 5.00% | ~3 |
 | Coat | 5.00% | ~3 |
 | Sarcophagus | 5.00% | ~3 |
-| I need a hero | 5.00% | ~3 |
 | I love you all | 5.00% | ~3 |
 | Skills to pay the bills | 5.00% | ~3 |
 | Missing pages | 4.00% | ~2 |

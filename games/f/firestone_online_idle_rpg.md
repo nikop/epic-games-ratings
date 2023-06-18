@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 897)  
+Rating: 4.07 (Ranked 893)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,10 +22,10 @@ Rating: 4.05 (Ranked 897)
 | Enlightenment | 13.00% | ~187 |
 | Hero inspection | 13.00% | ~187 |
 | Lieutenant | 13.00% | ~187 |
+| Mysterious Rock | 12.00% | ~173 |
 | Natural Talent | 12.00% | ~173 |
 | The Unstoppable | 12.00% | ~173 |
 | Milestone collector | 11.00% | ~158 |
-| Mysterious Rock | 11.00% | ~158 |
 | Superior | 11.00% | ~158 |
 | Scientist | 10.00% | ~144 |
 | Challenger | 8.00% | ~115 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 897)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 166)  
+Progressed: 1,440 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,3 +161,4 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-05 | 3.97 | 0 | 0 |
 | 2023-06-06 | 4.00 | 0 | 0 |
 | 2023-06-08 | 4.05 | 0 | 0 |
+| 2023-06-18 | 4.07 | 0 | 0 |

@@ -15,8 +15,8 @@ Rating: 4.62 (Ranked 344)
 | Lock, Stock, And Barrel | 45.00% | ~218 |
 | Gaze Into The Abyss | 45.00% | ~218 |
 | The New World | 45.00% | ~218 |
-| Open Sesame | 43.00% | ~208 |
-| Sticky Fingers | 43.00% | ~208 |
+| Open Sesame | 44.00% | ~213 |
+| Sticky Fingers | 44.00% | ~213 |
 | Knives Out | 43.00% | ~208 |
 | Back In The Saddle | 42.00% | ~203 |
 | Land, Ho! | 42.00% | ~203 |

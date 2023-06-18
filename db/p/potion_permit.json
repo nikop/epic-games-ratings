@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -316,9 +316,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1316,6 +1316,11 @@
       "Time": "2023-06-18T13:11:36.8041773+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-18T18:06:53.2198177+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1327,7 +1332,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1383,7 +1388,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1399,7 +1404,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1415,7 +1420,7 @@
       "Name": "Amateur Chef",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -1423,7 +1428,7 @@
       "Name": "Line Cook",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1447,7 +1452,7 @@
       "Name": "Sociable",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1463,7 +1468,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1479,7 +1484,7 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -1493,9 +1498,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -1519,7 +1524,7 @@
       "Name": "Community Helper",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -1599,7 +1604,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -1630,7 +1635,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 7
     }
   ],
@@ -1638,8 +1643,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:22.0907127+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:06:53.2198173+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.6101982+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:01:40.5309239+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:22.0907508+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:01:06.9110137+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:06:53.2198458+00:00"
 }

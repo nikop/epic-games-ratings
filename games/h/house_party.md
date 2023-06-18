@@ -66,6 +66,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.10% | ~6 |
 | A Striking Resemblance | 0.10% | ~6 |
 | Howz It Goin Dood | 0.10% | ~6 |
+| That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |
 | La Coochadora | 0.10% | ~6 |
 | Derezzed | 0.10% | ~6 |
@@ -73,7 +74,6 @@ Number of Ratings: 177  (23.09.2022)
 | Snapped | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
-| That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,622 (Ranked 128)  

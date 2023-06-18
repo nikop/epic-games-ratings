@@ -1426,9 +1426,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_014",
@@ -1577,8 +1577,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:04:57.0665296+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:04:43.8666432+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.8913307+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:57:22.9688547+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:04:57.066571+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:57:19.1752271+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:04:43.8666888+00:00"
 }

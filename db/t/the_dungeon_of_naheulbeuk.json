@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-06-18T16:05:38.0351842+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T18:05:55.8412391+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -837,7 +842,7 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -863,7 +868,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -887,7 +892,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Chapter2",
@@ -909,7 +914,7 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -919,15 +924,15 @@
       "Name": "The Great Library",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "Chapter7",
@@ -959,7 +964,7 @@
       "Name": "Friendly fire",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CompanionMinstrel",
@@ -983,7 +988,7 @@
       "Name": "Res Judicata",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompanionPriestress",
@@ -991,7 +996,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -1007,7 +1012,7 @@
       "Name": "The Blood Countess",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DLC1SummonTroll",
@@ -1079,7 +1084,7 @@
       "Name": "Take your time back in time",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3BigBrain",
@@ -1111,7 +1116,7 @@
       "Name": "Deep changes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3Chapter14",
@@ -1119,7 +1124,7 @@
       "Name": "A broken clock\u2026",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3DifficultyLegendaryIronman",
@@ -1151,7 +1156,7 @@
       "Name": "Gloomy Dungeon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3RangerAgentX15Support",
@@ -1175,7 +1180,7 @@
       "Name": "Living legends of the Lands of Fangh",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DifficultyHardcore",
@@ -1237,7 +1242,7 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 102
     },
@@ -1253,7 +1258,7 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -1269,7 +1274,7 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 87
     },
@@ -1301,7 +1306,7 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -1309,9 +1314,9 @@
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "EndGameCursed",
@@ -1327,13 +1332,13 @@
       "Name": "Death is for wimps",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FastKill",
       "SetID": "50chcgj",
       "Name": "Alt\u002BF4",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
       "UsersEstimate": 110
     },
@@ -1343,7 +1348,7 @@
       "Name": "The beards of change",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FollowNarzatok",
@@ -1391,7 +1396,7 @@
       "Name": "Gargantua",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Orktobearfest",
@@ -1405,9 +1410,9 @@
       "ID": "PaladineEpic",
       "SetID": "50chcgj",
       "Name": "Law and Order",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "Poster",
@@ -1439,7 +1444,7 @@
       "Name": "Demisemiquaver",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "QuestPaladine",
@@ -1447,7 +1452,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "QuestPriestess",
@@ -1455,7 +1460,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RangerEpic",
@@ -1463,7 +1468,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Rogue30Backstab",
@@ -1535,28 +1540,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:06:18.9016678+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:05:55.8412387+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.3805867+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:59:54.7507686+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:06:18.9018544+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:59:32.8914866+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:05:55.8413192+00:00"
 }

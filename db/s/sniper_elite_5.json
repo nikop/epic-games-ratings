@@ -332,7 +332,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3006,
+  "EOS_Progressed": 3008,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
@@ -3912,6 +3912,11 @@
       "Time": "2023-06-18T16:06:27.170887+00:00",
       "NumProgressed": 3006,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T18:06:54.2017185+00:00",
+      "NumProgressed": 3008,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3955,7 +3960,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3963,7 +3968,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -4139,7 +4144,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -4155,7 +4160,7 @@
       "Name": "Der Geist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -4171,7 +4176,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4179,7 +4184,7 @@
       "Name": "Close Quarters",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -4187,7 +4192,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -4235,7 +4240,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4299,7 +4304,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -4490,13 +4495,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2957,
+      "Progressed": 2959,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3006,
+      "Progressed": 3008,
       "Completed": 2
     }
   ],
@@ -4504,8 +4509,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:23.0871891+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:06:54.201718+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:01:48.3306922+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:23.0873071+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:01:15.6089382+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:06:54.2017863+00:00"
 }

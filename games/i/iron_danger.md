@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 80.00% | ~172 |
+| First Shard | 81.00% | ~175 |
 | Found the Healer | 34.00% | ~73 |
-| Second Shard | 10.00% | ~22 |
+| Second Shard | 11.00% | ~24 |
+| Ring of Fire! | 9.00% | ~19 |
+| Third Shard | 9.00% | ~19 |
 | Champion of Kalevala | 8.00% | ~17 |
-| Ring of Fire! | 8.00% | ~17 |
-| Third Shard | 8.00% | ~17 |
+| Death is Merely a Setback | 8.00% | ~17 |
 | Berry Nice | 7.00% | ~15 |
-| Death is Merely a Setback | 7.00% | ~15 |
 | Fourth Shard | 7.00% | ~15 |
+| Big Fish | 6.00% | ~13 |
 | Keyu Exterminator | 6.00% | ~13 |
 | Tastes Like Chicken | 6.00% | ~13 |
-| Big Fish | 5.00% | ~11 |
-| Fifth Shard | 5.00% | ~11 |
+| Fifth Shard | 6.00% | ~13 |
+| Green Thumb | 4.00% | ~9 |
+| Finished Iron Danger | 4.00% | ~9 |
+| Mushroom Forager | 3.00% | ~6 |
 | Good Stew | 3.00% | ~6 |
-| Green Thumb | 3.00% | ~6 |
 | Avian Veterinarian | 3.00% | ~6 |
 | Bird Butcherer | 3.00% | ~6 |
-| Finished Iron Danger | 3.00% | ~6 |
-| Mushroom Forager | 2.00% | ~4 |
 | Knock, Knock! | 2.00% | ~4 |
 | Natural Selection | 2.00% | ~4 |
 | Trolled | 2.00% | ~4 |
 | Troll Hunter | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 251)  
-Completed: 4 (1.86%) (Ranked 75)  
+Progressed: 216 (Ranked 251)  
+Completed: 4 (1.85%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 4 (1.86%) (Ranked 75)
 | 2023-06-15 | 208 | 4 |
 | 2023-06-16 | 212 | 4 |
 | 2023-06-17 | 213 | 4 |
-| 2023-06-18 | 215 | 4 |
+| 2023-06-18 | 216 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

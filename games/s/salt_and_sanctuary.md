@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,709 |
-| The Three | 64.00% | ~335,969 |
-| The Banquet | 40.00% | ~209,980 |
-| Devara's Light | 30.00% | ~157,485 |
-| The Iron Ones | 18.00% | ~94,491 |
-| The Village | 16.00% | ~83,992 |
-| The Forest | 14.00% | ~73,493 |
-| Branded | 13.00% | ~68,244 |
-| The Imposter | 13.00% | ~68,244 |
-| The Keep | 13.00% | ~68,244 |
+| Find Sanctuary | 83.00% | ~435,715 |
+| The Three | 64.00% | ~335,973 |
+| The Banquet | 40.00% | ~209,983 |
+| Devara's Light | 30.00% | ~157,487 |
+| The Iron Ones | 18.00% | ~94,492 |
+| The Village | 16.00% | ~83,993 |
+| The Forest | 14.00% | ~73,494 |
+| Branded | 13.00% | ~68,245 |
+| The Imposter | 13.00% | ~68,245 |
+| The Keep | 13.00% | ~68,245 |
 | The Castle | 11.00% | ~57,745 |
 | The Dome | 9.00% | ~47,246 |
 | The Red Hall | 9.00% | ~47,246 |
-| The Sacrifice | 8.00% | ~41,996 |
+| The Sacrifice | 8.00% | ~41,997 |
 | The Cave | 7.00% | ~36,747 |
 | The Stone Roots | 7.00% | ~36,747 |
 | The Ziggurat | 7.00% | ~36,747 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,499 |
 | Fading Fast | 1.00% | ~5,250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,951 (Ranked 28)  
+Progressed: 524,958 (Ranked 28)  
 Completed: 1,453 (0.28%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,17 +103,17 @@ Completed: 1,453 (0.28%) (Ranked 145)
 | 2023-06-15 | 524,603 | 1,449 |
 | 2023-06-16 | 524,715 | 1,450 |
 | 2023-06-17 | 524,849 | 1,452 |
-| 2023-06-18 | 524,951 | 1,453 |
+| 2023-06-18 | 524,958 | 1,453 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 238)  
-Sum: 1,897 (Ranked 195)  
+Sum: 1,898 (Ranked 195)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 273 |
 | This game has Quickly Understood Controls | 253 |
 | This game is Highly Recommended | 248 |
-| This game is Extremely Fun | 231 |
+| This game is Extremely Fun | 232 |
 | This game has Diverse Characters | 229 |
 | This game has Amazing Storytelling | 226 |
 | This game has Amazing Characters | 222 |
@@ -244,3 +244,4 @@ Diff (max vs sum): 43
 | 2023-06-14 | 4.61 | - | 272 | 1,894 |
 | 2023-06-15 | 4.61 | - | 273 | 1,895 |
 | 2023-06-17 | 4.61 | - | 273 | 1,897 |
+| 2023-06-18 | 4.61 | - | 273 | 1,898 |

@@ -18,7 +18,7 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 56.00% | ~727 |
 | Transport millionaire | 55.00% | ~714 |
 | Cargo hub | 54.00% | ~701 |
-| Transport master | 52.00% | ~675 |
+| Transport master | 53.00% | ~688 |
 | Cadet | 52.00% | ~675 |
 | Sculpturer | 50.00% | ~650 |
 | Settled down | 48.00% | ~624 |
@@ -26,7 +26,7 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 46.00% | ~598 |
 | Now what? | 46.00% | ~598 |
 | High speed | 43.00% | ~559 |
-| Transport shark | 40.00% | ~520 |
+| Transport shark | 41.00% | ~533 |
 | First aircraft arrived | 40.00% | ~520 |
 | Exemplary student | 40.00% | ~520 |
 | Mass production | 34.00% | ~442 |

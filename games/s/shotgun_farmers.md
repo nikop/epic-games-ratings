@@ -7,13 +7,13 @@
 | Seeds of War | 60.00% | ~76 |
 | Aspairagus | 57.00% | ~44 |
 | Survivor | 48.00% | ~37 |
-| First Blood | 43.00% | ~55 |
+| First Blood | 44.00% | ~56 |
 | Triple Kill | 42.00% | ~53 |
 | Early Survivor | 38.00% | ~29 |
 | No Diggity | 38.00% | ~29 |
+| I Believe I Can Fly | 36.00% | ~46 |
 | No Asperascope | 36.00% | ~46 |
 | Cornivore | 36.00% | ~46 |
-| I Believe I Can Fly | 35.00% | ~44 |
 | Bouncemato | 25.00% | ~19 |
 | Amateur Survivor | 25.00% | ~19 |
 | Quick-Draw Pod | 20.00% | ~15 |
@@ -36,8 +36,8 @@
 | Quadsparagus | 8.00% | ~6 |
 | Fresh Pancake | 6.00% | ~8 |
 | Master Survivor | 6.00% | ~5 |
+| Getting Started | 5.00% | ~6 |
 | Bring Home The Bacon | 4.00% | ~5 |
-| Getting Started | 4.00% | ~5 |
 | Early Bird | 3.00% | ~4 |
 | Heart Breaker | 3.00% | ~2 |
 | Chick Magnet | 2.00% | ~3 |

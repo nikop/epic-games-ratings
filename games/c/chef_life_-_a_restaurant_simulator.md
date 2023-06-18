@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 64.00% | ~256 |
-| You're the Expert! | 31.00% | ~124 |
-| Home Cook | 28.00% | ~112 |
+| The Big Day | 64.00% | ~257 |
+| You're the Expert! | 30.00% | ~120 |
+| Home Cook | 27.00% | ~108 |
 | So Clean You Can Eat Off the Floor | 18.00% | ~72 |
-| S is for Scrumptious | 17.00% | ~68 |
 | French Flair | 16.00% | ~64 |
+| S is for Scrumptious | 16.00% | ~64 |
 | Next Level Cuisine | 11.00% | ~44 |
-| Haute Cuisine | 8.00% | ~32 |
+| Haute Cuisine | 7.00% | ~28 |
 | Italian Style | 7.00% | ~28 |
 | Sous-Chef | 6.00% | ~24 |
 | Perfectionist | 4.00% | ~16 |
@@ -21,9 +21,9 @@
 | Leaning Tower of Pizza | 3.00% | ~12 |
 | Chef, Yes Chef! | 0.50% | ~2 |
 | The Bigger the Better | 0.50% | ~2 |
-| Teamwork | 0.30% | ~1 |
-| Eco Warrior | 0.30% | ~1 |
-| Codename: Arrabbiata | 0.30% | ~1 |
+| Teamwork | 0.20% | ~1 |
+| Eco Warrior | 0.20% | ~1 |
+| Codename: Arrabbiata | 0.20% | ~1 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 218)  
+Progressed: 401 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 388 | 0 |
 | 2023-06-16 | 393 | 0 |
 | 2023-06-17 | 399 | 0 |
-| 2023-06-18 | 400 | 0 |
+| 2023-06-18 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

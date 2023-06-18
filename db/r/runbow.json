@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245091,
+  "EOS_Progressed": 245094,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5654,6 +5654,11 @@
       "Time": "2023-06-18T17:07:12.0559223+00:00",
       "NumProgressed": 245091,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-18T18:06:43.9951145+00:00",
+      "NumProgressed": 245094,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5665,7 +5670,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14705
+      "UsersEstimate": 14706
     },
     {
       "ID": "aWinnerIsYou",
@@ -5689,7 +5694,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49018
+      "UsersEstimate": 49019
     },
     {
       "ID": "blotbuster",
@@ -5713,7 +5718,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14705
+      "UsersEstimate": 14706
     },
     {
       "ID": "canYouDigIt",
@@ -5721,7 +5726,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41665
+      "UsersEstimate": 41666
     },
     {
       "ID": "cantBeKeptDown",
@@ -5761,7 +5766,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44116
+      "UsersEstimate": 44117
     },
     {
       "ID": "curator",
@@ -5769,7 +5774,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49018
+      "UsersEstimate": 49019
     },
     {
       "ID": "didYourTime",
@@ -5841,7 +5846,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129898
+      "UsersEstimate": 129900
     },
     {
       "ID": "indegestible",
@@ -5857,7 +5862,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17156
+      "UsersEstimate": 17157
     },
     {
       "ID": "itsTheFall",
@@ -5881,7 +5886,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "lockupLockdown",
@@ -5905,7 +5910,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122546
+      "UsersEstimate": 122547
     },
     {
       "ID": "notScared",
@@ -5937,7 +5942,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17156
+      "UsersEstimate": 17157
     },
     {
       "ID": "rideTheWave",
@@ -5969,7 +5974,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51469
+      "UsersEstimate": 51470
     },
     {
       "ID": "thunderstruck",
@@ -6032,7 +6037,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245091,
+      "Progressed": 245094,
       "Completed": 3
     }
   ],
@@ -6040,8 +6045,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:12.0559217+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:06:43.9951141+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:00:03.9334431+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:12.0560452+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:59:40.5540491+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:06:43.9951703+00:00"
 }

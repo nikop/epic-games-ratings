@@ -1948,9 +1948,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 533
     },
     {
       "ID": "achAccumulate100MHard",
@@ -1964,9 +1964,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 688
     },
     {
       "ID": "achAccumulate1B",
@@ -2444,8 +2444,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:32.2856574+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:07:01.9415145+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.7574037+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:00:43.0708742+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:32.2857367+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:00:15.35864+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:07:01.9415669+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1654,6 +1654,11 @@
       "Time": "2023-06-18T16:04:08.0534519+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T18:04:03.420488+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1663,7 +1668,7 @@
       "ID": "3StaffsDishesMenu",
       "SetID": "d1bm05f",
       "Name": "Teamwork",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1743,7 +1748,7 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1751,7 +1756,7 @@
       "ID": "FirstArrabbiataPasta",
       "SetID": "d1bm05f",
       "Name": "Codename: Arrabbiata",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1823,9 +1828,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "Money10000",
@@ -1841,7 +1846,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Packing20",
@@ -1863,9 +1868,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "RecipeDifferent30",
@@ -1887,9 +1892,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ServiceMaxClient",
@@ -1919,9 +1924,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 120
     },
     {
       "ID": "TrattoriaSet",
@@ -1984,7 +1989,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
@@ -1992,8 +1997,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:04:09.7483559+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:04:03.4204877+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.5679177+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:59:05.0038114+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:04:09.7484052+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:58:45.7352434+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:04:03.4205208+00:00"
 }

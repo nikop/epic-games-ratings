@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -442,9 +442,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 8630,
+  "EOS_Progressed": 8632,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4952,6 +4952,11 @@
       "Time": "2023-06-18T17:02:11.5124613+00:00",
       "NumProgressed": 8630,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-18T18:01:36.0875625+00:00",
+      "NumProgressed": 8632,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5067,7 +5072,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ACH15",
@@ -5091,7 +5096,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH18",
@@ -5113,9 +5118,9 @@
       "ID": "ACH20",
       "SetID": "9llo822",
       "Name": "Daredevil",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH21",
@@ -5123,7 +5128,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "ACH22",
@@ -5131,7 +5136,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH23",
@@ -5139,7 +5144,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ACH24",
@@ -5234,7 +5239,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8630,
+      "Progressed": 8632,
       "Completed": 36
     }
   ],
@@ -5242,8 +5247,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:02:11.5124604+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:01:36.0875621+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:58:54.0203073+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:02:11.5125606+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:58:36.0481107+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:01:36.087608+00:00"
 }

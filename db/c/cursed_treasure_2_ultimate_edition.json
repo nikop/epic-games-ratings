@@ -192,9 +192,9 @@
       "ID": "BADGE_BOSS_7_KILL",
       "SetID": "ak6pfjk",
       "Name": "Feed the Fishes",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "BADGE_BOSS_8_KILL",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:04:26.0450356+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:04:17.4300611+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:15.484612+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:59:20.2477216+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:04:26.0451117+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:58:58.6719053+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:04:17.430101+00:00"
 }

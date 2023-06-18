@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10142,
+  "EOS_Progressed": 10144,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1021,6 +1021,11 @@
       "Time": "2023-06-17T17:06:45.0666364+00:00",
       "NumProgressed": 10142,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-18T18:06:35.4625677+00:00",
+      "NumProgressed": 10144,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1056,7 +1061,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1072,7 +1077,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1088,7 +1093,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1136,7 +1141,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1152,7 +1157,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1192,7 +1197,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7809
+      "UsersEstimate": 7811
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1240,7 +1245,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1256,7 +1261,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9736
+      "UsersEstimate": 9738
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1272,7 +1277,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5985
     },
     {
       "ID": "ACH_NIGHT",
@@ -1280,7 +1285,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1288,7 +1293,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_RAIN",
@@ -1320,7 +1325,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "ACH_SNOW",
@@ -1336,7 +1341,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -1368,22 +1373,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7302
+      "UsersEstimate": 7304
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10142,
+      "Progressed": 10144,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-18T17:07:02.7085445+00:00",
+  "LastChanged_Achievements": "2023-06-18T18:06:35.4625673+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0768896+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:57:47.8391359+00:00",
-  "LastUpdate_Achievements": "2023-06-18T17:07:02.7085813+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:57:40.1121602+00:00",
+  "LastUpdate_Achievements": "2023-06-18T18:06:35.4625984+00:00"
 }
