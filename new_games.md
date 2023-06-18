@@ -13,8 +13,8 @@
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | - |  | - | - |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | - |  | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 123 | - | 0 |
-| [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 2023-06-15 | 49 (1,000 XP) | 39,183 | - | 0 |
-| [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 2023-06-15 | 31 (1,000 XP) | 54,978 | 4.17 | 0 |
+| [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 2023-06-15 | 49 (1,000 XP) | 39,522 | - | 0 |
+| [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 2023-06-15 | 31 (1,000 XP) | 55,383 | 4.17 | 0 |
 | [ProtoCorgi](games/d/da164cec5b4c4ceaafe2278674348454.md) | 2023-06-15 | - |  | - | - |
 | [Fall of Porcupine](games/a/aba40ee99a904fe8891fddc8f88a1f65.md) | 2023-06-15 | 19 (1,000 XP) | 0 | - | - |
 | [Timewell: Trail Of Celestes](games/t/timewell__trail_of_celestes.md) | 2023-06-15 | - |  | - | 0 |
@@ -28,7 +28,7 @@
 | [maze horror～迷宮ホラー～](games/9/9f81aca67daf4d269ae06257d7b6d460.md) | 2023-06-13 | - |  | - | - |
 | [Akane](games/9/9b6a60b53e524c47903be459aaef729a.md) | 2023-06-13 | - |  | - | 0 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-06-13 | - |  | - | - |
-| [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2023-06-12 | 81 (1,000 XP) | 70 | - | 0 |
+| [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2023-06-12 | 81 (1,000 XP) | 71 | - | 0 |
 | [Dr. Virus](games/0/058ca65993ce4a3a8a79cd238e80c539.md) | 2023-06-12 | - |  | - | - |
 | [Video Game Trivia](games/5/52f01e9ec9454a24abaae68620d9e369.md) | 2023-06-11 | - |  | - | - |
 | [Shrommzzz](games/4/4db2dc09cc0b4051ac65216312c90a5b.md) | 2023-06-11 | - |  | - | - |
@@ -47,7 +47,7 @@
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | - |  | - | - |
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2023-06-08 | - |  | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 1 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,199,722 | 4.55 | 1,282 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,200,491 | 4.55 | 1,282 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 7 (1,000 XP) | 17 | - | - |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 1 | - | - |
 | [Tracks of Triumph Retro Blast](games/e/e542fbd76b3d42a6bf92fcfd0179d8cf.md) | 2023-06-07 | - |  | - | - |
@@ -75,8 +75,8 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 33 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 636,599 | 4.65 | 1,152 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,160,767 | 4.41 | 20 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 636,738 | 4.65 | 1,152 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,160,945 | 4.41 | 20 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 282 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | 0 |
@@ -108,7 +108,7 @@
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | - |  | - | - |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 47 | - | 0 |
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 17 | - | - |
-| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 85 | - | - |
+| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 86 | - | - |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | - |  | - | 0 |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | - |  | - | 0 |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | 0 |
@@ -144,7 +144,7 @@
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - |  | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,590 | - | 0 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,591 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - |  | - | 0 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | - |  | - | - |

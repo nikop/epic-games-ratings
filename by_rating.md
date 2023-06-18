@@ -481,7 +481,6 @@
 | 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 210 | 259 |
 | 476 | [Hue](games/h/hue.md) | 4.55 | 0 | 497 |
 | 476 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 70 | 368 |
-| 476 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 478 |
 | 476 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 449 |
 | 476 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 497 |
 | 476 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.55 | 1,282 | 124 |
@@ -492,16 +491,17 @@
 | 476 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.55 | 0 | 497 |
 | 476 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 299 | 229 |
 | 476 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,183 | 128 |
-| 493 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,602 | 68 |
-| 493 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
-| 493 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,137 | 133 |
-| 493 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
-| 493 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
-| 493 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 497 |
-| 493 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 497 |
-| 493 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 499 | 188 |
-| 493 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 497 |
-| 493 | [VALORANT](games/v/valorant.md) | 4.54 | 57,092 | 11 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,602 | 68 |
+| 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
+| 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,137 | 133 |
+| 492 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 478 |
+| 492 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
+| 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
+| 492 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 497 |
+| 492 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 497 |
+| 492 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 499 | 188 |
+| 492 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 497 |
+| 492 | [VALORANT](games/v/valorant.md) | 4.54 | 57,092 | 11 |
 | 503 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 497 |
 | 503 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
 | 503 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,231 | 17 |
@@ -725,7 +725,7 @@
 | 721 | [Core](games/c/core.md) | 4.36 | 736 | 156 |
 | 721 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 281 |
 | 721 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 497 |
-| 721 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,514 | 27 |
+| 721 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,517 | 27 |
 | 721 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
 | 721 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
 | 721 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 497 |
@@ -741,7 +741,7 @@
 | 739 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 460 |
 | 739 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 497 |
 | 739 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 497 |
-| 739 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 54 | 388 |
+| 739 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 54 | 389 |
 | 739 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 497 |
 | 739 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.34 | 0 | 497 |
 | 739 | [Paladins](games/p/paladins.md) | 4.34 | 3,306 | 84 |
@@ -851,7 +851,7 @@
 | 848 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,339 | 98 |
 | 848 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 497 |
 | 848 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 333 |
-| 848 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 54 | 388 |
+| 848 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 55 | 387 |
 | 848 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 497 |
 | 848 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 497 |
 | 848 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 497 |
