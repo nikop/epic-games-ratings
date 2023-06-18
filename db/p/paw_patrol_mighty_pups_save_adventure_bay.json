@@ -107,9 +107,9 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "14",
@@ -243,9 +243,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "3",
@@ -267,17 +267,17 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "7",
@@ -316,8 +316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:06:45.4901288+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:05:36.3977462+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:59.7395054+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:59:57.4900706+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:06:45.4901461+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:59:09.9090684+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:05:36.3977631+00:00"
 }

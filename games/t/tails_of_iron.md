@@ -22,8 +22,8 @@ Rating: 4.52 (Ranked 514)
 | Complete Elder Faction | 40.00% | ~682 |
 | End of the Mozis | 37.00% | ~631 |
 | Throne Room Fit For A King | 37.00% | ~631 |
+| Meet the Creatures from the Deep | 35.00% | ~597 |
 | Return Power To The Depths | 35.00% | ~597 |
-| Meet the Creatures from the Deep | 34.00% | ~580 |
 | Defeat Ratnor Rodentson | 29.00% | ~494 |
 | Return the Statues | 25.00% | ~426 |
 | Defeat Rattus Augustail | 25.00% | ~426 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 514)
 | King of Kings | 7.00% | ~119 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,705 (Ranked 159)  
+Progressed: 1,705 (Ranked 160)  
 Completed: 8 (0.47%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,21 +6,21 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,646 |
-| Photogenic | 88.00% | ~6,427 |
+| Let's Get This Party Started | 91.00% | ~6,647 |
+| Photogenic | 88.00% | ~6,428 |
 | Surge Gauntlet Jockey | 85.00% | ~6,208 |
 | Plug It In | 84.00% | ~6,135 |
-| Adventure Time | 80.00% | ~5,842 |
-| Playing With Power | 77.00% | ~5,623 |
+| Adventure Time | 80.00% | ~5,843 |
+| Playing With Power | 77.00% | ~5,624 |
 | Coup d'Etat | 59.00% | ~4,309 |
 | You're Fired | 58.00% | ~4,236 |
 | Get Furious | 56.00% | ~4,090 |
 | Gunplay And Cosplay | 55.00% | ~4,017 |
 | Hacks In Stacks | 54.00% | ~3,944 |
-| Meching Enemies | 49.00% | ~3,578 |
-| Ticket Toddler | 45.00% | ~3,286 |
-| Booty Bashing | 43.00% | ~3,140 |
-| Here Comes a New Challenger | 38.00% | ~2,775 |
+| Meching Enemies | 48.00% | ~3,506 |
+| Ticket Toddler | 45.00% | ~3,287 |
+| Booty Bashing | 43.00% | ~3,141 |
+| Here Comes a New Challenger | 38.00% | ~2,776 |
 | Field Medic | 37.00% | ~2,702 |
 | Rapid Response | 33.00% | ~2,410 |
 | Guardian Angel | 31.00% | ~2,264 |
@@ -29,10 +29,10 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 25.00% | ~1,826 |
 | Clips and Crits | 21.00% | ~1,534 |
 | Grey Goo | 19.00% | ~1,388 |
-| Boss of Bosses | 15.00% | ~1,095 |
-| The Final Blow | 14.00% | ~1,022 |
-| Light My Fire | 13.00% | ~949 |
-| To Be Continued | 13.00% | ~949 |
+| Boss of Bosses | 15.00% | ~1,096 |
+| The Final Blow | 14.00% | ~1,023 |
+| Light My Fire | 13.00% | ~950 |
+| To Be Continued | 13.00% | ~950 |
 | Seasoned Adventurer | 12.00% | ~876 |
 | 1.21 Gigawatts | 11.00% | ~803 |
 | This Is My Boomstick! | 10.00% | ~730 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~37 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,303 (Ranked 119)  
+Progressed: 7,304 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 7,277 | 0 |
 | 2023-06-16 | 7,288 | 0 |
 | 2023-06-17 | 7,296 | 0 |
-| 2023-06-18 | 7,303 | 0 |
+| 2023-06-18 | 7,304 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 378)  
 Sum: 485 (Ranked 296)  

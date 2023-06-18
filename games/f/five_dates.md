@@ -8,8 +8,8 @@
 | Digital Casanova | 95.00% | ~420 |
 | Hold my Beer | 64.00% | ~283 |
 | Nueva Beginnings | 36.00% | ~159 |
+| Only Thyme Will Tell | 32.00% | ~141 |
 | We Go Again | 32.00% | ~141 |
-| Only Thyme Will Tell | 31.00% | ~137 |
 | Not Alone | 30.00% | ~133 |
 | In Contempt of Duvet | 29.00% | ~128 |
 | Booty Call | 27.00% | ~119 |

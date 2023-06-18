@@ -11,24 +11,24 @@
 | Break Time | 33.00% | ~2 |
 | Master of the Rope | 33.00% | ~2 |
 | Summer Day | 33.00% | ~2 |
+| Paw patrol member | 33.00% | ~2 |
 | Risky Rescue | 33.00% | ~2 |
 | Carlos Is Tangled | 33.00% | ~2 |
+| Mandy Family | 33.00% | ~2 |
+| Robot Out of Control | 33.00% | ~2 |
 | King of the Mountain | 17.00% | ~1 |
 | A Great Explorer | 17.00% | ~1 |
+| Everything Under Control | 17.00% | ~1 |
 | Training Day | 17.00% | ~1 |
 | In the Air | 17.00% | ~1 |
 | Clear the Road | 17.00% | ~1 |
 | Never Miss | 17.00% | ~1 |
 | You Have Been Everywhere | 17.00% | ~1 |
 | Animal Sighting | 17.00% | ~1 |
-| Paw patrol member | 17.00% | ~1 |
-| Mandy Family | 17.00% | ~1 |
-| Robot Out of Control | 17.00% | ~1 |
 | Don’t Miss Any | 17.00% | ~1 |
 | Mountain and Ice | 17.00% | ~1 |
 | Adventure Bay’s Citizen | 17.00% | ~1 |
 | Nothing Can Stop You | 0.00% | ~0 |
-| Everything Under Control | 0.00% | ~0 |
 | The Fastest | 0.00% | ~0 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |

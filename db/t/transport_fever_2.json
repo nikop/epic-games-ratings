@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2196,9 +2196,9 @@
       "ID": "achFirstPassengerTransported",
       "SetID": "dgl390n",
       "Name": "First passenger on board",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 870
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -2444,8 +2444,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:07:01.9415145+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:05:50.7991905+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.7574037+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:00:15.35864+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:07:01.9415669+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:59:23.3875034+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:05:50.7992383+00:00"
 }

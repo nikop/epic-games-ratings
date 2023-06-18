@@ -6,15 +6,15 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,300 |
-| Hey Good Hookin | 65.00% | ~2,860 |
-| I'm on a Boat! | 56.00% | ~2,464 |
+| Fish Just Got Reel | 75.00% | ~3,301 |
+| Hey Good Hookin | 65.00% | ~2,861 |
+| I'm on a Boat! | 56.00% | ~2,465 |
 | Can you smell what the Rod is Hooking | 50.00% | ~2,200 |
 | Scaling up | 49.00% | ~2,156 |
 | Ready to Rod and Roll | 41.00% | ~1,804 |
 | More Fish in the Sea | 40.00% | ~1,760 |
-| Fish Out of Water | 32.00% | ~1,408 |
-| License to Gill | 32.00% | ~1,408 |
+| License to Gill | 33.00% | ~1,452 |
+| Fish Out of Water | 31.00% | ~1,364 |
 | Things that go Splash in the Night | 26.00% | ~1,144 |
 | Goldfish? | 26.00% | ~1,144 |
 | Going for Gold | 23.00% | ~1,012 |
@@ -28,21 +28,21 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 4.00% | ~176 |
 | Gonna Need a Bigger Boat | 3.00% | ~132 |
 | The Beetles | 2.00% | ~88 |
-| Rod and Troll | 2.00% | ~75 |
 | Taylor Made | 1.00% | ~44 |
+| Rod and Troll | 1.00% | ~38 |
 | Head for Heights | 0.60% | ~26 |
 | Fish upon a Star | 0.50% | ~19 |
 | Lake Me up Before You Go Go | 0.40% | ~18 |
-| Cache and Carry | 0.30% | ~11 |
 | Golden Ridge Ranger | 0.20% | ~9 |
 | Buckaroo | 0.20% | ~9 |
 | Trollsporet Tale Teller | 0.20% | ~8 |
+| Cache and Carry | 0.20% | ~8 |
 | Lost and Flounder | 0.10% | ~4 |
 | Norway Jose | 0.10% | ~4 |
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,400 (Ranked 133)  
+Progressed: 4,401 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 4,369 | 0 |
 | 2023-06-16 | 4,378 | 0 |
 | 2023-06-17 | 4,390 | 0 |
-| 2023-06-18 | 4,400 | 0 |
+| 2023-06-18 | 4,401 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 442)  
 Sum: 158 (Ranked 382)  

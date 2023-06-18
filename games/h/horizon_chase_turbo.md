@@ -1,50 +1,50 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.55 (Ranked 474)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~873,610 |
-| I Need a Bigger Garage | 62.00% | ~608,582 |
-| Pump my Ride | 46.00% | ~451,529 |
-| Ghostbuster | 32.00% | ~314,107 |
-| Call Roadside Assistance | 17.00% | ~166,869 |
-| That Was Close | 17.00% | ~166,869 |
-| Quickie | 10.00% | ~98,158 |
-| California Dreamer | 7.00% | ~68,711 |
-| Can't Touch This | 5.00% | ~49,079 |
-| Carménère Taster | 3.00% | ~29,448 |
-| Comeback | 3.00% | ~29,448 |
-| Marathonist | 3.00% | ~29,448 |
-| Living Legend | 3.00% | ~29,448 |
-| Driver from Ipanema | 2.00% | ~19,632 |
-| Pathfinder | 2.00% | ~19,632 |
-| Go-Kart Champion | 2.00% | ~19,632 |
-| Completionist | 2.00% | ~19,632 |
-| Supersonic | 2.00% | ~19,632 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,632 |
-| God of Roads | 1.00% | ~9,816 |
-| The Iceman | 1.00% | ~9,816 |
-| Oil Tycoon | 1.00% | ~9,816 |
-| Round the Globe | 1.00% | ~9,816 |
-| Golden Passport | 1.00% | ~9,816 |
-| Brave and Bold | 1.00% | ~9,816 |
-| Bollywood Star | 0.90% | ~8,834 |
+| The First of Many | 89.00% | ~873,677 |
+| I Need a Bigger Garage | 62.00% | ~608,629 |
+| Pump my Ride | 46.00% | ~451,563 |
+| Ghostbuster | 32.00% | ~314,131 |
+| Call Roadside Assistance | 17.00% | ~166,882 |
+| That Was Close | 17.00% | ~166,882 |
+| Quickie | 10.00% | ~98,166 |
+| California Dreamer | 7.00% | ~68,716 |
+| Can't Touch This | 5.00% | ~49,083 |
+| Carménère Taster | 3.00% | ~29,450 |
+| Comeback | 3.00% | ~29,450 |
+| Marathonist | 3.00% | ~29,450 |
+| Living Legend | 3.00% | ~29,450 |
+| Driver from Ipanema | 2.00% | ~19,633 |
+| Pathfinder | 2.00% | ~19,633 |
+| Go-Kart Champion | 2.00% | ~19,633 |
+| Completionist | 2.00% | ~19,633 |
+| Supersonic | 2.00% | ~19,633 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,633 |
+| God of Roads | 1.00% | ~9,817 |
+| The Iceman | 1.00% | ~9,817 |
+| Oil Tycoon | 1.00% | ~9,817 |
+| Round the Globe | 1.00% | ~9,817 |
+| Golden Passport | 1.00% | ~9,817 |
+| Brave and Bold | 1.00% | ~9,817 |
+| Bollywood Star | 0.90% | ~8,835 |
 | Crocodile Hunter | 0.80% | ~7,853 |
 | Old Master | 0.80% | ~7,853 |
-| Volcano Surfer | 0.70% | ~6,871 |
-| Otaku | 0.70% | ~6,871 |
+| Volcano Surfer | 0.70% | ~6,872 |
+| Otaku | 0.70% | ~6,872 |
 | Survivor | 0.50% | ~4,908 |
 | King of the World | 0.50% | ~4,908 |
-| Getting Famous | 0.40% | ~3,926 |
+| Getting Famous | 0.40% | ~3,927 |
 | Master of the Racetrack | 0.20% | ~1,963 |
 | Now Go Play Outside | 0.20% | ~1,963 |
 | Transporter | 0.10% | ~982 |
 | Look Mom, No Hands! | 0.10% | ~982 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,584 (Ranked 12)  
+Progressed: 981,659 (Ranked 12)  
 Completed: 309 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 309 (0.03%) (Ranked 200)
 | 2023-06-15 | 978,040 | 304 |
 | 2023-06-16 | 979,153 | 305 |
 | 2023-06-17 | 980,506 | 307 |
-| 2023-06-18 | 981,584 | 309 |
+| 2023-06-18 | 981,659 | 309 |
 ## Awards
 Max (Great for Beginners): 144  (Ranked 293)  
-Sum: 1,157 (Ranked 228)  
-Diff (max vs sum): 65  
+Sum: 1,158 (Ranked 229)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 144 |
@@ -115,7 +115,7 @@ Diff (max vs sum): 65
 | This game is Relaxing | 119 |
 | This game is Great for Quick Sessions | 112 |
 | This game is Highly Recommended | 111 |
-| This game has Competitive Players | 105 |
+| This game has Competitive Players | 106 |
 | This game has Playful Visuals | 102 |
 | This game is Extremely Fun | 96 |
 | This game has Amazing Characters | 87 |
@@ -267,4 +267,4 @@ Diff (max vs sum): 65
 | 2023-06-14 | 4.56 | - | 143 | 1,153 |
 | 2023-06-15 | 4.56 | - | 143 | 1,154 |
 | 2023-06-17 | 4.56 | - | 143 | 1,156 |
-| 2023-06-18 | 4.56 | - | 144 | 1,157 |
+| 2023-06-18 | 4.56 | - | 144 | 1,158 |

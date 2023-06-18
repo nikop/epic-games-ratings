@@ -31,10 +31,10 @@ Rating: 4.59 (Ranked 410)
 | God Emperor | 19.00% | ~898 |
 | Eternal Lord | 18.00% | ~851 |
 | Crimson Caldera | 18.00% | ~851 |
+| Fiery Friend | 16.00% | ~756 |
 | Lord of Chaos | 15.00% | ~709 |
 | The Creator | 15.00% | ~709 |
 | The Goddess of Nature | 15.00% | ~709 |
-| Fiery Friend | 15.00% | ~709 |
 | The Eternal Court | 10.00% | ~473 |
 | Jack of All Tomes | 10.00% | ~473 |
 | Pruning for Progress | 10.00% | ~473 |

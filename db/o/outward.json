@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 146,
@@ -490,7 +490,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2942,
+  "EOS_Progressed": 2943,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -2705,6 +2705,11 @@
       "Time": "2023-06-18T12:03:35.7150688+00:00",
       "NumProgressed": 2942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T19:03:23.9349971+00:00",
+      "NumProgressed": 2943,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2778,9 +2783,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 912
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2900,7 +2905,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2908,7 +2913,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3036,7 +3041,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3051,15 +3056,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2942,
+      "Progressed": 2943,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:04:01.1256358+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:03:23.9349963+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:31.2469742+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:58:04.762014+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:04:01.1256715+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:57:43.2235787+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:03:23.9350325+00:00"
 }

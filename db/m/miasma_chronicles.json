@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 1162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1960,9 +1960,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 244
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2088,9 +2088,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 465
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2329,8 +2329,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:01:26.4629957+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:00:19.4119779+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:58:39.0254453+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:01:26.4630421+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:58:13.2129433+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:00:19.4120232+00:00"
 }

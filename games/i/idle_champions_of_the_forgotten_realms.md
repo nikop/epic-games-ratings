@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,839 |
-| The Cursed Farmer | 3.00% | ~2,919 |
-| Beast Intentions | 2.00% | ~1,946 |
-| The Mad Wizard | 2.00% | ~1,946 |
-| Were-verpowered | 1.00% | ~973 |
-| The Ring of Regeneration | 1.00% | ~973 |
-| Seeking Allies | 1.00% | ~973 |
-| Are Ya Chicken? | 1.00% | ~973 |
-| Friendly Imps | 0.90% | ~876 |
-| The Court of Storms | 0.90% | ~572 |
-| A Persistent Buzzing | 0.80% | ~778 |
-| Mad Cow Disease | 0.80% | ~778 |
-| Pure Energy | 0.80% | ~778 |
-| Terror in the Dark | 0.70% | ~681 |
-| The Crumbling Temple | 0.70% | ~681 |
-| Beware the Jabberwock | 0.70% | ~445 |
+| A Brief Tour of the Realms | 6.00% | ~5,843 |
+| The Cursed Farmer | 3.00% | ~2,922 |
+| Beast Intentions | 2.00% | ~1,948 |
+| The Mad Wizard | 2.00% | ~1,948 |
+| Were-verpowered | 1.00% | ~974 |
+| The Ring of Regeneration | 1.00% | ~974 |
+| Seeking Allies | 1.00% | ~974 |
+| Are Ya Chicken? | 1.00% | ~974 |
+| Friendly Imps | 0.90% | ~877 |
+| The Court of Storms | 0.90% | ~573 |
+| A Persistent Buzzing | 0.80% | ~779 |
+| Mad Cow Disease | 0.80% | ~779 |
+| Pure Energy | 0.80% | ~779 |
+| Terror in the Dark | 0.70% | ~682 |
+| The Crumbling Temple | 0.70% | ~682 |
+| Beware the Jabberwock | 0.70% | ~446 |
 | A Mysterious Summons | 0.60% | ~584 |
 | Unearthed Evil | 0.60% | ~584 |
 | Useless Allies | 0.60% | ~584 |
@@ -39,27 +39,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~487 |
 | Underdeep Cartography | 0.50% | ~487 |
 | Quick or Quack | 0.50% | ~318 |
-| The Silken Swamp | 0.40% | ~389 |
-| Supply Run | 0.40% | ~389 |
-| Owlbear Necessities | 0.40% | ~254 |
-| Best Thay Ever | 0.40% | ~254 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~254 |
-| Pin and Skewer | 0.40% | ~254 |
-| Street War | 0.40% | ~389 |
-| March of the Undead | 0.40% | ~389 |
-| No Time To Rest | 0.40% | ~389 |
-| Invisible Shadows | 0.40% | ~389 |
-| The Dinner Party | 0.40% | ~389 |
-| The Botched Kidnapping | 0.40% | ~389 |
-| Trollskull Manor | 0.40% | ~389 |
-| The Death Curse | 0.40% | ~389 |
-| Premature Betrayal | 0.40% | ~389 |
-| A Tale of Two Cities | 0.40% | ~389 |
-| Flying Monkey Skulls of Doom | 0.40% | ~389 |
-| Constant Banditry | 0.40% | ~389 |
-| Overdue Rendezvous | 0.40% | ~389 |
-| The Templar's Camp | 0.40% | ~389 |
-| Rescue in the Jungle | 0.40% | ~389 |
+| The Silken Swamp | 0.40% | ~390 |
+| Supply Run | 0.40% | ~390 |
+| Owlbear Necessities | 0.40% | ~255 |
+| Best Thay Ever | 0.40% | ~255 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~255 |
+| Pin and Skewer | 0.40% | ~255 |
+| Street War | 0.40% | ~390 |
+| March of the Undead | 0.40% | ~390 |
+| No Time To Rest | 0.40% | ~390 |
+| Invisible Shadows | 0.40% | ~390 |
+| The Dinner Party | 0.40% | ~390 |
+| The Botched Kidnapping | 0.40% | ~390 |
+| Trollskull Manor | 0.40% | ~390 |
+| The Death Curse | 0.40% | ~390 |
+| Premature Betrayal | 0.40% | ~390 |
+| A Tale of Two Cities | 0.40% | ~390 |
+| Flying Monkey Skulls of Doom | 0.40% | ~390 |
+| Constant Banditry | 0.40% | ~390 |
+| Overdue Rendezvous | 0.40% | ~390 |
+| The Templar's Camp | 0.40% | ~390 |
+| Rescue in the Jungle | 0.40% | ~390 |
 | Pros and CONs | 0.30% | ~292 |
 | Tall Tales | 0.30% | ~191 |
 | Third Third Out | 0.30% | ~191 |
@@ -232,8 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~127 |
 | Hold for the Red Wizards | 0.20% | ~195 |
 | Form Ranks | 0.20% | ~195 |
-| They Who Smelt It | 0.20% | ~195 |
-| Distribute Your Weight | 0.20% | ~195 |
 | Only the Strong Survive | 0.20% | ~195 |
 | Shorty's Day Off | 0.20% | ~195 |
 | Intelligence Hunt | 0.20% | ~195 |
@@ -309,7 +307,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadow Stalkers | 0.20% | ~127 |
 | Avernus Frozen Over | 0.20% | ~127 |
 | Once More Into The Breach | 0.20% | ~195 |
-| Twice More Into The Breach | 0.20% | ~195 |
 | Thrice More Into The Breach | 0.20% | ~127 |
 | Nightmare Mode | 0.20% | ~127 |
 | Wyllowwood | 0.20% | ~195 |
@@ -342,7 +339,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~127 |
 | Madcap Adventures Redux | 0.20% | ~127 |
 | Tiamat's Army | 0.20% | ~127 |
-| Show of Strength | 0.20% | ~127 |
 | Fight Dragons with Dragons | 0.20% | ~127 |
 | Questlines | 0.20% | ~127 |
 | Raggadragga's Crew | 0.20% | ~127 |
@@ -442,6 +438,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~64 |
 | Acererak's Puzzle | 0.10% | ~64 |
 | Drop of Time | 0.10% | ~64 |
+| They Who Smelt It | 0.10% | ~97 |
+| Distribute Your Weight | 0.10% | ~97 |
 | Mongrelfolk Incursion | 0.10% | ~64 |
 | The Strahd Squad | 0.10% | ~64 |
 | Red Wizard 'Escort' | 0.10% | ~64 |
@@ -470,9 +468,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Temporal Rift in the Goblin Halls | 0.10% | ~64 |
 | The Nimble Grove | 0.10% | ~97 |
 | The Misty Grove | 0.10% | ~64 |
+| Twice More Into The Breach | 0.10% | ~97 |
 | Zapper Overload | 0.10% | ~64 |
 | Best Friend Search Squad! | 0.10% | ~64 |
 | When the Going Gets Tough | 0.10% | ~64 |
+| Show of Strength | 0.10% | ~64 |
 | Just The Worst | 0.10% | ~64 |
 | Fire and Brimstone | 0.10% | ~64 |
 | A Tenday at Golgamann's | 0.10% | ~64 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,312 (Ranked 63)  
+Progressed: 97,390 (Ranked 63)  
 Completed: 1,947 (2.00%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.00%) (Ranked 73)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 97,312 | 1,947 |
+| 2023-06-18 | 97,390 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,138 (Ranked 37)  

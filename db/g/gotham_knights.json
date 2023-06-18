@@ -1622,9 +1622,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65547,
+  "EOS_Progressed": 65553,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6842,6 +6842,11 @@
       "Time": "2023-06-18T18:06:59.4837225+00:00",
       "NumProgressed": 65547,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T19:05:48.5622498+00:00",
+      "NumProgressed": 65553,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6933,7 +6938,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "APPLY_STATUS",
@@ -7013,7 +7018,7 @@
       "Name": "Not On My Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -7029,7 +7034,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -7051,9 +7056,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 524
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -7069,7 +7074,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "FREEZE_1",
@@ -7077,7 +7082,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "FREEZE_1_5",
@@ -7165,7 +7170,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "HARLEY_3",
@@ -7229,7 +7234,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -7253,7 +7258,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "MYSTERY_03",
@@ -7293,7 +7298,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "MYSTERY_08",
@@ -7301,7 +7306,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "SECRET_CACHE",
@@ -7309,7 +7314,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -7317,7 +7322,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -7340,13 +7345,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65547,
+      "Progressed": 65553,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35827,
+      "Progressed": 35833,
       "Completed": 2646
     }
   ],
@@ -7354,8 +7359,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-18T10:00:49.7772249+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:06:59.4837218+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:05:48.5622494+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:00:21.659754+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:06:59.4837926+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:59:28.2061845+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:05:48.5623165+00:00"
 }

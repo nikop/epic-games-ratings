@@ -5,13 +5,13 @@ Rating: 4.66 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,004 |
-| Mods Please Ban | 77.00% | ~17,630 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,401 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,714 |
+| Eye Scream, You Scream | 83.00% | ~19,005 |
+| Mods Please Ban | 77.00% | ~17,631 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,402 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,715 |
 | First Bounty Down | 59.00% | ~13,509 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,051 |
-| Luglox Genocide | 43.00% | ~9,845 |
+| Luglox Genocide | 43.00% | ~9,846 |
 | Playing Card To Get | 33.00% | ~7,556 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,556 |
 | Creature Feature | 29.00% | ~6,640 |
@@ -28,8 +28,8 @@ Rating: 4.66 (Ranked 274)
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,579 |
 | Self-Actualization | 19.00% | ~4,350 |
 | Legendary Bounty Hunter | 18.00% | ~4,121 |
-| Seeing All The Sights | 16.00% | ~3,663 |
-| Carried Stan's Load To Completion | 13.00% | ~2,976 |
+| Seeing All The Sights | 16.00% | ~3,664 |
+| Carried Stan's Load To Completion | 13.00% | ~2,977 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,748 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,061 |
 | Sequel-Bait | 8.00% | ~1,832 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 274)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,896 (Ranked 96)  
+Progressed: 22,897 (Ranked 96)  
 Completed: 8 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 8 (0.03%) (Ranked 200)
 | 2023-06-15 | 22,872 | 8 |
 | 2023-06-16 | 22,882 | 8 |
 | 2023-06-17 | 22,890 | 8 |
-| 2023-06-18 | 22,896 | 8 |
+| 2023-06-18 | 22,897 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

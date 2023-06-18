@@ -35,10 +35,10 @@ Rating: 4.80 (Ranked 79)
 | Whispers in the Woods II | 16.00% | ~380 |
 | Quickmoore Headquarters | 16.00% | ~380 |
 | No more holding back | 15.00% | ~356 |
+| Terbisia | 15.00% | ~356 |
 | Whispers in the Woods III | 14.00% | ~333 |
 | True power | 14.00% | ~333 |
 | Meltridge | 14.00% | ~333 |
-| Terbisia | 14.00% | ~333 |
 | My heart and sword always for Demacia | 13.00% | ~309 |
 | Friendly fire | 13.00% | ~309 |
 | The Central Headquarters | 13.00% | ~309 |
@@ -48,11 +48,11 @@ Rating: 4.80 (Ranked 79)
 | I smell fear | 10.00% | ~238 |
 | The end of the experiments | 10.00% | ~238 |
 | The Great City of Demacia | 10.00% | ~238 |
+| Back to sleep, then... | 10.00% | ~238 |
 | Call it 'redistribution of magic | 10.00% | ~238 |
 | Chains master | 9.00% | ~214 |
 | Truth is a dark mirror | 9.00% | ~214 |
 | You can pet the... horse | 9.00% | ~214 |
-| Back to sleep, then... | 9.00% | ~214 |
 | Do you trust me? | 8.00% | ~190 |
 | Spellcrafting | 8.00% | ~190 |
 | The great mage rebellion starts now | 7.00% | ~166 |

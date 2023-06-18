@@ -434,9 +434,9 @@
       "ID": "coffee_50",
       "SetID": "56hff7o",
       "Name": "Coffee Connoisseur",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "countertop",
@@ -488,8 +488,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-18T18:05:32.3288856+00:00",
+  "LastChanged_Achievements": "2023-06-18T19:04:36.8871573+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:17.7240598+00:00",
-  "LastUpdate_Ratings": "2023-06-18T17:59:01.1102092+00:00",
-  "LastUpdate_Achievements": "2023-06-18T18:05:32.3288941+00:00"
+  "LastUpdate_Ratings": "2023-06-18T18:58:29.2318114+00:00",
+  "LastUpdate_Achievements": "2023-06-18T19:04:36.8871658+00:00"
 }
