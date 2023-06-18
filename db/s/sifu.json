@@ -4686,9 +4686,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709724,
+  "EOS_Progressed": 709726,
   "EOS_Completed": 12775,
-  "EOS_NewPlayers": 1040,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10311,6 +10311,11 @@
       "Time": "2023-06-18T09:07:13.2883618+00:00",
       "NumProgressed": 709724,
       "NumCompleted": 12775
+    },
+    {
+      "Time": "2023-06-18T10:07:22.8477123+00:00",
+      "NumProgressed": 709726,
+      "NumCompleted": 12775
     }
   ],
   "TotalAchievements": 50,
@@ -10322,7 +10327,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14194
+      "UsersEstimate": 14195
     },
     {
       "ID": "02_Vengeance_H1",
@@ -10721,21 +10726,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19025,
+      "Progressed": 19027,
       "Completed": 10282
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709724,
+      "Progressed": 709726,
       "Completed": 12775
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-18T07:58:51.9567993+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:07:13.2883612+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:07:22.8477114+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:59:29.3102704+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:07:13.2884943+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:59:51.1688664+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:07:22.8478479+00:00"
 }

@@ -668,9 +668,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15428,
+  "EOS_Progressed": 15429,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2023-06-18T09:05:16.5483044+00:00",
       "NumProgressed": 15428,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T10:05:07.2331007+00:00",
+      "NumProgressed": 15429,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4260,9 +4265,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 10
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -4286,7 +4291,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4500,9 +4505,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 771
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4573,13 +4578,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15428,
+      "Progressed": 15429,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3354,
+      "Progressed": 3355,
       "Completed": 29
     }
   ],
@@ -4587,8 +4592,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-18T03:57:51.8868865+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:05:16.5483035+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:05:07.2330998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:58:16.9262446+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:05:16.5483946+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:58:21.4404101+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:05:07.2331917+00:00"
 }

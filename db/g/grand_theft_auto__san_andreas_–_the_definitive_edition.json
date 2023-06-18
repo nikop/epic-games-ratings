@@ -424,9 +424,9 @@
       "Count": 170
     }
   ],
-  "EOS_Progressed": 10663,
+  "EOS_Progressed": 10664,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5099,6 +5099,11 @@
       "Time": "2023-06-18T07:06:11.7500397+00:00",
       "NumProgressed": 10663,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-18T10:07:20.7444423+00:00",
+      "NumProgressed": 10664,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5110,7 +5115,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "ACH02",
@@ -5286,7 +5291,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "ACH24",
@@ -5324,17 +5329,17 @@
       "ID": "ACH28",
       "SetID": "4ck5mbe",
       "Name": "Original Gangster",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 640
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACH30",
@@ -5389,7 +5394,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10663,
+      "Progressed": 10664,
       "Completed": 19
     }
   ],
@@ -5397,8 +5402,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-18T08:00:00.2458121+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:07:11.5815588+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:07:20.7444414+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:00:56.1420926+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:07:11.5816525+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:01:28.9026057+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:07:20.7445369+00:00"
 }

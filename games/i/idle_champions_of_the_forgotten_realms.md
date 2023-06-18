@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,795 |
-| The Cursed Farmer | 3.00% | ~2,898 |
-| Beast Intentions | 2.00% | ~1,932 |
-| The Mad Wizard | 2.00% | ~1,932 |
+| A Brief Tour of the Realms | 6.00% | ~5,799 |
+| The Cursed Farmer | 3.00% | ~2,899 |
+| Beast Intentions | 2.00% | ~1,933 |
+| The Mad Wizard | 2.00% | ~1,933 |
 | The Ring of Regeneration | 1.00% | ~966 |
 | Seeking Allies | 1.00% | ~966 |
 | Are Ya Chicken? | 1.00% | ~966 |
-| Were-verpowered | 0.90% | ~869 |
-| Friendly Imps | 0.90% | ~869 |
+| Were-verpowered | 0.90% | ~870 |
+| Friendly Imps | 0.90% | ~870 |
 | The Court of Storms | 0.90% | ~566 |
 | Mad Cow Disease | 0.80% | ~773 |
 | A Persistent Buzzing | 0.70% | ~676 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.60% | ~580 |
 | Coasting to the Finish | 0.60% | ~377 |
 | Maddening | 0.50% | ~483 |
-| Checkmate | 0.50% | ~314 |
-| Vecna Out! | 0.50% | ~314 |
+| Checkmate | 0.50% | ~315 |
+| Vecna Out! | 0.50% | ~315 |
 | Beast Mode | 0.50% | ~483 |
 | Low Initiative | 0.50% | ~483 |
 | Building Trust | 0.50% | ~483 |
@@ -38,27 +38,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.50% | ~483 |
 | Waterdeep Detours | 0.50% | ~483 |
 | Underdeep Cartography | 0.50% | ~483 |
-| Quick or Quack | 0.50% | ~314 |
-| The Silken Swamp | 0.40% | ~386 |
-| Supply Run | 0.40% | ~386 |
-| Owlbear Necessities | 0.40% | ~251 |
-| Best Thay Ever | 0.40% | ~251 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~251 |
-| Pin and Skewer | 0.40% | ~251 |
-| Street War | 0.40% | ~386 |
-| March of the Undead | 0.40% | ~386 |
-| No Time To Rest | 0.40% | ~386 |
-| The Dinner Party | 0.40% | ~386 |
-| The Botched Kidnapping | 0.40% | ~386 |
-| Trollskull Manor | 0.40% | ~386 |
-| The Death Curse | 0.40% | ~386 |
-| Premature Betrayal | 0.40% | ~386 |
-| A Tale of Two Cities | 0.40% | ~386 |
-| Flying Monkey Skulls of Doom | 0.40% | ~386 |
-| Constant Banditry | 0.40% | ~386 |
-| Overdue Rendezvous | 0.40% | ~386 |
-| The Templar's Camp | 0.40% | ~386 |
-| Rescue in the Jungle | 0.40% | ~386 |
+| Quick or Quack | 0.50% | ~315 |
+| The Silken Swamp | 0.40% | ~387 |
+| Supply Run | 0.40% | ~387 |
+| Owlbear Necessities | 0.40% | ~252 |
+| Best Thay Ever | 0.40% | ~252 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~252 |
+| Pin and Skewer | 0.40% | ~252 |
+| Street War | 0.40% | ~387 |
+| March of the Undead | 0.40% | ~387 |
+| No Time To Rest | 0.40% | ~387 |
+| The Dinner Party | 0.40% | ~387 |
+| The Botched Kidnapping | 0.40% | ~387 |
+| Trollskull Manor | 0.40% | ~387 |
+| The Death Curse | 0.40% | ~387 |
+| Premature Betrayal | 0.40% | ~387 |
+| A Tale of Two Cities | 0.40% | ~387 |
+| Flying Monkey Skulls of Doom | 0.40% | ~387 |
+| Constant Banditry | 0.40% | ~387 |
+| Overdue Rendezvous | 0.40% | ~387 |
+| The Templar's Camp | 0.40% | ~387 |
+| Rescue in the Jungle | 0.40% | ~387 |
 | Pros and CONs | 0.30% | ~290 |
 | Tall Tales | 0.30% | ~189 |
 | Third Third Out | 0.30% | ~189 |
@@ -110,6 +110,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.30% | ~189 |
 | Bad Odds in Avernus | 0.30% | ~189 |
 | An Even Worse Time in Avernus | 0.30% | ~189 |
+| The Giant's Bane Tavern | 0.30% | ~189 |
 | Close Escort | 0.30% | ~290 |
 | The Long Haul | 0.30% | ~290 |
 | Lost in the Deep | 0.30% | ~290 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.20% | ~126 |
 | Into the Unknown | 0.20% | ~126 |
 | The Prison of Velkynvelve | 0.20% | ~126 |
-| The Giant's Bane Tavern | 0.20% | ~126 |
 | Rime Bandits | 0.20% | ~126 |
 | Giant-Size Adventure | 0.20% | ~126 |
 | The Everlasting Rime | 0.20% | ~126 |
@@ -403,6 +403,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.20% | ~126 |
 | Mysteries Unlocked | 0.20% | ~126 |
 | Tekeli-li's Hunt | 0.20% | ~126 |
+| Working for the Weak End | 0.20% | ~126 |
 | Neutral No More | 0.20% | ~126 |
 | Encroaching Madness | 0.20% | ~126 |
 | The Rite of the Arcane Octad | 0.20% | ~126 |
@@ -492,7 +493,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~63 |
 | Male Pattern Boldness | 0.10% | ~63 |
 | Cackling Horror | 0.10% | ~63 |
-| Working for the Weak End | 0.10% | ~63 |
 | Fungal Excitation | 0.10% | ~63 |
 | Crimson Perception | 0.10% | ~63 |
 | Watchful Eyes | 0.10% | ~63 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,585 (Ranked 63)  
-Completed: 1,947 (2.02%) (Ranked 72)  
+Progressed: 96,642 (Ranked 63)  
+Completed: 1,947 (2.01%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,585 | 1,947 |
+| 2023-06-18 | 96,642 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

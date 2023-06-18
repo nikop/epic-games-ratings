@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,468 |
+| Flesh Wound | 16.00% | ~2,469 |
 | The Outer Way | 15.00% | ~2,314 |
 | Desperate Times | 14.00% | ~2,160 |
 | Paper Jams | 12.00% | ~1,851 |
@@ -24,8 +24,8 @@ Rating: 4.18 (Ranked 848)
 | Power Up | 6.00% | ~926 |
 | You Need a Gun | 5.00% | ~771 |
 | What Lies Beneath | 5.00% | ~771 |
+| Full Circle | 5.00% | ~771 |
 | The Commonality | 4.00% | ~617 |
-| Full Circle | 4.00% | ~617 |
 | Instigator | 4.00% | ~134 |
 | I Do Belong Here | 3.00% | ~463 |
 | Big Game Hunter | 3.00% | ~101 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 848)
 | Hoard Mode | 1.00% | ~34 |
 | Recidivist | 0.70% | ~23 |
 | Lifer | 0.70% | ~23 |
-| Armed to the Teeth | 0.40% | ~13 |
+| Armed to the Teeth | 0.30% | ~10 |
 | The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 848)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,428 (Ranked 104)  
+Progressed: 15,429 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
-| 2023-06-18 | 15,428 | 56 |
+| 2023-06-18 | 15,429 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 387)  
 Sum: 319 (Ranked 328)  

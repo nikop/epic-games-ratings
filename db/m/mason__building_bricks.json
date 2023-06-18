@@ -75,17 +75,17 @@
       "ID": "Mason_Arch_01",
       "SetID": "77clh7i",
       "Name": "Arch Mason",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Mason_Expert_01",
       "SetID": "77clh7i",
       "Name": "Expert Mason",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Mason_Grand_01",
@@ -116,8 +116,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:06:45.167942+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:06:51.2883985+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.7913266+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:59:51.4353592+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:06:45.167952+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:00:18.1877169+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:06:51.2884094+00:00"
 }

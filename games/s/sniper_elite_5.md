@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~927 |
+| Meeting Resistance | 31.00% | ~928 |
 | Confirming Suspicions | 26.00% | ~778 |
 | The Kraken Wakes | 22.00% | ~658 |
-| It's Starting to Crack | 19.00% | ~568 |
+| It's Starting to Crack | 19.00% | ~569 |
 | Lord of War | 16.00% | ~479 |
 | Change the Channel | 16.00% | ~479 |
 | Resourceful | 15.00% | ~449 |
@@ -23,17 +23,17 @@ Rating: 4.50 (Ranked 547)
 | Just a Flesh Wound | 9.00% | ~269 |
 | Gunslinger | 9.00% | ~269 |
 | Enemy at the Gates | 8.00% | ~239 |
-| Opposing Force | 7.00% | ~209 |
-| Die Nussknacker Sweet! | 7.00% | ~209 |
-| Der Geist | 7.00% | ~209 |
-| Close Quarters | 7.00% | ~209 |
-| Snake in the Grass | 7.00% | ~209 |
-| Brains of the Operation | 7.00% | ~209 |
-| Climbing the Ladder | 6.00% | ~179 |
-| No Stone Unturned | 6.00% | ~179 |
-| Fields of Glory | 6.00% | ~179 |
-| Skirmisher | 6.00% | ~179 |
-| Set Europe Ablaze | 6.00% | ~179 |
+| Opposing Force | 7.00% | ~210 |
+| Die Nussknacker Sweet! | 7.00% | ~210 |
+| Der Geist | 7.00% | ~210 |
+| Close Quarters | 7.00% | ~210 |
+| Snake in the Grass | 7.00% | ~210 |
+| Brains of the Operation | 7.00% | ~210 |
+| Climbing the Ladder | 6.00% | ~180 |
+| No Stone Unturned | 6.00% | ~180 |
+| Fields of Glory | 6.00% | ~180 |
+| Skirmisher | 6.00% | ~180 |
+| Set Europe Ablaze | 6.00% | ~180 |
 | Precision Is Key | 5.00% | ~150 |
 | Rigged to Blow | 4.00% | ~120 |
 | My Little Friend | 3.00% | ~90 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,991 (Ranked 145)  
+Progressed: 2,993 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.07%) (Ranked 188)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
-| 2023-06-18 | 2,991 | 2 |
+| 2023-06-18 | 2,993 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

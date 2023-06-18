@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,110 |
-| Powergamer | 27.00% | ~62,785 |
-| Barely scratched the surface | 25.00% | ~58,134 |
-| Write that down | 24.00% | ~55,809 |
-| Guns, lots of guns | 12.00% | ~27,904 |
-| Collector | 11.00% | ~25,579 |
-| Elementary! | 9.00% | ~20,928 |
-| Pumpkin Jack | 8.00% | ~18,603 |
-| Wake up! | 8.00% | ~18,603 |
+| I will finish what you started | 28.00% | ~65,113 |
+| Powergamer | 27.00% | ~62,787 |
+| Barely scratched the surface | 25.00% | ~58,136 |
+| Write that down | 24.00% | ~55,811 |
+| Guns, lots of guns | 12.00% | ~27,905 |
+| Collector | 11.00% | ~25,580 |
+| Elementary! | 9.00% | ~20,929 |
+| Pumpkin Jack | 8.00% | ~18,604 |
+| Wake up! | 8.00% | ~18,604 |
 | It's honest work | 7.00% | ~16,278 |
 | Griever | 7.00% | ~16,278 |
-| Me smart | 6.00% | ~13,952 |
+| Me smart | 6.00% | ~13,953 |
 | Good listener | 5.00% | ~11,627 |
 | Trash compactor | 5.00% | ~11,627 |
 | Valedictorian | 5.00% | ~11,627 |
-| BOY! | 4.00% | ~9,301 |
-| Ka-ching! | 4.00% | ~9,301 |
-| So you like to read? | 4.00% | ~9,301 |
+| BOY! | 4.00% | ~9,302 |
+| Ka-ching! | 4.00% | ~9,302 |
+| So you like to read? | 4.00% | ~9,302 |
 | I like to sniff around | 3.00% | ~6,976 |
 | Mind reader | 3.00% | ~6,976 |
 | Gentleman's classic | 2.00% | ~4,651 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~465 |
 | Memory 5 | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,537 (Ranked 44)  
+Progressed: 232,545 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 6 (0.00%) (Ranked 228)
 | 2023-06-15 | 232,035 | 6 |
 | 2023-06-16 | 232,219 | 6 |
 | 2023-06-17 | 232,466 | 6 |
-| 2023-06-18 | 232,537 | 6 |
+| 2023-06-18 | 232,545 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 420)  

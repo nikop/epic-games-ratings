@@ -15,8 +15,8 @@
 | Insurance fraud | 27.00% | ~89 |
 | Snow Fun! | 27.00% | ~89 |
 | The Collector | 26.00% | ~85 |
+| The Wild West | 26.00% | ~85 |
 | To and Fro | 25.00% | ~82 |
-| The Wild West | 25.00% | ~82 |
 | Bag of Tricks | 25.00% | ~82 |
 | I see the light! | 25.00% | ~82 |
 | In the Bag! | 25.00% | ~82 |
@@ -40,9 +40,9 @@
 | Special Forces | 15.00% | ~49 |
 | Toot Toot! | 14.00% | ~46 |
 | Blasting away! | 14.00% | ~46 |
+| High Roller | 13.00% | ~43 |
 | Earth Defense Force | 13.00% | ~43 |
 | Rocketman | 13.00% | ~43 |
-| High Roller | 12.00% | ~39 |
 | Event Pro | 11.00% | ~36 |
 | Space Crash | 8.00% | ~26 |
 | To war! | 8.00% | ~26 |

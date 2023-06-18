@@ -68,9 +68,9 @@ Number of Ratings: 62  (23.09.2022)
 | Gramophone Enthusiast | 2.00% | ~89 |
 | Bling-Bling | 1.00% | ~44 |
 | Sniffing Around | 0.70% | ~31 |
+| Modus Operandi | 0.70% | ~31 |
 | Suited and Booted | 0.70% | ~31 |
 | Tools of War | 0.70% | ~31 |
-| Modus Operandi | 0.60% | ~27 |
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)

@@ -3,9 +3,9 @@
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 40,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:43.8172131+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-06-17T19:07:00.6818612+00:00",
       "NumProgressed": 40,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-18T10:06:47.154596+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 7,
@@ -240,9 +245,9 @@
       "ID": "Achievement_GarbageCollector",
       "SetID": "436h0ek",
       "Name": "Garbage collector",
-      "Percentage": 95,
+      "Percentage": 98,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement_IAmSpeed",
@@ -280,9 +285,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 200,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_Welcome",
@@ -298,13 +303,13 @@
       "ID": "436h0ek",
       "IsBase": true,
       "Progressed": 40,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:06:41.5822146+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:06:47.1545945+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:55.3892672+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:58:37.0769265+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:06:41.5822237+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:58:46.6257717+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:06:47.1546122+00:00"
 }

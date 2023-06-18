@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3707,
+  "EOS_Progressed": 3708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4634,6 +4634,11 @@
       "Time": "2023-06-18T07:03:15.7780148+00:00",
       "NumProgressed": 3707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T10:03:07.8294808+00:00",
+      "NumProgressed": 3708,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4653,7 +4658,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -4741,7 +4746,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4805,7 +4810,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4827,9 +4832,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 705
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4901,7 +4906,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4949,7 +4954,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4964,15 +4969,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3707,
+      "Progressed": 3708,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:03:41.6994062+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:03:07.8294728+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:00:49.6032007+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:03:41.6994998+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:01:21.882758+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:03:07.8295742+00:00"
 }

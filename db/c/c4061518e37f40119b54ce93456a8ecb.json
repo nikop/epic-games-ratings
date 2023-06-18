@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -90,9 +90,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_AllenEnding",
@@ -154,9 +154,9 @@
       "ID": "ACH_Disassemble",
       "SetID": "aao9n96",
       "Name": "No disassemble!",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_EnterHeaven",
@@ -266,9 +266,9 @@
       "ID": "ACH_QuestionControl",
       "SetID": "aao9n96",
       "Name": "Frankly, my dear, I don\u0027t give a damn",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ResetRelay",
@@ -344,8 +344,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:05:23.1716458+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:05:14.92399+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3812548+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:57:28.723155+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:05:23.1716723+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:57:19.8749743+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:05:14.9240382+00:00"
 }

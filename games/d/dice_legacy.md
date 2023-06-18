@@ -27,19 +27,19 @@ Rating: 4.27 (Ranked 789)
 | The great fire | 1.00% | ~9 |
 | The Council | 0.90% | ~8 |
 | The Mad | 0.80% | ~7 |
+| Like the dream | 0.60% | ~5 |
 | Charismatic Leader | 0.50% | ~4 |
 | Metropolis | 0.50% | ~4 |
-| Like the dream | 0.50% | ~4 |
+| The Great Winter | 0.30% | ~3 |
 | Knowledge is Power | 0.30% | ~3 |
 | Six Faces | 0.20% | ~2 |
-| The Great Winter | 0.20% | ~2 |
 | Red Tape | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
+| The Incarnate | 0.20% | ~2 |
 | Ice and Fire | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
-| The Incarnate | 0.10% | ~1 |
 | Aesthetics | 0.00% | ~0 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |

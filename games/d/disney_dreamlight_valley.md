@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~2,978 |
-| Photographer | 74.00% | ~2,899 |
-| Valley's Helper | 70.00% | ~2,743 |
-| Constructor | 61.00% | ~2,390 |
-| Renovator | 59.00% | ~2,312 |
-| Bestest Friend | 57.00% | ~2,233 |
-| Banker | 49.00% | ~1,920 |
-| Gardener | 37.00% | ~1,450 |
-| Generous | 28.00% | ~1,097 |
-| Chef Cook | 22.00% | ~862 |
-| Miner | 11.00% | ~431 |
-| Duty Bound | 7.00% | ~274 |
-| Angler | 6.00% | ~235 |
+| Goofy's Investor | 76.00% | ~2,983 |
+| Photographer | 74.00% | ~2,904 |
+| Valley's Helper | 70.00% | ~2,748 |
+| Constructor | 61.00% | ~2,394 |
+| Renovator | 59.00% | ~2,316 |
+| Bestest Friend | 57.00% | ~2,237 |
+| Banker | 49.00% | ~1,923 |
+| Gardener | 37.00% | ~1,452 |
+| Generous | 28.00% | ~1,099 |
+| Chef Cook | 22.00% | ~864 |
+| Miner | 11.00% | ~432 |
+| Duty Bound | 7.00% | ~275 |
+| Angler | 6.00% | ~236 |
 | Thorn Cleaner | 4.00% | ~157 |
 | Chit Chatter | 3.00% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,918 (Ranked 136)  
+Progressed: 3,925 (Ranked 136)  
 Completed: 98 (2.50%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,10 +32,10 @@ Completed: 98 (2.50%) (Ranked 61)
 | 2023-06-15 | 3,141 | 94 |
 | 2023-06-16 | 3,476 | 96 |
 | 2023-06-17 | 3,840 | 98 |
-| 2023-06-18 | 3,918 | 98 |
+| 2023-06-18 | 3,925 | 98 |
 ## Awards
 Max (Great for Beginners): 873  (Ranked 147)  
-Sum: 7,172 (Ranked 103)  
+Sum: 7,175 (Ranked 103)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -45,10 +45,10 @@ Diff (max vs sum): 44
 | This game has Amazing Characters | 762 |
 | This game has Diverse Characters | 757 |
 | This game has Amazing Storytelling | 733 |
-| This game has Quickly Understood Controls | 720 |
+| This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 715 |
 | This game has a Creative Community | 595 |
-| This game has Easy Combat | 475 |
+| This game has Easy Combat | 476 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -156,3 +156,4 @@ Diff (max vs sum): 44
 | 2023-06-15 | 4.76 | - | 869 | 7,154 |
 | 2023-06-16 | 4.76 | - | 869 | 7,160 |
 | 2023-06-17 | 4.76 | - | 873 | 7,172 |
+| 2023-06-18 | 4.76 | - | 873 | 7,175 |

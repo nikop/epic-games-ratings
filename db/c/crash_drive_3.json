@@ -271,9 +271,9 @@
       "ID": "COLLECT_500_COIN",
       "SetID": "20koof9",
       "Name": "High Roller",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -471,9 +471,9 @@
       "ID": "LOADED_LVL_DESERT",
       "SetID": "20koof9",
       "Name": "The Wild West",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -664,8 +664,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-18T09:05:07.2836576+00:00",
+  "LastChanged_Achievements": "2023-06-18T10:04:56.4497966+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.1971896+00:00",
-  "LastUpdate_Ratings": "2023-06-18T08:59:12.5285927+00:00",
-  "LastUpdate_Achievements": "2023-06-18T09:05:07.283742+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:59:31.347671+00:00",
+  "LastUpdate_Achievements": "2023-06-18T10:04:56.4498827+00:00"
 }

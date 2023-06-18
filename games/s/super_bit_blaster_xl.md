@@ -18,7 +18,7 @@
 | Bit Blaster V3 | 22.00% | ~32 |
 | Bit Blaster V4 | 18.00% | ~26 |
 | Bit Blaster V5 | 12.00% | ~18 |
-| Bit Blaster V6 | 9.00% | ~13 |
+| Bit Blaster V6 | 10.00% | ~15 |
 | Bit Blaster V7 | 7.00% | ~10 |
 | Bit Blaster V8 | 4.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,662 |
-| First One’s Free | 65.00% | ~43,622 |
-| Neophyte Ninja | 50.00% | ~33,556 |
-| Too Old for This | 47.00% | ~31,542 |
-| Fancy Pants | 35.00% | ~23,489 |
-| Case Closed | 34.00% | ~22,818 |
-| King of the Hill | 34.00% | ~22,818 |
-| Underworld Initiate | 29.00% | ~19,462 |
-| Roid Ranger | 21.00% | ~14,093 |
-| True Player | 19.00% | ~12,751 |
-| Off the Rocks | 19.00% | ~12,751 |
+| Downed but Not Outed | 74.00% | ~49,664 |
+| First One’s Free | 65.00% | ~43,624 |
+| Neophyte Ninja | 50.00% | ~33,557 |
+| Too Old for This | 47.00% | ~31,544 |
+| Fancy Pants | 35.00% | ~23,490 |
+| Case Closed | 34.00% | ~22,819 |
+| King of the Hill | 34.00% | ~22,819 |
+| Underworld Initiate | 29.00% | ~19,463 |
+| Roid Ranger | 21.00% | ~14,094 |
+| True Player | 19.00% | ~12,752 |
+| Off the Rocks | 19.00% | ~12,752 |
 | Raider’s Ruin | 16.00% | ~10,738 |
 | Dragonslayer | 16.00% | ~10,738 |
-| Hidden Sonata | 13.00% | ~8,724 |
-| Rockay Rex | 11.00% | ~7,382 |
+| Hidden Sonata | 13.00% | ~8,725 |
+| Rockay Rex | 11.00% | ~7,383 |
 | Freebooter | 10.00% | ~6,711 |
 | Track Star | 9.00% | ~6,040 |
 | Classy Joint | 9.00% | ~6,040 |
@@ -29,10 +29,10 @@ Rating: 3.93 (Ranked 920)
 | Foo Finder | 7.00% | ~4,698 |
 | Legend Looter | 5.00% | ~3,356 |
 | Savvy Seeker | 5.00% | ~3,356 |
-| Imports and Exports | 4.00% | ~2,684 |
-| Olympus Ascended | 4.00% | ~2,684 |
-| Cracked the Jack | 4.00% | ~2,684 |
-| Red Star | 4.00% | ~2,684 |
+| Imports and Exports | 4.00% | ~2,685 |
+| Olympus Ascended | 4.00% | ~2,685 |
+| Cracked the Jack | 4.00% | ~2,685 |
+| Red Star | 4.00% | ~2,685 |
 | Privateer | 3.00% | ~2,013 |
 | Groundhog Days | 3.00% | ~2,013 |
 | Rockay Raider | 2.00% | ~1,342 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 920)
 | Geek Out | 0.50% | ~336 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,111 (Ranked 69)  
+Progressed: 67,114 (Ranked 69)  
 Completed: 33 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,15 +102,15 @@ Completed: 33 (0.05%) (Ranked 196)
 | 2023-06-15 | 66,810 | 33 |
 | 2023-06-16 | 66,929 | 33 |
 | 2023-06-17 | 67,060 | 33 |
-| 2023-06-18 | 67,111 | 33 |
+| 2023-06-18 | 67,114 | 33 |
 ## Awards
 Max (Diverse Characters): 329  (Ranked 222)  
-Sum: 1,582 (Ranked 208)  
+Sum: 1,584 (Ranked 208)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 329 |
-| This game is Highly Recommended | 322 |
+| This game is Highly Recommended | 324 |
 | This game has Quickly Understood Controls | 315 |
 | This game has Amazing Characters | 308 |
 | This game has Challenging Combat | 308 |
@@ -201,4 +201,4 @@ Diff (max vs sum): 14
 | 2023-06-15 | 3.93 | 328 | 1,567 |
 | 2023-06-16 | 3.93 | 329 | 1,573 |
 | 2023-06-17 | 3.93 | 329 | 1,580 |
-| 2023-06-18 | 3.93 | 329 | 1,582 |
+| 2023-06-18 | 3.93 | 329 | 1,584 |
