@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,602 | 4.52 | 514 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,566 | 4.65 | 295 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,231 | 4.53 | 503 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,077 | 4.77 | 107 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,122 | 4.77 | 107 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,678 | 4.57 | 441 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,041 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,471 | 4.61 | 363 |
@@ -38,7 +38,7 @@
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,267 | 4.78 | 100 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,255 | 4.61 | 363 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,702 | 4.76 | 117 |
-| 39 | [Control](games/c/control.md) | 8,350 | 4.60 | 389 |
+| 39 | [Control](games/c/control.md) | 8,351 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,827 | 4.58 | 422 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,627 | 4.85 | 40 |
 | 41 | [Supraland](games/s/supraland.md) | 7,627 | 4.61 | 363 |
@@ -52,7 +52,7 @@
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,498 | 4.71 | 181 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,310 | 4.80 | 79 |
 | 52 | [Sifu](games/s/sifu.md) | 6,186 | 4.82 | 66 |
-| 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,168 | 4.58 | 422 |
+| 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,171 | 4.58 | 422 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,940 | 4.64 | 316 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,891 | 4.79 | 89 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,786 | 4.66 | 274 |
@@ -95,9 +95,9 @@
 | 93 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 783 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,449 | 4.50 | 547 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,401 | 4.80 | 79 |
-| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,385 | 4.10 | 881 |
+| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,389 | 4.10 | 881 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,380 | 4.82 | 66 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,339 | 4.18 | 848 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,346 | 4.18 | 848 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,314 | 4.78 | 100 |
 | 100 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,311 | 3.98 | 913 |
 | 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,223 | 4.67 | 256 |
@@ -147,9 +147,9 @@
 | 145 | [Sonic Mania](games/s/sonic_mania.md) | 914 | 4.78 | 100 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 899 | 4.69 | 219 |
 | 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 873 | 4.76 | 117 |
-| 148 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 866 | 4.55 | 475 |
+| 148 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 867 | 4.55 | 475 |
 | 149 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 859 | 4.44 | 632 |
-| 150 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 789 | 4.69 | 219 |
+| 150 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 791 | 4.69 | 219 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 783 | 4.56 | 452 |
 | 152 | [Frostpunk](games/f/frostpunk.md) | 780 | 4.74 | 145 |
 | 153 | [The Long Dark](games/t/the_long_dark.md) | 763 | 4.74 | 145 |

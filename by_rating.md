@@ -109,7 +109,7 @@
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 497 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,331 | 82 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,779 | 57 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,077 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,122 | 18 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 497 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 425 |
 | 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 145 | 292 |
@@ -237,7 +237,7 @@
 | 219 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 497 |
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 497 |
 | 219 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 497 |
-| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 789 | 150 |
+| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 791 | 150 |
 | 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 82 |
 | 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 497 |
 | 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 497 |
@@ -390,7 +390,7 @@
 | 363 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 497 |
 | 389 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 0 | 497 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,373 | 29 |
-| 389 | [Control](games/c/control.md) | 4.60 | 8,350 | 39 |
+| 389 | [Control](games/c/control.md) | 4.60 | 8,351 | 39 |
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
 | 389 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 38,545 | 12 |
 | 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,397 | 26 |
@@ -436,7 +436,7 @@
 | 422 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 497 |
 | 422 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 391 |
 | 422 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 983 | 143 |
-| 422 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,168 | 53 |
+| 422 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,171 | 53 |
 | 422 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 497 |
 | 422 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 211 | 258 |
 | 422 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,393 | 23 |
@@ -484,7 +484,7 @@
 | 475 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 449 |
 | 475 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 497 |
 | 475 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.55 | 1,525 | 116 |
-| 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 866 | 148 |
+| 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 867 | 148 |
 | 475 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 343 |
 | 475 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.55 | 0 | 497 |
 | 475 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 497 |
@@ -848,7 +848,7 @@
 | 841 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 497 |
 | 841 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 497 |
 | 848 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 341 |
-| 848 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,339 | 98 |
+| 848 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,346 | 98 |
 | 848 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 497 |
 | 848 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 333 |
 | 848 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 55 | 387 |
@@ -882,7 +882,7 @@
 | 879 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 497 |
 | 881 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 497 |
 | 881 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 390 |
-| 881 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,385 | 96 |
+| 881 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,389 | 96 |
 | 881 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.10 | 105 | 321 |
 | 881 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 497 |
 | 886 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 497 |

@@ -13,12 +13,12 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 14.90% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
-| 16 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 17 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 10.00% |
-| 17 | [Remains](games/r/remains.md) | 10.00% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
+| 13 | [Remains](games/r/remains.md) | 12.50% |
+| 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
+| 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
+| 19 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 9.09% |
 | 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -65,13 +65,13 @@
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.31% |
-| 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
+| 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
+| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
 | 68 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 69 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 71 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 72 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.02% |
+| 72 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.01% |
 | 73 | [Frogun](games/f/frogun.md) | 1.93% |
 | 74 | [Iron Danger](games/i/iron_danger.md) | 1.87% |
 | 75 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
@@ -97,7 +97,7 @@
 | 95 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
-| 98 | [Sable](games/s/sable.md) | 0.94% |
+| 98 | [Sable](games/s/sable.md) | 0.95% |
 | 99 | [Hades](games/h/hades.md) | 0.89% |
 | 100 | [Adios](games/a/adios.md) | 0.88% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
