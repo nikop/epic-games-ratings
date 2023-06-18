@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 91.00% | ~73 |
-| MLG 360 no scope kill! | 90.00% | ~72 |
-| Are you ready to rumble? | 89.00% | ~71 |
-| That's what cheese said! | 84.00% | ~67 |
-| I like you...but I have to kill you... | 83.00% | ~66 |
-| AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~65 |
-| Not so hip anymore! | 81.00% | ~65 |
-| Nerd | 81.00% | ~65 |
-| Blurry depth perception | 79.00% | ~63 |
-| Up and down | 74.00% | ~59 |
-| Rolling, Rolling, Rolling | 71.00% | ~57 |
-| Fire-fighter! | 68.00% | ~54 |
+| Tastes just like chicken! | 93.00% | ~74 |
+| MLG 360 no scope kill! | 91.00% | ~73 |
+| Are you ready to rumble? | 90.00% | ~72 |
+| That's what cheese said! | 85.00% | ~68 |
+| I like you...but I have to kill you... | 84.00% | ~67 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~66 |
+| Not so hip anymore! | 83.00% | ~66 |
+| Nerd | 83.00% | ~66 |
+| Blurry depth perception | 80.00% | ~64 |
+| Up and down | 75.00% | ~60 |
+| Rolling, Rolling, Rolling | 73.00% | ~58 |
+| Fire-fighter! | 69.00% | ~55 |
 | Oh, you're up to no gouda! | 63.00% | ~50 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~50 |
 | Meat grinder | 59.00% | ~47 |

@@ -5,9 +5,9 @@ Rating: 4.25 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,440 |
-| Don't I Know You...? | 77.00% | ~1,386 |
-| Jailbreak | 65.00% | ~1,170 |
+| Rigged And Ready | 80.00% | ~1,441 |
+| Don't I Know You...? | 77.00% | ~1,387 |
+| Jailbreak | 65.00% | ~1,171 |
 | Suited and Booted | 38.00% | ~684 |
 | HEADSHOT! | 37.00% | ~666 |
 | Sleeping With The Fishes | 35.00% | ~630 |
@@ -23,8 +23,8 @@ Rating: 4.25 (Ranked 797)
 | Offensive Defense | 19.00% | ~342 |
 | Shocking | 19.00% | ~342 |
 | Unforeseeable Consequences | 19.00% | ~342 |
-| Dead Again | 18.00% | ~324 |
 | Clean Cut | 18.00% | ~324 |
+| Dead Again | 17.00% | ~306 |
 | Full Arsenal | 16.00% | ~288 |
 | Can't Trust Banks | 15.00% | ~270 |
 | Mommy Dearest | 13.00% | ~234 |
@@ -40,8 +40,8 @@ Rating: 4.25 (Ranked 797)
 | Stimulating The Local Economy | 9.00% | ~162 |
 | A Little Banged Up | 8.00% | ~144 |
 | Denying Prophecy | 8.00% | ~144 |
-| Following In Their Footsteps | 8.00% | ~144 |
 | Reverse Engineering | 7.00% | ~126 |
+| Following In Their Footsteps | 7.00% | ~126 |
 | Turbo Booster | 6.00% | ~108 |
 | Squid Pro Quo | 6.00% | ~108 |
 | Reborn | 5.00% | ~90 |
@@ -51,19 +51,19 @@ Rating: 4.25 (Ranked 797)
 | Juiced Up | 5.00% | ~90 |
 | Hello Darkness My Old Friend | 4.00% | ~72 |
 | Geronimo! | 4.00% | ~72 |
-| Homewrecker | 4.00% | ~72 |
 | Plank of Wood | 4.00% | ~72 |
 | Gotta Craft 'em All | 3.00% | ~54 |
+| Homewrecker | 3.00% | ~54 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~36 |
-| Box Office Smash | 2.00% | ~36 |
 | Going Postal | 2.00% | ~36 |
 | Loot, Pillage & Craft | 2.00% | ~36 |
 | Own Medicine | 1.00% | ~18 |
 | Swiss Army Drone | 1.00% | ~18 |
 | Three Birds With One Stone | 1.00% | ~18 |
+| Box Office Smash | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 158)  
+Progressed: 1,801 (Ranked 158)  
 Completed: 10 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 10 (0.56%) (Ranked 117)
 | 2023-06-15 | 1,785 | 10 |
 | 2023-06-16 | 1,791 | 10 |
 | 2023-06-17 | 1,796 | 10 |
-| 2023-06-18 | 1,800 | 10 |
+| 2023-06-18 | 1,801 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,076 |
-| Hit Rock Bottom | 97.00% | ~2,034 |
-| Rocket Launched | 97.00% | ~2,034 |
-| Speed | 97.00% | ~2,034 |
-| High Jump | 96.00% | ~2,013 |
-| Knee bending | 96.00% | ~2,013 |
-| Pickaxe | 94.00% | ~1,971 |
-| Revenge | 94.00% | ~1,971 |
-| Cage Town | 94.00% | ~1,971 |
-| Force Beam | 93.00% | ~1,950 |
-| Entered Cage Town | 93.00% | ~1,950 |
-| Stone Pickaxe | 93.00% | ~1,950 |
-| Surprise | 93.00% | ~1,950 |
-| Magnet | 91.00% | ~1,908 |
-| Industrial Area | 89.00% | ~1,866 |
-| Magnet Repel | 88.00% | ~1,845 |
-| Boomeraxe | 87.00% | ~1,824 |
-| You feel middle classy | 86.00% | ~1,803 |
-| Banking District | 86.00% | ~1,803 |
-| Iron Pickaxe | 86.00% | ~1,803 |
-| Arrested | 85.00% | ~1,782 |
-| Zappy Gun | 85.00% | ~1,782 |
-| Got your own one now | 85.00% | ~1,782 |
-| Mission Unlikely | 85.00% | ~1,782 |
-| Don't draw dicks pls | 84.00% | ~1,761 |
-| Ripped | 84.00% | ~1,761 |
+| Good Morning | 99.00% | ~2,077 |
+| Hit Rock Bottom | 97.00% | ~2,035 |
+| Rocket Launched | 97.00% | ~2,035 |
+| Speed | 97.00% | ~2,035 |
+| High Jump | 96.00% | ~2,014 |
+| Knee bending | 96.00% | ~2,014 |
+| Pickaxe | 94.00% | ~1,972 |
+| Revenge | 94.00% | ~1,972 |
+| Cage Town | 94.00% | ~1,972 |
+| Force Beam | 93.00% | ~1,951 |
+| Entered Cage Town | 93.00% | ~1,951 |
+| Stone Pickaxe | 93.00% | ~1,951 |
+| Surprise | 93.00% | ~1,951 |
+| Magnet | 90.00% | ~1,888 |
+| Industrial Area | 89.00% | ~1,867 |
+| Magnet Repel | 88.00% | ~1,846 |
+| Boomeraxe | 87.00% | ~1,825 |
+| You feel middle classy | 86.00% | ~1,804 |
+| Banking District | 86.00% | ~1,804 |
+| Iron Pickaxe | 86.00% | ~1,804 |
+| Arrested | 85.00% | ~1,783 |
+| Zappy Gun | 85.00% | ~1,783 |
+| Got your own one now | 85.00% | ~1,783 |
+| Mission Unlikely | 85.00% | ~1,783 |
+| Don't draw dicks pls | 84.00% | ~1,762 |
+| Ripped | 84.00% | ~1,762 |
 | Beat the big arena | 82.00% | ~1,720 |
-| Force Cube | 81.00% | ~1,699 |
+| Force Cube | 82.00% | ~1,720 |
 | Got Battery | 80.00% | ~1,678 |
 | Guard Distracted | 80.00% | ~1,678 |
-| Translocator | 79.00% | ~1,657 |
+| Translocator | 80.00% | ~1,678 |
 | Inner Peace | 77.00% | ~1,615 |
 | Diamond Pickaxe | 76.00% | ~1,594 |
 | Killed them all | 76.00% | ~1,594 |
 | Trickle Down Economy | 76.00% | ~1,594 |
-| Win | 75.00% | ~1,573 |
-| Greenhouse | 72.00% | ~1,510 |
-| Played with fire | 70.00% | ~1,468 |
-| You feel very sorry | 69.00% | ~1,447 |
-| No Match for you | 65.00% | ~1,363 |
-| Bouncy | 61.00% | ~1,279 |
-| Plumbster | 60.00% | ~1,258 |
-| Faster | 60.00% | ~1,258 |
-| Much Magic | 57.00% | ~1,195 |
-| Chest Detector | 55.00% | ~1,153 |
-| Flames | 52.00% | ~1,090 |
+| Win | 75.00% | ~1,574 |
+| Greenhouse | 72.00% | ~1,511 |
+| Played with fire | 70.00% | ~1,469 |
+| You feel very sorry | 69.00% | ~1,448 |
+| No Match for you | 65.00% | ~1,364 |
+| Bouncy | 61.00% | ~1,280 |
+| Plumbster | 60.00% | ~1,259 |
+| Faster | 60.00% | ~1,259 |
+| Much Magic | 57.00% | ~1,196 |
+| Chest Detector | 54.00% | ~1,133 |
+| Flames | 52.00% | ~1,091 |
 | Momentum | 45.00% | ~944 |
 | You're unsure if you broke the game or not | 42.00% | ~881 |
 | But wait... ...There's more... | 39.00% | ~818 |
 | So much force | 34.00% | ~713 |
-| You feel fully engaged | 23.00% | ~482 |
-| Too hot | 19.00% | ~398 |
+| You feel fully engaged | 23.00% | ~483 |
+| Too hot | 19.00% | ~399 |
 | All the chests | 13.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,097 (Ranked 156)  
-Completed: 251 (11.97%) (Ranked 15)  
+Progressed: 2,098 (Ranked 156)  
+Completed: 251 (11.96%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 251 (11.97%) (Ranked 15)
 | 2023-06-15 | 2,090 | 249 |
 | 2023-06-16 | 2,092 | 249 |
 | 2023-06-17 | 2,094 | 251 |
-| 2023-06-18 | 2,097 | 251 |
+| 2023-06-18 | 2,098 | 251 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 331)  
 Sum: 98 (Ranked 405)  

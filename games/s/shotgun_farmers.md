@@ -28,9 +28,9 @@
 | Skin Of Your Teeth | 10.00% | ~13 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
+| Carrocketeer | 9.00% | ~11 |
 | Quit Horsin' Around | 8.00% | ~10 |
 | Pork Chop Express | 8.00% | ~10 |
-| Carrocketeer | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Expert Survivor | 8.00% | ~6 |
 | Quadsparagus | 8.00% | ~6 |

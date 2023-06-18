@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,689 |
-| The Three | 64.00% | ~335,953 |
-| The Banquet | 40.00% | ~209,971 |
-| Devara's Light | 30.00% | ~157,478 |
-| The Iron Ones | 18.00% | ~94,487 |
-| The Village | 16.00% | ~83,988 |
-| The Forest | 14.00% | ~73,490 |
-| Branded | 13.00% | ~68,241 |
-| The Imposter | 13.00% | ~68,241 |
-| The Keep | 13.00% | ~68,241 |
-| The Castle | 11.00% | ~57,742 |
-| The Dome | 9.00% | ~47,243 |
-| The Red Hall | 9.00% | ~47,243 |
-| The Sacrifice | 8.00% | ~41,994 |
+| Find Sanctuary | 83.00% | ~435,696 |
+| The Three | 64.00% | ~335,958 |
+| The Banquet | 40.00% | ~209,974 |
+| Devara's Light | 30.00% | ~157,480 |
+| The Iron Ones | 18.00% | ~94,488 |
+| The Village | 16.00% | ~83,990 |
+| The Forest | 14.00% | ~73,491 |
+| Branded | 13.00% | ~68,242 |
+| The Imposter | 13.00% | ~68,242 |
+| The Keep | 13.00% | ~68,242 |
+| The Castle | 11.00% | ~57,743 |
+| The Dome | 9.00% | ~47,244 |
+| The Red Hall | 9.00% | ~47,244 |
+| The Sacrifice | 8.00% | ~41,995 |
 | The Cave | 7.00% | ~36,745 |
 | The Stone Roots | 7.00% | ~36,745 |
 | The Ziggurat | 7.00% | ~36,745 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,496 |
 | The Mire | 6.00% | ~31,496 |
 | The Ruins | 6.00% | ~31,496 |
-| The Alkymancery | 5.00% | ~26,246 |
-| The Lake | 5.00% | ~26,246 |
-| The Pitchwoods | 5.00% | ~26,246 |
+| The Alkymancery | 5.00% | ~26,247 |
+| The Lake | 5.00% | ~26,247 |
+| The Pitchwoods | 5.00% | ~26,247 |
 | Honed | 4.00% | ~20,997 |
 | The House of Splendor | 4.00% | ~20,997 |
 | The Crypt | 4.00% | ~20,997 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,499 |
 | Fading Fast | 1.00% | ~5,249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,927 (Ranked 28)  
+Progressed: 524,935 (Ranked 28)  
 Completed: 1,453 (0.28%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1,453 (0.28%) (Ranked 145)
 | 2023-06-15 | 524,603 | 1,449 |
 | 2023-06-16 | 524,715 | 1,450 |
 | 2023-06-17 | 524,849 | 1,452 |
-| 2023-06-18 | 524,927 | 1,453 |
+| 2023-06-18 | 524,935 | 1,453 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 238)  
 Sum: 1,897 (Ranked 195)  

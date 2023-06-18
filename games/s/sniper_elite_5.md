@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~930 |
-| Confirming Suspicions | 26.00% | ~780 |
-| The Kraken Wakes | 22.00% | ~660 |
-| It's Starting to Crack | 19.00% | ~570 |
+| Meeting Resistance | 31.00% | ~931 |
+| Confirming Suspicions | 26.00% | ~781 |
+| The Kraken Wakes | 22.00% | ~661 |
+| It's Starting to Crack | 19.00% | ~571 |
 | Lord of War | 16.00% | ~480 |
 | Change the Channel | 16.00% | ~480 |
 | Resourceful | 15.00% | ~450 |
@@ -19,9 +19,9 @@ Rating: 4.50 (Ranked 547)
 | The Kraken Sleeps | 11.00% | ~330 |
 | Liberté | 10.00% | ~300 |
 | Sharpshooter | 10.00% | ~300 |
-| Explosive Efficiency | 10.00% | ~300 |
 | Just a Flesh Wound | 9.00% | ~270 |
 | Gunslinger | 9.00% | ~270 |
+| Explosive Efficiency | 9.00% | ~270 |
 | Enemy at the Gates | 8.00% | ~240 |
 | Opposing Force | 7.00% | ~210 |
 | Die Nussknacker Sweet! | 7.00% | ~210 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 547)
 | Fields of Glory | 6.00% | ~180 |
 | Skirmisher | 6.00% | ~180 |
 | Set Europe Ablaze | 6.00% | ~180 |
-| Precision Is Key | 5.00% | ~150 |
+| Precision Is Key | 4.00% | ~120 |
 | Rigged to Blow | 4.00% | ~120 |
 | My Little Friend | 3.00% | ~90 |
 | Strategist | 2.00% | ~60 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,999 (Ranked 145)  
+Progressed: 3,003 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
-| 2023-06-18 | 2,999 | 2 |
+| 2023-06-18 | 3,003 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -555,6 +555,11 @@
       "Time": "2023-06-18T12:02:24.7910696+00:00",
       "NumProgressed": 596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T14:02:26.8368734+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -702,7 +707,7 @@
       "Name": "Harmless",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -758,7 +763,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -766,7 +771,7 @@
       "Name": "Devourer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -822,7 +827,7 @@
       "Name": "Yank",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -901,21 +906,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:07:23.5358309+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:02:26.8368724+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.2798351+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:05:26.2359615+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:07:23.5358842+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:01:22.4469829+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:02:26.8369086+00:00"
 }

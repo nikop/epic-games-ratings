@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -865,6 +865,11 @@
       "Time": "2023-06-18T12:05:35.5069755+00:00",
       "NumProgressed": 445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T14:06:53.224536+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -900,7 +905,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Chapter10",
@@ -914,9 +919,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "Chapter3",
@@ -930,9 +935,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "Chapter5",
@@ -956,7 +961,7 @@
       "Name": "Good as Fish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Chapter8",
@@ -980,7 +985,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Collectibles2",
@@ -1163,14 +1168,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:11:16.5588976+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:06:53.2245352+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.7916802+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:01:53.2297058+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:11:16.5589522+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:58:08.0892865+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:06:53.224567+00:00"
 }

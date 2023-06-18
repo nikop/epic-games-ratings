@@ -336,7 +336,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2473,
+  "EOS_Progressed": 2474,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
@@ -1376,6 +1376,11 @@
       "Time": "2023-06-18T13:07:40.2916525+00:00",
       "NumProgressed": 2473,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-18T14:03:21.9729723+00:00",
+      "NumProgressed": 2474,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -1427,7 +1432,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1475,7 +1480,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1491,14 +1496,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2473,
+      "Progressed": 2474,
       "Completed": 97
     }
   ],
@@ -1506,8 +1511,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:07:40.2916519+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:03:21.9729716+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:50.0345943+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:05:18.5847204+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:07:40.2916796+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:01:11.4366004+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:03:21.9729872+00:00"
 }

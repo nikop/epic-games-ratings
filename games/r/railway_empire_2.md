@@ -9,7 +9,7 @@ Rating: 4.28 (Ranked 783)
 | A new Journey | 72.00% | ~905 |
 | From X to Y | 71.00% | ~892 |
 | Departure | 71.00% | ~892 |
-| Way of Iron | 69.00% | ~867 |
+| Way of Iron | 70.00% | ~880 |
 | Mystery Tour | 67.00% | ~842 |
 | We brake for nobody | 66.00% | ~830 |
 | Brainstorm | 65.00% | ~817 |
@@ -30,9 +30,9 @@ Rating: 4.28 (Ranked 783)
 | All mine | 27.00% | ~339 |
 | Mole | 27.00% | ~339 |
 | Financial Shark | 27.00% | ~339 |
+| Country Life | 25.00% | ~314 |
 | Socializer | 25.00% | ~314 |
-| Country Life | 24.00% | ~302 |
-| General Manager | 23.00% | ~289 |
+| General Manager | 24.00% | ~302 |
 | Hostile Takeover | 23.00% | ~289 |
 | Seven at one stroke | 22.00% | ~277 |
 | Trailblazer | 18.00% | ~226 |

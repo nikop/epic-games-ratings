@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "Determined",
       "SetID": "4nce15l",
       "Name": "Determined",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "EmpyreanChampion",
@@ -233,9 +233,9 @@
       "ID": "ReadyToRock",
       "SetID": "4nce15l",
       "Name": "Ready to Rock",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SideJob",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:11:16.283324+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:06:52.9266234+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.2117335+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:03:34.7175658+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:11:16.2833485+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:59:38.520317+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:06:52.9266383+00:00"
 }

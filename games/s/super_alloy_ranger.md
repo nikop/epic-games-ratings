@@ -10,12 +10,12 @@
 | Freshen Up | 59.00% | ~26 |
 | GG EZ | 57.00% | ~25 |
 | Hydrophobia | 34.00% | ~15 |
-| Ka-Ching! | 30.00% | ~13 |
+| Ka-Ching! | 32.00% | ~14 |
 | Stop Right There | 30.00% | ~13 |
-| Get to the Point | 23.00% | ~10 |
+| Get to the Point | 25.00% | ~11 |
 | Phew! | 14.00% | ~6 |
+| Mr. Want It All | 11.00% | ~5 |
 | Toe to Toe | 11.00% | ~5 |
-| Mr. Want It All | 9.00% | ~4 |
 | Grand Escape | 7.00% | ~3 |
 | The Hidden Secret | 7.00% | ~3 |
 | The Abyss Conqueror | 5.00% | ~2 |
@@ -26,6 +26,7 @@
 | Decapitation Strike | 5.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |
+| The Fortress Conqueror | 2.00% | ~1 |
 | The Zero Dimensional Capital Conqueror | 2.00% | ~1 |
 | The Inactivated Frozen Conqueror | 2.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 2.00% | ~1 |
@@ -38,7 +39,6 @@
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
-| The Fortress Conqueror | 0.00% | ~0 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Break Through the Forbidden | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |

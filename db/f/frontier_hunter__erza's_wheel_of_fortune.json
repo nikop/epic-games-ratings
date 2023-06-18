@@ -340,9 +340,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -356,9 +356,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 84,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -444,9 +444,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -557,8 +557,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:11:20.6381342+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:06:57.1828477+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.7029568+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:04:28.8741168+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:11:20.6382006+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:00:28.407483+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:06:57.1828861+00:00"
 }

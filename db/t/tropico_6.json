@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3708,
+  "EOS_Progressed": 3709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4639,6 +4639,11 @@
       "Time": "2023-06-18T10:03:07.8294808+00:00",
       "NumProgressed": 3708,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T14:03:15.7668273+00:00",
+      "NumProgressed": 3709,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4738,7 +4743,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -4754,7 +4759,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4802,7 +4807,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4810,7 +4815,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4842,7 +4847,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_MYWAYS",
@@ -4938,7 +4943,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -4969,15 +4974,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3708,
+      "Progressed": 3709,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:07:33.3391423+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:03:15.7668267+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:05:07.122681+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:07:33.3392367+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:01:01.1626108+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:03:15.7668762+00:00"
 }

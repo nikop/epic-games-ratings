@@ -11,12 +11,12 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 23.00% | ~137 |
 | Ravenous | 23.00% | ~137 |
 | Weeper | 21.00% | ~125 |
-| Devourer | 16.00% | ~95 |
-| Silenced Whispers | 14.00% | ~83 |
+| Devourer | 16.00% | ~96 |
+| Silenced Whispers | 14.00% | ~84 |
 | Scion | 13.00% | ~23 |
 | Glare | 13.00% | ~23 |
-| Harmless | 13.00% | ~77 |
-| Yank | 13.00% | ~77 |
+| Harmless | 13.00% | ~78 |
+| Yank | 13.00% | ~78 |
 | Sharpened Vessel | 12.00% | ~72 |
 | Jawcrab | 11.00% | ~66 |
 | Feast | 11.00% | ~66 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596 (Ranked 202)  
+Progressed: 597 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-14 | 593 | 0 |
 | 2023-06-15 | 594 | 0 |
 | 2023-06-17 | 595 | 0 |
-| 2023-06-18 | 596 | 0 |
+| 2023-06-18 | 597 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

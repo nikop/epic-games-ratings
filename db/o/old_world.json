@@ -1511,7 +1511,7 @@
   ],
   "EOS_Progressed": 12143,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7209,9 +7209,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4857
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -8087,8 +8087,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-16T17:57:54.9647164+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:11:50.0954121+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:07:24.5163338+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.7512679+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:02:07.1121188+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:11:50.0963683+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:58:20.9610962+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:07:24.5170919+00:00"
 }

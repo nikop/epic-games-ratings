@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -363,17 +363,17 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TenLevel",
@@ -402,8 +402,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-18T13:07:13.6222347+00:00",
+  "LastChanged_Achievements": "2023-06-18T14:02:17.6768599+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:01:07.0942879+00:00",
-  "LastUpdate_Achievements": "2023-06-18T13:07:13.6222597+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:57:26.6285939+00:00",
+  "LastUpdate_Achievements": "2023-06-18T14:02:17.6768747+00:00"
 }

@@ -6,38 +6,38 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,814 |
-| The Cursed Farmer | 3.00% | ~2,907 |
-| Beast Intentions | 2.00% | ~1,938 |
-| The Mad Wizard | 2.00% | ~1,938 |
-| Were-verpowered | 1.00% | ~969 |
-| The Ring of Regeneration | 1.00% | ~969 |
-| Seeking Allies | 1.00% | ~969 |
-| Are Ya Chicken? | 1.00% | ~969 |
-| Friendly Imps | 0.90% | ~872 |
+| A Brief Tour of the Realms | 6.00% | ~5,818 |
+| The Cursed Farmer | 3.00% | ~2,909 |
+| Beast Intentions | 2.00% | ~1,939 |
+| The Mad Wizard | 2.00% | ~1,939 |
+| Were-verpowered | 1.00% | ~970 |
+| The Ring of Regeneration | 1.00% | ~970 |
+| Seeking Allies | 1.00% | ~970 |
+| Are Ya Chicken? | 1.00% | ~970 |
+| Friendly Imps | 0.90% | ~873 |
 | The Court of Storms | 0.90% | ~569 |
-| A Persistent Buzzing | 0.80% | ~775 |
-| Mad Cow Disease | 0.80% | ~775 |
-| Terror in the Dark | 0.70% | ~678 |
-| The Crumbling Temple | 0.70% | ~678 |
-| Pure Energy | 0.70% | ~678 |
-| Beware the Jabberwock | 0.70% | ~442 |
-| A Mysterious Summons | 0.60% | ~581 |
-| Unearthed Evil | 0.60% | ~581 |
-| Exploring Port Nyanzaru | 0.60% | ~581 |
-| The Contagious Curse | 0.60% | ~581 |
+| A Persistent Buzzing | 0.80% | ~776 |
+| Mad Cow Disease | 0.80% | ~776 |
+| Pure Energy | 0.80% | ~776 |
+| Terror in the Dark | 0.70% | ~679 |
+| The Crumbling Temple | 0.70% | ~679 |
+| Beware the Jabberwock | 0.70% | ~443 |
+| A Mysterious Summons | 0.60% | ~582 |
+| Unearthed Evil | 0.60% | ~582 |
+| Exploring Port Nyanzaru | 0.60% | ~582 |
+| The Contagious Curse | 0.60% | ~582 |
 | Coasting to the Finish | 0.60% | ~379 |
-| Maddening | 0.50% | ~484 |
+| Maddening | 0.50% | ~485 |
 | Checkmate | 0.50% | ~316 |
 | Vecna Out! | 0.50% | ~316 |
-| Beast Mode | 0.50% | ~484 |
-| Low Initiative | 0.50% | ~484 |
-| Building Trust | 0.50% | ~484 |
-| Useless Allies | 0.50% | ~484 |
-| Running of the Saurs | 0.50% | ~484 |
-| Escort to Waterdeep | 0.50% | ~484 |
-| Waterdeep Detours | 0.50% | ~484 |
-| Underdeep Cartography | 0.50% | ~484 |
+| Beast Mode | 0.50% | ~485 |
+| Low Initiative | 0.50% | ~485 |
+| Building Trust | 0.50% | ~485 |
+| Useless Allies | 0.50% | ~485 |
+| Running of the Saurs | 0.50% | ~485 |
+| Escort to Waterdeep | 0.50% | ~485 |
+| Waterdeep Detours | 0.50% | ~485 |
+| Underdeep Cartography | 0.50% | ~485 |
 | Quick or Quack | 0.50% | ~316 |
 | The Silken Swamp | 0.40% | ~388 |
 | Supply Run | 0.40% | ~388 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,894 (Ranked 63)  
+Progressed: 96,962 (Ranked 63)  
 Completed: 1,947 (2.01%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.01%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,894 | 1,947 |
+| 2023-06-18 | 96,962 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,134 (Ranked 37)  

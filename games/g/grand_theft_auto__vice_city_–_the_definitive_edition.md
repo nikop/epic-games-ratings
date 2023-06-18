@@ -32,9 +32,9 @@ Rating: 4.61 (Ranked 363)
 | Take the Cannoli | 2.00% | ~172 |
 | City Sleuth | 2.00% | ~172 |
 | One is Better Than Two | 1.00% | ~86 |
+| Daredevil | 1.00% | ~86 |
 | Chopper’d Up | 1.00% | ~86 |
 | I'm Famous! | 0.90% | ~78 |
-| Daredevil | 0.90% | ~78 |
 | Born in the 80’s | 0.80% | ~69 |
 | Keepie-Uppy Okie Dokie | 0.80% | ~69 |
 | Done it All | 0.70% | ~60 |

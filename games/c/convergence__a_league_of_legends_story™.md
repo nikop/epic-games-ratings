@@ -10,6 +10,7 @@
 | Rail Rat | 11.00% | ~78 |
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
+| The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | Treasure Trove | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
@@ -17,7 +18,6 @@
 | No, Thanks! | 10.00% | ~70 |
 | Breaking Down Barriers | 10.00% | ~70 |
 | The Wicked Twins | 10.00% | ~70 |
-| The Prince in Heels | 10.00% | ~70 |
 | Honest Mistake | 10.00% | ~70 |
 | Fast Learner | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |

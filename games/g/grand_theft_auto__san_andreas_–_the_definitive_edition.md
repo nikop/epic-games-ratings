@@ -5,14 +5,14 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,538 |
-| Pay 'n' Spray | 49.00% | ~5,230 |
+| Getting Started | 80.00% | ~8,540 |
+| Pay 'n' Spray | 49.00% | ~5,231 |
 | All Dressed Up for San Fierro | 23.00% | ~2,455 |
-| The American Dream | 17.00% | ~1,814 |
+| The American Dream | 17.00% | ~1,815 |
 | School's Out | 16.00% | ~1,708 |
 | Smooth Moves | 16.00% | ~1,708 |
-| Today Was a Good Day | 14.00% | ~1,494 |
-| What happens in Las Venturas... | 13.00% | ~1,387 |
+| Today Was a Good Day | 14.00% | ~1,495 |
+| What happens in Las Venturas... | 13.00% | ~1,388 |
 | Horror of the Santa Maria | 9.00% | ~961 |
 | Liberty City State of Mind | 8.00% | ~854 |
 | Original Gangster | 7.00% | ~747 |
@@ -22,12 +22,12 @@ Rating: 4.57 (Ranked 441)
 | They Can’t Stop All of Us | 4.00% | ~427 |
 | Rescue a Kitten Too? | 4.00% | ~427 |
 | What are the Odds | 3.00% | ~320 |
-| I’ll Have Two Number 9s | 2.00% | ~213 |
-| Bike or Biker | 2.00% | ~213 |
-| What the City Needs | 2.00% | ~213 |
-| Yes I Speak English | 2.00% | ~213 |
-| Double or Nothin' | 2.00% | ~213 |
-| Public Enemy No. 1 | 2.00% | ~213 |
+| I’ll Have Two Number 9s | 2.00% | ~214 |
+| Bike or Biker | 2.00% | ~214 |
+| What the City Needs | 2.00% | ~214 |
+| Yes I Speak English | 2.00% | ~214 |
+| Double or Nothin' | 2.00% | ~214 |
+| Public Enemy No. 1 | 2.00% | ~214 |
 | A Legitimate Business | 1.00% | ~107 |
 | Who Needs Directions? | 1.00% | ~107 |
 | Swiss Army Strife | 1.00% | ~107 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 441)
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,673 (Ranked 112)  
+Progressed: 10,675 (Ranked 112)  
 Completed: 19 (0.18%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,14 +100,14 @@ Completed: 19 (0.18%) (Ranked 158)
 | 2023-06-15 | 10,587 | 18 |
 | 2023-06-16 | 10,617 | 18 |
 | 2023-06-17 | 10,650 | 19 |
-| 2023-06-18 | 10,673 | 19 |
+| 2023-06-18 | 10,675 | 19 |
 ## Awards
-Max (Great Boss Battles): 170  (Ranked 281)  
-Sum: 170 (Ranked 373)  
-Diff (max vs sum): -92  
+Max (Great Boss Battles): 172  (Ranked 281)  
+Sum: 172 (Ranked 372)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 170 |
+| This game has Great Boss Battles | 172 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -168,4 +168,4 @@ Diff (max vs sum): -92
 | 2023-06-15 | 4.58 | 164 | 164 |
 | 2023-06-16 | 4.58 | 167 | 167 |
 | 2023-06-17 | 4.58 | 170 | 170 |
-| 2023-06-18 | 4.57 | 170 | 170 |
+| 2023-06-18 | 4.57 | 172 | 172 |
