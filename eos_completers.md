@@ -20,7 +20,7 @@
 | 17 | [Remains](games/r/remains.md) | 10.00% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.40% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
@@ -62,9 +62,9 @@
 | 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.48% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
-| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
+| 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.44% |
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 68 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -85,7 +85,7 @@
 | 83 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 84 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.50% |
 | 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
-| 86 | [Night Book](games/n/night_book.md) | 1.48% |
+| 86 | [Night Book](games/n/night_book.md) | 1.47% |
 | 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
 | 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 88 | [Chorus](games/c/chorus.md) | 1.22% |
