@@ -1,7 +1,7 @@
 # Honkai: Star Rail
 [Store](https://store.epicgames.com/en-US/p/honkai-star-rail)  
 [View Rawdata](../../db/h/honkai__star_rail.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.69 (Ranked 219)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.68 (Ranked 238)
 | 2023-05-03 | 4.66 | 0 | 0 |
 | 2023-05-09 | 4.67 | 0 | 0 |
 | 2023-05-28 | 4.68 | 0 | 0 |
+| 2023-06-18 | 4.69 | 0 | 0 |

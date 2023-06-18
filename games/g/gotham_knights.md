@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,929 |
+| First Step Into the Knight | 6.00% | ~3,930 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,620 |
 | Loose Ends | 4.00% | ~2,620 |
 | To the Victor Go the Spoils | 3.00% | ~1,965 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,490 (Ranked 70)  
+Progressed: 65,492 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 95 (0.15%) (Ranked 164)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,490 | 95 |
+| 2023-06-18 | 65,492 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 98)  
-Sum: 3,875 (Ranked 137)  
+Sum: 3,876 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -137,7 +137,7 @@ Diff (max vs sum): -39
 | This game has Quickly Understood Controls | 200 |
 | This game is Extremely Fun | 200 |
 | This game is Relaxing | 198 |
-| This game has Amazing Characters | 195 |
+| This game has Amazing Characters | 196 |
 | This game has Diverse Characters | 190 |
 | This game has Amazing Storytelling | 187 |
 | This game is Great for Beginners | 184 |
@@ -263,4 +263,4 @@ Diff (max vs sum): -39
 | 2023-06-15 | 4.17 | 2,336 | 3,866 |
 | 2023-06-16 | 4.17 | 2,336 | 3,867 |
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
-| 2023-06-18 | 4.18 | 2,339 | 3,875 |
+| 2023-06-18 | 4.18 | 2,339 | 3,876 |

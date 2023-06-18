@@ -6,9 +6,9 @@
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -326,10 +326,10 @@
     }
   ],
   "EOS_Progressed": 4435,
-  "EOS_Completed": 13,
-  "EOS_NewPlayers": 43,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed": 14,
+  "EOS_NewPlayers": 41,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:51.6283216+00:00",
@@ -1385,6 +1385,11 @@
       "Time": "2023-06-17T19:02:43.404268+00:00",
       "NumProgressed": 4435,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-18T07:00:41.9942863+00:00",
+      "NumProgressed": 4435,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1762,9 +1767,9 @@
       "ID": "ID_ACHIEV_48",
       "SetID": "98bke8c",
       "Name": "The Surge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "ID_ACHIEV_49",
@@ -1932,14 +1937,14 @@
       "ID": "98bke8c",
       "IsBase": true,
       "Progressed": 4435,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:00:27.5335738+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:00:41.9942855+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.1207834+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:57:53.7686829+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:00:27.5336575+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:58:02.7764897+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:00:41.9943675+00:00"
 }

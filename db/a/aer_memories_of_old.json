@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12730,
+  "EOS_Progressed": 12734,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -6334,6 +6334,11 @@
       "Time": "2023-06-18T06:05:48.1253826+00:00",
       "NumProgressed": 12730,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-06-18T07:06:01.5998834+00:00",
+      "NumProgressed": 12734,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 20,
@@ -6345,7 +6350,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -6393,7 +6398,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -6417,7 +6422,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -6441,7 +6446,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -6465,7 +6470,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9675
+      "UsersEstimate": 9678
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6473,7 +6478,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3566
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6481,7 +6486,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -6504,15 +6509,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12730,
+      "Progressed": 12734,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:05:48.1253822+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:06:01.5998826+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:59:53.4009753+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:05:48.1254365+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:00:04.5942571+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:06:01.5999318+00:00"
 }

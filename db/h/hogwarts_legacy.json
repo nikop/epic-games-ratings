@@ -3876,9 +3876,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280490,
+  "EOS_Progressed": 280492,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 2207,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9976,6 +9976,11 @@
       "Time": "2023-06-18T06:04:49.9791602+00:00",
       "NumProgressed": 280490,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-18T07:05:03.4103348+00:00",
+      "NumProgressed": 280492,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10035,7 +10040,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "PFA_16",
@@ -10051,7 +10056,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "PFA_18",
@@ -10059,7 +10064,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16829
+      "UsersEstimate": 16830
     },
     {
       "ID": "PFA_19",
@@ -10067,7 +10072,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "PFA_2",
@@ -10211,7 +10216,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16829
+      "UsersEstimate": 16830
     },
     {
       "ID": "PFA_36",
@@ -10291,7 +10296,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16829
+      "UsersEstimate": 16830
     },
     {
       "ID": "PFA_45",
@@ -10339,14 +10344,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16829
+      "UsersEstimate": 16830
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280490,
+      "Progressed": 280492,
       "Completed": 408
     }
   ],
@@ -10354,8 +10359,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-18T02:20:44.4362006+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:04:49.9791598+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:05:03.4103339+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:57:20.9538462+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:04:49.9792391+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:57:28.2914535+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:05:03.410407+00:00"
 }

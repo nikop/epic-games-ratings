@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~926 |
-| A new Journey | 72.00% | ~901 |
-| From X to Y | 71.00% | ~889 |
-| Departure | 71.00% | ~889 |
-| Way of Iron | 69.00% | ~864 |
-| Mystery Tour | 67.00% | ~839 |
-| We brake for nobody | 66.00% | ~826 |
+| Country Bumpkin | 74.00% | ~927 |
+| A new Journey | 72.00% | ~902 |
+| From X to Y | 71.00% | ~890 |
+| Departure | 71.00% | ~890 |
+| Way of Iron | 69.00% | ~865 |
+| Mystery Tour | 67.00% | ~840 |
+| We brake for nobody | 66.00% | ~827 |
 | Brainstorm | 65.00% | ~814 |
-| Travel Company | 64.00% | ~801 |
+| Travel Company | 64.00% | ~802 |
 | Mind the Gap | 63.00% | ~789 |
 | All around the World | 61.00% | ~764 |
-| Right through the middle | 56.00% | ~701 |
-| Facility Manager | 52.00% | ~651 |
-| Poor Devil | 52.00% | ~651 |
-| Producer | 49.00% | ~613 |
+| Right through the middle | 56.00% | ~702 |
+| Facility Manager | 52.00% | ~652 |
+| Poor Devil | 52.00% | ~652 |
+| Producer | 49.00% | ~614 |
 | Apprentice | 42.00% | ~526 |
 | Bridge Builder | 40.00% | ~501 |
 | Access granted | 34.00% | ~426 |
@@ -31,11 +31,11 @@ Rating: 4.28 (Ranked 782)
 | Mole | 27.00% | ~338 |
 | Financial Shark | 27.00% | ~338 |
 | Socializer | 25.00% | ~313 |
-| Country Life | 24.00% | ~300 |
+| Country Life | 24.00% | ~301 |
 | General Manager | 23.00% | ~288 |
 | Hostile Takeover | 23.00% | ~288 |
-| Seven at one stroke | 22.00% | ~275 |
-| Trailblazer | 18.00% | ~225 |
+| Seven at one stroke | 22.00% | ~276 |
+| Trailblazer | 18.00% | ~226 |
 | Traffic Jam | 17.00% | ~213 |
 | Breaking Ground | 17.00% | ~213 |
 | Traffic Junction | 16.00% | ~200 |
@@ -61,7 +61,7 @@ Rating: 4.28 (Ranked 782)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,252 (Ranked 172)  
+Progressed: 1,253 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-15 | 1,213 | 0 |
 | 2023-06-16 | 1,225 | 0 |
 | 2023-06-17 | 1,250 | 0 |
-| 2023-06-18 | 1,252 | 0 |
+| 2023-06-18 | 1,253 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

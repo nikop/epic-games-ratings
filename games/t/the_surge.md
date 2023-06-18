@@ -72,10 +72,10 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~31 |
 | Modus Operandi | 0.60% | ~27 |
 | Brave New World | 0.50% | ~22 |
-| The Surge | 0.30% | ~13 |
+| The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,435 (Ranked 132)  
-Completed: 13 (0.29%) (Ranked 143)  
+Completed: 14 (0.32%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,6 +126,7 @@ Completed: 13 (0.29%) (Ranked 143)
 | 2023-06-15 | 4,425 | 13 |
 | 2023-06-16 | 4,431 | 13 |
 | 2023-06-17 | 4,435 | 13 |
+| 2023-06-18 | 4,435 | 14 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 466)  
 Sum: 26 (Ranked 475)  

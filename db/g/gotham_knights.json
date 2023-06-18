@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1536,10 +1536,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 3875,
       "NumberOfAwardsMax": 2339
+    },
+    {
+      "Time": "2023-06-18T06:59:42.4987969+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3876,
+      "NumberOfAwardsMax": 2339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3875,
+  "NumberOfAwards": 3876,
   "NumberOfAwardsMax": 2339,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1559,7 +1565,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1604,9 +1610,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65490,
+  "EOS_Progressed": 65492,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6764,6 +6770,11 @@
       "Time": "2023-06-18T06:06:02.934726+00:00",
       "NumProgressed": 65490,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T07:06:15.3698969+00:00",
+      "NumProgressed": 65492,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7119,7 +7130,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7262,22 +7273,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65490,
+      "Progressed": 65492,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35770,
+      "Progressed": 35772,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-18T03:14:30.7666211+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:06:02.9347254+00:00",
+  "LastChanged": "2023-06-18T06:59:42.4987968+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:06:15.3698963+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:59:31.5897224+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:06:02.9348138+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:59:42.4987976+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:06:15.3699821+00:00"
 }

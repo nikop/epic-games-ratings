@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5763,9 +5763,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44239,
+  "EOS_Progressed": 44240,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10793,6 +10793,11 @@
       "Time": "2023-06-18T06:05:51.050201+00:00",
       "NumProgressed": 44239,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-18T07:06:04.053253+00:00",
+      "NumProgressed": 44240,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10884,7 +10889,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28313
+      "UsersEstimate": 28314
     },
     {
       "ID": "CutTree",
@@ -10988,7 +10993,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20792
+      "UsersEstimate": 20793
     },
     {
       "ID": "Mission",
@@ -11036,7 +11041,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19465
+      "UsersEstimate": 19466
     },
     {
       "ID": "NumProductionPoints",
@@ -11140,22 +11145,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44239,
+      "Progressed": 44240,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-18T03:14:23.5169678+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:05:51.0502007+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:06:04.0532522+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:14.3676072+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:59:27.1166732+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:05:51.0502673+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:59:37.2289799+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:06:04.0533134+00:00"
 }

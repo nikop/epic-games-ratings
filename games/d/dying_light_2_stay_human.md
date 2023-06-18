@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,709 |
-| Into the Unknown | 10.00% | ~57,918 |
-| First Shot | 10.00% | ~57,918 |
-| Herzlich Wilkommen! | 9.00% | ~52,126 |
-| Good Night & Good Luck | 9.00% | ~52,126 |
-| Sancho Panza | 8.00% | ~46,334 |
-| Under Pressure | 7.00% | ~40,542 |
-| Flag Burning | 7.00% | ~40,542 |
-| Oh, So This Is How It Works! | 7.00% | ~40,542 |
-| Night Hunter | 7.00% | ~40,542 |
+| You Never Forget Your First... | 11.00% | ~63,711 |
+| Into the Unknown | 10.00% | ~57,919 |
+| First Shot | 10.00% | ~57,919 |
+| Herzlich Wilkommen! | 9.00% | ~52,127 |
+| Good Night & Good Luck | 9.00% | ~52,127 |
+| Sancho Panza | 8.00% | ~46,335 |
+| Under Pressure | 7.00% | ~40,543 |
+| Flag Burning | 7.00% | ~40,543 |
+| Oh, So This Is How It Works! | 7.00% | ~40,543 |
+| Night Hunter | 7.00% | ~40,543 |
 | On the Trail of the Enemy | 6.00% | ~34,751 |
 | Light in the Darkness | 6.00% | ~34,751 |
 | Get Outta My House! | 6.00% | ~34,751 |
 | It Wasn't That Hard, Was It? | 6.00% | ~34,751 |
 | Being All Social | 6.00% | ~34,751 |
-| We Will Be Heard! | 5.00% | ~28,959 |
-| After the Fall | 5.00% | ~28,959 |
-| Can't Touch This! | 5.00% | ~28,959 |
-| Debris and Ashes | 4.00% | ~23,167 |
-| Known Associate | 4.00% | ~23,167 |
-| Brush with Death | 4.00% | ~23,167 |
-| Going Down | 4.00% | ~23,167 |
-| Family First | 4.00% | ~23,167 |
-| Your World, Your Rules | 4.00% | ~23,167 |
-| Tunnel Entrance | 4.00% | ~23,167 |
-| Death From Afar | 4.00% | ~23,167 |
-| Terminal Headache | 4.00% | ~23,167 |
-| Slowpoke! | 4.00% | ~23,167 |
-| You're Going Down! | 3.00% | ~17,375 |
+| We Will Be Heard! | 5.00% | ~28,960 |
+| After the Fall | 5.00% | ~28,960 |
+| Can't Touch This! | 5.00% | ~28,960 |
+| Debris and Ashes | 4.00% | ~23,168 |
+| Known Associate | 4.00% | ~23,168 |
+| Brush with Death | 4.00% | ~23,168 |
+| Going Down | 4.00% | ~23,168 |
+| Family First | 4.00% | ~23,168 |
+| Your World, Your Rules | 4.00% | ~23,168 |
+| Tunnel Entrance | 4.00% | ~23,168 |
+| Death From Afar | 4.00% | ~23,168 |
+| Terminal Headache | 4.00% | ~23,168 |
+| Slowpoke! | 4.00% | ~23,168 |
+| You're Going Down! | 3.00% | ~17,376 |
 | Tickets, Please! | 2.00% | ~11,584 |
 | Parkour Master | 2.00% | ~11,584 |
 | Combat Master | 2.00% | ~11,584 |
@@ -49,8 +49,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Nemesis | 1.00% | ~2,246 |
 | That's Teamwork! | 0.90% | ~5,213 |
 | Enter the Hall | 0.90% | ~2,022 |
-| Find Anything Interesting? | 0.80% | ~4,633 |
-| Boot Licker | 0.80% | ~4,633 |
+| Find Anything Interesting? | 0.80% | ~4,634 |
+| Boot Licker | 0.80% | ~4,634 |
 | Night of Terrors | 0.80% | ~1,797 |
 | Who Wants To Be a... | 0.70% | ~4,054 |
 | Get the Point? | 0.70% | ~4,054 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~225 |
 | Connoisseur | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579,177 (Ranked 25)  
+Progressed: 579,191 (Ranked 25)  
 Completed: 51 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 51 (0.01%) (Ranked 215)
 | 2023-06-15 | 577,718 | 51 |
 | 2023-06-16 | 578,367 | 51 |
 | 2023-06-17 | 579,047 | 51 |
-| 2023-06-18 | 579,177 | 51 |
+| 2023-06-18 | 579,191 | 51 |
 ## Awards
 Max (Character Customization): 7,827  (Ranked 40)  
 Sum: 18,166 (Ranked 56)  

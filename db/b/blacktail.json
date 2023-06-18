@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -970,6 +970,11 @@
       "Time": "2023-06-18T03:21:05.8926643+00:00",
       "NumProgressed": 498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T07:06:01.4566385+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1197,7 +1202,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Toxic",
@@ -1236,7 +1241,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 1
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:05:48.0569928+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:06:01.4566378+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.5964785+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:57:48.5013781+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:05:48.0570276+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:57:57.7632432+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:06:01.4566659+00:00"
 }

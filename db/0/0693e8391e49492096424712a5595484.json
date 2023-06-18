@@ -152,9 +152,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 100,
+      "Percentage": 110,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -224,9 +224,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DwarfHobo",
@@ -454,8 +454,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:03:17.1060025+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:03:29.3900681+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:56:54.8279403+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:03:17.1060394+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:57:02.5484791+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:03:29.3901038+00:00"
 }

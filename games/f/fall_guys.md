@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 8.00% | ~2,678,212 |
-| Snowflake | 8.00% | ~2,678,212 |
-| Fall Throttle | 7.00% | ~2,343,436 |
-| Big Bully | 6.00% | ~2,008,659 |
-| Face First | 6.00% | ~2,008,659 |
-| One to Watch | 5.00% | ~1,673,882 |
-| Style Points | 5.00% | ~1,673,882 |
-| Troublemaker | 5.00% | ~1,673,882 |
-| Bargain Bucket | 4.00% | ~1,339,106 |
-| Flawless Victory | 4.00% | ~1,339,106 |
-| Fall Bae | 4.00% | ~1,339,106 |
-| Ahead of the Pack | 4.00% | ~1,339,106 |
-| Stumble Chums | 4.00% | ~1,339,106 |
-| Victory! | 4.00% | ~1,339,106 |
-| Catwalk Model | 2.00% | ~669,553 |
-| Down to the Wire | 2.00% | ~669,553 |
-| Household Name | 2.00% | ~669,553 |
-| Head Turner | 2.00% | ~669,553 |
-| One giant leap | 2.00% | ~669,553 |
-| Big Air | 1.00% | ~334,776 |
-| Star of the Show | 1.00% | ~334,776 |
-| Quite Dashing | 1.00% | ~334,776 |
-| Shopping Spree | 1.00% | ~334,776 |
-| Squad Goals | 1.00% | ~334,776 |
-| Top Tier | 0.90% | ~301,299 |
-| Low Baller | 0.80% | ~267,821 |
-| Mad Trendy | 0.80% | ~267,821 |
-| Veteran Status | 0.50% | ~167,388 |
-| Show Off | 0.50% | ~167,388 |
-| Track Star | 0.30% | ~100,433 |
-| Golden Guy | 0.30% | ~100,433 |
-| Big Tease | 0.20% | ~66,955 |
-| Fall Guy Fashionista | 0.20% | ~66,955 |
-| Infallible | 0.10% | ~33,478 |
+| One small trip | 8.00% | ~2,678,286 |
+| Snowflake | 8.00% | ~2,678,286 |
+| Fall Throttle | 7.00% | ~2,343,500 |
+| Big Bully | 6.00% | ~2,008,714 |
+| Face First | 6.00% | ~2,008,714 |
+| One to Watch | 5.00% | ~1,673,929 |
+| Style Points | 5.00% | ~1,673,929 |
+| Troublemaker | 5.00% | ~1,673,929 |
+| Bargain Bucket | 4.00% | ~1,339,143 |
+| Flawless Victory | 4.00% | ~1,339,143 |
+| Fall Bae | 4.00% | ~1,339,143 |
+| Ahead of the Pack | 4.00% | ~1,339,143 |
+| Stumble Chums | 4.00% | ~1,339,143 |
+| Victory! | 4.00% | ~1,339,143 |
+| Catwalk Model | 2.00% | ~669,571 |
+| Down to the Wire | 2.00% | ~669,571 |
+| Household Name | 2.00% | ~669,571 |
+| Head Turner | 2.00% | ~669,571 |
+| One giant leap | 2.00% | ~669,571 |
+| Big Air | 1.00% | ~334,786 |
+| Star of the Show | 1.00% | ~334,786 |
+| Quite Dashing | 1.00% | ~334,786 |
+| Shopping Spree | 1.00% | ~334,786 |
+| Squad Goals | 1.00% | ~334,786 |
+| Top Tier | 0.90% | ~301,307 |
+| Low Baller | 0.80% | ~267,829 |
+| Mad Trendy | 0.80% | ~267,829 |
+| Veteran Status | 0.50% | ~167,393 |
+| Show Off | 0.50% | ~167,393 |
+| Track Star | 0.30% | ~100,436 |
+| Golden Guy | 0.30% | ~100,436 |
+| Big Tease | 0.20% | ~66,957 |
+| Fall Guy Fashionista | 0.20% | ~66,957 |
+| Infallible | 0.10% | ~33,479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,477,650 (Ranked 1)  
-Completed: 33,737 (0.10%) (Ranked 173)  
+Progressed: 33,478,574 (Ranked 1)  
+Completed: 33,741 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,10 +100,10 @@ Completed: 33,737 (0.10%) (Ranked 173)
 | 2023-06-15 | 33,423,549 | 33,516 |
 | 2023-06-16 | 33,445,734 | 33,602 |
 | 2023-06-17 | 33,471,333 | 33,713 |
-| 2023-06-18 | 33,477,650 | 33,737 |
+| 2023-06-18 | 33,478,574 | 33,741 |
 ## Awards
 Max (Great for Beginners): 142,005  (Ranked 7)  
-Sum: 1,320,069 (Ranked 5)  
+Sum: 1,320,121 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +115,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 122,448 |
 | This game is Extremely Fun | 117,958 |
 | This game is Highly Recommended | 111,404 |
-| This game has Amazing Characters | 108,527 |
+| This game has Amazing Characters | 108,579 |
 | This game has Amazing Storytelling | 103,432 |
 | This game has Playful Visuals | 99,413 |
 ## Ratings History
@@ -265,4 +265,4 @@ Diff (max vs sum): 2
 | 2023-06-15 | 4.53 | - | 141,809 | 1,318,539 |
 | 2023-06-16 | 4.53 | - | 141,895 | 1,319,125 |
 | 2023-06-17 | 4.53 | - | 142,005 | 1,319,915 |
-| 2023-06-18 | 4.53 | - | 142,005 | 1,320,069 |
+| 2023-06-18 | 4.53 | - | 142,005 | 1,320,121 |

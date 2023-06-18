@@ -205,7 +205,7 @@
   "Tags": [],
   "EOS_Progressed": 1703,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1919,9 +1919,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 596
     }
   ],
   "AchievementSets": [
@@ -1942,8 +1942,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-18T06:02:22.3958778+00:00",
+  "LastChanged_Achievements": "2023-06-18T07:03:15.4100979+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.2570669+00:00",
-  "LastUpdate_Ratings": "2023-06-18T05:58:13.5555025+00:00",
-  "LastUpdate_Achievements": "2023-06-18T06:02:22.3959079+00:00"
+  "LastUpdate_Ratings": "2023-06-18T06:58:24.8765529+00:00",
+  "LastUpdate_Achievements": "2023-06-18T07:03:15.4101285+00:00"
 }
