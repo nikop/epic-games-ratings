@@ -19,15 +19,15 @@
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.43% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 21 | [Smelter](games/s/smelter.md) | 8.33% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
-| 24 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.14% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.03% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.88% |
-| 28 | [Scorn](games/s/scorn.md) | 6.86% |
+| 27 | [Scorn](games/s/scorn.md) | 6.86% |
+| 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.45% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -46,7 +46,7 @@
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.62% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.33% |
+| 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
 | 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.24% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.18% |
@@ -60,10 +60,10 @@
 | 58 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.70% |
+| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.63% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 64 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
