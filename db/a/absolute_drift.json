@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523939,
+  "EOS_Progressed": 1523945,
   "EOS_Completed": 624,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6620,6 +6620,11 @@
       "Time": "2023-06-18T10:04:45.5078407+00:00",
       "NumProgressed": 1523939,
       "NumCompleted": 624
+    },
+    {
+      "Time": "2023-06-18T11:05:13.4007368+00:00",
+      "NumProgressed": 1523945,
+      "NumCompleted": 624
     }
   ],
   "TotalAchievements": 20,
@@ -6743,7 +6748,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121915
+      "UsersEstimate": 121916
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6751,7 +6756,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13715
+      "UsersEstimate": 13716
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -6790,15 +6795,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1523939,
+      "Progressed": 1523945,
       "Completed": 624
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:04:45.5078398+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:05:13.4007364+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:01:12.782571+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:04:45.5079291+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:01:21.681947+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:05:13.400802+00:00"
 }

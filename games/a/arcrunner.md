@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Augmented | 96.00% | ~505 |
 | Terminated I | 82.00% | ~431 |
+| Nanonic I | 79.00% | ~416 |
 | Challenge Accepted | 78.00% | ~410 |
-| Nanonic I | 78.00% | ~410 |
 | Unlocked and Loaded | 75.00% | ~394 |
 | Terminated II | 65.00% | ~342 |
 | The City | 52.00% | ~274 |
@@ -19,8 +19,8 @@
 | Nanonic III | 25.00% | ~132 |
 | Rookie | 25.00% | ~132 |
 | Cybernetic | 20.00% | ~105 |
-| The Bigger They Are | 18.00% | ~95 |
-| Eden Heights | 16.00% | ~84 |
+| The Bigger They Are | 19.00% | ~100 |
+| Eden Heights | 17.00% | ~89 |
 | Up Close And Personal | 16.00% | ~84 |
 | Outer Core | 12.00% | ~63 |
 | Inner Core | 7.00% | ~37 |

@@ -8,7 +8,7 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,387 |
 | Tutti Eroi! | 54.00% | ~3,387 |
-| You Shall Not Pass | 52.00% | ~3,261 |
+| You Shall Not Pass | 52.00% | ~3,262 |
 | Avanti Savoia! | 47.00% | ~2,948 |
 | Conrad von Hotzensocks | 36.00% | ~2,258 |
 | Mamma Mia! | 36.00% | ~2,258 |
@@ -16,8 +16,8 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 29.00% | ~1,819 |
 | Aurelio Baruzzi | 22.00% | ~1,380 |
 | Veni Vidi Vici | 22.00% | ~1,380 |
-| Decimation | 20.00% | ~1,254 |
-| Donatello | 20.00% | ~1,254 |
+| Decimation | 20.00% | ~1,255 |
+| Donatello | 20.00% | ~1,255 |
 | Insubordination | 19.00% | ~1,192 |
 | The Italian Job | 19.00% | ~1,192 |
 | The Lion of the Isonzo | 18.00% | ~1,129 |
@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Devil's Paintbrush | 11.00% | ~690 |
 | Dante's Inferno | 10.00% | ~627 |
 | I Have the High Ground | 10.00% | ~627 |
-| Millenial | 9.00% | ~564 |
+| Millenial | 9.00% | ~565 |
 | The Show Must Go On | 8.00% | ~502 |
 | Tosca | 8.00% | ~502 |
 | 12th Bottle of the Isonzo | 6.00% | ~376 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,272 (Ranked 126)  
+Progressed: 6,273 (Ranked 126)  
 Completed: 8 (0.13%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 8 (0.13%) (Ranked 170)
 | 2023-06-15 | 6,254 | 8 |
 | 2023-06-16 | 6,266 | 8 |
 | 2023-06-17 | 6,271 | 8 |
-| 2023-06-18 | 6,272 | 8 |
+| 2023-06-18 | 6,273 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 247 (Ranked 346)  

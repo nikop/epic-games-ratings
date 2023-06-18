@@ -74,9 +74,9 @@
       "ID": "ACH_AllRooms",
       "SetID": "aao9n96",
       "Name": "You call this archaeology?",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_AllWishes",
@@ -106,9 +106,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Beacon",
@@ -146,9 +146,9 @@
       "ID": "ACH_DarkRoom",
       "SetID": "aao9n96",
       "Name": "Let me risk a little more light",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Disassemble",
@@ -178,25 +178,25 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_GraceEnding",
@@ -282,17 +282,17 @@
       "ID": "ACH_Shortcut",
       "SetID": "aao9n96",
       "Name": "Get busy living or get busy dying",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Siege",
       "SetID": "aao9n96",
       "Name": "Let them come",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Spire",
@@ -322,9 +322,9 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WeatherStations",
@@ -344,8 +344,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:05:14.92399+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:05:42.7726598+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3812548+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:57:19.8749743+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:05:14.9240382+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:57:32.6896498+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:05:42.7726843+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6643,
+  "EOS_Progressed": 6644,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1998,6 +1998,11 @@
       "Time": "2023-06-18T02:29:56.59062+00:00",
       "NumProgressed": 6643,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-18T11:07:29.2313751+00:00",
+      "NumProgressed": 6644,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2057,7 +2062,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2143,9 +2148,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2724
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2161,7 +2166,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2209,7 +2214,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2224,15 +2229,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6643,
+      "Progressed": 6644,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:07:00.8603049+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:29.2313745+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:57:47.4961367+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:07:00.8603562+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:57:56.9676568+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:29.2314107+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~533 |
-| My little farm | 64.00% | ~426 |
-| Every beginning is difficult | 62.00% | ~413 |
-| 3, 2, 1, mine | 55.00% | ~366 |
-| Gofer | 55.00% | ~366 |
+| Cabin boy | 80.00% | ~534 |
+| My little farm | 64.00% | ~427 |
+| Every beginning is difficult | 62.00% | ~414 |
+| 3, 2, 1, mine | 55.00% | ~367 |
+| Gofer | 55.00% | ~367 |
 | Seafarer | 54.00% | ~360 |
-| O Captain! My Captain! | 53.00% | ~353 |
+| O Captain! My Captain! | 52.00% | ~347 |
 | Greed for gold | 42.00% | ~280 |
-| Intangible | 40.00% | ~266 |
-| I'm out of here for a while | 40.00% | ~266 |
-| In a mint condition | 37.00% | ~246 |
-| Licence to Kill | 34.00% | ~226 |
-| Pirates! | 34.00% | ~226 |
-| Collectionitis | 28.00% | ~186 |
-| Megalomania | 28.00% | ~186 |
+| Intangible | 40.00% | ~267 |
+| I'm out of here for a while | 40.00% | ~267 |
+| In a mint condition | 37.00% | ~247 |
+| Licence to Kill | 34.00% | ~227 |
+| Pirates! | 34.00% | ~227 |
+| Collectionitis | 28.00% | ~187 |
+| Megalomania | 28.00% | ~187 |
 | Christening | 26.00% | ~173 |
-| Groundskeeper | 25.00% | ~166 |
+| Groundskeeper | 25.00% | ~167 |
 | Wholesale | 21.00% | ~140 |
 | Walk the plank | 20.00% | ~133 |
-| Pearly gates | 17.00% | ~113 |
 | My precious! | 17.00% | ~113 |
+| Pearly gates | 16.00% | ~107 |
 | Conquistador | 13.00% | ~87 |
 | Panic buying | 11.00% | ~73 |
 | Just a scratch | 9.00% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 198)  
+Progressed: 667 (Ranked 198)  
 Completed: 1 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 1 (0.15%) (Ranked 164)
 | 2023-06-15 | 657 | 1 |
 | 2023-06-16 | 661 | 1 |
 | 2023-06-17 | 666 | 1 |
+| 2023-06-18 | 667 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

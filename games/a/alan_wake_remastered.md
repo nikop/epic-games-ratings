@@ -16,10 +16,10 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 13.00% | ~7,224 |
 | Finders Keepers | 13.00% | ~7,224 |
 | Paging Mr. Wake | 13.00% | ~7,224 |
-| They're Heeeeeere! | 11.00% | ~6,112 |
-| Sound and Fury | 11.00% | ~6,112 |
-| Missed by a Mile | 11.00% | ~6,112 |
-| Damn Good Cup of Coffee | 11.00% | ~6,112 |
+| They're Heeeeeere! | 11.00% | ~6,113 |
+| Sound and Fury | 11.00% | ~6,113 |
+| Missed by a Mile | 11.00% | ~6,113 |
+| Damn Good Cup of Coffee | 11.00% | ~6,113 |
 | Iron Horse | 10.00% | ~5,557 |
 | Wheels Within Wheels | 10.00% | ~5,557 |
 | The Six-Gun Scribe | 10.00% | ~5,557 |
@@ -27,12 +27,12 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 9.00% | ~5,001 |
 | Perchance to Dream | 9.00% | ~5,001 |
 | Collateral Carnage | 9.00% | ~5,001 |
-| Gatekeeper | 8.00% | ~4,445 |
-| The Lady of the Light | 8.00% | ~4,445 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,445 |
-| Thunder and Lightning | 8.00% | ~4,445 |
-| Two For the Price of One | 8.00% | ~4,445 |
-| Energized! | 8.00% | ~4,445 |
+| Gatekeeper | 8.00% | ~4,446 |
+| The Lady of the Light | 8.00% | ~4,446 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,446 |
+| Thunder and Lightning | 8.00% | ~4,446 |
+| Two For the Price of One | 8.00% | ~4,446 |
+| Energized! | 8.00% | ~4,446 |
 | A Friend in Need | 8.00% | ~1,523 |
 | Right of Way | 7.00% | ~3,890 |
 | Tornado Wrangler | 6.00% | ~3,334 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,568 (Ranked 78)  
+Progressed: 55,570 (Ranked 78)  
 Completed: 55 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 55 (0.10%) (Ranked 173)
 | 2023-06-15 | 55,202 | 55 |
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
-| 2023-06-18 | 55,568 | 55 |
+| 2023-06-18 | 55,570 | 55 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

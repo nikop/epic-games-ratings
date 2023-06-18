@@ -14,7 +14,7 @@ Number of Ratings: 118  (23.09.2022)
 | Déjà vu | 56.00% | ~62 |
 | GG EZ | 53.00% | ~59 |
 | Way of the Wimp | 52.00% | ~58 |
-| DM intervention | 50.00% | ~56 |
+| DM intervention | 51.00% | ~57 |
 | Speedrun | 44.00% | ~49 |
 | Oh, when I'll be level 10... | 44.00% | ~49 |
 | I am the night | 39.00% | ~43 |

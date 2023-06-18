@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -424,9 +424,9 @@
       "Count": 170
     }
   ],
-  "EOS_Progressed": 10664,
+  "EOS_Progressed": 10667,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5104,6 +5104,11 @@
       "Time": "2023-06-18T10:07:20.7444423+00:00",
       "NumProgressed": 10664,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-18T11:07:48.7303461+00:00",
+      "NumProgressed": 10667,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5115,7 +5120,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8534
     },
     {
       "ID": "ACH02",
@@ -5137,9 +5142,9 @@
       "ID": "ACH04",
       "SetID": "4ck5mbe",
       "Name": "Hoopin\u0027 it Up",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH05",
@@ -5171,7 +5176,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5225
+      "UsersEstimate": 5227
     },
     {
       "ID": "ACH09",
@@ -5195,7 +5200,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH12",
@@ -5211,7 +5216,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACH14",
@@ -5235,7 +5240,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACH17",
@@ -5283,7 +5288,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "ACH23",
@@ -5331,15 +5336,15 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1387
     },
     {
       "ID": "ACH30",
@@ -5394,7 +5399,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10664,
+      "Progressed": 10667,
       "Completed": 19
     }
   ],
@@ -5402,8 +5407,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-18T08:00:00.2458121+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:07:20.7444414+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:48.7303455+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:01:28.9026057+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:07:20.7445369+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:01:37.3427157+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:48.7304857+00:00"
 }

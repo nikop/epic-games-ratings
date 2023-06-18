@@ -43,9 +43,9 @@ Number of Ratings: 180  (23.09.2022)
 | Heavily loaded | 21.00% | ~272 |
 | Bob Ross | 15.00% | ~194 |
 | Campaign expert | 11.00% | ~142 |
+| Truck Fever | 11.00% | ~142 |
 | No free seats | 10.00% | ~130 |
 | Penny pincher | 10.00% | ~130 |
-| Truck Fever | 10.00% | ~130 |
 | Back to the future | 9.00% | ~117 |
 | Transport belt | 9.00% | ~117 |
 | Antique | 5.00% | ~65 |

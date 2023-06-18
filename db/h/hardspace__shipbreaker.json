@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 780,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1083,6 +1083,11 @@
       "Time": "2023-06-17T21:03:45.5580885+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T11:04:21.8287195+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1094,7 +1099,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1174,7 +1179,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1188,9 +1193,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1238,7 +1243,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1254,7 +1259,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1262,7 +1267,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1270,7 +1275,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1302,14 +1307,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 780,
       "Completed": 0
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:03:44.3717761+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:04:21.8287189+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.6635362+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:57:53.1843949+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:03:44.3718164+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:58:02.559922+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:04:21.8287462+00:00"
 }

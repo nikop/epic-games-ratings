@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "EntresolChests1",
@@ -1789,9 +1789,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:06:36.1844358+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:03.6862404+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:00:21.0998359+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:06:36.1844935+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:00:29.6210312+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:03.6862922+00:00"
 }

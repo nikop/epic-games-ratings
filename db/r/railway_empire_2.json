@@ -2211,9 +2211,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 890
     },
     {
       "ID": "A11",
@@ -2435,9 +2435,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 665
     },
     {
       "ID": "A39",
@@ -2580,8 +2580,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:07:23.5625138+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:51.6095906+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:58:34.0335124+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:07:23.5626225+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:58:45.4344607+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:51.6096546+00:00"
 }

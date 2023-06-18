@@ -6,25 +6,25 @@ Rating: 4.18 (Ranked 848)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 16.00% | ~2,469 |
-| The Outer Way | 15.00% | ~2,314 |
-| Desperate Times | 14.00% | ~2,160 |
-| Paper Jams | 12.00% | ~1,851 |
-| Chew 'Em Up | 11.00% | ~1,697 |
-| Reforged | 11.00% | ~1,697 |
+| The Outer Way | 15.00% | ~2,315 |
+| Desperate Times | 14.00% | ~2,161 |
+| Paper Jams | 12.00% | ~1,852 |
+| Chew 'Em Up | 11.00% | ~1,698 |
+| Reforged | 11.00% | ~1,698 |
 | Workplace Hazard | 10.00% | ~1,543 |
 | If the SHU Fits... | 10.00% | ~1,543 |
 | Get a Grip | 9.00% | ~1,389 |
-| Giving Back | 8.00% | ~1,234 |
-| Without A Paddle | 8.00% | ~1,234 |
+| Giving Back | 8.00% | ~1,235 |
+| Without A Paddle | 8.00% | ~1,235 |
 | Two Heads Are Better Than One | 6.00% | ~926 |
 | Terminated | 6.00% | ~926 |
 | Float Like A Butterfly | 6.00% | ~926 |
 | In the Pipe, Five by Five | 6.00% | ~926 |
 | Crash Site | 6.00% | ~926 |
 | Power Up | 6.00% | ~926 |
-| You Need a Gun | 5.00% | ~771 |
-| What Lies Beneath | 5.00% | ~771 |
-| Full Circle | 5.00% | ~771 |
+| You Need a Gun | 5.00% | ~772 |
+| What Lies Beneath | 5.00% | ~772 |
+| Full Circle | 5.00% | ~772 |
 | The Commonality | 4.00% | ~617 |
 | Instigator | 4.00% | ~134 |
 | I Do Belong Here | 3.00% | ~463 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 848)
 | Grim Reaper | 1.00% | ~154 |
 | Parole Denied | 1.00% | ~34 |
 | Hoard Mode | 1.00% | ~34 |
-| Recidivist | 0.70% | ~23 |
-| Lifer | 0.70% | ~23 |
+| Recidivist | 0.70% | ~24 |
+| Lifer | 0.70% | ~24 |
 | Armed to the Teeth | 0.30% | ~10 |
 | The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 848)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,429 (Ranked 104)  
-Completed: 56 (0.36%) (Ranked 132)  
+Progressed: 15,433 (Ranked 104)  
+Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
-| 2023-06-18 | 15,429 | 56 |
+| 2023-06-18 | 15,433 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 387)  
 Sum: 319 (Ranked 328)  

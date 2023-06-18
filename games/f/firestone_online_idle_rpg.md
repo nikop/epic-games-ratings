@@ -5,29 +5,29 @@ Rating: 4.05 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,348 |
-| World Map | 80.00% | ~1,147 |
-| Temple of Eternals | 57.00% | ~817 |
-| Prestigious | 53.00% | ~760 |
-| Fellowship Power | 41.00% | ~588 |
-| Guild Power | 24.00% | ~344 |
-| Prestigious x10 | 21.00% | ~301 |
-| The game is on | 19.00% | ~272 |
+| Victor | 94.00% | ~1,351 |
+| World Map | 80.00% | ~1,150 |
+| Temple of Eternals | 57.00% | ~819 |
+| Prestigious | 53.00% | ~762 |
+| Fellowship Power | 41.00% | ~589 |
+| Guild Power | 24.00% | ~345 |
+| Prestigious x10 | 21.00% | ~302 |
+| The game is on | 19.00% | ~273 |
 | Exotic Merchant | 17.00% | ~244 |
-| Dragon Clicker | 16.00% | ~229 |
-| Miner Clicker | 16.00% | ~229 |
-| Inspection | 15.00% | ~215 |
+| Dragon Clicker | 16.00% | ~230 |
+| Miner Clicker | 16.00% | ~230 |
+| Inspection | 15.00% | ~216 |
 | Full Party | 14.00% | ~201 |
-| Dragon Master | 13.00% | ~186 |
-| Enlightenment | 13.00% | ~186 |
-| Hero inspection | 13.00% | ~186 |
-| Lieutenant | 13.00% | ~186 |
+| Dragon Master | 13.00% | ~187 |
+| Enlightenment | 13.00% | ~187 |
+| Hero inspection | 13.00% | ~187 |
+| Lieutenant | 13.00% | ~187 |
 | Natural Talent | 12.00% | ~172 |
 | The Unstoppable | 12.00% | ~172 |
 | Milestone collector | 11.00% | ~158 |
 | Mysterious Rock | 11.00% | ~158 |
 | Superior | 11.00% | ~158 |
-| Scientist | 10.00% | ~143 |
+| Scientist | 10.00% | ~144 |
 | Challenger | 8.00% | ~115 |
 | Daily Quest Completionist | 8.00% | ~115 |
 | Doing My Part | 8.00% | ~115 |
@@ -36,9 +36,9 @@ Rating: 4.05 (Ranked 897)
 | Relic Of The Past | 8.00% | ~115 |
 | Scroll Master | 8.00% | ~115 |
 | The power of Awakening | 8.00% | ~115 |
-| Four Leaf Clover | 7.00% | ~100 |
-| Frostfire Liberator | 7.00% | ~100 |
-| Moving Up The Ladder | 7.00% | ~100 |
+| Four Leaf Clover | 7.00% | ~101 |
+| Frostfire Liberator | 7.00% | ~101 |
+| Moving Up The Ladder | 7.00% | ~101 |
 | Here We Go Again | 6.00% | ~86 |
 | Trader | 6.00% | ~86 |
 | Ancient Knowledge | 5.00% | ~72 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 897)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,434 (Ranked 166)  
+Progressed: 1,437 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
 | 2023-06-17 | 1,427 | 1 |
-| 2023-06-18 | 1,434 | 1 |
+| 2023-06-18 | 1,437 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

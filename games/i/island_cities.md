@@ -14,7 +14,7 @@
 | Passion for sports | 32.00% | ~112 |
 | Who loves trains? | 29.00% | ~101 |
 | Easy and steady climb | 28.00% | ~98 |
-| At the heart of the city | 24.00% | ~84 |
+| At the heart of the city | 25.00% | ~87 |
 | Calm neighborhood | 23.00% | ~80 |
 | Elevated ring | 22.00% | ~77 |
 | Not lonely anymore | 21.00% | ~73 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 15.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 349 (Ranked 228)  
-Completed: 52 (14.90%) (Ranked 11)  
+Completed: 53 (15.19%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 52 (14.90%) (Ranked 11)
 | 2023-06-15 | 343 | 51 |
 | 2023-06-16 | 345 | 51 |
 | 2023-06-17 | 347 | 52 |
-| 2023-06-18 | 349 | 52 |
+| 2023-06-18 | 349 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

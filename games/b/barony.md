@@ -5,8 +5,8 @@ Rating: 4.70 (Ranked 195)
 Number of Ratings: 763  (23.09.2022)  
 ## Awards
 Max (Challenging Combat): 72  (Ranked 364)  
-Sum: 546 (Ranked 291)  
-Diff (max vs sum): 73  
+Sum: 494 (Ranked 295)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 72 |
@@ -111,3 +111,4 @@ Diff (max vs sum): 73
 | 2023-06-13 | 4.70 | - | 72 | 546 |
 | 2023-06-15 | 4.71 | - | 72 | 546 |
 | 2023-06-16 | 4.70 | - | 72 | 546 |
+| 2023-06-18 | 4.70 | - | 72 | 494 |

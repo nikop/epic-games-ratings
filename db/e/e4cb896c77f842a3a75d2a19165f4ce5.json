@@ -3,9 +3,9 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 137,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 129,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -301,6 +301,11 @@
       "Time": "2023-06-18T10:02:52.0974259+00:00",
       "NumProgressed": 137,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-18T11:03:28.7379854+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -358,9 +363,9 @@
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 95,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_023",
@@ -390,9 +395,9 @@
       "ID": "LEVEL_060",
       "SetID": "7jk5g4e",
       "Name": "A great viking explorer!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -400,13 +405,13 @@
       "ID": "7jk5g4e",
       "IsBase": true,
       "Progressed": 137,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:02:52.0974253+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:03:28.7379847+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.6953056+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:57:05.2515528+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:02:52.0974364+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:57:19.323404+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:03:28.738+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.22,
   "EosHistory": [
@@ -3244,6 +3244,11 @@
       "Time": "2023-06-17T22:05:30.6621525+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-06-18T11:07:15.0299933+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 5,
@@ -3255,7 +3260,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "2",
@@ -3287,14 +3292,14 @@
       "Name": "Jill the Champion",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 82
     }
   ],
@@ -3302,8 +3307,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:06:46.5971604+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:15.0299928+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.6170741+00:00",
-  "LastUpdate_Ratings": "2023-06-18T09:57:24.3159797+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:06:46.5971974+00:00"
+  "LastUpdate_Ratings": "2023-06-18T10:57:36.9430184+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:15.0300226+00:00"
 }

@@ -7,8 +7,8 @@ Rating: 4.28 (Ranked 783)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~928 |
 | A new Journey | 72.00% | ~903 |
+| From X to Y | 71.00% | ~890 |
 | Departure | 71.00% | ~890 |
-| From X to Y | 70.00% | ~878 |
 | Way of Iron | 69.00% | ~865 |
 | Mystery Tour | 67.00% | ~840 |
 | We brake for nobody | 66.00% | ~828 |
@@ -17,8 +17,8 @@ Rating: 4.28 (Ranked 783)
 | Mind the Gap | 63.00% | ~790 |
 | All around the World | 61.00% | ~765 |
 | Right through the middle | 56.00% | ~702 |
+| Poor Devil | 53.00% | ~665 |
 | Facility Manager | 52.00% | ~652 |
-| Poor Devil | 52.00% | ~652 |
 | Producer | 49.00% | ~614 |
 | Apprentice | 42.00% | ~527 |
 | Bridge Builder | 40.00% | ~502 |

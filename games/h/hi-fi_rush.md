@@ -9,7 +9,7 @@ Rating: 4.89 (Ranked 13)
 | Feeling the beat! | 80.00% | ~2,614 |
 | You can pet the cat! | 74.00% | ~2,418 |
 | Who put gears in there? | 67.00% | ~2,190 |
-| Cream of the Crop | 61.00% | ~1,993 |
+| Cream of the Crop | 62.00% | ~2,026 |
 | Thanks for the free chip, Peppermint! | 61.00% | ~1,993 |
 | You got this, Peppermint? | 56.00% | ~1,830 |
 | Perfect Parry | 53.00% | ~1,732 |

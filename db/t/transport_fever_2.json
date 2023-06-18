@@ -2405,9 +2405,9 @@
       "ID": "achTruckFever",
       "SetID": "dgl390n",
       "Name": "Truck Fever",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 142
     },
     {
       "ID": "achTunnelLength",
@@ -2429,8 +2429,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-18T10:07:27.7361881+00:00",
+  "LastChanged_Achievements": "2023-06-18T11:07:55.9633643+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.7574037+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:00:40.9983939+00:00",
-  "LastUpdate_Achievements": "2023-06-18T10:07:27.7362679+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:00:49.9712615+00:00",
+  "LastUpdate_Achievements": "2023-06-18T11:07:55.963427+00:00"
 }
