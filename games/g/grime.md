@@ -17,9 +17,9 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 13.00% | ~23 |
 | Harmless | 13.00% | ~77 |
 | Yank | 13.00% | ~77 |
-| Sharpened Vessel | 12.00% | ~71 |
-| Jawcrab | 11.00% | ~65 |
-| Feast | 11.00% | ~65 |
+| Sharpened Vessel | 12.00% | ~72 |
+| Jawcrab | 11.00% | ~66 |
+| Feast | 11.00% | ~66 |
 | Host | 10.00% | ~18 |
 | Jawstag | 10.00% | ~60 |
 | Shapely | 9.00% | ~54 |
@@ -49,8 +49,8 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595 (Ranked 202)  
-Completed: 0 (0.00%) (Ranked 228)  
+Progressed: 596 (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-14 | 593 | 0 |
 | 2023-06-15 | 594 | 0 |
 | 2023-06-17 | 595 | 0 |
+| 2023-06-18 | 596 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

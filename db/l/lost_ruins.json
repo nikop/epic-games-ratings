@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -531,6 +531,11 @@
       "Time": "2023-06-17T23:06:23.919093+00:00",
       "NumProgressed": 386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T12:05:52.2656064+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -582,7 +587,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Cryomancer",
@@ -620,9 +625,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "Hardboiled",
@@ -861,7 +866,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 0
     }
   ],
@@ -869,8 +874,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:07:48.4347173+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:05:52.2656061+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:08.5778474+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:00:41.287327+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:07:48.4347506+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:59:09.2429099+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:05:52.2656533+00:00"
 }

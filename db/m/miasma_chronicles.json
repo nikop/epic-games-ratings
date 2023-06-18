@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -119,10 +119,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1160,
-  "EOS_Completed": 1,
+  "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-23T13:12:05.726323+00:00",
@@ -1888,6 +1888,11 @@
       "Time": "2023-06-18T10:02:33.0928616+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T12:02:14.337254+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1913,9 +1918,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 858
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2057,9 +2062,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 487
     },
     {
       "ID": "EXPERIENCED",
@@ -2105,9 +2110,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 499
     },
     {
       "ID": "GIANT_KILLER",
@@ -2307,15 +2312,15 @@
       "ID": "9a4jnji",
       "IsBase": true,
       "Progressed": 1160,
-      "Completed": 1
+      "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:03:10.1400699+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:02:14.3372531+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:59:03.4572014+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:03:10.1401543+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:58:04.2170615+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:02:14.3375906+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "the-long-dark",
   "Ranking_Rating": 145,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 129,
+  "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -3515,6 +3515,6 @@
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
   "LastChanged": "2023-06-18T10:01:38.1755177+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:52.4520772+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:01:45.4561761+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:06:48.1571565+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:59:56.2243954+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:05:08.1491849+00:00"
 }

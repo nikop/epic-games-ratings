@@ -6,9 +6,9 @@
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26297,
+  "EOS_Progressed": 26306,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6391,6 +6391,11 @@
       "Time": "2023-06-18T11:07:32.0399162+00:00",
       "NumProgressed": 26297,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-18T12:05:39.6746138+00:00",
+      "NumProgressed": 26306,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6402,7 +6407,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6410,7 +6415,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5259
+      "UsersEstimate": 5261
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6498,7 +6503,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -6633,7 +6638,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26297,
+      "Progressed": 26306,
       "Completed": 20
     }
   ],
@@ -6641,8 +6646,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:07:32.0399155+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:05:39.6746135+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:01:16.3139158+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:07:32.039986+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:59:34.1862897+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:05:39.6746733+00:00"
 }

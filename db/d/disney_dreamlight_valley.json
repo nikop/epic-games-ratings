@@ -2238,11 +2238,11 @@
       "Count": 476
     }
   ],
-  "EOS_Progressed": 3933,
+  "EOS_Progressed": 3943,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 3771,
+  "EOS_NewPlayers": 3781,
   "EOS_NewCompleters": 94,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -2798,6 +2798,11 @@
       "Time": "2023-06-18T11:05:48.7660211+00:00",
       "NumProgressed": 3933,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-18T12:04:27.4721373+00:00",
+      "NumProgressed": 3943,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 15,
@@ -2809,7 +2814,7 @@
       "Name": "Angler",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Banker",
@@ -2817,15 +2822,15 @@
       "Name": "Banker",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1893
     },
     {
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chef_Cook",
@@ -2833,7 +2838,7 @@
       "Name": "Chef Cook",
       "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 865
+      "UsersEstimate": 867
     },
     {
       "ID": "Chit_Chatter",
@@ -2849,7 +2854,7 @@
       "Name": "Constructor",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2405
     },
     {
       "ID": "Duty_Bound",
@@ -2857,7 +2862,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Gardener",
@@ -2865,7 +2870,7 @@
       "Name": "Gardener",
       "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1459
     },
     {
       "ID": "Generous",
@@ -2873,7 +2878,7 @@
       "Name": "Generous",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1104
     },
     {
       "ID": "Goofys_Investor",
@@ -2881,7 +2886,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2997
     },
     {
       "ID": "Miner",
@@ -2889,7 +2894,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Photographer",
@@ -2897,7 +2902,7 @@
       "Name": "Photographer",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2918
     },
     {
       "ID": "Renovator",
@@ -2905,7 +2910,7 @@
       "Name": "Renovator",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2326
     },
     {
       "ID": "Thorn_Cleaner",
@@ -2913,7 +2918,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Valleys_Helper",
@@ -2921,14 +2926,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2760
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 3933,
+      "Progressed": 3943,
       "Completed": 99
     }
   ],
@@ -2936,8 +2941,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-06-18T09:58:33.1368626+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:05:48.7660205+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:04:27.4721367+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.1945397+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:58:44.5512174+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:05:48.7660554+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:57:52.0545232+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:04:27.4721972+00:00"
 }

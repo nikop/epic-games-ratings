@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1511,7 +1511,7 @@
   ],
   "EOS_Progressed": 12138,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7740,9 +7740,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -8082,8 +8082,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-16T17:57:54.9647164+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:07:59.5248309+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:06:01.1643069+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.7512679+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:58:33.8406566+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:07:59.5255751+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:57:45.1087548+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:06:01.1652497+00:00"
 }

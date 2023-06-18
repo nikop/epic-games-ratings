@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -142,7 +142,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1691,
+  "EOS_Progressed": 1692,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -1907,6 +1907,11 @@
       "Time": "2023-06-17T13:06:14.331173+00:00",
       "NumProgressed": 1691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T12:03:16.4545084+00:00",
+      "NumProgressed": 1692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2054,7 +2059,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "Achievement_020",
@@ -2118,7 +2123,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Achievement_028",
@@ -2150,7 +2155,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Achievement_032",
@@ -2174,7 +2179,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Achievement_035",
@@ -2222,7 +2227,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Achievement_041",
@@ -2254,7 +2259,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Achievement_046",
@@ -2445,7 +2450,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1691,
+      "Progressed": 1692,
       "Completed": 0
     }
   ],
@@ -2453,8 +2458,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-13T21:58:08.5680137+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:03:55.7725101+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:03:16.4545079+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:58:27.1932079+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:03:55.7725941+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:57:41.2485777+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:03:16.4545908+00:00"
 }

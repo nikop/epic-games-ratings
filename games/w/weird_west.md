@@ -27,11 +27,11 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~265 |
 | For Balance | 15.00% | ~249 |
 | Dog Days | 13.00% | ~216 |
+| Workers' Rights | 13.00% | ~216 |
 | Elusive Prey | 12.00% | ~199 |
 | Out on the Ebb Tide | 12.00% | ~199 |
 | Power Behind the Pulpit | 12.00% | ~199 |
 | Turning the Tables | 12.00% | ~199 |
-| Workers' Rights | 12.00% | ~199 |
 | Something Wicked This Way Comes… | 11.00% | ~182 |
 | There is Hope | 11.00% | ~182 |
 | Loyalty to the Pack | 9.00% | ~149 |

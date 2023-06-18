@@ -24,9 +24,9 @@ Rating: 4.62 (Ranked 345)
 | At Wits' End | 40.00% | ~193 |
 | Up In Flames | 38.00% | ~183 |
 | Fhtagn! | 38.00% | ~183 |
+| Going Once... | 37.00% | ~178 |
 | Bookworm | 37.00% | ~178 |
-| Going Once... | 36.00% | ~174 |
-| Let Me Be Frank | 34.00% | ~164 |
+| Let Me Be Frank | 35.00% | ~169 |
 | Brain Food | 32.00% | ~154 |
 | No Stone Unturned | 32.00% | ~154 |
 | Curiosity Killed The Cat | 20.00% | ~96 |

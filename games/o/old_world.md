@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 294)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 17.00% | ~2,063 |
 | Learn to Play 3 | 17.00% | ~2,063 |
 | Assyrian Paganism | 17.00% | ~2,063 |
+| Military Prestige | 17.00% | ~2,063 |
 | Redemption | 17.00% | ~2,063 |
 | Kushite Cavalry | 17.00% | ~2,063 |
 | Phalangite | 17.00% | ~2,063 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 16.00% | ~1,942 |
 | Lion | 16.00% | ~1,942 |
 | Strong Difficulty | 16.00% | ~1,942 |
-| Military Prestige | 16.00% | ~1,942 |
 | Gnosticism | 16.00% | ~1,942 |
 | Veneration | 16.00% | ~1,942 |
 | Bad Heir Day | 15.00% | ~1,821 |
@@ -293,7 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,138 (Ranked 110)  
-Completed: 3 (0.02%) (Ranked 207)  
+Completed: 3 (0.02%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

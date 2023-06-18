@@ -424,9 +424,9 @@
       "Count": 170
     }
   ],
-  "EOS_Progressed": 10667,
+  "EOS_Progressed": 10670,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5109,6 +5109,11 @@
       "Time": "2023-06-18T11:07:48.7303461+00:00",
       "NumProgressed": 10667,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-18T12:05:52.2631707+00:00",
+      "NumProgressed": 10670,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5120,7 +5125,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8534
+      "UsersEstimate": 8536
     },
     {
       "ID": "ACH02",
@@ -5168,7 +5173,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH08",
@@ -5176,7 +5181,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "ACH09",
@@ -5256,7 +5261,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH19",
@@ -5296,7 +5301,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "ACH24",
@@ -5342,9 +5347,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACH30",
@@ -5399,7 +5404,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10667,
+      "Progressed": 10670,
       "Completed": 19
     }
   ],
@@ -5407,8 +5412,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-18T08:00:00.2458121+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:07:48.7303455+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:05:52.2631702+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:01:37.3427157+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:07:48.7304857+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:59:50.6339153+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:05:52.2632266+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -5572,11 +5572,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 10053,
       "NumberOfAwardsMax": 1131
+    },
+    {
+      "Time": "2023-06-18T11:58:30.3649067+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10056,
+      "NumberOfAwardsMax": 1134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10053,
-  "NumberOfAwardsMax": 1131,
+  "NumberOfAwards": 10056,
+  "NumberOfAwardsMax": 1134,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -5601,7 +5607,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1131
+      "Count": 1134
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5651,8 +5657,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-18T02:22:25.9586627+00:00",
+  "LastChanged": "2023-06-18T11:58:30.3649066+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.6479838+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:59:46.8507839+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:03:30.9807415+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:58:30.3649073+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:02:28.8471013+00:00"
 }

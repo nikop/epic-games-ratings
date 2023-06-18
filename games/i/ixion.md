@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 19.00% | ~508 |
+| Wakey Wakey | 19.00% | ~509 |
 | Sputnik 2049 | 16.00% | ~428 |
-| Without Breaking Some Eggs... | 15.00% | ~401 |
-| Infinite Growth... | 15.00% | ~401 |
+| Without Breaking Some Eggs... | 15.00% | ~402 |
+| Infinite Growth... | 15.00% | ~402 |
 | Space Society | 10.00% | ~268 |
 | A Thousand Strong | 10.00% | ~268 |
 | Ready for a New World | 10.00% | ~268 |
@@ -28,6 +28,7 @@ Rating: 4.56 (Ranked 452)
 | Sightseeing | 3.00% | ~80 |
 | Access Granted | 3.00% | ~80 |
 | Necessary Enhancement | 3.00% | ~80 |
+| All in Good Health | 3.00% | ~80 |
 | From the Past | 3.00% | ~80 |
 | Oats | 2.00% | ~54 |
 | What They Hide From Us | 2.00% | ~54 |
@@ -35,7 +36,6 @@ Rating: 4.56 (Ranked 452)
 | Sustainable Energy | 2.00% | ~54 |
 | In Dolos We Trust | 2.00% | ~54 |
 | BRAWL! | 2.00% | ~54 |
-| All in Good Health | 2.00% | ~54 |
 | Pedal to the Metal | 2.00% | ~54 |
 | What the Ruins Teach Us | 2.00% | ~54 |
 | Mutual Loyalty | 1.00% | ~27 |
@@ -63,8 +63,8 @@ Rating: 4.56 (Ranked 452)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,676 (Ranked 150)  
-Completed: 0 (0.00%) (Ranked 228)  
+Progressed: 2,677 (Ranked 150)  
+Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-15 | 2,660 | 0 |
 | 2023-06-16 | 2,666 | 0 |
 | 2023-06-17 | 2,676 | 0 |
+| 2023-06-18 | 2,677 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

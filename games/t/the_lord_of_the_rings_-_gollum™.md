@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~275 |
-| Welcome to Mordor! | 51.00% | ~226 |
+| The Wraith | 62.00% | ~276 |
+| Welcome to Mordor! | 51.00% | ~227 |
 | Collectibles Part 1 | 50.00% | ~222 |
-| Wait! Wait! Not yet! | 37.00% | ~164 |
+| Wait! Wait! Not yet! | 37.00% | ~165 |
 | Like Flying... | 33.00% | ~147 |
 | Memories | 29.00% | ~129 |
 | The Maggot | 27.00% | ~120 |
 | The Breeder | 22.00% | ~98 |
 | The Veteran | 18.00% | ~80 |
 | The Traitor | 15.00% | ~67 |
-| The Spider | 14.00% | ~62 |
+| The Spider | 13.00% | ~58 |
 | Good as Fish | 10.00% | ~44 |
 | Her Eyes | 9.00% | ~40 |
 | He's so Annoying | 8.00% | ~36 |
@@ -22,9 +22,9 @@
 | Trigger-Happy | 8.00% | ~36 |
 | Gollum/Sméagol | 7.00% | ~31 |
 | The Friend | 6.00% | ~27 |
-| Master of the Old Game | 5.00% | ~22 |
-| Made a Song | 5.00% | ~22 |
+| Master of the Old Game | 4.00% | ~18 |
 | So Silly! | 4.00% | ~18 |
+| Made a Song | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |
 | Break a Leg! | 2.00% | ~9 |
 | And now we wish... | 2.00% | ~9 |
@@ -32,17 +32,17 @@
 | Ss ss ss... | 2.00% | ~9 |
 | Collectibles Part 2 | 1.00% | ~4 |
 | Nervous Hands | 1.00% | ~4 |
-| Elf-Friend | 0.50% | ~2 |
-| We wants it! We needs it | 0.50% | ~2 |
-| Scout | 0.50% | ~2 |
-| Good Sméagol! | 0.50% | ~2 |
+| Elf-Friend | 0.40% | ~2 |
+| We wants it! We needs it | 0.40% | ~2 |
+| Scout | 0.40% | ~2 |
+| Good Sméagol! | 0.40% | ~2 |
 | Rule them all! | 0.20% | ~1 |
 | We Hates Them! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 212)  
-Completed: 1 (0.23%) (Ranked 150)  
+Progressed: 445 (Ranked 212)  
+Completed: 1 (0.22%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,3 +72,4 @@ Completed: 1 (0.23%) (Ranked 150)
 | 2023-06-14 | 437 | 1 |
 | 2023-06-15 | 440 | 1 |
 | 2023-06-16 | 444 | 1 |
+| 2023-06-18 | 445 | 1 |

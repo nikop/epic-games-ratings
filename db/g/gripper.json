@@ -3,9 +3,9 @@
   "Name": "Gripper",
   "ProductSlug": "gripper-a6534b",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -456,8 +456,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-06-18T11:07:28.731739+00:00",
+  "LastChanged_Achievements": "2023-06-18T12:05:37.3333421+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:50.1707215+00:00",
-  "LastUpdate_Ratings": "2023-06-18T10:58:51.5549404+00:00",
-  "LastUpdate_Achievements": "2023-06-18T11:07:28.7317643+00:00"
+  "LastUpdate_Ratings": "2023-06-18T11:57:56.1649257+00:00",
+  "LastUpdate_Achievements": "2023-06-18T12:05:37.3333692+00:00"
 }

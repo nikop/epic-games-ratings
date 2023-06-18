@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,204 |
-| Ready for Winter | 64.00% | ~1,881 |
-| Ready for Summer | 51.00% | ~1,499 |
-| Cordon Bleu | 43.00% | ~1,264 |
-| Tapped! | 36.00% | ~1,058 |
-| Eureka | 32.00% | ~940 |
-| Scourge Slayer | 25.00% | ~735 |
-| Science, Troglodyte! | 23.00% | ~676 |
+| Venture Outward | 75.00% | ~2,206 |
+| Ready for Winter | 64.00% | ~1,883 |
+| Ready for Summer | 51.00% | ~1,500 |
+| Cordon Bleu | 43.00% | ~1,265 |
+| Tapped! | 36.00% | ~1,059 |
+| Eureka | 31.00% | ~912 |
+| Scourge Slayer | 25.00% | ~736 |
+| Science, Troglodyte! | 23.00% | ~677 |
 | Exceptional Skill | 22.00% | ~647 |
 | Home Sweet Home | 22.00% | ~647 |
-| Encyclopedic! | 19.00% | ~558 |
-| A Fortress Toppled! | 16.00% | ~470 |
-| Apex Predator | 16.00% | ~470 |
-| The Power of Family | 16.00% | ~470 |
+| Encyclopedic! | 19.00% | ~559 |
+| A Fortress Toppled! | 16.00% | ~471 |
+| Apex Predator | 16.00% | ~471 |
+| The Power of Family | 16.00% | ~471 |
 | Strange amalgams | 12.00% | ~353 |
 | The Power of Faith | 12.00% | ~353 |
 | The Power of Freedom | 9.00% | ~265 |
@@ -29,8 +29,8 @@ Number of Ratings: 266  (23.09.2022)
 | Magic is a science | 8.00% | ~235 |
 | Let ‘em eat magma! | 7.00% | ~206 |
 | The power of ambition | 7.00% | ~206 |
-| Hold my Mead and Watch This | 6.00% | ~176 |
-| The stuff of legends. | 6.00% | ~176 |
+| Hold my Mead and Watch This | 6.00% | ~177 |
+| The stuff of legends. | 6.00% | ~177 |
 | Blood and justice | 5.00% | ~147 |
 | Ancestor's Pride | 4.00% | ~118 |
 | For All Aurai | 4.00% | ~118 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,939 (Ranked 146)  
-Completed: 1 (0.03%) (Ranked 201)  
+Progressed: 2,942 (Ranked 146)  
+Completed: 1 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-15 | 2,924 | 1 |
 | 2023-06-16 | 2,929 | 1 |
 | 2023-06-17 | 2,938 | 1 |
-| 2023-06-18 | 2,939 | 1 |
+| 2023-06-18 | 2,942 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 449)  
 Sum: 239 (Ranked 347)  

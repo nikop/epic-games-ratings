@@ -24,7 +24,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | ... It's What You Can Prove | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137,155 (Ranked 57)  
-Completed: 5 (0.00%) (Ranked 228)  
+Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

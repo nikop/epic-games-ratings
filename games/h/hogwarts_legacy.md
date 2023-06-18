@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,247 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,248 |
 | First Class Student | 8.00% | ~22,442 |
 | Troll with the Punches | 8.00% | ~22,442 |
 | Grappling with a Graphorn | 7.00% | ~19,637 |
@@ -19,10 +19,10 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,637 |
 | Coasting Along | 7.00% | ~19,637 |
 | That's a Keeper | 7.00% | ~19,637 |
-| A Sallow Grave | 6.00% | ~16,831 |
-| Followed the Butterflies | 6.00% | ~16,831 |
-| The Spell Master | 6.00% | ~16,831 |
-| Rising From the Ashes | 6.00% | ~16,831 |
+| A Sallow Grave | 6.00% | ~16,832 |
+| Followed the Butterflies | 6.00% | ~16,832 |
+| The Spell Master | 6.00% | ~16,832 |
+| Rising From the Ashes | 6.00% | ~16,832 |
 | The Avenging Gazelle | 5.00% | ~14,026 |
 | Beast Friends | 5.00% | ~14,026 |
 | Flight the Good Flight | 5.00% | ~14,026 |
@@ -36,10 +36,10 @@ Rating: 4.77 (Ranked 107)
 | The Intrepid Explorer | 3.00% | ~8,416 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,416 |
 | The Ends Petrify the Means | 3.00% | ~8,416 |
-| Put Down Roots | 2.00% | ~5,610 |
-| The Auror's Apprentice | 2.00% | ~5,610 |
-| Floo Around the World | 2.00% | ~5,610 |
-| The Wise Owl | 2.00% | ~5,610 |
+| Put Down Roots | 2.00% | ~5,611 |
+| The Auror's Apprentice | 2.00% | ~5,611 |
+| Floo Around the World | 2.00% | ~5,611 |
+| The Wise Owl | 2.00% | ~5,611 |
 | The Good Samaritan | 1.00% | ~2,805 |
 | Rise to the Challenges | 1.00% | ~2,805 |
 | Demiguise Dread | 1.00% | ~2,805 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,403 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,522 (Ranked 41)  
+Progressed: 280,530 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
 | 2023-06-17 | 280,449 | 408 |
-| 2023-06-18 | 280,522 | 408 |
+| 2023-06-18 | 280,530 | 408 |
 ## Awards
 Max (Character Customization): 20,122  (Ranked 18)  
-Sum: 37,299 (Ranked 32)  
+Sum: 37,301 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -127,7 +127,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 796 |
 | This game is Highly Recommended | 779 |
 | This game has Quickly Understood Controls | 728 |
-| This game has Beautiful Visuals | 675 |
+| This game has Beautiful Visuals | 677 |
 | This game has a Creative Community | 513 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -218,4 +218,4 @@ Diff (max vs sum): -14
 | 2023-06-15 | 4.77 | 19,994 | 37,095 |
 | 2023-06-16 | 4.77 | 20,032 | 37,165 |
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
-| 2023-06-18 | 4.77 | 20,122 | 37,299 |
+| 2023-06-18 | 4.77 | 20,122 | 37,301 |
