@@ -401,8 +401,8 @@
 | 399 | [ATOM RPG](games/a/atom_rpg.md) | 49 | 4.46 | 603 |
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 49 | 4.66 | 274 |
 | 401 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 256 |
-| 402 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 52 |
-| 402 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 716 |
+| 401 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 48 | 4.37 | 716 |
+| 403 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 52 |
 | 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 453 |
 | 404 | [Expeditions: Rome](games/e/expeditions__rome.md) | 46 | 4.65 | 295 |
 | 406 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 411 |
@@ -441,7 +441,7 @@
 | 437 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 841 |
 | 437 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 492 |
 | 437 | [Voidtrain](games/v/voidtrain.md) | 33 | 4.50 | 547 |
-| 442 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.14 | 871 |
+| 442 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.14 | 872 |
 | 442 | [Chorus](games/c/chorus.md) | 32 | 4.44 | 633 |
 | 442 | [Isonzo](games/i/isonzo.md) | 32 | 4.56 | 453 |
 | 442 | [MythForce](games/m/mythforce.md) | 32 | 4.50 | 547 |

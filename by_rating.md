@@ -52,7 +52,7 @@
 | 40 | [TUNIC](games/t/tunic.md) | 4.85 | 34 | 434 |
 | 40 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.85 | 0 | 497 |
 | 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 391 |
-| 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 402 |
+| 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 403 |
 | 52 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 497 |
 | 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 408 | 203 |
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 256 | 243 |
@@ -717,7 +717,7 @@
 | 707 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 442 |
 | 716 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,138 | 104 |
 | 716 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
-| 716 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 402 |
+| 716 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 401 |
 | 716 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 96 | 333 |
 | 716 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 419 |
 | 721 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
@@ -864,17 +864,17 @@
 | 860 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 497 |
 | 860 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 497 |
 | 860 | [Space Punks](games/s/space_punks.md) | 4.16 | 173 | 279 |
+| 865 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 497 |
 | 865 | [Forspoken](games/f/forspoken.md) | 4.15 | 0 | 497 |
 | 865 | [Pine](games/p/pine.md) | 4.15 | 0 | 497 |
 | 865 | [Relicta](games/r/relicta.md) | 4.15 | 197 | 266 |
 | 865 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 497 |
 | 865 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 72 | 364 |
 | 865 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 497 |
-| 871 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 32 | 442 |
-| 871 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 0 | 497 |
-| 871 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 497 |
-| 871 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 497 |
-| 871 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 497 |
+| 872 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 32 | 442 |
+| 872 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 497 |
+| 872 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 497 |
+| 872 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 497 |
 | 876 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 497 |
 | 876 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 497 |
 | 876 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 497 |

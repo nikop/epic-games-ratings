@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.94% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.90% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
@@ -37,7 +37,7 @@
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.16% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.14% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
@@ -64,8 +64,8 @@
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.44% |
-| 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
+| 65 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.36% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 68 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 69 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
