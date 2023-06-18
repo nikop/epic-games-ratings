@@ -1,34 +1,34 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 896)  
+Rating: 4.06 (Ranked 897)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,858 |
-| The Cursed Farmer | 3.00% | ~2,929 |
-| Beast Intentions | 2.00% | ~1,953 |
-| The Mad Wizard | 2.00% | ~1,953 |
-| Were-verpowered | 1.00% | ~976 |
-| The Ring of Regeneration | 1.00% | ~976 |
-| Seeking Allies | 1.00% | ~976 |
-| Are Ya Chicken? | 1.00% | ~976 |
+| A Brief Tour of the Realms | 6.00% | ~5,861 |
+| The Cursed Farmer | 3.00% | ~2,931 |
+| Beast Intentions | 2.00% | ~1,954 |
+| The Mad Wizard | 2.00% | ~1,954 |
+| Were-verpowered | 1.00% | ~977 |
+| The Ring of Regeneration | 1.00% | ~977 |
+| Seeking Allies | 1.00% | ~977 |
+| Are Ya Chicken? | 1.00% | ~977 |
 | Mad Cow Disease | 0.90% | ~879 |
 | Friendly Imps | 0.90% | ~879 |
-| The Court of Storms | 0.90% | ~575 |
+| The Court of Storms | 0.90% | ~576 |
 | A Persistent Buzzing | 0.80% | ~781 |
 | Pure Energy | 0.80% | ~781 |
-| Terror in the Dark | 0.70% | ~683 |
-| The Crumbling Temple | 0.70% | ~683 |
-| Beware the Jabberwock | 0.70% | ~447 |
+| Terror in the Dark | 0.70% | ~684 |
+| The Crumbling Temple | 0.70% | ~684 |
+| Beware the Jabberwock | 0.70% | ~448 |
 | Beast Mode | 0.60% | ~586 |
 | A Mysterious Summons | 0.60% | ~586 |
 | Unearthed Evil | 0.60% | ~586 |
 | Useless Allies | 0.60% | ~586 |
 | Exploring Port Nyanzaru | 0.60% | ~586 |
 | The Contagious Curse | 0.60% | ~586 |
-| Coasting to the Finish | 0.60% | ~383 |
+| Coasting to the Finish | 0.60% | ~384 |
 | Maddening | 0.50% | ~488 |
 | Checkmate | 0.50% | ~320 |
 | Vecna Out! | 0.50% | ~320 |
@@ -105,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~293 |
 | Lair of the Xanathar | 0.30% | ~293 |
 | Waterdeep Under Siege | 0.30% | ~293 |
+| Crowded Streets | 0.30% | ~293 |
 | The Darkness Runs Deeper | 0.30% | ~293 |
 | Dinosaur Racing | 0.30% | ~293 |
 | Elturel Has Fallen | 0.30% | ~293 |
@@ -289,7 +290,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Feigned Weakness | 0.20% | ~195 |
 | Bregan D'aerthe Comes to Call | 0.20% | ~195 |
 | Sober Up | 0.20% | ~195 |
-| Crowded Streets | 0.20% | ~195 |
 | The Sunless Citadel | 0.20% | ~195 |
 | Meepo's Quest | 0.20% | ~195 |
 | Patience is Key | 0.20% | ~195 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,631 (Ranked 63)  
-Completed: 1,948 (2.00%) (Ranked 73)  
+Progressed: 97,685 (Ranked 63)  
+Completed: 1,948 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -559,7 +559,7 @@ Completed: 1,948 (2.00%) (Ranked 73)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 97,631 | 1,948 |
+| 2023-06-18 | 97,685 | 1,948 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,140 (Ranked 37)  

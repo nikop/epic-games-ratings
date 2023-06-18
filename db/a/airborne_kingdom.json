@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6646,
+  "EOS_Progressed": 6647,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2013,6 +2013,11 @@
       "Time": "2023-06-18T22:06:58.325052+00:00",
       "NumProgressed": 6646,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-18T23:07:00.9482698+00:00",
+      "NumProgressed": 6647,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2056,7 +2061,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2128,7 +2133,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -2160,7 +2165,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2224,7 +2229,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2239,15 +2244,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6646,
+      "Progressed": 6647,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:06:58.3250516+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:00.9482693+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:57:59.6287755+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:06:58.3250835+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:57:43.4421837+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:00.9483021+00:00"
 }

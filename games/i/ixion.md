@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 451)  
+Rating: 4.56 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 19.00% | ~510 |
-| Sputnik 2049 | 16.00% | ~429 |
-| Without Breaking Some Eggs... | 15.00% | ~402 |
-| Infinite Growth... | 15.00% | ~402 |
+| Sputnik 2049 | 16.00% | ~430 |
+| Without Breaking Some Eggs... | 15.00% | ~403 |
+| Infinite Growth... | 15.00% | ~403 |
 | Space Society | 10.00% | ~268 |
 | A Thousand Strong | 10.00% | ~268 |
 | Ready for a New World | 10.00% | ~268 |
@@ -25,11 +25,11 @@ Rating: 4.56 (Ranked 451)
 | Power Outage | 4.00% | ~107 |
 | Convenient Transport | 4.00% | ~107 |
 | Please Make it Stop! | 4.00% | ~107 |
-| Sightseeing | 3.00% | ~80 |
-| Access Granted | 3.00% | ~80 |
-| Necessary Enhancement | 3.00% | ~80 |
-| All in Good Health | 3.00% | ~80 |
-| From the Past | 3.00% | ~80 |
+| Sightseeing | 3.00% | ~81 |
+| Access Granted | 3.00% | ~81 |
+| Necessary Enhancement | 3.00% | ~81 |
+| All in Good Health | 3.00% | ~81 |
+| From the Past | 3.00% | ~81 |
 | Oats | 2.00% | ~54 |
 | What They Hide From Us | 2.00% | ~54 |
 | ...  in a finite world | 2.00% | ~54 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,683 (Ranked 150)  
+Progressed: 2,685 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 2,660 | 0 |
 | 2023-06-16 | 2,666 | 0 |
 | 2023-06-17 | 2,676 | 0 |
-| 2023-06-18 | 2,683 | 0 |
+| 2023-06-18 | 2,685 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

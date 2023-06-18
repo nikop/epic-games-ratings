@@ -3,12 +3,12 @@
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter",
   "Ranking_Rating": 195,
-  "Ranking_Popularity": 394,
+  "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2016-03-31T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -491,6 +491,6 @@
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
   "LastChanged": "2023-01-15T19:57:24.5768404+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:36.6607341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:59:54.6514594+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:03:31.5407354+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:59:44.7543354+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:03:33.7455786+00:00"
 }

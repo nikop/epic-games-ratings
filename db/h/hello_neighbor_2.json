@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -1395,9 +1395,9 @@
       "ID": "ACH_ANCIENT_CURSE",
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 668
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1516,8 +1516,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:03:21.0814309+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:03:23.4347692+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:50.0345943+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:01:38.3529163+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:03:21.0814479+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:01:29.4297939+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:03:23.4347886+00:00"
 }

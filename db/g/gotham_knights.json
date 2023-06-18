@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
-  "Ranking_EOS_Progress": 70,
+  "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65576,
+  "EOS_Progressed": 65582,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6868,6 +6868,11 @@
       "Time": "2023-06-18T22:07:22.5360756+00:00",
       "NumProgressed": 65576,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T23:07:24.884222+00:00",
+      "NumProgressed": 65582,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7366,13 +7371,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65576,
+      "Progressed": 65582,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35856,
+      "Progressed": 35862,
       "Completed": 2646
     }
   ],
@@ -7380,8 +7385,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-18T19:59:48.2213989+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:07:22.5360751+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:24.8842215+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:00:54.5775393+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:07:22.5361695+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:00:48.3352056+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:24.8843198+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-06-18T21:03:46.7239803+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T23:03:42.4682697+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -395,7 +400,7 @@
       "Name": "Exterminator",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_defeat_players_10",
@@ -489,7 +494,7 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -497,15 +502,15 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -515,7 +520,7 @@
       "Name": "Lieutenant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -553,9 +558,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -563,13 +568,13 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -577,9 +582,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -595,7 +600,7 @@
       "Name": "Stocking Up",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -609,7 +614,7 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -625,17 +630,17 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -643,7 +648,7 @@
       "Name": "Defenses Online",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -690,14 +695,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:03:40.2384218+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:03:42.4682692+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:01:45.9988845+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:03:40.2384544+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:01:37.7899427+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:03:42.4683209+00:00"
 }

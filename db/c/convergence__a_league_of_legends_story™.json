@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 56,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-06-18T21:05:48.8096552+00:00",
       "NumProgressed": 707,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-18T23:06:37.3643365+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1516,9 +1521,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1542,7 +1547,7 @@
       "Name": "Whiz Kid",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "GrindingTime1",
@@ -1676,9 +1681,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "RewindParry",
@@ -1813,14 +1818,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:06:34.5387282+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:06:37.364336+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:00:27.06799+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:06:34.5387969+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:00:17.5492876+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:06:37.3644852+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1264,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -870,6 +870,11 @@
       "Time": "2023-06-18T18:06:43.9107583+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-18T23:07:08.3346989+00:00",
+      "NumProgressed": 1264,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -935,9 +940,9 @@
       "ID": "achievement_beatGameOnWalkingLunch",
       "SetID": "95dc8p",
       "Name": "A Lowly Crust of Beef",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
@@ -953,7 +958,7 @@
       "Name": "Passing Shadow",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1073,7 +1078,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1328,15 +1333,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1264,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:07:05.5501197+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:08.3346984+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:05.7321857+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:01:59.7315777+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:07:05.5501786+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:01:51.589025+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:08.3347506+00:00"
 }

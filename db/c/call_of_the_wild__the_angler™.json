@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4402,
+  "EOS_Progressed": 4403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3534,6 +3534,11 @@
       "Time": "2023-06-18T21:04:06.8022583+00:00",
       "NumProgressed": 4402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T23:04:11.045117+00:00",
+      "NumProgressed": 4403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3553,7 +3558,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3561,7 +3566,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3585,7 +3590,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3657,7 +3662,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3705,7 +3710,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3824,13 +3829,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4402,
+      "Progressed": 4403,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3774,
+      "Progressed": 3775,
       "Completed": 112
     }
   ],
@@ -3838,8 +3843,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:04:08.7832948+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:04:11.0451164+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:00:58.4498711+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:04:08.7833756+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:00:52.2926558+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:04:11.0451634+00:00"
 }

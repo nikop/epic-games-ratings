@@ -19,8 +19,8 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 11.00% | ~409 |
 | Go Sovereigns! | 11.00% | ~409 |
 | For Science! | 11.00% | ~409 |
+| Of Seals And Men | 10.00% | ~371 |
 | Shackadelic | 10.00% | ~371 |
-| Of Seals And Men | 9.00% | ~334 |
 | Double Trouble | 8.00% | ~297 |
 | Firestarter | 8.00% | ~297 |
 | Make Tropico Great Again! | 8.00% | ~297 |

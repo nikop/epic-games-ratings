@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
@@ -4372,11 +4372,11 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 97631,
+  "EOS_Progressed": 97685,
   "EOS_Completed": 1948,
-  "EOS_NewPlayers": 7153,
+  "EOS_NewPlayers": 7204,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -10497,6 +10497,11 @@
       "Time": "2023-06-18T22:07:30.8854212+00:00",
       "NumProgressed": 97631,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-06-18T23:07:32.8921447+00:00",
+      "NumProgressed": 97685,
+      "NumCompleted": 1948
     }
   ],
   "TotalAchievements": 493,
@@ -10508,7 +10513,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5858
+      "UsersEstimate": 5861
     },
     {
       "ID": "objective_completed_10",
@@ -10876,7 +10881,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "objective_completed_110",
@@ -11372,7 +11377,7 @@
       "Name": "Were-verpowered",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "objective_completed_1203",
@@ -11628,7 +11633,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "objective_completed_150",
@@ -12180,7 +12185,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2931
     },
     {
       "ID": "objective_completed_34",
@@ -12188,7 +12193,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "objective_completed_35",
@@ -12196,7 +12201,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "objective_completed_36",
@@ -12300,7 +12305,7 @@
       "Name": "Seeking Allies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "objective_completed_390",
@@ -12372,7 +12377,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "objective_completed_40",
@@ -12794,9 +12799,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 293
     },
     {
       "ID": "objective_completed_560",
@@ -13652,7 +13657,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "objective_completed_70",
@@ -14420,7 +14425,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "objective_completed_1356",
@@ -14428,7 +14433,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1360",
@@ -14436,7 +14441,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_1361",
@@ -14451,21 +14456,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 63905,
+      "Progressed": 63959,
       "Completed": 2804
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 97631,
+      "Progressed": 97685,
       "Completed": 1948
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T20:58:21.5863781+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:07:30.8854205+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:32.8921442+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:58:46.5085036+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:07:30.8884724+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:58:32.9683645+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:32.8946229+00:00"
 }

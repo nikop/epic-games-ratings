@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 214657,
+  "EOS_Progressed": 214660,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6650,6 +6650,11 @@
       "Time": "2023-06-18T22:04:22.930761+00:00",
       "NumProgressed": 214657,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-18T23:04:24.8966649+00:00",
+      "NumProgressed": 214660,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6669,7 +6674,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53664
+      "UsersEstimate": 53665
     },
     {
       "ID": "ACH_BASE_11",
@@ -6741,7 +6746,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12879
+      "UsersEstimate": 12880
     },
     {
       "ID": "ACH_BASE_20",
@@ -6932,7 +6937,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214657,
+      "Progressed": 214660,
       "Completed": 4
     }
   ],
@@ -6940,8 +6945,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-18T20:58:45.7897264+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:04:22.9307606+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:04:24.8966644+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.2900721+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:59:19.053538+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:04:22.9308286+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:59:06.3059631+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:04:24.8967741+00:00"
 }

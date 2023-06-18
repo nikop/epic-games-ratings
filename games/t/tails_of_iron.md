@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.52 (Ranked 514)  
+Rating: 4.52 (Ranked 515)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.52 (Ranked 514)
 | Meet the Creatures from the Deep | 35.00% | ~597 |
 | Return Power To The Depths | 35.00% | ~597 |
 | Defeat Ratnor Rodentson | 29.00% | ~494 |
-| Return the Statues | 25.00% | ~426 |
+| Return the Statues | 26.00% | ~443 |
 | Defeat Rattus Augustail | 25.00% | ~426 |
 | Complete the Chefs Book | 24.00% | ~409 |
 | Complete Ranger Faction | 20.00% | ~341 |

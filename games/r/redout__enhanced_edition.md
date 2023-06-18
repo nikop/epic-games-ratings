@@ -1,23 +1,23 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 531)  
+Rating: 4.51 (Ranked 532)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~92,287 |
-| NATURAL BORN WINNER | 32.00% | ~72,029 |
-| CALLING HOUSTON | 28.00% | ~63,025 |
-| SNEAKY SNEAKY | 22.00% | ~49,520 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,520 |
-| GT9STRADALE | 20.00% | ~45,018 |
+| VANGUARD | 41.00% | ~92,289 |
+| NATURAL BORN WINNER | 32.00% | ~72,030 |
+| CALLING HOUSTON | 28.00% | ~63,026 |
+| SNEAKY SNEAKY | 22.00% | ~49,521 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,521 |
+| GT9STRADALE | 20.00% | ~45,019 |
 | CHALLENGER | 11.00% | ~24,760 |
 | ON A ROLL | 9.00% | ~20,258 |
-| CENTAUR | 8.00% | ~18,007 |
-| FASTER THAN EVER | 8.00% | ~18,007 |
-| CHALLENGE THE WORLD | 7.00% | ~15,756 |
-| PHOTOFINISH | 7.00% | ~15,756 |
+| CENTAUR | 8.00% | ~18,008 |
+| FASTER THAN EVER | 8.00% | ~18,008 |
+| CHALLENGE THE WORLD | 7.00% | ~15,757 |
+| PHOTOFINISH | 7.00% | ~15,757 |
 | QAREEN | 5.00% | ~11,255 |
 | SHOWOFF | 4.00% | ~9,004 |
 | TAKATORA | 4.00% | ~9,004 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~450 |
 | ENLIGHTENED | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,091 (Ranked 48)  
+Progressed: 225,094 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 46 (0.02%) (Ranked 207)
 | 2023-06-15 | 224,793 | 46 |
 | 2023-06-16 | 224,888 | 46 |
 | 2023-06-17 | 224,995 | 46 |
-| 2023-06-18 | 225,091 | 46 |
+| 2023-06-18 | 225,094 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

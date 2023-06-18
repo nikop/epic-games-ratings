@@ -1,30 +1,30 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.25 (Ranked 797)  
+Rating: 4.25 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,690 |
-| Copacetic Coordination | 16.00% | ~51,718 |
-| Fronting the Money | 14.00% | ~45,253 |
-| The Dawn of Automation | 14.00% | ~45,253 |
-| Extraordinary Logistics | 14.00% | ~45,253 |
-| Dirty Money | 13.00% | ~42,021 |
-| Family First | 13.00% | ~42,021 |
-| Cleaning House | 12.00% | ~38,789 |
-| Room in the Back | 12.00% | ~38,789 |
-| Booze Baron | 11.00% | ~35,556 |
-| Beating the Heat | 10.00% | ~32,324 |
-| Friends on the Force | 10.00% | ~32,324 |
-| Neighborhood Watch | 10.00% | ~32,324 |
-| Core Corps | 8.00% | ~25,859 |
+| Corner Clout | 46.00% | ~148,695 |
+| Copacetic Coordination | 16.00% | ~51,720 |
+| Fronting the Money | 14.00% | ~45,255 |
+| The Dawn of Automation | 14.00% | ~45,255 |
+| Extraordinary Logistics | 14.00% | ~45,255 |
+| Dirty Money | 13.00% | ~42,022 |
+| Family First | 13.00% | ~42,022 |
+| Cleaning House | 12.00% | ~38,790 |
+| Room in the Back | 12.00% | ~38,790 |
+| Booze Baron | 11.00% | ~35,557 |
+| Beating the Heat | 10.00% | ~32,325 |
+| Friends on the Force | 10.00% | ~32,325 |
+| Neighborhood Watch | 10.00% | ~32,325 |
+| Core Corps | 8.00% | ~25,860 |
 | Sizeable Stash | 7.00% | ~22,627 |
 | Street Fighter | 7.00% | ~22,627 |
 | Friendly Gestures | 7.00% | ~22,627 |
 | People Person | 7.00% | ~22,627 |
-| Liquor Lord | 6.00% | ~19,394 |
-| Show ‘em the Sugar | 6.00% | ~19,394 |
+| Liquor Lord | 6.00% | ~19,395 |
+| Show ‘em the Sugar | 6.00% | ~19,395 |
 | Street Knowledge | 5.00% | ~16,162 |
 | Oh Captain | 5.00% | ~16,162 |
 | Branching Out | 5.00% | ~16,162 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 797)
 | High Pillow | 0.10% | ~323 |
 | Station Master | 0.10% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,239 (Ranked 40)  
+Progressed: 323,249 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-15 | 322,320 | 5 |
 | 2023-06-16 | 322,586 | 5 |
 | 2023-06-17 | 322,911 | 5 |
-| 2023-06-18 | 323,239 | 5 |
+| 2023-06-18 | 323,249 | 5 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 466)  
 Sum: 94 (Ranked 406)  

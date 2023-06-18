@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.44 (Ranked 632)  
+Rating: 4.44 (Ranked 633)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.44 (Ranked 632)
 | Easy As Pie | 32.00% | ~792 |
 | Family Lost | 31.00% | ~767 |
 | Treasure Hunt | 30.00% | ~742 |
-| Ancient Curse | 27.00% | ~668 |
+| Ancient Curse | 28.00% | ~693 |
 | Cat Person | 25.00% | ~619 |
 | Hidden Secrets | 24.00% | ~594 |
 | Reunion | 24.00% | ~594 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 26991,
+  "EOS_Progressed": 26994,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1159,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6899,6 +6899,11 @@
       "Time": "2023-06-18T22:07:01.2359373+00:00",
       "NumProgressed": 26991,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-18T23:07:03.9761604+00:00",
+      "NumProgressed": 26994,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -6990,7 +6995,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "journeyer",
@@ -7030,7 +7035,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     },
     {
       "ID": "novice",
@@ -7038,7 +7043,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "playerFelipe",
@@ -7062,7 +7067,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "playerPaz",
@@ -7102,7 +7107,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "proximityFly1000",
@@ -7132,9 +7137,9 @@
       "ID": "sightseer",
       "SetID": "2lgngib",
       "Name": "Sightseer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3239
+      "UsersEstimate": 2969
     },
     {
       "ID": "ultimate",
@@ -7182,7 +7187,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "vandal",
@@ -7221,15 +7226,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 26991,
+      "Progressed": 26994,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-17T20:59:48.8022113+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:07:01.2359368+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:03.9761598+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:53.9980856+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:00:19.1240251+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:07:01.2360064+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:00:09.7974808+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:03.9762417+00:00"
 }

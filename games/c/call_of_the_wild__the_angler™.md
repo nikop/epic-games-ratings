@@ -1,15 +1,15 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.14 (Ranked 872)  
+Rating: 4.14 (Ranked 873)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 75.00% | ~3,302 |
-| Hey Good Hookin | 65.00% | ~2,861 |
-| I'm on a Boat! | 56.00% | ~2,465 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,201 |
+| Hey Good Hookin | 65.00% | ~2,862 |
+| I'm on a Boat! | 56.00% | ~2,466 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,202 |
 | Scaling up | 49.00% | ~2,157 |
 | Ready to Rod and Roll | 41.00% | ~1,805 |
 | More Fish in the Sea | 40.00% | ~1,761 |
@@ -17,8 +17,8 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 32.00% | ~1,409 |
 | Things that go Splash in the Night | 26.00% | ~1,145 |
 | Goldfish? | 26.00% | ~1,145 |
-| Going for Gold | 23.00% | ~1,012 |
-| I'm Hooked! | 18.00% | ~792 |
+| Going for Gold | 23.00% | ~1,013 |
+| I'm Hooked! | 18.00% | ~793 |
 | More than a Tourist | 12.00% | ~528 |
 | Diamond in the Rough | 12.00% | ~528 |
 | Hook, Line and Sinker | 7.00% | ~308 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,402 (Ranked 133)  
+Progressed: 4,403 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 4,369 | 0 |
 | 2023-06-16 | 4,378 | 0 |
 | 2023-06-17 | 4,390 | 0 |
-| 2023-06-18 | 4,402 | 0 |
+| 2023-06-18 | 4,403 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 442)  
 Sum: 158 (Ranked 382)  

@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2683,
+  "EOS_Progressed": 2685,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2921,6 +2921,11 @@
       "Time": "2023-06-18T22:02:06.2221921+00:00",
       "NumProgressed": 2683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T23:01:59.0429337+00:00",
+      "NumProgressed": 2685,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2932,7 +2937,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_BASE_10",
@@ -2996,7 +3001,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_BASE_19",
@@ -3044,7 +3049,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_BASE_25",
@@ -3060,7 +3065,7 @@
       "Name": "Sightseeing",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_27",
@@ -3148,7 +3153,7 @@
       "Name": "Access Granted",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_37",
@@ -3156,7 +3161,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_38",
@@ -3276,7 +3281,7 @@
       "Name": "All in Good Health",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_56",
@@ -3364,7 +3369,7 @@
       "Name": "From the Past",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_8",
@@ -3387,13 +3392,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 864,
+      "Progressed": 866,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2683,
+      "Progressed": 2685,
       "Completed": 0
     }
   ],
@@ -3401,8 +3406,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-16T13:04:18.8650637+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:02:06.2221918+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:01:59.0429331+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:59:18.1913574+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:02:06.2222775+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:59:05.4479675+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:01:59.0430826+00:00"
 }

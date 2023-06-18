@@ -2498,9 +2498,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49629,
+  "EOS_Progressed": 49630,
   "EOS_Completed": 182,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -7688,6 +7688,11 @@
       "Time": "2023-06-18T22:07:21.1912847+00:00",
       "NumProgressed": 49629,
       "NumCompleted": 182
+    },
+    {
+      "Time": "2023-06-18T23:07:23.2344495+00:00",
+      "NumProgressed": 49630,
+      "NumCompleted": 182
     }
   ],
   "TotalAchievements": 45,
@@ -7723,7 +7728,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39207
+      "UsersEstimate": 39208
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7811,7 +7816,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -7819,7 +7824,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22829
+      "UsersEstimate": 22830
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -7867,7 +7872,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10918
+      "UsersEstimate": 10919
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -7963,7 +7968,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48140
+      "UsersEstimate": 48141
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8035,7 +8040,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26303
+      "UsersEstimate": 26304
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8051,22 +8056,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35733
+      "UsersEstimate": 35734
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49629,
+      "Progressed": 49630,
       "Completed": 182
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-18T13:05:40.0038791+00:00",
-  "LastChanged_Achievements": "2023-06-18T22:07:21.1912842+00:00",
+  "LastChanged_Achievements": "2023-06-18T23:07:23.2344489+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:01:59.3425528+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:07:21.1913563+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:01:51.2116507+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:07:23.2345332+00:00"
 }

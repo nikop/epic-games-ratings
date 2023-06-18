@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.28 (Ranked 783)  
+Rating: 4.28 (Ranked 784)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 783)
 | General Manager | 24.00% | ~304 |
 | Hostile Takeover | 23.00% | ~291 |
 | Seven at one stroke | 22.00% | ~279 |
-| Trailblazer | 18.00% | ~228 |
+| Trailblazer | 19.00% | ~241 |
 | Breaking Ground | 18.00% | ~228 |
 | Traffic Junction | 17.00% | ~215 |
 | Traffic Jam | 16.00% | ~203 |

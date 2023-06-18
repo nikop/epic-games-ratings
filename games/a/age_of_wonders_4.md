@@ -1,33 +1,33 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,737 |
-| Realm Estate | 76.00% | ~3,596 |
-| Secret Technique | 75.00% | ~3,548 |
-| Walls Cannot Stop Us | 74.00% | ~3,501 |
-| From Friends to Family | 69.00% | ~3,264 |
-| Magical Synergy | 66.00% | ~3,122 |
-| Bone Peddler | 61.00% | ~2,886 |
-| Stronger Together | 57.00% | ~2,697 |
-| Full Ascension | 56.00% | ~2,649 |
-| There Can Only Be One! | 49.00% | ~2,318 |
-| Seat of Power | 49.00% | ~2,318 |
-| My Final Form | 45.00% | ~2,129 |
-| Intimidation Tactics | 45.00% | ~2,129 |
-| Valley of Wonders | 43.00% | ~2,034 |
-| In a Liege of Your Own | 39.00% | ~1,845 |
-| Return of the Wizard King | 32.00% | ~1,514 |
-| Digging for Treasure | 32.00% | ~1,514 |
-| Against the Odds | 32.00% | ~1,514 |
-| Enchanted Archipelago | 29.00% | ~1,372 |
-| Impenetrable Fortress | 28.00% | ~1,325 |
+| A Wonderful Discovery | 79.00% | ~3,740 |
+| Realm Estate | 76.00% | ~3,598 |
+| Secret Technique | 75.00% | ~3,550 |
+| Walls Cannot Stop Us | 74.00% | ~3,503 |
+| From Friends to Family | 69.00% | ~3,266 |
+| Magical Synergy | 66.00% | ~3,124 |
+| Bone Peddler | 61.00% | ~2,888 |
+| Stronger Together | 57.00% | ~2,698 |
+| Full Ascension | 56.00% | ~2,651 |
+| There Can Only Be One! | 49.00% | ~2,320 |
+| Seat of Power | 49.00% | ~2,320 |
+| My Final Form | 45.00% | ~2,130 |
+| Intimidation Tactics | 45.00% | ~2,130 |
+| Valley of Wonders | 43.00% | ~2,036 |
+| In a Liege of Your Own | 39.00% | ~1,846 |
+| Return of the Wizard King | 32.00% | ~1,515 |
+| Digging for Treasure | 32.00% | ~1,515 |
+| Against the Odds | 32.00% | ~1,515 |
+| Enchanted Archipelago | 29.00% | ~1,373 |
+| Impenetrable Fortress | 28.00% | ~1,326 |
 | The Magic That Empowers Me! | 21.00% | ~994 |
 | Preparation Is Everything | 21.00% | ~994 |
-| Arch Mage | 20.00% | ~946 |
+| Arch Mage | 20.00% | ~947 |
 | God Emperor | 19.00% | ~899 |
 | Eternal Lord | 18.00% | ~852 |
 | Crimson Caldera | 18.00% | ~852 |
@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 421)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,731 (Ranked 131)  
+Progressed: 4,734 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
-| 2023-06-18 | 4,731 | 3 |
+| 2023-06-18 | 4,734 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

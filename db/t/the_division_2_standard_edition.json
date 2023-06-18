@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6450,10 +6450,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 23513,
       "NumberOfAwardsMax": 7259
+    },
+    {
+      "Time": "2023-06-18T23:01:40.1429299+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 23516,
+      "NumberOfAwardsMax": 7259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23513,
+  "NumberOfAwards": 23516,
   "NumberOfAwardsMax": 7259,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6497,7 +6503,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1227
+      "Count": 1230
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6541,8 +6547,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-06-18T20:00:25.5120369+00:00",
+  "LastChanged": "2023-06-18T23:01:40.1429296+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:57.2887288+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:01:48.2955612+00:00",
-  "LastUpdate_Achievements": "2023-06-18T22:03:29.3098091+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:01:40.1429305+00:00",
+  "LastUpdate_Achievements": "2023-06-18T23:03:31.4476195+00:00"
 }
