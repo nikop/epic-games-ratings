@@ -11,8 +11,8 @@ Rating: 4.28 (Ranked 783)
 | Departure | 71.00% | ~893 |
 | Way of Iron | 70.00% | ~881 |
 | Mystery Tour | 67.00% | ~843 |
+| Brainstorm | 66.00% | ~830 |
 | We brake for nobody | 66.00% | ~830 |
-| Brainstorm | 65.00% | ~818 |
 | Mind the Gap | 64.00% | ~805 |
 | Travel Company | 64.00% | ~805 |
 | All around the World | 61.00% | ~767 |
@@ -22,7 +22,7 @@ Rating: 4.28 (Ranked 783)
 | Producer | 49.00% | ~616 |
 | Apprentice | 42.00% | ~528 |
 | Bridge Builder | 40.00% | ~503 |
-| Access granted | 34.00% | ~428 |
+| Access granted | 35.00% | ~440 |
 | Stoker | 33.00% | ~415 |
 | Going once, going twice, sold | 33.00% | ~415 |
 | Full Steam ahead | 30.00% | ~377 |
@@ -30,16 +30,16 @@ Rating: 4.28 (Ranked 783)
 | All mine | 27.00% | ~340 |
 | Mole | 27.00% | ~340 |
 | Financial Shark | 27.00% | ~340 |
+| Country Life | 25.00% | ~314 |
 | Socializer | 25.00% | ~314 |
 | General Manager | 24.00% | ~302 |
-| Country Life | 24.00% | ~302 |
 | Hostile Takeover | 23.00% | ~289 |
 | Seven at one stroke | 22.00% | ~277 |
 | Trailblazer | 18.00% | ~226 |
 | Breaking Ground | 18.00% | ~226 |
 | Traffic Jam | 17.00% | ~214 |
 | Traffic Junction | 17.00% | ~214 |
-| Assimilated | 15.00% | ~189 |
+| Assimilated | 16.00% | ~201 |
 | Locusts | 15.00% | ~189 |
 | Networker | 15.00% | ~189 |
 | Resistance is futile | 14.00% | ~176 |

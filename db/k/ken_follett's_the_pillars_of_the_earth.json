@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13336,
+  "EOS_Progressed": 13338,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-06-18T15:05:28.3718426+00:00",
       "NumProgressed": 13336,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-18T17:07:00.6189338+00:00",
+      "NumProgressed": 13338,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4450,7 +4455,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "tpote_achievement_15",
@@ -4498,7 +4503,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "tpote_achievement_20",
@@ -4514,7 +4519,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4134
+      "UsersEstimate": 4135
     },
     {
       "ID": "tpote_achievement_22",
@@ -4522,7 +4527,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "tpote_achievement_23",
@@ -4546,7 +4551,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "tpote_achievement_26",
@@ -4586,7 +4591,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "tpote_achievement_30",
@@ -4602,7 +4607,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "tpote_achievement_32",
@@ -4610,7 +4615,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "tpote_achievement_33",
@@ -4634,7 +4639,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "tpote_achievement_36",
@@ -4658,7 +4663,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "tpote_achievement_39",
@@ -4674,7 +4679,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5601
+      "UsersEstimate": 5602
     },
     {
       "ID": "tpote_achievement_40",
@@ -4737,15 +4742,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13336,
+      "Progressed": 13338,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-18T16:06:09.2321845+00:00",
+  "LastChanged_Achievements": "2023-06-18T17:07:00.6189332+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:00:06.9139355+00:00",
-  "LastUpdate_Achievements": "2023-06-18T16:06:09.2322259+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:01:08.6663079+00:00",
+  "LastUpdate_Achievements": "2023-06-18T17:07:00.6189968+00:00"
 }

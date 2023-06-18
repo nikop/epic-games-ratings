@@ -13,10 +13,10 @@
 | Avaricerite | 8.00% | ~12 |
 | Ball Galore | 7.00% | ~10 |
 | Easy Victory | 7.00% | ~10 |
+| Legendary Destructor | 5.00% | ~7 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
 | Ball Collector | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
-| Legendary Destructor | 4.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
 | Medium Rare | 3.00% | ~4 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 271)  
+Progressed: 147 (Ranked 272)  
 Completed: 1 (0.68%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

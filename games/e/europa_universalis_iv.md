@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,166 |
-| That's a Grand Army | 8.00% | ~4,592 |
-| That is mine! | 8.00% | ~4,592 |
-| Victorious! | 8.00% | ~4,592 |
-| Brothers in Arms | 6.00% | ~3,444 |
-| That's a Grand Navy | 6.00% | ~3,444 |
-| Seriously?! | 6.00% | ~3,444 |
-| For the Glory | 5.00% | ~2,870 |
-| Cold War | 4.00% | ~2,296 |
-| True Catholic | 4.00% | ~2,296 |
-| Defender of the Faith | 3.00% | ~1,722 |
-| It's all about the money | 3.00% | ~1,722 |
-| Respected | 3.00% | ~1,722 |
-| Truly Divine Ruler | 3.00% | ~1,722 |
-| Agressive Expander | 2.00% | ~1,148 |
-| Blockader | 2.00% | ~1,148 |
-| Combined Arms | 2.00% | ~1,148 |
-| Double the Love | 2.00% | ~1,148 |
-| Gentle Persuasion | 2.00% | ~1,148 |
-| It's all about luck | 2.00% | ~1,148 |
-| My armies are invincible! | 2.00% | ~1,148 |
-| Queen of Conquest | 2.00% | ~1,148 |
-| Royal Authority | 2.00% | ~1,148 |
-| The Princess is in this Castle | 2.00% | ~1,148 |
-| Total Control | 2.00% | ~1,148 |
+| Until death do us apart | 9.00% | ~5,169 |
+| That's a Grand Army | 8.00% | ~4,595 |
+| That is mine! | 8.00% | ~4,595 |
+| Victorious! | 8.00% | ~4,595 |
+| Brothers in Arms | 6.00% | ~3,446 |
+| That's a Grand Navy | 6.00% | ~3,446 |
+| Seriously?! | 6.00% | ~3,446 |
+| For the Glory | 5.00% | ~2,872 |
+| Cold War | 4.00% | ~2,297 |
+| True Catholic | 4.00% | ~2,297 |
+| Defender of the Faith | 3.00% | ~1,723 |
+| It's all about the money | 3.00% | ~1,723 |
+| Respected | 3.00% | ~1,723 |
+| Truly Divine Ruler | 3.00% | ~1,723 |
+| Agressive Expander | 2.00% | ~1,149 |
+| Blockader | 2.00% | ~1,149 |
+| Combined Arms | 2.00% | ~1,149 |
+| Double the Love | 2.00% | ~1,149 |
+| Gentle Persuasion | 2.00% | ~1,149 |
+| It's all about luck | 2.00% | ~1,149 |
+| My armies are invincible! | 2.00% | ~1,149 |
+| Queen of Conquest | 2.00% | ~1,149 |
+| Royal Authority | 2.00% | ~1,149 |
+| The Princess is in this Castle | 2.00% | ~1,149 |
+| Total Control | 2.00% | ~1,149 |
 | All That's Thine Shall Be Mine | 1.00% | ~574 |
 | Azur semé de lis or | 1.00% | ~574 |
 | Bright Spark | 1.00% | ~574 |
@@ -44,12 +44,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~517 |
 | Down Under | 0.80% | ~459 |
 | Trustworthy | 0.80% | ~459 |
-| All belongs to Mother Russia | 0.60% | ~344 |
-| At every continent | 0.60% | ~344 |
-| Early-Modern Warfare | 0.60% | ~344 |
-| Electable! | 0.60% | ~344 |
-| Populists in Government | 0.60% | ~344 |
-| Time Bandit | 0.60% | ~344 |
+| All belongs to Mother Russia | 0.60% | ~345 |
+| At every continent | 0.60% | ~345 |
+| Early-Modern Warfare | 0.60% | ~345 |
+| Electable! | 0.60% | ~345 |
+| Populists in Government | 0.60% | ~345 |
+| Time Bandit | 0.60% | ~345 |
 | One Family to Rule them All | 0.50% | ~287 |
 | Ruina Imperii | 0.50% | ~287 |
 | The pen is mightier than the sword | 0.50% | ~287 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,402 (Ranked 77)  
+Progressed: 57,437 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,10 +420,10 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
-| 2023-06-18 | 57,402 | 0 |
+| 2023-06-18 | 57,437 | 0 |
 ## Awards
 Max (Educational): 5,404  (Ranked 61)  
-Sum: 44,694 (Ranked 27)  
+Sum: 44,701 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -434,7 +434,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 5,090 |
 | This game is Relaxing | 5,018 |
 | This game has Competitive Players | 4,871 |
-| This game has Amazing Storytelling | 4,593 |
+| This game has Amazing Storytelling | 4,600 |
 | This game has Amazing Characters | 4,248 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -592,4 +592,4 @@ Diff (max vs sum): 34
 | 2023-06-15 | 4.68 | - | 5,392 | 44,585 |
 | 2023-06-16 | 4.69 | - | 5,397 | 44,627 |
 | 2023-06-17 | 4.69 | - | 5,404 | 44,681 |
-| 2023-06-18 | 4.68 | - | 5,404 | 44,694 |
+| 2023-06-18 | 4.68 | - | 5,404 | 44,701 |

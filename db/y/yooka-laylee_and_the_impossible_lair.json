@@ -2,13 +2,13 @@
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
-  "Ranking_Rating": 707,
+  "Ranking_Rating": 715,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2017-04-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 346,
   "RatingHistory": [
     {
@@ -594,6 +594,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-06-18T16:58:24.6305951+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
@@ -661,8 +667,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2023-06-12T16:58:10.4737721+00:00",
+  "LastChanged": "2023-06-18T16:58:24.6305949+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:35.1431113+00:00",
-  "LastUpdate_Ratings": "2023-06-18T15:58:08.7693843+00:00",
-  "LastUpdate_Achievements": "2023-06-18T16:03:21.5179013+00:00"
+  "LastUpdate_Ratings": "2023-06-18T16:58:24.6305955+00:00",
+  "LastUpdate_Achievements": "2023-06-18T17:02:43.5361682+00:00"
 }

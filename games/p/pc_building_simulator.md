@@ -6,39 +6,39 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,689,564 |
-| Easy to forget | 46.00% | ~1,619,166 |
-| Back in the black | 38.00% | ~1,337,572 |
-| That's what I'm talking about | 28.00% | ~985,579 |
-| The Best of Both Worlds | 24.00% | ~844,782 |
-| Get your wings | 20.00% | ~703,985 |
-| Double trouble | 15.00% | ~527,989 |
-| Smashing it | 10.00% | ~351,992 |
-| But can it run Crysis? | 9.00% | ~316,793 |
-| My favourite feature... | 9.00% | ~316,793 |
-| From humble beginnings... | 7.00% | ~246,395 |
-| Customer satisfaction | 7.00% | ~246,395 |
-| Keeping things neat | 4.00% | ~140,797 |
-| Seems you're pretty good at this | 4.00% | ~140,797 |
-| Triple threat | 3.00% | ~105,598 |
-| You rock at this! | 3.00% | ~105,598 |
-| Your music sucks | 3.00% | ~105,598 |
-| Bending over backwards | 3.00% | ~105,598 |
-| I'm broke, Uncle! | 2.00% | ~70,398 |
-| Maybe you should try something else? | 2.00% | ~70,398 |
-| Taking care of business | 2.00% | ~70,398 |
-| Perfection | 2.00% | ~70,398 |
-| Calling in Sick | 2.00% | ~70,398 |
-| Overvolted | 1.00% | ~35,199 |
-| If you fail the first time... | 1.00% | ~35,199 |
-| Amazonian | 1.00% | ~35,199 |
-| Things are under control | 1.00% | ~35,199 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,199 |
-| Building isn't cheap! | 1.00% | ~35,199 |
-| Majority Shareholder | 1.00% | ~35,199 |
-| Owner | 1.00% | ~35,199 |
-| Show off | 0.90% | ~31,679 |
-| Work ethic 101 | 0.70% | ~24,639 |
+| You need to plug it in... | 48.00% | ~1,689,582 |
+| Easy to forget | 46.00% | ~1,619,183 |
+| Back in the black | 38.00% | ~1,337,586 |
+| That's what I'm talking about | 28.00% | ~985,589 |
+| The Best of Both Worlds | 24.00% | ~844,791 |
+| Get your wings | 20.00% | ~703,992 |
+| Double trouble | 15.00% | ~527,994 |
+| Smashing it | 10.00% | ~351,996 |
+| But can it run Crysis? | 9.00% | ~316,797 |
+| My favourite feature... | 9.00% | ~316,797 |
+| From humble beginnings... | 7.00% | ~246,397 |
+| Customer satisfaction | 7.00% | ~246,397 |
+| Keeping things neat | 4.00% | ~140,798 |
+| Seems you're pretty good at this | 4.00% | ~140,798 |
+| Triple threat | 3.00% | ~105,599 |
+| You rock at this! | 3.00% | ~105,599 |
+| Your music sucks | 3.00% | ~105,599 |
+| Bending over backwards | 3.00% | ~105,599 |
+| I'm broke, Uncle! | 2.00% | ~70,399 |
+| Maybe you should try something else? | 2.00% | ~70,399 |
+| Taking care of business | 2.00% | ~70,399 |
+| Perfection | 2.00% | ~70,399 |
+| Calling in Sick | 2.00% | ~70,399 |
+| Overvolted | 1.00% | ~35,200 |
+| If you fail the first time... | 1.00% | ~35,200 |
+| Amazonian | 1.00% | ~35,200 |
+| Things are under control | 1.00% | ~35,200 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,200 |
+| Building isn't cheap! | 1.00% | ~35,200 |
+| Majority Shareholder | 1.00% | ~35,200 |
+| Owner | 1.00% | ~35,200 |
+| Show off | 0.90% | ~31,680 |
+| Work ethic 101 | 0.70% | ~24,640 |
 | Building momentum | 0.60% | ~21,120 |
 | Lead by example | 0.50% | ~17,600 |
 | Treat yourself - RAM | 0.50% | ~17,600 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,520 |
 | Treat yourself - GPU | 0.10% | ~3,520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,519,925 (Ranked 4)  
+Progressed: 3,519,962 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 28 (0.00%) (Ranked 227)
 | 2023-06-15 | 3,518,600 | 27 |
 | 2023-06-16 | 3,519,032 | 28 |
 | 2023-06-17 | 3,519,561 | 28 |
-| 2023-06-18 | 3,519,925 | 28 |
+| 2023-06-18 | 3,519,962 | 28 |
 ## Awards
 Max (Great for Beginners): 1,048  (Ranked 137)  
-Sum: 7,823 (Ranked 94)  
+Sum: 7,824 (Ranked 94)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): 43
 | This game is Educational | 967 |
 | This game is Extremely Fun | 963 |
 | This game has Quickly Understood Controls | 930 |
-| This game is Highly Recommended | 875 |
+| This game is Highly Recommended | 876 |
 | This game has Amazing Storytelling | 798 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 640 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 43
 | 2023-06-14 | 4.66 | - | 1,048 | 7,821 |
 | 2023-06-16 | 4.66 | - | 1,048 | 7,822 |
 | 2023-06-17 | 4.66 | - | 1,048 | 7,823 |
+| 2023-06-18 | 4.66 | - | 1,048 | 7,824 |

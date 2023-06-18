@@ -11,7 +11,7 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 27.00% | ~341 |
 | Passing Shadow | 26.00% | ~328 |
 | Cutthroat Competitors | 26.00% | ~328 |
-| How Romantic! | 24.00% | ~303 |
+| How Romantic! | 25.00% | ~316 |
 | Daybreak | 24.00% | ~303 |
 | Gotta Ca... Must Collect All of Them | 22.00% | ~278 |
 | War Endured | 13.00% | ~164 |

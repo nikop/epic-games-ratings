@@ -35,8 +35,8 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 25.00% | ~29 |
 | The Famous Dungeon of Naheulbeuk | 22.00% | ~26 |
 | The Woman in the High Castle | 21.00% | ~24 |
+| The Blood Countess | 21.00% | ~24 |
 | The beards of change | 21.00% | ~24 |
-| The Blood Countess | 20.00% | ~23 |
 | Cursed die | 19.00% | ~22 |
 | Urik's Depths | 19.00% | ~22 |
 | In Navalu's footsteps | 17.00% | ~20 |

@@ -33,10 +33,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.80% | ~5,678 |
 | Qi Gong: Mind | 0.80% | ~5,678 |
 | I know Kung-Fu | 0.80% | ~5,678 |
+| Deadly Venom | 0.70% | ~133 |
 | Muk Yan Master | 0.60% | ~4,259 |
 | Tiger on Fire | 0.60% | ~4,259 |
 | Detective Story | 0.60% | ~4,259 |
-| Deadly Venom | 0.60% | ~114 |
 | A Touch of Acumen | 0.60% | ~114 |
 | Source of Flying Daggers | 0.50% | ~3,549 |
 | Iron Money | 0.50% | ~3,549 |

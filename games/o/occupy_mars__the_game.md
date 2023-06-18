@@ -29,8 +29,8 @@ Rating: 3.86 (Ranked 926)
 | Driver's License | 1.00% | ~13 |
 | Explosive Miner | 0.90% | ~12 |
 | Rocket Jump | 0.90% | ~12 |
+| Thunderstruck | 0.80% | ~10 |
 | Caveman | 0.70% | ~9 |
-| Thunderstruck | 0.70% | ~9 |
 | 5G Network | 0.50% | ~6 |
 | Bull’s eye | 0.50% | ~6 |
 | Rover Mechanic | 0.50% | ~6 |

@@ -22,7 +22,7 @@ Rating: 4.34 (Ranked 739)
 | The meaning of Kain | 35.00% | ~406 |
 | Technophobe | 32.00% | ~372 |
 | Recycler | 31.00% | ~360 |
-| Are you not entertained? | 26.00% | ~302 |
+| Are you not entertained? | 27.00% | ~313 |
 | Ganglord | 26.00% | ~302 |
 | Jarhead | 26.00% | ~302 |
 | Infiltrator | 25.00% | ~290 |
@@ -43,8 +43,8 @@ Rating: 4.34 (Ranked 739)
 | Side Order | 8.00% | ~93 |
 | Curveball | 7.00% | ~81 |
 | Bot Whisperer | 6.00% | ~70 |
+| Dressed To Kill | 6.00% | ~70 |
 | Wipe Out | 6.00% | ~70 |
-| Dressed To Kill | 5.00% | ~58 |
 | Cruelty | 2.00% | ~23 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.80% | ~9 |

@@ -9,7 +9,7 @@ Number of Ratings: 22  (23.09.2022)
 | Tuto | 60.00% | ~234 |
 | Joma | 44.00% | ~172 |
 | Campaign Bronze | 35.00% | ~136 |
-| Lorian | 30.00% | ~117 |
+| Lorian | 31.00% | ~121 |
 | Metropolis | 26.00% | ~101 |
 | Rounos | 23.00% | ~90 |
 | Campaign Silver | 21.00% | ~82 |

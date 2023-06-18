@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -93,6 +93,11 @@
     {
       "Time": "2023-06-18T16:06:30.2006172+00:00",
       "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T17:07:26.8673954+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -415,7 +420,7 @@
       "ID": "ach_switchoff_00",
       "SetID": "8jkn3bi",
       "Name": "Switch off the light",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -448,13 +453,13 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-06-18T16:06:30.2006167+00:00",
+  "LastChanged_Achievements": "2023-06-18T17:07:26.8673947+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:06.1234054+00:00",
-  "LastUpdate_Ratings": "2023-06-18T16:00:38.6516881+00:00",
-  "LastUpdate_Achievements": "2023-06-18T16:06:30.2006434+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:01:55.3494389+00:00",
+  "LastUpdate_Achievements": "2023-06-18T17:07:26.8674527+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1622,9 +1622,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65534,
+  "EOS_Progressed": 65542,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6832,6 +6832,11 @@
       "Time": "2023-06-18T16:06:31.9171834+00:00",
       "NumProgressed": 65534,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T17:07:29.4790594+00:00",
+      "NumProgressed": 65542,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7147,7 +7152,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "HARLEY_2",
@@ -7187,7 +7192,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3932
+      "UsersEstimate": 3933
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7235,7 +7240,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "MYSTERY_02",
@@ -7330,13 +7335,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65534,
+      "Progressed": 65542,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35814,
+      "Progressed": 35822,
       "Completed": 2646
     }
   ],
@@ -7344,8 +7349,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-18T10:00:49.7772249+00:00",
-  "LastChanged_Achievements": "2023-06-18T16:06:31.9171827+00:00",
+  "LastChanged_Achievements": "2023-06-18T17:07:29.4790585+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T15:59:51.340142+00:00",
-  "LastUpdate_Achievements": "2023-06-18T16:06:31.9172534+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:00:50.4682807+00:00",
+  "LastUpdate_Achievements": "2023-06-18T17:07:29.4792156+00:00"
 }

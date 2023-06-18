@@ -19,9 +19,9 @@ Rating: 4.48 (Ranked 583)
 | The Kraken Sleeps | 11.00% | ~331 |
 | Liberté | 10.00% | ~301 |
 | Sharpshooter | 10.00% | ~301 |
+| Explosive Efficiency | 10.00% | ~301 |
 | Just a Flesh Wound | 9.00% | ~271 |
 | Gunslinger | 9.00% | ~271 |
-| Explosive Efficiency | 9.00% | ~271 |
 | Enemy at the Gates | 8.00% | ~240 |
 | Opposing Force | 7.00% | ~210 |
 | Die Nussknacker Sweet! | 7.00% | ~210 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2004,9 +2004,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 299
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -2444,8 +2444,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-18T16:06:34.0851713+00:00",
+  "LastChanged_Achievements": "2023-06-18T17:07:32.2856574+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.7574037+00:00",
-  "LastUpdate_Ratings": "2023-06-18T15:59:46.4440038+00:00",
-  "LastUpdate_Achievements": "2023-06-18T16:06:34.0852185+00:00"
+  "LastUpdate_Ratings": "2023-06-18T17:00:43.0708742+00:00",
+  "LastUpdate_Achievements": "2023-06-18T17:07:32.2857367+00:00"
 }

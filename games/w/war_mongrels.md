@@ -28,8 +28,8 @@ Number of Ratings: 34  (23.09.2022)
 | It's Just an Accident | 22.00% | ~81 |
 | Vengeance | 21.00% | ~77 |
 | Broken Hopes | 18.00% | ~66 |
+| Bullseye! | 18.00% | ~66 |
 | Food Massacre | 17.00% | ~62 |
-| Bullseye! | 17.00% | ~62 |
 | Sorrow | 15.00% | ~55 |
 | Collectibles of Chapter III | 14.00% | ~51 |
 | Collectibles of Chapter IV | 14.00% | ~51 |
@@ -51,7 +51,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Good Samaritan | 3.00% | ~11 |
 | Collectibles of Chapter VI | 2.00% | ~7 |
 | Daddy Would Be Proud | 2.00% | ~7 |
-| Hold a Door | 0.80% | ~3 |
+| Hold a Door | 1.00% | ~4 |
 | Warm Up | 0.30% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
