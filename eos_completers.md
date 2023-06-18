@@ -59,7 +59,7 @@
 | 57 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.54% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
@@ -69,7 +69,7 @@
 | 67 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 68 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 68 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 70 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 71 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.03% |
 | 72 | [Frogun](games/f/frogun.md) | 1.93% |
 | 73 | [Iron Danger](games/i/iron_danger.md) | 1.88% |
@@ -99,7 +99,7 @@
 | 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
 | 98 | [Sable](games/s/sable.md) | 0.94% |
 | 99 | [Hades](games/h/hades.md) | 0.89% |
-| 100 | [Adios](games/a/adios.md) | 0.87% |
+| 100 | [Adios](games/a/adios.md) | 0.88% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
