@@ -9,13 +9,13 @@
 | Line of Duty | 72.00% | ~280 |
 | Gunner | 57.00% | ~222 |
 | DocKing | 47.00% | ~183 |
-| What-A-Shot | 44.00% | ~171 |
+| What-A-Shot | 45.00% | ~175 |
 | Batteries Included | 39.00% | ~152 |
 | Death from Above | 36.00% | ~140 |
 | Hull King | 27.00% | ~105 |
 | Boss Down | 20.00% | ~78 |
 | Extra Ammo | 20.00% | ~78 |
-| Splash Damage | 18.00% | ~70 |
+| Splash Damage | 19.00% | ~74 |
 | Hazardous Duty | 17.00% | ~66 |
 | Perky | 16.00% | ~62 |
 | Salvage | 12.00% | ~47 |

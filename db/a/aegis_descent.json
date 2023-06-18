@@ -534,9 +534,9 @@
       "ID": "Award_SplashDamage",
       "SetID": "9ojec6n",
       "Name": "Splash Damage",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "Award_Stunning",
@@ -590,9 +590,9 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:02:16.0222865+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:02:25.3698309+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:56.8206036+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:58:10.9988428+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:02:16.0223148+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:58:26.3551272+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:02:25.3698599+00:00"
 }

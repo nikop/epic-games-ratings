@@ -332,9 +332,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3009,
+  "EOS_Progressed": 3011,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3922,6 +3922,11 @@
       "Time": "2023-06-18T19:05:43.8373998+00:00",
       "NumProgressed": 3009,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T20:06:10.799525+00:00",
+      "NumProgressed": 3011,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4013,7 +4018,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4093,7 +4098,7 @@
       "Name": "Precision Is Key",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -4101,7 +4106,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4157,7 +4162,7 @@
       "Name": "Resourceful",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4267,9 +4272,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 512
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4301,7 +4306,7 @@
       "Name": "Taking it back",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4500,13 +4505,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2960,
+      "Progressed": 2962,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3009,
+      "Progressed": 3011,
       "Completed": 2
     }
   ],
@@ -4514,8 +4519,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:05:43.8373994+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:06:10.7995238+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:00:10.1923858+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:05:43.8374658+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:00:29.4119908+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:06:10.7995951+00:00"
 }

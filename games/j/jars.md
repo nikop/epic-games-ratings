@@ -14,7 +14,7 @@
 | A horrible thing will happen... | 43.00% | ~24 |
 | Vampires | 38.00% | ~21 |
 | Bloody stream | 34.00% | ~19 |
-| Fangs | 21.00% | ~12 |
+| Fangs | 23.00% | ~13 |
 | Mirrors | 13.00% | ~7 |
 | I need a hero | 7.00% | ~4 |
 | At least there is something to read | 5.00% | ~3 |

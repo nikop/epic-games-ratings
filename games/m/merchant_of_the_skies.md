@@ -9,7 +9,7 @@
 | Real Estate | 64.00% | ~595 |
 | New Ride | 54.00% | ~502 |
 | Giants | 50.00% | ~465 |
-| Thrifty | 46.00% | ~428 |
+| Thrifty | 47.00% | ~437 |
 | Too big to fail | 35.00% | ~326 |
 | Wealthy | 14.00% | ~130 |
 | Lighthouse Builder | 12.00% | ~112 |

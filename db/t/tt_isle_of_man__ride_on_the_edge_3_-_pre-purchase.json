@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "gagif7",
       "Name": "POI Hunter",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -520,9 +520,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -767,8 +767,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:02:24.5903027+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:03:13.0931262+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.584177+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:57:34.9242677+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:02:24.5903278+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:57:52.1085926+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:03:13.0931499+00:00"
 }

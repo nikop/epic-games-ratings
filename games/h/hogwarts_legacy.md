@@ -23,13 +23,13 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,837 |
 | The Spell Master | 6.00% | ~16,837 |
 | Rising From the Ashes | 6.00% | ~16,837 |
-| The Avenging Gazelle | 5.00% | ~14,030 |
-| Beast Friends | 5.00% | ~14,030 |
-| Flight the Good Flight | 5.00% | ~14,030 |
-| The Seeker of Knowledge | 4.00% | ~11,224 |
-| The Root of the Problem | 4.00% | ~11,224 |
-| Third Time's a Charm | 4.00% | ~11,224 |
-| Raising Expectations | 4.00% | ~11,224 |
+| The Avenging Gazelle | 5.00% | ~14,031 |
+| Beast Friends | 5.00% | ~14,031 |
+| Flight the Good Flight | 5.00% | ~14,031 |
+| The Seeker of Knowledge | 4.00% | ~11,225 |
+| The Root of the Problem | 4.00% | ~11,225 |
+| Third Time's a Charm | 4.00% | ~11,225 |
+| Raising Expectations | 4.00% | ~11,225 |
 | The Toast of the Town | 3.00% | ~8,418 |
 | Going Through the Potions | 3.00% | ~8,418 |
 | Room with a View | 3.00% | ~8,418 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 107)
 | Demiguise Dread | 1.00% | ~2,806 |
 | Finishing Touches | 1.00% | ~2,806 |
 | A Forte for Achievement | 1.00% | ~2,806 |
-| Savvy Spender | 0.90% | ~2,525 |
+| Savvy Spender | 0.90% | ~2,526 |
 | Merlin's Beard! | 0.70% | ~1,964 |
 | Spilled Milk | 0.60% | ~1,684 |
 | The Nature of the Beast | 0.50% | ~1,403 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,609 (Ranked 41)  
+Progressed: 280,615 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
 | 2023-06-17 | 280,449 | 408 |
-| 2023-06-18 | 280,609 | 408 |
+| 2023-06-18 | 280,615 | 408 |
 ## Awards
 Max (Character Customization): 20,122  (Ranked 18)  
-Sum: 37,307 (Ranked 32)  
+Sum: 37,312 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -121,7 +121,7 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 9,552 |
 | This game is Great for Beginners | 845 |
 | This game is Relaxing | 837 |
-| This game is Extremely Fun | 829 |
+| This game is Extremely Fun | 834 |
 | This game has Diverse Characters | 813 |
 | This game has Amazing Storytelling | 813 |
 | This game has Amazing Characters | 797 |
@@ -218,4 +218,4 @@ Diff (max vs sum): -14
 | 2023-06-15 | 4.77 | 19,994 | 37,095 |
 | 2023-06-16 | 4.77 | 20,032 | 37,165 |
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
-| 2023-06-18 | 4.77 | 20,122 | 37,307 |
+| 2023-06-18 | 4.77 | 20,122 | 37,312 |

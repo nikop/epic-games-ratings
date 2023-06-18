@@ -6,20 +6,20 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,000 |
-| First cargo item on board | 71.00% | ~922 |
-| First cargo item waiting | 71.00% | ~922 |
-| First bus stop | 70.00% | ~909 |
-| First passenger on board | 67.00% | ~870 |
-| First passenger waiting | 67.00% | ~870 |
-| First bus arrived | 65.00% | ~844 |
-| First train station | 64.00% | ~831 |
-| First steam train arrived | 60.00% | ~779 |
-| First industry upgraded | 56.00% | ~727 |
-| Transport millionaire | 55.00% | ~714 |
-| Cargo hub | 54.00% | ~701 |
-| Transport master | 53.00% | ~688 |
-| Cadet | 52.00% | ~675 |
+| First line | 77.00% | ~1,001 |
+| First cargo item on board | 71.00% | ~923 |
+| First cargo item waiting | 71.00% | ~923 |
+| First bus stop | 70.00% | ~910 |
+| First passenger on board | 67.00% | ~871 |
+| First passenger waiting | 67.00% | ~871 |
+| First bus arrived | 65.00% | ~845 |
+| First train station | 64.00% | ~832 |
+| First steam train arrived | 60.00% | ~780 |
+| First industry upgraded | 56.00% | ~728 |
+| Transport millionaire | 55.00% | ~715 |
+| Cargo hub | 54.00% | ~702 |
+| Transport master | 53.00% | ~689 |
+| Cadet | 52.00% | ~676 |
 | Sculpturer | 50.00% | ~650 |
 | Settled down | 48.00% | ~624 |
 | First electric train arrived | 47.00% | ~611 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~403 |
 | The future is now, old man | 31.00% | ~403 |
 | Not in my backyard | 30.00% | ~390 |
+| The king of the sea | 29.00% | ~377 |
 | City | 28.00% | ~364 |
-| The king of the sea | 28.00% | ~364 |
 | Transport tycoon | 24.00% | ~312 |
 | Climate change | 23.00% | ~299 |
 | Old timer | 22.00% | ~286 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299 (Ranked 168)  
+Progressed: 1,300 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-14 | 1,276 | 0 |
 | 2023-06-16 | 1,285 | 0 |
 | 2023-06-17 | 1,291 | 0 |
-| 2023-06-18 | 1,299 | 0 |
+| 2023-06-18 | 1,300 | 0 |
 ## Awards
 Max (Highly Recommended): 39  (Ranked 419)  
 Sum: 268 (Ranked 339)  

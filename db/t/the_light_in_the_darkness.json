@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1685,
-  "EOS_Completed": 142,
+  "EOS_Completed": 143,
   "EOS_NewPlayers": 81,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 8.43,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2798,6 +2798,11 @@
       "Time": "2023-06-18T15:05:29.0734493+00:00",
       "NumProgressed": 1685,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-06-18T20:05:44.422937+00:00",
+      "NumProgressed": 1685,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 12,
@@ -2905,15 +2910,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 1685,
-      "Completed": 142
+      "Completed": 143
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:05:27.3438204+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:05:44.4229364+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:59:18.7000065+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:05:27.343841+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:59:37.5597103+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:05:44.4229591+00:00"
 }

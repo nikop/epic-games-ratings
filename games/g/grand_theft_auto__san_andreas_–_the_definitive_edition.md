@@ -19,8 +19,8 @@ Rating: 4.57 (Ranked 441)
 | With Extra Dip | 6.00% | ~641 |
 | The End of the Line | 6.00% | ~641 |
 | Saviour | 5.00% | ~534 |
-| They Can’t Stop All of Us | 4.00% | ~427 |
-| Rescue a Kitten Too? | 4.00% | ~427 |
+| They Can’t Stop All of Us | 4.00% | ~428 |
+| Rescue a Kitten Too? | 4.00% | ~428 |
 | What are the Odds | 3.00% | ~321 |
 | I’ll Have Two Number 9s | 2.00% | ~214 |
 | Bike or Biker | 2.00% | ~214 |
@@ -35,13 +35,13 @@ Rating: 4.57 (Ranked 441)
 | Ain’t Nothing But a G Thing | 1.00% | ~107 |
 | Lucky Spinner | 0.90% | ~96 |
 | Chick Magnet | 0.90% | ~96 |
-| Hoopin' it Up | 0.80% | ~85 |
+| Hoopin' it Up | 0.80% | ~86 |
 | Not a Player | 0.60% | ~64 |
 | Remastered | 0.50% | ~53 |
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,687 (Ranked 112)  
+Progressed: 10,688 (Ranked 112)  
 Completed: 19 (0.18%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 19 (0.18%) (Ranked 158)
 | 2023-06-15 | 10,587 | 18 |
 | 2023-06-16 | 10,617 | 18 |
 | 2023-06-17 | 10,650 | 19 |
-| 2023-06-18 | 10,687 | 19 |
+| 2023-06-18 | 10,688 | 19 |
 ## Awards
 Max (Great Boss Battles): 172  (Ranked 281)  
 Sum: 172 (Ranked 372)  

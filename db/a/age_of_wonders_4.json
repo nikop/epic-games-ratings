@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4728,
+  "EOS_Progressed": 4729,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4132,6 +4132,11 @@
       "Time": "2023-06-18T18:05:19.7728922+00:00",
       "NumProgressed": 4728,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-18T20:04:44.9316614+00:00",
+      "NumProgressed": 4729,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4199,7 +4204,7 @@
       "Name": "God Emperor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "17",
@@ -4255,7 +4260,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "23",
@@ -4263,7 +4268,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "24",
@@ -4271,7 +4276,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3546
+      "UsersEstimate": 3547
     },
     {
       "ID": "25",
@@ -4287,7 +4292,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "27",
@@ -4303,7 +4308,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "29",
@@ -4311,7 +4316,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "3",
@@ -4335,7 +4340,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "32",
@@ -4375,7 +4380,7 @@
       "Name": "Fiery Friend",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "37",
@@ -4494,13 +4499,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4728,
-      "Completed": 4728
+      "Progressed": 4729,
+      "Completed": 4729
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4728,
+      "Progressed": 4729,
       "Completed": 3
     }
   ],
@@ -4508,8 +4513,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:04:26.917864+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:04:44.9316609+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:59:13.1259914+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:04:26.9179105+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:59:30.7401284+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:04:44.9317107+00:00"
 }

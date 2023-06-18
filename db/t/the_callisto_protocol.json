@@ -668,9 +668,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15440,
+  "EOS_Progressed": 15442,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4273,6 +4273,11 @@
       "Time": "2023-06-18T19:04:07.9500501+00:00",
       "NumProgressed": 15440,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T20:04:26.1414345+00:00",
+      "NumProgressed": 15442,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4316,7 +4321,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4404,7 +4409,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4412,7 +4417,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "KILL_ROBOT",
@@ -4420,7 +4425,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4444,7 +4449,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4452,15 +4457,15 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 2007
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4540,7 +4545,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "DISMEMBER_100",
@@ -4603,13 +4608,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15440,
+      "Progressed": 15442,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3366,
+      "Progressed": 3368,
       "Completed": 29
     }
   ],
@@ -4617,8 +4622,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-18T03:57:51.8868865+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:04:07.9500497+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:04:26.141434+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:57:50.6608136+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:04:07.9500901+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:58:06.5402675+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:04:26.141478+00:00"
 }

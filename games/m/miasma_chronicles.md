@@ -18,9 +18,9 @@ Rating: 4.34 (Ranked 739)
 | Editor Adept | 41.00% | ~476 |
 | Firestarter | 40.00% | ~465 |
 | Giant Killer | 38.00% | ~442 |
-| Sensei | 36.00% | ~418 |
+| Sensei | 37.00% | ~430 |
 | The meaning of Kain | 35.00% | ~407 |
-| Technophobe | 32.00% | ~372 |
+| Technophobe | 33.00% | ~383 |
 | Recycler | 31.00% | ~360 |
 | Are you not entertained? | 27.00% | ~314 |
 | Ganglord | 26.00% | ~302 |
@@ -47,7 +47,7 @@ Rating: 4.34 (Ranked 739)
 | Wipe Out | 6.00% | ~70 |
 | Cruelty | 2.00% | ~23 |
 | Five Finger Deathcount | 1.00% | ~12 |
-| Fratricide | 0.80% | ~9 |
+| Fratricide | 0.90% | ~10 |
 | Shadow Boxin' | 0.80% | ~9 |
 | Alpha Editor | 0.60% | ~7 |
 | QA Has Suffered! (Redux) | 0.60% | ~7 |

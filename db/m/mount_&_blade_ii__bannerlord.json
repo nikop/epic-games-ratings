@@ -2,12 +2,12 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 5603,
   "RatingHistory": [
     {
@@ -4855,10 +4855,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 13436,
       "NumberOfAwardsMax": 6684
+    },
+    {
+      "Time": "2023-06-18T19:59:45.5959938+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13437,
+      "NumberOfAwardsMax": 6684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13436,
+  "NumberOfAwards": 13437,
   "NumberOfAwardsMax": 6684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4890,7 +4896,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 855
+      "Count": 856
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4935,9 +4941,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53522,
+  "EOS_Progressed": 53526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10960,6 +10966,11 @@
       "Time": "2023-06-18T19:05:47.5891425+00:00",
       "NumProgressed": 53522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T20:06:14.3222988+00:00",
+      "NumProgressed": 53526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10971,7 +10982,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "Apple of my eye",
@@ -10979,7 +10990,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7494
     },
     {
       "ID": "Bannerlord",
@@ -11067,7 +11078,7 @@
       "Name": "Entrepreneur",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "Explorer",
@@ -11139,7 +11150,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8028
+      "UsersEstimate": 8029
     },
     {
       "ID": "I spit on your grave",
@@ -11179,7 +11190,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     },
     {
       "ID": "Lance-a-lot",
@@ -11195,7 +11206,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 16057
+      "UsersEstimate": 16058
     },
     {
       "ID": "Lawbringer",
@@ -11203,7 +11214,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19268
+      "UsersEstimate": 19269
     },
     {
       "ID": "Lawmaker",
@@ -11219,7 +11230,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "Mastery",
@@ -11259,7 +11270,7 @@
       "Name": "Real Estate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "Ride it like you stole it",
@@ -11378,15 +11389,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53522,
+      "Progressed": 53526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-18T15:59:48.9240349+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:05:47.589142+00:00",
+  "LastChanged": "2023-06-18T19:59:45.5959936+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:06:14.3222981+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:59:25.7742663+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:05:47.5892031+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:59:45.5959944+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:06:14.3223609+00:00"
 }

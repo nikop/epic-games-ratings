@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
@@ -1029,6 +1029,11 @@
       "Time": "2023-06-18T19:05:41.5497112+00:00",
       "NumProgressed": 671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T20:06:08.8021362+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1040,7 +1045,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH001",
@@ -1096,7 +1101,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH008",
@@ -1128,7 +1133,7 @@
       "Name": "Intangible",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH012",
@@ -1136,7 +1141,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH013",
@@ -1144,7 +1149,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH014",
@@ -1152,15 +1157,15 @@
       "Name": "Christening",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH015",
       "SetID": "69nfp41",
       "Name": "Groundskeeper",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH016",
@@ -1174,9 +1179,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH018",
@@ -1224,7 +1229,7 @@
       "Name": "Gofer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH024",
@@ -1256,7 +1261,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH028",
@@ -1328,7 +1333,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH037",
@@ -1422,9 +1427,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH049",
@@ -1439,15 +1444,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:05:41.5497101+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:06:08.8021356+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9795922+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:58:22.1703343+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:05:41.5497466+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:58:38.469866+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:06:08.8021729+00:00"
 }

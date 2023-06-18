@@ -5,14 +5,14 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,735 |
-| Realm Estate | 76.00% | ~3,593 |
-| Secret Technique | 75.00% | ~3,546 |
+| A Wonderful Discovery | 79.00% | ~3,736 |
+| Realm Estate | 76.00% | ~3,594 |
+| Secret Technique | 75.00% | ~3,547 |
 | Walls Cannot Stop Us | 74.00% | ~3,499 |
-| From Friends to Family | 69.00% | ~3,262 |
-| Magical Synergy | 66.00% | ~3,120 |
-| Bone Peddler | 61.00% | ~2,884 |
-| Stronger Together | 57.00% | ~2,695 |
+| From Friends to Family | 69.00% | ~3,263 |
+| Magical Synergy | 66.00% | ~3,121 |
+| Bone Peddler | 61.00% | ~2,885 |
+| Stronger Together | 57.00% | ~2,696 |
 | Full Ascension | 56.00% | ~2,648 |
 | There Can Only Be One! | 49.00% | ~2,317 |
 | Seat of Power | 49.00% | ~2,317 |
@@ -28,10 +28,10 @@ Rating: 4.59 (Ranked 410)
 | The Magic That Empowers Me! | 21.00% | ~993 |
 | Preparation Is Everything | 21.00% | ~993 |
 | Arch Mage | 20.00% | ~946 |
-| God Emperor | 19.00% | ~898 |
+| God Emperor | 19.00% | ~899 |
 | Eternal Lord | 18.00% | ~851 |
 | Crimson Caldera | 18.00% | ~851 |
-| Fiery Friend | 16.00% | ~756 |
+| Fiery Friend | 16.00% | ~757 |
 | Lord of Chaos | 15.00% | ~709 |
 | The Creator | 15.00% | ~709 |
 | The Goddess of Nature | 15.00% | ~709 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 410)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,728 (Ranked 131)  
+Progressed: 4,729 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
-| 2023-06-18 | 4,728 | 3 |
+| 2023-06-18 | 4,729 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

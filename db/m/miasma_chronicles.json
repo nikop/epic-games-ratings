@@ -2112,9 +2112,9 @@
       "ID": "FRATRICIDE",
       "SetID": "9a4jnji",
       "Name": "Fratricide",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FROM_DARKNESS",
@@ -2248,9 +2248,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 430
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2280,9 +2280,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 383
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2329,8 +2329,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-18T19:00:19.4119779+00:00",
+  "LastChanged_Achievements": "2023-06-18T20:00:40.5691384+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-18T18:58:13.2129433+00:00",
-  "LastUpdate_Achievements": "2023-06-18T19:00:19.4120232+00:00"
+  "LastUpdate_Ratings": "2023-06-18T19:58:28.5668972+00:00",
+  "LastUpdate_Achievements": "2023-06-18T20:00:40.5691839+00:00"
 }

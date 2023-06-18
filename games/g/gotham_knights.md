@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,933 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,622 |
-| Loose Ends | 4.00% | ~2,622 |
+| First Step Into the Knight | 6.00% | ~3,934 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,623 |
+| Loose Ends | 4.00% | ~2,623 |
 | To the Victor Go the Spoils | 3.00% | ~1,967 |
 | Get ReQ'd | 3.00% | ~1,967 |
 | Knighthood | 3.00% | ~1,967 |
@@ -38,8 +38,8 @@ Rating: 4.18 (Ranked 849)
 | Gotham City Confidential | 1.00% | ~656 |
 | Solid Alibi | 1.00% | ~656 |
 | Out of Their League | 0.90% | ~590 |
-| Fusion Expert | 0.80% | ~524 |
-| Family Meeting | 0.80% | ~524 |
+| Fusion Expert | 0.80% | ~525 |
+| Family Meeting | 0.80% | ~525 |
 | A Worthy Successor | 0.70% | ~459 |
 | Expert Crime Fighter | 0.60% | ~393 |
 | Dressed to Impress | 0.50% | ~328 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 849)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,553 (Ranked 70)  
+Progressed: 65,563 (Ranked 70)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,553 | 95 |
+| 2023-06-18 | 65,563 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,346  (Ranked 98)  
-Sum: 3,884 (Ranked 137)  
+Sum: 3,885 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -139,7 +139,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 198 |
 | This game has Amazing Characters | 196 |
 | This game has Diverse Characters | 190 |
-| This game has Amazing Storytelling | 187 |
+| This game has Amazing Storytelling | 188 |
 | This game is Great for Beginners | 184 |
 | This game is Highly Recommended | 183 |
 | This game is Great for Quick Sessions | 60 |
@@ -263,4 +263,4 @@ Diff (max vs sum): -39
 | 2023-06-15 | 4.17 | 2,336 | 3,866 |
 | 2023-06-16 | 4.17 | 2,336 | 3,867 |
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
-| 2023-06-18 | 4.18 | 2,346 | 3,884 |
+| 2023-06-18 | 4.18 | 2,346 | 3,885 |
