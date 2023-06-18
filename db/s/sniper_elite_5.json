@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2997,
+  "EOS_Progressed": 2999,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3886,6 +3886,11 @@
       "Time": "2023-06-18T12:05:51.1041533+00:00",
       "NumProgressed": 2997,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T13:11:37.4576972+00:00",
+      "NumProgressed": 2999,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3977,7 +3982,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4065,7 +4070,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4145,7 +4150,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4209,7 +4214,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4369,7 +4374,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -4401,7 +4406,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -4464,13 +4469,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2948,
+      "Progressed": 2950,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2997,
+      "Progressed": 2999,
       "Completed": 2
     }
   ],
@@ -4478,8 +4483,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-17T16:01:16.5934353+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:05:51.104153+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:11:37.4576965+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T12:00:05.3391894+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:05:51.1043285+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:05:34.9222122+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:11:37.4578713+00:00"
 }

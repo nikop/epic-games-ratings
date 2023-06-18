@@ -5,43 +5,43 @@ Rating: 4.28 (Ranked 783)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~929 |
-| A new Journey | 72.00% | ~904 |
-| From X to Y | 71.00% | ~891 |
-| Departure | 71.00% | ~891 |
-| Way of Iron | 69.00% | ~866 |
-| Mystery Tour | 67.00% | ~841 |
-| We brake for nobody | 66.00% | ~828 |
-| Brainstorm | 65.00% | ~816 |
-| Mind the Gap | 64.00% | ~803 |
-| Travel Company | 64.00% | ~803 |
-| All around the World | 61.00% | ~766 |
-| Right through the middle | 56.00% | ~703 |
-| Poor Devil | 53.00% | ~665 |
-| Facility Manager | 52.00% | ~653 |
-| Producer | 49.00% | ~615 |
-| Apprentice | 42.00% | ~527 |
-| Bridge Builder | 40.00% | ~502 |
+| Country Bumpkin | 74.00% | ~930 |
+| A new Journey | 72.00% | ~905 |
+| From X to Y | 71.00% | ~892 |
+| Departure | 71.00% | ~892 |
+| Way of Iron | 69.00% | ~867 |
+| Mystery Tour | 67.00% | ~842 |
+| We brake for nobody | 66.00% | ~830 |
+| Brainstorm | 65.00% | ~817 |
+| Mind the Gap | 64.00% | ~804 |
+| Travel Company | 64.00% | ~804 |
+| All around the World | 61.00% | ~767 |
+| Right through the middle | 56.00% | ~704 |
+| Poor Devil | 53.00% | ~666 |
+| Facility Manager | 52.00% | ~654 |
+| Producer | 49.00% | ~616 |
+| Apprentice | 42.00% | ~528 |
+| Bridge Builder | 40.00% | ~503 |
 | Access granted | 34.00% | ~427 |
-| Stoker | 33.00% | ~414 |
-| Going once, going twice, sold | 33.00% | ~414 |
-| Full Steam ahead | 30.00% | ~376 |
-| Bull and bear | 30.00% | ~376 |
+| Stoker | 33.00% | ~415 |
+| Going once, going twice, sold | 33.00% | ~415 |
+| Full Steam ahead | 30.00% | ~377 |
+| Bull and bear | 30.00% | ~377 |
 | All mine | 27.00% | ~339 |
 | Mole | 27.00% | ~339 |
 | Financial Shark | 27.00% | ~339 |
 | Socializer | 25.00% | ~314 |
-| Country Life | 24.00% | ~301 |
+| Country Life | 24.00% | ~302 |
 | General Manager | 23.00% | ~289 |
 | Hostile Takeover | 23.00% | ~289 |
-| Seven at one stroke | 22.00% | ~276 |
+| Seven at one stroke | 22.00% | ~277 |
 | Trailblazer | 18.00% | ~226 |
 | Breaking Ground | 18.00% | ~226 |
-| Traffic Jam | 17.00% | ~213 |
-| Traffic Junction | 17.00% | ~213 |
-| Assimilated | 15.00% | ~188 |
-| Locusts | 15.00% | ~188 |
-| Networker | 15.00% | ~188 |
+| Traffic Jam | 17.00% | ~214 |
+| Traffic Junction | 17.00% | ~214 |
+| Assimilated | 15.00% | ~189 |
+| Locusts | 15.00% | ~189 |
+| Networker | 15.00% | ~189 |
 | Resistance is futile | 14.00% | ~176 |
 | Max Power | 11.00% | ~138 |
 | Settler | 11.00% | ~138 |
@@ -61,7 +61,7 @@ Rating: 4.28 (Ranked 783)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,255 (Ranked 172)  
+Progressed: 1,257 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 1,213 | 0 |
 | 2023-06-16 | 1,225 | 0 |
 | 2023-06-17 | 1,250 | 0 |
-| 2023-06-18 | 1,255 | 0 |
+| 2023-06-18 | 1,257 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

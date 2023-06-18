@@ -3,8 +3,8 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -552,6 +552,11 @@
       "Time": "2023-06-18T12:03:58.1831749+00:00",
       "NumProgressed": 440,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-18T13:08:54.2050492+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -563,7 +568,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "booty_call",
@@ -587,7 +592,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "hold_my_beer",
@@ -651,7 +656,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "smooth_criminal",
@@ -665,9 +670,9 @@
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "we_go_again",
@@ -682,7 +687,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 5
     }
   ],
@@ -690,8 +695,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:03:58.1831744+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:08:54.2050487+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.7198283+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:57:54.6528297+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:03:58.1832058+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:02:21.3641145+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:08:54.2050647+00:00"
 }

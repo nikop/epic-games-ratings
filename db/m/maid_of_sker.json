@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -167,6 +167,11 @@
       "Time": "2023-06-17T22:04:34.3383407+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T13:09:46.0433155+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -178,7 +183,7 @@
       "Name": "Animal Lover",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "axe_of_kindness",
@@ -218,7 +223,7 @@
       "Name": "Choking Hazard",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "dodgy_geezer",
@@ -242,7 +247,7 @@
       "Name": "Easy Listening",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ending_on_a_high_note",
@@ -346,7 +351,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "phonic_boom",
@@ -417,7 +422,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
@@ -425,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:04:33.7265134+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:09:46.0433145+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:48.8292075+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:58:48.5285359+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:04:33.7265339+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:03:49.888121+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:09:46.0433716+00:00"
 }

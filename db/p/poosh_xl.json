@@ -2,10 +2,10 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.6,
+  "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -589,6 +589,11 @@
       "Time": "2023-06-18T02:27:40.785581+00:00",
       "NumProgressed": 125,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T13:08:48.4054262+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -608,7 +613,7 @@
       "Name": "Challenge 02",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 03",
@@ -624,7 +629,7 @@
       "Name": "Challenge 04",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 05",
@@ -632,7 +637,7 @@
       "Name": "Challenge 05",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 06",
@@ -640,7 +645,7 @@
       "Name": "Challenge 06",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 07",
@@ -648,7 +653,7 @@
       "Name": "Challenge 07",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 08",
@@ -656,7 +661,7 @@
       "Name": "Challenge 08",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 09",
@@ -664,7 +669,7 @@
       "Name": "Challenge 09",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 10",
@@ -672,7 +677,7 @@
       "Name": "Challenge 10",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 11",
@@ -680,7 +685,7 @@
       "Name": "Challenge 11",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Challenge 12",
@@ -688,7 +693,7 @@
       "Name": "Challenge 12",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Destroy 25 Obstacles",
@@ -712,7 +717,7 @@
       "Name": "Pooshed Past 10000",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Poosh Past 2500",
@@ -726,7 +731,7 @@
       "ID": "Poosh Past 5000",
       "SetID": "5n829i",
       "Name": "Pooshed Past 5000",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 32
     },
@@ -759,13 +764,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:03:54.1120611+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:08:48.4054256+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.2495836+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:57:28.8774223+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:03:54.1120982+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:01:43.3329613+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:08:48.4054531+00:00"
 }

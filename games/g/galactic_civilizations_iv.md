@@ -21,7 +21,7 @@ Number of Ratings: 429  (23.09.2022)
 | Prestige Victory! | 14.00% | ~835 |
 | Galactic War | 11.00% | ~656 |
 | Trading Partner | 9.00% | ~537 |
-| Fleet Victory | 8.00% | ~477 |
+| Fleet Victory | 9.00% | ~537 |
 | Win as Terrans | 7.00% | ~417 |
 | Gain an Ally | 6.00% | ~358 |
 | Win with a Custom Faction | 6.00% | ~358 |

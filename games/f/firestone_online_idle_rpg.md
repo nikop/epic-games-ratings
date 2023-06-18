@@ -5,25 +5,25 @@ Rating: 4.05 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,351 |
-| World Map | 80.00% | ~1,150 |
-| Temple of Eternals | 57.00% | ~819 |
-| Prestigious | 53.00% | ~762 |
-| Fellowship Power | 41.00% | ~589 |
+| Victor | 94.00% | ~1,353 |
+| World Map | 80.00% | ~1,151 |
+| Temple of Eternals | 57.00% | ~820 |
+| Prestigious | 53.00% | ~763 |
+| Fellowship Power | 41.00% | ~590 |
 | Guild Power | 24.00% | ~345 |
 | Prestigious x10 | 21.00% | ~302 |
 | The game is on | 19.00% | ~273 |
-| Exotic Merchant | 17.00% | ~244 |
+| Exotic Merchant | 17.00% | ~245 |
 | Dragon Clicker | 16.00% | ~230 |
-| Miner Clicker | 16.00% | ~230 |
 | Inspection | 15.00% | ~216 |
+| Miner Clicker | 15.00% | ~216 |
 | Full Party | 14.00% | ~201 |
 | Dragon Master | 13.00% | ~187 |
 | Enlightenment | 13.00% | ~187 |
 | Hero inspection | 13.00% | ~187 |
 | Lieutenant | 13.00% | ~187 |
-| Natural Talent | 12.00% | ~172 |
-| The Unstoppable | 12.00% | ~172 |
+| Natural Talent | 12.00% | ~173 |
+| The Unstoppable | 12.00% | ~173 |
 | Milestone collector | 11.00% | ~158 |
 | Mysterious Rock | 11.00% | ~158 |
 | Superior | 11.00% | ~158 |
@@ -48,12 +48,12 @@ Rating: 4.05 (Ranked 897)
 | The Expeditioner | 5.00% | ~72 |
 | The father of Dragons | 5.00% | ~72 |
 | Weekly Quest Completionist | 5.00% | ~72 |
-| Background Story | 4.00% | ~57 |
-| Crystal Mining | 4.00% | ~57 |
-| Dragon Slayer | 4.00% | ~57 |
-| Enchanting skill | 4.00% | ~57 |
-| Engineer Mastery | 4.00% | ~57 |
-| Lock And Load | 4.00% | ~57 |
+| Background Story | 4.00% | ~58 |
+| Crystal Mining | 4.00% | ~58 |
+| Dragon Slayer | 4.00% | ~58 |
+| Enchanting skill | 4.00% | ~58 |
+| Engineer Mastery | 4.00% | ~58 |
+| Lock And Load | 4.00% | ~58 |
 | Blueprint Upgrades | 3.00% | ~43 |
 | Sailor | 3.00% | ~43 |
 | Active Member | 2.00% | ~29 |
@@ -62,7 +62,7 @@ Rating: 4.05 (Ranked 897)
 | The Alchemist | 2.00% | ~29 |
 | What lies behind the bush | 2.00% | ~29 |
 | Legendary | 1.00% | ~14 |
-| Mythic Power | 0.80% | ~11 |
+| Mythic Power | 0.80% | ~12 |
 | Training makes a Pro player | 0.60% | ~9 |
 | Transmute | 0.60% | ~9 |
 | Tree of Life | 0.50% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 897)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,437 (Ranked 167)  
+Progressed: 1,439 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
 | 2023-06-17 | 1,427 | 1 |
-| 2023-06-18 | 1,437 | 1 |
+| 2023-06-18 | 1,439 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~73 |
-| MLG 360 no scope kill! | 91.00% | ~72 |
-| Are you ready to rumble? | 90.00% | ~71 |
-| That's what cheese said! | 85.00% | ~67 |
-| I like you...but I have to kill you... | 84.00% | ~66 |
-| AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~65 |
-| Not so hip anymore! | 82.00% | ~65 |
-| Nerd | 82.00% | ~65 |
-| Blurry depth perception | 80.00% | ~63 |
-| Up and down | 75.00% | ~59 |
-| Rolling, Rolling, Rolling | 72.00% | ~57 |
+| Tastes just like chicken! | 91.00% | ~73 |
+| MLG 360 no scope kill! | 90.00% | ~72 |
+| Are you ready to rumble? | 89.00% | ~71 |
+| That's what cheese said! | 84.00% | ~67 |
+| I like you...but I have to kill you... | 83.00% | ~66 |
+| AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~65 |
+| Not so hip anymore! | 81.00% | ~65 |
+| Nerd | 81.00% | ~65 |
+| Blurry depth perception | 79.00% | ~63 |
+| Up and down | 74.00% | ~59 |
+| Rolling, Rolling, Rolling | 71.00% | ~57 |
 | Fire-fighter! | 68.00% | ~54 |
 | Oh, you're up to no gouda! | 63.00% | ~50 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~50 |
 | Meat grinder | 59.00% | ~47 |
-| You're not going to blow me up! | 56.00% | ~44 |
+| You're not going to blow me up! | 55.00% | ~44 |
 | Mushroom soup of the day | 53.00% | ~42 |
-| Honk honk! | 52.00% | ~41 |
-| Butcher | 52.00% | ~41 |
-| Spare Ribs | 51.00% | ~40 |
+| Honk honk! | 51.00% | ~41 |
+| Butcher | 51.00% | ~41 |
+| Spare Ribs | 50.00% | ~40 |
 | My pants squeak when I walk | 49.00% | ~39 |
 | Thats disgusting! | 48.00% | ~38 |
-| Cockadoodledoo! | 47.00% | ~37 |
+| Cockadoodledoo! | 46.00% | ~37 |
 | Surprise!! | 44.00% | ~35 |
-| Self assessed tax return | 42.00% | ~33 |
-| Make America Grate Again | 37.00% | ~29 |
-| Haemochromatosis | 37.00% | ~29 |
-| Pasta Bolognese | 37.00% | ~29 |
+| Self assessed tax return | 41.00% | ~33 |
+| Make America Grate Again | 36.00% | ~29 |
+| Haemochromatosis | 36.00% | ~29 |
+| Pasta Bolognese | 36.00% | ~29 |
 | You are no match for me, Billy! | 35.00% | ~28 |
 | Karaoke king | 35.00% | ~28 |
 | You can't stop me, bro! | 35.00% | ~28 |
@@ -43,9 +43,9 @@
 | Ripe Meat Off The Bone! | 25.00% | ~20 |
 | Hovering around | 25.00% | ~20 |
 | Kleptomaniac | 23.00% | ~18 |
-| You're not so Big anymore, Boi! | 22.00% | ~17 |
-| Your daily dose of Vitamin C. | 22.00% | ~17 |
-| I cant stand still! | 22.00% | ~17 |
+| You're not so Big anymore, Boi! | 21.00% | ~17 |
+| Your daily dose of Vitamin C. | 21.00% | ~17 |
+| I cant stand still! | 21.00% | ~17 |
 | Master Butcher | 18.00% | ~14 |
 | Just wing it! | 18.00% | ~14 |
 | Slimy... yet satisfying | 16.00% | ~13 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 298)  
+Progressed: 80 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 74 | 0 |
 | 2023-06-16 | 76 | 0 |
 | 2023-06-17 | 79 | 0 |
+| 2023-06-18 | 80 | 0 |

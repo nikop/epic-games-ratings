@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -3788,9 +3788,9 @@
       "ID": "Win_Battle_Against_Many_Ships",
       "SetID": "4h07amh",
       "Name": "Fleet Victory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 537
     },
     {
       "ID": "Win_Conquest",
@@ -3876,8 +3876,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:04:19.4991863+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:09:26.0607639+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.5784862+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:57:20.4189113+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:04:19.499307+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:01:32.243367+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:09:26.0608492+00:00"
 }

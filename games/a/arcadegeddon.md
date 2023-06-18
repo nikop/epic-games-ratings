@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,643 |
-| Photogenic | 88.00% | ~6,424 |
-| Surge Gauntlet Jockey | 85.00% | ~6,205 |
-| Plug It In | 84.00% | ~6,132 |
-| Adventure Time | 80.00% | ~5,840 |
-| Playing With Power | 77.00% | ~5,621 |
-| Coup d'Etat | 59.00% | ~4,307 |
-| You're Fired | 58.00% | ~4,234 |
-| Get Furious | 56.00% | ~4,088 |
-| Gunplay And Cosplay | 55.00% | ~4,015 |
-| Hacks In Stacks | 54.00% | ~3,942 |
+| Let's Get This Party Started | 91.00% | ~6,644 |
+| Photogenic | 88.00% | ~6,425 |
+| Surge Gauntlet Jockey | 85.00% | ~6,206 |
+| Plug It In | 84.00% | ~6,133 |
+| Adventure Time | 80.00% | ~5,841 |
+| Playing With Power | 77.00% | ~5,622 |
+| Coup d'Etat | 59.00% | ~4,308 |
+| You're Fired | 58.00% | ~4,235 |
+| Get Furious | 56.00% | ~4,089 |
+| Gunplay And Cosplay | 55.00% | ~4,016 |
+| Hacks In Stacks | 54.00% | ~3,943 |
 | Meching Enemies | 49.00% | ~3,577 |
 | Ticket Toddler | 45.00% | ~3,285 |
 | Booty Bashing | 43.00% | ~3,139 |
@@ -53,11 +53,11 @@ Number of Ratings: 801  (23.09.2022)
 | Nature Is Lit | 1.00% | ~73 |
 | The Collector | 0.90% | ~66 |
 | Shield and Shred | 0.60% | ~44 |
-| I'm The Pluggernaut | 0.50% | ~36 |
-| Infinite Adventures! | 0.50% | ~36 |
+| I'm The Pluggernaut | 0.50% | ~37 |
+| Infinite Adventures! | 0.50% | ~37 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,300 (Ranked 119)  
+Progressed: 7,301 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 7,277 | 0 |
 | 2023-06-16 | 7,288 | 0 |
 | 2023-06-17 | 7,296 | 0 |
-| 2023-06-18 | 7,300 | 0 |
+| 2023-06-18 | 7,301 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 378)  
 Sum: 485 (Ranked 296)  

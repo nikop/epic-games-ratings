@@ -5,19 +5,19 @@ Rating: 4.43 (Ranked 649)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,922 |
+| Survivor | 31.00% | ~77,923 |
 | Predator I | 22.00% | ~55,300 |
 | Fixer I | 10.00% | ~25,136 |
 | A week in Century City | 10.00% | ~25,136 |
-| The Wait | 7.00% | ~17,595 |
+| The Wait | 7.00% | ~17,596 |
 | Green thumb I | 6.00% | ~15,082 |
 | Cleaning Company | 6.00% | ~15,082 |
 | Well-oiled machine | 5.00% | ~12,568 |
 | Saver I | 5.00% | ~12,568 |
-| The Ascent | 4.00% | ~10,054 |
-| Pacifist | 4.00% | ~10,054 |
-| Vandalism | 4.00% | ~10,054 |
-| Capitalist I | 4.00% | ~10,054 |
+| The Ascent | 4.00% | ~10,055 |
+| Pacifist | 4.00% | ~10,055 |
+| Vandalism | 4.00% | ~10,055 |
+| Capitalist I | 4.00% | ~10,055 |
 | Adrenaline | 3.00% | ~7,541 |
 | By a hair | 2.00% | ~5,027 |
 | Fixer II | 2.00% | ~5,027 |
@@ -48,12 +48,12 @@ Rating: 4.43 (Ranked 649)
 | Fixer III | 0.30% | ~754 |
 | AML questionnaire | 0.30% | ~754 |
 | Heartbreaker | 0.30% | ~754 |
+| Workhorse | 0.20% | ~503 |
 | Homerun | 0.20% | ~503 |
 | A season in Century City | 0.20% | ~503 |
 | Saver III | 0.10% | ~251 |
 | Collector | 0.10% | ~251 |
 | Mansion | 0.10% | ~251 |
-| Workhorse | 0.10% | ~251 |
 | Green thumb III | 0.10% | ~251 |
 | Plantation | 0.10% | ~251 |
 | Reminescence | 0.10% | ~251 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 649)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,362 (Ranked 42)  
+Progressed: 251,365 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.00%) (Ranked 227)
 | 2023-06-15 | 251,171 | 1 |
 | 2023-06-16 | 251,234 | 1 |
 | 2023-06-17 | 251,319 | 1 |
-| 2023-06-18 | 251,362 | 1 |
+| 2023-06-18 | 251,365 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
 Sum: 137 (Ranked 388)  

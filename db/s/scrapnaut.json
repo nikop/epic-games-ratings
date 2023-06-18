@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -764,9 +764,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -828,9 +828,9 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_KILL_20",
@@ -941,8 +941,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:05:34.4821658+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:11:15.3300032+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9798889+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:58:12.6302269+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:05:34.4822118+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:02:52.9167427+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:11:15.3300446+00:00"
 }

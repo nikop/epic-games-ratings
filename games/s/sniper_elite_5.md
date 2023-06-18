@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~929 |
-| Confirming Suspicions | 26.00% | ~779 |
-| The Kraken Wakes | 22.00% | ~659 |
-| It's Starting to Crack | 19.00% | ~569 |
+| Meeting Resistance | 31.00% | ~930 |
+| Confirming Suspicions | 26.00% | ~780 |
+| The Kraken Wakes | 22.00% | ~660 |
+| It's Starting to Crack | 19.00% | ~570 |
 | Lord of War | 16.00% | ~480 |
 | Change the Channel | 16.00% | ~480 |
 | Resourceful | 15.00% | ~450 |
@@ -45,8 +45,8 @@ Rating: 4.50 (Ranked 547)
 | Don't hold your breath | 2.00% | ~60 |
 | Herr Today, Gone Tomorrow | 2.00% | ~59 |
 | Tinkerer | 1.00% | ~30 |
-| Operation Foxley | 1.00% | ~29 |
-| Ghost of Falaise | 1.00% | ~29 |
+| Operation Foxley | 1.00% | ~30 |
+| Ghost of Falaise | 1.00% | ~30 |
 | Burn after reading | 0.90% | ~27 |
 | Last Resort | 0.90% | ~27 |
 | Siegebreaker | 0.90% | ~27 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,997 (Ranked 145)  
+Progressed: 2,999 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
-| 2023-06-18 | 2,997 | 2 |
+| 2023-06-18 | 2,999 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

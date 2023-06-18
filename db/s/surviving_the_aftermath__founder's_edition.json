@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1047,7 +1047,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6561,
+  "EOS_Progressed": 6562,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
@@ -5907,6 +5907,11 @@
       "Time": "2023-06-18T12:02:19.8793935+00:00",
       "NumProgressed": 6561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T13:07:17.0861938+00:00",
+      "NumProgressed": 6562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5918,7 +5923,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "10",
@@ -5950,7 +5955,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "14",
@@ -5966,7 +5971,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "16",
@@ -5998,7 +6003,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "2",
@@ -6006,7 +6011,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "20",
@@ -6014,7 +6019,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "21",
@@ -6030,7 +6035,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "23",
@@ -6062,7 +6067,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "27",
@@ -6094,7 +6099,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "30",
@@ -6286,7 +6291,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "52",
@@ -6374,7 +6379,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "9",
@@ -6389,15 +6394,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6561,
+      "Progressed": 6562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-17T17:00:45.6594352+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:02:19.8793927+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:07:17.0861932+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:59:33.1616515+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:02:19.8795601+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:04:51.9595475+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:07:17.0863444+00:00"
 }

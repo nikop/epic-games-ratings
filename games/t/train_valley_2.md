@@ -20,13 +20,13 @@ Number of Ratings: 87  (23.09.2022)
 | Builder | 4.00% | ~30 |
 | Critical care | 4.00% | ~30 |
 | Just in time! | 4.00% | ~30 |
+| Miner | 4.00% | ~3 |
 | Multilevel road | 4.00% | ~30 |
 | Need to think | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~3 |
 | The Tortoise | 4.00% | ~30 |
 | Upgrade complete | 4.00% | ~30 |
 | Bridgemania | 3.00% | ~22 |
-| Miner | 3.00% | ~2 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |
@@ -83,7 +83,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 738 (Ranked 192)  
-Completed: 1 (0.14%) (Ranked 169)  
+Completed: 1 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

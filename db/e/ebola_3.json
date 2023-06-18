@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -793,6 +793,11 @@
       "Time": "2023-06-17T02:11:44.3917755+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T13:11:44.762097+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -828,7 +833,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achBett",
@@ -868,7 +873,7 @@
       "Name": "Chest \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achCity",
@@ -964,7 +969,7 @@
       "Name": "Survival \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achFood",
@@ -1004,7 +1009,7 @@
       "Name": "Fright \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achLizun",
@@ -1132,7 +1137,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achShahmat",
@@ -1156,7 +1161,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achVip",
@@ -1203,7 +1208,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 0
     }
   ],
@@ -1211,8 +1216,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:05:57.0020451+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:11:44.7620964+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:44.5726171+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:59:48.7661037+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:05:57.0021002+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:05:11.9215566+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:11:44.7621837+00:00"
 }

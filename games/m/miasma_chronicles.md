@@ -8,12 +8,12 @@ Rating: 4.34 (Ranked 739)
 | First Blood | 92.00% | ~1,067 |
 | Ranidaphobia | 76.00% | ~882 |
 | Aspiring Editor | 74.00% | ~858 |
-| Gun for Hire | 68.00% | ~789 |
+| Gun for Hire | 69.00% | ~800 |
 | I am the law! | 61.00% | ~708 |
-| Lumberjack | 48.00% | ~557 |
+| Lumberjack | 49.00% | ~568 |
 | Croaked | 44.00% | ~510 |
+| Limp Richard | 43.00% | ~499 |
 | From Darkness to Light | 43.00% | ~499 |
-| Limp Richard | 42.00% | ~487 |
 | Exorcist | 42.00% | ~487 |
 | Editor Adept | 41.00% | ~476 |
 | Firestarter | 39.00% | ~452 |

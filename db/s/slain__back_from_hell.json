@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26306,
+  "EOS_Progressed": 26313,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1125,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6396,6 +6396,11 @@
       "Time": "2023-06-18T12:05:39.6746138+00:00",
       "NumProgressed": 26306,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-18T13:11:22.1404685+00:00",
+      "NumProgressed": 26313,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6407,7 +6412,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6415,7 +6420,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5263
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6431,7 +6436,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -6455,7 +6460,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -6479,7 +6484,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -6551,7 +6556,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -6559,7 +6564,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -6567,7 +6572,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -6575,7 +6580,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -6589,9 +6594,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -6638,7 +6643,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26306,
+      "Progressed": 26313,
       "Completed": 20
     }
   ],
@@ -6646,8 +6651,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-18T12:05:39.6746135+00:00",
+  "LastChanged_Achievements": "2023-06-18T13:11:22.1404678+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-18T11:59:34.1862897+00:00",
-  "LastUpdate_Achievements": "2023-06-18T12:05:39.6746733+00:00"
+  "LastUpdate_Ratings": "2023-06-18T13:04:53.5115585+00:00",
+  "LastUpdate_Achievements": "2023-06-18T13:11:22.1405675+00:00"
 }

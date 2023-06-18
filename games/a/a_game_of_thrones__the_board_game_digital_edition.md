@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,396 |
-| Battering Crew | 20.00% | ~3,198 |
-| The Kingsroad | 19.00% | ~3,038 |
-| Well Stocked | 14.00% | ~2,239 |
-| Royal Fleet | 14.00% | ~2,239 |
-| The Kraken’s Grasp | 10.00% | ~1,599 |
-| Alliance | 9.00% | ~1,439 |
-| Daggers in the Dark | 8.00% | ~1,279 |
-| Oathkeeper | 8.00% | ~1,279 |
-| Influential | 8.00% | ~1,279 |
-| A Long Journey | 8.00% | ~1,279 |
-| Ours is the Fury | 7.00% | ~1,119 |
-| We Do Not Sow | 7.00% | ~1,119 |
-| Winter is Coming | 7.00% | ~1,119 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~959 |
-| Hear me Roar! | 6.00% | ~959 |
-| Defender of the Wall | 6.00% | ~959 |
+| Conqueror | 40.00% | ~6,400 |
+| Battering Crew | 20.00% | ~3,200 |
+| The Kingsroad | 19.00% | ~3,040 |
+| Well Stocked | 14.00% | ~2,240 |
+| Royal Fleet | 14.00% | ~2,240 |
+| The Kraken’s Grasp | 10.00% | ~1,600 |
+| Alliance | 9.00% | ~1,440 |
+| Daggers in the Dark | 8.00% | ~1,280 |
+| Oathkeeper | 8.00% | ~1,280 |
+| Influential | 8.00% | ~1,280 |
+| A Long Journey | 8.00% | ~1,280 |
+| Ours is the Fury | 7.00% | ~1,120 |
+| We Do Not Sow | 7.00% | ~1,120 |
+| Winter is Coming | 7.00% | ~1,120 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~960 |
+| Hear me Roar! | 6.00% | ~960 |
+| Defender of the Wall | 6.00% | ~960 |
 | Growing Strong | 5.00% | ~800 |
 | What is Dead may Never Die | 3.00% | ~480 |
 | The Swift | 3.00% | ~480 |
 | King in the North | 2.00% | ~320 |
 | War of the Five Kings | 1.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,990 (Ranked 102)  
+Progressed: 16,000 (Ranked 102)  
 Completed: 33 (0.21%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 33 (0.21%) (Ranked 154)
 | 2023-06-15 | 15,713 | 33 |
 | 2023-06-16 | 15,812 | 33 |
 | 2023-06-17 | 15,928 | 33 |
-| 2023-06-18 | 15,990 | 33 |
+| 2023-06-18 | 16,000 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
-Sum: 782 (Ranked 255)  
+Sum: 783 (Ranked 255)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 50
 | This game has Competitive Players | 98 |
 | This game is Relaxing | 95 |
 | This game has Amazing Storytelling | 90 |
-| This game has Amazing Characters | 84 |
+| This game has Amazing Characters | 85 |
 | This game has a Competitive Community | 73 |
 | This game has Playful Visuals | 20 |
 ## Ratings History
@@ -185,3 +185,4 @@ Diff (max vs sum): 50
 | 2023-04-15 | 4.20 | - | 122 | 778 |
 | 2023-05-07 | 4.20 | - | 123 | 779 |
 | 2023-06-04 | 4.20 | - | 123 | 782 |
+| 2023-06-18 | 4.20 | - | 123 | 783 |

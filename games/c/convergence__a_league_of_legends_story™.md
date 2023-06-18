@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 13.00% | ~92 |
+| The Steel Shadow | 11.00% | ~78 |
 | The Mysterious Stranger | 11.00% | ~78 |
 | Rail Rat | 11.00% | ~78 |
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
-| The Steel Shadow | 10.00% | ~70 |
 | Treasure Trove | 10.00% | ~70 |
 | Time Flies | 10.00% | ~70 |
 | The Harder They Fall | 10.00% | ~70 |
@@ -22,13 +22,13 @@
 | Fast Learner | 10.00% | ~70 |
 | Immaculate Aim | 10.00% | ~70 |
 | The Brass Boss | 10.00% | ~70 |
+| Like Clockwork | 9.00% | ~63 |
 | The Betrayer | 9.00% | ~63 |
 | The Man Who Shattered Time | 9.00% | ~63 |
 | The Loose Cannon | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Check Your Pulse | 9.00% | ~63 |
 | The Family Fortune | 9.00% | ~63 |
-| Like Clockwork | 8.00% | ~56 |
 | Street Style | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Whiz Kid | 7.00% | ~49 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 194)  
+Progressed: 705 (Ranked 195)  
 Completed: 3 (0.43%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
