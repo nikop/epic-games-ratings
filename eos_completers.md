@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.14% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.11% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -65,7 +65,7 @@
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.34% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 68 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 69 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
@@ -140,10 +140,10 @@
 | 138 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 138 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 138 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
+| 138 | [The Surge](games/t/the_surge.md) | 0.32% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 143 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
-| 143 | [The Surge](games/t/the_surge.md) | 0.29% |
+| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
+| 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
 | 145 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 147 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
@@ -457,4 +457,4 @@
 | 228 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 228 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,802 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,804 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
