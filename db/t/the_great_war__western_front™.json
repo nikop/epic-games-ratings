@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2023-06-18T09:04:27.6613613+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T16:04:09.2027678+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1114,23 +1119,23 @@
       "Name": "Earth Shattering",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1145,7 +1150,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 0
     }
   ],
@@ -1153,8 +1158,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:03:32.2813874+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:04:09.2027674+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.7573409+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:58:21.9245231+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:03:32.281404+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:58:42.6202719+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:04:09.2027853+00:00"
 }

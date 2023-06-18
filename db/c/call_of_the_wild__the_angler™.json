@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4395,
+  "EOS_Progressed": 4397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3509,6 +3509,11 @@
       "Time": "2023-06-18T15:03:34.4146468+00:00",
       "NumProgressed": 4395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T16:04:11.0286923+00:00",
+      "NumProgressed": 4397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3520,15 +3525,15 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3298
     },
     {
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3536,7 +3541,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3544,15 +3549,15 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3560,7 +3565,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3568,7 +3573,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3576,7 +3581,7 @@
       "Name": "Scaling up",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3592,7 +3597,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3600,7 +3605,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -3688,7 +3693,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3758,9 +3763,9 @@
       "ID": "ACHIEVEMENT_032",
       "SetID": "6jk25od",
       "Name": "Rod and Troll",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -3799,13 +3804,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4395,
+      "Progressed": 4397,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3767,
+      "Progressed": 3769,
       "Completed": 112
     }
   ],
@@ -3813,8 +3818,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:03:34.414646+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:04:11.0286919+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:59:29.0493331+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:03:34.414693+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:59:54.8675068+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:04:11.0287323+00:00"
 }

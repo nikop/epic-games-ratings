@@ -5,24 +5,24 @@ Rating: 3.46 (Ranked 944)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 76.00% | ~1,286 |
-| Home Is Where the Heart Is | 59.00% | ~998 |
-| Ne Plus Ultra | 59.00% | ~998 |
-| Wounded Whispers | 59.00% | ~998 |
-| Blood Will Have Blood | 49.00% | ~829 |
-| ICU | 45.00% | ~761 |
+| I Like My Stakes Rare! | 76.00% | ~1,287 |
+| Home Is Where the Heart Is | 59.00% | ~999 |
+| Ne Plus Ultra | 59.00% | ~999 |
+| Wounded Whispers | 59.00% | ~999 |
+| Blood Will Have Blood | 49.00% | ~830 |
+| ICU | 45.00% | ~762 |
 | Peek-a-boo | 43.00% | ~728 |
 | Catch and Release | 43.00% | ~728 |
 | Sucks To Be You | 42.00% | ~711 |
 | Welcome to the Neighborhood | 37.00% | ~626 |
-| Fly Fisher | 35.00% | ~592 |
-| Throw The First Stone | 34.00% | ~575 |
-| Enter of Your Own Free Will | 32.00% | ~541 |
+| Fly Fisher | 35.00% | ~593 |
+| Throw The First Stone | 34.00% | ~576 |
+| Enter of Your Own Free Will | 32.00% | ~542 |
 | Heart Attack | 31.00% | ~525 |
 | Skin of Their Teeth | 30.00% | ~508 |
 | Grounded | 23.00% | ~389 |
-| Bad Wiring | 21.00% | ~355 |
-| I Spit On Your Grave | 19.00% | ~321 |
+| Bad Wiring | 20.00% | ~339 |
+| I Spit On Your Grave | 19.00% | ~322 |
 | Neighborhood Revitalization | 15.00% | ~254 |
 | Radio Silence | 15.00% | ~254 |
 | Helping Hand | 12.00% | ~203 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 944)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,692 (Ranked 160)  
+Progressed: 1,693 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 1,688 | 0 |
 | 2023-06-16 | 1,690 | 0 |
 | 2023-06-17 | 1,691 | 0 |
-| 2023-06-18 | 1,692 | 0 |
+| 2023-06-18 | 1,693 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -76,7 +76,7 @@
   "Tags": [],
   "EOS_Progressed": 827,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -935,9 +935,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_STAR_2",
@@ -1008,8 +1008,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:42.1896583+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:23.6374801+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.3727671+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:57:11.7775712+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:42.1896809+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:57:27.3991708+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:23.6374983+00:00"
 }

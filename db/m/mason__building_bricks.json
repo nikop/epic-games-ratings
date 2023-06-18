@@ -72,9 +72,9 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Mason_Arch_01",
@@ -121,8 +121,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:24.2837834+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:05.0012154+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.7913266+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:59:04.3645069+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:24.2837909+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:59:28.5747119+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:05.001222+00:00"
 }

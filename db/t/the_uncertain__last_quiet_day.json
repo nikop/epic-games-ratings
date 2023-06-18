@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "CURIOUS",
       "SetID": "2iigf77",
       "Name": "Curious",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -398,9 +398,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 258
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -510,9 +510,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 258
     },
     {
       "ID": "SILENT",
@@ -575,8 +575,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:33.2546946+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:14.2036318+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:23.5756417+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:58:32.8210357+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:33.2547191+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:58:54.0819755+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:14.20365+00:00"
 }

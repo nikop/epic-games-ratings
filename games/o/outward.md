@@ -11,7 +11,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Summer | 51.00% | ~1,500 |
 | Cordon Bleu | 43.00% | ~1,265 |
 | Tapped! | 36.00% | ~1,059 |
-| Eureka | 31.00% | ~912 |
+| Eureka | 32.00% | ~941 |
 | Scourge Slayer | 25.00% | ~736 |
 | Science, Troglodyte! | 23.00% | ~677 |
 | Exceptional Skill | 22.00% | ~647 |

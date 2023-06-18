@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,633 |
-| Copacetic Coordination | 16.00% | ~51,698 |
-| Fronting the Money | 14.00% | ~45,236 |
-| The Dawn of Automation | 14.00% | ~45,236 |
-| Extraordinary Logistics | 14.00% | ~45,236 |
-| Dirty Money | 13.00% | ~42,005 |
-| Family First | 13.00% | ~42,005 |
-| Cleaning House | 12.00% | ~38,774 |
-| Room in the Back | 12.00% | ~38,774 |
-| Booze Baron | 11.00% | ~35,543 |
-| Beating the Heat | 10.00% | ~32,312 |
-| Friends on the Force | 10.00% | ~32,312 |
-| Neighborhood Watch | 10.00% | ~32,312 |
-| Core Corps | 8.00% | ~25,849 |
-| Sizeable Stash | 7.00% | ~22,618 |
-| Street Fighter | 7.00% | ~22,618 |
-| Friendly Gestures | 7.00% | ~22,618 |
-| People Person | 7.00% | ~22,618 |
-| Liquor Lord | 6.00% | ~19,387 |
-| Show ‘em the Sugar | 6.00% | ~19,387 |
+| Corner Clout | 46.00% | ~148,640 |
+| Copacetic Coordination | 16.00% | ~51,701 |
+| Fronting the Money | 14.00% | ~45,238 |
+| The Dawn of Automation | 14.00% | ~45,238 |
+| Extraordinary Logistics | 14.00% | ~45,238 |
+| Dirty Money | 13.00% | ~42,007 |
+| Family First | 13.00% | ~42,007 |
+| Cleaning House | 12.00% | ~38,776 |
+| Room in the Back | 12.00% | ~38,776 |
+| Booze Baron | 11.00% | ~35,544 |
+| Beating the Heat | 10.00% | ~32,313 |
+| Friends on the Force | 10.00% | ~32,313 |
+| Neighborhood Watch | 10.00% | ~32,313 |
+| Core Corps | 8.00% | ~25,850 |
+| Sizeable Stash | 7.00% | ~22,619 |
+| Street Fighter | 7.00% | ~22,619 |
+| Friendly Gestures | 7.00% | ~22,619 |
+| People Person | 7.00% | ~22,619 |
+| Liquor Lord | 6.00% | ~19,388 |
+| Show ‘em the Sugar | 6.00% | ~19,388 |
 | Street Knowledge | 5.00% | ~16,156 |
 | Oh Captain | 5.00% | ~16,156 |
 | Branching Out | 5.00% | ~16,156 |
@@ -41,18 +41,18 @@ Rating: 4.25 (Ranked 797)
 | An Affront to the Enemy | 4.00% | ~12,925 |
 | Friends from Back Home | 4.00% | ~12,925 |
 | Half Century Mark | 4.00% | ~12,925 |
-| Corner Opportunities | 3.00% | ~9,693 |
-| 2122 North Clark Street | 3.00% | ~9,693 |
-| Copious Cabbage | 3.00% | ~9,693 |
-| Sockdolager | 3.00% | ~9,693 |
-| Still Stalwart | 3.00% | ~9,693 |
-| Bees Knees Bootlegger | 3.00% | ~9,693 |
-| Tighten the Screws | 3.00% | ~9,693 |
-| One of Us | 2.00% | ~6,462 |
-| Baker’s Dozen | 2.00% | ~6,462 |
-| Dropping the Dime | 2.00% | ~6,462 |
-| Spiffy Speakeasies | 2.00% | ~6,462 |
-| Keeping Your Word | 2.00% | ~6,462 |
+| Corner Opportunities | 3.00% | ~9,694 |
+| 2122 North Clark Street | 3.00% | ~9,694 |
+| Copious Cabbage | 3.00% | ~9,694 |
+| Sockdolager | 3.00% | ~9,694 |
+| Still Stalwart | 3.00% | ~9,694 |
+| Bees Knees Bootlegger | 3.00% | ~9,694 |
+| Tighten the Screws | 3.00% | ~9,694 |
+| One of Us | 2.00% | ~6,463 |
+| Baker’s Dozen | 2.00% | ~6,463 |
+| Dropping the Dime | 2.00% | ~6,463 |
+| Spiffy Speakeasies | 2.00% | ~6,463 |
+| Keeping Your Word | 2.00% | ~6,463 |
 | Boxing Them In | 1.00% | ~3,231 |
 | Backroom Empire | 1.00% | ~3,231 |
 | Corner Control | 1.00% | ~3,231 |
@@ -64,11 +64,11 @@ Rating: 4.25 (Ranked 797)
 | Crossing Over | 0.80% | ~2,585 |
 | Boots in the Ground | 0.70% | ~2,262 |
 | Getting Fancy | 0.70% | ~2,262 |
-| Homemade Hooch | 0.40% | ~1,292 |
-| Still Dreaming | 0.40% | ~1,292 |
-| High End Booze | 0.40% | ~1,292 |
-| Working on the Railroad | 0.40% | ~1,292 |
-| Social Butterfly | 0.40% | ~1,292 |
+| Homemade Hooch | 0.40% | ~1,293 |
+| Still Dreaming | 0.40% | ~1,293 |
+| High End Booze | 0.40% | ~1,293 |
+| Working on the Railroad | 0.40% | ~1,293 |
+| Social Butterfly | 0.40% | ~1,293 |
 | Bottled Up | 0.30% | ~969 |
 | Streetwise | 0.30% | ~969 |
 | In-House Maintenance | 0.30% | ~969 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 797)
 | High Pillow | 0.10% | ~323 |
 | Station Master | 0.10% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,115 (Ranked 40)  
+Progressed: 323,130 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-15 | 322,320 | 5 |
 | 2023-06-16 | 322,586 | 5 |
 | 2023-06-17 | 322,911 | 5 |
-| 2023-06-18 | 323,115 | 5 |
+| 2023-06-18 | 323,130 | 5 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 466)  
 Sum: 94 (Ranked 406)  

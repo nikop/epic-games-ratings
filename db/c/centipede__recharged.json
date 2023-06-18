@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14678,
+  "EOS_Progressed": 14680,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -4841,6 +4841,11 @@
       "Time": "2023-06-18T14:01:58.2837974+00:00",
       "NumProgressed": 14678,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-18T16:00:56.6195589+00:00",
+      "NumProgressed": 14680,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 16,
@@ -4908,7 +4913,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "I_Am_The_Storm",
@@ -4948,7 +4953,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "Sole_Survivor",
@@ -4956,7 +4961,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     },
     {
       "ID": "Still_Burning",
@@ -4972,22 +4977,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14678,
+      "Progressed": 14680,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:00:27.4077448+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:00:56.6195584+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.1000808+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:58:47.6164052+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:00:27.4077846+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:59:11.6033521+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:00:56.6195956+00:00"
 }

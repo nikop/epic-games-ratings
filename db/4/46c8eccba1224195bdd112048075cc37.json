@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,9 +259,9 @@
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CollectGold",
@@ -402,8 +402,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:02:11.566578+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:03:19.1883913+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:57:09.7596863+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:02:11.5665953+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:57:25.6602522+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:03:19.1884027+00:00"
 }

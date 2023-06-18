@@ -2777,9 +2777,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1853
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3130,8 +3130,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:43.8965591+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:25.3250066+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:57:35.2654712+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:43.8966256+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:57:52.9084887+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:25.3250531+00:00"
 }

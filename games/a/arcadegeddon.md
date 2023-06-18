@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 567)  
+Rating: 4.49 (Ranked 566)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,8 +32,8 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 15.00% | ~1,095 |
 | The Final Blow | 14.00% | ~1,022 |
 | Light My Fire | 13.00% | ~949 |
+| To Be Continued | 13.00% | ~949 |
 | Seasoned Adventurer | 12.00% | ~876 |
-| To Be Continued | 12.00% | ~876 |
 | 1.21 Gigawatts | 11.00% | ~803 |
 | This Is My Boomstick! | 10.00% | ~730 |
 | Get In The Ring! | 9.00% | ~657 |

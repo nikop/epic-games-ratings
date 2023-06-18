@@ -1,27 +1,27 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.50 (Ranked 547)  
+Rating: 4.48 (Ranked 583)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 31.00% | ~931 |
-| Confirming Suspicions | 26.00% | ~781 |
+| Meeting Resistance | 31.00% | ~932 |
+| Confirming Suspicions | 26.00% | ~782 |
 | The Kraken Wakes | 22.00% | ~661 |
 | It's Starting to Crack | 19.00% | ~571 |
-| Lord of War | 16.00% | ~481 |
+| Lord of War | 17.00% | ~511 |
 | Change the Channel | 16.00% | ~481 |
 | Resourceful | 15.00% | ~451 |
 | Taking it back | 15.00% | ~451 |
 | Target America | 13.00% | ~391 |
-| Organ Grinder | 12.00% | ~360 |
-| As Quiet as a Mouse | 11.00% | ~330 |
-| The Kraken Sleeps | 11.00% | ~330 |
-| Liberté | 10.00% | ~300 |
-| Sharpshooter | 10.00% | ~300 |
-| Just a Flesh Wound | 9.00% | ~270 |
-| Gunslinger | 9.00% | ~270 |
-| Explosive Efficiency | 9.00% | ~270 |
+| Organ Grinder | 12.00% | ~361 |
+| As Quiet as a Mouse | 11.00% | ~331 |
+| The Kraken Sleeps | 11.00% | ~331 |
+| Liberté | 10.00% | ~301 |
+| Sharpshooter | 10.00% | ~301 |
+| Just a Flesh Wound | 9.00% | ~271 |
+| Gunslinger | 9.00% | ~271 |
+| Explosive Efficiency | 9.00% | ~271 |
 | Enemy at the Gates | 8.00% | ~240 |
 | Opposing Force | 7.00% | ~210 |
 | Die Nussknacker Sweet! | 7.00% | ~210 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,004 (Ranked 144)  
+Progressed: 3,006 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
-| 2023-06-18 | 3,004 | 2 |
+| 2023-06-18 | 3,006 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -187,3 +187,4 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-15 | 4.52 | 0 | 0 |
 | 2023-06-16 | 4.51 | 0 | 0 |
 | 2023-06-17 | 4.50 | 0 | 0 |
+| 2023-06-18 | 4.48 | 0 | 0 |

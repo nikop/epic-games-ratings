@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 119,
@@ -4727,9 +4727,9 @@
       "ID": "ACH_TO_BE_CONTINUED",
       "SetID": "97mcd7i",
       "Name": "To Be Continued",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -4759,8 +4759,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:03:48.3623518+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:04:25.6049111+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.8888573+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:58:15.6664347+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:03:48.3624143+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:58:36.087626+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:04:25.6049623+00:00"
 }

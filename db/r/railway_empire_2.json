@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2132,6 +2132,11 @@
       "Time": "2023-06-18T13:11:42.2051954+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T16:06:30.5875636+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2223,7 +2228,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "A11",
@@ -2239,7 +2244,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "A13",
@@ -2255,7 +2260,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "A15",
@@ -2303,15 +2308,15 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 302
     },
     {
       "ID": "A22",
@@ -2319,7 +2324,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "A23",
@@ -2335,7 +2340,7 @@
       "Name": "Access granted",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "A25",
@@ -2383,7 +2388,7 @@
       "Name": "All mine",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "A31",
@@ -2431,7 +2436,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "A37",
@@ -2447,7 +2452,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "A39",
@@ -2463,7 +2468,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "A41",
@@ -2487,7 +2492,7 @@
       "Name": "Mole",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "A44",
@@ -2511,7 +2516,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "A47",
@@ -2519,7 +2524,7 @@
       "Name": "Travel Company",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "A48",
@@ -2535,7 +2540,7 @@
       "Name": "Financial Shark",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "A50",
@@ -2582,7 +2587,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 0
     }
   ],
@@ -2590,8 +2595,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:49.2766679+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:30.5875631+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:57:59.1097882+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:49.2767317+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:58:19.3401842+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:30.5876126+00:00"
 }

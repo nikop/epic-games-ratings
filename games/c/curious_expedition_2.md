@@ -55,10 +55,10 @@ Number of Ratings: 20  (23.09.2022)
 | A Familiar Figure | 4.00% | ~13 |
 | X Marks the Spot | 4.00% | ~13 |
 | The Round Table | 4.00% | ~13 |
+| Frugal | 4.00% | ~13 |
 | A Perfect Map | 3.00% | ~10 |
 | Risk/Reward | 3.00% | ~10 |
 | Look Ma, No Equipment! | 3.00% | ~10 |
-| Frugal | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
 | Lunatic | 2.00% | ~6 |
 | Everything is FINE... | 0.90% | ~3 |

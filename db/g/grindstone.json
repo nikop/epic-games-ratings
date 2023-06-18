@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5125,
+  "EOS_Progressed": 5126,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2023-06-18T04:05:59.303099+00:00",
       "NumProgressed": 5125,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-18T16:06:31.648215+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -621,7 +626,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -637,7 +642,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -653,7 +658,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -701,7 +706,7 @@
       "Name": "Hot Potato",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -725,7 +730,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -749,7 +754,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -773,7 +778,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -797,7 +802,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -845,7 +850,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -869,7 +874,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -909,7 +914,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -965,7 +970,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1012,15 +1017,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:50.3044815+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:31.6482145+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.2741715+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:59:40.6566639+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:50.3045259+00:00"
+  "LastUpdate_Ratings": "2023-06-18T16:00:08.7874441+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:31.6482457+00:00"
 }

@@ -338,9 +338,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "15_Coins",
@@ -522,9 +522,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:05:35.5022699+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:06:16.6609168+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:25.9828618+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:59:31.6428571+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:05:35.5022902+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:59:57.5283776+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:06:16.6609319+00:00"
 }

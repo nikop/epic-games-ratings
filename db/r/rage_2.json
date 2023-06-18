@@ -2,7 +2,7 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "RAGE 2",
   "ProductSlug": "rage-2",
-  "Ranking_Rating": 783,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 459,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "NumberOfRatings": 4311,
   "RatingHistory": [
     {
@@ -2110,6 +2110,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 3297,
       "NumberOfAwardsMax": 2475
+    },
+    {
+      "Time": "2023-06-18T15:59:09.1551483+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 3297,
+      "NumberOfAwardsMax": 2475
     }
   ],
   "ReviewsDisabled": false,
@@ -2197,9 +2203,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
-  "LastChanged": "2023-06-13T09:58:57.5643127+00:00",
-  "LastChanged_Achievements": "2023-06-18T15:04:13.1075884+00:00",
+  "LastChanged": "2023-06-18T15:59:09.1551482+00:00",
+  "LastChanged_Achievements": "2023-06-18T16:04:50.406104+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:36.9347673+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:58:45.394871+00:00",
-  "LastUpdate_Achievements": "2023-06-18T15:04:13.1075921+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:59:09.1551488+00:00",
+  "LastUpdate_Achievements": "2023-06-18T16:04:50.4061064+00:00"
 }

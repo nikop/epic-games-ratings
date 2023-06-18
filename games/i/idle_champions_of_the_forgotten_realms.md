@@ -6,45 +6,45 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,822 |
-| The Cursed Farmer | 3.00% | ~2,911 |
-| Beast Intentions | 2.00% | ~1,941 |
-| The Mad Wizard | 2.00% | ~1,941 |
-| Were-verpowered | 1.00% | ~970 |
-| The Ring of Regeneration | 1.00% | ~970 |
-| Seeking Allies | 1.00% | ~970 |
-| Are Ya Chicken? | 1.00% | ~970 |
-| Friendly Imps | 0.90% | ~873 |
-| The Court of Storms | 0.90% | ~570 |
-| A Persistent Buzzing | 0.80% | ~776 |
-| Mad Cow Disease | 0.80% | ~776 |
-| Pure Energy | 0.80% | ~776 |
-| Terror in the Dark | 0.70% | ~679 |
-| The Crumbling Temple | 0.70% | ~679 |
-| Beware the Jabberwock | 0.70% | ~443 |
-| A Mysterious Summons | 0.60% | ~582 |
-| Unearthed Evil | 0.60% | ~582 |
-| Useless Allies | 0.60% | ~582 |
-| Exploring Port Nyanzaru | 0.60% | ~582 |
-| The Contagious Curse | 0.60% | ~582 |
+| A Brief Tour of the Realms | 6.00% | ~5,827 |
+| The Cursed Farmer | 3.00% | ~2,914 |
+| Beast Intentions | 2.00% | ~1,942 |
+| The Mad Wizard | 2.00% | ~1,942 |
+| Were-verpowered | 1.00% | ~971 |
+| The Ring of Regeneration | 1.00% | ~971 |
+| Seeking Allies | 1.00% | ~971 |
+| Are Ya Chicken? | 1.00% | ~971 |
+| Friendly Imps | 0.90% | ~874 |
+| The Court of Storms | 0.90% | ~571 |
+| A Persistent Buzzing | 0.80% | ~777 |
+| Mad Cow Disease | 0.80% | ~777 |
+| Pure Energy | 0.80% | ~777 |
+| Terror in the Dark | 0.70% | ~680 |
+| The Crumbling Temple | 0.70% | ~680 |
+| Beware the Jabberwock | 0.70% | ~444 |
+| A Mysterious Summons | 0.60% | ~583 |
+| Unearthed Evil | 0.60% | ~583 |
+| Useless Allies | 0.60% | ~583 |
+| Exploring Port Nyanzaru | 0.60% | ~583 |
+| The Contagious Curse | 0.60% | ~583 |
 | Coasting to the Finish | 0.60% | ~380 |
-| Maddening | 0.50% | ~485 |
+| Maddening | 0.50% | ~486 |
 | Checkmate | 0.50% | ~317 |
 | Vecna Out! | 0.50% | ~317 |
-| Beast Mode | 0.50% | ~485 |
-| Low Initiative | 0.50% | ~485 |
-| Building Trust | 0.50% | ~485 |
-| Running of the Saurs | 0.50% | ~485 |
-| Escort to Waterdeep | 0.50% | ~485 |
-| Waterdeep Detours | 0.50% | ~485 |
-| Underdeep Cartography | 0.50% | ~485 |
+| Beast Mode | 0.50% | ~486 |
+| Low Initiative | 0.50% | ~486 |
+| Building Trust | 0.50% | ~486 |
+| Running of the Saurs | 0.50% | ~486 |
+| Escort to Waterdeep | 0.50% | ~486 |
+| Waterdeep Detours | 0.50% | ~486 |
+| Underdeep Cartography | 0.50% | ~486 |
 | Quick or Quack | 0.50% | ~317 |
 | The Silken Swamp | 0.40% | ~388 |
 | Supply Run | 0.40% | ~388 |
-| Owlbear Necessities | 0.40% | ~253 |
-| Best Thay Ever | 0.40% | ~253 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~253 |
-| Pin and Skewer | 0.40% | ~253 |
+| Owlbear Necessities | 0.40% | ~254 |
+| Best Thay Ever | 0.40% | ~254 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~254 |
+| Pin and Skewer | 0.40% | ~254 |
 | Street War | 0.40% | ~388 |
 | March of the Undead | 0.40% | ~388 |
 | No Time To Rest | 0.40% | ~388 |
@@ -233,6 +233,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~127 |
 | Hold for the Red Wizards | 0.20% | ~194 |
 | Form Ranks | 0.20% | ~194 |
+| Distribute Your Weight | 0.20% | ~194 |
 | Only the Strong Survive | 0.20% | ~194 |
 | Shorty's Day Off | 0.20% | ~194 |
 | Intelligence Hunt | 0.20% | ~194 |
@@ -245,6 +246,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.20% | ~194 |
 | Review by the Blackstaff | 0.20% | ~127 |
 | Think Your Way Out Of It | 0.20% | ~194 |
+| Air's Getting Pretty Thin | 0.20% | ~194 |
 | A Saurial's Lament | 0.20% | ~194 |
 | A Saurial's Resolve | 0.20% | ~194 |
 | The Killer Mists | 0.20% | ~194 |
@@ -437,10 +439,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~63 |
 | Drop of Time | 0.10% | ~63 |
 | They Who Smelt It | 0.10% | ~97 |
-| Distribute Your Weight | 0.10% | ~97 |
 | Mongrelfolk Incursion | 0.10% | ~63 |
 | The Strahd Squad | 0.10% | ~63 |
-| Air's Getting Pretty Thin | 0.10% | ~97 |
 | Red Wizard 'Escort' | 0.10% | ~63 |
 | Spirit of the Trickster Gods | 0.10% | ~63 |
 | A Nod from Strahd | 0.10% | ~63 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,032 (Ranked 63)  
-Completed: 1,947 (2.01%) (Ranked 73)  
+Progressed: 97,121 (Ranked 63)  
+Completed: 1,947 (2.00%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -559,15 +559,15 @@ Completed: 1,947 (2.01%) (Ranked 73)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 97,032 | 1,947 |
+| 2023-06-18 | 97,121 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
-Sum: 30,134 (Ranked 37)  
+Sum: 30,138 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,948 |
-| This game is Great for Beginners | 4,875 |
+| This game is Great for Beginners | 4,879 |
 | This game has Quickly Understood Controls | 4,620 |
 | This game is Relaxing | 4,514 |
 | This game is Highly Recommended | 3,962 |
@@ -719,4 +719,4 @@ Diff (max vs sum): 27
 | 2023-06-15 | 4.06 | - | 4,943 | 30,116 |
 | 2023-06-16 | 4.06 | - | 4,946 | 30,126 |
 | 2023-06-17 | 4.06 | - | 4,946 | 30,128 |
-| 2023-06-18 | 4.06 | - | 4,948 | 30,134 |
+| 2023-06-18 | 4.06 | - | 4,948 | 30,138 |
