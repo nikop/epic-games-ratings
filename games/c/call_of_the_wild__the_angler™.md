@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.14 (Ranked 870)  
+Rating: 4.14 (Ranked 871)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 49.00% | ~2,151 |
 | Scaling up | 49.00% | ~2,151 |
 | Ready to Rod and Roll | 41.00% | ~1,800 |
-| More Fish in the Sea | 40.00% | ~1,756 |
+| More Fish in the Sea | 41.00% | ~1,800 |
 | License to Gill | 33.00% | ~1,449 |
 | Fish Out of Water | 32.00% | ~1,405 |
 | Things that go Splash in the Night | 26.00% | ~1,141 |

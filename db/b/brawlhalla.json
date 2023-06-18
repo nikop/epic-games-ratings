@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -2970,10 +2970,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1577,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-06-18T02:23:18.3538775+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1581,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1577,
+  "NumberOfAwards": 1581,
   "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2981,7 +2987,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 128
+      "Count": 132
     },
     {
       "Text": "This game has Competitive Players",
@@ -3062,8 +3068,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-17T22:59:53.8775724+00:00",
+  "LastChanged": "2023-06-18T02:23:18.3538773+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.5502935+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:00:39.9332514+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:03:30.7217156+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:23:18.3538779+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:26:36.1517395+00:00"
 }

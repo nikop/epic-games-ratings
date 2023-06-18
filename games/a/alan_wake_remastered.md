@@ -6,40 +6,40 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,765 |
-| Let There Be Light | 26.00% | ~14,434 |
-| Float Like a Butterfly | 24.00% | ~13,324 |
-| Nordic Walking | 19.00% | ~10,548 |
-| Bright Falls' Finest | 19.00% | ~10,548 |
-| Under a Thin Layer of Skin | 16.00% | ~8,883 |
-| Park Ranger | 13.00% | ~7,217 |
-| Finders Keepers | 13.00% | ~7,217 |
-| Paging Mr. Wake | 13.00% | ~7,217 |
-| Back! Back, I Say! | 12.00% | ~6,662 |
-| They're Heeeeeere! | 11.00% | ~6,107 |
-| Sound and Fury | 11.00% | ~6,107 |
-| Missed by a Mile | 11.00% | ~6,107 |
-| Damn Good Cup of Coffee | 11.00% | ~6,107 |
-| Wheels Within Wheels | 10.00% | ~5,552 |
-| The Six-Gun Scribe | 10.00% | ~5,552 |
-| Come One, Come All | 10.00% | ~5,552 |
-| Heavy Metal | 9.00% | ~4,997 |
-| Iron Horse | 9.00% | ~4,997 |
-| Perchance to Dream | 9.00% | ~4,997 |
-| Collateral Carnage | 9.00% | ~4,997 |
-| Gatekeeper | 8.00% | ~4,441 |
-| The Lady of the Light | 8.00% | ~4,441 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,441 |
-| Thunder and Lightning | 8.00% | ~4,441 |
-| Two For the Price of One | 8.00% | ~4,441 |
-| Energized! | 8.00% | ~4,441 |
-| A Friend in Need | 8.00% | ~1,519 |
-| Right of Way | 7.00% | ~3,886 |
-| Tornado Wrangler | 6.00% | ~3,331 |
-| What Light Through Yonder Window | 6.00% | ~3,331 |
-| A Friend Indeed | 6.00% | ~1,139 |
+| Follow the Light | 32.00% | ~17,770 |
+| Let There Be Light | 26.00% | ~14,438 |
+| Float Like a Butterfly | 24.00% | ~13,327 |
+| Nordic Walking | 19.00% | ~10,551 |
+| Bright Falls' Finest | 19.00% | ~10,551 |
+| Under a Thin Layer of Skin | 16.00% | ~8,885 |
+| Park Ranger | 13.00% | ~7,219 |
+| Back! Back, I Say! | 13.00% | ~7,219 |
+| Finders Keepers | 13.00% | ~7,219 |
+| Paging Mr. Wake | 13.00% | ~7,219 |
+| They're Heeeeeere! | 11.00% | ~6,108 |
+| Sound and Fury | 11.00% | ~6,108 |
+| Missed by a Mile | 11.00% | ~6,108 |
+| Damn Good Cup of Coffee | 11.00% | ~6,108 |
+| Wheels Within Wheels | 10.00% | ~5,553 |
+| The Six-Gun Scribe | 10.00% | ~5,553 |
+| Come One, Come All | 10.00% | ~5,553 |
+| Heavy Metal | 9.00% | ~4,998 |
+| Iron Horse | 9.00% | ~4,998 |
+| Perchance to Dream | 9.00% | ~4,998 |
+| Collateral Carnage | 9.00% | ~4,998 |
+| Gatekeeper | 8.00% | ~4,442 |
+| The Lady of the Light | 8.00% | ~4,442 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,442 |
+| Thunder and Lightning | 8.00% | ~4,442 |
+| Two For the Price of One | 8.00% | ~4,442 |
+| Energized! | 8.00% | ~4,442 |
+| A Friend in Need | 8.00% | ~1,520 |
+| Right of Way | 7.00% | ~3,887 |
+| Tornado Wrangler | 6.00% | ~3,332 |
+| What Light Through Yonder Window | 6.00% | ~3,332 |
+| A Friend Indeed | 6.00% | ~1,140 |
 | Departure | 5.00% | ~2,776 |
-| Ding! | 5.00% | ~949 |
+| Ding! | 5.00% | ~950 |
 | Children of the Elder God | 4.00% | ~2,221 |
 | Drink 'Em Both Up | 4.00% | ~2,221 |
 | Hardboiled Writer | 4.00% | ~2,221 |
@@ -48,10 +48,10 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,666 |
 | Kill Your Darlings | 3.00% | ~570 |
 | Heartbreaker | 3.00% | ~570 |
-| Medical Opinions | 2.00% | ~1,110 |
-| Taken Season | 2.00% | ~1,110 |
-| Carny | 2.00% | ~1,110 |
-| An Idyllic Small Town | 2.00% | ~1,110 |
+| Medical Opinions | 2.00% | ~1,111 |
+| Taken Season | 2.00% | ~1,111 |
+| Carny | 2.00% | ~1,111 |
+| An Idyllic Small Town | 2.00% | ~1,111 |
 | Iron Will | 2.00% | ~380 |
 | Couch Potato | 1.00% | ~555 |
 | Go Gentle Into That Good Light | 1.00% | ~190 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,517 (Ranked 77)  
+Progressed: 55,530 (Ranked 77)  
 Completed: 55 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 55 (0.10%) (Ranked 173)
 | 2023-06-15 | 55,202 | 55 |
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
-| 2023-06-18 | 55,517 | 55 |
+| 2023-06-18 | 55,530 | 55 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

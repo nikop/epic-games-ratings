@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 847)  
+Rating: 4.18 (Ranked 848)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.18 (Ranked 847)
 | Workplace Hazard | 10.00% | ~1,542 |
 | If the SHU Fits... | 10.00% | ~1,542 |
 | Get a Grip | 9.00% | ~1,388 |
-| Giving Back | 8.00% | ~1,233 |
-| Without A Paddle | 8.00% | ~1,233 |
+| Giving Back | 8.00% | ~1,234 |
+| Without A Paddle | 8.00% | ~1,234 |
 | Two Heads Are Better Than One | 6.00% | ~925 |
 | Terminated | 6.00% | ~925 |
 | Float Like A Butterfly | 6.00% | ~925 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 847)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,418 (Ranked 104)  
+Progressed: 15,420 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 56 (0.36%) (Ranked 132)
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
+| 2023-06-18 | 15,420 | 56 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 388)  
 Sum: 318 (Ranked 329)  

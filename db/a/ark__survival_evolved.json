@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7173,10 +7173,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 236721,
       "NumberOfAwardsMax": 57976
+    },
+    {
+      "Time": "2023-06-18T02:22:03.3838241+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 236750,
+      "NumberOfAwardsMax": 57976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 236721,
+  "NumberOfAwards": 236750,
   "NumberOfAwardsMax": 57976,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7196,7 +7202,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20582
+      "Count": 20597
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7232,7 +7238,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 18664
+      "Count": 18678
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7264,8 +7270,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-06-17T20:58:50.6788923+00:00",
+  "LastChanged": "2023-06-18T02:22:03.383824+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.3370854+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:59:14.9085354+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:05:48.3797799+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:22:03.3838245+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:28:31.0689312+00:00"
 }

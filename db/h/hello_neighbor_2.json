@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2469,
+  "EOS_Progressed": 2470,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
@@ -1361,6 +1361,11 @@
       "Time": "2023-06-17T21:03:14.8142079+00:00",
       "NumProgressed": 2469,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-18T02:26:26.8053546+00:00",
+      "NumProgressed": 2470,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -1388,7 +1393,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1420,7 +1425,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1483,7 +1488,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2469,
+      "Progressed": 2470,
       "Completed": 97
     }
   ],
@@ -1491,8 +1496,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-18T00:03:20.202276+00:00",
+  "LastChanged_Achievements": "2023-06-18T02:26:26.8053541+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:50.0345943+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:01:32.1898757+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:03:20.2023138+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:24:06.3700878+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:26:26.8053746+00:00"
 }

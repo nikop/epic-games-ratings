@@ -1,33 +1,33 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 854)  
+Rating: 4.17 (Ranked 855)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,928 |
+| First Step Into the Knight | 6.00% | ~3,929 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,619 |
 | Loose Ends | 4.00% | ~2,619 |
 | To the Victor Go the Spoils | 3.00% | ~1,964 |
 | Get ReQ'd | 3.00% | ~1,964 |
 | Knighthood | 3.00% | ~1,964 |
 | Whispered Words | 3.00% | ~1,964 |
-| The Batman Family | 2.00% | ~1,309 |
-| In Your Element | 2.00% | ~1,309 |
-| Protector of Gotham | 2.00% | ~1,309 |
-| Something in the Clay | 2.00% | ~1,309 |
-| The Show Mud Go On | 2.00% | ~1,309 |
-| Rock and a Hard Place | 2.00% | ~1,309 |
-| Quartzer Life Crisis | 2.00% | ~1,309 |
-| Snow Problem | 2.00% | ~1,309 |
-| Cooldown | 2.00% | ~1,309 |
-| Working Hard or Harley Working? | 2.00% | ~1,309 |
-| Universal Health Scare | 2.00% | ~1,309 |
-| Unstoppable Force | 2.00% | ~1,309 |
-| Lock and Key | 2.00% | ~1,309 |
-| Bad Apples in Every Orchard | 2.00% | ~1,309 |
-| From Inside Gotham's Walls | 2.00% | ~1,309 |
-| Voiceless | 2.00% | ~1,309 |
+| The Batman Family | 2.00% | ~1,310 |
+| In Your Element | 2.00% | ~1,310 |
+| Protector of Gotham | 2.00% | ~1,310 |
+| Something in the Clay | 2.00% | ~1,310 |
+| The Show Mud Go On | 2.00% | ~1,310 |
+| Rock and a Hard Place | 2.00% | ~1,310 |
+| Quartzer Life Crisis | 2.00% | ~1,310 |
+| Snow Problem | 2.00% | ~1,310 |
+| Cooldown | 2.00% | ~1,310 |
+| Working Hard or Harley Working? | 2.00% | ~1,310 |
+| Universal Health Scare | 2.00% | ~1,310 |
+| Unstoppable Force | 2.00% | ~1,310 |
+| Lock and Key | 2.00% | ~1,310 |
+| Bad Apples in Every Orchard | 2.00% | ~1,310 |
+| From Inside Gotham's Walls | 2.00% | ~1,310 |
+| Voiceless | 2.00% | ~1,310 |
 | End of an Era | 1.00% | ~655 |
 | Not On My Watch | 1.00% | ~655 |
 | Bulldozed | 1.00% | ~655 |
@@ -46,10 +46,10 @@ Rating: 4.17 (Ranked 854)
 | A Momentum Occasion | 0.40% | ~262 |
 | Bat Out of Hell | 0.40% | ~262 |
 | He'd Be So Proud of You | 0.30% | ~196 |
-| Hammer and Icicle | 0.20% | ~71 |
-| Renewable Enemy Source | 0.20% | ~71 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~71 |
-| The Cold, the Bad and the Ugly | 0.20% | ~71 |
+| Hammer and Icicle | 0.20% | ~72 |
+| Renewable Enemy Source | 0.20% | ~72 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
+| The Cold, the Bad and the Ugly | 0.20% | ~72 |
 | Practice Makes Perfect | 0.20% | ~131 |
 | Talonted | 0.20% | ~131 |
 | The Man-Bat Family | 0.20% | ~131 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 854)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,465 (Ranked 70)  
+Progressed: 65,476 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 95 (0.15%) (Ranked 164)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,465 | 95 |
+| 2023-06-18 | 65,476 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 98)  
 Sum: 3,875 (Ranked 137)  

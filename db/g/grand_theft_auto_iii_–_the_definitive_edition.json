@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 875,
+  "Ranking_Rating": 876,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6689,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4352,6 +4352,11 @@
       "Time": "2023-06-18T00:04:51.9748437+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-18T02:27:40.9556835+00:00",
+      "NumProgressed": 6689,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -4363,7 +4368,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5552
     },
     {
       "ID": "ACH02",
@@ -4387,7 +4392,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACH05",
@@ -4435,7 +4440,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH11",
@@ -4475,7 +4480,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH16",
@@ -4491,7 +4496,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH18",
@@ -4594,7 +4599,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6689,
       "Completed": 37
     }
   ],
@@ -4602,8 +4607,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-18T00:04:51.974843+00:00",
+  "LastChanged_Achievements": "2023-06-18T02:27:40.9556828+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:58:29.3677173+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:04:51.9749465+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:21:21.8469798+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:27:40.9557354+00:00"
 }

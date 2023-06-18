@@ -5,42 +5,42 @@ Rating: 4.75 (Ranked 132)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~55,184 |
-| The Player Whisperer | 76.00% | ~53,769 |
-| One of Us, One of Us! | 73.00% | ~51,647 |
-| Clean Sheet | 68.00% | ~48,109 |
-| First Victory | 68.00% | ~48,109 |
-| #DoneDeal | 67.00% | ~47,402 |
-| Off the Books | 65.00% | ~45,987 |
-| Super-Sub | 65.00% | ~45,987 |
-| Hat-trick | 60.00% | ~42,449 |
-| "I Would Love It If We Beat Them" | 58.00% | ~41,034 |
-| Planned Signing | 58.00% | ~41,034 |
-| Thumping | 53.00% | ~37,497 |
-| Scoring Streak | 53.00% | ~37,497 |
-| Wheeler Dealer | 52.00% | ~36,789 |
-| Unbeatable! | 51.00% | ~36,082 |
-| People Pleaser | 51.00% | ~36,082 |
+| Motivational Speaker | 78.00% | ~55,186 |
+| The Player Whisperer | 76.00% | ~53,771 |
+| One of Us, One of Us! | 73.00% | ~51,648 |
+| Clean Sheet | 68.00% | ~48,111 |
+| First Victory | 68.00% | ~48,111 |
+| #DoneDeal | 67.00% | ~47,403 |
+| Off the Books | 65.00% | ~45,988 |
+| Super-Sub | 65.00% | ~45,988 |
+| Hat-trick | 60.00% | ~42,451 |
+| "I Would Love It If We Beat Them" | 58.00% | ~41,036 |
+| Planned Signing | 58.00% | ~41,036 |
+| Thumping | 53.00% | ~37,498 |
+| Scoring Streak | 53.00% | ~37,498 |
+| Wheeler Dealer | 52.00% | ~36,791 |
+| Unbeatable! | 51.00% | ~36,083 |
+| People Pleaser | 51.00% | ~36,083 |
 | One Of Our Own | 48.00% | ~33,960 |
 | They're a Natural | 44.00% | ~31,130 |
-| Team Performance | 43.00% | ~30,422 |
-| Record Signing | 43.00% | ~30,422 |
-| The Only Stat That Matters | 43.00% | ~30,422 |
+| Team Performance | 43.00% | ~30,423 |
+| Record Signing | 43.00% | ~30,423 |
+| The Only Stat That Matters | 43.00% | ~30,423 |
 | Full Faith | 40.00% | ~28,300 |
 | Star Player | 40.00% | ~28,300 |
 | Squad Goals | 40.00% | ~28,300 |
 | The People's Champion | 40.00% | ~28,300 |
-| Beating Expectations | 39.00% | ~27,592 |
+| Beating Expectations | 39.00% | ~27,593 |
 | Parked The Bus | 38.00% | ~26,885 |
 | Goal Rush | 38.00% | ~26,885 |
 | What A Goal! | 36.00% | ~25,470 |
 | Flavour Of The Month | 36.00% | ~25,470 |
-| Tremendous Trio | 35.00% | ~24,762 |
-| Unstoppable Force | 35.00% | ~24,762 |
-| Record Sale | 35.00% | ~24,762 |
-| Shots For Days | 35.00% | ~24,762 |
+| Tremendous Trio | 35.00% | ~24,763 |
+| Unstoppable Force | 35.00% | ~24,763 |
+| Record Sale | 35.00% | ~24,763 |
+| Shots For Days | 35.00% | ~24,763 |
 | You're on Fire | 34.00% | ~24,055 |
-| The Special One | 33.00% | ~23,347 |
+| The Special One | 33.00% | ~23,348 |
 | On a Roll | 32.00% | ~22,640 |
 | Splashing the Cash | 32.00% | ~22,640 |
 | Drilling Down | 30.00% | ~21,225 |
@@ -50,53 +50,53 @@ Rating: 4.75 (Ranked 132)
 | Irresistible Force | 26.00% | ~18,395 |
 | Cash to Burn | 26.00% | ~18,395 |
 | Do The Double | 22.00% | ~15,565 |
-| A Game of Two Halves | 21.00% | ~14,857 |
-| Top Form | 19.00% | ~13,442 |
-| You're Up! | 19.00% | ~13,442 |
+| A Game of Two Halves | 21.00% | ~14,858 |
+| Top Form | 19.00% | ~13,443 |
+| You're Up! | 19.00% | ~13,443 |
 | First Goal Network | 18.00% | ~12,735 |
-| Clean Sheet Network | 17.00% | ~12,027 |
-| First Win Network | 17.00% | ~12,027 |
-| Window Shopping | 17.00% | ~12,027 |
-| Money, Money, Money | 17.00% | ~12,027 |
+| Clean Sheet Network | 17.00% | ~12,028 |
+| First Win Network | 17.00% | ~12,028 |
+| Window Shopping | 17.00% | ~12,028 |
+| Money, Money, Money | 17.00% | ~12,028 |
 | Tête-à-tête | 14.00% | ~9,905 |
 | Best in the World | 14.00% | ~9,905 |
-| Superb Strike | 13.00% | ~9,197 |
+| Superb Strike | 13.00% | ~9,198 |
 | National Service | 12.00% | ~8,490 |
 | Best in the Business | 10.00% | ~7,075 |
 | Bragging Rights | 10.00% | ~7,075 |
 | Second Hand Signing | 10.00% | ~7,075 |
 | Invincible! | 10.00% | ~7,075 |
 | Domination | 10.00% | ~7,075 |
-| Total Support | 9.00% | ~6,367 |
-| You Can Buy Happiness | 9.00% | ~6,367 |
+| Total Support | 9.00% | ~6,368 |
+| You Can Buy Happiness | 9.00% | ~6,368 |
 | Invitational | 8.00% | ~5,660 |
 | Legend | 6.00% | ~4,245 |
 | World Beaters | 6.00% | ~4,245 |
 | World Renowned | 6.00% | ~4,245 |
-| Parked The Tank | 5.00% | ~3,537 |
+| Parked The Tank | 5.00% | ~3,538 |
 | Cupset Between Friends | 4.00% | ~2,830 |
 | National Hero | 4.00% | ~2,830 |
 | Mini League Champion | 4.00% | ~2,830 |
 | On Top of the World | 4.00% | ~2,830 |
-| Part of the Furniture | 3.00% | ~2,122 |
-| Trophy Hoarder | 3.00% | ~2,122 |
-| Freedom of the Country | 3.00% | ~2,122 |
+| Part of the Furniture | 3.00% | ~2,123 |
+| Trophy Hoarder | 3.00% | ~2,123 |
+| Freedom of the Country | 3.00% | ~2,123 |
 | We Go Again | 2.00% | ~1,415 |
 | Beat Your Mates | 2.00% | ~1,415 |
-| First Goal Versus | 1.00% | ~707 |
-| First Win Versus | 1.00% | ~707 |
-| The Greatest | 1.00% | ~707 |
-| Perfect Host | 1.00% | ~707 |
+| First Goal Versus | 1.00% | ~708 |
+| First Win Versus | 1.00% | ~708 |
+| The Greatest | 1.00% | ~708 |
+| Perfect Host | 1.00% | ~708 |
 | Clean Sheet Versus | 0.90% | ~637 |
 | Versus Champ | 0.90% | ~637 |
 | Online Streak | 0.90% | ~637 |
 | The Rich Get Richer | 0.70% | ~495 |
-| Online Rivalry | 0.60% | ~424 |
+| Online Rivalry | 0.60% | ~425 |
 | Outstanding Defence | 0.40% | ~283 |
 | Import To Victory | 0.40% | ~283 |
-| You Shall Not Pass | 0.20% | ~141 |
-| Draft Dominator | 0.20% | ~141 |
-| Draft Value | 0.20% | ~141 |
+| You Shall Not Pass | 0.20% | ~142 |
+| Draft Dominator | 0.20% | ~142 |
+| Draft Value | 0.20% | ~142 |
 | Immortality | 0.10% | ~71 |
 | New Kids On The Block | 0.10% | ~71 |
 | Value for Money | 0.10% | ~71 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 132)
 | Versus Anyone | 0.10% | ~71 |
 | 200 Club | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,749 (Ranked 67)  
+Progressed: 70,751 (Ranked 67)  
 Completed: 17 (0.02%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 17 (0.02%) (Ranked 207)
 | 2023-06-15 | 70,374 | 17 |
 | 2023-06-16 | 70,540 | 17 |
 | 2023-06-17 | 70,744 | 17 |
-| 2023-06-18 | 70,749 | 17 |
+| 2023-06-18 | 70,751 | 17 |
 ## Awards
 Max (Diverse Characters): 487  (Ranked 190)  
 Sum: 3,526 (Ranked 143)  

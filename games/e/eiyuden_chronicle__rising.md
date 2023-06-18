@@ -9,8 +9,8 @@ Number of Ratings: 48  (23.09.2022)
 | Plenty More to Go | 88.00% | ~593 |
 | All Bark, No Bite | 77.00% | ~519 |
 | Hopeful Hunter | 67.00% | ~452 |
+| Amateur Adventurer | 65.00% | ~438 |
 | The Road to Recovery | 64.00% | ~431 |
-| Amateur Adventurer | 64.00% | ~431 |
 | Partners? | 62.00% | ~418 |
 | Magical Mineral Golem | 55.00% | ~371 |
 | On Outlander Lane | 54.00% | ~364 |

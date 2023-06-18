@@ -11,7 +11,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Beginning of a Servantship | 45.00% | ~1,666 |
 | Trade Is My Trait | 37.00% | ~1,370 |
 | Number 18 | 24.00% | ~889 |
-| We Don't Have Time For That | 19.00% | ~704 |
+| We Don't Have Time For That | 20.00% | ~741 |
 | The Governator | 18.00% | ~667 |
 | The Legend of Langostino | 17.00% | ~630 |
 | Caribbean Comrade | 16.00% | ~592 |

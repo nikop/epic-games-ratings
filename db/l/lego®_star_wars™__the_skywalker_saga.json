@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2486,10 +2486,10 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49610,
+  "EOS_Progressed": 49611,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 560,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 551,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -7616,6 +7616,11 @@
       "Time": "2023-06-18T00:07:44.5226373+00:00",
       "NumProgressed": 49610,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-06-18T02:30:17.389077+00:00",
+      "NumProgressed": 49611,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 45,
@@ -7651,7 +7656,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39192
+      "UsersEstimate": 39193
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7891,7 +7896,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48122
+      "UsersEstimate": 48123
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7931,7 +7936,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35223
+      "UsersEstimate": 35224
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -7963,7 +7968,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26293
+      "UsersEstimate": 26294
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -7979,22 +7984,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35719
+      "UsersEstimate": 35720
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49610,
+      "Progressed": 49611,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-18T00:01:54.9727993+00:00",
-  "LastChanged_Achievements": "2023-06-18T00:07:44.5226368+00:00",
+  "LastChanged_Achievements": "2023-06-18T02:30:17.3890761+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:01:54.9728024+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:07:44.5227099+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:24:26.7876072+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:30:17.389154+00:00"
 }

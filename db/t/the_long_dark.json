@@ -4,11 +4,11 @@
   "ProductSlug": "the-long-dark",
   "Ranking_Rating": 145,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 130,
+  "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -3434,10 +3434,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4618,
       "NumberOfAwardsMax": 763
+    },
+    {
+      "Time": "2023-06-18T02:24:09.5687556+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4620,
+      "NumberOfAwardsMax": 763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4618,
+  "NumberOfAwards": 4620,
   "NumberOfAwardsMax": 763,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3451,7 +3457,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 712
+      "Count": 714
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3501,8 +3507,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-06-17T21:01:08.9288763+00:00",
+  "LastChanged": "2023-06-18T02:24:09.5687554+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:52.4520772+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:01:35.9889423+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:06:40.2606397+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:24:09.5687561+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:29:18.8032746+00:00"
 }

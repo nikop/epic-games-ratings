@@ -1,21 +1,21 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 896)  
+Rating: 4.05 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,341 |
-| World Map | 80.00% | ~1,142 |
-| Temple of Eternals | 57.00% | ~813 |
-| Prestigious | 53.00% | ~756 |
-| Fellowship Power | 41.00% | ~585 |
-| Guild Power | 24.00% | ~342 |
+| Victor | 94.00% | ~1,343 |
+| World Map | 80.00% | ~1,143 |
+| Temple of Eternals | 57.00% | ~815 |
+| Prestigious | 53.00% | ~757 |
+| Fellowship Power | 41.00% | ~586 |
+| Guild Power | 24.00% | ~343 |
 | Prestigious x10 | 21.00% | ~300 |
-| The game is on | 19.00% | ~271 |
+| The game is on | 19.00% | ~272 |
 | Exotic Merchant | 17.00% | ~243 |
-| Dragon Clicker | 16.00% | ~228 |
-| Miner Clicker | 16.00% | ~228 |
+| Dragon Clicker | 16.00% | ~229 |
+| Miner Clicker | 16.00% | ~229 |
 | Inspection | 15.00% | ~214 |
 | Full Party | 14.00% | ~200 |
 | Dragon Master | 13.00% | ~186 |
@@ -41,13 +41,13 @@ Rating: 4.05 (Ranked 896)
 | Moving Up The Ladder | 7.00% | ~100 |
 | Here We Go Again | 6.00% | ~86 |
 | Trader | 6.00% | ~86 |
+| Ancient Knowledge | 5.00% | ~71 |
 | How Do You Turn This On? | 5.00% | ~71 |
 | Master Enchanter | 5.00% | ~71 |
 | Missions Dedication | 5.00% | ~71 |
 | The Expeditioner | 5.00% | ~71 |
 | The father of Dragons | 5.00% | ~71 |
 | Weekly Quest Completionist | 5.00% | ~71 |
-| Ancient Knowledge | 4.00% | ~57 |
 | Background Story | 4.00% | ~57 |
 | Crystal Mining | 4.00% | ~57 |
 | Dragon Slayer | 4.00% | ~57 |
@@ -67,11 +67,11 @@ Rating: 4.05 (Ranked 896)
 | Transmute | 0.60% | ~9 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
-| Gear Enchanting | 0.40% | ~6 |
-| Guardian Master | 0.40% | ~6 |
-| Pokerface | 0.40% | ~6 |
-| Titan Power | 0.40% | ~6 |
 | Enchanting skill x5 | 0.30% | ~4 |
+| Gear Enchanting | 0.30% | ~4 |
+| Guardian Master | 0.30% | ~4 |
+| Pokerface | 0.30% | ~4 |
+| Titan Power | 0.30% | ~4 |
 | Angel Power | 0.20% | ~3 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 896)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,427 (Ranked 166)  
+Progressed: 1,429 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
 | 2023-06-17 | 1,427 | 1 |
+| 2023-06-18 | 1,429 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,24 +1,24 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.13 (Ranked 875)  
+Rating: 4.13 (Ranked 876)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,550 |
-| Disposing of the Evidence | 36.00% | ~2,407 |
+| First Day on the Job | 83.00% | ~5,552 |
+| Disposing of the Evidence | 36.00% | ~2,408 |
 | Without a Scratch | 33.00% | ~2,207 |
-| Wreckless Driving | 27.00% | ~1,805 |
+| Wreckless Driving | 27.00% | ~1,806 |
 | A Marked Man | 24.00% | ~1,605 |
 | Street Sweeper | 17.00% | ~1,137 |
 | Liberty City Minute | 16.00% | ~1,070 |
-| Offshore Delivery | 12.00% | ~802 |
+| Offshore Delivery | 12.00% | ~803 |
 | Dirty Money | 11.00% | ~736 |
 | By a Mile | 9.00% | ~602 |
 | Not So Fast | 9.00% | ~602 |
 | Right-hand Man | 9.00% | ~602 |
 | A Gift from the King | 6.00% | ~401 |
-| Full Artillery | 4.00% | ~267 |
+| Full Artillery | 4.00% | ~268 |
 | Mob Boss | 2.00% | ~134 |
 | Splish Splash | 2.00% | ~134 |
 | Liberty City Secrets | 2.00% | ~134 |
@@ -35,7 +35,7 @@ Rating: 4.13 (Ranked 875)
 | Is That All You've Got? | 0.70% | ~47 |
 | King of Liberty City | 0.60% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,687 (Ranked 122)  
+Progressed: 6,689 (Ranked 122)  
 Completed: 37 (0.55%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 37 (0.55%) (Ranked 118)
 | 2023-06-15 | 6,641 | 37 |
 | 2023-06-16 | 6,665 | 37 |
 | 2023-06-17 | 6,685 | 37 |
-| 2023-06-18 | 6,687 | 37 |
+| 2023-06-18 | 6,689 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

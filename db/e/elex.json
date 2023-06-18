@@ -2,20 +2,20 @@
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
   "ProductSlug": "elex",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-17T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 58,
   "RatingHistory": [
     {
@@ -279,6 +279,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-06-18T02:21:15.4591029+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -304,8 +310,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2023-06-01T22:57:44.3215074+00:00",
+  "LastChanged": "2023-06-18T02:21:15.4591027+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:32.4713378+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:58:23.5873784+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:05:53.4386753+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:21:15.4591033+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:28:35.707584+00:00"
 }

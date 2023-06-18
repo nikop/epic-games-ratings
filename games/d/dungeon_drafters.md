@@ -12,8 +12,8 @@
 | Shine! | 33.00% | ~14 |
 | Clear as Water | 29.00% | ~12 |
 | Riddlesolver | 24.00% | ~10 |
+| Card Collector | 21.00% | ~9 |
 | Dungeon Mastery | 19.00% | ~8 |
-| Card Collector | 19.00% | ~8 |
 | The Steed | 14.00% | ~6 |
 | A Strange Proposition | 14.00% | ~6 |
 | The Bodyguard | 10.00% | ~4 |

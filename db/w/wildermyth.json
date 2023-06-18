@@ -5,10 +5,10 @@
   "Ranking_Rating": 107,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 471,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-06-16T22:06:21.1180458+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-18T02:30:02.8890655+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -933,7 +938,7 @@
       "Name": "Passing Shadow",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1035,9 +1040,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_mythwalker",
@@ -1053,7 +1058,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1308,15 +1313,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-18T00:07:28.6877945+00:00",
+  "LastChanged_Achievements": "2023-06-18T02:30:02.8890651+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:05.7321857+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:01:55.315424+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:07:28.6878654+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:24:27.3094353+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:30:02.8891293+00:00"
 }

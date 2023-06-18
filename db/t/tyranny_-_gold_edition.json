@@ -2,13 +2,13 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 160,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2016-11-10T17:00:00+00:00",
@@ -1232,10 +1232,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1369,
       "NumberOfAwardsMax": 696
+    },
+    {
+      "Time": "2023-06-18T02:24:11.7900641+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1413,
+      "NumberOfAwardsMax": 696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1369,
+  "NumberOfAwards": 1413,
   "NumberOfAwardsMax": 696,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1283,9 +1289,9 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 32
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1317,8 +1323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-06-14T17:00:08.8232921+00:00",
+  "LastChanged": "2023-06-18T02:24:11.7900623+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:54.4279238+00:00",
-  "LastUpdate_Ratings": "2023-06-18T00:01:38.5397546+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:05:08.5864727+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:24:11.7900647+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:27:55.7148006+00:00"
 }

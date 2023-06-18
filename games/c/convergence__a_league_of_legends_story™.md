@@ -16,6 +16,7 @@
 | The Harder They Fall | 10.00% | ~70 |
 | No, Thanks! | 10.00% | ~70 |
 | Breaking Down Barriers | 10.00% | ~70 |
+| The Wicked Twins | 10.00% | ~70 |
 | The Prince in Heels | 10.00% | ~70 |
 | Honest Mistake | 10.00% | ~70 |
 | Fast Learner | 10.00% | ~70 |
@@ -23,7 +24,6 @@
 | The Brass Boss | 10.00% | ~70 |
 | The Betrayer | 9.00% | ~63 |
 | The Man Who Shattered Time | 9.00% | ~63 |
-| The Wicked Twins | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Check Your Pulse | 9.00% | ~63 |
 | Like Clockwork | 8.00% | ~56 |

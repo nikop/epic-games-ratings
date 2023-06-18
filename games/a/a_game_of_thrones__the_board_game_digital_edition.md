@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 830)  
+Rating: 4.20 (Ranked 831)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,372 |
-| Battering Crew | 20.00% | ~3,186 |
-| The Kingsroad | 19.00% | ~3,027 |
-| Well Stocked | 14.00% | ~2,230 |
-| Royal Fleet | 14.00% | ~2,230 |
-| The Kraken’s Grasp | 10.00% | ~1,593 |
-| Alliance | 9.00% | ~1,434 |
-| Daggers in the Dark | 8.00% | ~1,274 |
-| Oathkeeper | 8.00% | ~1,274 |
-| Influential | 8.00% | ~1,274 |
-| A Long Journey | 8.00% | ~1,274 |
-| Ours is the Fury | 7.00% | ~1,115 |
-| We Do Not Sow | 7.00% | ~1,115 |
-| Winter is Coming | 7.00% | ~1,115 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~956 |
-| Hear me Roar! | 6.00% | ~956 |
-| Defender of the Wall | 6.00% | ~956 |
+| Conqueror | 40.00% | ~6,379 |
+| Battering Crew | 20.00% | ~3,190 |
+| The Kingsroad | 19.00% | ~3,030 |
+| Well Stocked | 14.00% | ~2,233 |
+| Royal Fleet | 14.00% | ~2,233 |
+| The Kraken’s Grasp | 10.00% | ~1,595 |
+| Alliance | 9.00% | ~1,435 |
+| Daggers in the Dark | 8.00% | ~1,276 |
+| Oathkeeper | 8.00% | ~1,276 |
+| Influential | 8.00% | ~1,276 |
+| A Long Journey | 8.00% | ~1,276 |
+| Ours is the Fury | 7.00% | ~1,116 |
+| We Do Not Sow | 7.00% | ~1,116 |
+| Winter is Coming | 7.00% | ~1,116 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~957 |
+| Hear me Roar! | 6.00% | ~957 |
+| Defender of the Wall | 6.00% | ~957 |
 | Growing Strong | 5.00% | ~797 |
 | What is Dead may Never Die | 3.00% | ~478 |
 | The Swift | 3.00% | ~478 |
 | King in the North | 2.00% | ~319 |
 | War of the Five Kings | 1.00% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,931 (Ranked 102)  
+Progressed: 15,948 (Ranked 102)  
 Completed: 33 (0.21%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 33 (0.21%) (Ranked 154)
 | 2023-06-15 | 15,713 | 33 |
 | 2023-06-16 | 15,812 | 33 |
 | 2023-06-17 | 15,928 | 33 |
-| 2023-06-18 | 15,931 | 33 |
+| 2023-06-18 | 15,948 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 782 (Ranked 255)  

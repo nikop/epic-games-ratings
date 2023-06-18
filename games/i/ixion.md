@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 454)
 | The Ship of Theseus | 7.00% | ~187 |
 | Hope Seeker | 7.00% | ~187 |
 | A Hunk of Junk | 6.00% | ~161 |
-| Exceeding Capacity | 5.00% | ~134 |
+| Exceeding Capacity | 6.00% | ~161 |
 | Man's Best Friend | 4.00% | ~107 |
 | Power Outage | 4.00% | ~107 |
 | Convenient Transport | 4.00% | ~107 |

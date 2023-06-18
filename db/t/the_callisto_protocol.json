@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 104,
@@ -662,9 +662,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15418,
+  "EOS_Progressed": 15420,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4207,6 +4207,11 @@
       "Time": "2023-06-17T22:04:18.3158332+00:00",
       "NumProgressed": 15418,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T02:28:11.4305503+00:00",
+      "NumProgressed": 15420,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4234,7 +4239,7 @@
       "Name": "Giving Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4426,7 +4431,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "STORY_HANGAR",
@@ -4537,13 +4542,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15418,
+      "Progressed": 15420,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3344,
+      "Progressed": 3346,
       "Completed": 29
     }
   ],
@@ -4551,8 +4556,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-17T17:58:14.6652478+00:00",
-  "LastChanged_Achievements": "2023-06-18T00:05:26.172858+00:00",
+  "LastChanged_Achievements": "2023-06-18T02:28:11.4305499+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:58:29.5700101+00:00",
-  "LastUpdate_Achievements": "2023-06-18T00:05:26.1729157+00:00"
+  "LastUpdate_Ratings": "2023-06-18T02:21:22.1032775+00:00",
+  "LastUpdate_Achievements": "2023-06-18T02:28:11.4306137+00:00"
 }
