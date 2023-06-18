@@ -4911,9 +4911,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53430,
+  "EOS_Progressed": 53431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10841,6 +10841,11 @@
       "Time": "2023-06-17T23:06:27.6054422+00:00",
       "NumProgressed": 53430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T00:07:44.8456365+00:00",
+      "NumProgressed": 53431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10868,7 +10873,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11220
+      "UsersEstimate": 11221
     },
     {
       "ID": "Best served cold",
@@ -11012,7 +11017,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11220
+      "UsersEstimate": 11221
     },
     {
       "ID": "I can do it",
@@ -11020,7 +11025,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8015
     },
     {
       "ID": "I spit on your grave",
@@ -11092,7 +11097,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11220
+      "UsersEstimate": 11221
     },
     {
       "ID": "Long live the Empire",
@@ -11259,15 +11264,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53430,
+      "Progressed": 53431,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-17T19:59:22.0257929+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:06:27.6054415+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:07:44.845636+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:59:59.4858024+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:06:27.6055175+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:00:46.2944227+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:07:44.8457549+00:00"
 }

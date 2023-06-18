@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 19029,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3414,9 +3414,9 @@
       "ID": "ach.260.investor",
       "SetID": "384aaja",
       "Name": "Investor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1903
     },
     {
       "ID": "ach.270.groundwater",
@@ -3519,8 +3519,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-16T10:00:30.573746+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:06:12.4466575+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:07:27.4941564+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.6579586+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:59:37.4129595+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:06:12.4467029+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:00:20.5716846+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:07:27.4942022+00:00"
 }

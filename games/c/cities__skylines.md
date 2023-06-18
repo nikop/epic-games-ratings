@@ -6,38 +6,38 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~591,801 |
-| Green Energy | 60.00% | ~500,113 |
-| Foggy Weather | 59.00% | ~491,778 |
-| Singing In The- | 59.00% | ~491,778 |
-| Unpopular Mayor | 41.00% | ~341,744 |
-| Power at Your Fingertips | 33.00% | ~275,062 |
-| City Planner | 23.00% | ~191,710 |
-| Rolling in Dough | 20.00% | ~166,704 |
-| Does My Bum Look Big In This? | 17.00% | ~141,699 |
-| Climbing the Social Ladder | 16.00% | ~133,364 |
-| Safe City | 14.00% | ~116,693 |
-| Quay-King | 11.00% | ~91,687 |
-| Lawmaker | 10.00% | ~83,352 |
-| With Canals You Can! | 10.00% | ~83,352 |
-| Nomen Est Omen | 7.00% | ~58,347 |
-| Well Informed | 6.00% | ~50,011 |
-| Fire Watch | 5.00% | ~41,676 |
-| Greenest City | 4.00% | ~33,341 |
-| Heavenly City | 3.00% | ~25,006 |
-| Reporting! | 3.00% | ~25,006 |
-| SIMulated City | 3.00% | ~25,006 |
-| The Safest Town | 3.00% | ~25,006 |
-| Professional Dumper | 2.00% | ~16,670 |
-| City in Motion | 1.00% | ~8,335 |
-| Earthloving City | 1.00% | ~8,335 |
-| Metropolis | 1.00% | ~8,335 |
+| Pioneer | 71.00% | ~591,879 |
+| Green Energy | 60.00% | ~500,180 |
+| Foggy Weather | 59.00% | ~491,843 |
+| Singing In The- | 59.00% | ~491,843 |
+| Unpopular Mayor | 41.00% | ~341,790 |
+| Power at Your Fingertips | 33.00% | ~275,099 |
+| City Planner | 23.00% | ~191,736 |
+| Rolling in Dough | 20.00% | ~166,727 |
+| Does My Bum Look Big In This? | 17.00% | ~141,718 |
+| Climbing the Social Ladder | 16.00% | ~133,381 |
+| Safe City | 14.00% | ~116,709 |
+| Quay-King | 11.00% | ~91,700 |
+| Lawmaker | 10.00% | ~83,363 |
+| With Canals You Can! | 10.00% | ~83,363 |
+| Nomen Est Omen | 7.00% | ~58,354 |
+| Well Informed | 6.00% | ~50,018 |
+| Fire Watch | 5.00% | ~41,682 |
+| Greenest City | 4.00% | ~33,345 |
+| Heavenly City | 3.00% | ~25,009 |
+| Reporting! | 3.00% | ~25,009 |
+| SIMulated City | 3.00% | ~25,009 |
+| The Safest Town | 3.00% | ~25,009 |
+| Professional Dumper | 2.00% | ~16,673 |
+| City in Motion | 1.00% | ~8,336 |
+| Earthloving City | 1.00% | ~8,336 |
+| Metropolis | 1.00% | ~8,336 |
 | Beam Me Up | 0.70% | ~5,835 |
 | Higher Education | 0.70% | ~5,835 |
-| Decorator | 0.60% | ~5,001 |
-| Full Capacity | 0.60% | ~5,001 |
-| Terraformer | 0.60% | ~5,001 |
-| The Waters of Our Lives | 0.60% | ~5,001 |
+| Decorator | 0.60% | ~5,002 |
+| Full Capacity | 0.60% | ~5,002 |
+| Terraformer | 0.60% | ~5,002 |
+| The Waters of Our Lives | 0.60% | ~5,002 |
 | Airfield Expertise | 0.50% | ~4,168 |
 | Drop the Base | 0.50% | ~4,168 |
 | It's heading right for us! | 0.50% | ~4,168 |
@@ -46,13 +46,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~4,168 |
 | Thunder and Lightning | 0.50% | ~4,168 |
 | Twist and shout | 0.50% | ~4,168 |
-| Airlifter | 0.40% | ~3,334 |
-| Airport Architect | 0.40% | ~3,334 |
-| Are They Naked In There? | 0.40% | ~3,334 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,334 |
-| Happy Town | 0.40% | ~3,334 |
-| I Want It All | 0.40% | ~3,334 |
-| Just Tolling | 0.40% | ~3,334 |
+| Airlifter | 0.40% | ~3,335 |
+| Airport Architect | 0.40% | ~3,335 |
+| Are They Naked In There? | 0.40% | ~3,335 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,335 |
+| Happy Town | 0.40% | ~3,335 |
+| I Want It All | 0.40% | ~3,335 |
+| Just Tolling | 0.40% | ~3,335 |
 | A Huge Hadron | 0.30% | ~2,501 |
 | Friendly Teaching | 0.30% | ~2,501 |
 | Here's A Tram | 0.30% | ~2,501 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~834 |
 | Z00 | 0.10% | ~834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833,522 (Ranked 14)  
+Progressed: 833,633 (Ranked 14)  
 Completed: 9 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 9 (0.00%) (Ranked 228)
 | 2023-06-15 | 826,907 | 9 |
 | 2023-06-16 | 829,939 | 9 |
 | 2023-06-17 | 833,522 | 9 |
+| 2023-06-18 | 833,633 | 9 |
 ## Awards
 Max (Great for Beginners): 4,728  (Ranked 66)  
 Sum: 35,983 (Ranked 34)  

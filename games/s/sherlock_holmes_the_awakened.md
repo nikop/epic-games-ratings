@@ -13,8 +13,8 @@ Rating: 4.62 (Ranked 346)
 | History Check | 49.00% | ~236 |
 | A Method To His Madness | 49.00% | ~236 |
 | Lock, Stock, And Barrel | 45.00% | ~216 |
+| Gaze Into The Abyss | 45.00% | ~216 |
 | The New World | 45.00% | ~216 |
-| Gaze Into The Abyss | 44.00% | ~212 |
 | Open Sesame | 43.00% | ~207 |
 | Sticky Fingers | 43.00% | ~207 |
 | Knives Out | 43.00% | ~207 |
@@ -26,7 +26,7 @@ Rating: 4.62 (Ranked 346)
 | Fhtagn! | 38.00% | ~183 |
 | Bookworm | 37.00% | ~178 |
 | Going Once... | 36.00% | ~173 |
-| Let Me Be Frank | 34.00% | ~164 |
+| Let Me Be Frank | 35.00% | ~168 |
 | Brain Food | 32.00% | ~154 |
 | No Stone Unturned | 31.00% | ~149 |
 | Curiosity Killed The Cat | 20.00% | ~96 |

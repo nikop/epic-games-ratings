@@ -1598,7 +1598,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65456,
+  "EOS_Progressed": 65465,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 991,
   "EOS_NewCompleters": 0,
@@ -6728,6 +6728,11 @@
       "Time": "2023-06-17T23:06:28.8375154+00:00",
       "NumProgressed": 65456,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T00:07:46.2177531+00:00",
+      "NumProgressed": 65465,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7043,7 +7048,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "HARLEY_2",
@@ -7083,7 +7088,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7131,7 +7136,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "MYSTERY_02",
@@ -7226,13 +7231,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65456,
+      "Progressed": 65465,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35736,
+      "Progressed": 35745,
       "Completed": 2646
     }
   ],
@@ -7240,8 +7245,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-17T21:59:31.0715988+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:06:28.8375147+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:07:46.2177525+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:00:02.5874202+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:06:28.8376073+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:00:49.6427944+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:07:46.2178452+00:00"
 }

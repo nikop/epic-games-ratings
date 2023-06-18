@@ -1047,9 +1047,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6547,
+  "EOS_Progressed": 6548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5872,6 +5872,11 @@
       "Time": "2023-06-17T23:01:17.9677997+00:00",
       "NumProgressed": 6547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T00:02:22.082271+00:00",
+      "NumProgressed": 6548,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5939,7 +5944,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "17",
@@ -5971,7 +5976,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "20",
@@ -5995,7 +6000,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4648
+      "UsersEstimate": 4649
     },
     {
       "ID": "23",
@@ -6059,7 +6064,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "30",
@@ -6275,7 +6280,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "55",
@@ -6339,7 +6344,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "9",
@@ -6354,15 +6359,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6547,
+      "Progressed": 6548,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-17T17:00:45.6594352+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:01:17.9677993+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:02:22.0822704+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-17T23:00:16.2255558+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:01:17.9678795+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:01:04.4088394+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:02:22.0824308+00:00"
 }

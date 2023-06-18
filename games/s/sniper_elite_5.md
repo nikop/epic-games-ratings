@@ -19,9 +19,9 @@ Rating: 4.50 (Ranked 547)
 | The Kraken Sleeps | 11.00% | ~328 |
 | Liberté | 10.00% | ~298 |
 | Sharpshooter | 10.00% | ~298 |
+| Explosive Efficiency | 10.00% | ~298 |
 | Just a Flesh Wound | 9.00% | ~268 |
 | Gunslinger | 9.00% | ~268 |
-| Explosive Efficiency | 9.00% | ~268 |
 | Enemy at the Gates | 8.00% | ~238 |
 | Opposing Force | 7.00% | ~209 |
 | Die Nussknacker Sweet! | 7.00% | ~209 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 547)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,980 (Ranked 145)  
+Progressed: 2,981 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 2 (0.07%) (Ranked 188)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
+| 2023-06-18 | 2,981 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

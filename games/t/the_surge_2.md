@@ -5,10 +5,10 @@ Rating: 4.25 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,437 |
-| Don't I Know You...? | 77.00% | ~1,383 |
-| Jailbreak | 65.00% | ~1,167 |
-| Suited and Booted | 38.00% | ~682 |
+| Rigged And Ready | 80.00% | ~1,438 |
+| Don't I Know You...? | 77.00% | ~1,384 |
+| Jailbreak | 65.00% | ~1,168 |
+| Suited and Booted | 38.00% | ~683 |
 | HEADSHOT! | 37.00% | ~665 |
 | Sleeping With The Fishes | 35.00% | ~629 |
 | Overheated | 30.00% | ~539 |
@@ -25,12 +25,12 @@ Rating: 4.25 (Ranked 797)
 | Unforeseeable Consequences | 19.00% | ~341 |
 | Dead Again | 18.00% | ~323 |
 | Clean Cut | 18.00% | ~323 |
-| Full Arsenal | 16.00% | ~287 |
-| Can't Trust Banks | 15.00% | ~269 |
-| Mommy Dearest | 13.00% | ~233 |
-| Bad Dog | 13.00% | ~233 |
-| Risk Tolerant | 13.00% | ~233 |
-| What A Catchy Song | 13.00% | ~233 |
+| Full Arsenal | 16.00% | ~288 |
+| Can't Trust Banks | 15.00% | ~270 |
+| Mommy Dearest | 13.00% | ~234 |
+| Bad Dog | 13.00% | ~234 |
+| Risk Tolerant | 13.00% | ~234 |
+| What A Catchy Song | 13.00% | ~234 |
 | Marked For Success | 12.00% | ~216 |
 | Where It All Began | 12.00% | ~216 |
 | Sorry, Didn't See You There | 12.00% | ~216 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 797)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,796 (Ranked 158)  
+Progressed: 1,797 (Ranked 158)  
 Completed: 10 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 10 (0.56%) (Ranked 117)
 | 2023-06-15 | 1,785 | 10 |
 | 2023-06-16 | 1,791 | 10 |
 | 2023-06-17 | 1,796 | 10 |
+| 2023-06-18 | 1,797 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

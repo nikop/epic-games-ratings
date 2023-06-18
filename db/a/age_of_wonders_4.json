@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -234,8 +234,8 @@
   "Tags": [],
   "EOS_Progressed": 4712,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 188,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 187,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -4306,9 +4306,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2120
     },
     {
       "ID": "33",
@@ -4473,8 +4473,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-15T09:59:50.5471189+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:04:51.9402411+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:05:53.712427+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:59:42.4599527+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:04:51.9403019+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:00:27.2925558+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:05:53.7124881+00:00"
 }

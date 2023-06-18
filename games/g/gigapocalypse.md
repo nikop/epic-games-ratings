@@ -18,25 +18,25 @@
 | Impenetrable Skin | 53.00% | ~83 |
 | Chomp Chomp! | 44.00% | ~69 |
 | Supreme Power | 42.00% | ~66 |
+| Glorious Battle | 41.00% | ~64 |
 | The Duelist | 40.00% | ~62 |
-| Glorious Battle | 40.00% | ~62 |
 | Diaper Time! | 40.00% | ~62 |
 | Target Practice | 40.00% | ~62 |
+| Meat Larder | 38.00% | ~59 |
 | Mutant And Proud | 37.00% | ~58 |
-| Meat Larder | 37.00% | ~58 |
 | The Emperor's New Clothes | 32.00% | ~50 |
+| Godlike Power | 30.00% | ~47 |
 | Final Evolution | 30.00% | ~47 |
 | You Shall Not Pass | 29.00% | ~45 |
-| Godlike Power | 29.00% | ~45 |
 | Undying Skin | 29.00% | ~45 |
 | Fight Me! | 29.00% | ~45 |
 | Happy Little Home | 29.00% | ~45 |
 | Mommy's Very Angry | 28.00% | ~44 |
 | Animal Lover | 28.00% | ~44 |
 | Supremacy | 28.00% | ~44 |
+| Back To The Future | 23.00% | ~36 |
 | Immortal Skin | 23.00% | ~36 |
 | Loyal Companion | 23.00% | ~36 |
-| Back To The Future | 22.00% | ~34 |
 | Fire Beacon | 22.00% | ~34 |
 | Lunch Before The Lunch | 21.00% | ~33 |
 | From Here To Eternity | 18.00% | ~28 |

@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1137,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
       "Time": "2023-06-17T23:01:34.0896569+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T00:02:41.1974287+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -187,7 +192,7 @@
       "Name": "Self Portrait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -225,9 +230,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Dal\u00ED",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -241,9 +246,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Michelangelo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HUNDRED_UPVOTES",
@@ -257,9 +262,9 @@
       "ID": "ACH_NOONE_GUESSED_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "You tried your best!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -275,7 +280,7 @@
       "Name": "Facepalm",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -353,9 +358,9 @@
       "ID": "ACH_WIN_A_GAME",
       "SetID": "5ck0pmd",
       "Name": "Art Intern",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -377,23 +382,23 @@
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
       "SetID": "5ck0pmd",
       "Name": "First Sketch",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:01:34.0896565+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:02:41.197428+00:00",
   "LastUpdate_AppInfo": "2023-06-16T16:59:01.0673973+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:56:52.8995041+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:01:34.0896745+00:00"
+  "LastUpdate_Ratings": "2023-06-17T23:57:05.366265+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:02:41.19745+00:00"
 }

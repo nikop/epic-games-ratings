@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~509,957 |
-| Every story has a beginning | 36.00% | ~226,647 |
-| The first of many | 32.00% | ~201,464 |
-| Positive word of mouth | 18.00% | ~113,324 |
-| Lawn in the U.S.A. | 15.00% | ~94,436 |
-| Blade Runner | 9.00% | ~56,662 |
-| Credible | 7.00% | ~44,070 |
-| Teamwork makes the dream work | 6.00% | ~37,775 |
-| Where there's muck there's brass | 4.00% | ~25,183 |
-| Bigger and better | 4.00% | ~25,183 |
-| Aggressive expansion | 4.00% | ~25,183 |
-| Size isn't everything | 3.00% | ~18,887 |
-| Close shave | 3.00% | ~18,887 |
-| Established | 3.00% | ~18,887 |
+| The dream begins | 81.00% | ~509,975 |
+| Every story has a beginning | 36.00% | ~226,656 |
+| The first of many | 32.00% | ~201,472 |
+| Positive word of mouth | 18.00% | ~113,328 |
+| Lawn in the U.S.A. | 15.00% | ~94,440 |
+| Blade Runner | 9.00% | ~56,664 |
+| Credible | 7.00% | ~44,072 |
+| Teamwork makes the dream work | 6.00% | ~37,776 |
+| Where there's muck there's brass | 4.00% | ~25,184 |
+| Bigger and better | 4.00% | ~25,184 |
+| Aggressive expansion | 4.00% | ~25,184 |
+| Size isn't everything | 3.00% | ~18,888 |
+| Close shave | 3.00% | ~18,888 |
+| Established | 3.00% | ~18,888 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,592 |
 | Every good deed… | 2.00% | ~12,592 |
 | Leaner and meaner | 2.00% | ~12,592 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~630 |
 | Mo mowers, mo problems | 0.10% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629,576 (Ranked 22)  
+Progressed: 629,599 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 14 (0.00%) (Ranked 228)
 | 2023-06-15 | 628,564 | 14 |
 | 2023-06-16 | 629,034 | 14 |
 | 2023-06-17 | 629,576 | 14 |
+| 2023-06-18 | 629,599 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 274)  
 Sum: 964 (Ranked 234)  

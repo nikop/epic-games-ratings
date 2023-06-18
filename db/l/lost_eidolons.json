@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -959,6 +959,11 @@
       "Time": "2023-06-17T22:05:48.8733662+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T00:07:30.7293923+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -978,7 +983,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "03",
@@ -1010,7 +1015,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "07",
@@ -1018,7 +1023,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "08",
@@ -1026,7 +1031,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "09",
@@ -1042,7 +1047,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "11",
@@ -1153,7 +1158,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
@@ -1161,8 +1166,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-17T23:06:15.1560681+00:00",
+  "LastChanged_Achievements": "2023-06-18T00:07:30.7293916+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.9264687+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:59:58.8683332+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:06:15.1560903+00:00"
+  "LastUpdate_Ratings": "2023-06-18T00:00:45.5295863+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:07:30.7294131+00:00"
 }

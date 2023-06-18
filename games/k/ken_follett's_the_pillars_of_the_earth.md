@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,593 |
-| Man of politics | 35.00% | ~4,661 |
+| Tattletale | 42.00% | ~5,594 |
+| Man of politics | 35.00% | ~4,662 |
 | Friends of sorts | 34.00% | ~4,528 |
 | Yet another secret | 34.00% | ~4,528 |
 | Let there be darkness | 33.00% | ~4,395 |
-| End of Book One | 31.00% | ~4,128 |
-| Garden of Eden | 25.00% | ~3,329 |
-| Wannabe knight | 24.00% | ~3,196 |
-| Full house | 24.00% | ~3,196 |
+| End of Book One | 31.00% | ~4,129 |
+| Garden of Eden | 25.00% | ~3,330 |
+| Wannabe knight | 24.00% | ~3,197 |
+| Full house | 24.00% | ~3,197 |
 | Help an old friend | 22.00% | ~2,930 |
-| Two of us | 20.00% | ~2,663 |
-| Negotiation skills | 19.00% | ~2,530 |
-| Workers' union | 19.00% | ~2,530 |
+| Two of us | 20.00% | ~2,664 |
+| Negotiation skills | 19.00% | ~2,531 |
+| Workers' union | 19.00% | ~2,531 |
 | End of Book Two | 18.00% | ~2,397 |
 | Everything's in order | 17.00% | ~2,264 |
 | Jack was here! | 15.00% | ~1,998 |
-| Twist of Fate | 14.00% | ~1,864 |
-| Exterminator | 14.00% | ~1,864 |
+| Twist of Fate | 14.00% | ~1,865 |
+| Exterminator | 14.00% | ~1,865 |
 | Whodunnit | 13.00% | ~1,731 |
 | Good midwife | 11.00% | ~1,465 |
 | Friar Tuck | 11.00% | ~1,465 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,199 |
 | The truth revealed | 9.00% | ~1,199 |
 | The End. | 9.00% | ~1,199 |
-| A cry for help | 8.00% | ~1,065 |
+| A cry for help | 8.00% | ~1,066 |
 | Silentium est aureum | 7.00% | ~932 |
 | Rebel without a cause | 6.00% | ~799 |
 | Staring contest champion | 5.00% | ~666 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~400 |
 | Boy of mystery | 2.00% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,317 (Ranked 108)  
+Progressed: 13,319 (Ranked 108)  
 Completed: 100 (0.75%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 100 (0.75%) (Ranked 106)
 | 2023-06-15 | 13,275 | 100 |
 | 2023-06-16 | 13,294 | 100 |
 | 2023-06-17 | 13,317 | 100 |
+| 2023-06-18 | 13,319 | 100 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 291)  
 Sum: 188 (Ranked 361)  

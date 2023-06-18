@@ -16,8 +16,8 @@ Rating: 4.59 (Ranked 411)
 | Full Ascension | 55.00% | ~2,592 |
 | There Can Only Be One! | 49.00% | ~2,309 |
 | Seat of Power | 49.00% | ~2,309 |
+| My Final Form | 45.00% | ~2,120 |
 | Intimidation Tactics | 45.00% | ~2,120 |
-| My Final Form | 44.00% | ~2,073 |
 | Valley of Wonders | 43.00% | ~2,026 |
 | In a Liege of Your Own | 39.00% | ~1,838 |
 | Return of the Wizard King | 32.00% | ~1,508 |

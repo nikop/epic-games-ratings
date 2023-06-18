@@ -2,7 +2,7 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 363,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 459,
@@ -3044,10 +3044,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2379,
       "NumberOfAwardsMax": 379
+    },
+    {
+      "Time": "2023-06-17T23:58:05.2470589+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2382,
+      "NumberOfAwardsMax": 379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2379,
+  "NumberOfAwards": 2382,
   "NumberOfAwardsMax": 379,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3097,7 +3103,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 175
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3130,8 +3136,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-17T22:57:41.5719789+00:00",
+  "LastChanged": "2023-06-17T23:58:05.2470586+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.0789564+00:00",
-  "LastUpdate_Ratings": "2023-06-17T22:57:41.5719795+00:00",
-  "LastUpdate_Achievements": "2023-06-17T23:03:16.1361096+00:00"
+  "LastUpdate_Ratings": "2023-06-17T23:58:05.2470593+00:00",
+  "LastUpdate_Achievements": "2023-06-18T00:04:10.374188+00:00"
 }

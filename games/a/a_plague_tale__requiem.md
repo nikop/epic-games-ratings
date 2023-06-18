@@ -5,20 +5,20 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,760 |
-| Newcomers | 78.00% | ~9,123 |
-| A Burden of Blood | 72.00% | ~8,421 |
-| Protector's Duty | 68.00% | ~7,953 |
-| Alchemist | 67.00% | ~7,836 |
-| In our Wake | 66.00% | ~7,719 |
-| Leaving all Behind | 63.00% | ~7,368 |
+| Under a New Sun | 92.00% | ~10,761 |
+| Newcomers | 78.00% | ~9,124 |
+| A Burden of Blood | 72.00% | ~8,422 |
+| Protector's Duty | 68.00% | ~7,954 |
+| Alchemist | 67.00% | ~7,837 |
+| In our Wake | 66.00% | ~7,720 |
+| Leaving all Behind | 63.00% | ~7,369 |
 | Felons | 60.00% | ~7,018 |
 | A Sea of Promises | 58.00% | ~6,784 |
 | Tales and Revelations | 55.00% | ~6,433 |
 | Bloodline | 50.00% | ~5,848 |
-| The Cradle of Centuries | 46.00% | ~5,380 |
-| The Life We Deserve | 44.00% | ~5,146 |
-| Night guard | 42.00% | ~4,912 |
+| The Cradle of Centuries | 46.00% | ~5,381 |
+| The Life We Deserve | 44.00% | ~5,147 |
+| Night guard | 42.00% | ~4,913 |
 | Nothing Left | 37.00% | ~4,328 |
 | Healing our Wounds | 35.00% | ~4,094 |
 | Dying Sun | 31.00% | ~3,626 |
@@ -29,7 +29,7 @@ Rating: 4.73 (Ranked 156)
 | Effective instruments | 21.00% | ~2,456 |
 | Perfect throw | 21.00% | ~2,456 |
 | Knights! | 19.00% | ~2,222 |
-| Handful of pockets | 13.00% | ~1,520 |
+| Handful of pockets | 13.00% | ~1,521 |
 | Not a toy anymore | 11.00% | ~1,287 |
 | Pocket laboratory | 11.00% | ~1,287 |
 | Herbalist | 7.00% | ~819 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 156)
 | Explorer | 1.00% | ~117 |
 | Malignant | 1.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,696 (Ranked 111)  
+Progressed: 11,697 (Ranked 111)  
 Completed: 33 (0.28%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 33 (0.28%) (Ranked 145)
 | 2023-06-15 | 11,628 | 33 |
 | 2023-06-16 | 11,661 | 33 |
 | 2023-06-17 | 11,696 | 33 |
+| 2023-06-18 | 11,697 | 33 |
 ## Awards
 Max (Great Boss Battles): 405  (Ranked 204)  
 Sum: 581 (Ranked 288)  
