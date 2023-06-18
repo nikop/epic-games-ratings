@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1727,9 +1727,9 @@
       "ID": "lord_of_the_tower_1",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -1950,8 +1950,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:03:44.4383234+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:04:04.540376+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:57:15.4942265+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:03:44.4383833+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:57:23.1315642+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:04:04.5404322+00:00"
 }

@@ -11,9 +11,9 @@
 | Rail Rat | 11.00% | ~78 |
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
+| Time Flies | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
-| Time Flies | 10.00% | ~71 |
 | The Harder They Fall | 10.00% | ~71 |
 | No, Thanks! | 10.00% | ~71 |
 | Breaking Down Barriers | 10.00% | ~71 |
@@ -28,9 +28,9 @@
 | The Loose Cannon | 9.00% | ~64 |
 | Golem Chaser | 9.00% | ~64 |
 | Check Your Pulse | 9.00% | ~64 |
-| Right On Time | 8.00% | ~56 |
-| Street Style | 8.00% | ~56 |
-| The Family Fortune | 8.00% | ~56 |
+| Right On Time | 8.00% | ~57 |
+| Street Style | 8.00% | ~57 |
+| The Family Fortune | 8.00% | ~57 |
 | Whiz Kid | 7.00% | ~49 |
 | Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 195)  
+Progressed: 707 (Ranked 194)  
 Completed: 3 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,4 +89,4 @@ Completed: 3 (0.42%) (Ranked 127)
 | 2023-06-15 | 696 | 2 |
 | 2023-06-16 | 702 | 3 |
 | 2023-06-17 | 704 | 3 |
-| 2023-06-18 | 706 | 3 |
+| 2023-06-18 | 707 | 3 |

@@ -14,7 +14,7 @@
 | Across The Stars | 47.00% | ~302 |
 | Crafty | 45.00% | ~289 |
 | All Seats Taken | 36.00% | ~231 |
-| For Science! | 32.00% | ~205 |
+| For Science! | 33.00% | ~212 |
 | Meet the Petersons | 31.00% | ~199 |
 | Stay Cool | 28.00% | ~180 |
 | KIA | 26.00% | ~167 |

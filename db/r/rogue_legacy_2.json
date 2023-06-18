@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1197,9 +1197,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22297,
+  "EOS_Progressed": 22298,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4447,6 +4447,11 @@
       "Time": "2023-06-18T19:05:38.5066081+00:00",
       "NumProgressed": 22297,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-18T21:06:16.6976428+00:00",
+      "NumProgressed": 22298,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -4552,9 +4557,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 156
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -4616,9 +4621,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 223
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -4769,21 +4774,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22297,
+      "Progressed": 22298,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1227,
+      "Progressed": 1228,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-17T21:58:59.5945774+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:05:55.9141914+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:06:16.6976424+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:47.9436973+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:59:16.0751896+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:05:55.9142313+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:59:23.9803217+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:06:16.6976808+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,292 |
-| What should I buy? | 83.00% | ~6,508 |
-| Focus! | 62.00% | ~4,861 |
-| Rescued Elder Ent | 62.00% | ~4,861 |
-| The End of the Gold Mane Knights | 47.00% | ~3,685 |
-| Rules of Etiquette | 40.00% | ~3,136 |
+| The Legend Begins | 93.00% | ~7,293 |
+| What should I buy? | 83.00% | ~6,509 |
+| Focus! | 62.00% | ~4,862 |
+| Rescued Elder Ent | 62.00% | ~4,862 |
+| The End of the Gold Mane Knights | 47.00% | ~3,686 |
+| Rules of Etiquette | 40.00% | ~3,137 |
 | False Goddess, Disappear | 39.00% | ~3,058 |
 | Quick Movements | 33.00% | ~2,588 |
 | Inventory Management | 33.00% | ~2,588 |
@@ -25,13 +25,13 @@ Number of Ratings: 546  (23.09.2022)
 | Castle Restoration Plans | 14.00% | ~1,098 |
 | The Dwarven Chandelier | 12.00% | ~941 |
 | Master of Speed | 9.00% | ~706 |
-| The Levitator | 6.00% | ~470 |
+| The Levitator | 6.00% | ~471 |
 | The God of Battle | 3.00% | ~235 |
 | Too Much of a Talker | 2.00% | ~157 |
 | The Skeleton King | 1.00% | ~78 |
 | Cold-Blooded | 0.80% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,841 (Ranked 118)  
+Progressed: 7,842 (Ranked 118)  
 Completed: 12 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 12 (0.15%) (Ranked 164)
 | 2023-06-15 | 7,822 | 12 |
 | 2023-06-16 | 7,832 | 12 |
 | 2023-06-17 | 7,837 | 12 |
-| 2023-06-18 | 7,841 | 12 |
+| 2023-06-18 | 7,842 | 12 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 314)  
 Sum: 762 (Ranked 257)  

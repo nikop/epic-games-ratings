@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 649)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,662 |
-| This is only the beginning | 19.00% | ~40,783 |
+| No aid from the Omnissiah | 25.00% | ~53,663 |
+| This is only the beginning | 19.00% | ~40,784 |
 | Knowledge is power | 12.00% | ~25,758 |
-| Power Ranger | 9.00% | ~19,318 |
-| Galvanic Rifle | 9.00% | ~19,318 |
-| Taser Goad | 9.00% | ~19,318 |
-| Radium Ready | 9.00% | ~19,318 |
-| Half a cog | 9.00% | ~19,318 |
+| Power Ranger | 9.00% | ~19,319 |
+| Galvanic Rifle | 9.00% | ~19,319 |
+| Taser Goad | 9.00% | ~19,319 |
+| Radium Ready | 9.00% | ~19,319 |
+| Half a cog | 9.00% | ~19,319 |
 | Watch them crumble | 6.00% | ~12,879 |
 | Competent Cohort | 4.00% | ~8,586 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,586 |
 | One with the Machine | 4.00% | ~8,586 |
-| Legio Cybernetica | 3.00% | ~6,439 |
-| Fleshy Disposal | 3.00% | ~6,439 |
+| Legio Cybernetica | 3.00% | ~6,440 |
+| Fleshy Disposal | 3.00% | ~6,440 |
 | Battle Servitor | 2.00% | ~4,293 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,293 |
 | Impatient destruction | 2.00% | ~4,293 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 649)
 | Perma-live | 0.10% | ~215 |
 | Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,647 (Ranked 50)  
+Progressed: 214,652 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,14 +99,14 @@ Completed: 4 (0.00%) (Ranked 227)
 | 2023-06-15 | 214,265 | 4 |
 | 2023-06-16 | 214,359 | 4 |
 | 2023-06-17 | 214,513 | 4 |
-| 2023-06-18 | 214,647 | 4 |
+| 2023-06-18 | 214,652 | 4 |
 ## Awards
-Max (Highly Recommended): 279  (Ranked 235)  
-Sum: 2,107 (Ranked 186)  
+Max (Highly Recommended): 280  (Ranked 235)  
+Sum: 2,108 (Ranked 186)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 279 |
+| This game is Highly Recommended | 280 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 258 |
@@ -154,3 +154,4 @@ Diff (max vs sum): 49
 | 2023-06-07 | 4.43 | 278 | 2,104 |
 | 2023-06-10 | 4.43 | 279 | 2,105 |
 | 2023-06-12 | 4.43 | 279 | 2,107 |
+| 2023-06-18 | 4.43 | 280 | 2,108 |

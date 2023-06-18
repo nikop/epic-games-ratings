@@ -5,16 +5,16 @@ Rating: 3.36 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~13,679 |
-| Hard Worker | 20.00% | ~12,436 |
-| Master, Commander | 20.00% | ~12,436 |
-| Mechanic | 19.00% | ~11,814 |
-| Adios, Friendo | 18.00% | ~11,192 |
-| Bottom's Up | 17.00% | ~10,570 |
-| Nice Try | 16.00% | ~9,949 |
-| Right On Target | 13.00% | ~8,083 |
-| Piano Man | 10.00% | ~6,218 |
-| Lazy Bones | 9.00% | ~5,596 |
+| Be Seeing You | 22.00% | ~13,681 |
+| Hard Worker | 20.00% | ~12,437 |
+| Master, Commander | 20.00% | ~12,437 |
+| Mechanic | 19.00% | ~11,816 |
+| Adios, Friendo | 18.00% | ~11,194 |
+| Bottom's Up | 17.00% | ~10,572 |
+| Nice Try | 16.00% | ~9,950 |
+| Right On Target | 13.00% | ~8,084 |
+| Piano Man | 10.00% | ~6,219 |
+| Lazy Bones | 9.00% | ~5,597 |
 | Sniper | 7.00% | ~4,353 |
 | Vinyl Vibes | 7.00% | ~4,353 |
 | Nothing Left to Say | 6.00% | ~3,731 |
@@ -22,16 +22,16 @@ Rating: 3.36 (Ranked 945)
 | Butcher | 4.00% | ~2,487 |
 | Magnetic Miracles | 4.00% | ~2,487 |
 | Spicy | 4.00% | ~2,487 |
-| A Man Of Taste | 3.00% | ~1,865 |
-| Ace in the Hole | 3.00% | ~1,865 |
-| Fair's Fair | 3.00% | ~1,865 |
-| Hearty | 3.00% | ~1,865 |
-| Meaty | 3.00% | ~1,865 |
-| Taco Toto | 3.00% | ~1,865 |
+| A Man Of Taste | 3.00% | ~1,866 |
+| Ace in the Hole | 3.00% | ~1,866 |
+| Fair's Fair | 3.00% | ~1,866 |
+| Hearty | 3.00% | ~1,866 |
+| Meaty | 3.00% | ~1,866 |
+| Taco Toto | 3.00% | ~1,866 |
 | Audiophile | 2.00% | ~1,244 |
 | Tape Head | 1.00% | ~622 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,179 (Ranked 75)  
+Progressed: 62,187 (Ranked 75)  
 Completed: 549 (0.88%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 549 (0.88%) (Ranked 100)
 | 2023-06-15 | 61,648 | 536 |
 | 2023-06-16 | 61,810 | 539 |
 | 2023-06-17 | 61,996 | 542 |
-| 2023-06-18 | 62,179 | 549 |
+| 2023-06-18 | 62,187 | 549 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

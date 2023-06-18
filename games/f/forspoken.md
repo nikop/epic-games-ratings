@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 865)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,478 |
-| Unlocked Potential | 9.00% | ~3,478 |
+| Attachments | 9.00% | ~3,479 |
+| Unlocked Potential | 9.00% | ~3,479 |
 | Tinkerer | 7.00% | ~2,706 |
 | Leapfrogger | 6.00% | ~2,319 |
 | Knock 'Em Dead | 6.00% | ~2,319 |
 | Pilgrimage: Initiate | 6.00% | ~2,319 |
 | Hell of a Run | 6.00% | ~2,319 |
 | Call of the Fount: Baptized | 6.00% | ~2,319 |
-| No Mercy | 5.00% | ~1,932 |
-| Explorer: Seeker | 5.00% | ~1,932 |
+| No Mercy | 5.00% | ~1,933 |
+| Explorer: Seeker | 5.00% | ~1,933 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,546 |
 | Stuck | 4.00% | ~1,546 |
 | Help Me Out Here | 4.00% | ~1,546 |
@@ -27,12 +27,12 @@ Rating: 4.15 (Ranked 865)
 | Damned If You Do... | 2.00% | ~773 |
 | Explorer: Pathfinder | 2.00% | ~773 |
 | From Every Angle | 2.00% | ~773 |
-| The Hue of Blue | 1.00% | ~386 |
-| The Truth Will Out | 1.00% | ~386 |
-| Breaking Point | 1.00% | ~386 |
-| None the Wiser | 1.00% | ~386 |
-| Shocker | 1.00% | ~386 |
-| Pilgrimage: Novice | 1.00% | ~386 |
+| The Hue of Blue | 1.00% | ~387 |
+| The Truth Will Out | 1.00% | ~387 |
+| Breaking Point | 1.00% | ~387 |
+| None the Wiser | 1.00% | ~387 |
+| Shocker | 1.00% | ~387 |
+| Pilgrimage: Novice | 1.00% | ~387 |
 | Forspoken | 0.90% | ~348 |
 | Wildfire | 0.70% | ~271 |
 | Awakening | 0.60% | ~232 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 865)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,650 (Ranked 87)  
+Progressed: 38,651 (Ranked 87)  
 Completed: 2 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.01%) (Ranked 214)
 | 2023-06-15 | 38,598 | 2 |
 | 2023-06-16 | 38,614 | 2 |
 | 2023-06-17 | 38,638 | 2 |
-| 2023-06-18 | 38,650 | 2 |
+| 2023-06-18 | 38,651 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

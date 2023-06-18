@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 26978,
+  "EOS_Progressed": 26984,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6889,6 +6889,11 @@
       "Time": "2023-06-18T20:05:49.0639438+00:00",
       "NumProgressed": 26978,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-18T21:06:09.6994183+00:00",
+      "NumProgressed": 26984,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -6900,7 +6905,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "distance1000000",
@@ -6916,7 +6921,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "distance50000",
@@ -6940,7 +6945,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6744
+      "UsersEstimate": 6746
     },
     {
       "ID": "goals180",
@@ -6956,7 +6961,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "goals75",
@@ -6988,7 +6993,7 @@
       "Name": "Journeyer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "lifeaquatic",
@@ -7020,7 +7025,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4857
     },
     {
       "ID": "novice",
@@ -7028,7 +7033,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "playerFelipe",
@@ -7052,7 +7057,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "playerPaz",
@@ -7060,7 +7065,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "playerTime3days",
@@ -7108,7 +7113,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 7284
+      "UsersEstimate": 7286
     },
     {
       "ID": "sandboarder",
@@ -7122,9 +7127,9 @@
       "ID": "sightseer",
       "SetID": "2lgngib",
       "Name": "Sightseer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3237
+      "UsersEstimate": 2968
     },
     {
       "ID": "ultimate",
@@ -7140,7 +7145,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "unlockfinal",
@@ -7164,7 +7169,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "unlockpaz",
@@ -7172,7 +7177,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "vandal",
@@ -7196,7 +7201,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "windswept",
@@ -7211,15 +7216,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 26978,
+      "Progressed": 26984,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-17T20:59:48.8022113+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:05:49.0639428+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:06:09.699418+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:53.9980856+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:59:22.2407206+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:05:49.0639946+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:59:30.2736138+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:06:09.6994689+00:00"
 }

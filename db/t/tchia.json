@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -170,7 +170,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6540,
+  "EOS_Progressed": 6541,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
@@ -3810,6 +3810,11 @@
       "Time": "2023-06-18T20:05:38.101473+00:00",
       "NumProgressed": 6540,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-18T21:05:57.5667803+00:00",
+      "NumProgressed": 6541,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -3869,7 +3874,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3893,7 +3898,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -3988,7 +3993,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6540,
+      "Progressed": 6541,
       "Completed": 25
     }
   ],
@@ -3996,8 +4001,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:05:38.1014728+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:05:57.5667798+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:39.0448454+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:58:09.1208813+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:05:38.1014993+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:58:15.9446407+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:05:57.5668289+00:00"
 }

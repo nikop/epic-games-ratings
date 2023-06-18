@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6851,
+  "EOS_Progressed": 6852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2023-06-18T18:06:51.897676+00:00",
       "NumProgressed": 6851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T21:06:19.483273+00:00",
+      "NumProgressed": 6852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4578,7 +4583,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "0018",
@@ -4634,7 +4639,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "0025",
@@ -4674,7 +4679,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "0030",
@@ -4737,7 +4742,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6851,
+      "Progressed": 6852,
       "Completed": 0
     }
   ],
@@ -4745,8 +4750,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:06:09.0020913+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:06:19.4832727+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.409508+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:59:44.5548257+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:06:09.0021313+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:59:52.855127+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:06:19.4833121+00:00"
 }

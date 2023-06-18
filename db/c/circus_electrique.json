@@ -5,9 +5,9 @@
   "Ranking_Rating": 860,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-06-18T17:07:24.4467667+00:00",
       "NumProgressed": 445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T21:06:22.5019039+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -381,7 +386,7 @@
       "Name": "Lion Tamer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -389,7 +394,7 @@
       "Name": "One More Thing...",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -421,7 +426,7 @@
       "Name": "Built in a Day",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -437,7 +442,7 @@
       "Name": "Time Travel!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -475,9 +480,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "631ndc2",
       "Name": "Club Member",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -597,7 +602,7 @@
       "Name": "King of District 1",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -685,7 +690,7 @@
       "Name": "Self Defense",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -764,7 +769,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 447,
       "Completed": 1
     }
   ],
@@ -772,8 +777,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:06:11.9644967+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:06:22.5019036+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.3365909+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:59:02.706488+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:06:11.9645323+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:59:11.2448102+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:06:22.5019407+00:00"
 }

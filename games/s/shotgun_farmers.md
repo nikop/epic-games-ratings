@@ -7,8 +7,8 @@
 | Seeds of War | 60.00% | ~76 |
 | Aspairagus | 57.00% | ~44 |
 | Survivor | 48.00% | ~37 |
-| First Blood | 44.00% | ~56 |
-| Triple Kill | 42.00% | ~53 |
+| First Blood | 45.00% | ~57 |
+| Triple Kill | 43.00% | ~55 |
 | Early Survivor | 38.00% | ~29 |
 | No Diggity | 38.00% | ~29 |
 | I Believe I Can Fly | 36.00% | ~46 |

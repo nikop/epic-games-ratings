@@ -10,9 +10,9 @@ Rating: 4.61 (Ranked 363)
 | South American Connection | 24.00% | ~2,072 |
 | Life of the Party | 18.00% | ~1,554 |
 | Tommy Two-Wheels | 14.00% | ~1,209 |
-| Big Heat from Little Havana | 13.00% | ~1,122 |
-| Chauffeur | 13.00% | ~1,122 |
-| Salutations My Little Friend | 10.00% | ~863 |
+| Big Heat from Little Havana | 13.00% | ~1,123 |
+| Chauffeur | 13.00% | ~1,123 |
+| Salutations My Little Friend | 10.00% | ~864 |
 | Iron-y | 9.00% | ~777 |
 | Gun for Hire | 8.00% | ~691 |
 | Mischief Managed | 7.00% | ~604 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 363)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,634 (Ranked 117)  
+Progressed: 8,635 (Ranked 117)  
 Completed: 36 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,14 +99,14 @@ Completed: 36 (0.42%) (Ranked 127)
 | 2023-06-15 | 8,528 | 32 |
 | 2023-06-16 | 8,563 | 34 |
 | 2023-06-17 | 8,597 | 36 |
-| 2023-06-18 | 8,634 | 36 |
+| 2023-06-18 | 8,635 | 36 |
 ## Awards
-Max (Great Boss Battles): 55  (Ranked 387)  
-Sum: 55 (Ranked 438)  
+Max (Great Boss Battles): 56  (Ranked 387)  
+Sum: 56 (Ranked 438)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 55 |
+| This game has Great Boss Battles | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -180,3 +180,4 @@ Diff (max vs sum): -51
 | 2023-06-15 | 4.62 | 53 | 53 |
 | 2023-06-16 | 4.61 | 53 | 53 |
 | 2023-06-17 | 4.61 | 55 | 55 |
+| 2023-06-18 | 4.61 | 56 | 56 |

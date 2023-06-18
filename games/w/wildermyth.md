@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 35.00% | ~442 |
-| Me and My Familiar | 32.00% | ~404 |
+| Me and My Familiar | 33.00% | ~417 |
 | This Too Shall Pass | 28.00% | ~354 |
 | Passing Shadow | 26.00% | ~328 |
 | Cutthroat Competitors | 26.00% | ~328 |

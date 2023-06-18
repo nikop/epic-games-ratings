@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -428,23 +428,29 @@
       "Rating": 4.61,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-06-18T20:58:32.1070565+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 56,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 55
+      "Count": 56
     }
   ],
-  "EOS_Progressed": 8634,
+  "EOS_Progressed": 8635,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4962,6 +4968,11 @@
       "Time": "2023-06-18T19:00:26.8372815+00:00",
       "NumProgressed": 8634,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-18T21:00:59.8906951+00:00",
+      "NumProgressed": 8635,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5053,7 +5064,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACH12",
@@ -5157,7 +5168,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH25",
@@ -5165,7 +5176,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH26",
@@ -5244,16 +5255,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8634,
+      "Progressed": 8635,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:00:47.769961+00:00",
+  "LastChanged": "2023-06-18T20:58:32.1070564+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:00:59.8906946+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-18T19:58:26.2584911+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:00:47.7700499+00:00"
+  "LastUpdate_Ratings": "2023-06-18T20:58:32.1070568+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:00:59.8907356+00:00"
 }

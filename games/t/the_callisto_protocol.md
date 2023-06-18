@@ -1,21 +1,21 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 849)  
+Rating: 4.19 (Ranked 842)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 16.00% | ~2,471 |
-| The Outer Way | 15.00% | ~2,316 |
+| The Outer Way | 15.00% | ~2,317 |
 | Desperate Times | 14.00% | ~2,162 |
-| Paper Jams | 13.00% | ~2,007 |
+| Paper Jams | 13.00% | ~2,008 |
 | Chew 'Em Up | 11.00% | ~1,699 |
 | Reforged | 11.00% | ~1,699 |
 | Workplace Hazard | 10.00% | ~1,544 |
 | If the SHU Fits... | 10.00% | ~1,544 |
 | Get a Grip | 9.00% | ~1,390 |
-| Giving Back | 8.00% | ~1,235 |
-| Without A Paddle | 8.00% | ~1,235 |
+| Giving Back | 8.00% | ~1,236 |
+| Without A Paddle | 8.00% | ~1,236 |
 | In the Pipe, Five by Five | 7.00% | ~1,081 |
 | Crash Site | 7.00% | ~1,081 |
 | Two Heads Are Better Than One | 6.00% | ~927 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 849)
 | Hoard Mode | 1.00% | ~34 |
 | Recidivist | 0.70% | ~24 |
 | Lifer | 0.70% | ~24 |
-| Armed to the Teeth | 0.30% | ~10 |
+| Armed to the Teeth | 0.40% | ~13 |
 | The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 849)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,442 (Ranked 104)  
+Progressed: 15,445 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,11 +104,11 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-15 | 15,363 | 56 |
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
-| 2023-06-18 | 15,442 | 56 |
+| 2023-06-18 | 15,445 | 56 |
 ## Awards
-Max (Amazing Storytelling): 55  (Ranked 387)  
+Max (Amazing Storytelling): 55  (Ranked 388)  
 Sum: 319 (Ranked 328)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 55 |
@@ -189,4 +189,4 @@ Diff (max vs sum): 59
 | 2023-06-15 | 4.18 | 54 | 314 |
 | 2023-06-16 | 4.18 | 54 | 315 |
 | 2023-06-17 | 4.18 | 54 | 318 |
-| 2023-06-18 | 4.18 | 55 | 319 |
+| 2023-06-18 | 4.19 | 55 | 319 |

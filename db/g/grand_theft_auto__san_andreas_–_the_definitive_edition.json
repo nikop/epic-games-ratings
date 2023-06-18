@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -430,9 +430,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 10688,
+  "EOS_Progressed": 10689,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5160,6 +5160,11 @@
       "Time": "2023-06-18T20:06:11.7305279+00:00",
       "NumProgressed": 10688,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-18T21:06:22.2403692+00:00",
+      "NumProgressed": 10689,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5171,7 +5176,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "ACH02",
@@ -5227,7 +5232,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5237
+      "UsersEstimate": 5238
     },
     {
       "ID": "ACH09",
@@ -5339,7 +5344,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACH23",
@@ -5450,7 +5455,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10688,
+      "Progressed": 10689,
       "Completed": 19
     }
   ],
@@ -5458,8 +5463,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-18T14:01:07.7447235+00:00",
-  "LastChanged_Achievements": "2023-06-18T20:06:11.7305272+00:00",
+  "LastChanged_Achievements": "2023-06-18T21:06:22.2403686+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-18T20:00:15.601182+00:00",
-  "LastUpdate_Achievements": "2023-06-18T20:06:11.7305719+00:00"
+  "LastUpdate_Ratings": "2023-06-18T21:00:25.431342+00:00",
+  "LastUpdate_Achievements": "2023-06-18T21:06:22.2404108+00:00"
 }
