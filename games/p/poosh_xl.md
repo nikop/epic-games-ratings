@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pooshed Past 2500 | 71.00% | ~89 |
+| Destroyed 25 Obstacles | 47.00% | ~59 |
 | Pooshed over 250000 | 47.00% | ~59 |
-| Destroyed 25 Obstacles | 46.00% | ~58 |
 | Obtained 50 PowerUps | 46.00% | ~58 |
 | Pooshed Past 5000 | 26.00% | ~32 |
 | Terrible Start | 16.00% | ~20 |

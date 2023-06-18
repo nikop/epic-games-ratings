@@ -7,24 +7,24 @@ Rating: 4.25 (Ranked 797)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,438 |
 | Don't I Know You...? | 77.00% | ~1,384 |
-| Jailbreak | 65.00% | ~1,168 |
+| Jailbreak | 65.00% | ~1,169 |
 | Suited and Booted | 38.00% | ~683 |
 | HEADSHOT! | 37.00% | ~665 |
 | Sleeping With The Fishes | 35.00% | ~629 |
 | Overheated | 30.00% | ~539 |
 | High Performance | 30.00% | ~539 |
 | Powered Up | 28.00% | ~503 |
-| Studied The Blade | 24.00% | ~431 |
-| Home Invasion | 22.00% | ~395 |
-| Luminary | 22.00% | ~395 |
-| It's a Trap | 22.00% | ~395 |
-| True Survivor | 21.00% | ~377 |
-| Court Martial | 19.00% | ~341 |
-| Offensive Defense | 19.00% | ~341 |
-| Shocking | 19.00% | ~341 |
-| Unforeseeable Consequences | 19.00% | ~341 |
-| Dead Again | 18.00% | ~323 |
-| Clean Cut | 18.00% | ~323 |
+| Studied The Blade | 24.00% | ~432 |
+| Home Invasion | 22.00% | ~396 |
+| Luminary | 22.00% | ~396 |
+| It's a Trap | 22.00% | ~396 |
+| True Survivor | 21.00% | ~378 |
+| Court Martial | 19.00% | ~342 |
+| Offensive Defense | 19.00% | ~342 |
+| Shocking | 19.00% | ~342 |
+| Unforeseeable Consequences | 19.00% | ~342 |
+| Dead Again | 18.00% | ~324 |
+| Clean Cut | 18.00% | ~324 |
 | Full Arsenal | 16.00% | ~288 |
 | Can't Trust Banks | 15.00% | ~270 |
 | Mommy Dearest | 13.00% | ~234 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 797)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,797 (Ranked 158)  
+Progressed: 1,798 (Ranked 158)  
 Completed: 10 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 10 (0.56%) (Ranked 117)
 | 2023-06-15 | 1,785 | 10 |
 | 2023-06-16 | 1,791 | 10 |
 | 2023-06-17 | 1,796 | 10 |
-| 2023-06-18 | 1,797 | 10 |
+| 2023-06-18 | 1,798 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

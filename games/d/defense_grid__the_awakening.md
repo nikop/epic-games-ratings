@@ -6,23 +6,23 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~388,370 |
-| Hey! That's mine! | 78.00% | ~373,986 |
-| Happy Returns | 77.00% | ~369,191 |
-| Field Promotion | 74.00% | ~354,807 |
-| Leadhead | 71.00% | ~340,423 |
-| Eradicator | 67.00% | ~321,244 |
-| Surplus | 65.00% | ~311,655 |
-| I Spy | 64.00% | ~306,860 |
+| First Blood | 81.00% | ~388,371 |
+| Hey! That's mine! | 78.00% | ~373,987 |
+| Happy Returns | 77.00% | ~369,192 |
+| Field Promotion | 74.00% | ~354,808 |
+| Leadhead | 71.00% | ~340,424 |
+| Eradicator | 67.00% | ~321,245 |
+| Surplus | 65.00% | ~311,656 |
+| I Spy | 64.00% | ~306,861 |
 | Burn Baby Burn | 59.00% | ~282,887 |
 | Yellow Beats Green | 55.00% | ~263,708 |
 | Salvage Rights | 53.00% | ~254,119 |
-| Pew Pew | 50.00% | ~239,734 |
-| What IS that? | 50.00% | ~239,734 |
+| Pew Pew | 50.00% | ~239,735 |
+| What IS that? | 50.00% | ~239,735 |
 | Close Call | 49.00% | ~234,940 |
 | Penny Pincher | 49.00% | ~234,940 |
 | Arsenal | 46.00% | ~220,556 |
-| Boot Camp | 45.00% | ~215,761 |
+| Boot Camp | 45.00% | ~215,762 |
 | Flawless Victory | 42.00% | ~201,377 |
 | Confident | 40.00% | ~191,788 |
 | Exterminator | 36.00% | ~172,609 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Liquidator | 29.00% | ~139,046 |
 | High Voltage | 24.00% | ~115,073 |
 | Filthy Rich | 19.00% | ~91,099 |
-| The Not-So-Friendly Skies | 18.00% | ~86,304 |
+| The Not-So-Friendly Skies | 18.00% | ~86,305 |
 | Power Builder | 17.00% | ~81,510 |
 | Pyrrhic Victory | 17.00% | ~81,510 |
 | Death From Above | 16.00% | ~76,715 |
@@ -45,8 +45,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Annihilator | 8.00% | ~38,358 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,358 |
 | Indecisive | 6.00% | ~28,768 |
-| Base Defender | 5.00% | ~23,973 |
-| Relay Race | 5.00% | ~23,973 |
+| Base Defender | 5.00% | ~23,974 |
+| Relay Race | 5.00% | ~23,974 |
 | Diversity | 3.00% | ~14,384 |
 | Full Potential | 3.00% | ~14,384 |
 | Tower Expert | 3.00% | ~14,384 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~479 |
 | You Monster | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,469 (Ranked 32)  
+Progressed: 479,470 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 4 (0.00%) (Ranked 228)
 | 2023-06-15 | 479,297 | 4 |
 | 2023-06-16 | 479,370 | 4 |
 | 2023-06-17 | 479,461 | 4 |
-| 2023-06-18 | 479,469 | 4 |
+| 2023-06-18 | 479,470 | 4 |
 ## Awards
 Max (Great for Beginners): 233  (Ranked 249)  
 Sum: 1,648 (Ranked 203)  

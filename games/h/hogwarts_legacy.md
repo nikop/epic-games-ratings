@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,242 |
-| First Class Student | 8.00% | ~22,437 |
-| Troll with the Punches | 8.00% | ~22,437 |
+| First Class Student | 8.00% | ~22,438 |
+| Troll with the Punches | 8.00% | ~22,438 |
 | Grappling with a Graphorn | 7.00% | ~19,633 |
 | The One Who Mastered Memories | 7.00% | ~19,633 |
 | The Hallowed Hero | 7.00% | ~19,633 |
@@ -23,9 +23,9 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,828 |
 | The Spell Master | 6.00% | ~16,828 |
 | Rising From the Ashes | 6.00% | ~16,828 |
-| The Avenging Gazelle | 5.00% | ~14,023 |
-| Beast Friends | 5.00% | ~14,023 |
-| Flight the Good Flight | 5.00% | ~14,023 |
+| The Avenging Gazelle | 5.00% | ~14,024 |
+| Beast Friends | 5.00% | ~14,024 |
+| Flight the Good Flight | 5.00% | ~14,024 |
 | The Seeker of Knowledge | 4.00% | ~11,219 |
 | The Root of the Problem | 4.00% | ~11,219 |
 | Third Time's a Charm | 4.00% | ~11,219 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,402 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,467 (Ranked 41)  
+Progressed: 280,471 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-15 | 280,075 | 408 |
 | 2023-06-16 | 280,293 | 408 |
 | 2023-06-17 | 280,449 | 408 |
-| 2023-06-18 | 280,467 | 408 |
+| 2023-06-18 | 280,471 | 408 |
 ## Awards
 Max (Character Customization): 20,077  (Ranked 18)  
 Sum: 37,254 (Ranked 32)  

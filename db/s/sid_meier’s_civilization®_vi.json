@@ -6584,10 +6584,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 272147,
       "NumberOfAwardsMax": 33116
+    },
+    {
+      "Time": "2023-06-18T03:12:16.1793711+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 272201,
+      "NumberOfAwardsMax": 33116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272147,
+  "NumberOfAwards": 272201,
   "NumberOfAwardsMax": 33116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6607,7 +6613,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 30342
+      "Count": 30396
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6669,8 +6675,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-06-18T02:21:32.0077307+00:00",
+  "LastChanged": "2023-06-18T03:12:16.1793709+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.9809446+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:21:32.0077313+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:25:22.7183206+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:12:16.179372+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:16:21.5763236+00:00"
 }

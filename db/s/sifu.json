@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4674,10 +4674,10 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709707,
+  "EOS_Progressed": 709711,
   "EOS_Completed": 12775,
-  "EOS_NewPlayers": 1090,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 1080,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -10269,6 +10269,11 @@
       "Time": "2023-06-18T02:30:16.2821851+00:00",
       "NumProgressed": 709707,
       "NumCompleted": 12775
+    },
+    {
+      "Time": "2023-06-18T03:21:20.9679523+00:00",
+      "NumProgressed": 709711,
+      "NumCompleted": 12775
     }
   ],
   "TotalAchievements": 50,
@@ -10494,9 +10499,9 @@
       "ID": "28_Takedown_Trophy",
       "SetID": "adcm20g",
       "Name": "The 36th Chamber of Kung-Fu",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 2839
+      "UsersEstimate": 3549
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -10624,7 +10629,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10679,21 +10684,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19008,
+      "Progressed": 19012,
       "Completed": 10281
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709707,
+      "Progressed": 709711,
       "Completed": 12775
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-17T21:58:52.0997234+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:16.2821848+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:20.9679518+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:22:38.0186786+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:16.2822492+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:13:33.291492+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:20.9680575+00:00"
 }

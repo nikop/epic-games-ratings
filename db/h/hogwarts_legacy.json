@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3876,10 +3876,10 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280467,
+  "EOS_Progressed": 280471,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 2240,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 2235,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -9956,6 +9956,11 @@
       "Time": "2023-06-18T02:28:46.9349403+00:00",
       "NumProgressed": 280467,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-18T03:19:43.2978378+00:00",
+      "NumProgressed": 280471,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10015,7 +10020,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14023
+      "UsersEstimate": 14024
     },
     {
       "ID": "PFA_16",
@@ -10031,7 +10036,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14023
+      "UsersEstimate": 14024
     },
     {
       "ID": "PFA_18",
@@ -10047,7 +10052,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14023
+      "UsersEstimate": 14024
     },
     {
       "ID": "PFA_2",
@@ -10295,7 +10300,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22437
+      "UsersEstimate": 22438
     },
     {
       "ID": "PFA_7",
@@ -10303,7 +10308,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22437
+      "UsersEstimate": 22438
     },
     {
       "ID": "PFA_8",
@@ -10326,7 +10331,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280467,
+      "Progressed": 280471,
       "Completed": 408
     }
   ],
@@ -10334,8 +10339,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-18T02:20:44.4362006+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:28:46.9349398+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:19:43.297837+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:20:44.4362016+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:28:46.9350307+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:11:24.5286104+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:19:43.2979486+00:00"
 }

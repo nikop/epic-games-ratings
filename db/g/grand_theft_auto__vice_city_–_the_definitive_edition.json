@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 117,
@@ -442,7 +442,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 8601,
+  "EOS_Progressed": 8605,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 7,
@@ -4902,6 +4902,11 @@
       "Time": "2023-06-18T02:25:13.945987+00:00",
       "NumProgressed": 8601,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-18T03:16:11.8956008+00:00",
+      "NumProgressed": 8605,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5017,7 +5022,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3442
     },
     {
       "ID": "ACH15",
@@ -5073,7 +5078,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3786
     },
     {
       "ID": "ACH22",
@@ -5081,7 +5086,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ACH23",
@@ -5089,7 +5094,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "ACH24",
@@ -5097,7 +5102,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH25",
@@ -5105,7 +5110,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH26",
@@ -5113,7 +5118,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH27",
@@ -5184,7 +5189,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8601,
+      "Progressed": 8605,
       "Completed": 36
     }
   ],
@@ -5192,8 +5197,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-17T04:58:38.331359+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:25:13.9459866+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:16:11.8956002+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:21:46.9879388+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:25:13.9460476+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:12:33.5868077+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:16:11.8957332+00:00"
 }

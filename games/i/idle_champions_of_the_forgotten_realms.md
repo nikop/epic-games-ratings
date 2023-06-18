@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,776 |
-| The Cursed Farmer | 3.00% | ~2,888 |
-| Beast Intentions | 2.00% | ~1,925 |
-| The Mad Wizard | 2.00% | ~1,925 |
+| A Brief Tour of the Realms | 6.00% | ~5,778 |
+| The Cursed Farmer | 3.00% | ~2,889 |
+| Beast Intentions | 2.00% | ~1,926 |
+| The Mad Wizard | 2.00% | ~1,926 |
 | The Ring of Regeneration | 1.00% | ~963 |
+| Seeking Allies | 1.00% | ~963 |
 | Are Ya Chicken? | 1.00% | ~963 |
-| Were-verpowered | 0.90% | ~866 |
-| Seeking Allies | 0.90% | ~866 |
+| Were-verpowered | 0.90% | ~867 |
 | The Court of Storms | 0.90% | ~563 |
 | Mad Cow Disease | 0.80% | ~770 |
 | Friendly Imps | 0.80% | ~770 |
@@ -26,20 +26,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.60% | ~578 |
 | Exploring Port Nyanzaru | 0.60% | ~578 |
 | Coasting to the Finish | 0.60% | ~375 |
-| Maddening | 0.50% | ~481 |
+| Maddening | 0.50% | ~482 |
 | Checkmate | 0.50% | ~313 |
 | Vecna Out! | 0.50% | ~313 |
-| Beast Mode | 0.50% | ~481 |
-| Low Initiative | 0.50% | ~481 |
-| Building Trust | 0.50% | ~481 |
-| Useless Allies | 0.50% | ~481 |
-| Running of the Saurs | 0.50% | ~481 |
-| The Contagious Curse | 0.50% | ~481 |
-| Escort to Waterdeep | 0.50% | ~481 |
-| Waterdeep Detours | 0.50% | ~481 |
+| Beast Mode | 0.50% | ~482 |
+| Low Initiative | 0.50% | ~482 |
+| Building Trust | 0.50% | ~482 |
+| Useless Allies | 0.50% | ~482 |
+| Running of the Saurs | 0.50% | ~482 |
+| The Contagious Curse | 0.50% | ~482 |
+| Escort to Waterdeep | 0.50% | ~482 |
+| Waterdeep Detours | 0.50% | ~482 |
 | Quick or Quack | 0.50% | ~313 |
 | The Silken Swamp | 0.40% | ~385 |
-| Supply Run | 0.40% | ~385 |
 | Owlbear Necessities | 0.40% | ~250 |
 | Best Thay Ever | 0.40% | ~250 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~250 |
@@ -63,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.30% | ~188 |
 | Third Third Out | 0.30% | ~188 |
 | Wet Feet | 0.30% | ~289 |
+| Supply Run | 0.30% | ~289 |
 | Keep Your Distance | 0.30% | ~188 |
 | Hands Off! | 0.30% | ~188 |
 | The Dread Domain of Tovag | 0.30% | ~188 |
@@ -189,6 +189,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~125 |
 | Clowning Around | 0.20% | ~125 |
 | Xanathaaaaaaar! | 0.20% | ~125 |
+| A Whale of a Time | 0.20% | ~125 |
 | Anti-Dexterous Explorers | 0.20% | ~193 |
 | Struggling Toward Omu | 0.20% | ~193 |
 | Wagon Train | 0.20% | ~193 |
@@ -423,7 +424,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Loots of Loomlurch | 0.10% | ~63 |
 | G. O. A. T. | 0.10% | ~63 |
 | Strength of Character | 0.10% | ~63 |
-| A Whale of a Time | 0.10% | ~63 |
 | Between a Brigganock and a Hard Place | 0.10% | ~63 |
 | The Play's the Thing! | 0.10% | ~63 |
 | A Nimble Approach | 0.10% | ~63 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,263 (Ranked 63)  
+Progressed: 96,301 (Ranked 63)  
 Completed: 1,947 (2.02%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,263 | 1,947 |
+| 2023-06-18 | 96,301 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

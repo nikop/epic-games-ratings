@@ -387,9 +387,9 @@
       "ID": "sorry_kiddo",
       "SetID": "202dmm8",
       "Name": "Sorry, kiddo",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "the_truth",
@@ -436,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:29:59.8788008+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:03.4240661+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:37.8118937+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:23:52.077371+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:29:59.8788157+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:14:57.4422484+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:03.4240809+00:00"
 }

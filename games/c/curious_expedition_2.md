@@ -46,7 +46,7 @@ Number of Ratings: 20  (23.09.2022)
 | SCHMETTERLING | 8.00% | ~25 |
 | No Laughing Matter | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
-| Level Up | 7.00% | ~22 |
+| Level Up | 8.00% | ~25 |
 | Zookeeper | 6.00% | ~19 |
 | The Workshop | 6.00% | ~19 |
 | Islander Understanding | 5.00% | ~16 |

@@ -7,8 +7,8 @@
 | Declawing | 68.00% | ~58 |
 | Target Practice | 40.00% | ~34 |
 | Over the Moon | 34.00% | ~29 |
-| The Bigger They Are | 31.00% | ~26 |
-| Enemies of Fate | 31.00% | ~26 |
+| The Bigger They Are | 32.00% | ~27 |
+| Enemies of Fate | 32.00% | ~27 |
 | Amokuali Tower | 29.00% | ~25 |
 | Armored | 28.00% | ~24 |
 | Your Training Continues | 27.00% | ~23 |

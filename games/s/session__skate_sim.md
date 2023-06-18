@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,10 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 4.00% | ~98 |
 | Renaissance man | 4.00% | ~98 |
 | Tank commander | 4.00% | ~98 |
-| Trick shot marksman | 4.00% | ~98 |
 | G.O.A.T. status | 3.00% | ~74 |
 | Hoarder | 3.00% | ~74 |
 | Prince of Philly | 3.00% | ~74 |
+| Trick shot marksman | 3.00% | ~74 |
 | We get it, you're good | 3.00% | ~74 |
 | Cross lock country | 2.00% | ~49 |
 | Many plys later... | 2.00% | ~49 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,457 (Ranked 152)  
+Progressed: 2,458 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-15 | 2,449 | 0 |
 | 2023-06-16 | 2,452 | 0 |
 | 2023-06-17 | 2,457 | 0 |
+| 2023-06-18 | 2,458 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 422 (Ranked 303)  

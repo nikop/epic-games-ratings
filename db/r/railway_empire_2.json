@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1251,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2107,6 +2107,11 @@
       "Time": "2023-06-18T02:30:17.1005648+00:00",
       "NumProgressed": 1251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T03:21:21.9717007+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2118,7 +2123,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "A01",
@@ -2198,7 +2203,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "A11",
@@ -2214,7 +2219,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "A13",
@@ -2238,7 +2243,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "A16",
@@ -2294,7 +2299,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "A23",
@@ -2310,7 +2315,7 @@
       "Name": "Access granted",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "A25",
@@ -2406,7 +2411,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "A37",
@@ -2414,7 +2419,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "A38",
@@ -2438,7 +2443,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "A41",
@@ -2454,7 +2459,7 @@
       "Name": "Bridge Builder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "A43",
@@ -2468,9 +2473,9 @@
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 213
     },
     {
       "ID": "A45",
@@ -2486,7 +2491,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "A47",
@@ -2502,7 +2507,7 @@
       "Name": "Bull and bear",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "A49",
@@ -2557,7 +2562,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1251,
+      "Progressed": 1252,
       "Completed": 0
     }
   ],
@@ -2565,8 +2570,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:17.1005643+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:21.9717002+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:21:33.2953995+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:17.100643+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:12:17.9587228+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:21.9717781+00:00"
 }

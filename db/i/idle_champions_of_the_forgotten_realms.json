@@ -4354,9 +4354,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 96263,
+  "EOS_Progressed": 96301,
   "EOS_Completed": 1947,
-  "EOS_NewPlayers": 5885,
+  "EOS_NewPlayers": 5919,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -10379,6 +10379,11 @@
       "Time": "2023-06-18T02:30:25.9084377+00:00",
       "NumProgressed": 96263,
       "NumCompleted": 1947
+    },
+    {
+      "Time": "2023-06-18T03:21:31.6964277+00:00",
+      "NumProgressed": 96301,
+      "NumCompleted": 1947
     }
   ],
   "TotalAchievements": 493,
@@ -10390,7 +10395,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5776
+      "UsersEstimate": 5778
     },
     {
       "ID": "objective_completed_10",
@@ -10398,7 +10403,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_100",
@@ -10758,7 +10763,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "objective_completed_110",
@@ -10948,9 +10953,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 289
     },
     {
       "ID": "objective_completed_1142",
@@ -11254,7 +11259,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_1203",
@@ -11316,9 +11321,9 @@
       "ID": "objective_completed_1219",
       "SetID": "415jc5c",
       "Name": "A Whale of a Time",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_completed_124",
@@ -11494,7 +11499,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_149",
@@ -11574,7 +11579,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_164",
@@ -11614,7 +11619,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_17",
@@ -12062,7 +12067,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "objective_completed_34",
@@ -12180,9 +12185,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 963
     },
     {
       "ID": "objective_completed_390",
@@ -12262,7 +12267,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_400",
@@ -12878,7 +12883,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_590",
@@ -12934,7 +12939,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_60",
@@ -13462,7 +13467,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_690",
@@ -13534,7 +13539,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "objective_completed_70",
@@ -13566,7 +13571,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_75",
@@ -14333,21 +14338,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 62537,
+      "Progressed": 62575,
       "Completed": 2801
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 96263,
+      "Progressed": 96301,
       "Completed": 1947
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T02:21:33.2707789+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:25.9084369+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:31.6964272+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:21:33.2707796+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:25.9111867+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:12:17.9135357+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:31.6988622+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245058,
+  "EOS_Progressed": 245063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5589,6 +5589,11 @@
       "Time": "2023-06-18T02:30:03.3690179+00:00",
       "NumProgressed": 245058,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-18T03:21:07.0059148+00:00",
+      "NumProgressed": 245063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5600,7 +5605,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14703
+      "UsersEstimate": 14704
     },
     {
       "ID": "aWinnerIsYou",
@@ -5624,7 +5629,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49012
+      "UsersEstimate": 49013
     },
     {
       "ID": "blotbuster",
@@ -5648,7 +5653,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14703
+      "UsersEstimate": 14704
     },
     {
       "ID": "canYouDigIt",
@@ -5656,7 +5661,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41660
+      "UsersEstimate": 41661
     },
     {
       "ID": "cantBeKeptDown",
@@ -5696,7 +5701,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44110
+      "UsersEstimate": 44111
     },
     {
       "ID": "curator",
@@ -5704,7 +5709,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49012
+      "UsersEstimate": 49013
     },
     {
       "ID": "didYourTime",
@@ -5776,7 +5781,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129881
+      "UsersEstimate": 129883
     },
     {
       "ID": "indegestible",
@@ -5800,7 +5805,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63715
+      "UsersEstimate": 63716
     },
     {
       "ID": "justABit",
@@ -5832,7 +5837,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34308
+      "UsersEstimate": 34309
     },
     {
       "ID": "myFirstRunbow",
@@ -5840,7 +5845,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122529
+      "UsersEstimate": 122532
     },
     {
       "ID": "notScared",
@@ -5864,7 +5869,7 @@
       "Name": "Please The King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "readyFight",
@@ -5904,7 +5909,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51462
+      "UsersEstimate": 51463
     },
     {
       "ID": "thunderstruck",
@@ -5960,14 +5965,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39209
+      "UsersEstimate": 39210
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245058,
+      "Progressed": 245063,
       "Completed": 3
     }
   ],
@@ -5975,8 +5980,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:03.3690174+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:07.0059146+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:22:47.4842955+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:03.369101+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:13:43.5825064+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:07.0059936+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -1530,6 +1530,12 @@
       "Rating": 4.17,
       "NumberOfAwards": 3875,
       "NumberOfAwardsMax": 2339
+    },
+    {
+      "Time": "2023-06-18T03:14:30.7666212+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3875,
+      "NumberOfAwardsMax": 2339
     }
   ],
   "ReviewsDisabled": false,
@@ -1598,9 +1604,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65476,
+  "EOS_Progressed": 65481,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6738,6 +6744,11 @@
       "Time": "2023-06-18T02:30:19.0105266+00:00",
       "NumProgressed": 65476,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T03:21:23.9772426+00:00",
+      "NumProgressed": 65481,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7236,22 +7247,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65476,
+      "Progressed": 65481,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35756,
+      "Progressed": 35761,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-17T21:59:31.0715988+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:19.010526+00:00",
+  "LastChanged": "2023-06-18T03:14:30.7666211+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:23.9772421+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:23:29.3336806+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:19.0106326+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:14:30.7666216+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:23.9773663+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1356,6 +1356,11 @@
       "Time": "2023-06-18T02:27:19.4830391+00:00",
       "NumProgressed": 546,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T03:18:04.9523633+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1367,7 +1372,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "adventurous_2",
@@ -1557,9 +1562,9 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "elite_deck_2",
@@ -1894,14 +1899,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:27:19.4830387+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:18:04.9523627+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:20:16.6057986+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:27:19.483132+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:10:53.5218653+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:18:04.9524342+00:00"
 }

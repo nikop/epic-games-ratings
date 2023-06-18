@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 25,
@@ -5905,9 +5905,9 @@
       "Count": 505
     }
   ],
-  "EOS_Progressed": 579115,
+  "EOS_Progressed": 579130,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 5819,
+  "EOS_NewPlayers": 5804,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12095,6 +12095,11 @@
       "Time": "2023-06-18T02:30:20.2769502+00:00",
       "NumProgressed": 579115,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-18T03:21:25.4975016+00:00",
+      "NumProgressed": 579130,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 65,
@@ -12106,7 +12111,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 57912
+      "UsersEstimate": 57913
     },
     {
       "ID": "achievement_02",
@@ -12114,7 +12119,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 57912
+      "UsersEstimate": 57913
     },
     {
       "ID": "achievement_03",
@@ -12122,7 +12127,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52120
+      "UsersEstimate": 52122
     },
     {
       "ID": "achievement_04",
@@ -12130,7 +12135,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40538
+      "UsersEstimate": 40539
     },
     {
       "ID": "achievement_05",
@@ -12138,7 +12143,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "achievement_06",
@@ -12146,7 +12151,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "achievement_07",
@@ -12154,7 +12159,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "achievement_08",
@@ -12242,7 +12247,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46329
+      "UsersEstimate": 46330
     },
     {
       "ID": "achievement_19",
@@ -12250,7 +12255,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 11582
+      "UsersEstimate": 11583
     },
     {
       "ID": "achievement_20",
@@ -12282,7 +12287,7 @@
       "Name": "It Wasn\u0027t That Hard, Was It?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "achievement_24",
@@ -12298,7 +12303,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40538
+      "UsersEstimate": 40539
     },
     {
       "ID": "achievement_26",
@@ -12314,7 +12319,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63703
+      "UsersEstimate": 63704
     },
     {
       "ID": "achievement_28",
@@ -12322,7 +12327,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40538
+      "UsersEstimate": 40539
     },
     {
       "ID": "achievement_29",
@@ -12338,7 +12343,7 @@
       "Name": "Parkour Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11582
+      "UsersEstimate": 11583
     },
     {
       "ID": "achievement_31",
@@ -12346,7 +12351,7 @@
       "Name": "Combat Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11582
+      "UsersEstimate": 11583
     },
     {
       "ID": "achievement_32",
@@ -12394,7 +12399,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52120
+      "UsersEstimate": 52122
     },
     {
       "ID": "achievement_38",
@@ -12410,7 +12415,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40538
+      "UsersEstimate": 40539
     },
     {
       "ID": "achievement_40",
@@ -12450,7 +12455,7 @@
       "Name": "Being All Social",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "achievement_45",
@@ -12466,7 +12471,7 @@
       "Name": "Lightning Reflexes",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "achievement_47",
@@ -12498,7 +12503,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17373
+      "UsersEstimate": 17374
     },
     {
       "ID": "achievement_51",
@@ -12578,7 +12583,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "achievement_61",
@@ -12625,21 +12630,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 579115,
+      "Progressed": 579130,
       "Completed": 51
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 224559,
+      "Progressed": 224574,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-17T21:59:38.2987362+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:20.2769496+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:25.4975005+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:23:39.0972967+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:20.2770759+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:14:41.9932512+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:25.4976096+00:00"
 }

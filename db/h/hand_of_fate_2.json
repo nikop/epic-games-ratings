@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 20,
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658038,
+  "EOS_Progressed": 658039,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6255,6 +6255,11 @@
       "Time": "2023-06-18T02:30:04.3374425+00:00",
       "NumProgressed": 658038,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-18T03:21:08.3885782+00:00",
+      "NumProgressed": 658039,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6266,7 +6271,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473787
+      "UsersEstimate": 473788
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6274,7 +6279,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381662
+      "UsersEstimate": 381663
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6418,7 +6423,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111866
+      "UsersEstimate": 111867
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -6546,7 +6551,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59223
+      "UsersEstimate": 59224
     },
     {
       "ID": "Achievement_37_Champion",
@@ -6649,15 +6654,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658038,
+      "Progressed": 658039,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-18T02:30:04.3374423+00:00",
+  "LastChanged_Achievements": "2023-06-18T03:21:08.3885777+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-18T02:21:03.0348101+00:00",
-  "LastUpdate_Achievements": "2023-06-18T02:30:04.3375255+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:11:44.5740848+00:00",
+  "LastUpdate_Achievements": "2023-06-18T03:21:08.3886483+00:00"
 }

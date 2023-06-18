@@ -40,8 +40,8 @@ Rating: 4.34 (Ranked 739)
 | Chaos Theory | 11.00% | ~127 |
 | Commando | 10.00% | ~116 |
 | Chain Reaction | 8.00% | ~92 |
+| Side Order | 8.00% | ~92 |
 | Curveball | 7.00% | ~81 |
-| Side Order | 7.00% | ~81 |
 | Bot Whisperer | 6.00% | ~69 |
 | Wipe Out | 6.00% | ~69 |
 | Dressed To Kill | 5.00% | ~58 |
