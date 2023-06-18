@@ -15,18 +15,18 @@
 | Freedom | 26.00% | ~22 |
 | Winner | 25.00% | ~21 |
 | The Pride of Moozhaw | 24.00% | ~20 |
-| Omnia Vincit Amor | 21.00% | ~18 |
+| Omnia Vincit Amor | 22.00% | ~19 |
 | Stilt House | 15.00% | ~13 |
 | Armor Collector | 13.00% | ~11 |
 | Corwid Hill | 12.00% | ~10 |
 | Dreamwalker | 9.00% | ~8 |
+| Your Training Is Complete | 7.00% | ~6 |
 | Total Eclipse | 7.00% | ~6 |
-| Your Training Is Complete | 6.00% | ~5 |
 | Red in Tooth and Claw | 5.00% | ~4 |
 | Broken Reflection | 2.00% | ~2 |
 | Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 294)  
+Progressed: 85 (Ranked 295)  
 Completed: 1 (1.18%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

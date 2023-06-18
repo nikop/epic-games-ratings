@@ -6,17 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,778 |
-| The Cursed Farmer | 3.00% | ~2,889 |
-| Beast Intentions | 2.00% | ~1,926 |
-| The Mad Wizard | 2.00% | ~1,926 |
+| A Brief Tour of the Realms | 6.00% | ~5,781 |
+| The Cursed Farmer | 3.00% | ~2,890 |
+| Beast Intentions | 2.00% | ~1,927 |
+| The Mad Wizard | 2.00% | ~1,927 |
 | The Ring of Regeneration | 1.00% | ~963 |
 | Seeking Allies | 1.00% | ~963 |
 | Are Ya Chicken? | 1.00% | ~963 |
 | Were-verpowered | 0.90% | ~867 |
-| The Court of Storms | 0.90% | ~563 |
-| Mad Cow Disease | 0.80% | ~770 |
-| Friendly Imps | 0.80% | ~770 |
+| The Court of Storms | 0.90% | ~564 |
+| Mad Cow Disease | 0.80% | ~771 |
+| Friendly Imps | 0.80% | ~771 |
 | A Persistent Buzzing | 0.70% | ~674 |
 | Pure Energy | 0.70% | ~674 |
 | Beware the Jabberwock | 0.70% | ~438 |
@@ -25,7 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~578 |
 | The Crumbling Temple | 0.60% | ~578 |
 | Exploring Port Nyanzaru | 0.60% | ~578 |
-| Coasting to the Finish | 0.60% | ~375 |
+| Coasting to the Finish | 0.60% | ~376 |
 | Maddening | 0.50% | ~482 |
 | Checkmate | 0.50% | ~313 |
 | Vecna Out! | 0.50% | ~313 |
@@ -228,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~125 |
 | Hold for the Red Wizards | 0.20% | ~193 |
 | Form Ranks | 0.20% | ~193 |
+| Distribute Your Weight | 0.20% | ~193 |
 | Only the Strong Survive | 0.20% | ~193 |
 | Shorty's Day Off | 0.20% | ~193 |
 | Intelligence Hunt | 0.20% | ~193 |
@@ -392,6 +393,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 1 | 0.20% | ~125 |
 | Ending the Rime - Part 2 | 0.20% | ~125 |
 | Ambitious Speakers - Part 2 | 0.20% | ~125 |
+| Shady Sidekicks - Part 2 | 0.20% | ~125 |
 | Reghed Glacier Mysteries | 0.20% | ~125 |
 | Mysteries Unlocked | 0.20% | ~125 |
 | Tekeli-li's Hunt | 0.20% | ~125 |
@@ -431,7 +433,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~63 |
 | Drop of Time | 0.10% | ~63 |
 | They Who Smelt It | 0.10% | ~96 |
-| Distribute Your Weight | 0.10% | ~96 |
 | Mongrelfolk Incursion | 0.10% | ~63 |
 | Seeds of Corruption | 0.10% | ~96 |
 | The Strahd Squad | 0.10% | ~63 |
@@ -489,7 +490,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stragglers | 0.10% | ~63 |
 | Volo's Guide to Kuo-toa | 0.10% | ~63 |
 | Shady Sidekicks - Part 1 | 0.10% | ~63 |
-| Shady Sidekicks - Part 2 | 0.10% | ~63 |
 | Male Pattern Boldness | 0.10% | ~63 |
 | Cackling Horror | 0.10% | ~63 |
 | Working for the Weak End | 0.10% | ~63 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,301 (Ranked 63)  
+Progressed: 96,346 (Ranked 63)  
 Completed: 1,947 (2.02%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,301 | 1,947 |
+| 2023-06-18 | 96,346 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

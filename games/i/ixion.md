@@ -46,7 +46,7 @@ Rating: 4.56 (Ranked 453)
 | Help of the Forgotten Member | 1.00% | ~27 |
 | Pulsar Disciple | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~24 |
-| You Had One Job... | 0.80% | ~21 |
+| You Had One Job... | 0.90% | ~24 |
 | Tiqqun Unchained | 0.80% | ~21 |
 | Scientifically Accurate | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |

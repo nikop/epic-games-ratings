@@ -4,11 +4,11 @@
   "ProductSlug": "rayman-origins",
   "Ranking_Rating": 58,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-02-04T16:00:00+00:00",
     "PcReleaseDate": "2012-03-22T16:00:00+00:00",
@@ -259,6 +259,6 @@
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
   "LastChanged": "2023-06-11T08:58:53.2810887+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:55.8445741+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:13:56.0930416+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:17:57.2213069+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:59:06.8522441+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:03:26.894149+00:00"
 }

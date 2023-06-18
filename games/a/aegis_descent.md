@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~365 |
-| Scavenger | 74.00% | ~287 |
+| Scavenger | 75.00% | ~291 |
 | Line of Duty | 72.00% | ~279 |
 | Gunner | 56.00% | ~217 |
-| DocKing | 46.00% | ~178 |
+| DocKing | 47.00% | ~182 |
 | What-A-Shot | 44.00% | ~171 |
 | Batteries Included | 39.00% | ~151 |
 | Death from Above | 36.00% | ~140 |
@@ -20,9 +20,9 @@
 | Perky | 16.00% | ~62 |
 | Salvage | 12.00% | ~47 |
 | Perk King | 11.00% | ~43 |
+| Sixty Seconds | 11.00% | ~43 |
 | Shocking | 11.00% | ~43 |
 | Perfect Timing | 10.00% | ~39 |
-| Sixty Seconds | 10.00% | ~39 |
 | Killer Elite | 7.00% | ~27 |
 | Bumper Car | 5.00% | ~19 |
 | OP | 5.00% | ~19 |

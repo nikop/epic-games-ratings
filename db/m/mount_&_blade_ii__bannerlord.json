@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4911,9 +4911,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53436,
+  "EOS_Progressed": 53437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10856,6 +10856,11 @@
       "Time": "2023-06-18T03:21:22.5243553+00:00",
       "NumProgressed": 53436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T04:05:59.016889+00:00",
+      "NumProgressed": 53437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11035,7 +11040,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8015
+      "UsersEstimate": 8016
     },
     {
       "ID": "I spit on your grave",
@@ -11274,15 +11279,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53436,
+      "Progressed": 53437,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-17T19:59:22.0257929+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:21:22.5243547+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:05:59.0168886+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:14:27.4042481+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:21:22.5244787+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:59:26.9403777+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:05:59.0169696+00:00"
 }

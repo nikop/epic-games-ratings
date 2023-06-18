@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4354,9 +4354,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 96301,
+  "EOS_Progressed": 96346,
   "EOS_Completed": 1947,
-  "EOS_NewPlayers": 5919,
+  "EOS_NewPlayers": 5962,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -10384,6 +10384,11 @@
       "Time": "2023-06-18T03:21:31.6964277+00:00",
       "NumProgressed": 96301,
       "NumCompleted": 1947
+    },
+    {
+      "Time": "2023-06-18T04:06:06.135591+00:00",
+      "NumProgressed": 96346,
+      "NumCompleted": 1947
     }
   ],
   "TotalAchievements": 493,
@@ -10395,7 +10400,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5781
     },
     {
       "ID": "objective_completed_10",
@@ -10763,7 +10768,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "objective_completed_110",
@@ -11921,9 +11926,9 @@
       "ID": "objective_completed_253",
       "SetID": "cc37lbc",
       "Name": "Distribute Your Weight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_completed_254",
@@ -12067,7 +12072,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2889
+      "UsersEstimate": 2890
     },
     {
       "ID": "objective_completed_34",
@@ -12531,7 +12536,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "objective_completed_54",
@@ -13539,7 +13544,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "objective_completed_70",
@@ -13611,7 +13616,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "objective_completed_80",
@@ -14105,9 +14110,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_completed_897",
@@ -14307,7 +14312,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "objective_completed_1356",
@@ -14315,7 +14320,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "objective_completed_1360",
@@ -14338,21 +14343,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 62575,
+      "Progressed": 62620,
       "Completed": 2801
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 96301,
+      "Progressed": 96346,
       "Completed": 1947
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T02:21:33.2707789+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:21:31.6964272+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:06:06.1355903+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:12:17.9135357+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:21:31.6988622+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:58:00.4404719+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:06:06.1383066+00:00"
 }

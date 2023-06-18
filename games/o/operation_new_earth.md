@@ -19,7 +19,7 @@
 | Keeping Busy | 17.00% | ~22 |
 | Silver Competitor | 14.00% | ~18 |
 | Brothers in Arms | 13.00% | ~17 |
-| Factory Expansion | 12.00% | ~15 |
+| Factory Expansion | 13.00% | ~17 |
 | Captain | 11.00% | ~14 |
 | Exterminator | 9.00% | ~11 |
 | Moving On Up | 8.00% | ~10 |

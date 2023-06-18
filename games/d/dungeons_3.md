@@ -6,33 +6,33 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~14,416 |
-| The Evilest Evil | 59.00% | ~12,150 |
-| Twistram is devastated | 58.00% | ~11,945 |
-| The Gehenna Stones | 50.00% | ~10,297 |
-| No one has to die today! | 47.00% | ~9,679 |
-| Death and destruction! | 46.00% | ~9,473 |
-| The Swamplanders from the swamplands | 44.00% | ~9,061 |
-| Rusty Steel | 42.00% | ~8,649 |
-| The One-Huge-Army-Building Evil | 41.00% | ~8,444 |
-| The last burger | 39.00% | ~8,032 |
-| Braiiiiins! | 38.00% | ~7,826 |
-| Hands off the Dungeonheart! | 37.00% | ~7,620 |
-| A trip on sea, what fun it can be | 35.00% | ~7,208 |
-| Damned good | 34.00% | ~7,002 |
-| Stock Market Crash | 32.00% | ~6,590 |
-| Factory farming | 32.00% | ~6,590 |
-| Not-So-Overproud | 31.00% | ~6,384 |
-| For a handfull of Catapults | 30.00% | ~6,178 |
-| Thirst quencher | 29.00% | ~5,972 |
-| Ogre Solo! | 29.00% | ~5,972 |
-| Shadow hunter | 29.00% | ~5,972 |
-| Destroy the thing | 27.00% | ~5,560 |
-| Tide Master | 27.00% | ~5,560 |
-| Difficult family relationships | 26.00% | ~5,354 |
-| MASS-O-BOT | 25.00% | ~5,148 |
-| Prepare the grave | 25.00% | ~5,148 |
-| Angel of Fire | 25.00% | ~5,148 |
+| The Shadow strikes | 70.00% | ~14,418 |
+| The Evilest Evil | 59.00% | ~12,152 |
+| Twistram is devastated | 58.00% | ~11,946 |
+| The Gehenna Stones | 50.00% | ~10,298 |
+| No one has to die today! | 47.00% | ~9,681 |
+| Death and destruction! | 46.00% | ~9,475 |
+| The Swamplanders from the swamplands | 44.00% | ~9,063 |
+| Rusty Steel | 42.00% | ~8,651 |
+| The One-Huge-Army-Building Evil | 41.00% | ~8,445 |
+| The last burger | 39.00% | ~8,033 |
+| Braiiiiins! | 38.00% | ~7,827 |
+| Hands off the Dungeonheart! | 37.00% | ~7,621 |
+| A trip on sea, what fun it can be | 35.00% | ~7,209 |
+| Damned good | 34.00% | ~7,003 |
+| Stock Market Crash | 32.00% | ~6,591 |
+| Factory farming | 32.00% | ~6,591 |
+| Not-So-Overproud | 31.00% | ~6,385 |
+| For a handfull of Catapults | 30.00% | ~6,179 |
+| Thirst quencher | 29.00% | ~5,973 |
+| Ogre Solo! | 29.00% | ~5,973 |
+| Shadow hunter | 29.00% | ~5,973 |
+| Destroy the thing | 27.00% | ~5,561 |
+| Tide Master | 27.00% | ~5,561 |
+| Difficult family relationships | 26.00% | ~5,355 |
+| MASS-O-BOT | 25.00% | ~5,149 |
+| Prepare the grave | 25.00% | ~5,149 |
+| Angel of Fire | 25.00% | ~5,149 |
 | Where there is Light, there is Shadow | 24.00% | ~4,943 |
 | At the foot of Mount Destiny | 23.00% | ~4,737 |
 | The Force disturbed | 22.00% | ~4,531 |
@@ -42,15 +42,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~3,707 |
 | Flat as a pancake | 18.00% | ~3,707 |
 | Lifeguard | 18.00% | ~3,707 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,295 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,677 |
-| Then let them eat cake! | 13.00% | ~2,677 |
-| Please, no interruptions! | 11.00% | ~2,265 |
-| The White Knight | 10.00% | ~2,059 |
-| Use the terrain | 9.00% | ~1,853 |
-| Master of Traps | 9.00% | ~1,853 |
-| Ignore The Level Designer’s Plan | 9.00% | ~1,853 |
-| Prison Break | 9.00% | ~1,853 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,296 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,678 |
+| Then let them eat cake! | 13.00% | ~2,678 |
+| Please, no interruptions! | 11.00% | ~2,266 |
+| The White Knight | 10.00% | ~2,060 |
+| Use the terrain | 9.00% | ~1,854 |
+| Master of Traps | 9.00% | ~1,854 |
+| Ignore The Level Designer’s Plan | 9.00% | ~1,854 |
+| Prison Break | 9.00% | ~1,854 |
 | Hearts of Iron | 8.00% | ~1,648 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~1,648 |
 | Lifesaver | 8.00% | ~1,648 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~412 |
 | Sacrifices! | 2.00% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,594 (Ranked 98)  
+Progressed: 20,597 (Ranked 98)  
 Completed: 175 (0.85%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 175 (0.85%) (Ranked 102)
 | 2023-06-15 | 20,327 | 174 |
 | 2023-06-16 | 20,445 | 174 |
 | 2023-06-17 | 20,574 | 175 |
-| 2023-06-18 | 20,594 | 175 |
+| 2023-06-18 | 20,597 | 175 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 224)  
 Sum: 2,564 (Ranked 166)  

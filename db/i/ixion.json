@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -3132,9 +3132,9 @@
       "ID": "ACH_BASE_38",
       "SetID": "92iocjf",
       "Name": "You Had One Job...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_BASE_4",
@@ -3371,8 +3371,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-16T13:04:18.8650637+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:21:12.4073481+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:05:50.9470016+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:12:51.0876425+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:21:12.4074211+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:58:21.5876328+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:05:50.9470694+00:00"
 }

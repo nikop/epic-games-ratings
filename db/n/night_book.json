@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "off_his_meds",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:20:53.3965164+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:05:36.7651747+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.5382973+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:11:24.6079513+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:20:53.3965273+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:57:25.5249065+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:05:36.7651889+00:00"
 }

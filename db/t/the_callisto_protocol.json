@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 848,
-  "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 329,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 91,
@@ -612,12 +612,18 @@
       "Rating": 4.18,
       "NumberOfAwards": 318,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-06-18T03:57:51.8868869+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 318,
-  "NumberOfAwardsMax": 54,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 319,
+  "NumberOfAwardsMax": 55,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -647,7 +653,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Challenging Combat",
@@ -662,9 +668,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15421,
+  "EOS_Progressed": 15423,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4217,6 +4223,11 @@
       "Time": "2023-06-18T03:19:03.522586+00:00",
       "NumProgressed": 15421,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T04:04:12.1281381+00:00",
+      "NumProgressed": 15423,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4260,7 +4271,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4356,7 +4367,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "KILL_ROBOT",
@@ -4396,7 +4407,7 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4482,9 +4493,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 925
     },
     {
       "ID": "DISMEMBER_100",
@@ -4547,22 +4558,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15421,
+      "Progressed": 15423,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3347,
+      "Progressed": 3349,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-17T17:58:14.6652478+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:19:03.5225855+00:00",
+  "LastChanged": "2023-06-18T03:57:51.8868865+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:04:12.1281376+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:12:05.1830626+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:19:03.5226415+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:57:51.8868874+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:04:12.1281934+00:00"
 }

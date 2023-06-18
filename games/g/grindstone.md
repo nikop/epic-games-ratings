@@ -8,24 +8,24 @@ Number of Ratings: 63  (23.09.2022)
 | ---- | ---------- | ----- |
 | Quinceañera Time | 98.00% | ~5,022 |
 | The Journey Begins | 98.00% | ~5,022 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,997 |
-| There is No Escape | 71.00% | ~3,638 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,177 |
-| Royal Flush | 62.00% | ~3,177 |
-| Timber! | 60.00% | ~3,074 |
-| Survive the Bombsequences | 59.00% | ~3,023 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,998 |
+| There is No Escape | 71.00% | ~3,639 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,178 |
+| Royal Flush | 62.00% | ~3,178 |
+| Timber! | 60.00% | ~3,075 |
+| Survive the Bombsequences | 59.00% | ~3,024 |
 | Killed 20 Jerks | 53.00% | ~2,716 |
 | Death Defied | 53.00% | ~2,716 |
 | Fortunate Soul | 49.00% | ~2,511 |
-| Jerk-Slayer | 43.00% | ~2,203 |
+| Jerk-Slayer | 43.00% | ~2,204 |
 | Employee of the Month | 37.00% | ~1,896 |
 | I Believe I Can Fly | 37.00% | ~1,896 |
-| Bone Collector | 35.00% | ~1,793 |
-| Fe-Festival | 35.00% | ~1,793 |
+| Bone Collector | 35.00% | ~1,794 |
+| Fe-Festival | 35.00% | ~1,794 |
 | Top of the Food Chain | 32.00% | ~1,640 |
 | Pardon my Slob | 32.00% | ~1,640 |
-| Humerus Achievement | 31.00% | ~1,588 |
-| Ghost Facers! | 27.00% | ~1,383 |
+| Humerus Achievement | 31.00% | ~1,589 |
+| Ghost Facers! | 27.00% | ~1,384 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,076 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~922 |
 | Can't Touch This | 18.00% | ~922 |
@@ -35,8 +35,8 @@ Number of Ratings: 63  (23.09.2022)
 | Goldrush Glory Days | 15.00% | ~769 |
 | Best Party Guest | 15.00% | ~769 |
 | Shrub it Off | 15.00% | ~769 |
-| Collected 50 mushrooms | 14.00% | ~717 |
-| Budding Gardener | 14.00% | ~717 |
+| Collected 50 mushrooms | 14.00% | ~718 |
+| Budding Gardener | 14.00% | ~718 |
 | Stop Hitting Each Other | 13.00% | ~666 |
 | Ultimate Jerk | 13.00% | ~666 |
 | Hot Potato | 10.00% | ~512 |
@@ -44,7 +44,7 @@ Number of Ratings: 63  (23.09.2022)
 | It's Been a Blast | 9.00% | ~461 |
 | For Rock and Stone! | 9.00% | ~461 |
 | Don't Get Too Greedy | 7.00% | ~359 |
-| You're In a Cult, Call Your Dad | 6.00% | ~307 |
+| You're In a Cult, Call Your Dad | 6.00% | ~308 |
 | Survived The Slaughter | 5.00% | ~256 |
 | The Poison You Just Drank | 4.00% | ~205 |
 | The Fellowship | 3.00% | ~154 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,124 (Ranked 129)  
+Progressed: 5,125 (Ranked 129)  
 Completed: 27 (0.53%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 27 (0.53%) (Ranked 119)
 | 2023-06-15 | 5,119 | 27 |
 | 2023-06-16 | 5,121 | 27 |
 | 2023-06-17 | 5,124 | 27 |
+| 2023-06-18 | 5,125 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

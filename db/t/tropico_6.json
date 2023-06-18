@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3703,
+  "EOS_Progressed": 3704,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -4619,6 +4619,11 @@
       "Time": "2023-06-18T00:03:12.1466459+00:00",
       "NumProgressed": 3703,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T04:02:14.035391+00:00",
+      "NumProgressed": 3704,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4686,7 +4691,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4702,7 +4707,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -4726,7 +4731,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4790,7 +4795,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4886,7 +4891,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4949,15 +4954,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3703,
+      "Progressed": 3704,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:17:09.6550841+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:02:14.0353906+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:15:03.8325443+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:17:09.655164+00:00"
+  "LastUpdate_Ratings": "2023-06-18T03:59:50.7447432+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:02:14.0354452+00:00"
 }

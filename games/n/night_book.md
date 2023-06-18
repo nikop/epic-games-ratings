@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Will This Help? | 72.00% | ~147 |
-| No One Is Safe | 64.00% | ~131 |
+| No One Is Safe | 65.00% | ~133 |
 | Career Woman | 63.00% | ~129 |
 | He's Off His Meds | 55.00% | ~112 |
 | Deal Or No Deal | 50.00% | ~102 |

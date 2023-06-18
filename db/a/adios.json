@@ -66,7 +66,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62035,
+  "EOS_Progressed": 62038,
   "EOS_Completed": 543,
   "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 19,
@@ -6246,6 +6246,11 @@
       "Time": "2023-06-18T03:21:07.5211284+00:00",
       "NumProgressed": 62035,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-06-18T04:05:47.0293783+00:00",
+      "NumProgressed": 62038,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 25,
@@ -6273,7 +6278,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11166
+      "UsersEstimate": 11167
     },
     {
       "ID": "Audiophile",
@@ -6305,7 +6310,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "Cut Call",
@@ -6329,7 +6334,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12407
+      "UsersEstimate": 12408
     },
     {
       "ID": "Hearty",
@@ -6353,7 +6358,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "Master, Commander",
@@ -6361,7 +6366,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12407
+      "UsersEstimate": 12408
     },
     {
       "ID": "Meaty",
@@ -6417,7 +6422,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     },
     {
       "ID": "Spicy",
@@ -6425,7 +6430,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "Taco Toto",
@@ -6449,14 +6454,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 62035,
+      "Progressed": 62038,
       "Completed": 543
     }
   ],
@@ -6464,8 +6469,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-18T03:21:07.5211276+00:00",
+  "LastChanged_Achievements": "2023-06-18T04:05:47.0293777+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:00.3005038+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:15:30.2461518+00:00",
-  "LastUpdate_Achievements": "2023-06-18T03:21:07.5212316+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:00:08.0034923+00:00",
+  "LastUpdate_Achievements": "2023-06-18T04:05:47.029432+00:00"
 }
