@@ -332,9 +332,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3014,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3932,6 +3932,11 @@
       "Time": "2023-06-18T21:06:21.5203952+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T22:07:16.7128904+00:00",
+      "NumProgressed": 3014,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4007,7 +4012,7 @@
       "Name": "Organ Grinder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4111,7 +4116,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4127,7 +4132,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4183,7 +4188,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4255,7 +4260,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4351,7 +4356,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4510,13 +4515,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2963,
+      "Progressed": 2965,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3014,
       "Completed": 2
     }
   ],
@@ -4524,8 +4529,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:06:21.5203948+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:07:16.7128899+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:00:39.6834755+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:06:21.5204653+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:01:54.1248359+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:07:16.7129849+00:00"
 }

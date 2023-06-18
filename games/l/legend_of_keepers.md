@@ -1,7 +1,7 @@
 # Legend of Keepers
 [Store](https://store.epicgames.com/en-US/p/legend-of-keepers)  
 [View Rawdata](../../db/l/legend_of_keepers.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 451)  
 Number of Ratings: 39  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

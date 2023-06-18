@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1031,9 +1031,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 540
     },
     {
       "ID": "08",
@@ -1119,9 +1119,9 @@
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 510
     },
     {
       "ID": "19",
@@ -1176,8 +1176,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:06:14.6441214+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:07:07.5871255+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.9264687+00:00",
-  "LastUpdate_Ratings": "2023-06-18T20:59:53.7029395+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:06:14.644149+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:00:50.4387028+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:07:07.5871601+00:00"
 }

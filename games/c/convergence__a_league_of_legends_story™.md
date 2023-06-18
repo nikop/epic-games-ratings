@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 13.00% | ~92 |
+| Rail Rat | 12.00% | ~85 |
 | The Steel Shadow | 11.00% | ~78 |
 | Treasure Trove | 11.00% | ~78 |
 | The Mysterious Stranger | 11.00% | ~78 |
-| Rail Rat | 11.00% | ~78 |
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
 | Time Flies | 11.00% | ~78 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707 (Ranked 194)  
+Progressed: 707 (Ranked 195)  
 Completed: 3 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

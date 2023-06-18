@@ -10,10 +10,10 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 79.00% | ~781 |
 | Voices from the Past | 78.00% | ~771 |
 | Demigod | 76.00% | ~752 |
-| The Great Destroyer | 74.00% | ~732 |
+| The Great Destroyer | 75.00% | ~742 |
 | Shields Down | 72.00% | ~712 |
+| Safe Home | 68.00% | ~673 |
 | Helping Hand | 67.00% | ~663 |
-| Safe Home | 67.00% | ~663 |
 | Paragon | 63.00% | ~623 |
 | Old Days Born Anew | 62.00% | ~613 |
 | Full Arsenal | 57.00% | ~564 |

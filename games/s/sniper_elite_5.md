@@ -6,17 +6,17 @@ Rating: 4.48 (Ranked 583)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 32.00% | ~964 |
-| Confirming Suspicions | 26.00% | ~783 |
+| Confirming Suspicions | 26.00% | ~784 |
 | The Kraken Wakes | 22.00% | ~663 |
-| It's Starting to Crack | 19.00% | ~572 |
+| It's Starting to Crack | 19.00% | ~573 |
 | Lord of War | 17.00% | ~512 |
 | Change the Channel | 17.00% | ~512 |
 | Resourceful | 15.00% | ~452 |
 | Taking it back | 15.00% | ~452 |
 | Target America | 13.00% | ~392 |
-| Organ Grinder | 12.00% | ~361 |
-| As Quiet as a Mouse | 11.00% | ~331 |
-| The Kraken Sleeps | 11.00% | ~331 |
+| Organ Grinder | 12.00% | ~362 |
+| As Quiet as a Mouse | 11.00% | ~332 |
+| The Kraken Sleeps | 11.00% | ~332 |
 | Liberté | 10.00% | ~301 |
 | Sharpshooter | 10.00% | ~301 |
 | Explosive Efficiency | 10.00% | ~301 |
@@ -35,7 +35,7 @@ Rating: 4.48 (Ranked 583)
 | Skirmisher | 6.00% | ~181 |
 | Set Europe Ablaze | 6.00% | ~181 |
 | Precision Is Key | 5.00% | ~151 |
-| Rigged to Blow | 4.00% | ~120 |
+| Rigged to Blow | 4.00% | ~121 |
 | My Little Friend | 3.00% | ~90 |
 | Strategist | 2.00% | ~60 |
 | The Long Game | 2.00% | ~60 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 583)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,012 (Ranked 143)  
+Progressed: 3,014 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-15 | 2,909 | 2 |
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
-| 2023-06-18 | 3,012 | 2 |
+| 2023-06-18 | 3,014 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

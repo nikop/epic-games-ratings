@@ -5,39 +5,39 @@ Rating: 4.18 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,934 |
+| First Step Into the Knight | 6.00% | ~3,935 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,623 |
 | Loose Ends | 4.00% | ~2,623 |
 | To the Victor Go the Spoils | 3.00% | ~1,967 |
 | Get ReQ'd | 3.00% | ~1,967 |
 | Knighthood | 3.00% | ~1,967 |
 | Whispered Words | 3.00% | ~1,967 |
-| The Batman Family | 2.00% | ~1,311 |
-| In Your Element | 2.00% | ~1,311 |
-| Protector of Gotham | 2.00% | ~1,311 |
-| Something in the Clay | 2.00% | ~1,311 |
-| The Show Mud Go On | 2.00% | ~1,311 |
-| Rock and a Hard Place | 2.00% | ~1,311 |
-| Shock Til They Drop | 2.00% | ~1,311 |
-| Quartzer Life Crisis | 2.00% | ~1,311 |
-| Snow Problem | 2.00% | ~1,311 |
-| Cooldown | 2.00% | ~1,311 |
-| Working Hard or Harley Working? | 2.00% | ~1,311 |
-| Universal Health Scare | 2.00% | ~1,311 |
-| Unstoppable Force | 2.00% | ~1,311 |
-| Lock and Key | 2.00% | ~1,311 |
-| Bad Apples in Every Orchard | 2.00% | ~1,311 |
-| From Inside Gotham's Walls | 2.00% | ~1,311 |
-| Voiceless | 2.00% | ~1,311 |
+| The Batman Family | 2.00% | ~1,312 |
+| In Your Element | 2.00% | ~1,312 |
+| Protector of Gotham | 2.00% | ~1,312 |
+| Something in the Clay | 2.00% | ~1,312 |
+| The Show Mud Go On | 2.00% | ~1,312 |
+| Rock and a Hard Place | 2.00% | ~1,312 |
+| Shock Til They Drop | 2.00% | ~1,312 |
+| Quartzer Life Crisis | 2.00% | ~1,312 |
+| Snow Problem | 2.00% | ~1,312 |
+| Cooldown | 2.00% | ~1,312 |
+| Working Hard or Harley Working? | 2.00% | ~1,312 |
+| Universal Health Scare | 2.00% | ~1,312 |
+| Unstoppable Force | 2.00% | ~1,312 |
+| Lock and Key | 2.00% | ~1,312 |
+| Bad Apples in Every Orchard | 2.00% | ~1,312 |
+| From Inside Gotham's Walls | 2.00% | ~1,312 |
+| Voiceless | 2.00% | ~1,312 |
 | End of an Era | 1.00% | ~656 |
 | Not On My Watch | 1.00% | ~656 |
 | Bulldozed | 1.00% | ~656 |
+| Out of Their League | 1.00% | ~656 |
 | Drone You Out | 1.00% | ~656 |
 | Seeking Asylum | 1.00% | ~656 |
 | Gotham Knight | 1.00% | ~656 |
 | Gotham City Confidential | 1.00% | ~656 |
 | Solid Alibi | 1.00% | ~656 |
-| Out of Their League | 0.90% | ~590 |
 | Fusion Expert | 0.80% | ~525 |
 | Family Meeting | 0.80% | ~525 |
 | A Worthy Successor | 0.70% | ~459 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,567 (Ranked 70)  
+Progressed: 65,576 (Ranked 70)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,567 | 95 |
+| 2023-06-18 | 65,576 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,346  (Ranked 98)  
 Sum: 3,885 (Ranked 137)  

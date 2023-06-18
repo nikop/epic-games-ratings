@@ -6,76 +6,76 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,853 |
-| The Cursed Farmer | 3.00% | ~2,927 |
-| Beast Intentions | 2.00% | ~1,951 |
-| The Mad Wizard | 2.00% | ~1,951 |
+| A Brief Tour of the Realms | 6.00% | ~5,858 |
+| The Cursed Farmer | 3.00% | ~2,929 |
+| Beast Intentions | 2.00% | ~1,953 |
+| The Mad Wizard | 2.00% | ~1,953 |
 | Were-verpowered | 1.00% | ~976 |
 | The Ring of Regeneration | 1.00% | ~976 |
 | Seeking Allies | 1.00% | ~976 |
 | Are Ya Chicken? | 1.00% | ~976 |
-| Mad Cow Disease | 0.90% | ~878 |
-| Friendly Imps | 0.90% | ~878 |
-| The Court of Storms | 0.90% | ~574 |
-| A Persistent Buzzing | 0.80% | ~780 |
-| Pure Energy | 0.80% | ~780 |
+| Mad Cow Disease | 0.90% | ~879 |
+| Friendly Imps | 0.90% | ~879 |
+| The Court of Storms | 0.90% | ~575 |
+| A Persistent Buzzing | 0.80% | ~781 |
+| Pure Energy | 0.80% | ~781 |
 | Terror in the Dark | 0.70% | ~683 |
 | The Crumbling Temple | 0.70% | ~683 |
 | Beware the Jabberwock | 0.70% | ~447 |
-| Beast Mode | 0.60% | ~585 |
-| A Mysterious Summons | 0.60% | ~585 |
-| Unearthed Evil | 0.60% | ~585 |
-| Useless Allies | 0.60% | ~585 |
-| Exploring Port Nyanzaru | 0.60% | ~585 |
-| The Contagious Curse | 0.60% | ~585 |
+| Beast Mode | 0.60% | ~586 |
+| A Mysterious Summons | 0.60% | ~586 |
+| Unearthed Evil | 0.60% | ~586 |
+| Useless Allies | 0.60% | ~586 |
+| Exploring Port Nyanzaru | 0.60% | ~586 |
+| The Contagious Curse | 0.60% | ~586 |
 | Coasting to the Finish | 0.60% | ~383 |
 | Maddening | 0.50% | ~488 |
-| Checkmate | 0.50% | ~319 |
-| Vecna Out! | 0.50% | ~319 |
+| Checkmate | 0.50% | ~320 |
+| Vecna Out! | 0.50% | ~320 |
 | Low Initiative | 0.50% | ~488 |
 | Building Trust | 0.50% | ~488 |
 | Running of the Saurs | 0.50% | ~488 |
 | Escort to Waterdeep | 0.50% | ~488 |
 | Waterdeep Detours | 0.50% | ~488 |
 | Underdeep Cartography | 0.50% | ~488 |
-| Quick or Quack | 0.50% | ~319 |
-| The Silken Swamp | 0.40% | ~390 |
-| Supply Run | 0.40% | ~390 |
-| Owlbear Necessities | 0.40% | ~255 |
-| Best Thay Ever | 0.40% | ~255 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~255 |
-| Pin and Skewer | 0.40% | ~255 |
-| Street War | 0.40% | ~390 |
-| March of the Undead | 0.40% | ~390 |
-| No Time To Rest | 0.40% | ~390 |
-| Invisible Shadows | 0.40% | ~390 |
-| The Dinner Party | 0.40% | ~390 |
-| The Botched Kidnapping | 0.40% | ~390 |
-| Trollskull Manor | 0.40% | ~390 |
-| The Death Curse | 0.40% | ~390 |
-| Premature Betrayal | 0.40% | ~390 |
-| A Tale of Two Cities | 0.40% | ~390 |
-| Flying Monkey Skulls of Doom | 0.40% | ~390 |
-| Constant Banditry | 0.40% | ~390 |
-| Overdue Rendezvous | 0.40% | ~390 |
-| The Templar's Camp | 0.40% | ~390 |
-| Rescue in the Jungle | 0.40% | ~390 |
+| Quick or Quack | 0.50% | ~320 |
+| The Silken Swamp | 0.40% | ~391 |
+| Supply Run | 0.40% | ~391 |
+| Owlbear Necessities | 0.40% | ~256 |
+| Best Thay Ever | 0.40% | ~256 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~256 |
+| Pin and Skewer | 0.40% | ~256 |
+| Street War | 0.40% | ~391 |
+| March of the Undead | 0.40% | ~391 |
+| No Time To Rest | 0.40% | ~391 |
+| Invisible Shadows | 0.40% | ~391 |
+| The Dinner Party | 0.40% | ~391 |
+| The Botched Kidnapping | 0.40% | ~391 |
+| Trollskull Manor | 0.40% | ~391 |
+| The Death Curse | 0.40% | ~391 |
+| Premature Betrayal | 0.40% | ~391 |
+| A Tale of Two Cities | 0.40% | ~391 |
+| Flying Monkey Skulls of Doom | 0.40% | ~391 |
+| Constant Banditry | 0.40% | ~391 |
+| Overdue Rendezvous | 0.40% | ~391 |
+| The Templar's Camp | 0.40% | ~391 |
+| Rescue in the Jungle | 0.40% | ~391 |
 | Pros and CONs | 0.30% | ~293 |
-| Tall Tales | 0.30% | ~191 |
-| Third Third Out | 0.30% | ~191 |
+| Tall Tales | 0.30% | ~192 |
+| Third Third Out | 0.30% | ~192 |
 | Wet Feet | 0.30% | ~293 |
-| Keep Your Distance | 0.30% | ~191 |
-| Hands Off! | 0.30% | ~191 |
-| The Dread Domain of Tovag | 0.30% | ~191 |
-| Frail Doesn't Mean Broken | 0.30% | ~191 |
-| The Castle of a Thousand Vecnas | 0.30% | ~191 |
-| The Sanctum of the Sword | 0.30% | ~191 |
-| Get Back In The Castle | 0.30% | ~191 |
-| Bully for Vecna | 0.30% | ~191 |
+| Keep Your Distance | 0.30% | ~192 |
+| Hands Off! | 0.30% | ~192 |
+| The Dread Domain of Tovag | 0.30% | ~192 |
+| Frail Doesn't Mean Broken | 0.30% | ~192 |
+| The Castle of a Thousand Vecnas | 0.30% | ~192 |
+| The Sanctum of the Sword | 0.30% | ~192 |
+| Get Back In The Castle | 0.30% | ~192 |
+| Bully for Vecna | 0.30% | ~192 |
 | Homecoming | 0.30% | ~293 |
 | The Lost Heir of Omu | 0.30% | ~293 |
-| No One Can Hear You Scream | 0.30% | ~191 |
-| Welcome to the Rock | 0.30% | ~191 |
+| No One Can Hear You Scream | 0.30% | ~192 |
+| Welcome to the Rock | 0.30% | ~192 |
 | The Forbidden City | 0.30% | ~293 |
 | Captured! | 0.30% | ~293 |
 | Force Grey Unleashed | 0.30% | ~293 |
@@ -110,21 +110,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~293 |
 | Resolve Amongst Chaos | 0.30% | ~293 |
 | Market Fluctuations | 0.30% | ~293 |
-| Into The Fire | 0.30% | ~191 |
-| Hearts Aflame | 0.30% | ~191 |
-| Look Out! | 0.30% | ~191 |
-| Bad Odds in Avernus | 0.30% | ~191 |
-| An Even Worse Time in Avernus | 0.30% | ~191 |
-| The Giant's Bane Tavern | 0.30% | ~191 |
-| The Everlasting Rime | 0.30% | ~191 |
+| Into The Fire | 0.30% | ~192 |
+| Hearts Aflame | 0.30% | ~192 |
+| Look Out! | 0.30% | ~192 |
+| Bad Odds in Avernus | 0.30% | ~192 |
+| An Even Worse Time in Avernus | 0.30% | ~192 |
+| The Giant's Bane Tavern | 0.30% | ~192 |
+| The Everlasting Rime | 0.30% | ~192 |
 | Close Escort | 0.30% | ~293 |
 | The Long Haul | 0.30% | ~293 |
 | Lost in the Deep | 0.30% | ~293 |
 | Easily Distracted | 0.30% | ~293 |
 | Rude Welcome | 0.30% | ~293 |
 | Durable Deep | 0.30% | ~293 |
-| Witty Riposting | 0.30% | ~191 |
-| How Far Away is Thay | 0.30% | ~191 |
+| Witty Riposting | 0.30% | ~192 |
+| How Far Away is Thay | 0.30% | ~192 |
 | The Haunted Jungle | 0.30% | ~293 |
 | Upholding the Law | 0.20% | ~195 |
 | Starving in the Jungle | 0.20% | ~195 |
@@ -255,6 +255,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~195 |
 | The Killer Mists | 0.20% | ~195 |
 | Class Vacation | 0.20% | ~195 |
+| A Nod from Strahd | 0.20% | ~128 |
 | Diversity Day-Trip | 0.20% | ~195 |
 | Late Game | 0.20% | ~195 |
 | Shadowfell Stalwarts | 0.20% | ~128 |
@@ -301,8 +302,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Neglected | 0.20% | ~128 |
 | Vault of Dragons | 0.20% | ~195 |
 | Vault of Pixies | 0.20% | ~195 |
+| Vault of Poison | 0.20% | ~195 |
 | Champions of Waterdeep | 0.20% | ~195 |
 | On The Job Learning | 0.20% | ~195 |
+| Strike! | 0.20% | ~128 |
 | Lost in the Goblin Halls | 0.20% | ~195 |
 | The Twilight Grove | 0.20% | ~195 |
 | Everything is Awful | 0.20% | ~195 |
@@ -445,7 +448,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~64 |
 | Red Wizard 'Escort' | 0.10% | ~64 |
 | Spirit of the Trickster Gods | 0.10% | ~64 |
-| A Nod from Strahd | 0.10% | ~64 |
 | Twilight Twist | 0.10% | ~64 |
 | Birds of a Feather | 0.10% | ~64 |
 | Tanking Expectations | 0.10% | ~64 |
@@ -461,9 +463,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Evergreens with an Evergreen | 0.10% | ~64 |
 | She's Harmless! | 0.10% | ~98 |
 | The Tallest of Kobolds | 0.10% | ~64 |
-| Vault of Poison | 0.10% | ~98 |
 | Vault of Cuteness | 0.10% | ~64 |
-| Strike! | 0.10% | ~64 |
 | Take Five | 0.10% | ~64 |
 | Batiri in the Goblin Halls | 0.10% | ~98 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~64 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,554 (Ranked 63)  
+Progressed: 97,631 (Ranked 63)  
 Completed: 1,948 (2.00%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,948 (2.00%) (Ranked 73)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 97,554 | 1,948 |
+| 2023-06-18 | 97,631 | 1,948 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,140 (Ranked 37)  

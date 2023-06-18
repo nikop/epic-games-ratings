@@ -15,8 +15,8 @@ Rating: 4.07 (Ranked 893)
 | The game is on | 19.00% | ~274 |
 | Exotic Merchant | 17.00% | ~245 |
 | Dragon Clicker | 16.00% | ~231 |
+| Miner Clicker | 16.00% | ~231 |
 | Inspection | 15.00% | ~216 |
-| Miner Clicker | 15.00% | ~216 |
 | Full Party | 14.00% | ~202 |
 | Dragon Master | 13.00% | ~187 |
 | Enlightenment | 13.00% | ~187 |
@@ -32,12 +32,12 @@ Rating: 4.07 (Ranked 893)
 | Daily Quest Completionist | 8.00% | ~115 |
 | Doing My Part | 8.00% | ~115 |
 | Hunter | 8.00% | ~115 |
+| Mastery | 8.00% | ~115 |
 | Relic Of The Past | 8.00% | ~115 |
 | Scroll Master | 8.00% | ~115 |
 | The power of Awakening | 8.00% | ~115 |
 | Four Leaf Clover | 7.00% | ~101 |
 | Frostfire Liberator | 7.00% | ~101 |
-| Mastery | 7.00% | ~101 |
 | Moving Up The Ladder | 7.00% | ~101 |
 | Here We Go Again | 6.00% | ~86 |
 | Trader | 6.00% | ~86 |

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 112,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -416,6 +416,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2023-06-18T22:01:34.6787491+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
@@ -430,9 +436,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 10689,
+  "EOS_Progressed": 10690,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5165,6 +5171,11 @@
       "Time": "2023-06-18T21:06:22.2403692+00:00",
       "NumProgressed": 10689,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-18T22:07:17.3073822+00:00",
+      "NumProgressed": 10690,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5176,7 +5187,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8551
+      "UsersEstimate": 8552
     },
     {
       "ID": "ACH02",
@@ -5352,7 +5363,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH24",
@@ -5400,7 +5411,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH30",
@@ -5455,16 +5466,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10689,
+      "Progressed": 10690,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-06-18T14:01:07.7447235+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:06:22.2403686+00:00",
+  "LastChanged": "2023-06-18T22:01:34.6787489+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:07:17.3073814+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:00:25.431342+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:06:22.2404108+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:01:34.6787496+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:07:17.3074397+00:00"
 }

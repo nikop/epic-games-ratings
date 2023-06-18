@@ -11,8 +11,8 @@ Rating: 3.86 (Ranked 926)
 | Zero Waste | 30.00% | ~386 |
 | Bob The Builder | 30.00% | ~386 |
 | I am the greatest botanist on this planet. | 29.00% | ~373 |
+| Miner | 25.00% | ~322 |
 | Gardener | 24.00% | ~309 |
-| Miner | 24.00% | ~309 |
 | Occupy Mars! | 22.00% | ~283 |
 | Houston we have a problem | 21.00% | ~270 |
 | Detective | 18.00% | ~232 |
@@ -27,7 +27,7 @@ Rating: 3.86 (Ranked 926)
 | Plumber | 2.00% | ~26 |
 | To infinity and beyond! | 2.00% | ~26 |
 | Driver's License | 1.00% | ~13 |
-| Explosive Miner | 0.90% | ~12 |
+| Explosive Miner | 1.00% | ~13 |
 | Rocket Jump | 0.90% | ~12 |
 | Thunderstruck | 0.80% | ~10 |
 | Caveman | 0.70% | ~9 |

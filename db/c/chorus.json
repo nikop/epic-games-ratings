@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 742
     },
     {
       "ID": "MasteryOfCombat",
@@ -1207,9 +1207,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 673
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1375,8 +1375,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:06:23.662064+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:07:19.667384+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:33.7923518+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:00:10.789344+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:06:23.6620946+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:01:15.1202552+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:07:19.6674377+00:00"
 }

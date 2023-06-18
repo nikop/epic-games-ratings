@@ -1059,9 +1059,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6582,
+  "EOS_Progressed": 6583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5964,6 +5964,11 @@
       "Time": "2023-06-18T21:03:18.9957955+00:00",
       "NumProgressed": 6582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T22:02:51.023589+00:00",
+      "NumProgressed": 6583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5975,7 +5980,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "10",
@@ -6007,7 +6012,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "14",
@@ -6055,7 +6060,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "2",
@@ -6071,7 +6076,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "21",
@@ -6079,7 +6084,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "22",
@@ -6087,7 +6092,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "23",
@@ -6223,7 +6228,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "39",
@@ -6295,7 +6300,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "47",
@@ -6335,7 +6340,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "51",
@@ -6423,7 +6428,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "8",
@@ -6446,15 +6451,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6582,
+      "Progressed": 6583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:03:18.995795+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:02:51.0235884+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-18T21:00:08.1920819+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:03:18.9958628+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:01:11.4511399+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:02:51.0236939+00:00"
 }

@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 797)
 | Box Office Smash | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,803 (Ranked 158)  
+Progressed: 1,803 (Ranked 159)  
 Completed: 10 (0.55%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |

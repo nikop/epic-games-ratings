@@ -1,13 +1,13 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 475)  
+Rating: 4.55 (Ranked 474)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 32.00% | ~17,805 |
-| Let There Be Light | 26.00% | ~14,466 |
+| Let There Be Light | 26.00% | ~14,467 |
 | Float Like a Butterfly | 25.00% | ~13,910 |
 | Nordic Walking | 19.00% | ~10,572 |
 | Bright Falls' Finest | 19.00% | ~10,572 |
@@ -16,10 +16,10 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 13.00% | ~7,233 |
 | Back! Back, I Say! | 13.00% | ~7,233 |
 | Finders Keepers | 13.00% | ~7,233 |
-| They're Heeeeeere! | 11.00% | ~6,120 |
-| Sound and Fury | 11.00% | ~6,120 |
-| Missed by a Mile | 11.00% | ~6,120 |
-| Damn Good Cup of Coffee | 11.00% | ~6,120 |
+| They're Heeeeeere! | 11.00% | ~6,121 |
+| Sound and Fury | 11.00% | ~6,121 |
+| Missed by a Mile | 11.00% | ~6,121 |
+| Damn Good Cup of Coffee | 11.00% | ~6,121 |
 | Iron Horse | 10.00% | ~5,564 |
 | Wheels Within Wheels | 10.00% | ~5,564 |
 | The Six-Gun Scribe | 10.00% | ~5,564 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 7.00% | ~3,895 |
 | Right of Way | 7.00% | ~3,895 |
 | Tornado Wrangler | 6.00% | ~3,338 |
-| A Friend Indeed | 6.00% | ~1,146 |
+| A Friend Indeed | 6.00% | ~1,147 |
 | Departure | 5.00% | ~2,782 |
 | Ding! | 5.00% | ~955 |
 | Children of the Elder God | 4.00% | ~2,226 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,640 (Ranked 78)  
+Progressed: 55,641 (Ranked 78)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-15 | 55,202 | 55 |
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
-| 2023-06-18 | 55,640 | 56 |
+| 2023-06-18 | 55,641 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -150,7 +150,7 @@
   "Tags": [],
   "EOS_Progressed": 1287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2191,9 +2191,9 @@
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
       "SetID": "l546gc",
       "Name": "Explosive Miner",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -2415,9 +2415,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 322
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2560,8 +2560,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-16T13:03:21.7324195+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:04:31.5799331+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:04:44.8884207+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.7999055+00:00",
-  "LastUpdate_Ratings": "2023-06-18T20:57:46.7016921+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:04:31.5799751+00:00"
+  "LastUpdate_Ratings": "2023-06-18T21:57:55.8204984+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:04:44.8884799+00:00"
 }

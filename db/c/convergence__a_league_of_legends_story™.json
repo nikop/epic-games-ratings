@@ -2,10 +2,10 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "EOS_Progressed": 707,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 46,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -1548,9 +1548,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "HexlockGift",
@@ -1819,8 +1819,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:05:48.8096544+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:06:34.5387282+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-18T20:59:35.8332092+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:05:48.8096995+00:00"
+  "LastUpdate_Ratings": "2023-06-18T22:00:27.06799+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:06:34.5387969+00:00"
 }

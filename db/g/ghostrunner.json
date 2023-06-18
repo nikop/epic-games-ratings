@@ -960,9 +960,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 9847,
+  "EOS_Progressed": 9848,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7065,6 +7065,11 @@
       "Time": "2023-06-18T21:06:17.1284073+00:00",
       "NumProgressed": 9847,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-18T22:07:10.8880451+00:00",
+      "NumProgressed": 9848,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 45,
@@ -7108,7 +7113,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "DeadInTheAir",
@@ -7172,7 +7177,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -7212,7 +7217,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 7582
+      "UsersEstimate": 7583
     },
     {
       "ID": "MoreThanHuman",
@@ -7396,7 +7401,7 @@
       "Name": "Wallrunner",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "WaveOfMutilation",
@@ -7435,21 +7440,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 9847,
+      "Progressed": 9848,
       "Completed": 26
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 9847,
+      "Progressed": 9848,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-06-14T21:57:50.0314718+00:00",
-  "LastChanged_Achievements": "2023-06-18T21:06:17.1284068+00:00",
+  "LastChanged_Achievements": "2023-06-18T22:07:10.8880446+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:41.8681181+00:00",
-  "LastUpdate_Ratings": "2023-06-18T20:58:18.1542844+00:00",
-  "LastUpdate_Achievements": "2023-06-18T21:06:17.1284638+00:00"
+  "LastUpdate_Ratings": "2023-06-18T21:58:40.8361946+00:00",
+  "LastUpdate_Achievements": "2023-06-18T22:07:10.8881441+00:00"
 }
