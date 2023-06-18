@@ -6,24 +6,24 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~798,383 |
-| Bun-Puncher Supreme | 68.00% | ~733,649 |
-| You Mean Business | 68.00% | ~733,649 |
-| You're Getting Pretty Good At This! | 68.00% | ~733,649 |
-| Aerial Specialist | 63.00% | ~679,704 |
-| Proving Yourself | 63.00% | ~679,704 |
-| Stepping Out | 63.00% | ~679,704 |
-| The Throne Is Yours | 63.00% | ~679,704 |
-| Spike Specialist | 54.00% | ~582,604 |
-| Southpaw Specialist | 54.00% | ~582,604 |
-| Rightie Specialist | 54.00% | ~582,604 |
-| Signature Slammer | 43.00% | ~463,925 |
-| Distanced Damage Dealer | 42.00% | ~453,136 |
-| Watch Your Head | 42.00% | ~453,136 |
-| Catch This | 42.00% | ~453,136 |
-| Toast Master | 41.00% | ~442,347 |
-| Nice Speech | 41.00% | ~442,347 |
-| Credit Where It's Due | 41.00% | ~442,347 |
+| Matchmaker | 74.00% | ~798,385 |
+| Bun-Puncher Supreme | 68.00% | ~733,651 |
+| You Mean Business | 68.00% | ~733,651 |
+| You're Getting Pretty Good At This! | 68.00% | ~733,651 |
+| Aerial Specialist | 63.00% | ~679,706 |
+| Proving Yourself | 63.00% | ~679,706 |
+| Stepping Out | 63.00% | ~679,706 |
+| The Throne Is Yours | 63.00% | ~679,706 |
+| Spike Specialist | 54.00% | ~582,605 |
+| Southpaw Specialist | 54.00% | ~582,605 |
+| Rightie Specialist | 54.00% | ~582,605 |
+| Signature Slammer | 43.00% | ~463,926 |
+| Distanced Damage Dealer | 42.00% | ~453,137 |
+| Watch Your Head | 42.00% | ~453,137 |
+| Catch This | 42.00% | ~453,137 |
+| Toast Master | 41.00% | ~442,348 |
+| Nice Speech | 41.00% | ~442,348 |
+| Credit Where It's Due | 41.00% | ~442,348 |
 | Life of the Party | 36.00% | ~388,403 |
 | Social Butterfly | 36.00% | ~388,403 |
 | Party Animal | 36.00% | ~388,403 |
@@ -35,7 +35,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Going Down? | 29.00% | ~312,880 |
 | Run It Back | 6.00% | ~64,734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078,896 (Ranked 11)  
+Progressed: 1,078,898 (Ranked 11)  
 Completed: 31,678 (2.94%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 31,678 (2.94%) (Ranked 52)
 | 2023-06-15 | 1,078,298 | 31,675 |
 | 2023-06-16 | 1,078,546 | 31,676 |
 | 2023-06-17 | 1,078,815 | 31,678 |
-| 2023-06-18 | 1,078,896 | 31,678 |
+| 2023-06-18 | 1,078,898 | 31,678 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 65)  
 Sum: 45,695 (Ranked 26)  

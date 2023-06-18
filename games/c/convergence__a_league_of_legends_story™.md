@@ -24,11 +24,11 @@
 | The Brass Boss | 10.00% | ~70 |
 | The Betrayer | 9.00% | ~63 |
 | The Man Who Shattered Time | 9.00% | ~63 |
+| The Loose Cannon | 9.00% | ~63 |
 | Golem Chaser | 9.00% | ~63 |
 | Check Your Pulse | 9.00% | ~63 |
 | Like Clockwork | 8.00% | ~56 |
 | Street Style | 8.00% | ~56 |
-| The Loose Cannon | 8.00% | ~56 |
 | The Family Fortune | 8.00% | ~56 |
 | Right On Time | 7.00% | ~49 |
 | Whiz Kid | 7.00% | ~49 |

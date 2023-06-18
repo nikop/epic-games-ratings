@@ -99,9 +99,9 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -116,8 +116,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:05:50.2337894+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:06:45.167942+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.7913266+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:59:12.683025+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:05:50.2337997+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:59:51.4353592+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:06:45.167952+00:00"
 }

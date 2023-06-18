@@ -37,15 +37,15 @@ Rating: 4.18 (Ranked 848)
 | Gotham Knight | 1.00% | ~655 |
 | Gotham City Confidential | 1.00% | ~655 |
 | Solid Alibi | 1.00% | ~655 |
-| Out of Their League | 0.90% | ~589 |
+| Out of Their League | 0.90% | ~590 |
 | Fusion Expert | 0.80% | ~524 |
-| Family Meeting | 0.70% | ~458 |
-| A Worthy Successor | 0.70% | ~458 |
+| Family Meeting | 0.70% | ~459 |
+| A Worthy Successor | 0.70% | ~459 |
 | Expert Crime Fighter | 0.60% | ~393 |
-| Dressed to Impress | 0.50% | ~327 |
+| Dressed to Impress | 0.50% | ~328 |
 | A Momentum Occasion | 0.40% | ~262 |
 | Bat Out of Hell | 0.40% | ~262 |
-| He'd Be So Proud of You | 0.30% | ~196 |
+| He'd Be So Proud of You | 0.30% | ~197 |
 | Hammer and Icicle | 0.20% | ~72 |
 | Renewable Enemy Source | 0.20% | ~72 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
@@ -60,14 +60,14 @@ Rating: 4.18 (Ranked 848)
 | That's Showbiz, Clayby | 0.10% | ~36 |
 | Icebreaker | 0.10% | ~36 |
 | Don't Mecha Big Deal About It | 0.10% | ~36 |
-| Batarang Collector | 0.10% | ~65 |
-| Read Owl About It | 0.10% | ~65 |
-| History Major | 0.10% | ~65 |
-| Claiming the Mural High Ground | 0.10% | ~65 |
+| Batarang Collector | 0.10% | ~66 |
+| Read Owl About It | 0.10% | ~66 |
+| History Major | 0.10% | ~66 |
+| Claiming the Mural High Ground | 0.10% | ~66 |
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,498 (Ranked 70)  
+Progressed: 65,501 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 95 (0.15%) (Ranked 164)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,498 | 95 |
+| 2023-06-18 | 65,501 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,339  (Ranked 98)  
-Sum: 3,876 (Ranked 137)  
+Sum: 3,877 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -141,7 +141,7 @@ Diff (max vs sum): -39
 | This game has Diverse Characters | 190 |
 | This game has Amazing Storytelling | 187 |
 | This game is Great for Beginners | 184 |
-| This game is Highly Recommended | 182 |
+| This game is Highly Recommended | 183 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -263,4 +263,4 @@ Diff (max vs sum): -39
 | 2023-06-15 | 4.17 | 2,336 | 3,866 |
 | 2023-06-16 | 4.17 | 2,336 | 3,867 |
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
-| 2023-06-18 | 4.18 | 2,339 | 3,876 |
+| 2023-06-18 | 4.18 | 2,339 | 3,877 |

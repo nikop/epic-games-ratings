@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,142 |
-| That's a Grand Army | 8.00% | ~4,570 |
-| That is mine! | 8.00% | ~4,570 |
-| Victorious! | 8.00% | ~4,570 |
-| Brothers in Arms | 6.00% | ~3,428 |
-| That's a Grand Navy | 6.00% | ~3,428 |
-| Seriously?! | 6.00% | ~3,428 |
-| For the Glory | 5.00% | ~2,856 |
-| Cold War | 4.00% | ~2,285 |
-| True Catholic | 4.00% | ~2,285 |
+| Until death do us apart | 9.00% | ~5,144 |
+| That's a Grand Army | 8.00% | ~4,572 |
+| That is mine! | 8.00% | ~4,572 |
+| Victorious! | 8.00% | ~4,572 |
+| Brothers in Arms | 6.00% | ~3,429 |
+| That's a Grand Navy | 6.00% | ~3,429 |
+| Seriously?! | 6.00% | ~3,429 |
+| For the Glory | 5.00% | ~2,858 |
+| Cold War | 4.00% | ~2,286 |
+| True Catholic | 4.00% | ~2,286 |
 | Defender of the Faith | 3.00% | ~1,714 |
 | It's all about the money | 3.00% | ~1,714 |
 | Respected | 3.00% | ~1,714 |
@@ -31,14 +31,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,143 |
 | The Princess is in this Castle | 2.00% | ~1,143 |
 | Total Control | 2.00% | ~1,143 |
-| All That's Thine Shall Be Mine | 1.00% | ~571 |
-| Azur semé de lis or | 1.00% | ~571 |
-| Bright Spark | 1.00% | ~571 |
-| City of Cities | 1.00% | ~571 |
-| Factionalism | 1.00% | ~571 |
-| A Golden Empire | 1.00% | ~571 |
-| The Five Colonies | 1.00% | ~571 |
-| This navy can take it all | 1.00% | ~571 |
+| All That's Thine Shall Be Mine | 1.00% | ~572 |
+| Azur semé de lis or | 1.00% | ~572 |
+| Bright Spark | 1.00% | ~572 |
+| City of Cities | 1.00% | ~572 |
+| Factionalism | 1.00% | ~572 |
+| A Golden Empire | 1.00% | ~572 |
+| The Five Colonies | 1.00% | ~572 |
+| This navy can take it all | 1.00% | ~572 |
 | The Emperors new clothes | 0.90% | ~514 |
 | Isn't this the way to India? | 0.90% | ~514 |
 | Market Control | 0.90% | ~514 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,129 (Ranked 76)  
+Progressed: 57,150 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-15 | 55,952 | 0 |
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
-| 2023-06-18 | 57,129 | 0 |
+| 2023-06-18 | 57,150 | 0 |
 ## Awards
 Max (Educational): 5,404  (Ranked 61)  
 Sum: 44,691 (Ranked 27)  

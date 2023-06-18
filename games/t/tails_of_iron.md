@@ -5,21 +5,21 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 79.00% | ~1,345 |
-| Become King | 72.00% | ~1,226 |
+| Complete Guard Faction | 79.00% | ~1,346 |
+| Become King | 72.00% | ~1,227 |
 | Ranged Weapon | 61.00% | ~1,039 |
 | Defeat 25 Frogs | 61.00% | ~1,039 |
 | Collect Monster Parts | 57.00% | ~971 |
 | Two Handed Weapon | 55.00% | ~937 |
 | Defeat 25 Grubs | 51.00% | ~869 |
 | Rescue Redgi's Brothers | 51.00% | ~869 |
-| Collect Iron Ore | 46.00% | ~783 |
-| Kitchen Ready To Cook | 46.00% | ~783 |
-| Defeat 25 Mozis | 45.00% | ~766 |
-| Collect Gold | 44.00% | ~749 |
-| Smithy Ready to Craft | 44.00% | ~749 |
-| Fix the Travellers Wagon | 43.00% | ~732 |
-| Complete Elder Faction | 40.00% | ~681 |
+| Collect Iron Ore | 46.00% | ~784 |
+| Kitchen Ready To Cook | 46.00% | ~784 |
+| Defeat 25 Mozis | 45.00% | ~767 |
+| Collect Gold | 44.00% | ~750 |
+| Smithy Ready to Craft | 44.00% | ~750 |
+| Fix the Travellers Wagon | 43.00% | ~733 |
+| Complete Elder Faction | 40.00% | ~682 |
 | Throne Room Fit For A King | 37.00% | ~630 |
 | End of the Mozis | 36.00% | ~613 |
 | Return Power To The Depths | 35.00% | ~596 |
@@ -31,12 +31,12 @@ Rating: 4.52 (Ranked 514)
 | Complete Ranger Faction | 20.00% | ~341 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~324 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~307 |
-| Complete Arena Faction | 15.00% | ~255 |
+| Complete Arena Faction | 15.00% | ~256 |
 | Complete Redgi's Armory | 8.00% | ~136 |
 | King of Kings | 7.00% | ~119 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,703 (Ranked 159)  
+Progressed: 1,704 (Ranked 159)  
 Completed: 8 (0.47%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 8 (0.47%) (Ranked 124)
 | 2023-06-15 | 1,693 | 8 |
 | 2023-06-16 | 1,697 | 8 |
 | 2023-06-17 | 1,702 | 8 |
-| 2023-06-18 | 1,703 | 8 |
+| 2023-06-18 | 1,704 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

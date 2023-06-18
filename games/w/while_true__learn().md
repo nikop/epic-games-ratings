@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~551,393 |
-| Error: Stack Overflow | 66.00% | ~391,311 |
-| We need more gold | 60.00% | ~355,738 |
-| The dawn of civilization | 53.00% | ~314,235 |
-| More FPS for the FPS god! | 49.00% | ~290,519 |
-| Beauty and harmony | 48.00% | ~284,590 |
-| One more! | 44.00% | ~260,874 |
-| Overmind | 24.00% | ~142,295 |
-| RNG is my best friend now | 18.00% | ~106,721 |
-| Cosplay | 13.00% | ~77,076 |
-| Evolution in progress... | 13.00% | ~77,076 |
+| First.. Bit? | 93.00% | ~551,399 |
+| Error: Stack Overflow | 66.00% | ~391,315 |
+| We need more gold | 60.00% | ~355,741 |
+| The dawn of civilization | 53.00% | ~314,238 |
+| More FPS for the FPS god! | 49.00% | ~290,522 |
+| Beauty and harmony | 48.00% | ~284,593 |
+| One more! | 44.00% | ~260,877 |
+| Overmind | 24.00% | ~142,296 |
+| RNG is my best friend now | 18.00% | ~106,722 |
+| Cosplay | 13.00% | ~77,077 |
+| Evolution in progress... | 13.00% | ~77,077 |
 | Step by step | 8.00% | ~47,432 |
 | README reader | 3.00% | ~17,787 |
 | Data scientist | 3.00% | ~17,787 |
@@ -29,13 +29,13 @@ Number of Ratings: 896  (23.09.2022)
 | Ping | 1.00% | ~5,929 |
 | Magna cum laude | 1.00% | ~5,929 |
 | The hoarder | 0.90% | ~5,336 |
-| Deal with it! | 0.50% | ~2,964 |
+| Deal with it! | 0.50% | ~2,965 |
 | Gold rush | 0.40% | ~2,372 |
 | Cat-o-holic | 0.40% | ~2,372 |
 | Elements will destroy you! | 0.30% | ~1,779 |
 | The Scrooge | 0.10% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592,896 (Ranked 24)  
+Progressed: 592,902 (Ranked 24)  
 Completed: 492 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 492 (0.08%) (Ranked 183)
 | 2023-06-15 | 592,616 | 491 |
 | 2023-06-16 | 592,722 | 492 |
 | 2023-06-17 | 592,860 | 492 |
-| 2023-06-18 | 592,896 | 492 |
+| 2023-06-18 | 592,902 | 492 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 300)  
 Sum: 133 (Ranked 391)  

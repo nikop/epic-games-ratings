@@ -1542,10 +1542,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 3876,
       "NumberOfAwardsMax": 2339
+    },
+    {
+      "Time": "2023-06-18T09:00:19.3789067+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3877,
+      "NumberOfAwardsMax": 2339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3876,
+  "NumberOfAwards": 3877,
   "NumberOfAwardsMax": 2339,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1583,7 +1589,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 182
+      "Count": 183
     },
     {
       "Text": "This game is Relaxing",
@@ -1610,7 +1616,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65498,
+  "EOS_Progressed": 65501,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 0,
@@ -6780,6 +6786,11 @@
       "Time": "2023-06-18T08:06:16.0645726+00:00",
       "NumProgressed": 65498,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-18T09:07:15.7018142+00:00",
+      "NumProgressed": 65501,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6927,7 +6938,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -6975,7 +6986,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6991,7 +7002,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -7063,7 +7074,7 @@
       "Name": "Batarang Collector",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -7071,7 +7082,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -7079,7 +7090,7 @@
       "Name": "History Major",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -7087,7 +7098,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HARLEY_1",
@@ -7143,7 +7154,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -7175,7 +7186,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MYSTERY_01",
@@ -7278,22 +7289,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65498,
+      "Progressed": 65501,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35778,
+      "Progressed": 35781,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-18T06:59:42.4987968+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:06:16.064572+00:00",
+  "LastChanged": "2023-06-18T09:00:19.3789065+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:07:15.7018134+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:59:33.9611121+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:06:16.064754+00:00"
+  "LastUpdate_Ratings": "2023-06-18T09:00:19.3789071+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:07:15.701967+00:00"
 }

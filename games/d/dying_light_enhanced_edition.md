@@ -6,70 +6,70 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 91.00% | ~3,383,502 |
-| Little Craftsman | 89.00% | ~3,309,139 |
-| Flight of the Crane | 85.00% | ~3,160,414 |
-| My left or your left? | 52.00% | ~1,933,430 |
-| Prom Night | 44.00% | ~1,635,979 |
-| Can't Touch This | 37.00% | ~1,375,710 |
-| Mouths Wide Open | 37.00% | ~1,375,710 |
-| I've Got Your Back | 37.00% | ~1,375,710 |
-| Open Sesame | 35.00% | ~1,301,347 |
-| Strong | 35.00% | ~1,301,347 |
-| Harran Shooting Club | 32.00% | ~1,189,803 |
-| Snake in the grass | 30.00% | ~1,115,440 |
-| Agile | 30.00% | ~1,115,440 |
-| Trade Company | 29.00% | ~1,078,259 |
-| Everybody Knows Kyle | 29.00% | ~1,078,259 |
-| Sightseeing | 28.00% | ~1,041,078 |
-| Hush, Hush Now | 24.00% | ~892,352 |
-| Making Faces | 24.00% | ~892,352 |
-| Tied loose end | 22.00% | ~817,989 |
-| Vertigo | 21.00% | ~780,808 |
-| Now You Can Come In | 20.00% | ~743,627 |
-| The Legend of Harran | 19.00% | ~706,445 |
-| Bittersweet | 18.00% | ~669,264 |
-| Pheidippides | 16.00% | ~594,901 |
-| Everybody Dance Now | 14.00% | ~520,539 |
-| Afraid to get wet? | 13.00% | ~483,357 |
-| BBQ | 10.00% | ~371,813 |
-| Disaster Recovery | 7.00% | ~260,269 |
-| Mount Everest | 7.00% | ~260,269 |
-| A Game of Catch | 7.00% | ~260,269 |
-| Pearls in the Mud | 7.00% | ~260,269 |
-| I felt your presence | 7.00% | ~260,269 |
-| Now It's Safe | 6.00% | ~223,088 |
-| Master Crafter | 6.00% | ~223,088 |
-| I was waiting for you for so long | 6.00% | ~223,088 |
-| Gabriel's Sword | 5.00% | ~185,907 |
-| We're All In This Together | 4.00% | ~148,725 |
-| And you liked him, didn't you? | 4.00% | ~148,725 |
-| What if you picked the other one? | 4.00% | ~148,725 |
-| High Flyer | 3.00% | ~111,544 |
-| A Long Way Down | 3.00% | ~111,544 |
-| Bolter Hunting | 2.00% | ~74,363 |
-| Harran Athletics | 2.00% | ~74,363 |
-| Blinded by the Lights | 2.00% | ~74,363 |
-| Judo Master | 2.00% | ~74,363 |
-| Get the Bozak | 2.00% | ~74,363 |
-| Robin Hood Theory | 2.00% | ~74,363 |
-| It wasn't that hard, was it? | 2.00% | ~74,363 |
-| You realize it's only points, don't you? | 2.00% | ~74,363 |
-| I don't approve of mindless fun | 2.00% | ~74,363 |
-| The Whole Story | 1.00% | ~37,181 |
-| Lucky 7 | 1.00% | ~37,181 |
-| Polyamory | 1.00% | ~37,181 |
-| It's All In the Writing | 0.90% | ~33,463 |
-| Things That Go Ka-Boom | 0.80% | ~29,745 |
-| I'm a Runner and a fighter | 0.70% | ~26,027 |
-| Electric Whisper | 0.70% | ~26,027 |
-| Clavis was a key all along | 0.70% | ~26,027 |
-| This is Harraaaaan! | 0.50% | ~18,591 |
-| Together Till the End | 0.50% | ~18,591 |
-| Homo Homini Lupus Est | 0.30% | ~11,154 |
-| Electrified! | 0.30% | ~11,154 |
-| Beginnings are hard | 0.30% | ~11,154 |
-| Sweaty palms? | 0.20% | ~7,436 |
+| Is It Really Necessary? | 91.00% | ~3,383,678 |
+| Little Craftsman | 89.00% | ~3,309,311 |
+| Flight of the Crane | 85.00% | ~3,160,578 |
+| My left or your left? | 52.00% | ~1,933,530 |
+| Prom Night | 44.00% | ~1,636,064 |
+| Can't Touch This | 37.00% | ~1,375,781 |
+| Mouths Wide Open | 37.00% | ~1,375,781 |
+| I've Got Your Back | 37.00% | ~1,375,781 |
+| Open Sesame | 35.00% | ~1,301,414 |
+| Strong | 35.00% | ~1,301,414 |
+| Harran Shooting Club | 32.00% | ~1,189,865 |
+| Snake in the grass | 30.00% | ~1,115,498 |
+| Agile | 30.00% | ~1,115,498 |
+| Trade Company | 29.00% | ~1,078,315 |
+| Everybody Knows Kyle | 29.00% | ~1,078,315 |
+| Sightseeing | 28.00% | ~1,041,132 |
+| Hush, Hush Now | 24.00% | ~892,398 |
+| Making Faces | 24.00% | ~892,398 |
+| Tied loose end | 22.00% | ~818,032 |
+| Vertigo | 21.00% | ~780,849 |
+| Now You Can Come In | 20.00% | ~743,665 |
+| The Legend of Harran | 19.00% | ~706,482 |
+| Bittersweet | 18.00% | ~669,299 |
+| Pheidippides | 16.00% | ~594,932 |
+| Everybody Dance Now | 14.00% | ~520,566 |
+| Afraid to get wet? | 13.00% | ~483,383 |
+| BBQ | 10.00% | ~371,833 |
+| Disaster Recovery | 7.00% | ~260,283 |
+| Mount Everest | 7.00% | ~260,283 |
+| A Game of Catch | 7.00% | ~260,283 |
+| Pearls in the Mud | 7.00% | ~260,283 |
+| I felt your presence | 7.00% | ~260,283 |
+| Now It's Safe | 6.00% | ~223,100 |
+| Master Crafter | 6.00% | ~223,100 |
+| I was waiting for you for so long | 6.00% | ~223,100 |
+| Gabriel's Sword | 5.00% | ~185,916 |
+| We're All In This Together | 4.00% | ~148,733 |
+| And you liked him, didn't you? | 4.00% | ~148,733 |
+| What if you picked the other one? | 4.00% | ~148,733 |
+| High Flyer | 3.00% | ~111,550 |
+| A Long Way Down | 3.00% | ~111,550 |
+| Bolter Hunting | 2.00% | ~74,367 |
+| Harran Athletics | 2.00% | ~74,367 |
+| Blinded by the Lights | 2.00% | ~74,367 |
+| Judo Master | 2.00% | ~74,367 |
+| Get the Bozak | 2.00% | ~74,367 |
+| Robin Hood Theory | 2.00% | ~74,367 |
+| It wasn't that hard, was it? | 2.00% | ~74,367 |
+| You realize it's only points, don't you? | 2.00% | ~74,367 |
+| I don't approve of mindless fun | 2.00% | ~74,367 |
+| The Whole Story | 1.00% | ~37,183 |
+| Lucky 7 | 1.00% | ~37,183 |
+| Polyamory | 1.00% | ~37,183 |
+| It's All In the Writing | 0.90% | ~33,465 |
+| Things That Go Ka-Boom | 0.80% | ~29,747 |
+| I'm a Runner and a fighter | 0.70% | ~26,028 |
+| Electric Whisper | 0.70% | ~26,028 |
+| Clavis was a key all along | 0.70% | ~26,028 |
+| This is Harraaaaan! | 0.50% | ~18,592 |
+| Together Till the End | 0.50% | ~18,592 |
+| Homo Homini Lupus Est | 0.30% | ~11,155 |
+| Electrified! | 0.30% | ~11,155 |
+| Beginnings are hard | 0.30% | ~11,155 |
+| Sweaty palms? | 0.20% | ~7,437 |
 | Trespassing | 0.10% | ~3,718 |
 | Enlightened! | 0.10% | ~3,718 |
 | Italian Plumber | 0.10% | ~3,718 |
@@ -85,7 +85,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~3,718 |
 | Into the lava | 0.10% | ~3,718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,718,134 (Ranked 3)  
+Progressed: 3,718,327 (Ranked 3)  
 Completed: 29 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,17 +144,17 @@ Completed: 29 (0.00%) (Ranked 228)
 | 2023-06-15 | 3,708,165 | 29 |
 | 2023-06-16 | 3,712,016 | 29 |
 | 2023-06-17 | 3,716,615 | 29 |
-| 2023-06-18 | 3,718,134 | 29 |
+| 2023-06-18 | 3,718,327 | 29 |
 ## Awards
 Max (Character Customization): 38,545  (Ranked 12)  
-Sum: 72,297 (Ranked 18)  
+Sum: 72,309 (Ranked 18)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 38,545 |
 | This game has Great Boss Battles | 16,507 |
 | This game is Great for Beginners | 2,557 |
-| This game has Diverse Characters | 2,235 |
+| This game has Diverse Characters | 2,247 |
 | This game is Highly Recommended | 2,021 |
 | This game has Amazing Characters | 1,852 |
 | This game is Extremely Fun | 1,849 |
@@ -331,4 +331,4 @@ Diff (max vs sum): -6
 | 2023-06-15 | 4.60 | - | 38,192 | 71,642 |
 | 2023-06-16 | 4.60 | - | 38,294 | 71,862 |
 | 2023-06-17 | 4.60 | - | 38,409 | 72,134 |
-| 2023-06-18 | 4.60 | - | 38,545 | 72,297 |
+| 2023-06-18 | 4.60 | - | 38,545 | 72,309 |

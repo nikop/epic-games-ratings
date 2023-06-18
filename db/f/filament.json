@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193675,
+  "EOS_Progressed": 193683,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6302,6 +6302,11 @@
       "Time": "2023-06-18T08:05:53.6775563+00:00",
       "NumProgressed": 193675,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-06-18T09:06:49.3061095+00:00",
+      "NumProgressed": 193683,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 29,
@@ -6337,7 +6342,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182054
+      "UsersEstimate": 182062
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6449,7 +6454,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11620
+      "UsersEstimate": 11621
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -6513,7 +6518,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -6544,7 +6549,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193675,
+      "Progressed": 193683,
       "Completed": 444
     }
   ],
@@ -6552,8 +6557,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:05:53.6775556+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:06:49.3061088+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:58:42.6885593+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:05:53.6776583+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:59:17.5341883+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:06:49.3062095+00:00"
 }

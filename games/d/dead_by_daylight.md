@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wounded Healer | 1.00% | ~5,695 |
-| Healthy Obsession | 1.00% | ~5,695 |
-| Resurgence | 1.00% | ~5,695 |
-| Close Shave | 1.00% | ~5,695 |
-| Preemptive Strike | 1.00% | ~5,695 |
-| Humanitarian | 1.00% | ~5,695 |
-| Flight to Freedom | 0.90% | ~5,126 |
-| Unforgettable Getaway | 0.80% | ~4,556 |
-| First to the Punch | 0.80% | ~4,556 |
-| Old West Oasis | 0.80% | ~4,556 |
-| With Scars to Show | 0.80% | ~4,556 |
-| Every Last Drop | 0.70% | ~3,987 |
-| Operation: Survival | 0.60% | ~3,417 |
-| Classy Act | 0.60% | ~3,417 |
-| Raccoon City Recruit | 0.60% | ~3,417 |
-| A Fast Death | 0.60% | ~3,417 |
-| Lifting The Fog | 0.60% | ~3,417 |
-| Chorus of Chaos | 0.60% | ~3,417 |
+| Wounded Healer | 1.00% | ~5,697 |
+| Healthy Obsession | 1.00% | ~5,697 |
+| Resurgence | 1.00% | ~5,697 |
+| Close Shave | 1.00% | ~5,697 |
+| Preemptive Strike | 1.00% | ~5,697 |
+| Humanitarian | 1.00% | ~5,697 |
+| Flight to Freedom | 0.90% | ~5,127 |
+| Unforgettable Getaway | 0.80% | ~4,557 |
+| First to the Punch | 0.80% | ~4,557 |
+| Old West Oasis | 0.80% | ~4,557 |
+| With Scars to Show | 0.80% | ~4,557 |
+| Every Last Drop | 0.70% | ~3,988 |
+| Cutting Out | 0.60% | ~3,418 |
+| Operation: Survival | 0.60% | ~3,418 |
+| Classy Act | 0.60% | ~3,418 |
+| Raccoon City Recruit | 0.60% | ~3,418 |
+| A Fast Death | 0.60% | ~3,418 |
+| Lifting The Fog | 0.60% | ~3,418 |
+| Chorus of Chaos | 0.60% | ~3,418 |
 | Ancestor's Rite | 0.50% | ~2,848 |
-| Cutting Out | 0.50% | ~2,848 |
 | Outrun Evil | 0.50% | ~2,848 |
 | Grim Pilgrimage | 0.50% | ~2,848 |
-| Devoted Gatekeeping | 0.40% | ~2,278 |
-| Shrine Apparatus | 0.40% | ~2,278 |
-| Broken Bodies | 0.40% | ~2,278 |
-| Selfless Survival | 0.40% | ~2,278 |
-| End of Days | 0.40% | ~2,278 |
-| Insult and Injury | 0.40% | ~2,278 |
-| Outrun the Overlap | 0.40% | ~2,278 |
+| Devoted Gatekeeping | 0.40% | ~2,279 |
+| Shrine Apparatus | 0.40% | ~2,279 |
+| Broken Bodies | 0.40% | ~2,279 |
+| Selfless Survival | 0.40% | ~2,279 |
+| End of Days | 0.40% | ~2,279 |
+| Insult and Injury | 0.40% | ~2,279 |
+| Outrun the Overlap | 0.40% | ~2,279 |
 | Heavy Burden | 0.30% | ~1,709 |
 | I See You | 0.30% | ~1,709 |
 | Power Moves | 0.30% | ~1,709 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~570 |
 | Adept Gabriel | 0.10% | ~570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 569,518 (Ranked 26)  
+Progressed: 569,676 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 42 (0.01%) (Ranked 215)
 | 2023-06-15 | 558,911 | 42 |
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
-| 2023-06-18 | 569,518 | 42 |
+| 2023-06-18 | 569,676 | 42 |
 ## Awards
 Max (Diverse Characters): 28,602  (Ranked 15)  
 Sum: 228,300 (Ranked 12)  

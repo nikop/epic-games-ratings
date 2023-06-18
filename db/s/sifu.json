@@ -4686,9 +4686,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709719,
+  "EOS_Progressed": 709724,
   "EOS_Completed": 12775,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1040,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10306,6 +10306,11 @@
       "Time": "2023-06-18T08:06:13.8542731+00:00",
       "NumProgressed": 709719,
       "NumCompleted": 12775
+    },
+    {
+      "Time": "2023-06-18T09:07:13.2883618+00:00",
+      "NumProgressed": 709724,
+      "NumCompleted": 12775
     }
   ],
   "TotalAchievements": 50,
@@ -10405,7 +10410,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6387
+      "UsersEstimate": 6388
     },
     {
       "ID": "13_LowAge",
@@ -10589,7 +10594,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6387
+      "UsersEstimate": 6388
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -10716,21 +10721,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19020,
+      "Progressed": 19025,
       "Completed": 10282
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709719,
+      "Progressed": 709724,
       "Completed": 12775
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-18T07:58:51.9567993+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:06:13.8542724+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:07:13.2883612+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:58:51.9568001+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:06:13.8544082+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:59:29.3102704+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:07:13.2884943+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,792 |
-| The Cursed Farmer | 3.00% | ~2,896 |
-| Beast Intentions | 2.00% | ~1,931 |
-| The Mad Wizard | 2.00% | ~1,931 |
-| The Ring of Regeneration | 1.00% | ~965 |
-| Seeking Allies | 1.00% | ~965 |
-| Are Ya Chicken? | 1.00% | ~965 |
+| A Brief Tour of the Realms | 6.00% | ~5,795 |
+| The Cursed Farmer | 3.00% | ~2,898 |
+| Beast Intentions | 2.00% | ~1,932 |
+| The Mad Wizard | 2.00% | ~1,932 |
+| The Ring of Regeneration | 1.00% | ~966 |
+| Seeking Allies | 1.00% | ~966 |
+| Are Ya Chicken? | 1.00% | ~966 |
 | Were-verpowered | 0.90% | ~869 |
 | Friendly Imps | 0.90% | ~869 |
-| The Court of Storms | 0.90% | ~565 |
-| Mad Cow Disease | 0.80% | ~772 |
+| The Court of Storms | 0.90% | ~566 |
+| Mad Cow Disease | 0.80% | ~773 |
 | A Persistent Buzzing | 0.70% | ~676 |
 | Pure Energy | 0.70% | ~676 |
 | Beware the Jabberwock | 0.70% | ~440 |
-| Terror in the Dark | 0.60% | ~579 |
-| A Mysterious Summons | 0.60% | ~579 |
-| Unearthed Evil | 0.60% | ~579 |
-| The Crumbling Temple | 0.60% | ~579 |
-| Exploring Port Nyanzaru | 0.60% | ~579 |
-| The Contagious Curse | 0.60% | ~579 |
+| Terror in the Dark | 0.60% | ~580 |
+| A Mysterious Summons | 0.60% | ~580 |
+| Unearthed Evil | 0.60% | ~580 |
+| The Crumbling Temple | 0.60% | ~580 |
+| Exploring Port Nyanzaru | 0.60% | ~580 |
+| The Contagious Curse | 0.60% | ~580 |
 | Coasting to the Finish | 0.60% | ~377 |
 | Maddening | 0.50% | ~483 |
 | Checkmate | 0.50% | ~314 |
@@ -60,21 +60,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.40% | ~386 |
 | Rescue in the Jungle | 0.40% | ~386 |
 | Pros and CONs | 0.30% | ~290 |
-| Tall Tales | 0.30% | ~188 |
-| Third Third Out | 0.30% | ~188 |
+| Tall Tales | 0.30% | ~189 |
+| Third Third Out | 0.30% | ~189 |
 | Wet Feet | 0.30% | ~290 |
-| Keep Your Distance | 0.30% | ~188 |
-| Hands Off! | 0.30% | ~188 |
-| The Dread Domain of Tovag | 0.30% | ~188 |
-| Frail Doesn't Mean Broken | 0.30% | ~188 |
-| The Castle of a Thousand Vecnas | 0.30% | ~188 |
-| The Sanctum of the Sword | 0.30% | ~188 |
-| Get Back In The Castle | 0.30% | ~188 |
-| Bully for Vecna | 0.30% | ~188 |
+| Keep Your Distance | 0.30% | ~189 |
+| Hands Off! | 0.30% | ~189 |
+| The Dread Domain of Tovag | 0.30% | ~189 |
+| Frail Doesn't Mean Broken | 0.30% | ~189 |
+| The Castle of a Thousand Vecnas | 0.30% | ~189 |
+| The Sanctum of the Sword | 0.30% | ~189 |
+| Get Back In The Castle | 0.30% | ~189 |
+| Bully for Vecna | 0.30% | ~189 |
 | Homecoming | 0.30% | ~290 |
 | The Lost Heir of Omu | 0.30% | ~290 |
-| No One Can Hear You Scream | 0.30% | ~188 |
-| Welcome to the Rock | 0.30% | ~188 |
+| No One Can Hear You Scream | 0.30% | ~189 |
+| Welcome to the Rock | 0.30% | ~189 |
 | The Forbidden City | 0.30% | ~290 |
 | Captured! | 0.30% | ~290 |
 | Force Grey Unleashed | 0.30% | ~290 |
@@ -106,17 +106,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.30% | ~290 |
 | Dinosaur Racing | 0.30% | ~290 |
 | Market Fluctuations | 0.30% | ~290 |
-| Hearts Aflame | 0.30% | ~188 |
-| Look Out! | 0.30% | ~188 |
-| Bad Odds in Avernus | 0.30% | ~188 |
-| An Even Worse Time in Avernus | 0.30% | ~188 |
+| Hearts Aflame | 0.30% | ~189 |
+| Look Out! | 0.30% | ~189 |
+| Bad Odds in Avernus | 0.30% | ~189 |
+| An Even Worse Time in Avernus | 0.30% | ~189 |
 | Close Escort | 0.30% | ~290 |
 | The Long Haul | 0.30% | ~290 |
 | Lost in the Deep | 0.30% | ~290 |
 | Easily Distracted | 0.30% | ~290 |
 | Rude Welcome | 0.30% | ~290 |
-| Witty Riposting | 0.30% | ~188 |
-| How Far Away is Thay | 0.30% | ~188 |
+| Witty Riposting | 0.30% | ~189 |
+| How Far Away is Thay | 0.30% | ~189 |
 | The Haunted Jungle | 0.30% | ~290 |
 | Upholding the Law | 0.20% | ~193 |
 | Starving in the Jungle | 0.20% | ~193 |
@@ -160,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.20% | ~126 |
 | Will of the Frozen Feywild | 0.20% | ~126 |
 | The Roots of Loomlurch | 0.20% | ~126 |
+| The Loots of Loomlurch | 0.20% | ~126 |
 | The Lutes of Loomlurch | 0.20% | ~126 |
 | Best Laid Plans | 0.20% | ~126 |
 | Pincushion Party | 0.20% | ~126 |
@@ -236,6 +237,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Corruption | 0.20% | ~193 |
 | The Gargoyle's Apprentice | 0.20% | ~193 |
 | House of Darkness | 0.20% | ~193 |
+| Home Not So Alone | 0.20% | ~126 |
 | The Trepidatious Trio | 0.20% | ~193 |
 | Our Time To Shine | 0.20% | ~193 |
 | Review by the Blackstaff | 0.20% | ~126 |
@@ -305,6 +307,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadow Stalkers | 0.20% | ~126 |
 | Avernus Frozen Over | 0.20% | ~126 |
 | Once More Into The Breach | 0.20% | ~193 |
+| Twice More Into The Breach | 0.20% | ~193 |
 | Thrice More Into The Breach | 0.20% | ~126 |
 | Nightmare Mode | 0.20% | ~126 |
 | Wyllowwood | 0.20% | ~193 |
@@ -426,7 +429,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~63 |
 | The Demon Lords of the Abyss | 0.10% | ~63 |
 | Speed Demons | 0.10% | ~63 |
-| The Loots of Loomlurch | 0.10% | ~63 |
 | G. O. A. T. | 0.10% | ~63 |
 | Strength of Character | 0.10% | ~63 |
 | Between a Brigganock and a Hard Place | 0.10% | ~63 |
@@ -438,7 +440,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~97 |
 | Mongrelfolk Incursion | 0.10% | ~63 |
 | The Strahd Squad | 0.10% | ~63 |
-| Home Not So Alone | 0.10% | ~63 |
 | Red Wizard 'Escort' | 0.10% | ~63 |
 | Spirit of the Trickster Gods | 0.10% | ~63 |
 | A Nod from Strahd | 0.10% | ~63 |
@@ -465,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Temporal Rift in the Goblin Halls | 0.10% | ~63 |
 | The Nimble Grove | 0.10% | ~97 |
 | The Misty Grove | 0.10% | ~63 |
-| Twice More Into The Breach | 0.10% | ~97 |
 | Zapper Overload | 0.10% | ~63 |
 | Best Friend Search Squad! | 0.10% | ~63 |
 | When the Going Gets Tough | 0.10% | ~63 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,532 (Ranked 63)  
+Progressed: 96,585 (Ranked 63)  
 Completed: 1,947 (2.02%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,532 | 1,947 |
+| 2023-06-18 | 96,585 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

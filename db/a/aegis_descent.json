@@ -353,9 +353,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 221
     },
     {
       "ID": "Award_HalfwayThere",
@@ -602,8 +602,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:03:17.0618186+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:03:37.2480727+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:56.8206036+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:58:09.6028729+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:03:17.0618825+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:58:38.2520127+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:03:37.2481337+00:00"
 }

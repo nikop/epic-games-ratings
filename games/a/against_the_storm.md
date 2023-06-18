@@ -8,20 +8,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 3.00% | ~461 |
 | No Deaths | 3.00% | ~461 |
-| Homesick | 2.00% | ~307 |
-| First Real Expedition | 2.00% | ~307 |
-| Overcoming Difficulty | 2.00% | ~307 |
-| Bandit Camp | 2.00% | ~307 |
-| Barren Lands | 2.00% | ~307 |
-| Ancient Battleground | 2.00% | ~307 |
-| Fertile Meadows | 2.00% | ~307 |
-| Lost Colonies | 2.00% | ~307 |
-| Coral Forest | 2.00% | ~307 |
-| Cursed Lands | 2.00% | ~307 |
-| The Scarlet Orchard | 2.00% | ~307 |
-| Taking Action | 2.00% | ~307 |
-| Like a Machine | 2.00% | ~307 |
-| Trade Baron | 2.00% | ~307 |
+| Homesick | 2.00% | ~308 |
+| First Real Expedition | 2.00% | ~308 |
+| Overcoming Difficulty | 2.00% | ~308 |
+| Bandit Camp | 2.00% | ~308 |
+| Barren Lands | 2.00% | ~308 |
+| Ancient Battleground | 2.00% | ~308 |
+| Fertile Meadows | 2.00% | ~308 |
+| Lost Colonies | 2.00% | ~308 |
+| Coral Forest | 2.00% | ~308 |
+| Cursed Lands | 2.00% | ~308 |
+| The Scarlet Orchard | 2.00% | ~308 |
+| Taking Action | 2.00% | ~308 |
+| Like a Machine | 2.00% | ~308 |
+| Trade Baron | 2.00% | ~308 |
 | Serving Ale | 1.00% | ~154 |
 | Refinery | 1.00% | ~154 |
 | Against All Odds | 1.00% | ~154 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.60% | ~92 |
 | Blood Flower Farmer | 0.50% | ~77 |
 | Victory through Prosperity | 0.50% | ~77 |
-| Lizard Utopia | 0.40% | ~61 |
+| Lizard Utopia | 0.40% | ~62 |
 | Feeding The People | 0.30% | ~46 |
 | Beaver Utopia | 0.30% | ~46 |
 | Harpy Utopia | 0.30% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,373 (Ranked 105)  
+Progressed: 15,375 (Ranked 105)  
 Completed: 35 (0.23%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 35 (0.23%) (Ranked 150)
 | 2023-06-15 | 15,329 | 34 |
 | 2023-06-16 | 15,351 | 35 |
 | 2023-06-17 | 15,371 | 35 |
-| 2023-06-18 | 15,373 | 35 |
+| 2023-06-18 | 15,375 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 199)  
 Sum: 3,044 (Ranked 153)  

@@ -668,9 +668,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15425,
+  "EOS_Progressed": 15428,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4238,6 +4238,11 @@
       "Time": "2023-06-18T06:04:22.3313243+00:00",
       "NumProgressed": 15425,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T09:05:16.5483044+00:00",
+      "NumProgressed": 15428,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4353,7 +4358,7 @@
       "Name": "Get a Grip",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -4361,7 +4366,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "KILL_2HEAD",
@@ -4393,7 +4398,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4433,7 +4438,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -4449,7 +4454,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "STORY_HABITAT",
@@ -4568,13 +4573,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15425,
+      "Progressed": 15428,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3351,
+      "Progressed": 3354,
       "Completed": 29
     }
   ],
@@ -4582,8 +4587,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-18T03:57:51.8868865+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:04:37.697919+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:05:16.5483035+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:57:51.76087+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:04:37.6980123+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:58:16.9262446+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:05:16.5483946+00:00"
 }

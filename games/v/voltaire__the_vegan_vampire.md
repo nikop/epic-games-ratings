@@ -15,8 +15,8 @@
 | Shine bright | 9.00% | ~9 |
 | There be sand in me shorts | 8.00% | ~8 |
 | It gets everywhere | 8.00% | ~8 |
+| Make it rain | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
-| Make it rain | 6.00% | ~6 |
 | Do you wanna build a snowboiii? | 5.00% | ~5 |
 | Peaceful skies | 4.00% | ~4 |
 | Groovy! | 4.00% | ~4 |

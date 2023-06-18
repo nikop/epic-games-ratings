@@ -4354,9 +4354,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 96532,
+  "EOS_Progressed": 96585,
   "EOS_Completed": 1947,
-  "EOS_NewPlayers": 6131,
+  "EOS_NewPlayers": 6180,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -10409,6 +10409,11 @@
       "Time": "2023-06-18T08:06:22.1687245+00:00",
       "NumProgressed": 96532,
       "NumCompleted": 1947
+    },
+    {
+      "Time": "2023-06-18T09:07:23.0674937+00:00",
+      "NumProgressed": 96585,
+      "NumCompleted": 1947
     }
   ],
   "TotalAchievements": 493,
@@ -10420,7 +10425,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5792
+      "UsersEstimate": 5795
     },
     {
       "ID": "objective_completed_10",
@@ -10492,7 +10497,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1051",
@@ -10716,7 +10721,7 @@
       "Name": "Third Third Out",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_109",
@@ -10788,7 +10793,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "objective_completed_110",
@@ -10962,9 +10967,9 @@
       "ID": "objective_completed_1138",
       "SetID": "415jc5c",
       "Name": "The Loots of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 126
     },
     {
       "ID": "objective_completed_1139",
@@ -11172,7 +11177,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1178",
@@ -11196,7 +11201,7 @@
       "Name": "Hands Off!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1183",
@@ -11204,7 +11209,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1184",
@@ -11220,7 +11225,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1188",
@@ -11228,7 +11233,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1189",
@@ -11252,7 +11257,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1194",
@@ -11268,7 +11273,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1199",
@@ -11316,7 +11321,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1213",
@@ -11492,7 +11497,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1346",
@@ -11508,7 +11513,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_1351",
@@ -11540,7 +11545,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_150",
@@ -11612,7 +11617,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_165",
@@ -11748,7 +11753,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_20",
@@ -12050,9 +12055,9 @@
       "ID": "objective_completed_281",
       "SetID": "415jc5c",
       "Name": "Home Not So Alone",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 126
     },
     {
       "ID": "objective_completed_283",
@@ -12092,7 +12097,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2898
     },
     {
       "ID": "objective_completed_34",
@@ -12100,7 +12105,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "objective_completed_35",
@@ -12108,7 +12113,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_36",
@@ -12212,7 +12217,7 @@
       "Name": "Seeking Allies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "objective_completed_390",
@@ -12284,7 +12289,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "objective_completed_40",
@@ -12556,7 +12561,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "objective_completed_54",
@@ -12564,7 +12569,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_540",
@@ -12964,7 +12969,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_completed_60",
@@ -13058,9 +13063,9 @@
       "ID": "objective_completed_611",
       "SetID": "cc37lbc",
       "Name": "Twice More Into The Breach",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_completed_612",
@@ -13212,7 +13217,7 @@
       "Name": "Hearts Aflame",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_635",
@@ -13244,7 +13249,7 @@
       "Name": "Look Out!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_640",
@@ -13276,7 +13281,7 @@
       "Name": "Bad Odds in Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_645",
@@ -13308,7 +13313,7 @@
       "Name": "An Even Worse Time in Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_655",
@@ -13564,7 +13569,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "objective_completed_70",
@@ -13916,7 +13921,7 @@
       "Name": "Witty Riposting",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_852",
@@ -13948,7 +13953,7 @@
       "Name": "How Far Away is Thay",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_completed_857",
@@ -14332,7 +14337,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "objective_completed_1356",
@@ -14363,21 +14368,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 62806,
+      "Progressed": 62859,
       "Completed": 2803
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 96532,
+      "Progressed": 96585,
       "Completed": 1947
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T02:21:33.2707789+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:06:22.1687239+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:07:23.0674931+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:58:00.5696746+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:06:22.1714227+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:58:26.6690237+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:07:23.0703549+00:00"
 }

@@ -7,23 +7,23 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~14,428 |
-| The Evilest Evil | 59.00% | ~12,160 |
-| Twistram is devastated | 58.00% | ~11,954 |
+| The Evilest Evil | 59.00% | ~12,161 |
+| Twistram is devastated | 58.00% | ~11,955 |
 | The Gehenna Stones | 50.00% | ~10,306 |
-| No one has to die today! | 47.00% | ~9,687 |
-| Death and destruction! | 46.00% | ~9,481 |
+| No one has to die today! | 47.00% | ~9,688 |
+| Death and destruction! | 46.00% | ~9,482 |
 | The Swamplanders from the swamplands | 44.00% | ~9,069 |
 | Rusty Steel | 42.00% | ~8,657 |
 | The One-Huge-Army-Building Evil | 41.00% | ~8,451 |
-| The last burger | 39.00% | ~8,038 |
-| Braiiiiins! | 38.00% | ~7,832 |
+| The last burger | 39.00% | ~8,039 |
+| Braiiiiins! | 38.00% | ~7,833 |
 | Hands off the Dungeonheart! | 37.00% | ~7,626 |
 | A trip on sea, what fun it can be | 35.00% | ~7,214 |
 | Damned good | 34.00% | ~7,008 |
 | Stock Market Crash | 32.00% | ~6,596 |
 | Factory farming | 32.00% | ~6,596 |
-| Not-So-Overproud | 31.00% | ~6,389 |
-| For a handfull of Catapults | 30.00% | ~6,183 |
+| Not-So-Overproud | 31.00% | ~6,390 |
+| For a handfull of Catapults | 30.00% | ~6,184 |
 | Thirst quencher | 29.00% | ~5,977 |
 | Ogre Solo! | 29.00% | ~5,977 |
 | Shadow hunter | 29.00% | ~5,977 |
@@ -35,16 +35,16 @@ Number of Ratings: 1,635  (23.09.2022)
 | Angel of Fire | 25.00% | ~5,153 |
 | Where there is Light, there is Shadow | 24.00% | ~4,947 |
 | At the foot of Mount Destiny | 23.00% | ~4,741 |
-| The Force disturbed | 22.00% | ~4,534 |
-| The Victorious Evil | 21.00% | ~4,328 |
+| The Force disturbed | 22.00% | ~4,535 |
+| The Victorious Evil | 21.00% | ~4,329 |
 | Chorus of damnation | 20.00% | ~4,122 |
 | We don’t have time! | 20.00% | ~4,122 |
 | The Stones’ Power | 18.00% | ~3,710 |
 | Flat as a pancake | 18.00% | ~3,710 |
 | Lifeguard | 18.00% | ~3,710 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,298 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,679 |
-| Then let them eat cake! | 13.00% | ~2,679 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,680 |
+| Then let them eat cake! | 13.00% | ~2,680 |
 | Please, no interruptions! | 11.00% | ~2,267 |
 | The White Knight | 10.00% | ~2,061 |
 | Use the terrain | 9.00% | ~1,855 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~412 |
 | Sacrifices! | 2.00% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,611 (Ranked 98)  
+Progressed: 20,612 (Ranked 98)  
 Completed: 175 (0.85%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 175 (0.85%) (Ranked 102)
 | 2023-06-15 | 20,327 | 174 |
 | 2023-06-16 | 20,445 | 174 |
 | 2023-06-17 | 20,574 | 175 |
-| 2023-06-18 | 20,611 | 175 |
+| 2023-06-18 | 20,612 | 175 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 224)  
 Sum: 2,564 (Ranked 166)  

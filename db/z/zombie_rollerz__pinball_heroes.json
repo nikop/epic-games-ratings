@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -602,9 +602,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -923,8 +923,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-18T08:06:18.3425173+00:00",
+  "LastChanged_Achievements": "2023-06-18T09:07:18.5810109+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:57:28.9952289+00:00",
-  "LastUpdate_Achievements": "2023-06-18T08:06:18.3426519+00:00"
+  "LastUpdate_Ratings": "2023-06-18T08:57:47.8370025+00:00",
+  "LastUpdate_Achievements": "2023-06-18T09:07:18.5811475+00:00"
 }
