@@ -15,7 +15,7 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.87% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.83% |
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.34% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.11% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.76% |
@@ -60,10 +60,10 @@
 | 58 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.60% |
+| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.58% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
-| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
@@ -71,8 +71,8 @@
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.00% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.99% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 75 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
@@ -101,7 +101,7 @@
 | 99 | [Hades](games/h/hades.md) | 0.89% |
 | 100 | [Adios](games/a/adios.md) | 0.88% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
+| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 103 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 105 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
