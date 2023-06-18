@@ -14,7 +14,7 @@
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
-| 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.87% |
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 21 | [Smelter](games/s/smelter.md) | 8.33% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
@@ -62,8 +62,8 @@
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.60% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 64 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
+| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
@@ -97,7 +97,7 @@
 | 95 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
-| 98 | [Sable](games/s/sable.md) | 0.95% |
+| 98 | [Sable](games/s/sable.md) | 0.94% |
 | 99 | [Hades](games/h/hades.md) | 0.89% |
 | 100 | [Adios](games/a/adios.md) | 0.88% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
@@ -199,20 +199,20 @@
 | 195 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 198 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 198 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 200 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 200 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 200 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 200 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 200 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
 | 200 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 200 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 206 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 206 | [Good Company](games/g/good_company.md) | 0.02% |
-| 206 | [Old World](games/o/old_world.md) | 0.02% |
-| 206 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 206 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 206 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 206 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 207 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 207 | [Good Company](games/g/good_company.md) | 0.02% |
+| 207 | [Old World](games/o/old_world.md) | 0.02% |
+| 207 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 207 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 207 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 207 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 214 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 214 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
