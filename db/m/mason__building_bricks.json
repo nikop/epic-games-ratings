@@ -2,10 +2,10 @@
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
   "ProductSlug": "mason-building-bricks-73659e",
-  "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:22.155756+00:00",
@@ -58,6 +58,11 @@
       "Time": "2023-06-18T08:05:50.2337901+00:00",
       "NumProgressed": 15,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T15:05:24.2837839+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 5,
@@ -67,7 +72,7 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 200,
       "UsersEstimate": 7
     },
@@ -75,7 +80,7 @@
       "ID": "Mason_Arch_01",
       "SetID": "77clh7i",
       "Name": "Arch Mason",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -83,7 +88,7 @@
       "ID": "Mason_Expert_01",
       "SetID": "77clh7i",
       "Name": "Expert Mason",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -91,7 +96,7 @@
       "ID": "Mason_Grand_01",
       "SetID": "77clh7i",
       "Name": "Grand Mason",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -99,16 +104,16 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "77clh7i",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 1
     }
   ],
@@ -116,8 +121,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:06:46.2602374+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:24.2837834+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.7913266+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:00:05.0579234+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:06:46.2602481+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:59:04.3645069+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:24.2837909+00:00"
 }

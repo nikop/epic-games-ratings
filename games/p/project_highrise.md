@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~128 |
+| In the Black | 58.00% | ~129 |
 | Starting Skyward | 52.00% | ~115 |
 | Grime is Not Good | 46.00% | ~102 |
-| Campaign Launch | 39.00% | ~86 |
+| Campaign Launch | 39.00% | ~87 |
 | Floor Galore | 38.00% | ~84 |
 | Dinner Dash | 37.00% | ~82 |
-| Need a Consult | 35.00% | ~77 |
-| It's Technical | 35.00% | ~77 |
+| Need a Consult | 35.00% | ~78 |
+| It's Technical | 35.00% | ~78 |
 | Upgrade Unlock | 33.00% | ~73 |
 | Delegate Maintenance | 33.00% | ~73 |
 | Proper Walls | 31.00% | ~69 |
@@ -21,18 +21,18 @@
 | Your Prestige is Rising | 22.00% | ~49 |
 | Potent Potables | 22.00% | ~49 |
 | Retail Revenue | 22.00% | ~49 |
-| Lux Living | 21.00% | ~46 |
-| Leveled Up Shops | 21.00% | ~46 |
+| Lux Living | 21.00% | ~47 |
+| Leveled Up Shops | 21.00% | ~47 |
 | Don't Feel a Loan | 20.00% | ~44 |
 | People Mover | 20.00% | ~44 |
 | Emporium Empire | 20.00% | ~44 |
 | Get Electrified | 20.00% | ~44 |
-| Rehab Expert | 19.00% | ~42 |
 | Artfully Done | 18.00% | ~40 |
+| Rehab Expert | 18.00% | ~40 |
 | Tasty Profits | 18.00% | ~40 |
 | We Don't Need No Education | 18.00% | ~40 |
-| Under One Roof | 16.00% | ~35 |
-| Cashflow Chief | 16.00% | ~35 |
+| Under One Roof | 16.00% | ~36 |
+| Cashflow Chief | 16.00% | ~36 |
 | Established Fame | 15.00% | ~33 |
 | Terrifically Trashed | 15.00% | ~33 |
 | Starred Dining | 14.00% | ~31 |
@@ -41,8 +41,8 @@
 | Swimming in Surplus | 13.00% | ~29 |
 | Smooth Operator | 12.00% | ~27 |
 | 28 Days Later | 11.00% | ~24 |
-| Master of Puppets | 10.00% | ~22 |
 | Plaza Plan | 9.00% | ~20 |
+| Master of Puppets | 9.00% | ~20 |
 | Refined Palates | 9.00% | ~20 |
 | Revenue Royalty | 9.00% | ~20 |
 | First 100 Days | 8.00% | ~18 |
@@ -50,8 +50,8 @@
 | Maximum Reuse | 8.00% | ~18 |
 | Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
-| Meet Me at HQ | 7.00% | ~15 |
-| Profound Proceeds | 7.00% | ~15 |
+| Meet Me at HQ | 7.00% | ~16 |
+| Profound Proceeds | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~13 |
 | Penthouse in the Sky | 6.00% | ~13 |
 | I'm Busy Ruling | 6.00% | ~13 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 249)  
+Progressed: 222 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 219 | 0 |
 | 2023-06-16 | 220 | 0 |
 | 2023-06-17 | 221 | 0 |
+| 2023-06-18 | 222 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

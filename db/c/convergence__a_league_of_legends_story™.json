@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 705,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1690,9 +1690,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "SkillCompletion1",
@@ -1809,8 +1809,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:06:31.6947344+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:13.7454462+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:00:07.7016736+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:06:31.6947873+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:59:06.5272944+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:13.7455+00:00"
 }

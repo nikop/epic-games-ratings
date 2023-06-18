@@ -5,30 +5,30 @@ Rating: 4.18 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,931 |
+| First Step Into the Knight | 6.00% | ~3,932 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,621 |
 | Loose Ends | 4.00% | ~2,621 |
 | To the Victor Go the Spoils | 3.00% | ~1,966 |
 | Get ReQ'd | 3.00% | ~1,966 |
 | Knighthood | 3.00% | ~1,966 |
 | Whispered Words | 3.00% | ~1,966 |
-| The Batman Family | 2.00% | ~1,310 |
-| In Your Element | 2.00% | ~1,310 |
-| Protector of Gotham | 2.00% | ~1,310 |
-| Something in the Clay | 2.00% | ~1,310 |
-| The Show Mud Go On | 2.00% | ~1,310 |
-| Rock and a Hard Place | 2.00% | ~1,310 |
-| Shock Til They Drop | 2.00% | ~1,310 |
-| Quartzer Life Crisis | 2.00% | ~1,310 |
-| Snow Problem | 2.00% | ~1,310 |
-| Cooldown | 2.00% | ~1,310 |
-| Working Hard or Harley Working? | 2.00% | ~1,310 |
-| Universal Health Scare | 2.00% | ~1,310 |
-| Unstoppable Force | 2.00% | ~1,310 |
-| Lock and Key | 2.00% | ~1,310 |
-| Bad Apples in Every Orchard | 2.00% | ~1,310 |
-| From Inside Gotham's Walls | 2.00% | ~1,310 |
-| Voiceless | 2.00% | ~1,310 |
+| The Batman Family | 2.00% | ~1,311 |
+| In Your Element | 2.00% | ~1,311 |
+| Protector of Gotham | 2.00% | ~1,311 |
+| Something in the Clay | 2.00% | ~1,311 |
+| The Show Mud Go On | 2.00% | ~1,311 |
+| Rock and a Hard Place | 2.00% | ~1,311 |
+| Shock Til They Drop | 2.00% | ~1,311 |
+| Quartzer Life Crisis | 2.00% | ~1,311 |
+| Snow Problem | 2.00% | ~1,311 |
+| Cooldown | 2.00% | ~1,311 |
+| Working Hard or Harley Working? | 2.00% | ~1,311 |
+| Universal Health Scare | 2.00% | ~1,311 |
+| Unstoppable Force | 2.00% | ~1,311 |
+| Lock and Key | 2.00% | ~1,311 |
+| Bad Apples in Every Orchard | 2.00% | ~1,311 |
+| From Inside Gotham's Walls | 2.00% | ~1,311 |
+| Voiceless | 2.00% | ~1,311 |
 | End of an Era | 1.00% | ~655 |
 | Not On My Watch | 1.00% | ~655 |
 | Bulldozed | 1.00% | ~655 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,523 (Ranked 70)  
+Progressed: 65,530 (Ranked 70)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-15 | 65,217 | 95 |
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
-| 2023-06-18 | 65,523 | 95 |
+| 2023-06-18 | 65,530 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,346  (Ranked 98)  
 Sum: 3,884 (Ranked 137)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1281,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2133,6 +2133,11 @@
       "Time": "2023-06-18T14:04:49.9697638+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T15:03:59.4489313+00:00",
+      "NumProgressed": 1281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2296,7 +2301,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2320,7 +2325,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2390,9 +2395,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 320
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2438,9 +2443,9 @@
       "ID": "NEW_ACHIEVEMENT_PLUMBER",
       "SetID": "l546gc",
       "Name": "Plumber",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -2527,7 +2532,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1281,
       "Completed": 0
     }
   ],
@@ -2535,8 +2540,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-16T13:03:21.7324195+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:04:49.9697631+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:03:59.4489308+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.7999055+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:57:46.8349147+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:04:49.9698124+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:57:25.2251531+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:03:59.4489841+00:00"
 }

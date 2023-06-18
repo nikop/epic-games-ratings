@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-06-17T00:08:04.2203042+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T15:05:54.212947+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -389,7 +394,7 @@
       "Name": "Lux Living",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_apartments_2",
@@ -413,7 +418,7 @@
       "Name": "Under One Roof",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_art",
@@ -461,7 +466,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_campaigns_1",
@@ -509,7 +514,7 @@
       "Name": "Need a Consult",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_consultant_1",
@@ -723,9 +728,9 @@
       "ID": "ach_grime_2",
       "SetID": "b8gh1fi",
       "Name": "Rehab Expert",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_happy",
@@ -773,7 +778,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_office_2",
@@ -781,7 +786,7 @@
       "Name": "Meet Me at HQ",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_plaza",
@@ -803,9 +808,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_prestige_1",
@@ -837,7 +842,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_profit_1",
@@ -853,7 +858,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_recycling_1",
@@ -933,7 +938,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_retail_4",
@@ -949,7 +954,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_revs_2",
@@ -1076,7 +1081,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
@@ -1084,8 +1089,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:07:22.2159877+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:54.2129464+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.7118249+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:58:33.196913+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:07:22.2160898+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:58:00.9084976+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:54.2130535+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -936,9 +936,9 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "OUTHOUSE_1",
@@ -960,9 +960,9 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SKELETON_1",
@@ -1023,8 +1023,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:07:14.8542229+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:47.5993027+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.3676907+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:57:28.6253756+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:07:14.8544451+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:57:11.5300921+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:47.599397+00:00"
 }

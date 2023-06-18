@@ -4,8 +4,8 @@
   "ProductSlug": "project-pastorate-6e8765",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-12T04:00:00+00:00",
     "PcReleaseDate": "2018-05-31T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.8932795+00:00",
   "LastChanged": "2023-03-31T05:58:08.8932796+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:58.1267372+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:01:26.4381238+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:06:31.492272+00:00"
+  "LastUpdate_Ratings": "2023-06-18T15:00:03.4242478+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:13.4799701+00:00"
 }

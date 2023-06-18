@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Believer | 52.00% | ~141 |
+| Believer | 53.00% | ~144 |
 | Origin | 48.00% | ~131 |
 | End | 45.00% | ~122 |
-| Nonconsensual | 30.00% | ~82 |
+| Nonconsensual | 31.00% | ~84 |
 | Realist | 27.00% | ~73 |
 | Escape | 18.00% | ~49 |
 | Wrong | 16.00% | ~44 |

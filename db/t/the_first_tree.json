@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32327,
+  "EOS_Progressed": 32328,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5498,6 +5498,11 @@
       "Time": "2023-06-18T14:06:53.6811573+00:00",
       "NumProgressed": 32327,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-18T15:05:29.9409807+00:00",
+      "NumProgressed": 32328,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -5557,7 +5562,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "completionist",
@@ -5597,7 +5602,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25215
+      "UsersEstimate": 25216
     },
     {
       "ID": "roots",
@@ -5620,15 +5625,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32327,
+      "Progressed": 32328,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:06:53.6811563+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:29.94098+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.4402273+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:01:06.3195171+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:06:53.6811913+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:59:51.1600009+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:29.9410252+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,257 |
-| Landlord | 30.00% | ~16,047 |
-| Bannerlord | 21.00% | ~11,233 |
-| Horde breaker | 21.00% | ~11,233 |
-| Lawmaker | 21.00% | ~11,233 |
-| Trained | 20.00% | ~10,698 |
-| The king is pleased | 17.00% | ~9,093 |
-| King Solomon | 16.00% | ~8,559 |
-| I can do it | 15.00% | ~8,024 |
-| Apple of my eye | 14.00% | ~7,489 |
-| God of the Arena | 12.00% | ~6,419 |
-| Against all odds | 10.00% | ~5,349 |
-| Duelist | 9.00% | ~4,814 |
-| Swordbearer | 9.00% | ~4,814 |
-| Dynasty | 8.00% | ~4,279 |
-| I spit on your grave | 8.00% | ~4,279 |
-| What have the Romans ever done for us? | 8.00% | ~4,279 |
-| Butterlord | 7.00% | ~3,744 |
-| Mastery | 7.00% | ~3,744 |
-| This Is Our Land | 7.00% | ~3,744 |
-| Know your enemy | 6.00% | ~3,209 |
+| Lawbringer | 36.00% | ~19,262 |
+| Landlord | 30.00% | ~16,052 |
+| Bannerlord | 21.00% | ~11,236 |
+| Horde breaker | 21.00% | ~11,236 |
+| Lawmaker | 21.00% | ~11,236 |
+| Trained | 20.00% | ~10,701 |
+| The king is pleased | 17.00% | ~9,096 |
+| King Solomon | 16.00% | ~8,561 |
+| I can do it | 15.00% | ~8,026 |
+| Apple of my eye | 14.00% | ~7,491 |
+| God of the Arena | 12.00% | ~6,421 |
+| Against all odds | 10.00% | ~5,351 |
+| Duelist | 9.00% | ~4,816 |
+| Swordbearer | 9.00% | ~4,816 |
+| Dynasty | 8.00% | ~4,280 |
+| I spit on your grave | 8.00% | ~4,280 |
+| What have the Romans ever done for us? | 8.00% | ~4,280 |
+| Butterlord | 7.00% | ~3,745 |
+| Mastery | 7.00% | ~3,745 |
+| This Is Our Land | 7.00% | ~3,745 |
+| Know your enemy | 6.00% | ~3,210 |
 | Crowdfunded | 4.00% | ~2,140 |
 | Crush your enemies | 4.00% | ~2,140 |
 | My way | 4.00% | ~2,140 |
@@ -39,26 +39,26 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crackshot | 0.80% | ~428 |
 | Undercover | 0.80% | ~428 |
 | Fat Cat | 0.60% | ~321 |
-| Catch | 0.50% | ~267 |
+| Catch | 0.50% | ~268 |
 | Slice 'n dice | 0.40% | ~214 |
-| Mounted Archery | 0.30% | ~160 |
-| Ride it like you stole it | 0.30% | ~160 |
+| Mounted Archery | 0.30% | ~161 |
+| Ride it like you stole it | 0.30% | ~161 |
 | Strike! | 0.20% | ~107 |
-| Best served cold | 0.10% | ~53 |
-| Butcher of Calradia | 0.10% | ~53 |
-| Explorer | 0.10% | ~53 |
-| Great Granny | 0.10% | ~53 |
-| Headhunter | 0.10% | ~53 |
-| Heartbreaker | 0.10% | ~53 |
-| Kingslayer | 0.10% | ~53 |
-| Lance-a-lot | 0.10% | ~53 |
-| Minor Clan | 0.10% | ~53 |
-| Roadkill | 0.10% | ~53 |
-| This is Sparta! | 0.10% | ~53 |
+| Best served cold | 0.10% | ~54 |
+| Butcher of Calradia | 0.10% | ~54 |
+| Explorer | 0.10% | ~54 |
+| Great Granny | 0.10% | ~54 |
+| Headhunter | 0.10% | ~54 |
+| Heartbreaker | 0.10% | ~54 |
+| Kingslayer | 0.10% | ~54 |
+| Lance-a-lot | 0.10% | ~54 |
+| Minor Clan | 0.10% | ~54 |
+| Roadkill | 0.10% | ~54 |
+| This is Sparta! | 0.10% | ~54 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,491 (Ranked 80)  
+Progressed: 53,506 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 53,261 | 0 |
 | 2023-06-16 | 53,345 | 0 |
 | 2023-06-17 | 53,430 | 0 |
-| 2023-06-18 | 53,491 | 0 |
+| 2023-06-18 | 53,506 | 0 |
 ## Awards
 Max (Character Customization): 6,679  (Ranked 49)  
-Sum: 13,430 (Ranked 68)  
+Sum: 13,431 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -128,7 +128,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 855 |
 | This game has Diverse Characters | 832 |
 | This game is Highly Recommended | 795 |
-| This game is Extremely Fun | 762 |
+| This game is Extremely Fun | 763 |
 | This game has Amazing Storytelling | 752 |
 | This game has Quickly Understood Controls | 740 |
 | This game has Amazing Characters | 736 |
@@ -293,4 +293,4 @@ Diff (max vs sum): -19
 | 2023-06-15 | 4.75 | - | 6,667 | 13,401 |
 | 2023-06-16 | 4.75 | - | 6,672 | 13,413 |
 | 2023-06-17 | 4.75 | - | 6,679 | 13,428 |
-| 2023-06-18 | 4.75 | - | 6,679 | 13,430 |
+| 2023-06-18 | 4.75 | - | 6,679 | 13,431 |

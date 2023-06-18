@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2375,
+  "EOS_Progressed": 2376,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2023-06-18T14:07:10.7304718+00:00",
       "NumProgressed": 2375,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T15:05:43.8965596+00:00",
+      "NumProgressed": 2376,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2758,7 +2763,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2772,9 +2777,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1830
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2798,7 +2803,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2870,7 +2875,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2878,7 +2883,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2910,7 +2915,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2926,7 +2931,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2934,7 +2939,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2942,7 +2947,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2998,7 +3003,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3117,7 +3122,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2375,
+      "Progressed": 2376,
       "Completed": 2
     }
   ],
@@ -3125,8 +3130,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:07:10.7304709+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:05:43.8965591+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:57:58.9048716+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:07:10.7305255+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:57:35.2654712+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:05:43.8966256+00:00"
 }

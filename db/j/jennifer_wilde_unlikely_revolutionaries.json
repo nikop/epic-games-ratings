@@ -3,9 +3,9 @@
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -220,25 +220,25 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 19,
-      "XP": 100,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "NEW_ACHIEVEMENT_1_6",
-      "SetID": "1ejicho",
-      "Name": "Electrician",
       "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 7
     },
     {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "1ejicho",
+      "Name": "Electrician",
+      "Percentage": 26,
+      "XP": 100,
+      "UsersEstimate": 8
+    },
+    {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -267,8 +267,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:03:50.9036629+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:03:22.0521282+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:45.1782862+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:59:47.5949963+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:03:50.9036713+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:58:53.426331+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:03:22.0521401+00:00"
 }

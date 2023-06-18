@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -638,9 +638,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "only_thyme_will_tell",
@@ -695,8 +695,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:04:40.4921972+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:03:52.2964751+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.7198283+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:58:34.5390735+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:04:40.4922118+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:58:02.0109169+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:03:52.2964906+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.59 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,729 |
-| Realm Estate | 76.00% | ~3,587 |
-| Secret Technique | 75.00% | ~3,540 |
-| Walls Cannot Stop Us | 74.00% | ~3,493 |
-| From Friends to Family | 69.00% | ~3,257 |
-| Magical Synergy | 66.00% | ~3,115 |
-| Bone Peddler | 61.00% | ~2,879 |
-| Stronger Together | 57.00% | ~2,690 |
-| Full Ascension | 56.00% | ~2,643 |
-| There Can Only Be One! | 49.00% | ~2,313 |
-| Seat of Power | 49.00% | ~2,313 |
-| My Final Form | 45.00% | ~2,124 |
-| Intimidation Tactics | 45.00% | ~2,124 |
-| Valley of Wonders | 43.00% | ~2,030 |
-| In a Liege of Your Own | 39.00% | ~1,841 |
-| Return of the Wizard King | 32.00% | ~1,510 |
-| Digging for Treasure | 32.00% | ~1,510 |
-| Against the Odds | 32.00% | ~1,510 |
-| Enchanted Archipelago | 29.00% | ~1,369 |
+| A Wonderful Discovery | 79.00% | ~3,731 |
+| Realm Estate | 76.00% | ~3,589 |
+| Secret Technique | 75.00% | ~3,542 |
+| Walls Cannot Stop Us | 74.00% | ~3,495 |
+| From Friends to Family | 69.00% | ~3,259 |
+| Magical Synergy | 66.00% | ~3,117 |
+| Bone Peddler | 61.00% | ~2,881 |
+| Stronger Together | 57.00% | ~2,692 |
+| Full Ascension | 56.00% | ~2,645 |
+| There Can Only Be One! | 49.00% | ~2,314 |
+| Seat of Power | 49.00% | ~2,314 |
+| My Final Form | 45.00% | ~2,125 |
+| Intimidation Tactics | 45.00% | ~2,125 |
+| Valley of Wonders | 43.00% | ~2,031 |
+| In a Liege of Your Own | 39.00% | ~1,842 |
+| Return of the Wizard King | 32.00% | ~1,511 |
+| Digging for Treasure | 32.00% | ~1,511 |
+| Against the Odds | 32.00% | ~1,511 |
+| Enchanted Archipelago | 29.00% | ~1,370 |
 | Impenetrable Fortress | 28.00% | ~1,322 |
-| The Magic That Empowers Me! | 21.00% | ~991 |
-| Preparation Is Everything | 21.00% | ~991 |
-| Arch Mage | 20.00% | ~944 |
+| The Magic That Empowers Me! | 21.00% | ~992 |
+| Preparation Is Everything | 21.00% | ~992 |
+| Arch Mage | 20.00% | ~945 |
 | God Emperor | 19.00% | ~897 |
 | Eternal Lord | 18.00% | ~850 |
 | Crimson Caldera | 18.00% | ~850 |
@@ -38,7 +38,7 @@ Rating: 4.59 (Ranked 411)
 | The Eternal Court | 10.00% | ~472 |
 | Jack of All Tomes | 10.00% | ~472 |
 | Pruning for Progress | 10.00% | ~472 |
-| I've Got Everything I Need Right Here | 7.00% | ~330 |
+| I've Got Everything I Need Right Here | 7.00% | ~331 |
 | Grexolis | 5.00% | ~236 |
 | One for All, All for One | 5.00% | ~236 |
 | Betrayal Most Foul | 5.00% | ~236 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 411)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,720 (Ranked 131)  
+Progressed: 4,723 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 3 (0.06%) (Ranked 190)
 | 2023-06-15 | 4,678 | 3 |
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
-| 2023-06-18 | 4,720 | 3 |
+| 2023-06-18 | 4,723 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

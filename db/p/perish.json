@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1388,6 +1388,11 @@
       "Time": "2023-06-17T23:03:28.1102066+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T15:03:29.4282449+00:00",
+      "NumProgressed": 3001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1413,9 +1418,9 @@
       "ID": "ACH_B_FS",
       "SetID": "b3fep3o",
       "Name": "Wayward Son of Hephaestus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_B_K",
@@ -1813,9 +1818,9 @@
       "ID": "ACH_TF",
       "SetID": "b3fep3o",
       "Name": "Baby Crabs They Ain\u0027t",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_TOTN",
@@ -1902,7 +1907,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3001,
       "Completed": 0
     }
   ],
@@ -1910,8 +1915,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-06-18T14:04:10.6761233+00:00",
+  "LastChanged_Achievements": "2023-06-18T15:03:29.4282443+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:18.4280452+00:00",
-  "LastUpdate_Ratings": "2023-06-18T14:00:31.5283369+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:04:10.6761895+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:59:24.9006166+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:03:29.4283131+00:00"
 }

@@ -13,11 +13,11 @@
 | Ka-Ching! | 32.00% | ~14 |
 | Stop Right There | 30.00% | ~13 |
 | Get to the Point | 25.00% | ~11 |
+| Toe to Toe | 14.00% | ~6 |
 | Phew! | 14.00% | ~6 |
 | Mr. Want It All | 11.00% | ~5 |
-| Toe to Toe | 11.00% | ~5 |
+| The Hidden Secret | 9.00% | ~4 |
 | Grand Escape | 7.00% | ~3 |
-| The Hidden Secret | 7.00% | ~3 |
 | The Abyss Conqueror | 5.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
 | Space Warrior: Prologue | 5.00% | ~2 |

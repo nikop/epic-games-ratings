@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -4673,10 +4673,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 29483,
       "NumberOfAwardsMax": 12517
+    },
+    {
+      "Time": "2023-06-18T14:57:42.875629+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 29489,
+      "NumberOfAwardsMax": 12517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29483,
+  "NumberOfAwards": 29489,
   "NumberOfAwardsMax": 12517,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4702,13 +4708,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2081
+      "Count": 2082
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1939
+      "Count": 1941
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4744,7 +4750,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1524
+      "Count": 1527
     }
   ],
   "EOS_Progressed": 0,
@@ -4758,8 +4764,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-06-18T08:58:07.3647084+00:00",
+  "LastChanged": "2023-06-18T14:57:42.8756288+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:28.7968714+00:00",
-  "LastUpdate_Ratings": "2023-06-18T13:58:10.6098055+00:00",
-  "LastUpdate_Achievements": "2023-06-18T14:05:20.831298+00:00"
+  "LastUpdate_Ratings": "2023-06-18T14:57:42.8756296+00:00",
+  "LastUpdate_Achievements": "2023-06-18T15:04:22.5871094+00:00"
 }

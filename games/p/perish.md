@@ -26,7 +26,6 @@
 | Divine Assemblage | 3.00% | ~90 |
 | Ophiolatreia | 3.00% | ~90 |
 | Comedy and Tragedy | 2.00% | ~60 |
-| Wayward Son of Hephaestus | 2.00% | ~60 |
 | Forged in Fire | 2.00% | ~60 |
 | Chthonic Investor | 2.00% | ~60 |
 | First Fragment | 2.00% | ~60 |
@@ -34,12 +33,12 @@
 | Labour of Apollo | 2.00% | ~60 |
 | Vandili | 2.00% | ~60 |
 | Cloaca Maxima | 2.00% | ~60 |
-| Baby Crabs They Ain't | 2.00% | ~60 |
 | Halls of Marble | 2.00% | ~60 |
 | Mors Omnibus | 2.00% | ~60 |
 | Blot Out the Sky | 2.00% | ~60 |
 | Serpentine | 2.00% | ~60 |
 | The Nameless One | 1.00% | ~30 |
+| Wayward Son of Hephaestus | 1.00% | ~30 |
 | Lament of the Constellations | 1.00% | ~30 |
 | Rule of Thirds | 1.00% | ~30 |
 | Rock and a Hard Place | 1.00% | ~30 |
@@ -52,6 +51,7 @@
 | The Archimedes Principle | 1.00% | ~30 |
 | Rites at Sea | 1.00% | ~30 |
 | Close Shut the Doors | 1.00% | ~30 |
+| Baby Crabs They Ain't | 1.00% | ~30 |
 | Scrap Metal | 1.00% | ~30 |
 | Invicta | 0.80% | ~24 |
 | Athenian Treasury | 0.70% | ~21 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,000 (Ranked 145)  
+Progressed: 3,001 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 2,986 | 0 |
 | 2023-06-16 | 2,994 | 0 |
 | 2023-06-17 | 3,000 | 0 |
+| 2023-06-18 | 3,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

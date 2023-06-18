@@ -8,7 +8,7 @@
 | The Routine | 79.00% | ~85 |
 | Mother | 77.00% | ~82 |
 | Failure | 75.00% | ~80 |
-| Replace Fuse | 65.00% | ~70 |
+| Replace Fuse | 66.00% | ~71 |
 | Alarm | 64.00% | ~68 |
 | Air Filtration | 63.00% | ~67 |
 | Broken | 61.00% | ~65 |
@@ -16,13 +16,13 @@
 | Descent | 58.00% | ~62 |
 | Awakenings | 57.00% | ~61 |
 | Cold Storage | 57.00% | ~61 |
+| Sam | 51.00% | ~55 |
 | Churchill | 50.00% | ~54 |
-| Sam | 50.00% | ~54 |
-| Doctor | 49.00% | ~52 |
+| Doctor | 50.00% | ~54 |
+| Commissioner | 49.00% | ~52 |
 | Leave | 48.00% | ~51 |
-| Commissioner | 48.00% | ~51 |
 | Engineer | 48.00% | ~51 |
-| Soldier | 47.00% | ~50 |
+| Soldier | 48.00% | ~51 |
 | Press Play | 36.00% | ~39 |
 | General | 24.00% | ~26 |
 | Bookworm | 22.00% | ~24 |
@@ -34,7 +34,7 @@
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 284)  
-Completed: 3 (2.80%) (Ranked 55)  
+Completed: 3 (2.80%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
