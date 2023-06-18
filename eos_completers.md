@@ -24,11 +24,11 @@
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.14% |
 | 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.05% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.91% |
-| 29 | [Scorn](games/s/scorn.md) | 6.86% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.05% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.91% |
+| 28 | [Scorn](games/s/scorn.md) | 6.86% |
+| 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.67% |
 | 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.45% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
