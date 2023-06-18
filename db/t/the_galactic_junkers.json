@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "A_Board_10_Ships",
       "SetID": "56632p4",
       "Name": "Notorious Pirate",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_Board_1_Ship",
@@ -345,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:02:22.6508818+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:02:27.265344+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.899244+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:58:45.5725998+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:02:22.6508972+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:58:45.8713084+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:02:27.2653605+00:00"
 }

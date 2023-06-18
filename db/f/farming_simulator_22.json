@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5763,7 +5763,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44236,
+  "EOS_Progressed": 44237,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
@@ -10783,6 +10783,11 @@
       "Time": "2023-06-18T00:07:31.2416295+00:00",
       "NumProgressed": 44236,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-18T05:05:46.1771398+00:00",
+      "NumProgressed": 44237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10794,7 +10799,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "BreedCows",
@@ -10874,7 +10879,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28311
+      "UsersEstimate": 28312
     },
     {
       "ID": "CutTree",
@@ -10890,7 +10895,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26984
+      "UsersEstimate": 26985
     },
     {
       "ID": "DeliveryGrapes",
@@ -10930,7 +10935,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26984
+      "UsersEstimate": 26985
     },
     {
       "ID": "Harvested",
@@ -10938,7 +10943,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "HarvestedFirst",
@@ -10946,7 +10951,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33619
+      "UsersEstimate": 33620
     },
     {
       "ID": "HorseJumps",
@@ -11002,7 +11007,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23445
+      "UsersEstimate": 23446
     },
     {
       "ID": "NumBeehives",
@@ -11018,7 +11023,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17694
+      "UsersEstimate": 17695
     },
     {
       "ID": "NumPlaceables",
@@ -11098,7 +11103,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19021
+      "UsersEstimate": 19022
     },
     {
       "ID": "TruckDriving",
@@ -11114,7 +11119,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11501
+      "UsersEstimate": 11502
     },
     {
       "ID": "VehicleRepair",
@@ -11137,15 +11142,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44236,
+      "Progressed": 44237,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-18T03:14:23.5169678+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:48.5538247+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:46.1771394+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:14.3676072+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:59:24.9455986+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:48.5538878+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:59:24.8707748+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:46.1771869+00:00"
 }

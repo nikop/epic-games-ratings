@@ -668,9 +668,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15423,
+  "EOS_Progressed": 15424,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4228,6 +4228,11 @@
       "Time": "2023-06-18T04:04:12.1281381+00:00",
       "NumProgressed": 15423,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-18T05:04:17.4245046+00:00",
+      "NumProgressed": 15424,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4335,7 +4340,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -4431,7 +4436,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4535,7 +4540,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -4558,13 +4563,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15423,
+      "Progressed": 15424,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3349,
+      "Progressed": 3350,
       "Completed": 29
     }
   ],
@@ -4572,8 +4577,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-18T03:57:51.8868865+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:04:12.1281376+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:04:17.4245042+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:57:51.8868874+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:04:12.1281934+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:57:51.8796426+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:04:17.4245464+00:00"
 }

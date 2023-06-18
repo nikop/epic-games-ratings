@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 14.94,
+  "EOS_Completed_Percentage": 14.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1573,6 +1573,11 @@
       "Time": "2023-06-18T02:29:48.8991235+00:00",
       "NumProgressed": 348,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-18T05:05:32.5308361+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 22,
@@ -1584,7 +1589,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "LEVEL_002",
@@ -1592,7 +1597,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_003",
@@ -1624,7 +1629,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_007",
@@ -1640,7 +1645,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_009",
@@ -1648,7 +1653,7 @@
       "Name": "Who loves trains?",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_010",
@@ -1686,9 +1691,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_015",
@@ -1734,9 +1739,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_021",
@@ -1759,7 +1764,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 52
     }
   ],
@@ -1767,8 +1772,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:35.0842431+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:32.5308358+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.6609834+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:57:58.5025115+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:35.0842728+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:57:58.6831691+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:32.5308533+00:00"
 }

@@ -25,7 +25,7 @@
 | Challenge 12 | 2.00% | ~2 |
 | Pooshed Past 10000 | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 278)  
+Progressed: 125 (Ranked 279)  
 Completed: 2 (1.60%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

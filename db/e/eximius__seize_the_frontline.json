@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189498,
+  "EOS_Progressed": 189500,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6362,6 +6362,11 @@
       "Time": "2023-06-18T04:05:37.3474107+00:00",
       "NumProgressed": 189498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-18T05:05:35.059878+00:00",
+      "NumProgressed": 189500,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -6381,7 +6386,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134544
+      "UsersEstimate": 134545
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -6413,7 +6418,7 @@
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
@@ -6429,7 +6434,7 @@
       "Name": "Many More to Come",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
@@ -6469,7 +6474,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -6500,7 +6505,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 189498,
+      "Progressed": 189500,
       "Completed": 4
     }
   ],
@@ -6508,8 +6513,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:37.3474104+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:35.0598777+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.1083099+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:59:25.7031268+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:37.3474597+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:59:25.6784913+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:35.0599134+00:00"
 }

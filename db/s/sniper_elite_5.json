@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2983,
+  "EOS_Progressed": 2984,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -3846,6 +3846,11 @@
       "Time": "2023-06-18T03:21:17.0542619+00:00",
       "NumProgressed": 2983,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-18T05:05:52.3502931+00:00",
+      "NumProgressed": 2984,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3913,7 +3918,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3977,7 +3982,7 @@
       "Name": "Gunslinger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -4049,7 +4054,7 @@
       "Name": "My Little Friend",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -4081,7 +4086,7 @@
       "Name": "Resourceful",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4105,7 +4110,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4424,13 +4429,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 2
     }
   ],
@@ -4438,8 +4443,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-17T16:01:16.5934353+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:54.6519201+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:52.3502928+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T04:00:09.0750924+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:54.6520109+00:00"
+  "LastUpdate_Ratings": "2023-06-18T05:00:13.1480521+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:52.3503601+00:00"
 }

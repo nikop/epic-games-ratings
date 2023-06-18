@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "I_think_its_broke",
@@ -456,9 +456,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "Lady_Luck",
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:00:16.2907191+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:00:21.1602731+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.1262224+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:57:38.0822932+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:00:16.2907558+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:57:37.3773275+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:00:21.1602956+00:00"
 }

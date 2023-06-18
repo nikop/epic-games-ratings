@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~621 |
-| Space Colonization | 80.00% | ~512 |
+| Don't Panic! | 97.00% | ~622 |
+| Space Colonization | 80.00% | ~513 |
 | Friendzone | 79.00% | ~506 |
 | Hello World | 74.00% | ~474 |
-| Space Engineer | 63.00% | ~403 |
-| Tinkerer | 63.00% | ~403 |
+| Space Engineer | 63.00% | ~404 |
+| Tinkerer | 63.00% | ~404 |
 | Dust to Dust | 57.00% | ~365 |
 | Across The Stars | 47.00% | ~301 |
 | Crafty | 45.00% | ~288 |
-| All Seats Taken | 36.00% | ~230 |
+| All Seats Taken | 36.00% | ~231 |
 | For Science! | 32.00% | ~205 |
-| Meet the Petersons | 31.00% | ~198 |
-| Stay Cool | 28.00% | ~179 |
+| Meet the Petersons | 31.00% | ~199 |
+| Stay Cool | 27.00% | ~173 |
 | KIA | 25.00% | ~160 |
 | Mutiny in making | 23.00% | ~147 |
 | Et tu, Astrocitizen? | 19.00% | ~122 |
 | Eco-Shuttle | 18.00% | ~115 |
 | Space Explorer | 15.00% | ~96 |
 | Hands Full | 12.00% | ~77 |
-| Gold Medalist | 11.00% | ~70 |
-| Non-Fiction | 11.00% | ~70 |
+| Gold Medalist | 11.00% | ~71 |
+| Non-Fiction | 11.00% | ~71 |
 | No Man Left Behind | 9.00% | ~58 |
 | Fix-It Felix | 7.00% | ~45 |
 | Intergalactic Breakup | 7.00% | ~45 |
@@ -35,8 +35,8 @@
 | Extreme Makeover | 4.00% | ~26 |
 | The Improvinator | 4.00% | ~26 |
 | The Last Supper | 3.00% | ~19 |
-| 2018: A Soup Odyssey | 3.00% | ~19 |
 | Bovine Domain | 2.00% | ~13 |
+| 2018: A Soup Odyssey | 2.00% | ~13 |
 | That's No Moon! | 2.00% | ~13 |
 | AAARGH! | 1.00% | ~6 |
 | Feels like home | 1.00% | ~6 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 199)  
+Progressed: 641 (Ranked 199)  
 Completed: 1 (0.16%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 1 (0.16%) (Ranked 160)
 | 2023-06-15 | 635 | 1 |
 | 2023-06-16 | 638 | 1 |
 | 2023-06-17 | 640 | 1 |
+| 2023-06-18 | 641 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,781 |
-| The Cursed Farmer | 3.00% | ~2,890 |
-| Beast Intentions | 2.00% | ~1,927 |
-| The Mad Wizard | 2.00% | ~1,927 |
-| The Ring of Regeneration | 1.00% | ~963 |
-| Seeking Allies | 1.00% | ~963 |
-| Are Ya Chicken? | 1.00% | ~963 |
+| A Brief Tour of the Realms | 6.00% | ~5,783 |
+| The Cursed Farmer | 3.00% | ~2,892 |
+| Beast Intentions | 2.00% | ~1,928 |
+| The Mad Wizard | 2.00% | ~1,928 |
+| The Ring of Regeneration | 1.00% | ~964 |
+| Seeking Allies | 1.00% | ~964 |
+| Are Ya Chicken? | 1.00% | ~964 |
 | Were-verpowered | 0.90% | ~867 |
 | The Court of Storms | 0.90% | ~564 |
 | Mad Cow Disease | 0.80% | ~771 |
 | Friendly Imps | 0.80% | ~771 |
-| A Persistent Buzzing | 0.70% | ~674 |
-| Pure Energy | 0.70% | ~674 |
-| Beware the Jabberwock | 0.70% | ~438 |
+| A Persistent Buzzing | 0.70% | ~675 |
+| Pure Energy | 0.70% | ~675 |
+| Beware the Jabberwock | 0.70% | ~439 |
 | Terror in the Dark | 0.60% | ~578 |
 | A Mysterious Summons | 0.60% | ~578 |
 | Unearthed Evil | 0.60% | ~578 |
@@ -37,27 +37,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.50% | ~482 |
 | Escort to Waterdeep | 0.50% | ~482 |
 | Waterdeep Detours | 0.50% | ~482 |
+| Underdeep Cartography | 0.50% | ~482 |
 | Quick or Quack | 0.50% | ~313 |
-| The Silken Swamp | 0.40% | ~385 |
-| Owlbear Necessities | 0.40% | ~250 |
-| Best Thay Ever | 0.40% | ~250 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~250 |
-| Pin and Skewer | 0.40% | ~250 |
-| Street War | 0.40% | ~385 |
-| March of the Undead | 0.40% | ~385 |
-| No Time To Rest | 0.40% | ~385 |
-| The Dinner Party | 0.40% | ~385 |
-| The Botched Kidnapping | 0.40% | ~385 |
-| Trollskull Manor | 0.40% | ~385 |
-| The Death Curse | 0.40% | ~385 |
-| Premature Betrayal | 0.40% | ~385 |
-| A Tale of Two Cities | 0.40% | ~385 |
-| Flying Monkey Skulls of Doom | 0.40% | ~385 |
-| Constant Banditry | 0.40% | ~385 |
-| Underdeep Cartography | 0.40% | ~385 |
-| Overdue Rendezvous | 0.40% | ~385 |
-| The Templar's Camp | 0.40% | ~385 |
-| Rescue in the Jungle | 0.40% | ~385 |
+| The Silken Swamp | 0.40% | ~386 |
+| Owlbear Necessities | 0.40% | ~251 |
+| Best Thay Ever | 0.40% | ~251 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~251 |
+| Pin and Skewer | 0.40% | ~251 |
+| Street War | 0.40% | ~386 |
+| March of the Undead | 0.40% | ~386 |
+| No Time To Rest | 0.40% | ~386 |
+| The Dinner Party | 0.40% | ~386 |
+| The Botched Kidnapping | 0.40% | ~386 |
+| Trollskull Manor | 0.40% | ~386 |
+| The Death Curse | 0.40% | ~386 |
+| Premature Betrayal | 0.40% | ~386 |
+| A Tale of Two Cities | 0.40% | ~386 |
+| Flying Monkey Skulls of Doom | 0.40% | ~386 |
+| Constant Banditry | 0.40% | ~386 |
+| Overdue Rendezvous | 0.40% | ~386 |
+| The Templar's Camp | 0.40% | ~386 |
+| Rescue in the Jungle | 0.40% | ~386 |
 | Pros and CONs | 0.30% | ~289 |
 | Tall Tales | 0.30% | ~188 |
 | Third Third Out | 0.30% | ~188 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~63 |
 | Ineffectual Intellectuals | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,346 (Ranked 63)  
+Progressed: 96,385 (Ranked 63)  
 Completed: 1,947 (2.02%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1,947 (2.02%) (Ranked 72)
 | 2023-06-15 | 92,003 | 1,938 |
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
-| 2023-06-18 | 96,346 | 1,947 |
+| 2023-06-18 | 96,385 | 1,947 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,132 (Ranked 37)  

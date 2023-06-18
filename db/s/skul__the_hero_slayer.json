@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -854,7 +854,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7838,
+  "EOS_Progressed": 7839,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -3019,6 +3019,11 @@
       "Time": "2023-06-18T03:20:54.1007949+00:00",
       "NumProgressed": 7838,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-18T05:05:34.6497682+00:00",
+      "NumProgressed": 7839,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3030,7 +3035,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "Chatterbox",
@@ -3118,7 +3123,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "LeoniasFall",
@@ -3190,7 +3195,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7289
+      "UsersEstimate": 7290
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3206,7 +3211,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "WhattoBuy",
@@ -3221,15 +3226,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7838,
+      "Progressed": 7839,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-17T05:58:47.3305683+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:37.1832452+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:34.6497679+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:58:46.2124386+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:37.1832761+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:58:46.6170226+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:34.64979+00:00"
 }

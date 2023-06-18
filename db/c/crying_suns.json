@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 460897,
+  "EOS_Progressed": 460900,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6385,6 +6385,11 @@
       "Time": "2023-06-18T03:21:23.6304637+00:00",
       "NumProgressed": 460897,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-18T05:05:57.4812387+00:00",
+      "NumProgressed": 460900,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6850,9 +6855,9 @@
       "ID": "achievement_win_expedition_without_monster_noloss",
       "SetID": "8cokdon",
       "Name": "Careful planning",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 1383
     },
     {
       "ID": "achievement_win_run_hard",
@@ -7027,21 +7032,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4831,
+      "Progressed": 4834,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460897,
+      "Progressed": 460900,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:05:59.8241492+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:05:57.4812381+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:54.1590462+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:59:05.0983218+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:05:59.8242715+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:59:03.7686151+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:05:57.4813331+00:00"
 }

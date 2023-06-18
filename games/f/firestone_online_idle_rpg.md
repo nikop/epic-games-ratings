@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,343 |
-| World Map | 80.00% | ~1,143 |
+| Victor | 94.00% | ~1,344 |
+| World Map | 80.00% | ~1,144 |
 | Temple of Eternals | 57.00% | ~815 |
-| Prestigious | 53.00% | ~757 |
+| Prestigious | 53.00% | ~758 |
 | Fellowship Power | 41.00% | ~586 |
 | Guild Power | 24.00% | ~343 |
 | Prestigious x10 | 21.00% | ~300 |
@@ -22,8 +22,8 @@ Rating: 4.05 (Ranked 897)
 | Enlightenment | 13.00% | ~186 |
 | Hero inspection | 13.00% | ~186 |
 | Lieutenant | 13.00% | ~186 |
-| Natural Talent | 12.00% | ~171 |
-| The Unstoppable | 12.00% | ~171 |
+| Natural Talent | 12.00% | ~172 |
+| The Unstoppable | 12.00% | ~172 |
 | Milestone collector | 11.00% | ~157 |
 | Mysterious Rock | 11.00% | ~157 |
 | Superior | 11.00% | ~157 |
@@ -41,13 +41,13 @@ Rating: 4.05 (Ranked 897)
 | Moving Up The Ladder | 7.00% | ~100 |
 | Here We Go Again | 6.00% | ~86 |
 | Trader | 6.00% | ~86 |
-| Ancient Knowledge | 5.00% | ~71 |
-| How Do You Turn This On? | 5.00% | ~71 |
-| Master Enchanter | 5.00% | ~71 |
-| Missions Dedication | 5.00% | ~71 |
-| The Expeditioner | 5.00% | ~71 |
-| The father of Dragons | 5.00% | ~71 |
-| Weekly Quest Completionist | 5.00% | ~71 |
+| Ancient Knowledge | 5.00% | ~72 |
+| How Do You Turn This On? | 5.00% | ~72 |
+| Master Enchanter | 5.00% | ~72 |
+| Missions Dedication | 5.00% | ~72 |
+| The Expeditioner | 5.00% | ~72 |
+| The father of Dragons | 5.00% | ~72 |
+| Weekly Quest Completionist | 5.00% | ~72 |
 | Background Story | 4.00% | ~57 |
 | Crystal Mining | 4.00% | ~57 |
 | Dragon Slayer | 4.00% | ~57 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 897)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,429 (Ranked 166)  
+Progressed: 1,430 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.07%) (Ranked 188)
 | 2023-06-15 | 1,405 | 1 |
 | 2023-06-16 | 1,412 | 1 |
 | 2023-06-17 | 1,427 | 1 |
-| 2023-06-18 | 1,429 | 1 |
+| 2023-06-18 | 1,430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

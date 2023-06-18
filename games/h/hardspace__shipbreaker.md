@@ -12,7 +12,7 @@ Number of Ratings: 36  (23.09.2022)
 | I can fix it! | 63.00% | ~491 |
 | Post No Bills | 55.00% | ~428 |
 | Truly Shocking! | 47.00% | ~366 |
-| Critical Thinker | 34.00% | ~265 |
+| Critical Thinker | 35.00% | ~273 |
 | Always Finding Your Mark | 29.00% | ~226 |
 | The Weight of the World | 28.00% | ~218 |
 | Act I Complete | 27.00% | ~210 |

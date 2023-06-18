@@ -39,8 +39,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~154 |
 | Into the Forest | 1.00% | ~154 |
 | Ruined Armory | 0.90% | ~138 |
+| Forbidden Lands | 0.90% | ~138 |
 | Defying the Crown | 0.90% | ~138 |
-| Forbidden Lands | 0.80% | ~123 |
 | Fishmen Ritual Site | 0.70% | ~108 |
 | Efficient Explorer | 0.60% | ~92 |
 | Prestigious Expedition | 0.60% | ~92 |

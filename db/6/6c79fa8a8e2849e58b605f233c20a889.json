@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
@@ -2211,6 +2211,11 @@
       "Time": "2023-06-18T04:03:46.944035+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T05:03:51.2001215+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2222,7 +2227,7 @@
       "Name": "Aggressor",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AI_DRAW",
@@ -2302,7 +2307,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2318,7 +2323,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GRASSHOPPER",
@@ -2397,14 +2402,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-18T04:03:46.9440346+00:00",
+  "LastChanged_Achievements": "2023-06-18T05:03:51.2001211+00:00",
   "LastUpdate_AppInfo": "2023-06-13T15:57:05.3814447+00:00",
-  "LastUpdate_Ratings": "2023-06-18T03:57:12.6655903+00:00",
-  "LastUpdate_Achievements": "2023-06-18T04:03:46.9440633+00:00"
+  "LastUpdate_Ratings": "2023-06-18T04:57:10.2497814+00:00",
+  "LastUpdate_Achievements": "2023-06-18T05:03:51.2001427+00:00"
 }
