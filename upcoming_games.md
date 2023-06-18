@@ -6,6 +6,7 @@
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | - |  | - | - |
 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-20 | 20 (1,000 XP) | 0 | - | - |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 2023-06-21 | 53 (1,000 XP) | 3 | - | - |
+| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2023-06-22 | 42 (1,000 XP) | 1 | - | - |
 | [Mars Colonization](games/2/2e32af4418934f70a72e6a64d4813806.md) | 2023-06-22 | - |  | - | - |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2023-06-22 | - |  | - | - |
@@ -251,7 +252,6 @@
 | [Field Hospital: Dr. Taylor's Story](games/f/field_hospital__dr._taylor's_story.md) | 2099-01-01 | - |  | - | - |
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | - |  | - | - |
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
-| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
 | [FrontlineGrunt](games/a/ad2063ad8cea49618dfd85af4c2aaf1f.md) | 2099-01-01 | - |  | - | - |
@@ -402,7 +402,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,804 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,805 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |

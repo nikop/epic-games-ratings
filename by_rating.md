@@ -16,7 +16,7 @@
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 497 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 497 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 497 |
-| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 413 | 202 |
+| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 414 | 201 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,041 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 260 | 242 |
@@ -94,7 +94,7 @@
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 497 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 645 | 166 |
 | 89 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,155 | 130 |
-| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,890 | 55 |
+| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,891 | 55 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 373 | 211 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 497 |
@@ -184,7 +184,7 @@
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 497 |
 | 181 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 343 | 218 |
 | 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 497 |
-| 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,491 | 50 |
+| 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,498 | 50 |
 | 181 | [Fez](games/f/fez.md) | 4.71 | 23 | 476 |
 | 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 432 |
 | 181 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,251 | 45 |
@@ -204,7 +204,7 @@
 | 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 394 |
 | 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,301 | 123 |
 | 195 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.70 | 0 | 497 |
-| 195 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,845 | 107 |
+| 195 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,846 | 107 |
 | 195 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 497 |
 | 195 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 453 |
 | 195 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 497 |
@@ -477,7 +477,7 @@
 | 475 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 497 |
 | 475 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 497 |
 | 475 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 497 |
-| 475 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,241 | 127 |
+| 475 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,245 | 127 |
 | 475 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 210 | 259 |
 | 475 | [Hue](games/h/hue.md) | 4.55 | 0 | 497 |
 | 475 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 70 | 368 |
@@ -517,7 +517,7 @@
 | 514 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 748 | 155 |
 | 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,602 | 15 |
 | 514 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 485 |
-| 514 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 508 | 187 |
+| 514 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 509 | 187 |
 | 514 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.52 | 0 | 497 |
 | 514 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 328 |
 | 514 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 291 |
@@ -715,21 +715,21 @@
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 497 |
 | 707 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 85 | 347 |
 | 707 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 442 |
+| 716 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 497 |
 | 716 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,138 | 104 |
 | 716 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
 | 716 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 401 |
 | 716 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 96 | 333 |
 | 716 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 419 |
-| 721 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
-| 721 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 497 |
-| 721 | [Core](games/c/core.md) | 4.36 | 736 | 156 |
-| 721 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 281 |
-| 721 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 497 |
-| 721 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,517 | 27 |
-| 721 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
-| 721 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
-| 721 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 497 |
-| 721 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
+| 722 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
+| 722 | [Core](games/c/core.md) | 4.36 | 736 | 156 |
+| 722 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 281 |
+| 722 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 497 |
+| 722 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,517 | 27 |
+| 722 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
+| 722 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
+| 722 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 497 |
+| 722 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
 | 731 | [Ashen](games/a/ashen.md) | 4.35 | 0 | 497 |
 | 731 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 497 |
 | 731 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 95 | 336 |

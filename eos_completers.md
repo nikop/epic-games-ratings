@@ -39,14 +39,14 @@
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.11% |
-| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 43 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.63% |
+| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.62% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.36% |
-| 47 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
+| 47 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.25% |
 | 49 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 50 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.14% |
@@ -60,12 +60,12 @@
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
-| 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 64 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.45% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.31% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 68 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 69 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
