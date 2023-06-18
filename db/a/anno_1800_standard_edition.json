@@ -3,12 +3,12 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 74,
-  "Ranking_Popularity": 120,
+  "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5424,10 +5424,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 10760,
       "NumberOfAwardsMax": 1384
+    },
+    {
+      "Time": "2023-06-18T07:57:38.3978107+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 10764,
+      "NumberOfAwardsMax": 1384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10760,
+  "NumberOfAwards": 10764,
   "NumberOfAwardsMax": 1384,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5435,7 +5441,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1285
+      "Count": 1289
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5509,8 +5515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-06-18T04:57:38.7963853+00:00",
+  "LastChanged": "2023-06-18T07:57:38.3978105+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:23.6265869+00:00",
-  "LastUpdate_Ratings": "2023-06-18T06:57:43.9408678+00:00",
-  "LastUpdate_Achievements": "2023-06-18T07:03:56.5364388+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:57:38.3978113+00:00",
+  "LastUpdate_Achievements": "2023-06-18T08:04:00.7670949+00:00"
 }

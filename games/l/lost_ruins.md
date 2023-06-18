@@ -30,8 +30,8 @@
 | Spell Master | 4.00% | ~15 |
 | Arrive Home | 3.00% | ~12 |
 | Holy Knight | 3.00% | ~12 |
+| Hoarder | 3.00% | ~12 |
 | Marksman | 3.00% | ~12 |
-| Hoarder | 2.00% | ~8 |
 | Meat Lover | 2.00% | ~8 |
 | Sling of David | 2.00% | ~8 |
 | Sword Master | 2.00% | ~8 |

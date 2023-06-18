@@ -1,36 +1,36 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 180)  
+Rating: 4.71 (Ranked 181)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,368 |
-| Cavalier | 25.00% | ~197,071 |
-| Fatso | 23.00% | ~181,306 |
-| Awakening | 20.00% | ~157,657 |
-| Ranger | 20.00% | ~157,657 |
-| Scrooge | 20.00% | ~157,657 |
-| Anorectic | 16.00% | ~126,126 |
-| Firestarter | 15.00% | ~118,243 |
-| Bookworm | 14.00% | ~110,360 |
-| Insomniac | 13.00% | ~102,477 |
-| Thief | 12.00% | ~94,594 |
-| Buddy | 11.00% | ~86,711 |
-| Sinner | 11.00% | ~86,711 |
-| Convict | 10.00% | ~78,828 |
-| Traveller | 10.00% | ~78,828 |
+| Blacksmith's Son | 31.00% | ~244,371 |
+| Cavalier | 25.00% | ~197,073 |
+| Fatso | 23.00% | ~181,307 |
+| Awakening | 20.00% | ~157,659 |
+| Ranger | 20.00% | ~157,659 |
+| Scrooge | 20.00% | ~157,659 |
+| Anorectic | 16.00% | ~126,127 |
+| Firestarter | 15.00% | ~118,244 |
+| Bookworm | 14.00% | ~110,361 |
+| Insomniac | 13.00% | ~102,478 |
+| Thief | 12.00% | ~94,595 |
+| Buddy | 11.00% | ~86,712 |
+| Sinner | 11.00% | ~86,712 |
+| Convict | 10.00% | ~78,829 |
+| Traveller | 10.00% | ~78,829 |
 | Haggler | 9.00% | ~70,946 |
-| McLovin | 7.00% | ~55,180 |
-| Runt | 7.00% | ~55,180 |
-| Casanova | 6.00% | ~47,297 |
-| Bad Trip | 5.00% | ~39,414 |
-| Monk | 5.00% | ~39,414 |
-| Serial Killer | 5.00% | ~39,414 |
-| Bastard | 4.00% | ~31,531 |
-| Hunter | 4.00% | ~31,531 |
-| Plague Doctor | 4.00% | ~31,531 |
+| McLovin | 7.00% | ~55,181 |
+| Runt | 7.00% | ~55,181 |
+| Casanova | 6.00% | ~47,298 |
+| Bad Trip | 5.00% | ~39,415 |
+| Monk | 5.00% | ~39,415 |
+| Serial Killer | 5.00% | ~39,415 |
+| Bastard | 4.00% | ~31,532 |
+| Hunter | 4.00% | ~31,532 |
+| Plague Doctor | 4.00% | ~31,532 |
 | Bard | 3.00% | ~23,649 |
 | Conqueror | 3.00% | ~23,649 |
 | Ginger in a Pickle | 3.00% | ~23,649 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~788 |
 | Wingman | 0.10% | ~788 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788,285 (Ranked 15)  
+Progressed: 788,293 (Ranked 15)  
 Completed: 41 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 41 (0.01%) (Ranked 215)
 | 2023-06-15 | 787,861 | 41 |
 | 2023-06-16 | 788,042 | 41 |
 | 2023-06-17 | 788,248 | 41 |
-| 2023-06-18 | 788,285 | 41 |
+| 2023-06-18 | 788,293 | 41 |
 ## Awards
 Max (Character Customization): 7,251  (Ranked 45)  
 Sum: 27,076 (Ranked 43)  

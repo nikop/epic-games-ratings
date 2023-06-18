@@ -1,33 +1,33 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 423)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,748 |
-| Uncharted Territory | 89.00% | ~205,579 |
-| Getting A Glimpse | 73.00% | ~168,621 |
-| A Quick Escape | 65.00% | ~150,142 |
+| First Steps | 96.00% | ~221,749 |
+| Uncharted Territory | 89.00% | ~205,580 |
+| Getting A Glimpse | 73.00% | ~168,622 |
+| A Quick Escape | 65.00% | ~150,143 |
 | Explorer | 62.00% | ~143,213 |
 | Defeat The Dark | 61.00% | ~140,903 |
 | An Offering | 61.00% | ~140,903 |
-| Colorful Corpse | 58.00% | ~133,973 |
-| That Was Quick | 56.00% | ~129,353 |
-| A Donation | 56.00% | ~129,353 |
+| Colorful Corpse | 58.00% | ~133,974 |
+| That Was Quick | 56.00% | ~129,354 |
+| A Donation | 56.00% | ~129,354 |
 | Goodbye, Frog Friend | 54.00% | ~124,734 |
 | Heavy Hitter | 53.00% | ~122,424 |
-| Heartless | 46.00% | ~106,254 |
-| Spine Breaker | 46.00% | ~106,254 |
+| Heartless | 46.00% | ~106,255 |
+| Spine Breaker | 46.00% | ~106,255 |
 | Deflection | 45.00% | ~103,945 |
 | Sneaky | 43.00% | ~99,325 |
 | Delving Deeper | 42.00% | ~97,015 |
 | Ambitious Intent | 41.00% | ~94,705 |
 | C-C-Combo | 41.00% | ~94,705 |
-| The Bestiary | 40.00% | ~92,395 |
-| Nothing To Lose | 39.00% | ~90,085 |
-| What's Yours Is Mine | 38.00% | ~87,775 |
+| The Bestiary | 40.00% | ~92,396 |
+| Nothing To Lose | 39.00% | ~90,086 |
+| What's Yours Is Mine | 38.00% | ~87,776 |
 | R.I.P | 36.00% | ~83,156 |
 | Shootout | 35.00% | ~80,846 |
 | Cold Hearted | 34.00% | ~78,536 |
@@ -57,7 +57,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 16.00% | ~36,958 |
 | Spreading Plague | 15.00% | ~34,648 |
 | The Long Run | 14.00% | ~32,338 |
-| A Rough Road | 13.00% | ~30,028 |
+| A Rough Road | 13.00% | ~30,029 |
 | Berzerker | 12.00% | ~27,719 |
 | Chain Reaction | 12.00% | ~27,719 |
 | Antivenom | 11.00% | ~25,409 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~924 |
 | Near Death Experience | 0.30% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,988 (Ranked 45)  
+Progressed: 230,989 (Ranked 45)  
 Completed: 240 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,11 +188,11 @@ Completed: 240 (0.10%) (Ranked 173)
 | 2023-06-15 | 230,828 | 239 |
 | 2023-06-16 | 230,891 | 239 |
 | 2023-06-17 | 230,969 | 240 |
-| 2023-06-18 | 230,988 | 240 |
+| 2023-06-18 | 230,989 | 240 |
 ## Awards
-Max (Quickly Understood Controls): 1,479  (Ranked 117)  
+Max (Quickly Understood Controls): 1,479  (Ranked 118)  
 Sum: 12,926 (Ranked 69)  
-Diff (max vs sum): 48  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,479 |

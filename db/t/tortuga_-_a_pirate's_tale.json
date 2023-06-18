@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15738,
+  "EOS_Progressed": 15739,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -2436,6 +2436,11 @@
       "Time": "2023-06-18T06:05:55.3884516+00:00",
       "NumProgressed": 15738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-18T08:06:08.7845701+00:00",
+      "NumProgressed": 15739,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2447,7 +2452,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "ACH001",
@@ -2455,7 +2460,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13692
+      "UsersEstimate": 13693
     },
     {
       "ID": "ACH0010",
@@ -2527,7 +2532,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ACH0019",
@@ -2543,7 +2548,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11331
+      "UsersEstimate": 11332
     },
     {
       "ID": "ACH0020",
@@ -2607,7 +2612,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13849
+      "UsersEstimate": 13850
     },
     {
       "ID": "ACH005",
@@ -2654,7 +2659,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15738,
+      "Progressed": 15739,
       "Completed": 0
     }
   ],
@@ -2662,8 +2667,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-16T22:00:35.1733965+00:00",
-  "LastChanged_Achievements": "2023-06-18T07:06:08.2704537+00:00",
+  "LastChanged_Achievements": "2023-06-18T08:06:08.7845696+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.6656293+00:00",
-  "LastUpdate_Ratings": "2023-06-18T07:00:11.705773+00:00",
-  "LastUpdate_Achievements": "2023-06-18T07:06:08.2704844+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:59:59.1682815+00:00",
+  "LastUpdate_Achievements": "2023-06-18T08:06:08.7846228+00:00"
 }

@@ -23,8 +23,8 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 10.00% | ~18 |
 | Jawstag | 10.00% | ~60 |
 | Shapely | 9.00% | ~54 |
+| Celebration | 9.00% | ~54 |
 | Watcher | 9.00% | ~54 |
-| Celebration | 8.00% | ~48 |
 | Inevitable | 8.00% | ~48 |
 | Predator | 8.00% | ~48 |
 | Dream | 8.00% | ~14 |

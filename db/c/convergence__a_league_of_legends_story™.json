@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1653,9 +1653,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "RewindDamage1",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-18T07:05:39.1709906+00:00",
+  "LastChanged_Achievements": "2023-06-18T08:05:39.9877166+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-18T06:59:21.46048+00:00",
-  "LastUpdate_Achievements": "2023-06-18T07:05:39.1710433+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:59:14.8359081+00:00",
+  "LastUpdate_Achievements": "2023-06-18T08:05:39.9878125+00:00"
 }

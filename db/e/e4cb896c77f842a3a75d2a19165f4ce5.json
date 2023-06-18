@@ -316,9 +316,9 @@
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LEVEL_006",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-18T07:03:11.3611815+00:00",
+  "LastChanged_Achievements": "2023-06-18T08:03:16.4326995+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.6953056+00:00",
-  "LastUpdate_Ratings": "2023-06-18T06:57:08.2309884+00:00",
-  "LastUpdate_Achievements": "2023-06-18T07:03:11.3611943+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:57:02.9878998+00:00",
+  "LastUpdate_Achievements": "2023-06-18T08:03:16.4327172+00:00"
 }

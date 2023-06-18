@@ -1,7 +1,7 @@
 # Against All Odds
 [Store](https://store.epicgames.com/en-US/p/against-all-odds-409105)  
 [View Rawdata](../../db/a/against_all_odds.json)  
-Rating: 4.28 (Ranked 782)  
+Rating: 4.29 (Ranked 774)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -28,3 +28,4 @@ Rating: 4.28 (Ranked 782)
 | 2023-06-10 | 4.28 | 0 | 0 |
 | 2023-06-11 | 4.29 | 0 | 0 |
 | 2023-06-15 | 4.28 | 0 | 0 |
+| 2023-06-18 | 4.29 | 0 | 0 |

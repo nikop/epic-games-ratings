@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1873,6 +1873,11 @@
       "Time": "2023-06-18T00:02:13.7443101+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-18T08:00:41.6422289+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 51,
@@ -1900,7 +1905,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1940,7 +1945,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CHAOS_THEORY",
@@ -1996,7 +2001,7 @@
       "Name": "Limp Richard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2052,7 +2057,7 @@
       "Name": "Experienced",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "FIRESTARTER",
@@ -2100,7 +2105,7 @@
       "Name": "Giant Killer",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "GOAL",
@@ -2116,7 +2121,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2132,7 +2137,7 @@
       "Name": "I am the law!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "INFILTRATOR",
@@ -2164,7 +2169,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2172,7 +2177,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2196,7 +2201,7 @@
       "Name": "Recycler",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "RUTHLESS",
@@ -2220,7 +2225,7 @@
       "Name": "Sensei",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2236,7 +2241,7 @@
       "Name": "Side Order",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -2291,7 +2296,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 1
     }
   ],
@@ -2299,8 +2304,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-17T13:58:49.4245922+00:00",
-  "LastChanged_Achievements": "2023-06-18T07:00:54.0035971+00:00",
+  "LastChanged_Achievements": "2023-06-18T08:00:41.642228+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-18T06:58:21.3956225+00:00",
-  "LastUpdate_Achievements": "2023-06-18T07:00:54.0036559+00:00"
+  "LastUpdate_Ratings": "2023-06-18T07:58:12.7554305+00:00",
+  "LastUpdate_Achievements": "2023-06-18T08:00:41.6423234+00:00"
 }

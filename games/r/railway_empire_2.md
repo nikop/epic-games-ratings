@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.28 (Ranked 782)  
+Rating: 4.28 (Ranked 783)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,8 +37,8 @@ Rating: 4.28 (Ranked 782)
 | Seven at one stroke | 22.00% | ~276 |
 | Trailblazer | 18.00% | ~226 |
 | Traffic Jam | 17.00% | ~213 |
+| Traffic Junction | 17.00% | ~213 |
 | Breaking Ground | 17.00% | ~213 |
-| Traffic Junction | 16.00% | ~200 |
 | Assimilated | 15.00% | ~188 |
 | Locusts | 15.00% | ~188 |
 | Networker | 15.00% | ~188 |

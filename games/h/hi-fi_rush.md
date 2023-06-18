@@ -22,8 +22,8 @@ Rating: 4.89 (Ranked 13)
 | Does that say weakpoint? | 41.00% | ~1,339 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,274 |
 | The Negotiator | 37.00% | ~1,209 |
-| You must like calling me in, Chai | 32.00% | ~1,045 |
-| Out in a puff of smoke | 32.00% | ~1,045 |
+| You must like calling me in, Chai | 33.00% | ~1,078 |
+| Out in a puff of smoke | 33.00% | ~1,078 |
 | Headliner | 31.00% | ~1,013 |
 | Time to pay up! | 29.00% | ~947 |
 | Who's the boss now? | 28.00% | ~915 |

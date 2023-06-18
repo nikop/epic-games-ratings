@@ -13,7 +13,7 @@ Rating: 4.59 (Ranked 411)
 | Magical Synergy | 66.00% | ~3,111 |
 | Bone Peddler | 61.00% | ~2,876 |
 | Stronger Together | 57.00% | ~2,687 |
-| Full Ascension | 55.00% | ~2,593 |
+| Full Ascension | 56.00% | ~2,640 |
 | There Can Only Be One! | 49.00% | ~2,310 |
 | Seat of Power | 49.00% | ~2,310 |
 | My Final Form | 45.00% | ~2,121 |
