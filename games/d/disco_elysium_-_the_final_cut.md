@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,133 |
-| Biggest Communism Builder | 24.00% | ~29,257 |
-| The World's Most Laughable Centrist | 20.00% | ~24,381 |
+| Goodest Of The Good Cops | 28.00% | ~34,134 |
+| Biggest Communism Builder | 24.00% | ~29,258 |
+| The World's Most Laughable Centrist | 20.00% | ~24,382 |
 | Il Coppo Del'Arte! | 18.00% | ~21,943 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,505 |
 | Hyperstellar Law Official | 15.00% | ~18,286 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,067 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,848 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,848 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,409 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,971 |
-| Unbelievably Boring **** | 8.00% | ~9,752 |
-| Enemy Of The Physical Realm | 8.00% | ~9,752 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,410 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,972 |
+| Unbelievably Boring **** | 8.00% | ~9,753 |
+| Enemy Of The Physical Realm | 8.00% | ~9,753 |
 | Hardie's Heroes | 6.00% | ~7,314 |
 | The Lawbringer | 4.00% | ~4,876 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,876 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,904 (Ranked 59)  
+Progressed: 121,908 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,11 +107,11 @@ Completed: 25 (0.02%) (Ranked 207)
 | 2023-06-16 | 121,694 | 25 |
 | 2023-06-17 | 121,769 | 25 |
 | 2023-06-18 | 121,858 | 25 |
-| 2023-06-19 | 121,904 | 25 |
+| 2023-06-19 | 121,908 | 25 |
 ## Awards
-Max (Character Customization): 697  (Ranked 160)  
+Max (Character Customization): 697  (Ranked 159)  
 Sum: 1,057 (Ranked 232)  
-Diff (max vs sum): -72  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 697 |

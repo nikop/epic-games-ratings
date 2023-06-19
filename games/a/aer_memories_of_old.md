@@ -6,7 +6,7 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~9,803 |
+| Light at the end of the tunnel | 76.00% | ~9,805 |
 | Mama? | 28.00% | ~3,612 |
 | People's Haven | 19.00% | ~2,451 |
 | Cartographer | 17.00% | ~2,193 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~774 |
 | Hide and Seek | 5.00% | ~645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,899 (Ranked 109)  
+Progressed: 12,901 (Ranked 109)  
 Completed: 268 (2.08%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 268 (2.08%) (Ranked 73)
 | 2023-06-16 | 12,583 | 263 |
 | 2023-06-17 | 12,704 | 265 |
 | 2023-06-18 | 12,821 | 266 |
-| 2023-06-19 | 12,899 | 268 |
+| 2023-06-19 | 12,901 | 268 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -38,9 +38,9 @@
 | Getting Started | 5.00% | ~6 |
 | Master Survivor | 5.00% | ~4 |
 | Bring Home The Bacon | 4.00% | ~5 |
+| Chick Magnet | 3.00% | ~4 |
 | Early Bird | 3.00% | ~4 |
 | Heart Breaker | 3.00% | ~2 |
-| Chick Magnet | 2.00% | ~3 |
 | Honk Honk | 2.00% | ~3 |
 | I Have The High Ground | 2.00% | ~3 |
 | Pro Pyromancer | 2.00% | ~3 |

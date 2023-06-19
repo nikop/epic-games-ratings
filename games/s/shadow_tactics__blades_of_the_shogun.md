@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,853 |
-| Thorough | 9.00% | ~16,068 |
-| A thief's beginning | 8.00% | ~14,283 |
-| Disguised | 7.00% | ~12,497 |
-| Rollin' | 7.00% | ~12,497 |
-| Tanuki Time | 7.00% | ~12,497 |
-| Ice Ice Yuki | 6.00% | ~10,712 |
-| Jonin | 6.00% | ~10,712 |
-| Rescue Takuma | 6.00% | ~10,712 |
-| Stoned Ox | 6.00% | ~10,712 |
-| Yabu | 6.00% | ~10,712 |
+| Genin | 10.00% | ~17,854 |
+| Thorough | 9.00% | ~16,069 |
+| A thief's beginning | 8.00% | ~14,284 |
+| Disguised | 7.00% | ~12,498 |
+| Rollin' | 7.00% | ~12,498 |
+| Tanuki Time | 7.00% | ~12,498 |
+| Ice Ice Yuki | 6.00% | ~10,713 |
+| Jonin | 6.00% | ~10,713 |
+| Rescue Takuma | 6.00% | ~10,713 |
+| Stoned Ox | 6.00% | ~10,713 |
+| Yabu | 6.00% | ~10,713 |
 | Chunin | 5.00% | ~8,927 |
 | Flying Rocks | 5.00% | ~8,927 |
 | Happy Planning | 5.00% | ~8,927 |
 | Mugen Unchained | 5.00% | ~8,927 |
 | Warzone | 5.00% | ~8,927 |
-| Okkoto | 4.00% | ~7,141 |
-| Prisoners | 4.00% | ~7,141 |
-| Too Early | 4.00% | ~7,141 |
+| Okkoto | 4.00% | ~7,142 |
+| Prisoners | 4.00% | ~7,142 |
+| Too Early | 4.00% | ~7,142 |
 | Gear up | 3.00% | ~5,356 |
 | Happy little accidents | 3.00% | ~5,356 |
 | Noboru | 3.00% | ~5,356 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~179 |
 | Release the Kraken | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,533 (Ranked 56)  
+Progressed: 178,545 (Ranked 56)  
 Completed: 54 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,10 +111,10 @@ Completed: 54 (0.03%) (Ranked 200)
 | 2023-06-16 | 177,609 | 52 |
 | 2023-06-17 | 177,969 | 53 |
 | 2023-06-18 | 178,321 | 53 |
-| 2023-06-19 | 178,533 | 54 |
+| 2023-06-19 | 178,545 | 54 |
 ## Awards
-Max (Great for Beginners): 551  (Ranked 181)  
-Sum: 4,685 (Ranked 127)  
+Max (Great for Beginners): 551  (Ranked 180)  
+Sum: 4,685 (Ranked 126)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |

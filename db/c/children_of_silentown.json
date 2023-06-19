@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Well",
@@ -404,8 +404,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:32.6274916+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:05:59.8839529+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:37.8164693+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:01:12.74153+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:32.6275305+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:00:07.7539202+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:05:59.8839739+00:00"
 }

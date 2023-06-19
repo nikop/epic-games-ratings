@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 920,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2124,9 +2124,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67257,
+  "EOS_Progressed": 67260,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8429,6 +8429,11 @@
       "Time": "2023-06-19T19:07:33.8205368+00:00",
       "NumProgressed": 67257,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-19T20:06:00.2551218+00:00",
+      "NumProgressed": 67260,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -8440,7 +8445,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33628
+      "UsersEstimate": 33630
     },
     {
       "ID": "ACH_0011",
@@ -8456,7 +8461,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14124
+      "UsersEstimate": 14125
     },
     {
       "ID": "ACH_0013",
@@ -8464,7 +8469,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8743
+      "UsersEstimate": 8744
     },
     {
       "ID": "ACH_0014",
@@ -8584,7 +8589,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43717
+      "UsersEstimate": 43719
     },
     {
       "ID": "ACH_0210",
@@ -8592,7 +8597,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49770
+      "UsersEstimate": 49772
     },
     {
       "ID": "ACH_0211",
@@ -8608,7 +8613,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31611
+      "UsersEstimate": 31612
     },
     {
       "ID": "ACH_0300",
@@ -8656,7 +8661,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22867
+      "UsersEstimate": 22868
     },
     {
       "ID": "ACH_0420",
@@ -8664,7 +8669,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22867
+      "UsersEstimate": 22868
     },
     {
       "ID": "ACH_0430",
@@ -8672,7 +8677,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23540
+      "UsersEstimate": 23541
     },
     {
       "ID": "ACH_0431",
@@ -8704,7 +8709,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10761
+      "UsersEstimate": 10762
     },
     {
       "ID": "ACH_0452",
@@ -8712,7 +8717,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10761
+      "UsersEstimate": 10762
     },
     {
       "ID": "ACH_0460",
@@ -8728,14 +8733,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7398
+      "UsersEstimate": 7399
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67257,
+      "Progressed": 67260,
       "Completed": 34
     }
   ],
@@ -8743,8 +8748,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-19T15:01:26.3890318+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:33.8205363+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:06:00.2551212+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7712921+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:01:01.2958788+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:33.8206177+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:00:00.7842075+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:06:00.2552127+00:00"
 }

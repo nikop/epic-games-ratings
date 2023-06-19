@@ -8,11 +8,11 @@
 | Terminated I | 82.00% | ~453 |
 | Challenge Accepted | 78.00% | ~431 |
 | Nanonic I | 78.00% | ~431 |
-| Unlocked and Loaded | 74.00% | ~409 |
+| Unlocked and Loaded | 75.00% | ~415 |
 | Terminated II | 65.00% | ~359 |
 | The City | 52.00% | ~288 |
 | Terminated III | 44.00% | ~243 |
-| Challenge Mastered | 42.00% | ~232 |
+| Challenge Mastered | 43.00% | ~238 |
 | Nanonic II | 37.00% | ~205 |
 | Nanonic III | 27.00% | ~149 |
 | Supply Run | 27.00% | ~149 |
@@ -24,8 +24,8 @@
 | Outer Core | 16.00% | ~88 |
 | Up Close And Personal | 16.00% | ~88 |
 | Inner Core | 10.00% | ~55 |
+| Integration | 7.00% | ~39 |
 | Trickshot | 7.00% | ~39 |
-| Integration | 6.00% | ~33 |
 | Destruction | 3.00% | ~17 |
 | Ripperdoc | 3.00% | ~17 |
 | Fully Modded | 2.00% | ~11 |

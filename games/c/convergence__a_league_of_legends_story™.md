@@ -47,8 +47,8 @@
 | Corin Goes Home | 4.00% | ~28 |
 | Golem Hunter | 4.00% | ~28 |
 | Clovemary for Remembering | 3.00% | ~21 |
+| Hexlock for Protection | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |
-| Hexlock for Protection | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Wunderkind | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -1603,9 +1603,9 @@
       "ID": "ACHV_25",
       "SetID": "8p5mlmc",
       "Name": "Full Arsenal",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHV_26",
@@ -1651,9 +1651,9 @@
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHV_32",
@@ -1876,8 +1876,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:41.2856359+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:06:06.2488939+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.3482938+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:01:39.3126077+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:41.2856869+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:00:28.8757837+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:06:06.2489567+00:00"
 }

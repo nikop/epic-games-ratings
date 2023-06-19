@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245164,
+  "EOS_Progressed": 245165,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5754,6 +5754,11 @@
       "Time": "2023-06-19T19:07:22.2120423+00:00",
       "NumProgressed": 245164,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T20:05:52.066199+00:00",
+      "NumProgressed": 245165,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5957,7 +5962,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17161
+      "UsersEstimate": 17162
     },
     {
       "ID": "itsTheFall",
@@ -6037,7 +6042,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17161
+      "UsersEstimate": 17162
     },
     {
       "ID": "rideTheWave",
@@ -6069,7 +6074,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51484
+      "UsersEstimate": 51485
     },
     {
       "ID": "thunderstruck",
@@ -6132,7 +6137,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245164,
+      "Progressed": 245165,
       "Completed": 3
     }
   ],
@@ -6140,8 +6145,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:22.2120416+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:05:52.0661986+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:59:59.4605855+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:22.2121152+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:59:18.3070283+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:05:52.0662838+00:00"
 }

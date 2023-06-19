@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4412,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2023-06-19T18:04:14.1688715+00:00",
       "NumProgressed": 4412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T20:03:52.482709+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3580,7 +3585,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3660,7 +3665,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -3690,9 +3695,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3700,7 +3705,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -3748,7 +3753,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3859,13 +3864,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4412,
+      "Progressed": 4413,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3784,
+      "Progressed": 3785,
       "Completed": 112
     }
   ],
@@ -3873,8 +3878,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:04:30.0813699+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:03:52.4827084+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:00:50.6416283+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:04:30.081419+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:59:53.5478108+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:03:52.4827623+00:00"
 }

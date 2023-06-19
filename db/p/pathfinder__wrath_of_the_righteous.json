@@ -3,11 +3,11 @@
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 118,
-  "Ranking_Popularity": 114,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2888,9 +2888,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9973,
+  "EOS_Progressed": 9974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6918,6 +6918,11 @@
       "Time": "2023-06-19T18:07:00.9156296+00:00",
       "NumProgressed": 9973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T20:06:08.603827+00:00",
+      "NumProgressed": 9974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7297,7 +7302,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "49_Flame",
@@ -7856,21 +7861,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8755,
+      "Progressed": 8756,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9973,
+      "Progressed": 9974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-19T17:58:38.5957619+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:44.0440319+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:06:08.6038266+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:58:57.1773024+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:44.0442017+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:58:31.600124+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:06:08.6040772+00:00"
 }

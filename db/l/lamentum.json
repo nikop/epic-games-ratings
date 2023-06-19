@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.71,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -223,6 +223,11 @@
       "Time": "2023-06-16T11:05:09.6241958+00:00",
       "NumProgressed": 295,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-19T20:04:37.9512325+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -298,7 +303,7 @@
       "Name": "There is freedom in awakening",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_09",
@@ -306,15 +311,15 @@
       "Name": "Grau Hill",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_11",
@@ -328,9 +333,9 @@
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_13",
@@ -385,7 +390,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 8
     }
   ],
@@ -393,8 +398,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:05:36.2639305+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:04:37.951232+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:30.5945158+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:58:15.1751064+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:05:36.2639446+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:58:02.0609929+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:04:37.9512637+00:00"
 }

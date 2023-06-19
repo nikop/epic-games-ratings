@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -439,6 +439,11 @@
       "Time": "2023-06-15T20:00:56.6231456+00:00",
       "NumProgressed": 87,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T20:03:23.1132817+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -672,7 +677,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -680,7 +685,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -714,7 +719,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -761,14 +766,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:03:38.2296836+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:03:23.1132812+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.584177+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:58:02.6016497+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:03:38.2297337+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:57:52.4749921+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:03:23.1133173+00:00"
 }

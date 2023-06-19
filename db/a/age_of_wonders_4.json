@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4746,
+  "EOS_Progressed": 4747,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4198,6 +4198,11 @@
       "Time": "2023-06-19T18:05:23.4833219+00:00",
       "NumProgressed": 4746,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T20:04:48.4584939+00:00",
+      "NumProgressed": 4747,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4287,9 +4292,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 760
     },
     {
       "ID": "2",
@@ -4297,7 +4302,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "20",
@@ -4321,7 +4326,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "23",
@@ -4329,7 +4334,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "24",
@@ -4345,7 +4350,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "26",
@@ -4353,7 +4358,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "27",
@@ -4377,7 +4382,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "3",
@@ -4401,7 +4406,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "32",
@@ -4425,7 +4430,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "35",
@@ -4441,7 +4446,7 @@
       "Name": "Fiery Friend",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "37",
@@ -4481,7 +4486,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "41",
@@ -4560,13 +4565,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4746,
-      "Completed": 4746
+      "Progressed": 4747,
+      "Completed": 4747
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4746,
+      "Progressed": 4747,
       "Completed": 3
     }
   ],
@@ -4574,8 +4579,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:05:50.8243266+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:04:48.4584935+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:00:22.6287189+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:05:50.8245685+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:59:34.0972525+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:04:48.4586042+00:00"
 }

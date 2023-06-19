@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 11.78,
+  "EOS_Completed_Percentage": 11.75,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1336,6 +1336,11 @@
       "Time": "2023-06-19T15:05:24.4390608+00:00",
       "NumProgressed": 467,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-19T20:04:21.0253684+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 30,
@@ -1347,7 +1352,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "LEVEL_002",
@@ -1361,9 +1366,9 @@
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 318
     },
     {
       "ID": "LEVEL_004",
@@ -1379,7 +1384,7 @@
       "Name": "Small village",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_006",
@@ -1409,9 +1414,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_010",
@@ -1419,7 +1424,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_011",
@@ -1467,7 +1472,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_017",
@@ -1491,7 +1496,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_020",
@@ -1586,14 +1591,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:05:11.0015248+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:04:21.025368+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.2112754+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:57:23.7330538+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:05:11.0015568+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:57:25.0160728+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:04:21.0254249+00:00"
 }

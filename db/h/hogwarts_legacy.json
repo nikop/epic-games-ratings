@@ -3868,10 +3868,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37395,
       "NumberOfAwardsMax": 20171
+    },
+    {
+      "Time": "2023-06-19T19:57:39.2912026+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37402,
+      "NumberOfAwardsMax": 20171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37395,
+  "NumberOfAwards": 37402,
   "NumberOfAwardsMax": 20171,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3927,13 +3933,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 781
+      "Count": 783
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 813
+      "Count": 818
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3948,9 +3954,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 280728,
+  "EOS_Progressed": 280733,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1742,
+  "EOS_NewPlayers": 1725,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10228,6 +10234,11 @@
       "Time": "2023-06-19T19:06:04.1444476+00:00",
       "NumProgressed": 280728,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T20:04:57.6243713+00:00",
+      "NumProgressed": 280733,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10287,7 +10298,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "PFA_16",
@@ -10303,7 +10314,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "PFA_18",
@@ -10319,7 +10330,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "PFA_2",
@@ -10359,7 +10370,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22458
+      "UsersEstimate": 22459
     },
     {
       "ID": "PFA_24",
@@ -10567,7 +10578,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22458
+      "UsersEstimate": 22459
     },
     {
       "ID": "PFA_7",
@@ -10575,7 +10586,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22458
+      "UsersEstimate": 22459
     },
     {
       "ID": "PFA_8",
@@ -10598,16 +10609,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280728,
+      "Progressed": 280733,
       "Completed": 408
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-19T18:57:43.1433678+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:06:04.1444472+00:00",
+  "LastChanged": "2023-06-19T19:57:39.2912025+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:04:57.6243708+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:57:43.1433686+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:06:04.1445317+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:57:39.291203+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:04:57.624536+00:00"
 }

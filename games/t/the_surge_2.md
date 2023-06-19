@@ -25,14 +25,14 @@ Rating: 4.24 (Ranked 807)
 | Unforeseeable Consequences | 19.00% | ~343 |
 | Dead Again | 18.00% | ~325 |
 | Clean Cut | 18.00% | ~325 |
-| Full Arsenal | 16.00% | ~289 |
+| Full Arsenal | 17.00% | ~307 |
 | Can't Trust Banks | 15.00% | ~271 |
 | Mommy Dearest | 13.00% | ~235 |
 | Bad Dog | 13.00% | ~235 |
+| Where It All Began | 13.00% | ~235 |
 | Risk Tolerant | 13.00% | ~235 |
 | What A Catchy Song | 13.00% | ~235 |
 | Marked For Success | 12.00% | ~216 |
-| Where It All Began | 12.00% | ~216 |
 | Sorry, Didn't See You There | 12.00% | ~216 |
 | Corrupted Beauty | 11.00% | ~198 |
 | Triplets | 10.00% | ~180 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-06-19T18:06:47.5280066+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T20:05:56.8400454+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1201,7 +1206,7 @@
       "Name": "Agent 47",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Auditor",
@@ -1225,7 +1230,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Boy",
@@ -1233,7 +1238,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Commandos",
@@ -1257,7 +1262,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Defense_Epic",
@@ -1281,7 +1286,7 @@
       "Name": "E1M1",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Everyone_is_here",
@@ -1297,7 +1302,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Game_Over",
@@ -1329,7 +1334,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "High_noon",
@@ -1337,7 +1342,7 @@
       "Name": "Payback Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "How",
@@ -1385,7 +1390,7 @@
       "Name": "Bomberman",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "MoskitoBite",
@@ -1440,15 +1445,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:28.5599096+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:05:56.840045+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:00:04.7732691+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:28.5599349+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:59:22.2437182+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:05:56.84008+00:00"
 }

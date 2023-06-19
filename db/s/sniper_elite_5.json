@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3031,
+  "EOS_Progressed": 3032,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4003,6 +4003,11 @@
       "Time": "2023-06-19T17:07:36.7633644+00:00",
       "NumProgressed": 3031,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T20:06:01.8214123+00:00",
+      "NumProgressed": 3032,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4046,7 +4051,7 @@
       "Name": "Opposing Force",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -4054,7 +4059,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -4076,9 +4081,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 394
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4182,7 +4187,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4422,7 +4427,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4581,13 +4586,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2982,
+      "Progressed": 2983,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3031,
+      "Progressed": 3032,
       "Completed": 2
     }
   ],
@@ -4595,8 +4600,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-19T13:09:16.3523897+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:07:35.1854014+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:06:01.8214119+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:01:46.2467832+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:07:35.1855303+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:00:34.3355177+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:06:01.8215148+00:00"
 }

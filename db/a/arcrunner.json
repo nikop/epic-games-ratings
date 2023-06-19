@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1121,9 +1121,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHV_CITY",
@@ -1201,9 +1201,9 @@
       "ID": "ACHV_INTEGRATION",
       "SetID": "cceobco",
       "Name": "Integration",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_NANONIC1",
@@ -1297,9 +1297,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 415
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1330,8 +1330,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-19T19:02:06.0666937+00:00",
+  "LastChanged_Achievements": "2023-06-19T20:00:49.6891172+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:00:39.2550309+00:00",
-  "LastUpdate_Achievements": "2023-06-19T19:02:06.0667393+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:59:44.2176683+00:00",
+  "LastUpdate_Achievements": "2023-06-19T20:00:49.6891647+00:00"
 }
