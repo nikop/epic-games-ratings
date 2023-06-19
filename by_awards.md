@@ -158,8 +158,8 @@
 | 156 | [Core](games/c/core.md) | 736 | 4.36 | 724 |
 | 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 736 | 4.45 | 621 |
 | 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 727 | 4.78 | 100 |
-| 159 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 697 | 4.86 | 29 |
-| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 697 | 4.50 | 547 |
+| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 700 | 4.50 | 547 |
+| 160 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 697 | 4.86 | 29 |
 | 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 696 | 4.59 | 412 |
 | 162 | [Neverwinter](games/n/neverwinter.md) | 690 | 4.29 | 775 |
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 671 | 4.68 | 239 |
@@ -206,9 +206,9 @@
 | 204 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 406 | 4.73 | 155 |
 | 205 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 402 | 4.49 | 565 |
 | 206 | [Warface](games/w/warface.md) | 395 | 3.91 | 925 |
-| 207 | [Slime Rancher](games/s/slime_rancher.md) | 393 | 4.82 | 66 |
-| 208 | [The Sims™ 4](games/t/the_sims™_4.md) | 392 | 4.61 | 364 |
-| 209 | [Dishonored 2](games/d/dishonored_2.md) | 391 | 4.79 | 89 |
+| 207 | [Dishonored 2](games/d/dishonored_2.md) | 394 | 4.79 | 89 |
+| 208 | [Slime Rancher](games/s/slime_rancher.md) | 393 | 4.82 | 66 |
+| 209 | [The Sims™ 4](games/t/the_sims™_4.md) | 392 | 4.61 | 364 |
 | 210 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 364 |
 | 211 | [Nuclear Throne](games/n/nuclear_throne.md) | 373 | 4.79 | 89 |
 | 212 | [For The King](games/f/for_the_king.md) | 371 | 4.70 | 195 |
@@ -281,8 +281,8 @@
 | 279 | [Space Punks](games/s/space_punks.md) | 173 | 4.16 | 861 |
 | 279 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 784 |
 | 281 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 172 | 4.56 | 452 |
-| 282 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 724 |
-| 283 | [Brawlhalla](games/b/brawlhalla.md) | 168 | 4.59 | 412 |
+| 282 | [Brawlhalla](games/b/brawlhalla.md) | 171 | 4.59 | 412 |
+| 283 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 724 |
 | 284 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 166 | 4.65 | 295 |
 | 285 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 707 |
 | 285 | [Mothergunship](games/m/mothergunship.md) | 164 | 4.38 | 707 |
@@ -311,8 +311,8 @@
 | 309 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.52 | 515 |
 | 310 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 118 | 4.79 | 89 |
 | 310 | [Predecessor](games/p/predecessor.md) | 118 | 4.44 | 633 |
-| 312 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 748 |
-| 312 | [Sonic Origins](games/s/sonic_origins.md) | 117 | 4.58 | 422 |
+| 310 | [Sonic Origins](games/s/sonic_origins.md) | 118 | 4.58 | 422 |
+| 313 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 748 |
 | 314 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 115 | 4.71 | 180 |
 | 315 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 316 |
 | 315 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 621 |
