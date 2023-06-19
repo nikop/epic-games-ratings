@@ -6,20 +6,20 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,285 |
-| Landlord | 30.00% | ~16,071 |
-| Bannerlord | 21.00% | ~11,249 |
-| Horde breaker | 21.00% | ~11,249 |
-| Lawmaker | 21.00% | ~11,249 |
-| Trained | 21.00% | ~11,249 |
-| The king is pleased | 17.00% | ~9,107 |
-| King Solomon | 16.00% | ~8,571 |
-| I can do it | 15.00% | ~8,035 |
+| Lawbringer | 36.00% | ~19,287 |
+| Landlord | 30.00% | ~16,072 |
+| Bannerlord | 21.00% | ~11,251 |
+| Horde breaker | 21.00% | ~11,251 |
+| Lawmaker | 21.00% | ~11,251 |
+| Trained | 21.00% | ~11,251 |
+| The king is pleased | 17.00% | ~9,108 |
+| King Solomon | 16.00% | ~8,572 |
+| I can do it | 15.00% | ~8,036 |
 | Apple of my eye | 14.00% | ~7,500 |
-| God of the Arena | 12.00% | ~6,428 |
+| God of the Arena | 12.00% | ~6,429 |
 | Against all odds | 10.00% | ~5,357 |
-| Duelist | 9.00% | ~4,821 |
-| Swordbearer | 9.00% | ~4,821 |
+| Duelist | 9.00% | ~4,822 |
+| Swordbearer | 9.00% | ~4,822 |
 | Dynasty | 8.00% | ~4,286 |
 | I spit on your grave | 8.00% | ~4,286 |
 | What have the Romans ever done for us? | 8.00% | ~4,286 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,569 (Ranked 80)  
+Progressed: 53,574 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,17 +118,17 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 53,345 | 0 |
 | 2023-06-17 | 53,430 | 0 |
 | 2023-06-18 | 53,536 | 0 |
-| 2023-06-19 | 53,569 | 0 |
+| 2023-06-19 | 53,574 | 0 |
 ## Awards
 Max (Character Customization): 6,684  (Ranked 49)  
-Sum: 13,439 (Ranked 68)  
+Sum: 13,441 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,684 |
 | This game is Great for Beginners | 856 |
 | This game has Diverse Characters | 832 |
-| This game is Highly Recommended | 795 |
+| This game is Highly Recommended | 797 |
 | This game is Extremely Fun | 763 |
 | This game has Amazing Storytelling | 752 |
 | This game has Quickly Understood Controls | 740 |
@@ -295,3 +295,4 @@ Diff (max vs sum): -19
 | 2023-06-16 | 4.75 | - | 6,672 | 13,413 |
 | 2023-06-17 | 4.75 | - | 6,679 | 13,428 |
 | 2023-06-18 | 4.75 | - | 6,684 | 13,439 |
+| 2023-06-19 | 4.74 | - | 6,684 | 13,441 |

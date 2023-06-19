@@ -1,36 +1,36 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 477)  
+Rating: 4.55 (Ranked 476)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~874,181 |
-| I Need a Bigger Garage | 62.00% | ~608,980 |
-| Pump my Ride | 46.00% | ~451,824 |
-| Ghostbuster | 32.00% | ~314,312 |
-| Call Roadside Assistance | 17.00% | ~166,978 |
-| That Was Close | 17.00% | ~166,978 |
-| Quickie | 10.00% | ~98,223 |
-| California Dreamer | 7.00% | ~68,756 |
-| Can't Touch This | 5.00% | ~49,111 |
-| Carménère Taster | 3.00% | ~29,467 |
-| Comeback | 3.00% | ~29,467 |
-| Marathonist | 3.00% | ~29,467 |
-| Living Legend | 3.00% | ~29,467 |
+| The First of Many | 89.00% | ~874,211 |
+| I Need a Bigger Garage | 62.00% | ~609,001 |
+| Pump my Ride | 46.00% | ~451,840 |
+| Ghostbuster | 32.00% | ~314,323 |
+| Call Roadside Assistance | 17.00% | ~166,984 |
+| That Was Close | 17.00% | ~166,984 |
+| Quickie | 10.00% | ~98,226 |
+| California Dreamer | 7.00% | ~68,758 |
+| Can't Touch This | 5.00% | ~49,113 |
+| Carménère Taster | 3.00% | ~29,468 |
+| Comeback | 3.00% | ~29,468 |
+| Marathonist | 3.00% | ~29,468 |
+| Living Legend | 3.00% | ~29,468 |
 | Driver from Ipanema | 2.00% | ~19,645 |
 | Pathfinder | 2.00% | ~19,645 |
 | Go-Kart Champion | 2.00% | ~19,645 |
 | Completionist | 2.00% | ~19,645 |
 | Supersonic | 2.00% | ~19,645 |
 | Harder, Better, Faster, Stronger | 2.00% | ~19,645 |
-| God of Roads | 1.00% | ~9,822 |
-| The Iceman | 1.00% | ~9,822 |
-| Oil Tycoon | 1.00% | ~9,822 |
-| Round the Globe | 1.00% | ~9,822 |
-| Golden Passport | 1.00% | ~9,822 |
-| Brave and Bold | 1.00% | ~9,822 |
+| God of Roads | 1.00% | ~9,823 |
+| The Iceman | 1.00% | ~9,823 |
+| Oil Tycoon | 1.00% | ~9,823 |
+| Round the Globe | 1.00% | ~9,823 |
+| Golden Passport | 1.00% | ~9,823 |
+| Brave and Bold | 1.00% | ~9,823 |
 | Bollywood Star | 0.90% | ~8,840 |
 | Crocodile Hunter | 0.80% | ~7,858 |
 | Old Master | 0.80% | ~7,858 |
@@ -39,12 +39,12 @@ Number of Ratings: 1,343  (23.09.2022)
 | Survivor | 0.50% | ~4,911 |
 | King of the World | 0.50% | ~4,911 |
 | Getting Famous | 0.40% | ~3,929 |
-| Master of the Racetrack | 0.20% | ~1,964 |
-| Now Go Play Outside | 0.20% | ~1,964 |
+| Master of the Racetrack | 0.20% | ~1,965 |
+| Now Go Play Outside | 0.20% | ~1,965 |
 | Transporter | 0.10% | ~982 |
 | Look Mom, No Hands! | 0.10% | ~982 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,226 (Ranked 12)  
+Progressed: 982,260 (Ranked 12)  
 Completed: 309 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,15 +104,15 @@ Completed: 309 (0.03%) (Ranked 200)
 | 2023-06-16 | 979,153 | 305 |
 | 2023-06-17 | 980,506 | 307 |
 | 2023-06-18 | 981,851 | 309 |
-| 2023-06-19 | 982,226 | 309 |
+| 2023-06-19 | 982,260 | 309 |
 ## Awards
 Max (Great for Beginners): 144  (Ranked 293)  
-Sum: 1,158 (Ranked 229)  
-Diff (max vs sum): 64  
+Sum: 1,159 (Ranked 228)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 144 |
-| This game has Quickly Understood Controls | 125 |
+| This game has Quickly Understood Controls | 126 |
 | This game is Relaxing | 119 |
 | This game is Great for Quick Sessions | 112 |
 | This game is Highly Recommended | 111 |
@@ -269,3 +269,4 @@ Diff (max vs sum): 64
 | 2023-06-15 | 4.56 | - | 143 | 1,154 |
 | 2023-06-17 | 4.56 | - | 143 | 1,156 |
 | 2023-06-18 | 4.56 | - | 144 | 1,158 |
+| 2023-06-19 | 4.55 | - | 144 | 1,159 |

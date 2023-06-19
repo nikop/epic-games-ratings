@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 78,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55687,
+  "EOS_Progressed": 55689,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1382,
+  "EOS_NewPlayers": 1375,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5387,6 +5387,11 @@
       "Time": "2023-06-19T10:06:23.5819774+00:00",
       "NumProgressed": 55687,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T11:06:07.8580648+00:00",
+      "NumProgressed": 55689,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5404,9 +5409,9 @@
       "ID": "02",
       "SetID": "212770e",
       "Name": "Nordic Walking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10581
+      "UsersEstimate": 11138
     },
     {
       "ID": "03",
@@ -5438,7 +5443,7 @@
       "Name": "Park Ranger",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7239
+      "UsersEstimate": 7240
     },
     {
       "ID": "07",
@@ -5478,7 +5483,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "12",
@@ -5494,7 +5499,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "14",
@@ -5534,7 +5539,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "19",
@@ -5638,7 +5643,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7239
+      "UsersEstimate": 7240
     },
     {
       "ID": "32",
@@ -5718,7 +5723,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7239
+      "UsersEstimate": 7240
     },
     {
       "ID": "42",
@@ -5798,7 +5803,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "52",
@@ -5933,21 +5938,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55687,
+      "Progressed": 55689,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19155,
+      "Progressed": 19157,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:06:23.5819767+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:06:07.8580646+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:57:51.9495105+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:06:23.5820589+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:57:55.1992446+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:06:07.8581855+00:00"
 }

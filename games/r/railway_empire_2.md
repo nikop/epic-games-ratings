@@ -37,8 +37,8 @@ Rating: 4.28 (Ranked 784)
 | Seven at one stroke | 22.00% | ~280 |
 | Trailblazer | 19.00% | ~242 |
 | Breaking Ground | 18.00% | ~229 |
+| Traffic Jam | 17.00% | ~216 |
 | Traffic Junction | 17.00% | ~216 |
-| Traffic Jam | 16.00% | ~204 |
 | Assimilated | 15.00% | ~191 |
 | Locusts | 15.00% | ~191 |
 | Networker | 15.00% | ~191 |

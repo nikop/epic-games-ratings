@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,872 |
-| The Cursed Farmer | 3.00% | ~2,945 |
-| Beast Intentions | 2.00% | ~1,963 |
-| The Mad Wizard | 2.00% | ~1,963 |
+| A Brief Tour of the Realms | 7.00% | ~6,875 |
+| The Cursed Farmer | 3.00% | ~2,946 |
+| Beast Intentions | 2.00% | ~1,964 |
+| The Mad Wizard | 2.00% | ~1,964 |
 | Were-verpowered | 1.00% | ~982 |
 | The Ring of Regeneration | 1.00% | ~982 |
 | Seeking Allies | 1.00% | ~982 |
@@ -17,8 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 1.00% | ~982 |
 | Mad Cow Disease | 0.90% | ~884 |
 | The Court of Storms | 0.90% | ~580 |
-| A Persistent Buzzing | 0.80% | ~785 |
-| Pure Energy | 0.80% | ~785 |
+| A Persistent Buzzing | 0.80% | ~786 |
+| Pure Energy | 0.80% | ~786 |
 | Terror in the Dark | 0.70% | ~687 |
 | Unearthed Evil | 0.70% | ~687 |
 | The Crumbling Temple | 0.70% | ~687 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.50% | ~491 |
 | Waterdeep Detours | 0.50% | ~491 |
 | Underdeep Cartography | 0.50% | ~491 |
+| The Templar's Camp | 0.50% | ~491 |
 | Quick or Quack | 0.50% | ~322 |
 | The Silken Swamp | 0.40% | ~393 |
 | Supply Run | 0.40% | ~393 |
@@ -59,7 +60,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.40% | ~393 |
 | Constant Banditry | 0.40% | ~393 |
 | Overdue Rendezvous | 0.40% | ~393 |
-| The Templar's Camp | 0.40% | ~393 |
 | Rescue in the Jungle | 0.40% | ~393 |
 | Pros and CONs | 0.30% | ~295 |
 | Tall Tales | 0.30% | ~193 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,168 (Ranked 63)  
+Progressed: 98,212 (Ranked 63)  
 Completed: 1,950 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,10 +560,10 @@ Completed: 1,950 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,168 | 1,950 |
+| 2023-06-19 | 98,212 | 1,950 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
-Sum: 30,146 (Ranked 37)  
+Sum: 30,147 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -571,8 +571,8 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,879 |
 | This game has Quickly Understood Controls | 4,620 |
 | This game is Relaxing | 4,517 |
+| This game is Highly Recommended | 3,963 |
 | This game has Amazing Characters | 3,963 |
-| This game is Highly Recommended | 3,962 |
 | This game has Playful Visuals | 3,256 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -721,4 +721,4 @@ Diff (max vs sum): 27
 | 2023-06-16 | 4.06 | - | 4,946 | 30,126 |
 | 2023-06-17 | 4.06 | - | 4,946 | 30,128 |
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
-| 2023-06-19 | 4.06 | - | 4,949 | 30,146 |
+| 2023-06-19 | 4.06 | - | 4,949 | 30,147 |

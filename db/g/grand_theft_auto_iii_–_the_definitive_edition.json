@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6722,
+  "EOS_Progressed": 6724,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4472,6 +4472,11 @@
       "Time": "2023-06-19T10:04:11.2010789+00:00",
       "NumProgressed": 6722,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-19T11:04:11.8268974+00:00",
+      "NumProgressed": 6724,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4483,7 +4488,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5579
+      "UsersEstimate": 5581
     },
     {
       "ID": "ACH02",
@@ -4491,7 +4496,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH03",
@@ -4507,7 +4512,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "ACH05",
@@ -4531,7 +4536,7 @@
       "Name": "Planned Ahead",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH08",
@@ -4563,7 +4568,7 @@
       "Name": "Wheels Up",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH12",
@@ -4603,7 +4608,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACH17",
@@ -4667,7 +4672,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH25",
@@ -4683,7 +4688,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH27",
@@ -4714,7 +4719,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6722,
+      "Progressed": 6724,
       "Completed": 38
     }
   ],
@@ -4722,8 +4727,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:04:11.2010784+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:04:11.826897+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:58:05.2625765+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:04:11.201127+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:58:06.67476+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:04:11.8269342+00:00"
 }

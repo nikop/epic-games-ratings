@@ -24,13 +24,13 @@
 | Immaculate Aim | 10.00% | ~71 |
 | The Brass Boss | 10.00% | ~71 |
 | Like Clockwork | 9.00% | ~64 |
+| Street Style | 9.00% | ~64 |
 | The Man Who Shattered Time | 9.00% | ~64 |
 | The Loose Cannon | 9.00% | ~64 |
 | Golem Chaser | 9.00% | ~64 |
 | Check Your Pulse | 9.00% | ~64 |
 | The Family Fortune | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
-| Street Style | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
 | Good Neighbor | 7.00% | ~50 |
 | Chaincrawler Explorer | 6.00% | ~42 |
@@ -54,12 +54,12 @@
 | Fitting In | 1.00% | ~7 |
 | Wildlife Protection | 0.60% | ~4 |
 | A Lesson in Precision | 0.60% | ~4 |
-| Going to Live Forever | 0.30% | ~2 |
-| Raw Talent | 0.30% | ~2 |
-| No Time to Waste | 0.30% | ~2 |
+| Going to Live Forever | 0.40% | ~3 |
+| Raw Talent | 0.40% | ~3 |
+| No Time to Waste | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 708 (Ranked 195)  
-Completed: 3 (0.42%) (Ranked 127)  
+Completed: 4 (0.56%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,3 +90,4 @@ Completed: 3 (0.42%) (Ranked 127)
 | 2023-06-16 | 702 | 3 |
 | 2023-06-17 | 704 | 3 |
 | 2023-06-18 | 708 | 3 |
+| 2023-06-19 | 708 | 4 |

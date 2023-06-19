@@ -228,9 +228,9 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PACIFIST",
@@ -333,8 +333,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:06:17.0255866+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:06:01.2544076+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.207331+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:59:16.6461845+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:06:17.0256092+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:59:12.3083351+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:06:01.2544257+00:00"
 }

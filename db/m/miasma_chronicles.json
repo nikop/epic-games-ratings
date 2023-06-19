@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 1164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2112,9 +2112,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1071
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2345,8 +2345,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:01:21.2723648+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:00:56.8364108+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:58:30.9888292+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:01:21.2724242+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:58:29.875349+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:00:56.8364697+00:00"
 }

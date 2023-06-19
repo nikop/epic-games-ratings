@@ -6,24 +6,24 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,785 |
-| Into the Unknown | 10.00% | ~57,986 |
-| First Shot | 10.00% | ~57,986 |
-| Herzlich Wilkommen! | 9.00% | ~52,188 |
-| Good Night & Good Luck | 9.00% | ~52,188 |
-| Sancho Panza | 8.00% | ~46,389 |
-| Under Pressure | 7.00% | ~40,590 |
-| Flag Burning | 7.00% | ~40,590 |
-| Oh, So This Is How It Works! | 7.00% | ~40,590 |
-| Night Hunter | 7.00% | ~40,590 |
-| On the Trail of the Enemy | 6.00% | ~34,792 |
-| Light in the Darkness | 6.00% | ~34,792 |
-| Get Outta My House! | 6.00% | ~34,792 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,792 |
-| Being All Social | 6.00% | ~34,792 |
-| We Will Be Heard! | 5.00% | ~28,993 |
-| After the Fall | 5.00% | ~28,993 |
-| Can't Touch This! | 5.00% | ~28,993 |
+| You Never Forget Your First... | 11.00% | ~63,787 |
+| Into the Unknown | 10.00% | ~57,988 |
+| First Shot | 10.00% | ~57,988 |
+| Herzlich Wilkommen! | 9.00% | ~52,189 |
+| Good Night & Good Luck | 9.00% | ~52,189 |
+| Sancho Panza | 8.00% | ~46,390 |
+| Under Pressure | 7.00% | ~40,592 |
+| Flag Burning | 7.00% | ~40,592 |
+| Oh, So This Is How It Works! | 7.00% | ~40,592 |
+| Night Hunter | 7.00% | ~40,592 |
+| On the Trail of the Enemy | 6.00% | ~34,793 |
+| Light in the Darkness | 6.00% | ~34,793 |
+| Get Outta My House! | 6.00% | ~34,793 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,793 |
+| Being All Social | 6.00% | ~34,793 |
+| We Will Be Heard! | 5.00% | ~28,994 |
+| After the Fall | 5.00% | ~28,994 |
+| Can't Touch This! | 5.00% | ~28,994 |
 | Debris and Ashes | 4.00% | ~23,195 |
 | Known Associate | 4.00% | ~23,195 |
 | Brush with Death | 4.00% | ~23,195 |
@@ -35,9 +35,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Terminal Headache | 4.00% | ~23,195 |
 | Slowpoke! | 4.00% | ~23,195 |
 | You're Going Down! | 3.00% | ~17,396 |
-| Tickets, Please! | 2.00% | ~11,597 |
-| Parkour Master | 2.00% | ~11,597 |
-| Combat Master | 2.00% | ~11,597 |
+| Tickets, Please! | 2.00% | ~11,598 |
+| Parkour Master | 2.00% | ~11,598 |
+| Combat Master | 2.00% | ~11,598 |
 | Municipal Services | 1.00% | ~5,799 |
 | Tube Map | 1.00% | ~5,799 |
 | Don Quixote | 1.00% | ~5,799 |
@@ -52,13 +52,13 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.80% | ~4,639 |
 | Boot Licker | 0.80% | ~4,639 |
 | Who Wants To Be a... | 0.80% | ~4,639 |
-| Night of Terrors | 0.80% | ~1,802 |
+| Night of Terrors | 0.80% | ~1,803 |
 | Get the Point? | 0.70% | ~4,059 |
 | My Friend, Ciro | 0.70% | ~1,577 |
 | Skullcrusher | 0.70% | ~1,577 |
 | Revenants | 0.60% | ~3,479 |
 | Tanning Salon | 0.60% | ~3,479 |
-| Lightning Reflexes | 0.40% | ~2,319 |
+| Lightning Reflexes | 0.40% | ~2,320 |
 | Man On a Mission | 0.30% | ~1,740 |
 | A Friend in Need... | 0.20% | ~1,160 |
 | Ultramarathon | 0.20% | ~1,160 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~225 |
 | Connoisseur | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579,864 (Ranked 25)  
+Progressed: 579,881 (Ranked 25)  
 Completed: 50 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,15 +132,15 @@ Completed: 50 (0.01%) (Ranked 214)
 | 2023-06-16 | 578,367 | 51 |
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
-| 2023-06-19 | 579,864 | 50 |
+| 2023-06-19 | 579,881 | 50 |
 ## Awards
 Max (Character Customization): 7,856  (Ranked 40)  
-Sum: 18,217 (Ranked 56)  
+Sum: 18,241 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,856 |
-| This game has Great Boss Battles | 4,564 |
+| This game has Great Boss Battles | 4,588 |
 | This game is Great for Beginners | 722 |
 | This game is Highly Recommended | 681 |
 | This game has Amazing Characters | 673 |
@@ -312,4 +312,4 @@ Diff (max vs sum): -16
 | 2023-06-16 | 4.58 | - | 7,800 | 17,582 |
 | 2023-06-17 | 4.58 | - | 7,827 | 18,144 |
 | 2023-06-18 | 4.58 | - | 7,856 | 18,212 |
-| 2023-06-19 | 4.58 | - | 7,856 | 18,217 |
+| 2023-06-19 | 4.58 | - | 7,856 | 18,241 |

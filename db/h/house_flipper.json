@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 195,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 99,
@@ -1596,7 +1596,7 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19694,
+  "EOS_Progressed": 19695,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -4811,6 +4811,11 @@
       "Time": "2023-06-19T09:06:32.4509165+00:00",
       "NumProgressed": 19694,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-19T11:05:53.8782833+00:00",
+      "NumProgressed": 19695,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4870,7 +4875,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18512
+      "UsersEstimate": 18513
     },
     {
       "ID": "GameOver",
@@ -4902,7 +4907,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "JuniorEstateAgent",
@@ -4990,7 +4995,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "YouDoItWrong",
@@ -5005,15 +5010,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19694,
+      "Progressed": 19695,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-19T02:10:05.7712133+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:06:08.3904628+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:05:53.8782828+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.3961227+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:59:48.5910019+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:06:08.390496+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:59:38.7114289+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:05:53.8783166+00:00"
 }

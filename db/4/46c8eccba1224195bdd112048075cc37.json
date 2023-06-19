@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -226,6 +226,11 @@
       "Time": "2023-06-18T12:02:17.501971+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T11:00:49.2516026+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -251,9 +256,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CollectCurses",
@@ -293,13 +298,13 @@
       "Name": "First Blood",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -307,9 +312,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FourthBoss",
@@ -339,7 +344,7 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -355,7 +360,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -396,14 +401,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:01:10.6537615+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:00:49.2516021+00:00",
   "LastUpdate_AppInfo": "2023-06-19T06:57:14.8908293+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:57:17.4215717+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:01:10.6537909+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:57:24.0881351+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:00:49.2516231+00:00"
 }

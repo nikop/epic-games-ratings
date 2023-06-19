@@ -5,15 +5,15 @@ Rating: 4.48 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 32.00% | ~968 |
+| Meeting Resistance | 32.00% | ~969 |
 | Confirming Suspicions | 26.00% | ~787 |
 | The Kraken Wakes | 22.00% | ~666 |
 | It's Starting to Crack | 19.00% | ~575 |
-| Lord of War | 17.00% | ~514 |
-| Change the Channel | 17.00% | ~514 |
+| Lord of War | 17.00% | ~515 |
+| Change the Channel | 17.00% | ~515 |
 | Resourceful | 15.00% | ~454 |
 | Taking it back | 15.00% | ~454 |
-| Target America | 13.00% | ~393 |
+| Target America | 13.00% | ~394 |
 | Organ Grinder | 12.00% | ~363 |
 | As Quiet as a Mouse | 12.00% | ~363 |
 | The Kraken Sleeps | 11.00% | ~333 |
@@ -46,9 +46,9 @@ Rating: 4.48 (Ranked 583)
 | Herr Today, Gone Tomorrow | 2.00% | ~60 |
 | Tinkerer | 1.00% | ~30 |
 | Operation Foxley | 1.00% | ~30 |
+| Last Resort | 1.00% | ~30 |
 | Ghost of Falaise | 1.00% | ~30 |
 | Burn after reading | 0.90% | ~27 |
-| Last Resort | 0.90% | ~27 |
 | Siegebreaker | 0.90% | ~27 |
 | From Paris with Love | 0.80% | ~24 |
 | Souvenir hunter | 0.80% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 583)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,026 (Ranked 143)  
+Progressed: 3,027 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
-| 2023-06-19 | 3,026 | 2 |
+| 2023-06-19 | 3,027 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

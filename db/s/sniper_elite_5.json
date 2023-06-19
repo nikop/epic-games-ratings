@@ -332,9 +332,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3027,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3972,6 +3972,11 @@
       "Time": "2023-06-19T10:06:26.7981116+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T11:06:11.1013441+00:00",
+      "NumProgressed": 3027,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4063,7 +4068,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4191,7 +4196,7 @@
       "Name": "Lord of War",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4319,7 +4324,7 @@
       "Name": "Change the Channel",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4375,7 +4380,7 @@
       "Name": "Target America",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4469,9 +4474,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -4550,13 +4555,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2977,
+      "Progressed": 2978,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 2
     }
   ],
@@ -4564,8 +4569,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:06:26.7981111+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:06:11.1013435+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:00:58.912168+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:06:26.7981962+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:00:37.6544968+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:06:11.1014264+00:00"
 }

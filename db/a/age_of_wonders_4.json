@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4737,
+  "EOS_Progressed": 4738,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4168,6 +4168,11 @@
       "Time": "2023-06-19T08:05:42.5310178+00:00",
       "NumProgressed": 4737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T11:04:54.6820463+00:00",
+      "NumProgressed": 4738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4195,7 +4200,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "12",
@@ -4251,7 +4256,7 @@
       "Name": "Arch Mage",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "19",
@@ -4291,7 +4296,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "23",
@@ -4299,7 +4304,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "24",
@@ -4307,7 +4312,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "25",
@@ -4315,7 +4320,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "26",
@@ -4347,7 +4352,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "3",
@@ -4371,7 +4376,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "32",
@@ -4387,7 +4392,7 @@
       "Name": "Seat of Power",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "34",
@@ -4435,7 +4440,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "4",
@@ -4530,13 +4535,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4737,
-      "Completed": 4737
+      "Progressed": 4738,
+      "Completed": 4738
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4737,
+      "Progressed": 4738,
       "Completed": 3
     }
   ],
@@ -4544,8 +4549,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:05:00.564619+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:04:54.6820458+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:59:48.437324+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:05:00.5646777+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:59:38.5623342+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:04:54.6821204+00:00"
 }

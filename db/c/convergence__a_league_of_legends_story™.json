@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 708,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 43,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.42,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1384,6 +1384,11 @@
       "Time": "2023-06-18T23:06:37.3643365+00:00",
       "NumProgressed": 708,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T11:05:39.2584703+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1465,9 +1470,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "CultivairChests1",
@@ -1609,17 +1614,17 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NoRewindCamille",
@@ -1729,9 +1734,9 @@
       "ID": "SpeedRun",
       "SetID": "a9e499d",
       "Name": "No Time to Waste",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SumpChests1",
@@ -1819,13 +1824,13 @@
       "ID": "a9e499d",
       "IsBase": true,
       "Progressed": 708,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-19T10:05:51.547639+00:00",
+  "LastChanged_Achievements": "2023-06-19T11:05:39.2584696+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:59:42.6090454+00:00",
-  "LastUpdate_Achievements": "2023-06-19T10:05:51.5476927+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:59:33.0487399+00:00",
+  "LastUpdate_Achievements": "2023-06-19T11:05:39.2585232+00:00"
 }
