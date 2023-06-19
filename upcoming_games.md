@@ -1,10 +1,10 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | - |  | - | - |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 0 | - | - |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 0 | - | - |
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Torch Cave](games/3/3c9e5ab8388f4f179a092f070431ebb0.md) | 2023-06-20 | - |  | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | - |  | - | - |
 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-20 | 20 (1,000 XP) | 0 | - | - |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 2023-06-21 | 53 (1,000 XP) | 3 | - | - |
 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2023-06-22 | 42 (1,000 XP) | 1 | - | - |

@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 16.57% |
+| 10 | [Island Cities](games/i/island_cities.md) | 16.52% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
@@ -79,7 +79,7 @@
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
-| 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
+| 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.67% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.59% |
 | 83 | [Somerville](games/s/somerville.md) | 1.58% |
