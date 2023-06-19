@@ -15,27 +15,27 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.70% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.58% |
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 18 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 10.00% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
-| 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
-| 21 | [Smelter](games/s/smelter.md) | 8.33% |
-| 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
-| 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
-| 27 | [Scorn](games/s/scorn.md) | 6.85% |
-| 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
-| 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
-| 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
-| 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
-| 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
-| 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
+| 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
+| 22 | [Smelter](games/s/smelter.md) | 8.33% |
+| 23 | [Time Loader](games/t/time_loader.md) | 7.48% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
+| 25 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
+| 28 | [Scorn](games/s/scorn.md) | 6.85% |
+| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
+| 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
+| 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
+| 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
+| 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.31% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
@@ -61,8 +61,8 @@
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
@@ -108,7 +108,7 @@
 | 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.73% |
 | 108 | [Haven](games/h/haven.md) | 0.70% |
-| 108 | [Them and Us](games/t/them_and_us.md) | 0.70% |
+| 109 | [Them and Us](games/t/them_and_us.md) | 0.69% |
 | 110 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
 | 110 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 112 | [Train Valley](games/t/train_valley.md) | 0.66% |
