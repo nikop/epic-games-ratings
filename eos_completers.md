@@ -24,7 +24,7 @@
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -47,9 +47,9 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
-| 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
+| 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
