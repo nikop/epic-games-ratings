@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26416,
+  "EOS_Progressed": 26425,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6466,6 +6466,11 @@
       "Time": "2023-06-19T03:07:12.4481871+00:00",
       "NumProgressed": 26416,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-19T04:05:30.7282707+00:00",
+      "NumProgressed": 26425,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6477,7 +6482,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6485,7 +6490,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5285
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6493,7 +6498,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -6629,7 +6634,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -6637,7 +6642,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -6653,7 +6658,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -6708,7 +6713,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26416,
+      "Progressed": 26425,
       "Completed": 20
     }
   ],
@@ -6716,8 +6721,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:12.448186+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:30.7282701+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:01:11.7938059+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:12.4482306+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:59:38.9190277+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:30.7283291+00:00"
 }

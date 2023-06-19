@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3278,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3513,9 +3513,9 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2032
     },
     {
       "ID": "Ach003",
@@ -3569,9 +3569,9 @@
       "ID": "Ach009",
       "SetID": "12n4k20",
       "Name": "Well that was a rush!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 557
     },
     {
       "ID": "Ach010",
@@ -4008,8 +4008,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:30.9915017+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:46.9662107+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:59:31.3909284+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:30.9915596+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:58:22.4324019+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:46.966294+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1197,9 +1197,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22299,
+  "EOS_Progressed": 22301,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4457,6 +4457,11 @@
       "Time": "2023-06-19T02:16:43.6238403+00:00",
       "NumProgressed": 22299,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-19T04:05:37.7639833+00:00",
+      "NumProgressed": 22301,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -4724,7 +4729,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "RogueMode",
@@ -4779,21 +4784,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22299,
+      "Progressed": 22301,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1229,
+      "Progressed": 1231,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-17T21:58:59.5945774+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:20.4828159+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:37.7639826+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:47.9436973+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:00:16.8958839+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:20.4828535+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:58:55.2262402+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:37.7640397+00:00"
 }

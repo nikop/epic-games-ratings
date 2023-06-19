@@ -42,13 +42,13 @@
 | Giant Claw Spider Challenge | 6.00% | ~2 |
 | Berserker Challenge | 6.00% | ~2 |
 | Giantess Challenge | 6.00% | ~2 |
+| Flying Kobold Challenge | 3.00% | ~1 |
 | Furious Scorpion Challenge | 3.00% | ~1 |
 | Silver Moon Wolf King Challenge | 3.00% | ~1 |
+| Giant Lizard Challenge | 3.00% | ~1 |
 | Mermaid Challenge | 3.00% | ~1 |
 | Warden Challenge | 3.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
-| Flying Kobold Challenge | 0.00% | ~0 |
-| Giant Lizard Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 227)  

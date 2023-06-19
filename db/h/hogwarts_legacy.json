@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3918,9 +3918,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280654,
+  "EOS_Progressed": 280657,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1896,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10118,6 +10118,11 @@
       "Time": "2023-06-19T03:06:06.8058316+00:00",
       "NumProgressed": 280654,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T04:04:37.505958+00:00",
+      "NumProgressed": 280657,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10249,7 +10254,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22452
+      "UsersEstimate": 22453
     },
     {
       "ID": "PFA_24",
@@ -10457,7 +10462,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22452
+      "UsersEstimate": 22453
     },
     {
       "ID": "PFA_7",
@@ -10465,7 +10470,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22452
+      "UsersEstimate": 22453
     },
     {
       "ID": "PFA_8",
@@ -10488,7 +10493,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280654,
+      "Progressed": 280657,
       "Completed": 408
     }
   ],
@@ -10496,8 +10501,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T02:08:11.9203931+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:06:06.8058312+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:04:37.5059575+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:58:16.0008097+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:06:06.8058891+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:57:20.3605633+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:04:37.506033+00:00"
 }

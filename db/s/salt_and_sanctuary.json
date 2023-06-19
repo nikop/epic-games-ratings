@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2301,9 +2301,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 524997,
+  "EOS_Progressed": 525000,
   "EOS_Completed": 1453,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8486,6 +8486,11 @@
       "Time": "2023-06-19T03:07:08.4842972+00:00",
       "NumProgressed": 524997,
       "NumCompleted": 1453
+    },
+    {
+      "Time": "2023-06-19T04:05:26.5834284+00:00",
+      "NumProgressed": 525000,
+      "NumCompleted": 1453
     }
   ],
   "TotalAchievements": 37,
@@ -8513,7 +8518,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157499
+      "UsersEstimate": 157500
     },
     {
       "ID": "DEVOTED",
@@ -8553,7 +8558,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 435748
+      "UsersEstimate": 435750
     },
     {
       "ID": "HONED",
@@ -8609,7 +8614,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209999
+      "UsersEstimate": 210000
     },
     {
       "ID": "THE_CASTLE",
@@ -8673,7 +8678,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94499
+      "UsersEstimate": 94500
     },
     {
       "ID": "THE_KEEP",
@@ -8753,7 +8758,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 335998
+      "UsersEstimate": 336000
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -8792,15 +8797,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 524997,
+      "Progressed": 525000,
       "Completed": 1453
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-18T17:59:54.6200446+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:08.4842963+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:26.5834278+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.646002+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:00:30.0414433+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:08.4843465+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:59:04.7442682+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:26.5835007+00:00"
 }

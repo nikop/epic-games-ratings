@@ -17,8 +17,8 @@
 | Proper Walls | 31.00% | ~69 |
 | Destination Destiny | 27.00% | ~60 |
 | Happy Tenants | 24.00% | ~53 |
+| Your Prestige is Rising | 23.00% | ~51 |
 | Smooth Service | 23.00% | ~51 |
-| Your Prestige is Rising | 22.00% | ~49 |
 | Potent Potables | 22.00% | ~49 |
 | Retail Revenue | 22.00% | ~49 |
 | Lux Living | 21.00% | ~47 |
@@ -32,21 +32,21 @@
 | Tasty Profits | 18.00% | ~40 |
 | We Don't Need No Education | 18.00% | ~40 |
 | Under One Roof | 16.00% | ~36 |
+| Established Fame | 16.00% | ~36 |
 | Cashflow Chief | 16.00% | ~36 |
-| Established Fame | 15.00% | ~33 |
 | Terrifically Trashed | 15.00% | ~33 |
 | Starred Dining | 14.00% | ~31 |
 | Boutique Benefits | 14.00% | ~31 |
 | Thrilled Tenants | 14.00% | ~31 |
+| Smooth Operator | 13.00% | ~29 |
 | Swimming in Surplus | 13.00% | ~29 |
-| Smooth Operator | 12.00% | ~27 |
 | 28 Days Later | 11.00% | ~24 |
+| Aestheticly Pleased | 9.00% | ~20 |
 | Plaza Plan | 9.00% | ~20 |
 | Master of Puppets | 9.00% | ~20 |
 | Refined Palates | 9.00% | ~20 |
 | Revenue Royalty | 9.00% | ~20 |
 | First 100 Days | 8.00% | ~18 |
-| Aestheticly Pleased | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |

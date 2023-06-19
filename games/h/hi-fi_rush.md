@@ -9,7 +9,7 @@ Rating: 4.89 (Ranked 13)
 | Feeling the beat! | 80.00% | ~2,622 |
 | You can pet the cat! | 74.00% | ~2,426 |
 | Who put gears in there? | 67.00% | ~2,196 |
-| Cream of the Crop | 61.00% | ~2,000 |
+| Cream of the Crop | 62.00% | ~2,032 |
 | Thanks for the free chip, Peppermint! | 61.00% | ~2,000 |
 | You got this, Peppermint? | 56.00% | ~1,836 |
 | Perfect Parry | 53.00% | ~1,737 |
@@ -33,8 +33,8 @@ Rating: 4.89 (Ranked 13)
 | There's such a thing as TOO helpful | 21.00% | ~688 |
 | That's a lot of junk metal… | 19.00% | ~623 |
 | Beat-hit mania | 18.00% | ~590 |
+| Well that was a rush! | 17.00% | ~557 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~557 |
-| Well that was a rush! | 16.00% | ~524 |
 | Chip-tuned | 11.00% | ~361 |
 | Wanna hear my playlist? | 11.00% | ~361 |
 | Check out my moves! | 11.00% | ~361 |

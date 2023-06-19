@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -666,9 +666,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -946,9 +946,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_all_koth_points",
@@ -978,7 +978,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -1074,7 +1074,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -1209,8 +1209,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:04:37.7361982+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:03:25.1423171+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.6214282+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:59:16.3883117+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:04:37.7362595+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:58:11.0503996+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:03:25.1423894+00:00"
 }

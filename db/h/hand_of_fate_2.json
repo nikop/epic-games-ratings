@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658122,
+  "EOS_Progressed": 658123,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6375,6 +6375,11 @@
       "Time": "2023-06-19T03:07:17.8332478+00:00",
       "NumProgressed": 658122,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-19T04:05:35.5601632+00:00",
+      "NumProgressed": 658123,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6386,7 +6391,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473848
+      "UsersEstimate": 473849
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6650,7 +6655,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164530
+      "UsersEstimate": 164531
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -6769,15 +6774,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658122,
+      "Progressed": 658123,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:17.8332472+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:35.5601627+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:58:32.8544874+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:17.8333016+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:57:34.8449377+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:35.5602405+00:00"
 }

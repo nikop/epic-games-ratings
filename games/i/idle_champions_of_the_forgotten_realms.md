@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,852 |
-| The Cursed Farmer | 3.00% | ~2,936 |
+| A Brief Tour of the Realms | 7.00% | ~6,853 |
+| The Cursed Farmer | 3.00% | ~2,937 |
 | Beast Intentions | 2.00% | ~1,958 |
 | The Mad Wizard | 2.00% | ~1,958 |
 | Were-verpowered | 1.00% | ~979 |
@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 1.00% | ~979 |
 | Mad Cow Disease | 0.90% | ~881 |
 | Friendly Imps | 0.90% | ~881 |
-| The Court of Storms | 0.90% | ~577 |
+| The Court of Storms | 0.90% | ~578 |
 | A Persistent Buzzing | 0.80% | ~783 |
 | Pure Energy | 0.80% | ~783 |
 | Terror in the Dark | 0.70% | ~685 |
@@ -30,14 +30,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.60% | ~587 |
 | The Contagious Curse | 0.60% | ~587 |
 | Coasting to the Finish | 0.60% | ~385 |
-| Maddening | 0.50% | ~489 |
+| Maddening | 0.50% | ~490 |
 | Checkmate | 0.50% | ~321 |
 | Vecna Out! | 0.50% | ~321 |
-| Low Initiative | 0.50% | ~489 |
-| Running of the Saurs | 0.50% | ~489 |
-| Escort to Waterdeep | 0.50% | ~489 |
-| Waterdeep Detours | 0.50% | ~489 |
-| Underdeep Cartography | 0.50% | ~489 |
+| Low Initiative | 0.50% | ~490 |
+| Running of the Saurs | 0.50% | ~490 |
+| Escort to Waterdeep | 0.50% | ~490 |
+| Waterdeep Detours | 0.50% | ~490 |
+| Underdeep Cartography | 0.50% | ~490 |
 | Quick or Quack | 0.50% | ~321 |
 | The Silken Swamp | 0.40% | ~392 |
 | Supply Run | 0.40% | ~392 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.40% | ~392 |
 | The Botched Kidnapping | 0.40% | ~392 |
 | Trollskull Manor | 0.40% | ~392 |
+| Attack on the Manor | 0.40% | ~392 |
 | The Death Curse | 0.40% | ~392 |
 | Premature Betrayal | 0.40% | ~392 |
 | A Tale of Two Cities | 0.40% | ~392 |
@@ -61,22 +62,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.40% | ~392 |
 | Rescue in the Jungle | 0.40% | ~392 |
 | Pros and CONs | 0.30% | ~294 |
-| Tall Tales | 0.30% | ~192 |
-| Third Third Out | 0.30% | ~192 |
+| Tall Tales | 0.30% | ~193 |
+| Third Third Out | 0.30% | ~193 |
 | Wet Feet | 0.30% | ~294 |
 | Hatchlings Underfoot | 0.30% | ~294 |
-| Keep Your Distance | 0.30% | ~192 |
-| Hands Off! | 0.30% | ~192 |
-| The Dread Domain of Tovag | 0.30% | ~192 |
-| Frail Doesn't Mean Broken | 0.30% | ~192 |
-| The Castle of a Thousand Vecnas | 0.30% | ~192 |
-| The Sanctum of the Sword | 0.30% | ~192 |
-| Get Back In The Castle | 0.30% | ~192 |
-| Bully for Vecna | 0.30% | ~192 |
+| Keep Your Distance | 0.30% | ~193 |
+| Hands Off! | 0.30% | ~193 |
+| The Dread Domain of Tovag | 0.30% | ~193 |
+| Frail Doesn't Mean Broken | 0.30% | ~193 |
+| The Castle of a Thousand Vecnas | 0.30% | ~193 |
+| The Sanctum of the Sword | 0.30% | ~193 |
+| Get Back In The Castle | 0.30% | ~193 |
+| Bully for Vecna | 0.30% | ~193 |
 | Homecoming | 0.30% | ~294 |
 | The Lost Heir of Omu | 0.30% | ~294 |
-| No One Can Hear You Scream | 0.30% | ~192 |
-| Welcome to the Rock | 0.30% | ~192 |
+| No One Can Hear You Scream | 0.30% | ~193 |
+| Welcome to the Rock | 0.30% | ~193 |
 | The Forbidden City | 0.30% | ~294 |
 | Captured! | 0.30% | ~294 |
 | Force Grey Unleashed | 0.30% | ~294 |
@@ -92,7 +93,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.30% | ~294 |
 | Tower on the Lake | 0.30% | ~294 |
 | Seeds of Deceit | 0.30% | ~294 |
-| Attack on the Manor | 0.30% | ~294 |
 | Treasure Hunters | 0.30% | ~294 |
 | The Guardian of Orolunga | 0.30% | ~294 |
 | The Lost Love | 0.30% | ~294 |
@@ -114,21 +114,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~294 |
 | Resolve Amongst Chaos | 0.30% | ~294 |
 | Market Fluctuations | 0.30% | ~294 |
-| Into The Fire | 0.30% | ~192 |
-| Hearts Aflame | 0.30% | ~192 |
-| Look Out! | 0.30% | ~192 |
-| Bad Odds in Avernus | 0.30% | ~192 |
-| An Even Worse Time in Avernus | 0.30% | ~192 |
-| The Giant's Bane Tavern | 0.30% | ~192 |
-| The Everlasting Rime | 0.30% | ~192 |
+| Into The Fire | 0.30% | ~193 |
+| Hearts Aflame | 0.30% | ~193 |
+| Look Out! | 0.30% | ~193 |
+| Bad Odds in Avernus | 0.30% | ~193 |
+| An Even Worse Time in Avernus | 0.30% | ~193 |
+| The Giant's Bane Tavern | 0.30% | ~193 |
+| The Everlasting Rime | 0.30% | ~193 |
 | Close Escort | 0.30% | ~294 |
 | The Long Haul | 0.30% | ~294 |
 | Lost in the Deep | 0.30% | ~294 |
 | Easily Distracted | 0.30% | ~294 |
 | Rude Welcome | 0.30% | ~294 |
 | Durable Deep | 0.30% | ~294 |
-| Witty Riposting | 0.30% | ~192 |
-| How Far Away is Thay | 0.30% | ~192 |
+| Witty Riposting | 0.30% | ~193 |
+| How Far Away is Thay | 0.30% | ~193 |
 | The Haunted Jungle | 0.30% | ~294 |
 | Upholding the Law | 0.20% | ~196 |
 | Starving in the Jungle | 0.20% | ~196 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,881 (Ranked 63)  
+Progressed: 97,904 (Ranked 63)  
 Completed: 1,948 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,948 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 97,881 | 1,948 |
+| 2023-06-19 | 97,904 | 1,948 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,141 (Ranked 37)  

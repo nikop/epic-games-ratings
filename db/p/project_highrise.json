@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -528,9 +528,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_consultants_b",
@@ -544,9 +544,9 @@
       "ID": "ach_consultants_c",
       "SetID": "b8gh1fi",
       "Name": "Smooth Operator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_contracts_1",
@@ -816,17 +816,17 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_prestige_3",
@@ -1089,8 +1089,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:34.5659463+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:50.2669491+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.7118249+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:59:01.6620313+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:34.5660269+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:57:58.349405+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:50.2670584+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245123,
+  "EOS_Progressed": 245125,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5699,6 +5699,11 @@
       "Time": "2023-06-19T03:07:16.129071+00:00",
       "NumProgressed": 245123,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T04:05:33.8840631+00:00",
+      "NumProgressed": 245125,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5710,7 +5715,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14707
+      "UsersEstimate": 14708
     },
     {
       "ID": "aWinnerIsYou",
@@ -5758,7 +5763,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14707
+      "UsersEstimate": 14708
     },
     {
       "ID": "canYouDigIt",
@@ -5782,7 +5787,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36768
+      "UsersEstimate": 36769
     },
     {
       "ID": "clearCut",
@@ -5886,7 +5891,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129915
+      "UsersEstimate": 129916
     },
     {
       "ID": "indegestible",
@@ -5942,7 +5947,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34317
+      "UsersEstimate": 34318
     },
     {
       "ID": "myFirstRunbow",
@@ -6020,9 +6025,9 @@
       "ID": "thunderstruck",
       "SetID": "d7im63i",
       "Name": "Thunderstruck",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2451
+      "UsersEstimate": 4902
     },
     {
       "ID": "toasty",
@@ -6077,7 +6082,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245123,
+      "Progressed": 245125,
       "Completed": 3
     }
   ],
@@ -6085,8 +6090,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-19T03:07:16.1290706+00:00",
+  "LastChanged_Achievements": "2023-06-19T04:05:33.8840625+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:00:16.0654704+00:00",
-  "LastUpdate_Achievements": "2023-06-19T03:07:16.1291284+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:58:54.6080838+00:00",
+  "LastUpdate_Achievements": "2023-06-19T04:05:33.8841387+00:00"
 }

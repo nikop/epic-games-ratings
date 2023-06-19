@@ -1,7 +1,7 @@
 # Divine Knockout (DKO) - Starter Edition
 [Store](https://store.epicgames.com/en-US/p/divine-knockout)  
 [View Rawdata](../../db/d/divine_knockout_(dko)_-_starter_edition.json)  
-Rating: 4.34 (Ranked 739)  
+Rating: 4.33 (Ranked 749)  
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 54  (Ranked 389)  
@@ -149,3 +149,4 @@ Diff (max vs sum): 91
 | 2023-06-15 | 4.34 | - | 54 | 468 |
 | 2023-06-16 | 4.34 | - | 54 | 469 |
 | 2023-06-18 | 4.34 | - | 54 | 470 |
+| 2023-06-19 | 4.33 | - | 54 | 470 |
