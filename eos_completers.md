@@ -15,7 +15,7 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.83% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.70% |
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
@@ -62,8 +62,8 @@
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.58% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
+| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
