@@ -37,7 +37,7 @@
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.33% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.32% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
@@ -61,10 +61,10 @@
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 62 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.52% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
+| 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.45% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
