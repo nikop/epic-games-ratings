@@ -19,7 +19,7 @@
 | 17 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 21 | [Smelter](games/s/smelter.md) | 8.33% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
@@ -37,7 +37,7 @@
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.32% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.31% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
@@ -75,10 +75,10 @@
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.99% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
-| 75 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
-| 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
-| 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
-| 79 | [Sifu](games/s/sifu.md) | 1.80% |
+| 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
+| 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
+| 78 | [Sifu](games/s/sifu.md) | 1.80% |
+| 79 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.75% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Poosh XL](games/p/poosh_xl.md) | 1.59% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
