@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2817,
+  "EOS_Progressed": 2819,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
@@ -2865,6 +2865,11 @@
       "Time": "2023-06-19T15:05:13.3847988+00:00",
       "NumProgressed": 2817,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-06-19T18:04:39.8014869+00:00",
+      "NumProgressed": 2819,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 24,
@@ -2884,7 +2889,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "11",
@@ -2892,7 +2897,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "12",
@@ -2916,7 +2921,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "15",
@@ -2972,7 +2977,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "21",
@@ -2996,7 +3001,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "24",
@@ -3004,7 +3009,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "3",
@@ -3020,7 +3025,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "5",
@@ -3028,7 +3033,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "6",
@@ -3036,7 +3041,7 @@
       "Name": "PRO",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "7",
@@ -3058,22 +3063,22 @@
       "ID": "9",
       "SetID": "9p3jgda",
       "Name": "LEGENDARY HERO",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 310
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2817,
+      "Progressed": 2819,
       "Completed": 66
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:04:50.581209+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:04:39.8014864+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:59:54.4697442+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:04:50.5812688+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:59:22.3789516+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:04:39.801522+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 391,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2022,11 +2022,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 1397,
       "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-06-19T17:58:21.9717372+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1399,
+      "NumberOfAwardsMax": 202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1397,
-  "NumberOfAwardsMax": 200,
+  "NumberOfAwards": 1399,
+  "NumberOfAwardsMax": 202,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2087,7 +2093,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 200
+      "Count": 202
     }
   ],
   "EOS_Progressed": 0,
@@ -2101,8 +2107,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-06-19T16:58:39.6104955+00:00",
+  "LastChanged": "2023-06-19T17:58:21.9717371+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.2325209+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:58:39.6104962+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:02:46.8402569+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:58:21.9717376+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:02:24.383263+00:00"
 }

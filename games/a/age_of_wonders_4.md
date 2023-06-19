@@ -6,27 +6,27 @@ Rating: 4.58 (Ranked 422)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,749 |
-| Realm Estate | 76.00% | ~3,606 |
-| Secret Technique | 75.00% | ~3,559 |
-| Walls Cannot Stop Us | 74.00% | ~3,511 |
-| From Friends to Family | 69.00% | ~3,274 |
+| Realm Estate | 76.00% | ~3,607 |
+| Secret Technique | 75.00% | ~3,560 |
+| Walls Cannot Stop Us | 74.00% | ~3,512 |
+| From Friends to Family | 69.00% | ~3,275 |
 | Magical Synergy | 66.00% | ~3,132 |
-| Bone Peddler | 61.00% | ~2,894 |
+| Bone Peddler | 61.00% | ~2,895 |
 | Stronger Together | 57.00% | ~2,705 |
-| Full Ascension | 56.00% | ~2,657 |
-| There Can Only Be One! | 49.00% | ~2,325 |
-| Seat of Power | 49.00% | ~2,325 |
-| My Final Form | 45.00% | ~2,135 |
-| Intimidation Tactics | 45.00% | ~2,135 |
-| Valley of Wonders | 43.00% | ~2,040 |
+| Full Ascension | 56.00% | ~2,658 |
+| There Can Only Be One! | 49.00% | ~2,326 |
+| Seat of Power | 49.00% | ~2,326 |
+| My Final Form | 45.00% | ~2,136 |
+| Intimidation Tactics | 45.00% | ~2,136 |
+| Valley of Wonders | 43.00% | ~2,041 |
 | In a Liege of Your Own | 40.00% | ~1,898 |
-| Return of the Wizard King | 32.00% | ~1,518 |
-| Digging for Treasure | 32.00% | ~1,518 |
-| Against the Odds | 32.00% | ~1,518 |
+| Return of the Wizard King | 32.00% | ~1,519 |
+| Digging for Treasure | 32.00% | ~1,519 |
+| Against the Odds | 32.00% | ~1,519 |
 | Enchanted Archipelago | 29.00% | ~1,376 |
 | Impenetrable Fortress | 28.00% | ~1,329 |
-| The Magic That Empowers Me! | 21.00% | ~996 |
-| Preparation Is Everything | 21.00% | ~996 |
+| The Magic That Empowers Me! | 21.00% | ~997 |
+| Preparation Is Everything | 21.00% | ~997 |
 | Arch Mage | 20.00% | ~949 |
 | God Emperor | 19.00% | ~902 |
 | Eternal Lord | 18.00% | ~854 |
@@ -35,9 +35,9 @@ Rating: 4.58 (Ranked 422)
 | Lord of Chaos | 15.00% | ~712 |
 | The Creator | 15.00% | ~712 |
 | The Goddess of Nature | 15.00% | ~712 |
-| The Eternal Court | 10.00% | ~474 |
-| Jack of All Tomes | 10.00% | ~474 |
-| Pruning for Progress | 10.00% | ~474 |
+| The Eternal Court | 10.00% | ~475 |
+| Jack of All Tomes | 10.00% | ~475 |
+| Pruning for Progress | 10.00% | ~475 |
 | I've Got Everything I Need Right Here | 7.00% | ~332 |
 | Grexolis | 5.00% | ~237 |
 | One for All, All for One | 5.00% | ~237 |
@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 422)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,745 (Ranked 131)  
+Progressed: 4,746 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
 | 2023-06-18 | 4,734 | 3 |
-| 2023-06-19 | 4,745 | 3 |
+| 2023-06-19 | 4,746 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

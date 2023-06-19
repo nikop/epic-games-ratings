@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1185,6 +1185,11 @@
       "Time": "2023-06-19T15:07:43.9271267+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T18:06:47.5280066+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1244,7 +1249,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Defense_Common",
@@ -1308,7 +1313,7 @@
       "Name": "Grenadier",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Hard_Serpent",
@@ -1372,7 +1377,7 @@
       "Name": "One by One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Miner",
@@ -1404,7 +1409,7 @@
       "Name": "Strategist",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "War_never_changes",
@@ -1428,22 +1433,22 @@
       "Name": "Your Answer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:30.4496981+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:47.5280061+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:00:15.3042269+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:30.4497384+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:59:38.8009765+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:47.5280379+00:00"
 }

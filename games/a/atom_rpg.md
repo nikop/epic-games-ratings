@@ -11,8 +11,8 @@ Number of Ratings: 54  (23.09.2022)
 | One HIT wonder | 34.00% | ~335 |
 | One shot, one kill | 28.00% | ~276 |
 | Traveler | 25.00% | ~246 |
+| Head Burst | 19.00% | ~187 |
 | Explorer | 18.00% | ~177 |
-| Head Burst | 18.00% | ~177 |
 | Grave Robber | 17.00% | ~167 |
 | Double agent | 15.00% | ~148 |
 | Paranoia | 15.00% | ~148 |
@@ -20,8 +20,8 @@ Number of Ratings: 54  (23.09.2022)
 | Love Guru | 9.00% | ~89 |
 | Savant | 9.00% | ~89 |
 | Not-so-private Eye | 8.00% | ~79 |
+| Superhuman | 8.00% | ~79 |
 | Bustin' nuts | 7.00% | ~69 |
-| Superhuman | 7.00% | ~69 |
 | The Vitinsky Rifle | 6.00% | ~59 |
 | Protection racket | 5.00% | ~49 |
 | Secret room | 5.00% | ~49 |

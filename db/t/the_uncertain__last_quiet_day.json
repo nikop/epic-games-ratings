@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.14,
+  "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -301,6 +301,11 @@
       "Time": "2023-06-18T15:05:33.2546951+00:00",
       "NumProgressed": 478,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-19T18:06:38.0264165+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -398,9 +403,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 254
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -424,7 +429,7 @@
       "Name": "Hipster",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -432,7 +437,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LUCKY_DOG",
@@ -464,7 +469,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -472,7 +477,7 @@
       "Name": "Now you know",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "PERFECT_HEARING",
@@ -510,9 +515,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 254
     },
     {
       "ID": "SILENT",
@@ -567,7 +572,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 15
     }
   ],
@@ -575,8 +580,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:19.5338737+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:38.0264155+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:23.5756417+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:59:31.1411714+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:19.5339151+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:59:02.5688761+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:38.0264415+00:00"
 }

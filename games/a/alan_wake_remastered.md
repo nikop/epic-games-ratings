@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,828 |
+| Follow the Light | 32.00% | ~17,829 |
 | Let There Be Light | 26.00% | ~14,486 |
-| Float Like a Butterfly | 25.00% | ~13,928 |
+| Float Like a Butterfly | 25.00% | ~13,929 |
 | Nordic Walking | 20.00% | ~11,143 |
 | Bright Falls' Finest | 19.00% | ~10,586 |
-| Under a Thin Layer of Skin | 17.00% | ~9,471 |
+| Under a Thin Layer of Skin | 17.00% | ~9,472 |
 | Paging Mr. Wake | 14.00% | ~7,800 |
 | Park Ranger | 13.00% | ~7,243 |
 | Back! Back, I Say! | 13.00% | ~7,243 |
@@ -20,12 +20,12 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 11.00% | ~6,129 |
 | Missed by a Mile | 11.00% | ~6,129 |
 | Damn Good Cup of Coffee | 11.00% | ~6,129 |
-| Iron Horse | 10.00% | ~5,571 |
-| Wheels Within Wheels | 10.00% | ~5,571 |
-| The Six-Gun Scribe | 10.00% | ~5,571 |
-| Collateral Carnage | 10.00% | ~5,571 |
-| Come One, Come All | 10.00% | ~5,571 |
-| Heavy Metal | 9.00% | ~5,014 |
+| Heavy Metal | 10.00% | ~5,572 |
+| Iron Horse | 10.00% | ~5,572 |
+| Wheels Within Wheels | 10.00% | ~5,572 |
+| The Six-Gun Scribe | 10.00% | ~5,572 |
+| Collateral Carnage | 10.00% | ~5,572 |
+| Come One, Come All | 10.00% | ~5,572 |
 | Perchance to Dream | 9.00% | ~5,014 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,014 |
 | Thunder and Lightning | 9.00% | ~5,014 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 3.00% | ~1,671 |
 | If It Flies, It Burns | 3.00% | ~1,671 |
 | KBF-FM | 3.00% | ~1,671 |
-| Kill Your Darlings | 3.00% | ~575 |
-| Heartbreaker | 3.00% | ~575 |
+| Kill Your Darlings | 3.00% | ~576 |
+| Heartbreaker | 3.00% | ~576 |
 | Medical Opinions | 2.00% | ~1,114 |
 | Taken Season | 2.00% | ~1,114 |
 | Carny | 2.00% | ~1,114 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,714 (Ranked 78)  
+Progressed: 55,716 (Ranked 78)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
 | 2023-06-18 | 55,644 | 56 |
-| 2023-06-19 | 55,714 | 56 |
+| 2023-06-19 | 55,716 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

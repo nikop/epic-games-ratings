@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 214724,
+  "EOS_Progressed": 214736,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6746,6 +6746,11 @@
       "Time": "2023-06-19T17:04:33.8200154+00:00",
       "NumProgressed": 214724,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-19T18:04:25.6633214+00:00",
+      "NumProgressed": 214736,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6757,7 +6762,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40798
+      "UsersEstimate": 40800
     },
     {
       "ID": "ACH_BASE_10",
@@ -6765,7 +6770,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53681
+      "UsersEstimate": 53684
     },
     {
       "ID": "ACH_BASE_11",
@@ -6797,7 +6802,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19325
+      "UsersEstimate": 19326
     },
     {
       "ID": "ACH_BASE_16",
@@ -6805,7 +6810,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19325
+      "UsersEstimate": 19326
     },
     {
       "ID": "ACH_BASE_17",
@@ -6813,7 +6818,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19325
+      "UsersEstimate": 19326
     },
     {
       "ID": "ACH_BASE_18",
@@ -6821,7 +6826,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19325
+      "UsersEstimate": 19326
     },
     {
       "ID": "ACH_BASE_19",
@@ -6829,7 +6834,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_BASE_2",
@@ -6837,7 +6842,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12883
+      "UsersEstimate": 12884
     },
     {
       "ID": "ACH_BASE_20",
@@ -6853,7 +6858,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_BASE_22",
@@ -6861,7 +6866,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_BASE_23",
@@ -6989,7 +6994,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_BASE_6",
@@ -6997,7 +7002,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_BASE_7",
@@ -7005,7 +7010,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25767
+      "UsersEstimate": 25768
     },
     {
       "ID": "ACH_BASE_8",
@@ -7021,14 +7026,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19325
+      "UsersEstimate": 19326
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214724,
+      "Progressed": 214736,
       "Completed": 4
     }
   ],
@@ -7036,8 +7041,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-18T23:59:17.0103272+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:04:33.8200147+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:04:25.6633201+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.2900721+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:59:12.7007261+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:04:33.820131+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:58:48.1919843+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:04:25.6633838+00:00"
 }

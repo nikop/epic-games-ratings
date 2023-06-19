@@ -9,7 +9,7 @@ Rating: 3.81 (Ranked 934)
 | The First Step | 88.00% | ~1,268 |
 | Moonbury Traveller | 64.00% | ~922 |
 | Rookie Chemist | 62.00% | ~893 |
-| Great Doctor | 50.00% | ~720 |
+| Great Doctor | 51.00% | ~735 |
 | Dog Whisperer | 48.00% | ~692 |
 | Friendly | 47.00% | ~677 |
 | The Capitalist | 43.00% | ~620 |
@@ -45,7 +45,7 @@ Rating: 3.81 (Ranked 934)
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,441 (Ranked 167)  
-Completed: 7 (0.49%) (Ranked 123)  
+Completed: 7 (0.49%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

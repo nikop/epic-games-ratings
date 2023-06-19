@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13365,
+  "EOS_Progressed": 13366,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -4474,6 +4474,11 @@
       "Time": "2023-06-19T17:07:13.4665824+00:00",
       "NumProgressed": 13365,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-19T18:06:32.8981215+00:00",
+      "NumProgressed": 13366,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4565,7 +4570,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "tpote_achievement_2",
@@ -4637,7 +4642,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "tpote_achievement_28",
@@ -4645,7 +4650,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "tpote_achievement_29",
@@ -4661,7 +4666,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "tpote_achievement_30",
@@ -4669,7 +4674,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "tpote_achievement_31",
@@ -4749,7 +4754,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "tpote_achievement_40",
@@ -4773,7 +4778,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "tpote_achievement_6",
@@ -4797,7 +4802,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "tpote_achievement_9",
@@ -4812,15 +4817,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13365,
+      "Progressed": 13366,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:13.4665819+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:32.8981209+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:01:17.5718998+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:13.4666463+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:00:29.7554959+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:32.8981823+00:00"
 }

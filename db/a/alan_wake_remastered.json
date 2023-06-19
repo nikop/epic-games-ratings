@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55714,
+  "EOS_Progressed": 55716,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1314,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2023-06-19T17:07:32.116776+00:00",
       "NumProgressed": 55714,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T18:06:49.0554527+00:00",
+      "NumProgressed": 55716,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5433,7 +5438,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17828
+      "UsersEstimate": 17829
     },
     {
       "ID": "02",
@@ -5465,7 +5470,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9471
+      "UsersEstimate": 9472
     },
     {
       "ID": "06",
@@ -5479,9 +5484,9 @@
       "ID": "07",
       "SetID": "212770e",
       "Name": "Heavy Metal",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5572
     },
     {
       "ID": "08",
@@ -5489,7 +5494,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "09",
@@ -5497,7 +5502,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "10",
@@ -5601,7 +5606,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "23",
@@ -5641,7 +5646,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "28",
@@ -5649,7 +5654,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "29",
@@ -5681,7 +5686,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13928
+      "UsersEstimate": 13929
     },
     {
       "ID": "33",
@@ -5905,7 +5910,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "61",
@@ -5961,28 +5966,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55714,
+      "Progressed": 55716,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19182,
+      "Progressed": 19184,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:32.1167754+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:49.0554517+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:58:08.3439944+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:32.1169502+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:57:55.9336053+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:49.0555573+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play It Again Sam | 92.00% | ~165 |
-| Strong Silent Type | 91.00% | ~163 |
-| Play Me By The Hour | 67.00% | ~120 |
-| Patient Listener | 46.00% | ~82 |
-| Video Saved The Radio Star | 37.00% | ~66 |
-| Hashtag Winning | 36.00% | ~64 |
+| Play It Again Sam | 92.00% | ~166 |
+| Strong Silent Type | 91.00% | ~164 |
+| Play Me By The Hour | 67.00% | ~121 |
+| Patient Listener | 46.00% | ~83 |
+| Video Saved The Radio Star | 37.00% | ~67 |
+| Hashtag Winning | 36.00% | ~65 |
 | A Woman Scorned | 24.00% | ~43 |
 | Chameleon | 21.00% | ~38 |
 | Highlander | 20.00% | ~36 |
@@ -26,8 +26,8 @@
 | Show Me Some Skin | 5.00% | ~9 |
 | The Big Sleep | 4.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 263)  
-Completed: 2 (1.12%) (Ranked 93)  
+Progressed: 180 (Ranked 262)  
+Completed: 2 (1.11%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,6 +49,7 @@ Completed: 2 (1.12%) (Ranked 93)
 | 2023-06-07 | 177 | 2 |
 | 2023-06-08 | 178 | 2 |
 | 2023-06-14 | 179 | 2 |
+| 2023-06-19 | 180 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

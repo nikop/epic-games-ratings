@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-06-16T13:09:50.6554629+00:00",
       "NumProgressed": 738,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T18:04:30.6120075+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -686,7 +691,7 @@
       "Name": "Full garage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -1101,21 +1106,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:04:39.8327042+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:04:30.6120061+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4263139+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:57:55.6632169+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:04:39.8327889+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:57:45.566461+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:04:30.6120769+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -500,10 +500,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 137,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-06-19T18:00:46.5729467+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 137,
+  "NumberOfAwards": 138,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -517,7 +523,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
@@ -544,9 +550,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251431,
+  "EOS_Progressed": 251434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6604,6 +6610,11 @@
       "Time": "2023-06-19T17:04:16.4693163+00:00",
       "NumProgressed": 251431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T18:04:11.0699679+00:00",
+      "NumProgressed": 251434,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6663,7 +6674,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77944
+      "UsersEstimate": 77945
     },
     {
       "ID": "BackHomeNTimes",
@@ -7062,16 +7073,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251431,
+      "Progressed": 251434,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-16T11:01:23.1488422+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:04:16.4693156+00:00",
+  "LastChanged": "2023-06-19T18:00:46.5729466+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:04:11.0699672+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:01:42.6010984+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:04:16.4694722+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:00:46.5729471+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:04:11.0700422+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -360,7 +360,7 @@
   ],
   "EOS_Progressed": 984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1563,9 +1563,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 187
     },
     {
       "ID": "INDY_1",
@@ -1715,9 +1715,9 @@
       "ID": "SUPERHUMAN_1",
       "SetID": "bf13m8j",
       "Name": "Superhuman",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 79
     },
     {
       "ID": "TRAVELER_1",
@@ -1763,8 +1763,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:29.8553876+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:47.0284091+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:41.112645+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:01:32.0465766+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:29.8554457+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:00:39.5890871+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:47.0284463+00:00"
 }

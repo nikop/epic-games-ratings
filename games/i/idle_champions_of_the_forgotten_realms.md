@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,903 |
-| The Cursed Farmer | 3.00% | ~2,958 |
-| Beast Intentions | 2.00% | ~1,972 |
-| The Ring of Regeneration | 2.00% | ~1,972 |
-| The Mad Wizard | 2.00% | ~1,972 |
-| Were-verpowered | 1.00% | ~986 |
-| Seeking Allies | 1.00% | ~986 |
-| Are Ya Chicken? | 1.00% | ~986 |
-| Friendly Imps | 1.00% | ~986 |
+| A Brief Tour of the Realms | 7.00% | ~6,908 |
+| The Cursed Farmer | 3.00% | ~2,961 |
+| Beast Intentions | 2.00% | ~1,974 |
+| The Ring of Regeneration | 2.00% | ~1,974 |
+| The Mad Wizard | 2.00% | ~1,974 |
+| Were-verpowered | 1.00% | ~987 |
+| Seeking Allies | 1.00% | ~987 |
+| Are Ya Chicken? | 1.00% | ~987 |
+| Friendly Imps | 1.00% | ~987 |
 | Mad Cow Disease | 0.90% | ~888 |
-| The Court of Storms | 0.90% | ~584 |
-| A Persistent Buzzing | 0.80% | ~789 |
-| Pure Energy | 0.80% | ~789 |
-| Terror in the Dark | 0.70% | ~690 |
-| Unearthed Evil | 0.70% | ~690 |
-| The Crumbling Temple | 0.70% | ~690 |
-| Exploring Port Nyanzaru | 0.70% | ~690 |
-| Beware the Jabberwock | 0.70% | ~454 |
+| The Court of Storms | 0.90% | ~585 |
+| A Persistent Buzzing | 0.80% | ~790 |
+| Pure Energy | 0.80% | ~790 |
+| Terror in the Dark | 0.70% | ~691 |
+| Unearthed Evil | 0.70% | ~691 |
+| The Crumbling Temple | 0.70% | ~691 |
+| Exploring Port Nyanzaru | 0.70% | ~691 |
+| Beware the Jabberwock | 0.70% | ~455 |
 | Maddening | 0.60% | ~592 |
 | Beast Mode | 0.60% | ~592 |
 | A Mysterious Summons | 0.60% | ~592 |
@@ -31,36 +31,36 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.60% | ~592 |
 | The Contagious Curse | 0.60% | ~592 |
 | Escort to Waterdeep | 0.60% | ~592 |
-| Coasting to the Finish | 0.60% | ~389 |
-| Checkmate | 0.50% | ~324 |
-| Vecna Out! | 0.50% | ~324 |
+| Coasting to the Finish | 0.60% | ~390 |
+| Checkmate | 0.50% | ~325 |
+| Vecna Out! | 0.50% | ~325 |
 | Low Initiative | 0.50% | ~493 |
 | No Time To Rest | 0.50% | ~493 |
 | Running of the Saurs | 0.50% | ~493 |
 | Waterdeep Detours | 0.50% | ~493 |
 | Underdeep Cartography | 0.50% | ~493 |
 | The Templar's Camp | 0.50% | ~493 |
-| Quick or Quack | 0.50% | ~324 |
-| The Silken Swamp | 0.40% | ~394 |
-| Supply Run | 0.40% | ~394 |
+| Quick or Quack | 0.50% | ~325 |
+| The Silken Swamp | 0.40% | ~395 |
+| Supply Run | 0.40% | ~395 |
 | Owlbear Necessities | 0.40% | ~260 |
 | Best Thay Ever | 0.40% | ~260 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~260 |
 | Pin and Skewer | 0.40% | ~260 |
-| Street War | 0.40% | ~394 |
-| March of the Undead | 0.40% | ~394 |
-| Invisible Shadows | 0.40% | ~394 |
-| The Dinner Party | 0.40% | ~394 |
-| The Botched Kidnapping | 0.40% | ~394 |
-| Trollskull Manor | 0.40% | ~394 |
-| Attack on the Manor | 0.40% | ~394 |
-| The Death Curse | 0.40% | ~394 |
-| Premature Betrayal | 0.40% | ~394 |
-| A Tale of Two Cities | 0.40% | ~394 |
-| Flying Monkey Skulls of Doom | 0.40% | ~394 |
-| Constant Banditry | 0.40% | ~394 |
-| Overdue Rendezvous | 0.40% | ~394 |
-| Rescue in the Jungle | 0.40% | ~394 |
+| Street War | 0.40% | ~395 |
+| March of the Undead | 0.40% | ~395 |
+| Invisible Shadows | 0.40% | ~395 |
+| The Dinner Party | 0.40% | ~395 |
+| The Botched Kidnapping | 0.40% | ~395 |
+| Trollskull Manor | 0.40% | ~395 |
+| Attack on the Manor | 0.40% | ~395 |
+| The Death Curse | 0.40% | ~395 |
+| Premature Betrayal | 0.40% | ~395 |
+| A Tale of Two Cities | 0.40% | ~395 |
+| Flying Monkey Skulls of Doom | 0.40% | ~395 |
+| Constant Banditry | 0.40% | ~395 |
+| Overdue Rendezvous | 0.40% | ~395 |
+| Rescue in the Jungle | 0.40% | ~395 |
 | Pros and CONs | 0.30% | ~296 |
 | Tall Tales | 0.30% | ~195 |
 | Third Third Out | 0.30% | ~195 |
@@ -172,7 +172,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zarak's Revenge | 0.20% | ~130 |
 | Bully for You! | 0.20% | ~130 |
 | The Dark Heart | 0.20% | ~130 |
-| The Oozing Hunger | 0.20% | ~130 |
 | Don't Look Up! | 0.20% | ~197 |
 | The Cult of Lolth | 0.20% | ~130 |
 | Will of the Feywild | 0.20% | ~130 |
@@ -438,6 +437,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~65 |
 | Thoughts on the Menu | 0.10% | ~65 |
 | Brains on Ice | 0.10% | ~65 |
+| The Oozing Hunger | 0.10% | ~65 |
 | Levelheaded | 0.10% | ~65 |
 | The Madness of Zuggtmoy | 0.10% | ~65 |
 | It's So Pretty… | 0.10% | ~65 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,615 (Ranked 63)  
+Progressed: 98,690 (Ranked 63)  
 Completed: 1,969 (2.00%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,969 (2.00%) (Ranked 74)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,615 | 1,969 |
+| 2023-06-19 | 98,690 | 1,969 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,147 (Ranked 37)  

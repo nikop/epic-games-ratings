@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 3.00% | ~169 |
-| Smooth Operator: Madison | 2.00% | ~112 |
+| Smooth Operator: Madison | 2.00% | ~113 |
 | The Brahdyssey | 1.00% | ~56 |
 | Caught in the Act | 1.00% | ~56 |
 | Katherine | 1.00% | ~56 |
@@ -20,10 +20,10 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.50% | ~28 |
 | Newcomer: Vickie | 0.50% | ~28 |
 | Social Butterfly | 0.50% | ~28 |
-| Amy | 0.40% | ~22 |
-| Smooth Operator: Ashley | 0.40% | ~22 |
-| Stephanie | 0.40% | ~22 |
-| The Muse: Madison | 0.40% | ~22 |
+| Amy | 0.40% | ~23 |
+| Smooth Operator: Ashley | 0.40% | ~23 |
+| Stephanie | 0.40% | ~23 |
+| The Muse: Madison | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
 | Casanova | 0.30% | ~17 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,625 (Ranked 128)  
+Progressed: 5,626 (Ranked 128)  
 Completed: 3 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 3 (0.05%) (Ranked 195)
 | 2023-06-16 | 5,615 | 3 |
 | 2023-06-17 | 5,619 | 3 |
 | 2023-06-18 | 5,623 | 3 |
-| 2023-06-19 | 5,625 | 3 |
+| 2023-06-19 | 5,626 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -11,11 +11,11 @@
 | Welcome to the Tower | 83.00% | ~5 |
 | The great escape | 83.00% | ~5 |
 | A new dawn | 83.00% | ~5 |
+| The darkness | 83.00% | ~5 |
+| True G4M3R | 67.00% | ~4 |
 | Champollion | 67.00% | ~4 |
 | One last step | 67.00% | ~4 |
 | Cable guy | 50.00% | ~3 |
-| True G4M3R | 50.00% | ~3 |
-| The darkness | 50.00% | ~3 |
 | A good beginning | 33.00% | ~2 |
 | Feels like springtime | 33.00% | ~2 |
 | I did it | 17.00% | ~1 |
@@ -30,7 +30,7 @@
 | Alchemists Express | 17.00% | ~1 |
 | Fashion victim | 17.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 387)  
+Progressed: 6 (Ranked 388)  
 Completed: 1 (16.67%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |

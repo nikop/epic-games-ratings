@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -250,9 +250,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 50,
+      "Percentage": 83,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "PROGRESS_N5",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:07:11.9322953+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:06:31.6334521+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:00:01.8715337+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:07:11.9323261+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:59:27.1530588+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:06:31.6334703+00:00"
 }

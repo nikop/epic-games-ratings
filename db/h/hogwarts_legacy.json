@@ -3856,10 +3856,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37392,
       "NumberOfAwardsMax": 20171
+    },
+    {
+      "Time": "2023-06-19T17:57:35.4045744+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37393,
+      "NumberOfAwardsMax": 20171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37392,
+  "NumberOfAwards": 37393,
   "NumberOfAwardsMax": 20171,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3879,7 +3885,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 677
+      "Count": 678
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3936,9 +3942,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 280714,
+  "EOS_Progressed": 280721,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1761,
+  "EOS_NewPlayers": 1756,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10206,6 +10212,11 @@
       "Time": "2023-06-19T17:05:55.4703338+00:00",
       "NumProgressed": 280714,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T18:05:34.747247+00:00",
+      "NumProgressed": 280721,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10217,7 +10228,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25264
+      "UsersEstimate": 25265
     },
     {
       "ID": "PFA_10",
@@ -10305,7 +10316,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_20",
@@ -10337,7 +10348,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22457
+      "UsersEstimate": 22458
     },
     {
       "ID": "PFA_24",
@@ -10369,7 +10380,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_28",
@@ -10417,7 +10428,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_33",
@@ -10465,7 +10476,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_39",
@@ -10481,7 +10492,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_40",
@@ -10497,7 +10508,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "PFA_42",
@@ -10545,7 +10556,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22457
+      "UsersEstimate": 22458
     },
     {
       "ID": "PFA_7",
@@ -10553,7 +10564,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22457
+      "UsersEstimate": 22458
     },
     {
       "ID": "PFA_8",
@@ -10576,16 +10587,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280714,
+      "Progressed": 280721,
       "Completed": 408
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-19T14:57:51.8865448+00:00",
-  "LastChanged_Achievements": "2023-06-19T17:05:55.4703331+00:00",
+  "LastChanged": "2023-06-19T17:57:35.4045743+00:00",
+  "LastChanged_Achievements": "2023-06-19T18:05:34.7472465+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:57:44.4573175+00:00",
-  "LastUpdate_Achievements": "2023-06-19T17:05:55.4704701+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:57:35.404575+00:00",
+  "LastUpdate_Achievements": "2023-06-19T18:05:34.7473204+00:00"
 }
