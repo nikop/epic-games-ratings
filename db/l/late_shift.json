@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -447,6 +447,11 @@
       "Time": "2023-06-18T20:05:43.0883043+00:00",
       "NumProgressed": 416,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-19T14:05:39.2712347+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -456,9 +461,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 396
     },
     {
       "ID": "CHOICES_MATTER",
@@ -474,7 +479,7 @@
       "Name": "The Coward",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ENDING_2",
@@ -522,7 +527,7 @@
       "Name": "The Frenzy",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -530,7 +535,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -546,7 +551,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "GOOD_KARMA",
@@ -600,9 +605,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 179
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -617,7 +622,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 5
     }
   ],
@@ -625,8 +630,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:14:31.4554534+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:05:39.2712337+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.6969817+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:06:36.4840921+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:14:31.455467+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:57:57.8961147+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:05:39.2712482+00:00"
 }

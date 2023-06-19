@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 364)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 44.00% | ~3,805 |
-| Greasy Palms | 40.00% | ~3,459 |
-| South American Connection | 24.00% | ~2,075 |
-| Life of the Party | 19.00% | ~1,643 |
+| Legal Counsel | 44.00% | ~3,806 |
+| Greasy Palms | 40.00% | ~3,460 |
+| South American Connection | 24.00% | ~2,076 |
+| Life of the Party | 19.00% | ~1,644 |
 | Tommy Two-Wheels | 14.00% | ~1,211 |
 | Big Heat from Little Havana | 13.00% | ~1,124 |
 | Chauffeur | 13.00% | ~1,124 |
@@ -22,9 +22,9 @@ Rating: 4.61 (Ranked 364)
 | Grand Theft Auto | 5.00% | ~432 |
 | Not my First Time | 4.00% | ~346 |
 | Pie Guy | 4.00% | ~346 |
-| Point A to Point B | 3.00% | ~259 |
-| High Quality H2O | 3.00% | ~259 |
-| Don't Need Roads | 3.00% | ~259 |
+| Point A to Point B | 3.00% | ~260 |
+| High Quality H2O | 3.00% | ~260 |
+| Don't Need Roads | 3.00% | ~260 |
 | Running Rampant | 2.00% | ~173 |
 | Bull in a China Shop | 2.00% | ~173 |
 | Somebody Call the Wambulance? | 2.00% | ~173 |
@@ -32,15 +32,15 @@ Rating: 4.61 (Ranked 364)
 | Take the Cannoli | 2.00% | ~173 |
 | City Sleuth | 2.00% | ~173 |
 | One is Better Than Two | 1.00% | ~86 |
+| Daredevil | 1.00% | ~86 |
 | Chopper’d Up | 1.00% | ~86 |
 | I'm Famous! | 0.90% | ~78 |
-| Daredevil | 0.90% | ~78 |
 | Born in the 80’s | 0.80% | ~69 |
 | Keepie-Uppy Okie Dokie | 0.80% | ~69 |
 | Done it All | 0.70% | ~61 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,647 (Ranked 117)  
+Progressed: 8,650 (Ranked 117)  
 Completed: 36 (0.42%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 36 (0.42%) (Ranked 128)
 | 2023-06-16 | 8,563 | 34 |
 | 2023-06-17 | 8,597 | 36 |
 | 2023-06-18 | 8,637 | 36 |
-| 2023-06-19 | 8,647 | 36 |
+| 2023-06-19 | 8,650 | 36 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 387)  
 Sum: 56 (Ranked 439)  

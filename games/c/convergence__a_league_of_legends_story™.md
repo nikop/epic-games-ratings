@@ -32,8 +32,8 @@
 | The Family Fortune | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
+| Chaincrawler Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
-| Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
 | Sump Explorer | 6.00% | ~42 |
 | Ask Questions Later | 6.00% | ~42 |
@@ -45,8 +45,8 @@
 | Corin Goes Home | 4.00% | ~28 |
 | Sartorialist | 4.00% | ~28 |
 | Entresol Explorer | 4.00% | ~28 |
+| Golem Hunter | 4.00% | ~28 |
 | Clovemary for Remembering | 3.00% | ~21 |
-| Golem Hunter | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |
 | Hexlock for Protection | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |

@@ -1,7 +1,7 @@
 # Armored Warfare
 [Store](https://store.epicgames.com/en-US/p/armored-warfare)  
 [View Rawdata](../../db/a/armored_warfare.json)  
-Rating: 4.11 (Ranked 880)  
+Rating: 4.12 (Ranked 880)  
 Number of Ratings: 458  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 81  (Ranked 352)  
@@ -168,3 +168,4 @@ Diff (max vs sum): 67
 | 2023-06-14 | 4.12 | - | 80 | 615 |
 | 2023-06-15 | 4.12 | - | 80 | 616 |
 | 2023-06-17 | 4.11 | - | 81 | 617 |
+| 2023-06-19 | 4.12 | - | 81 | 617 |

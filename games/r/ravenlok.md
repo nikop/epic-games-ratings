@@ -36,8 +36,8 @@
 | Extinct Again! | 35.00% | ~355 |
 | Bird of Prey | 35.00% | ~355 |
 | Stardust | 35.00% | ~355 |
-| Heartbreaker | 34.00% | ~345 |
-| Kidnapped! | 34.00% | ~345 |
+| Heartbreaker | 35.00% | ~355 |
+| Kidnapped! | 35.00% | ~355 |
 | Pull the Plug | 33.00% | ~335 |
 | Soul Slayer | 33.00% | ~335 |
 | All Heart | 33.00% | ~335 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~91 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,014 (Ranked 183)  
-Completed: 71 (7.00%) (Ranked 26)  
+Completed: 71 (7.00%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

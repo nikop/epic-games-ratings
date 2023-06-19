@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,939 |
+| Survivor | 31.00% | ~77,940 |
 | Predator I | 22.00% | ~55,312 |
 | Fixer I | 10.00% | ~25,142 |
 | A week in Century City | 10.00% | ~25,142 |
@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 651)
 | Pacifist | 4.00% | ~10,057 |
 | Vandalism | 4.00% | ~10,057 |
 | Capitalist I | 4.00% | ~10,057 |
-| Adrenaline | 3.00% | ~7,542 |
+| Adrenaline | 3.00% | ~7,543 |
 | By a hair | 2.00% | ~5,028 |
 | Fixer II | 2.00% | ~5,028 |
 | It took a while | 2.00% | ~5,028 |
@@ -37,7 +37,7 @@ Rating: 4.43 (Ranked 651)
 | Run the Economy | 1.00% | ~2,514 |
 | Committed Relationship | 0.80% | ~2,011 |
 | Number 1 | 0.70% | ~1,760 |
-| Interior designer | 0.60% | ~1,508 |
+| Interior designer | 0.60% | ~1,509 |
 | The Gamble | 0.50% | ~1,257 |
 | The Descent | 0.50% | ~1,257 |
 | A major purchase | 0.50% | ~1,257 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 651)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,416 (Ranked 42)  
+Progressed: 251,420 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.00%) (Ranked 227)
 | 2023-06-16 | 251,234 | 1 |
 | 2023-06-17 | 251,319 | 1 |
 | 2023-06-18 | 251,395 | 1 |
-| 2023-06-19 | 251,416 | 1 |
+| 2023-06-19 | 251,420 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 460)  
 Sum: 137 (Ranked 388)  

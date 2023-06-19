@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,883 |
-| The Cursed Farmer | 3.00% | ~2,950 |
-| Beast Intentions | 2.00% | ~1,967 |
-| The Mad Wizard | 2.00% | ~1,967 |
-| Were-verpowered | 1.00% | ~983 |
-| The Ring of Regeneration | 1.00% | ~983 |
-| Seeking Allies | 1.00% | ~983 |
-| Are Ya Chicken? | 1.00% | ~983 |
-| Friendly Imps | 1.00% | ~983 |
-| Mad Cow Disease | 0.90% | ~885 |
-| The Court of Storms | 0.90% | ~581 |
+| A Brief Tour of the Realms | 7.00% | ~6,888 |
+| The Cursed Farmer | 3.00% | ~2,952 |
+| Beast Intentions | 2.00% | ~1,968 |
+| The Ring of Regeneration | 2.00% | ~1,968 |
+| The Mad Wizard | 2.00% | ~1,968 |
+| Were-verpowered | 1.00% | ~984 |
+| Seeking Allies | 1.00% | ~984 |
+| Are Ya Chicken? | 1.00% | ~984 |
+| Friendly Imps | 1.00% | ~984 |
+| Mad Cow Disease | 0.90% | ~886 |
+| The Court of Storms | 0.90% | ~582 |
 | A Persistent Buzzing | 0.80% | ~787 |
 | Pure Energy | 0.80% | ~787 |
-| Terror in the Dark | 0.70% | ~688 |
-| Unearthed Evil | 0.70% | ~688 |
-| The Crumbling Temple | 0.70% | ~688 |
-| Beware the Jabberwock | 0.70% | ~452 |
+| Terror in the Dark | 0.70% | ~689 |
+| Unearthed Evil | 0.70% | ~689 |
+| The Crumbling Temple | 0.70% | ~689 |
+| Beware the Jabberwock | 0.70% | ~453 |
 | Beast Mode | 0.60% | ~590 |
 | A Mysterious Summons | 0.60% | ~590 |
 | Building Trust | 0.60% | ~590 |
@@ -39,28 +39,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.50% | ~492 |
 | Waterdeep Detours | 0.50% | ~492 |
 | Underdeep Cartography | 0.50% | ~492 |
+| The Templar's Camp | 0.50% | ~492 |
 | Quick or Quack | 0.50% | ~323 |
-| The Silken Swamp | 0.40% | ~393 |
-| Supply Run | 0.40% | ~393 |
-| Owlbear Necessities | 0.40% | ~258 |
-| Best Thay Ever | 0.40% | ~258 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~258 |
-| Pin and Skewer | 0.40% | ~258 |
-| Street War | 0.40% | ~393 |
-| March of the Undead | 0.40% | ~393 |
-| Invisible Shadows | 0.40% | ~393 |
-| The Dinner Party | 0.40% | ~393 |
-| The Botched Kidnapping | 0.40% | ~393 |
-| Trollskull Manor | 0.40% | ~393 |
-| Attack on the Manor | 0.40% | ~393 |
-| The Death Curse | 0.40% | ~393 |
-| Premature Betrayal | 0.40% | ~393 |
-| A Tale of Two Cities | 0.40% | ~393 |
-| Flying Monkey Skulls of Doom | 0.40% | ~393 |
-| Constant Banditry | 0.40% | ~393 |
-| Overdue Rendezvous | 0.40% | ~393 |
-| The Templar's Camp | 0.40% | ~393 |
-| Rescue in the Jungle | 0.40% | ~393 |
+| The Silken Swamp | 0.40% | ~394 |
+| Supply Run | 0.40% | ~394 |
+| Owlbear Necessities | 0.40% | ~259 |
+| Best Thay Ever | 0.40% | ~259 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~259 |
+| Pin and Skewer | 0.40% | ~259 |
+| Street War | 0.40% | ~394 |
+| March of the Undead | 0.40% | ~394 |
+| Invisible Shadows | 0.40% | ~394 |
+| The Dinner Party | 0.40% | ~394 |
+| The Botched Kidnapping | 0.40% | ~394 |
+| Trollskull Manor | 0.40% | ~394 |
+| Attack on the Manor | 0.40% | ~394 |
+| The Death Curse | 0.40% | ~394 |
+| Premature Betrayal | 0.40% | ~394 |
+| A Tale of Two Cities | 0.40% | ~394 |
+| Flying Monkey Skulls of Doom | 0.40% | ~394 |
+| Constant Banditry | 0.40% | ~394 |
+| Overdue Rendezvous | 0.40% | ~394 |
+| Rescue in the Jungle | 0.40% | ~394 |
 | Pros and CONs | 0.30% | ~295 |
 | Tall Tales | 0.30% | ~194 |
 | Third Third Out | 0.30% | ~194 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,335 (Ranked 63)  
+Progressed: 98,393 (Ranked 63)  
 Completed: 1,950 (1.98%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,950 (1.98%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,335 | 1,950 |
+| 2023-06-19 | 98,393 | 1,950 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,147 (Ranked 37)  

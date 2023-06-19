@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1094,9 +1094,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 3904,
+  "EOS_Progressed": 3905,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3349,6 +3349,11 @@
       "Time": "2023-06-19T12:07:04.1626266+00:00",
       "NumProgressed": 3904,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-19T14:05:49.6381721+00:00",
+      "NumProgressed": 3905,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -3360,7 +3365,7 @@
       "Name": "Get A Room",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -3384,7 +3389,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -3400,7 +3405,7 @@
       "Name": "Having A Field Day",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2773
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -3480,7 +3485,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -3496,7 +3501,7 @@
       "Name": "Fit For A King",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -3504,7 +3509,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -3528,7 +3533,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -3568,7 +3573,7 @@
       "Name": "Novice Researcher",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -3584,7 +3589,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -3592,7 +3597,7 @@
       "Name": "Onward",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -3607,15 +3612,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3904,
+      "Progressed": 3905,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:14:42.1626012+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:05:49.6381714+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:08:36.5532303+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:14:42.1626456+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:59:54.1116804+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:05:49.6381998+00:00"
 }

@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 100.00% | ~6 |
+| Welcome to the Tower | 83.00% | ~5 |
 | Rascal | 67.00% | ~4 |
 | The Preacher's fate | 67.00% | ~4 |
 | Champollion | 67.00% | ~4 |
 | Scholar | 67.00% | ~4 |
-| Welcome to the Tower | 67.00% | ~4 |
 | The great escape | 67.00% | ~4 |
 | A new dawn | 67.00% | ~4 |
 | Cable guy | 50.00% | ~3 |

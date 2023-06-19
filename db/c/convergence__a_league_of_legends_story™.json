@@ -1414,9 +1414,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 50
     },
     {
       "ID": "ChestCompletion1",
@@ -1702,9 +1702,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "ScrambotProgress1",
@@ -1829,8 +1829,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:14:19.3541762+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:05:26.583357+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:08:12.6144657+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:14:19.3542329+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:59:26.8409657+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:05:26.5833994+00:00"
 }

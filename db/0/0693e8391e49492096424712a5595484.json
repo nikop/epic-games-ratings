@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 20,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-06-19T12:03:45.3977752+00:00",
       "NumProgressed": 20,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T14:03:20.8389051+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -157,9 +162,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BearPistol",
@@ -189,9 +194,9 @@
       "ID": "BearSword",
       "SetID": "db30heh",
       "Name": "Full Deck",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BeggarWomanCoin",
@@ -495,12 +500,12 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 20,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:12:12.2821749+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:03:20.8389046+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:05:45.2802203+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:12:12.2822139+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:57:06.8185839+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:03:20.8389325+00:00"
 }

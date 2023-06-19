@@ -680,9 +680,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "631ndc2",
       "Name": "Marketing Manager",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -777,8 +777,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:14:50.4615925+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:05:57.9331368+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.3365909+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:07:45.5638379+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:14:50.4616391+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:59:02.869131+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:05:57.9331716+00:00"
 }

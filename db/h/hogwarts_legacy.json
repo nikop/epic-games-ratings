@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3930,9 +3930,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280689,
+  "EOS_Progressed": 280691,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1811,
+  "EOS_NewPlayers": 1796,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10180,6 +10180,11 @@
       "Time": "2023-06-19T13:13:44.0441619+00:00",
       "NumProgressed": 280689,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T14:04:51.7682509+00:00",
+      "NumProgressed": 280691,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10239,7 +10244,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14034
+      "UsersEstimate": 14035
     },
     {
       "ID": "PFA_16",
@@ -10255,7 +10260,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14034
+      "UsersEstimate": 14035
     },
     {
       "ID": "PFA_18",
@@ -10271,7 +10276,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14034
+      "UsersEstimate": 14035
     },
     {
       "ID": "PFA_2",
@@ -10550,7 +10555,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280689,
+      "Progressed": 280691,
       "Completed": 408
     }
   ],
@@ -10558,8 +10563,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T13:06:17.0422445+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:13:44.0441611+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:04:51.7682503+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:06:17.0422453+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:13:44.0442279+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:57:36.5747592+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:04:51.7683087+00:00"
 }

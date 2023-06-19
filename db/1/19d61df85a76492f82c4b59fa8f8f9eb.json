@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 11.7,
+  "EOS_Completed_Percentage": 11.58,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-06-19T00:02:20.3106907+00:00",
       "NumProgressed": 94,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-19T14:00:55.9360446+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 6,
@@ -465,7 +470,7 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 175,
       "UsersEstimate": 56
     },
@@ -475,13 +480,13 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 165,
       "UsersEstimate": 43
     },
@@ -489,7 +494,7 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 165,
       "UsersEstimate": 26
     },
@@ -514,14 +519,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:09:36.2288235+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:00:55.9360438+00:00",
   "LastUpdate_AppInfo": "2023-06-15T10:57:00.9986251+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:05:50.2495376+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:09:36.2288413+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:57:10.3939818+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:00:55.9360974+00:00"
 }

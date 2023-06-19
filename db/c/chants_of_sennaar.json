@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -226,9 +226,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PROGRESS_N2",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:14:31.0593033+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:05:38.9117711+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:07:52.669184+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:14:31.0593208+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:59:08.9239182+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:05:38.9117858+00:00"
 }

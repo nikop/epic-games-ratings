@@ -448,7 +448,7 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 8647,
+  "EOS_Progressed": 8650,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 6,
@@ -5018,6 +5018,11 @@
       "Time": "2023-06-19T13:11:21.9433325+00:00",
       "NumProgressed": 8647,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-19T14:02:10.9360935+00:00",
+      "NumProgressed": 8650,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5069,7 +5074,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH07",
@@ -5077,7 +5082,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH08",
@@ -5133,7 +5138,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3459
+      "UsersEstimate": 3460
     },
     {
       "ID": "ACH15",
@@ -5173,15 +5178,15 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH20",
       "SetID": "9llo822",
       "Name": "Daredevil",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH21",
@@ -5189,7 +5194,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "ACH22",
@@ -5197,7 +5202,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH23",
@@ -5205,7 +5210,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "ACH24",
@@ -5300,7 +5305,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8647,
+      "Progressed": 8650,
       "Completed": 36
     }
   ],
@@ -5308,8 +5313,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-18T20:58:32.1070564+00:00",
-  "LastChanged_Achievements": "2023-06-19T13:11:21.943331+00:00",
+  "LastChanged_Achievements": "2023-06-19T14:02:10.9360926+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:07:05.5554126+00:00",
-  "LastUpdate_Achievements": "2023-06-19T13:11:21.9433851+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:58:25.4488604+00:00",
+  "LastUpdate_Achievements": "2023-06-19T14:02:10.9361338+00:00"
 }
