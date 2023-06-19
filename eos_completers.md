@@ -19,7 +19,7 @@
 | 17 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.58% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 10.00% |
+| 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 9.52% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -68,7 +68,7 @@
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 67 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.34% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.29% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.26% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
@@ -86,7 +86,7 @@
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.47% |
-| 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.28% |
+| 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 89 | [Chorus](games/c/chorus.md) | 1.21% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.20% |
@@ -139,10 +139,10 @@
 | 136 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 138 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 138 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
-| 138 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 138 | [The Surge](games/t/the_surge.md) | 0.32% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
 | 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 144 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
@@ -457,4 +457,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,807 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,808 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
