@@ -27,11 +27,11 @@
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
 | 27 | [Scorn](games/s/scorn.md) | 6.85% |
-| 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
-| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
-| 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
-| 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
+| 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
+| 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
+| 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
+| 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
 | 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
@@ -41,7 +41,7 @@
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
-| 42 | [Doodle God](games/d/doodle_god.md) | 3.76% |
+| 42 | [Doodle God](games/d/doodle_god.md) | 3.74% |
 | 43 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.62% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
@@ -61,8 +61,8 @@
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
 | 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
+| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.42% |
