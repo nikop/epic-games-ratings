@@ -7,7 +7,7 @@
 | It's Good to have Allies | 59.00% | ~87 |
 | Defenses Online | 57.00% | ~84 |
 | Facility Online | 52.00% | ~76 |
-| Corporal | 39.00% | ~57 |
+| Corporal | 40.00% | ~59 |
 | Sergeant | 28.00% | ~41 |
 | Covert Operative | 26.00% | ~38 |
 | Lieutenant | 22.00% | ~32 |
@@ -21,7 +21,7 @@
 | Brothers in Arms | 12.00% | ~18 |
 | Factory Expansion | 11.00% | ~16 |
 | Captain | 10.00% | ~15 |
-| Exterminator | 8.00% | ~12 |
+| Exterminator | 9.00% | ~13 |
 | Moving On Up | 7.00% | ~10 |
 | Player Betrayer | 5.00% | ~7 |
 | Silver Achiever | 5.00% | ~7 |

@@ -1646,9 +1646,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65657,
+  "EOS_Progressed": 65665,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6976,6 +6976,11 @@
       "Time": "2023-06-19T18:06:57.3975144+00:00",
       "NumProgressed": 65657,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-19T19:07:40.2829097+00:00",
+      "NumProgressed": 65665,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7291,7 +7296,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "HARLEY_2",
@@ -7331,7 +7336,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7379,7 +7384,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "MYSTERY_02",
@@ -7425,9 +7430,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 1313
     },
     {
       "ID": "MYSTERY_08",
@@ -7474,13 +7479,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65657,
+      "Progressed": 65665,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35937,
+      "Progressed": 35945,
       "Completed": 2646
     }
   ],
@@ -7488,8 +7493,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-19T15:01:08.8879024+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:57.3975139+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:40.2829091+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:14.7609574+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:57.3976044+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:00:47.0720117+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:40.2830057+00:00"
 }

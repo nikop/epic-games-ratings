@@ -701,9 +701,9 @@
       "ID": "ACH_ACT7",
       "SetID": "2310cb1",
       "Name": "No Time To Relax",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ACT8",
@@ -822,8 +822,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:35.1155646+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:14.064653+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.4396906+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:57:41.8043848+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:35.115588+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:57:50.1365984+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:14.0646717+00:00"
 }

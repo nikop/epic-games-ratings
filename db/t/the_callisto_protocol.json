@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 850,
-  "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 328,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 95,
@@ -636,12 +636,18 @@
       "Rating": 4.18,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-06-19T18:58:24.1620417+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
-  "NumberOfAwardsMax": 55,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 324,
+  "NumberOfAwardsMax": 56,
+  "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -653,7 +659,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -665,7 +671,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -686,9 +692,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15457,
+  "EOS_Progressed": 15460,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4346,6 +4352,11 @@
       "Time": "2023-06-19T16:04:16.5305708+00:00",
       "NumProgressed": 15457,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T19:05:23.982719+00:00",
+      "NumProgressed": 15460,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4389,7 +4400,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4477,7 +4488,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -4485,7 +4496,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "KILL_ROBOT",
@@ -4493,7 +4504,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -4517,7 +4528,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4525,7 +4536,7 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4533,7 +4544,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4613,7 +4624,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "DISMEMBER_100",
@@ -4637,7 +4648,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4645,7 +4656,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4676,22 +4687,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15457,
+      "Progressed": 15460,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3383,
+      "Progressed": 3386,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-19T16:58:26.1109669+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:05:01.0083199+00:00",
+  "LastChanged": "2023-06-19T18:58:24.1620415+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:05:23.9827183+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:58:11.5244342+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:05:01.0083748+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:58:24.1620422+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:05:23.9827737+00:00"
 }

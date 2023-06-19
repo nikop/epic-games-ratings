@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15746,
+  "EOS_Progressed": 15747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2471,6 +2471,11 @@
       "Time": "2023-06-19T18:06:48.1221845+00:00",
       "NumProgressed": 15746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T19:07:29.2550326+00:00",
+      "NumProgressed": 15747,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2482,7 +2487,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14959
+      "UsersEstimate": 14960
     },
     {
       "ID": "ACH001",
@@ -2490,7 +2495,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13699
+      "UsersEstimate": 13700
     },
     {
       "ID": "ACH0010",
@@ -2578,7 +2583,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11337
+      "UsersEstimate": 11338
     },
     {
       "ID": "ACH0020",
@@ -2602,7 +2607,7 @@
       "Name": "House Party!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "ACH0023",
@@ -2634,7 +2639,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8660
+      "UsersEstimate": 8661
     },
     {
       "ID": "ACH004",
@@ -2642,7 +2647,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "ACH005",
@@ -2650,7 +2655,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "ACH006",
@@ -2689,7 +2694,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15746,
+      "Progressed": 15747,
       "Completed": 0
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-16T22:00:35.1733965+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:48.1221839+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:29.255032+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.6656293+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:44.9129803+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:48.1222144+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:01:24.2196866+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:29.2550689+00:00"
 }

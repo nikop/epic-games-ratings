@@ -261,9 +261,9 @@
       "ID": "Statue Collector beginner",
       "SetID": "1fffk9d",
       "Name": "5 Suicide Guy statues",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Suicide Guy",
@@ -292,8 +292,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:04:52.1478039+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:05:14.0204173+00:00",
   "LastUpdate_AppInfo": "2023-06-13T18:57:46.2736297+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:57:16.9541706+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:04:52.1478159+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:57:22.4324601+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:05:14.0204291+00:00"
 }

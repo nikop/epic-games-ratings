@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,423 |
-| Sweet Sorrow | 18.00% | ~5,712 |
-| Rules the Waves | 17.00% | ~5,394 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,760 |
-| Rival | 14.00% | ~4,442 |
-| Correspondent | 12.00% | ~3,808 |
-| Lose Your Mind | 12.00% | ~3,808 |
-| Sound Mind? | 12.00% | ~3,808 |
-| Salt's Curse | 11.00% | ~3,490 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,490 |
-| The Fall of the House | 11.00% | ~3,490 |
-| Shipmate | 11.00% | ~3,490 |
-| One Year at Zee | 8.00% | ~2,538 |
-| Pupil | 7.00% | ~2,221 |
-| Salvager | 7.00% | ~2,221 |
-| Open Your Ears | 7.00% | ~2,221 |
-| The Ascent of Man | 7.00% | ~2,221 |
+| Sink Beneath the Waves | 36.00% | ~11,426 |
+| Sweet Sorrow | 18.00% | ~5,713 |
+| Rules the Waves | 17.00% | ~5,396 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,761 |
+| Rival | 14.00% | ~4,443 |
+| Correspondent | 12.00% | ~3,809 |
+| Lose Your Mind | 12.00% | ~3,809 |
+| Sound Mind? | 12.00% | ~3,809 |
+| Salt's Curse | 11.00% | ~3,491 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,491 |
+| The Fall of the House | 11.00% | ~3,491 |
+| Shipmate | 11.00% | ~3,491 |
+| One Year at Zee | 8.00% | ~2,539 |
+| Pupil | 7.00% | ~2,222 |
+| Salvager | 7.00% | ~2,222 |
+| Open Your Ears | 7.00% | ~2,222 |
+| The Ascent of Man | 7.00% | ~2,222 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,587 |
 | Zee Fever | 5.00% | ~1,587 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,269 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,270 |
 | Storm's Curse | 3.00% | ~952 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~952 |
 | Come Closer | 3.00% | ~952 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,731 (Ranked 91)  
+Progressed: 31,739 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,11 +121,11 @@ Completed: 3 (0.01%) (Ranked 214)
 | 2023-06-16 | 31,510 | 3 |
 | 2023-06-17 | 31,592 | 3 |
 | 2023-06-18 | 31,684 | 3 |
-| 2023-06-19 | 31,731 | 3 |
+| 2023-06-19 | 31,739 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
-Sum: 278 (Ranked 334)  
-Diff (max vs sum): -74  
+Sum: 278 (Ranked 335)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

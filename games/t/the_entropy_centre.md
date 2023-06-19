@@ -14,7 +14,7 @@
 | Chain Reaction | 35.00% | ~70 |
 | 48 Attempts | 34.00% | ~68 |
 | Handyman | 22.00% | ~44 |
-| No Time To Relax | 18.00% | ~36 |
+| No Time To Relax | 19.00% | ~38 |
 | Bad Robots | 15.00% | ~30 |
 | Archivist | 15.00% | ~30 |
 | Running Boots | 14.00% | ~28 |

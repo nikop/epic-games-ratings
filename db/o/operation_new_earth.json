@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -423,9 +423,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_defeat_players_10",
@@ -527,9 +527,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -726,8 +726,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:03:40.459144+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:03:53.5031112+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:56.9935971+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:03:40.4591754+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:01:38.1774209+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:03:53.5031407+00:00"
 }

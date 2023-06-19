@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
@@ -120,6 +120,11 @@
       "Time": "2023-06-10T02:10:49.3870345+00:00",
       "NumProgressed": 363,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-19T19:03:26.677966+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -131,7 +136,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "dep4_achievement_10",
@@ -145,9 +150,9 @@
       "ID": "dep4_achievement_11",
       "SetID": "5d32b60",
       "Name": "Distraction",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "dep4_achievement_12",
@@ -163,7 +168,7 @@
       "Name": "Quickdraw",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "dep4_achievement_14",
@@ -171,7 +176,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "dep4_achievement_15",
@@ -209,17 +214,17 @@
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 197
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 229
     },
     {
       "ID": "dep4_achievement_20",
@@ -235,7 +240,7 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "dep4_achievement_22",
@@ -243,7 +248,7 @@
       "Name": "No man left behind!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "dep4_achievement_23",
@@ -259,7 +264,7 @@
       "Name": "Thuna...?",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "dep4_achievement_25",
@@ -275,7 +280,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "dep4_achievement_27",
@@ -289,9 +294,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 218
     },
     {
       "ID": "dep4_achievement_29",
@@ -307,7 +312,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "dep4_achievement_30",
@@ -315,7 +320,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "dep4_achievement_31",
@@ -379,7 +384,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "dep4_achievement_6",
@@ -387,7 +392,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "dep4_achievement_7",
@@ -395,7 +400,7 @@
       "Name": "Portals come in packs",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "dep4_achievement_8",
@@ -418,7 +423,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 6
     }
   ],
@@ -426,8 +431,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:03:16.9963163+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:03:26.6779654+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.0379727+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:46.1137396+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:03:16.9963444+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:01:25.5708592+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:03:26.6779925+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 748,
+  "Ranking_Rating": 749,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1929,6 +1929,11 @@
       "Time": "2023-06-19T18:02:17.2214919+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T19:02:23.1763212+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1956,7 +1961,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2018,9 +2023,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 513
     },
     {
       "ID": "CRUELTY",
@@ -2052,7 +2057,7 @@
       "Name": "Limp Richard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2116,7 +2121,7 @@
       "Name": "Firestarter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2124,7 +2129,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2140,7 +2145,7 @@
       "Name": "Fratricide",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FROM_DARKNESS",
@@ -2148,7 +2153,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "GIANT_KILLER",
@@ -2188,7 +2193,7 @@
       "Name": "I am the law!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "INFILTRATOR",
@@ -2204,7 +2209,7 @@
       "Name": "Lumberjack",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2244,7 +2249,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "RECYCLER",
@@ -2276,7 +2281,7 @@
       "Name": "Sensei",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2347,7 +2352,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 0
     }
   ],
@@ -2355,8 +2360,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:02:17.2214909+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:02:23.1763206+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:58:35.5402481+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:02:17.2215515+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:58:54.1260939+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:02:23.1763724+00:00"
 }

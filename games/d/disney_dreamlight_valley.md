@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,272 |
-| Photographer | 75.00% | ~3,188 |
-| Valley's Helper | 71.00% | ~3,018 |
-| Constructor | 61.00% | ~2,592 |
-| Renovator | 58.00% | ~2,465 |
-| Bestest Friend | 56.00% | ~2,380 |
-| Banker | 48.00% | ~2,040 |
-| Gardener | 37.00% | ~1,572 |
-| Generous | 27.00% | ~1,148 |
-| Chef Cook | 22.00% | ~935 |
-| Miner | 11.00% | ~468 |
+| Goofy's Investor | 77.00% | ~3,283 |
+| Photographer | 75.00% | ~3,198 |
+| Valley's Helper | 71.00% | ~3,027 |
+| Constructor | 60.00% | ~2,558 |
+| Renovator | 58.00% | ~2,473 |
+| Bestest Friend | 56.00% | ~2,388 |
+| Banker | 48.00% | ~2,047 |
+| Gardener | 37.00% | ~1,578 |
+| Generous | 27.00% | ~1,151 |
+| Chef Cook | 22.00% | ~938 |
+| Miner | 11.00% | ~469 |
 | Duty Bound | 7.00% | ~298 |
-| Angler | 6.00% | ~255 |
-| Thorn Cleaner | 4.00% | ~170 |
+| Angler | 6.00% | ~256 |
+| Thorn Cleaner | 4.00% | ~171 |
 | Chit Chatter | 3.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,250 (Ranked 135)  
-Completed: 141 (3.32%) (Ranked 47)  
+Progressed: 4,264 (Ranked 135)  
+Completed: 141 (3.31%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -33,10 +33,10 @@ Completed: 141 (3.32%) (Ranked 47)
 | 2023-06-16 | 3,476 | 96 |
 | 2023-06-17 | 3,840 | 98 |
 | 2023-06-18 | 4,123 | 103 |
-| 2023-06-19 | 4,250 | 141 |
+| 2023-06-19 | 4,264 | 141 |
 ## Awards
 Max (Great for Beginners): 873  (Ranked 147)  
-Sum: 7,178 (Ranked 103)  
+Sum: 7,179 (Ranked 103)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -45,7 +45,7 @@ Diff (max vs sum): 44
 | This game is Highly Recommended | 766 |
 | This game has Amazing Characters | 763 |
 | This game has Diverse Characters | 758 |
-| This game has Amazing Storytelling | 733 |
+| This game has Amazing Storytelling | 734 |
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 716 |
 | This game has a Creative Community | 595 |
@@ -158,4 +158,4 @@ Diff (max vs sum): 44
 | 2023-06-16 | 4.76 | - | 869 | 7,160 |
 | 2023-06-17 | 4.76 | - | 873 | 7,172 |
 | 2023-06-18 | 4.76 | - | 873 | 7,175 |
-| 2023-06-19 | 4.76 | - | 873 | 7,178 |
+| 2023-06-19 | 4.76 | - | 873 | 7,179 |

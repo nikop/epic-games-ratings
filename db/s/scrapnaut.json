@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -821,9 +821,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -853,9 +853,9 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_KILL_20",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:33.1182505+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:11.8854818+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9798889+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:58:46.7445607+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:33.1182785+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:59:07.4806591+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:11.8855081+00:00"
 }

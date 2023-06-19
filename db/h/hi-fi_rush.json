@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3285,
+  "EOS_Progressed": 3286,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3526,6 +3526,11 @@
       "Time": "2023-06-19T12:07:19.8317127+00:00",
       "NumProgressed": 3285,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-19T19:07:40.6062803+00:00",
+      "NumProgressed": 3286,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 61,
@@ -3537,7 +3542,7 @@
       "Name": "Start with a bang!",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "Ach002",
@@ -3561,7 +3566,7 @@
       "Name": "The Negotiator",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Ach005",
@@ -3569,7 +3574,7 @@
       "Name": "Headliner",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "Ach006",
@@ -3601,7 +3606,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Ach010",
@@ -3673,7 +3678,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "Ach019",
@@ -3713,7 +3718,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "Ach024",
@@ -3745,7 +3750,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "Ach028",
@@ -3793,7 +3798,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "Ach034",
@@ -3905,7 +3910,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "Ach048",
@@ -3913,7 +3918,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "Ach049",
@@ -3937,7 +3942,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "Ach052",
@@ -3961,7 +3966,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Ach055",
@@ -4024,22 +4029,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3285,
+      "Progressed": 3286,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1806,
-      "Completed": 1806
+      "Progressed": 1807,
+      "Completed": 1807
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:57.7414194+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:40.6062792+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:58:51.4384094+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:57.741497+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:59:14.4278492+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:40.6063511+00:00"
 }

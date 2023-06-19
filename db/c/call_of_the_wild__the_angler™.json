@@ -576,7 +576,7 @@
   ],
   "EOS_Progressed": 4412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3690,9 +3690,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3873,8 +3873,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:04:14.1688709+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:04:30.0813699+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:17.8172137+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:04:14.1689163+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:00:50.6416283+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:04:30.081419+00:00"
 }

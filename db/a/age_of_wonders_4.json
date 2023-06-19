@@ -240,7 +240,7 @@
   "Tags": [],
   "EOS_Progressed": 4746,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4479,9 +4479,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2183
     },
     {
       "ID": "41",
@@ -4574,8 +4574,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:05:23.4833211+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:05:50.8243266+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:59:55.3088158+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:05:23.4833821+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:00:22.6287189+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:05:50.8245685+00:00"
 }

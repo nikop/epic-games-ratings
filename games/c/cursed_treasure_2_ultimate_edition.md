@@ -16,8 +16,8 @@
 | Go Home! | 75.00% | ~121 |
 | Brilliant: Meadowshire | 73.00% | ~118 |
 | Look After the Pence... | 73.00% | ~118 |
+| Drunken Master | 73.00% | ~118 |
 | Sergeant of the Evil | 73.00% | ~118 |
-| Drunken Master | 72.00% | ~116 |
 | V.I.P. Cemetery | 71.00% | ~114 |
 | Woodcutter | 69.00% | ~111 |
 | Architect of Darkness | 69.00% | ~111 |
@@ -26,11 +26,11 @@
 | Sharpshooter | 68.00% | ~109 |
 | The Apotheosis of War | 66.00% | ~106 |
 | Stasis Alcatraz | 66.00% | ~106 |
+| Tastes Like Chicken | 62.00% | ~100 |
 | Combo Breaker | 61.00% | ~98 |
-| Tastes Like Chicken | 61.00% | ~98 |
 | Thunderstorm | 61.00% | ~98 |
+| Clean Forests | 60.00% | ~97 |
 | Brilliant: Holy Mountain | 60.00% | ~97 |
-| Clean Forests | 59.00% | ~95 |
 | Starry: Meadowshire | 55.00% | ~89 |
 | Lieutenant of the Evil | 55.00% | ~89 |
 | Avada Kedavra | 53.00% | ~85 |

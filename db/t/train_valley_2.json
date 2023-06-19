@@ -713,9 +713,9 @@
       "ID": "AchievementGlobalisationAge",
       "SetID": "76o014g",
       "Name": "Globalisation Age",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "AchievementHighlander",
@@ -1119,8 +1119,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:04:30.6120061+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:04:49.6232062+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4263139+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:57:45.566461+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:04:30.6120769+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:57:53.4188614+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:04:49.6232876+00:00"
 }

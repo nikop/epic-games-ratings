@@ -42,6 +42,7 @@ Rating: 4.07 (Ranked 894)
 | Here We Go Again | 6.00% | ~87 |
 | Trader | 6.00% | ~87 |
 | Ancient Knowledge | 5.00% | ~72 |
+| Enchanting skill | 5.00% | ~72 |
 | How Do You Turn This On? | 5.00% | ~72 |
 | Master Enchanter | 5.00% | ~72 |
 | Missions Dedication | 5.00% | ~72 |
@@ -51,7 +52,6 @@ Rating: 4.07 (Ranked 894)
 | Background Story | 4.00% | ~58 |
 | Crystal Mining | 4.00% | ~58 |
 | Dragon Slayer | 4.00% | ~58 |
-| Enchanting skill | 4.00% | ~58 |
 | Engineer Mastery | 4.00% | ~58 |
 | Lock And Load | 4.00% | ~58 |
 | Blueprint Upgrades | 3.00% | ~43 |

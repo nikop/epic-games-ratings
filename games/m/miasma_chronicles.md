@@ -1,24 +1,24 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.33 (Ranked 748)  
+Rating: 4.33 (Ranked 749)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,073 |
-| Ranidaphobia | 76.00% | ~886 |
-| Aspiring Editor | 74.00% | ~863 |
+| First Blood | 92.00% | ~1,074 |
+| Ranidaphobia | 76.00% | ~887 |
+| Aspiring Editor | 74.00% | ~864 |
 | Gun for Hire | 69.00% | ~805 |
-| I am the law! | 62.00% | ~723 |
-| Lumberjack | 49.00% | ~571 |
-| Croaked | 45.00% | ~525 |
-| Limp Richard | 43.00% | ~501 |
-| From Darkness to Light | 43.00% | ~501 |
+| I am the law! | 62.00% | ~724 |
+| Lumberjack | 49.00% | ~572 |
+| Croaked | 44.00% | ~513 |
+| Limp Richard | 43.00% | ~502 |
+| From Darkness to Light | 43.00% | ~502 |
 | Editor Adept | 42.00% | ~490 |
 | Exorcist | 42.00% | ~490 |
-| Firestarter | 40.00% | ~466 |
+| Firestarter | 40.00% | ~467 |
 | Giant Killer | 39.00% | ~455 |
-| Sensei | 37.00% | ~431 |
+| Sensei | 37.00% | ~432 |
 | The meaning of Kain | 35.00% | ~408 |
 | Technophobe | 33.00% | ~385 |
 | Recycler | 32.00% | ~373 |
@@ -47,7 +47,7 @@ Rating: 4.33 (Ranked 748)
 | Wipe Out | 6.00% | ~70 |
 | Cruelty | 2.00% | ~23 |
 | Five Finger Deathcount | 1.00% | ~12 |
-| Fratricide | 0.90% | ~10 |
+| Fratricide | 0.90% | ~11 |
 | Shadow Boxin' | 0.80% | ~9 |
 | Alpha Editor | 0.60% | ~7 |
 | QA Has Suffered! (Redux) | 0.60% | ~7 |
@@ -57,7 +57,7 @@ Rating: 4.33 (Ranked 748)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 175)  
+Progressed: 1,167 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 1,145 | 1 |
 | 2023-06-17 | 1,155 | 1 |
 | 2023-06-18 | 1,163 | 1 |
-| 2023-06-19 | 1,166 | 0 |
+| 2023-06-19 | 1,167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

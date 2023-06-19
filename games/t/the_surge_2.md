@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 806)  
+Rating: 4.24 (Ranked 807)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,8 +23,8 @@ Rating: 4.24 (Ranked 806)
 | Court Martial | 19.00% | ~343 |
 | Offensive Defense | 19.00% | ~343 |
 | Unforeseeable Consequences | 19.00% | ~343 |
+| Dead Again | 18.00% | ~325 |
 | Clean Cut | 18.00% | ~325 |
-| Dead Again | 17.00% | ~307 |
 | Full Arsenal | 16.00% | ~289 |
 | Can't Trust Banks | 15.00% | ~271 |
 | Mommy Dearest | 13.00% | ~235 |

@@ -34,17 +34,17 @@
 | Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
-| Family Memories | 6.00% | ~42 |
-| Sump Explorer | 6.00% | ~42 |
-| Ask Questions Later | 6.00% | ~42 |
+| Family Memories | 6.00% | ~43 |
+| Sump Explorer | 6.00% | ~43 |
+| Theater Explorer | 6.00% | ~43 |
+| Ask Questions Later | 6.00% | ~43 |
+| Sartorialist | 5.00% | ~35 |
 | Cultivair Explorer | 5.00% | ~35 |
+| Entresol Explorer | 5.00% | ~35 |
 | Factorywood Explorer | 5.00% | ~35 |
 | Fairgrounds Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
-| Theater Explorer | 5.00% | ~35 |
 | Corin Goes Home | 4.00% | ~28 |
-| Sartorialist | 4.00% | ~28 |
-| Entresol Explorer | 4.00% | ~28 |
 | Golem Hunter | 4.00% | ~28 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |
@@ -54,11 +54,11 @@
 | Fitting In | 1.00% | ~7 |
 | Wildlife Protection | 0.60% | ~4 |
 | A Lesson in Precision | 0.60% | ~4 |
+| No Time to Waste | 0.60% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
-| No Time to Waste | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 195)  
+Progressed: 709 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-16 | 702 | 3 |
 | 2023-06-17 | 704 | 3 |
 | 2023-06-18 | 708 | 3 |
-| 2023-06-19 | 708 | 4 |
+| 2023-06-19 | 709 | 4 |

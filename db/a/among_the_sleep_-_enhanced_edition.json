@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 769,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 66,
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75476,
+  "EOS_Progressed": 75485,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6688,6 +6688,11 @@
       "Time": "2023-06-19T18:06:34.3981397+00:00",
       "NumProgressed": 75476,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2023-06-19T19:07:13.2620835+00:00",
+      "NumProgressed": 75485,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 10,
@@ -6763,7 +6768,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 27171
+      "UsersEstimate": 27175
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -6771,22 +6776,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8302
+      "UsersEstimate": 8303
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 75476,
+      "Progressed": 75485,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:06:34.3981392+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:07:13.2620831+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.4152225+00:00",
-  "LastUpdate_Ratings": "2023-06-19T18:00:57.2045226+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:06:34.3981872+00:00"
+  "LastUpdate_Ratings": "2023-06-19T19:01:38.3643156+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:07:13.2621544+00:00"
 }

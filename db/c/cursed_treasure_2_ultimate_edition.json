@@ -165,9 +165,9 @@
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
@@ -461,9 +461,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -509,9 +509,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-19T18:04:24.5424292+00:00",
+  "LastChanged_Achievements": "2023-06-19T19:04:42.5543027+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:15.484612+00:00",
-  "LastUpdate_Ratings": "2023-06-19T17:58:54.4504543+00:00",
-  "LastUpdate_Achievements": "2023-06-19T18:04:24.5424751+00:00"
+  "LastUpdate_Ratings": "2023-06-19T18:59:18.0483842+00:00",
+  "LastUpdate_Achievements": "2023-06-19T19:04:42.5543435+00:00"
 }

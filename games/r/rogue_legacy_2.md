@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,307 (Ranked 97)  
+Progressed: 22,308 (Ranked 97)  
 Completed: 35 (0.16%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 35 (0.16%) (Ranked 160)
 | 2023-06-16 | 22,274 | 35 |
 | 2023-06-17 | 22,287 | 35 |
 | 2023-06-18 | 22,298 | 35 |
-| 2023-06-19 | 22,307 | 35 |
+| 2023-06-19 | 22,308 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 253)  
-Sum: 1,651 (Ranked 204)  
+Sum: 1,652 (Ranked 204)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -121,7 +121,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 182 |
 | This game has Amazing Storytelling | 162 |
 | This game has Amazing Characters | 162 |
-| This game has Playful Visuals | 150 |
+| This game has Playful Visuals | 151 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -213,4 +213,4 @@ Diff (max vs sum): 49
 | 2023-06-10 | 4.85 | - | 218 | 1,645 |
 | 2023-06-13 | 4.85 | - | 218 | 1,647 |
 | 2023-06-17 | 4.85 | - | 218 | 1,650 |
-| 2023-06-19 | 4.85 | - | 218 | 1,651 |
+| 2023-06-19 | 4.85 | - | 218 | 1,652 |
