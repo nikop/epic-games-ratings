@@ -5,9 +5,9 @@ Rating: 4.17 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,941 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,627 |
-| Loose Ends | 4.00% | ~2,627 |
+| First Step Into the Knight | 6.00% | ~3,942 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,628 |
+| Loose Ends | 4.00% | ~2,628 |
 | The Batman Family | 3.00% | ~1,971 |
 | To the Victor Go the Spoils | 3.00% | ~1,971 |
 | Get ReQ'd | 3.00% | ~1,971 |
@@ -38,8 +38,8 @@ Rating: 4.17 (Ranked 857)
 | Gotham Knight | 1.00% | ~657 |
 | Gotham City Confidential | 1.00% | ~657 |
 | Solid Alibi | 1.00% | ~657 |
-| Fusion Expert | 0.80% | ~525 |
-| Family Meeting | 0.80% | ~525 |
+| Fusion Expert | 0.80% | ~526 |
+| Family Meeting | 0.80% | ~526 |
 | A Worthy Successor | 0.70% | ~460 |
 | Dressed to Impress | 0.60% | ~394 |
 | Expert Crime Fighter | 0.60% | ~394 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,687 (Ranked 71)  
+Progressed: 65,692 (Ranked 71)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
-| 2023-06-19 | 65,687 | 95 |
+| 2023-06-19 | 65,692 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,346  (Ranked 97)  
 Sum: 3,886 (Ranked 137)  

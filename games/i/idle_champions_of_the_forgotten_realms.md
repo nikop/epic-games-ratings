@@ -6,17 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,929 |
-| The Cursed Farmer | 3.00% | ~2,970 |
-| Beast Intentions | 2.00% | ~1,980 |
-| The Ring of Regeneration | 2.00% | ~1,980 |
-| The Mad Wizard | 2.00% | ~1,980 |
+| A Brief Tour of the Realms | 7.00% | ~6,933 |
+| The Cursed Farmer | 3.00% | ~2,971 |
+| Beast Intentions | 2.00% | ~1,981 |
+| The Ring of Regeneration | 2.00% | ~1,981 |
+| The Mad Wizard | 2.00% | ~1,981 |
 | Were-verpowered | 1.00% | ~990 |
 | Seeking Allies | 1.00% | ~990 |
 | Are Ya Chicken? | 1.00% | ~990 |
 | Friendly Imps | 1.00% | ~990 |
 | Mad Cow Disease | 0.90% | ~891 |
-| The Court of Storms | 0.90% | ~587 |
+| The Court of Storms | 0.90% | ~588 |
 | A Persistent Buzzing | 0.80% | ~792 |
 | Pure Energy | 0.80% | ~792 |
 | Terror in the Dark | 0.70% | ~693 |
@@ -32,15 +32,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.60% | ~594 |
 | Escort to Waterdeep | 0.60% | ~594 |
 | Coasting to the Finish | 0.60% | ~392 |
-| Checkmate | 0.50% | ~326 |
-| Vecna Out! | 0.50% | ~326 |
+| Checkmate | 0.50% | ~327 |
+| Vecna Out! | 0.50% | ~327 |
 | Low Initiative | 0.50% | ~495 |
 | No Time To Rest | 0.50% | ~495 |
 | Running of the Saurs | 0.50% | ~495 |
 | Waterdeep Detours | 0.50% | ~495 |
 | Underdeep Cartography | 0.50% | ~495 |
 | The Templar's Camp | 0.50% | ~495 |
-| Quick or Quack | 0.50% | ~326 |
+| Quick or Quack | 0.50% | ~327 |
 | The Silken Swamp | 0.40% | ~396 |
 | Supply Run | 0.40% | ~396 |
 | Owlbear Necessities | 0.40% | ~261 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,992 (Ranked 63)  
+Progressed: 99,036 (Ranked 63)  
 Completed: 1,969 (1.99%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,969 (1.99%) (Ranked 74)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,992 | 1,969 |
+| 2023-06-19 | 99,036 | 1,969 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

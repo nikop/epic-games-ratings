@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1451,6 +1451,11 @@
       "Time": "2023-06-19T18:04:11.5617888+00:00",
       "NumProgressed": 570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T23:06:15.9806321+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1460,9 +1465,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "adventurous_2",
@@ -1510,7 +1515,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "call_of_mana_2",
@@ -1558,7 +1563,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "collector_2",
@@ -1989,14 +1994,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-19T22:04:06.6051566+00:00",
-  "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:57:11.8961078+00:00",
-  "LastUpdate_Achievements": "2023-06-19T22:04:06.6052283+00:00"
+  "LastChanged_Achievements": "2023-06-19T23:06:15.9806316+00:00",
+  "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
+  "LastUpdate_Ratings": "2023-06-19T22:59:38.2088059+00:00",
+  "LastUpdate_Achievements": "2023-06-19T23:06:15.9806847+00:00"
 }

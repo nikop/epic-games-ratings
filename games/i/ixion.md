@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 452)
 | Breaking Protocol | 7.00% | ~188 |
 | The Ship of Theseus | 7.00% | ~188 |
 | Hope Seeker | 7.00% | ~188 |
-| A Hunk of Junk | 6.00% | ~161 |
-| Exceeding Capacity | 6.00% | ~161 |
+| A Hunk of Junk | 6.00% | ~162 |
+| Exceeding Capacity | 6.00% | ~162 |
 | Man's Best Friend | 4.00% | ~108 |
 | Power Outage | 4.00% | ~108 |
 | Necessary Enhancement | 4.00% | ~108 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,691 (Ranked 150)  
+Progressed: 2,692 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 2,666 | 0 |
 | 2023-06-17 | 2,676 | 0 |
 | 2023-06-18 | 2,685 | 0 |
-| 2023-06-19 | 2,691 | 0 |
+| 2023-06-19 | 2,692 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

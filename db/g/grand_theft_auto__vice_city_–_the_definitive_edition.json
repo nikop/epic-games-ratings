@@ -454,9 +454,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 8660,
+  "EOS_Progressed": 8661,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5054,6 +5054,11 @@
       "Time": "2023-06-19T22:03:17.995926+00:00",
       "NumProgressed": 8660,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-19T23:05:17.3367522+00:00",
+      "NumProgressed": 8661,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5225,7 +5230,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ACH22",
@@ -5233,7 +5238,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ACH23",
@@ -5241,7 +5246,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "ACH24",
@@ -5265,7 +5270,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH27",
@@ -5336,7 +5341,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8660,
+      "Progressed": 8661,
       "Completed": 36
     }
   ],
@@ -5344,8 +5349,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-19T20:58:36.1329148+00:00",
-  "LastChanged_Achievements": "2023-06-19T22:03:17.9959256+00:00",
+  "LastChanged_Achievements": "2023-06-19T23:05:17.3367518+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:58:22.0698529+00:00",
-  "LastUpdate_Achievements": "2023-06-19T22:03:17.9959804+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:00:48.639189+00:00",
+  "LastUpdate_Achievements": "2023-06-19T23:05:17.33679+00:00"
 }

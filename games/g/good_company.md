@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | Speedy | 5.00% | ~251 |
 | High Five! | 4.00% | ~201 |
 | Modular Progress | 4.00% | ~201 |
+| Salesperson | 4.00% | ~201 |
 | Campaign: Lesson Learned | 3.00% | ~151 |
 | Level: Bet On Bots | 3.00% | ~151 |
 | Modular Performance | 3.00% | ~151 |
-| Salesperson | 3.00% | ~151 |
 | Level: Merry-Go-Around | 2.00% | ~101 |
 | Charlies's Circuits: Artist | 2.00% | ~101 |
 | Modular Peak | 2.00% | ~101 |

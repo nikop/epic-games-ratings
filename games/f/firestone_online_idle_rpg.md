@@ -40,6 +40,7 @@ Rating: 4.07 (Ranked 894)
 | Frostfire Liberator | 7.00% | ~101 |
 | Moving Up The Ladder | 7.00% | ~101 |
 | Here We Go Again | 6.00% | ~87 |
+| The father of Dragons | 6.00% | ~87 |
 | Trader | 6.00% | ~87 |
 | Ancient Knowledge | 5.00% | ~72 |
 | Enchanting skill | 5.00% | ~72 |
@@ -47,7 +48,6 @@ Rating: 4.07 (Ranked 894)
 | Master Enchanter | 5.00% | ~72 |
 | Missions Dedication | 5.00% | ~72 |
 | The Expeditioner | 5.00% | ~72 |
-| The father of Dragons | 5.00% | ~72 |
 | Weekly Quest Completionist | 5.00% | ~72 |
 | Background Story | 4.00% | ~58 |
 | Crystal Mining | 4.00% | ~58 |

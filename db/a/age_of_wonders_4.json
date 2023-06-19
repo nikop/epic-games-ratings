@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -4265,9 +4265,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1568
     },
     {
       "ID": "16",
@@ -4313,9 +4313,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 760
     },
     {
       "ID": "21",
@@ -4584,8 +4584,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T22:05:07.2022749+00:00",
+  "LastChanged_Achievements": "2023-06-19T23:07:15.2727225+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:59:31.1215074+00:00",
-  "LastUpdate_Achievements": "2023-06-19T22:05:07.2023394+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:01:56.6354116+00:00",
+  "LastUpdate_Achievements": "2023-06-19T23:07:15.2727707+00:00"
 }

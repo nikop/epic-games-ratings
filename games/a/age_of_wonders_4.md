@@ -20,7 +20,7 @@ Rating: 4.58 (Ranked 421)
 | My Final Form | 45.00% | ~2,138 |
 | Valley of Wonders | 43.00% | ~2,042 |
 | In a Liege of Your Own | 40.00% | ~1,900 |
-| Return of the Wizard King | 32.00% | ~1,520 |
+| Return of the Wizard King | 33.00% | ~1,568 |
 | Digging for Treasure | 32.00% | ~1,520 |
 | Against the Odds | 32.00% | ~1,520 |
 | Enchanted Archipelago | 29.00% | ~1,378 |
@@ -31,10 +31,10 @@ Rating: 4.58 (Ranked 421)
 | God Emperor | 19.00% | ~902 |
 | Eternal Lord | 18.00% | ~855 |
 | Crimson Caldera | 18.00% | ~855 |
+| The Goddess of Nature | 16.00% | ~760 |
 | Fiery Friend | 16.00% | ~760 |
 | Lord of Chaos | 15.00% | ~712 |
 | The Creator | 15.00% | ~712 |
-| The Goddess of Nature | 15.00% | ~712 |
 | The Eternal Court | 10.00% | ~475 |
 | Jack of All Tomes | 10.00% | ~475 |
 | Pruning for Progress | 10.00% | ~475 |

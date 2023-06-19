@@ -31,13 +31,13 @@ Rating: 3.48 (Ranked 945)
 | Starve the Beast | 8.00% | ~135 |
 | From the Shadows | 5.00% | ~85 |
 | Bell-ringer | 4.00% | ~68 |
+| Silence Is Golden | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |
 | Nice Try | 4.00% | ~68 |
 | Enemy of My Enemy | 4.00% | ~68 |
 | Revelations | 3.00% | ~51 |
 | Contingency Plans | 3.00% | ~51 |
 | Sic Transit Umbra | 3.00% | ~51 |
-| Silence Is Golden | 3.00% | ~51 |
 | Good Morning | 3.00% | ~51 |
 | Check, Please! | 3.00% | ~51 |
 | Scream Team | 2.00% | ~34 |
@@ -53,8 +53,8 @@ Rating: 3.48 (Ranked 945)
 | Bloody Initiate | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
+| What Lies Below | 0.90% | ~15 |
 | Sisterhood | 0.80% | ~14 |
-| What Lies Below | 0.80% | ~14 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~14 |
 | So Anyway I Started Blasting | 0.80% | ~14 |
 | Good Samaritan | 0.50% | ~8 |

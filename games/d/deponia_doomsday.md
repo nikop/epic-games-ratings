@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 452)
 | And again, and again, and... | 63.00% | ~229 |
 | Burn, Elysium, burn! | 62.00% | ~226 |
 | Kuvaq Minigame-Master | 60.00% | ~218 |
-| FunScore | 54.00% | ~197 |
+| FunScore | 55.00% | ~200 |
 | Funtime's over | 52.00% | ~189 |
 | Chunky | 50.00% | ~182 |
 | Shall we play a game? | 48.00% | ~175 |

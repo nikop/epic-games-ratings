@@ -6,52 +6,52 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,544 |
-| Resurgence | 2.00% | ~11,544 |
-| Close Shave | 2.00% | ~11,544 |
-| Preemptive Strike | 2.00% | ~11,544 |
-| Humanitarian | 2.00% | ~11,544 |
-| Unforgettable Getaway | 1.00% | ~5,772 |
-| Wounded Healer | 1.00% | ~5,772 |
-| First to the Punch | 1.00% | ~5,772 |
-| Old West Oasis | 1.00% | ~5,772 |
-| Every Last Drop | 1.00% | ~5,772 |
-| With Scars to Show | 1.00% | ~5,772 |
-| Flight to Freedom | 1.00% | ~5,772 |
-| Operation: Survival | 0.90% | ~5,195 |
-| Raccoon City Recruit | 0.90% | ~5,195 |
-| Cutting Out | 0.80% | ~4,618 |
-| Classy Act | 0.80% | ~4,618 |
-| A Fast Death | 0.80% | ~4,618 |
-| Lifting The Fog | 0.80% | ~4,618 |
-| Chorus of Chaos | 0.80% | ~4,618 |
-| Ancestor's Rite | 0.70% | ~4,040 |
-| Outrun Evil | 0.70% | ~4,040 |
-| Grim Pilgrimage | 0.60% | ~3,463 |
-| End of Days | 0.60% | ~3,463 |
-| Devoted Gatekeeping | 0.50% | ~2,886 |
-| Shrine Apparatus | 0.50% | ~2,886 |
-| Broken Bodies | 0.50% | ~2,886 |
-| Selfless Survival | 0.50% | ~2,886 |
-| Insult and Injury | 0.50% | ~2,886 |
-| Outrun the Overlap | 0.50% | ~2,886 |
-| Heavy Burden | 0.40% | ~2,309 |
-| I See You | 0.40% | ~2,309 |
-| Power Moves | 0.40% | ~2,309 |
-| Prowler | 0.40% | ~2,309 |
-| Rebuilding The Borgo | 0.40% | ~2,309 |
+| Healthy Obsession | 2.00% | ~11,548 |
+| Resurgence | 2.00% | ~11,548 |
+| Close Shave | 2.00% | ~11,548 |
+| Preemptive Strike | 2.00% | ~11,548 |
+| Humanitarian | 2.00% | ~11,548 |
+| Unforgettable Getaway | 1.00% | ~5,774 |
+| Wounded Healer | 1.00% | ~5,774 |
+| First to the Punch | 1.00% | ~5,774 |
+| Old West Oasis | 1.00% | ~5,774 |
+| Every Last Drop | 1.00% | ~5,774 |
+| With Scars to Show | 1.00% | ~5,774 |
+| Flight to Freedom | 1.00% | ~5,774 |
+| Operation: Survival | 0.90% | ~5,197 |
+| Classy Act | 0.90% | ~5,197 |
+| Raccoon City Recruit | 0.90% | ~5,197 |
+| Cutting Out | 0.80% | ~4,619 |
+| A Fast Death | 0.80% | ~4,619 |
+| Lifting The Fog | 0.80% | ~4,619 |
+| Chorus of Chaos | 0.80% | ~4,619 |
+| Ancestor's Rite | 0.70% | ~4,042 |
+| Outrun Evil | 0.70% | ~4,042 |
+| Grim Pilgrimage | 0.70% | ~4,042 |
+| Shrine Apparatus | 0.60% | ~3,464 |
+| End of Days | 0.60% | ~3,464 |
+| Devoted Gatekeeping | 0.50% | ~2,887 |
+| Broken Bodies | 0.50% | ~2,887 |
+| Selfless Survival | 0.50% | ~2,887 |
+| Insult and Injury | 0.50% | ~2,887 |
+| Outrun the Overlap | 0.50% | ~2,887 |
+| Heavy Burden | 0.40% | ~2,310 |
+| I See You | 0.40% | ~2,310 |
+| Power Moves | 0.40% | ~2,310 |
+| Prowler | 0.40% | ~2,310 |
+| Rebuilding The Borgo | 0.40% | ~2,310 |
 | Death of Ignorance | 0.30% | ~1,732 |
 | Punch Drunk | 0.30% | ~1,732 |
 | Triage | 0.30% | ~1,732 |
 | High Speed Pursuit | 0.30% | ~1,732 |
 | Hack the Mainframe | 0.30% | ~1,732 |
-| Deranged Pursuit | 0.20% | ~1,154 |
-| Dismantle | 0.20% | ~1,154 |
-| Left For Dead | 0.20% | ~1,154 |
-| Denied! | 0.20% | ~1,154 |
-| Bodyguard | 0.20% | ~1,154 |
-| Ghost in the Machine | 0.20% | ~1,154 |
-| From the Deep | 0.20% | ~1,154 |
+| Deranged Pursuit | 0.20% | ~1,155 |
+| Dismantle | 0.20% | ~1,155 |
+| Left For Dead | 0.20% | ~1,155 |
+| Denied! | 0.20% | ~1,155 |
+| Bodyguard | 0.20% | ~1,155 |
+| Ghost in the Machine | 0.20% | ~1,155 |
+| From the Deep | 0.20% | ~1,155 |
 | The Grand Sacrifice | 0.10% | ~577 |
 | A bite for the Entity | 0.10% | ~577 |
 | A feast for the Entity | 0.10% | ~577 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~577 |
 | Adept Gabriel | 0.10% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 577,210 (Ranked 26)  
+Progressed: 577,397 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
-| 2023-06-19 | 577,210 | 42 |
+| 2023-06-19 | 577,397 | 42 |
 ## Awards
 Max (Diverse Characters): 28,675  (Ranked 15)  
 Sum: 228,730 (Ranked 12)  
