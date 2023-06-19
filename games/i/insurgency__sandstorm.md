@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 346)  
+Rating: 4.62 (Ranked 345)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,689 |
-| Wallbanger | 5.00% | ~19,689 |
-| Exploitative | 4.00% | ~15,751 |
-| High Speed Low Drag | 4.00% | ~15,751 |
-| Wet Feet | 4.00% | ~15,751 |
-| Checkpoint Victory | 3.00% | ~11,813 |
-| Lucky | 3.00% | ~11,813 |
-| Stylin' | 3.00% | ~11,813 |
-| Turf War | 3.00% | ~11,813 |
+| Point Shooting | 5.00% | ~19,690 |
+| Wallbanger | 5.00% | ~19,690 |
+| Exploitative | 4.00% | ~15,752 |
+| High Speed Low Drag | 4.00% | ~15,752 |
+| Wet Feet | 4.00% | ~15,752 |
+| Checkpoint Victory | 3.00% | ~11,814 |
+| Lucky | 3.00% | ~11,814 |
+| Stylin' | 3.00% | ~11,814 |
+| Turf War | 3.00% | ~11,814 |
 | Banged | 2.00% | ~7,876 |
 | First Blood | 2.00% | ~7,876 |
 | Flaccid Paralysis | 2.00% | ~7,876 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~3,544 |
 | Grounded | 0.80% | ~3,150 |
 | Play to Win | 0.80% | ~3,150 |
-| #1 | 0.70% | ~2,756 |
-| Special Delivery | 0.70% | ~2,756 |
+| #1 | 0.70% | ~2,757 |
+| Special Delivery | 0.70% | ~2,757 |
 | Firefight Victory | 0.60% | ~2,363 |
 | Cinematic | 0.50% | ~1,969 |
 | Thanks Station! | 0.40% | ~1,575 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~394 |
 | Road Hazard | 0.10% | ~394 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,778 (Ranked 39)  
+Progressed: 393,809 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 2 (0.00%) (Ranked 227)
 | 2023-06-16 | 390,847 | 2 |
 | 2023-06-17 | 392,173 | 2 |
 | 2023-06-18 | 393,478 | 2 |
-| 2023-06-19 | 393,778 | 2 |
+| 2023-06-19 | 393,809 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 359  (Ranked 215)  
 Sum: 2,720 (Ranked 162)  

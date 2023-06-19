@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3278,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3529,9 +3529,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1246
     },
     {
       "ID": "Ach005",
@@ -4008,8 +4008,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:46.9662107+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:56.253882+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:58:22.4324019+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:46.966294+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:58:28.8510465+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:56.2539603+00:00"
 }

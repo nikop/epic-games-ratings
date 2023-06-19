@@ -4378,9 +4378,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 97904,
+  "EOS_Progressed": 97939,
   "EOS_Completed": 1948,
-  "EOS_NewPlayers": 7406,
+  "EOS_NewPlayers": 7439,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -10528,6 +10528,11 @@
       "Time": "2023-06-19T04:05:53.9105598+00:00",
       "NumProgressed": 97904,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-06-19T05:06:02.3470288+00:00",
+      "NumProgressed": 97939,
+      "NumCompleted": 1948
     }
   ],
   "TotalAchievements": 493,
@@ -10539,7 +10544,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6853
+      "UsersEstimate": 6856
     },
     {
       "ID": "objective_completed_10",
@@ -10907,7 +10912,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "objective_completed_110",
@@ -11515,7 +11520,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "objective_completed_130",
@@ -11643,7 +11648,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_149",
@@ -11659,7 +11664,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "objective_completed_150",
@@ -11731,7 +11736,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_165",
@@ -11763,7 +11768,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_17",
@@ -11867,7 +11872,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_20",
@@ -12211,7 +12216,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "objective_completed_34",
@@ -12227,7 +12232,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "objective_completed_36",
@@ -12411,7 +12416,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_400",
@@ -12553,9 +12558,9 @@
       "ID": "objective_completed_42",
       "SetID": "cc37lbc",
       "Name": "Cramped Quarters",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 294
     },
     {
       "ID": "objective_completed_420",
@@ -12683,7 +12688,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_540",
@@ -13083,7 +13088,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_60",
@@ -13609,9 +13614,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_completed_690",
@@ -13683,7 +13688,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "objective_completed_70",
@@ -14169,9 +14174,9 @@
       "ID": "objective_completed_878",
       "SetID": "415jc5c",
       "Name": "Demons Here, Demons There",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_completed_879",
@@ -14283,7 +14288,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "objective_completed_902",
@@ -14482,21 +14487,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 64178,
+      "Progressed": 64213,
       "Completed": 2805
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 97904,
+      "Progressed": 97939,
       "Completed": 1948
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T02:59:00.5219428+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:53.9105592+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:06:02.3470285+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:57:57.4113339+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:53.9130037+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:58:03.2377143+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:06:02.3497146+00:00"
 }

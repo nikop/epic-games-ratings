@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,853 |
-| The Cursed Farmer | 3.00% | ~2,937 |
-| Beast Intentions | 2.00% | ~1,958 |
-| The Mad Wizard | 2.00% | ~1,958 |
+| A Brief Tour of the Realms | 7.00% | ~6,856 |
+| The Cursed Farmer | 3.00% | ~2,938 |
+| Beast Intentions | 2.00% | ~1,959 |
+| The Mad Wizard | 2.00% | ~1,959 |
 | Were-verpowered | 1.00% | ~979 |
 | The Ring of Regeneration | 1.00% | ~979 |
 | Seeking Allies | 1.00% | ~979 |
@@ -17,25 +17,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.90% | ~881 |
 | Friendly Imps | 0.90% | ~881 |
 | The Court of Storms | 0.90% | ~578 |
-| A Persistent Buzzing | 0.80% | ~783 |
-| Pure Energy | 0.80% | ~783 |
-| Terror in the Dark | 0.70% | ~685 |
-| The Crumbling Temple | 0.70% | ~685 |
+| A Persistent Buzzing | 0.80% | ~784 |
+| Pure Energy | 0.80% | ~784 |
+| Terror in the Dark | 0.70% | ~686 |
+| The Crumbling Temple | 0.70% | ~686 |
 | Beware the Jabberwock | 0.70% | ~449 |
-| Beast Mode | 0.60% | ~587 |
-| A Mysterious Summons | 0.60% | ~587 |
-| Building Trust | 0.60% | ~587 |
-| Unearthed Evil | 0.60% | ~587 |
-| Useless Allies | 0.60% | ~587 |
-| Exploring Port Nyanzaru | 0.60% | ~587 |
-| The Contagious Curse | 0.60% | ~587 |
+| Beast Mode | 0.60% | ~588 |
+| A Mysterious Summons | 0.60% | ~588 |
+| Building Trust | 0.60% | ~588 |
+| Unearthed Evil | 0.60% | ~588 |
+| Useless Allies | 0.60% | ~588 |
+| Exploring Port Nyanzaru | 0.60% | ~588 |
+| The Contagious Curse | 0.60% | ~588 |
+| Escort to Waterdeep | 0.60% | ~588 |
 | Coasting to the Finish | 0.60% | ~385 |
 | Maddening | 0.50% | ~490 |
 | Checkmate | 0.50% | ~321 |
 | Vecna Out! | 0.50% | ~321 |
 | Low Initiative | 0.50% | ~490 |
 | Running of the Saurs | 0.50% | ~490 |
-| Escort to Waterdeep | 0.50% | ~490 |
 | Waterdeep Detours | 0.50% | ~490 |
 | Underdeep Cartography | 0.50% | ~490 |
 | Quick or Quack | 0.50% | ~321 |
@@ -103,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.30% | ~294 |
 | Towering Expectations | 0.30% | ~294 |
 | Hopelessly Lost | 0.30% | ~294 |
+| Cramped Quarters | 0.30% | ~294 |
 | Enter the Sargauth | 0.30% | ~294 |
 | The Dead Three | 0.30% | ~294 |
 | Lair of the Xanathar | 0.30% | ~294 |
@@ -273,7 +274,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.20% | ~196 |
 | Careful Consideration | 0.20% | ~196 |
 | Bazaar Exploits | 0.20% | ~196 |
-| Cramped Quarters | 0.20% | ~196 |
 | Flame(skull) War | 0.20% | ~196 |
 | Elder Rune Madness | 0.20% | ~196 |
 | The Madness Grows | 0.20% | ~196 |
@@ -402,6 +402,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.20% | ~128 |
 | Gargauth's Betrayal | 0.20% | ~128 |
 | Lost in the Underdark | 0.20% | ~128 |
+| Demons Here, Demons There | 0.20% | ~128 |
 | Leemooggoogoon Rises | 0.20% | ~128 |
 | Ending the Rime - Part 1 | 0.20% | ~128 |
 | Ambitious Speakers - Part 1 | 0.20% | ~128 |
@@ -486,7 +487,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.10% | ~64 |
 | Might Makes Right | 0.10% | ~64 |
 | The Stunning Tower Battle | 0.10% | ~64 |
-| Demons Here, Demons There | 0.10% | ~64 |
 | Visions of Hornfirth | 0.10% | ~64 |
 | Stragglers | 0.10% | ~64 |
 | Volo's Guide to Kuo-toa | 0.10% | ~64 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,904 (Ranked 63)  
+Progressed: 97,939 (Ranked 63)  
 Completed: 1,948 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,948 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 97,904 | 1,948 |
+| 2023-06-19 | 97,939 | 1,948 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,141 (Ranked 37)  

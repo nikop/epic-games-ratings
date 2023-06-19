@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 583)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 32.00% | ~967 |
-| Confirming Suspicions | 26.00% | ~785 |
+| Confirming Suspicions | 26.00% | ~786 |
 | The Kraken Wakes | 22.00% | ~665 |
 | It's Starting to Crack | 19.00% | ~574 |
 | Lord of War | 17.00% | ~514 |
@@ -23,12 +23,12 @@ Rating: 4.48 (Ranked 583)
 | Just a Flesh Wound | 9.00% | ~272 |
 | Gunslinger | 9.00% | ~272 |
 | Enemy at the Gates | 8.00% | ~242 |
-| Opposing Force | 7.00% | ~211 |
-| Die Nussknacker Sweet! | 7.00% | ~211 |
-| Der Geist | 7.00% | ~211 |
-| Close Quarters | 7.00% | ~211 |
-| Snake in the Grass | 7.00% | ~211 |
-| Brains of the Operation | 7.00% | ~211 |
+| Opposing Force | 7.00% | ~212 |
+| Die Nussknacker Sweet! | 7.00% | ~212 |
+| Der Geist | 7.00% | ~212 |
+| Close Quarters | 7.00% | ~212 |
+| Snake in the Grass | 7.00% | ~212 |
+| Brains of the Operation | 7.00% | ~212 |
 | Climbing the Ladder | 6.00% | ~181 |
 | No Stone Unturned | 6.00% | ~181 |
 | Fields of Glory | 6.00% | ~181 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 583)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,021 (Ranked 143)  
+Progressed: 3,022 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
-| 2023-06-19 | 3,021 | 2 |
+| 2023-06-19 | 3,022 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

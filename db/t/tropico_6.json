@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3715,
+  "EOS_Progressed": 3716,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -4669,6 +4669,11 @@
       "Time": "2023-06-19T00:03:29.9436938+00:00",
       "NumProgressed": 3715,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T05:02:26.1343314+00:00",
+      "NumProgressed": 3716,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4736,7 +4741,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4752,15 +4757,15 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
       "SetID": "1p8ab95",
       "Name": "Of Seals And Men",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -4840,7 +4845,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4936,7 +4941,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4999,15 +5004,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3715,
+      "Progressed": 3716,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:02:26.0863044+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:02:26.1343309+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:59:48.1221064+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:02:26.0863684+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:59:54.478036+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:02:26.134429+00:00"
 }

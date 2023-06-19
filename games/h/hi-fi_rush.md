@@ -21,7 +21,7 @@ Rating: 4.89 (Ranked 13)
 | Kissing the sky! | 43.00% | ~1,410 |
 | Does that say weakpoint? | 40.00% | ~1,311 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,278 |
-| The Negotiator | 37.00% | ~1,213 |
+| The Negotiator | 38.00% | ~1,246 |
 | You must like calling me in, Chai | 33.00% | ~1,082 |
 | Out in a puff of smoke | 33.00% | ~1,082 |
 | Headliner | 31.00% | ~1,016 |

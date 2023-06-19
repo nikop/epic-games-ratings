@@ -1505,9 +1505,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1809,9 +1809,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
@@ -1824,8 +1824,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:11.4979516+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:21.0324715+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:59:06.1558505+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:11.4980069+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:59:14.2384199+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:21.0325252+00:00"
 }

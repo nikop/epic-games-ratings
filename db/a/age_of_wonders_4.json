@@ -4252,9 +4252,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 758
     },
     {
       "ID": "2",
@@ -4539,8 +4539,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:04:28.1834679+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:04:38.0388176+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:59:10.6146705+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:04:28.1835328+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:59:19.2419177+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:04:38.0388772+00:00"
 }

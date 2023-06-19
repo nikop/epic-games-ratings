@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55675,
+  "EOS_Progressed": 55678,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1418,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5362,6 +5362,11 @@
       "Time": "2023-06-19T04:05:39.8887833+00:00",
       "NumProgressed": 55675,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T05:05:49.2621857+00:00",
+      "NumProgressed": 55678,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5373,7 +5378,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "02",
@@ -5381,7 +5386,7 @@
       "Name": "Nordic Walking",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10578
+      "UsersEstimate": 10579
     },
     {
       "ID": "03",
@@ -5389,7 +5394,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10578
+      "UsersEstimate": 10579
     },
     {
       "ID": "04",
@@ -5493,7 +5498,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "17",
@@ -5533,7 +5538,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6124
+      "UsersEstimate": 6125
     },
     {
       "ID": "22",
@@ -5579,9 +5584,9 @@
       "ID": "27",
       "SetID": "212770e",
       "Name": "Collateral Carnage",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5568
     },
     {
       "ID": "28",
@@ -5597,7 +5602,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6124
+      "UsersEstimate": 6125
     },
     {
       "ID": "30",
@@ -5621,7 +5626,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13919
+      "UsersEstimate": 13920
     },
     {
       "ID": "33",
@@ -5629,7 +5634,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6124
+      "UsersEstimate": 6125
     },
     {
       "ID": "34",
@@ -5733,7 +5738,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 6124
+      "UsersEstimate": 6125
     },
     {
       "ID": "47",
@@ -5773,7 +5778,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "52",
@@ -5908,21 +5913,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55675,
+      "Progressed": 55678,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19143,
+      "Progressed": 19146,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:39.8887827+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:49.2621854+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:57:36.7308674+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:39.8888834+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:57:40.9031712+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:49.2622772+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
@@ -4612,18 +4612,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10568,
       "NumberOfAwardsMax": 6186
+    },
+    {
+      "Time": "2023-06-19T04:58:55.3745345+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10571,
+      "NumberOfAwardsMax": 6189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10568,
-  "NumberOfAwardsMax": 6186,
+  "NumberOfAwards": 10571,
+  "NumberOfAwardsMax": 6189,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6186
+      "Count": 6189
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4692,9 +4698,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709774,
+  "EOS_Progressed": 709777,
   "EOS_Completed": 12776,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10402,6 +10408,11 @@
       "Time": "2023-06-19T04:05:45.1314964+00:00",
       "NumProgressed": 709774,
       "NumCompleted": 12776
+    },
+    {
+      "Time": "2023-06-19T05:05:54.3877078+00:00",
+      "NumProgressed": 709777,
+      "NumCompleted": 12776
     }
   ],
   "TotalAchievements": 50,
@@ -10413,7 +10424,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14195
+      "UsersEstimate": 14196
     },
     {
       "ID": "02_Vengeance_H1",
@@ -10812,21 +10823,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19075,
+      "Progressed": 19078,
       "Completed": 10284
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709774,
+      "Progressed": 709777,
       "Completed": 12776
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-18T21:59:58.6377814+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:45.1314958+00:00",
+  "LastChanged": "2023-06-19T04:58:55.3745343+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:54.3877073+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:58:47.5754452+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:45.1315785+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:58:55.3745351+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:54.3877934+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1145,9 +1145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121867,
+  "EOS_Progressed": 121868,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6880,6 +6880,11 @@
       "Time": "2023-06-19T04:05:37.0053394+00:00",
       "NumProgressed": 121867,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-19T05:05:46.2613942+00:00",
+      "NumProgressed": 121868,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7003,7 +7008,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24373
+      "UsersEstimate": 24374
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -7107,7 +7112,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17061
+      "UsersEstimate": 17062
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -7210,15 +7215,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121867,
+      "Progressed": 121868,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:37.0053387+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:46.2613937+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:58:50.1191241+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:37.0054135+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:58:58.1068715+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:46.2614706+00:00"
 }

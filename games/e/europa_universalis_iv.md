@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,190 |
-| That's a Grand Army | 8.00% | ~4,613 |
-| That is mine! | 8.00% | ~4,613 |
-| Victorious! | 8.00% | ~4,613 |
+| Until death do us apart | 9.00% | ~5,191 |
+| That's a Grand Army | 8.00% | ~4,614 |
+| That is mine! | 8.00% | ~4,614 |
+| Victorious! | 8.00% | ~4,614 |
 | Brothers in Arms | 6.00% | ~3,460 |
 | That's a Grand Navy | 6.00% | ~3,460 |
 | Seriously?! | 6.00% | ~3,460 |
-| For the Glory | 5.00% | ~2,883 |
+| For the Glory | 5.00% | ~2,884 |
 | Cold War | 4.00% | ~2,307 |
 | True Catholic | 4.00% | ~2,307 |
 | Defender of the Faith | 3.00% | ~1,730 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,663 (Ranked 77)  
+Progressed: 57,673 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,17 +421,17 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
-| 2023-06-19 | 57,663 | 0 |
+| 2023-06-19 | 57,673 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
-Sum: 44,719 (Ranked 27)  
+Sum: 44,731 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,412 |
 | This game is Highly Recommended | 5,194 |
 | This game has Challenging Combat | 5,158 |
-| This game is Extremely Fun | 5,124 |
+| This game is Extremely Fun | 5,136 |
 | This game has Diverse Characters | 5,090 |
 | This game is Relaxing | 5,018 |
 | This game has Competitive Players | 4,871 |
@@ -594,4 +594,4 @@ Diff (max vs sum): 34
 | 2023-06-16 | 4.69 | - | 5,397 | 44,627 |
 | 2023-06-17 | 4.69 | - | 5,404 | 44,681 |
 | 2023-06-18 | 4.68 | - | 5,412 | 44,715 |
-| 2023-06-19 | 4.68 | - | 5,412 | 44,719 |
+| 2023-06-19 | 4.68 | - | 5,412 | 44,731 |

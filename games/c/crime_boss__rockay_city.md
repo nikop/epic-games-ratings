@@ -5,17 +5,17 @@ Rating: 3.93 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,726 |
-| First One’s Free | 65.00% | ~43,678 |
-| Neophyte Ninja | 50.00% | ~33,598 |
-| Too Old for This | 47.00% | ~31,583 |
-| Fancy Pants | 35.00% | ~23,519 |
-| Case Closed | 34.00% | ~22,847 |
-| King of the Hill | 34.00% | ~22,847 |
-| Underworld Initiate | 29.00% | ~19,487 |
-| Roid Ranger | 21.00% | ~14,111 |
-| True Player | 19.00% | ~12,767 |
-| Off the Rocks | 19.00% | ~12,767 |
+| Downed but Not Outed | 74.00% | ~49,727 |
+| First One’s Free | 65.00% | ~43,679 |
+| Neophyte Ninja | 50.00% | ~33,600 |
+| Too Old for This | 47.00% | ~31,584 |
+| Fancy Pants | 35.00% | ~23,520 |
+| Case Closed | 34.00% | ~22,848 |
+| King of the Hill | 34.00% | ~22,848 |
+| Underworld Initiate | 29.00% | ~19,488 |
+| Roid Ranger | 21.00% | ~14,112 |
+| True Player | 19.00% | ~12,768 |
+| Off the Rocks | 19.00% | ~12,768 |
 | Raider’s Ruin | 16.00% | ~10,752 |
 | Dragonslayer | 16.00% | ~10,752 |
 | Hidden Sonata | 13.00% | ~8,736 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 920)
 | Geek Out | 0.50% | ~336 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,197 (Ranked 70)  
+Progressed: 67,199 (Ranked 70)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,14 +103,14 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-16 | 66,929 | 33 |
 | 2023-06-17 | 67,060 | 33 |
 | 2023-06-18 | 67,188 | 34 |
-| 2023-06-19 | 67,197 | 34 |
+| 2023-06-19 | 67,199 | 34 |
 ## Awards
-Max (Diverse Characters): 329  (Ranked 222)  
-Sum: 1,584 (Ranked 208)  
-Diff (max vs sum): 14  
+Max (Diverse Characters): 332  (Ranked 221)  
+Sum: 1,587 (Ranked 208)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 329 |
+| This game has Diverse Characters | 332 |
 | This game is Highly Recommended | 324 |
 | This game has Quickly Understood Controls | 315 |
 | This game has Amazing Characters | 308 |
@@ -203,3 +203,4 @@ Diff (max vs sum): 14
 | 2023-06-16 | 3.93 | 329 | 1,573 |
 | 2023-06-17 | 3.93 | 329 | 1,580 |
 | 2023-06-18 | 3.93 | 329 | 1,584 |
+| 2023-06-19 | 3.93 | 332 | 1,587 |

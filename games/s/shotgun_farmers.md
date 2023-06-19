@@ -8,7 +8,7 @@
 | Aspairagus | 58.00% | ~45 |
 | Survivor | 48.00% | ~37 |
 | First Blood | 45.00% | ~58 |
-| Triple Kill | 42.00% | ~54 |
+| Triple Kill | 43.00% | ~55 |
 | Early Survivor | 38.00% | ~30 |
 | No Diggity | 38.00% | ~30 |
 | I Believe I Can Fly | 37.00% | ~47 |
@@ -17,12 +17,12 @@
 | Bouncemato | 26.00% | ~20 |
 | Amateur Survivor | 26.00% | ~20 |
 | Quick-Draw Pod | 20.00% | ~16 |
-| 10K | 18.00% | ~23 |
-| Professional Survivor | 18.00% | ~14 |
+| 10K | 19.00% | ~24 |
+| Professional Survivor | 19.00% | ~15 |
+| 15K | 18.00% | ~23 |
 | This Is My Boomstick | 18.00% | ~14 |
-| 15K | 17.00% | ~22 |
 | Grave Digger | 16.00% | ~12 |
-| Drinking Problem | 14.00% | ~18 |
+| Drinking Problem | 15.00% | ~19 |
 | Summers Here | 13.00% | ~10 |
 | Eggtraordinary | 12.00% | ~15 |
 | Skin Of Your Teeth | 10.00% | ~13 |

@@ -28,10 +28,10 @@
 | The Loose Cannon | 9.00% | ~64 |
 | Golem Chaser | 9.00% | ~64 |
 | Check Your Pulse | 9.00% | ~64 |
+| The Family Fortune | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Street Style | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
-| The Family Fortune | 8.00% | ~57 |
 | Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
 | Sump Explorer | 6.00% | ~42 |
@@ -39,12 +39,12 @@
 | Good Neighbor | 6.00% | ~42 |
 | Cultivair Explorer | 5.00% | ~35 |
 | Factorywood Explorer | 5.00% | ~35 |
+| Fairgrounds Explorer | 5.00% | ~35 |
 | Syron for Hope | 5.00% | ~35 |
 | Theater Explorer | 5.00% | ~35 |
 | Corin Goes Home | 4.00% | ~28 |
 | Sartorialist | 4.00% | ~28 |
 | Entresol Explorer | 4.00% | ~28 |
-| Fairgrounds Explorer | 4.00% | ~28 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Golem Hunter | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |

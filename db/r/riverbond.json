@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519818,
+  "EOS_Progressed": 519819,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6515,6 +6515,11 @@
       "Time": "2023-06-19T04:05:32.5372413+00:00",
       "NumProgressed": 519818,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-06-19T05:05:42.0834762+00:00",
+      "NumProgressed": 519819,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 57,
@@ -6534,7 +6539,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233918
+      "UsersEstimate": 233919
     },
     {
       "ID": "11",
@@ -6606,7 +6611,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 322287
+      "UsersEstimate": 322288
     },
     {
       "ID": "2",
@@ -6622,7 +6627,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124756
+      "UsersEstimate": 124757
     },
     {
       "ID": "21",
@@ -6750,7 +6755,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259909
+      "UsersEstimate": 259910
     },
     {
       "ID": "36",
@@ -6854,7 +6859,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 322287
+      "UsersEstimate": 322288
     },
     {
       "ID": "48",
@@ -6902,7 +6907,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239116
+      "UsersEstimate": 239117
     },
     {
       "ID": "53",
@@ -6981,15 +6986,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 519818,
+      "Progressed": 519819,
       "Completed": 430
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:05:32.5372403+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:05:42.0834759+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:06.4806196+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:57:18.8521616+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:05:32.5373346+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:57:23.3553803+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:05:42.0835773+00:00"
 }

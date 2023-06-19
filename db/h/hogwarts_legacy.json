@@ -3918,9 +3918,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280657,
+  "EOS_Progressed": 280662,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1896,
+  "EOS_NewPlayers": 1886,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10123,6 +10123,11 @@
       "Time": "2023-06-19T04:04:37.505958+00:00",
       "NumProgressed": 280657,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T05:04:47.0208287+00:00",
+      "NumProgressed": 280662,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10134,7 +10139,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25259
+      "UsersEstimate": 25260
     },
     {
       "ID": "PFA_10",
@@ -10206,7 +10211,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     },
     {
       "ID": "PFA_19",
@@ -10358,7 +10363,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     },
     {
       "ID": "PFA_36",
@@ -10438,7 +10443,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     },
     {
       "ID": "PFA_45",
@@ -10486,14 +10491,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280657,
+      "Progressed": 280662,
       "Completed": 408
     }
   ],
@@ -10501,8 +10506,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T02:08:11.9203931+00:00",
-  "LastChanged_Achievements": "2023-06-19T04:04:37.5059575+00:00",
+  "LastChanged_Achievements": "2023-06-19T05:04:47.0208283+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T03:57:20.3605633+00:00",
-  "LastUpdate_Achievements": "2023-06-19T04:04:37.506033+00:00"
+  "LastUpdate_Ratings": "2023-06-19T04:57:25.1026484+00:00",
+  "LastUpdate_Achievements": "2023-06-19T05:04:47.0209218+00:00"
 }
