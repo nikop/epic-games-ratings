@@ -5,9 +5,9 @@
   "Ranking_Rating": 79,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3032,9 +3032,9 @@
       "ID": "STB_PLATINUM",
       "SetID": "3pe2bac",
       "Name": "The Unshackled",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -3145,8 +3145,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:05:59.1988752+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:06:47.0969455+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:57:50.3902196+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:05:59.1989409+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:57:52.6560542+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:06:47.0970289+00:00"
 }

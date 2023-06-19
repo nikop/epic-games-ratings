@@ -17,7 +17,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get Furious | 56.00% | ~4,094 |
 | Gunplay And Cosplay | 55.00% | ~4,021 |
 | Hacks In Stacks | 54.00% | ~3,948 |
-| Meching Enemies | 48.00% | ~3,509 |
+| Meching Enemies | 49.00% | ~3,582 |
 | Ticket Toddler | 45.00% | ~3,290 |
 | Booty Bashing | 43.00% | ~3,144 |
 | Here Comes a New Challenger | 38.00% | ~2,778 |
@@ -32,8 +32,8 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 15.00% | ~1,097 |
 | The Final Blow | 14.00% | ~1,024 |
 | Light My Fire | 13.00% | ~950 |
+| To Be Continued | 13.00% | ~950 |
 | Seasoned Adventurer | 12.00% | ~877 |
-| To Be Continued | 12.00% | ~877 |
 | 1.21 Gigawatts | 11.00% | ~804 |
 | This Is My Boomstick! | 10.00% | ~731 |
 | Get In The Ring! | 9.00% | ~658 |

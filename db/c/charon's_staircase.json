@@ -3,8 +3,8 @@
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.74,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -62,6 +62,11 @@
       "Time": "2023-06-14T16:06:15.1601135+00:00",
       "NumProgressed": 73,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T21:06:36.526291+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -71,7 +76,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 35,
       "UsersEstimate": 40
     },
@@ -79,7 +84,7 @@
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 35,
       "UsersEstimate": 35
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -153,13 +158,13 @@
       "Name": "There is something strange here...",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 35,
       "UsersEstimate": 40
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_5",
       "SetID": "1g3d1lg",
       "Name": "The threshold of horror",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -207,7 +212,7 @@
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 18
     },
@@ -232,7 +237,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 2
     }
   ],
@@ -240,8 +245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:05:50.079181+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:06:36.5262907+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:47.1559432+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:59:18.4556329+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:05:50.0791968+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:59:39.9177998+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:06:36.5263013+00:00"
 }

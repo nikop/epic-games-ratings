@@ -5,19 +5,19 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,937 |
-| My First Runbow | 50.00% | ~122,582 |
-| It's The Fall | 26.00% | ~63,743 |
+| In The Zone | 53.00% | ~129,940 |
+| My First Runbow | 50.00% | ~122,584 |
+| It's The Fall | 26.00% | ~63,744 |
 | The Stunner | 21.00% | ~51,485 |
-| Be Aggressive | 20.00% | ~49,033 |
-| Curator | 20.00% | ~49,033 |
+| Be Aggressive | 20.00% | ~49,034 |
+| Curator | 20.00% | ~49,034 |
 | Crowning Around | 18.00% | ~44,130 |
-| Can You Dig It? | 17.00% | ~41,678 |
-| You Juan-A-Go? | 16.00% | ~39,226 |
+| Can You Dig It? | 17.00% | ~41,679 |
+| You Juan-A-Go? | 16.00% | ~39,227 |
 | Chan-tastic | 15.00% | ~36,775 |
-| Muddy Waters | 14.00% | ~34,323 |
-| Toasty! | 13.00% | ~31,871 |
-| Lazy Laser | 8.00% | ~19,613 |
+| Muddy Waters | 14.00% | ~34,324 |
+| Toasty! | 13.00% | ~31,872 |
+| Lazy Laser | 8.00% | ~19,614 |
 | Into The Drift | 7.00% | ~17,162 |
 | Ready? Fight! | 7.00% | ~17,162 |
 | Just A Phaze | 6.00% | ~14,710 |
@@ -28,13 +28,13 @@ Rating: 4.46 (Ranked 603)
 | Blotbuster | 2.00% | ~4,903 |
 | Thunderstruck | 2.00% | ~4,903 |
 | Just A Bit | 1.00% | ~2,452 |
-| Tubular, Dude | 0.90% | ~2,206 |
-| What A Trip | 0.90% | ~2,206 |
+| Tubular, Dude | 0.90% | ~2,207 |
+| What A Trip | 0.90% | ~2,207 |
 | Please The King | 0.80% | ~1,961 |
 | Here We Go! | 0.70% | ~1,716 |
 | Clear-Cut | 0.50% | ~1,226 |
 | Breaking Out | 0.40% | ~981 |
-| Disposable | 0.30% | ~735 |
+| Disposable | 0.30% | ~736 |
 | A Winner Is You | 0.20% | ~490 |
 | Final Nightmare | 0.20% | ~490 |
 | I'm Here All Night | 0.20% | ~490 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,165 (Ranked 43)  
+Progressed: 245,169 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 3 (0.00%) (Ranked 227)
 | 2023-06-16 | 244,965 | 3 |
 | 2023-06-17 | 245,051 | 3 |
 | 2023-06-18 | 245,110 | 3 |
-| 2023-06-19 | 245,165 | 3 |
+| 2023-06-19 | 245,169 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

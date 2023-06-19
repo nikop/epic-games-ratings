@@ -302,9 +302,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "HastrmanAcorn",
@@ -422,9 +422,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 68,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RogueEat",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:03:29.5707839+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:03:30.424899+00:00",
   "LastUpdate_AppInfo": "2023-06-13T11:56:52.0343366+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:57:11.605541+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:03:29.5708229+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:57:03.8882655+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:03:30.4249344+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.66 (Ranked 276)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,006 |
-| Mods Please Ban | 77.00% | ~17,632 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,403 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,716 |
-| First Bounty Down | 59.00% | ~13,510 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,052 |
+| Eye Scream, You Scream | 83.00% | ~19,007 |
+| Mods Please Ban | 77.00% | ~17,633 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,404 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,717 |
+| First Bounty Down | 59.00% | ~13,511 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,053 |
 | Luglox Genocide | 43.00% | ~9,847 |
 | Playing Card To Get | 33.00% | ~7,557 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,557 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 276)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,899 (Ranked 96)  
+Progressed: 22,900 (Ranked 96)  
 Completed: 8 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 8 (0.03%) (Ranked 200)
 | 2023-06-16 | 22,882 | 8 |
 | 2023-06-17 | 22,890 | 8 |
 | 2023-06-18 | 22,897 | 8 |
-| 2023-06-19 | 22,899 | 8 |
+| 2023-06-19 | 22,900 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

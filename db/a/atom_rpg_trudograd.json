@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2023-06-19T16:05:31.1724995+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T21:06:30.2783406+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -929,9 +934,9 @@
       "ID": "OLD_FRIEND",
       "SetID": "62d2oh4",
       "Name": "An Old Friend",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 56
     },
     {
       "ID": "POSITRONIUM",
@@ -1019,14 +1024,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 0
     }
   ],
@@ -1034,8 +1039,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:05:44.8435482+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:06:30.2783403+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.2136356+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:57:34.9662947+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:05:44.8435718+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:57:32.6653349+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:06:30.2783828+00:00"
 }

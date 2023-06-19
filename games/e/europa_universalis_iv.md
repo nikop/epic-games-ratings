@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,227 |
-| That's a Grand Army | 8.00% | ~4,646 |
-| That is mine! | 8.00% | ~4,646 |
-| Victorious! | 8.00% | ~4,646 |
-| Brothers in Arms | 6.00% | ~3,485 |
-| That's a Grand Navy | 6.00% | ~3,485 |
-| Seriously?! | 6.00% | ~3,485 |
-| For the Glory | 5.00% | ~2,904 |
-| Cold War | 4.00% | ~2,323 |
-| True Catholic | 4.00% | ~2,323 |
-| Defender of the Faith | 3.00% | ~1,742 |
-| It's all about the money | 3.00% | ~1,742 |
-| Respected | 3.00% | ~1,742 |
-| Truly Divine Ruler | 3.00% | ~1,742 |
+| Until death do us apart | 9.00% | ~5,229 |
+| That's a Grand Army | 8.00% | ~4,648 |
+| That is mine! | 8.00% | ~4,648 |
+| Victorious! | 8.00% | ~4,648 |
+| Brothers in Arms | 6.00% | ~3,486 |
+| That's a Grand Navy | 6.00% | ~3,486 |
+| Seriously?! | 6.00% | ~3,486 |
+| For the Glory | 5.00% | ~2,905 |
+| Cold War | 4.00% | ~2,324 |
+| True Catholic | 4.00% | ~2,324 |
+| Defender of the Faith | 3.00% | ~1,743 |
+| It's all about the money | 3.00% | ~1,743 |
+| Respected | 3.00% | ~1,743 |
+| Truly Divine Ruler | 3.00% | ~1,743 |
 | Agressive Expander | 2.00% | ~1,162 |
 | Blockader | 2.00% | ~1,162 |
 | Combined Arms | 2.00% | ~1,162 |
@@ -44,18 +44,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~523 |
 | Down Under | 0.80% | ~465 |
 | Trustworthy | 0.80% | ~465 |
-| All belongs to Mother Russia | 0.60% | ~348 |
-| At every continent | 0.60% | ~348 |
-| Early-Modern Warfare | 0.60% | ~348 |
-| Electable! | 0.60% | ~348 |
-| Populists in Government | 0.60% | ~348 |
-| Time Bandit | 0.60% | ~348 |
-| One Family to Rule them All | 0.50% | ~290 |
-| Ruina Imperii | 0.50% | ~290 |
-| The pen is mightier than the sword | 0.50% | ~290 |
-| This is My Faith | 0.50% | ~290 |
-| Trophy Hunter | 0.50% | ~290 |
-| Voting Streak | 0.50% | ~290 |
+| All belongs to Mother Russia | 0.60% | ~349 |
+| At every continent | 0.60% | ~349 |
+| Early-Modern Warfare | 0.60% | ~349 |
+| Electable! | 0.60% | ~349 |
+| Populists in Government | 0.60% | ~349 |
+| Time Bandit | 0.60% | ~349 |
+| One Family to Rule them All | 0.50% | ~291 |
+| Ruina Imperii | 0.50% | ~291 |
+| The pen is mightier than the sword | 0.50% | ~291 |
+| This is My Faith | 0.50% | ~291 |
+| Trophy Hunter | 0.50% | ~291 |
+| Voting Streak | 0.50% | ~291 |
 | Absolutely | 0.40% | ~232 |
 | All Your Trade Are Belong to Us | 0.40% | ~232 |
 | Bleed Them Dry | 0.40% | ~232 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,081 (Ranked 77)  
+Progressed: 58,103 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
-| 2023-06-19 | 58,081 | 0 |
+| 2023-06-19 | 58,103 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
 Sum: 44,761 (Ranked 27)  

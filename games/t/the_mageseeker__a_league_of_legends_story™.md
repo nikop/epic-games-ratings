@@ -57,9 +57,9 @@ Rating: 4.80 (Ranked 79)
 | Spellcrafting | 8.00% | ~190 |
 | The great mage rebellion starts now | 7.00% | ~167 |
 | Silverwing nest | 2.00% | ~48 |
-| The Unshackled | 0.60% | ~14 |
+| The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,379 (Ranked 153)  
+Progressed: 2,379 (Ranked 154)  
 Completed: 2 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |

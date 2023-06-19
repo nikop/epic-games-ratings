@@ -34,8 +34,8 @@
 | Karaoke king | 36.00% | ~29 |
 | Pasta Bolognese | 36.00% | ~29 |
 | You are no match for me, Billy! | 35.00% | ~28 |
+| Catch the bus with me! | 35.00% | ~28 |
 | You can't stop me, bro! | 35.00% | ~28 |
-| Catch the bus with me! | 33.00% | ~27 |
 | I'm going to get a concussion | 33.00% | ~27 |
 | Meatballs, coming up! | 30.00% | ~24 |
 | A Megapint...? | 30.00% | ~24 |
@@ -46,19 +46,19 @@
 | You're not so Big anymore, Boi! | 22.00% | ~18 |
 | Your daily dose of Vitamin C. | 22.00% | ~18 |
 | I cant stand still! | 21.00% | ~17 |
-| Master Butcher | 17.00% | ~14 |
+| Master Butcher | 19.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
 | Slimy... yet satisfying | 16.00% | ~13 |
 | Yeehaw!!! | 15.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~11 |
 | Deal with it | 14.00% | ~11 |
 | You're looking mozzare-hella good! | 11.00% | ~9 |
+| Ancient Ruins of Moist Overhangs | 10.00% | ~8 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |
 | Timber! | 10.00% | ~8 |
 | Grumpy Immortal | 10.00% | ~8 |
 | Free Of Chains | 10.00% | ~8 |
 | Spoiler alert! | 9.00% | ~7 |
-| Ancient Ruins of Moist Overhangs | 9.00% | ~7 |
 | Scrambled Eggs | 9.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 6.00% | ~5 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |

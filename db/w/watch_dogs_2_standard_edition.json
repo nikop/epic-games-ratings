@@ -2,12 +2,12 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 391,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -4021,6 +4021,6 @@
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
   "LastChanged": "2023-06-19T04:58:56.8233796+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.0814929+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:59:12.8939239+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:04:11.7719356+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:59:33.0298704+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:04:23.5658823+00:00"
 }

@@ -18,7 +18,7 @@
 | Supply Run | 27.00% | ~149 |
 | Starship Docks | 26.00% | ~144 |
 | Rookie | 24.00% | ~133 |
-| Cybernetic | 20.00% | ~111 |
+| Cybernetic | 21.00% | ~116 |
 | The Bigger They Are | 19.00% | ~105 |
 | Eden Heights | 19.00% | ~105 |
 | Outer Core | 16.00% | ~88 |

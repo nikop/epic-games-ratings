@@ -729,7 +729,7 @@
   ],
   "EOS_Progressed": 7311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4569,9 +4569,9 @@
       "ID": "ACH_MECHING_ENEMIES",
       "SetID": "97mcd7i",
       "Name": "Meching Enemies",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3582
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -4777,9 +4777,9 @@
       "ID": "ACH_TO_BE_CONTINUED",
       "SetID": "97mcd7i",
       "Name": "To Be Continued",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 877
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -4809,8 +4809,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:04:05.7003819+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:04:16.2379307+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.8888573+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:58:33.7350092+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:04:05.700446+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:58:47.9757235+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:04:16.2380103+00:00"
 }

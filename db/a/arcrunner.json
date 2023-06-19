@@ -1137,9 +1137,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1330,8 +1330,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:00:49.6891172+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:01:31.232568+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:59:44.2176683+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:00:49.6891647+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:00:12.6258273+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:01:31.232632+00:00"
 }

@@ -10,10 +10,10 @@ Rating: 4.45 (Ranked 621)
 | Enter the Speed Gauntlet | 25.00% | ~257 |
 | I just can't choose | 25.00% | ~257 |
 | A Cheese Grater to the Face | 20.00% | ~206 |
-| Put it on a shelf | 19.00% | ~195 |
+| Put it on a shelf | 19.00% | ~196 |
 | It's like an haircut | 18.00% | ~185 |
 | Suit up | 17.00% | ~175 |
-| Ride in the rising sun | 16.00% | ~164 |
+| Ride in the rising sun | 16.00% | ~165 |
 | Walked like an Egyptian | 15.00% | ~154 |
 | Rookie No-No More | 13.00% | ~134 |
 | Running at the speed of sound | 13.00% | ~134 |
@@ -28,8 +28,6 @@ Rating: 4.45 (Ranked 621)
 | Longshot | 6.00% | ~62 |
 | B-asic! | 5.00% | ~51 |
 | Under the neon lights | 4.00% | ~41 |
-| All Power to Engines! | 4.00% | ~41 |
-| Had to sweat a bit | 4.00% | ~41 |
 | Almost broke the game | 4.00% | ~41 |
 | Better luck next time | 4.00% | ~41 |
 | Dev, this! | 4.00% | ~41 |
@@ -38,6 +36,8 @@ Rating: 4.45 (Ranked 621)
 | A-mazing! | 3.00% | ~31 |
 | To infinity and gravity! | 3.00% | ~31 |
 | One giant drive for mankind | 3.00% | ~31 |
+| All Power to Engines! | 3.00% | ~31 |
+| Had to sweat a bit | 3.00% | ~31 |
 | [Sweats profusely] | 3.00% | ~31 |
 | It's like a party! | 3.00% | ~31 |
 | Healthy competition | 3.00% | ~31 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 621)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,028 (Ranked 181)  
+Progressed: 1,029 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 1,022 | 0 |
 | 2023-06-16 | 1,026 | 0 |
 | 2023-06-17 | 1,028 | 0 |
+| 2023-06-19 | 1,029 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

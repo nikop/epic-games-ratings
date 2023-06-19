@@ -2,12 +2,12 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -232,6 +232,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-06-19T21:00:00.0341408+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -258,8 +264,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2023-06-17T22:59:41.0033193+00:00",
+  "LastChanged": "2023-06-19T21:00:00.0341406+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:01.9295058+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:59:34.0367709+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:04:06.7314932+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:00:00.0341412+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:04:17.4480992+00:00"
 }

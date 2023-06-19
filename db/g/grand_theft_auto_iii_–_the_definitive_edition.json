@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6732,
+  "EOS_Progressed": 6733,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2023-06-19T19:04:49.754479+00:00",
       "NumProgressed": 6732,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-19T21:04:16.4939582+00:00",
+      "NumProgressed": 6733,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4563,7 +4568,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH07",
@@ -4754,7 +4759,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6732,
+      "Progressed": 6733,
       "Completed": 38
     }
   ],
@@ -4762,8 +4767,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-19T20:04:05.9408587+00:00",
+  "LastChanged_Achievements": "2023-06-19T21:04:16.4939579+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-19T19:58:07.4445743+00:00",
-  "LastUpdate_Achievements": "2023-06-19T20:04:05.9409097+00:00"
+  "LastUpdate_Ratings": "2023-06-19T20:58:13.2356773+00:00",
+  "LastUpdate_Achievements": "2023-06-19T21:04:16.4940138+00:00"
 }
