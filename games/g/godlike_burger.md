@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 82.00% | ~287 |
+| MASTER CHEF | 82.00% | ~288 |
 | FIRST BLOOD | 77.00% | ~270 |
-| KEVIN! | 67.00% | ~234 |
-| JACK OF ALL TRADES | 60.00% | ~210 |
+| KEVIN! | 67.00% | ~235 |
+| JACK OF ALL TRADES | 60.00% | ~211 |
 | CRIMINAL | 55.00% | ~193 |
 | GRANDMA WOULD BE PROUD | 44.00% | ~154 |
-| WITHOUT BREAKING A SWEAT | 41.00% | ~144 |
-| HONORS STUDENT | 37.00% | ~130 |
+| WITHOUT BREAKING A SWEAT | 40.00% | ~140 |
+| HONORS STUDENT | 36.00% | ~126 |
 | BUTCHER | 26.00% | ~91 |
 | RAMBO | 22.00% | ~77 |
 | INDIVIDUAL APPROACH | 20.00% | ~70 |
@@ -20,22 +20,22 @@ Rating: 4.25 (Ranked 798)
 | HELL'S KITCHEN | 18.00% | ~63 |
 | CELEBRITY | 17.00% | ~60 |
 | GRATITUDE | 17.00% | ~60 |
-| LAW-ABIDING CITIZEN | 11.00% | ~38 |
-| PRUDENT | 11.00% | ~38 |
+| LAW-ABIDING CITIZEN | 11.00% | ~39 |
+| PRUDENT | 11.00% | ~39 |
 | PATTY-KILLER | 9.00% | ~32 |
 | GOURMET | 8.00% | ~28 |
 | EXPERIMENTALIST | 7.00% | ~25 |
 | SCATTERBRAIN | 7.00% | ~25 |
 | TASTE UNTASTY | 4.00% | ~14 |
-| HIGH TECHNOLOGIES | 3.00% | ~10 |
+| HIGH TECHNOLOGIES | 3.00% | ~11 |
 | CORRUPTIONIST | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |
 | DEBTOR | 1.00% | ~4 |
 | TRAVELER | 0.90% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 227)  
-Completed: 1 (0.29%) (Ranked 144)  
+Progressed: 351 (Ranked 227)  
+Completed: 1 (0.28%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 1 (0.29%) (Ranked 144)
 | 2023-06-15 | 346 | 1 |
 | 2023-06-16 | 348 | 1 |
 | 2023-06-17 | 350 | 1 |
+| 2023-06-19 | 351 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

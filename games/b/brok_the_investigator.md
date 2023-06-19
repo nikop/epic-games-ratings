@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 79.00% | ~11 |
-| Chapter 1 | 36.00% | ~5 |
-| Chapter 2 | 36.00% | ~5 |
-| Chapter 3 | 36.00% | ~5 |
-| Chapter 4 | 36.00% | ~5 |
-| Chapter 5 | 36.00% | ~5 |
-| Your Days Are Numbered | 36.00% | ~5 |
-| All Materials | 36.00% | ~5 |
-| It's In My Nature | 29.00% | ~4 |
-| Chapter 6 | 21.00% | ~3 |
-| Highway Survival | 21.00% | ~3 |
-| Ads Fan | 14.00% | ~2 |
-| Best Student | 14.00% | ~2 |
+| Introduction completed | 73.00% | ~11 |
+| Chapter 1 | 33.00% | ~5 |
+| Chapter 2 | 33.00% | ~5 |
+| Chapter 3 | 33.00% | ~5 |
+| Chapter 4 | 33.00% | ~5 |
+| Chapter 5 | 33.00% | ~5 |
+| Your Days Are Numbered | 33.00% | ~5 |
+| All Materials | 33.00% | ~5 |
+| It's In My Nature | 27.00% | ~4 |
+| Chapter 6 | 20.00% | ~3 |
+| Highway Survival | 20.00% | ~3 |
+| Ads Fan | 13.00% | ~2 |
+| Best Student | 13.00% | ~2 |
 | Chipmunk | 7.00% | ~1 |
 | Food Thief | 7.00% | ~1 |
 | Paw Music | 7.00% | ~1 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 367)  
+Progressed: 15 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-07 | 12 | 0 |
 | 2023-06-11 | 13 | 0 |
 | 2023-06-14 | 14 | 0 |
+| 2023-06-19 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

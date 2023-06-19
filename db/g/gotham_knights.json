@@ -1634,9 +1634,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65608,
+  "EOS_Progressed": 65610,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6904,6 +6904,11 @@
       "Time": "2023-06-19T05:05:56.1373492+00:00",
       "NumProgressed": 65608,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-19T06:06:18.9450346+00:00",
+      "NumProgressed": 65610,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6961,9 +6966,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1968
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -7259,7 +7264,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7402,13 +7407,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65608,
+      "Progressed": 65610,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35888,
+      "Progressed": 35890,
       "Completed": 2646
     }
   ],
@@ -7416,8 +7421,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-19T04:59:33.5799613+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:05:56.1373487+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:06:18.945034+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-19T04:59:33.579962+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:05:56.1375017+00:00"
+  "LastUpdate_Ratings": "2023-06-19T05:59:54.7095387+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:06:18.9451314+00:00"
 }

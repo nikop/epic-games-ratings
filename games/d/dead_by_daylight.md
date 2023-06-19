@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,480 |
-| Resurgence | 2.00% | ~11,480 |
-| Preemptive Strike | 2.00% | ~11,480 |
-| Humanitarian | 2.00% | ~11,480 |
-| Unforgettable Getaway | 1.00% | ~5,740 |
-| Wounded Healer | 1.00% | ~5,740 |
-| Close Shave | 1.00% | ~5,740 |
-| Flight to Freedom | 1.00% | ~5,740 |
-| First to the Punch | 0.90% | ~5,166 |
-| Old West Oasis | 0.90% | ~5,166 |
-| With Scars to Show | 0.90% | ~5,166 |
-| Operation: Survival | 0.80% | ~4,592 |
-| Every Last Drop | 0.80% | ~4,592 |
-| Raccoon City Recruit | 0.80% | ~4,592 |
-| Cutting Out | 0.70% | ~4,018 |
-| Classy Act | 0.70% | ~4,018 |
-| A Fast Death | 0.70% | ~4,018 |
-| Lifting The Fog | 0.70% | ~4,018 |
-| Chorus of Chaos | 0.70% | ~4,018 |
-| Ancestor's Rite | 0.60% | ~3,444 |
-| Outrun Evil | 0.60% | ~3,444 |
-| Grim Pilgrimage | 0.60% | ~3,444 |
+| Healthy Obsession | 2.00% | ~11,482 |
+| Resurgence | 2.00% | ~11,482 |
+| Preemptive Strike | 2.00% | ~11,482 |
+| Humanitarian | 2.00% | ~11,482 |
+| Unforgettable Getaway | 1.00% | ~5,741 |
+| Wounded Healer | 1.00% | ~5,741 |
+| Close Shave | 1.00% | ~5,741 |
+| Flight to Freedom | 1.00% | ~5,741 |
+| First to the Punch | 0.90% | ~5,167 |
+| Old West Oasis | 0.90% | ~5,167 |
+| With Scars to Show | 0.90% | ~5,167 |
+| Operation: Survival | 0.80% | ~4,593 |
+| Every Last Drop | 0.80% | ~4,593 |
+| Raccoon City Recruit | 0.80% | ~4,593 |
+| Cutting Out | 0.70% | ~4,019 |
+| Classy Act | 0.70% | ~4,019 |
+| A Fast Death | 0.70% | ~4,019 |
+| Lifting The Fog | 0.70% | ~4,019 |
+| Chorus of Chaos | 0.70% | ~4,019 |
+| Ancestor's Rite | 0.60% | ~3,445 |
+| Outrun Evil | 0.60% | ~3,445 |
+| Grim Pilgrimage | 0.60% | ~3,445 |
 | Devoted Gatekeeping | 0.50% | ~2,870 |
 | Shrine Apparatus | 0.50% | ~2,870 |
 | Selfless Survival | 0.50% | ~2,870 |
@@ -45,6 +45,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.30% | ~1,722 |
 | Hack the Mainframe | 0.30% | ~1,722 |
 | Deranged Pursuit | 0.20% | ~1,148 |
+| Dismantle | 0.20% | ~1,148 |
 | Denied! | 0.20% | ~1,148 |
 | Death of Ignorance | 0.20% | ~1,148 |
 | The Grand Sacrifice | 0.10% | ~574 |
@@ -150,7 +151,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not Today | 0.10% | ~574 |
 | Adept Adam | 0.10% | ~574 |
 | Adept Legion | 0.10% | ~574 |
-| Dismantle | 0.10% | ~574 |
 | Adept Jeff | 0.10% | ~574 |
 | Terminal Illness | 0.10% | ~574 |
 | Adept Plague | 0.10% | ~574 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~574 |
 | Adept Gabriel | 0.10% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 573,996 (Ranked 26)  
+Progressed: 574,098 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
-| 2023-06-19 | 573,996 | 42 |
+| 2023-06-19 | 574,098 | 42 |
 ## Awards
 Max (Diverse Characters): 28,640  (Ranked 15)  
 Sum: 228,507 (Ranked 12)  

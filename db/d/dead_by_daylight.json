@@ -6623,9 +6623,9 @@
       "Count": 21812
     }
   ],
-  "EOS_Progressed": 573996,
+  "EOS_Progressed": 574098,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 29453,
+  "EOS_NewPlayers": 29432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12943,6 +12943,11 @@
       "Time": "2023-06-19T05:06:01.4003962+00:00",
       "NumProgressed": 573996,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-19T06:06:24.3883696+00:00",
+      "NumProgressed": 574098,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -13754,7 +13759,7 @@
       "Name": "Ancestor\u0027s Rite",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ACH_102",
@@ -13800,9 +13805,9 @@
       "ID": "ACH_107",
       "SetID": "16jml5b",
       "Name": "Dismantle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_108",
@@ -13810,7 +13815,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "ACH_109",
@@ -13850,7 +13855,7 @@
       "Name": "Wounded Healer",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "ACH_114",
@@ -13874,7 +13879,7 @@
       "Name": "Cutting Out",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACH_117",
@@ -13882,7 +13887,7 @@
       "Name": "Outrun Evil",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ACH_118",
@@ -13954,7 +13959,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "ACH_130",
@@ -13970,7 +13975,7 @@
       "Name": "Operation: Survival",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "ACH_132",
@@ -14018,7 +14023,7 @@
       "Name": "Grim Pilgrimage",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ACH_138",
@@ -14066,7 +14071,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "ACH_144",
@@ -14114,7 +14119,7 @@
       "Name": "Classy Act",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACH_150",
@@ -14122,7 +14127,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11482
     },
     {
       "ID": "ACH_151",
@@ -14162,7 +14167,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "ACH_156",
@@ -14170,7 +14175,7 @@
       "Name": "Resurgence",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11482
     },
     {
       "ID": "ACH_157",
@@ -14266,7 +14271,7 @@
       "Name": "Close Shave",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "ACH_169",
@@ -14290,7 +14295,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11482
     },
     {
       "ID": "ACH_172",
@@ -14306,7 +14311,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "ACH_174",
@@ -14362,7 +14367,7 @@
       "Name": "Humanitarian",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11482
     },
     {
       "ID": "ACH_181",
@@ -14402,7 +14407,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "ACH_186",
@@ -14410,7 +14415,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "ACH_187",
@@ -14578,7 +14583,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACH_208",
@@ -14602,7 +14607,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACH_211",
@@ -14626,7 +14631,7 @@
       "Name": "Chorus of Chaos",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACH_214",
@@ -14713,21 +14718,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 573996,
+      "Progressed": 574098,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 573996,
+      "Progressed": 574098,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-06-18T23:01:28.0682314+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:06:01.4003958+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:06:24.3883686+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:48.0585833+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:00:01.2829402+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:06:01.4010766+00:00"
+  "LastUpdate_Ratings": "2023-06-19T06:00:25.0188009+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:06:24.3889661+00:00"
 }

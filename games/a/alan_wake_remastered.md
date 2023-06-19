@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 32.00% | ~17,817 |
-| Let There Be Light | 26.00% | ~14,476 |
+| Let There Be Light | 26.00% | ~14,477 |
 | Float Like a Butterfly | 25.00% | ~13,920 |
 | Nordic Walking | 19.00% | ~10,579 |
 | Bright Falls' Finest | 19.00% | ~10,579 |
@@ -34,8 +34,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 8.00% | ~4,454 |
 | Energized! | 8.00% | ~4,454 |
 | A Friend in Need | 8.00% | ~1,532 |
-| What Light Through Yonder Window | 7.00% | ~3,897 |
-| Right of Way | 7.00% | ~3,897 |
+| What Light Through Yonder Window | 7.00% | ~3,898 |
+| Right of Way | 7.00% | ~3,898 |
 | Tornado Wrangler | 6.00% | ~3,341 |
 | A Friend Indeed | 6.00% | ~1,149 |
 | Departure | 5.00% | ~2,784 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,678 (Ranked 78)  
+Progressed: 55,679 (Ranked 78)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
 | 2023-06-18 | 55,644 | 56 |
-| 2023-06-19 | 55,678 | 56 |
+| 2023-06-19 | 55,679 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

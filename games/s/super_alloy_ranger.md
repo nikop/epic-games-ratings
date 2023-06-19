@@ -22,6 +22,7 @@
 | The Abyss Conqueror | 5.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
 | Space Warrior: Prologue | 5.00% | ~2 |
+| Keep it Up, rookie! | 5.00% | ~2 |
 | Antaeus | 5.00% | ~2 |
 | Air Interception | 5.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |
@@ -35,7 +36,6 @@
 | Space Ranger: Prologue | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Rapidfire | 2.00% | ~1 |
-| Keep it Up, rookie! | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |

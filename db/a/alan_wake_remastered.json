@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55678,
+  "EOS_Progressed": 55679,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1410,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5367,6 +5367,11 @@
       "Time": "2023-06-19T05:05:49.2621857+00:00",
       "NumProgressed": 55678,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T06:06:11.9070457+00:00",
+      "NumProgressed": 55679,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5570,7 +5575,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "26",
@@ -5650,7 +5655,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14476
+      "UsersEstimate": 14477
     },
     {
       "ID": "36",
@@ -5690,7 +5695,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "41",
@@ -5913,21 +5918,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55678,
+      "Progressed": 55679,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19146,
+      "Progressed": 19147,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:05:49.2621854+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:06:11.9070444+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T04:57:40.9031712+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:05:49.2622772+00:00"
+  "LastUpdate_Ratings": "2023-06-19T05:57:56.6264809+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:06:11.9071486+00:00"
 }

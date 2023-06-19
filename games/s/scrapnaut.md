@@ -24,7 +24,7 @@ Number of Ratings: 38  (23.09.2022)
 | Electro-Scrap Master | 24.00% | ~67 |
 | Robot Hunter | 21.00% | ~59 |
 | Advanced Survivalist | 20.00% | ~56 |
-| Master Of Technology | 17.00% | ~48 |
+| Master Of Technology | 18.00% | ~50 |
 | Treasure Hunter | 16.00% | ~45 |
 | Blacksmith | 11.00% | ~31 |
 | Mythical Smelter | 11.00% | ~31 |

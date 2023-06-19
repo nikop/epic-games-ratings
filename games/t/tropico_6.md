@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,824 |
+| Just One...More...Term... | 76.00% | ~2,825 |
 | Un-Lonely Island | 48.00% | ~1,784 |
-| The Beginning of a Servantship | 46.00% | ~1,709 |
+| The Beginning of a Servantship | 46.00% | ~1,710 |
 | Trade Is My Trait | 37.00% | ~1,375 |
 | Number 18 | 24.00% | ~892 |
 | We Don't Have Time For That | 20.00% | ~743 |
@@ -20,7 +20,7 @@ Number of Ratings: 398  (23.09.2022)
 | Go Sovereigns! | 11.00% | ~409 |
 | For Science! | 11.00% | ~409 |
 | Shackadelic | 10.00% | ~372 |
-| Of Seals And Men | 9.00% | ~334 |
+| Of Seals And Men | 9.00% | ~335 |
 | Double Trouble | 8.00% | ~297 |
 | Firestarter | 8.00% | ~297 |
 | Make Tropico Great Again! | 8.00% | ~297 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~186 |
 | Fairy Tale Come True | 5.00% | ~186 |
 | Apocalypso | 4.00% | ~149 |
-| Been there, Done That | 3.00% | ~111 |
-| Narcissist | 3.00% | ~111 |
-| Promising Endeavors | 3.00% | ~111 |
-| The Time For Wonders | 3.00% | ~111 |
+| Been there, Done That | 3.00% | ~112 |
+| Narcissist | 3.00% | ~112 |
+| Promising Endeavors | 3.00% | ~112 |
+| The Time For Wonders | 3.00% | ~112 |
 | Chain Gang | 2.00% | ~74 |
 | One Does Not Simply Stage A Coup | 2.00% | ~74 |
 | Sublime Subliminal Supreme | 2.00% | ~74 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~33 |
 | My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,716 (Ranked 138)  
+Progressed: 3,717 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.03%) (Ranked 200)
 | 2023-06-16 | 3,680 | 1 |
 | 2023-06-17 | 3,702 | 1 |
 | 2023-06-18 | 3,714 | 1 |
-| 2023-06-19 | 3,716 | 1 |
+| 2023-06-19 | 3,717 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 278)  

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Electrician | 26.00% | ~8 |
-| Bedtime Storyteller | 23.00% | ~7 |
-| Exorcist | 23.00% | ~7 |
+| Electrician | 25.00% | ~8 |
+| Bedtime Storyteller | 22.00% | ~7 |
+| Exorcist | 22.00% | ~7 |
 | Clothes Hunter | 19.00% | ~6 |
 | I See Dead People | 19.00% | ~6 |
 | Con Artist | 16.00% | ~5 |
@@ -15,8 +15,8 @@
 | Joyrider | 13.00% | ~4 |
 | Top Detective | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 343)  
-Completed: 2 (6.45%) (Ranked 29)  
+Progressed: 32 (Ranked 342)  
+Completed: 2 (6.25%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -34,3 +34,4 @@ Completed: 2 (6.45%) (Ranked 29)
 | 2023-06-15 | 26 | 2 |
 | 2023-06-16 | 30 | 2 |
 | 2023-06-17 | 31 | 2 |
+| 2023-06-19 | 32 | 2 |

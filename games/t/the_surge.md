@@ -43,10 +43,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~311 |
 | Sunglasses at Night | 6.00% | ~266 |
 | Follow the White Rabbit | 6.00% | ~266 |
+| Carbon Cat | 6.00% | ~266 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~222 |
 | Man of Steel | 5.00% | ~222 |
 | Jack of All Trades | 5.00% | ~222 |
-| Carbon Cat | 5.00% | ~222 |
 | 3-2-1 | 5.00% | ~222 |
 | Rusty Rat | 4.00% | ~178 |
 | Desecration | 4.00% | ~178 |

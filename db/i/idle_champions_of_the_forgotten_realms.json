@@ -4378,10 +4378,10 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 97939,
-  "EOS_Completed": 1948,
-  "EOS_NewPlayers": 7439,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 97970,
+  "EOS_Completed": 1949,
+  "EOS_NewPlayers": 7465,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
     {
@@ -10533,6 +10533,11 @@
       "Time": "2023-06-19T05:06:02.3470288+00:00",
       "NumProgressed": 97939,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-06-19T06:06:25.5597795+00:00",
+      "NumProgressed": 97970,
+      "NumCompleted": 1949
     }
   ],
   "TotalAchievements": 493,
@@ -10544,7 +10549,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6858
     },
     {
       "ID": "objective_completed_10",
@@ -10926,9 +10931,9 @@
       "ID": "objective_completed_1100",
       "SetID": "415jc5c",
       "Name": "The Dark Heart",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_completed_1101",
@@ -11408,7 +11413,7 @@
       "Name": "Were-verpowered",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "objective_completed_1203",
@@ -11870,17 +11875,17 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 686
     },
     {
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_208",
@@ -12046,9 +12051,9 @@
       "ID": "objective_completed_249",
       "SetID": "415jc5c",
       "Name": "Drop of Time",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_completed_251",
@@ -12216,7 +12221,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "objective_completed_34",
@@ -12224,7 +12229,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "objective_completed_35",
@@ -12336,7 +12341,7 @@
       "Name": "Seeking Allies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "objective_completed_390",
@@ -12408,7 +12413,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "objective_completed_40",
@@ -12680,7 +12685,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_54",
@@ -13760,7 +13765,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_80",
@@ -14472,7 +14477,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_1361",
@@ -14487,21 +14492,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 64213,
+      "Progressed": 64244,
       "Completed": 2805
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 97939,
-      "Completed": 1948
+      "Progressed": 97970,
+      "Completed": 1949
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T02:59:00.5219428+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:06:02.3470285+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:06:25.5597785+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-19T04:58:03.2377143+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:06:02.3497146+00:00"
+  "LastUpdate_Ratings": "2023-06-19T05:58:18.2490477+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:06:25.5621773+00:00"
 }

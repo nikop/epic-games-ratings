@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -274,7 +274,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
@@ -1014,6 +1014,11 @@
       "Time": "2023-06-18T20:06:13.2747227+00:00",
       "NumProgressed": 989,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-19T06:06:16.7539591+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 43,
@@ -1041,7 +1046,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "Finish5SideMissions",
@@ -1057,7 +1062,7 @@
       "Name": "Paragon",
       "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "GatlingVsArmor",
@@ -1081,7 +1086,7 @@
       "Name": "Born to Drift",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "KillWithALargeShip",
@@ -1121,7 +1126,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1145,7 +1150,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1153,7 +1158,7 @@
       "Name": "Payback",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -1185,7 +1190,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1201,15 +1206,15 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 663
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1225,7 +1230,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1233,7 +1238,7 @@
       "Name": "Ghosts",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MissionSalvage",
@@ -1241,7 +1246,7 @@
       "Name": "Shields Down",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "MissionScavengingJob",
@@ -1249,7 +1254,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "MissionShipyard",
@@ -1273,7 +1278,7 @@
       "Name": "Disruption",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1321,7 +1326,7 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "RiteOfTheStar",
@@ -1329,7 +1334,7 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "RiteOfTheStorm",
@@ -1345,7 +1350,7 @@
       "Name": "Phoenix",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "VisitAllLocations",
@@ -1353,7 +1358,7 @@
       "Name": "Space Traveler",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinARace",
@@ -1368,15 +1373,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:05:53.9415572+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:06:16.7539585+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:33.7923518+00:00",
-  "LastUpdate_Ratings": "2023-06-19T04:59:46.6471659+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:05:53.9415965+00:00"
+  "LastUpdate_Ratings": "2023-06-19T06:00:08.7145801+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:06:16.7539968+00:00"
 }

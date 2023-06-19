@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.45,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-06-17T23:03:19.2200628+00:00",
       "NumProgressed": 31,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T06:03:40.494251+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 10,
@@ -204,7 +209,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -220,7 +225,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -228,7 +233,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "1ejicho",
       "Name": "Electrician",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -261,14 +266,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-19T05:03:29.2100428+00:00",
+  "LastChanged_Achievements": "2023-06-19T06:03:40.4942497+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:45.1782862+00:00",
-  "LastUpdate_Ratings": "2023-06-19T04:59:01.5750063+00:00",
-  "LastUpdate_Achievements": "2023-06-19T05:03:29.2100537+00:00"
+  "LastUpdate_Ratings": "2023-06-19T05:59:18.9582034+00:00",
+  "LastUpdate_Achievements": "2023-06-19T06:03:40.4942604+00:00"
 }
