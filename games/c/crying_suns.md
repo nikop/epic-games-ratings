@@ -13,6 +13,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | In space, no one can hear you scream | 0.20% | ~922 |
 | Mother | 0.20% | ~922 |
 | Jeef Skagg | 0.20% | ~922 |
+| Plan for the worst | 0.20% | ~922 |
 | Excelsior Rule | 0.20% | ~922 |
 | Knightmare Frames | 0.10% | ~461 |
 | May His passing cleanse the world | 0.10% | ~461 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Excelsior Mastery | 0.10% | ~461 |
 | Excelsior Supremacy | 0.10% | ~461 |
 | Survivor | 0.10% | ~461 |
-| Plan for the worst | 0.10% | ~461 |
 | The greatest admiral of all time | 0.10% | ~461 |
 | Geno Rule | 0.10% | ~461 |
 | Jericho Rule | 0.10% | ~461 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~5 |
 | Kronos Rule | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,004 (Ranked 34)  
+Progressed: 461,006 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 14 (0.00%) (Ranked 227)
 | 2023-06-16 | 460,787 | 14 |
 | 2023-06-17 | 460,881 | 14 |
 | 2023-06-18 | 460,986 | 14 |
-| 2023-06-19 | 461,004 | 14 |
+| 2023-06-19 | 461,006 | 14 |
 ## Awards
 Max (Character Customization): 212  (Ranked 257)  
 Sum: 212 (Ranked 352)  

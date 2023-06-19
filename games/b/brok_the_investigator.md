@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 73.00% | ~11 |
+| Your Days Are Numbered | 40.00% | ~6 |
 | Chapter 1 | 33.00% | ~5 |
 | Chapter 2 | 33.00% | ~5 |
 | Chapter 3 | 33.00% | ~5 |
 | Chapter 4 | 33.00% | ~5 |
 | Chapter 5 | 33.00% | ~5 |
-| Your Days Are Numbered | 33.00% | ~5 |
 | All Materials | 33.00% | ~5 |
 | It's In My Nature | 27.00% | ~4 |
 | Chapter 6 | 20.00% | ~3 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 366)  
+Progressed: 15 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |

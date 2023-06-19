@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -110,9 +110,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "11",
@@ -198,9 +198,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "4",
@@ -214,9 +214,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "6",
@@ -230,9 +230,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "8",
@@ -263,8 +263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:03:23.7198028+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:03:47.5993148+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.5346455+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:59:14.3134655+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:03:23.7198191+00:00"
+  "LastUpdate_Ratings": "2023-06-19T06:59:43.2280502+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:03:47.5993284+00:00"
 }

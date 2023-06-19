@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2812,
+  "EOS_Progressed": 2813,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -2840,6 +2840,11 @@
       "Time": "2023-06-19T05:04:02.6948763+00:00",
       "NumProgressed": 2812,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-19T07:04:49.2106522+00:00",
+      "NumProgressed": 2813,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 24,
@@ -2883,7 +2888,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "14",
@@ -2931,7 +2936,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 12,
       "XP": 85,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "2",
@@ -2971,7 +2976,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "24",
@@ -2979,7 +2984,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "3",
@@ -3003,7 +3008,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "6",
@@ -3042,13 +3047,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2812,
+      "Progressed": 2813,
       "Completed": 43
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:04:14.2172739+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:04:49.2106514+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:59:09.4149526+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:04:14.2173123+00:00"
+  "LastUpdate_Ratings": "2023-06-19T06:59:37.7998482+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:04:49.2106892+00:00"
 }

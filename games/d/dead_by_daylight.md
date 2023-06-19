@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,482 |
-| Resurgence | 2.00% | ~11,482 |
-| Preemptive Strike | 2.00% | ~11,482 |
-| Humanitarian | 2.00% | ~11,482 |
-| Unforgettable Getaway | 1.00% | ~5,741 |
-| Wounded Healer | 1.00% | ~5,741 |
-| Close Shave | 1.00% | ~5,741 |
-| Flight to Freedom | 1.00% | ~5,741 |
-| First to the Punch | 0.90% | ~5,167 |
-| Old West Oasis | 0.90% | ~5,167 |
-| With Scars to Show | 0.90% | ~5,167 |
-| Operation: Survival | 0.80% | ~4,593 |
-| Every Last Drop | 0.80% | ~4,593 |
-| Raccoon City Recruit | 0.80% | ~4,593 |
+| Healthy Obsession | 2.00% | ~11,484 |
+| Resurgence | 2.00% | ~11,484 |
+| Preemptive Strike | 2.00% | ~11,484 |
+| Humanitarian | 2.00% | ~11,484 |
+| Unforgettable Getaway | 1.00% | ~5,742 |
+| Wounded Healer | 1.00% | ~5,742 |
+| Old West Oasis | 1.00% | ~5,742 |
+| Close Shave | 1.00% | ~5,742 |
+| Flight to Freedom | 1.00% | ~5,742 |
+| First to the Punch | 0.90% | ~5,168 |
+| With Scars to Show | 0.90% | ~5,168 |
+| Operation: Survival | 0.80% | ~4,594 |
+| Classy Act | 0.80% | ~4,594 |
+| Every Last Drop | 0.80% | ~4,594 |
+| Raccoon City Recruit | 0.80% | ~4,594 |
 | Cutting Out | 0.70% | ~4,019 |
-| Classy Act | 0.70% | ~4,019 |
 | A Fast Death | 0.70% | ~4,019 |
 | Lifting The Fog | 0.70% | ~4,019 |
 | Chorus of Chaos | 0.70% | ~4,019 |
 | Ancestor's Rite | 0.60% | ~3,445 |
 | Outrun Evil | 0.60% | ~3,445 |
 | Grim Pilgrimage | 0.60% | ~3,445 |
-| Devoted Gatekeeping | 0.50% | ~2,870 |
-| Shrine Apparatus | 0.50% | ~2,870 |
-| Selfless Survival | 0.50% | ~2,870 |
-| End of Days | 0.50% | ~2,870 |
-| Outrun the Overlap | 0.50% | ~2,870 |
-| Broken Bodies | 0.40% | ~2,296 |
-| I See You | 0.40% | ~2,296 |
-| Insult and Injury | 0.40% | ~2,296 |
-| Rebuilding The Borgo | 0.40% | ~2,296 |
-| Heavy Burden | 0.30% | ~1,722 |
-| Power Moves | 0.30% | ~1,722 |
-| Punch Drunk | 0.30% | ~1,722 |
-| Prowler | 0.30% | ~1,722 |
-| Triage | 0.30% | ~1,722 |
-| High Speed Pursuit | 0.30% | ~1,722 |
-| Hack the Mainframe | 0.30% | ~1,722 |
+| Devoted Gatekeeping | 0.50% | ~2,871 |
+| Shrine Apparatus | 0.50% | ~2,871 |
+| Selfless Survival | 0.50% | ~2,871 |
+| End of Days | 0.50% | ~2,871 |
+| Outrun the Overlap | 0.50% | ~2,871 |
+| Broken Bodies | 0.40% | ~2,297 |
+| I See You | 0.40% | ~2,297 |
+| Insult and Injury | 0.40% | ~2,297 |
+| Rebuilding The Borgo | 0.40% | ~2,297 |
+| Heavy Burden | 0.30% | ~1,723 |
+| Power Moves | 0.30% | ~1,723 |
+| Punch Drunk | 0.30% | ~1,723 |
+| Prowler | 0.30% | ~1,723 |
+| Triage | 0.30% | ~1,723 |
+| High Speed Pursuit | 0.30% | ~1,723 |
+| Hack the Mainframe | 0.30% | ~1,723 |
 | Deranged Pursuit | 0.20% | ~1,148 |
 | Dismantle | 0.20% | ~1,148 |
 | Denied! | 0.20% | ~1,148 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~574 |
 | Adept Gabriel | 0.10% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574,098 (Ranked 26)  
+Progressed: 574,201 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
-| 2023-06-19 | 574,098 | 42 |
+| 2023-06-19 | 574,201 | 42 |
 ## Awards
 Max (Diverse Characters): 28,640  (Ranked 15)  
-Sum: 228,507 (Ranked 12)  
+Sum: 228,544 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 25,793 |
 | This game has Quickly Understood Controls | 25,628 |
 | This game has Challenging Combat | 24,990 |
-| This game has Amazing Storytelling | 23,522 |
+| This game has Amazing Storytelling | 23,559 |
 | This game has a Competitive Community | 21,812 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 3
 | 2023-06-16 | 4.52 | - | 28,559 | 227,936 |
 | 2023-06-17 | 4.52 | - | 28,602 | 228,232 |
 | 2023-06-18 | 4.52 | - | 28,640 | 228,507 |
+| 2023-06-19 | 4.52 | - | 28,640 | 228,544 |

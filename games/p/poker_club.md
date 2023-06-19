@@ -5,26 +5,26 @@ Rating: 3.79 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~370,875 |
-| Handy | 40.00% | ~195,197 |
-| Cold Caller | 38.00% | ~185,437 |
-| A Bit On The Side | 26.00% | ~126,878 |
-| Backdoor | 24.00% | ~117,118 |
-| Rank Amateur | 20.00% | ~97,599 |
-| Three Way | 18.00% | ~87,839 |
-| Deadly Assassin | 15.00% | ~73,199 |
-| Gutshot | 13.00% | ~63,439 |
-| Risk It For A Biscuit | 13.00% | ~63,439 |
-| Showoff | 12.00% | ~58,559 |
-| W.H.I.P. | 11.00% | ~53,679 |
-| Bet Bet Bet | 8.00% | ~39,039 |
-| Blindman's Bluff | 8.00% | ~39,039 |
-| Poker Joker | 8.00% | ~39,039 |
-| Dog Eat Dog | 7.00% | ~34,160 |
-| Never Give Up | 7.00% | ~34,160 |
-| Quack Quack | 7.00% | ~34,160 |
-| Total Knock Out | 7.00% | ~34,160 |
-| The Bigger They Are | 6.00% | ~29,280 |
+| Pro Creation | 76.00% | ~370,888 |
+| Handy | 40.00% | ~195,204 |
+| Cold Caller | 38.00% | ~185,444 |
+| A Bit On The Side | 26.00% | ~126,883 |
+| Backdoor | 24.00% | ~117,122 |
+| Rank Amateur | 20.00% | ~97,602 |
+| Three Way | 18.00% | ~87,842 |
+| Deadly Assassin | 15.00% | ~73,202 |
+| Gutshot | 13.00% | ~63,441 |
+| Risk It For A Biscuit | 13.00% | ~63,441 |
+| Showoff | 12.00% | ~58,561 |
+| W.H.I.P. | 11.00% | ~53,681 |
+| Bet Bet Bet | 8.00% | ~39,041 |
+| Blindman's Bluff | 8.00% | ~39,041 |
+| Poker Joker | 8.00% | ~39,041 |
+| Dog Eat Dog | 7.00% | ~34,161 |
+| Never Give Up | 7.00% | ~34,161 |
+| Quack Quack | 7.00% | ~34,161 |
+| Total Knock Out | 7.00% | ~34,161 |
+| The Bigger They Are | 6.00% | ~29,281 |
 | Give Your Regards To Broadway | 5.00% | ~24,400 |
 | Check Yourself | 4.00% | ~19,520 |
 | In The Gang | 3.00% | ~14,640 |
@@ -51,7 +51,7 @@ Rating: 3.79 (Ranked 936)
 | Rounder | 0.10% | ~488 |
 | Top Dog | 0.10% | ~488 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,993 (Ranked 31)  
+Progressed: 488,010 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 1 (0.00%) (Ranked 227)
 | 2023-06-16 | 486,284 | 1 |
 | 2023-06-17 | 487,088 | 1 |
 | 2023-06-18 | 487,841 | 1 |
-| 2023-06-19 | 487,993 | 1 |
+| 2023-06-19 | 488,010 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

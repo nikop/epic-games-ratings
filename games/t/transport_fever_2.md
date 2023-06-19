@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.69 (Ranked 219)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 180  (23.09.2022)
 | First bus arrived | 65.00% | ~845 |
 | First train station | 64.00% | ~832 |
 | First steam train arrived | 60.00% | ~780 |
+| Transport millionaire | 56.00% | ~728 |
 | First industry upgraded | 56.00% | ~728 |
-| Transport millionaire | 55.00% | ~715 |
 | Cargo hub | 54.00% | ~702 |
 | Transport master | 53.00% | ~689 |
 | Cadet | 52.00% | ~676 |

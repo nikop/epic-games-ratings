@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 345)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 63.00% | ~307 |
-| Read Between The Lines | 61.00% | ~297 |
+| Read Between The Lines | 62.00% | ~302 |
 | High Profile | 56.00% | ~273 |
 | Whispers In The Dark | 54.00% | ~263 |
 | Fond Memories | 51.00% | ~248 |
@@ -15,8 +15,8 @@ Rating: 4.62 (Ranked 345)
 | Lock, Stock, And Barrel | 45.00% | ~219 |
 | Gaze Into The Abyss | 45.00% | ~219 |
 | The New World | 45.00% | ~219 |
-| Open Sesame | 43.00% | ~209 |
-| Sticky Fingers | 43.00% | ~209 |
+| Open Sesame | 44.00% | ~214 |
+| Sticky Fingers | 44.00% | ~214 |
 | Knives Out | 43.00% | ~209 |
 | Back In The Saddle | 42.00% | ~205 |
 | Land, Ho! | 42.00% | ~205 |
@@ -27,8 +27,8 @@ Rating: 4.62 (Ranked 345)
 | Bookworm | 37.00% | ~180 |
 | Going Once... | 36.00% | ~175 |
 | Let Me Be Frank | 34.00% | ~166 |
+| Brain Food | 32.00% | ~156 |
 | No Stone Unturned | 32.00% | ~156 |
-| Brain Food | 31.00% | ~151 |
 | Curiosity Killed The Cat | 20.00% | ~97 |
 | Read It And Weep | 19.00% | ~93 |
 | Big Breakthrough | 14.00% | ~68 |

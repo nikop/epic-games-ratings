@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.76,
+  "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -136,6 +136,11 @@
       "Time": "2023-06-18T19:05:35.6067962+00:00",
       "NumProgressed": 213,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-19T07:06:51.9726516+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -147,7 +152,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "605742",
@@ -155,7 +160,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "605752",
@@ -171,15 +176,15 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "605782",
@@ -217,9 +222,9 @@
       "ID": "605822",
       "SetID": "4lpaifm",
       "Name": "Brilliant Inventor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "605832",
@@ -259,7 +264,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "605892",
@@ -267,7 +272,7 @@
       "Name": "Similar to Similar",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "605912",
@@ -299,7 +304,7 @@
       "Name": "Salvation!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "740512",
@@ -315,14 +320,14 @@
       "Name": "Heavenly Virtues",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 8
     }
   ],
@@ -330,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:05:56.7570412+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:06:51.9726509+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:01.400722+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:59:37.328266+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:05:56.7570573+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:00:07.4537451+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:06:51.9726699+00:00"
 }

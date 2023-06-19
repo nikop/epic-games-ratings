@@ -1,40 +1,40 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.70 (Ranked 195)  
+Rating: 4.70 (Ranked 194)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 94.00% | ~114 |
-| Where's that freaking Dwarf? | 88.00% | ~106 |
-| Sock! SOCK! | 74.00% | ~90 |
+| Alt+F4 | 94.00% | ~115 |
+| Where's that freaking Dwarf? | 88.00% | ~107 |
+| Sock! SOCK! | 75.00% | ~92 |
 | Fireproof Wizardess | 60.00% | ~73 |
-| Livin' in a dwarven paradise | 56.00% | ~68 |
-| Déjà vu | 55.00% | ~67 |
+| Livin' in a dwarven paradise | 57.00% | ~70 |
+| Déjà vu | 56.00% | ~68 |
 | GG EZ | 52.00% | ~63 |
-| DM intervention | 50.00% | ~60 |
-| Way of the Wimp | 48.00% | ~58 |
-| Speedrun | 42.00% | ~51 |
-| Oh, when I'll be level 10... | 42.00% | ~51 |
-| A beer, two curses, three companions | 36.00% | ~44 |
-| The plot thickens... At the tavern | 36.00% | ~44 |
-| I am the night | 36.00% | ~44 |
-| Team Building Exercise | 36.00% | ~44 |
+| DM intervention | 51.00% | ~62 |
+| Way of the Wimp | 48.00% | ~59 |
+| Speedrun | 43.00% | ~52 |
+| Oh, when I'll be level 10... | 43.00% | ~52 |
+| A beer, two curses, three companions | 37.00% | ~45 |
+| The plot thickens... At the tavern | 37.00% | ~45 |
+| I am the night | 37.00% | ~45 |
+| Team Building Exercise | 35.00% | ~43 |
+| The Ranger of Chaos | 34.00% | ~41 |
 | Thieves' Guild Accreditation | 34.00% | ~41 |
-| The Ranger of Chaos | 33.00% | ~40 |
-| Dwarf Fortress | 32.00% | ~39 |
-| Look but don't touch | 30.00% | ~36 |
+| Dwarf Fortress | 33.00% | ~40 |
+| Look but don't touch | 30.00% | ~37 |
 | The demons' feast | 28.00% | ~34 |
 | Material Girl | 28.00% | ~34 |
 | Shiny and Crôm | 27.00% | ~33 |
 | The Great Library | 27.00% | ~33 |
 | Gargantua | 27.00% | ~33 |
-| Torture and Sensibility | 26.00% | ~31 |
-| The Statuette of Gladeulfeurah | 24.00% | ~29 |
-| A tale of adventurers not quite like the others... | 24.00% | ~29 |
-| The Woman in the High Castle | 21.00% | ~25 |
-| The Famous Dungeon of Naheulbeuk | 21.00% | ~25 |
+| Torture and Sensibility | 25.00% | ~30 |
+| The Statuette of Gladeulfeurah | 25.00% | ~30 |
+| A tale of adventurers not quite like the others... | 25.00% | ~30 |
+| The Famous Dungeon of Naheulbeuk | 22.00% | ~27 |
+| The Woman in the High Castle | 21.00% | ~26 |
 | The Blood Countess | 20.00% | ~24 |
 | The beards of change | 20.00% | ~24 |
 | Urik's Depths | 19.00% | ~23 |
@@ -45,16 +45,16 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 13.00% | ~16 |
 | The Dungeon Master | 12.00% | ~15 |
 | Necrophilia | 12.00% | ~15 |
-| He’s alive! Aliiiive! | 12.00% | ~15 |
 | Dead for good | 12.00% | ~15 |
 | Scholar of the Lands of Fangh | 11.00% | ~13 |
+| He’s alive! Aliiiive! | 11.00% | ~13 |
 | It's been a hard day's night | 11.00% | ~13 |
-| Lust and Debauchery | 9.00% | ~11 |
+| Lust and Debauchery | 10.00% | ~12 |
+| An old poacher makes the best gamekeeper | 8.00% | ~10 |
 | Lëgal Legend | 8.00% | ~10 |
-| Egghead | 7.00% | ~8 |
-| Free customer service | 7.00% | ~8 |
-| An old poacher makes the best gamekeeper | 7.00% | ~8 |
-| Inception | 7.00% | ~8 |
+| Egghead | 7.00% | ~9 |
+| Free customer service | 7.00% | ~9 |
+| Inception | 7.00% | ~9 |
 | Elite Adventurers | 6.00% | ~7 |
 | We come in peace | 6.00% | ~7 |
 | Super-Ultra-Lydian | 6.00% | ~7 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 280)  
+Progressed: 122 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 103 | 0 |
 | 2023-06-17 | 110 | 0 |
 | 2023-06-18 | 118 | 0 |
-| 2023-06-19 | 121 | 0 |
+| 2023-06-19 | 122 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 434)  

@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,838 |
+| Genin | 10.00% | ~17,839 |
 | Thorough | 9.00% | ~16,055 |
 | A thief's beginning | 8.00% | ~14,271 |
 | Disguised | 7.00% | ~12,487 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 5.00% | ~8,919 |
 | Mugen Unchained | 5.00% | ~8,919 |
 | Warzone | 5.00% | ~8,919 |
-| Okkoto | 4.00% | ~7,135 |
-| Prisoners | 4.00% | ~7,135 |
-| Too Early | 4.00% | ~7,135 |
+| Okkoto | 4.00% | ~7,136 |
+| Prisoners | 4.00% | ~7,136 |
+| Too Early | 4.00% | ~7,136 |
 | Gear up | 3.00% | ~5,352 |
 | Happy little accidents | 3.00% | ~5,352 |
 | Noboru | 3.00% | ~5,352 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~178 |
 | Release the Kraken | 0.10% | ~178 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,384 (Ranked 56)  
+Progressed: 178,388 (Ranked 56)  
 Completed: 53 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,15 +111,15 @@ Completed: 53 (0.03%) (Ranked 200)
 | 2023-06-16 | 177,609 | 52 |
 | 2023-06-17 | 177,969 | 53 |
 | 2023-06-18 | 178,321 | 53 |
-| 2023-06-19 | 178,384 | 53 |
+| 2023-06-19 | 178,388 | 53 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
-Sum: 4,684 (Ranked 127)  
+Sum: 4,685 (Ranked 127)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 551 |
-| This game has Diverse Characters | 524 |
+| This game has Diverse Characters | 525 |
 | This game is Extremely Fun | 517 |
 | This game has Amazing Storytelling | 499 |
 | This game has Amazing Characters | 483 |
@@ -257,3 +257,4 @@ Diff (max vs sum): 54
 | 2023-06-10 | 4.66 | - | 551 | 4,681 |
 | 2023-06-14 | 4.66 | - | 551 | 4,683 |
 | 2023-06-17 | 4.66 | - | 551 | 4,684 |
+| 2023-06-19 | 4.66 | - | 551 | 4,685 |

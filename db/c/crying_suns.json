@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 461004,
+  "EOS_Progressed": 461006,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6500,6 +6500,11 @@
       "Time": "2023-06-19T06:06:19.2470382+00:00",
       "NumProgressed": 461004,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-19T07:07:05.890174+00:00",
+      "NumProgressed": 461006,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6957,9 +6962,9 @@
       "ID": "achievement_win_expedition_with_monster_noloss",
       "SetID": "8cokdon",
       "Name": "Plan for the worst",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 922
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -7142,21 +7147,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4938,
+      "Progressed": 4940,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 461004,
+      "Progressed": 461006,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:06:19.2470376+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:07:05.8901735+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:54.1590462+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:59:29.9437439+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:06:19.2471559+00:00"
+  "LastUpdate_Ratings": "2023-06-19T06:59:57.6360618+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:07:05.890292+00:00"
 }

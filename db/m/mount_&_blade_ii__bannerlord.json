@@ -4947,9 +4947,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53554,
+  "EOS_Progressed": 53555,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11017,6 +11017,11 @@
       "Time": "2023-06-19T06:06:17.799119+00:00",
       "NumProgressed": 53554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T07:07:04.4013374+00:00",
+      "NumProgressed": 53555,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11028,7 +11033,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "Apple of my eye",
@@ -11044,7 +11049,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11246
+      "UsersEstimate": 11247
     },
     {
       "ID": "Best served cold",
@@ -11156,7 +11161,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "Great Granny",
@@ -11188,7 +11193,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11246
+      "UsersEstimate": 11247
     },
     {
       "ID": "I can do it",
@@ -11260,7 +11265,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19279
+      "UsersEstimate": 19280
     },
     {
       "ID": "Lawmaker",
@@ -11268,7 +11273,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11246
+      "UsersEstimate": 11247
     },
     {
       "ID": "Long live the Empire",
@@ -11404,7 +11409,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11246
+      "UsersEstimate": 11247
     },
     {
       "ID": "Undercover",
@@ -11435,15 +11440,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53554,
+      "Progressed": 53555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-18T20:59:54.0055487+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:06:17.799118+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:07:04.4013369+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-19T05:59:52.3888314+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:06:17.7992035+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:00:25.2028018+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:07:04.4014174+00:00"
 }

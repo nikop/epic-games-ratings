@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1059,7 +1059,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6591,
+  "EOS_Progressed": 6592,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
@@ -5994,6 +5994,11 @@
       "Time": "2023-06-19T06:03:08.6303091+00:00",
       "NumProgressed": 6591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T07:03:29.7376404+00:00",
+      "NumProgressed": 6592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6021,7 +6026,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "12",
@@ -6037,7 +6042,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "14",
@@ -6061,7 +6066,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "17",
@@ -6085,7 +6090,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "2",
@@ -6109,7 +6114,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "22",
@@ -6141,7 +6146,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "26",
@@ -6149,7 +6154,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "27",
@@ -6269,7 +6274,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "40",
@@ -6285,7 +6290,7 @@
       "Name": "New Eden",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "42",
@@ -6389,7 +6394,7 @@
       "Name": "Amped Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "54",
@@ -6453,7 +6458,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "8",
@@ -6476,15 +6481,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6591,
+      "Progressed": 6592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-19T06:03:08.6303087+00:00",
+  "LastChanged_Achievements": "2023-06-19T07:03:29.7376399+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:00:06.4260164+00:00",
-  "LastUpdate_Achievements": "2023-06-19T06:03:08.6304024+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:00:41.7492266+00:00",
+  "LastUpdate_Achievements": "2023-06-19T07:03:29.7377253+00:00"
 }
