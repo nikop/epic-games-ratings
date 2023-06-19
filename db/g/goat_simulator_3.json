@@ -1954,9 +1954,9 @@
       "Count": 241
     }
   ],
-  "EOS_Progressed": 228115,
+  "EOS_Progressed": 228116,
   "EOS_Completed": 742,
-  "EOS_NewPlayers": 1654,
+  "EOS_NewPlayers": 1647,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8144,6 +8144,11 @@
       "Time": "2023-06-19T07:07:00.3494916+00:00",
       "NumProgressed": 228115,
       "NumCompleted": 742
+    },
+    {
+      "Time": "2023-06-19T08:07:26.1592852+00:00",
+      "NumProgressed": 228116,
+      "NumCompleted": 742
     }
   ],
   "TotalAchievements": 39,
@@ -8203,7 +8208,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 68434
+      "UsersEstimate": 68435
     },
     {
       "ID": "AchievementBoulderID",
@@ -8219,7 +8224,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 207585
+      "UsersEstimate": 207586
     },
     {
       "ID": "AchievementClownID",
@@ -8251,7 +8256,7 @@
       "Name": "Egg Simulator",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36498
+      "UsersEstimate": 36499
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -8387,7 +8392,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 168805
+      "UsersEstimate": 168806
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -8427,7 +8432,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 125463
+      "UsersEstimate": 125464
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -8435,7 +8440,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 107214
+      "UsersEstimate": 107215
     },
     {
       "ID": "AchievementTrinketID",
@@ -8466,7 +8471,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 228115,
+      "Progressed": 228116,
       "Completed": 742
     }
   ],
@@ -8474,8 +8479,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-06-18T23:01:36.2106663+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:07:00.3494912+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:07:26.1592846+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.9159117+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:01:07.8586839+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:07:00.3495499+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:01:47.3202141+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:07:26.159366+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,862 |
-| The Cursed Farmer | 3.00% | ~2,941 |
-| Beast Intentions | 2.00% | ~1,960 |
-| The Mad Wizard | 2.00% | ~1,960 |
-| Were-verpowered | 1.00% | ~980 |
-| The Ring of Regeneration | 1.00% | ~980 |
-| Seeking Allies | 1.00% | ~980 |
-| Are Ya Chicken? | 1.00% | ~980 |
-| Friendly Imps | 1.00% | ~980 |
-| Mad Cow Disease | 0.90% | ~882 |
+| A Brief Tour of the Realms | 7.00% | ~6,865 |
+| The Cursed Farmer | 3.00% | ~2,942 |
+| Beast Intentions | 2.00% | ~1,961 |
+| The Mad Wizard | 2.00% | ~1,961 |
+| Were-verpowered | 1.00% | ~981 |
+| The Ring of Regeneration | 1.00% | ~981 |
+| Seeking Allies | 1.00% | ~981 |
+| Are Ya Chicken? | 1.00% | ~981 |
+| Friendly Imps | 1.00% | ~981 |
+| Mad Cow Disease | 0.90% | ~883 |
 | The Court of Storms | 0.90% | ~579 |
-| A Persistent Buzzing | 0.80% | ~784 |
-| Pure Energy | 0.80% | ~784 |
-| Terror in the Dark | 0.70% | ~686 |
-| Unearthed Evil | 0.70% | ~686 |
-| The Crumbling Temple | 0.70% | ~686 |
+| A Persistent Buzzing | 0.80% | ~785 |
+| Pure Energy | 0.80% | ~785 |
+| Terror in the Dark | 0.70% | ~687 |
+| Unearthed Evil | 0.70% | ~687 |
+| The Crumbling Temple | 0.70% | ~687 |
 | Beware the Jabberwock | 0.70% | ~450 |
 | Beast Mode | 0.60% | ~588 |
 | A Mysterious Summons | 0.60% | ~588 |
@@ -32,14 +32,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.60% | ~588 |
 | Coasting to the Finish | 0.60% | ~386 |
 | Maddening | 0.50% | ~490 |
-| Checkmate | 0.50% | ~321 |
-| Vecna Out! | 0.50% | ~321 |
+| Checkmate | 0.50% | ~322 |
+| Vecna Out! | 0.50% | ~322 |
 | Low Initiative | 0.50% | ~490 |
 | No Time To Rest | 0.50% | ~490 |
 | Running of the Saurs | 0.50% | ~490 |
 | Waterdeep Detours | 0.50% | ~490 |
 | Underdeep Cartography | 0.50% | ~490 |
-| Quick or Quack | 0.50% | ~321 |
+| Quick or Quack | 0.50% | ~322 |
 | The Silken Swamp | 0.40% | ~392 |
 | Supply Run | 0.40% | ~392 |
 | Owlbear Necessities | 0.40% | ~257 |
@@ -241,6 +241,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~129 |
 | Hold for the Red Wizards | 0.20% | ~196 |
 | Form Ranks | 0.20% | ~196 |
+| Drop of Time | 0.20% | ~129 |
 | They Who Smelt It | 0.20% | ~196 |
 | Distribute Your Weight | 0.20% | ~196 |
 | Only the Strong Survive | 0.20% | ~196 |
@@ -446,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~64 |
 | A Nimble Approach | 0.10% | ~64 |
 | The Egg of Nat's Desire | 0.10% | ~64 |
-| Drop of Time | 0.10% | ~64 |
 | Mongrelfolk Incursion | 0.10% | ~64 |
 | Red Wizard 'Escort' | 0.10% | ~64 |
 | Spirit of the Trickster Gods | 0.10% | ~64 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,025 (Ranked 63)  
+Progressed: 98,074 (Ranked 63)  
 Completed: 1,949 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,949 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,025 | 1,949 |
+| 2023-06-19 | 98,074 | 1,949 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,141 (Ranked 37)  

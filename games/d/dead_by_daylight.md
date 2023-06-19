@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,484 |
-| Resurgence | 2.00% | ~11,484 |
-| Preemptive Strike | 2.00% | ~11,484 |
-| Humanitarian | 2.00% | ~11,484 |
-| Unforgettable Getaway | 1.00% | ~5,742 |
-| Wounded Healer | 1.00% | ~5,742 |
-| Old West Oasis | 1.00% | ~5,742 |
-| Close Shave | 1.00% | ~5,742 |
-| Flight to Freedom | 1.00% | ~5,742 |
-| First to the Punch | 0.90% | ~5,168 |
-| With Scars to Show | 0.90% | ~5,168 |
+| Healthy Obsession | 2.00% | ~11,486 |
+| Resurgence | 2.00% | ~11,486 |
+| Preemptive Strike | 2.00% | ~11,486 |
+| Humanitarian | 2.00% | ~11,486 |
+| Unforgettable Getaway | 1.00% | ~5,743 |
+| Wounded Healer | 1.00% | ~5,743 |
+| Old West Oasis | 1.00% | ~5,743 |
+| Close Shave | 1.00% | ~5,743 |
+| Flight to Freedom | 1.00% | ~5,743 |
+| First to the Punch | 0.90% | ~5,169 |
+| With Scars to Show | 0.90% | ~5,169 |
 | Operation: Survival | 0.80% | ~4,594 |
 | Classy Act | 0.80% | ~4,594 |
 | Every Last Drop | 0.80% | ~4,594 |
 | Raccoon City Recruit | 0.80% | ~4,594 |
-| Cutting Out | 0.70% | ~4,019 |
-| A Fast Death | 0.70% | ~4,019 |
-| Lifting The Fog | 0.70% | ~4,019 |
-| Chorus of Chaos | 0.70% | ~4,019 |
-| Ancestor's Rite | 0.60% | ~3,445 |
-| Outrun Evil | 0.60% | ~3,445 |
-| Grim Pilgrimage | 0.60% | ~3,445 |
+| Cutting Out | 0.70% | ~4,020 |
+| A Fast Death | 0.70% | ~4,020 |
+| Lifting The Fog | 0.70% | ~4,020 |
+| Chorus of Chaos | 0.70% | ~4,020 |
+| Ancestor's Rite | 0.60% | ~3,446 |
+| Outrun Evil | 0.60% | ~3,446 |
+| Grim Pilgrimage | 0.60% | ~3,446 |
 | Devoted Gatekeeping | 0.50% | ~2,871 |
 | Shrine Apparatus | 0.50% | ~2,871 |
 | Selfless Survival | 0.50% | ~2,871 |
@@ -44,10 +44,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triage | 0.30% | ~1,723 |
 | High Speed Pursuit | 0.30% | ~1,723 |
 | Hack the Mainframe | 0.30% | ~1,723 |
-| Deranged Pursuit | 0.20% | ~1,148 |
-| Dismantle | 0.20% | ~1,148 |
-| Denied! | 0.20% | ~1,148 |
-| Death of Ignorance | 0.20% | ~1,148 |
+| Deranged Pursuit | 0.20% | ~1,149 |
+| Dismantle | 0.20% | ~1,149 |
+| Denied! | 0.20% | ~1,149 |
+| Death of Ignorance | 0.20% | ~1,149 |
 | The Grand Sacrifice | 0.10% | ~574 |
 | A bite for the Entity | 0.10% | ~574 |
 | A feast for the Entity | 0.10% | ~574 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~574 |
 | Adept Gabriel | 0.10% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574,201 (Ranked 26)  
+Progressed: 574,295 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
-| 2023-06-19 | 574,201 | 42 |
+| 2023-06-19 | 574,295 | 42 |
 ## Awards
 Max (Diverse Characters): 28,640  (Ranked 15)  
 Sum: 228,544 (Ranked 12)  

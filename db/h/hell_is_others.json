@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251405,
+  "EOS_Progressed": 251407,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6559,6 +6559,11 @@
       "Time": "2023-06-19T07:04:19.767651+00:00",
       "NumProgressed": 251405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T08:04:08.3213534+00:00",
+      "NumProgressed": 251407,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6674,7 +6679,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25140
+      "UsersEstimate": 25141
     },
     {
       "ID": "CreditLevel2",
@@ -6858,7 +6863,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55309
+      "UsersEstimate": 55310
     },
     {
       "ID": "KillOthers2",
@@ -6962,7 +6967,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25140
+      "UsersEstimate": 25141
     },
     {
       "ID": "ReachNDays2",
@@ -7017,7 +7022,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251405,
+      "Progressed": 251407,
       "Completed": 1
     }
   ],
@@ -7025,8 +7030,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-16T11:01:23.1488422+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:04:19.7676505+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:04:08.3213528+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:01:00.1636287+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:04:19.7677406+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:01:37.8691138+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:04:08.3214504+00:00"
 }

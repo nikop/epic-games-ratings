@@ -6120,9 +6120,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 57692,
+  "EOS_Progressed": 57701,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3542,
+  "EOS_NewPlayers": 3534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12450,6 +12450,11 @@
       "Time": "2023-06-19T07:07:12.2284153+00:00",
       "NumProgressed": 57692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T08:07:39.7848509+00:00",
+      "NumProgressed": 57701,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -13461,7 +13466,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "achievement_grand_coalition",
@@ -14173,7 +14178,7 @@
       "Name": "One Family to Rule them All",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -14429,7 +14434,7 @@
       "Name": "Ruina Imperii",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_sailor_mon",
@@ -14741,7 +14746,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -14861,7 +14866,7 @@
       "Name": "The pen is mightier than the sword",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -14949,7 +14954,7 @@
       "Name": "This is My Faith",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_this_is_persia",
@@ -15045,7 +15050,7 @@
       "Name": "Trophy Hunter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_true_catholic",
@@ -15125,7 +15130,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5192
+      "UsersEstimate": 5193
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -15157,7 +15162,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -15181,7 +15186,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -15251,9 +15256,9 @@
       "ID": "achievement_wonderful",
       "SetID": "8p2n7he",
       "Name": "Wonderful",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_world_conqueror",
@@ -15292,21 +15297,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 57692,
+      "Progressed": 57701,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 57692,
+      "Progressed": 57701,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-19T04:57:21.9467127+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:07:12.228415+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:07:39.7848503+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.505623+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:57:46.0817894+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:07:12.2297001+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:57:46.0931172+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:07:39.7862686+00:00"
 }

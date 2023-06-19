@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 651,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 67,
@@ -471,9 +471,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 214695,
+  "EOS_Progressed": 214697,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6696,6 +6696,11 @@
       "Time": "2023-06-19T07:04:35.0948983+00:00",
       "NumProgressed": 214695,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-19T08:04:25.7984049+00:00",
+      "NumProgressed": 214697,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6955,7 +6960,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25763
+      "UsersEstimate": 25764
     },
     {
       "ID": "ACH_BASE_8",
@@ -6978,7 +6983,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214695,
+      "Progressed": 214697,
       "Completed": 4
     }
   ],
@@ -6986,8 +6991,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-18T23:59:17.0103272+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:04:35.0948978+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:04:25.7984039+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.2900721+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:59:01.8035967+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:04:35.0949635+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:59:18.3611588+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:04:25.7984795+00:00"
 }

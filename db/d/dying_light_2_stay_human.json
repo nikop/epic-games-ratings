@@ -5947,9 +5947,9 @@
       "Count": 505
     }
   ],
-  "EOS_Progressed": 579817,
+  "EOS_Progressed": 579824,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 5339,
+  "EOS_NewPlayers": 5319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12277,6 +12277,11 @@
       "Time": "2023-06-19T07:07:07.3191913+00:00",
       "NumProgressed": 579817,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-19T08:07:34.136334+00:00",
+      "NumProgressed": 579824,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 65,
@@ -12312,7 +12317,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40587
+      "UsersEstimate": 40588
     },
     {
       "ID": "achievement_05",
@@ -12424,7 +12429,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46385
+      "UsersEstimate": 46386
     },
     {
       "ID": "achievement_19",
@@ -12480,7 +12485,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40587
+      "UsersEstimate": 40588
     },
     {
       "ID": "achievement_26",
@@ -12496,7 +12501,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63780
+      "UsersEstimate": 63781
     },
     {
       "ID": "achievement_28",
@@ -12504,7 +12509,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40587
+      "UsersEstimate": 40588
     },
     {
       "ID": "achievement_29",
@@ -12592,7 +12597,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40587
+      "UsersEstimate": 40588
     },
     {
       "ID": "achievement_40",
@@ -12807,21 +12812,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 579817,
+      "Progressed": 579824,
       "Completed": 50
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 225261,
+      "Progressed": 225268,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-19T06:00:03.217321+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:07:07.3191903+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:07:34.1363333+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:00:37.1801613+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:07:07.3192962+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:01:07.7369995+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:07:34.1364431+00:00"
 }

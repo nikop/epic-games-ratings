@@ -3918,9 +3918,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280667,
+  "EOS_Progressed": 280669,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1875,
+  "EOS_NewPlayers": 1856,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10138,6 +10138,11 @@
       "Time": "2023-06-19T07:05:43.2894865+00:00",
       "NumProgressed": 280667,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T08:05:55.9664633+00:00",
+      "NumProgressed": 280669,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10269,7 +10274,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22453
+      "UsersEstimate": 22454
     },
     {
       "ID": "PFA_24",
@@ -10477,7 +10482,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22453
+      "UsersEstimate": 22454
     },
     {
       "ID": "PFA_7",
@@ -10485,7 +10490,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22453
+      "UsersEstimate": 22454
     },
     {
       "ID": "PFA_8",
@@ -10508,7 +10513,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280667,
+      "Progressed": 280669,
       "Completed": 408
     }
   ],
@@ -10516,8 +10521,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T02:08:11.9203931+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:05:43.2894861+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:05:55.9664626+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:57:49.6940111+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:05:43.2895612+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:57:50.8633878+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:05:55.9665472+00:00"
 }

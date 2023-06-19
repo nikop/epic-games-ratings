@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2813,
+  "EOS_Progressed": 2815,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-06-19T07:04:49.2106522+00:00",
       "NumProgressed": 2813,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-19T08:04:42.2045185+00:00",
+      "NumProgressed": 2815,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 24,
@@ -2856,7 +2861,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "10",
@@ -2864,7 +2869,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "11",
@@ -2880,7 +2885,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "13",
@@ -2896,7 +2901,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "15",
@@ -2912,7 +2917,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "17",
@@ -2928,7 +2933,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "19",
@@ -2968,7 +2973,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "23",
@@ -2992,7 +2997,7 @@
       "Name": "FRIENDLY",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "4",
@@ -3008,7 +3013,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "6",
@@ -3016,7 +3021,7 @@
       "Name": "PRO",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "7",
@@ -3040,20 +3045,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2813,
+      "Progressed": 2815,
       "Completed": 43
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:04:49.2106514+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:04:42.2045179+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:59:37.7998482+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:04:49.2106892+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:59:57.987699+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:04:42.2045536+00:00"
 }

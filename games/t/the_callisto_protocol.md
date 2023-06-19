@@ -32,13 +32,13 @@ Rating: 4.18 (Ranked 850)
 | Bear Trap | 3.00% | ~101 |
 | In Striking Distance | 2.00% | ~309 |
 | Mugshot | 2.00% | ~309 |
-| Big Spender | 2.00% | ~67 |
+| Big Spender | 2.00% | ~68 |
 | Grim Reaper | 1.00% | ~154 |
 | Parole Denied | 1.00% | ~34 |
 | Hoard Mode | 1.00% | ~34 |
 | Recidivist | 0.70% | ~24 |
 | Lifer | 0.70% | ~24 |
-| Armed to the Teeth | 0.40% | ~13 |
+| Armed to the Teeth | 0.40% | ~14 |
 | The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 850)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,448 (Ranked 104)  
+Progressed: 15,449 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
-| 2023-06-19 | 15,448 | 56 |
+| 2023-06-19 | 15,449 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 388)  
 Sum: 320 (Ranked 328)  

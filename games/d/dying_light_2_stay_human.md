@@ -6,16 +6,16 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,780 |
+| You Never Forget Your First... | 11.00% | ~63,781 |
 | Into the Unknown | 10.00% | ~57,982 |
 | First Shot | 10.00% | ~57,982 |
 | Herzlich Wilkommen! | 9.00% | ~52,184 |
 | Good Night & Good Luck | 9.00% | ~52,184 |
-| Sancho Panza | 8.00% | ~46,385 |
-| Under Pressure | 7.00% | ~40,587 |
-| Flag Burning | 7.00% | ~40,587 |
-| Oh, So This Is How It Works! | 7.00% | ~40,587 |
-| Night Hunter | 7.00% | ~40,587 |
+| Sancho Panza | 8.00% | ~46,386 |
+| Under Pressure | 7.00% | ~40,588 |
+| Flag Burning | 7.00% | ~40,588 |
+| Oh, So This Is How It Works! | 7.00% | ~40,588 |
+| Night Hunter | 7.00% | ~40,588 |
 | On the Trail of the Enemy | 6.00% | ~34,789 |
 | Light in the Darkness | 6.00% | ~34,789 |
 | Get Outta My House! | 6.00% | ~34,789 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~225 |
 | Connoisseur | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579,817 (Ranked 25)  
+Progressed: 579,824 (Ranked 25)  
 Completed: 50 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 50 (0.01%) (Ranked 214)
 | 2023-06-16 | 578,367 | 51 |
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
-| 2023-06-19 | 579,817 | 50 |
+| 2023-06-19 | 579,824 | 50 |
 ## Awards
 Max (Character Customization): 7,856  (Ranked 40)  
 Sum: 18,217 (Ranked 56)  

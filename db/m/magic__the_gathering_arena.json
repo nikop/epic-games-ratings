@@ -6755,10 +6755,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 86064,
       "NumberOfAwardsMax": 10569
+    },
+    {
+      "Time": "2023-06-19T07:58:52.2055667+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 86072,
+      "NumberOfAwardsMax": 10569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86064,
+  "NumberOfAwards": 86072,
   "NumberOfAwardsMax": 10569,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6784,7 +6790,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9146
+      "Count": 9154
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6840,8 +6846,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-06-19T06:58:42.3786484+00:00",
+  "LastChanged": "2023-06-19T07:58:52.2055665+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:51.1397104+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:58:42.3786492+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:05:10.1811809+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:58:52.2055671+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:05:16.6733509+00:00"
 }

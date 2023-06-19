@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55680,
+  "EOS_Progressed": 55682,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1398,
+  "EOS_NewPlayers": 1392,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5377,6 +5377,11 @@
       "Time": "2023-06-19T07:06:57.9639756+00:00",
       "NumProgressed": 55680,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T08:07:23.1149015+00:00",
+      "NumProgressed": 55682,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5396,7 +5401,7 @@
       "Name": "Nordic Walking",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10579
+      "UsersEstimate": 10580
     },
     {
       "ID": "03",
@@ -5404,7 +5409,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10579
+      "UsersEstimate": 10580
     },
     {
       "ID": "04",
@@ -5428,7 +5433,7 @@
       "Name": "Park Ranger",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "07",
@@ -5492,7 +5497,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "15",
@@ -5500,7 +5505,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "16",
@@ -5620,7 +5625,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "31",
@@ -5628,7 +5633,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "32",
@@ -5652,7 +5657,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "35",
@@ -5708,7 +5713,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "42",
@@ -5852,7 +5857,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "60",
@@ -5868,7 +5873,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "62",
@@ -5923,21 +5928,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55680,
+      "Progressed": 55682,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19148,
+      "Progressed": 19150,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:06:57.9639751+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:07:23.114901+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:58:10.8967692+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:06:57.9640715+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:58:14.0919114+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:07:23.115007+00:00"
 }

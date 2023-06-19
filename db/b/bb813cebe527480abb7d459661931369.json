@@ -25,9 +25,106 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 12,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_10",
+      "SetID": "6n4fd9o",
+      "Name": "Dungeon Novice",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "6n4fd9o",
+      "Name": "Dungeon Explorer",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_30",
+      "SetID": "6n4fd9o",
+      "Name": "Dungeon Delver",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_40",
+      "SetID": "6n4fd9o",
+      "Name": "Dungeon Conqueror",
+      "Percentage": 0,
+      "XP": 105,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_50",
+      "SetID": "6n4fd9o",
+      "Name": "The End?",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Book",
+      "SetID": "6n4fd9o",
+      "Name": "Knowledge Collector",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_D100",
+      "SetID": "6n4fd9o",
+      "Name": "Trial and Error",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_D500",
+      "SetID": "6n4fd9o",
+      "Name": "Indomitable Spirit",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FB",
+      "SetID": "6n4fd9o",
+      "Name": "First Blood",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_K1",
+      "SetID": "6n4fd9o",
+      "Name": "Monster Hunter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KB",
+      "SetID": "6n4fd9o",
+      "Name": "Boss Slayer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VC",
+      "SetID": "6n4fd9o",
+      "Name": "Tribute to the Developers",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6n4fd9o",
@@ -37,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-11T03:23:14.6505823+00:00",
-  "LastChanged_Achievements": "2023-06-19T07:03:16.6650808+00:00",
+  "LastChanged_Achievements": "2023-06-19T08:02:42.9567056+00:00",
   "LastUpdate_AppInfo": "2023-06-14T03:57:14.8677806+00:00",
-  "LastUpdate_Ratings": "2023-06-19T06:57:23.0336736+00:00",
-  "LastUpdate_Achievements": "2023-06-19T07:03:16.6650856+00:00"
+  "LastUpdate_Ratings": "2023-06-19T07:57:18.5358527+00:00",
+  "LastUpdate_Achievements": "2023-06-19T08:02:42.9567315+00:00"
 }

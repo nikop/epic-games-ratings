@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 73.00% | ~32 |
-| Gear Up | 68.00% | ~30 |
-| A Grand Show | 68.00% | ~30 |
-| Freshen Up | 59.00% | ~26 |
-| GG EZ | 57.00% | ~25 |
-| Hydrophobia | 34.00% | ~15 |
-| Ka-Ching! | 32.00% | ~14 |
-| Stop Right There | 30.00% | ~13 |
-| Get to the Point | 25.00% | ~11 |
+| Iceberg Theory | 73.00% | ~33 |
+| Gear Up | 69.00% | ~31 |
+| A Grand Show | 69.00% | ~31 |
+| Freshen Up | 60.00% | ~27 |
+| GG EZ | 58.00% | ~26 |
+| Ka-Ching! | 33.00% | ~15 |
+| Hydrophobia | 33.00% | ~15 |
+| Stop Right There | 29.00% | ~13 |
+| Get to the Point | 24.00% | ~11 |
 | Toe to Toe | 16.00% | ~7 |
-| Phew! | 14.00% | ~6 |
+| Phew! | 13.00% | ~6 |
 | The Hidden Secret | 11.00% | ~5 |
 | Mr. Want It All | 11.00% | ~5 |
 | Grand Escape | 7.00% | ~3 |
 | Decapitation Strike | 7.00% | ~3 |
-| The Abyss Conqueror | 5.00% | ~2 |
-| The Paradox Coordinate Conqueror | 5.00% | ~2 |
-| Space Warrior: Prologue | 5.00% | ~2 |
-| Keep it Up, rookie! | 5.00% | ~2 |
-| Antaeus | 5.00% | ~2 |
-| Air Interception | 5.00% | ~2 |
+| The Abyss Conqueror | 4.00% | ~2 |
+| The Paradox Coordinate Conqueror | 4.00% | ~2 |
+| Space Warrior: Prologue | 4.00% | ~2 |
+| Keep it Up, rookie! | 4.00% | ~2 |
+| Antaeus | 4.00% | ~2 |
+| Air Interception | 4.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |
 | The Fortress Conqueror | 2.00% | ~1 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 326)  
+Progressed: 45 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-10 | 40 | 0 |
 | 2023-06-15 | 43 | 0 |
 | 2023-06-17 | 44 | 0 |
+| 2023-06-19 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

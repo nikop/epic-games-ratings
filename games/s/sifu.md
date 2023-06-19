@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~954 |
-| Project Arena | 3.00% | ~572 |
+| Project Arena | 3.00% | ~573 |
 | The Old Grandmaster | 2.00% | ~14,196 |
 | The Assault | 1.00% | ~7,098 |
 | The Hateful Pole Fighter | 1.00% | ~7,098 |
@@ -37,7 +37,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.60% | ~4,259 |
 | Tiger on Fire | 0.60% | ~4,259 |
 | Detective Story | 0.60% | ~4,259 |
-| A Touch of Acumen | 0.60% | ~114 |
+| A Touch of Acumen | 0.60% | ~115 |
 | Source of Flying Daggers | 0.50% | ~3,549 |
 | Iron Money | 0.50% | ~3,549 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,549 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,780 (Ranked 17)  
+Progressed: 709,783 (Ranked 17)  
 Completed: 12,776 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,15 +117,15 @@ Completed: 12,776 (1.80%) (Ranked 78)
 | 2023-06-16 | 709,616 | 12,773 |
 | 2023-06-17 | 709,699 | 12,775 |
 | 2023-06-18 | 709,766 | 12,776 |
-| 2023-06-19 | 709,780 | 12,776 |
+| 2023-06-19 | 709,783 | 12,776 |
 ## Awards
 Max (Great Boss Battles): 6,189  (Ranked 52)  
-Sum: 10,571 (Ranked 78)  
+Sum: 10,575 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,189 |
-| This game has Diverse Characters | 531 |
+| This game has Diverse Characters | 535 |
 | This game has Challenging Combat | 525 |
 | This game has Quickly Understood Controls | 514 |
 | This game is Extremely Fun | 507 |
@@ -292,4 +292,4 @@ Diff (max vs sum): -26
 | 2023-06-16 | 4.82 | - | 6,183 | 10,560 |
 | 2023-06-17 | 4.82 | - | 6,186 | 10,565 |
 | 2023-06-18 | 4.82 | - | 6,186 | 10,568 |
-| 2023-06-19 | 4.82 | - | 6,189 | 10,571 |
+| 2023-06-19 | 4.82 | - | 6,189 | 10,575 |
