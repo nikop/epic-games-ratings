@@ -733,9 +733,9 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -757,9 +757,9 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -822,8 +822,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-19T12:06:54.2882014+00:00",
+  "LastChanged_Achievements": "2023-06-19T13:14:34.3469185+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.4396906+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:57:43.4174447+00:00",
-  "LastUpdate_Achievements": "2023-06-19T12:06:54.2882185+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:06:22.359123+00:00",
+  "LastUpdate_Achievements": "2023-06-19T13:14:34.3469419+00:00"
 }

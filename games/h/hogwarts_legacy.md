@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 107)
 | The Avenging Gazelle | 5.00% | ~14,034 |
 | Beast Friends | 5.00% | ~14,034 |
 | Flight the Good Flight | 5.00% | ~14,034 |
-| The Seeker of Knowledge | 4.00% | ~11,227 |
-| The Root of the Problem | 4.00% | ~11,227 |
-| Third Time's a Charm | 4.00% | ~11,227 |
-| Raising Expectations | 4.00% | ~11,227 |
+| The Seeker of Knowledge | 4.00% | ~11,228 |
+| The Root of the Problem | 4.00% | ~11,228 |
+| Third Time's a Charm | 4.00% | ~11,228 |
+| Raising Expectations | 4.00% | ~11,228 |
 | The Toast of the Town | 3.00% | ~8,421 |
 | Going Through the Potions | 3.00% | ~8,421 |
 | Room with a View | 3.00% | ~8,421 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,403 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,685 (Ranked 41)  
+Progressed: 280,689 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,10 +111,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-16 | 280,293 | 408 |
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
-| 2023-06-19 | 280,685 | 408 |
+| 2023-06-19 | 280,689 | 408 |
 ## Awards
 Max (Character Customization): 20,171  (Ranked 18)  
-Sum: 37,384 (Ranked 31)  
+Sum: 37,389 (Ranked 31)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -127,7 +127,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 813 |
 | This game has Amazing Characters | 797 |
 | This game is Highly Recommended | 781 |
-| This game has Quickly Understood Controls | 728 |
+| This game has Quickly Understood Controls | 733 |
 | This game has Beautiful Visuals | 677 |
 | This game has a Creative Community | 513 |
 ## Ratings History
@@ -220,4 +220,4 @@ Diff (max vs sum): -13
 | 2023-06-16 | 4.77 | 20,032 | 37,165 |
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
 | 2023-06-18 | 4.77 | 20,122 | 37,312 |
-| 2023-06-19 | 4.77 | 20,171 | 37,384 |
+| 2023-06-19 | 4.77 | 20,171 | 37,389 |

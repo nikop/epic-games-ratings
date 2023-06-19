@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 6652,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2188,9 +2188,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2727
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2276,8 +2276,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-19T12:06:54.8573278+00:00",
+  "LastChanged_Achievements": "2023-06-19T13:14:34.769049+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:57:42.2592383+00:00",
-  "LastUpdate_Achievements": "2023-06-19T12:06:54.8573495+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:06:21.5567903+00:00",
+  "LastUpdate_Achievements": "2023-06-19T13:14:34.7690786+00:00"
 }

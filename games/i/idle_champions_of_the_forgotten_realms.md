@@ -6,19 +6,19 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,879 |
-| The Cursed Farmer | 3.00% | ~2,948 |
-| Beast Intentions | 2.00% | ~1,965 |
-| The Mad Wizard | 2.00% | ~1,965 |
+| A Brief Tour of the Realms | 7.00% | ~6,883 |
+| The Cursed Farmer | 3.00% | ~2,950 |
+| Beast Intentions | 2.00% | ~1,967 |
+| The Mad Wizard | 2.00% | ~1,967 |
 | Were-verpowered | 1.00% | ~983 |
 | The Ring of Regeneration | 1.00% | ~983 |
 | Seeking Allies | 1.00% | ~983 |
 | Are Ya Chicken? | 1.00% | ~983 |
 | Friendly Imps | 1.00% | ~983 |
-| Mad Cow Disease | 0.90% | ~884 |
+| Mad Cow Disease | 0.90% | ~885 |
 | The Court of Storms | 0.90% | ~581 |
-| A Persistent Buzzing | 0.80% | ~786 |
-| Pure Energy | 0.80% | ~786 |
+| A Persistent Buzzing | 0.80% | ~787 |
+| Pure Energy | 0.80% | ~787 |
 | Terror in the Dark | 0.70% | ~688 |
 | Unearthed Evil | 0.70% | ~688 |
 | The Crumbling Temple | 0.70% | ~688 |
@@ -30,15 +30,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.60% | ~590 |
 | The Contagious Curse | 0.60% | ~590 |
 | Escort to Waterdeep | 0.60% | ~590 |
-| Coasting to the Finish | 0.60% | ~387 |
-| Maddening | 0.50% | ~491 |
+| Coasting to the Finish | 0.60% | ~388 |
+| Maddening | 0.50% | ~492 |
 | Checkmate | 0.50% | ~323 |
 | Vecna Out! | 0.50% | ~323 |
-| Low Initiative | 0.50% | ~491 |
-| No Time To Rest | 0.50% | ~491 |
-| Running of the Saurs | 0.50% | ~491 |
-| Waterdeep Detours | 0.50% | ~491 |
-| Underdeep Cartography | 0.50% | ~491 |
+| Low Initiative | 0.50% | ~492 |
+| No Time To Rest | 0.50% | ~492 |
+| Running of the Saurs | 0.50% | ~492 |
+| Waterdeep Detours | 0.50% | ~492 |
+| Underdeep Cartography | 0.50% | ~492 |
 | Quick or Quack | 0.50% | ~323 |
 | The Silken Swamp | 0.40% | ~393 |
 | Supply Run | 0.40% | ~393 |
@@ -111,6 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.30% | ~295 |
 | The Darkness Runs Deeper | 0.30% | ~295 |
 | Difficult Terrain | 0.30% | ~295 |
+| Vault of Dragons | 0.30% | ~295 |
 | Dinosaur Racing | 0.30% | ~295 |
 | Elturel Has Fallen | 0.30% | ~295 |
 | Resolve Amongst Chaos | 0.30% | ~295 |
@@ -305,7 +306,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.20% | ~197 |
 | Madcap Adventures | 0.20% | ~197 |
 | Faerûn's Most Neglected | 0.20% | ~129 |
-| Vault of Dragons | 0.20% | ~197 |
 | Vault of Pixies | 0.20% | ~197 |
 | Vault of Poison | 0.20% | ~197 |
 | Champions of Waterdeep | 0.20% | ~197 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,266 (Ranked 63)  
+Progressed: 98,335 (Ranked 63)  
 Completed: 1,950 (1.98%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1,950 (1.98%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,266 | 1,950 |
+| 2023-06-19 | 98,335 | 1,950 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,147 (Ranked 37)  

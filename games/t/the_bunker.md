@@ -10,7 +10,7 @@
 | Failure | 75.00% | ~80 |
 | Replace Fuse | 66.00% | ~71 |
 | Alarm | 64.00% | ~68 |
-| Air Filtration | 63.00% | ~67 |
+| Air Filtration | 64.00% | ~68 |
 | Broken | 61.00% | ~65 |
 | Radiation | 59.00% | ~63 |
 | Descent | 58.00% | ~62 |
@@ -20,8 +20,8 @@
 | Churchill | 50.00% | ~54 |
 | Doctor | 50.00% | ~54 |
 | Commissioner | 49.00% | ~52 |
+| Engineer | 49.00% | ~52 |
 | Leave | 48.00% | ~51 |
-| Engineer | 48.00% | ~51 |
 | Soldier | 48.00% | ~51 |
 | Press Play | 36.00% | ~39 |
 | General | 24.00% | ~26 |

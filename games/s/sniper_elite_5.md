@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 583)  
+Rating: 4.49 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,16 +20,16 @@ Rating: 4.48 (Ranked 583)
 | Liberté | 10.00% | ~303 |
 | Sharpshooter | 10.00% | ~303 |
 | Explosive Efficiency | 10.00% | ~303 |
-| Just a Flesh Wound | 9.00% | ~272 |
-| Gunslinger | 9.00% | ~272 |
+| Just a Flesh Wound | 9.00% | ~273 |
+| Gunslinger | 9.00% | ~273 |
 | Enemy at the Gates | 8.00% | ~242 |
+| Climbing the Ladder | 7.00% | ~212 |
 | Opposing Force | 7.00% | ~212 |
 | Die Nussknacker Sweet! | 7.00% | ~212 |
 | Der Geist | 7.00% | ~212 |
 | Close Quarters | 7.00% | ~212 |
 | Snake in the Grass | 7.00% | ~212 |
 | Brains of the Operation | 7.00% | ~212 |
-| Climbing the Ladder | 6.00% | ~182 |
 | No Stone Unturned | 6.00% | ~182 |
 | Fields of Glory | 6.00% | ~182 |
 | Skirmisher | 6.00% | ~182 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 583)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,027 (Ranked 143)  
+Progressed: 3,028 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
-| 2023-06-19 | 3,027 | 2 |
+| 2023-06-19 | 3,028 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -189,3 +189,4 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 4.51 | 0 | 0 |
 | 2023-06-17 | 4.50 | 0 | 0 |
 | 2023-06-18 | 4.48 | 0 | 0 |
+| 2023-06-19 | 4.49 | 0 | 0 |

@@ -5,21 +5,21 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,800 |
-| Newcomers | 78.00% | ~9,156 |
-| A Burden of Blood | 72.00% | ~8,452 |
+| Under a New Sun | 92.00% | ~10,801 |
+| Newcomers | 78.00% | ~9,157 |
+| A Burden of Blood | 72.00% | ~8,453 |
 | Protector's Duty | 68.00% | ~7,983 |
-| Alchemist | 67.00% | ~7,865 |
+| Alchemist | 67.00% | ~7,866 |
 | In our Wake | 66.00% | ~7,748 |
 | Leaving all Behind | 63.00% | ~7,396 |
-| Felons | 60.00% | ~7,043 |
+| Felons | 60.00% | ~7,044 |
 | A Sea of Promises | 58.00% | ~6,809 |
-| Tales and Revelations | 55.00% | ~6,456 |
+| Tales and Revelations | 55.00% | ~6,457 |
 | Bloodline | 50.00% | ~5,870 |
 | The Cradle of Centuries | 46.00% | ~5,400 |
-| The Life We Deserve | 44.00% | ~5,165 |
-| Night guard | 42.00% | ~4,930 |
-| Nothing Left | 37.00% | ~4,343 |
+| The Life We Deserve | 44.00% | ~5,166 |
+| Night guard | 42.00% | ~4,931 |
+| Nothing Left | 37.00% | ~4,344 |
 | Healing our Wounds | 35.00% | ~4,109 |
 | Dying Sun | 31.00% | ~3,639 |
 | Improved crossbow | 26.00% | ~3,052 |
@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 156)
 | Perfect shot | 22.00% | ~2,583 |
 | Effective instruments | 21.00% | ~2,465 |
 | Perfect throw | 21.00% | ~2,465 |
-| Knights! | 19.00% | ~2,230 |
+| Knights! | 19.00% | ~2,231 |
 | Handful of pockets | 13.00% | ~1,526 |
 | Not a toy anymore | 11.00% | ~1,291 |
 | Pocket laboratory | 11.00% | ~1,291 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 156)
 | Explorer | 1.00% | ~117 |
 | Malignant | 1.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,739 (Ranked 111)  
+Progressed: 11,740 (Ranked 111)  
 Completed: 33 (0.28%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 33 (0.28%) (Ranked 144)
 | 2023-06-16 | 11,661 | 33 |
 | 2023-06-17 | 11,696 | 33 |
 | 2023-06-18 | 11,729 | 33 |
-| 2023-06-19 | 11,739 | 33 |
+| 2023-06-19 | 11,740 | 33 |
 ## Awards
 Max (Great Boss Battles): 405  (Ranked 204)  
 Sum: 581 (Ranked 288)  

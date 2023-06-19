@@ -6,8 +6,8 @@ Rating: 4.07 (Ranked 894)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,355 |
-| World Map | 80.00% | ~1,153 |
-| Temple of Eternals | 57.00% | ~821 |
+| World Map | 80.00% | ~1,154 |
+| Temple of Eternals | 57.00% | ~822 |
 | Prestigious | 53.00% | ~764 |
 | Fellowship Power | 41.00% | ~591 |
 | Guild Power | 24.00% | ~346 |
@@ -39,8 +39,8 @@ Rating: 4.07 (Ranked 894)
 | Four Leaf Clover | 7.00% | ~101 |
 | Frostfire Liberator | 7.00% | ~101 |
 | Moving Up The Ladder | 7.00% | ~101 |
-| Here We Go Again | 6.00% | ~86 |
-| Trader | 6.00% | ~86 |
+| Here We Go Again | 6.00% | ~87 |
+| Trader | 6.00% | ~87 |
 | Ancient Knowledge | 5.00% | ~72 |
 | How Do You Turn This On? | 5.00% | ~72 |
 | Master Enchanter | 5.00% | ~72 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,441 (Ranked 166)  
+Progressed: 1,442 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-16 | 1,412 | 1 |
 | 2023-06-17 | 1,427 | 1 |
 | 2023-06-18 | 1,441 | 1 |
+| 2023-06-19 | 1,442 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

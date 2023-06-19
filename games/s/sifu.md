@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,798 (Ranked 17)  
+Progressed: 709,803 (Ranked 17)  
 Completed: 12,776 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 12,776 (1.80%) (Ranked 78)
 | 2023-06-16 | 709,616 | 12,773 |
 | 2023-06-17 | 709,699 | 12,775 |
 | 2023-06-18 | 709,766 | 12,776 |
-| 2023-06-19 | 709,798 | 12,776 |
+| 2023-06-19 | 709,803 | 12,776 |
 ## Awards
 Max (Great Boss Battles): 6,189  (Ranked 52)  
-Sum: 10,576 (Ranked 78)  
+Sum: 10,577 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): -26
 | This game has Challenging Combat | 525 |
 | This game has Quickly Understood Controls | 514 |
 | This game is Extremely Fun | 507 |
-| This game has Amazing Storytelling | 503 |
+| This game has Amazing Storytelling | 504 |
 | This game is Highly Recommended | 491 |
 | This game has Amazing Characters | 489 |
 | This game has Unique Visuals | 467 |
@@ -292,4 +292,4 @@ Diff (max vs sum): -26
 | 2023-06-16 | 4.82 | - | 6,183 | 10,560 |
 | 2023-06-17 | 4.82 | - | 6,186 | 10,565 |
 | 2023-06-18 | 4.82 | - | 6,186 | 10,568 |
-| 2023-06-19 | 4.82 | - | 6,189 | 10,576 |
+| 2023-06-19 | 4.82 | - | 6,189 | 10,577 |

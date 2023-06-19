@@ -21,11 +21,11 @@ Rating: 4.56 (Ranked 452)
 | Hope Seeker | 7.00% | ~188 |
 | A Hunk of Junk | 6.00% | ~161 |
 | Exceeding Capacity | 6.00% | ~161 |
-| Man's Best Friend | 4.00% | ~107 |
-| Power Outage | 4.00% | ~107 |
-| Necessary Enhancement | 4.00% | ~107 |
-| Convenient Transport | 4.00% | ~107 |
-| Please Make it Stop! | 4.00% | ~107 |
+| Man's Best Friend | 4.00% | ~108 |
+| Power Outage | 4.00% | ~108 |
+| Necessary Enhancement | 4.00% | ~108 |
+| Convenient Transport | 4.00% | ~108 |
+| Please Make it Stop! | 4.00% | ~108 |
 | Sightseeing | 3.00% | ~81 |
 | Access Granted | 3.00% | ~81 |
 | All in Good Health | 3.00% | ~81 |
@@ -48,7 +48,7 @@ Rating: 4.56 (Ranked 452)
 | Tiqqun Contender | 0.90% | ~24 |
 | You Had One Job... | 0.90% | ~24 |
 | Tiqqun Unchained | 0.90% | ~24 |
-| Scientifically Accurate | 0.80% | ~21 |
+| Scientifically Accurate | 0.80% | ~22 |
 | Gregor Spinoza | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |
 | Remember the Dead | 0.30% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,687 (Ranked 150)  
+Progressed: 2,688 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 2,666 | 0 |
 | 2023-06-17 | 2,676 | 0 |
 | 2023-06-18 | 2,685 | 0 |
-| 2023-06-19 | 2,687 | 0 |
+| 2023-06-19 | 2,688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

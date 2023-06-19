@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Path of purity | 83.00% | ~69 |
 | Witch's duty | 60.00% | ~50 |
-| A good start | 55.00% | ~46 |
+| A good start | 57.00% | ~47 |
 | Runes collector | 53.00% | ~44 |
 | First time, yes? | 52.00% | ~43 |
 | Skilled rider | 48.00% | ~40 |
@@ -15,7 +15,7 @@
 | It doesn't work like that | 24.00% | ~20 |
 | A small victory | 17.00% | ~14 |
 | This is just the beginning... | 16.00% | ~13 |
-| Unstoppable Curiosity | 13.00% | ~11 |
+| Unstoppable Curiosity | 14.00% | ~12 |
 | Time is on my side | 10.00% | ~8 |
 | Gold Digger | 10.00% | ~8 |
 | Secret at the bottom | 0.00% | ~0 |

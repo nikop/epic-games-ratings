@@ -216,9 +216,9 @@
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
@@ -304,9 +304,9 @@
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PEG_GENERAL",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-06-19T12:04:06.4349349+00:00",
+  "LastChanged_Achievements": "2023-06-19T13:12:27.8928364+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.0750872+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:58:26.2176232+00:00",
-  "LastUpdate_Achievements": "2023-06-19T12:04:06.4349557+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:06:52.5909076+00:00",
+  "LastUpdate_Achievements": "2023-06-19T13:12:27.8928577+00:00"
 }

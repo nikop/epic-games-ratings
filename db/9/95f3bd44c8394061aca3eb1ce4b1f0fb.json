@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-06-19T06:03:12.9720781+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T13:09:24.6948322+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -115,7 +120,7 @@
       "ID": "CompleteTutorials",
       "SetID": "9ajogia",
       "Name": "Student",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -123,7 +128,7 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -156,14 +161,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-06-19T12:01:48.0920763+00:00",
+  "LastChanged_Achievements": "2023-06-19T13:09:24.6948152+00:00",
   "LastUpdate_AppInfo": "2023-06-15T14:57:13.0374414+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:57:11.9288905+00:00",
-  "LastUpdate_Achievements": "2023-06-19T12:01:48.0921256+00:00"
+  "LastUpdate_Ratings": "2023-06-19T13:05:58.1998335+00:00",
+  "LastUpdate_Achievements": "2023-06-19T13:09:24.6948907+00:00"
 }
