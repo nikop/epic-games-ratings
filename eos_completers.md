@@ -8,7 +8,7 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
+| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
 | 10 | [Island Cities](games/i/island_cities.md) | 15.76% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -66,12 +66,12 @@
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
+| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.37% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.98% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -116,8 +116,8 @@
 | 114 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 115 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
-| 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 118 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 117 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 119 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 120 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 121 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
