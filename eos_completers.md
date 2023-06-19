@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 21 | [Smelter](games/s/smelter.md) | 8.33% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 24 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.01% |
@@ -31,10 +31,10 @@
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
-| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.88% |
-| 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
-| 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
+| 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
+| 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
+| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.31% |
@@ -65,7 +65,7 @@
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.41% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -78,7 +78,7 @@
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
-| 79 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.75% |
+| 79 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.72% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Poosh XL](games/p/poosh_xl.md) | 1.59% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
@@ -98,8 +98,8 @@
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
 | 98 | [Sable](games/s/sable.md) | 0.94% |
-| 99 | [Adios](games/a/adios.md) | 0.89% |
 | 99 | [Hades](games/h/hades.md) | 0.89% |
+| 100 | [Adios](games/a/adios.md) | 0.88% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
@@ -117,18 +117,18 @@
 | 115 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 118 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 119 | [Grindstone](games/g/grindstone.md) | 0.53% |
-| 120 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
-| 120 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 122 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 122 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
-| 124 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
-| 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 125 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
-| 127 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.42% |
-| 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
-| 127 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 118 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 119 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 120 | [Grindstone](games/g/grindstone.md) | 0.53% |
+| 121 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
+| 121 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 123 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
+| 123 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
+| 125 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
+| 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
+| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
+| 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 130 | [Tchia](games/t/tchia.md) | 0.38% |
 | 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 131 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -154,9 +154,9 @@
 | 150 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 155 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 155 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 157 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
+| 156 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 156 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 159 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
 | 160 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
