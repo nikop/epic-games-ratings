@@ -37,7 +37,7 @@
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.34% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.33% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
@@ -60,10 +60,10 @@
 | 58 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.74% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.71% |
-| 61 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.58% |
-| 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
-| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 61 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 62 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.52% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
@@ -86,7 +86,7 @@
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.47% |
-| 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.30% |
+| 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.28% |
 | 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 89 | [Chorus](games/c/chorus.md) | 1.21% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.20% |
@@ -151,11 +151,11 @@
 | 148 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 150 | [Against the Storm](games/a/against_the_storm.md) | 0.23% |
 | 150 | [Filament](games/f/filament.md) | 0.23% |
-| 152 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 152 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 154 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 154 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 154 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 150 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 155 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 155 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 157 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 159 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
