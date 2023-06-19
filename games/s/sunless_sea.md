@@ -1,34 +1,34 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,430 |
-| Sweet Sorrow | 18.00% | ~5,715 |
-| Rules the Waves | 17.00% | ~5,398 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,762 |
-| Rival | 14.00% | ~4,445 |
-| Correspondent | 12.00% | ~3,810 |
-| Lose Your Mind | 12.00% | ~3,810 |
-| Sound Mind? | 12.00% | ~3,810 |
-| Salt's Curse | 11.00% | ~3,492 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,492 |
-| The Fall of the House | 11.00% | ~3,492 |
-| Shipmate | 11.00% | ~3,492 |
-| One Year at Zee | 8.00% | ~2,540 |
-| Pupil | 7.00% | ~2,222 |
-| Salvager | 7.00% | ~2,222 |
-| Open Your Ears | 7.00% | ~2,222 |
-| The Ascent of Man | 7.00% | ~2,222 |
+| Sink Beneath the Waves | 36.00% | ~11,433 |
+| Sweet Sorrow | 18.00% | ~5,716 |
+| Rules the Waves | 17.00% | ~5,399 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,764 |
+| Rival | 14.00% | ~4,446 |
+| Correspondent | 12.00% | ~3,811 |
+| Lose Your Mind | 12.00% | ~3,811 |
+| Sound Mind? | 12.00% | ~3,811 |
+| Salt's Curse | 11.00% | ~3,493 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,493 |
+| The Fall of the House | 11.00% | ~3,493 |
+| Shipmate | 11.00% | ~3,493 |
+| One Year at Zee | 8.00% | ~2,541 |
+| Pupil | 7.00% | ~2,223 |
+| Salvager | 7.00% | ~2,223 |
+| Open Your Ears | 7.00% | ~2,223 |
+| The Ascent of Man | 7.00% | ~2,223 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,588 |
 | Zee Fever | 5.00% | ~1,588 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,270 |
-| Storm's Curse | 3.00% | ~952 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~952 |
-| Come Closer | 3.00% | ~952 |
+| Storm's Curse | 3.00% | ~953 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~953 |
+| Come Closer | 3.00% | ~953 |
 | Roaring Rise | 2.00% | ~635 |
 | I am the Captain of my Soul | 2.00% | ~635 |
 | A buoyant escape | 1.00% | ~318 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,750 (Ranked 91)  
+Progressed: 31,757 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 3 (0.01%) (Ranked 214)
 | 2023-06-16 | 31,510 | 3 |
 | 2023-06-17 | 31,592 | 3 |
 | 2023-06-18 | 31,684 | 3 |
-| 2023-06-19 | 31,750 | 3 |
+| 2023-06-19 | 31,757 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
 Sum: 278 (Ranked 335)  

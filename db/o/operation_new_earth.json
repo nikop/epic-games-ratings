@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-06-19T18:03:40.4591446+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T22:03:49.2666741+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -521,7 +526,7 @@
       "Name": "Facility Online",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -545,15 +550,15 @@
       "Name": "Lieutenant",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -583,9 +588,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -609,7 +614,7 @@
       "Name": "Getting Deployment",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -625,7 +630,7 @@
       "Name": "Stocking Up",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -641,7 +646,7 @@
       "Name": "On Target",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -657,7 +662,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -720,14 +725,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-19T21:03:35.4265628+00:00",
+  "LastChanged_Achievements": "2023-06-19T22:03:49.2666734+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:01:01.6031554+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:03:35.4266487+00:00"
+  "LastUpdate_Ratings": "2023-06-19T22:00:22.1483541+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:03:49.266707+00:00"
 }

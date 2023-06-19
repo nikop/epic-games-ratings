@@ -2,13 +2,13 @@
   "ID": "107bd7324f39429ca4e7e9e44765d8cf",
   "Name": "Mafia II: Definitive Edition",
   "ProductSlug": "mafia-ii-definitive-edition",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-24T23:00:00+00:00",
     "PcReleaseDate": "2020-09-24T23:00:00+00:00",
@@ -708,6 +708,6 @@
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
   "LastChanged": "2023-05-23T08:58:15.9368745+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.6844585+00:00",
-  "LastUpdate_Ratings": "2023-06-19T20:58:21.1383389+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:02:12.8807275+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:58:10.1155845+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:03:13.7644805+00:00"
 }

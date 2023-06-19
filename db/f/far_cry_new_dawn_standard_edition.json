@@ -2,13 +2,13 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2019-02-15T16:00:00+00:00",
     "PcReleaseDate": "2019-02-15T11:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 338,
   "RatingHistory": [
     {
@@ -655,6 +655,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 193,
       "NumberOfAwardsMax": 193
+    },
+    {
+      "Time": "2023-06-19T21:59:51.1616097+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 193,
+      "NumberOfAwardsMax": 193
     }
   ],
   "ReviewsDisabled": false,
@@ -680,8 +686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-06-18T22:01:03.699518+00:00",
+  "LastChanged": "2023-06-19T21:59:51.1616094+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:26.1385957+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:00:27.4485135+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:04:51.2400749+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:59:51.1616227+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:04:51.7694971+00:00"
 }

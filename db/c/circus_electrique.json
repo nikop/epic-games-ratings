@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-06-18T21:06:22.5019039+00:00",
       "NumProgressed": 447,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T22:06:20.8586507+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -370,7 +375,7 @@
       "Name": "Grand Opening",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -378,7 +383,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -434,7 +439,7 @@
       "Name": "Path of Learning",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -498,7 +503,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -522,7 +527,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -769,7 +774,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 1
     }
   ],
@@ -777,8 +782,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-19T21:06:49.6776349+00:00",
+  "LastChanged_Achievements": "2023-06-19T22:06:20.8586502+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.3365909+00:00",
-  "LastUpdate_Ratings": "2023-06-19T20:59:26.4874084+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:06:49.6776941+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:59:01.0652345+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:06:20.8587018+00:00"
 }

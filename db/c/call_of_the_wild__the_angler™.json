@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4413,
+  "EOS_Progressed": 4414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-06-19T20:03:52.482709+00:00",
       "NumProgressed": 4413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T22:04:08.7595303+00:00",
+      "NumProgressed": 4414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3593,7 +3598,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3601,7 +3606,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3609,15 +3614,15 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1412
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3625,7 +3630,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3633,7 +3638,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3641,7 +3646,7 @@
       "Name": "Scaling up",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3649,7 +3654,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3657,7 +3662,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3689,7 +3694,7 @@
       "Name": "Goldfish?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -3745,7 +3750,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3864,13 +3869,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4413,
+      "Progressed": 4414,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3785,
+      "Progressed": 3786,
       "Completed": 112
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-19T21:03:59.3476892+00:00",
+  "LastChanged_Achievements": "2023-06-19T22:04:08.75953+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:00:23.7237359+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:03:59.3477344+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:59:48.1599134+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:04:08.7595767+00:00"
 }

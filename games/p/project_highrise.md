@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~129 |
-| Starting Skyward | 52.00% | ~115 |
-| Grime is Not Good | 46.00% | ~102 |
+| Starting Skyward | 52.00% | ~116 |
+| Grime is Not Good | 46.00% | ~103 |
 | Campaign Launch | 39.00% | ~87 |
-| Floor Galore | 38.00% | ~84 |
-| Dinner Dash | 37.00% | ~82 |
+| Floor Galore | 38.00% | ~85 |
+| Dinner Dash | 37.00% | ~83 |
 | Need a Consult | 35.00% | ~78 |
 | It's Technical | 35.00% | ~78 |
-| Upgrade Unlock | 33.00% | ~73 |
-| Delegate Maintenance | 33.00% | ~73 |
+| Upgrade Unlock | 33.00% | ~74 |
+| Delegate Maintenance | 33.00% | ~74 |
 | Proper Walls | 31.00% | ~69 |
 | Destination Destiny | 27.00% | ~60 |
-| Happy Tenants | 24.00% | ~53 |
-| Your Prestige is Rising | 23.00% | ~51 |
-| Potent Potables | 23.00% | ~51 |
+| Happy Tenants | 24.00% | ~54 |
 | Smooth Service | 23.00% | ~51 |
+| Your Prestige is Rising | 22.00% | ~49 |
+| Potent Potables | 22.00% | ~49 |
 | Retail Revenue | 22.00% | ~49 |
 | Leveled Up Shops | 22.00% | ~49 |
 | Lux Living | 21.00% | ~47 |
-| Don't Feel a Loan | 20.00% | ~44 |
-| People Mover | 20.00% | ~44 |
-| Emporium Empire | 20.00% | ~44 |
-| Get Electrified | 20.00% | ~44 |
+| Don't Feel a Loan | 20.00% | ~45 |
+| People Mover | 20.00% | ~45 |
+| Emporium Empire | 20.00% | ~45 |
+| Get Electrified | 20.00% | ~45 |
 | Artfully Done | 18.00% | ~40 |
 | Rehab Expert | 18.00% | ~40 |
 | Tasty Profits | 18.00% | ~40 |
@@ -40,7 +40,7 @@
 | Thrilled Tenants | 14.00% | ~31 |
 | Smooth Operator | 13.00% | ~29 |
 | Swimming in Surplus | 13.00% | ~29 |
-| 28 Days Later | 11.00% | ~24 |
+| 28 Days Later | 11.00% | ~25 |
 | Aestheticly Pleased | 9.00% | ~20 |
 | Plaza Plan | 9.00% | ~20 |
 | Master of Puppets | 9.00% | ~20 |
@@ -61,8 +61,8 @@
 | Tuned In | 6.00% | ~13 |
 | It's a Gas | 6.00% | ~13 |
 | Baron of Business | 5.00% | ~11 |
-| Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
+| Office Bigwigs | 4.00% | ~9 |
 | Luxury Boutiques | 4.00% | ~9 |
 | Three of a Kind | 4.00% | ~9 |
 | Sandbagger | 4.00% | ~9 |
@@ -86,14 +86,14 @@
 | Poker Face | 0.90% | ~2 |
 | Such Great Heights | 0.90% | ~2 |
 | Scenario Master | 0.90% | ~2 |
-| Infrastructure Info | 0.50% | ~1 |
+| Infrastructure Info | 0.40% | ~1 |
 | Statue Stature | 0.00% | ~0 |
 | Commercial Campaigns | 0.00% | ~0 |
 | Office Ovation | 0.00% | ~0 |
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 249)  
+Progressed: 223 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 220 | 0 |
 | 2023-06-17 | 221 | 0 |
 | 2023-06-18 | 222 | 0 |
+| 2023-06-19 | 223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

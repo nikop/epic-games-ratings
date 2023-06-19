@@ -7,30 +7,30 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 62.00% | ~229 |
-| Cowardice | 55.00% | ~203 |
+| Cowardice | 55.00% | ~204 |
 | NO LIFE IS WORTH SAVING... | 46.00% | ~170 |
-| Eat Lead! | 44.00% | ~162 |
+| Eat Lead! | 44.00% | ~163 |
 | Prospector | 40.00% | ~148 |
 | The Breaking Point | 40.00% | ~148 |
 | Here Comes the Boom | 40.00% | ~148 |
 | Treasure Hunter | 37.00% | ~137 |
-| Sniper Wolf | 35.00% | ~129 |
-| The Motivation | 34.00% | ~125 |
+| The Motivation | 35.00% | ~130 |
+| Sniper Wolf | 35.00% | ~130 |
 | Heroism | 33.00% | ~122 |
 | Missing in Action | 33.00% | ~122 |
-| Collectibles of Chapter I | 31.00% | ~114 |
+| Collectibles of Chapter I | 32.00% | ~118 |
 | Consequences | 29.00% | ~107 |
 | King of Knives | 29.00% | ~107 |
 | Opportunities | 27.00% | ~100 |
 | The Horror | 26.00% | ~96 |
+| The Difference | 23.00% | ~85 |
 | Collectibles of Chapter II | 22.00% | ~81 |
-| The Difference | 22.00% | ~81 |
 | It's Just an Accident | 22.00% | ~81 |
-| Vengeance | 21.00% | ~77 |
-| Broken Hopes | 18.00% | ~66 |
-| Bullseye! | 18.00% | ~66 |
+| Vengeance | 21.00% | ~78 |
+| Broken Hopes | 18.00% | ~67 |
+| Bullseye! | 18.00% | ~67 |
 | Food Massacre | 17.00% | ~63 |
-| Sorrow | 15.00% | ~55 |
+| Sorrow | 15.00% | ~56 |
 | Collectibles of Chapter III | 14.00% | ~52 |
 | Collectibles of Chapter IV | 14.00% | ~52 |
 | Helping Hand | 14.00% | ~52 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369 (Ranked 225)  
+Progressed: 370 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 363 | 0 |
 | 2023-06-17 | 366 | 0 |
 | 2023-06-18 | 368 | 0 |
-| 2023-06-19 | 369 | 0 |
+| 2023-06-19 | 370 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

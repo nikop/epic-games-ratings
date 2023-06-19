@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -58,6 +58,11 @@
       "Time": "2023-06-14T18:06:03.7198067+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T22:06:13.869606+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -67,7 +72,7 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 98,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 78
     },
@@ -75,7 +80,7 @@
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
       "UsersEstimate": 69
     },
@@ -131,7 +136,7 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -139,7 +144,7 @@
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -155,7 +160,7 @@
       "ID": "12-RedbeardsRevenger",
       "SetID": "5iij4gg",
       "Name": "Redbeard\u0027s Revenger",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -203,7 +208,7 @@
       "ID": "18-GreenThumbGoliath",
       "SetID": "5iij4gg",
       "Name": "Green Thumb Goliath",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -211,7 +216,7 @@
       "ID": "19-WhoDat",
       "SetID": "5iij4gg",
       "Name": "Who dat?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -219,7 +224,7 @@
       "ID": "20-SoftHands",
       "SetID": "5iij4gg",
       "Name": "Soft Hands",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -251,7 +256,7 @@
       "ID": "24-PerfectJustPerfect",
       "SetID": "5iij4gg",
       "Name": "Perfect 350 pt score",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 150,
       "UsersEstimate": 2
     }
@@ -260,7 +265,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
@@ -268,8 +273,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-06-19T21:06:41.4076852+00:00",
+  "LastChanged_Achievements": "2023-06-19T22:06:13.8696056+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:52.9349059+00:00",
-  "LastUpdate_Ratings": "2023-06-19T21:00:58.5209286+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:06:41.4076976+00:00"
+  "LastUpdate_Ratings": "2023-06-19T22:00:19.7887112+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:06:13.8696227+00:00"
 }

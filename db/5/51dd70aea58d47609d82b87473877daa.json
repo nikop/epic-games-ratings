@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.69,
+  "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -286,6 +286,11 @@
       "Time": "2023-06-19T16:02:35.2944746+00:00",
       "NumProgressed": 59,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T22:03:35.6482837+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -295,7 +300,7 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 37
     },
@@ -303,7 +308,7 @@
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 32
     },
@@ -311,7 +316,7 @@
       "ID": "ACH_DULLER",
       "SetID": "c2kf3nm",
       "Name": "STAY AWAY",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -319,7 +324,7 @@
       "ID": "ACH_ENTERLEVELRUN",
       "SetID": "c2kf3nm",
       "Name": "THERE IS NO EXIT",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -327,7 +332,7 @@
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
       "UsersEstimate": 35
     },
@@ -335,7 +340,7 @@
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 38
     },
@@ -343,7 +348,7 @@
       "ID": "ACH_GET_IN",
       "SetID": "c2kf3nm",
       "Name": "Lab Rat",
-      "Percentage": 85,
+      "Percentage": 83,
       "XP": 25,
       "UsersEstimate": 50
     },
@@ -359,7 +364,7 @@
       "ID": "ACH_HABITABLE",
       "SetID": "c2kf3nm",
       "Name": "Follow your Dreams",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -399,7 +404,7 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 32
     },
@@ -431,23 +436,23 @@
       "ID": "ACH_WHYRUNNING",
       "SetID": "c2kf3nm",
       "Name": "Why are you running?!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-06-19T21:03:19.1855803+00:00",
+  "LastChanged_Achievements": "2023-06-19T22:03:35.6482832+00:00",
   "LastUpdate_AppInfo": "2023-06-15T21:57:00.8705582+00:00",
-  "LastUpdate_Ratings": "2023-06-19T20:57:15.9994902+00:00",
-  "LastUpdate_Achievements": "2023-06-19T21:03:19.1855973+00:00"
+  "LastUpdate_Ratings": "2023-06-19T21:57:17.3470418+00:00",
+  "LastUpdate_Achievements": "2023-06-19T22:03:35.648299+00:00"
 }

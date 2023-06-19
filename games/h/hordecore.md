@@ -23,8 +23,8 @@
 | I Choo-Choo-Choose You | 12.00% | ~41 |
 | My Savior! | 12.00% | ~41 |
 | Totally Swamped | 11.00% | ~38 |
+| Is Anyone Out There? | 11.00% | ~38 |
 | Hammer Time | 10.00% | ~34 |
-| Is Anyone Out There? | 10.00% | ~34 |
 | Limitless | 9.00% | ~31 |
 | Hired Goon | 6.00% | ~20 |
 | Holy Scrap! | 6.00% | ~20 |

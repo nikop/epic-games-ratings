@@ -6,25 +6,25 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,006 |
-| Titan's First Steps | 96.00% | ~125,697 |
-| Basic in Bulk | 91.00% | ~119,150 |
+| Sponsored by Argon | 97.00% | ~127,007 |
+| Titan's First Steps | 96.00% | ~125,698 |
+| Basic in Bulk | 91.00% | ~119,151 |
 | Tinkle of Coins | 87.00% | ~113,913 |
-| Disintermediation | 76.00% | ~99,510 |
-| Capitalism Ho! | 74.00% | ~96,891 |
+| Disintermediation | 76.00% | ~99,511 |
+| Capitalism Ho! | 74.00% | ~96,892 |
 | It's Free Real Estate | 70.00% | ~91,654 |
-| Budding Merchant | 66.00% | ~86,416 |
+| Budding Merchant | 66.00% | ~86,417 |
 | Another Satisfied Customer | 61.00% | ~79,870 |
-| One Easy Payment | 60.00% | ~78,560 |
-| Own the Means of Production | 60.00% | ~78,560 |
+| One Easy Payment | 60.00% | ~78,561 |
+| Own the Means of Production | 60.00% | ~78,561 |
 | Some Assembly Required | 58.00% | ~75,942 |
-| Pretty Penny | 57.00% | ~74,632 |
-| One-Armed Bandit | 50.00% | ~65,467 |
+| Pretty Penny | 57.00% | ~74,633 |
+| One-Armed Bandit | 50.00% | ~65,468 |
 | Through Repetition, Perfection | 46.00% | ~60,230 |
-| The Daily Grind | 45.00% | ~58,920 |
+| The Daily Grind | 45.00% | ~58,921 |
 | Bounty Hunters | 44.00% | ~57,611 |
 | Where it Hurts | 43.00% | ~56,302 |
-| Dungeon Imports | 42.00% | ~54,992 |
+| Dungeon Imports | 42.00% | ~54,993 |
 | Flooding the Market | 41.00% | ~53,683 |
 | Demand for Supplies | 38.00% | ~49,755 |
 | Gild-Gotten Goods | 37.00% | ~48,446 |
@@ -46,7 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 21.00% | ~27,496 |
 | Magical Harmony | 21.00% | ~27,496 |
 | Tax not Included | 20.00% | ~26,187 |
-| Trash to Treasure | 19.00% | ~24,877 |
+| Trash to Treasure | 19.00% | ~24,878 |
 | For the Hoard! | 18.00% | ~23,568 |
 | Special Ingredient | 17.00% | ~22,259 |
 | A Notch Above the Rest | 15.00% | ~19,640 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 14.00% | ~18,331 |
 | Flying off the Shelves | 14.00% | ~18,331 |
 | Laden with Loot | 14.00% | ~18,331 |
-| Fat Cat Tag Team | 13.00% | ~17,021 |
+| Fat Cat Tag Team | 13.00% | ~17,022 |
 | Hidden Potential | 12.00% | ~15,712 |
 | Mammonite | 12.00% | ~15,712 |
 | Attrition Mission | 12.00% | ~15,712 |
@@ -69,7 +69,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 11.00% | ~14,403 |
 | Exotic Commodities | 11.00% | ~14,403 |
 | Complete Monopoly | 11.00% | ~14,403 |
-| Master Recycler | 10.00% | ~13,093 |
+| Master Recycler | 10.00% | ~13,094 |
 | Supercharged | 9.00% | ~11,784 |
 | Ritualist | 9.00% | ~11,784 |
 | Master Merchant | 9.00% | ~11,784 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~655 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,934 (Ranked 58)  
+Progressed: 130,935 (Ranked 58)  
 Completed: 107 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 107 (0.08%) (Ranked 182)
 | 2023-06-16 | 130,736 | 101 |
 | 2023-06-17 | 130,813 | 103 |
 | 2023-06-18 | 130,882 | 105 |
-| 2023-06-19 | 130,934 | 107 |
+| 2023-06-19 | 130,935 | 107 |
 ## Awards
 Max (Great for Beginners): 4,629  (Ranked 68)  
 Sum: 26,781 (Ranked 44)  

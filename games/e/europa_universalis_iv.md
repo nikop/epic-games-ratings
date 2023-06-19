@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,229 |
-| That's a Grand Army | 8.00% | ~4,648 |
-| That is mine! | 8.00% | ~4,648 |
-| Victorious! | 8.00% | ~4,648 |
-| Brothers in Arms | 6.00% | ~3,486 |
-| That's a Grand Navy | 6.00% | ~3,486 |
-| Seriously?! | 6.00% | ~3,486 |
-| For the Glory | 5.00% | ~2,905 |
-| Cold War | 4.00% | ~2,324 |
-| True Catholic | 4.00% | ~2,324 |
-| Defender of the Faith | 3.00% | ~1,743 |
-| It's all about the money | 3.00% | ~1,743 |
-| Respected | 3.00% | ~1,743 |
-| Truly Divine Ruler | 3.00% | ~1,743 |
+| Until death do us apart | 9.00% | ~5,231 |
+| That's a Grand Army | 8.00% | ~4,650 |
+| That is mine! | 8.00% | ~4,650 |
+| Victorious! | 8.00% | ~4,650 |
+| Brothers in Arms | 6.00% | ~3,487 |
+| That's a Grand Navy | 6.00% | ~3,487 |
+| Seriously?! | 6.00% | ~3,487 |
+| For the Glory | 5.00% | ~2,906 |
+| Cold War | 4.00% | ~2,325 |
+| True Catholic | 4.00% | ~2,325 |
+| Defender of the Faith | 3.00% | ~1,744 |
+| It's all about the money | 3.00% | ~1,744 |
+| Respected | 3.00% | ~1,744 |
+| Truly Divine Ruler | 3.00% | ~1,744 |
 | Agressive Expander | 2.00% | ~1,162 |
 | Blockader | 2.00% | ~1,162 |
 | Combined Arms | 2.00% | ~1,162 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,103 (Ranked 77)  
+Progressed: 58,123 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
-| 2023-06-19 | 58,103 | 0 |
+| 2023-06-19 | 58,123 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
 Sum: 44,761 (Ranked 27)  

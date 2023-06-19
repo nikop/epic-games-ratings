@@ -10,8 +10,8 @@ Rating: 4.62 (Ranked 346)
 | High Profile | 56.00% | ~273 |
 | Whispers In The Dark | 54.00% | ~263 |
 | Fond Memories | 52.00% | ~253 |
+| A Method To His Madness | 50.00% | ~244 |
 | History Check | 49.00% | ~239 |
-| A Method To His Madness | 49.00% | ~239 |
 | Lock, Stock, And Barrel | 45.00% | ~219 |
 | Gaze Into The Abyss | 45.00% | ~219 |
 | The New World | 45.00% | ~219 |
@@ -26,7 +26,7 @@ Rating: 4.62 (Ranked 346)
 | Up In Flames | 38.00% | ~185 |
 | Bookworm | 37.00% | ~180 |
 | Going Once... | 36.00% | ~175 |
-| Let Me Be Frank | 34.00% | ~166 |
+| Let Me Be Frank | 35.00% | ~170 |
 | Brain Food | 32.00% | ~156 |
 | No Stone Unturned | 32.00% | ~156 |
 | Curiosity Killed The Cat | 20.00% | ~97 |
