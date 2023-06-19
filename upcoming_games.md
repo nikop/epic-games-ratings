@@ -12,6 +12,7 @@
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2023-06-22 | - |  | - | - |
 | [Nova Lands](games/n/nova_lands.md) | 2023-06-22 | - |  | - | - |
+| [Avoid It](games/f/fc26bb604bcb4130bc0798c8d9ef95b1.md) | 2023-06-23 | - |  | - | - |
 | [Vectoroids](games/e/e77f3dc66a514c68bd525d8f418c1be2.md) | 2023-06-23 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
 | [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2023-06-26 | - |  | - | - |
@@ -406,7 +407,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,817 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,819 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
