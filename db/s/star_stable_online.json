@@ -2,20 +2,20 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -1340,10 +1340,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 871,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2023-06-19T14:58:51.1868242+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 872,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 871,
+  "NumberOfAwards": 872,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1357,7 +1363,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111
+      "Count": 112
     },
     {
       "Text": "This game is Relaxing",
@@ -1431,8 +1437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-06-18T14:58:01.6450228+00:00",
+  "LastChanged": "2023-06-19T14:58:51.1868239+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.2874919+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:58:16.6926166+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:03:47.6831045+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:58:51.1868249+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:04:42.6581128+00:00"
 }

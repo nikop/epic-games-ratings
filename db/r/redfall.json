@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2220,9 +2220,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_039",
@@ -2268,9 +2268,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 525
     },
     {
       "ID": "Achievement_046",
@@ -2469,8 +2469,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-18T21:58:29.0169533+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:03:22.4188126+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:03:56.4726011+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:58:03.7716633+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:03:22.4188739+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:58:29.6078302+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:03:56.4727148+00:00"
 }

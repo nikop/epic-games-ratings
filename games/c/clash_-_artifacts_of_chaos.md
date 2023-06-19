@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 69.00% | ~59 |
+| Declawing | 71.00% | ~60 |
 | Target Practice | 40.00% | ~34 |
 | Over the Moon | 34.00% | ~29 |
 | The Bigger They Are | 32.00% | ~27 |

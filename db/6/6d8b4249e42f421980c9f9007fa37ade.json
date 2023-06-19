@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -454,9 +454,9 @@
       "ID": "Epic_HaveRest_120",
       "SetID": "ba1m2fc",
       "Name": "Take a Break",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Epic_HeartlessBow_1",
@@ -701,8 +701,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:02:08.3056766+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:03:08.7928047+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:57:11.0494666+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:02:08.3057092+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:57:15.5345956+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:03:08.79288+00:00"
 }

@@ -28,6 +28,7 @@ Rating: 4.07 (Ranked 894)
 | Milestone collector | 11.00% | ~159 |
 | Superior | 11.00% | ~159 |
 | Scientist | 10.00% | ~144 |
+| The power of Awakening | 9.00% | ~130 |
 | Challenger | 8.00% | ~115 |
 | Daily Quest Completionist | 8.00% | ~115 |
 | Doing My Part | 8.00% | ~115 |
@@ -35,7 +36,6 @@ Rating: 4.07 (Ranked 894)
 | Mastery | 8.00% | ~115 |
 | Relic Of The Past | 8.00% | ~115 |
 | Scroll Master | 8.00% | ~115 |
-| The power of Awakening | 8.00% | ~115 |
 | Four Leaf Clover | 7.00% | ~101 |
 | Frostfire Liberator | 7.00% | ~101 |
 | Moving Up The Ladder | 7.00% | ~101 |

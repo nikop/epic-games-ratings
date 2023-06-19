@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12876,
+  "EOS_Progressed": 12882,
   "EOS_Completed": 267,
   "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 11,
@@ -6489,6 +6489,11 @@
       "Time": "2023-06-19T14:05:47.4237952+00:00",
       "NumProgressed": 12876,
       "NumCompleted": 267
+    },
+    {
+      "Time": "2023-06-19T15:07:37.1725515+00:00",
+      "NumProgressed": 12882,
+      "NumCompleted": 267
     }
   ],
   "TotalAchievements": 20,
@@ -6500,7 +6505,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -6516,7 +6521,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -6532,7 +6537,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -6548,7 +6553,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -6556,7 +6561,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -6564,7 +6569,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "FOUND_ERIN",
@@ -6604,7 +6609,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "GAME_FINISHED",
@@ -6612,7 +6617,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "INTRO_FINISHED",
@@ -6620,7 +6625,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9790
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6628,7 +6633,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3607
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6644,7 +6649,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "WEST_FINISHED",
@@ -6652,22 +6657,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2448
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12876,
+      "Progressed": 12882,
       "Completed": 267
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:05:47.4237946+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:07:37.1725507+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:00:13.6020356+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:05:47.4238347+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:01:41.7041992+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:07:37.1726406+00:00"
 }

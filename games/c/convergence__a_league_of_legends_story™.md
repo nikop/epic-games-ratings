@@ -14,6 +14,7 @@
 | Time Flies | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
+| The Brass Boss | 11.00% | ~78 |
 | The Betrayer | 10.00% | ~71 |
 | The Harder They Fall | 10.00% | ~71 |
 | No, Thanks! | 10.00% | ~71 |
@@ -22,7 +23,6 @@
 | Honest Mistake | 10.00% | ~71 |
 | Fast Learner | 10.00% | ~71 |
 | Immaculate Aim | 10.00% | ~71 |
-| The Brass Boss | 10.00% | ~71 |
 | Like Clockwork | 9.00% | ~64 |
 | Street Style | 9.00% | ~64 |
 | The Man Who Shattered Time | 9.00% | ~64 |

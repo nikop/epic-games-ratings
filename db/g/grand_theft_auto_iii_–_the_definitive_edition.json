@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6726,
+  "EOS_Progressed": 6727,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4487,6 +4487,11 @@
       "Time": "2023-06-19T13:12:51.3276368+00:00",
       "NumProgressed": 6726,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-19T15:04:57.8794234+00:00",
+      "NumProgressed": 6727,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4522,7 +4527,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "ACH05",
@@ -4538,7 +4543,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACH07",
@@ -4729,7 +4734,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6726,
+      "Progressed": 6727,
       "Completed": 38
     }
   ],
@@ -4737,8 +4742,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:03:58.5582841+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:04:57.8794226+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:58:06.8368864+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:03:58.5583173+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:58:34.2963732+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:04:57.8795+00:00"
 }

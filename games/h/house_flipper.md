@@ -7,7 +7,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First money | 94.00% | ~18,513 |
-| Strongman | 30.00% | ~5,908 |
+| Strongman | 31.00% | ~6,105 |
 | Just Enough | 19.00% | ~3,742 |
 | Alpha Male | 19.00% | ~3,742 |
 | Pro-creative | 18.00% | ~3,545 |

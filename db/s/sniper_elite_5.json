@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3028,
+  "EOS_Progressed": 3029,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
@@ -3988,6 +3988,11 @@
       "Time": "2023-06-19T13:14:50.0169048+00:00",
       "NumProgressed": 3028,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T15:07:50.9061346+00:00",
+      "NumProgressed": 3029,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4167,7 +4172,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4277,9 +4282,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -4311,7 +4316,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4566,13 +4571,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2979,
+      "Progressed": 2980,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3028,
+      "Progressed": 3029,
       "Completed": 2
     }
   ],
@@ -4580,8 +4585,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-19T13:09:16.3523897+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:05:57.5702896+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:07:50.9061338+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:00:34.1659641+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:05:57.5703587+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:02:11.8138879+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:07:50.9062947+00:00"
 }

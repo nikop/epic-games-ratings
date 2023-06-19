@@ -38,7 +38,7 @@ Number of Ratings: 425  (23.09.2022)
 | Dapper Capper | 6.00% | ~1,666 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,766 (Ranked 92)  
-Completed: 1,285 (4.63%) (Ranked 37)  
+Completed: 1,285 (4.63%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

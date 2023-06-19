@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3358,
+  "EOS_Progressed": 3360,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4321,6 +4321,11 @@
       "Time": "2023-06-19T14:05:33.7509784+00:00",
       "NumProgressed": 3358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T15:07:19.0088886+00:00",
+      "NumProgressed": 3360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4348,7 +4353,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "12",
@@ -4388,7 +4393,7 @@
       "Name": "Dense Forest",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "3",
@@ -4404,7 +4409,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "5",
@@ -4451,7 +4456,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3358,
+      "Progressed": 3360,
       "Completed": 0
     }
   ],
@@ -4459,8 +4464,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:05:33.7509779+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:07:19.0088877+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.5815325+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:58:14.3010909+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:05:33.7510062+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:58:47.5551187+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:07:19.0089512+00:00"
 }

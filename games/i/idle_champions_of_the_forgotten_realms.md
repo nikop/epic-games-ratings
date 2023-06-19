@@ -6,41 +6,41 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,888 |
-| The Cursed Farmer | 3.00% | ~2,952 |
-| Beast Intentions | 2.00% | ~1,968 |
-| The Ring of Regeneration | 2.00% | ~1,968 |
-| The Mad Wizard | 2.00% | ~1,968 |
-| Were-verpowered | 1.00% | ~984 |
-| Seeking Allies | 1.00% | ~984 |
-| Are Ya Chicken? | 1.00% | ~984 |
-| Friendly Imps | 1.00% | ~984 |
+| A Brief Tour of the Realms | 7.00% | ~6,893 |
+| The Cursed Farmer | 3.00% | ~2,954 |
+| Beast Intentions | 2.00% | ~1,969 |
+| The Ring of Regeneration | 2.00% | ~1,969 |
+| The Mad Wizard | 2.00% | ~1,969 |
+| Were-verpowered | 1.00% | ~985 |
+| Seeking Allies | 1.00% | ~985 |
+| Are Ya Chicken? | 1.00% | ~985 |
+| Friendly Imps | 1.00% | ~985 |
 | Mad Cow Disease | 0.90% | ~886 |
-| The Court of Storms | 0.90% | ~582 |
-| A Persistent Buzzing | 0.80% | ~787 |
-| Pure Energy | 0.80% | ~787 |
+| The Court of Storms | 0.90% | ~583 |
+| A Persistent Buzzing | 0.80% | ~788 |
+| Pure Energy | 0.80% | ~788 |
 | Terror in the Dark | 0.70% | ~689 |
 | Unearthed Evil | 0.70% | ~689 |
 | The Crumbling Temple | 0.70% | ~689 |
 | Beware the Jabberwock | 0.70% | ~453 |
-| Beast Mode | 0.60% | ~590 |
-| A Mysterious Summons | 0.60% | ~590 |
-| Building Trust | 0.60% | ~590 |
-| Useless Allies | 0.60% | ~590 |
-| Exploring Port Nyanzaru | 0.60% | ~590 |
-| The Contagious Curse | 0.60% | ~590 |
-| Escort to Waterdeep | 0.60% | ~590 |
+| Beast Mode | 0.60% | ~591 |
+| A Mysterious Summons | 0.60% | ~591 |
+| Building Trust | 0.60% | ~591 |
+| Useless Allies | 0.60% | ~591 |
+| Exploring Port Nyanzaru | 0.60% | ~591 |
+| The Contagious Curse | 0.60% | ~591 |
+| Escort to Waterdeep | 0.60% | ~591 |
 | Coasting to the Finish | 0.60% | ~388 |
 | Maddening | 0.50% | ~492 |
-| Checkmate | 0.50% | ~323 |
-| Vecna Out! | 0.50% | ~323 |
+| Checkmate | 0.50% | ~324 |
+| Vecna Out! | 0.50% | ~324 |
 | Low Initiative | 0.50% | ~492 |
 | No Time To Rest | 0.50% | ~492 |
 | Running of the Saurs | 0.50% | ~492 |
 | Waterdeep Detours | 0.50% | ~492 |
 | Underdeep Cartography | 0.50% | ~492 |
 | The Templar's Camp | 0.50% | ~492 |
-| Quick or Quack | 0.50% | ~323 |
+| Quick or Quack | 0.50% | ~324 |
 | The Silken Swamp | 0.40% | ~394 |
 | Supply Run | 0.40% | ~394 |
 | Owlbear Necessities | 0.40% | ~259 |
@@ -111,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.30% | ~295 |
 | The Darkness Runs Deeper | 0.30% | ~295 |
 | Difficult Terrain | 0.30% | ~295 |
-| Vault of Dragons | 0.30% | ~295 |
 | Dinosaur Racing | 0.30% | ~295 |
 | Elturel Has Fallen | 0.30% | ~295 |
 | Resolve Amongst Chaos | 0.30% | ~295 |
@@ -120,7 +119,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.30% | ~194 |
 | Look Out! | 0.30% | ~194 |
 | Bad Odds in Avernus | 0.30% | ~194 |
-| The Lost Hollyphant | 0.30% | ~194 |
 | An Even Worse Time in Avernus | 0.30% | ~194 |
 | The Giant's Bane Tavern | 0.30% | ~194 |
 | The Everlasting Rime | 0.30% | ~194 |
@@ -171,6 +169,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.20% | ~129 |
 | The Dark Heart | 0.20% | ~129 |
 | Don't Look Up! | 0.20% | ~197 |
+| The Cult of Lolth | 0.20% | ~129 |
 | Will of the Feywild | 0.20% | ~129 |
 | All Damage, All The Time | 0.20% | ~129 |
 | Will of the Frozen Feywild | 0.20% | ~129 |
@@ -274,6 +273,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.20% | ~129 |
 | From The Shadows | 0.20% | ~197 |
 | Spined Nuisances | 0.20% | ~197 |
+| Twilight Twist | 0.20% | ~129 |
 | Screams of the Dead | 0.20% | ~197 |
 | Frantic Excavation | 0.20% | ~197 |
 | Guests of the Groom | 0.20% | ~197 |
@@ -306,6 +306,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.20% | ~197 |
 | Madcap Adventures | 0.20% | ~197 |
 | Faerûn's Most Neglected | 0.20% | ~129 |
+| Vault of Dragons | 0.20% | ~197 |
 | Vault of Pixies | 0.20% | ~197 |
 | Vault of Poison | 0.20% | ~197 |
 | Champions of Waterdeep | 0.20% | ~197 |
@@ -344,6 +345,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~129 |
 | The Path of Redcaps | 0.20% | ~129 |
 | The Path of Trials | 0.20% | ~129 |
+| The Lost Hollyphant | 0.20% | ~129 |
 | Alterdeep | 0.20% | ~129 |
 | Elder Rune Attack | 0.20% | ~129 |
 | The Gargoyle | 0.20% | ~129 |
@@ -437,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~65 |
 | The Madness of Zuggtmoy | 0.10% | ~65 |
 | It's So Pretty… | 0.10% | ~65 |
-| The Cult of Lolth | 0.10% | ~65 |
 | Head over Heals | 0.10% | ~65 |
 | The Demon Lords of the Abyss | 0.10% | ~65 |
 | Speed Demons | 0.10% | ~65 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~65 |
 | Red Wizard 'Escort' | 0.10% | ~65 |
 | Spirit of the Trickster Gods | 0.10% | ~65 |
-| Twilight Twist | 0.10% | ~65 |
 | Birds of a Feather | 0.10% | ~65 |
 | Tanking Expectations | 0.10% | ~65 |
 | Servants of the Demon Prince | 0.10% | ~65 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,393 (Ranked 63)  
-Completed: 1,950 (1.98%) (Ranked 73)  
+Progressed: 98,471 (Ranked 63)  
+Completed: 1,968 (2.00%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -560,7 +560,7 @@ Completed: 1,950 (1.98%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,393 | 1,950 |
+| 2023-06-19 | 98,471 | 1,968 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,147 (Ranked 37)  

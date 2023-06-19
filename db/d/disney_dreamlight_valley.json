@@ -6,7 +6,7 @@
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -2250,11 +2250,11 @@
       "Count": 476
     }
   ],
-  "EOS_Progressed": 4215,
-  "EOS_Completed": 105,
-  "EOS_NewPlayers": 4053,
-  "EOS_NewCompleters": 100,
-  "EOS_Completed_Percentage": 2.49,
+  "EOS_Progressed": 4222,
+  "EOS_Completed": 141,
+  "EOS_NewPlayers": 4060,
+  "EOS_NewCompleters": 136,
+  "EOS_Completed_Percentage": 3.34,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -2940,6 +2940,11 @@
       "Time": "2023-06-19T14:04:32.2356848+00:00",
       "NumProgressed": 4215,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-06-19T15:05:50.453615+00:00",
+      "NumProgressed": 4222,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 15,
@@ -2959,7 +2964,7 @@
       "Name": "Banker",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2027
     },
     {
       "ID": "Bestest_Friend",
@@ -2967,7 +2972,7 @@
       "Name": "Bestest Friend",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2364
     },
     {
       "ID": "Chef_Cook",
@@ -2975,7 +2980,7 @@
       "Name": "Chef Cook",
       "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 927
+      "UsersEstimate": 929
     },
     {
       "ID": "Chit_Chatter",
@@ -2983,15 +2988,15 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Constructor",
       "SetID": "chapdi4",
       "Name": "Constructor",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2575
     },
     {
       "ID": "Duty_Bound",
@@ -2999,7 +3004,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Gardener",
@@ -3007,7 +3012,7 @@
       "Name": "Gardener",
       "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1562
     },
     {
       "ID": "Generous",
@@ -3015,7 +3020,7 @@
       "Name": "Generous",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1140
     },
     {
       "ID": "Goofys_Investor",
@@ -3023,7 +3028,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3251
     },
     {
       "ID": "Miner",
@@ -3037,9 +3042,9 @@
       "ID": "Photographer",
       "SetID": "chapdi4",
       "Name": "Photographer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3166
     },
     {
       "ID": "Renovator",
@@ -3047,7 +3052,7 @@
       "Name": "Renovator",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2449
     },
     {
       "ID": "Thorn_Cleaner",
@@ -3063,23 +3068,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 71,
       "XP": 100,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2998
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 4215,
-      "Completed": 105
+      "Progressed": 4222,
+      "Completed": 141
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-06-19T13:58:14.5873961+00:00",
-  "LastChanged_Achievements": "2023-06-19T14:04:32.2356842+00:00",
+  "LastChanged_Achievements": "2023-06-19T15:05:50.4536143+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.1945397+00:00",
-  "LastUpdate_Ratings": "2023-06-19T13:58:14.5873966+00:00",
-  "LastUpdate_Achievements": "2023-06-19T14:04:32.2356984+00:00"
+  "LastUpdate_Ratings": "2023-06-19T14:58:47.9510211+00:00",
+  "LastUpdate_Achievements": "2023-06-19T15:05:50.4536305+00:00"
 }
