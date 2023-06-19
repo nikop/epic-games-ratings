@@ -28,17 +28,17 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.02% |
 | 27 | [Scorn](games/s/scorn.md) | 6.85% |
 | 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
-| 29 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.45% |
-| 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
-| 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
+| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
+| 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
+| 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 6.25% |
 | 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.31% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.76% |
@@ -64,8 +64,8 @@
 | 62 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.46% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.44% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.42% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -143,9 +143,9 @@
 | 138 | [The Surge](games/t/the_surge.md) | 0.32% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
-| 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
-| 145 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
+| 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
+| 144 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 147 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
 | 148 | [Blanc](games/b/blanc.md) | 0.25% |
 | 148 | [Despot's Game](games/d/despot's_game.md) | 0.25% |

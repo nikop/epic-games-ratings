@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,028 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 186,556 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,355 | 4.19 | 843 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 151,168 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 151,529 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,088 | 4.53 | 504 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,479 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 69,539 | 4.62 | 345 |
@@ -86,11 +86,11 @@
 | 84 | [Paladins](games/p/paladins.md) | 3,309 | 4.34 | 739 |
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,260 | 4.59 | 412 |
 | 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,238 | 4.76 | 118 |
-| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,179 | 4.68 | 238 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,182 | 4.68 | 238 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,132 | 4.57 | 442 |
 | 89 | [Hades](games/h/hades.md) | 3,125 | 4.92 | 3 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,790 | 4.67 | 256 |
-| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,516 | 4.61 | 364 |
+| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,517 | 4.61 | 364 |
 | 92 | [Among Us](games/a/among_us.md) | 2,481 | 4.57 | 442 |
 | 93 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.27 | 789 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,457 | 4.50 | 546 |
@@ -162,7 +162,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 697 | 4.50 | 546 |
 | 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 696 | 4.59 | 412 |
 | 162 | [Neverwinter](games/n/neverwinter.md) | 690 | 4.29 | 775 |
-| 163 | [Neon Abyss](games/n/neon_abyss.md) | 669 | 4.68 | 238 |
+| 163 | [Neon Abyss](games/n/neon_abyss.md) | 671 | 4.68 | 238 |
 | 164 | [Subnautica](games/s/subnautica.md) | 668 | 4.85 | 40 |
 | 165 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 652 | 4.67 | 256 |
 | 166 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 645 | 4.79 | 89 |

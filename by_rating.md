@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 261 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,077 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 151,168 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 151,529 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,069 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 497 |
@@ -238,7 +238,7 @@
 | 220 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 497 |
 | 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 791 | 150 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 83 |
-| 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,179 | 87 |
+| 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,182 | 87 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 497 |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 497 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,179 | 47 |
@@ -249,7 +249,7 @@
 | 238 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 497 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 201 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 178 |
-| 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 669 | 163 |
+| 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 671 | 163 |
 | 238 | [Revita](games/r/revita.md) | 4.68 | 0 | 497 |
 | 238 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 177 | 275 |
 | 238 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 460 |
@@ -376,7 +376,7 @@
 | 364 | [GRIME](games/g/grime.md) | 4.61 | 0 | 497 |
 | 364 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,112 | 135 |
 | 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 497 |
-| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,516 | 91 |
+| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,517 | 91 |
 | 364 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 631 | 168 |
 | 364 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 440 | 198 |
 | 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,255 | 37 |
