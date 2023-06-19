@@ -198,7 +198,7 @@
 | 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,536 | 69 |
 | 195 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 367 | 214 |
 | 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,394 | 70 |
-| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 370 | 213 |
+| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 371 | 212 |
 | 195 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 497 |
 | 195 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 497 |
 | 195 | [House Flipper](games/h/house_flipper.md) | 4.70 | 297 | 230 |
@@ -405,22 +405,22 @@
 | 391 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 497 |
 | 391 | [RiME](games/r/rime.md) | 4.60 | 0 | 497 |
 | 391 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 452 | 195 |
+| 391 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 200 | 264 |
 | 391 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 285 | 233 |
 | 391 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.60 | 0 | 497 |
 | 391 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 485 |
 | 391 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 497 |
 | 391 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 355 | 216 |
-| 411 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 0 | 497 |
-| 411 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 407 |
-| 411 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 636 | 167 |
-| 411 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 168 | 283 |
-| 411 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 497 |
-| 411 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
-| 411 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
-| 411 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,260 | 85 |
-| 411 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 200 | 264 |
-| 411 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 161 |
-| 411 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 347 |
+| 412 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 0 | 497 |
+| 412 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 407 |
+| 412 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 636 | 167 |
+| 412 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 168 | 283 |
+| 412 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 497 |
+| 412 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
+| 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
+| 412 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,260 | 85 |
+| 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 161 |
+| 412 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 347 |
 | 422 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.58 | 0 | 497 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 497 |
 | 422 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,022 | 10 |
@@ -475,7 +475,7 @@
 | 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 497 |
 | 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 77 | 356 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 51 | 391 |
-| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,042 | 76 |
+| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,046 | 76 |
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 497 |
 | 477 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 497 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 497 |
@@ -741,7 +741,6 @@
 | 739 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 460 |
 | 739 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 497 |
 | 739 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 497 |
-| 739 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 54 | 389 |
 | 739 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 497 |
 | 739 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.34 | 0 | 497 |
 | 739 | [Paladins](games/p/paladins.md) | 4.34 | 3,309 | 84 |
@@ -749,11 +748,12 @@
 | 739 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,042 | 63 |
 | 739 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 243 | 246 |
 | 739 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 497 |
-| 750 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 313 |
-| 750 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 497 |
-| 750 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 497 |
-| 750 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 497 |
-| 750 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 485 |
+| 749 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 313 |
+| 749 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 54 | 389 |
+| 749 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 497 |
+| 749 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 497 |
+| 749 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 497 |
+| 749 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 485 |
 | 755 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 350 | 217 |
 | 755 | [Filament](games/f/filament.md) | 4.32 | 554 | 180 |
 | 755 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 74 | 359 |
