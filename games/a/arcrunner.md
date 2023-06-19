@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Augmented | 96.00% | ~524 |
 | Terminated I | 82.00% | ~448 |
+| Nanonic I | 79.00% | ~431 |
 | Challenge Accepted | 78.00% | ~426 |
-| Nanonic I | 78.00% | ~426 |
-| Unlocked and Loaded | 74.00% | ~404 |
+| Unlocked and Loaded | 75.00% | ~410 |
 | Terminated II | 65.00% | ~355 |
 | The City | 52.00% | ~284 |
 | Terminated III | 44.00% | ~240 |
@@ -23,7 +23,7 @@
 | Eden Heights | 19.00% | ~104 |
 | Outer Core | 16.00% | ~87 |
 | Up Close And Personal | 16.00% | ~87 |
-| Inner Core | 9.00% | ~49 |
+| Inner Core | 10.00% | ~55 |
 | Trickshot | 7.00% | ~38 |
 | Integration | 6.00% | ~33 |
 | Destruction | 3.00% | ~16 |

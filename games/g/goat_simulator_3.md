@@ -5,18 +5,18 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~207,587 |
-| Private Club | 74.00% | ~168,807 |
+| Forgotten Sorority | 91.00% | ~207,588 |
+| Private Club | 74.00% | ~168,808 |
 | Rogue Guild | 65.00% | ~148,277 |
-| I Watched the Intro | 57.00% | ~130,027 |
+| I Watched the Intro | 57.00% | ~130,028 |
 | Covert Consortium | 55.00% | ~125,465 |
 | Goat Queen | 53.00% | ~120,903 |
-| Reach the Stratosphere | 50.00% | ~114,059 |
-| Synchronization Complete | 47.00% | ~107,215 |
-| Secret Society | 45.00% | ~102,653 |
+| Reach the Stratosphere | 50.00% | ~114,060 |
+| Synchronization Complete | 47.00% | ~107,216 |
+| Secret Society | 45.00% | ~102,654 |
 | Shadow Syndicate | 37.00% | ~84,404 |
 | What a Waste of Money | 33.00% | ~75,279 |
-| New Goat Order | 30.00% | ~68,435 |
+| New Goat Order | 30.00% | ~68,436 |
 | Don't touch the servers | 28.00% | ~63,873 |
 | San Angora: Become Human | 26.00% | ~59,311 |
 | Raider of the Lost Parking Garage | 26.00% | ~59,311 |
@@ -29,8 +29,8 @@ Rating: 4.85 (Ranked 40)
 | Black Market | 14.00% | ~31,937 |
 | 401(K.O.) | 14.00% | ~31,937 |
 | Car Cave | 12.00% | ~27,374 |
-| Club Mohair | 8.00% | ~18,249 |
-| A Center for Ants? | 8.00% | ~18,249 |
+| Club Mohair | 8.00% | ~18,250 |
+| A Center for Ants? | 8.00% | ~18,250 |
 | French Fika | 7.00% | ~15,968 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,125 |
 | Nasty! | 4.00% | ~9,125 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 40)
 | Move! That! Bus! | 0.60% | ~1,369 |
 | G.O.A.T | 0.30% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,118 (Ranked 47)  
+Progressed: 228,119 (Ranked 47)  
 Completed: 742 (0.33%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,11 +105,11 @@ Completed: 742 (0.33%) (Ranked 136)
 | 2023-06-16 | 227,663 | 741 |
 | 2023-06-17 | 227,887 | 741 |
 | 2023-06-18 | 228,095 | 742 |
-| 2023-06-19 | 228,118 | 742 |
+| 2023-06-19 | 228,119 | 742 |
 ## Awards
-Max (Great for Beginners): 343  (Ranked 218)  
+Max (Great for Beginners): 343  (Ranked 219)  
 Sum: 2,866 (Ranked 158)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 343 |

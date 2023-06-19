@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1178,9 +1178,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -1194,9 +1194,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1282,9 +1282,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1315,8 +1315,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:03:21.3572534+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:02:27.1818767+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:00:30.5344121+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:03:21.35728+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:00:01.1524274+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:02:27.1819081+00:00"
 }

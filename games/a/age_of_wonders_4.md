@@ -19,7 +19,7 @@ Rating: 4.58 (Ranked 422)
 | My Final Form | 45.00% | ~2,132 |
 | Intimidation Tactics | 45.00% | ~2,132 |
 | Valley of Wonders | 43.00% | ~2,037 |
-| In a Liege of Your Own | 39.00% | ~1,847 |
+| In a Liege of Your Own | 40.00% | ~1,895 |
 | Return of the Wizard King | 32.00% | ~1,516 |
 | Digging for Treasure | 32.00% | ~1,516 |
 | Against the Odds | 32.00% | ~1,516 |

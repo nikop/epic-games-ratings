@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32362,
+  "EOS_Progressed": 32364,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5573,6 +5573,11 @@
       "Time": "2023-06-19T08:07:04.4847454+00:00",
       "NumProgressed": 32362,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-19T10:06:07.1195268+00:00",
+      "NumProgressed": 32364,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -5600,7 +5605,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "allItems",
@@ -5656,7 +5661,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "firstBunny",
@@ -5664,7 +5669,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "firstItem",
@@ -5672,7 +5677,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25242
+      "UsersEstimate": 25244
     },
     {
       "ID": "roots",
@@ -5695,15 +5700,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32362,
+      "Progressed": 32364,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:06:31.1861131+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:06:07.1195262+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.4402273+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:01:03.175369+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:06:31.1861619+00:00"
+  "LastUpdate_Ratings": "2023-06-19T10:00:39.3440918+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:06:07.1195673+00:00"
 }

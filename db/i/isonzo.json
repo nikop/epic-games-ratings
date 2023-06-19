@@ -640,9 +640,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6277,
+  "EOS_Progressed": 6278,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2890,6 +2890,11 @@
       "Time": "2023-06-19T02:14:31.6483437+00:00",
       "NumProgressed": 6277,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-19T10:03:48.5880852+00:00",
+      "NumProgressed": 6278,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2917,7 +2922,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2965,7 +2970,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -2973,7 +2978,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -2989,7 +2994,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -3149,7 +3154,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3173,7 +3178,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -3253,14 +3258,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6277,
+      "Progressed": 6278,
       "Completed": 8
     }
   ],
@@ -3268,8 +3273,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-16T14:57:38.502335+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:04:18.7908294+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:03:48.5880846+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.499894+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:58:13.1243917+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:04:18.7908813+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:57:35.3875321+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:03:48.5881341+00:00"
 }

@@ -53,7 +53,7 @@
 | Wunderkind | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
 | Wildlife Protection | 0.60% | ~4 |
-| A Lesson in Precision | 0.40% | ~3 |
+| A Lesson in Precision | 0.60% | ~4 |
 | Going to Live Forever | 0.30% | ~2 |
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |

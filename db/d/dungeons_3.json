@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2224,9 +2224,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 20737,
+  "EOS_Progressed": 20738,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -8394,6 +8394,11 @@
       "Time": "2023-06-19T09:05:38.6388549+00:00",
       "NumProgressed": 20737,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-06-19T10:05:08.3606216+00:00",
+      "NumProgressed": 20738,
+      "NumCompleted": 175
     }
   ],
   "TotalAchievements": 60,
@@ -8413,7 +8418,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -8421,7 +8426,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 12027
+      "UsersEstimate": 12028
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -8493,7 +8498,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -8517,7 +8522,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 10368
+      "UsersEstimate": 10369
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -8565,7 +8570,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 8087
+      "UsersEstimate": 8088
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -8605,7 +8610,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -8613,7 +8618,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 9124
+      "UsersEstimate": 9125
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -8621,7 +8626,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -8677,7 +8682,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -8693,7 +8698,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -8805,7 +8810,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 14516
+      "UsersEstimate": 14517
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -8837,7 +8842,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -8853,7 +8858,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 6428
+      "UsersEstimate": 6429
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -8884,15 +8889,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 20737,
+      "Progressed": 20738,
       "Completed": 175
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-18T20:59:25.1212735+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:05:38.6388543+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:05:08.360621+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:49.0512231+00:00",
-  "LastUpdate_Ratings": "2023-06-19T09:00:05.199742+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:05:38.6389506+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:59:28.6294428+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:05:08.3607106+00:00"
 }

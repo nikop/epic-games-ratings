@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,869 |
-| The Cursed Farmer | 3.00% | ~2,944 |
-| Beast Intentions | 2.00% | ~1,962 |
-| The Mad Wizard | 2.00% | ~1,962 |
-| Were-verpowered | 1.00% | ~981 |
-| The Ring of Regeneration | 1.00% | ~981 |
-| Seeking Allies | 1.00% | ~981 |
-| Are Ya Chicken? | 1.00% | ~981 |
-| Friendly Imps | 1.00% | ~981 |
-| Mad Cow Disease | 0.90% | ~883 |
+| A Brief Tour of the Realms | 7.00% | ~6,872 |
+| The Cursed Farmer | 3.00% | ~2,945 |
+| Beast Intentions | 2.00% | ~1,963 |
+| The Mad Wizard | 2.00% | ~1,963 |
+| Were-verpowered | 1.00% | ~982 |
+| The Ring of Regeneration | 1.00% | ~982 |
+| Seeking Allies | 1.00% | ~982 |
+| Are Ya Chicken? | 1.00% | ~982 |
+| Friendly Imps | 1.00% | ~982 |
+| Mad Cow Disease | 0.90% | ~884 |
 | The Court of Storms | 0.90% | ~580 |
 | A Persistent Buzzing | 0.80% | ~785 |
 | Pure Energy | 0.80% | ~785 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.60% | ~589 |
 | The Contagious Curse | 0.60% | ~589 |
 | Escort to Waterdeep | 0.60% | ~589 |
-| Coasting to the Finish | 0.60% | ~386 |
+| Coasting to the Finish | 0.60% | ~387 |
 | Maddening | 0.50% | ~491 |
 | Checkmate | 0.50% | ~322 |
 | Vecna Out! | 0.50% | ~322 |
@@ -40,32 +40,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~491 |
 | Underdeep Cartography | 0.50% | ~491 |
 | Quick or Quack | 0.50% | ~322 |
-| The Silken Swamp | 0.40% | ~392 |
-| Supply Run | 0.40% | ~392 |
+| The Silken Swamp | 0.40% | ~393 |
+| Supply Run | 0.40% | ~393 |
 | Owlbear Necessities | 0.40% | ~258 |
 | Best Thay Ever | 0.40% | ~258 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~258 |
 | Pin and Skewer | 0.40% | ~258 |
-| Street War | 0.40% | ~392 |
-| March of the Undead | 0.40% | ~392 |
-| Invisible Shadows | 0.40% | ~392 |
-| The Dinner Party | 0.40% | ~392 |
-| The Botched Kidnapping | 0.40% | ~392 |
-| Trollskull Manor | 0.40% | ~392 |
-| Attack on the Manor | 0.40% | ~392 |
-| The Death Curse | 0.40% | ~392 |
-| Premature Betrayal | 0.40% | ~392 |
-| A Tale of Two Cities | 0.40% | ~392 |
-| Flying Monkey Skulls of Doom | 0.40% | ~392 |
-| Constant Banditry | 0.40% | ~392 |
-| Overdue Rendezvous | 0.40% | ~392 |
-| The Templar's Camp | 0.40% | ~392 |
-| Rescue in the Jungle | 0.40% | ~392 |
-| Pros and CONs | 0.30% | ~294 |
+| Street War | 0.40% | ~393 |
+| March of the Undead | 0.40% | ~393 |
+| Invisible Shadows | 0.40% | ~393 |
+| The Dinner Party | 0.40% | ~393 |
+| The Botched Kidnapping | 0.40% | ~393 |
+| Trollskull Manor | 0.40% | ~393 |
+| Attack on the Manor | 0.40% | ~393 |
+| The Death Curse | 0.40% | ~393 |
+| Premature Betrayal | 0.40% | ~393 |
+| A Tale of Two Cities | 0.40% | ~393 |
+| Flying Monkey Skulls of Doom | 0.40% | ~393 |
+| Constant Banditry | 0.40% | ~393 |
+| Overdue Rendezvous | 0.40% | ~393 |
+| The Templar's Camp | 0.40% | ~393 |
+| Rescue in the Jungle | 0.40% | ~393 |
+| Pros and CONs | 0.30% | ~295 |
 | Tall Tales | 0.30% | ~193 |
 | Third Third Out | 0.30% | ~193 |
-| Wet Feet | 0.30% | ~294 |
-| Hatchlings Underfoot | 0.30% | ~294 |
+| Wet Feet | 0.30% | ~295 |
+| Hatchlings Underfoot | 0.30% | ~295 |
 | Keep Your Distance | 0.30% | ~193 |
 | Hands Off! | 0.30% | ~193 |
 | The Dread Domain of Tovag | 0.30% | ~193 |
@@ -74,47 +74,47 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~193 |
 | Get Back In The Castle | 0.30% | ~193 |
 | Bully for Vecna | 0.30% | ~193 |
-| Homecoming | 0.30% | ~294 |
-| The Lost Heir of Omu | 0.30% | ~294 |
+| Homecoming | 0.30% | ~295 |
+| The Lost Heir of Omu | 0.30% | ~295 |
 | No One Can Hear You Scream | 0.30% | ~193 |
 | Welcome to the Rock | 0.30% | ~193 |
-| The Forbidden City | 0.30% | ~294 |
-| Captured! | 0.30% | ~294 |
-| Force Grey Unleashed | 0.30% | ~294 |
-| Wisdom Check | 0.30% | ~294 |
-| Sleuth It Out | 0.30% | ~294 |
-| A Grand Puzzle | 0.30% | ~294 |
-| Tomb of the Nine Gods | 0.30% | ~294 |
-| The Mists of Ravenloft | 0.30% | ~294 |
-| Family Entanglements | 0.30% | ~294 |
-| Chatty Nobles | 0.30% | ~294 |
-| Haaave You Met Asmodeus? | 0.30% | ~294 |
-| The Immortal Warrior | 0.30% | ~294 |
-| The Wyrmheart Mine | 0.30% | ~294 |
-| Tower on the Lake | 0.30% | ~294 |
-| Seeds of Deceit | 0.30% | ~294 |
-| Treasure Hunters | 0.30% | ~294 |
-| The Guardian of Orolunga | 0.30% | ~294 |
-| The Lost Love | 0.30% | ~294 |
-| Flies on the Wall | 0.30% | ~294 |
-| Backtracking Through Barovia | 0.30% | ~294 |
-| Nimble Escape | 0.30% | ~294 |
-| Fugitives | 0.30% | ~294 |
-| Excavating History | 0.30% | ~294 |
-| Towering Expectations | 0.30% | ~294 |
-| Hopelessly Lost | 0.30% | ~294 |
-| Cramped Quarters | 0.30% | ~294 |
-| Enter the Sargauth | 0.30% | ~294 |
-| The Dead Three | 0.30% | ~294 |
-| Lair of the Xanathar | 0.30% | ~294 |
-| Waterdeep Under Siege | 0.30% | ~294 |
-| Crowded Streets | 0.30% | ~294 |
-| The Darkness Runs Deeper | 0.30% | ~294 |
-| Difficult Terrain | 0.30% | ~294 |
-| Dinosaur Racing | 0.30% | ~294 |
-| Elturel Has Fallen | 0.30% | ~294 |
-| Resolve Amongst Chaos | 0.30% | ~294 |
-| Market Fluctuations | 0.30% | ~294 |
+| The Forbidden City | 0.30% | ~295 |
+| Captured! | 0.30% | ~295 |
+| Force Grey Unleashed | 0.30% | ~295 |
+| Wisdom Check | 0.30% | ~295 |
+| Sleuth It Out | 0.30% | ~295 |
+| A Grand Puzzle | 0.30% | ~295 |
+| Tomb of the Nine Gods | 0.30% | ~295 |
+| The Mists of Ravenloft | 0.30% | ~295 |
+| Family Entanglements | 0.30% | ~295 |
+| Chatty Nobles | 0.30% | ~295 |
+| Haaave You Met Asmodeus? | 0.30% | ~295 |
+| The Immortal Warrior | 0.30% | ~295 |
+| The Wyrmheart Mine | 0.30% | ~295 |
+| Tower on the Lake | 0.30% | ~295 |
+| Seeds of Deceit | 0.30% | ~295 |
+| Treasure Hunters | 0.30% | ~295 |
+| The Guardian of Orolunga | 0.30% | ~295 |
+| The Lost Love | 0.30% | ~295 |
+| Flies on the Wall | 0.30% | ~295 |
+| Backtracking Through Barovia | 0.30% | ~295 |
+| Nimble Escape | 0.30% | ~295 |
+| Fugitives | 0.30% | ~295 |
+| Excavating History | 0.30% | ~295 |
+| Towering Expectations | 0.30% | ~295 |
+| Hopelessly Lost | 0.30% | ~295 |
+| Cramped Quarters | 0.30% | ~295 |
+| Enter the Sargauth | 0.30% | ~295 |
+| The Dead Three | 0.30% | ~295 |
+| Lair of the Xanathar | 0.30% | ~295 |
+| Waterdeep Under Siege | 0.30% | ~295 |
+| Crowded Streets | 0.30% | ~295 |
+| The Darkness Runs Deeper | 0.30% | ~295 |
+| Difficult Terrain | 0.30% | ~295 |
+| Dinosaur Racing | 0.30% | ~295 |
+| Elturel Has Fallen | 0.30% | ~295 |
+| Resolve Amongst Chaos | 0.30% | ~295 |
+| Market Fluctuations | 0.30% | ~295 |
 | Into The Fire | 0.30% | ~193 |
 | Hearts Aflame | 0.30% | ~193 |
 | Look Out! | 0.30% | ~193 |
@@ -123,16 +123,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~193 |
 | The Giant's Bane Tavern | 0.30% | ~193 |
 | The Everlasting Rime | 0.30% | ~193 |
-| Close Escort | 0.30% | ~294 |
-| The Long Haul | 0.30% | ~294 |
-| Lost in the Deep | 0.30% | ~294 |
-| Easily Distracted | 0.30% | ~294 |
-| Rude Welcome | 0.30% | ~294 |
+| Close Escort | 0.30% | ~295 |
+| The Long Haul | 0.30% | ~295 |
+| Lost in the Deep | 0.30% | ~295 |
+| Easily Distracted | 0.30% | ~295 |
+| Rude Welcome | 0.30% | ~295 |
 | Moose Tracks | 0.30% | ~193 |
-| Durable Deep | 0.30% | ~294 |
+| Durable Deep | 0.30% | ~295 |
 | Witty Riposting | 0.30% | ~193 |
 | How Far Away is Thay | 0.30% | ~193 |
-| The Haunted Jungle | 0.30% | ~294 |
+| The Haunted Jungle | 0.30% | ~295 |
 | Upholding the Law | 0.20% | ~196 |
 | Starving in the Jungle | 0.20% | ~196 |
 | Cold as Ice | 0.20% | ~129 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,123 (Ranked 63)  
+Progressed: 98,168 (Ranked 63)  
 Completed: 1,950 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,20 +560,20 @@ Completed: 1,950 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,123 | 1,950 |
+| 2023-06-19 | 98,168 | 1,950 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
-Sum: 30,141 (Ranked 37)  
+Sum: 30,146 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,949 |
 | This game is Great for Beginners | 4,879 |
 | This game has Quickly Understood Controls | 4,620 |
-| This game is Relaxing | 4,514 |
+| This game is Relaxing | 4,517 |
 | This game has Amazing Characters | 3,963 |
 | This game is Highly Recommended | 3,962 |
-| This game has Playful Visuals | 3,254 |
+| This game has Playful Visuals | 3,256 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -721,4 +721,4 @@ Diff (max vs sum): 27
 | 2023-06-16 | 4.06 | - | 4,946 | 30,126 |
 | 2023-06-17 | 4.06 | - | 4,946 | 30,128 |
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
-| 2023-06-19 | 4.06 | - | 4,949 | 30,141 |
+| 2023-06-19 | 4.06 | - | 4,949 | 30,146 |

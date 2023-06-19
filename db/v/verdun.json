@@ -1476,10 +1476,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-06-19T09:58:34.8421134+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 749,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 748,
+  "NumberOfAwards": 749,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1511,7 +1517,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1568,9 +1574,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 48102,
+  "EOS_Progressed": 48105,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7763,6 +7769,11 @@
       "Time": "2023-06-19T09:06:45.6898255+00:00",
       "NumProgressed": 48102,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-19T10:06:23.0460706+00:00",
+      "NumProgressed": 48105,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -7774,7 +7785,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 26456
+      "UsersEstimate": 26458
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -7894,7 +7905,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -8030,7 +8041,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 15393
+      "UsersEstimate": 15394
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -8038,7 +8049,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19241
+      "UsersEstimate": 19242
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -8062,7 +8073,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 30304
+      "UsersEstimate": 30306
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -8070,7 +8081,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -8086,7 +8097,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -8142,7 +8153,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 37039
+      "UsersEstimate": 37041
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -8190,7 +8201,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6253
+      "UsersEstimate": 6254
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -8238,22 +8249,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 17798
+      "UsersEstimate": 17799
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 48102,
+      "Progressed": 48105,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2023-06-15T15:58:21.7132927+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:06:45.689825+00:00",
+  "LastChanged": "2023-06-19T09:58:34.8421132+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:06:23.0460699+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:02.3847872+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:59:18.819753+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:06:45.6899213+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:58:34.8421138+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:06:23.0461585+00:00"
 }

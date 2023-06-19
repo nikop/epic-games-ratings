@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~37,039 |
-| Worth it | 63.00% | ~30,304 |
-| Eagle Eye | 55.00% | ~26,456 |
-| Corpseman I | 40.00% | ~19,241 |
-| Blast fishing | 37.00% | ~17,798 |
-| Not alone | 32.00% | ~15,393 |
+| Setting an example | 77.00% | ~37,041 |
+| Worth it | 63.00% | ~30,306 |
+| Eagle Eye | 55.00% | ~26,458 |
+| Corpseman I | 40.00% | ~19,242 |
+| Blast fishing | 37.00% | ~17,799 |
+| Not alone | 32.00% | ~15,394 |
 | Headhunter I | 26.00% | ~12,507 |
 | Manual Labour I | 25.00% | ~12,026 |
-| Developers, Developers, Developers | 24.00% | ~11,544 |
-| Basic Training | 24.00% | ~11,544 |
-| Furchtlos und Treu | 13.00% | ~6,253 |
-| Gott Mit Uns | 12.00% | ~5,772 |
+| Developers, Developers, Developers | 24.00% | ~11,545 |
+| Basic Training | 24.00% | ~11,545 |
+| Furchtlos und Treu | 13.00% | ~6,254 |
+| Gott Mit Uns | 12.00% | ~5,773 |
 | This We'll Defend! | 9.00% | ~4,329 |
 | Anker wirf! | 9.00% | ~4,329 |
 | Providentiea Memor | 9.00% | ~4,329 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~48 |
 | Blood Brother | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,102 (Ranked 83)  
+Progressed: 48,105 (Ranked 83)  
 Completed: 4 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 4 (0.01%) (Ranked 214)
 | 2023-06-16 | 47,800 | 4 |
 | 2023-06-17 | 47,940 | 4 |
 | 2023-06-18 | 48,075 | 4 |
-| 2023-06-19 | 48,102 | 4 |
+| 2023-06-19 | 48,105 | 4 |
 ## Awards
 Max (Highly Recommended): 94  (Ranked 337)  
-Sum: 748 (Ranked 259)  
+Sum: 749 (Ranked 259)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 78
 | This game has Quickly Understood Controls | 83 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
-| This game has Competitive Players | 70 |
+| This game has Competitive Players | 71 |
 | This game has Realistic Visuals | 68 |
 | This game has Amazing Characters | 67 |
 | This game has a Competitive Community | 63 |
@@ -259,3 +259,4 @@ Diff (max vs sum): 78
 | 2023-06-12 | 4.53 | - | 93 | 744 |
 | 2023-06-13 | 4.53 | - | 94 | 747 |
 | 2023-06-15 | 4.53 | - | 94 | 748 |
+| 2023-06-19 | 4.53 | - | 94 | 749 |

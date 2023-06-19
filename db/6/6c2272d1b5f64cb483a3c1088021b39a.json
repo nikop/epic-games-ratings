@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-06-19T07:04:20.3870464+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T10:03:52.3551814+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1629,7 +1634,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "elite_deck_2",
@@ -1677,7 +1682,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "glitter_of_gold_2",
@@ -1821,7 +1826,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "punctual_2",
@@ -1869,7 +1874,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "soul_shards_2",
@@ -1964,14 +1969,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:04:22.0716253+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:03:52.3551807+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:57:47.2248392+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:04:22.0716993+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:57:08.2091103+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:03:52.3552492+00:00"
 }

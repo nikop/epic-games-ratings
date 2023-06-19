@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -359,9 +359,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -383,9 +383,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -591,9 +591,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -607,9 +607,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -928,8 +928,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-19T09:06:55.9930574+00:00",
+  "LastChanged_Achievements": "2023-06-19T10:06:34.0416998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:58:15.8792749+00:00",
-  "LastUpdate_Achievements": "2023-06-19T09:06:55.9931317+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:57:38.1668702+00:00",
+  "LastUpdate_Achievements": "2023-06-19T10:06:34.0417741+00:00"
 }

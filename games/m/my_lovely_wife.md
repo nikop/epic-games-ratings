@@ -27,7 +27,7 @@ Number of Ratings: 25  (23.09.2022)
 | Loyal | 28.00% | ~164 |
 | Mandatory Sacrifice | 28.00% | ~164 |
 | The Collector | 24.00% | ~140 |
-| All Doors Open | 19.00% | ~111 |
+| All Doors Open | 20.00% | ~117 |
 | Faithful | 10.00% | ~58 |
 | Asmodeus | 8.00% | ~47 |
 | Luna | 8.00% | ~47 |
