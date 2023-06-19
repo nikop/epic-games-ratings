@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -141,17 +141,17 @@
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
       "SetID": "ak6pfjk",
       "Name": "Tinned Corpse",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -421,9 +421,9 @@
       "ID": "BADGE_FLYING_ENEMY_KILL",
       "SetID": "ak6pfjk",
       "Name": "Air Defense",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "BADGE_FORESTS_CUT",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:03:46.710755+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:04:32.4440836+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:15.484612+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:58:28.7997322+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:03:46.7107978+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:59:21.1086781+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:04:32.4441628+00:00"
 }

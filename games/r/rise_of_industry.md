@@ -5,23 +5,23 @@ Rating: 4.23 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~332,510 |
-| Well educated | 37.00% | ~256,310 |
-| City Planner | 19.00% | ~131,619 |
-| Deforester | 16.00% | ~110,837 |
-| Big Hauling | 15.00% | ~103,910 |
-| Exporter | 13.00% | ~90,055 |
-| I would drive 500 tiles... | 12.00% | ~83,128 |
-| Apprentice Manufacturer | 12.00% | ~83,128 |
-| Landscaper | 11.00% | ~76,200 |
-| Railwayman | 7.00% | ~48,491 |
-| Penniless | 6.00% | ~41,564 |
-| Massive Gains | 6.00% | ~41,564 |
-| Salesman | 3.00% | ~20,782 |
+| Entrepreneur | 48.00% | ~332,523 |
+| Well educated | 37.00% | ~256,320 |
+| City Planner | 19.00% | ~131,624 |
+| Deforester | 16.00% | ~110,841 |
+| Big Hauling | 15.00% | ~103,914 |
+| Exporter | 13.00% | ~90,058 |
+| I would drive 500 tiles... | 12.00% | ~83,131 |
+| Apprentice Manufacturer | 12.00% | ~83,131 |
+| Landscaper | 11.00% | ~76,203 |
+| Railwayman | 7.00% | ~48,493 |
+| Penniless | 6.00% | ~41,565 |
+| Massive Gains | 6.00% | ~41,565 |
+| Salesman | 3.00% | ~20,783 |
 | Engineer | 2.00% | ~13,855 |
 | High Flyer | 2.00% | ~13,855 |
 | Captain | 0.80% | ~5,542 |
-| Billionaire | 0.60% | ~4,156 |
+| Billionaire | 0.60% | ~4,157 |
 | Vroom Vroom | 0.40% | ~2,771 |
 | Excavator | 0.30% | ~2,078 |
 | Loan Ranger | 0.30% | ~2,078 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 817)
 | Master Builder | 0.10% | ~693 |
 | Hard working | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,730 (Ranked 19)  
+Progressed: 692,757 (Ranked 19)  
 Completed: 3 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.00%) (Ranked 227)
 | 2023-06-16 | 690,884 | 3 |
 | 2023-06-17 | 691,670 | 3 |
 | 2023-06-18 | 692,398 | 3 |
-| 2023-06-19 | 692,730 | 3 |
+| 2023-06-19 | 692,757 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2662,10 +2662,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 4221,
       "NumberOfAwardsMax": 648
+    },
+    {
+      "Time": "2023-06-19T16:57:39.6672243+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 4229,
+      "NumberOfAwardsMax": 648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4221,
+  "NumberOfAwards": 4229,
   "NumberOfAwardsMax": 648,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2709,13 +2715,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 509
+      "Count": 513
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 414
+      "Count": 418
     }
   ],
   "EOS_Progressed": 0,
@@ -2730,8 +2736,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-06-19T11:57:32.036135+00:00",
+  "LastChanged": "2023-06-19T16:57:39.6672241+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:05.0420335+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:57:19.1740241+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:02:22.6659954+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:57:39.6672251+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:03:03.2803812+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-06-19T14:03:25.1695924+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T17:03:41.0592711+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -471,7 +476,7 @@
       "Name": "Silver Competitor",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -511,7 +516,7 @@
       "Name": "Facility Online",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -533,9 +538,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -543,7 +548,7 @@
       "Name": "Captain",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -575,15 +580,15 @@
       "Name": "Brothers in Arms",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -631,7 +636,7 @@
       "Name": "On Target",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -645,9 +650,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -661,9 +666,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -710,14 +715,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:03:19.013057+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:03:41.0592704+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:00:06.149706+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:03:19.0130856+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:01:53.7656994+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:03:41.0593238+00:00"
 }

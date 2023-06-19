@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75459,
+  "EOS_Progressed": 75467,
   "EOS_Completed": 360,
   "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 21,
@@ -6678,6 +6678,11 @@
       "Time": "2023-06-19T16:05:31.8771793+00:00",
       "NumProgressed": 75459,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2023-06-19T17:07:15.295268+00:00",
+      "NumProgressed": 75467,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 10,
@@ -6745,7 +6750,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7546
+      "UsersEstimate": 7547
     },
     {
       "ID": "Level00BowlingStrike",
@@ -6753,7 +6758,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 27165
+      "UsersEstimate": 27168
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -6761,22 +6766,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8300
+      "UsersEstimate": 8301
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 75459,
+      "Progressed": 75467,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:31.8771787+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:15.2952672+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.4152225+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:00:06.4043036+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:31.877236+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:01:53.9529106+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:15.2953855+00:00"
 }

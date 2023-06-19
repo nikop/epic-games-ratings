@@ -5,29 +5,29 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,928 |
-| My First Runbow | 50.00% | ~122,574 |
-| It's The Fall | 26.00% | ~63,738 |
-| The Stunner | 21.00% | ~51,481 |
-| Be Aggressive | 20.00% | ~49,030 |
-| Curator | 20.00% | ~49,030 |
-| Crowning Around | 18.00% | ~44,127 |
-| Can You Dig It? | 17.00% | ~41,675 |
-| You Juan-A-Go? | 16.00% | ~39,224 |
-| Chan-tastic | 15.00% | ~36,772 |
-| Muddy Waters | 14.00% | ~34,321 |
-| Toasty! | 13.00% | ~31,869 |
+| In The Zone | 53.00% | ~129,932 |
+| My First Runbow | 50.00% | ~122,577 |
+| It's The Fall | 26.00% | ~63,740 |
+| The Stunner | 21.00% | ~51,482 |
+| Be Aggressive | 20.00% | ~49,031 |
+| Curator | 20.00% | ~49,031 |
+| Crowning Around | 18.00% | ~44,128 |
+| Can You Dig It? | 17.00% | ~41,676 |
+| You Juan-A-Go? | 16.00% | ~39,225 |
+| Chan-tastic | 15.00% | ~36,773 |
+| Muddy Waters | 14.00% | ~34,322 |
+| Toasty! | 13.00% | ~31,870 |
 | Lazy Laser | 8.00% | ~19,612 |
-| Into The Drift | 7.00% | ~17,160 |
-| Ready? Fight! | 7.00% | ~17,160 |
+| Into The Drift | 7.00% | ~17,161 |
+| Ready? Fight! | 7.00% | ~17,161 |
 | Just A Phaze | 6.00% | ~14,709 |
 | Butt Butt | 6.00% | ~14,709 |
-| He Who Laughs Last | 3.00% | ~7,354 |
-| Shoo, Cat! | 3.00% | ~7,354 |
+| He Who Laughs Last | 3.00% | ~7,355 |
+| Shoo, Cat! | 3.00% | ~7,355 |
 | And You're Okay | 2.00% | ~4,903 |
 | Blotbuster | 2.00% | ~4,903 |
 | Thunderstruck | 2.00% | ~4,903 |
-| Just A Bit | 1.00% | ~2,451 |
+| Just A Bit | 1.00% | ~2,452 |
 | Tubular, Dude | 0.90% | ~2,206 |
 | What A Trip | 0.90% | ~2,206 |
 | Please The King | 0.80% | ~1,961 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,148 (Ranked 43)  
+Progressed: 245,154 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 3 (0.00%) (Ranked 227)
 | 2023-06-16 | 244,965 | 3 |
 | 2023-06-17 | 245,051 | 3 |
 | 2023-06-18 | 245,110 | 3 |
-| 2023-06-19 | 245,148 | 3 |
+| 2023-06-19 | 245,154 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

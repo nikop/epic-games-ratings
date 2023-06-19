@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3030,
+  "EOS_Progressed": 3031,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3998,6 +3998,11 @@
       "Time": "2023-06-19T16:05:48.2075264+00:00",
       "NumProgressed": 3030,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T17:07:36.7633644+00:00",
+      "NumProgressed": 3031,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4039,9 +4044,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -4233,7 +4238,7 @@
       "Name": "Resourceful",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4377,7 +4382,7 @@
       "Name": "Taking it back",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4576,13 +4581,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2981,
+      "Progressed": 2982,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3030,
+      "Progressed": 3031,
       "Completed": 2
     }
   ],
@@ -4590,8 +4595,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-19T13:09:16.3523897+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:48.2075254+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:36.7633638+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T16:00:11.6573241+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:48.2077422+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:02:02.2065135+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:36.7635258+00:00"
 }

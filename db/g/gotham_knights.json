@@ -1646,9 +1646,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65640,
+  "EOS_Progressed": 65645,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 920,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6966,6 +6966,11 @@
       "Time": "2023-06-19T16:05:51.8400347+00:00",
       "NumProgressed": 65640,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-19T17:07:41.372678+00:00",
+      "NumProgressed": 65645,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7321,7 +7326,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7361,7 +7366,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MYSTERY_01",
@@ -7464,13 +7469,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65640,
+      "Progressed": 65645,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35920,
+      "Progressed": 35925,
       "Completed": 2646
     }
   ],
@@ -7478,8 +7483,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-19T15:01:08.8879024+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:51.8400341+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:41.3726775+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:59:29.4842912+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:51.8401232+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:00:58.813167+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:41.3728432+00:00"
 }

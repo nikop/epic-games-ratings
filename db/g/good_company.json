@@ -181,7 +181,7 @@
   "Tags": [],
   "EOS_Progressed": 5025,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2040,9 +2040,9 @@
       "ID": "ach_campaign_special7",
       "SetID": "8cb3id7",
       "Name": "Merry-Go-Around: Self-Made",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_campaign_special8",
@@ -2384,8 +2384,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:50.0462406+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:39.0094353+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.7935224+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:58:47.300944+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:50.046319+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:59:50.536872+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:39.0096032+00:00"
 }

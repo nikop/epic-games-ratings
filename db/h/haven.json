@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -978,6 +978,11 @@
       "Time": "2023-06-18T19:05:37.8115189+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-19T17:07:27.2475584+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1013,7 +1018,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "13",
@@ -1109,7 +1114,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "24",
@@ -1197,7 +1202,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "7",
@@ -1213,7 +1218,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "9",
@@ -1221,22 +1226,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:40.7601879+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:27.2475578+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:07.3462167+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:59:17.2167749+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:40.7602137+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:00:39.0112173+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:27.2476109+00:00"
 }

@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 1304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2200,9 +2200,9 @@
       "ID": "achFirstElectricTrainArrived",
       "SetID": "dgl390n",
       "Name": "First electric train arrived",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 626
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2464,8 +2464,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:53.9906945+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:44.0319095+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.7574037+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:59:25.3876468+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:53.9907593+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:00:52.3081662+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:44.0320291+00:00"
 }

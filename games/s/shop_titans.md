@@ -6,28 +6,28 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,000 |
-| Titan's First Steps | 96.00% | ~125,691 |
-| Basic in Bulk | 91.00% | ~119,144 |
-| Tinkle of Coins | 87.00% | ~113,907 |
-| Disintermediation | 76.00% | ~99,505 |
+| Sponsored by Argon | 97.00% | ~127,001 |
+| Titan's First Steps | 96.00% | ~125,692 |
+| Basic in Bulk | 91.00% | ~119,145 |
+| Tinkle of Coins | 87.00% | ~113,908 |
+| Disintermediation | 76.00% | ~99,506 |
 | Capitalism Ho! | 74.00% | ~96,887 |
 | It's Free Real Estate | 70.00% | ~91,650 |
-| Budding Merchant | 66.00% | ~86,412 |
-| Another Satisfied Customer | 61.00% | ~79,866 |
+| Budding Merchant | 66.00% | ~86,413 |
+| Another Satisfied Customer | 61.00% | ~79,867 |
 | One Easy Payment | 60.00% | ~78,557 |
 | Own the Means of Production | 60.00% | ~78,557 |
-| Some Assembly Required | 58.00% | ~75,938 |
-| Pretty Penny | 57.00% | ~74,629 |
+| Some Assembly Required | 58.00% | ~75,939 |
+| Pretty Penny | 57.00% | ~74,630 |
 | One-Armed Bandit | 50.00% | ~65,464 |
 | Through Repetition, Perfection | 46.00% | ~60,227 |
 | The Daily Grind | 45.00% | ~58,918 |
-| Bounty Hunters | 44.00% | ~57,608 |
+| Bounty Hunters | 44.00% | ~57,609 |
 | Where it Hurts | 43.00% | ~56,299 |
 | Dungeon Imports | 42.00% | ~54,990 |
-| Flooding the Market | 41.00% | ~53,680 |
+| Flooding the Market | 41.00% | ~53,681 |
 | Demand for Supplies | 38.00% | ~49,753 |
-| Gild-Gotten Goods | 37.00% | ~48,443 |
+| Gild-Gotten Goods | 37.00% | ~48,444 |
 | Did we pack lunch? | 35.00% | ~45,825 |
 | Arcane Industries | 34.00% | ~44,516 |
 | Accomplished Merchant | 31.00% | ~40,588 |
@@ -37,16 +37,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 28.00% | ~36,660 |
 | Blank Page Syndrome | 27.00% | ~35,351 |
 | Efficient Floor Space | 27.00% | ~35,351 |
-| Vanity, Verily | 26.00% | ~34,041 |
+| Vanity, Verily | 26.00% | ~34,042 |
 | Research & Development | 25.00% | ~32,732 |
 | Power of Love | 24.00% | ~31,423 |
 | Flawless Fusion | 24.00% | ~31,423 |
-| Natural 20 | 23.00% | ~30,113 |
+| Natural 20 | 23.00% | ~30,114 |
 | Fated Encounters | 21.00% | ~27,495 |
 | Royal Ransom | 21.00% | ~27,495 |
 | Magical Harmony | 21.00% | ~27,495 |
 | Tax not Included | 20.00% | ~26,186 |
-| Trash to Treasure | 19.00% | ~24,876 |
+| Trash to Treasure | 19.00% | ~24,877 |
 | For the Hoard! | 18.00% | ~23,567 |
 | Special Ingredient | 17.00% | ~22,258 |
 | A Notch Above the Rest | 15.00% | ~19,639 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.90% | ~1,178 |
 | Marvels from the World Over | 0.90% | ~1,178 |
 | Cash Only Please | 0.80% | ~1,047 |
-| JACKPOT!!! | 0.70% | ~916 |
+| JACKPOT!!! | 0.70% | ~917 |
 | Merchant Extraordinaire | 0.60% | ~786 |
 | To Hell and Back | 0.60% | ~786 |
 | Ultimate Collector | 0.50% | ~655 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,928 (Ranked 58)  
+Progressed: 130,929 (Ranked 58)  
 Completed: 107 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 107 (0.08%) (Ranked 182)
 | 2023-06-16 | 130,736 | 101 |
 | 2023-06-17 | 130,813 | 103 |
 | 2023-06-18 | 130,882 | 105 |
-| 2023-06-19 | 130,928 | 107 |
+| 2023-06-19 | 130,929 | 107 |
 ## Awards
 Max (Great for Beginners): 4,629  (Ranked 68)  
 Sum: 26,781 (Ranked 44)  

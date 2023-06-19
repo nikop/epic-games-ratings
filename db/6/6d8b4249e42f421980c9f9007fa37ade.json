@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "Epic_DesperateSurvival_10",
       "SetID": "ba1m2fc",
       "Name": "Narrow Escape",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_Dominator_1",
@@ -462,9 +462,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -701,8 +701,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:02:13.9988945+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:02:50.6628948+00:00",
   "LastUpdate_AppInfo": "2023-06-15T04:56:59.5891552+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:57:00.7932307+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:02:13.998937+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:57:12.6174294+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:02:50.6629694+00:00"
 }

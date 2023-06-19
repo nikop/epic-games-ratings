@@ -12,10 +12,10 @@
 | The great escape | 83.00% | ~5 |
 | A new dawn | 83.00% | ~5 |
 | Champollion | 67.00% | ~4 |
+| One last step | 67.00% | ~4 |
 | Cable guy | 50.00% | ~3 |
 | True G4M3R | 50.00% | ~3 |
 | The darkness | 50.00% | ~3 |
-| One last step | 50.00% | ~3 |
 | A good beginning | 33.00% | ~2 |
 | Feels like springtime | 33.00% | ~2 |
 | I did it | 17.00% | ~1 |

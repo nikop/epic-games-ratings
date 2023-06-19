@@ -15,7 +15,7 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 58.00% | ~2,267 |
 | Onward | 53.00% | ~2,071 |
 | Home Cooked Meal | 51.00% | ~1,993 |
-| The First Week | 50.00% | ~1,954 |
+| The First Week | 51.00% | ~1,993 |
 | Feast or Famine | 49.00% | ~1,915 |
 | Studious Researcher | 49.00% | ~1,915 |
 | Beam Me Up | 48.00% | ~1,876 |
@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 37.00% | ~1,446 |
 | Luminary Researcher | 35.00% | ~1,368 |
 | Heating Up | 26.00% | ~1,016 |
-| Winter Is Coming | 22.00% | ~860 |
+| Winter Is Coming | 23.00% | ~899 |
 | Winter Is Here | 20.00% | ~782 |
 | Disassembled | 17.00% | ~664 |
 | A Party Now | 17.00% | ~664 |

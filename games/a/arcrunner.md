@@ -23,7 +23,7 @@
 | Eden Heights | 19.00% | ~104 |
 | Outer Core | 16.00% | ~88 |
 | Up Close And Personal | 16.00% | ~88 |
-| Inner Core | 9.00% | ~50 |
+| Inner Core | 10.00% | ~55 |
 | Trickshot | 7.00% | ~39 |
 | Integration | 6.00% | ~33 |
 | Destruction | 3.00% | ~16 |

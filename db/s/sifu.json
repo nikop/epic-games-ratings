@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4716,9 +4716,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709815,
+  "EOS_Progressed": 709820,
   "EOS_Completed": 12778,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10481,6 +10481,11 @@
       "Time": "2023-06-19T16:05:50.3032786+00:00",
       "NumProgressed": 709815,
       "NumCompleted": 12778
+    },
+    {
+      "Time": "2023-06-19T17:07:39.2445222+00:00",
+      "NumProgressed": 709820,
+      "NumCompleted": 12778
     }
   ],
   "TotalAchievements": 50,
@@ -10746,9 +10751,9 @@
       "ID": "33_BladeOneShot",
       "SetID": "adcm20g",
       "Name": "Sword Stained With Blood",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2839
+      "UsersEstimate": 3549
     },
     {
       "ID": "34_TimedTakedown",
@@ -10828,7 +10833,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10891,21 +10896,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19116,
+      "Progressed": 19121,
       "Completed": 10287
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709815,
+      "Progressed": 709820,
       "Completed": 12778
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-19T13:07:50.4120668+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:50.3032779+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:39.2445215+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:58:50.2741117+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:50.3033544+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:59:58.919615+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:39.2446621+00:00"
 }

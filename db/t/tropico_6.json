@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3724,
+  "EOS_Progressed": 3725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2023-06-19T14:03:09.8476812+00:00",
       "NumProgressed": 3724,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T17:03:20.309029+00:00",
+      "NumProgressed": 3725,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4803,7 +4808,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -4811,7 +4816,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4875,7 +4880,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4907,7 +4912,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_MYWAYS",
@@ -5003,7 +5008,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -5034,15 +5039,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3724,
+      "Progressed": 3725,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:02:34.5191864+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:03:20.3090283+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:59:51.2745045+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:02:34.5192411+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:01:32.8305088+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:03:20.3091244+00:00"
 }

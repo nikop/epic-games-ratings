@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55711,
+  "EOS_Progressed": 55714,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5417,6 +5417,11 @@
       "Time": "2023-06-19T16:05:44.4224174+00:00",
       "NumProgressed": 55711,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T17:07:32.116776+00:00",
+      "NumProgressed": 55714,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5436,7 +5441,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11142
+      "UsersEstimate": 11143
     },
     {
       "ID": "03",
@@ -5444,7 +5449,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10585
+      "UsersEstimate": 10586
     },
     {
       "ID": "04",
@@ -5468,7 +5473,7 @@
       "Name": "Park Ranger",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7242
+      "UsersEstimate": 7243
     },
     {
       "ID": "07",
@@ -5508,7 +5513,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "12",
@@ -5524,7 +5529,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "14",
@@ -5564,7 +5569,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "19",
@@ -5588,7 +5593,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "22",
@@ -5652,7 +5657,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "30",
@@ -5668,7 +5673,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7242
+      "UsersEstimate": 7243
     },
     {
       "ID": "32",
@@ -5684,7 +5689,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "34",
@@ -5700,7 +5705,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14485
+      "UsersEstimate": 14486
     },
     {
       "ID": "36",
@@ -5748,7 +5753,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7242
+      "UsersEstimate": 7243
     },
     {
       "ID": "42",
@@ -5788,7 +5793,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "47",
@@ -5828,7 +5833,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "52",
@@ -5963,21 +5968,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55711,
+      "Progressed": 55714,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19179,
+      "Progressed": 19182,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:44.422417+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:07:32.1167754+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:57:40.2807332+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:44.422509+00:00"
+  "LastUpdate_Ratings": "2023-06-19T16:58:08.3439944+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:07:32.1169502+00:00"
 }

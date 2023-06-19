@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 708,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1758,9 +1758,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "TheaterChests1",
@@ -1829,8 +1829,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-19T16:05:18.2928023+00:00",
+  "LastChanged_Achievements": "2023-06-19T17:06:55.8389813+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:59:10.0551812+00:00",
-  "LastUpdate_Achievements": "2023-06-19T16:05:18.2928569+00:00"
+  "LastUpdate_Ratings": "2023-06-19T17:00:28.744237+00:00",
+  "LastUpdate_Achievements": "2023-06-19T17:06:55.8390806+00:00"
 }
