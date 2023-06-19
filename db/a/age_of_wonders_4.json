@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4735,
+  "EOS_Progressed": 4736,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4158,6 +4158,11 @@
       "Time": "2023-06-19T02:15:34.1942846+00:00",
       "NumProgressed": 4735,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T03:05:55.5606646+00:00",
+      "NumProgressed": 4736,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4185,7 +4190,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "12",
@@ -4193,7 +4198,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "13",
@@ -4201,7 +4206,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "14",
@@ -4217,7 +4222,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "16",
@@ -4297,7 +4302,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "25",
@@ -4305,7 +4310,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "26",
@@ -4313,7 +4318,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "27",
@@ -4321,7 +4326,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "28",
@@ -4329,7 +4334,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "29",
@@ -4337,7 +4342,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "3",
@@ -4353,7 +4358,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "31",
@@ -4361,7 +4366,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "32",
@@ -4377,7 +4382,7 @@
       "Name": "Seat of Power",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "34",
@@ -4409,7 +4414,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "38",
@@ -4520,13 +4525,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4735,
-      "Completed": 4735
+      "Progressed": 4736,
+      "Completed": 4736
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4735,
+      "Progressed": 4736,
       "Completed": 3
     }
   ],
@@ -4534,8 +4539,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:15:34.1942839+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:05:55.5606638+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:10:05.5033796+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:15:34.1943475+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:00:37.5200472+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:05:55.5607105+00:00"
 }

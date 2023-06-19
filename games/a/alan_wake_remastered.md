@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,814 |
+| Follow the Light | 32.00% | ~17,815 |
 | Let There Be Light | 26.00% | ~14,474 |
-| Float Like a Butterfly | 25.00% | ~13,917 |
+| Float Like a Butterfly | 25.00% | ~13,918 |
 | Nordic Walking | 19.00% | ~10,577 |
 | Bright Falls' Finest | 19.00% | ~10,577 |
 | Under a Thin Layer of Skin | 17.00% | ~9,464 |
@@ -16,10 +16,10 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 13.00% | ~7,237 |
 | Back! Back, I Say! | 13.00% | ~7,237 |
 | Finders Keepers | 13.00% | ~7,237 |
-| They're Heeeeeere! | 11.00% | ~6,123 |
-| Sound and Fury | 11.00% | ~6,123 |
-| Missed by a Mile | 11.00% | ~6,123 |
-| Damn Good Cup of Coffee | 11.00% | ~6,123 |
+| They're Heeeeeere! | 11.00% | ~6,124 |
+| Sound and Fury | 11.00% | ~6,124 |
+| Missed by a Mile | 11.00% | ~6,124 |
+| Damn Good Cup of Coffee | 11.00% | ~6,124 |
 | Iron Horse | 10.00% | ~5,567 |
 | Wheels Within Wheels | 10.00% | ~5,567 |
 | The Six-Gun Scribe | 10.00% | ~5,567 |
@@ -27,18 +27,18 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 9.00% | ~5,010 |
 | Perchance to Dream | 9.00% | ~5,010 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,010 |
+| Thunder and Lightning | 9.00% | ~5,010 |
 | Collateral Carnage | 9.00% | ~5,010 |
-| Gatekeeper | 8.00% | ~4,453 |
-| The Lady of the Light | 8.00% | ~4,453 |
-| Thunder and Lightning | 8.00% | ~4,453 |
-| Two For the Price of One | 8.00% | ~4,453 |
-| Energized! | 8.00% | ~4,453 |
+| Gatekeeper | 8.00% | ~4,454 |
+| The Lady of the Light | 8.00% | ~4,454 |
+| Two For the Price of One | 8.00% | ~4,454 |
+| Energized! | 8.00% | ~4,454 |
 | A Friend in Need | 8.00% | ~1,531 |
 | What Light Through Yonder Window | 7.00% | ~3,897 |
 | Right of Way | 7.00% | ~3,897 |
 | Tornado Wrangler | 6.00% | ~3,340 |
 | A Friend Indeed | 6.00% | ~1,148 |
-| Departure | 5.00% | ~2,783 |
+| Departure | 5.00% | ~2,784 |
 | Ding! | 5.00% | ~957 |
 | Children of the Elder God | 4.00% | ~2,227 |
 | Drink 'Em Both Up | 4.00% | ~2,227 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,668 (Ranked 78)  
+Progressed: 55,671 (Ranked 78)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-16 | 55,360 | 55 |
 | 2023-06-17 | 55,510 | 55 |
 | 2023-06-18 | 55,644 | 56 |
-| 2023-06-19 | 55,668 | 56 |
+| 2023-06-19 | 55,671 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

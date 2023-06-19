@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 143,
@@ -332,7 +332,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3020,
+  "EOS_Progressed": 3021,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
@@ -3952,6 +3952,11 @@
       "Time": "2023-06-19T02:16:48.6364232+00:00",
       "NumProgressed": 3020,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T03:07:26.4250495+00:00",
+      "NumProgressed": 3021,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4027,7 +4032,7 @@
       "Name": "Organ Grinder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4043,7 +4048,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4171,7 +4176,7 @@
       "Name": "Lord of War",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4203,7 +4208,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4211,7 +4216,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4299,7 +4304,7 @@
       "Name": "Change the Channel",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4530,13 +4535,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2971,
+      "Progressed": 2972,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3020,
+      "Progressed": 3021,
       "Completed": 2
     }
   ],
@@ -4544,8 +4549,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:16:48.6364227+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:07:26.425049+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:11:02.380666+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:16:48.6365138+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:01:50.9334429+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:07:26.4251167+00:00"
 }

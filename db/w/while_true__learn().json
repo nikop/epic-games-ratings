@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -484,10 +484,10 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 593018,
-  "EOS_Completed": 492,
-  "EOS_NewPlayers": 873,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 593019,
+  "EOS_Completed": 493,
+  "EOS_NewPlayers": 870,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
@@ -6689,6 +6689,11 @@
       "Time": "2023-06-19T02:16:37.6186321+00:00",
       "NumProgressed": 593018,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-06-19T03:07:13.3945478+00:00",
+      "NumProgressed": 593019,
+      "NumCompleted": 493
     }
   ],
   "TotalAchievements": 28,
@@ -6828,7 +6833,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 551507
+      "UsersEstimate": 551508
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -6836,7 +6841,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142324
+      "UsersEstimate": 142325
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -6860,7 +6865,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 391392
+      "UsersEstimate": 391393
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -6884,7 +6889,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47441
+      "UsersEstimate": 47442
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -6923,15 +6928,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 593018,
-      "Completed": 492
+      "Progressed": 593019,
+      "Completed": 493
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-06-10T03:58:36.0147725+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:16:37.6186314+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:07:13.3945473+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.3517847+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:09:36.8901988+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:16:37.6186941+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:00:04.7914473+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:07:13.394593+00:00"
 }

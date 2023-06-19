@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55668,
+  "EOS_Progressed": 55671,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5352,6 +5352,11 @@
       "Time": "2023-06-19T02:16:45.7990917+00:00",
       "NumProgressed": 55668,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T03:07:22.9551639+00:00",
+      "NumProgressed": 55671,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5363,7 +5368,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17814
+      "UsersEstimate": 17815
     },
     {
       "ID": "02",
@@ -5467,7 +5472,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "15",
@@ -5475,7 +5480,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "16",
@@ -5491,7 +5496,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "18",
@@ -5523,7 +5528,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "22",
@@ -5561,9 +5566,9 @@
       "ID": "26",
       "SetID": "212770e",
       "Name": "Thunder and Lightning",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 5010
     },
     {
       "ID": "27",
@@ -5587,7 +5592,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "30",
@@ -5595,7 +5600,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "31",
@@ -5611,7 +5616,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13917
+      "UsersEstimate": 13918
     },
     {
       "ID": "33",
@@ -5619,7 +5624,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "34",
@@ -5627,7 +5632,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "35",
@@ -5723,7 +5728,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "47",
@@ -5898,21 +5903,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55668,
+      "Progressed": 55671,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19136,
+      "Progressed": 19139,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:16:45.7990909+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:07:22.9551635+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:08:28.6748269+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:16:45.7991908+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:58:35.181692+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:07:22.9552333+00:00"
 }

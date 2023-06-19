@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,773 |
-| Into the Unknown | 10.00% | ~57,975 |
-| First Shot | 10.00% | ~57,975 |
-| Herzlich Wilkommen! | 9.00% | ~52,178 |
-| Good Night & Good Luck | 9.00% | ~52,178 |
-| Sancho Panza | 8.00% | ~46,380 |
+| You Never Forget Your First... | 11.00% | ~63,774 |
+| Into the Unknown | 10.00% | ~57,976 |
+| First Shot | 10.00% | ~57,976 |
+| Herzlich Wilkommen! | 9.00% | ~52,179 |
+| Good Night & Good Luck | 9.00% | ~52,179 |
+| Sancho Panza | 8.00% | ~46,381 |
 | Under Pressure | 7.00% | ~40,583 |
 | Flag Burning | 7.00% | ~40,583 |
 | Oh, So This Is How It Works! | 7.00% | ~40,583 |
 | Night Hunter | 7.00% | ~40,583 |
-| On the Trail of the Enemy | 6.00% | ~34,785 |
-| Light in the Darkness | 6.00% | ~34,785 |
-| Get Outta My House! | 6.00% | ~34,785 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,785 |
-| Being All Social | 6.00% | ~34,785 |
+| On the Trail of the Enemy | 6.00% | ~34,786 |
+| Light in the Darkness | 6.00% | ~34,786 |
+| Get Outta My House! | 6.00% | ~34,786 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,786 |
+| Being All Social | 6.00% | ~34,786 |
 | We Will Be Heard! | 5.00% | ~28,988 |
 | After the Fall | 5.00% | ~28,988 |
 | Can't Touch This! | 5.00% | ~28,988 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~225 |
 | Connoisseur | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579,754 (Ranked 25)  
+Progressed: 579,762 (Ranked 25)  
 Completed: 50 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 50 (0.01%) (Ranked 214)
 | 2023-06-16 | 578,367 | 51 |
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
-| 2023-06-19 | 579,754 | 50 |
+| 2023-06-19 | 579,762 | 50 |
 ## Awards
 Max (Character Customization): 7,856  (Ranked 40)  
 Sum: 18,212 (Ranked 56)  

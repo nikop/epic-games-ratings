@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,849 |
-| The Cursed Farmer | 3.00% | ~2,935 |
-| Beast Intentions | 2.00% | ~1,957 |
-| The Mad Wizard | 2.00% | ~1,957 |
-| Were-verpowered | 1.00% | ~978 |
-| The Ring of Regeneration | 1.00% | ~978 |
-| Seeking Allies | 1.00% | ~978 |
-| Are Ya Chicken? | 1.00% | ~978 |
+| A Brief Tour of the Realms | 7.00% | ~6,852 |
+| The Cursed Farmer | 3.00% | ~2,936 |
+| Beast Intentions | 2.00% | ~1,958 |
+| The Mad Wizard | 2.00% | ~1,958 |
+| Were-verpowered | 1.00% | ~979 |
+| The Ring of Regeneration | 1.00% | ~979 |
+| Seeking Allies | 1.00% | ~979 |
+| Are Ya Chicken? | 1.00% | ~979 |
 | Mad Cow Disease | 0.90% | ~881 |
 | Friendly Imps | 0.90% | ~881 |
 | The Court of Storms | 0.90% | ~577 |
@@ -39,27 +39,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~489 |
 | Underdeep Cartography | 0.50% | ~489 |
 | Quick or Quack | 0.50% | ~321 |
-| The Silken Swamp | 0.40% | ~391 |
-| Supply Run | 0.40% | ~391 |
-| Owlbear Necessities | 0.40% | ~256 |
-| Best Thay Ever | 0.40% | ~256 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~256 |
-| Pin and Skewer | 0.40% | ~256 |
-| Street War | 0.40% | ~391 |
-| March of the Undead | 0.40% | ~391 |
-| No Time To Rest | 0.40% | ~391 |
-| Invisible Shadows | 0.40% | ~391 |
-| The Dinner Party | 0.40% | ~391 |
-| The Botched Kidnapping | 0.40% | ~391 |
-| Trollskull Manor | 0.40% | ~391 |
-| The Death Curse | 0.40% | ~391 |
-| Premature Betrayal | 0.40% | ~391 |
-| A Tale of Two Cities | 0.40% | ~391 |
-| Flying Monkey Skulls of Doom | 0.40% | ~391 |
-| Constant Banditry | 0.40% | ~391 |
-| Overdue Rendezvous | 0.40% | ~391 |
-| The Templar's Camp | 0.40% | ~391 |
-| Rescue in the Jungle | 0.40% | ~391 |
+| The Silken Swamp | 0.40% | ~392 |
+| Supply Run | 0.40% | ~392 |
+| Owlbear Necessities | 0.40% | ~257 |
+| Best Thay Ever | 0.40% | ~257 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~257 |
+| Pin and Skewer | 0.40% | ~257 |
+| Street War | 0.40% | ~392 |
+| March of the Undead | 0.40% | ~392 |
+| No Time To Rest | 0.40% | ~392 |
+| Invisible Shadows | 0.40% | ~392 |
+| The Dinner Party | 0.40% | ~392 |
+| The Botched Kidnapping | 0.40% | ~392 |
+| Trollskull Manor | 0.40% | ~392 |
+| The Death Curse | 0.40% | ~392 |
+| Premature Betrayal | 0.40% | ~392 |
+| A Tale of Two Cities | 0.40% | ~392 |
+| Flying Monkey Skulls of Doom | 0.40% | ~392 |
+| Constant Banditry | 0.40% | ~392 |
+| Overdue Rendezvous | 0.40% | ~392 |
+| The Templar's Camp | 0.40% | ~392 |
+| Rescue in the Jungle | 0.40% | ~392 |
 | Pros and CONs | 0.30% | ~294 |
 | Tall Tales | 0.30% | ~192 |
 | Third Third Out | 0.30% | ~192 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,836 (Ranked 63)  
+Progressed: 97,881 (Ranked 63)  
 Completed: 1,948 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,14 +560,14 @@ Completed: 1,948 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 97,836 | 1,948 |
+| 2023-06-19 | 97,881 | 1,948 |
 ## Awards
-Max (Diverse Characters): 4,948  (Ranked 64)  
-Sum: 30,140 (Ranked 37)  
+Max (Diverse Characters): 4,949  (Ranked 64)  
+Sum: 30,141 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,948 |
+| This game has Diverse Characters | 4,949 |
 | This game is Great for Beginners | 4,879 |
 | This game has Quickly Understood Controls | 4,620 |
 | This game is Relaxing | 4,514 |
@@ -721,3 +721,4 @@ Diff (max vs sum): 27
 | 2023-06-16 | 4.06 | - | 4,946 | 30,126 |
 | 2023-06-17 | 4.06 | - | 4,946 | 30,128 |
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
+| 2023-06-19 | 4.06 | - | 4,949 | 30,141 |

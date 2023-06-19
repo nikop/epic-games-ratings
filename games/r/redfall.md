@@ -53,12 +53,12 @@ Rating: 3.48 (Ranked 945)
 | Bloody Initiate | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
+| Sisterhood | 0.80% | ~14 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~14 |
 | So Anyway I Started Blasting | 0.80% | ~14 |
-| Sisterhood | 0.70% | ~12 |
 | What Lies Below | 0.70% | ~12 |
+| Good Samaritan | 0.50% | ~8 |
 | Someplace to Be | 0.40% | ~7 |
-| Good Samaritan | 0.40% | ~7 |
 | A Cry in the Dark | 0.20% | ~3 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |

@@ -700,7 +700,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2459,
+  "EOS_Progressed": 2460,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2730,6 +2730,11 @@
       "Time": "2023-06-18T11:07:39.4506324+00:00",
       "NumProgressed": 2459,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T03:07:18.7843803+00:00",
+      "NumProgressed": 2460,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2845,7 +2850,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3045,7 +3050,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3107,9 +3112,9 @@
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
       "SetID": "72olkc5",
       "Name": "Welcome to the family",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 467
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3117,22 +3122,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2459,
+      "Progressed": 2460,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-17T00:00:13.6383166+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:16:42.1728645+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:07:18.7843795+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.1070332+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:09:40.8368679+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:16:42.1729183+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:00:10.2680624+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:07:18.7844208+00:00"
 }

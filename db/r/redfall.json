@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2212,9 +2212,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_038",
@@ -2404,9 +2404,9 @@
       "ID": "Achievement_064",
       "SetID": "6b34g18",
       "Name": "Good Samaritan",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_065",
@@ -2469,8 +2469,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-18T21:58:29.0169533+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:14:14.7184586+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:04:18.3133146+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:08:36.3455651+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:14:14.7185432+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:58:45.2132936+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:04:18.3133788+00:00"
 }

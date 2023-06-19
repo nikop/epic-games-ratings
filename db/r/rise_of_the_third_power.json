@@ -145,9 +145,9 @@
       "ID": "EmpyreanChampion",
       "SetID": "4nce15l",
       "Name": "Empyrean Champion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 130,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Expert",
@@ -265,9 +265,9 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-19T02:16:32.0962725+00:00",
+  "LastChanged_Achievements": "2023-06-19T03:07:06.5248584+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.2117335+00:00",
-  "LastUpdate_Ratings": "2023-06-19T02:09:37.5244679+00:00",
-  "LastUpdate_Achievements": "2023-06-19T02:16:32.0962889+00:00"
+  "LastUpdate_Ratings": "2023-06-19T03:00:05.6705222+00:00",
+  "LastUpdate_Achievements": "2023-06-19T03:07:06.5248691+00:00"
 }
