@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 107)
 | Savvy Spender | 0.90% | ~2,526 |
 | Merlin's Beard! | 0.70% | ~1,965 |
 | Spilled Milk | 0.60% | ~1,684 |
-| The Nature of the Beast | 0.50% | ~1,403 |
+| The Nature of the Beast | 0.50% | ~1,404 |
 | Collector's Edition | 0.20% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,697 (Ranked 41)  
+Progressed: 280,704 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-16 | 280,293 | 408 |
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
-| 2023-06-19 | 280,697 | 408 |
+| 2023-06-19 | 280,704 | 408 |
 ## Awards
 Max (Character Customization): 20,171  (Ranked 18)  
 Sum: 37,392 (Ranked 31)  

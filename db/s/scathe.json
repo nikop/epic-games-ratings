@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -253,6 +253,11 @@
       "Time": "2023-06-19T15:02:29.8955773+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T16:00:24.6467123+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -302,9 +307,9 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_FEAR_NOTHING",
@@ -318,9 +323,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -334,9 +339,9 @@
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
       "SetID": "2ff85j2",
       "Name": "Half a Life",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -503,7 +508,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
@@ -511,8 +516,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:02:29.8955765+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:00:24.6467117+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:17.1688317+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:58:07.0802917+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:02:29.8956172+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:57:31.0154237+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:00:24.6467375+00:00"
 }

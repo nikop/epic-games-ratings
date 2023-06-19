@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1441,6 +1441,11 @@
       "Time": "2023-06-19T13:12:34.8661344+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T16:03:36.2674433+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1450,9 +1455,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 148
     },
     {
       "ID": "adventurous_2",
@@ -1570,9 +1575,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 51
     },
     {
       "ID": "conqueror_2",
@@ -1618,17 +1623,17 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 267
     },
     {
       "ID": "elemental_stones_2",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 2",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "elemental_stones_3",
@@ -1860,7 +1865,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1979,14 +1984,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:04:35.312438+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:03:36.2674425+00:00",
   "LastUpdate_AppInfo": "2023-06-12T21:57:05.0511787+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:57:17.0550957+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:04:35.312524+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:57:01.822509+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:03:36.2675113+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,748 |
-| Realm Estate | 76.00% | ~3,605 |
-| Secret Technique | 75.00% | ~3,558 |
+| A Wonderful Discovery | 79.00% | ~3,749 |
+| Realm Estate | 76.00% | ~3,606 |
+| Secret Technique | 75.00% | ~3,559 |
 | Walls Cannot Stop Us | 74.00% | ~3,511 |
-| From Friends to Family | 69.00% | ~3,273 |
-| Magical Synergy | 66.00% | ~3,131 |
+| From Friends to Family | 69.00% | ~3,274 |
+| Magical Synergy | 66.00% | ~3,132 |
 | Bone Peddler | 61.00% | ~2,894 |
-| Stronger Together | 57.00% | ~2,704 |
+| Stronger Together | 57.00% | ~2,705 |
 | Full Ascension | 56.00% | ~2,657 |
 | There Can Only Be One! | 49.00% | ~2,325 |
 | Seat of Power | 49.00% | ~2,325 |
@@ -24,11 +24,11 @@ Rating: 4.58 (Ranked 422)
 | Digging for Treasure | 32.00% | ~1,518 |
 | Against the Odds | 32.00% | ~1,518 |
 | Enchanted Archipelago | 29.00% | ~1,376 |
-| Impenetrable Fortress | 28.00% | ~1,328 |
+| Impenetrable Fortress | 28.00% | ~1,329 |
 | The Magic That Empowers Me! | 21.00% | ~996 |
 | Preparation Is Everything | 21.00% | ~996 |
 | Arch Mage | 20.00% | ~949 |
-| God Emperor | 19.00% | ~901 |
+| God Emperor | 19.00% | ~902 |
 | Eternal Lord | 18.00% | ~854 |
 | Crimson Caldera | 18.00% | ~854 |
 | Fiery Friend | 16.00% | ~759 |
@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 422)
 | Returning Circle | 0.40% | ~19 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,744 (Ranked 131)  
+Progressed: 4,745 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-16 | 4,695 | 3 |
 | 2023-06-17 | 4,712 | 3 |
 | 2023-06-18 | 4,734 | 3 |
-| 2023-06-19 | 4,744 | 3 |
+| 2023-06-19 | 4,745 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

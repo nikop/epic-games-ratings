@@ -4,8 +4,8 @@
   "ProductSlug": "chains-8ac580",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-18T16:00:00+00:00",
     "PcReleaseDate": "2008-11-25T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.9949935+00:00",
   "LastChanged": "2023-03-31T05:58:35.9949937+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:12.9647262+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:59:27.14247+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:05:12.7199455+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:58:25.2823021+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:03:58.9580758+00:00"
 }

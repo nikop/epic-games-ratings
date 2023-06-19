@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,187 |
-| Powergamer | 27.00% | ~62,859 |
-| Barely scratched the surface | 25.00% | ~58,203 |
-| Write that down | 24.00% | ~55,875 |
-| Guns, lots of guns | 12.00% | ~27,937 |
-| Collector | 11.00% | ~25,609 |
+| I will finish what you started | 28.00% | ~65,188 |
+| Powergamer | 27.00% | ~62,860 |
+| Barely scratched the surface | 25.00% | ~58,204 |
+| Write that down | 24.00% | ~55,876 |
+| Guns, lots of guns | 12.00% | ~27,938 |
+| Collector | 11.00% | ~25,610 |
 | Elementary! | 9.00% | ~20,953 |
 | Pumpkin Jack | 8.00% | ~18,625 |
 | Wake up! | 8.00% | ~18,625 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Good listener | 5.00% | ~11,641 |
 | Trash compactor | 5.00% | ~11,641 |
 | Valedictorian | 5.00% | ~11,641 |
-| BOY! | 4.00% | ~9,312 |
-| Ka-ching! | 4.00% | ~9,312 |
-| So you like to read? | 4.00% | ~9,312 |
+| BOY! | 4.00% | ~9,313 |
+| Ka-ching! | 4.00% | ~9,313 |
+| So you like to read? | 4.00% | ~9,313 |
 | I like to sniff around | 3.00% | ~6,984 |
 | Mind reader | 3.00% | ~6,984 |
 | Gentleman's classic | 2.00% | ~4,656 |
@@ -43,8 +43,8 @@ Number of Ratings: 33  (23.09.2022)
 | Take the blue pill | 1.00% | ~2,328 |
 | A true blacksmith | 0.90% | ~2,095 |
 | The power of three | 0.90% | ~2,095 |
-| Let's try another | 0.80% | ~1,862 |
-| Home run | 0.80% | ~1,862 |
+| Let's try another | 0.80% | ~1,863 |
+| Home run | 0.80% | ~1,863 |
 | I have the high ground | 0.70% | ~1,630 |
 | It's blue, always blue | 0.70% | ~1,630 |
 | Who wouldn't love a troll? | 0.50% | ~1,164 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~466 |
 | Memory 5 | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,811 (Ranked 44)  
+Progressed: 232,816 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 6 (0.00%) (Ranked 227)
 | 2023-06-16 | 232,219 | 6 |
 | 2023-06-17 | 232,466 | 6 |
 | 2023-06-18 | 232,705 | 6 |
-| 2023-06-19 | 232,811 | 6 |
+| 2023-06-19 | 232,816 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 421)  

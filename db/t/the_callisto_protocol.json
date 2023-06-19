@@ -4,10 +4,10 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 850,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -680,9 +680,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15454,
+  "EOS_Progressed": 15457,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4335,6 +4335,11 @@
       "Time": "2023-06-19T14:04:23.7879254+00:00",
       "NumProgressed": 15454,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T16:04:16.5305708+00:00",
+      "NumProgressed": 15457,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4362,7 +4367,7 @@
       "Name": "Giving Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4456,9 +4461,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 464
     },
     {
       "ID": "KILL_2HEAD",
@@ -4490,7 +4495,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4538,7 +4543,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4546,7 +4551,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "STORY_HABITAT",
@@ -4554,7 +4559,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "STORY_HANGAR",
@@ -4665,13 +4670,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15454,
+      "Progressed": 15457,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3380,
+      "Progressed": 3383,
       "Completed": 29
     }
   ],
@@ -4679,8 +4684,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-19T02:08:39.4831137+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:05:37.6584002+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:04:16.5305702+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:58:35.17849+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:05:37.6584892+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:57:51.9068245+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:04:16.530631+00:00"
 }

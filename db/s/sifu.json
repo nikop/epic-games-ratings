@@ -4716,9 +4716,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709812,
+  "EOS_Progressed": 709815,
   "EOS_Completed": 12778,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10476,6 +10476,11 @@
       "Time": "2023-06-19T15:07:53.7094986+00:00",
       "NumProgressed": 709812,
       "NumCompleted": 12778
+    },
+    {
+      "Time": "2023-06-19T16:05:50.3032786+00:00",
+      "NumProgressed": 709815,
+      "NumCompleted": 12778
     }
   ],
   "TotalAchievements": 50,
@@ -10647,7 +10652,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -10679,7 +10684,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "26_ShrineSpirit",
@@ -10719,7 +10724,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "31_ComboHigh",
@@ -10886,21 +10891,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19113,
+      "Progressed": 19116,
       "Completed": 10287
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709812,
+      "Progressed": 709815,
       "Completed": 12778
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-19T13:07:50.4120668+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:07:53.7094979+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:05:50.3032779+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:00:09.1414761+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:07:53.7095786+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:58:50.2741117+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:05:50.3033544+00:00"
 }

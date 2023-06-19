@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4744,
+  "EOS_Progressed": 4745,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
@@ -4188,6 +4188,11 @@
       "Time": "2023-06-19T15:06:04.8602183+00:00",
       "NumProgressed": 4744,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T16:04:34.931364+00:00",
+      "NumProgressed": 4745,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4255,7 +4260,7 @@
       "Name": "God Emperor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "17",
@@ -4311,7 +4316,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "23",
@@ -4319,7 +4324,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3749
     },
     {
       "ID": "24",
@@ -4327,7 +4332,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3559
     },
     {
       "ID": "25",
@@ -4359,7 +4364,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "29",
@@ -4367,7 +4372,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "3",
@@ -4391,7 +4396,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "32",
@@ -4455,7 +4460,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "4",
@@ -4550,13 +4555,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4744,
-      "Completed": 4744
+      "Progressed": 4745,
+      "Completed": 4745
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4744,
+      "Progressed": 4745,
       "Completed": 3
     }
   ],
@@ -4564,8 +4569,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:06:04.8602176+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:04:34.9313631+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:00:44.6237408+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:06:04.8602874+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:59:13.7928453+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:04:34.9314231+00:00"
 }

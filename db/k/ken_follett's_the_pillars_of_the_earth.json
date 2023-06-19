@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13362,
+  "EOS_Progressed": 13364,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-06-19T15:07:27.2134868+00:00",
       "NumProgressed": 13362,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-19T16:05:30.612451+00:00",
+      "NumProgressed": 13364,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4515,7 +4520,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4544
     },
     {
       "ID": "tpote_achievement_15",
@@ -4563,7 +4568,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4544
     },
     {
       "ID": "tpote_achievement_20",
@@ -4579,7 +4584,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "tpote_achievement_22",
@@ -4587,7 +4592,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "tpote_achievement_23",
@@ -4611,7 +4616,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "tpote_achievement_26",
@@ -4651,7 +4656,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "tpote_achievement_30",
@@ -4667,7 +4672,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "tpote_achievement_32",
@@ -4675,7 +4680,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "tpote_achievement_33",
@@ -4699,7 +4704,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "tpote_achievement_36",
@@ -4723,7 +4728,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "tpote_achievement_39",
@@ -4739,7 +4744,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "tpote_achievement_40",
@@ -4763,7 +4768,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "tpote_achievement_6",
@@ -4802,15 +4807,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13362,
+      "Progressed": 13364,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:07:27.2134842+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:05:30.6124504+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:01:30.5925401+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:07:27.2135849+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:59:43.765867+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:05:30.6125063+00:00"
 }

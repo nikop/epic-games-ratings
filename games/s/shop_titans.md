@@ -6,46 +6,46 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,999 |
-| Titan's First Steps | 96.00% | ~125,690 |
+| Sponsored by Argon | 97.00% | ~127,000 |
+| Titan's First Steps | 96.00% | ~125,691 |
 | Basic in Bulk | 91.00% | ~119,144 |
-| Tinkle of Coins | 87.00% | ~113,906 |
+| Tinkle of Coins | 87.00% | ~113,907 |
 | Disintermediation | 76.00% | ~99,505 |
-| Capitalism Ho! | 74.00% | ~96,886 |
-| It's Free Real Estate | 70.00% | ~91,649 |
+| Capitalism Ho! | 74.00% | ~96,887 |
+| It's Free Real Estate | 70.00% | ~91,650 |
 | Budding Merchant | 66.00% | ~86,412 |
-| Another Satisfied Customer | 61.00% | ~79,865 |
-| One Easy Payment | 60.00% | ~78,556 |
-| Own the Means of Production | 60.00% | ~78,556 |
+| Another Satisfied Customer | 61.00% | ~79,866 |
+| One Easy Payment | 60.00% | ~78,557 |
+| Own the Means of Production | 60.00% | ~78,557 |
 | Some Assembly Required | 58.00% | ~75,938 |
-| Pretty Penny | 57.00% | ~74,628 |
+| Pretty Penny | 57.00% | ~74,629 |
 | One-Armed Bandit | 50.00% | ~65,464 |
-| Through Repetition, Perfection | 46.00% | ~60,226 |
-| The Daily Grind | 45.00% | ~58,917 |
+| Through Repetition, Perfection | 46.00% | ~60,227 |
+| The Daily Grind | 45.00% | ~58,918 |
 | Bounty Hunters | 44.00% | ~57,608 |
 | Where it Hurts | 43.00% | ~56,299 |
-| Dungeon Imports | 42.00% | ~54,989 |
+| Dungeon Imports | 42.00% | ~54,990 |
 | Flooding the Market | 41.00% | ~53,680 |
-| Demand for Supplies | 38.00% | ~49,752 |
+| Demand for Supplies | 38.00% | ~49,753 |
 | Gild-Gotten Goods | 37.00% | ~48,443 |
-| Did we pack lunch? | 35.00% | ~45,824 |
-| Arcane Industries | 34.00% | ~44,515 |
-| Accomplished Merchant | 31.00% | ~40,587 |
+| Did we pack lunch? | 35.00% | ~45,825 |
+| Arcane Industries | 34.00% | ~44,516 |
+| Accomplished Merchant | 31.00% | ~40,588 |
 | On the Path to Greatness | 28.00% | ~36,660 |
 | Ascended | 28.00% | ~36,660 |
 | Gem Expert | 28.00% | ~36,660 |
 | Helping Hand | 28.00% | ~36,660 |
-| Blank Page Syndrome | 27.00% | ~35,350 |
-| Efficient Floor Space | 27.00% | ~35,350 |
+| Blank Page Syndrome | 27.00% | ~35,351 |
+| Efficient Floor Space | 27.00% | ~35,351 |
 | Vanity, Verily | 26.00% | ~34,041 |
 | Research & Development | 25.00% | ~32,732 |
-| Power of Love | 24.00% | ~31,422 |
-| Flawless Fusion | 24.00% | ~31,422 |
+| Power of Love | 24.00% | ~31,423 |
+| Flawless Fusion | 24.00% | ~31,423 |
 | Natural 20 | 23.00% | ~30,113 |
 | Fated Encounters | 21.00% | ~27,495 |
 | Royal Ransom | 21.00% | ~27,495 |
 | Magical Harmony | 21.00% | ~27,495 |
-| Tax not Included | 20.00% | ~26,185 |
+| Tax not Included | 20.00% | ~26,186 |
 | Trash to Treasure | 19.00% | ~24,876 |
 | For the Hoard! | 18.00% | ~23,567 |
 | Special Ingredient | 17.00% | ~22,258 |
@@ -70,10 +70,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 11.00% | ~14,402 |
 | Complete Monopoly | 11.00% | ~14,402 |
 | Master Recycler | 10.00% | ~13,093 |
-| Supercharged | 9.00% | ~11,783 |
-| Ritualist | 9.00% | ~11,783 |
-| Master Merchant | 9.00% | ~11,783 |
-| Glittering Collection | 9.00% | ~11,783 |
+| Supercharged | 9.00% | ~11,784 |
+| Ritualist | 9.00% | ~11,784 |
+| Master Merchant | 9.00% | ~11,784 |
+| Glittering Collection | 9.00% | ~11,784 |
 | Cream of the Crop | 8.00% | ~10,474 |
 | The King's Caprice | 8.00% | ~10,474 |
 | Item of Renown | 8.00% | ~10,474 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~655 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,927 (Ranked 58)  
+Progressed: 130,928 (Ranked 58)  
 Completed: 107 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 107 (0.08%) (Ranked 182)
 | 2023-06-16 | 130,736 | 101 |
 | 2023-06-17 | 130,813 | 103 |
 | 2023-06-18 | 130,882 | 105 |
-| 2023-06-19 | 130,927 | 107 |
+| 2023-06-19 | 130,928 | 107 |
 ## Awards
 Max (Great for Beginners): 4,629  (Ranked 68)  
 Sum: 26,781 (Ranked 44)  

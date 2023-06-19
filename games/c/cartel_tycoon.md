@@ -11,7 +11,7 @@ Number of Ratings: 101  (23.09.2022)
 | Hokey-Pokey | 71.00% | ~284 |
 | Camellos | 56.00% | ~224 |
 | Bad Trip | 46.00% | ~184 |
-| Didn't Miss A Single One | 44.00% | ~176 |
+| Didn't Miss A Single One | 45.00% | ~180 |
 | Spread | 40.00% | ~160 |
 | That was base | 38.00% | ~152 |
 | Safe Pair of Hands | 36.00% | ~144 |

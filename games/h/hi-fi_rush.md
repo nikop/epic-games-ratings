@@ -12,7 +12,7 @@ Rating: 4.89 (Ranked 13)
 | Cream of the Crop | 62.00% | ~2,037 |
 | Thanks for the free chip, Peppermint! | 61.00% | ~2,004 |
 | You got this, Peppermint? | 56.00% | ~1,840 |
-| Perfect Parry | 53.00% | ~1,741 |
+| Perfect Parry | 54.00% | ~1,774 |
 | Alright, that felt AWESOME! | 53.00% | ~1,741 |
 | I play my own way! | 49.00% | ~1,610 |
 | This will cost you big time | 47.00% | ~1,544 |
@@ -32,8 +32,8 @@ Rating: 4.89 (Ranked 13)
 | I look cool. But I can look COOLER. | 27.00% | ~887 |
 | There's such a thing as TOO helpful | 21.00% | ~690 |
 | That's a lot of junk metal… | 19.00% | ~624 |
+| Beat-hit mania | 18.00% | ~591 |
 | Well that was a rush! | 17.00% | ~558 |
-| Beat-hit mania | 17.00% | ~558 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~558 |
 | Chip-tuned | 11.00% | ~361 |
 | Wanna hear my playlist? | 11.00% | ~361 |

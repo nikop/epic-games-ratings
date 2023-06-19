@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-06-19T08:07:04.1610551+00:00",
       "NumProgressed": 584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T16:05:30.7386094+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -275,7 +280,7 @@
       "Name": "Learner",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
@@ -283,7 +288,7 @@
       "Name": "Dilligent",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
@@ -291,7 +296,7 @@
       "Name": "Adored",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -307,7 +312,7 @@
       "Name": "Devout",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -323,7 +328,7 @@
       "Name": "Devoted",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_2",
@@ -337,9 +342,9 @@
       "ID": "ACH_ASSIGN_WORK_1",
       "SetID": "ajki3eh",
       "Name": "Economical",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_ASSIGN_WORK_2",
@@ -347,7 +352,7 @@
       "Name": "Frugal",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_FINISH_OBJECTIVE",
@@ -355,7 +360,7 @@
       "Name": "Objective Complete",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH_FINISH_SUCC_STORY_1",
@@ -395,7 +400,7 @@
       "Name": "I... I did it?",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -419,7 +424,7 @@
       "Name": "I did it!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_SUMMON_SUCC_2",
@@ -441,9 +446,9 @@
       "ID": "ACH_UNLOCK_ALL_ROOM",
       "SetID": "ajki3eh",
       "Name": "All Doors Open",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_UNLOCK_ASMO_ENDING",
@@ -459,7 +464,7 @@
       "Name": "The Love Martyr",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_2",
@@ -475,7 +480,7 @@
       "Name": "A Forked Tongue",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -491,7 +496,7 @@
       "Name": "Ever After",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -538,15 +543,15 @@
     {
       "ID": "ajki3eh",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:07:27.3792915+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:05:30.7386085+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.0076643+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:58:51.7176938+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:07:27.3793356+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:58:01.773299+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:05:30.738634+00:00"
 }

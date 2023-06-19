@@ -43,8 +43,8 @@ Rating: 4.80 (Ranked 79)
 | Friendly fire | 13.00% | ~309 |
 | The Central Headquarters | 13.00% | ~309 |
 | Cloven Dell Headquarters | 13.00% | ~309 |
+| Whispers in the Woods IV | 12.00% | ~285 |
 | Embrace the darkness | 11.00% | ~262 |
-| Whispers in the Woods IV | 11.00% | ~262 |
 | I smell fear | 10.00% | ~238 |
 | The end of the experiments | 10.00% | ~238 |
 | The Great City of Demacia | 10.00% | ~238 |

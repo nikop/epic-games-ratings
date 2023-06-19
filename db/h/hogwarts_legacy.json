@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3936,10 +3936,10 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 280697,
+  "EOS_Progressed": 280704,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1783,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 1773,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -10196,6 +10196,11 @@
       "Time": "2023-06-19T15:06:18.9486363+00:00",
       "NumProgressed": 280697,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T16:04:44.082392+00:00",
+      "NumProgressed": 280704,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10351,7 +10356,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "PFA_27",
@@ -10566,7 +10571,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280697,
+      "Progressed": 280704,
       "Completed": 408
     }
   ],
@@ -10574,8 +10579,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T14:57:51.8865448+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:06:18.9486357+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:04:44.0823911+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:57:51.8865456+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:06:18.948714+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:57:22.1512348+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:04:44.0824656+00:00"
 }

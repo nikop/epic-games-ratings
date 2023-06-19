@@ -2,10 +2,10 @@
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
   "ProductSlug": "mason-building-bricks-73659e",
-  "Ranking_EOS_Progress": 364,
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:22.155756+00:00",
@@ -63,6 +63,11 @@
       "Time": "2023-06-18T15:05:24.2837839+00:00",
       "NumProgressed": 16,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T16:05:26.2723556+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 5,
@@ -72,7 +77,7 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 200,
       "UsersEstimate": 8
     },
@@ -80,7 +85,7 @@
       "ID": "Mason_Arch_01",
       "SetID": "77clh7i",
       "Name": "Arch Mason",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -88,7 +93,7 @@
       "ID": "Mason_Expert_01",
       "SetID": "77clh7i",
       "Name": "Expert Mason",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -104,7 +109,7 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 200,
       "UsersEstimate": 7
     }
@@ -113,7 +118,7 @@
     {
       "ID": "77clh7i",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 1
     }
   ],
@@ -121,8 +126,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:07:20.9566007+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:05:26.272355+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.7913266+00:00",
-  "LastUpdate_Ratings": "2023-06-19T15:00:35.8535246+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:07:20.956614+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:59:08.0548137+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:05:26.2723613+00:00"
 }

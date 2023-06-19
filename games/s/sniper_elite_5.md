@@ -5,17 +5,17 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 32.00% | ~969 |
-| Confirming Suspicions | 26.00% | ~788 |
-| The Kraken Wakes | 22.00% | ~666 |
+| Meeting Resistance | 32.00% | ~970 |
+| Confirming Suspicions | 27.00% | ~818 |
+| The Kraken Wakes | 22.00% | ~667 |
 | It's Starting to Crack | 19.00% | ~576 |
 | Lord of War | 17.00% | ~515 |
 | Change the Channel | 17.00% | ~515 |
 | Resourceful | 15.00% | ~454 |
 | Taking it back | 15.00% | ~454 |
 | Target America | 13.00% | ~394 |
-| Organ Grinder | 12.00% | ~363 |
-| As Quiet as a Mouse | 12.00% | ~363 |
+| Organ Grinder | 12.00% | ~364 |
+| As Quiet as a Mouse | 12.00% | ~364 |
 | The Kraken Sleeps | 11.00% | ~333 |
 | Liberté | 10.00% | ~303 |
 | Sharpshooter | 10.00% | ~303 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 565)
 | Fields of Glory | 6.00% | ~182 |
 | Skirmisher | 6.00% | ~182 |
 | Set Europe Ablaze | 6.00% | ~182 |
-| Precision Is Key | 5.00% | ~151 |
+| Precision Is Key | 5.00% | ~152 |
 | Rigged to Blow | 4.00% | ~121 |
 | My Little Friend | 3.00% | ~91 |
 | Strategist | 2.00% | ~61 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 565)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,029 (Ranked 143)  
+Progressed: 3,030 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
-| 2023-06-19 | 3,029 | 2 |
+| 2023-06-19 | 3,030 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

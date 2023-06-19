@@ -30,8 +30,8 @@ Number of Ratings: 54  (23.09.2022)
 | Career criminal | 2.00% | ~20 |
 | Wishmaster | 2.00% | ~20 |
 | Neanderthal | 1.00% | ~10 |
+| It was worth a shot | 1.00% | ~10 |
 | Cosmic Horror | 1.00% | ~10 |
-| It was worth a shot | 0.90% | ~9 |
 | Ghostbuster | 0.70% | ~7 |
 | Cheeki Breeki | 0.50% | ~5 |
 | Expert | 0.50% | ~5 |

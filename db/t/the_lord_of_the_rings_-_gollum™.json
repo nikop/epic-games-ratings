@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -940,9 +940,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "Chapter5",
@@ -1179,8 +1179,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-19T15:07:28.6841607+00:00",
+  "LastChanged_Achievements": "2023-06-19T16:05:31.723367+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.7916802+00:00",
-  "LastUpdate_Ratings": "2023-06-19T14:58:21.8321003+00:00",
-  "LastUpdate_Achievements": "2023-06-19T15:07:28.6841968+00:00"
+  "LastUpdate_Ratings": "2023-06-19T15:57:42.8343214+00:00",
+  "LastUpdate_Achievements": "2023-06-19T16:05:31.7233977+00:00"
 }
