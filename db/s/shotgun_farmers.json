@@ -890,9 +890,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1106,9 +1106,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1209,8 +1209,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:04:01.2093413+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:04:23.1702725+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.6214282+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:53.0372014+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:04:01.2094175+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:59:03.9005428+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:04:23.1703565+00:00"
 }

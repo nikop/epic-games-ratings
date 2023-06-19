@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 364)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 44.00% | ~3,800 |
+| Legal Counsel | 44.00% | ~3,801 |
 | Greasy Palms | 40.00% | ~3,455 |
 | South American Connection | 24.00% | ~2,073 |
 | Life of the Party | 18.00% | ~1,555 |
@@ -20,7 +20,7 @@ Rating: 4.61 (Ranked 364)
 | Bloodstained Hands | 6.00% | ~518 |
 | Catch Me if You Can | 5.00% | ~432 |
 | Grand Theft Auto | 5.00% | ~432 |
-| Not my First Time | 4.00% | ~345 |
+| Not my First Time | 4.00% | ~346 |
 | Point A to Point B | 3.00% | ~259 |
 | High Quality H2O | 3.00% | ~259 |
 | Pie Guy | 3.00% | ~259 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 364)
 | Done it All | 0.70% | ~60 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,637 (Ranked 117)  
+Progressed: 8,638 (Ranked 117)  
 Completed: 36 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 36 (0.42%) (Ranked 127)
 | 2023-06-16 | 8,563 | 34 |
 | 2023-06-17 | 8,597 | 36 |
 | 2023-06-18 | 8,637 | 36 |
+| 2023-06-19 | 8,638 | 36 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 387)  
 Sum: 56 (Ranked 438)  

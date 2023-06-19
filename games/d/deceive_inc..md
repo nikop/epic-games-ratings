@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,386 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,387 |
 | Mainframe Hacker | 47.00% | ~3,221 |
 | The Spy who eliminated me | 47.00% | ~3,221 |
-| Tomorrow Never Dyes | 46.00% | ~3,152 |
-| Never Say Loser Again | 40.00% | ~2,741 |
+| Tomorrow Never Dyes | 46.00% | ~3,153 |
+| Never Say Loser Again | 40.00% | ~2,742 |
 | For your Eyes only | 39.00% | ~2,673 |
 | From the Vault with Love | 37.00% | ~2,536 |
 | Tailor-Made | 37.00% | ~2,536 |
 | Fully Decked Out | 35.00% | ~2,399 |
-| You Only Live Twice | 33.00% | ~2,261 |
+| You Only Live Twice | 33.00% | ~2,262 |
 | A view to Win | 28.00% | ~1,919 |
-| Private Collection | 25.00% | ~1,713 |
-| Smells Like Trouble | 25.00% | ~1,713 |
+| Private Collection | 25.00% | ~1,714 |
+| Smells Like Trouble | 25.00% | ~1,714 |
 | Assistant Accountant | 24.00% | ~1,645 |
 | The Living Portrait | 24.00% | ~1,645 |
 | My Motto, My Creed | 24.00% | ~1,645 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,853 (Ranked 121)  
+Progressed: 6,854 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 6,818 | 0 |
 | 2023-06-17 | 6,836 | 0 |
 | 2023-06-18 | 6,853 | 0 |
+| 2023-06-19 | 6,854 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

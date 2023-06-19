@@ -5302,10 +5302,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27078,
       "NumberOfAwardsMax": 7251
+    },
+    {
+      "Time": "2023-06-18T23:59:11.9332112+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27079,
+      "NumberOfAwardsMax": 7251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27078,
+  "NumberOfAwards": 27079,
   "NumberOfAwardsMax": 7251,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5325,7 +5331,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1620
+      "Count": 1621
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5388,9 +5394,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 788454,
+  "EOS_Progressed": 788457,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 1382,
+  "EOS_NewPlayers": 1378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11623,6 +11629,11 @@
       "Time": "2023-06-18T23:07:24.5744911+00:00",
       "NumProgressed": 788454,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-06-19T00:07:47.8781501+00:00",
+      "NumProgressed": 788457,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 82,
@@ -11714,7 +11725,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 244421
+      "UsersEstimate": 244422
     },
     {
       "ID": "Bookworm",
@@ -11794,7 +11805,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78845
+      "UsersEstimate": 78846
     },
     {
       "ID": "DavidHorak",
@@ -11834,7 +11845,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181344
+      "UsersEstimate": 181345
     },
     {
       "ID": "Fighter",
@@ -11850,7 +11861,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118268
+      "UsersEstimate": 118269
     },
     {
       "ID": "Freud",
@@ -12210,7 +12221,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94614
+      "UsersEstimate": 94615
     },
     {
       "ID": "TisButAScratch",
@@ -12242,7 +12253,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78845
+      "UsersEstimate": 78846
     },
     {
       "ID": "TrialAndError",
@@ -12289,15 +12300,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 788454,
+      "Progressed": 788457,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-06-18T18:58:19.0066105+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:24.5744903+00:00",
+  "LastChanged": "2023-06-18T23:59:11.933211+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:47.8781498+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:05.4980914+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:59:00.735647+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:24.5746164+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:59:11.9332118+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:47.8782997+00:00"
 }

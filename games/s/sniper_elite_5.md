@@ -8,9 +8,9 @@ Rating: 4.48 (Ranked 584)
 | Meeting Resistance | 32.00% | ~966 |
 | Confirming Suspicions | 26.00% | ~785 |
 | The Kraken Wakes | 22.00% | ~664 |
-| It's Starting to Crack | 19.00% | ~573 |
+| It's Starting to Crack | 19.00% | ~574 |
 | Lord of War | 17.00% | ~513 |
-| Change the Channel | 17.00% | ~513 |
+| Change the Channel | 16.00% | ~483 |
 | Resourceful | 15.00% | ~453 |
 | Taking it back | 15.00% | ~453 |
 | Target America | 13.00% | ~392 |
@@ -22,7 +22,7 @@ Rating: 4.48 (Ranked 584)
 | Explosive Efficiency | 10.00% | ~302 |
 | Just a Flesh Wound | 9.00% | ~272 |
 | Gunslinger | 9.00% | ~272 |
-| Enemy at the Gates | 8.00% | ~241 |
+| Enemy at the Gates | 8.00% | ~242 |
 | Opposing Force | 7.00% | ~211 |
 | Die Nussknacker Sweet! | 7.00% | ~211 |
 | Der Geist | 7.00% | ~211 |
@@ -62,9 +62,9 @@ Rating: 4.48 (Ranked 584)
 | Führerious Repetition | 0.40% | ~12 |
 | Reich To The Point | 0.40% | ~12 |
 | Covert Elimination | 0.40% | ~12 |
+| Best of the Best | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
-| Best of the Best | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 584)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,018 (Ranked 143)  
+Progressed: 3,019 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-16 | 2,957 | 2 |
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
+| 2023-06-19 | 3,019 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 11.83,
+  "EOS_Completed_Percentage": 11.7,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -451,6 +451,11 @@
       "Time": "2023-06-18T23:02:07.3798796+00:00",
       "NumProgressed": 93,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-19T00:02:20.3106907+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 6,
@@ -460,17 +465,17 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 165,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -492,7 +497,7 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 165,
       "UsersEstimate": 22
     },
@@ -500,7 +505,7 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 165,
       "UsersEstimate": 23
     }
@@ -509,14 +514,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:02:07.379879+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:02:20.3106899+00:00",
   "LastUpdate_AppInfo": "2023-06-15T10:57:00.9986251+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:57:01.9792852+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:02:07.3798939+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:57:17.0745992+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:02:20.3107069+00:00"
 }

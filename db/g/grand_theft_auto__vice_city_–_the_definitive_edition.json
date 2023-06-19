@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -448,9 +448,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 8637,
+  "EOS_Progressed": 8638,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4978,6 +4978,11 @@
       "Time": "2023-06-18T23:02:18.5737203+00:00",
       "NumProgressed": 8637,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-19T00:02:31.3901234+00:00",
+      "NumProgressed": 8638,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5013,7 +5018,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH05",
@@ -5149,7 +5154,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "ACH22",
@@ -5260,7 +5265,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8637,
+      "Progressed": 8638,
       "Completed": 36
     }
   ],
@@ -5268,8 +5273,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-18T20:58:32.1070564+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:02:18.5737198+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:02:31.3901227+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:48.2397483+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:02:18.5737763+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:58:58.3593655+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:02:31.3901867+00:00"
 }

@@ -6108,9 +6108,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 57601,
+  "EOS_Progressed": 57616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3527,
+  "EOS_NewPlayers": 3532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12403,6 +12403,11 @@
       "Time": "2023-06-18T23:07:31.9621302+00:00",
       "NumProgressed": 57601,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T00:07:55.2764581+00:00",
+      "NumProgressed": 57616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -12854,7 +12859,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -12934,7 +12939,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "achievement_colonial_management",
@@ -13142,7 +13147,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -13246,7 +13251,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "achievement_forever_golden",
@@ -13414,7 +13419,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "achievement_grand_coalition",
@@ -13438,7 +13443,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -13606,7 +13611,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_italian_ambition",
@@ -13910,7 +13915,7 @@
       "Name": "Market Control",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_marshy_march",
@@ -14414,7 +14419,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -14694,7 +14699,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -15006,7 +15011,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -15078,7 +15083,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5185
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -15110,7 +15115,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -15245,21 +15250,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 57601,
+      "Progressed": 57616,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 57601,
+      "Progressed": 57616,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-18T21:57:48.000519+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:31.9621296+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:55.2764576+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.505623+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:57:32.5948388+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:31.9635365+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:57:45.525955+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:55.2778161+00:00"
 }

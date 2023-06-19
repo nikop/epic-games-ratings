@@ -1260,7 +1260,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23475,
+  "EOS_Progressed": 23476,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
@@ -5920,6 +5920,11 @@
       "Time": "2023-06-18T23:07:20.3824101+00:00",
       "NumProgressed": 23475,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-19T00:07:43.6649774+00:00",
+      "NumProgressed": 23476,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5955,7 +5960,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -5979,7 +5984,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 11972
+      "UsersEstimate": 11973
     },
     {
       "ID": "Collector",
@@ -5995,7 +6000,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12207
+      "UsersEstimate": 12208
     },
     {
       "ID": "Daily_Dose",
@@ -6003,7 +6008,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8216
+      "UsersEstimate": 8217
     },
     {
       "ID": "Diabolical",
@@ -6019,7 +6024,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14554
+      "UsersEstimate": 14555
     },
     {
       "ID": "Dont_Need_These",
@@ -6043,7 +6048,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15024
+      "UsersEstimate": 15025
     },
     {
       "ID": "Escape_Artist",
@@ -6067,7 +6072,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12676
+      "UsersEstimate": 12677
     },
     {
       "ID": "GB_In_Training",
@@ -6075,7 +6080,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7042
+      "UsersEstimate": 7043
     },
     {
       "ID": "Ghost_Expert",
@@ -6091,7 +6096,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7042
+      "UsersEstimate": 7043
     },
     {
       "ID": "Legions",
@@ -6099,7 +6104,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Liability",
@@ -6235,7 +6240,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20188
+      "UsersEstimate": 20189
     },
     {
       "ID": "Summoner",
@@ -6243,7 +6248,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Surprise",
@@ -6259,7 +6264,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12911
+      "UsersEstimate": 12912
     },
     {
       "ID": "Teamwork",
@@ -6291,7 +6296,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "Tobins_Prodigy",
@@ -6338,7 +6343,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23475,
+      "Progressed": 23476,
       "Completed": 40
     }
   ],
@@ -6346,8 +6351,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-18T21:59:51.9029681+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:20.3824096+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:43.6649766+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:59:42.3903769+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:20.3824983+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:59:50.025334+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:43.6650512+00:00"
 }

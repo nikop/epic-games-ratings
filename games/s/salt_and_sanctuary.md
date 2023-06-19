@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,737 |
-| The Three | 64.00% | ~335,990 |
-| The Banquet | 40.00% | ~209,994 |
-| Devara's Light | 30.00% | ~157,495 |
-| The Iron Ones | 18.00% | ~94,497 |
-| The Village | 16.00% | ~83,997 |
+| Find Sanctuary | 83.00% | ~435,740 |
+| The Three | 64.00% | ~335,992 |
+| The Banquet | 40.00% | ~209,995 |
+| Devara's Light | 30.00% | ~157,496 |
+| The Iron Ones | 18.00% | ~94,498 |
+| The Village | 16.00% | ~83,998 |
 | The Forest | 14.00% | ~73,498 |
 | Branded | 13.00% | ~68,248 |
 | The Imposter | 13.00% | ~68,248 |
 | The Keep | 13.00% | ~68,248 |
-| The Castle | 11.00% | ~57,748 |
+| The Castle | 11.00% | ~57,749 |
 | The Dome | 9.00% | ~47,249 |
 | The Red Hall | 9.00% | ~47,249 |
 | The Sacrifice | 8.00% | ~41,999 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Alkymancery | 5.00% | ~26,249 |
 | The Lake | 5.00% | ~26,249 |
 | The Pitchwoods | 5.00% | ~26,249 |
-| Honed | 4.00% | ~20,999 |
-| The House of Splendor | 4.00% | ~20,999 |
-| The Crypt | 4.00% | ~20,999 |
-| The Palace | 4.00% | ~20,999 |
+| Honed | 4.00% | ~21,000 |
+| The House of Splendor | 4.00% | ~21,000 |
+| The Crypt | 4.00% | ~21,000 |
+| The Palace | 4.00% | ~21,000 |
 | Find Salvation | 3.00% | ~15,750 |
 | The Unspeakable Deep | 3.00% | ~15,750 |
 | Coastrock | 2.00% | ~10,500 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,500 |
 | Fading Fast | 1.00% | ~5,250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,984 (Ranked 28)  
+Progressed: 524,988 (Ranked 28)  
 Completed: 1,453 (0.28%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,10 +104,11 @@ Completed: 1,453 (0.28%) (Ranked 145)
 | 2023-06-16 | 524,715 | 1,450 |
 | 2023-06-17 | 524,849 | 1,452 |
 | 2023-06-18 | 524,984 | 1,453 |
+| 2023-06-19 | 524,988 | 1,453 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 238)  
-Sum: 1,898 (Ranked 195)  
-Diff (max vs sum): 43  
+Sum: 1,898 (Ranked 196)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 273 |

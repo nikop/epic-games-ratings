@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -674,9 +674,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15445,
+  "EOS_Progressed": 15446,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4289,6 +4289,11 @@
       "Time": "2023-06-18T21:04:45.5917379+00:00",
       "NumProgressed": 15445,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T00:05:28.7393208+00:00",
+      "NumProgressed": 15446,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4444,7 +4449,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4500,7 +4505,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "STORY_HABITAT",
@@ -4619,13 +4624,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15445,
+      "Progressed": 15446,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3371,
+      "Progressed": 3372,
       "Completed": 29
     }
   ],
@@ -4633,8 +4638,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-18T20:58:12.6935394+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:05:06.487578+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:05:28.7393201+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:18.7831399+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:05:06.4876453+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:58:31.0776889+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:05:28.7393882+00:00"
 }

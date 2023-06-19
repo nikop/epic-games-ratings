@@ -2293,9 +2293,9 @@
       "Count": 729
     }
   ],
-  "EOS_Progressed": 231044,
+  "EOS_Progressed": 231045,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8143,6 +8143,11 @@
       "Time": "2023-06-18T23:07:29.5145349+00:00",
       "NumProgressed": 231044,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-06-19T00:07:52.7548888+00:00",
+      "NumProgressed": 231045,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 122,
@@ -8186,7 +8191,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 221802
+      "UsersEstimate": 221803
     },
     {
       "ID": "CURSE1HP",
@@ -8194,7 +8199,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 90107
+      "UsersEstimate": 90108
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -8202,7 +8207,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60071
+      "UsersEstimate": 60072
     },
     {
       "ID": "DAILY7",
@@ -8234,7 +8239,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122453
+      "UsersEstimate": 122454
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -8250,7 +8255,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97038
+      "UsersEstimate": 97039
     },
     {
       "ID": "DEPTH12HARD",
@@ -8274,7 +8279,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 168662
+      "UsersEstimate": 168663
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -8362,7 +8367,7 @@
       "Name": "Well Prepared",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43898
+      "UsersEstimate": 43899
     },
     {
       "ID": "ENDINGCHOICE",
@@ -8562,7 +8567,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60071
+      "UsersEstimate": 60072
     },
     {
       "ID": "KILL10000",
@@ -8650,7 +8655,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106280
+      "UsersEstimate": 106281
     },
     {
       "ID": "KILLPARANOIA",
@@ -8666,7 +8671,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43898
+      "UsersEstimate": 43899
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -8682,7 +8687,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106280
+      "UsersEstimate": 106281
     },
     {
       "ID": "KILLSPITTER",
@@ -8690,7 +8695,7 @@
       "Name": "Shootout",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 80865
+      "UsersEstimate": 80866
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -8706,7 +8711,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39277
+      "UsersEstimate": 39278
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -8898,7 +8903,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205629
+      "UsersEstimate": 205630
     },
     {
       "ID": "SPECIALROOMS10",
@@ -8906,7 +8911,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143247
+      "UsersEstimate": 143248
     },
     {
       "ID": "SPEEDRUN10",
@@ -8954,7 +8959,7 @@
       "Name": "Shapeshifting",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60071
+      "UsersEstimate": 60072
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -9129,7 +9134,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231044,
+      "Progressed": 231045,
       "Completed": 240
     }
   ],
@@ -9137,8 +9142,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-18T03:14:10.3187426+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:29.5145344+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:52.7548882+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.8459013+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:00:27.274287+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:29.5147699+00:00"
+  "LastUpdate_Ratings": "2023-06-19T00:00:36.4690755+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:52.7551+00:00"
 }

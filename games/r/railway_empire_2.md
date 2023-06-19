@@ -13,8 +13,8 @@ Rating: 4.28 (Ranked 784)
 | Mystery Tour | 67.00% | ~849 |
 | We brake for nobody | 66.00% | ~836 |
 | Brainstorm | 65.00% | ~824 |
+| Mind the Gap | 64.00% | ~811 |
 | Travel Company | 64.00% | ~811 |
-| Mind the Gap | 63.00% | ~798 |
 | All around the World | 61.00% | ~773 |
 | Right through the middle | 56.00% | ~710 |
 | Poor Devil | 53.00% | ~672 |

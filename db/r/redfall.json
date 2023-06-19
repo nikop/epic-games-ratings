@@ -1980,9 +1980,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 846
     },
     {
       "ID": "Achievement_009",
@@ -2469,8 +2469,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-18T21:58:29.0169533+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:03:37.9210019+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:03:50.2738526+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:13.495807+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:03:37.9210836+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:58:26.0713341+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:03:50.2739538+00:00"
 }

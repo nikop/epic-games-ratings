@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,184 |
-| That's a Grand Army | 8.00% | ~4,608 |
-| That is mine! | 8.00% | ~4,608 |
-| Victorious! | 8.00% | ~4,608 |
-| Brothers in Arms | 6.00% | ~3,456 |
-| That's a Grand Navy | 6.00% | ~3,456 |
-| Seriously?! | 6.00% | ~3,456 |
-| For the Glory | 5.00% | ~2,880 |
-| Cold War | 4.00% | ~2,304 |
-| True Catholic | 4.00% | ~2,304 |
+| Until death do us apart | 9.00% | ~5,185 |
+| That's a Grand Army | 8.00% | ~4,609 |
+| That is mine! | 8.00% | ~4,609 |
+| Victorious! | 8.00% | ~4,609 |
+| Brothers in Arms | 6.00% | ~3,457 |
+| That's a Grand Navy | 6.00% | ~3,457 |
+| Seriously?! | 6.00% | ~3,457 |
+| For the Glory | 5.00% | ~2,881 |
+| Cold War | 4.00% | ~2,305 |
+| True Catholic | 4.00% | ~2,305 |
 | Defender of the Faith | 3.00% | ~1,728 |
 | It's all about the money | 3.00% | ~1,728 |
 | Respected | 3.00% | ~1,728 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~576 |
 | The Five Colonies | 1.00% | ~576 |
 | This navy can take it all | 1.00% | ~576 |
-| The Emperors new clothes | 0.90% | ~518 |
-| Isn't this the way to India? | 0.90% | ~518 |
-| Market Control | 0.90% | ~518 |
+| The Emperors new clothes | 0.90% | ~519 |
+| Isn't this the way to India? | 0.90% | ~519 |
+| Market Control | 0.90% | ~519 |
 | Down Under | 0.80% | ~461 |
 | Trustworthy | 0.80% | ~461 |
 | All belongs to Mother Russia | 0.60% | ~346 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,601 (Ranked 77)  
+Progressed: 57,616 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,6 +421,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
+| 2023-06-19 | 57,616 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
 Sum: 44,715 (Ranked 27)  

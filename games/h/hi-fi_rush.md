@@ -7,25 +7,25 @@ Rating: 4.89 (Ranked 13)
 | ---- | ---------- | ----- |
 | Start with a bang! | 80.00% | ~2,622 |
 | Feeling the beat! | 80.00% | ~2,622 |
-| You can pet the cat! | 74.00% | ~2,425 |
+| You can pet the cat! | 74.00% | ~2,426 |
 | Who put gears in there? | 67.00% | ~2,196 |
-| Cream of the Crop | 61.00% | ~1,999 |
-| Thanks for the free chip, Peppermint! | 61.00% | ~1,999 |
-| You got this, Peppermint? | 56.00% | ~1,835 |
+| Cream of the Crop | 61.00% | ~2,000 |
+| Thanks for the free chip, Peppermint! | 61.00% | ~2,000 |
+| You got this, Peppermint? | 56.00% | ~1,836 |
 | Perfect Parry | 53.00% | ~1,737 |
 | Alright, that felt AWESOME! | 53.00% | ~1,737 |
 | I play my own way! | 49.00% | ~1,606 |
-| This will cost you big time | 46.00% | ~1,507 |
+| This will cost you big time | 46.00% | ~1,508 |
 | Uh, they were broken when I got here | 45.00% | ~1,475 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,442 |
-| Kissing the sky! | 43.00% | ~1,409 |
+| Kissing the sky! | 43.00% | ~1,410 |
 | Does that say weakpoint? | 40.00% | ~1,311 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,278 |
-| The Negotiator | 37.00% | ~1,212 |
-| You must like calling me in, Chai | 33.00% | ~1,081 |
-| Out in a puff of smoke | 33.00% | ~1,081 |
+| The Negotiator | 37.00% | ~1,213 |
+| You must like calling me in, Chai | 33.00% | ~1,082 |
+| Out in a puff of smoke | 33.00% | ~1,082 |
 | Headliner | 31.00% | ~1,016 |
-| Time to pay up! | 29.00% | ~950 |
+| Time to pay up! | 29.00% | ~951 |
 | Who's the boss now? | 28.00% | ~918 |
 | Perfecter Parry-er! | 28.00% | ~918 |
 | I have to read these things? | 27.00% | ~885 |
@@ -35,9 +35,9 @@ Rating: 4.89 (Ranked 13)
 | Beat-hit mania | 17.00% | ~557 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~557 |
 | Well that was a rush! | 16.00% | ~524 |
-| Chip-tuned | 11.00% | ~360 |
-| Wanna hear my playlist? | 11.00% | ~360 |
-| Check out my moves! | 11.00% | ~360 |
+| Chip-tuned | 11.00% | ~361 |
+| Wanna hear my playlist? | 11.00% | ~361 |
+| Check out my moves! | 11.00% | ~361 |
 | We're Jammin' | 8.00% | ~262 |
 | I think I found your calling, Macaron | 7.00% | ~229 |
 | I'm not done with you yet | 7.00% | ~229 |
@@ -55,7 +55,7 @@ Rating: 4.89 (Ranked 13)
 | I am a good person who likes to help | 2.00% | ~66 |
 | With our powers combined…and to the rhythm… | 2.00% | ~66 |
 | And the crowd goes wild! | 1.00% | ~33 |
-| I saw all those hits coming a measure away! | 0.90% | ~29 |
+| I saw all those hits coming a measure away! | 0.90% | ~30 |
 | This was... not what I expected. | 0.70% | ~23 |
 | My Ultimate Setlist | 0.60% | ~20 |
 | Have we met before? | 0.60% | ~20 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,277 (Ranked 142)  
+Progressed: 3,278 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 5 (0.15%) (Ranked 164)
 | 2023-06-16 | 3,241 | 5 |
 | 2023-06-17 | 3,263 | 5 |
 | 2023-06-18 | 3,277 | 5 |
+| 2023-06-19 | 3,278 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

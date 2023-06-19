@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:07.5657691+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:57:36.0131815+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:03:21.2073456+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:57:49.1421807+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:03:33.6865208+00:00"
 }

@@ -4372,9 +4372,9 @@
       "Count": 3254
     }
   ],
-  "EOS_Progressed": 97685,
+  "EOS_Progressed": 97738,
   "EOS_Completed": 1948,
-  "EOS_NewPlayers": 7204,
+  "EOS_NewPlayers": 7255,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -10502,6 +10502,11 @@
       "Time": "2023-06-18T23:07:32.8921447+00:00",
       "NumProgressed": 97685,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-06-19T00:07:56.3531532+00:00",
+      "NumProgressed": 97738,
+      "NumCompleted": 1948
     }
   ],
   "TotalAchievements": 493,
@@ -10513,7 +10518,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5864
     },
     {
       "ID": "objective_completed_10",
@@ -10521,7 +10526,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_100",
@@ -10881,7 +10886,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "objective_completed_110",
@@ -11489,7 +11494,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "objective_completed_130",
@@ -11697,7 +11702,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_164",
@@ -11735,9 +11740,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 586
     },
     {
       "ID": "objective_completed_17",
@@ -12185,7 +12190,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "objective_completed_34",
@@ -12649,7 +12654,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "objective_completed_54",
@@ -13001,7 +13006,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_590",
@@ -13471,9 +13476,9 @@
       "ID": "objective_completed_666",
       "SetID": "415jc5c",
       "Name": "Show of Strength",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_completed_667",
@@ -13585,7 +13590,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_690",
@@ -13657,7 +13662,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "objective_completed_70",
@@ -13689,7 +13694,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_75",
@@ -13721,7 +13726,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_8",
@@ -13729,7 +13734,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "objective_completed_80",
@@ -14257,7 +14262,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "objective_completed_902",
@@ -14456,21 +14461,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 63959,
+      "Progressed": 64012,
       "Completed": 2804
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 97685,
+      "Progressed": 97738,
       "Completed": 1948
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-18T20:58:21.5863781+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:32.8921442+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:56.3531509+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:32.9683645+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:32.8946229+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:58:43.0719718+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:56.3561975+00:00"
 }

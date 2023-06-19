@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22897,
+  "EOS_Progressed": 22898,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1674,6 +1674,11 @@
       "Time": "2023-06-18T19:04:25.5335597+00:00",
       "NumProgressed": 22897,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-19T00:05:53.6777498+00:00",
+      "NumProgressed": 22898,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1757,7 +1762,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -1765,7 +1770,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1773,7 +1778,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1805,7 +1810,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13051
+      "UsersEstimate": 13052
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1813,7 +1818,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13509
+      "UsersEstimate": 13510
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1829,7 +1834,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -1837,7 +1842,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -1853,7 +1858,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -1861,7 +1866,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -1869,7 +1874,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16715
+      "UsersEstimate": 16716
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1909,7 +1914,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -1933,29 +1938,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22897,
+      "Progressed": 22898,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 190,
-      "Completed": 190
+      "Progressed": 191,
+      "Completed": 191
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:05:31.9544517+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:05:53.6777491+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.3982882+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:58:27.5051522+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:05:31.9544866+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:58:39.3228698+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:05:53.6777917+00:00"
 }

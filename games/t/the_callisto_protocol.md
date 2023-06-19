@@ -11,8 +11,8 @@ Rating: 4.19 (Ranked 843)
 | Paper Jams | 13.00% | ~2,008 |
 | Chew 'Em Up | 11.00% | ~1,699 |
 | Reforged | 11.00% | ~1,699 |
-| Workplace Hazard | 10.00% | ~1,544 |
-| If the SHU Fits... | 10.00% | ~1,544 |
+| Workplace Hazard | 10.00% | ~1,545 |
+| If the SHU Fits... | 10.00% | ~1,545 |
 | Get a Grip | 9.00% | ~1,390 |
 | Giving Back | 8.00% | ~1,236 |
 | Without A Paddle | 8.00% | ~1,236 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,445 (Ranked 104)  
+Progressed: 15,446 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
+| 2023-06-19 | 15,446 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 388)  
 Sum: 319 (Ranked 328)  

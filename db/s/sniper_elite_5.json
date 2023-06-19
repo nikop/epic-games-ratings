@@ -332,7 +332,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3018,
+  "EOS_Progressed": 3019,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
@@ -3942,6 +3942,11 @@
       "Time": "2023-06-18T23:07:19.4143245+00:00",
       "NumProgressed": 3018,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T00:07:42.7776925+00:00",
+      "NumProgressed": 3019,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3967,9 +3972,9 @@
       "ID": "REWARD_12_BEST_OF_THE_BEST",
       "SetID": "bm6el81",
       "Name": "Best of the Best",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -3993,7 +3998,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -4265,7 +4270,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4287,9 +4292,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 483
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4520,13 +4525,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2969,
+      "Progressed": 2970,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3018,
+      "Progressed": 3019,
       "Completed": 2
     }
   ],
@@ -4534,8 +4539,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:19.4143239+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:42.7776918+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:01:46.2531948+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:19.4144085+00:00"
+  "LastUpdate_Ratings": "2023-06-19T00:01:58.3994486+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:42.7777906+00:00"
 }

@@ -8,19 +8,19 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 76.00% | ~2,823 |
 | Un-Lonely Island | 48.00% | ~1,783 |
-| The Beginning of a Servantship | 46.00% | ~1,708 |
-| Trade Is My Trait | 37.00% | ~1,374 |
-| Number 18 | 24.00% | ~891 |
+| The Beginning of a Servantship | 46.00% | ~1,709 |
+| Trade Is My Trait | 37.00% | ~1,375 |
+| Number 18 | 24.00% | ~892 |
 | We Don't Have Time For That | 20.00% | ~743 |
 | The Governator | 18.00% | ~669 |
-| The Legend of Langostino | 17.00% | ~631 |
+| The Legend of Langostino | 17.00% | ~632 |
 | Caribbean Comrade | 16.00% | ~594 |
 | The Dreamer of Dreams | 16.00% | ~594 |
 | Happy Ending? | 11.00% | ~409 |
 | Go Sovereigns! | 11.00% | ~409 |
 | For Science! | 11.00% | ~409 |
-| Of Seals And Men | 10.00% | ~371 |
-| Shackadelic | 10.00% | ~371 |
+| Of Seals And Men | 10.00% | ~372 |
+| Shackadelic | 10.00% | ~372 |
 | Double Trouble | 8.00% | ~297 |
 | Firestarter | 8.00% | ~297 |
 | Make Tropico Great Again! | 8.00% | ~297 |
@@ -45,9 +45,9 @@ Number of Ratings: 398  (23.09.2022)
 | Curse of the Mummy | 2.00% | ~74 |
 | From Knight to Little Duck | 1.00% | ~37 |
 | Survivor | 0.90% | ~33 |
-| My Ways | 0.40% | ~15 |
+| My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,714 (Ranked 138)  
+Progressed: 3,715 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 1 (0.03%) (Ranked 200)
 | 2023-06-16 | 3,680 | 1 |
 | 2023-06-17 | 3,702 | 1 |
 | 2023-06-18 | 3,714 | 1 |
+| 2023-06-19 | 3,715 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 278)  

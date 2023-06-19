@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193782,
+  "EOS_Progressed": 193786,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6377,6 +6377,11 @@
       "Time": "2023-06-18T23:06:55.7494187+00:00",
       "NumProgressed": 193782,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-06-19T00:07:18.1903597+00:00",
+      "NumProgressed": 193786,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 29,
@@ -6412,7 +6417,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182155
+      "UsersEstimate": 182159
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6444,7 +6449,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -6460,7 +6465,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -6484,7 +6489,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -6556,7 +6561,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -6572,7 +6577,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19378
+      "UsersEstimate": 19379
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -6596,7 +6601,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -6619,7 +6624,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193782,
+      "Progressed": 193786,
       "Completed": 444
     }
   ],
@@ -6627,8 +6632,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:06:55.7494181+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:18.190359+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:59:34.7827871+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:06:55.7495197+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:59:42.6381083+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:18.190459+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6647,
+  "EOS_Progressed": 6648,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2018,6 +2018,11 @@
       "Time": "2023-06-18T23:07:00.9482698+00:00",
       "NumProgressed": 6647,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-19T00:07:24.0398095+00:00",
+      "NumProgressed": 6648,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2045,7 +2050,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2077,7 +2082,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2109,7 +2114,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2157,7 +2162,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -2173,7 +2178,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2181,7 +2186,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2244,15 +2249,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6647,
+      "Progressed": 6648,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-18T23:07:00.9482693+00:00",
+  "LastChanged_Achievements": "2023-06-19T00:07:24.0398088+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-18T22:57:43.4421837+00:00",
-  "LastUpdate_Achievements": "2023-06-18T23:07:00.9483021+00:00"
+  "LastUpdate_Ratings": "2023-06-18T23:57:58.0505798+00:00",
+  "LastUpdate_Achievements": "2023-06-19T00:07:24.0398444+00:00"
 }

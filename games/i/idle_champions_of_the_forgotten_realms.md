@@ -6,38 +6,38 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 6.00% | ~5,861 |
-| The Cursed Farmer | 3.00% | ~2,931 |
-| Beast Intentions | 2.00% | ~1,954 |
-| The Mad Wizard | 2.00% | ~1,954 |
+| A Brief Tour of the Realms | 6.00% | ~5,864 |
+| The Cursed Farmer | 3.00% | ~2,932 |
+| Beast Intentions | 2.00% | ~1,955 |
+| The Mad Wizard | 2.00% | ~1,955 |
 | Were-verpowered | 1.00% | ~977 |
 | The Ring of Regeneration | 1.00% | ~977 |
 | Seeking Allies | 1.00% | ~977 |
 | Are Ya Chicken? | 1.00% | ~977 |
-| Mad Cow Disease | 0.90% | ~879 |
-| Friendly Imps | 0.90% | ~879 |
+| Mad Cow Disease | 0.90% | ~880 |
+| Friendly Imps | 0.90% | ~880 |
 | The Court of Storms | 0.90% | ~576 |
-| A Persistent Buzzing | 0.80% | ~781 |
-| Pure Energy | 0.80% | ~781 |
+| A Persistent Buzzing | 0.80% | ~782 |
+| Pure Energy | 0.80% | ~782 |
 | Terror in the Dark | 0.70% | ~684 |
 | The Crumbling Temple | 0.70% | ~684 |
 | Beware the Jabberwock | 0.70% | ~448 |
 | Beast Mode | 0.60% | ~586 |
 | A Mysterious Summons | 0.60% | ~586 |
+| Building Trust | 0.60% | ~586 |
 | Unearthed Evil | 0.60% | ~586 |
 | Useless Allies | 0.60% | ~586 |
 | Exploring Port Nyanzaru | 0.60% | ~586 |
 | The Contagious Curse | 0.60% | ~586 |
 | Coasting to the Finish | 0.60% | ~384 |
-| Maddening | 0.50% | ~488 |
+| Maddening | 0.50% | ~489 |
 | Checkmate | 0.50% | ~320 |
 | Vecna Out! | 0.50% | ~320 |
-| Low Initiative | 0.50% | ~488 |
-| Building Trust | 0.50% | ~488 |
-| Running of the Saurs | 0.50% | ~488 |
-| Escort to Waterdeep | 0.50% | ~488 |
-| Waterdeep Detours | 0.50% | ~488 |
-| Underdeep Cartography | 0.50% | ~488 |
+| Low Initiative | 0.50% | ~489 |
+| Running of the Saurs | 0.50% | ~489 |
+| Escort to Waterdeep | 0.50% | ~489 |
+| Waterdeep Detours | 0.50% | ~489 |
+| Underdeep Cartography | 0.50% | ~489 |
 | Quick or Quack | 0.50% | ~320 |
 | The Silken Swamp | 0.40% | ~391 |
 | Supply Run | 0.40% | ~391 |
@@ -347,6 +347,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~128 |
 | Madcap Adventures Redux | 0.20% | ~128 |
 | Tiamat's Army | 0.20% | ~128 |
+| Show of Strength | 0.20% | ~128 |
 | Fight Dragons with Dragons | 0.20% | ~128 |
 | Questlines | 0.20% | ~128 |
 | Raggadragga's Crew | 0.20% | ~128 |
@@ -472,7 +473,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zapper Overload | 0.10% | ~64 |
 | Best Friend Search Squad! | 0.10% | ~64 |
 | When the Going Gets Tough | 0.10% | ~64 |
-| Show of Strength | 0.10% | ~64 |
 | Just The Worst | 0.10% | ~64 |
 | Fire and Brimstone | 0.10% | ~64 |
 | A Tenday at Golgamann's | 0.10% | ~64 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,685 (Ranked 63)  
+Progressed: 97,738 (Ranked 63)  
 Completed: 1,948 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,6 +560,7 @@ Completed: 1,948 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
+| 2023-06-19 | 97,738 | 1,948 |
 ## Awards
 Max (Diverse Characters): 4,948  (Ranked 64)  
 Sum: 30,140 (Ranked 37)  

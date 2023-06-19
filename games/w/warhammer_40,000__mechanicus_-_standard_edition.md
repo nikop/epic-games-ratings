@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 650)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,665 |
-| This is only the beginning | 19.00% | ~40,785 |
-| Knowledge is power | 12.00% | ~25,759 |
-| Power Ranger | 9.00% | ~19,319 |
-| Galvanic Rifle | 9.00% | ~19,319 |
-| Taser Goad | 9.00% | ~19,319 |
-| Radium Ready | 9.00% | ~19,319 |
-| Half a cog | 9.00% | ~19,319 |
+| No aid from the Omnissiah | 25.00% | ~53,666 |
+| This is only the beginning | 19.00% | ~40,786 |
+| Knowledge is power | 12.00% | ~25,760 |
+| Power Ranger | 9.00% | ~19,320 |
+| Galvanic Rifle | 9.00% | ~19,320 |
+| Taser Goad | 9.00% | ~19,320 |
+| Radium Ready | 9.00% | ~19,320 |
+| Half a cog | 9.00% | ~19,320 |
 | Watch them crumble | 6.00% | ~12,880 |
-| Competent Cohort | 4.00% | ~8,586 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,586 |
-| One with the Machine | 4.00% | ~8,586 |
+| Competent Cohort | 4.00% | ~8,587 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,587 |
+| One with the Machine | 4.00% | ~8,587 |
 | Legio Cybernetica | 3.00% | ~6,440 |
 | Fleshy Disposal | 3.00% | ~6,440 |
 | Battle Servitor | 2.00% | ~4,293 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 650)
 | Perma-live | 0.10% | ~215 |
 | Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,660 (Ranked 50)  
+Progressed: 214,665 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,9 +100,10 @@ Completed: 4 (0.00%) (Ranked 227)
 | 2023-06-16 | 214,359 | 4 |
 | 2023-06-17 | 214,513 | 4 |
 | 2023-06-18 | 214,660 | 4 |
+| 2023-06-19 | 214,665 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 235)  
-Sum: 2,108 (Ranked 186)  
+Sum: 2,109 (Ranked 186)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +115,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
 | This game has Unique Visuals | 205 |
-| This game has a Creative Community | 96 |
+| This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -154,4 +155,4 @@ Diff (max vs sum): 49
 | 2023-06-07 | 4.43 | 278 | 2,104 |
 | 2023-06-10 | 4.43 | 279 | 2,105 |
 | 2023-06-12 | 4.43 | 279 | 2,107 |
-| 2023-06-18 | 4.43 | 280 | 2,108 |
+| 2023-06-18 | 4.43 | 280 | 2,109 |
