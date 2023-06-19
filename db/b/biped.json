@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3350,
+  "EOS_Progressed": 3351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4296,6 +4296,11 @@
       "Time": "2023-06-19T08:06:55.6575058+00:00",
       "NumProgressed": 3350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T09:06:24.7146573+00:00",
+      "NumProgressed": 3351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4323,7 +4328,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "12",
@@ -4426,7 +4431,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3350,
+      "Progressed": 3351,
       "Completed": 0
     }
   ],
@@ -4434,8 +4439,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:06:55.6575054+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:24.7146567+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.5815325+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:58:42.2397762+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:06:55.6575492+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:58:57.0299114+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:24.7146945+00:00"
 }

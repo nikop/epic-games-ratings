@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,193 |
-| That's a Grand Army | 8.00% | ~4,616 |
-| That is mine! | 8.00% | ~4,616 |
-| Victorious! | 8.00% | ~4,616 |
-| Brothers in Arms | 6.00% | ~3,462 |
-| That's a Grand Navy | 6.00% | ~3,462 |
-| Seriously?! | 6.00% | ~3,462 |
-| For the Glory | 5.00% | ~2,885 |
-| Cold War | 4.00% | ~2,308 |
-| True Catholic | 4.00% | ~2,308 |
+| Until death do us apart | 9.00% | ~5,194 |
+| That's a Grand Army | 8.00% | ~4,617 |
+| That is mine! | 8.00% | ~4,617 |
+| Victorious! | 8.00% | ~4,617 |
+| Brothers in Arms | 6.00% | ~3,463 |
+| That's a Grand Navy | 6.00% | ~3,463 |
+| Seriously?! | 6.00% | ~3,463 |
+| For the Glory | 5.00% | ~2,886 |
+| Cold War | 4.00% | ~2,309 |
+| True Catholic | 4.00% | ~2,309 |
 | Defender of the Faith | 3.00% | ~1,731 |
 | It's all about the money | 3.00% | ~1,731 |
 | Respected | 3.00% | ~1,731 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~231 |
 | Tear Down This Wall | 0.40% | ~231 |
 | The Continuation of Diplomacy | 0.40% | ~231 |
-| Wonderful | 0.40% | ~231 |
 | A Decent Reserve | 0.30% | ~173 |
 | A Pile of Gold | 0.30% | ~173 |
 | Grand Duchy | 0.30% | ~173 |
@@ -81,6 +80,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~173 |
 | Traditional Player | 0.30% | ~173 |
 | Vasa or Wettin? | 0.30% | ~173 |
+| Wonderful | 0.30% | ~173 |
 | World Discoverer | 0.30% | ~173 |
 | A Protected Market | 0.20% | ~115 |
 | AAA Credit | 0.20% | ~115 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,701 (Ranked 77)  
+Progressed: 57,716 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
-| 2023-06-19 | 57,701 | 0 |
+| 2023-06-19 | 57,716 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
 Sum: 44,731 (Ranked 27)  

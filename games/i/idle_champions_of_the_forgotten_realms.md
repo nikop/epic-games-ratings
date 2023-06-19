@@ -6,46 +6,46 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,865 |
-| The Cursed Farmer | 3.00% | ~2,942 |
-| Beast Intentions | 2.00% | ~1,961 |
-| The Mad Wizard | 2.00% | ~1,961 |
+| A Brief Tour of the Realms | 7.00% | ~6,869 |
+| The Cursed Farmer | 3.00% | ~2,944 |
+| Beast Intentions | 2.00% | ~1,962 |
+| The Mad Wizard | 2.00% | ~1,962 |
 | Were-verpowered | 1.00% | ~981 |
 | The Ring of Regeneration | 1.00% | ~981 |
 | Seeking Allies | 1.00% | ~981 |
 | Are Ya Chicken? | 1.00% | ~981 |
 | Friendly Imps | 1.00% | ~981 |
 | Mad Cow Disease | 0.90% | ~883 |
-| The Court of Storms | 0.90% | ~579 |
+| The Court of Storms | 0.90% | ~580 |
 | A Persistent Buzzing | 0.80% | ~785 |
 | Pure Energy | 0.80% | ~785 |
 | Terror in the Dark | 0.70% | ~687 |
 | Unearthed Evil | 0.70% | ~687 |
 | The Crumbling Temple | 0.70% | ~687 |
-| Beware the Jabberwock | 0.70% | ~450 |
-| Beast Mode | 0.60% | ~588 |
-| A Mysterious Summons | 0.60% | ~588 |
-| Building Trust | 0.60% | ~588 |
-| Useless Allies | 0.60% | ~588 |
-| Exploring Port Nyanzaru | 0.60% | ~588 |
-| The Contagious Curse | 0.60% | ~588 |
-| Escort to Waterdeep | 0.60% | ~588 |
+| Beware the Jabberwock | 0.70% | ~451 |
+| Beast Mode | 0.60% | ~589 |
+| A Mysterious Summons | 0.60% | ~589 |
+| Building Trust | 0.60% | ~589 |
+| Useless Allies | 0.60% | ~589 |
+| Exploring Port Nyanzaru | 0.60% | ~589 |
+| The Contagious Curse | 0.60% | ~589 |
+| Escort to Waterdeep | 0.60% | ~589 |
 | Coasting to the Finish | 0.60% | ~386 |
-| Maddening | 0.50% | ~490 |
+| Maddening | 0.50% | ~491 |
 | Checkmate | 0.50% | ~322 |
 | Vecna Out! | 0.50% | ~322 |
-| Low Initiative | 0.50% | ~490 |
-| No Time To Rest | 0.50% | ~490 |
-| Running of the Saurs | 0.50% | ~490 |
-| Waterdeep Detours | 0.50% | ~490 |
-| Underdeep Cartography | 0.50% | ~490 |
+| Low Initiative | 0.50% | ~491 |
+| No Time To Rest | 0.50% | ~491 |
+| Running of the Saurs | 0.50% | ~491 |
+| Waterdeep Detours | 0.50% | ~491 |
+| Underdeep Cartography | 0.50% | ~491 |
 | Quick or Quack | 0.50% | ~322 |
 | The Silken Swamp | 0.40% | ~392 |
 | Supply Run | 0.40% | ~392 |
-| Owlbear Necessities | 0.40% | ~257 |
-| Best Thay Ever | 0.40% | ~257 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~257 |
-| Pin and Skewer | 0.40% | ~257 |
+| Owlbear Necessities | 0.40% | ~258 |
+| Best Thay Ever | 0.40% | ~258 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~258 |
+| Pin and Skewer | 0.40% | ~258 |
 | Street War | 0.40% | ~392 |
 | March of the Undead | 0.40% | ~392 |
 | Invisible Shadows | 0.40% | ~392 |
@@ -119,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.30% | ~193 |
 | Look Out! | 0.30% | ~193 |
 | Bad Odds in Avernus | 0.30% | ~193 |
+| The Lost Hollyphant | 0.30% | ~193 |
 | An Even Worse Time in Avernus | 0.30% | ~193 |
 | The Giant's Bane Tavern | 0.30% | ~193 |
 | The Everlasting Rime | 0.30% | ~193 |
@@ -127,6 +128,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.30% | ~294 |
 | Easily Distracted | 0.30% | ~294 |
 | Rude Welcome | 0.30% | ~294 |
+| Moose Tracks | 0.30% | ~193 |
 | Durable Deep | 0.30% | ~294 |
 | Witty Riposting | 0.30% | ~193 |
 | How Far Away is Thay | 0.30% | ~193 |
@@ -342,7 +344,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~129 |
 | The Path of Redcaps | 0.20% | ~129 |
 | The Path of Trials | 0.20% | ~129 |
-| The Lost Hollyphant | 0.20% | ~129 |
 | Alterdeep | 0.20% | ~129 |
 | Elder Rune Attack | 0.20% | ~129 |
 | The Gargoyle | 0.20% | ~129 |
@@ -363,7 +364,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.20% | ~129 |
 | Mirage Arcane | 0.20% | ~129 |
 | Only Human | 0.20% | ~129 |
-| Moose Tracks | 0.20% | ~129 |
 | An Awakened Axe | 0.20% | ~129 |
 | CONtagious Cold | 0.20% | ~129 |
 | Ten in Ten-Towns | 0.20% | ~129 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~64 |
 | Ineffectual Intellectuals | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,074 (Ranked 63)  
-Completed: 1,949 (1.99%) (Ranked 73)  
+Progressed: 98,123 (Ranked 63)  
+Completed: 1,950 (1.99%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -560,7 +560,7 @@ Completed: 1,949 (1.99%) (Ranked 73)
 | 2023-06-16 | 94,225 | 1,942 |
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
-| 2023-06-19 | 98,074 | 1,949 |
+| 2023-06-19 | 98,123 | 1,950 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,141 (Ranked 37)  

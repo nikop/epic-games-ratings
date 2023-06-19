@@ -32,11 +32,11 @@
 | Right On Time | 8.00% | ~57 |
 | Street Style | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
+| Good Neighbor | 7.00% | ~50 |
 | Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
 | Sump Explorer | 6.00% | ~42 |
 | Ask Questions Later | 6.00% | ~42 |
-| Good Neighbor | 6.00% | ~42 |
 | Cultivair Explorer | 5.00% | ~35 |
 | Factorywood Explorer | 5.00% | ~35 |
 | Fairgrounds Explorer | 5.00% | ~35 |
@@ -52,7 +52,7 @@
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Wunderkind | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
-| Wildlife Protection | 0.40% | ~3 |
+| Wildlife Protection | 0.60% | ~4 |
 | A Lesson in Precision | 0.40% | ~3 |
 | Going to Live Forever | 0.30% | ~2 |
 | Raw Talent | 0.30% | ~2 |

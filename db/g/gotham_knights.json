@@ -1640,9 +1640,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65614,
+  "EOS_Progressed": 65618,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6920,6 +6920,11 @@
       "Time": "2023-06-19T07:07:05.5881825+00:00",
       "NumProgressed": 65614,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-19T09:06:53.2329885+00:00",
+      "NumProgressed": 65618,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6979,7 +6984,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -7155,7 +7160,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "FREEZE_1_5",
@@ -7243,7 +7248,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "HARLEY_3",
@@ -7307,7 +7312,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -7331,7 +7336,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "MYSTERY_03",
@@ -7418,13 +7423,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65614,
+      "Progressed": 65618,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35894,
+      "Progressed": 35898,
       "Completed": 2646
     }
   ],
@@ -7432,8 +7437,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-19T08:00:57.2736953+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:07:32.3760459+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:53.2329883+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:00:57.2736959+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:07:32.3761543+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:00:36.7485527+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:53.2330816+00:00"
 }

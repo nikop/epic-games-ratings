@@ -6,37 +6,37 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,486 |
-| Resurgence | 2.00% | ~11,486 |
-| Preemptive Strike | 2.00% | ~11,486 |
-| Humanitarian | 2.00% | ~11,486 |
-| Unforgettable Getaway | 1.00% | ~5,743 |
-| Wounded Healer | 1.00% | ~5,743 |
-| Old West Oasis | 1.00% | ~5,743 |
-| Close Shave | 1.00% | ~5,743 |
-| Flight to Freedom | 1.00% | ~5,743 |
-| First to the Punch | 0.90% | ~5,169 |
-| With Scars to Show | 0.90% | ~5,169 |
-| Operation: Survival | 0.80% | ~4,594 |
-| Classy Act | 0.80% | ~4,594 |
-| Every Last Drop | 0.80% | ~4,594 |
-| Raccoon City Recruit | 0.80% | ~4,594 |
-| Cutting Out | 0.70% | ~4,020 |
-| A Fast Death | 0.70% | ~4,020 |
-| Lifting The Fog | 0.70% | ~4,020 |
-| Chorus of Chaos | 0.70% | ~4,020 |
+| Healthy Obsession | 2.00% | ~11,488 |
+| Resurgence | 2.00% | ~11,488 |
+| Preemptive Strike | 2.00% | ~11,488 |
+| Humanitarian | 2.00% | ~11,488 |
+| Unforgettable Getaway | 1.00% | ~5,744 |
+| Wounded Healer | 1.00% | ~5,744 |
+| Old West Oasis | 1.00% | ~5,744 |
+| Close Shave | 1.00% | ~5,744 |
+| Flight to Freedom | 1.00% | ~5,744 |
+| First to the Punch | 0.90% | ~5,170 |
+| Every Last Drop | 0.90% | ~5,170 |
+| With Scars to Show | 0.90% | ~5,170 |
+| Operation: Survival | 0.80% | ~4,595 |
+| Classy Act | 0.80% | ~4,595 |
+| Raccoon City Recruit | 0.80% | ~4,595 |
+| Cutting Out | 0.70% | ~4,021 |
+| A Fast Death | 0.70% | ~4,021 |
+| Lifting The Fog | 0.70% | ~4,021 |
+| Chorus of Chaos | 0.70% | ~4,021 |
 | Ancestor's Rite | 0.60% | ~3,446 |
 | Outrun Evil | 0.60% | ~3,446 |
 | Grim Pilgrimage | 0.60% | ~3,446 |
-| Devoted Gatekeeping | 0.50% | ~2,871 |
-| Shrine Apparatus | 0.50% | ~2,871 |
-| Selfless Survival | 0.50% | ~2,871 |
-| End of Days | 0.50% | ~2,871 |
-| Outrun the Overlap | 0.50% | ~2,871 |
-| Broken Bodies | 0.40% | ~2,297 |
-| I See You | 0.40% | ~2,297 |
-| Insult and Injury | 0.40% | ~2,297 |
-| Rebuilding The Borgo | 0.40% | ~2,297 |
+| Devoted Gatekeeping | 0.50% | ~2,872 |
+| Shrine Apparatus | 0.50% | ~2,872 |
+| Selfless Survival | 0.50% | ~2,872 |
+| End of Days | 0.50% | ~2,872 |
+| Outrun the Overlap | 0.50% | ~2,872 |
+| Broken Bodies | 0.40% | ~2,298 |
+| I See You | 0.40% | ~2,298 |
+| Insult and Injury | 0.40% | ~2,298 |
+| Rebuilding The Borgo | 0.40% | ~2,298 |
 | Heavy Burden | 0.30% | ~1,723 |
 | Power Moves | 0.30% | ~1,723 |
 | Punch Drunk | 0.30% | ~1,723 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~574 |
 | Adept Gabriel | 0.10% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574,295 (Ranked 26)  
+Progressed: 574,399 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-16 | 563,113 | 42 |
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
-| 2023-06-19 | 574,295 | 42 |
+| 2023-06-19 | 574,399 | 42 |
 ## Awards
 Max (Diverse Characters): 28,640  (Ranked 15)  
-Sum: 228,544 (Ranked 12)  
+Sum: 228,566 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 25,854 |
 | This game is Extremely Fun | 25,793 |
 | This game has Quickly Understood Controls | 25,628 |
-| This game has Challenging Combat | 24,990 |
+| This game has Challenging Combat | 25,012 |
 | This game has Amazing Storytelling | 23,559 |
 | This game has a Competitive Community | 21,812 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 3
 | 2023-06-16 | 4.52 | - | 28,559 | 227,936 |
 | 2023-06-17 | 4.52 | - | 28,602 | 228,232 |
 | 2023-06-18 | 4.52 | - | 28,640 | 228,507 |
-| 2023-06-19 | 4.52 | - | 28,640 | 228,544 |
+| 2023-06-19 | 4.52 | - | 28,640 | 228,566 |

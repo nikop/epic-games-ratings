@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2378,
+  "EOS_Progressed": 2379,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
@@ -2698,6 +2698,11 @@
       "Time": "2023-06-18T23:07:17.1107145+00:00",
       "NumProgressed": 2378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T09:06:47.3010193+00:00",
+      "NumProgressed": 2379,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2717,7 +2722,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2733,7 +2738,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2749,7 +2754,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2773,7 +2778,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2789,7 +2794,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2813,7 +2818,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2885,7 +2890,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2893,7 +2898,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2917,7 +2922,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2925,7 +2930,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2941,7 +2946,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2973,7 +2978,7 @@
       "Name": "Capelworth",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3069,7 +3074,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3085,7 +3090,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3132,7 +3137,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2378,
+      "Progressed": 2379,
       "Completed": 2
     }
   ],
@@ -3140,8 +3145,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:07:24.4558404+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:47.3010187+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:58:08.183816+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:07:24.4559036+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:58:25.3813103+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:47.3010865+00:00"
 }

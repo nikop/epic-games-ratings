@@ -332,9 +332,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3022,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3962,6 +3962,11 @@
       "Time": "2023-06-19T05:05:52.1937397+00:00",
       "NumProgressed": 3022,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T09:06:49.2021693+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4035,9 +4040,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 393
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4381,7 +4386,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4540,13 +4545,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2973,
+      "Progressed": 2974,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3022,
+      "Progressed": 3023,
       "Completed": 2
     }
   ],
@@ -4554,8 +4559,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:07:27.4149357+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:49.2021689+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:01:58.1861195+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:07:27.4150277+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:01:24.7566728+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:49.2022605+00:00"
 }

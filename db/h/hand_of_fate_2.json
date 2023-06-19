@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658128,
+  "EOS_Progressed": 658130,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6400,6 +6400,11 @@
       "Time": "2023-06-19T08:07:17.8151363+00:00",
       "NumProgressed": 658128,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-19T09:06:41.806119+00:00",
+      "NumProgressed": 658130,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6411,7 +6416,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473852
+      "UsersEstimate": 473854
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6419,7 +6424,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381714
+      "UsersEstimate": 381715
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6427,7 +6432,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151369
+      "UsersEstimate": 151370
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -6547,7 +6552,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151369
+      "UsersEstimate": 151370
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -6651,7 +6656,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78975
+      "UsersEstimate": 78976
     },
     {
       "ID": "Achievement_32_Karma",
@@ -6721,9 +6726,9 @@
       "ID": "Achievement_40_Broken_Heart",
       "SetID": "27hb4pl",
       "Name": "Broken Heart",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39488
+      "UsersEstimate": 46069
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -6794,15 +6799,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658128,
+      "Progressed": 658130,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:07:17.8151356+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:41.8061185+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:58:11.1192006+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:07:17.815213+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:58:28.6126289+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:41.8061906+00:00"
 }

@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 58757,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6751,9 +6751,9 @@
       "ID": "WEIGHTLESS",
       "SetID": "30359jm",
       "Name": "WEIGHTLESS",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6463
+      "UsersEstimate": 7051
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -6776,8 +6776,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:07:04.7406122+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:31.3973416+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:02.6918412+00:00",
-  "LastUpdate_Ratings": "2023-06-19T08:00:33.2322718+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:07:04.7406714+00:00"
+  "LastUpdate_Ratings": "2023-06-19T09:00:19.4833965+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:31.3974032+00:00"
 }

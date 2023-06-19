@@ -21,7 +21,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Final Battle of the First Hero | 25.00% | ~1,961 |
 | Brain at Full Throttle | 22.00% | ~1,726 |
 | Rookies Welcome | 20.00% | ~1,569 |
-| Deadly Power | 15.00% | ~1,177 |
+| Deadly Power | 16.00% | ~1,255 |
 | Castle Restoration Plans | 14.00% | ~1,098 |
 | The Dwarven Chandelier | 12.00% | ~941 |
 | Master of Speed | 9.00% | ~706 |

@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225120,
+  "EOS_Progressed": 225126,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6353,6 +6353,11 @@
       "Time": "2023-06-19T08:06:59.6850895+00:00",
       "NumProgressed": 225120,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-19T09:06:27.6994782+00:00",
+      "NumProgressed": 225126,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -6380,7 +6385,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63034
+      "UsersEstimate": 63035
     },
     {
       "ID": "CENTAUR",
@@ -6396,7 +6401,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24763
+      "UsersEstimate": 24764
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -6404,7 +6409,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15758
+      "UsersEstimate": 15759
     },
     {
       "ID": "DRAGOON",
@@ -6412,7 +6417,7 @@
       "Name": "DRAGOON",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ENLIGHTENED",
@@ -6436,7 +6441,7 @@
       "Name": "FLAWLESS",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "GILA",
@@ -6452,7 +6457,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45024
+      "UsersEstimate": 45025
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -6500,7 +6505,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 72038
+      "UsersEstimate": 72040
     },
     {
       "ID": "NOBUNAGA",
@@ -6532,7 +6537,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15758
+      "UsersEstimate": 15759
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -6548,7 +6553,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "QAREEN",
@@ -6564,7 +6569,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -6572,7 +6577,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "SHOWOFF",
@@ -6588,7 +6593,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49526
+      "UsersEstimate": 49528
     },
     {
       "ID": "TACTICIAN",
@@ -6612,7 +6617,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49526
+      "UsersEstimate": 49528
     },
     {
       "ID": "TUNINGMANIAC",
@@ -6628,22 +6633,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92299
+      "UsersEstimate": 92302
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 225120,
+      "Progressed": 225126,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-19T08:06:59.6850891+00:00",
+  "LastChanged_Achievements": "2023-06-19T09:06:27.6994777+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.9601749+00:00",
-  "LastUpdate_Ratings": "2023-06-19T07:59:00.6472716+00:00",
-  "LastUpdate_Achievements": "2023-06-19T08:06:59.6851785+00:00"
+  "LastUpdate_Ratings": "2023-06-19T08:59:11.2742091+00:00",
+  "LastUpdate_Achievements": "2023-06-19T09:06:27.6995449+00:00"
 }
