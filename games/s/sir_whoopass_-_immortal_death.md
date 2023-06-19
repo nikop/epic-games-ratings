@@ -36,7 +36,7 @@
 | Karaoke king | 35.00% | ~28 |
 | You can't stop me, bro! | 35.00% | ~28 |
 | Catch the bus with me! | 33.00% | ~27 |
-| I'm going to get a concussion | 32.00% | ~26 |
+| I'm going to get a concussion | 33.00% | ~27 |
 | Meatballs, coming up! | 30.00% | ~24 |
 | A Megapint...? | 30.00% | ~24 |
 | Another one bites the iron | 27.00% | ~22 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 297)  
+Progressed: 81 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |

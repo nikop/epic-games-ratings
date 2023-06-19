@@ -2,12 +2,12 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 238,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 3843,
   "RatingHistory": [
     {
@@ -3111,6 +3111,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 5344,
       "NumberOfAwardsMax": 3179
+    },
+    {
+      "Time": "2023-06-19T02:08:30.2630652+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5344,
+      "NumberOfAwardsMax": 3179
     }
   ],
   "ReviewsDisabled": false,
@@ -3202,8 +3208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2023-06-18T02:21:08.2798175+00:00",
+  "LastChanged": "2023-06-19T02:08:30.2630651+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:26.7480811+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:58:16.3940904+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:03:39.3015969+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:30.2630657+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:13:47.2176478+00:00"
 }

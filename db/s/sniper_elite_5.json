@@ -332,9 +332,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3019,
+  "EOS_Progressed": 3020,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3947,6 +3947,11 @@
       "Time": "2023-06-19T00:07:42.7776925+00:00",
       "NumProgressed": 3019,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-19T02:16:48.6364232+00:00",
+      "NumProgressed": 3020,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4196,9 +4201,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 362
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4292,9 +4297,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 513
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4350,7 +4355,7 @@
       "Name": "Target America",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4525,13 +4530,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2970,
+      "Progressed": 2971,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3019,
+      "Progressed": 3020,
       "Completed": 2
     }
   ],
@@ -4539,8 +4544,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:42.7776918+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:48.6364227+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:01:58.3994486+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:42.7777906+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:11:02.380666+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:48.6365138+00:00"
 }

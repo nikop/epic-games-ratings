@@ -3832,10 +3832,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37312,
       "NumberOfAwardsMax": 20122
+    },
+    {
+      "Time": "2023-06-19T02:08:11.9203933+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37332,
+      "NumberOfAwardsMax": 20122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37312,
+  "NumberOfAwards": 37332,
   "NumberOfAwardsMax": 20122,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3849,7 +3855,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9552
+      "Count": 9572
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3912,9 +3918,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 280639,
+  "EOS_Progressed": 280648,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1938,
+  "EOS_NewPlayers": 1914,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10102,6 +10108,11 @@
       "Time": "2023-06-19T00:06:09.156512+00:00",
       "NumProgressed": 280639,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-19T02:15:43.1029233+00:00",
+      "NumProgressed": 280648,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10185,7 +10196,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "PFA_19",
@@ -10233,7 +10244,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22451
+      "UsersEstimate": 22452
     },
     {
       "ID": "PFA_24",
@@ -10337,7 +10348,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "PFA_36",
@@ -10353,7 +10364,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "PFA_38",
@@ -10417,7 +10428,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "PFA_45",
@@ -10441,7 +10452,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22451
+      "UsersEstimate": 22452
     },
     {
       "ID": "PFA_7",
@@ -10449,7 +10460,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22451
+      "UsersEstimate": 22452
     },
     {
       "ID": "PFA_8",
@@ -10465,23 +10476,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280639,
+      "Progressed": 280648,
       "Completed": 408
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-18T19:57:38.4044986+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:06:09.1565114+00:00",
+  "LastChanged": "2023-06-19T02:08:11.9203931+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:15:43.1029224+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:57:50.1515144+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:06:09.1566047+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:11.9203937+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:15:43.1029991+00:00"
 }

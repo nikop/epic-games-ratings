@@ -16,6 +16,7 @@
 | Tactician | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
+| Tail-wind | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
@@ -24,7 +25,6 @@
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Acquaintance | 0.90% | ~1 |
-| Tail-wind | 0.90% | ~1 |
 | Taskmaster | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
 | Trouble at Fort Larius | 0.90% | ~1 |

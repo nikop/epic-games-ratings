@@ -1,26 +1,26 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 851)  
+Rating: 4.18 (Ranked 850)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,718 |
-| Worker Specialization | 78.00% | ~4,658 |
-| First Contact | 73.00% | ~4,360 |
-| Win a Battle | 67.00% | ~4,001 |
-| Anomaly Researcher | 63.00% | ~3,762 |
-| Unleash My Power | 62.00% | ~3,703 |
-| Own 30 Planets | 35.00% | ~2,090 |
-| Xenocide | 33.00% | ~1,971 |
-| Design a Civilization | 32.00% | ~1,911 |
-| Commodity Trader | 31.00% | ~1,851 |
-| Design a Ship | 29.00% | ~1,732 |
-| Commodity Seller | 26.00% | ~1,553 |
-| Prestige Victory! | 14.00% | ~836 |
+| Colonize a Planet | 79.00% | ~4,720 |
+| Worker Specialization | 78.00% | ~4,660 |
+| First Contact | 73.00% | ~4,362 |
+| Win a Battle | 67.00% | ~4,003 |
+| Anomaly Researcher | 63.00% | ~3,764 |
+| Unleash My Power | 62.00% | ~3,704 |
+| Own 30 Planets | 35.00% | ~2,091 |
+| Xenocide | 33.00% | ~1,972 |
+| Design a Civilization | 32.00% | ~1,912 |
+| Commodity Trader | 31.00% | ~1,852 |
+| Design a Ship | 29.00% | ~1,733 |
+| Commodity Seller | 26.00% | ~1,554 |
+| Prestige Victory! | 14.00% | ~837 |
 | Galactic War | 11.00% | ~657 |
-| Trading Partner | 9.00% | ~537 |
+| Trading Partner | 9.00% | ~538 |
 | Fleet Victory | 8.00% | ~478 |
 | Win as Terrans | 7.00% | ~418 |
 | Gain an Ally | 6.00% | ~358 |
@@ -30,11 +30,11 @@ Number of Ratings: 429  (23.09.2022)
 | Conquest Victory! | 4.00% | ~239 |
 | Win an Immense Game | 4.00% | ~239 |
 | Pirate Cleansing | 3.00% | ~179 |
-| Artifact Mastery | 2.00% | ~119 |
-| Win as Altarians | 2.00% | ~119 |
-| Win as the Mimot | 2.00% | ~119 |
-| Win as the Yor | 2.00% | ~119 |
-| Influence Victory! | 2.00% | ~119 |
+| Artifact Mastery | 2.00% | ~120 |
+| Win as Altarians | 2.00% | ~120 |
+| Win as the Mimot | 2.00% | ~120 |
+| Win as the Yor | 2.00% | ~120 |
+| Influence Victory! | 2.00% | ~120 |
 | Win as Arceans | 1.00% | ~60 |
 | Win as the Baratak | 1.00% | ~60 |
 | Win as Festron | 1.00% | ~60 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,972 (Ranked 127)  
+Progressed: 5,975 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 5,948 | 0 |
 | 2023-06-17 | 5,956 | 0 |
 | 2023-06-18 | 5,972 | 0 |
+| 2023-06-19 | 5,975 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 341)  
 Sum: 663 (Ranked 272)  

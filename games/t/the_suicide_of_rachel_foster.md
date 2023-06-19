@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 851)  
+Rating: 4.18 (Ranked 850)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 71  (23.09.2022)
 | Screwdriver | 44.00% | ~516 |
 | Cutepie | 42.00% | ~492 |
 | Someone was here | 41.00% | ~481 |
-| Ghost Hunters | 40.00% | ~469 |
+| Ghost Hunters | 41.00% | ~481 |
 | Alone | 39.00% | ~457 |
 | Pack Rat | 39.00% | ~457 |
 | All together, again | 34.00% | ~398 |

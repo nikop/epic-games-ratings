@@ -4,7 +4,7 @@
   "ProductSlug": "at-eves-wake",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T06:58:21.5477392+00:00",
   "LastChanged": "2023-03-31T06:58:21.5477393+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:39.2164817+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:01:26.6844805+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:06:43.7096133+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:10:40.3483576+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:06.4771848+00:00"
 }

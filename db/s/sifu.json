@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4692,9 +4692,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 709768,
+  "EOS_Progressed": 709772,
   "EOS_Completed": 12776,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 924,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10387,6 +10387,11 @@
       "Time": "2023-06-19T00:07:45.9885221+00:00",
       "NumProgressed": 709768,
       "NumCompleted": 12776
+    },
+    {
+      "Time": "2023-06-19T02:16:50.9888443+00:00",
+      "NumProgressed": 709772,
+      "NumCompleted": 12776
     }
   ],
   "TotalAchievements": 50,
@@ -10742,7 +10747,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10766,7 +10771,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -10797,21 +10802,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19069,
+      "Progressed": 19073,
       "Completed": 10283
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709768,
+      "Progressed": 709772,
       "Completed": 12776
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-18T21:59:58.6377814+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:45.9885215+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:50.9888433+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:59:56.4569124+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:45.9886033+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:09:38.4445721+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:50.9889267+00:00"
 }

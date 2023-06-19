@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2152,6 +2152,11 @@
       "Time": "2023-06-18T21:06:25.4767406+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T02:16:52.1443062+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2163,7 +2168,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "A01",
@@ -2187,7 +2192,7 @@
       "Name": "Resistance is futile",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "A04",
@@ -2275,7 +2280,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "A15",
@@ -2289,9 +2294,9 @@
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 216
     },
     {
       "ID": "A17",
@@ -2387,7 +2392,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A29",
@@ -2411,7 +2416,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "A32",
@@ -2443,7 +2448,7 @@
       "Name": "Traffic Junction",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "A36",
@@ -2451,7 +2456,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "A37",
@@ -2483,7 +2488,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "A41",
@@ -2505,9 +2510,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 355
     },
     {
       "ID": "A44",
@@ -2531,7 +2536,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "A47",
@@ -2539,7 +2544,7 @@
       "Name": "Travel Company",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "A48",
@@ -2602,7 +2607,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 0
     }
   ],
@@ -2610,8 +2615,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:47.5561635+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:52.1443056+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:58:43.2719163+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:47.5562466+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:48.4043699+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:52.1443673+00:00"
 }

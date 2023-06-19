@@ -17,10 +17,10 @@
 | Master Mechanic | 12.00% | ~5 |
 | Pancake Day | 12.00% | ~5 |
 | Notorious Pirate | 7.00% | ~3 |
+| Master Miner | 7.00% | ~3 |
 | Ray of Sunshine | 7.00% | ~3 |
 | Master Firefighter | 5.00% | ~2 |
 | Family Reunion | 5.00% | ~2 |
-| Master Miner | 5.00% | ~2 |
 | Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Just Lazy | 0.00% | ~0 |

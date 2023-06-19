@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,185 |
-| That's a Grand Army | 8.00% | ~4,609 |
-| That is mine! | 8.00% | ~4,609 |
-| Victorious! | 8.00% | ~4,609 |
-| Brothers in Arms | 6.00% | ~3,457 |
-| That's a Grand Navy | 6.00% | ~3,457 |
-| Seriously?! | 6.00% | ~3,457 |
-| For the Glory | 5.00% | ~2,881 |
-| Cold War | 4.00% | ~2,305 |
-| True Catholic | 4.00% | ~2,305 |
-| Defender of the Faith | 3.00% | ~1,728 |
-| It's all about the money | 3.00% | ~1,728 |
-| Respected | 3.00% | ~1,728 |
-| Truly Divine Ruler | 3.00% | ~1,728 |
-| Agressive Expander | 2.00% | ~1,152 |
-| Blockader | 2.00% | ~1,152 |
-| Combined Arms | 2.00% | ~1,152 |
-| Double the Love | 2.00% | ~1,152 |
-| Gentle Persuasion | 2.00% | ~1,152 |
-| It's all about luck | 2.00% | ~1,152 |
-| My armies are invincible! | 2.00% | ~1,152 |
-| Queen of Conquest | 2.00% | ~1,152 |
-| Royal Authority | 2.00% | ~1,152 |
-| The Princess is in this Castle | 2.00% | ~1,152 |
-| Total Control | 2.00% | ~1,152 |
+| Until death do us apart | 9.00% | ~5,188 |
+| That's a Grand Army | 8.00% | ~4,611 |
+| That is mine! | 8.00% | ~4,611 |
+| Victorious! | 8.00% | ~4,611 |
+| Brothers in Arms | 6.00% | ~3,459 |
+| That's a Grand Navy | 6.00% | ~3,459 |
+| Seriously?! | 6.00% | ~3,459 |
+| For the Glory | 5.00% | ~2,882 |
+| Cold War | 4.00% | ~2,306 |
+| True Catholic | 4.00% | ~2,306 |
+| Defender of the Faith | 3.00% | ~1,729 |
+| It's all about the money | 3.00% | ~1,729 |
+| Respected | 3.00% | ~1,729 |
+| Truly Divine Ruler | 3.00% | ~1,729 |
+| Agressive Expander | 2.00% | ~1,153 |
+| Blockader | 2.00% | ~1,153 |
+| Combined Arms | 2.00% | ~1,153 |
+| Double the Love | 2.00% | ~1,153 |
+| Gentle Persuasion | 2.00% | ~1,153 |
+| It's all about luck | 2.00% | ~1,153 |
+| My armies are invincible! | 2.00% | ~1,153 |
+| Queen of Conquest | 2.00% | ~1,153 |
+| Royal Authority | 2.00% | ~1,153 |
+| The Princess is in this Castle | 2.00% | ~1,153 |
+| Total Control | 2.00% | ~1,153 |
 | All That's Thine Shall Be Mine | 1.00% | ~576 |
 | Azur semé de lis or | 1.00% | ~576 |
 | Bright Spark | 1.00% | ~576 |
@@ -56,20 +56,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~288 |
 | Trophy Hunter | 0.50% | ~288 |
 | Voting Streak | 0.50% | ~288 |
-| Absolutely | 0.40% | ~230 |
-| All Your Trade Are Belong to Us | 0.40% | ~230 |
-| Bleed Them Dry | 0.40% | ~230 |
-| Dude, Where's my Boat? | 0.40% | ~230 |
-| Four For Trade | 0.40% | ~230 |
-| Global Hegemony | 0.40% | ~230 |
-| Grand Coalition | 0.40% | ~230 |
-| In the Name of the Father | 0.40% | ~230 |
-| Italian Ambition | 0.40% | ~230 |
-| Just a Little Patience | 0.40% | ~230 |
-| Live Long and Prosper | 0.40% | ~230 |
-| One Night in Paris | 0.40% | ~230 |
-| Tear Down This Wall | 0.40% | ~230 |
-| The Continuation of Diplomacy | 0.40% | ~230 |
+| Absolutely | 0.40% | ~231 |
+| All Your Trade Are Belong to Us | 0.40% | ~231 |
+| Bleed Them Dry | 0.40% | ~231 |
+| Dude, Where's my Boat? | 0.40% | ~231 |
+| Four For Trade | 0.40% | ~231 |
+| Global Hegemony | 0.40% | ~231 |
+| Grand Coalition | 0.40% | ~231 |
+| In the Name of the Father | 0.40% | ~231 |
+| Italian Ambition | 0.40% | ~231 |
+| Just a Little Patience | 0.40% | ~231 |
+| Live Long and Prosper | 0.40% | ~231 |
+| One Night in Paris | 0.40% | ~231 |
+| Tear Down This Wall | 0.40% | ~231 |
+| The Continuation of Diplomacy | 0.40% | ~231 |
 | A Decent Reserve | 0.30% | ~173 |
 | A Pile of Gold | 0.30% | ~173 |
 | Grand Duchy | 0.30% | ~173 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,616 (Ranked 77)  
+Progressed: 57,643 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,10 +421,10 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 56,464 | 0 |
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
-| 2023-06-19 | 57,616 | 0 |
+| 2023-06-19 | 57,643 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
-Sum: 44,715 (Ranked 27)  
+Sum: 44,719 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -436,7 +436,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 5,018 |
 | This game has Competitive Players | 4,871 |
 | This game has Amazing Storytelling | 4,600 |
-| This game has Amazing Characters | 4,248 |
+| This game has Amazing Characters | 4,252 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -594,3 +594,4 @@ Diff (max vs sum): 34
 | 2023-06-16 | 4.69 | - | 5,397 | 44,627 |
 | 2023-06-17 | 4.69 | - | 5,404 | 44,681 |
 | 2023-06-18 | 4.68 | - | 5,412 | 44,715 |
+| 2023-06-19 | 4.68 | - | 5,412 | 44,719 |

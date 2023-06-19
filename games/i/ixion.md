@@ -12,10 +12,10 @@ Rating: 4.56 (Ranked 452)
 | Space Society | 10.00% | ~268 |
 | A Thousand Strong | 10.00% | ~268 |
 | Ready for a New World | 10.00% | ~268 |
+| Fully Recycled | 8.00% | ~215 |
 | Permanent Redesigns | 8.00% | ~215 |
 | Ain't Nobody Got Time for That | 8.00% | ~215 |
 | Guy de Borderlands | 7.00% | ~188 |
-| Fully Recycled | 7.00% | ~188 |
 | Breaking Protocol | 7.00% | ~188 |
 | The Ship of Theseus | 7.00% | ~188 |
 | Hope Seeker | 7.00% | ~188 |

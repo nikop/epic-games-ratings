@@ -9,9 +9,9 @@
 | IT MAKES BOOM! | 41.00% | ~1,152 |
 | PRO | 32.00% | ~899 |
 | PROTECTED | 30.00% | ~843 |
+| AGGRESSIVE RACER | 30.00% | ~843 |
 | A TIGER'S FEAR | 29.00% | ~815 |
 | HERE ARE SOME BARE NECESSITIES | 29.00% | ~815 |
-| AGGRESSIVE RACER | 29.00% | ~815 |
 | ACE SPEEDSTER | 22.00% | ~618 |
 | IT'S A LONG WAY TO THE TOP | 18.00% | ~506 |
 | MASTER | 13.00% | ~365 |
@@ -29,7 +29,7 @@
 | EXPERIENCED CREW | 4.00% | ~112 |
 | FRAMED! | 3.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,809 (Ranked 148)  
+Progressed: 2,810 (Ranked 148)  
 Completed: 43 (1.53%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 43 (1.53%) (Ranked 83)
 | 2023-06-16 | 2,796 | 34 |
 | 2023-06-17 | 2,804 | 42 |
 | 2023-06-18 | 2,809 | 43 |
+| 2023-06-19 | 2,810 | 43 |

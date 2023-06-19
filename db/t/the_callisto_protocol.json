@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -624,10 +624,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 319,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-06-19T02:08:39.4831139+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 319,
+  "NumberOfAwards": 320,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -665,7 +671,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has a Creative Community",
@@ -674,9 +680,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15446,
+  "EOS_Progressed": 15447,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4294,6 +4300,11 @@
       "Time": "2023-06-19T00:05:28.7393208+00:00",
       "NumProgressed": 15446,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-19T02:15:15.3298402+00:00",
+      "NumProgressed": 15447,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4337,7 +4348,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4537,7 +4548,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4624,22 +4635,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15446,
+      "Progressed": 15447,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3372,
+      "Progressed": 3373,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-18T20:58:12.6935394+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:05:28.7393201+00:00",
+  "LastChanged": "2023-06-19T02:08:39.4831137+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:15:15.3298395+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:58:31.0776889+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:05:28.7393882+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:39.4831143+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:15:15.3298945+00:00"
 }

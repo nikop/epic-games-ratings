@@ -9,9 +9,9 @@ Rating: 4.32 (Ranked 755)
 | Luc Piette | 75.00% | ~292 |
 | Angeline Van den Bosch | 73.00% | ~285 |
 | Elizabeth Padget | 69.00% | ~269 |
-| Little Grey Cells | 67.00% | ~261 |
+| Little Grey Cells | 68.00% | ~265 |
 | The Bracelet | 64.00% | ~250 |
-| The Blackmail | 54.00% | ~211 |
+| The Blackmail | 55.00% | ~215 |
 | Florette Duval | 54.00% | ~211 |
 | Major Felix Hagen | 54.00% | ~211 |
 | Fine-toothed Comb | 53.00% | ~207 |
@@ -25,7 +25,7 @@ Rating: 4.32 (Ranked 755)
 | The Interrogations | 43.00% | ~168 |
 | Well-acquainted | 41.00% | ~160 |
 | Zakariya Demir | 41.00% | ~160 |
-| Well-read | 37.00% | ~144 |
+| Well-read | 38.00% | ~148 |
 | Cassandra Van den Bosch | 36.00% | ~140 |
 | The Secret | 36.00% | ~140 |
 | Gedeon Demir | 34.00% | ~133 |

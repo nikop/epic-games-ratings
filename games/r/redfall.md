@@ -11,8 +11,8 @@ Rating: 3.48 (Ranked 945)
 | Wounded Whispers | 59.00% | ~999 |
 | Blood Will Have Blood | 50.00% | ~846 |
 | ICU | 45.00% | ~762 |
+| Catch and Release | 44.00% | ~745 |
 | Peek-a-boo | 43.00% | ~728 |
-| Catch and Release | 43.00% | ~728 |
 | Sucks To Be You | 42.00% | ~711 |
 | Welcome to the Neighborhood | 37.00% | ~626 |
 | Fly Fisher | 35.00% | ~593 |
@@ -20,8 +20,8 @@ Rating: 3.48 (Ranked 945)
 | Enter of Your Own Free Will | 32.00% | ~542 |
 | Heart Attack | 31.00% | ~525 |
 | Skin of Their Teeth | 30.00% | ~508 |
-| Grounded | 23.00% | ~389 |
-| Bad Wiring | 20.00% | ~339 |
+| Grounded | 24.00% | ~406 |
+| Bad Wiring | 21.00% | ~356 |
 | I Spit On Your Grave | 19.00% | ~322 |
 | Neighborhood Revitalization | 15.00% | ~254 |
 | Radio Silence | 15.00% | ~254 |

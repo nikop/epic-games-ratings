@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 851)  
+Rating: 4.18 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,935 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,623 |
-| Loose Ends | 4.00% | ~2,623 |
-| To the Victor Go the Spoils | 3.00% | ~1,967 |
-| Get ReQ'd | 3.00% | ~1,967 |
-| Knighthood | 3.00% | ~1,967 |
-| Whispered Words | 3.00% | ~1,967 |
+| First Step Into the Knight | 6.00% | ~3,936 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,624 |
+| Loose Ends | 4.00% | ~2,624 |
+| To the Victor Go the Spoils | 3.00% | ~1,968 |
+| Get ReQ'd | 3.00% | ~1,968 |
+| Knighthood | 3.00% | ~1,968 |
+| Whispered Words | 3.00% | ~1,968 |
 | The Batman Family | 2.00% | ~1,312 |
 | In Your Element | 2.00% | ~1,312 |
 | Protector of Gotham | 2.00% | ~1,312 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 851)
 | Fusion Expert | 0.80% | ~525 |
 | Family Meeting | 0.80% | ~525 |
 | A Worthy Successor | 0.70% | ~459 |
-| Expert Crime Fighter | 0.60% | ~393 |
+| Expert Crime Fighter | 0.60% | ~394 |
 | Dressed to Impress | 0.50% | ~328 |
 | A Momentum Occasion | 0.40% | ~262 |
 | Bat Out of Hell | 0.40% | ~262 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,583 (Ranked 71)  
+Progressed: 65,593 (Ranked 71)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-16 | 65,340 | 95 |
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
-| 2023-06-19 | 65,583 | 95 |
+| 2023-06-19 | 65,593 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,346  (Ranked 98)  
 Sum: 3,885 (Ranked 137)  

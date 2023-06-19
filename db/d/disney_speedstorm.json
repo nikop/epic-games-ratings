@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2809,
+  "EOS_Progressed": 2810,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -2825,6 +2825,11 @@
       "Time": "2023-06-18T22:04:39.9408543+00:00",
       "NumProgressed": 2809,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-19T02:14:58.3347852+00:00",
+      "NumProgressed": 2810,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 24,
@@ -2978,9 +2983,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 815
+      "UsersEstimate": 843
     },
     {
       "ID": "5",
@@ -3027,13 +3032,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2809,
+      "Progressed": 2810,
       "Completed": 43
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:05:04.2739197+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:14:58.3347846+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:59:54.0915905+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:05:04.2739657+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:09:36.9301199+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:14:58.3348186+00:00"
 }

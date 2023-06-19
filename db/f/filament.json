@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193786,
+  "EOS_Progressed": 193790,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6382,6 +6382,11 @@
       "Time": "2023-06-19T00:07:18.1903597+00:00",
       "NumProgressed": 193786,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-06-19T02:16:29.9126983+00:00",
+      "NumProgressed": 193790,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 29,
@@ -6417,7 +6422,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182159
+      "UsersEstimate": 182163
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6473,7 +6478,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9689
+      "UsersEstimate": 9690
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -6553,7 +6558,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9689
+      "UsersEstimate": 9690
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -6624,7 +6629,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193786,
+      "Progressed": 193790,
       "Completed": 444
     }
   ],
@@ -6632,8 +6637,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:18.190359+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:29.9126975+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:59:42.6381083+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:18.190459+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:09:28.8131556+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:29.9127594+00:00"
 }

@@ -610,9 +610,9 @@
       "ID": "CAREERCLASSS",
       "SetID": "3dh70f3",
       "Name": "All Power to Engines!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "CAREERTRIALSA",
@@ -867,8 +867,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:45.2453545+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:50.3007282+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:49.1580209+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:58:47.3070635+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:45.2454806+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:50.8045098+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:50.3007781+00:00"
 }

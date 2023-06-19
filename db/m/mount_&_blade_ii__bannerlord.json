@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4947,9 +4947,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53539,
+  "EOS_Progressed": 53541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10997,6 +10997,11 @@
       "Time": "2023-06-19T00:07:46.9344005+00:00",
       "NumProgressed": 53539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T02:16:51.7317216+00:00",
+      "NumProgressed": 53541,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11016,7 +11021,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7495
+      "UsersEstimate": 7496
     },
     {
       "ID": "Bannerlord",
@@ -11024,7 +11029,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "Best served cold",
@@ -11168,7 +11173,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "I can do it",
@@ -11200,7 +11205,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "Kingslayer",
@@ -11240,7 +11245,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19274
+      "UsersEstimate": 19275
     },
     {
       "ID": "Lawmaker",
@@ -11248,7 +11253,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "Long live the Empire",
@@ -11384,7 +11389,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11243
+      "UsersEstimate": 11244
     },
     {
       "ID": "Undercover",
@@ -11415,15 +11420,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53539,
+      "Progressed": 53541,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-18T20:59:54.0055487+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:46.9343997+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:51.7317207+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:00:52.789311+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:46.9345123+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:10:18.6559264+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:51.7318055+00:00"
 }

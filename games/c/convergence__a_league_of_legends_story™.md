@@ -30,8 +30,8 @@
 | Check Your Pulse | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Street Style | 8.00% | ~57 |
+| Whiz Kid | 8.00% | ~57 |
 | The Family Fortune | 8.00% | ~57 |
-| Whiz Kid | 7.00% | ~50 |
 | Chaincrawler Explorer | 6.00% | ~42 |
 | Family Memories | 6.00% | ~42 |
 | Sump Explorer | 6.00% | ~42 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.30% | ~2 |
 | No Time to Waste | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 194)  
+Progressed: 708 (Ranked 195)  
 Completed: 3 (0.42%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

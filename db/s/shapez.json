@@ -2,12 +2,12 @@
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
-  "Ranking_Rating": 167,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-31T12:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2022-11-10T15:57:35.7088088+00:00",
@@ -313,6 +313,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 192,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2023-06-19T02:08:25.2002004+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 192,
+      "NumberOfAwardsMax": 192
     }
   ],
   "ReviewsDisabled": false,
@@ -339,8 +345,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-06-18T02:21:01.9472623+00:00",
+  "LastChanged": "2023-06-19T02:08:25.2002002+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:21.9758996+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:58:09.5396086+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:04:37.8601951+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:25.2002008+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:14:40.1677696+00:00"
 }

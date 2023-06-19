@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4734,
+  "EOS_Progressed": 4735,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -4153,6 +4153,11 @@
       "Time": "2023-06-18T23:05:34.1568275+00:00",
       "NumProgressed": 4734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-19T02:15:34.1942846+00:00",
+      "NumProgressed": 4735,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4204,7 +4209,7 @@
       "Name": "Full Ascension",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "15",
@@ -4220,7 +4225,7 @@
       "Name": "God Emperor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "17",
@@ -4276,7 +4281,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "23",
@@ -4284,7 +4289,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "24",
@@ -4292,7 +4297,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "25",
@@ -4300,7 +4305,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "26",
@@ -4324,7 +4329,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "29",
@@ -4332,7 +4337,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "3",
@@ -4356,7 +4361,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "32",
@@ -4364,7 +4369,7 @@
       "Name": "My Final Form",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "33",
@@ -4380,7 +4385,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "35",
@@ -4396,7 +4401,7 @@
       "Name": "Fiery Friend",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "37",
@@ -4428,7 +4433,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "40",
@@ -4436,7 +4441,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "41",
@@ -4444,7 +4449,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "42",
@@ -4468,7 +4473,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "5",
@@ -4515,13 +4520,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4734,
-      "Completed": 4734
+      "Progressed": 4735,
+      "Completed": 4735
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4734,
+      "Progressed": 4735,
       "Completed": 3
     }
   ],
@@ -4529,8 +4534,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:05:55.8761532+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:15:34.1942839+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:00:34.2577732+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:05:55.8762374+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:10:05.5033796+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:15:34.1943475+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13350,
+  "EOS_Progressed": 13351,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4434,6 +4434,11 @@
       "Time": "2023-06-19T00:07:20.1736493+00:00",
       "NumProgressed": 13350,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-19T02:16:31.421659+00:00",
+      "NumProgressed": 13351,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4445,7 +4450,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "tpote_achievement_10",
@@ -4493,7 +4498,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "tpote_achievement_16",
@@ -4517,7 +4522,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "tpote_achievement_19",
@@ -4525,7 +4530,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "tpote_achievement_2",
@@ -4549,7 +4554,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "tpote_achievement_22",
@@ -4565,7 +4570,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "tpote_achievement_24",
@@ -4573,7 +4578,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "tpote_achievement_25",
@@ -4597,7 +4602,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "tpote_achievement_28",
@@ -4645,7 +4650,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "tpote_achievement_33",
@@ -4765,22 +4770,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4673
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13350,
+      "Progressed": 13351,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:20.1736487+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:31.4216586+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:01:18.3923413+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:20.1737141+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:10:35.3284768+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:31.4217096+00:00"
 }

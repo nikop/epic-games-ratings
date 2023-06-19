@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1264,
+  "EOS_Progressed": 1266,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-06-18T23:07:08.3346989+00:00",
       "NumProgressed": 1264,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-19T02:16:40.1411303+00:00",
+      "NumProgressed": 1266,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -902,7 +907,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -916,9 +921,9 @@
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -950,7 +955,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -974,7 +979,7 @@
       "Name": "Completing the Look",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1062,7 +1067,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_mythwalker",
@@ -1094,7 +1099,7 @@
       "Name": "Chain Reaction",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1102,7 +1107,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "completedStory_cvawn",
@@ -1118,7 +1123,7 @@
       "Name": "Everfading",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1126,7 +1131,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "completedStory_legacy",
@@ -1150,7 +1155,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1158,7 +1163,7 @@
       "Name": "Daybreak",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1333,15 +1338,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1264,
+      "Progressed": 1266,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:07:31.6770352+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:16:40.1411294+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:05.7321857+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:02:04.299339+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:07:31.6770885+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:11:06.2359305+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:16:40.1411832+00:00"
 }

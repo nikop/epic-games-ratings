@@ -1,24 +1,24 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,217 |
-| 50 HEADSHOTS | 12.00% | ~50,046 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,535 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,535 |
-| 200 HEADSHOTS | 7.00% | ~29,194 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,194 |
-| FINISHED CHAPTER 3 | 6.00% | ~25,023 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,853 |
-| 1000 KILLS | 4.00% | ~16,682 |
-| FINISH CHAPTER 5 | 4.00% | ~16,682 |
-| FINISH CHAPTER 6 | 4.00% | ~16,682 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,682 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,341 |
-| FIREFIGHT LEVEL 20 | 0.70% | ~2,919 |
+| 100 KILLS | 13.00% | ~54,220 |
+| 50 HEADSHOTS | 12.00% | ~50,049 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,537 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,537 |
+| 200 HEADSHOTS | 7.00% | ~29,195 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,195 |
+| FINISHED CHAPTER 3 | 6.00% | ~25,024 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,854 |
+| 1000 KILLS | 4.00% | ~16,683 |
+| FINISH CHAPTER 5 | 4.00% | ~16,683 |
+| FINISH CHAPTER 6 | 4.00% | ~16,683 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,683 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,342 |
+| FIREFIGHT LEVEL 20 | 0.70% | ~2,920 |
 | FIRST BLOOD | 0.60% | ~2,502 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,668 |
 | PACEMAKER | 0.40% | ~1,668 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~417 |
 | WARRIOR IN A GARDEN | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,052 (Ranked 37)  
+Progressed: 417,075 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 37 (0.01%) (Ranked 214)
 | 2023-06-16 | 416,247 | 37 |
 | 2023-06-17 | 416,630 | 37 |
 | 2023-06-18 | 417,046 | 37 |
-| 2023-06-19 | 417,052 | 37 |
+| 2023-06-19 | 417,075 | 37 |
 ## Awards
 Max (Great Boss Battles): 177  (Ranked 275)  
 Sum: 177 (Ranked 369)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-wizard-and-the-slug-482a09",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-16T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.1656691+00:00",
   "LastChanged": "2023-03-31T05:57:09.1656692+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:11.9188949+00:00",
-  "LastUpdate_Ratings": "2023-06-19T00:00:45.6054164+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:03:27.8675664+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:10:14.1942306+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:13:39.1944892+00:00"
 }

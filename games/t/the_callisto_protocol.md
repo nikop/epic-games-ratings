@@ -1,13 +1,13 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 843)  
+Rating: 4.18 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,471 |
+| Flesh Wound | 16.00% | ~2,472 |
 | The Outer Way | 15.00% | ~2,317 |
-| Desperate Times | 14.00% | ~2,162 |
+| Desperate Times | 14.00% | ~2,163 |
 | Paper Jams | 13.00% | ~2,008 |
 | Chew 'Em Up | 11.00% | ~1,699 |
 | Reforged | 11.00% | ~1,699 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,446 (Ranked 104)  
+Progressed: 15,447 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,10 +105,10 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
-| 2023-06-19 | 15,446 | 56 |
+| 2023-06-19 | 15,447 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 388)  
-Sum: 319 (Ranked 328)  
+Sum: 320 (Ranked 328)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -117,7 +117,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 54 |
 | This game has Amazing Characters | 54 |
 | This game is Extremely Fun | 46 |
-| This game has Challenging Combat | 36 |
+| This game has Challenging Combat | 37 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -191,3 +191,4 @@ Diff (max vs sum): 60
 | 2023-06-16 | 4.18 | 54 | 315 |
 | 2023-06-17 | 4.18 | 54 | 318 |
 | 2023-06-18 | 4.19 | 55 | 319 |
+| 2023-06-19 | 4.18 | 55 | 320 |

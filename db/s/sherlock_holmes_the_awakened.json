@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -40,11 +40,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.34,
+  "EOS_Completed_Percentage": 4.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1530,6 +1530,11 @@
       "Time": "2023-06-18T17:05:03.1311108+00:00",
       "NumProgressed": 484,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-06-19T02:15:10.3527342+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 28,
@@ -1541,7 +1546,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MQ01_2",
@@ -1549,7 +1554,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "MQ02_1",
@@ -1557,7 +1562,7 @@
       "Name": "High Profile",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MQ02_2",
@@ -1581,15 +1586,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 252
     },
     {
       "ID": "MQ03_2",
@@ -1605,7 +1610,7 @@
       "Name": "History Check",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MQ03_4",
@@ -1619,9 +1624,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 238
     },
     {
       "ID": "MQ04_1",
@@ -1629,15 +1634,15 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 165
     },
     {
       "ID": "MQ04_3",
@@ -1661,7 +1666,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MQ05_3",
@@ -1677,7 +1682,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "MQ06_1",
@@ -1701,7 +1706,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MQ06_4",
@@ -1709,7 +1714,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ07_1",
@@ -1764,7 +1769,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 21
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-19T00:05:21.5018597+00:00",
+  "LastChanged_Achievements": "2023-06-19T02:15:10.3527336+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-18T23:57:41.4139997+00:00",
-  "LastUpdate_Achievements": "2023-06-19T00:05:21.501895+00:00"
+  "LastUpdate_Ratings": "2023-06-19T02:08:06.5074063+00:00",
+  "LastUpdate_Achievements": "2023-06-19T02:15:10.3527625+00:00"
 }
