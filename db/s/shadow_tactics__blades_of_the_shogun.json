@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 39,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1219,9 +1219,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 178435,
+  "EOS_Progressed": 178443,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 2038,
+  "EOS_NewPlayers": 2029,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7569,6 +7569,11 @@
       "Time": "2023-06-19T11:06:07.7982232+00:00",
       "NumProgressed": 178435,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-19T12:07:10.8500217+00:00",
+      "NumProgressed": 178443,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 44,
@@ -7620,7 +7625,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12490
+      "UsersEstimate": 12491
     },
     {
       "ID": "FiveShadows",
@@ -7684,7 +7689,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10707
     },
     {
       "ID": "ItsRainingMen",
@@ -7700,7 +7705,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10707
     },
     {
       "ID": "Mercyful",
@@ -7756,7 +7761,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "OldMan",
@@ -7780,7 +7785,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "ReleaseTheKraken",
@@ -7796,7 +7801,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10707
     },
     {
       "ID": "Rollin",
@@ -7804,7 +7809,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 12490
+      "UsersEstimate": 12491
     },
     {
       "ID": "StillRollin",
@@ -7828,7 +7833,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10707
     },
     {
       "ID": "TanukiTime",
@@ -7836,7 +7841,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12490
+      "UsersEstimate": 12491
     },
     {
       "ID": "TheCave",
@@ -7868,7 +7873,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16059
+      "UsersEstimate": 16060
     },
     {
       "ID": "TimeParadox",
@@ -7892,7 +7897,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "Warzone",
@@ -7908,7 +7913,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "WinnerWinner",
@@ -7924,22 +7929,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10707
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 178435,
+      "Progressed": 178443,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-19T06:59:38.5609695+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:06:07.7982224+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:07:10.850021+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.3465438+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:59:11.9045139+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:06:07.7982972+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:59:40.9508517+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:07:10.8500804+00:00"
 }

@@ -47,9 +47,9 @@ Rating: 4.48 (Ranked 583)
 | Tinkerer | 1.00% | ~30 |
 | Operation Foxley | 1.00% | ~30 |
 | Last Resort | 1.00% | ~30 |
+| Siegebreaker | 1.00% | ~30 |
 | Ghost of Falaise | 1.00% | ~30 |
 | Burn after reading | 0.90% | ~27 |
-| Siegebreaker | 0.90% | ~27 |
 | From Paris with Love | 0.80% | ~24 |
 | Souvenir hunter | 0.80% | ~24 |
 | Shoot for the Moon | 0.80% | ~24 |
@@ -65,10 +65,10 @@ Rating: 4.48 (Ranked 583)
 | Best of the Best | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~2 |
+| Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
-| Master of Secondaries | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |

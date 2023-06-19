@@ -12,18 +12,18 @@ Rating: 4.61 (Ranked 364)
 | Tommy Two-Wheels | 14.00% | ~1,210 |
 | Big Heat from Little Havana | 13.00% | ~1,124 |
 | Chauffeur | 13.00% | ~1,124 |
-| Salutations My Little Friend | 10.00% | ~864 |
+| Salutations My Little Friend | 10.00% | ~865 |
 | Iron-y | 9.00% | ~778 |
 | Gun for Hire | 8.00% | ~692 |
-| Mischief Managed | 7.00% | ~605 |
+| Mischief Managed | 8.00% | ~692 |
 | Vice City Mogul | 6.00% | ~519 |
 | Bloodstained Hands | 6.00% | ~519 |
 | Catch Me if You Can | 5.00% | ~432 |
 | Grand Theft Auto | 5.00% | ~432 |
 | Not my First Time | 4.00% | ~346 |
+| Pie Guy | 4.00% | ~346 |
 | Point A to Point B | 3.00% | ~259 |
 | High Quality H2O | 3.00% | ~259 |
-| Pie Guy | 3.00% | ~259 |
 | Don't Need Roads | 3.00% | ~259 |
 | Running Rampant | 2.00% | ~173 |
 | Bull in a China Shop | 2.00% | ~173 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 364)
 | Done it All | 0.70% | ~61 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,645 (Ranked 117)  
+Progressed: 8,646 (Ranked 117)  
 Completed: 36 (0.42%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 36 (0.42%) (Ranked 128)
 | 2023-06-16 | 8,563 | 34 |
 | 2023-06-17 | 8,597 | 36 |
 | 2023-06-18 | 8,637 | 36 |
-| 2023-06-19 | 8,645 | 36 |
+| 2023-06-19 | 8,646 | 36 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 387)  
 Sum: 56 (Ranked 439)  

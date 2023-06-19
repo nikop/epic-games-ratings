@@ -6,57 +6,57 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,823 |
-| Uncharted Territory | 89.00% | ~205,649 |
-| Getting A Glimpse | 73.00% | ~168,678 |
-| A Quick Escape | 65.00% | ~150,193 |
-| Explorer | 62.00% | ~143,261 |
-| Defeat The Dark | 61.00% | ~140,950 |
-| An Offering | 61.00% | ~140,950 |
-| Colorful Corpse | 58.00% | ~134,018 |
-| That Was Quick | 56.00% | ~129,397 |
-| A Donation | 56.00% | ~129,397 |
-| Goodbye, Frog Friend | 54.00% | ~124,776 |
-| Heavy Hitter | 53.00% | ~122,465 |
-| Heartless | 46.00% | ~106,290 |
-| Spine Breaker | 46.00% | ~106,290 |
-| Deflection | 45.00% | ~103,980 |
-| Sneaky | 43.00% | ~99,358 |
-| Delving Deeper | 42.00% | ~97,048 |
-| Ambitious Intent | 41.00% | ~94,737 |
-| C-C-Combo | 41.00% | ~94,737 |
-| The Bestiary | 40.00% | ~92,426 |
-| Nothing To Lose | 39.00% | ~90,116 |
-| What's Yours Is Mine | 38.00% | ~87,805 |
+| First Steps | 96.00% | ~221,825 |
+| Uncharted Territory | 89.00% | ~205,651 |
+| Getting A Glimpse | 73.00% | ~168,680 |
+| A Quick Escape | 65.00% | ~150,194 |
+| Explorer | 62.00% | ~143,262 |
+| Defeat The Dark | 61.00% | ~140,951 |
+| An Offering | 61.00% | ~140,951 |
+| Colorful Corpse | 58.00% | ~134,019 |
+| That Was Quick | 56.00% | ~129,398 |
+| A Donation | 56.00% | ~129,398 |
+| Goodbye, Frog Friend | 54.00% | ~124,777 |
+| Heavy Hitter | 53.00% | ~122,466 |
+| Heartless | 46.00% | ~106,291 |
+| Spine Breaker | 46.00% | ~106,291 |
+| Deflection | 45.00% | ~103,981 |
+| Sneaky | 43.00% | ~99,359 |
+| Delving Deeper | 42.00% | ~97,049 |
+| Ambitious Intent | 41.00% | ~94,738 |
+| C-C-Combo | 41.00% | ~94,738 |
+| The Bestiary | 40.00% | ~92,427 |
+| Nothing To Lose | 39.00% | ~90,117 |
+| What's Yours Is Mine | 38.00% | ~87,806 |
 | R.I.P | 36.00% | ~83,184 |
-| Shootout | 35.00% | ~80,873 |
-| Cold Hearted | 34.00% | ~78,562 |
-| I Am Overburdened | 34.00% | ~78,562 |
+| Shootout | 35.00% | ~80,874 |
+| Cold Hearted | 34.00% | ~78,563 |
+| I Am Overburdened | 34.00% | ~78,563 |
 | Dig Your Own Grave | 33.00% | ~76,252 |
 | Toxic | 33.00% | ~76,252 |
-| Who To Trust? | 32.00% | ~73,941 |
-| Flesh Wound | 29.00% | ~67,009 |
+| Who To Trust? | 32.00% | ~73,942 |
+| Flesh Wound | 29.00% | ~67,010 |
 | Walk It Off | 27.00% | ~62,388 |
 | Stone Touch | 27.00% | ~62,388 |
 | Acid Bath | 27.00% | ~62,388 |
 | New Perspectives | 27.00% | ~62,388 |
 | Shadow Walker | 27.00% | ~62,388 |
-| Consecutive Curses | 26.00% | ~60,077 |
-| Destroy Your Fears | 26.00% | ~60,077 |
-| Shapeshifting | 26.00% | ~60,077 |
+| Consecutive Curses | 26.00% | ~60,078 |
+| Destroy Your Fears | 26.00% | ~60,078 |
+| Shapeshifting | 26.00% | ~60,078 |
 | Save Our Souls | 24.00% | ~55,456 |
-| To The Death! | 20.00% | ~46,213 |
-| Just Chilling | 20.00% | ~46,213 |
+| To The Death! | 20.00% | ~46,214 |
+| Just Chilling | 20.00% | ~46,214 |
 | Well Prepared | 19.00% | ~43,903 |
 | Stop Hitting Yourself | 19.00% | ~43,903 |
 | All Consuming | 18.00% | ~41,592 |
-| Illuminate, Eliminate | 17.00% | ~39,281 |
+| Illuminate, Eliminate | 17.00% | ~39,282 |
 | Shadow Spreads | 16.00% | ~36,971 |
 | Max Damage! | 16.00% | ~36,971 |
 | Don't Ignore Me! | 16.00% | ~36,971 |
 | Doing Time | 16.00% | ~36,971 |
 | Spreading Plague | 15.00% | ~34,660 |
-| The Long Run | 14.00% | ~32,349 |
+| The Long Run | 14.00% | ~32,350 |
 | A Rough Road | 13.00% | ~30,039 |
 | Berzerker | 12.00% | ~27,728 |
 | Chain Reaction | 12.00% | ~27,728 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~924 |
 | Near Death Experience | 0.30% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,066 (Ranked 45)  
+Progressed: 231,068 (Ranked 45)  
 Completed: 240 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 240 (0.10%) (Ranked 173)
 | 2023-06-16 | 230,891 | 239 |
 | 2023-06-17 | 230,969 | 240 |
 | 2023-06-18 | 231,044 | 240 |
-| 2023-06-19 | 231,066 | 240 |
+| 2023-06-19 | 231,068 | 240 |
 ## Awards
 Max (Great for Beginners): 1,480  (Ranked 118)  
 Sum: 12,928 (Ranked 69)  

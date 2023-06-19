@@ -18,7 +18,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Fishing | 51.00% | ~344 |
 | First Time Hunting | 49.00% | ~330 |
 | Rune Wall Wreckage | 48.00% | ~324 |
-| ...And Your Tax Money | 46.00% | ~310 |
+| ...And Your Tax Money | 47.00% | ~317 |
 | The Lords of the Snowpeak | 40.00% | ~270 |
 | The Go-To Girl | 36.00% | ~243 |
 | Scavenger's Honor | 36.00% | ~243 |
@@ -57,7 +57,7 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~54 |
 | Rising Champion | 7.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 196)  
+Progressed: 674 (Ranked 197)  
 Completed: 58 (8.61%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -15,8 +15,8 @@
 | On Target | 21.00% | ~30 |
 | Getting Deployment | 18.00% | ~26 |
 | Infantry Reporting | 18.00% | ~26 |
+| Keeping Busy | 16.00% | ~23 |
 | Fighting for Survival | 15.00% | ~22 |
-| Keeping Busy | 15.00% | ~22 |
 | Silver Competitor | 13.00% | ~19 |
 | Brothers in Arms | 11.00% | ~16 |
 | Factory Expansion | 11.00% | ~16 |

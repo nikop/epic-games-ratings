@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-06-17T20:00:32.4749695+00:00",
       "NumProgressed": 88,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-19T12:02:36.7590559+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -107,7 +112,7 @@
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Well-off",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -139,7 +144,7 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -171,7 +176,7 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -243,7 +248,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -251,7 +256,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -259,7 +264,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -299,7 +304,7 @@
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -307,7 +312,7 @@
       "ID": "ACH_LEVELCOMPLETION_03_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-1",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -371,7 +376,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 48
     },
@@ -395,7 +400,7 @@
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_WARRIOR",
       "SetID": "cfld5bl",
       "Name": "Warrior specialist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -427,7 +432,7 @@
       "ID": "ACH_UNLOCKEDALLABILITIES",
       "SetID": "cfld5bl",
       "Name": "The True Trifox",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -451,7 +456,7 @@
       "ID": "ACH_UNLOCKEDALLWARRIORABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the warrior",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 4
     }
@@ -460,7 +465,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 1
     }
   ],
@@ -468,8 +473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:02:14.3338782+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:02:36.7590554+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:43.0865858+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:59:16.4158516+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:02:14.3339177+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:59:46.5191323+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:02:36.7590854+00:00"
 }

@@ -16,11 +16,11 @@ Rating: 4.27 (Ranked 789)
 | Hidden Secrets | 4.00% | ~35 |
 | The Stranded King | 4.00% | ~35 |
 | Accepting the Prophecy | 4.00% | ~35 |
-| Just Chilling | 3.00% | ~26 |
 | Ascended | 3.00% | ~26 |
 | Incredible Strength | 3.00% | ~26 |
 | The Penitent Ones | 3.00% | ~26 |
 | Prophecy Fulfilled | 3.00% | ~26 |
+| Just Chilling | 2.00% | ~18 |
 | The Greedy Ones | 2.00% | ~18 |
 | The Unruly Ones | 2.00% | ~18 |
 | The First King | 1.00% | ~9 |
@@ -31,9 +31,9 @@ Rating: 4.27 (Ranked 789)
 | Charismatic Leader | 0.50% | ~4 |
 | Metropolis | 0.50% | ~4 |
 | The Great Winter | 0.30% | ~3 |
+| Red Tape | 0.30% | ~3 |
 | Knowledge is Power | 0.30% | ~3 |
 | Six Faces | 0.20% | ~2 |
-| Red Tape | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | The Incarnate | 0.20% | ~2 |
 | Ice and Fire | 0.10% | ~1 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 789)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880 (Ranked 188)  
+Progressed: 881 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-15 | 875 | 0 |
 | 2023-06-17 | 877 | 0 |
 | 2023-06-18 | 879 | 0 |
-| 2023-06-19 | 880 | 0 |
+| 2023-06-19 | 881 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

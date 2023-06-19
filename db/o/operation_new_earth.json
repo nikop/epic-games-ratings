@@ -480,9 +480,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "objective_headquarters_15",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:03:28.2161733+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:03:51.5933356+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:00:31.2382976+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:03:28.2162025+00:00"
+  "LastUpdate_Ratings": "2023-06-19T12:01:29.6617459+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:03:51.5933597+00:00"
 }

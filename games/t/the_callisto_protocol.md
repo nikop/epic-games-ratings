@@ -8,12 +8,12 @@ Rating: 4.18 (Ranked 850)
 | Flesh Wound | 16.00% | ~2,472 |
 | The Outer Way | 15.00% | ~2,318 |
 | Desperate Times | 14.00% | ~2,163 |
-| Paper Jams | 13.00% | ~2,008 |
+| Paper Jams | 13.00% | ~2,009 |
 | Chew 'Em Up | 11.00% | ~1,700 |
 | Reforged | 11.00% | ~1,700 |
 | Workplace Hazard | 10.00% | ~1,545 |
 | If the SHU Fits... | 10.00% | ~1,545 |
-| Get a Grip | 9.00% | ~1,390 |
+| Get a Grip | 9.00% | ~1,391 |
 | Giving Back | 8.00% | ~1,236 |
 | Without A Paddle | 8.00% | ~1,236 |
 | In the Pipe, Five by Five | 7.00% | ~1,082 |
@@ -22,9 +22,9 @@ Rating: 4.18 (Ranked 850)
 | Terminated | 6.00% | ~927 |
 | Float Like A Butterfly | 6.00% | ~927 |
 | Power Up | 6.00% | ~927 |
-| You Need a Gun | 5.00% | ~772 |
-| What Lies Beneath | 5.00% | ~772 |
-| Full Circle | 5.00% | ~772 |
+| You Need a Gun | 5.00% | ~773 |
+| What Lies Beneath | 5.00% | ~773 |
+| Full Circle | 5.00% | ~773 |
 | The Commonality | 4.00% | ~618 |
 | Instigator | 4.00% | ~135 |
 | I Do Belong Here | 3.00% | ~464 |
@@ -33,7 +33,7 @@ Rating: 4.18 (Ranked 850)
 | In Striking Distance | 2.00% | ~309 |
 | Mugshot | 2.00% | ~309 |
 | Big Spender | 2.00% | ~68 |
-| Grim Reaper | 1.00% | ~154 |
+| Grim Reaper | 1.00% | ~155 |
 | Parole Denied | 1.00% | ~34 |
 | Hoard Mode | 1.00% | ~34 |
 | Recidivist | 0.70% | ~24 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 850)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,450 (Ranked 104)  
+Progressed: 15,452 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-16 | 15,398 | 56 |
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
-| 2023-06-19 | 15,450 | 56 |
+| 2023-06-19 | 15,452 | 56 |
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 388)  
 Sum: 320 (Ranked 328)  

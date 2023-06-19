@@ -2240,9 +2240,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 372
     },
     {
       "ID": "RUTHLESS",
@@ -2345,8 +2345,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:00:56.8364108+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:02:14.5451851+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:58:29.875349+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:00:56.8364697+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:58:48.1671364+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:02:14.5452342+00:00"
 }

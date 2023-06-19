@@ -334,7 +334,7 @@
   "Tags": [],
   "EOS_Progressed": 3027,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4082,9 +4082,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -4482,9 +4482,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -4569,8 +4569,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-18T16:00:33.7352591+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:06:11.1013435+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:07:15.1135805+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T11:00:37.6544968+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:06:11.1014264+00:00"
+  "LastUpdate_Ratings": "2023-06-19T12:01:37.9322439+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:07:15.1136514+00:00"
 }

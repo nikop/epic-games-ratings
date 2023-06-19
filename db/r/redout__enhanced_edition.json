@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225130,
+  "EOS_Progressed": 225132,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6368,6 +6368,11 @@
       "Time": "2023-06-19T11:05:49.2283091+00:00",
       "NumProgressed": 225130,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-19T12:06:48.0986623+00:00",
+      "NumProgressed": 225132,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -6395,7 +6400,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63036
+      "UsersEstimate": 63037
     },
     {
       "ID": "CENTAUR",
@@ -6403,7 +6408,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18010
+      "UsersEstimate": 18011
     },
     {
       "ID": "CHALLENGER",
@@ -6411,7 +6416,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24764
+      "UsersEstimate": 24765
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -6443,7 +6448,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18010
+      "UsersEstimate": 18011
     },
     {
       "ID": "FLAWLESS",
@@ -6571,7 +6576,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11256
+      "UsersEstimate": 11257
     },
     {
       "ID": "RESPWND",
@@ -6643,22 +6648,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92303
+      "UsersEstimate": 92304
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 225130,
+      "Progressed": 225132,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:05:49.2283085+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:06:48.0986617+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.9601749+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:58:28.3104424+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:05:49.2283679+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:58:45.9445186+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:06:48.0987094+00:00"
 }

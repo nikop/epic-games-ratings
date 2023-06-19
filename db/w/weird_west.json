@@ -1396,9 +1396,9 @@
       "ID": "ACH_OFF_THE_TRAIL",
       "SetID": "8j30i9k",
       "Name": "Off the Trail",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1436,9 +1436,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_REVENANT",
@@ -1596,8 +1596,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:06:01.6689398+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:07:03.6583173+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.0482083+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:58:40.5367996+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:06:01.6689869+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:59:01.5665075+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:07:03.6583569+00:00"
 }

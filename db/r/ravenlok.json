@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.01,
+  "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2457,6 +2457,11 @@
       "Time": "2023-06-19T10:06:08.8137536+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-06-19T12:06:54.5718266+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 50,
@@ -2468,7 +2473,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "10",
@@ -2476,7 +2481,7 @@
       "Name": "Piece of Cake",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "11",
@@ -2516,7 +2521,7 @@
       "Name": "Pull the Plug",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "16",
@@ -2524,7 +2529,7 @@
       "Name": "Soul Slayer",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "17",
@@ -2548,7 +2553,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "2",
@@ -2556,7 +2561,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "20",
@@ -2580,7 +2585,7 @@
       "Name": "Heartbreaker",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "23",
@@ -2588,7 +2593,7 @@
       "Name": "All Heart",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "24",
@@ -2596,7 +2601,7 @@
       "Name": "Kidnapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "25",
@@ -2604,7 +2609,7 @@
       "Name": "Trick Question!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "26",
@@ -2644,7 +2649,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "30",
@@ -2652,7 +2657,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "31",
@@ -2660,7 +2665,7 @@
       "Name": "Little Shop",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "32",
@@ -2676,7 +2681,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "34",
@@ -2684,7 +2689,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "35",
@@ -2692,7 +2697,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "36",
@@ -2732,7 +2737,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "40",
@@ -2804,7 +2809,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "49",
@@ -2812,7 +2817,7 @@
       "Name": "Final Showdown",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "5",
@@ -2820,7 +2825,7 @@
       "Name": "Well Rested",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "50",
@@ -2844,7 +2849,7 @@
       "Name": "Fun Guy",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "8",
@@ -2867,7 +2872,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 71
     }
   ],
@@ -2875,8 +2880,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:05:54.2946011+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:06:54.5718261+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0914361+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:57:40.6478457+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:05:54.2946534+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:57:40.6054568+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:06:54.5718726+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,179 |
-| Powergamer | 27.00% | ~62,851 |
-| Barely scratched the surface | 25.00% | ~58,196 |
-| Write that down | 24.00% | ~55,868 |
+| I will finish what you started | 28.00% | ~65,180 |
+| Powergamer | 27.00% | ~62,852 |
+| Barely scratched the surface | 25.00% | ~58,197 |
+| Write that down | 24.00% | ~55,869 |
 | Guns, lots of guns | 12.00% | ~27,934 |
-| Collector | 11.00% | ~25,606 |
-| Elementary! | 9.00% | ~20,950 |
+| Collector | 11.00% | ~25,607 |
+| Elementary! | 9.00% | ~20,951 |
 | Pumpkin Jack | 8.00% | ~18,623 |
 | Wake up! | 8.00% | ~18,623 |
 | It's honest work | 7.00% | ~16,295 |
@@ -24,8 +24,8 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,311 |
 | Ka-ching! | 4.00% | ~9,311 |
 | So you like to read? | 4.00% | ~9,311 |
-| I like to sniff around | 3.00% | ~6,983 |
-| Mind reader | 3.00% | ~6,983 |
+| I like to sniff around | 3.00% | ~6,984 |
+| Mind reader | 3.00% | ~6,984 |
 | Gentleman's classic | 2.00% | ~4,656 |
 | Hoarder | 2.00% | ~4,656 |
 | Is that a rift? | 2.00% | ~4,656 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | The power of three | 0.90% | ~2,095 |
 | Let's try another | 0.80% | ~1,862 |
 | Home run | 0.80% | ~1,862 |
-| I have the high ground | 0.70% | ~1,629 |
-| It's blue, always blue | 0.70% | ~1,629 |
+| I have the high ground | 0.70% | ~1,630 |
+| It's blue, always blue | 0.70% | ~1,630 |
 | Who wouldn't love a troll? | 0.50% | ~1,164 |
 | Enjoy these little moments | 0.40% | ~931 |
 | Irondec | 0.40% | ~931 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~466 |
 | Memory 5 | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,782 (Ranked 44)  
+Progressed: 232,787 (Ranked 44)  
 Completed: 6 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,11 +119,11 @@ Completed: 6 (0.00%) (Ranked 227)
 | 2023-06-16 | 232,219 | 6 |
 | 2023-06-17 | 232,466 | 6 |
 | 2023-06-18 | 232,705 | 6 |
-| 2023-06-19 | 232,782 | 6 |
+| 2023-06-19 | 232,787 | 6 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
-Sum: 74 (Ranked 420)  
-Diff (max vs sum): -61  
+Sum: 74 (Ranked 421)  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 74 |

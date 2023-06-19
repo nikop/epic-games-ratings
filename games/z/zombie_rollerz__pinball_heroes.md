@@ -44,11 +44,11 @@
 | The Astronaut | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~5 |
 | Highway to Hell | 5.00% | ~5 |
+| Aluminum | 5.00% | ~5 |
 | Anvil | 5.00% | ~5 |
 | The Exorcist | 4.00% | ~4 |
 | Mithril | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
-| Aluminum | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
 | Tongs | 3.00% | ~3 |
 | It's a Trap! | 2.00% | ~2 |

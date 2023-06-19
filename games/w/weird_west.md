@@ -13,13 +13,13 @@ Number of Ratings: 125  (23.09.2022)
 | Welcome to the Weird West | 57.00% | ~946 |
 | Dead or Alive | 55.00% | ~913 |
 | Full House | 37.00% | ~614 |
-| Off the Trail | 33.00% | ~548 |
+| Off the Trail | 34.00% | ~564 |
 | Justice Served | 29.00% | ~481 |
 | Chain Reaction | 26.00% | ~432 |
+| Rain of Death | 25.00% | ~415 |
 | Scholar | 25.00% | ~415 |
 | Through Their Eyes | 25.00% | ~415 |
 | Dishonored | 24.00% | ~398 |
-| Rain of Death | 24.00% | ~398 |
 | The Great Escape | 23.00% | ~382 |
 | That’s All, Folks | 18.00% | ~299 |
 | Fallen Star | 16.00% | ~266 |

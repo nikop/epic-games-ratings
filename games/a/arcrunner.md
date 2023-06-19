@@ -20,7 +20,7 @@
 | Rookie | 24.00% | ~131 |
 | Cybernetic | 21.00% | ~115 |
 | The Bigger They Are | 20.00% | ~109 |
-| Eden Heights | 19.00% | ~104 |
+| Eden Heights | 20.00% | ~109 |
 | Outer Core | 16.00% | ~87 |
 | Up Close And Personal | 16.00% | ~87 |
 | Inner Core | 10.00% | ~55 |

@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6724,
+  "EOS_Progressed": 6725,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4477,6 +4477,11 @@
       "Time": "2023-06-19T11:04:11.8268974+00:00",
       "NumProgressed": 6724,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-19T12:04:36.568145+00:00",
+      "NumProgressed": 6725,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4488,7 +4493,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5581
+      "UsersEstimate": 5582
     },
     {
       "ID": "ACH02",
@@ -4560,7 +4565,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ACH11",
@@ -4632,7 +4637,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH20",
@@ -4719,7 +4724,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6724,
+      "Progressed": 6725,
       "Completed": 38
     }
   ],
@@ -4727,8 +4732,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:04:11.826897+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:04:36.5681442+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:58:06.67476+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:04:11.8269342+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:58:17.3928592+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:04:36.5681803+00:00"
 }

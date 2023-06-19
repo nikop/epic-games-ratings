@@ -4,7 +4,7 @@
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 866,
   "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 279,
@@ -1114,8 +1114,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:04:11.234201+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:04:35.8702514+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4263139+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:57:47.0934561+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:04:11.2342776+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:57:47.3441421+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:04:35.8703137+00:00"
 }

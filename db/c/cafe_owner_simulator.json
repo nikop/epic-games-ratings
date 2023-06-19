@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1823,6 +1823,11 @@
       "Time": "2023-06-19T02:16:28.7143059+00:00",
       "NumProgressed": 709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T12:06:49.0183744+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1842,7 +1847,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "CHIEF",
@@ -1858,7 +1863,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "DEBTOR",
@@ -1874,7 +1879,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "FIRST_100K",
@@ -1898,7 +1903,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "INTRODUCTION",
@@ -1930,7 +1935,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "YETTI",
@@ -1945,7 +1950,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
@@ -1953,8 +1958,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:05:49.8956145+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:06:49.0183737+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.0817931+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:59:33.5968622+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:05:49.8956347+00:00"
+  "LastUpdate_Ratings": "2023-06-19T12:00:11.8768186+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:06:49.0183908+00:00"
 }

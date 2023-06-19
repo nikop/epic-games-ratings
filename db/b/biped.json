@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3356,
+  "EOS_Progressed": 3357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4311,6 +4311,11 @@
       "Time": "2023-06-19T11:05:46.2865223+00:00",
       "NumProgressed": 3356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-19T12:06:44.2766597+00:00",
+      "NumProgressed": 3357,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4434,14 +4439,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3356,
+      "Progressed": 3357,
       "Completed": 0
     }
   ],
@@ -4449,8 +4454,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-19T11:05:46.2865219+00:00",
+  "LastChanged_Achievements": "2023-06-19T12:06:44.276659+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.5815325+00:00",
-  "LastUpdate_Ratings": "2023-06-19T10:58:14.7689752+00:00",
-  "LastUpdate_Achievements": "2023-06-19T11:05:46.2865556+00:00"
+  "LastUpdate_Ratings": "2023-06-19T11:58:29.2804485+00:00",
+  "LastUpdate_Achievements": "2023-06-19T12:06:44.2766867+00:00"
 }

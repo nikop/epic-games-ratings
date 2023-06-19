@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What is this? | 70.00% | ~62 |
-| Complete Level 1-1 | 64.00% | ~56 |
-| Immortal | 55.00% | ~48 |
-| Complete Level 1-2 | 47.00% | ~41 |
+| Complete Level 1-1 | 63.00% | ~56 |
+| Immortal | 54.00% | ~48 |
+| Complete Level 1-2 | 46.00% | ~41 |
 | Scraping by | 34.00% | ~30 |
 | Engineer-mage hybrid | 33.00% | ~29 |
-| Complete Level 1-3 | 31.00% | ~27 |
+| Complete Level 1-3 | 30.00% | ~27 |
 | Defeat the warrior boss | 24.00% | ~21 |
-| Get out of my way | 22.00% | ~19 |
+| Get out of my way | 21.00% | ~19 |
 | Redecorator | 20.00% | ~18 |
 | Just a sip | 19.00% | ~17 |
 | Complete Level 2-1 | 17.00% | ~15 |
 | Complete Level 2-2 | 17.00% | ~15 |
 | Versatile | 17.00% | ~15 |
 | Complete Level 2-3 | 15.00% | ~13 |
-| Defeat the engineer boss | 14.00% | ~12 |
-| Well-off | 13.00% | ~11 |
-| Too many crates | 13.00% | ~11 |
-| Complete Level 3-1 | 13.00% | ~11 |
+| Defeat the engineer boss | 13.00% | ~12 |
+| Well-off | 12.00% | ~11 |
+| Too many crates | 12.00% | ~11 |
+| Complete Level 3-1 | 12.00% | ~11 |
 | Baby steps | 11.00% | ~10 |
 | Complete Level 3-2 | 10.00% | ~9 |
 | Engineer-warrior hybrid | 10.00% | ~9 |
@@ -37,9 +37,9 @@
 | Remote retrieved | 6.00% | ~5 |
 | Engineer specialist | 6.00% | ~5 |
 | Way of the engineer | 6.00% | ~5 |
-| Warrior specialist | 5.00% | ~4 |
-| The True Trifox | 5.00% | ~4 |
-| Way of the warrior | 5.00% | ~4 |
+| Warrior specialist | 4.00% | ~4 |
+| The True Trifox | 4.00% | ~4 |
+| Way of the warrior | 4.00% | ~4 |
 | Rich | 3.00% | ~3 |
 | Halfway | 3.00% | ~3 |
 | Delicious | 3.00% | ~3 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 293)  
-Completed: 1 (1.14%) (Ranked 93)  
+Progressed: 89 (Ranked 292)  
+Completed: 1 (1.12%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 1 (1.14%) (Ranked 93)
 | 2023-06-10 | 86 | 1 |
 | 2023-06-12 | 87 | 1 |
 | 2023-06-17 | 88 | 1 |
+| 2023-06-19 | 89 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
