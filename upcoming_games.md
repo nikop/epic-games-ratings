@@ -49,6 +49,7 @@
 | [Arcatron-Z](games/b/b7a1153cbf0f49e497f70e3e9d2e28ba.md) | 2023-07-01 | - |  | - | - |
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 10 (1,000 XP) | 0 | - | - |
+| [Xenonauts 2](games/x/xenonauts_2.md) | 2023-07-18 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | - |  | - | - |
@@ -187,7 +188,6 @@
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2023-12-31 | - |  | - | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
-| [Xenonauts 2](games/x/xenonauts_2.md) | 2023-12-31 | - |  | - | - |
 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |

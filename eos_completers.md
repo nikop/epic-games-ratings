@@ -46,8 +46,8 @@
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.32% |
-| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
+| 47 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.31% |
+| 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
@@ -68,12 +68,12 @@
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 67 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.34% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.30% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.25% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.21% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.00% |
+| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.99% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
