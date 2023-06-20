@@ -35,7 +35,7 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,280 | 4.69 | 220 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,569 | 4.45 | 621 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,097 | 4.88 | 19 |
-| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,279 | 4.78 | 99 |
+| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,285 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,266 | 4.61 | 364 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,741 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,357 | 4.60 | 390 |
@@ -45,7 +45,7 @@
 | 43 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,486 | 4.56 | 453 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,479 | 4.89 | 13 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,274 | 4.47 | 593 |
-| 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,255 | 4.71 | 180 |
+| 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,260 | 4.71 | 180 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,187 | 4.68 | 239 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,690 | 4.74 | 144 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 660 |
@@ -58,7 +58,7 @@
 | 56 | [DEATH STRANDING](games/d/death_stranding.md) | 5,825 | 4.77 | 107 |
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,788 | 4.66 | 277 |
 | 58 | [Prey](games/p/prey.md) | 5,580 | 4.62 | 346 |
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,569 | 4.82 | 66 |
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,571 | 4.82 | 66 |
 | 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,493 | 4.85 | 40 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,420 | 4.68 | 239 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,271 | 4.75 | 132 |
@@ -69,7 +69,7 @@
 | 67 | [Dead Island 2](games/d/dead_island_2.md) | 4,672 | 4.54 | 491 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,629 | 3.99 | 912 |
 | 69 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,536 | 4.70 | 195 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,394 | 4.70 | 195 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,399 | 4.70 | 195 |
 | 71 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,359 | 4.70 | 195 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,261 | 4.61 | 364 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,163 | 4.76 | 118 |
@@ -120,7 +120,7 @@
 | 118 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,459 | 4.79 | 89 |
 | 119 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,397 | 4.87 | 26 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,390 | 4.81 | 74 |
-| 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,331 | 4.62 | 346 |
+| 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,338 | 4.62 | 346 |
 | 122 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,301 | 4.70 | 195 |
 | 123 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 277 |
 | 124 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,281 | 4.86 | 29 |
@@ -218,7 +218,7 @@
 | 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 357 | 4.60 | 390 |
 | 217 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 350 | 4.32 | 756 |
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 345 | 4.71 | 180 |
-| 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 343 | 4.85 | 40 |
+| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 345 | 4.85 | 40 |
 | 220 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 340 | 4.76 | 118 |
 | 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 335 | 3.93 | 920 |
 | 222 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 29 |

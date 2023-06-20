@@ -41,7 +41,7 @@
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 473 | 192 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,634 | 41 |
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,493 | 60 |
-| 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 343 | 219 |
+| 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 345 | 218 |
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 497 |
 | 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 232 | 250 |
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 253 |
@@ -65,7 +65,7 @@
 | 58 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 497 |
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 83 | 349 |
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 497 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,569 | 59 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,571 | 59 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 497 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 497 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 437 |
@@ -99,7 +99,7 @@
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
 | 89 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 497 |
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 497 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,279 | 36 |
+| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,285 | 36 |
 | 99 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 497 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 157 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,316 | 99 |
@@ -187,7 +187,7 @@
 | 180 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,499 | 50 |
 | 180 | [Fez](games/f/fez.md) | 4.71 | 23 | 476 |
 | 180 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 432 |
-| 180 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,255 | 46 |
+| 180 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,260 | 46 |
 | 180 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 497 |
 | 180 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 497 |
 | 180 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 497 |
@@ -196,7 +196,7 @@
 | 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 313 |
 | 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,536 | 69 |
 | 195 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 367 | 214 |
-| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,394 | 70 |
+| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,399 | 70 |
 | 195 | [For The King](games/f/for_the_king.md) | 4.70 | 371 | 212 |
 | 195 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 497 |
 | 195 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 497 |
@@ -349,7 +349,7 @@
 | 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 69,802 | 9 |
 | 346 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 275 | 237 |
 | 346 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 434 |
-| 346 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,331 | 121 |
+| 346 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,338 | 121 |
 | 346 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 359 | 215 |
 | 346 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 545 | 183 |
 | 346 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 497 |

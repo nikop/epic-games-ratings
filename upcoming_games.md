@@ -48,6 +48,7 @@
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 10 (1,000 XP) | 0 | - | - |
 | [Xenonauts 2](games/x/xenonauts_2.md) | 2023-07-18 | - |  | - | - |
+| [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | - |  | - | - |

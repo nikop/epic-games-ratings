@@ -47,8 +47,8 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
-| 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.30% |
+| 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
@@ -125,8 +125,8 @@
 | 121 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
+| 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 126 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
-| 127 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
 | 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
@@ -460,4 +460,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,810 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,811 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
