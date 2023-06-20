@@ -320,9 +320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11756,
+  "EOS_Progressed": 11757,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4100,6 +4100,11 @@
       "Time": "2023-06-20T12:07:55.7877942+00:00",
       "NumProgressed": 11756,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-20T13:14:30.8996687+00:00",
+      "NumProgressed": 11757,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 35,
@@ -4127,7 +4132,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "ACH_04",
@@ -4143,7 +4148,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 7759
+      "UsersEstimate": 7760
     },
     {
       "ID": "ACH_06",
@@ -4151,7 +4156,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 7406
+      "UsersEstimate": 7407
     },
     {
       "ID": "ACH_07",
@@ -4167,7 +4172,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "ACH_09",
@@ -4223,7 +4228,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "ACH_16",
@@ -4359,7 +4364,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "ACH_33",
@@ -4390,7 +4395,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11756,
+      "Progressed": 11757,
       "Completed": 33
     }
   ],
@@ -4398,8 +4403,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-19T13:59:27.3405658+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:07:55.7877935+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:30.8996676+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.2294559+00:00",
-  "LastUpdate_Ratings": "2023-06-20T12:00:44.357885+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:07:55.7878402+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:08:05.0733204+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:30.8997162+00:00"
 }

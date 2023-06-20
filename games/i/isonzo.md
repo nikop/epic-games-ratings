@@ -16,8 +16,8 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 29.00% | ~1,822 |
 | Aurelio Baruzzi | 22.00% | ~1,382 |
 | Veni Vidi Vici | 22.00% | ~1,382 |
+| Donatello | 21.00% | ~1,320 |
 | Decimation | 20.00% | ~1,257 |
-| Donatello | 20.00% | ~1,257 |
 | Insubordination | 19.00% | ~1,194 |
 | The Italian Job | 19.00% | ~1,194 |
 | The Lion of the Isonzo | 18.00% | ~1,131 |

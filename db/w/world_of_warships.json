@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -5650,10 +5650,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 10102,
       "NumberOfAwardsMax": 1137
+    },
+    {
+      "Time": "2023-06-20T13:07:31.3090386+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10106,
+      "NumberOfAwardsMax": 1137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10102,
+  "NumberOfAwards": 10106,
   "NumberOfAwardsMax": 1137,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5661,7 +5667,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1074
+      "Count": 1078
     },
     {
       "Text": "This game has Competitive Players",
@@ -5729,8 +5735,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-20T11:59:59.6316297+00:00",
+  "LastChanged": "2023-06-20T13:07:31.3090384+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.6479838+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:59:59.6316367+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:03:36.1270304+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:07:31.3090392+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:11:31.7496622+00:00"
 }

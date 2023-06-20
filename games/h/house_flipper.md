@@ -15,7 +15,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Family man | 12.00% | ~2,364 |
 | Junior Estate Agent | 12.00% | ~2,364 |
 | Mystery | 10.00% | ~1,970 |
-| Artistic soul | 9.00% | ~1,773 |
+| Artistic soul | 10.00% | ~1,970 |
 | Estate Agent | 5.00% | ~985 |
 | Millionaire | 5.00% | ~985 |
 | Perfectionist | 5.00% | ~985 |

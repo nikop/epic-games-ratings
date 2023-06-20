@@ -5,27 +5,27 @@ Rating: 4.25 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,872 |
-| Copacetic Coordination | 16.00% | ~51,781 |
-| Fronting the Money | 14.00% | ~45,309 |
-| The Dawn of Automation | 14.00% | ~45,309 |
-| Extraordinary Logistics | 14.00% | ~45,309 |
-| Dirty Money | 13.00% | ~42,072 |
-| Family First | 13.00% | ~42,072 |
-| Cleaning House | 12.00% | ~38,836 |
-| Room in the Back | 12.00% | ~38,836 |
-| Booze Baron | 11.00% | ~35,600 |
-| Beating the Heat | 10.00% | ~32,363 |
-| Friends on the Force | 10.00% | ~32,363 |
-| Neighborhood Watch | 10.00% | ~32,363 |
-| Core Corps | 8.00% | ~25,891 |
-| Sizeable Stash | 7.00% | ~22,654 |
-| Street Fighter | 7.00% | ~22,654 |
-| Friendly Gestures | 7.00% | ~22,654 |
-| People Person | 7.00% | ~22,654 |
-| Liquor Lord | 6.00% | ~19,418 |
-| Safety in Numbers | 6.00% | ~19,418 |
-| Show ‘em the Sugar | 6.00% | ~19,418 |
+| Corner Clout | 46.00% | ~148,879 |
+| Copacetic Coordination | 16.00% | ~51,784 |
+| Fronting the Money | 14.00% | ~45,311 |
+| The Dawn of Automation | 14.00% | ~45,311 |
+| Extraordinary Logistics | 14.00% | ~45,311 |
+| Dirty Money | 13.00% | ~42,074 |
+| Family First | 13.00% | ~42,074 |
+| Cleaning House | 12.00% | ~38,838 |
+| Room in the Back | 12.00% | ~38,838 |
+| Booze Baron | 11.00% | ~35,602 |
+| Beating the Heat | 10.00% | ~32,365 |
+| Friends on the Force | 10.00% | ~32,365 |
+| Neighborhood Watch | 10.00% | ~32,365 |
+| Core Corps | 8.00% | ~25,892 |
+| Sizeable Stash | 7.00% | ~22,656 |
+| Street Fighter | 7.00% | ~22,656 |
+| Friendly Gestures | 7.00% | ~22,656 |
+| People Person | 7.00% | ~22,656 |
+| Liquor Lord | 6.00% | ~19,419 |
+| Safety in Numbers | 6.00% | ~19,419 |
+| Show ‘em the Sugar | 6.00% | ~19,419 |
 | Street Knowledge | 5.00% | ~16,182 |
 | Oh Captain | 5.00% | ~16,182 |
 | Branching Out | 5.00% | ~16,182 |
@@ -36,18 +36,18 @@ Rating: 4.25 (Ranked 799)
 | Mission Mastery | 5.00% | ~16,182 |
 | Wise Head | 5.00% | ~16,182 |
 | Killing Them Softly | 5.00% | ~16,182 |
-| Considerable Clams | 4.00% | ~12,945 |
-| Gin Joint | 4.00% | ~12,945 |
-| An Affront to the Enemy | 4.00% | ~12,945 |
-| Friends from Back Home | 4.00% | ~12,945 |
-| Half Century Mark | 4.00% | ~12,945 |
-| Corner Opportunities | 3.00% | ~9,709 |
-| 2122 North Clark Street | 3.00% | ~9,709 |
-| Copious Cabbage | 3.00% | ~9,709 |
-| Sockdolager | 3.00% | ~9,709 |
-| Still Stalwart | 3.00% | ~9,709 |
-| Bees Knees Bootlegger | 3.00% | ~9,709 |
-| Tighten the Screws | 3.00% | ~9,709 |
+| Considerable Clams | 4.00% | ~12,946 |
+| Gin Joint | 4.00% | ~12,946 |
+| An Affront to the Enemy | 4.00% | ~12,946 |
+| Friends from Back Home | 4.00% | ~12,946 |
+| Half Century Mark | 4.00% | ~12,946 |
+| Corner Opportunities | 3.00% | ~9,710 |
+| 2122 North Clark Street | 3.00% | ~9,710 |
+| Copious Cabbage | 3.00% | ~9,710 |
+| Sockdolager | 3.00% | ~9,710 |
+| Still Stalwart | 3.00% | ~9,710 |
+| Bees Knees Bootlegger | 3.00% | ~9,710 |
+| Tighten the Screws | 3.00% | ~9,710 |
 | One of Us | 2.00% | ~6,473 |
 | Baker’s Dozen | 2.00% | ~6,473 |
 | Dropping the Dime | 2.00% | ~6,473 |
@@ -62,8 +62,8 @@ Rating: 4.25 (Ranked 799)
 | Determined Deliveries | 0.90% | ~2,913 |
 | Stepping It Up | 0.90% | ~2,913 |
 | Crossing Over | 0.80% | ~2,589 |
-| Boots in the Ground | 0.70% | ~2,265 |
-| Getting Fancy | 0.70% | ~2,265 |
+| Boots in the Ground | 0.70% | ~2,266 |
+| Getting Fancy | 0.70% | ~2,266 |
 | Homemade Hooch | 0.40% | ~1,295 |
 | Still Dreaming | 0.40% | ~1,295 |
 | High End Booze | 0.40% | ~1,295 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 799)
 | High Pillow | 0.10% | ~324 |
 | Station Master | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,634 (Ranked 40)  
+Progressed: 323,650 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,14 +147,14 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-17 | 322,911 | 5 |
 | 2023-06-18 | 323,249 | 5 |
 | 2023-06-19 | 323,511 | 5 |
-| 2023-06-20 | 323,634 | 5 |
+| 2023-06-20 | 323,650 | 5 |
 ## Awards
-Max (Highly Recommended): 26  (Ranked 466)  
-Sum: 94 (Ranked 407)  
-Diff (max vs sum): 59  
+Max (Highly Recommended): 27  (Ranked 461)  
+Sum: 95 (Ranked 407)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 26 |
+| This game is Highly Recommended | 27 |
 | This game is Relaxing | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 20 |
@@ -209,3 +209,4 @@ Diff (max vs sum): 59
 | 2023-06-10 | 4.25 | 25 | 91 |
 | 2023-06-13 | 4.25 | 25 | 93 |
 | 2023-06-15 | 4.25 | 26 | 94 |
+| 2023-06-20 | 4.25 | 27 | 95 |

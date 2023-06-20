@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2693,
+  "EOS_Progressed": 2694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2966,6 +2966,11 @@
       "Time": "2023-06-20T00:02:06.6256087+00:00",
       "NumProgressed": 2693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T13:11:14.5219749+00:00",
+      "NumProgressed": 2694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3057,7 +3062,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_BASE_21",
@@ -3169,7 +3174,7 @@
       "Name": "Fully Recycled",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_BASE_34",
@@ -3281,7 +3286,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_BASE_5",
@@ -3359,9 +3364,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_BASE_60",
@@ -3432,13 +3437,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 874,
+      "Progressed": 875,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2693,
+      "Progressed": 2694,
       "Completed": 0
     }
   ],
@@ -3446,8 +3451,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-16T13:04:18.8650637+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:03:11.2607412+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:11:14.5219738+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:59:31.2712564+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:03:11.260817+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:07:11.8955563+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:11:14.5220541+00:00"
 }

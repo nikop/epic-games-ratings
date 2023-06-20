@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~35,901 |
-| Get Busy Living | 17.00% | ~23,474 |
-| Samuel Norton | 9.00% | ~12,427 |
-| Spare The Rod | 5.00% | ~6,904 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,523 |
-| Don't Put Me In The Dark | 3.00% | ~4,142 |
-| Wait and Hope | 3.00% | ~4,142 |
-| Iron Bars | 3.00% | ~4,142 |
+| Stone Walls | 26.00% | ~35,908 |
+| Get Busy Living | 17.00% | ~23,478 |
+| Samuel Norton | 9.00% | ~12,430 |
+| Spare The Rod | 5.00% | ~6,905 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,524 |
+| Don't Put Me In The Dark | 3.00% | ~4,143 |
+| Wait and Hope | 3.00% | ~4,143 |
+| Iron Bars | 3.00% | ~4,143 |
 | Throw The Book At Them | 2.00% | ~2,762 |
 | D.B. Cooper | 1.00% | ~1,381 |
-| Reformation | 0.60% | ~828 |
-| Crowd Control | 0.50% | ~690 |
+| Reformation | 0.60% | ~829 |
+| Crowd Control | 0.50% | ~691 |
 | Freedom | 0.40% | ~552 |
 | Confined | 0.40% | ~552 |
 | It's Not What You Know... | 0.10% | ~138 |
 | ... It's What You Can Prove | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,082 (Ranked 57)  
+Progressed: 138,106 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,17 +84,17 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-17 | 136,970 | 5 |
 | 2023-06-18 | 137,477 | 5 |
 | 2023-06-19 | 137,916 | 5 |
-| 2023-06-20 | 138,082 | 5 |
+| 2023-06-20 | 138,106 | 5 |
 ## Awards
 Max (Extremely Fun): 440  (Ranked 198)  
-Sum: 3,448 (Ranked 146)  
+Sum: 3,449 (Ranked 146)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 440 |
 | This game is Great for Beginners | 426 |
 | This game is Highly Recommended | 422 |
-| This game has Quickly Understood Controls | 407 |
+| This game has Quickly Understood Controls | 408 |
 | This game is Relaxing | 387 |
 | This game has Diverse Characters | 377 |
 | This game has Amazing Storytelling | 365 |
@@ -255,4 +255,4 @@ Diff (max vs sum): 52
 | 2023-06-17 | 4.61 | - | 440 | 3,440 |
 | 2023-06-18 | 4.61 | - | 440 | 3,442 |
 | 2023-06-19 | 4.61 | - | 440 | 3,446 |
-| 2023-06-20 | 4.61 | - | 440 | 3,448 |
+| 2023-06-20 | 4.61 | - | 440 | 3,449 |

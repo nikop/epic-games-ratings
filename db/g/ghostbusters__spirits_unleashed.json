@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 95,
@@ -1278,9 +1278,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23525,
+  "EOS_Progressed": 23526,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6063,6 +6063,11 @@
       "Time": "2023-06-20T12:08:01.2867813+00:00",
       "NumProgressed": 23525,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-20T13:14:34.9994667+00:00",
+      "NumProgressed": 23526,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6074,7 +6079,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17173
+      "UsersEstimate": 17174
     },
     {
       "ID": "Animated",
@@ -6106,7 +6111,7 @@
       "Name": "Catostrophic Destroyer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Clutch_Capture",
@@ -6114,7 +6119,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9645
+      "UsersEstimate": 9646
     },
     {
       "ID": "Collect_Spores",
@@ -6138,7 +6143,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12234
     },
     {
       "ID": "Daily_Dose",
@@ -6186,7 +6191,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15056
+      "UsersEstimate": 15057
     },
     {
       "ID": "Escape_Artist",
@@ -6250,7 +6255,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "Line_Em_Up",
@@ -6258,7 +6263,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Little_Help",
@@ -6266,7 +6271,7 @@
       "Name": "Little Help Here",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Master_Collector",
@@ -6290,7 +6295,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "Reckless",
@@ -6322,7 +6327,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "Rivalry",
@@ -6330,7 +6335,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "Seasoned",
@@ -6370,7 +6375,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "Stylish",
@@ -6418,7 +6423,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "Therapeutic",
@@ -6450,7 +6455,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Vaporous_Expansion",
@@ -6481,7 +6486,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23525,
+      "Progressed": 23526,
       "Completed": 46
     }
   ],
@@ -6489,8 +6494,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-20T04:59:57.5820536+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:08:01.2867807+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:34.9994663+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-20T12:00:08.3429455+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:08:01.286851+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:07:35.8786409+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:34.9995291+00:00"
 }

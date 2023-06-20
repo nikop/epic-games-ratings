@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-06-20T08:06:34.3356474+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T13:14:00.1065311+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -471,7 +476,7 @@
       "Name": "Newbie",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1702,14 +1707,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:07:13.3228192+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:00.1065304+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:56.9111978+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:57:38.8457202+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:07:13.3231684+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:05:56.5281484+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:00.1068965+00:00"
 }

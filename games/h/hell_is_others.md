@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 633)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~77,956 |
-| Predator I | 22.00% | ~55,323 |
+| Predator I | 22.00% | ~55,324 |
 | Fixer I | 10.00% | ~25,147 |
 | A week in Century City | 10.00% | ~25,147 |
 | The Wait | 7.00% | ~17,603 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 633)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,470 (Ranked 42)  
+Progressed: 251,472 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,14 +123,14 @@ Completed: 1 (0.00%) (Ranked 227)
 | 2023-06-17 | 251,319 | 1 |
 | 2023-06-18 | 251,395 | 1 |
 | 2023-06-19 | 251,448 | 1 |
-| 2023-06-20 | 251,470 | 1 |
+| 2023-06-20 | 251,472 | 1 |
 ## Awards
-Max (Great for Quick Sessions): 27  (Ranked 460)  
-Sum: 138 (Ranked 388)  
+Max (Great for Quick Sessions): 28  (Ranked 459)  
+Sum: 139 (Ranked 387)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 27 |
+| This game is Great for Quick Sessions | 28 |
 | This game has Unique Visuals | 27 |
 | This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 20 |
@@ -219,3 +219,4 @@ Diff (max vs sum): 72
 | 2023-06-15 | 4.43 | 27 | 116 |
 | 2023-06-16 | 4.43 | 27 | 137 |
 | 2023-06-19 | 4.44 | 27 | 138 |
+| 2023-06-20 | 4.44 | 28 | 139 |

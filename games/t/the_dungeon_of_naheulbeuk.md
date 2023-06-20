@@ -72,6 +72,7 @@ Number of Ratings: 118  (23.09.2022)
 | Demisemiquaver | 3.00% | ~4 |
 | Restless night | 2.00% | ~3 |
 | Imposture and Trowels | 2.00% | ~3 |
+| Cute Dungeon | 2.00% | ~3 |
 | Mystical Dungeon | 2.00% | ~3 |
 | Gloomy Dungeon | 2.00% | ~3 |
 | Power struggle | 2.00% | ~3 |
@@ -83,7 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | Finally free | 0.80% | ~1 |
 | Hoarding | 0.80% | ~1 |
 | Staff cut | 0.80% | ~1 |
-| Cute Dungeon | 0.80% | ~1 |
 | Iron Golems Tamer | 0.80% | ~1 |
 | Lord of the Drunks | 0.80% | ~1 |
 | The number of the counting shalt be 7 | 0.00% | ~0 |
@@ -117,9 +117,9 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-19 | 126 | 0 |
 | 2023-06-20 | 128 | 0 |
 ## Awards
-Max (Character Customization): 61  (Ranked 380)  
+Max (Character Customization): 61  (Ranked 381)  
 Sum: 61 (Ranked 435)  
-Diff (max vs sum): -55  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 61 |

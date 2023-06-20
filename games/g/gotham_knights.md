@@ -13,6 +13,7 @@ Rating: 4.17 (Ranked 857)
 | Get ReQ'd | 3.00% | ~1,972 |
 | Knighthood | 3.00% | ~1,972 |
 | Whispered Words | 3.00% | ~1,972 |
+| Lock and Key | 3.00% | ~1,972 |
 | In Your Element | 2.00% | ~1,315 |
 | Protector of Gotham | 2.00% | ~1,315 |
 | Something in the Clay | 2.00% | ~1,315 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 857)
 | Working Hard or Harley Working? | 2.00% | ~1,315 |
 | Universal Health Scare | 2.00% | ~1,315 |
 | Unstoppable Force | 2.00% | ~1,315 |
-| Lock and Key | 2.00% | ~1,315 |
 | Bad Apples in Every Orchard | 2.00% | ~1,315 |
 | From Inside Gotham's Walls | 2.00% | ~1,315 |
 | Voiceless | 2.00% | ~1,315 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,728 (Ranked 71)  
+Progressed: 65,731 (Ranked 71)  
 Completed: 96 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 96 (0.15%) (Ranked 164)
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
 | 2023-06-19 | 65,692 | 95 |
-| 2023-06-20 | 65,728 | 96 |
+| 2023-06-20 | 65,731 | 96 |
 ## Awards
 Max (Great Boss Battles): 2,348  (Ranked 97)  
 Sum: 3,892 (Ranked 137)  

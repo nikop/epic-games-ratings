@@ -11,6 +11,7 @@
 | Break Time | 25.00% | ~2 |
 | Master of the Rope | 25.00% | ~2 |
 | Training Day | 25.00% | ~2 |
+| The Fastest | 25.00% | ~2 |
 | Summer Day | 25.00% | ~2 |
 | Animal Sighting | 25.00% | ~2 |
 | Paw patrol member | 25.00% | ~2 |
@@ -21,7 +22,6 @@
 | King of the Mountain | 13.00% | ~1 |
 | A Great Explorer | 13.00% | ~1 |
 | Everything Under Control | 13.00% | ~1 |
-| The Fastest | 13.00% | ~1 |
 | In the Air | 13.00% | ~1 |
 | Clear the Road | 13.00% | ~1 |
 | Never Miss | 13.00% | ~1 |

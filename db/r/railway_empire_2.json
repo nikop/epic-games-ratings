@@ -2,12 +2,12 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-06-10T05:57:52.1300906+00:00",
@@ -56,15 +56,21 @@
       "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-20T13:06:46.1936509+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2222,6 +2228,11 @@
       "Time": "2023-06-19T23:08:34.5180699+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T13:14:37.9010604+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2281,7 +2292,7 @@
       "Name": "Unstoppable",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "A07",
@@ -2289,7 +2300,7 @@
       "Name": "Track to the Future",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "A08",
@@ -2311,9 +2322,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 902
     },
     {
       "ID": "A11",
@@ -2369,7 +2380,7 @@
       "Name": "Facility Manager",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "A18",
@@ -2473,7 +2484,7 @@
       "Name": "All mine",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "A31",
@@ -2521,7 +2532,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "A37",
@@ -2529,7 +2540,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "A38",
@@ -2537,7 +2548,7 @@
       "Name": "Poor Devil",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "A39",
@@ -2577,7 +2588,7 @@
       "Name": "Mole",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "A44",
@@ -2593,7 +2604,7 @@
       "Name": "Settler",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "A46",
@@ -2601,7 +2612,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "A47",
@@ -2625,7 +2636,7 @@
       "Name": "Financial Shark",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "A50",
@@ -2672,16 +2683,16 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:08:04.452378+00:00",
+  "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:37.9010596+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:58:55.7080211+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:08:04.4524371+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:06:46.1936515+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:37.9011196+00:00"
 }

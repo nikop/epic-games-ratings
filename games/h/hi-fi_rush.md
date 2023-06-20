@@ -5,25 +5,25 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,631 |
-| Feeling the beat! | 80.00% | ~2,631 |
-| You can pet the cat! | 74.00% | ~2,434 |
+| Start with a bang! | 80.00% | ~2,632 |
+| Feeling the beat! | 80.00% | ~2,632 |
+| You can pet the cat! | 74.00% | ~2,435 |
 | Who put gears in there? | 67.00% | ~2,204 |
-| Cream of the Crop | 62.00% | ~2,039 |
-| Thanks for the free chip, Peppermint! | 61.00% | ~2,006 |
+| Cream of the Crop | 62.00% | ~2,040 |
+| Thanks for the free chip, Peppermint! | 61.00% | ~2,007 |
 | You got this, Peppermint? | 56.00% | ~1,842 |
-| Perfect Parry | 54.00% | ~1,776 |
-| Alright, that felt AWESOME! | 53.00% | ~1,743 |
+| Perfect Parry | 54.00% | ~1,777 |
+| Alright, that felt AWESOME! | 53.00% | ~1,744 |
 | I play my own way! | 49.00% | ~1,612 |
 | This will cost you big time | 47.00% | ~1,546 |
 | Uh, they were broken when I got here | 46.00% | ~1,513 |
-| Z-shielding's got nothing on us! | 44.00% | ~1,447 |
-| Kissing the sky! | 43.00% | ~1,414 |
+| Z-shielding's got nothing on us! | 44.00% | ~1,448 |
+| Kissing the sky! | 43.00% | ~1,415 |
 | Does that say weakpoint? | 40.00% | ~1,316 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,283 |
 | The Negotiator | 38.00% | ~1,250 |
-| You must like calling me in, Chai | 33.00% | ~1,085 |
-| Out in a puff of smoke | 33.00% | ~1,085 |
+| You must like calling me in, Chai | 33.00% | ~1,086 |
+| Out in a puff of smoke | 33.00% | ~1,086 |
 | Headliner | 31.00% | ~1,020 |
 | Time to pay up! | 29.00% | ~954 |
 | Who's the boss now? | 28.00% | ~921 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,289 (Ranked 142)  
+Progressed: 3,290 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.15%) (Ranked 164)
 | 2023-06-17 | 3,263 | 5 |
 | 2023-06-18 | 3,277 | 5 |
 | 2023-06-19 | 3,288 | 5 |
-| 2023-06-20 | 3,289 | 5 |
+| 2023-06-20 | 3,290 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

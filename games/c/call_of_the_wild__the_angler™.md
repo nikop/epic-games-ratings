@@ -17,7 +17,7 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 32.00% | ~1,414 |
 | Things that go Splash in the Night | 26.00% | ~1,149 |
 | Goldfish? | 26.00% | ~1,149 |
-| Going for Gold | 23.00% | ~1,016 |
+| Going for Gold | 24.00% | ~1,060 |
 | I'm Hooked! | 18.00% | ~795 |
 | More than a Tourist | 12.00% | ~530 |
 | Diamond in the Rough | 12.00% | ~530 |

@@ -29,7 +29,7 @@ Rating: 3.48 (Ranked 945)
 | You Clean It Up | 11.00% | ~186 |
 | Block Party | 8.00% | ~135 |
 | Starve the Beast | 8.00% | ~135 |
-| From the Shadows | 5.00% | ~85 |
+| From the Shadows | 6.00% | ~102 |
 | Bell-ringer | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |

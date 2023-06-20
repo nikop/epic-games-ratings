@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 487,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.72,
   "EosHistory": [
@@ -1599,9 +1599,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "MQ03_1",
@@ -1663,9 +1663,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "MQ05_1",
@@ -1792,8 +1792,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:05:35.1394611+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:12:59.4785242+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:57:50.037987+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:05:35.1394905+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:06:03.3228995+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:12:59.4785539+00:00"
 }

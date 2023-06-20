@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1446,
+  "EOS_Progressed": 1447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3322,6 +3322,11 @@
       "Time": "2023-06-20T12:08:02.1678039+00:00",
       "NumProgressed": 1446,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T13:14:35.692404+00:00",
+      "NumProgressed": 1447,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3437,7 +3442,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "dragonmaster",
@@ -3541,7 +3546,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "gearenchanting",
@@ -3669,7 +3674,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "missionsdedication",
@@ -3725,7 +3730,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "prestigiousx10",
@@ -3789,7 +3794,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "thealchemist",
@@ -3893,7 +3898,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "warmachinesarmy",
@@ -3925,14 +3930,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1446,
+      "Progressed": 1447,
       "Completed": 1
     }
   ],
@@ -3940,8 +3945,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:08:02.1678032+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:35.6924028+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:58:51.0242268+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:08:02.1678986+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:06:44.0819754+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:35.6925026+00:00"
 }

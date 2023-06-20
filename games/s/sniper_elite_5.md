@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.49 (Ranked 565)  
+Rating: 4.49 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,10 +30,10 @@ Rating: 4.49 (Ranked 565)
 | Close Quarters | 7.00% | ~213 |
 | Snake in the Grass | 7.00% | ~213 |
 | Brains of the Operation | 7.00% | ~213 |
-| No Stone Unturned | 6.00% | ~182 |
-| Fields of Glory | 6.00% | ~182 |
-| Skirmisher | 6.00% | ~182 |
-| Set Europe Ablaze | 6.00% | ~182 |
+| No Stone Unturned | 6.00% | ~183 |
+| Fields of Glory | 6.00% | ~183 |
+| Skirmisher | 6.00% | ~183 |
+| Set Europe Ablaze | 6.00% | ~183 |
 | Precision Is Key | 5.00% | ~152 |
 | Rigged to Blow | 4.00% | ~122 |
 | My Little Friend | 4.00% | ~122 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 565)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,041 (Ranked 143)  
+Progressed: 3,042 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
-| 2023-06-20 | 3,041 | 2 |
+| 2023-06-20 | 3,042 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

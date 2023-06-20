@@ -1670,9 +1670,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65728,
+  "EOS_Progressed": 65731,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7080,6 +7080,11 @@
       "Time": "2023-06-20T12:08:05.684344+00:00",
       "NumProgressed": 65728,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-20T13:14:38.9084799+00:00",
+      "NumProgressed": 65731,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7497,9 +7502,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1972
     },
     {
       "ID": "MYSTERY_04",
@@ -7578,13 +7583,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65728,
+      "Progressed": 65731,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36008,
+      "Progressed": 36011,
       "Completed": 2646
     }
   ],
@@ -7592,8 +7597,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-20T07:01:16.0207702+00:00",
-  "LastChanged_Achievements": "2023-06-20T12:08:05.6843433+00:00",
+  "LastChanged_Achievements": "2023-06-20T13:14:38.9084789+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-20T12:01:13.6352951+00:00",
-  "LastUpdate_Achievements": "2023-06-20T12:08:05.6844366+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:08:24.3970342+00:00",
+  "LastUpdate_Achievements": "2023-06-20T13:14:38.9085713+00:00"
 }

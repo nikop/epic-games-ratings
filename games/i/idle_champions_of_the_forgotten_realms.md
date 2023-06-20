@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~7,967 |
-| The Cursed Farmer | 3.00% | ~2,988 |
-| Beast Intentions | 2.00% | ~1,992 |
-| The Ring of Regeneration | 2.00% | ~1,992 |
-| The Mad Wizard | 2.00% | ~1,992 |
-| Were-verpowered | 1.00% | ~996 |
-| Seeking Allies | 1.00% | ~996 |
-| Are Ya Chicken? | 1.00% | ~996 |
-| Mad Cow Disease | 1.00% | ~996 |
-| Friendly Imps | 1.00% | ~996 |
-| A Persistent Buzzing | 0.90% | ~896 |
-| Pure Energy | 0.90% | ~896 |
+| A Brief Tour of the Realms | 8.00% | ~7,972 |
+| The Cursed Farmer | 3.00% | ~2,990 |
+| Beast Intentions | 2.00% | ~1,993 |
+| The Ring of Regeneration | 2.00% | ~1,993 |
+| The Mad Wizard | 2.00% | ~1,993 |
+| Were-verpowered | 1.00% | ~997 |
+| Seeking Allies | 1.00% | ~997 |
+| Are Ya Chicken? | 1.00% | ~997 |
+| Mad Cow Disease | 1.00% | ~997 |
+| Friendly Imps | 1.00% | ~997 |
+| A Persistent Buzzing | 0.90% | ~897 |
+| Pure Energy | 0.90% | ~897 |
 | The Court of Storms | 0.90% | ~593 |
 | The Crumbling Temple | 0.80% | ~797 |
-| Terror in the Dark | 0.70% | ~697 |
-| A Mysterious Summons | 0.70% | ~697 |
-| Unearthed Evil | 0.70% | ~697 |
-| Exploring Port Nyanzaru | 0.70% | ~697 |
+| Terror in the Dark | 0.70% | ~698 |
+| A Mysterious Summons | 0.70% | ~698 |
+| Unearthed Evil | 0.70% | ~698 |
+| Exploring Port Nyanzaru | 0.70% | ~698 |
 | Beware the Jabberwock | 0.70% | ~461 |
 | Maddening | 0.60% | ~598 |
 | Beast Mode | 0.60% | ~598 |
@@ -33,36 +33,36 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.60% | ~598 |
 | Escort to Waterdeep | 0.60% | ~598 |
 | Waterdeep Detours | 0.60% | ~598 |
-| Coasting to the Finish | 0.60% | ~395 |
-| Checkmate | 0.50% | ~329 |
-| Vecna Out! | 0.50% | ~329 |
+| Coasting to the Finish | 0.60% | ~396 |
+| Checkmate | 0.50% | ~330 |
+| Vecna Out! | 0.50% | ~330 |
 | Low Initiative | 0.50% | ~498 |
 | No Time To Rest | 0.50% | ~498 |
 | The Dinner Party | 0.50% | ~498 |
 | Underdeep Cartography | 0.50% | ~498 |
 | The Templar's Camp | 0.50% | ~498 |
-| Quick or Quack | 0.50% | ~329 |
-| The Silken Swamp | 0.40% | ~398 |
-| Supply Run | 0.40% | ~398 |
-| Owlbear Necessities | 0.40% | ~263 |
-| Best Thay Ever | 0.40% | ~263 |
-| Frail Doesn't Mean Broken | 0.40% | ~263 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~263 |
-| Pin and Skewer | 0.40% | ~263 |
-| Street War | 0.40% | ~398 |
-| March of the Undead | 0.40% | ~398 |
-| Invisible Shadows | 0.40% | ~398 |
-| The Botched Kidnapping | 0.40% | ~398 |
-| Trollskull Manor | 0.40% | ~398 |
-| Attack on the Manor | 0.40% | ~398 |
-| The Death Curse | 0.40% | ~398 |
-| Premature Betrayal | 0.40% | ~398 |
-| A Tale of Two Cities | 0.40% | ~398 |
-| Flying Monkey Skulls of Doom | 0.40% | ~398 |
-| Close Escort | 0.40% | ~398 |
-| Constant Banditry | 0.40% | ~398 |
-| Overdue Rendezvous | 0.40% | ~398 |
-| Rescue in the Jungle | 0.40% | ~398 |
+| Quick or Quack | 0.50% | ~330 |
+| The Silken Swamp | 0.40% | ~399 |
+| Supply Run | 0.40% | ~399 |
+| Owlbear Necessities | 0.40% | ~264 |
+| Best Thay Ever | 0.40% | ~264 |
+| Frail Doesn't Mean Broken | 0.40% | ~264 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~264 |
+| Pin and Skewer | 0.40% | ~264 |
+| Street War | 0.40% | ~399 |
+| March of the Undead | 0.40% | ~399 |
+| Invisible Shadows | 0.40% | ~399 |
+| The Botched Kidnapping | 0.40% | ~399 |
+| Trollskull Manor | 0.40% | ~399 |
+| Attack on the Manor | 0.40% | ~399 |
+| The Death Curse | 0.40% | ~399 |
+| Premature Betrayal | 0.40% | ~399 |
+| A Tale of Two Cities | 0.40% | ~399 |
+| Flying Monkey Skulls of Doom | 0.40% | ~399 |
+| Close Escort | 0.40% | ~399 |
+| Constant Banditry | 0.40% | ~399 |
+| Overdue Rendezvous | 0.40% | ~399 |
+| Rescue in the Jungle | 0.40% | ~399 |
 | Pros and CONs | 0.30% | ~299 |
 | Tall Tales | 0.30% | ~198 |
 | Third Third Out | 0.30% | ~198 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,593 (Ranked 63)  
+Progressed: 99,651 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 73)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,593 | 1,971 |
+| 2023-06-20 | 99,651 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  
