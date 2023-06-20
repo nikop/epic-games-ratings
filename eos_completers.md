@@ -20,9 +20,9 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
-| 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 8.00% |
+| 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
@@ -31,11 +31,11 @@
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
-| 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.56% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
+| 35 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.26% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
@@ -49,7 +49,7 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.26% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.24% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -83,14 +83,14 @@
 | 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.64% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.57% |
-| 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.47% |
 | 87 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 89 | [Chorus](games/c/chorus.md) | 1.21% |
-| 90 | [Late Shift](games/l/late_shift.md) | 1.19% |
-| 91 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
+| 88 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 88 | [Chorus](games/c/chorus.md) | 1.21% |
+| 90 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
+| 90 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 92 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
 | 93 | [Five Dates](games/f/five_dates.md) | 1.12% |
 | 93 | [Trifox](games/t/trifox.md) | 1.12% |
@@ -132,8 +132,8 @@
 | 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
 | 131 | [Tchia](games/t/tchia.md) | 0.38% |
 | 132 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 133 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
-| 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 132 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 134 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
 | 135 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 136 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 136 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
