@@ -24,7 +24,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Wrath | 0.20% | ~45 |
 | For Survival | 0.20% | ~45 |
 | For Love | 0.20% | ~45 |
+| K.O. | 0.20% | ~45 |
 | Good Boy! | 0.20% | ~45 |
+| Just the Beginning | 0.20% | ~45 |
 | Jack of all Trades | 0.20% | ~45 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
@@ -32,12 +34,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Greed | 0.10% | ~22 |
 | For Penance | 0.10% | ~22 |
 | For Pride | 0.10% | ~22 |
-| K.O. | 0.10% | ~22 |
 | It Was Just an Estimate | 0.10% | ~22 |
 | Good Practice | 0.10% | ~22 |
 | Maybe Wax Doesn't Melt | 0.10% | ~22 |
 | A Glimpse of the Future | 0.10% | ~22 |
-| Just the Beginning | 0.10% | ~22 |
 | Wasted Betrayal | 0.10% | ~22 |
 | Had to Do It | 0.10% | ~22 |
 | Color Coordination | 0.10% | ~22 |

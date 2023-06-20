@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 100.00% | ~7 |
 | Rascal | 86.00% | ~6 |
+| The Preacher's fate | 86.00% | ~6 |
 | Welcome to the Tower | 86.00% | ~6 |
-| The Preacher's fate | 71.00% | ~5 |
+| The great escape | 86.00% | ~6 |
 | Champollion | 71.00% | ~5 |
 | Scholar | 71.00% | ~5 |
-| The great escape | 71.00% | ~5 |
 | A new dawn | 71.00% | ~5 |
 | The darkness | 71.00% | ~5 |
 | One last step | 71.00% | ~5 |

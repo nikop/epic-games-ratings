@@ -17,8 +17,8 @@ Rating: 4.31 (Ranked 767)
 | Mind the Gap | 63.00% | ~813 |
 | All around the World | 61.00% | ~787 |
 | Right through the middle | 56.00% | ~722 |
+| Poor Devil | 53.00% | ~684 |
 | Facility Manager | 52.00% | ~671 |
-| Poor Devil | 52.00% | ~671 |
 | Producer | 49.00% | ~632 |
 | Apprentice | 42.00% | ~542 |
 | Bridge Builder | 40.00% | ~516 |

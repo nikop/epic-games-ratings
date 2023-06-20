@@ -5,8 +5,8 @@ Rating: 4.37 (Ranked 717)
 Number of Ratings: 346  (23.09.2022)  
 ## Awards
 Max (Relaxing): 32  (Ranked 442)  
-Sum: 180 (Ranked 367)  
-Diff (max vs sum): 75  
+Sum: 200 (Ranked 356)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |
@@ -17,6 +17,7 @@ Diff (max vs sum): 75
 | This game has Amazing Storytelling | 23 |
 | This game has Obsessive Gameplay | 21 |
 | This game has Quickly Understood Controls | 20 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -114,3 +115,4 @@ Diff (max vs sum): 75
 | 2023-06-09 | 4.38 | - | 32 | 179 |
 | 2023-06-12 | 4.38 | - | 32 | 180 |
 | 2023-06-18 | 4.37 | - | 32 | 180 |
+| 2023-06-20 | 4.37 | - | 32 | 200 |

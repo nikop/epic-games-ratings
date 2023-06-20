@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1211,7 +1211,7 @@
   ],
   "EOS_Progressed": 22316,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4727,9 +4727,9 @@
       "ID": "BoxerBoss",
       "SetID": "3ojhj46",
       "Name": "K.O.",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     },
     {
       "ID": "EnableHouseRules",
@@ -4815,9 +4815,9 @@
       "ID": "SoulShopOverload",
       "SetID": "3ojhj46",
       "Name": "Just the Beginning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     },
     {
       "ID": "StoryTutorial",
@@ -4869,8 +4869,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-19T19:00:00.4243893+00:00",
-  "LastChanged_Achievements": "2023-06-20T14:07:32.1141514+00:00",
+  "LastChanged_Achievements": "2023-06-20T15:08:11.2281466+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:47.9436973+00:00",
-  "LastUpdate_Ratings": "2023-06-20T14:00:18.4037232+00:00",
-  "LastUpdate_Achievements": "2023-06-20T14:07:32.1142034+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:01:01.7950156+00:00",
+  "LastUpdate_Achievements": "2023-06-20T15:08:11.2282147+00:00"
 }

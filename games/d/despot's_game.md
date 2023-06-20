@@ -17,9 +17,9 @@ Rating: 4.50 (Ranked 548)
 | Last Man Standing | 32.00% | ~128 |
 | Catch Jonathan_tostar | 27.00% | ~108 |
 | Great Hero | 26.00% | ~104 |
+| Rookie | 26.00% | ~104 |
 | Campaigning | 25.00% | ~100 |
 | He's Seen It All | 25.00% | ~100 |
-| Rookie | 25.00% | ~100 |
 | Assemble a Meganewbie | 24.00% | ~96 |
 | Frugal | 21.00% | ~84 |
 | Feed a God | 20.00% | ~80 |

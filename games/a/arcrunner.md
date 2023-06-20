@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 96.00% | ~534 |
-| Terminated I | 82.00% | ~456 |
-| Challenge Accepted | 78.00% | ~434 |
-| Nanonic I | 78.00% | ~434 |
-| Unlocked and Loaded | 74.00% | ~411 |
-| Terminated II | 65.00% | ~361 |
-| The City | 51.00% | ~284 |
-| Terminated III | 44.00% | ~245 |
-| Challenge Mastered | 43.00% | ~239 |
-| Nanonic II | 37.00% | ~206 |
-| Starship Docks | 27.00% | ~150 |
-| Nanonic III | 27.00% | ~150 |
-| Supply Run | 27.00% | ~150 |
-| Rookie | 24.00% | ~133 |
-| Cybernetic | 21.00% | ~117 |
-| The Bigger They Are | 19.00% | ~106 |
-| Eden Heights | 19.00% | ~106 |
-| Outer Core | 16.00% | ~89 |
-| Up Close And Personal | 16.00% | ~89 |
-| Inner Core | 10.00% | ~56 |
-| Integration | 7.00% | ~39 |
-| Trickshot | 7.00% | ~39 |
-| Destruction | 3.00% | ~17 |
-| Ripperdoc | 3.00% | ~17 |
-| Fully Modded | 2.00% | ~11 |
-| Hard Boiled | 0.70% | ~4 |
-| Cyborg | 0.20% | ~1 |
+| Augmented | 0.00% | ~0 |
+| The Bigger They Are | 0.00% | ~0 |
+| Challenge Accepted | 0.00% | ~0 |
+| Challenge Mastered | 0.00% | ~0 |
+| The City | 0.00% | ~0 |
+| Cybernetic | 0.00% | ~0 |
+| Cyborg | 0.00% | ~0 |
+| Destruction | 0.00% | ~0 |
+| Starship Docks | 0.00% | ~0 |
+| Eden Heights | 0.00% | ~0 |
+| Fully Modded | 0.00% | ~0 |
+| Hard Boiled | 0.00% | ~0 |
+| Inner Core | 0.00% | ~0 |
+| Integration | 0.00% | ~0 |
+| Nanonic I | 0.00% | ~0 |
+| Nanonic II | 0.00% | ~0 |
+| Nanonic III | 0.00% | ~0 |
+| Outer Core | 0.00% | ~0 |
+| Ripperdoc | 0.00% | ~0 |
+| Rookie | 0.00% | ~0 |
+| Supply Run | 0.00% | ~0 |
+| Terminated I | 0.00% | ~0 |
+| Terminated II | 0.00% | ~0 |
+| Terminated III | 0.00% | ~0 |
+| Trickshot | 0.00% | ~0 |
+| Unlocked and Loaded | 0.00% | ~0 |
+| Up Close And Personal | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 556 (Ranked 205)  
