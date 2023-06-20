@@ -20,7 +20,7 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
 | 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
@@ -41,15 +41,15 @@
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.74% |
-| 42 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.70% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
+| 43 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.66% |
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.27% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.23% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -415,6 +415,7 @@
 | 227 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.00% |
 | 227 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
 | 227 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 0.00% |
+| 227 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 0.00% |
 | 227 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
 | 227 | [Strawhart](games/s/strawhart.md) | 0.00% |
 | 227 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
