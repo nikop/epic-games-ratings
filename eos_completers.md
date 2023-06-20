@@ -19,10 +19,10 @@
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 8.70% |
-| 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.57% |
-| 23 | [Smelter](games/s/smelter.md) | 8.33% |
+| 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
+| 22 | [Smelter](games/s/smelter.md) | 8.33% |
+| 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 8.00% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
@@ -49,7 +49,7 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.26% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -59,7 +59,7 @@
 | 57 | [The Bunker](games/t/the_bunker.md) | 2.80% |
 | 58 | [Bunny Park](games/b/bunny_park.md) | 2.78% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 60 | [Lamentum](games/l/lamentum.md) | 2.70% |
+| 60 | [Lamentum](games/l/lamentum.md) | 2.69% |
 | 61 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -71,9 +71,9 @@
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.97% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.95% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
