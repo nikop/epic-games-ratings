@@ -134,6 +134,7 @@
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
 | [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
+| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
@@ -183,7 +184,6 @@
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [Planet Cube - Edge](../games/p/planet_cube_-_edge.md) | 40 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
-| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
 | [The Spirit and the Mouse](../games/t/the_spirit_and_the_mouse.md) | 40 | 1,000 |
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |

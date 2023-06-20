@@ -40,18 +40,18 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
-| 42 | [Doodle God](games/d/doodle_god.md) | 3.74% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
+| 41 | [Doodle God](games/d/doodle_god.md) | 3.74% |
+| 42 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.70% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
-| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
+| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.29% |
 | 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.23% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
-| 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
+| 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 54 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 54 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -71,7 +71,7 @@
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.97% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.92% |
@@ -120,9 +120,9 @@
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 119 | [Grindstone](games/g/grindstone.md) | 0.55% |
 | 119 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 121 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 121 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
-| 121 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 121 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 122 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
