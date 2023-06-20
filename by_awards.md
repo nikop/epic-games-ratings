@@ -4,14 +4,14 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 447,836 | 4.50 | 548 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,069 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 187,011 | 4.68 | 239 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,421 | 4.19 | 843 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,467 | 4.19 | 843 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 151,855 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,175 | 4.53 | 504 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,547 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 69,802 | 4.62 | 346 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,063 | 4.58 | 421 |
 | 11 | [VALORANT](games/v/valorant.md) | 57,328 | 4.54 | 492 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 38,646 | 4.60 | 390 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 38,728 | 4.60 | 390 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,044 | 4.50 | 548 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,216 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,675 | 4.52 | 515 |
@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,046 | 4.56 | 453 |
 | 77 | [SMITE](games/s/smite.md) | 3,913 | 4.45 | 621 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,832 | 4.68 | 239 |
-| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,646 | 4.29 | 776 |
+| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,647 | 4.29 | 776 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,469 | 4.47 | 593 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,381 | 4.46 | 603 |
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,366 | 4.77 | 107 |
@@ -92,7 +92,7 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,793 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,517 | 4.61 | 364 |
 | 92 | [Among Us](games/a/among_us.md) | 2,481 | 4.57 | 442 |
-| 93 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.27 | 791 |
+| 93 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.28 | 786 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,459 | 4.50 | 548 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,406 | 4.80 | 79 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,392 | 4.10 | 882 |
@@ -230,7 +230,7 @@
 | 228 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 332 |
 | 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 300 | 4.55 | 476 |
 | 230 | [House Flipper](games/h/house_flipper.md) | 297 | 4.70 | 195 |
-| 230 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 791 |
+| 230 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 792 |
 | 232 | [MORDHAU](games/m/mordhau.md) | 287 | 4.41 | 670 |
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 286 | 4.60 | 390 |
 | 234 | [Railway Empire](games/r/railway_empire.md) | 284 | 4.52 | 515 |

@@ -392,7 +392,7 @@
 | 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,424 | 29 |
 | 390 | [Control](games/c/control.md) | 4.60 | 8,357 | 39 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 358 |
-| 390 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 38,646 | 12 |
+| 390 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 38,728 | 12 |
 | 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,406 | 26 |
 | 390 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 497 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 306 |
@@ -780,20 +780,20 @@
 | 776 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
 | 776 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
 | 776 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,430,715 | 1 |
-| 776 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,646 | 79 |
+| 776 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,647 | 79 |
 | 776 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 690 | 161 |
 | 776 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 410 |
 | 776 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 297 |
 | 776 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 497 |
 | 786 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 497 |
+| 786 | [RAGE 2](games/r/rage_2.md) | 4.28 | 2,475 | 93 |
 | 786 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.28 | 0 | 497 |
 | 786 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 302 |
 | 786 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 429 |
 | 786 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 280 |
-| 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 497 |
-| 791 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 497 |
-| 791 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,475 | 93 |
-| 791 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 230 |
+| 792 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 497 |
+| 792 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 497 |
+| 792 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 230 |
 | 795 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 497 |
 | 795 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 497 |
 | 795 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 497 |
@@ -846,7 +846,7 @@
 | 843 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 497 |
 | 843 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 497 |
 | 843 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 437 |
-| 843 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,421 | 5 |
+| 843 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,467 | 5 |
 | 843 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 497 |
 | 843 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 497 |
 | 850 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 340 |

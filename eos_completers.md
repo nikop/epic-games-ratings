@@ -47,8 +47,8 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
-| 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
+| 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
@@ -175,12 +175,12 @@
 | 173 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 173 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 173 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 173 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 173 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 173 | [Supraland](games/s/supraland.md) | 0.10% |
 | 173 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
-| 180 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 180 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 179 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 179 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 179 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 182 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 182 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
 | 182 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
@@ -457,4 +457,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,809 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,810 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
