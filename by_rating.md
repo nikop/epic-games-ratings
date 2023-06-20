@@ -375,7 +375,7 @@
 | 364 | [GRIME](games/g/grime.md) | 4.61 | 0 | 497 |
 | 364 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,112 | 134 |
 | 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 497 |
-| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,517 | 91 |
+| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,519 | 91 |
 | 364 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 632 | 167 |
 | 364 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 440 | 198 |
 | 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,271 | 37 |
@@ -396,7 +396,7 @@
 | 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,406 | 26 |
 | 390 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 497 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 306 |
-| 390 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 56 | 386 |
+| 390 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 57 | 386 |
 | 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 385 |
 | 390 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 425 |
 | 390 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 580 | 174 |
@@ -702,7 +702,7 @@
 | 699 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 497 |
 | 699 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 497 |
 | 699 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 497 |
-| 699 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,695 | 32 |
+| 699 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,698 | 32 |
 | 699 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 363 |
 | 699 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 497 |
 | 699 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 223 |
@@ -852,7 +852,7 @@
 | 850 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 340 |
 | 850 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 497 |
 | 850 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 332 |
-| 850 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 56 | 386 |
+| 850 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 56 | 387 |
 | 850 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 497 |
 | 850 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 497 |
 | 850 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 497 |
