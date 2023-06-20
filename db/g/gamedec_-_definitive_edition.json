@@ -354,7 +354,7 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 232997,
+  "EOS_Progressed": 233004,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 1,
@@ -6819,6 +6819,11 @@
       "Time": "2023-06-20T18:08:20.2150812+00:00",
       "NumProgressed": 232997,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-20T19:07:04.1999714+00:00",
+      "NumProgressed": 233004,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -6830,7 +6835,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62909
+      "UsersEstimate": 62911
     },
     {
       "ID": "ACH_AON",
@@ -6974,7 +6979,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65239
+      "UsersEstimate": 65241
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -7046,7 +7051,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 55919
+      "UsersEstimate": 55921
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -7150,7 +7155,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58249
+      "UsersEstimate": 58251
     },
     {
       "ID": "ACH_SOREAD",
@@ -7245,7 +7250,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 232997,
+      "Progressed": 233004,
       "Completed": 7
     }
   ],
@@ -7253,8 +7258,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-20T18:08:20.2150806+00:00",
+  "LastChanged_Achievements": "2023-06-20T19:07:04.1999707+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:40.9701615+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:58:56.4588522+00:00",
-  "LastUpdate_Achievements": "2023-06-20T18:08:20.2151459+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:58:36.9146539+00:00",
+  "LastUpdate_Achievements": "2023-06-20T19:07:04.2001145+00:00"
 }

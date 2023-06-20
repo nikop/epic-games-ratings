@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,276 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,085 |
 | A Keen Sense of Spell | 8.00% | ~22,468 |
 | First Class Student | 8.00% | ~22,468 |
 | Troll with the Punches | 8.00% | ~22,468 |
@@ -41,17 +41,17 @@ Rating: 4.77 (Ranked 107)
 | Floo Around the World | 2.00% | ~5,617 |
 | The Wise Owl | 2.00% | ~5,617 |
 | The Good Samaritan | 1.00% | ~2,808 |
+| Savvy Spender | 1.00% | ~2,808 |
 | Rise to the Challenges | 1.00% | ~2,808 |
 | Demiguise Dread | 1.00% | ~2,808 |
 | Finishing Touches | 1.00% | ~2,808 |
 | A Forte for Achievement | 1.00% | ~2,808 |
-| Savvy Spender | 0.90% | ~2,528 |
 | Merlin's Beard! | 0.70% | ~1,966 |
 | Spilled Milk | 0.60% | ~1,685 |
 | The Nature of the Beast | 0.50% | ~1,404 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,845 (Ranked 41)  
+Progressed: 280,849 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
-| 2023-06-20 | 280,845 | 408 |
+| 2023-06-20 | 280,849 | 408 |
 ## Awards
 Max (Character Customization): 20,207  (Ranked 18)  
 Sum: 37,470 (Ranked 31)  

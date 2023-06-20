@@ -6,23 +6,23 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,858 |
-| Haikyo | 80.00% | ~340,933 |
+| Found a Friend | 95.00% | ~404,859 |
+| Haikyo | 80.00% | ~340,934 |
 | Good as New | 72.00% | ~306,840 |
 | Into the Woods | 69.00% | ~294,055 |
 | Hunter in the Forest | 60.00% | ~255,700 |
 | Rot Commander | 60.00% | ~255,700 |
-| Taro's Fear | 56.00% | ~238,653 |
-| Between the Eyes | 46.00% | ~196,036 |
+| Taro's Fear | 56.00% | ~238,654 |
+| Between the Eyes | 46.00% | ~196,037 |
 | Taro's Love | 45.00% | ~191,775 |
-| Taro's Regret | 43.00% | ~183,251 |
+| Taro's Regret | 43.00% | ~183,252 |
 | Spirit Guide | 42.00% | ~178,990 |
 | Harness Your Power | 38.00% | ~161,943 |
-| The Open Range | 37.00% | ~157,681 |
-| Adira's Love | 34.00% | ~144,896 |
+| The Open Range | 37.00% | ~157,682 |
+| Adira's Love | 34.00% | ~144,897 |
 | Adira's Fear | 32.00% | ~136,373 |
-| Weigh Them Down | 31.00% | ~132,111 |
-| Adira's Regret | 31.00% | ~132,111 |
+| Weigh Them Down | 31.00% | ~132,112 |
+| Adira's Regret | 31.00% | ~132,112 |
 | A Heavy Hammer | 30.00% | ~127,850 |
 | Crossing Over | 29.00% | ~123,588 |
 | Quick Draw | 29.00% | ~123,588 |
@@ -45,10 +45,10 @@ Number of Ratings: 3,313  (23.09.2022)
 | Sharpshooter | 2.00% | ~8,523 |
 | Triple Tap | 1.00% | ~4,262 |
 | Return to Sender | 1.00% | ~4,262 |
-| Triple Threat | 0.90% | ~3,835 |
-| Master Spirit Guide | 0.30% | ~1,278 |
+| Triple Threat | 0.90% | ~3,836 |
+| Master Spirit Guide | 0.30% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,166 (Ranked 36)  
+Progressed: 426,167 (Ranked 36)  
 Completed: 509 (0.12%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,11 +109,11 @@ Completed: 509 (0.12%) (Ranked 171)
 | 2023-06-17 | 426,086 | 507 |
 | 2023-06-18 | 426,124 | 508 |
 | 2023-06-19 | 426,150 | 509 |
-| 2023-06-20 | 426,166 | 509 |
+| 2023-06-20 | 426,167 | 509 |
 ## Awards
-Max (Great Boss Battles): 1,301  (Ranked 122)  
+Max (Great Boss Battles): 1,301  (Ranked 123)  
 Sum: 1,673 (Ranked 203)  
-Diff (max vs sum): -81  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,301 |

@@ -5,18 +5,18 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,362 |
-| World Map | 80.00% | ~1,159 |
+| Victor | 94.00% | ~1,363 |
+| World Map | 80.00% | ~1,160 |
 | Temple of Eternals | 57.00% | ~826 |
 | Prestigious | 53.00% | ~768 |
 | Fellowship Power | 41.00% | ~594 |
 | Guild Power | 24.00% | ~348 |
 | Prestigious x10 | 21.00% | ~304 |
-| The game is on | 19.00% | ~275 |
-| Exotic Merchant | 17.00% | ~246 |
+| The game is on | 19.00% | ~276 |
+| Exotic Merchant | 17.00% | ~247 |
 | Dragon Clicker | 16.00% | ~232 |
 | Miner Clicker | 16.00% | ~232 |
-| Inspection | 15.00% | ~217 |
+| Inspection | 15.00% | ~218 |
 | Full Party | 14.00% | ~203 |
 | Dragon Master | 13.00% | ~188 |
 | Enlightenment | 13.00% | ~188 |
@@ -26,7 +26,7 @@ Rating: 4.07 (Ranked 894)
 | Natural Talent | 12.00% | ~174 |
 | Superior | 12.00% | ~174 |
 | The Unstoppable | 12.00% | ~174 |
-| Milestone collector | 11.00% | ~159 |
+| Milestone collector | 11.00% | ~160 |
 | Scientist | 10.00% | ~145 |
 | The power of Awakening | 9.00% | ~130 |
 | Challenger | 8.00% | ~116 |
@@ -36,9 +36,9 @@ Rating: 4.07 (Ranked 894)
 | Mastery | 8.00% | ~116 |
 | Relic Of The Past | 8.00% | ~116 |
 | Scroll Master | 8.00% | ~116 |
-| Four Leaf Clover | 7.00% | ~101 |
-| Frostfire Liberator | 7.00% | ~101 |
-| Moving Up The Ladder | 7.00% | ~101 |
+| Four Leaf Clover | 7.00% | ~102 |
+| Frostfire Liberator | 7.00% | ~102 |
+| Moving Up The Ladder | 7.00% | ~102 |
 | Here We Go Again | 6.00% | ~87 |
 | Master Enchanter | 6.00% | ~87 |
 | The father of Dragons | 6.00% | ~87 |
@@ -54,8 +54,8 @@ Rating: 4.07 (Ranked 894)
 | Dragon Slayer | 4.00% | ~58 |
 | Engineer Mastery | 4.00% | ~58 |
 | Lock And Load | 4.00% | ~58 |
-| Blueprint Upgrades | 3.00% | ~43 |
-| Sailor | 3.00% | ~43 |
+| Blueprint Upgrades | 3.00% | ~44 |
+| Sailor | 3.00% | ~44 |
 | Active Member | 2.00% | ~29 |
 | Arena Challenger | 2.00% | ~29 |
 | Ebony Jungle Liberator | 2.00% | ~29 |
@@ -81,8 +81,8 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,449 (Ranked 166)  
-Completed: 1 (0.07%) (Ranked 187)  
+Progressed: 1,450 (Ranked 166)  
+Completed: 1 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-17 | 1,427 | 1 |
 | 2023-06-18 | 1,441 | 1 |
 | 2023-06-19 | 1,442 | 1 |
-| 2023-06-20 | 1,449 | 1 |
+| 2023-06-20 | 1,450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

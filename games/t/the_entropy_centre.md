@@ -15,7 +15,7 @@
 | Man's Best Friend | 35.00% | ~70 |
 | Handyman | 22.00% | ~44 |
 | No Time To Relax | 19.00% | ~38 |
-| Bad Robots | 16.00% | ~32 |
+| Bad Robots | 17.00% | ~34 |
 | Archivist | 16.00% | ~32 |
 | Running Boots | 14.00% | ~28 |
 | Fashionista | 14.00% | ~28 |
@@ -26,7 +26,7 @@
 | So Close | 9.00% | ~18 |
 | Transformers, cubes in disguise | 9.00% | ~18 |
 | Final Charge | 9.00% | ~18 |
-| Cataclysm | 8.00% | ~16 |
+| Cataclysm | 9.00% | ~18 |
 | Summer Luvin' | 3.00% | ~6 |
 | You Are Terminated | 0.50% | ~1 |
 | So, this is the End? | 0.00% | ~0 |

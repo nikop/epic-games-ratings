@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~7,999 |
-| The Cursed Farmer | 4.00% | ~3,999 |
-| Beast Intentions | 2.00% | ~2,000 |
-| The Ring of Regeneration | 2.00% | ~2,000 |
-| The Mad Wizard | 2.00% | ~2,000 |
-| Were-verpowered | 1.00% | ~1,000 |
-| Seeking Allies | 1.00% | ~1,000 |
-| Are Ya Chicken? | 1.00% | ~1,000 |
-| Mad Cow Disease | 1.00% | ~1,000 |
-| Friendly Imps | 1.00% | ~1,000 |
-| A Persistent Buzzing | 0.90% | ~900 |
-| Pure Energy | 0.90% | ~900 |
-| The Court of Storms | 0.90% | ~596 |
-| Terror in the Dark | 0.80% | ~800 |
-| The Crumbling Temple | 0.80% | ~800 |
+| A Brief Tour of the Realms | 8.00% | ~8,005 |
+| The Cursed Farmer | 4.00% | ~4,003 |
+| The Mad Wizard | 3.00% | ~3,002 |
+| Beast Intentions | 2.00% | ~2,001 |
+| The Ring of Regeneration | 2.00% | ~2,001 |
+| Were-verpowered | 1.00% | ~1,001 |
+| Seeking Allies | 1.00% | ~1,001 |
+| Are Ya Chicken? | 1.00% | ~1,001 |
+| Mad Cow Disease | 1.00% | ~1,001 |
+| Friendly Imps | 1.00% | ~1,001 |
+| A Persistent Buzzing | 0.90% | ~901 |
+| Pure Energy | 0.90% | ~901 |
+| The Court of Storms | 0.90% | ~597 |
+| Terror in the Dark | 0.80% | ~801 |
+| The Crumbling Temple | 0.80% | ~801 |
 | A Mysterious Summons | 0.70% | ~700 |
 | Unearthed Evil | 0.70% | ~700 |
 | Exploring Port Nyanzaru | 0.70% | ~700 |
@@ -34,14 +34,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.60% | ~600 |
 | Waterdeep Detours | 0.60% | ~600 |
 | Coasting to the Finish | 0.60% | ~398 |
-| Checkmate | 0.50% | ~331 |
-| Vecna Out! | 0.50% | ~331 |
+| Checkmate | 0.50% | ~332 |
+| Vecna Out! | 0.50% | ~332 |
 | Low Initiative | 0.50% | ~500 |
 | No Time To Rest | 0.50% | ~500 |
 | The Dinner Party | 0.50% | ~500 |
 | Underdeep Cartography | 0.50% | ~500 |
 | The Templar's Camp | 0.50% | ~500 |
-| Quick or Quack | 0.50% | ~331 |
+| Quick or Quack | 0.50% | ~332 |
 | The Silken Swamp | 0.40% | ~400 |
 | Supply Run | 0.40% | ~400 |
 | Owlbear Necessities | 0.40% | ~265 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.40% | ~400 |
 | Street War | 0.40% | ~400 |
 | March of the Undead | 0.40% | ~400 |
+| Wisdom Check | 0.40% | ~400 |
 | Invisible Shadows | 0.40% | ~400 |
 | The Botched Kidnapping | 0.40% | ~400 |
 | Trollskull Manor | 0.40% | ~400 |
@@ -72,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.30% | ~199 |
 | Return to the Tomb | 0.30% | ~199 |
 | Keep Your Distance | 0.30% | ~199 |
-| Heatwave | 0.30% | ~199 |
 | Hands Off! | 0.30% | ~199 |
 | The Dread Domain of Tovag | 0.30% | ~199 |
 | The Castle of a Thousand Vecnas | 0.30% | ~199 |
@@ -87,7 +87,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.30% | ~300 |
 | Home Field Advantage | 0.30% | ~300 |
 | Force Grey Unleashed | 0.30% | ~300 |
-| Wisdom Check | 0.30% | ~300 |
 | Sleuth It Out | 0.30% | ~300 |
 | A Grand Puzzle | 0.30% | ~300 |
 | Tomb of the Nine Gods | 0.30% | ~300 |
@@ -180,7 +179,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.20% | ~133 |
 | The Dark Heart | 0.20% | ~133 |
 | The Oozing Hunger | 0.20% | ~133 |
-| The Madness of Zuggtmoy | 0.20% | ~133 |
 | Don't Look Up! | 0.20% | ~200 |
 | The Cult of Lolth | 0.20% | ~133 |
 | Will of the Feywild | 0.20% | ~133 |
@@ -206,6 +204,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.20% | ~200 |
 | More Than Well Equipped | 0.20% | ~133 |
 | Arcane Efforts | 0.20% | ~133 |
+| Heatwave | 0.20% | ~133 |
 | To Avernus in a Handbasket | 0.20% | ~133 |
 | Weak Doesn't Mean Feeble | 0.20% | ~133 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~133 |
@@ -368,7 +367,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into the Unknown | 0.20% | ~133 |
 | The Prison of Velkynvelve | 0.20% | ~133 |
 | Prisoners of Lolth | 0.20% | ~133 |
-| Prisoners of Unknown Choices | 0.20% | ~133 |
 | Rime Bandits | 0.20% | ~133 |
 | Giant-Size Adventure | 0.20% | ~133 |
 | Enemy Summit | 0.20% | ~133 |
@@ -412,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.20% | ~133 |
 | REALLY Frozen Vengeance | 0.20% | ~133 |
 | The Battle of High Hall Tower | 0.20% | ~133 |
-| Might Makes Right | 0.20% | ~133 |
 | Elturel's Last Stand | 0.20% | ~133 |
 | Gargauth's Betrayal | 0.20% | ~133 |
 | Lost in the Underdark | 0.20% | ~133 |
@@ -433,7 +430,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Rite of the Arcane Octad | 0.20% | ~133 |
 | An Icewind Dale Reunion | 0.20% | ~133 |
 | The Netherese Necropolis | 0.20% | ~133 |
-| Ineffectual Intellectuals | 0.20% | ~133 |
 | The Archaeologist and the Sailor | 0.20% | ~133 |
 | Poor Guidance | 0.20% | ~200 |
 | Overwhelming Force | 0.20% | ~200 |
@@ -448,6 +444,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thoughts on the Menu | 0.10% | ~66 |
 | Brains on Ice | 0.10% | ~66 |
 | Levelheaded | 0.10% | ~66 |
+| The Madness of Zuggtmoy | 0.10% | ~66 |
 | It's So Pretty… | 0.10% | ~66 |
 | Head over Heals | 0.10% | ~66 |
 | The Demon Lords of the Abyss | 0.10% | ~66 |
@@ -484,10 +481,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Brimstone | 0.10% | ~66 |
 | A Tenday at Golgamann's | 0.10% | ~66 |
 | A Nightmare Occasion | 0.10% | ~66 |
+| Prisoners of Unknown Choices | 0.10% | ~66 |
 | Power of Three | 0.10% | ~66 |
 | A Neutral Party | 0.10% | ~66 |
 | Rickety Rubble | 0.10% | ~66 |
 | Going To Eleven | 0.10% | ~66 |
+| Might Makes Right | 0.10% | ~66 |
 | The Stunning Tower Battle | 0.10% | ~66 |
 | Visions of Hornfirth | 0.10% | ~66 |
 | Stragglers | 0.10% | ~66 |
@@ -499,8 +498,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~66 |
 | Maroon Madness | 0.10% | ~66 |
 | Alien Allies | 0.10% | ~66 |
+| Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,984 (Ranked 63)  
+Progressed: 100,063 (Ranked 63)  
 Completed: 1,971 (1.97%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.97%) (Ranked 73)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,984 | 1,971 |
+| 2023-06-20 | 100,063 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,149 (Ranked 37)  

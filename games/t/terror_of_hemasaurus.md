@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 66.00% | ~40 |
-| Jalopy Poppy | 64.00% | ~39 |
-| Green-Bodied Monster | 54.00% | ~33 |
-| Chopper Stopper | 46.00% | ~28 |
+| Terror Rising | 65.00% | ~40 |
+| Jalopy Poppy | 63.00% | ~39 |
+| Green-Bodied Monster | 53.00% | ~33 |
+| Chopper Stopper | 45.00% | ~28 |
 | Aerosolized | 39.00% | ~24 |
-| Test of Faith | 38.00% | ~23 |
-| Monstrosity Atrocity | 33.00% | ~20 |
-| Reign of Terror | 30.00% | ~18 |
-| Crushing All Cars | 25.00% | ~15 |
-| Horror Show | 20.00% | ~12 |
+| Test of Faith | 37.00% | ~23 |
+| Monstrosity Atrocity | 32.00% | ~20 |
+| Reign of Terror | 29.00% | ~18 |
+| Crushing All Cars | 24.00% | ~15 |
+| Horror Show | 19.00% | ~12 |
 | Brain Chopper | 18.00% | ~11 |
 | Night Bird | 13.00% | ~8 |
 | Demolition Ambition | 11.00% | ~7 |
 | Kill All Humans! | 8.00% | ~5 |
-| Hindenburgerer | 7.00% | ~4 |
-| Punchy Wagon | 7.00% | ~4 |
+| Hindenburgerer | 6.00% | ~4 |
+| Punchy Wagon | 6.00% | ~4 |
 | Holy Terror | 5.00% | ~3 |
 | Midair Affair | 5.00% | ~3 |
 | Plight of the Valkyrie | 5.00% | ~3 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~2 |
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 312)  
-Completed: 2 (3.28%) (Ranked 49)  
+Progressed: 62 (Ranked 312)  
+Completed: 2 (3.23%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 2 (3.28%) (Ranked 49)
 | 2023-06-13 | 58 | 2 |
 | 2023-06-17 | 60 | 2 |
 | 2023-06-18 | 61 | 2 |
+| 2023-06-20 | 62 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

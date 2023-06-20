@@ -6,8 +6,8 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,706 |
-| Leader | 61.00% | ~4,043 |
+| First Step | 71.00% | ~4,707 |
+| Leader | 61.00% | ~4,044 |
 | Explorer | 53.00% | ~3,513 |
 | Healer | 53.00% | ~3,513 |
 | Aspiring Inventor | 45.00% | ~2,983 |
@@ -16,26 +16,26 @@ Number of Ratings: 836  (23.09.2022)
 | Local Leader | 35.00% | ~2,320 |
 | Famous Explorer | 34.00% | ~2,254 |
 | New Opportunities | 34.00% | ~2,254 |
-| Energized | 33.00% | ~2,187 |
-| The Long Haul | 33.00% | ~2,187 |
+| Energized | 33.00% | ~2,188 |
+| The Long Haul | 33.00% | ~2,188 |
 | Survivor | 32.00% | ~2,121 |
 | The Great Healer | 31.00% | ~2,055 |
 | Cleaner | 28.00% | ~1,856 |
 | Catastrofan | 28.00% | ~1,856 |
 | Legendary Explorer | 27.00% | ~1,790 |
-| Finders, Keepers | 26.00% | ~1,723 |
+| Finders, Keepers | 26.00% | ~1,724 |
 | Top Notch | 25.00% | ~1,657 |
-| Ice Lakes | 23.00% | ~1,524 |
-| Mentor | 23.00% | ~1,524 |
+| Ice Lakes | 23.00% | ~1,525 |
+| Mentor | 23.00% | ~1,525 |
 | Great Leader | 22.00% | ~1,458 |
 | Real Survivor | 22.00% | ~1,458 |
 | Merchant | 21.00% | ~1,392 |
-| War Never Changes | 19.00% | ~1,259 |
-| Rocket Surgeon | 19.00% | ~1,259 |
+| War Never Changes | 19.00% | ~1,260 |
+| Rocket Surgeon | 19.00% | ~1,260 |
 | Big Game Hunter | 17.00% | ~1,127 |
-| Friendly | 16.00% | ~1,060 |
-| Around the World | 16.00% | ~1,060 |
-| Spreading Influence | 16.00% | ~1,060 |
+| Friendly | 16.00% | ~1,061 |
+| Around the World | 16.00% | ~1,061 |
+| Spreading Influence | 16.00% | ~1,061 |
 | Bookworm | 14.00% | ~928 |
 | Famous Adventurer | 13.00% | ~862 |
 | Prepared for Anything | 13.00% | ~862 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~13 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,628 (Ranked 124)  
+Progressed: 6,629 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 6,547 | 0 |
 | 2023-06-18 | 6,583 | 0 |
 | 2023-06-19 | 6,610 | 0 |
-| 2023-06-20 | 6,628 | 0 |
+| 2023-06-20 | 6,629 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 328)  
 Sum: 668 (Ranked 270)  
