@@ -142,6 +142,7 @@
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
 | [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
+| [Aliens: Dark Descent](../games/a/aliens__dark_descent.md) | 45 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
 | [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
@@ -296,6 +297,7 @@
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Fire: Ungh’s Quest](../games/f/fire__ungh’s_quest.md) | 27 | 1,000 |
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |
+| [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
