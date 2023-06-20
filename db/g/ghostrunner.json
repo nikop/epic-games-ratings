@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10073,
+  "EOS_Progressed": 10074,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7295,6 +7295,11 @@
       "Time": "2023-06-20T22:06:47.8344104+00:00",
       "NumProgressed": 10073,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-06-20T23:07:49.9510556+00:00",
+      "NumProgressed": 10074,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 45,
@@ -7442,7 +7447,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 7756
+      "UsersEstimate": 7757
     },
     {
       "ID": "MoreThanHuman",
@@ -7522,7 +7527,7 @@
       "Name": "R is for Running",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "RunningOutOfBreath",
@@ -7530,7 +7535,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "RunningWild",
@@ -7538,7 +7543,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "Scrapped",
@@ -7570,7 +7575,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "SwordRunner",
@@ -7578,7 +7583,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "SwordToAGunfight",
@@ -7665,21 +7670,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 10073,
+      "Progressed": 10074,
       "Completed": 27
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 10073,
+      "Progressed": 10074,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-06-14T21:57:50.0314718+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:06:47.8344098+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:07:49.9510552+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:41.8681181+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:58:30.9328975+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:06:47.834492+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:58:39.8017367+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:07:49.9511463+00:00"
 }

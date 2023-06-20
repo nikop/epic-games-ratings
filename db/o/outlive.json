@@ -2,9 +2,9 @@
   "ID": "17c7f322e7484e548d33139311a5a86e",
   "Name": "Outlive",
   "ProductSlug": "outlive-e2f5b1",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:57:53.2248068+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:58:45.1189065+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:03:41.1146205+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:58:56.2824566+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:04:22.8603058+00:00"
 }

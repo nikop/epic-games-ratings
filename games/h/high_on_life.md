@@ -1,13 +1,13 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.66 (Ranked 277)  
+Rating: 4.66 (Ranked 276)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,014 |
 | Mods Please Ban | 77.00% | ~17,639 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,410 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,639 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,723 |
 | First Bounty Down | 59.00% | ~13,516 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,058 |

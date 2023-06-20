@@ -2,12 +2,12 @@
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "ProductSlug": "lego-batman-2",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 367,
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2012-06-22T15:00:00+00:00",
@@ -489,6 +489,6 @@
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
   "LastChanged": "2023-06-08T09:00:26.0415751+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:43.7357266+00:00",
-  "LastUpdate_Ratings": "2023-06-20T22:01:03.8814663+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:06:04.1426802+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:01:36.404097+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:06:58.2754283+00:00"
 }

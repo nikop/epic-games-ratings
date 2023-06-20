@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "CHEESE_4",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re looking mozzare-hella good!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHEESE_5",
@@ -826,9 +826,9 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KNIGHT_1",
@@ -1033,8 +1033,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:06:55.5075057+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:07:58.374085+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.3676907+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:57:32.9802041+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:06:55.5075952+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:57:32.4486305+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:07:58.3742043+00:00"
 }

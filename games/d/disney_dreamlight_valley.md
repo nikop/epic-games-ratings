@@ -1,29 +1,29 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.75 (Ranked 132)  
+Rating: 4.75 (Ranked 133)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,453 |
-| Photographer | 75.00% | ~3,364 |
-| Valley's Helper | 71.00% | ~3,184 |
-| Constructor | 60.00% | ~2,691 |
-| Renovator | 58.00% | ~2,601 |
-| Bestest Friend | 56.00% | ~2,512 |
-| Banker | 47.00% | ~2,108 |
-| Gardener | 37.00% | ~1,659 |
-| Generous | 27.00% | ~1,211 |
-| Chef Cook | 22.00% | ~987 |
-| Miner | 10.00% | ~448 |
-| Duty Bound | 7.00% | ~314 |
-| Angler | 6.00% | ~269 |
-| Thorn Cleaner | 4.00% | ~179 |
+| Goofy's Investor | 77.00% | ~3,460 |
+| Photographer | 75.00% | ~3,370 |
+| Valley's Helper | 71.00% | ~3,190 |
+| Constructor | 60.00% | ~2,696 |
+| Renovator | 58.00% | ~2,606 |
+| Bestest Friend | 56.00% | ~2,516 |
+| Banker | 47.00% | ~2,112 |
+| Gardener | 37.00% | ~1,662 |
+| Generous | 27.00% | ~1,213 |
+| Chef Cook | 22.00% | ~988 |
+| Miner | 10.00% | ~449 |
+| Duty Bound | 7.00% | ~315 |
+| Angler | 6.00% | ~270 |
+| Thorn Cleaner | 4.00% | ~180 |
 | Chit Chatter | 3.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,485 (Ranked 132)  
-Completed: 144 (3.21%) (Ranked 50)  
+Progressed: 4,493 (Ranked 132)  
+Completed: 145 (3.23%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -34,10 +34,10 @@ Completed: 144 (3.21%) (Ranked 50)
 | 2023-06-17 | 3,840 | 98 |
 | 2023-06-18 | 4,123 | 103 |
 | 2023-06-19 | 4,300 | 141 |
-| 2023-06-20 | 4,485 | 144 |
+| 2023-06-20 | 4,493 | 145 |
 ## Awards
 Max (Great for Beginners): 873  (Ranked 147)  
-Sum: 7,185 (Ranked 103)  
+Sum: 7,187 (Ranked 103)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -49,7 +49,7 @@ Diff (max vs sum): 44
 | This game has Amazing Storytelling | 734 |
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 716 |
-| This game has a Creative Community | 595 |
+| This game has a Creative Community | 597 |
 | This game has Easy Combat | 478 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -160,4 +160,4 @@ Diff (max vs sum): 44
 | 2023-06-17 | 4.76 | - | 873 | 7,172 |
 | 2023-06-18 | 4.76 | - | 873 | 7,175 |
 | 2023-06-19 | 4.76 | - | 873 | 7,179 |
-| 2023-06-20 | 4.75 | - | 873 | 7,185 |
+| 2023-06-20 | 4.75 | - | 873 | 7,187 |

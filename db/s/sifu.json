@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4740,9 +4740,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 709874,
+  "EOS_Progressed": 709878,
   "EOS_Completed": 12779,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10635,6 +10635,11 @@
       "Time": "2023-06-20T21:07:00.7875508+00:00",
       "NumProgressed": 709874,
       "NumCompleted": 12779
+    },
+    {
+      "Time": "2023-06-20T23:07:57.7837491+00:00",
+      "NumProgressed": 709878,
+      "NumCompleted": 12779
     }
   ],
   "TotalAchievements": 50,
@@ -10646,7 +10651,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14197
+      "UsersEstimate": 14198
     },
     {
       "ID": "02_Vengeance_H1",
@@ -10742,7 +10747,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -10822,7 +10827,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14197
+      "UsersEstimate": 14198
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -11045,21 +11050,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19175,
+      "Progressed": 19179,
       "Completed": 10294
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709874,
+      "Progressed": 709878,
       "Completed": 12779
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-20T15:00:50.6835555+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:06:55.0810402+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:07:57.7837485+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:59:42.5382837+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:06:55.0811142+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:00:03.7337136+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:07:57.7838471+00:00"
 }

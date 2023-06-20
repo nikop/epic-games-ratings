@@ -4414,10 +4414,10 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 100288,
-  "EOS_Completed": 1972,
-  "EOS_NewPlayers": 9641,
-  "EOS_NewCompleters": 41,
+  "EOS_Progressed": 100341,
+  "EOS_Completed": 1973,
+  "EOS_NewPlayers": 9691,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
     {
@@ -10769,6 +10769,11 @@
       "Time": "2023-06-20T22:07:04.3545911+00:00",
       "NumProgressed": 100288,
       "NumCompleted": 1972
+    },
+    {
+      "Time": "2023-06-20T23:08:08.0807493+00:00",
+      "NumProgressed": 100341,
+      "NumCompleted": 1973
     }
   ],
   "TotalAchievements": 493,
@@ -10780,7 +10785,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8023
+      "UsersEstimate": 8027
     },
     {
       "ID": "objective_completed_10",
@@ -11148,7 +11153,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "objective_completed_110",
@@ -11900,7 +11905,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "objective_completed_150",
@@ -11964,7 +11969,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_164",
@@ -12116,7 +12121,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_208",
@@ -12196,7 +12201,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_231",
@@ -12452,7 +12457,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4014
     },
     {
       "ID": "objective_completed_34",
@@ -12460,7 +12465,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "objective_completed_35",
@@ -12468,7 +12473,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "objective_completed_36",
@@ -13842,9 +13847,9 @@
       "ID": "objective_completed_687",
       "SetID": "415jc5c",
       "Name": "Prisoners of Unknown Choices",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_completed_69",
@@ -13924,7 +13929,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "objective_completed_70",
@@ -13988,7 +13993,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_8",
@@ -14370,9 +14375,9 @@
       "ID": "objective_completed_868",
       "SetID": "415jc5c",
       "Name": "Might Makes Right",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_completed_869",
@@ -14652,7 +14657,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_95",
@@ -14682,9 +14687,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_1355",
@@ -14692,7 +14697,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "objective_completed_1356",
@@ -14700,7 +14705,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "objective_completed_1360",
@@ -14723,21 +14728,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 66562,
+      "Progressed": 66615,
       "Completed": 2807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 100288,
-      "Completed": 1972
+      "Progressed": 100341,
+      "Completed": 1973
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-20T20:58:40.2672817+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:07:04.3545905+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:08:08.0807489+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:58:37.6409254+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:07:04.3571699+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:58:47.8008924+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:08:08.084395+00:00"
 }

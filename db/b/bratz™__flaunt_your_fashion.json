@@ -195,9 +195,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "3",
@@ -219,17 +219,17 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "7",
@@ -251,9 +251,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -268,8 +268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:03:34.1565034+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:04:14.8289067+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.5346455+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:59:45.729225+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:03:34.1565157+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:00:07.4225454+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:04:14.8289227+00:00"
 }

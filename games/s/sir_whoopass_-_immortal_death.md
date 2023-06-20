@@ -45,14 +45,14 @@
 | Kleptomaniac | 23.00% | ~19 |
 | You're not so Big anymore, Boi! | 22.00% | ~18 |
 | Your daily dose of Vitamin C. | 22.00% | ~18 |
-| I cant stand still! | 21.00% | ~17 |
+| I cant stand still! | 22.00% | ~18 |
 | Master Butcher | 18.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
 | Slimy... yet satisfying | 17.00% | ~14 |
 | Yeehaw!!! | 15.00% | ~12 |
 | Deal with it | 15.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~11 |
-| You're looking mozzare-hella good! | 11.00% | ~9 |
+| You're looking mozzare-hella good! | 12.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~8 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |
 | Timber! | 10.00% | ~8 |

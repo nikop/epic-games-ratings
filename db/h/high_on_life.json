@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 277,
+  "Ranking_Rating": 276,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -216,7 +216,7 @@
   "Tags": [],
   "EOS_Progressed": 22908,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1797,9 +1797,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17410
+      "UsersEstimate": 17639
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2004,8 +2004,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:05:23.691069+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:06:11.7265691+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.3982882+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:58:31.7069341+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:05:23.6911021+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:58:40.7395329+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:06:11.7266111+00:00"
 }

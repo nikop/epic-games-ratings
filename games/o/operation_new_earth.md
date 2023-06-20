@@ -17,7 +17,7 @@
 | Infantry Reporting | 17.00% | ~28 |
 | Keeping Busy | 16.00% | ~26 |
 | Fighting for Survival | 13.00% | ~21 |
-| Silver Competitor | 12.00% | ~19 |
+| Silver Competitor | 13.00% | ~21 |
 | Brothers in Arms | 11.00% | ~18 |
 | Factory Expansion | 11.00% | ~18 |
 | Captain | 9.00% | ~15 |

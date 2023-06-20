@@ -2,9 +2,9 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm Pre-Purchase",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:01:54.4817885+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:03:06.8685287+00:00",
   "LastUpdate_AppInfo": "2023-06-15T21:57:00.3524002+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:57:14.9233444+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:01:54.4817917+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:57:12.9062924+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:03:06.8685325+00:00"
 }

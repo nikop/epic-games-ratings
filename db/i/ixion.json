@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2703,
+  "EOS_Progressed": 2704,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3007,6 +3007,11 @@
       "Time": "2023-06-20T22:03:06.4817503+00:00",
       "NumProgressed": 2703,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T23:03:31.6580204+00:00",
+      "NumProgressed": 2704,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3018,7 +3023,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BASE_10",
@@ -3082,7 +3087,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_BASE_19",
@@ -3130,7 +3135,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_BASE_25",
@@ -3473,13 +3478,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2703,
+      "Progressed": 2704,
       "Completed": 0
     }
   ],
@@ -3487,8 +3492,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-20T22:03:06.4817496+00:00",
+  "LastChanged_Achievements": "2023-06-20T23:03:31.6580199+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:59:03.1007487+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:03:06.4818236+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:59:18.6671987+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:03:31.6581069+00:00"
 }

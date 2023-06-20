@@ -2,9 +2,9 @@
   "ID": "6fe830287e1244829c9bcdb4cef9fad5",
   "Name": "Post Scriptum",
   "ProductSlug": "post-scriptum",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:57:55.206586+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:58:45.4513527+00:00",
-  "LastUpdate_Achievements": "2023-06-20T22:05:17.1156647+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:58:56.6744737+00:00",
+  "LastUpdate_Achievements": "2023-06-20T23:06:03.8760624+00:00"
 }
