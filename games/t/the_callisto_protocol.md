@@ -108,9 +108,9 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-19 | 15,464 | 56 |
 | 2023-06-20 | 15,472 | 56 |
 ## Awards
-Max (Amazing Characters): 56  (Ranked 386)  
+Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 326)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 56 |

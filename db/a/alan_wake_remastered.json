@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55766,
+  "EOS_Progressed": 55769,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1190,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5507,6 +5507,11 @@
       "Time": "2023-06-20T11:05:56.6161906+00:00",
       "NumProgressed": 55766,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T12:07:57.2240696+00:00",
+      "NumProgressed": 55769,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5518,7 +5523,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17845
+      "UsersEstimate": 17846
     },
     {
       "ID": "02",
@@ -5526,7 +5531,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11153
+      "UsersEstimate": 11154
     },
     {
       "ID": "03",
@@ -5550,7 +5555,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9480
+      "UsersEstimate": 9481
     },
     {
       "ID": "06",
@@ -5558,7 +5563,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7807
+      "UsersEstimate": 7808
     },
     {
       "ID": "07",
@@ -5582,7 +5587,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "10",
@@ -5622,7 +5627,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "15",
@@ -5630,7 +5635,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "16",
@@ -5678,7 +5683,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "22",
@@ -5742,7 +5747,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "30",
@@ -5750,7 +5755,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "31",
@@ -5774,7 +5779,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "34",
@@ -5782,7 +5787,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "35",
@@ -5790,7 +5795,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "36",
@@ -5854,7 +5859,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7807
+      "UsersEstimate": 7808
     },
     {
       "ID": "44",
@@ -6053,21 +6058,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55766,
+      "Progressed": 55769,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19234,
+      "Progressed": 19237,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:05:56.61619+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:07:57.2240688+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:57:43.2206808+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:05:56.6162637+00:00"
+  "LastUpdate_Ratings": "2023-06-20T11:58:22.509915+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:07:57.2241617+00:00"
 }

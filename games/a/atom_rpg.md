@@ -25,8 +25,8 @@ Number of Ratings: 54  (23.09.2022)
 | The Vitinsky Rifle | 6.00% | ~59 |
 | Protection racket | 5.00% | ~49 |
 | Secret room | 5.00% | ~49 |
+| Indy | 4.00% | ~39 |
 | Sacrifice | 4.00% | ~39 |
-| Indy | 3.00% | ~30 |
 | Career criminal | 2.00% | ~20 |
 | Wishmaster | 2.00% | ~20 |
 | Neanderthal | 1.00% | ~10 |

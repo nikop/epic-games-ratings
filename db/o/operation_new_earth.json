@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-06-20T10:04:00.5410322+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T12:04:21.5579952+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -448,9 +453,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_defeat_players_10",
@@ -504,9 +509,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -546,7 +551,7 @@
       "Name": "Facility Online",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -554,7 +559,7 @@
       "Name": "Corporal",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -650,7 +655,7 @@
       "Name": "Stocking Up",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -666,7 +671,7 @@
       "Name": "On Target",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -682,23 +687,23 @@
       "Name": "Infantry Reporting",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -745,14 +750,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:03:28.5398152+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:04:21.5579946+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:00:19.3515686+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:03:28.5398396+00:00"
+  "LastUpdate_Ratings": "2023-06-20T12:02:07.480721+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:04:21.5580252+00:00"
 }

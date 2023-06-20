@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Story Begins... | 85.00% | ~17 |
-| First Blood | 85.00% | ~17 |
-| These Blades Are Made For Swinging | 80.00% | ~16 |
-| Unearth A Qanat | 75.00% | ~15 |
-| Carving A Memory | 70.00% | ~14 |
-| A Friend In Need | 65.00% | ~13 |
-| A Stranger's Diary | 65.00% | ~13 |
-| It Feels Better Than It Sounds | 65.00% | ~13 |
-| Skilled Hands | 60.00% | ~12 |
-| Master Smithy | 60.00% | ~12 |
-| Stand By Nature | 60.00% | ~12 |
-| Close Encounter | 55.00% | ~11 |
-| The Depths Of Darkness | 55.00% | ~11 |
-| One With The Blades | 55.00% | ~11 |
-| Heart of Oblivion | 55.00% | ~11 |
-| Anahita's Greatest Mistake | 55.00% | ~11 |
-| Heart's Desire | 55.00% | ~11 |
-| Shoo! Shoo! | 55.00% | ~11 |
-| The Milk Canal | 55.00% | ~11 |
-| Fledgling Smithy | 55.00% | ~11 |
-| Nature's Savior | 50.00% | ~10 |
-| Hammer It Home | 50.00% | ~10 |
-| At One With Nature | 50.00% | ~10 |
-| Prison Break | 45.00% | ~9 |
-| I Pick You | 45.00% | ~9 |
-| Accomplished Smithy | 45.00% | ~9 |
-| The Blight's Blight | 45.00% | ~9 |
-| The Ultimate Sacrifice | 45.00% | ~9 |
-| For Whom the Bell Tolls | 45.00% | ~9 |
-| Here I Am | 45.00% | ~9 |
-| Break The Cycle | 40.00% | ~8 |
-| Continue The Cycle | 30.00% | ~6 |
-| Talent And Dedication | 25.00% | ~5 |
-| Read, Read, Read | 20.00% | ~4 |
-| Ledge-walker | 20.00% | ~4 |
-| Slip and Slide | 20.00% | ~4 |
-| Prolific Artist | 15.00% | ~3 |
-| Merely Inquisitive | 15.00% | ~3 |
+| The Story Begins... | 86.00% | ~18 |
+| First Blood | 86.00% | ~18 |
+| These Blades Are Made For Swinging | 81.00% | ~17 |
+| Unearth A Qanat | 76.00% | ~16 |
+| A Friend In Need | 67.00% | ~14 |
+| A Stranger's Diary | 67.00% | ~14 |
+| Carving A Memory | 67.00% | ~14 |
+| It Feels Better Than It Sounds | 62.00% | ~13 |
+| Stand By Nature | 62.00% | ~13 |
+| Skilled Hands | 57.00% | ~12 |
+| Master Smithy | 57.00% | ~12 |
+| Close Encounter | 52.00% | ~11 |
+| The Depths Of Darkness | 52.00% | ~11 |
+| One With The Blades | 52.00% | ~11 |
+| Heart of Oblivion | 52.00% | ~11 |
+| Anahita's Greatest Mistake | 52.00% | ~11 |
+| Heart's Desire | 52.00% | ~11 |
+| Shoo! Shoo! | 52.00% | ~11 |
+| The Milk Canal | 52.00% | ~11 |
+| Fledgling Smithy | 52.00% | ~11 |
+| Nature's Savior | 48.00% | ~10 |
+| Hammer It Home | 48.00% | ~10 |
+| At One With Nature | 48.00% | ~10 |
+| Prison Break | 43.00% | ~9 |
+| I Pick You | 43.00% | ~9 |
+| Accomplished Smithy | 43.00% | ~9 |
+| The Blight's Blight | 43.00% | ~9 |
+| The Ultimate Sacrifice | 43.00% | ~9 |
+| For Whom the Bell Tolls | 43.00% | ~9 |
+| Here I Am | 43.00% | ~9 |
+| Break The Cycle | 38.00% | ~8 |
+| Continue The Cycle | 29.00% | ~6 |
+| Talent And Dedication | 24.00% | ~5 |
+| Read, Read, Read | 19.00% | ~4 |
+| Ledge-walker | 19.00% | ~4 |
+| Slip and Slide | 19.00% | ~4 |
+| Prolific Artist | 14.00% | ~3 |
+| Merely Inquisitive | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 355)  
-Completed: 3 (15.00%) (Ranked 11)  
+Progressed: 21 (Ranked 354)  
+Completed: 3 (14.29%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 3 (15.00%) (Ranked 11)
 | 2023-05-29 | 17 | 3 |
 | 2023-06-03 | 18 | 3 |
 | 2023-06-09 | 20 | 3 |
+| 2023-06-20 | 21 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

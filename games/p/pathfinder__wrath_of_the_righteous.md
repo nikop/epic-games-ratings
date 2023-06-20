@@ -23,6 +23,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 3.00% | ~299 |
 | The Legacy | 3.00% | ~299 |
 | Divide and Rule | 3.00% | ~299 |
+| Mythic Reinforcements | 3.00% | ~299 |
 | Voice from Your Dreams | 3.00% | ~299 |
 | A Flame | 3.00% | ~299 |
 | Next-Door Play | 3.00% | ~299 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 2.00% | ~200 |
 | Path of the Lich | 2.00% | ~200 |
 | Heroic Victory | 2.00% | ~200 |
-| Mythic Reinforcements | 2.00% | ~200 |
 | Capitulation Is Now Moot | 2.00% | ~200 |
 | Core of the Riddle | 2.00% | ~200 |
 | Your First Big Enemy | 2.00% | ~200 |

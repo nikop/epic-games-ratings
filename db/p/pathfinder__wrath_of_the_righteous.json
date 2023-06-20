@@ -7207,9 +7207,9 @@
       "ID": "32_MythicReinforcements",
       "SetID": "989of5o",
       "Name": "Mythic Reinforcements",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 299
     },
     {
       "ID": "33_DefendersHeart",
@@ -7909,8 +7909,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-19T17:58:38.5957619+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:06:06.4952242+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:08:09.4800457+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:58:24.0377372+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:06:06.4953716+00:00"
+  "LastUpdate_Ratings": "2023-06-20T11:59:19.0776551+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:08:09.4802254+00:00"
 }

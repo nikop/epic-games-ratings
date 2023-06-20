@@ -1059,9 +1059,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6622,
+  "EOS_Progressed": 6623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6084,6 +6084,11 @@
       "Time": "2023-06-20T11:03:07.7575998+00:00",
       "NumProgressed": 6622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T12:03:32.4624235+00:00",
+      "NumProgressed": 6623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6095,7 +6100,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4040
     },
     {
       "ID": "10",
@@ -6135,7 +6140,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "15",
@@ -6151,7 +6156,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "17",
@@ -6191,7 +6196,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "21",
@@ -6215,7 +6220,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "24",
@@ -6247,7 +6252,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "28",
@@ -6423,7 +6428,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "48",
@@ -6566,15 +6571,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6622,
+      "Progressed": 6623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:03:07.7575995+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:03:32.4624223+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:59:53.3977303+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:03:07.7576673+00:00"
+  "LastUpdate_Ratings": "2023-06-20T12:01:30.976341+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:03:32.4625071+00:00"
 }

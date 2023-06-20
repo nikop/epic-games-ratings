@@ -42,9 +42,9 @@ Rating: 4.33 (Ranked 749)
 | Chain Reaction | 8.00% | ~94 |
 | Side Order | 8.00% | ~94 |
 | Curveball | 7.00% | ~82 |
+| Wipe Out | 7.00% | ~82 |
 | Bot Whisperer | 6.00% | ~70 |
 | Dressed To Kill | 6.00% | ~70 |
-| Wipe Out | 6.00% | ~70 |
 | Cruelty | 2.00% | ~23 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |

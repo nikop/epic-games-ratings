@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~7,963 |
-| The Cursed Farmer | 3.00% | ~2,986 |
-| Beast Intentions | 2.00% | ~1,991 |
-| The Ring of Regeneration | 2.00% | ~1,991 |
-| The Mad Wizard | 2.00% | ~1,991 |
-| Were-verpowered | 1.00% | ~995 |
-| Seeking Allies | 1.00% | ~995 |
-| Are Ya Chicken? | 1.00% | ~995 |
-| Mad Cow Disease | 1.00% | ~995 |
-| Friendly Imps | 1.00% | ~995 |
+| A Brief Tour of the Realms | 8.00% | ~7,967 |
+| The Cursed Farmer | 3.00% | ~2,988 |
+| Beast Intentions | 2.00% | ~1,992 |
+| The Ring of Regeneration | 2.00% | ~1,992 |
+| The Mad Wizard | 2.00% | ~1,992 |
+| Were-verpowered | 1.00% | ~996 |
+| Seeking Allies | 1.00% | ~996 |
+| Are Ya Chicken? | 1.00% | ~996 |
+| Mad Cow Disease | 1.00% | ~996 |
+| Friendly Imps | 1.00% | ~996 |
 | A Persistent Buzzing | 0.90% | ~896 |
 | Pure Energy | 0.90% | ~896 |
-| The Court of Storms | 0.90% | ~592 |
+| The Court of Storms | 0.90% | ~593 |
+| The Crumbling Temple | 0.80% | ~797 |
 | Terror in the Dark | 0.70% | ~697 |
 | A Mysterious Summons | 0.70% | ~697 |
 | Unearthed Evil | 0.70% | ~697 |
-| The Crumbling Temple | 0.70% | ~697 |
 | Exploring Port Nyanzaru | 0.70% | ~697 |
 | Beware the Jabberwock | 0.70% | ~461 |
-| Maddening | 0.60% | ~597 |
-| Beast Mode | 0.60% | ~597 |
-| Building Trust | 0.60% | ~597 |
-| Useless Allies | 0.60% | ~597 |
-| Running of the Saurs | 0.60% | ~597 |
-| The Contagious Curse | 0.60% | ~597 |
-| Escort to Waterdeep | 0.60% | ~597 |
-| Waterdeep Detours | 0.60% | ~597 |
+| Maddening | 0.60% | ~598 |
+| Beast Mode | 0.60% | ~598 |
+| Building Trust | 0.60% | ~598 |
+| Useless Allies | 0.60% | ~598 |
+| Running of the Saurs | 0.60% | ~598 |
+| The Contagious Curse | 0.60% | ~598 |
+| Escort to Waterdeep | 0.60% | ~598 |
+| Waterdeep Detours | 0.60% | ~598 |
 | Coasting to the Finish | 0.60% | ~395 |
 | Checkmate | 0.50% | ~329 |
 | Vecna Out! | 0.50% | ~329 |
@@ -64,24 +64,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.40% | ~398 |
 | Rescue in the Jungle | 0.40% | ~398 |
 | Pros and CONs | 0.30% | ~299 |
-| Tall Tales | 0.30% | ~197 |
-| Third Third Out | 0.30% | ~197 |
+| Tall Tales | 0.30% | ~198 |
+| Third Third Out | 0.30% | ~198 |
 | Wet Feet | 0.30% | ~299 |
 | Hatchlings Underfoot | 0.30% | ~299 |
-| Vecna Lives! | 0.30% | ~197 |
-| Return to the Tomb | 0.30% | ~197 |
-| Keep Your Distance | 0.30% | ~197 |
-| Hands Off! | 0.30% | ~197 |
-| The Dread Domain of Tovag | 0.30% | ~197 |
-| The Castle of a Thousand Vecnas | 0.30% | ~197 |
-| The Sanctum of the Sword | 0.30% | ~197 |
-| Kas the Bloody Handed | 0.30% | ~197 |
-| Get Back In The Castle | 0.30% | ~197 |
-| Bully for Vecna | 0.30% | ~197 |
+| Vecna Lives! | 0.30% | ~198 |
+| Return to the Tomb | 0.30% | ~198 |
+| Keep Your Distance | 0.30% | ~198 |
+| Hands Off! | 0.30% | ~198 |
+| The Dread Domain of Tovag | 0.30% | ~198 |
+| The Castle of a Thousand Vecnas | 0.30% | ~198 |
+| The Sanctum of the Sword | 0.30% | ~198 |
+| Kas the Bloody Handed | 0.30% | ~198 |
+| Get Back In The Castle | 0.30% | ~198 |
+| Bully for Vecna | 0.30% | ~198 |
 | Homecoming | 0.30% | ~299 |
 | The Lost Heir of Omu | 0.30% | ~299 |
-| No One Can Hear You Scream | 0.30% | ~197 |
-| Welcome to the Rock | 0.30% | ~197 |
+| No One Can Hear You Scream | 0.30% | ~198 |
+| Welcome to the Rock | 0.30% | ~198 |
 | The Forbidden City | 0.30% | ~299 |
 | Captured! | 0.30% | ~299 |
 | Home Field Advantage | 0.30% | ~299 |
@@ -123,22 +123,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~299 |
 | Resolve Amongst Chaos | 0.30% | ~299 |
 | Market Fluctuations | 0.30% | ~299 |
-| Into The Fire | 0.30% | ~197 |
-| Hearts Aflame | 0.30% | ~197 |
-| Look Out! | 0.30% | ~197 |
-| Bad Odds in Avernus | 0.30% | ~197 |
-| The Lost Hollyphant | 0.30% | ~197 |
-| An Even Worse Time in Avernus | 0.30% | ~197 |
-| The Giant's Bane Tavern | 0.30% | ~197 |
-| The Everlasting Rime | 0.30% | ~197 |
+| Into The Fire | 0.30% | ~198 |
+| Hearts Aflame | 0.30% | ~198 |
+| Look Out! | 0.30% | ~198 |
+| Bad Odds in Avernus | 0.30% | ~198 |
+| The Lost Hollyphant | 0.30% | ~198 |
+| An Even Worse Time in Avernus | 0.30% | ~198 |
+| The Giant's Bane Tavern | 0.30% | ~198 |
+| The Everlasting Rime | 0.30% | ~198 |
 | The Long Haul | 0.30% | ~299 |
 | Lost in the Deep | 0.30% | ~299 |
 | Easily Distracted | 0.30% | ~299 |
 | Rude Welcome | 0.30% | ~299 |
-| Moose Tracks | 0.30% | ~197 |
+| Moose Tracks | 0.30% | ~198 |
 | Durable Deep | 0.30% | ~299 |
-| Witty Riposting | 0.30% | ~197 |
-| How Far Away is Thay | 0.30% | ~197 |
+| Witty Riposting | 0.30% | ~198 |
+| How Far Away is Thay | 0.30% | ~198 |
 | The Haunted Jungle | 0.30% | ~299 |
 | Upholding the Law | 0.20% | ~199 |
 | Starving in the Jungle | 0.20% | ~199 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,538 (Ranked 63)  
-Completed: 1,971 (1.98%) (Ranked 74)  
+Progressed: 99,593 (Ranked 63)  
+Completed: 1,971 (1.98%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,538 | 1,971 |
+| 2023-06-20 | 99,593 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

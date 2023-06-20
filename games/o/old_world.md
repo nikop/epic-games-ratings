@@ -78,9 +78,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 23.00% | ~2,804 |
 | Patrons | 22.00% | ~2,682 |
 | Legalism | 22.00% | ~2,682 |
+| Mighty | 21.00% | ~2,560 |
 | Hittite Iron | 21.00% | ~2,560 |
 | Via Recta Souk | 21.00% | ~2,560 |
-| Mighty | 20.00% | ~2,438 |
 | Hagia Sophia | 20.00% | ~2,438 |
 | Dualism | 20.00% | ~2,438 |
 | Legionary | 20.00% | ~2,438 |

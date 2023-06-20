@@ -5,13 +5,13 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,358 |
-| World Map | 80.00% | ~1,156 |
+| Victor | 94.00% | ~1,359 |
+| World Map | 80.00% | ~1,157 |
 | Temple of Eternals | 57.00% | ~824 |
 | Prestigious | 53.00% | ~766 |
-| Fellowship Power | 41.00% | ~592 |
+| Fellowship Power | 41.00% | ~593 |
 | Guild Power | 24.00% | ~347 |
-| Prestigious x10 | 21.00% | ~303 |
+| Prestigious x10 | 21.00% | ~304 |
 | The game is on | 19.00% | ~275 |
 | Exotic Merchant | 17.00% | ~246 |
 | Dragon Clicker | 16.00% | ~231 |
@@ -22,12 +22,12 @@ Rating: 4.07 (Ranked 894)
 | Enlightenment | 13.00% | ~188 |
 | Hero inspection | 13.00% | ~188 |
 | Lieutenant | 13.00% | ~188 |
-| Mysterious Rock | 12.00% | ~173 |
-| Natural Talent | 12.00% | ~173 |
-| Superior | 12.00% | ~173 |
-| The Unstoppable | 12.00% | ~173 |
+| Mysterious Rock | 12.00% | ~174 |
+| Natural Talent | 12.00% | ~174 |
+| Superior | 12.00% | ~174 |
+| The Unstoppable | 12.00% | ~174 |
 | Milestone collector | 11.00% | ~159 |
-| Scientist | 10.00% | ~144 |
+| Scientist | 10.00% | ~145 |
 | The power of Awakening | 9.00% | ~130 |
 | Challenger | 8.00% | ~116 |
 | Daily Quest Completionist | 8.00% | ~116 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,445 (Ranked 166)  
+Progressed: 1,446 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-17 | 1,427 | 1 |
 | 2023-06-18 | 1,441 | 1 |
 | 2023-06-19 | 1,442 | 1 |
-| 2023-06-20 | 1,445 | 1 |
+| 2023-06-20 | 1,446 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

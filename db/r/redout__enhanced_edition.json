@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225213,
+  "EOS_Progressed": 225215,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
@@ -6468,6 +6468,11 @@
       "Time": "2023-06-20T11:05:39.5719026+00:00",
       "NumProgressed": 225213,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-20T12:07:34.7841245+00:00",
+      "NumProgressed": 225215,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -6479,7 +6484,7 @@
       "Name": "ACE",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "BETTERTHANEVER",
@@ -6511,7 +6516,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24773
+      "UsersEstimate": 24774
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -6615,7 +6620,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 72068
+      "UsersEstimate": 72069
     },
     {
       "ID": "NOBUNAGA",
@@ -6743,22 +6748,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92337
+      "UsersEstimate": 92338
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 225213,
+      "Progressed": 225215,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:05:39.5719022+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:07:34.7841231+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.9601749+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:58:20.1630228+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:05:39.5719509+00:00"
+  "LastUpdate_Ratings": "2023-06-20T11:59:14.0214941+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:07:34.7841855+00:00"
 }

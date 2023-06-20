@@ -1571,9 +1571,9 @@
       "ID": "INDY_1",
       "SetID": "bf13m8j",
       "Name": "Indy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 39
     },
     {
       "ID": "KORALOV",
@@ -1763,8 +1763,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-20T11:05:54.9452423+00:00",
+  "LastChanged_Achievements": "2023-06-20T12:07:55.1608527+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:41.112645+00:00",
-  "LastUpdate_Ratings": "2023-06-20T11:00:04.2097178+00:00",
-  "LastUpdate_Achievements": "2023-06-20T11:05:54.9452675+00:00"
+  "LastUpdate_Ratings": "2023-06-20T12:01:48.3137107+00:00",
+  "LastUpdate_Achievements": "2023-06-20T12:07:55.1608879+00:00"
 }

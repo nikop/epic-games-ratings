@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 44.00% | ~3,814 |
+| Legal Counsel | 44.00% | ~3,815 |
 | Greasy Palms | 40.00% | ~3,468 |
 | South American Connection | 24.00% | ~2,081 |
 | Life of the Party | 19.00% | ~1,647 |
@@ -18,8 +18,8 @@ Rating: 4.60 (Ranked 390)
 | Mischief Managed | 8.00% | ~694 |
 | Vice City Mogul | 6.00% | ~520 |
 | Bloodstained Hands | 6.00% | ~520 |
-| Catch Me if You Can | 5.00% | ~433 |
-| Grand Theft Auto | 5.00% | ~433 |
+| Catch Me if You Can | 5.00% | ~434 |
+| Grand Theft Auto | 5.00% | ~434 |
 | Not my First Time | 4.00% | ~347 |
 | Pie Guy | 4.00% | ~347 |
 | Point A to Point B | 3.00% | ~260 |
@@ -40,7 +40,7 @@ Rating: 4.60 (Ranked 390)
 | Done it All | 0.70% | ~61 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,669 (Ranked 117)  
+Progressed: 8,670 (Ranked 117)  
 Completed: 36 (0.42%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,14 +101,14 @@ Completed: 36 (0.42%) (Ranked 128)
 | 2023-06-17 | 8,597 | 36 |
 | 2023-06-18 | 8,637 | 36 |
 | 2023-06-19 | 8,661 | 36 |
-| 2023-06-20 | 8,669 | 36 |
+| 2023-06-20 | 8,670 | 36 |
 ## Awards
-Max (Great Boss Battles): 56  (Ranked 386)  
-Sum: 56 (Ranked 439)  
+Max (Great Boss Battles): 57  (Ranked 386)  
+Sum: 57 (Ranked 439)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 56 |
+| This game has Great Boss Battles | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -184,3 +184,4 @@ Diff (max vs sum): -53
 | 2023-06-17 | 4.61 | 55 | 55 |
 | 2023-06-18 | 4.61 | 56 | 56 |
 | 2023-06-19 | 4.60 | 56 | 56 |
+| 2023-06-20 | 4.60 | 57 | 57 |

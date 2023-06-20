@@ -16,7 +16,7 @@ Rating: 4.89 (Ranked 13)
 | Alright, that felt AWESOME! | 53.00% | ~1,743 |
 | I play my own way! | 49.00% | ~1,612 |
 | This will cost you big time | 47.00% | ~1,546 |
-| Uh, they were broken when I got here | 45.00% | ~1,480 |
+| Uh, they were broken when I got here | 46.00% | ~1,513 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,447 |
 | Kissing the sky! | 43.00% | ~1,414 |
 | Does that say weakpoint? | 40.00% | ~1,316 |
