@@ -13,10 +13,10 @@
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
-| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 15 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.75% |
-| 17 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.46% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.50% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.75% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 9.09% |
@@ -47,9 +47,9 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
 | 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -59,8 +59,8 @@
 | 57 | [The Bunker](games/t/the_bunker.md) | 2.80% |
 | 58 | [Bunny Park](games/b/bunny_park.md) | 2.78% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 60 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.70% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.70% |
+| 61 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
@@ -71,7 +71,7 @@
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.12% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.09% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.99% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
@@ -91,7 +91,7 @@
 | 89 | [Chorus](games/c/chorus.md) | 1.21% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 91 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
-| 92 | [Ten Dates](games/t/ten_dates.md) | 1.17% |
+| 92 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
 | 93 | [Five Dates](games/f/five_dates.md) | 1.12% |
 | 93 | [Trifox](games/t/trifox.md) | 1.12% |
 | 95 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.11% |
