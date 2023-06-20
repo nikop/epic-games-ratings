@@ -311,7 +311,7 @@
 | 296 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,884 | 105 |
 | 296 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 390 |
 | 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 497 |
-| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,570 | 16 |
+| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,575 | 16 |
 | 296 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 471 |
 | 296 | [SOMA](games/s/soma.md) | 4.65 | 0 | 497 |
 | 296 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 497 |
@@ -406,7 +406,7 @@
 | 390 | [RiME](games/r/rime.md) | 4.60 | 0 | 497 |
 | 390 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 452 | 195 |
 | 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 202 | 263 |
-| 390 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 285 | 233 |
+| 390 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 286 | 233 |
 | 390 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.60 | 0 | 497 |
 | 390 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 485 |
 | 390 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 497 |
@@ -505,7 +505,7 @@
 | 492 | [VALORANT](games/v/valorant.md) | 4.54 | 57,328 | 11 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 497 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
-| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,244 | 17 |
+| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,254 | 17 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 434 |
 | 504 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 142,175 | 7 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 497 |
@@ -789,15 +789,15 @@
 | 786 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.28 | 0 | 497 |
 | 786 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 302 |
 | 786 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 280 |
+| 790 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 497 |
 | 790 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 497 |
 | 790 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,475 | 93 |
 | 790 | [Steelrising](games/s/steelrising.md) | 4.27 | 36 | 429 |
 | 790 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 230 |
-| 794 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 497 |
-| 794 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 497 |
-| 794 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 497 |
-| 794 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 497 |
-| 794 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 497 |
+| 795 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 497 |
+| 795 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 497 |
+| 795 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 497 |
+| 795 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 497 |
 | 799 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 26 | 466 |
 | 799 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.25 | 0 | 497 |
 | 799 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,029 | 138 |

@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 31.25% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 35.29% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -53,8 +53,8 @@
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
-| 54 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 54 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 54 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 56 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 57 | [The Bunker](games/t/the_bunker.md) | 2.80% |
 | 58 | [Bunny Park](games/b/bunny_park.md) | 2.78% |
@@ -66,14 +66,14 @@
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 67 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.34% |
+| 66 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.38% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.07% |
-| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.99% |
+| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.98% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |

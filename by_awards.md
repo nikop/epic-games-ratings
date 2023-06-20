@@ -15,8 +15,8 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,044 | 4.50 | 547 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,216 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,675 | 4.52 | 515 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,570 | 4.65 | 296 |
-| 17 | [Dauntless](games/d/dauntless.md) | 20,244 | 4.53 | 504 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,575 | 4.65 | 296 |
+| 17 | [Dauntless](games/d/dauntless.md) | 20,254 | 4.53 | 504 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,171 | 4.77 | 107 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,703 | 4.57 | 442 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,127 | 4.89 | 13 |
@@ -232,7 +232,7 @@
 | 230 | [House Flipper](games/h/house_flipper.md) | 297 | 4.70 | 195 |
 | 230 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 790 |
 | 232 | [MORDHAU](games/m/mordhau.md) | 287 | 4.41 | 670 |
-| 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 285 | 4.60 | 390 |
+| 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 286 | 4.60 | 390 |
 | 234 | [Railway Empire](games/r/railway_empire.md) | 284 | 4.52 | 515 |
 | 235 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 280 | 4.43 | 652 |
 | 236 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 279 | 4.46 | 603 |
