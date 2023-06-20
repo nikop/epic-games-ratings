@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6739,
+  "EOS_Progressed": 6740,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4543,6 +4543,11 @@
       "Time": "2023-06-20T10:04:46.7244689+00:00",
       "NumProgressed": 6739,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-20T11:04:02.1828466+00:00",
+      "NumProgressed": 6740,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4554,7 +4559,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "ACH02",
@@ -4674,7 +4679,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "ACH17",
@@ -4785,7 +4790,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6739,
+      "Progressed": 6740,
       "Completed": 38
     }
   ],
@@ -4793,8 +4798,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-20T05:57:51.6375902+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:04:46.7244683+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:04:02.1828463+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:58:41.613346+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:04:46.7245146+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:57:57.3301608+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:04:02.1828788+00:00"
 }

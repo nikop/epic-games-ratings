@@ -24,8 +24,8 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~299 |
 | Firestarter | 8.00% | ~299 |
 | Make Tropico Great Again! | 8.00% | ~299 |
+| French Connection | 8.00% | ~299 |
 | Don't Panic! | 7.00% | ~261 |
-| French Connection | 7.00% | ~261 |
 | Beware The Betman | 6.00% | ~224 |
 | I Owe You Nothing | 6.00% | ~224 |
 | Watch The World Burn | 6.00% | ~224 |

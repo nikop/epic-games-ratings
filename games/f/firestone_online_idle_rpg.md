@@ -24,9 +24,9 @@ Rating: 4.07 (Ranked 894)
 | Lieutenant | 13.00% | ~188 |
 | Mysterious Rock | 12.00% | ~173 |
 | Natural Talent | 12.00% | ~173 |
+| Superior | 12.00% | ~173 |
 | The Unstoppable | 12.00% | ~173 |
 | Milestone collector | 11.00% | ~159 |
-| Superior | 11.00% | ~159 |
 | Scientist | 10.00% | ~144 |
 | The power of Awakening | 9.00% | ~130 |
 | Challenger | 8.00% | ~116 |

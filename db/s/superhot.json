@@ -2,13 +2,13 @@
   "ID": "908bed122ba84c4a908ee1e14da401c3",
   "Name": "SUPERHOT",
   "ProductSlug": "superhot",
-  "Ranking_Rating": 167,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2016-02-24T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "NumberOfRatings": 146,
   "RatingHistory": [
     {
@@ -320,6 +320,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-20T11:00:01.5347024+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -337,8 +343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2023-04-15T10:58:24.1040797+00:00",
+  "LastChanged": "2023-06-20T11:00:01.5347023+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:39.859018+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:01:41.997158+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:04:32.6800634+00:00"
+  "LastUpdate_Ratings": "2023-06-20T11:00:01.5347028+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:03:52.175675+00:00"
 }

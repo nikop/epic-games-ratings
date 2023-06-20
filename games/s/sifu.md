@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 5.00% | ~958 |
 | Project Arena | 3.00% | ~575 |
 | The Old Grandmaster | 2.00% | ~14,197 |
+| Life is your teacher | 2.00% | ~14,197 |
 | The Assault | 1.00% | ~7,099 |
 | The Hateful Pole Fighter | 1.00% | ~7,099 |
 | A Lady's Blood in the Snow | 1.00% | ~7,099 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 1.00% | ~7,099 |
 | Stuntmaster | 1.00% | ~7,099 |
 | Street Fighting | 1.00% | ~7,099 |
-| Life is your teacher | 1.00% | ~7,099 |
 | State of constant learning | 1.00% | ~7,099 |
 | Qi Gong: Breath | 1.00% | ~7,099 |
 | Qi Gong: Essence | 1.00% | ~7,099 |

@@ -1,23 +1,23 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,824 |
-| First Steps | 81.00% | ~28,589 |
+| Awakening | 93.00% | ~32,825 |
+| First Steps | 81.00% | ~28,590 |
 | Control the Shadows | 68.00% | ~24,001 |
 | Tools of the Trade | 63.00% | ~22,236 |
-| Apprentice | 60.00% | ~21,177 |
-| Secret Seeker | 57.00% | ~20,118 |
-| Forge of Assassins | 56.00% | ~19,765 |
-| Revenant | 52.00% | ~18,353 |
+| Apprentice | 60.00% | ~21,178 |
+| Secret Seeker | 57.00% | ~20,119 |
+| Forge of Assassins | 56.00% | ~19,766 |
+| Revenant | 52.00% | ~18,354 |
 | I don’t Care! | 45.00% | ~15,883 |
-| Bird of Prey | 37.00% | ~13,059 |
-| Engraved with Power | 32.00% | ~11,294 |
-| Lady | 30.00% | ~10,588 |
+| Bird of Prey | 37.00% | ~13,060 |
+| Engraved with Power | 32.00% | ~11,295 |
+| Lady | 30.00% | ~10,589 |
 | Fashionable Assassin | 27.00% | ~9,530 |
 | Apex Predator | 24.00% | ~8,471 |
 | Soul Reaver | 22.00% | ~7,765 |
@@ -30,7 +30,7 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~4,941 |
 | War Engines | 14.00% | ~4,941 |
 | Signature Move | 14.00% | ~4,941 |
-| Ruse | 11.00% | ~3,882 |
+| Ruse | 11.00% | ~3,883 |
 | Master Ninja | 10.00% | ~3,530 |
 | Hatching | 9.00% | ~3,177 |
 | Bonds | 9.00% | ~3,177 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~353 |
 | Anger Management | 1.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,295 (Ranked 88)  
+Progressed: 35,296 (Ranked 88)  
 Completed: 175 (0.50%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 175 (0.50%) (Ranked 121)
 | 2023-06-17 | 35,098 | 174 |
 | 2023-06-18 | 35,185 | 174 |
 | 2023-06-19 | 35,258 | 175 |
-| 2023-06-20 | 35,295 | 175 |
+| 2023-06-20 | 35,296 | 175 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

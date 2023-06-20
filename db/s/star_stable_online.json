@@ -2,20 +2,20 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -1346,6 +1346,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 872,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2023-06-20T10:58:10.6738297+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 872,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
@@ -1437,8 +1443,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-06-19T14:58:51.1868239+00:00",
+  "LastChanged": "2023-06-20T10:58:10.6738296+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.2874919+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:58:57.5194522+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:04:31.322232+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:58:10.6738302+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:03:51.1121646+00:00"
 }

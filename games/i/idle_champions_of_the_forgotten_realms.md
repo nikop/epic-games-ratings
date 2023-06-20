@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,965 |
-| The Cursed Farmer | 3.00% | ~2,985 |
-| Beast Intentions | 2.00% | ~1,990 |
-| The Ring of Regeneration | 2.00% | ~1,990 |
-| The Mad Wizard | 2.00% | ~1,990 |
+| A Brief Tour of the Realms | 8.00% | ~7,963 |
+| The Cursed Farmer | 3.00% | ~2,986 |
+| Beast Intentions | 2.00% | ~1,991 |
+| The Ring of Regeneration | 2.00% | ~1,991 |
+| The Mad Wizard | 2.00% | ~1,991 |
 | Were-verpowered | 1.00% | ~995 |
 | Seeking Allies | 1.00% | ~995 |
 | Are Ya Chicken? | 1.00% | ~995 |
 | Mad Cow Disease | 1.00% | ~995 |
 | Friendly Imps | 1.00% | ~995 |
-| A Persistent Buzzing | 0.90% | ~895 |
-| Pure Energy | 0.90% | ~895 |
+| A Persistent Buzzing | 0.90% | ~896 |
+| Pure Energy | 0.90% | ~896 |
 | The Court of Storms | 0.90% | ~592 |
-| Terror in the Dark | 0.70% | ~696 |
-| A Mysterious Summons | 0.70% | ~696 |
-| Unearthed Evil | 0.70% | ~696 |
-| The Crumbling Temple | 0.70% | ~696 |
-| Exploring Port Nyanzaru | 0.70% | ~696 |
-| Beware the Jabberwock | 0.70% | ~460 |
+| Terror in the Dark | 0.70% | ~697 |
+| A Mysterious Summons | 0.70% | ~697 |
+| Unearthed Evil | 0.70% | ~697 |
+| The Crumbling Temple | 0.70% | ~697 |
+| Exploring Port Nyanzaru | 0.70% | ~697 |
+| Beware the Jabberwock | 0.70% | ~461 |
 | Maddening | 0.60% | ~597 |
 | Beast Mode | 0.60% | ~597 |
 | Building Trust | 0.60% | ~597 |
@@ -36,10 +36,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.60% | ~395 |
 | Checkmate | 0.50% | ~329 |
 | Vecna Out! | 0.50% | ~329 |
-| Low Initiative | 0.50% | ~497 |
-| No Time To Rest | 0.50% | ~497 |
-| Underdeep Cartography | 0.50% | ~497 |
-| The Templar's Camp | 0.50% | ~497 |
+| Low Initiative | 0.50% | ~498 |
+| No Time To Rest | 0.50% | ~498 |
+| The Dinner Party | 0.50% | ~498 |
+| Underdeep Cartography | 0.50% | ~498 |
+| The Templar's Camp | 0.50% | ~498 |
 | Quick or Quack | 0.50% | ~329 |
 | The Silken Swamp | 0.40% | ~398 |
 | Supply Run | 0.40% | ~398 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.40% | ~398 |
 | March of the Undead | 0.40% | ~398 |
 | Invisible Shadows | 0.40% | ~398 |
-| The Dinner Party | 0.40% | ~398 |
 | The Botched Kidnapping | 0.40% | ~398 |
 | Trollskull Manor | 0.40% | ~398 |
 | Attack on the Manor | 0.40% | ~398 |
@@ -63,11 +63,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.40% | ~398 |
 | Overdue Rendezvous | 0.40% | ~398 |
 | Rescue in the Jungle | 0.40% | ~398 |
-| Pros and CONs | 0.30% | ~298 |
+| Pros and CONs | 0.30% | ~299 |
 | Tall Tales | 0.30% | ~197 |
 | Third Third Out | 0.30% | ~197 |
-| Wet Feet | 0.30% | ~298 |
-| Hatchlings Underfoot | 0.30% | ~298 |
+| Wet Feet | 0.30% | ~299 |
+| Hatchlings Underfoot | 0.30% | ~299 |
 | Vecna Lives! | 0.30% | ~197 |
 | Return to the Tomb | 0.30% | ~197 |
 | Keep Your Distance | 0.30% | ~197 |
@@ -78,51 +78,51 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.30% | ~197 |
 | Get Back In The Castle | 0.30% | ~197 |
 | Bully for Vecna | 0.30% | ~197 |
-| Homecoming | 0.30% | ~298 |
-| The Lost Heir of Omu | 0.30% | ~298 |
+| Homecoming | 0.30% | ~299 |
+| The Lost Heir of Omu | 0.30% | ~299 |
 | No One Can Hear You Scream | 0.30% | ~197 |
 | Welcome to the Rock | 0.30% | ~197 |
-| The Forbidden City | 0.30% | ~298 |
-| Captured! | 0.30% | ~298 |
-| Home Field Advantage | 0.30% | ~298 |
-| Force Grey Unleashed | 0.30% | ~298 |
-| Wisdom Check | 0.30% | ~298 |
-| Sleuth It Out | 0.30% | ~298 |
-| A Grand Puzzle | 0.30% | ~298 |
-| Tomb of the Nine Gods | 0.30% | ~298 |
-| The Mists of Ravenloft | 0.30% | ~298 |
-| Family Entanglements | 0.30% | ~298 |
-| Chatty Nobles | 0.30% | ~298 |
-| Haaave You Met Asmodeus? | 0.30% | ~298 |
-| The Immortal Warrior | 0.30% | ~298 |
-| The Wyrmheart Mine | 0.30% | ~298 |
-| Tower on the Lake | 0.30% | ~298 |
-| Seeds of Deceit | 0.30% | ~298 |
-| The Gargoyle's Apprentice | 0.30% | ~298 |
-| Treasure Hunters | 0.30% | ~298 |
-| The Guardian of Orolunga | 0.30% | ~298 |
-| The Lost Love | 0.30% | ~298 |
-| Flies on the Wall | 0.30% | ~298 |
-| Backtracking Through Barovia | 0.30% | ~298 |
-| Nimble Escape | 0.30% | ~298 |
-| Fugitives | 0.30% | ~298 |
-| Excavating History | 0.30% | ~298 |
-| Towering Expectations | 0.30% | ~298 |
-| Hopelessly Lost | 0.30% | ~298 |
-| Cramped Quarters | 0.30% | ~298 |
-| Enter the Sargauth | 0.30% | ~298 |
-| The Dead Three | 0.30% | ~298 |
-| Lair of the Xanathar | 0.30% | ~298 |
-| Waterdeep Under Siege | 0.30% | ~298 |
-| Crowded Streets | 0.30% | ~298 |
-| The Darkness Runs Deeper | 0.30% | ~298 |
-| Difficult Terrain | 0.30% | ~298 |
-| Vault of Dragons | 0.30% | ~298 |
-| Champions of Waterdeep | 0.30% | ~298 |
-| Dinosaur Racing | 0.30% | ~298 |
-| Elturel Has Fallen | 0.30% | ~298 |
-| Resolve Amongst Chaos | 0.30% | ~298 |
-| Market Fluctuations | 0.30% | ~298 |
+| The Forbidden City | 0.30% | ~299 |
+| Captured! | 0.30% | ~299 |
+| Home Field Advantage | 0.30% | ~299 |
+| Force Grey Unleashed | 0.30% | ~299 |
+| Wisdom Check | 0.30% | ~299 |
+| Sleuth It Out | 0.30% | ~299 |
+| A Grand Puzzle | 0.30% | ~299 |
+| Tomb of the Nine Gods | 0.30% | ~299 |
+| The Mists of Ravenloft | 0.30% | ~299 |
+| Family Entanglements | 0.30% | ~299 |
+| Chatty Nobles | 0.30% | ~299 |
+| Haaave You Met Asmodeus? | 0.30% | ~299 |
+| The Immortal Warrior | 0.30% | ~299 |
+| The Wyrmheart Mine | 0.30% | ~299 |
+| Tower on the Lake | 0.30% | ~299 |
+| Seeds of Deceit | 0.30% | ~299 |
+| The Gargoyle's Apprentice | 0.30% | ~299 |
+| Treasure Hunters | 0.30% | ~299 |
+| The Guardian of Orolunga | 0.30% | ~299 |
+| The Lost Love | 0.30% | ~299 |
+| Flies on the Wall | 0.30% | ~299 |
+| Backtracking Through Barovia | 0.30% | ~299 |
+| Nimble Escape | 0.30% | ~299 |
+| Fugitives | 0.30% | ~299 |
+| Excavating History | 0.30% | ~299 |
+| Towering Expectations | 0.30% | ~299 |
+| Hopelessly Lost | 0.30% | ~299 |
+| Cramped Quarters | 0.30% | ~299 |
+| Enter the Sargauth | 0.30% | ~299 |
+| The Dead Three | 0.30% | ~299 |
+| Lair of the Xanathar | 0.30% | ~299 |
+| Waterdeep Under Siege | 0.30% | ~299 |
+| Crowded Streets | 0.30% | ~299 |
+| The Darkness Runs Deeper | 0.30% | ~299 |
+| Difficult Terrain | 0.30% | ~299 |
+| Vault of Dragons | 0.30% | ~299 |
+| Champions of Waterdeep | 0.30% | ~299 |
+| Dinosaur Racing | 0.30% | ~299 |
+| Elturel Has Fallen | 0.30% | ~299 |
+| Resolve Amongst Chaos | 0.30% | ~299 |
+| Market Fluctuations | 0.30% | ~299 |
 | Into The Fire | 0.30% | ~197 |
 | Hearts Aflame | 0.30% | ~197 |
 | Look Out! | 0.30% | ~197 |
@@ -131,15 +131,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~197 |
 | The Giant's Bane Tavern | 0.30% | ~197 |
 | The Everlasting Rime | 0.30% | ~197 |
-| The Long Haul | 0.30% | ~298 |
-| Lost in the Deep | 0.30% | ~298 |
-| Easily Distracted | 0.30% | ~298 |
-| Rude Welcome | 0.30% | ~298 |
+| The Long Haul | 0.30% | ~299 |
+| Lost in the Deep | 0.30% | ~299 |
+| Easily Distracted | 0.30% | ~299 |
+| Rude Welcome | 0.30% | ~299 |
 | Moose Tracks | 0.30% | ~197 |
-| Durable Deep | 0.30% | ~298 |
+| Durable Deep | 0.30% | ~299 |
 | Witty Riposting | 0.30% | ~197 |
 | How Far Away is Thay | 0.30% | ~197 |
-| The Haunted Jungle | 0.30% | ~298 |
+| The Haunted Jungle | 0.30% | ~299 |
 | Upholding the Law | 0.20% | ~199 |
 | Starving in the Jungle | 0.20% | ~199 |
 | Cold as Ice | 0.20% | ~132 |
@@ -177,6 +177,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.20% | ~132 |
 | The Dark Heart | 0.20% | ~132 |
 | The Oozing Hunger | 0.20% | ~132 |
+| The Madness of Zuggtmoy | 0.20% | ~132 |
 | Don't Look Up! | 0.20% | ~199 |
 | The Cult of Lolth | 0.20% | ~132 |
 | Will of the Feywild | 0.20% | ~132 |
@@ -282,6 +283,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.20% | ~132 |
 | Screams of the Dead | 0.20% | ~199 |
 | Frantic Excavation | 0.20% | ~199 |
+| Birds of a Feather | 0.20% | ~132 |
 | Guests of the Groom | 0.20% | ~199 |
 | Careful Consideration | 0.20% | ~199 |
 | Bazaar Exploits | 0.20% | ~199 |
@@ -365,6 +367,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.20% | ~132 |
 | Into the Unknown | 0.20% | ~132 |
 | The Prison of Velkynvelve | 0.20% | ~132 |
+| Prisoners of Lolth | 0.20% | ~132 |
 | Rime Bandits | 0.20% | ~132 |
 | Giant-Size Adventure | 0.20% | ~132 |
 | Enemy Summit | 0.20% | ~132 |
@@ -442,7 +445,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thoughts on the Menu | 0.10% | ~66 |
 | Brains on Ice | 0.10% | ~66 |
 | Levelheaded | 0.10% | ~66 |
-| The Madness of Zuggtmoy | 0.10% | ~66 |
 | It's So Pretty… | 0.10% | ~66 |
 | Head over Heals | 0.10% | ~66 |
 | The Demon Lords of the Abyss | 0.10% | ~66 |
@@ -454,7 +456,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~66 |
 | The Egg of Nat's Desire | 0.10% | ~66 |
 | Spirit of the Trickster Gods | 0.10% | ~66 |
-| Birds of a Feather | 0.10% | ~66 |
 | Tanking Expectations | 0.10% | ~66 |
 | Servants of the Demon Prince | 0.10% | ~66 |
 | The Madness Peaks | 0.10% | ~66 |
@@ -465,13 +466,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | In The Beginning | 0.10% | ~66 |
 | Social Grace | 0.10% | ~66 |
 | Evergreens with an Evergreen | 0.10% | ~66 |
-| She's Harmless! | 0.10% | ~99 |
+| She's Harmless! | 0.10% | ~100 |
 | The Tallest of Kobolds | 0.10% | ~66 |
 | Vault of Cuteness | 0.10% | ~66 |
 | Take Five | 0.10% | ~66 |
-| Batiri in the Goblin Halls | 0.10% | ~99 |
+| Batiri in the Goblin Halls | 0.10% | ~100 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~66 |
-| The Nimble Grove | 0.10% | ~99 |
+| The Nimble Grove | 0.10% | ~100 |
 | The Misty Grove | 0.10% | ~66 |
 | Zapper Overload | 0.10% | ~66 |
 | Best Friend Search Squad! | 0.10% | ~66 |
@@ -480,7 +481,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Brimstone | 0.10% | ~66 |
 | A Tenday at Golgamann's | 0.10% | ~66 |
 | A Nightmare Occasion | 0.10% | ~66 |
-| Prisoners of Lolth | 0.10% | ~66 |
 | Prisoners of Unknown Choices | 0.10% | ~66 |
 | Power of Three | 0.10% | ~66 |
 | A Neutral Party | 0.10% | ~66 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,496 (Ranked 63)  
+Progressed: 99,538 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,496 | 1,971 |
+| 2023-06-20 | 99,538 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

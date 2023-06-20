@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2239,9 +2239,9 @@
       "ID": "A01",
       "SetID": "9b7p7eo",
       "Name": "Stoker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 425
     },
     {
       "ID": "A02",
@@ -2351,9 +2351,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 399
     },
     {
       "ID": "A16",
@@ -2680,8 +2680,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-17T13:01:06.7060857+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:07:57.7138811+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:06:02.4830267+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:58:54.9625539+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:07:57.7139415+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:58:08.8899618+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:06:02.4830804+00:00"
 }

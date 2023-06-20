@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -520,9 +520,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_headquarters_15",
@@ -544,9 +544,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -560,9 +560,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -751,8 +751,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:04:00.5410316+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:03:28.5398152+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:02:07.0241382+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:04:00.5410616+00:00"
+  "LastUpdate_Ratings": "2023-06-20T11:00:19.3515686+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:03:28.5398396+00:00"
 }

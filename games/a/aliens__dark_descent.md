@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 36.00% | ~42 |
-| Snatched Out | 28.00% | ~33 |
-| Keep 'Em Coming | 25.00% | ~30 |
-| Cleaning Lethe, One Nest At A Time | 16.00% | ~19 |
-| Call Me Snake | 8.00% | ~9 |
-| Something Lurks Under The Hills | 8.00% | ~9 |
-| The Shrink Hates Me | 8.00% | ~9 |
-| This Was No Papercut | 7.00% | ~8 |
-| Damn Dude, You Gotta Lose Some Weight! | 6.00% | ~7 |
-| Use The Bumper, That's What It's For | 5.00% | ~6 |
-| Colonial Barrels | 3.00% | ~4 |
-| People Person | 3.00% | ~4 |
-| Recouped Investment | 3.00% | ~4 |
-| Omelette Du Fromage | 2.00% | ~2 |
-| First Steps Into Madness | 2.00% | ~2 |
-| Stuff Of Nightmares | 0.80% | ~1 |
-| Heavy Steps | 0.80% | ~1 |
-| Where It All Begun | 0.80% | ~1 |
-| The Darwin Era Was Here | 0.80% | ~1 |
-| Deep Into Insanity | 0.80% | ~1 |
+| This Is Hayes, Pioneer Station, Signing Off | 40.00% | ~62 |
+| Snatched Out | 32.00% | ~50 |
+| Keep 'Em Coming | 28.00% | ~43 |
+| Cleaning Lethe, One Nest At A Time | 17.00% | ~26 |
+| This Was No Papercut | 12.00% | ~19 |
+| Call Me Snake | 10.00% | ~16 |
+| The Shrink Hates Me | 10.00% | ~16 |
+| Something Lurks Under The Hills | 8.00% | ~12 |
+| Use The Bumper, That's What It's For | 6.00% | ~9 |
+| Damn Dude, You Gotta Lose Some Weight! | 6.00% | ~9 |
+| Colonial Barrels | 3.00% | ~5 |
+| Omelette Du Fromage | 3.00% | ~5 |
+| People Person | 3.00% | ~5 |
+| First Steps Into Madness | 2.00% | ~3 |
+| Recouped Investment | 2.00% | ~3 |
+| Stuff Of Nightmares | 1.00% | ~2 |
+| Heavy Steps | 0.60% | ~1 |
+| Where It All Begun | 0.60% | ~1 |
+| The Darwin Era Was Here | 0.60% | ~1 |
+| Deep Into Insanity | 0.60% | ~1 |
 | Archivist | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | One For Every Occasion | 0.00% | ~0 |
@@ -50,9 +50,9 @@
 | The True Experience | 0.00% | ~0 |
 | The More The Merrier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 281)  
+Progressed: 155 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-20 | 118 | 0 |
+| 2023-06-20 | 155 | 0 |

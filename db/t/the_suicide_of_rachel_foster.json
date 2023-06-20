@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
@@ -1192,6 +1192,11 @@
       "Time": "2023-06-20T02:11:17.2175358+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-06-20T11:05:46.6055955+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 11,
@@ -1227,7 +1232,7 @@
       "Name": "Spicy",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_FineEV5",
@@ -1235,7 +1240,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_FineEV9",
@@ -1243,7 +1248,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_FineGioco",
@@ -1259,7 +1264,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1267,7 +1272,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1290,15 +1295,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:07:36.4326892+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:05:46.6055953+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:36.3257732+00:00",
-  "LastUpdate_Ratings": "2023-06-20T10:01:37.2948719+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:07:36.4327038+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:59:58.1701108+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:05:46.6056044+00:00"
 }

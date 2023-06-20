@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,578 |
-| Resurgence | 2.00% | ~11,578 |
-| Close Shave | 2.00% | ~11,578 |
-| Preemptive Strike | 2.00% | ~11,578 |
-| Humanitarian | 2.00% | ~11,578 |
-| Unforgettable Getaway | 1.00% | ~5,789 |
-| Wounded Healer | 1.00% | ~5,789 |
-| First to the Punch | 1.00% | ~5,789 |
-| Old West Oasis | 1.00% | ~5,789 |
-| Every Last Drop | 1.00% | ~5,789 |
-| With Scars to Show | 1.00% | ~5,789 |
-| Flight to Freedom | 1.00% | ~5,789 |
-| Operation: Survival | 0.90% | ~5,210 |
-| Classy Act | 0.90% | ~5,210 |
-| Raccoon City Recruit | 0.90% | ~5,210 |
-| Cutting Out | 0.80% | ~4,631 |
-| A Fast Death | 0.80% | ~4,631 |
-| Lifting The Fog | 0.80% | ~4,631 |
-| Chorus of Chaos | 0.80% | ~4,631 |
-| Ancestor's Rite | 0.70% | ~4,052 |
-| Outrun Evil | 0.70% | ~4,052 |
-| Grim Pilgrimage | 0.70% | ~4,052 |
+| Healthy Obsession | 2.00% | ~11,581 |
+| Resurgence | 2.00% | ~11,581 |
+| Close Shave | 2.00% | ~11,581 |
+| Preemptive Strike | 2.00% | ~11,581 |
+| Humanitarian | 2.00% | ~11,581 |
+| Unforgettable Getaway | 1.00% | ~5,790 |
+| Wounded Healer | 1.00% | ~5,790 |
+| First to the Punch | 1.00% | ~5,790 |
+| Old West Oasis | 1.00% | ~5,790 |
+| Every Last Drop | 1.00% | ~5,790 |
+| With Scars to Show | 1.00% | ~5,790 |
+| Flight to Freedom | 1.00% | ~5,790 |
+| Operation: Survival | 0.90% | ~5,211 |
+| Classy Act | 0.90% | ~5,211 |
+| Raccoon City Recruit | 0.90% | ~5,211 |
+| Cutting Out | 0.80% | ~4,632 |
+| A Fast Death | 0.80% | ~4,632 |
+| Lifting The Fog | 0.80% | ~4,632 |
+| Chorus of Chaos | 0.80% | ~4,632 |
+| Ancestor's Rite | 0.70% | ~4,053 |
+| Outrun Evil | 0.70% | ~4,053 |
+| Grim Pilgrimage | 0.70% | ~4,053 |
 | Devoted Gatekeeping | 0.60% | ~3,474 |
 | Shrine Apparatus | 0.60% | ~3,474 |
 | Selfless Survival | 0.60% | ~3,474 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~579 |
 | Adept Gabriel | 0.10% | ~579 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 578,918 (Ranked 26)  
+Progressed: 579,039 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
 | 2023-06-19 | 577,397 | 42 |
-| 2023-06-20 | 578,918 | 42 |
+| 2023-06-20 | 579,039 | 42 |
 ## Awards
 Max (Diverse Characters): 28,675  (Ranked 15)  
-Sum: 228,786 (Ranked 12)  
+Sum: 228,820 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 25,819 |
 | This game has Quickly Understood Controls | 25,652 |
 | This game has Challenging Combat | 25,044 |
-| This game has Amazing Storytelling | 23,559 |
+| This game has Amazing Storytelling | 23,593 |
 | This game has a Competitive Community | 21,837 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -456,4 +456,4 @@ Diff (max vs sum): 3
 | 2023-06-17 | 4.52 | - | 28,602 | 228,232 |
 | 2023-06-18 | 4.52 | - | 28,640 | 228,507 |
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
-| 2023-06-20 | 4.52 | - | 28,675 | 228,786 |
+| 2023-06-20 | 4.52 | - | 28,675 | 228,820 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "33_peacemaker",
@@ -587,8 +587,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:05:55.0741836+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:04:42.9997377+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9004309+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:58:24.307674+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:05:55.0742148+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:57:44.244051+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:04:42.9997618+00:00"
 }

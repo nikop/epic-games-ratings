@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -239,9 +239,9 @@
       "ID": "Game Completed",
       "SetID": "1fffk9d",
       "Name": "Congrats",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Statue Collector Complete",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-20T10:05:21.6825586+00:00",
+  "LastChanged_Achievements": "2023-06-20T11:04:19.4850737+00:00",
   "LastUpdate_AppInfo": "2023-06-13T18:57:46.2736297+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:57:34.5485417+00:00",
-  "LastUpdate_Achievements": "2023-06-20T10:05:21.6825678+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:57:08.9466825+00:00",
+  "LastUpdate_Achievements": "2023-06-20T11:04:19.4850825+00:00"
 }
