@@ -741,9 +741,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_loan",
@@ -821,9 +821,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_prestige_2",
@@ -909,9 +909,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_restaurants_5",
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:08:26.78808+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:06:03.7546601+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.7118249+00:00",
-  "LastUpdate_Ratings": "2023-06-20T14:59:30.7001315+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:08:26.7881919+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:58:06.1994353+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:06:03.754746+00:00"
 }

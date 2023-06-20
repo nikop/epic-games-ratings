@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-06-18T14:07:16.8396679+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T16:05:59.5646117+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -444,7 +449,7 @@
       "Name": "Scribe",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -874,7 +879,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -940,7 +945,7 @@
       "Name": "A Second Chance",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1115,7 +1120,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:08:22.21892+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:05:59.5646112+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.6141663+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:00:29.2320617+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:08:22.2190551+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:58:46.2646462+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:05:59.564711+00:00"
 }

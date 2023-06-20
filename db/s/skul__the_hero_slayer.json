@@ -3138,9 +3138,9 @@
       "ID": "FirstHeroLastBattle",
       "SetID": "97dk767",
       "Name": "The Final Battle of the First Hero",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1962
+      "UsersEstimate": 2040
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3274,8 +3274,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-19T15:58:46.9799458+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:07:54.1739414+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:05:38.167576+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:00:43.3094455+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:07:54.1739944+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:58:55.0618692+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:05:38.167596+00:00"
 }

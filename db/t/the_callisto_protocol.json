@@ -698,9 +698,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15473,
+  "EOS_Progressed": 15474,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4408,6 +4408,11 @@
       "Time": "2023-06-20T15:05:59.2308219+00:00",
       "NumProgressed": 15473,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T16:04:24.64708+00:00",
+      "NumProgressed": 15474,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4451,7 +4456,7 @@
       "Name": "Flesh Wound",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4595,7 +4600,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4738,13 +4743,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15473,
+      "Progressed": 15474,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3399,
+      "Progressed": 3400,
       "Completed": 29
     }
   ],
@@ -4752,8 +4757,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-20T13:58:30.7230706+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:05:59.2308214+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:04:24.6470796+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-20T14:59:17.4939837+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:05:59.2308874+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:57:55.7815017+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:04:24.6471229+00:00"
 }

@@ -6,42 +6,42 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wounded Healer | 2.00% | ~11,597 |
-| Healthy Obsession | 2.00% | ~11,597 |
-| Resurgence | 2.00% | ~11,597 |
-| Close Shave | 2.00% | ~11,597 |
-| Preemptive Strike | 2.00% | ~11,597 |
-| Humanitarian | 2.00% | ~11,597 |
-| Unforgettable Getaway | 1.00% | ~5,799 |
-| First to the Punch | 1.00% | ~5,799 |
-| Old West Oasis | 1.00% | ~5,799 |
-| Every Last Drop | 1.00% | ~5,799 |
-| With Scars to Show | 1.00% | ~5,799 |
-| Flight to Freedom | 1.00% | ~5,799 |
-| Operation: Survival | 0.90% | ~5,219 |
-| Classy Act | 0.90% | ~5,219 |
-| Raccoon City Recruit | 0.90% | ~5,219 |
-| Chorus of Chaos | 0.90% | ~5,219 |
-| Cutting Out | 0.80% | ~4,639 |
-| A Fast Death | 0.80% | ~4,639 |
-| Lifting The Fog | 0.80% | ~4,639 |
-| Ancestor's Rite | 0.70% | ~4,059 |
-| Outrun Evil | 0.70% | ~4,059 |
-| Grim Pilgrimage | 0.70% | ~4,059 |
-| Devoted Gatekeeping | 0.60% | ~3,479 |
-| Shrine Apparatus | 0.60% | ~3,479 |
-| Selfless Survival | 0.60% | ~3,479 |
-| End of Days | 0.60% | ~3,479 |
-| Outrun the Overlap | 0.60% | ~3,479 |
-| Broken Bodies | 0.50% | ~2,899 |
-| I See You | 0.50% | ~2,899 |
-| Insult and Injury | 0.50% | ~2,899 |
-| Heavy Burden | 0.40% | ~2,319 |
-| Power Moves | 0.40% | ~2,319 |
-| Punch Drunk | 0.40% | ~2,319 |
-| Prowler | 0.40% | ~2,319 |
-| High Speed Pursuit | 0.40% | ~2,319 |
-| Rebuilding The Borgo | 0.40% | ~2,319 |
+| Wounded Healer | 2.00% | ~11,602 |
+| Healthy Obsession | 2.00% | ~11,602 |
+| Resurgence | 2.00% | ~11,602 |
+| Close Shave | 2.00% | ~11,602 |
+| Preemptive Strike | 2.00% | ~11,602 |
+| Humanitarian | 2.00% | ~11,602 |
+| Unforgettable Getaway | 1.00% | ~5,801 |
+| First to the Punch | 1.00% | ~5,801 |
+| Old West Oasis | 1.00% | ~5,801 |
+| Every Last Drop | 1.00% | ~5,801 |
+| With Scars to Show | 1.00% | ~5,801 |
+| Flight to Freedom | 1.00% | ~5,801 |
+| Operation: Survival | 0.90% | ~5,221 |
+| Classy Act | 0.90% | ~5,221 |
+| Raccoon City Recruit | 0.90% | ~5,221 |
+| A Fast Death | 0.90% | ~5,221 |
+| Chorus of Chaos | 0.90% | ~5,221 |
+| Cutting Out | 0.80% | ~4,641 |
+| Outrun Evil | 0.80% | ~4,641 |
+| Lifting The Fog | 0.80% | ~4,641 |
+| Ancestor's Rite | 0.70% | ~4,061 |
+| Grim Pilgrimage | 0.70% | ~4,061 |
+| Devoted Gatekeeping | 0.60% | ~3,480 |
+| Shrine Apparatus | 0.60% | ~3,480 |
+| Selfless Survival | 0.60% | ~3,480 |
+| End of Days | 0.60% | ~3,480 |
+| Outrun the Overlap | 0.60% | ~3,480 |
+| Broken Bodies | 0.50% | ~2,900 |
+| I See You | 0.50% | ~2,900 |
+| Insult and Injury | 0.50% | ~2,900 |
+| Heavy Burden | 0.40% | ~2,320 |
+| Power Moves | 0.40% | ~2,320 |
+| Punch Drunk | 0.40% | ~2,320 |
+| Prowler | 0.40% | ~2,320 |
+| High Speed Pursuit | 0.40% | ~2,320 |
+| Rebuilding The Borgo | 0.40% | ~2,320 |
 | Death of Ignorance | 0.30% | ~1,740 |
 | Triage | 0.30% | ~1,740 |
 | Hack the Mainframe | 0.30% | ~1,740 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~580 |
 | Adept Gabriel | 0.10% | ~580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579,854 (Ranked 26)  
+Progressed: 580,082 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
 | 2023-06-19 | 577,397 | 42 |
-| 2023-06-20 | 579,854 | 42 |
+| 2023-06-20 | 580,082 | 42 |
 ## Awards
 Max (Diverse Characters): 28,675  (Ranked 15)  
-Sum: 228,820 (Ranked 12)  
+Sum: 228,860 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 26,313 |
 | This game is Highly Recommended | 26,004 |
 | This game has Amazing Characters | 25,883 |
-| This game is Extremely Fun | 25,819 |
+| This game is Extremely Fun | 25,859 |
 | This game has Quickly Understood Controls | 25,652 |
 | This game has Challenging Combat | 25,044 |
 | This game has Amazing Storytelling | 23,593 |
@@ -456,4 +456,4 @@ Diff (max vs sum): 3
 | 2023-06-17 | 4.52 | - | 28,602 | 228,232 |
 | 2023-06-18 | 4.52 | - | 28,640 | 228,507 |
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
-| 2023-06-20 | 4.52 | - | 28,675 | 228,820 |
+| 2023-06-20 | 4.52 | - | 28,675 | 228,860 |

@@ -186,9 +186,9 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_bunny50",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:07:49.7716233+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:05:34.8321926+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.4329887+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:00:51.3266827+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:07:49.7716356+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:59:01.5404015+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:05:34.8322013+00:00"
 }

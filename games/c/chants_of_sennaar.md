@@ -7,15 +7,15 @@
 | That's the spirit | 100.00% | ~7 |
 | Rascal | 86.00% | ~6 |
 | The Preacher's fate | 86.00% | ~6 |
+| Scholar | 86.00% | ~6 |
 | Welcome to the Tower | 86.00% | ~6 |
 | The great escape | 86.00% | ~6 |
+| A new dawn | 86.00% | ~6 |
+| True G4M3R | 71.00% | ~5 |
 | Champollion | 71.00% | ~5 |
-| Scholar | 71.00% | ~5 |
-| A new dawn | 71.00% | ~5 |
 | The darkness | 71.00% | ~5 |
 | One last step | 71.00% | ~5 |
 | Cable guy | 57.00% | ~4 |
-| True G4M3R | 57.00% | ~4 |
 | A good beginning | 43.00% | ~3 |
 | Feels like springtime | 43.00% | ~3 |
 | I did it | 29.00% | ~2 |

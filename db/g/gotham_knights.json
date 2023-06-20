@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1602,10 +1602,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3892,
       "NumberOfAwardsMax": 2348
+    },
+    {
+      "Time": "2023-06-20T15:59:39.9146984+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3893,
+      "NumberOfAwardsMax": 2348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3892,
+  "NumberOfAwards": 3893,
   "NumberOfAwardsMax": 2348,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1631,7 +1637,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1670,9 +1676,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65737,
+  "EOS_Progressed": 65740,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7095,6 +7101,11 @@
       "Time": "2023-06-20T15:08:23.2435795+00:00",
       "NumProgressed": 65737,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-20T16:06:00.8516264+00:00",
+      "NumProgressed": 65740,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7410,7 +7421,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "HARLEY_2",
@@ -7498,7 +7509,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "MYSTERY_02",
@@ -7593,22 +7604,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65737,
+      "Progressed": 65740,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36017,
+      "Progressed": 36020,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-20T07:01:16.0207702+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:08:23.2435789+00:00",
+  "LastChanged": "2023-06-20T15:59:39.9146983+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:06:00.851626+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:01:48.871097+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:08:23.243683+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:59:39.9146988+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:06:00.8517036+00:00"
 }

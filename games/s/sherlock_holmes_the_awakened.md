@@ -15,8 +15,8 @@ Rating: 4.62 (Ranked 346)
 | The New World | 46.00% | ~224 |
 | Lock, Stock, And Barrel | 45.00% | ~220 |
 | Gaze Into The Abyss | 45.00% | ~220 |
-| Open Sesame | 44.00% | ~215 |
-| Sticky Fingers | 44.00% | ~215 |
+| Open Sesame | 45.00% | ~220 |
+| Sticky Fingers | 45.00% | ~220 |
 | Knives Out | 44.00% | ~215 |
 | Back In The Saddle | 43.00% | ~210 |
 | Land, Ho! | 43.00% | ~210 |
@@ -27,7 +27,7 @@ Rating: 4.62 (Ranked 346)
 | Up In Flames | 38.00% | ~185 |
 | Going Once... | 36.00% | ~176 |
 | Let Me Be Frank | 35.00% | ~171 |
-| Brain Food | 32.00% | ~156 |
+| Brain Food | 33.00% | ~161 |
 | No Stone Unturned | 32.00% | ~156 |
 | Curiosity Killed The Cat | 20.00% | ~98 |
 | Read It And Weep | 19.00% | ~93 |

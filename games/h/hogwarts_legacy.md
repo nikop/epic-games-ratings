@@ -6,19 +6,19 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 9.00% | ~25,275 |
-| A Keen Sense of Spell | 8.00% | ~22,466 |
-| First Class Student | 8.00% | ~22,466 |
-| Troll with the Punches | 8.00% | ~22,466 |
-| That's a Keeper | 8.00% | ~22,466 |
-| Grappling with a Graphorn | 7.00% | ~19,658 |
-| The One Who Mastered Memories | 7.00% | ~19,658 |
-| The Hallowed Hero | 7.00% | ~19,658 |
-| The Hero of Hogwarts | 7.00% | ~19,658 |
-| The Defender of Dragons | 7.00% | ~19,658 |
-| Challenge Accepted | 7.00% | ~19,658 |
-| Loom for Improvement | 7.00% | ~19,658 |
-| A Talent for Spending | 7.00% | ~19,658 |
-| Coasting Along | 7.00% | ~19,658 |
+| A Keen Sense of Spell | 8.00% | ~22,467 |
+| First Class Student | 8.00% | ~22,467 |
+| Troll with the Punches | 8.00% | ~22,467 |
+| That's a Keeper | 8.00% | ~22,467 |
+| Grappling with a Graphorn | 7.00% | ~19,659 |
+| The One Who Mastered Memories | 7.00% | ~19,659 |
+| The Hallowed Hero | 7.00% | ~19,659 |
+| The Hero of Hogwarts | 7.00% | ~19,659 |
+| The Defender of Dragons | 7.00% | ~19,659 |
+| Challenge Accepted | 7.00% | ~19,659 |
+| Loom for Improvement | 7.00% | ~19,659 |
+| A Talent for Spending | 7.00% | ~19,659 |
+| Coasting Along | 7.00% | ~19,659 |
 | A Sallow Grave | 6.00% | ~16,850 |
 | Followed the Butterflies | 6.00% | ~16,850 |
 | The Spell Master | 6.00% | ~16,850 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 107)
 | The Avenging Gazelle | 5.00% | ~14,042 |
 | Beast Friends | 5.00% | ~14,042 |
 | Flight the Good Flight | 5.00% | ~14,042 |
-| The Seeker of Knowledge | 4.00% | ~11,233 |
-| The Root of the Problem | 4.00% | ~11,233 |
-| Third Time's a Charm | 4.00% | ~11,233 |
-| Raising Expectations | 4.00% | ~11,233 |
+| The Seeker of Knowledge | 4.00% | ~11,234 |
+| The Root of the Problem | 4.00% | ~11,234 |
+| Third Time's a Charm | 4.00% | ~11,234 |
+| Raising Expectations | 4.00% | ~11,234 |
 | The Toast of the Town | 3.00% | ~8,425 |
 | Going Through the Potions | 3.00% | ~8,425 |
 | Room with a View | 3.00% | ~8,425 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 107)
 | Demiguise Dread | 1.00% | ~2,808 |
 | Finishing Touches | 1.00% | ~2,808 |
 | A Forte for Achievement | 1.00% | ~2,808 |
-| Savvy Spender | 0.90% | ~2,527 |
+| Savvy Spender | 0.90% | ~2,528 |
 | Merlin's Beard! | 0.70% | ~1,966 |
 | Spilled Milk | 0.60% | ~1,685 |
 | The Nature of the Beast | 0.50% | ~1,404 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,831 (Ranked 41)  
+Progressed: 280,838 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
-| 2023-06-20 | 280,831 | 408 |
+| 2023-06-20 | 280,838 | 408 |
 ## Awards
 Max (Character Customization): 20,207  (Ranked 18)  
-Sum: 37,466 (Ranked 31)  
+Sum: 37,470 (Ranked 31)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -128,9 +128,9 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 816 |
 | This game has Amazing Characters | 801 |
 | This game is Highly Recommended | 783 |
-| This game has Quickly Understood Controls | 733 |
+| This game has Quickly Understood Controls | 735 |
 | This game has Beautiful Visuals | 678 |
-| This game has a Creative Community | 516 |
+| This game has a Creative Community | 518 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,4 +222,4 @@ Diff (max vs sum): -13
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
 | 2023-06-18 | 4.77 | 20,122 | 37,312 |
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
-| 2023-06-20 | 4.77 | 20,207 | 37,466 |
+| 2023-06-20 | 4.77 | 20,207 | 37,470 |

@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 488,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
@@ -1676,9 +1676,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "MQ05_2",
@@ -1692,9 +1692,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "MQ05_4",
@@ -1708,9 +1708,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "MQ06_2",
@@ -1797,8 +1797,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:05:51.8127384+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:04:19.1833096+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-20T14:58:24.1809609+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:05:51.8127735+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:57:20.1032344+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:04:19.1833316+00:00"
 }

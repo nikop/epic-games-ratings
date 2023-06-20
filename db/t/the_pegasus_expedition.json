@@ -2,9 +2,9 @@
   "ID": "f722b3e93a524c6090958039d80943a7",
   "Name": "The Pegasus Expedition",
   "ProductSlug": "the-pegasus-expedition-224279",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-20T17:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:57:01.61111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.0288612+00:00",
   "LastChanged": "2023-03-31T05:57:01.6111102+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:07:47.7869949+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:05:33.4174419+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:11.2567669+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:01:35.2446781+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:07:47.7869982+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:59:31.2071933+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:05:33.4174447+00:00"
 }

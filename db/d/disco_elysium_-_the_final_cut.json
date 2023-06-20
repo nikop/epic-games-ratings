@@ -1145,9 +1145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121944,
+  "EOS_Progressed": 121946,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7025,6 +7025,11 @@
       "Time": "2023-06-20T15:08:09.7847246+00:00",
       "NumProgressed": 121944,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-20T16:05:50.2929756+00:00",
+      "NumProgressed": 121946,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7116,7 +7121,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34144
+      "UsersEstimate": 34145
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7244,7 +7249,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_KIM",
@@ -7340,7 +7345,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_WHATBODY",
@@ -7355,15 +7360,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121944,
+      "Progressed": 121946,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-20T15:08:09.7847241+00:00",
+  "LastChanged_Achievements": "2023-06-20T16:05:50.2929753+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:00:54.3754938+00:00",
-  "LastUpdate_Achievements": "2023-06-20T15:08:09.7848365+00:00"
+  "LastUpdate_Ratings": "2023-06-20T15:59:03.333279+00:00",
+  "LastUpdate_Achievements": "2023-06-20T16:05:50.2930307+00:00"
 }

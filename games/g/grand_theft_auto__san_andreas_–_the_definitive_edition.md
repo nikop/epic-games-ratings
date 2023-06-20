@@ -13,7 +13,7 @@ Rating: 4.56 (Ranked 453)
 | Smooth Moves | 16.00% | ~1,717 |
 | Today Was a Good Day | 14.00% | ~1,502 |
 | What happens in Las Venturas... | 13.00% | ~1,395 |
-| Horror of the Santa Maria | 9.00% | ~966 |
+| Horror of the Santa Maria | 10.00% | ~1,073 |
 | Liberty City State of Mind | 8.00% | ~858 |
 | Original Gangster | 7.00% | ~751 |
 | With Extra Dip | 6.00% | ~644 |
