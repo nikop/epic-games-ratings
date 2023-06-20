@@ -6,51 +6,51 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,720 |
-| I read Shakespeare and stuff | 64.00% | ~28,396 |
-| Just a sprinkle | 63.00% | ~27,952 |
-| I'm stumped | 61.00% | ~27,065 |
-| Plant get enough | 61.00% | ~27,065 |
-| This is just my weekend vehicle | 58.00% | ~25,734 |
-| It's just the beginning | 58.00% | ~25,734 |
-| Hard work pays off | 53.00% | ~23,516 |
-| It's never too late to farm | 47.00% | ~20,853 |
-| All out of Land | 44.00% | ~19,522 |
-| Field Trip | 43.00% | ~19,079 |
-| I like to switch it up | 40.00% | ~17,748 |
-| Help me to help you | 38.00% | ~16,860 |
-| Ultimutt Pawesomeness | 28.00% | ~12,423 |
-| Van Gogh | 26.00% | ~11,536 |
-| You wood not believe it | 21.00% | ~9,317 |
-| Vehicle fleet | 21.00% | ~9,317 |
-| The plot thickens | 16.00% | ~7,099 |
-| Well-Oiled Machine | 16.00% | ~7,099 |
-| Long haul | 16.00% | ~7,099 |
-| Clucky Streak | 15.00% | ~6,655 |
-| Large-scale supplier | 15.00% | ~6,655 |
-| That's a wrap | 14.00% | ~6,212 |
-| Fix me up | 13.00% | ~5,768 |
-| Rock on | 12.00% | ~5,324 |
+| Own use | 76.00% | ~33,725 |
+| I read Shakespeare and stuff | 64.00% | ~28,400 |
+| Just a sprinkle | 63.00% | ~27,956 |
+| I'm stumped | 61.00% | ~27,069 |
+| Plant get enough | 61.00% | ~27,069 |
+| This is just my weekend vehicle | 58.00% | ~25,738 |
+| It's just the beginning | 58.00% | ~25,738 |
+| Hard work pays off | 53.00% | ~23,519 |
+| It's never too late to farm | 47.00% | ~20,856 |
+| All out of Land | 44.00% | ~19,525 |
+| Field Trip | 43.00% | ~19,081 |
+| I like to switch it up | 40.00% | ~17,750 |
+| Help me to help you | 38.00% | ~16,862 |
+| Ultimutt Pawesomeness | 28.00% | ~12,425 |
+| Van Gogh | 26.00% | ~11,538 |
+| You wood not believe it | 21.00% | ~9,319 |
+| Vehicle fleet | 21.00% | ~9,319 |
+| The plot thickens | 16.00% | ~7,100 |
+| Well-Oiled Machine | 16.00% | ~7,100 |
+| Long haul | 16.00% | ~7,100 |
+| Clucky Streak | 15.00% | ~6,656 |
+| Large-scale supplier | 15.00% | ~6,656 |
+| That's a wrap | 14.00% | ~6,213 |
+| Fix me up | 13.00% | ~5,769 |
+| Rock on | 12.00% | ~5,325 |
 | It's sow easy | 11.00% | ~4,881 |
-| Highly cultivated | 10.00% | ~4,437 |
-| Giddy-up! | 10.00% | ~4,437 |
+| Highly cultivated | 10.00% | ~4,438 |
+| Giddy-up! | 10.00% | ~4,438 |
 | Cowherd | 7.00% | ~3,106 |
 | Fluffyness | 6.00% | ~2,662 |
 | Helper A does not stop … ever | 6.00% | ~2,662 |
-| Road Trip | 5.00% | ~2,218 |
-| Bringing in the Honey | 5.00% | ~2,218 |
+| Road Trip | 5.00% | ~2,219 |
+| Bringing in the Honey | 5.00% | ~2,219 |
 | Three little piggies… | 4.00% | ~1,775 |
 | Game on | 4.00% | ~1,775 |
 | Pretty colourful | 0.90% | ~399 |
 | Original grain | 0.70% | ~311 |
 | Thoroughbred! | 0.60% | ~266 |
-| Cheese it | 0.40% | ~177 |
-| Gone but not for cotton | 0.40% | ~177 |
-| Olea europaea | 0.40% | ~177 |
-| You are not a kangaroo | 0.40% | ~177 |
+| Cheese it | 0.40% | ~178 |
+| Gone but not for cotton | 0.40% | ~178 |
+| Olea europaea | 0.40% | ~178 |
+| You are not a kangaroo | 0.40% | ~178 |
 | Raisin the stakes | 0.30% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,369 (Ranked 85)  
+Progressed: 44,375 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,15 +111,15 @@ Completed: 5 (0.01%) (Ranked 214)
 | 2023-06-17 | 44,234 | 5 |
 | 2023-06-18 | 44,287 | 5 |
 | 2023-06-19 | 44,333 | 5 |
-| 2023-06-20 | 44,369 | 5 |
+| 2023-06-20 | 44,375 | 5 |
 ## Awards
 Max (Great for Beginners): 4,399  (Ranked 70)  
-Sum: 37,401 (Ranked 32)  
+Sum: 37,407 (Ranked 32)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,399 |
-| This game is Relaxing | 3,971 |
+| This game is Relaxing | 3,977 |
 | This game is Educational | 3,924 |
 | This game has Quickly Understood Controls | 3,897 |
 | This game is Highly Recommended | 3,756 |
@@ -287,4 +287,4 @@ Diff (max vs sum): 38
 | 2023-06-17 | 4.70 | - | 4,390 | 37,349 |
 | 2023-06-18 | 4.70 | - | 4,394 | 37,367 |
 | 2023-06-19 | 4.70 | - | 4,394 | 37,382 |
-| 2023-06-20 | 4.70 | - | 4,399 | 37,401 |
+| 2023-06-20 | 4.70 | - | 4,399 | 37,407 |

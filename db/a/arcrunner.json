@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-06-20T10:03:01.1281145+00:00",
       "NumProgressed": 556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T21:02:12.1873836+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1107,9 +1112,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1219,9 +1224,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1307,9 +1312,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1332,7 +1337,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 558,
       "Completed": 0
     }
   ],
@@ -1340,8 +1345,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:02:14.5687135+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:02:12.1873831+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:00:33.4014403+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:02:14.5687603+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:00:28.1797638+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:02:12.1874125+00:00"
 }

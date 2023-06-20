@@ -4,8 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Augmented | 0.40% | ~2 |
+| Nanonic I | 0.20% | ~1 |
+| Unlocked and Loaded | 0.20% | ~1 |
 | Up Close And Personal | 0.20% | ~1 |
-| Augmented | 0.00% | ~0 |
 | The Bigger They Are | 0.00% | ~0 |
 | Challenge Accepted | 0.00% | ~0 |
 | Challenge Mastered | 0.00% | ~0 |
@@ -19,7 +21,6 @@
 | Hard Boiled | 0.00% | ~0 |
 | Inner Core | 0.00% | ~0 |
 | Integration | 0.00% | ~0 |
-| Nanonic I | 0.00% | ~0 |
 | Nanonic II | 0.00% | ~0 |
 | Nanonic III | 0.00% | ~0 |
 | Outer Core | 0.00% | ~0 |
@@ -30,10 +31,9 @@
 | Terminated II | 0.00% | ~0 |
 | Terminated III | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
-| Unlocked and Loaded | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 556 (Ranked 205)  
+Progressed: 558 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 521 | 0 |
 | 2023-06-18 | 544 | 0 |
 | 2023-06-19 | 555 | 0 |
-| 2023-06-20 | 556 | 0 |
+| 2023-06-20 | 558 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

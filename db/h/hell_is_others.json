@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251495,
+  "EOS_Progressed": 251500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6736,6 +6736,11 @@
       "Time": "2023-06-20T20:04:11.2635648+00:00",
       "NumProgressed": 251495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T21:04:08.2538511+00:00",
+      "NumProgressed": 251500,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6771,7 +6776,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "Act5",
@@ -6779,7 +6784,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -6795,7 +6800,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77963
+      "UsersEstimate": 77965
     },
     {
       "ID": "BackHomeNTimes",
@@ -6827,7 +6832,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "BuyNWeapons",
@@ -6891,7 +6896,7 @@
       "Name": "Saver III",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "DiscoverAllObjects",
@@ -6899,7 +6904,7 @@
       "Name": "Collector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "EatNFungus",
@@ -6923,7 +6928,7 @@
       "Name": "Mansion",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "FullInventoryExpansion",
@@ -6963,7 +6968,7 @@
       "Name": "Green thumb III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "GrowPlantsSameTime",
@@ -6971,7 +6976,7 @@
       "Name": "Plantation",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "HomeWithNFurniture",
@@ -7035,7 +7040,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55329
+      "UsersEstimate": 55330
     },
     {
       "ID": "KillOthers2",
@@ -7075,7 +7080,7 @@
       "Name": "Reminescence",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "MaxRepOfAllNpcs",
@@ -7083,7 +7088,7 @@
       "Name": "Beloved",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "MaxRepOfOneNpc",
@@ -7123,7 +7128,7 @@
       "Name": "Capitalist II",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Patrimony3",
@@ -7131,7 +7136,7 @@
       "Name": "Capitalist III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ReachNDays1",
@@ -7179,7 +7184,7 @@
       "Name": "Hell Is You",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "UnlockedAllShops",
@@ -7194,7 +7199,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251495,
+      "Progressed": 251500,
       "Completed": 1
     }
   ],
@@ -7202,8 +7207,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-20T13:08:51.6290877+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:04:11.2635642+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:04:08.2538505+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:01:16.0779709+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:04:11.2637135+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:01:11.1850953+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:04:08.2540773+00:00"
 }

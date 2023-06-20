@@ -22,8 +22,8 @@
 | The Terror | 19.00% | ~13 |
 | All Geared Up | 16.00% | ~11 |
 | The End | 16.00% | ~11 |
+| Good Deed | 16.00% | ~11 |
 | Battle Ready | 16.00% | ~11 |
-| Good Deed | 14.00% | ~10 |
 | Music Collector | 14.00% | ~10 |
 | Gamer | 13.00% | ~9 |
 | Ultimate Team! | 13.00% | ~9 |

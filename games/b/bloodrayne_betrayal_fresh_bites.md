@@ -9,8 +9,8 @@
 | Strange Skulls | 61.00% | ~31 |
 | Treasure Hunter | 57.00% | ~29 |
 | Crab Cakes | 47.00% | ~24 |
-| Personally Punched | 25.00% | ~13 |
-| Flight of the Raven | 24.00% | ~12 |
+| Personally Punched | 27.00% | ~14 |
+| Flight of the Raven | 25.00% | ~13 |
 | Drop In | 20.00% | ~10 |
 | The Last Bullet | 18.00% | ~9 |
 | Champion of Light | 12.00% | ~6 |

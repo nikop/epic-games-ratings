@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
@@ -1531,6 +1531,11 @@
       "Time": "2023-06-20T09:06:25.0864733+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-20T21:06:34.5291905+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 16,
@@ -1590,7 +1595,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1630,7 +1635,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1662,14 +1667,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 40
     }
   ],
@@ -1677,8 +1682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:06:27.3857202+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:06:34.5291899+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:18.0243153+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:59:20.0166876+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:06:27.3857521+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:59:18.2983804+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:06:34.5292126+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.44 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,963 |
-| Predator I | 22.00% | ~55,329 |
+| Survivor | 31.00% | ~77,965 |
+| Predator I | 22.00% | ~55,330 |
 | Fixer I | 10.00% | ~25,150 |
 | A week in Century City | 10.00% | ~25,150 |
 | The Wait | 7.00% | ~17,605 |
@@ -38,9 +38,9 @@ Rating: 4.44 (Ranked 633)
 | Committed Relationship | 0.80% | ~2,012 |
 | Number 1 | 0.70% | ~1,760 |
 | Interior designer | 0.60% | ~1,509 |
-| The Gamble | 0.50% | ~1,257 |
-| The Descent | 0.50% | ~1,257 |
-| A major purchase | 0.50% | ~1,257 |
+| The Gamble | 0.50% | ~1,258 |
+| The Descent | 0.50% | ~1,258 |
+| A major purchase | 0.50% | ~1,258 |
 | Expert Hunter | 0.40% | ~1,006 |
 | Fungi hunter | 0.40% | ~1,006 |
 | Predator III | 0.40% | ~1,006 |
@@ -51,18 +51,18 @@ Rating: 4.44 (Ranked 633)
 | Workhorse | 0.20% | ~503 |
 | Homerun | 0.20% | ~503 |
 | A season in Century City | 0.20% | ~503 |
-| Saver III | 0.10% | ~251 |
-| Collector | 0.10% | ~251 |
-| Mansion | 0.10% | ~251 |
-| Green thumb III | 0.10% | ~251 |
-| Plantation | 0.10% | ~251 |
-| Reminescence | 0.10% | ~251 |
-| Beloved | 0.10% | ~251 |
-| Capitalist II | 0.10% | ~251 |
-| Capitalist III | 0.10% | ~251 |
-| Hell Is You | 0.10% | ~251 |
+| Saver III | 0.10% | ~252 |
+| Collector | 0.10% | ~252 |
+| Mansion | 0.10% | ~252 |
+| Green thumb III | 0.10% | ~252 |
+| Plantation | 0.10% | ~252 |
+| Reminescence | 0.10% | ~252 |
+| Beloved | 0.10% | ~252 |
+| Capitalist II | 0.10% | ~252 |
+| Capitalist III | 0.10% | ~252 |
+| Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,495 (Ranked 42)  
+Progressed: 251,500 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.00%) (Ranked 227)
 | 2023-06-17 | 251,319 | 1 |
 | 2023-06-18 | 251,395 | 1 |
 | 2023-06-19 | 251,448 | 1 |
-| 2023-06-20 | 251,495 | 1 |
+| 2023-06-20 | 251,500 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 459)  
 Sum: 139 (Ranked 387)  

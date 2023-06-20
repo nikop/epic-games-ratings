@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 14.00% | ~100 |
-| The Steel Shadow | 12.00% | ~85 |
-| The Mysterious Stranger | 12.00% | ~85 |
-| Rail Rat | 12.00% | ~85 |
-| Make Up For Lost Time | 12.00% | ~85 |
-| Cartographer | 12.00% | ~85 |
+| The Steel Shadow | 12.00% | ~86 |
+| The Mysterious Stranger | 12.00% | ~86 |
+| Rail Rat | 12.00% | ~86 |
+| Make Up For Lost Time | 12.00% | ~86 |
+| Cartographer | 12.00% | ~86 |
 | Treasure Trove | 11.00% | ~78 |
 | Time Flies | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
@@ -42,10 +42,10 @@
 | Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Syron for Hope | 5.00% | ~36 |
-| Corin Goes Home | 4.00% | ~28 |
-| Sartorialist | 4.00% | ~28 |
-| Entresol Explorer | 4.00% | ~28 |
-| Golem Hunter | 4.00% | ~28 |
+| Corin Goes Home | 4.00% | ~29 |
+| Sartorialist | 4.00% | ~29 |
+| Entresol Explorer | 4.00% | ~29 |
+| Golem Hunter | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Hexlock for Protection | 3.00% | ~21 |
 | Rungs Was Right | 3.00% | ~21 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712 (Ranked 194)  
+Progressed: 713 (Ranked 194)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-17 | 704 | 3 |
 | 2023-06-18 | 708 | 3 |
 | 2023-06-19 | 709 | 4 |
-| 2023-06-20 | 712 | 4 |
+| 2023-06-20 | 713 | 4 |

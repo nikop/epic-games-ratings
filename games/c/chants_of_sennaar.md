@@ -20,9 +20,9 @@
 | A good beginning | 57.00% | ~4 |
 | Feels like springtime | 43.00% | ~3 |
 | Fashion victim | 43.00% | ~3 |
+| In this together | 29.00% | ~2 |
+| Peace walker | 29.00% | ~2 |
 | Half the way | 29.00% | ~2 |
-| In this together | 14.00% | ~1 |
-| Peace walker | 14.00% | ~1 |
 | Open door | 14.00% | ~1 |
 | Free at last | 14.00% | ~1 |
 | A great audience | 14.00% | ~1 |

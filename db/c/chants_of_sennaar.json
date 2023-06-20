@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -79,17 +79,17 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -277,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:06:30.9847015+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:06:37.8965949+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:59:48.7710002+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:06:30.9847198+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:59:47.3702859+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:06:37.8966132+00:00"
 }

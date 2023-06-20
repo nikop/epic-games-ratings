@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 347)  
+Rating: 4.62 (Ranked 348)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,750 |
-| Wallbanger | 5.00% | ~19,750 |
-| Exploitative | 4.00% | ~15,800 |
-| High Speed Low Drag | 4.00% | ~15,800 |
-| Wet Feet | 4.00% | ~15,800 |
-| Checkpoint Victory | 3.00% | ~11,850 |
-| Lucky | 3.00% | ~11,850 |
-| Stylin' | 3.00% | ~11,850 |
-| Turf War | 3.00% | ~11,850 |
-| Banged | 2.00% | ~7,900 |
-| First Blood | 2.00% | ~7,900 |
-| Flaccid Paralysis | 2.00% | ~7,900 |
-| Push Victory | 2.00% | ~7,900 |
-| Self-destructive | 2.00% | ~7,900 |
+| Point Shooting | 5.00% | ~19,752 |
+| Wallbanger | 5.00% | ~19,752 |
+| Exploitative | 4.00% | ~15,802 |
+| High Speed Low Drag | 4.00% | ~15,802 |
+| Wet Feet | 4.00% | ~15,802 |
+| Checkpoint Victory | 3.00% | ~11,851 |
+| Lucky | 3.00% | ~11,851 |
+| Stylin' | 3.00% | ~11,851 |
+| Turf War | 3.00% | ~11,851 |
+| Banged | 2.00% | ~7,901 |
+| First Blood | 2.00% | ~7,901 |
+| Flaccid Paralysis | 2.00% | ~7,901 |
+| Push Victory | 2.00% | ~7,901 |
+| Self-destructive | 2.00% | ~7,901 |
 | Blindfire | 1.00% | ~3,950 |
 | Efficient | 1.00% | ~3,950 |
 | Ruthless | 1.00% | ~3,950 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~395 |
 | Road Hazard | 0.10% | ~395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,010 (Ranked 39)  
+Progressed: 395,041 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.00%) (Ranked 227)
 | 2023-06-17 | 392,173 | 2 |
 | 2023-06-18 | 393,478 | 2 |
 | 2023-06-19 | 394,530 | 2 |
-| 2023-06-20 | 395,010 | 2 |
+| 2023-06-20 | 395,041 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 359  (Ranked 215)  
 Sum: 2,724 (Ranked 164)  

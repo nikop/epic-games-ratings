@@ -8,12 +8,12 @@ Rating: 4.17 (Ranked 857)
 | First Step Into the Knight | 6.00% | ~3,945 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,630 |
 | Loose Ends | 4.00% | ~2,630 |
-| The Batman Family | 3.00% | ~1,972 |
-| To the Victor Go the Spoils | 3.00% | ~1,972 |
-| Get ReQ'd | 3.00% | ~1,972 |
-| Knighthood | 3.00% | ~1,972 |
-| Whispered Words | 3.00% | ~1,972 |
-| Lock and Key | 3.00% | ~1,972 |
+| The Batman Family | 3.00% | ~1,973 |
+| To the Victor Go the Spoils | 3.00% | ~1,973 |
+| Get ReQ'd | 3.00% | ~1,973 |
+| Knighthood | 3.00% | ~1,973 |
+| Whispered Words | 3.00% | ~1,973 |
+| Lock and Key | 3.00% | ~1,973 |
 | In Your Element | 2.00% | ~1,315 |
 | Protector of Gotham | 2.00% | ~1,315 |
 | Something in the Clay | 2.00% | ~1,315 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 857)
 | Family Meeting | 0.80% | ~526 |
 | Expert Crime Fighter | 0.70% | ~460 |
 | A Worthy Successor | 0.70% | ~460 |
-| Dressed to Impress | 0.60% | ~394 |
+| Dressed to Impress | 0.60% | ~395 |
 | A Momentum Occasion | 0.50% | ~329 |
 | Bat Out of Hell | 0.40% | ~263 |
 | He'd Be So Proud of You | 0.30% | ~197 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,750 (Ranked 71)  
+Progressed: 65,755 (Ranked 71)  
 Completed: 96 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 96 (0.15%) (Ranked 164)
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
 | 2023-06-19 | 65,692 | 95 |
-| 2023-06-20 | 65,750 | 96 |
+| 2023-06-20 | 65,755 | 96 |
 ## Awards
 Max (Great Boss Battles): 2,348  (Ranked 98)  
 Sum: 3,894 (Ranked 137)  

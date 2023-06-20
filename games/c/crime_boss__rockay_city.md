@@ -5,27 +5,27 @@ Rating: 3.93 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,833 |
-| First One’s Free | 65.00% | ~43,772 |
-| Neophyte Ninja | 50.00% | ~33,671 |
-| Too Old for This | 47.00% | ~31,651 |
-| Fancy Pants | 35.00% | ~23,570 |
-| Case Closed | 34.00% | ~22,896 |
-| King of the Hill | 34.00% | ~22,896 |
-| Underworld Initiate | 29.00% | ~19,529 |
-| Roid Ranger | 21.00% | ~14,142 |
-| True Player | 19.00% | ~12,795 |
-| Off the Rocks | 19.00% | ~12,795 |
-| Raider’s Ruin | 16.00% | ~10,775 |
-| Dragonslayer | 16.00% | ~10,775 |
-| Hidden Sonata | 13.00% | ~8,754 |
+| Downed but Not Outed | 74.00% | ~49,837 |
+| First One’s Free | 65.00% | ~43,776 |
+| Neophyte Ninja | 50.00% | ~33,674 |
+| Too Old for This | 47.00% | ~31,653 |
+| Fancy Pants | 35.00% | ~23,571 |
+| Case Closed | 34.00% | ~22,898 |
+| King of the Hill | 34.00% | ~22,898 |
+| Underworld Initiate | 29.00% | ~19,531 |
+| Roid Ranger | 21.00% | ~14,143 |
+| True Player | 19.00% | ~12,796 |
+| Off the Rocks | 19.00% | ~12,796 |
+| Raider’s Ruin | 16.00% | ~10,776 |
+| Dragonslayer | 16.00% | ~10,776 |
+| Hidden Sonata | 13.00% | ~8,755 |
 | Rockay Rex | 11.00% | ~7,408 |
-| Freebooter | 10.00% | ~6,734 |
+| Freebooter | 10.00% | ~6,735 |
 | Track Star | 9.00% | ~6,061 |
 | Classy Joint | 9.00% | ~6,061 |
-| I Like Trains | 8.00% | ~5,387 |
-| Headhunter | 8.00% | ~5,387 |
-| Ding Dong | 8.00% | ~5,387 |
+| I Like Trains | 8.00% | ~5,388 |
+| Headhunter | 8.00% | ~5,388 |
+| Ding Dong | 8.00% | ~5,388 |
 | Foo Finder | 7.00% | ~4,714 |
 | Legend Looter | 5.00% | ~3,367 |
 | Savvy Seeker | 5.00% | ~3,367 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 920)
 | Geek Out | 0.50% | ~337 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,342 (Ranked 70)  
+Progressed: 67,347 (Ranked 70)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-17 | 67,060 | 33 |
 | 2023-06-18 | 67,188 | 34 |
 | 2023-06-19 | 67,268 | 34 |
-| 2023-06-20 | 67,342 | 34 |
+| 2023-06-20 | 67,347 | 34 |
 ## Awards
 Max (Diverse Characters): 335  (Ranked 221)  
 Sum: 1,603 (Ranked 208)  

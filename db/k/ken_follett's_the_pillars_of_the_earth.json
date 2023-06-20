@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13396,
+  "EOS_Progressed": 13397,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4564,6 +4564,11 @@
       "Time": "2023-06-20T20:06:31.9552181+00:00",
       "NumProgressed": 13396,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-20T21:06:38.8255074+00:00",
+      "NumProgressed": 13397,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4631,7 +4636,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "tpote_achievement_17",
@@ -4719,7 +4724,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "tpote_achievement_27",
@@ -4735,7 +4740,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "tpote_achievement_29",
@@ -4775,7 +4780,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "tpote_achievement_33",
@@ -4839,7 +4844,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "tpote_achievement_40",
@@ -4902,15 +4907,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13396,
+      "Progressed": 13397,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:06:31.9552175+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:06:38.8255053+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:00:57.6874632+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:06:31.9553144+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:00:52.8859469+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:06:38.8255632+00:00"
 }

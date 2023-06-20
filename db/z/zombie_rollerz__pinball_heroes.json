@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -559,9 +559,9 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -928,8 +928,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:06:59.1165666+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:07:05.7098963+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:57:57.0761847+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:06:59.1166473+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:57:52.3752402+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:07:05.7099629+00:00"
 }

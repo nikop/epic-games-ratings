@@ -14,7 +14,7 @@
 | The Breeder | 22.00% | ~98 |
 | The Veteran | 18.00% | ~80 |
 | The Traitor | 15.00% | ~67 |
-| The Spider | 13.00% | ~58 |
+| The Spider | 14.00% | ~63 |
 | Good as Fish | 10.00% | ~45 |
 | Her Eyes | 10.00% | ~45 |
 | He's so Annoying | 8.00% | ~36 |

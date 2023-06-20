@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -460,9 +460,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8673,
+  "EOS_Progressed": 8674,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5115,6 +5115,11 @@
       "Time": "2023-06-20T19:02:33.5498238+00:00",
       "NumProgressed": 8673,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-20T21:03:06.8499705+00:00",
+      "NumProgressed": 8674,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5230,7 +5235,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "ACH15",
@@ -5286,7 +5291,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "ACH22",
@@ -5318,7 +5323,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH26",
@@ -5397,7 +5402,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8673,
+      "Progressed": 8674,
       "Completed": 36
     }
   ],
@@ -5405,8 +5410,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-20T20:03:09.8057279+00:00",
+  "LastChanged_Achievements": "2023-06-20T21:03:06.84997+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:58:53.0033243+00:00",
-  "LastUpdate_Achievements": "2023-06-20T20:03:09.8057889+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:58:49.6602168+00:00",
+  "LastUpdate_Achievements": "2023-06-20T21:03:06.8500418+00:00"
 }
