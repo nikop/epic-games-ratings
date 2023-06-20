@@ -24,8 +24,8 @@
 | Outer Core | 16.00% | ~89 |
 | Up Close And Personal | 16.00% | ~89 |
 | Inner Core | 10.00% | ~56 |
+| Integration | 7.00% | ~39 |
 | Trickshot | 7.00% | ~39 |
-| Integration | 6.00% | ~33 |
 | Destruction | 3.00% | ~17 |
 | Ripperdoc | 3.00% | ~17 |
 | Fully Modded | 2.00% | ~11 |

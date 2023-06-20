@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -7904,18 +7904,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 387489,
       "NumberOfAwardsMax": 151529
+    },
+    {
+      "Time": "2023-06-20T05:58:54.698954+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 387860,
+      "NumberOfAwardsMax": 151855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387489,
-  "NumberOfAwardsMax": 151529,
+  "NumberOfAwards": 387860,
+  "NumberOfAwardsMax": 151855,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 151529
+      "Count": 151855
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7957,7 +7963,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 14599
+      "Count": 14621
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7975,7 +7981,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 14404
+      "Count": 14427
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8007,8 +8013,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-20T02:59:12.8067305+00:00",
+  "LastChanged": "2023-06-20T05:58:54.6989538+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.010115+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:00:07.191424+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:02:43.6132344+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:58:54.6989546+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:00:43.2433015+00:00"
 }

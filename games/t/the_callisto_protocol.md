@@ -22,9 +22,9 @@ Rating: 4.18 (Ranked 850)
 | Two Heads Are Better Than One | 6.00% | ~928 |
 | Terminated | 6.00% | ~928 |
 | Power Up | 6.00% | ~928 |
-| You Need a Gun | 5.00% | ~773 |
-| What Lies Beneath | 5.00% | ~773 |
-| Full Circle | 5.00% | ~773 |
+| You Need a Gun | 5.00% | ~774 |
+| What Lies Beneath | 5.00% | ~774 |
+| Full Circle | 5.00% | ~774 |
 | The Commonality | 4.00% | ~619 |
 | Instigator | 4.00% | ~136 |
 | I Do Belong Here | 3.00% | ~464 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 850)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,469 (Ranked 104)  
+Progressed: 15,470 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
-| 2023-06-20 | 15,469 | 56 |
+| 2023-06-20 | 15,470 | 56 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 386)  
 Sum: 324 (Ranked 326)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 58860,
+  "EOS_Progressed": 58862,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6656,6 +6656,11 @@
       "Time": "2023-06-20T05:07:22.7990522+00:00",
       "NumProgressed": 58860,
       "NumCompleted": 296
+    },
+    {
+      "Time": "2023-06-20T06:05:28.6313337+00:00",
+      "NumProgressed": 58862,
+      "NumCompleted": 296
     }
   ],
   "TotalAchievements": 24,
@@ -6683,7 +6688,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 39436
+      "UsersEstimate": 39438
     },
     {
       "ID": "BEST_FRIENDS",
@@ -6691,7 +6696,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 12949
+      "UsersEstimate": 12950
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -6715,7 +6720,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15892
+      "UsersEstimate": 15893
     },
     {
       "ID": "FOXIN_AROUND",
@@ -6747,7 +6752,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 30607
+      "UsersEstimate": 30608
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -6858,7 +6863,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 58860,
+      "Progressed": 58862,
       "Completed": 296
     }
   ],
@@ -6866,8 +6871,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:22.7990516+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:28.6313333+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:02.6918412+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:00:38.2860955+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:22.7991281+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:59:16.6705542+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:28.6313744+00:00"
 }

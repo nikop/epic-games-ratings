@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1688,
+  "EOS_Progressed": 1689,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 8.59,
+  "EOS_Completed_Percentage": 8.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2828,6 +2828,11 @@
       "Time": "2023-06-20T02:11:11.8355476+00:00",
       "NumProgressed": 1688,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-06-20T06:05:27.8353528+00:00",
+      "NumProgressed": 1689,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 12,
@@ -2855,7 +2860,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Green Ticket Roundup",
@@ -2879,7 +2884,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Jude",
@@ -2895,7 +2900,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Little Helper",
@@ -2934,7 +2939,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1688,
+      "Progressed": 1689,
       "Completed": 145
     }
   ],
@@ -2942,8 +2947,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:21.6791336+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:27.8353522+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:00:47.8606908+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:21.6791951+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:59:22.9289574+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:27.8353736+00:00"
 }

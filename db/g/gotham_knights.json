@@ -1590,10 +1590,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3889,
       "NumberOfAwardsMax": 2348
+    },
+    {
+      "Time": "2023-06-20T05:59:33.767102+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3891,
+      "NumberOfAwardsMax": 2348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3889,
+  "NumberOfAwards": 3891,
   "NumberOfAwardsMax": 2348,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1631,7 +1637,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 183
+      "Count": 185
     },
     {
       "Text": "This game is Relaxing",
@@ -1658,9 +1664,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65716,
+  "EOS_Progressed": 65717,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7038,6 +7044,11 @@
       "Time": "2023-06-20T05:07:49.1118672+00:00",
       "NumProgressed": 65716,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-20T06:05:48.7116758+00:00",
+      "NumProgressed": 65717,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7097,7 +7108,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -7273,7 +7284,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "FREEZE_1_5",
@@ -7361,7 +7372,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "HARLEY_3",
@@ -7425,7 +7436,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -7449,7 +7460,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "MYSTERY_03",
@@ -7536,22 +7547,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65716,
+      "Progressed": 65717,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35996,
+      "Progressed": 35997,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-20T04:01:00.128053+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:49.1118664+00:00",
+  "LastChanged": "2023-06-20T05:59:33.7671018+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:48.711675+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:01:05.1950498+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:49.1120318+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:59:33.7671024+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:48.7117463+00:00"
 }

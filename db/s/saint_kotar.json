@@ -4,7 +4,7 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -414,8 +414,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:50.1453215+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:49.8486815+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.9374847+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:02:04.076032+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:50.1453613+00:00"
+  "LastUpdate_Ratings": "2023-06-20T06:00:14.8983534+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:49.8487097+00:00"
 }

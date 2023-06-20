@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12930,
+  "EOS_Progressed": 12931,
   "EOS_Completed": 271,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6559,6 +6559,11 @@
       "Time": "2023-06-20T05:07:31.7735271+00:00",
       "NumProgressed": 12930,
       "NumCompleted": 271
+    },
+    {
+      "Time": "2023-06-20T06:05:35.503145+00:00",
+      "NumProgressed": 12931,
+      "NumCompleted": 271
     }
   ],
   "TotalAchievements": 20,
@@ -6642,7 +6647,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -6690,7 +6695,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9827
+      "UsersEstimate": 9828
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6698,7 +6703,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "NORTH_FINISHED",
@@ -6729,15 +6734,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12930,
+      "Progressed": 12931,
       "Completed": 271
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:31.7735264+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:35.5031444+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:01:35.7637982+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:31.7736159+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:59:55.2575551+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:35.5031831+00:00"
 }

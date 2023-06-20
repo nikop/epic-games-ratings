@@ -692,9 +692,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15469,
+  "EOS_Progressed": 15470,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4387,6 +4387,11 @@
       "Time": "2023-06-20T03:04:40.179788+00:00",
       "NumProgressed": 15469,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T06:04:12.8657157+00:00",
+      "NumProgressed": 15470,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4422,7 +4427,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "DISARM_ENEMY",
@@ -4622,7 +4627,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -4646,7 +4651,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4717,13 +4722,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15469,
+      "Progressed": 15470,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3395,
+      "Progressed": 3396,
       "Completed": 29
     }
   ],
@@ -4731,8 +4736,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-19T18:58:24.1620415+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:05:24.948169+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:04:12.8657152+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:58:37.1473978+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:05:24.9482638+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:57:52.4350401+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:04:12.8657561+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,951 |
-| The Cursed Farmer | 3.00% | ~2,979 |
+| A Brief Tour of the Realms | 7.00% | ~6,952 |
+| The Cursed Farmer | 3.00% | ~2,980 |
 | Beast Intentions | 2.00% | ~1,986 |
 | The Ring of Regeneration | 2.00% | ~1,986 |
 | The Mad Wizard | 2.00% | ~1,986 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.90% | ~894 |
 | Mad Cow Disease | 0.90% | ~894 |
 | The Court of Storms | 0.90% | ~590 |
-| Pure Energy | 0.80% | ~794 |
+| Pure Energy | 0.80% | ~795 |
 | Terror in the Dark | 0.70% | ~695 |
 | A Mysterious Summons | 0.70% | ~695 |
 | Unearthed Evil | 0.70% | ~695 |
@@ -31,15 +31,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.60% | ~596 |
 | The Contagious Curse | 0.60% | ~596 |
 | Escort to Waterdeep | 0.60% | ~596 |
-| Coasting to the Finish | 0.60% | ~393 |
+| Coasting to the Finish | 0.60% | ~394 |
 | Checkmate | 0.50% | ~328 |
 | Vecna Out! | 0.50% | ~328 |
-| Low Initiative | 0.50% | ~496 |
-| No Time To Rest | 0.50% | ~496 |
-| Running of the Saurs | 0.50% | ~496 |
-| Waterdeep Detours | 0.50% | ~496 |
-| Underdeep Cartography | 0.50% | ~496 |
-| The Templar's Camp | 0.50% | ~496 |
+| Low Initiative | 0.50% | ~497 |
+| No Time To Rest | 0.50% | ~497 |
+| Running of the Saurs | 0.50% | ~497 |
+| Waterdeep Detours | 0.50% | ~497 |
+| Underdeep Cartography | 0.50% | ~497 |
+| The Templar's Camp | 0.50% | ~497 |
 | Quick or Quack | 0.50% | ~328 |
 | The Silken Swamp | 0.40% | ~397 |
 | Supply Run | 0.40% | ~397 |
@@ -265,6 +265,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Review by the Blackstaff | 0.20% | ~131 |
 | Think Your Way Out Of It | 0.20% | ~199 |
 | Air's Getting Pretty Thin | 0.20% | ~199 |
+| Red Wizard 'Escort' | 0.20% | ~131 |
 | A Saurial's Lament | 0.20% | ~199 |
 | A Saurial's Resolve | 0.20% | ~199 |
 | The Killer Mists | 0.20% | ~199 |
@@ -453,7 +454,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~66 |
 | A Nimble Approach | 0.10% | ~66 |
 | The Egg of Nat's Desire | 0.10% | ~66 |
-| Red Wizard 'Escort' | 0.10% | ~66 |
 | Spirit of the Trickster Gods | 0.10% | ~66 |
 | Tanking Expectations | 0.10% | ~66 |
 | Servants of the Demon Prince | 0.10% | ~66 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,295 (Ranked 63)  
+Progressed: 99,320 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,295 | 1,971 |
+| 2023-06-20 | 99,320 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

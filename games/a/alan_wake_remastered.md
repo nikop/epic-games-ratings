@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,842 |
+| Follow the Light | 32.00% | ~17,843 |
 | Let There Be Light | 26.00% | ~14,497 |
-| Float Like a Butterfly | 25.00% | ~13,939 |
-| Nordic Walking | 20.00% | ~11,151 |
+| Float Like a Butterfly | 25.00% | ~13,940 |
+| Nordic Walking | 20.00% | ~11,152 |
 | Bright Falls' Finest | 19.00% | ~10,594 |
 | Under a Thin Layer of Skin | 17.00% | ~9,479 |
 | Paging Mr. Wake | 14.00% | ~7,806 |
-| Park Ranger | 13.00% | ~7,248 |
-| Back! Back, I Say! | 13.00% | ~7,248 |
-| Finders Keepers | 13.00% | ~7,248 |
+| Park Ranger | 13.00% | ~7,249 |
+| Back! Back, I Say! | 13.00% | ~7,249 |
+| Finders Keepers | 13.00% | ~7,249 |
 | Damn Good Cup of Coffee | 12.00% | ~6,691 |
 | Wheels Within Wheels | 11.00% | ~6,133 |
 | They're Heeeeeere! | 11.00% | ~6,133 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,538 |
 | What Light Through Yonder Window | 7.00% | ~3,903 |
 | Right of Way | 7.00% | ~3,903 |
-| Tornado Wrangler | 6.00% | ~3,345 |
+| Tornado Wrangler | 6.00% | ~3,346 |
 | A Friend Indeed | 6.00% | ~1,154 |
 | Departure | 5.00% | ~2,788 |
 | Ding! | 5.00% | ~961 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,115 |
 | Carny | 2.00% | ~1,115 |
 | An Idyllic Small Town | 2.00% | ~1,115 |
-| Iron Will | 2.00% | ~384 |
+| Iron Will | 2.00% | ~385 |
 | Couch Potato | 1.00% | ~558 |
 | Go Gentle Into That Good Light | 1.00% | ~192 |
 | Words Will Never Harm You | 0.60% | ~115 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,757 (Ranked 79)  
+Progressed: 55,759 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-17 | 55,510 | 55 |
 | 2023-06-18 | 55,644 | 56 |
 | 2023-06-19 | 55,743 | 56 |
-| 2023-06-20 | 55,757 | 56 |
+| 2023-06-20 | 55,759 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

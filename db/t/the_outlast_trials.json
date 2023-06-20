@@ -4,10 +4,10 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 277,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -676,10 +676,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 351,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-06-20T06:00:16.8698442+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 356,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351,
+  "NumberOfAwards": 356,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 48
     },
     {
       "Text": "This game is Great for Beginners",
@@ -750,8 +756,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-06-20T05:02:07.1426276+00:00",
+  "LastChanged": "2023-06-20T06:00:16.8698441+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:03.3754429+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:02:07.1426283+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:06:57.3785142+00:00"
+  "LastUpdate_Ratings": "2023-06-20T06:00:16.8698445+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:10.5118372+00:00"
 }

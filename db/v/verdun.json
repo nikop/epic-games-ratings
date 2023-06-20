@@ -1574,7 +1574,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 48194,
+  "EOS_Progressed": 48195,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
@@ -7859,6 +7859,11 @@
       "Time": "2023-06-20T05:07:40.0637036+00:00",
       "NumProgressed": 48194,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T06:05:41.806241+00:00",
+      "NumProgressed": 48195,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -7998,7 +8003,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -8102,7 +8107,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12530
+      "UsersEstimate": 12531
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -8158,7 +8163,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 30362
+      "UsersEstimate": 30363
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -8214,7 +8219,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12048
+      "UsersEstimate": 12049
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -8238,7 +8243,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 37109
+      "UsersEstimate": 37110
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -8246,7 +8251,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -8310,7 +8315,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -8326,7 +8331,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -8341,15 +8346,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 48194,
+      "Progressed": 48195,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-19T09:58:34.8421132+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:40.0637029+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:41.8062404+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:02.3847872+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:59:13.8159297+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:40.0637966+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:58:17.5836847+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:41.8063128+00:00"
 }

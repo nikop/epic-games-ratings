@@ -3966,9 +3966,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 280782,
+  "EOS_Progressed": 280790,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1660,
+  "EOS_NewPlayers": 1657,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10291,6 +10291,11 @@
       "Time": "2023-06-20T05:06:15.2426106+00:00",
       "NumProgressed": 280782,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-20T06:04:40.9586219+00:00",
+      "NumProgressed": 280790,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10302,7 +10307,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25270
+      "UsersEstimate": 25271
     },
     {
       "ID": "PFA_10",
@@ -10342,7 +10347,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11231
+      "UsersEstimate": 11232
     },
     {
       "ID": "PFA_15",
@@ -10350,7 +10355,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14039
+      "UsersEstimate": 14040
     },
     {
       "ID": "PFA_16",
@@ -10366,7 +10371,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14039
+      "UsersEstimate": 14040
     },
     {
       "ID": "PFA_18",
@@ -10382,7 +10387,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14039
+      "UsersEstimate": 14040
     },
     {
       "ID": "PFA_2",
@@ -10390,7 +10395,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_20",
@@ -10438,7 +10443,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11231
+      "UsersEstimate": 11232
     },
     {
       "ID": "PFA_26",
@@ -10454,7 +10459,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_28",
@@ -10470,7 +10475,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11231
+      "UsersEstimate": 11232
     },
     {
       "ID": "PFA_3",
@@ -10502,7 +10507,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_33",
@@ -10542,7 +10547,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "PFA_38",
@@ -10550,7 +10555,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_39",
@@ -10566,7 +10571,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_40",
@@ -10582,7 +10587,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8423
+      "UsersEstimate": 8424
     },
     {
       "ID": "PFA_42",
@@ -10590,7 +10595,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11231
+      "UsersEstimate": 11232
     },
     {
       "ID": "PFA_43",
@@ -10661,7 +10666,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280782,
+      "Progressed": 280790,
       "Completed": 408
     }
   ],
@@ -10669,8 +10674,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-20T02:57:43.8462888+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:06:15.2426098+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:04:40.9586213+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:57:53.4386782+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:06:15.2427455+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:57:23.5718266+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:04:40.9586801+00:00"
 }

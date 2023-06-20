@@ -14,7 +14,7 @@
 | Your War is Over | 82.00% | ~132 |
 | The Starry Night | 76.00% | ~122 |
 | Go Home! | 75.00% | ~121 |
-| Brilliant: Meadowshire | 73.00% | ~118 |
+| Brilliant: Meadowshire | 74.00% | ~119 |
 | Look After the Pence... | 73.00% | ~118 |
 | Drunken Master | 73.00% | ~118 |
 | Sergeant of the Evil | 73.00% | ~118 |
@@ -27,15 +27,15 @@
 | The Apotheosis of War | 66.00% | ~106 |
 | Stasis Alcatraz | 66.00% | ~106 |
 | Tastes Like Chicken | 62.00% | ~100 |
+| Brilliant: Holy Mountain | 61.00% | ~98 |
 | Combo Breaker | 61.00% | ~98 |
 | Thunderstorm | 61.00% | ~98 |
 | Clean Forests | 60.00% | ~97 |
-| Brilliant: Holy Mountain | 60.00% | ~97 |
 | Starry: Meadowshire | 55.00% | ~89 |
 | Lieutenant of the Evil | 55.00% | ~89 |
 | Avada Kedavra | 53.00% | ~85 |
+| Starry: Holy Mountain | 52.00% | ~84 |
 | Brilliant: Tanglewood | 51.00% | ~82 |
-| Starry: Holy Mountain | 51.00% | ~82 |
 | It's a Trap | 50.00% | ~80 |
 | Deposition | 47.00% | ~76 |
 | Brilliant: Arcania | 47.00% | ~76 |

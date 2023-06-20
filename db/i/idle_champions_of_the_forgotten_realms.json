@@ -4396,9 +4396,9 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 99295,
+  "EOS_Progressed": 99320,
   "EOS_Completed": 1971,
-  "EOS_NewPlayers": 8703,
+  "EOS_NewPlayers": 8726,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -10666,6 +10666,11 @@
       "Time": "2023-06-20T05:07:59.2318706+00:00",
       "NumProgressed": 99295,
       "NumCompleted": 1971
+    },
+    {
+      "Time": "2023-06-20T06:05:56.0316222+00:00",
+      "NumProgressed": 99320,
+      "NumCompleted": 1971
     }
   ],
   "TotalAchievements": 493,
@@ -10677,7 +10682,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6951
+      "UsersEstimate": 6952
     },
     {
       "ID": "objective_completed_10",
@@ -11861,7 +11866,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_164",
@@ -12013,7 +12018,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_208",
@@ -12349,7 +12354,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "objective_completed_34",
@@ -12411,9 +12416,9 @@
       "ID": "objective_completed_381",
       "SetID": "415jc5c",
       "Name": "Red Wizard \u0027Escort\u0027",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_completed_383",
@@ -13165,7 +13170,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_590",
@@ -13853,7 +13858,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_75",
@@ -13885,7 +13890,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_8",
@@ -14421,7 +14426,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "objective_completed_902",
@@ -14549,7 +14554,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_completed_95",
@@ -14597,7 +14602,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "objective_completed_1360",
@@ -14620,21 +14625,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 65569,
+      "Progressed": 65594,
       "Completed": 2807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 99295,
+      "Progressed": 99320,
       "Completed": 1971
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T18:58:36.1829643+00:00",
-  "LastChanged_Achievements": "2023-06-20T05:07:59.23187+00:00",
+  "LastChanged_Achievements": "2023-06-20T06:05:56.031621+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:58:50.7937491+00:00",
-  "LastUpdate_Achievements": "2023-06-20T05:07:59.2347584+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:58:02.0920692+00:00",
+  "LastUpdate_Achievements": "2023-06-20T06:05:56.0337785+00:00"
 }

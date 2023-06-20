@@ -7,15 +7,15 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 11.00% | ~63,829 |
-| Into the Unknown | 10.00% | ~58,026 |
-| First Shot | 10.00% | ~58,026 |
-| Herzlich Wilkommen! | 9.00% | ~52,223 |
-| Good Night & Good Luck | 9.00% | ~52,223 |
+| Into the Unknown | 10.00% | ~58,027 |
+| First Shot | 10.00% | ~58,027 |
+| Herzlich Wilkommen! | 9.00% | ~52,224 |
+| Good Night & Good Luck | 9.00% | ~52,224 |
 | Sancho Panza | 8.00% | ~46,421 |
-| Under Pressure | 7.00% | ~40,618 |
-| Flag Burning | 7.00% | ~40,618 |
-| Oh, So This Is How It Works! | 7.00% | ~40,618 |
-| Night Hunter | 7.00% | ~40,618 |
+| Under Pressure | 7.00% | ~40,619 |
+| Flag Burning | 7.00% | ~40,619 |
+| Oh, So This Is How It Works! | 7.00% | ~40,619 |
+| Night Hunter | 7.00% | ~40,619 |
 | On the Trail of the Enemy | 6.00% | ~34,816 |
 | Light in the Darkness | 6.00% | ~34,816 |
 | Get Outta My House! | 6.00% | ~34,816 |
@@ -25,15 +25,15 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,013 |
 | After the Fall | 5.00% | ~29,013 |
 | Can't Touch This! | 5.00% | ~29,013 |
-| Debris and Ashes | 4.00% | ~23,210 |
-| Known Associate | 4.00% | ~23,210 |
-| Brush with Death | 4.00% | ~23,210 |
-| Going Down | 4.00% | ~23,210 |
-| Family First | 4.00% | ~23,210 |
-| Your World, Your Rules | 4.00% | ~23,210 |
-| Death From Afar | 4.00% | ~23,210 |
-| Terminal Headache | 4.00% | ~23,210 |
-| Slowpoke! | 4.00% | ~23,210 |
+| Debris and Ashes | 4.00% | ~23,211 |
+| Known Associate | 4.00% | ~23,211 |
+| Brush with Death | 4.00% | ~23,211 |
+| Going Down | 4.00% | ~23,211 |
+| Family First | 4.00% | ~23,211 |
+| Your World, Your Rules | 4.00% | ~23,211 |
+| Death From Afar | 4.00% | ~23,211 |
+| Terminal Headache | 4.00% | ~23,211 |
+| Slowpoke! | 4.00% | ~23,211 |
 | You're Going Down! | 3.00% | ~17,408 |
 | Tickets, Please! | 2.00% | ~11,605 |
 | Parkour Master | 2.00% | ~11,605 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,261 (Ranked 25)  
+Progressed: 580,266 (Ranked 25)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
-| 2023-06-20 | 580,261 | 57 |
+| 2023-06-20 | 580,266 | 57 |
 ## Awards
 Max (Character Customization): 7,890  (Ranked 40)  
 Sum: 18,298 (Ranked 56)  
