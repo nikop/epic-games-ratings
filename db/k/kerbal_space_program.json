@@ -3,8 +3,8 @@
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 89,
-  "Ranking_Popularity": 165,
-  "Ranking_PopularitySum": 131,
+  "Ranking_Popularity": 166,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 337,
@@ -2686,10 +2686,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 4238,
       "NumberOfAwardsMax": 648
+    },
+    {
+      "Time": "2023-06-20T19:57:45.0637908+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 4242,
+      "NumberOfAwardsMax": 648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4238,
+  "NumberOfAwards": 4242,
   "NumberOfAwardsMax": 648,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2739,7 +2745,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 418
+      "Count": 422
     }
   ],
   "EOS_Progressed": 0,
@@ -2754,8 +2760,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-06-20T15:57:22.7293768+00:00",
+  "LastChanged": "2023-06-20T19:57:45.0637907+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:05.0420335+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:57:53.2280698+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:02:06.8571702+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:57:45.0637912+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:02:03.7620954+00:00"
 }

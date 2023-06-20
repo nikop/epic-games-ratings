@@ -12,7 +12,7 @@
 | Duscot Steamcity | 52.00% | ~57 |
 | The Shaman | 50.00% | ~54 |
 | The Thrower | 49.00% | ~53 |
-| The Penguin | 47.00% | ~51 |
+| The Penguin | 48.00% | ~52 |
 | The Magician | 46.00% | ~50 |
 | The Tunneler | 40.00% | ~44 |
 | Level Up!! | 39.00% | ~43 |
@@ -20,20 +20,20 @@
 | Kill-streak | 34.00% | ~37 |
 | The Bird | 30.00% | ~33 |
 | The Ninja | 28.00% | ~31 |
+| Inferno Ruins | 28.00% | ~31 |
 | Topped up | 27.00% | ~29 |
 | The Idol | 27.00% | ~29 |
-| Inferno Ruins | 27.00% | ~29 |
-| Untouchable | 24.00% | ~26 |
+| Untouchable | 25.00% | ~27 |
 | I'm Rich | 24.00% | ~26 |
 | 1 is all I need | 21.00% | ~23 |
 | The Slime | 21.00% | ~23 |
-| The Giant | 19.00% | ~21 |
+| The Giant | 20.00% | ~22 |
 | The Flower | 18.00% | ~20 |
 | Out of the Frying Pan... | 18.00% | ~20 |
 | The Blacksmith | 17.00% | ~19 |
 | The Ooze | 16.00% | ~17 |
+| Ember | 16.00% | ~17 |
 | The Assistant | 15.00% | ~16 |
-| Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
 | The Steampunk | 14.00% | ~15 |
 | Verse | 13.00% | ~14 |

@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,085 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,086 |
 | A Keen Sense of Spell | 8.00% | ~22,468 |
 | First Class Student | 8.00% | ~22,468 |
 | Troll with the Punches | 8.00% | ~22,468 |
 | That's a Keeper | 8.00% | ~22,468 |
-| Grappling with a Graphorn | 7.00% | ~19,659 |
-| The One Who Mastered Memories | 7.00% | ~19,659 |
-| The Hallowed Hero | 7.00% | ~19,659 |
-| The Hero of Hogwarts | 7.00% | ~19,659 |
-| The Defender of Dragons | 7.00% | ~19,659 |
-| Challenge Accepted | 7.00% | ~19,659 |
-| Loom for Improvement | 7.00% | ~19,659 |
-| A Talent for Spending | 7.00% | ~19,659 |
-| Coasting Along | 7.00% | ~19,659 |
+| Grappling with a Graphorn | 7.00% | ~19,660 |
+| The One Who Mastered Memories | 7.00% | ~19,660 |
+| The Hallowed Hero | 7.00% | ~19,660 |
+| The Hero of Hogwarts | 7.00% | ~19,660 |
+| The Defender of Dragons | 7.00% | ~19,660 |
+| Challenge Accepted | 7.00% | ~19,660 |
+| Loom for Improvement | 7.00% | ~19,660 |
+| A Talent for Spending | 7.00% | ~19,660 |
+| Coasting Along | 7.00% | ~19,660 |
 | A Sallow Grave | 6.00% | ~16,851 |
 | Followed the Butterflies | 6.00% | ~16,851 |
 | The Spell Master | 6.00% | ~16,851 |
 | Rising From the Ashes | 6.00% | ~16,851 |
-| The Avenging Gazelle | 5.00% | ~14,042 |
-| Beast Friends | 5.00% | ~14,042 |
-| Flight the Good Flight | 5.00% | ~14,042 |
+| The Avenging Gazelle | 5.00% | ~14,043 |
+| Beast Friends | 5.00% | ~14,043 |
+| Flight the Good Flight | 5.00% | ~14,043 |
 | The Seeker of Knowledge | 4.00% | ~11,234 |
 | The Root of the Problem | 4.00% | ~11,234 |
 | Third Time's a Charm | 4.00% | ~11,234 |
 | Raising Expectations | 4.00% | ~11,234 |
-| The Toast of the Town | 3.00% | ~8,425 |
-| Going Through the Potions | 3.00% | ~8,425 |
-| Room with a View | 3.00% | ~8,425 |
-| The Intrepid Explorer | 3.00% | ~8,425 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,425 |
-| The Ends Petrify the Means | 3.00% | ~8,425 |
+| The Toast of the Town | 3.00% | ~8,426 |
+| Going Through the Potions | 3.00% | ~8,426 |
+| Room with a View | 3.00% | ~8,426 |
+| The Intrepid Explorer | 3.00% | ~8,426 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,426 |
+| The Ends Petrify the Means | 3.00% | ~8,426 |
 | Put Down Roots | 2.00% | ~5,617 |
 | The Auror's Apprentice | 2.00% | ~5,617 |
 | Floo Around the World | 2.00% | ~5,617 |
 | The Wise Owl | 2.00% | ~5,617 |
-| The Good Samaritan | 1.00% | ~2,808 |
-| Savvy Spender | 1.00% | ~2,808 |
-| Rise to the Challenges | 1.00% | ~2,808 |
-| Demiguise Dread | 1.00% | ~2,808 |
-| Finishing Touches | 1.00% | ~2,808 |
-| A Forte for Achievement | 1.00% | ~2,808 |
+| The Good Samaritan | 1.00% | ~2,809 |
+| Savvy Spender | 1.00% | ~2,809 |
+| Rise to the Challenges | 1.00% | ~2,809 |
+| Demiguise Dread | 1.00% | ~2,809 |
+| Finishing Touches | 1.00% | ~2,809 |
+| A Forte for Achievement | 1.00% | ~2,809 |
 | Merlin's Beard! | 0.70% | ~1,966 |
 | Spilled Milk | 0.60% | ~1,685 |
 | The Nature of the Beast | 0.50% | ~1,404 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,849 (Ranked 41)  
+Progressed: 280,856 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,24 +112,24 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
-| 2023-06-20 | 280,849 | 408 |
+| 2023-06-20 | 280,856 | 408 |
 ## Awards
 Max (Character Customization): 20,207  (Ranked 18)  
-Sum: 37,470 (Ranked 31)  
+Sum: 37,480 (Ranked 31)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,207 |
 | This game has Great Boss Battles | 9,590 |
 | This game is Great for Beginners | 851 |
+| This game is Extremely Fun | 840 |
 | This game is Relaxing | 839 |
-| This game is Extremely Fun | 834 |
 | This game has Amazing Storytelling | 818 |
 | This game has Diverse Characters | 816 |
 | This game has Amazing Characters | 801 |
 | This game is Highly Recommended | 783 |
 | This game has Quickly Understood Controls | 735 |
-| This game has Beautiful Visuals | 678 |
+| This game has Beautiful Visuals | 682 |
 | This game has a Creative Community | 518 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -222,4 +222,4 @@ Diff (max vs sum): -13
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
 | 2023-06-18 | 4.77 | 20,122 | 37,312 |
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
-| 2023-06-20 | 4.77 | 20,207 | 37,470 |
+| 2023-06-20 | 4.77 | 20,207 | 37,480 |

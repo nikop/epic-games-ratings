@@ -1315,9 +1315,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -1340,8 +1340,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:02:17.8672748+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:02:14.5687135+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:00:35.830341+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:02:17.8673198+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:00:33.4014403+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:02:14.5687603+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,005 |
-| The Cursed Farmer | 4.00% | ~4,003 |
-| The Mad Wizard | 3.00% | ~3,002 |
-| Beast Intentions | 2.00% | ~2,001 |
-| The Ring of Regeneration | 2.00% | ~2,001 |
+| A Brief Tour of the Realms | 8.00% | ~8,011 |
+| The Cursed Farmer | 4.00% | ~4,006 |
+| The Mad Wizard | 3.00% | ~3,004 |
+| Beast Intentions | 2.00% | ~2,003 |
+| The Ring of Regeneration | 2.00% | ~2,003 |
 | Were-verpowered | 1.00% | ~1,001 |
 | Seeking Allies | 1.00% | ~1,001 |
 | Are Ya Chicken? | 1.00% | ~1,001 |
@@ -18,53 +18,53 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 1.00% | ~1,001 |
 | A Persistent Buzzing | 0.90% | ~901 |
 | Pure Energy | 0.90% | ~901 |
-| The Court of Storms | 0.90% | ~597 |
+| The Court of Storms | 0.90% | ~598 |
 | Terror in the Dark | 0.80% | ~801 |
 | The Crumbling Temple | 0.80% | ~801 |
-| A Mysterious Summons | 0.70% | ~700 |
-| Unearthed Evil | 0.70% | ~700 |
-| Exploring Port Nyanzaru | 0.70% | ~700 |
-| Beware the Jabberwock | 0.70% | ~464 |
-| Maddening | 0.60% | ~600 |
-| Beast Mode | 0.60% | ~600 |
-| Building Trust | 0.60% | ~600 |
-| Useless Allies | 0.60% | ~600 |
-| Running of the Saurs | 0.60% | ~600 |
-| The Contagious Curse | 0.60% | ~600 |
-| Escort to Waterdeep | 0.60% | ~600 |
-| Waterdeep Detours | 0.60% | ~600 |
+| A Mysterious Summons | 0.70% | ~701 |
+| Unearthed Evil | 0.70% | ~701 |
+| Exploring Port Nyanzaru | 0.70% | ~701 |
+| Beware the Jabberwock | 0.70% | ~465 |
+| Maddening | 0.60% | ~601 |
+| Beast Mode | 0.60% | ~601 |
+| Building Trust | 0.60% | ~601 |
+| Useless Allies | 0.60% | ~601 |
+| Running of the Saurs | 0.60% | ~601 |
+| The Contagious Curse | 0.60% | ~601 |
+| Escort to Waterdeep | 0.60% | ~601 |
+| Waterdeep Detours | 0.60% | ~601 |
 | Coasting to the Finish | 0.60% | ~398 |
 | Checkmate | 0.50% | ~332 |
 | Vecna Out! | 0.50% | ~332 |
-| Low Initiative | 0.50% | ~500 |
-| No Time To Rest | 0.50% | ~500 |
-| The Dinner Party | 0.50% | ~500 |
-| Underdeep Cartography | 0.50% | ~500 |
-| The Templar's Camp | 0.50% | ~500 |
+| Low Initiative | 0.50% | ~501 |
+| No Time To Rest | 0.50% | ~501 |
+| The Dinner Party | 0.50% | ~501 |
+| Underdeep Cartography | 0.50% | ~501 |
+| The Templar's Camp | 0.50% | ~501 |
 | Quick or Quack | 0.50% | ~332 |
-| The Silken Swamp | 0.40% | ~400 |
-| Supply Run | 0.40% | ~400 |
-| Owlbear Necessities | 0.40% | ~265 |
-| Best Thay Ever | 0.40% | ~265 |
-| Frail Doesn't Mean Broken | 0.40% | ~265 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~265 |
-| Pin and Skewer | 0.40% | ~265 |
-| Homecoming | 0.40% | ~400 |
-| Street War | 0.40% | ~400 |
-| March of the Undead | 0.40% | ~400 |
-| Wisdom Check | 0.40% | ~400 |
-| Invisible Shadows | 0.40% | ~400 |
-| The Botched Kidnapping | 0.40% | ~400 |
-| Trollskull Manor | 0.40% | ~400 |
-| Attack on the Manor | 0.40% | ~400 |
-| The Death Curse | 0.40% | ~400 |
-| Premature Betrayal | 0.40% | ~400 |
-| A Tale of Two Cities | 0.40% | ~400 |
-| Flying Monkey Skulls of Doom | 0.40% | ~400 |
-| Close Escort | 0.40% | ~400 |
-| Constant Banditry | 0.40% | ~400 |
-| Overdue Rendezvous | 0.40% | ~400 |
-| Rescue in the Jungle | 0.40% | ~400 |
+| The Silken Swamp | 0.40% | ~401 |
+| Supply Run | 0.40% | ~401 |
+| Owlbear Necessities | 0.40% | ~266 |
+| Best Thay Ever | 0.40% | ~266 |
+| Frail Doesn't Mean Broken | 0.40% | ~266 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~266 |
+| Pin and Skewer | 0.40% | ~266 |
+| Homecoming | 0.40% | ~401 |
+| Street War | 0.40% | ~401 |
+| March of the Undead | 0.40% | ~401 |
+| Wisdom Check | 0.40% | ~401 |
+| Invisible Shadows | 0.40% | ~401 |
+| The Botched Kidnapping | 0.40% | ~401 |
+| Trollskull Manor | 0.40% | ~401 |
+| Attack on the Manor | 0.40% | ~401 |
+| The Death Curse | 0.40% | ~401 |
+| Premature Betrayal | 0.40% | ~401 |
+| A Tale of Two Cities | 0.40% | ~401 |
+| Flying Monkey Skulls of Doom | 0.40% | ~401 |
+| Close Escort | 0.40% | ~401 |
+| Constant Banditry | 0.40% | ~401 |
+| Overdue Rendezvous | 0.40% | ~401 |
+| Rescue in the Jungle | 0.40% | ~401 |
 | Pros and CONs | 0.30% | ~300 |
 | Tall Tales | 0.30% | ~199 |
 | Third Third Out | 0.30% | ~199 |
@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.30% | ~199 |
 | Return to the Tomb | 0.30% | ~199 |
 | Keep Your Distance | 0.30% | ~199 |
+| Heatwave | 0.30% | ~199 |
 | Hands Off! | 0.30% | ~199 |
 | The Dread Domain of Tovag | 0.30% | ~199 |
 | The Castle of a Thousand Vecnas | 0.30% | ~199 |
@@ -204,7 +205,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.20% | ~200 |
 | More Than Well Equipped | 0.20% | ~133 |
 | Arcane Efforts | 0.20% | ~133 |
-| Heatwave | 0.20% | ~133 |
 | To Avernus in a Handbasket | 0.20% | ~133 |
 | Weak Doesn't Mean Feeble | 0.20% | ~133 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~133 |
@@ -430,6 +430,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Rite of the Arcane Octad | 0.20% | ~133 |
 | An Icewind Dale Reunion | 0.20% | ~133 |
 | The Netherese Necropolis | 0.20% | ~133 |
+| Ineffectual Intellectuals | 0.20% | ~133 |
 | The Archaeologist and the Sailor | 0.20% | ~133 |
 | Poor Guidance | 0.20% | ~200 |
 | Overwhelming Force | 0.20% | ~200 |
@@ -498,10 +499,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~66 |
 | Maroon Madness | 0.10% | ~66 |
 | Alien Allies | 0.10% | ~66 |
-| Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,063 (Ranked 63)  
-Completed: 1,971 (1.97%) (Ranked 73)  
+Progressed: 100,140 (Ranked 63)  
+Completed: 1,972 (1.97%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -561,15 +561,15 @@ Completed: 1,971 (1.97%) (Ranked 73)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 100,063 | 1,971 |
+| 2023-06-20 | 100,140 | 1,972 |
 ## Awards
-Max (Diverse Characters): 4,949  (Ranked 64)  
-Sum: 30,149 (Ranked 37)  
+Max (Diverse Characters): 4,951  (Ranked 64)  
+Sum: 30,154 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,949 |
-| This game is Great for Beginners | 4,880 |
+| This game has Diverse Characters | 4,951 |
+| This game is Great for Beginners | 4,883 |
 | This game has Quickly Understood Controls | 4,620 |
 | This game is Relaxing | 4,518 |
 | This game is Highly Recommended | 3,963 |
@@ -723,4 +723,4 @@ Diff (max vs sum): 27
 | 2023-06-17 | 4.06 | - | 4,946 | 30,128 |
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
 | 2023-06-19 | 4.06 | - | 4,949 | 30,148 |
-| 2023-06-20 | 4.06 | - | 4,949 | 30,149 |
+| 2023-06-20 | 4.06 | - | 4,951 | 30,154 |

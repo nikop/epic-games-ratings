@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3292,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3818,9 +3818,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 922
+      "UsersEstimate": 955
     },
     {
       "ID": "Ach033",
@@ -4073,8 +4073,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:07:15.2928481+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:06:56.5892608+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:59:16.9373546+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:07:15.2929493+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:59:15.1429649+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:06:56.5893968+00:00"
 }

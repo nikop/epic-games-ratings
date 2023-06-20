@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Up Close And Personal | 0.20% | ~1 |
 | Augmented | 0.00% | ~0 |
 | The Bigger They Are | 0.00% | ~0 |
 | Challenge Accepted | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Terminated III | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
 | Unlocked and Loaded | 0.00% | ~0 |
-| Up Close And Personal | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 556 (Ranked 205)  

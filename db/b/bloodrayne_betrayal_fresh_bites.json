@@ -2,9 +2,9 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
     {
       "Time": "2023-06-08T19:01:50.2914183+00:00",
       "NumProgressed": 50,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T20:03:28.7479981+00:00",
+      "NumProgressed": 51,
       "NumCompleted": 0
     }
   ],
@@ -111,9 +116,9 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DropIn",
@@ -137,7 +142,7 @@
       "Name": "Finish Him",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FlightOfTheRaven",
@@ -169,15 +174,15 @@
       "Name": "Just a Taste",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LastBullet",
       "SetID": "6jf74lf",
       "Name": "The Last Bullet",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MsPerfect",
@@ -199,7 +204,7 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -231,9 +236,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ToSunrise",
@@ -247,9 +252,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WalkingOnAir",
@@ -264,7 +269,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
@@ -272,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:03:23.4810954+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:03:28.7479976+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:46.6307744+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:01:17.3816748+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:03:23.4811127+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:01:14.5483444+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:03:28.7480153+00:00"
 }

@@ -28,7 +28,7 @@
 | Car-Tapult | 23.00% | ~75 |
 | Disoriented | 23.00% | ~75 |
 | Anger Issues | 23.00% | ~75 |
-| Your Highness | 22.00% | ~72 |
+| Your Highness | 23.00% | ~75 |
 | Event Amateur | 21.00% | ~69 |
 | Feeling Dizzy? | 20.00% | ~66 |
 | Drift King! | 19.00% | ~62 |

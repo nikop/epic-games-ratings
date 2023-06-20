@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -1443,9 +1443,9 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_013",
@@ -1602,8 +1602,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:05:05.6926511+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:04:49.9118989+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.2112754+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:57:37.5964116+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:05:05.6927035+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:57:29.2918848+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:04:49.9119499+00:00"
 }

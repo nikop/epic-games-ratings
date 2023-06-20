@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.69 (Ranked 221)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,9 +43,9 @@ Number of Ratings: 180  (23.09.2022)
 | Heavily loaded | 21.00% | ~275 |
 | Bob Ross | 15.00% | ~196 |
 | Campaign expert | 11.00% | ~144 |
+| Truck Fever | 11.00% | ~144 |
 | No free seats | 10.00% | ~131 |
 | Penny pincher | 10.00% | ~131 |
-| Truck Fever | 10.00% | ~131 |
 | Back to the future | 9.00% | ~118 |
 | Transport belt | 9.00% | ~118 |
 | Antique | 5.00% | ~66 |

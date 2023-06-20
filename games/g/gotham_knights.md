@@ -31,13 +31,13 @@ Rating: 4.17 (Ranked 857)
 | From Inside Gotham's Walls | 2.00% | ~1,315 |
 | Voiceless | 2.00% | ~1,315 |
 | Seeking Asylum | 2.00% | ~1,315 |
-| End of an Era | 1.00% | ~657 |
-| Bulldozed | 1.00% | ~657 |
-| Out of Their League | 1.00% | ~657 |
-| Drone You Out | 1.00% | ~657 |
-| Gotham Knight | 1.00% | ~657 |
-| Gotham City Confidential | 1.00% | ~657 |
-| Solid Alibi | 1.00% | ~657 |
+| End of an Era | 1.00% | ~658 |
+| Bulldozed | 1.00% | ~658 |
+| Out of Their League | 1.00% | ~658 |
+| Drone You Out | 1.00% | ~658 |
+| Gotham Knight | 1.00% | ~658 |
+| Gotham City Confidential | 1.00% | ~658 |
+| Solid Alibi | 1.00% | ~658 |
 | Fusion Expert | 0.80% | ~526 |
 | Family Meeting | 0.80% | ~526 |
 | Expert Crime Fighter | 0.70% | ~460 |
@@ -50,9 +50,9 @@ Rating: 4.17 (Ranked 857)
 | Renewable Enemy Source | 0.20% | ~72 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
 | The Cold, the Bad and the Ugly | 0.20% | ~72 |
-| Practice Makes Perfect | 0.20% | ~131 |
-| Talonted | 0.20% | ~131 |
-| The Man-Bat Family | 0.20% | ~131 |
+| Practice Makes Perfect | 0.20% | ~132 |
+| Talonted | 0.20% | ~132 |
+| The Man-Bat Family | 0.20% | ~132 |
 | Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
 | Gotham's Greatest Depths | 0.10% | ~36 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,745 (Ranked 71)  
+Progressed: 65,750 (Ranked 71)  
 Completed: 96 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,17 +128,17 @@ Completed: 96 (0.15%) (Ranked 164)
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
 | 2023-06-19 | 65,692 | 95 |
-| 2023-06-20 | 65,745 | 96 |
+| 2023-06-20 | 65,750 | 96 |
 ## Awards
-Max (Great Boss Battles): 2,348  (Ranked 97)  
-Sum: 3,893 (Ranked 137)  
-Diff (max vs sum): -40  
+Max (Great Boss Battles): 2,348  (Ranked 98)  
+Sum: 3,894 (Ranked 137)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,348 |
 | This game has Quickly Understood Controls | 201 |
 | This game is Extremely Fun | 200 |
-| This game is Relaxing | 198 |
+| This game is Relaxing | 199 |
 | This game has Amazing Characters | 197 |
 | This game has Diverse Characters | 191 |
 | This game has Amazing Storytelling | 188 |
@@ -267,4 +267,4 @@ Diff (max vs sum): -40
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
 | 2023-06-18 | 4.18 | 2,346 | 3,885 |
 | 2023-06-19 | 4.18 | 2,346 | 3,886 |
-| 2023-06-20 | 4.17 | 2,348 | 3,893 |
+| 2023-06-20 | 4.17 | 2,348 | 3,894 |

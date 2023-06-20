@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3740,
+  "EOS_Progressed": 3741,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4764,6 +4764,11 @@
       "Time": "2023-06-20T19:03:21.107543+00:00",
       "NumProgressed": 3740,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T20:03:26.531697+00:00",
+      "NumProgressed": 3741,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4799,7 +4804,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4815,7 +4820,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4831,7 +4836,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4847,7 +4852,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -4871,7 +4876,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4919,7 +4924,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4935,7 +4940,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5031,7 +5036,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5094,15 +5099,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3740,
+      "Progressed": 3741,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:03:21.1075424+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:03:26.5316964+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:01:12.5785253+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:03:21.1075999+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:01:07.8032894+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:03:26.5317525+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~132 |
+| Newbie | 76.00% | ~141 |
 | Better than cake | 10.00% | ~18 |
 | No brakes | 10.00% | ~18 |
-| Photo shoot | 10.00% | ~18 |
-| Wannabe | 8.00% | ~14 |
+| Photo shoot | 9.00% | ~17 |
+| Wannabe | 8.00% | ~15 |
 | Amateur hitchhiker | 4.00% | ~7 |
-| First taste | 3.00% | ~5 |
+| First taste | 3.00% | ~6 |
 | Loyalty | 1.00% | ~2 |
 | Hero | 1.00% | ~2 |
 | Drama queen | 1.00% | ~2 |
@@ -18,20 +18,20 @@
 | Hattrick | 1.00% | ~2 |
 | Tutorial master | 1.00% | ~2 |
 | Weatherman | 1.00% | ~2 |
-| Amateur newbie | 0.60% | ~1 |
-| Pro newbie | 0.60% | ~1 |
-| Monster Amateur car | 0.60% | ~1 |
-| Pro hitchhiker | 0.60% | ~1 |
-| Amateur wannabe | 0.60% | ~1 |
-| Knockout Amateur | 0.60% | ~1 |
-| No brakes Amateur | 0.60% | ~1 |
-| First Amateur taste | 0.60% | ~1 |
-| Addict | 0.60% | ~1 |
-| Shepherd | 0.60% | ~1 |
-| Amateur hattrick | 0.60% | ~1 |
-| Untouchable | 0.60% | ~1 |
-| Amateur photo shoot | 0.60% | ~1 |
-| On the top | 0.60% | ~1 |
+| Amateur newbie | 0.50% | ~1 |
+| Pro newbie | 0.50% | ~1 |
+| Monster Amateur car | 0.50% | ~1 |
+| Pro hitchhiker | 0.50% | ~1 |
+| Amateur wannabe | 0.50% | ~1 |
+| Knockout Amateur | 0.50% | ~1 |
+| No brakes Amateur | 0.50% | ~1 |
+| First Amateur taste | 0.50% | ~1 |
+| Addict | 0.50% | ~1 |
+| Shepherd | 0.50% | ~1 |
+| Amateur hattrick | 0.50% | ~1 |
+| Untouchable | 0.50% | ~1 |
+| Amateur photo shoot | 0.50% | ~1 |
+| On the top | 0.50% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 266)  
+Progressed: 185 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,4 +205,4 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 172 | 0 |
 | 2023-06-18 | 173 | 0 |
 | 2023-06-19 | 174 | 0 |
-| 2023-06-20 | 176 | 0 |
+| 2023-06-20 | 185 | 0 |

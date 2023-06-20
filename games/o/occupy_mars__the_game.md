@@ -33,8 +33,8 @@ Rating: 3.86 (Ranked 927)
 | Caveman | 0.70% | ~9 |
 | 5G Network | 0.50% | ~6 |
 | Bull’s eye | 0.50% | ~6 |
+| Planetary Defence | 0.50% | ~6 |
 | Rover Mechanic | 0.50% | ~6 |
-| Planetary Defence | 0.40% | ~5 |
 | Korolev crater | 0.40% | ~5 |
 | One does not simply... | 0.40% | ~5 |
 | Hot Repairs | 0.30% | ~4 |

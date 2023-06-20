@@ -5,48 +5,55 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 17.00% | ~2,631 |
-| The Outer Way | 15.00% | ~2,322 |
-| Desperate Times | 14.00% | ~2,167 |
-| Paper Jams | 13.00% | ~2,012 |
-| Chew 'Em Up | 11.00% | ~1,702 |
-| Reforged | 11.00% | ~1,702 |
-| Workplace Hazard | 10.00% | ~1,548 |
-| If the SHU Fits... | 10.00% | ~1,548 |
-| Get a Grip | 9.00% | ~1,393 |
-| Giving Back | 8.00% | ~1,238 |
-| Without A Paddle | 8.00% | ~1,238 |
-| Float Like A Butterfly | 7.00% | ~1,083 |
-| In the Pipe, Five by Five | 7.00% | ~1,083 |
-| Crash Site | 7.00% | ~1,083 |
-| Two Heads Are Better Than One | 6.00% | ~929 |
-| Terminated | 6.00% | ~929 |
-| Power Up | 6.00% | ~929 |
-| You Need a Gun | 5.00% | ~774 |
-| What Lies Beneath | 5.00% | ~774 |
-| Full Circle | 5.00% | ~774 |
-| The Commonality | 4.00% | ~619 |
-| Instigator | 4.00% | ~136 |
-| I Do Belong Here | 3.00% | ~464 |
-| In Striking Distance | 3.00% | ~464 |
-| Big Game Hunter | 3.00% | ~102 |
-| Bear Trap | 3.00% | ~102 |
-| Mugshot | 2.00% | ~310 |
-| Big Spender | 2.00% | ~68 |
-| Grim Reaper | 1.00% | ~155 |
-| Parole Denied | 1.00% | ~34 |
-| Hoard Mode | 1.00% | ~34 |
-| Recidivist | 0.70% | ~24 |
-| Lifer | 0.70% | ~24 |
-| Armed to the Teeth | 0.40% | ~14 |
-| The Protocol is About Life | 0.30% | ~46 |
 | It's over, Jacob! | 0.10% | ~15 |
-| Glutton for Punishment | 0.10% | ~3 |
-| You Belong Here | 0.10% | ~3 |
-| Subject Alpha | 0.10% | ~3 |
+| Armed to the Teeth | 0.10% | ~3 |
+| Giving Back | 0.10% | ~15 |
+| You Need a Gun | 0.10% | ~15 |
+| Flesh Wound | 0.10% | ~15 |
+| Grim Reaper | 0.10% | ~15 |
+| I Do Belong Here | 0.10% | ~15 |
+| The Protocol is About Life | 0.10% | ~15 |
+| Recidivist | 0.10% | ~3 |
+| Lifer | 0.10% | ~3 |
+| Parole Denied | 0.10% | ~3 |
+| Get a Grip | 0.10% | ~15 |
+| In Striking Distance | 0.10% | ~15 |
+| Two Heads Are Better Than One | 0.10% | ~15 |
+| Chew 'Em Up | 0.10% | ~15 |
+| Terminated | 0.10% | ~15 |
+| Workplace Hazard | 0.10% | ~15 |
+| The Commonality | 0.10% | ~15 |
+| Float Like A Butterfly | 0.10% | ~15 |
+| Reforged | 0.10% | ~15 |
+| Paper Jams | 0.10% | ~15 |
+| Mugshot | 0.10% | ~15 |
+| The Outer Way | 0.10% | ~15 |
+| If the SHU Fits... | 0.10% | ~15 |
+| Without A Paddle | 0.10% | ~15 |
+| In the Pipe, Five by Five | 0.10% | ~15 |
+| What Lies Beneath | 0.10% | ~15 |
+| Desperate Times | 0.10% | ~15 |
+| Crash Site | 0.10% | ~15 |
+| Full Circle | 0.10% | ~15 |
+| Power Up | 0.10% | ~15 |
+| Glutton for Punishment | 0.00% | ~0 |
+| You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
+| Instigator | 0.00% | ~0 |
+| Big Game Hunter | 0.00% | ~0 |
+| Bear Trap | 0.00% | ~0 |
+| Hoard Mode | 0.00% | ~0 |
+| Subject Alpha | 0.00% | ~0 |
+| Big Spender | 0.00% | ~0 |
+| Don't Let It Mellow | 0.00% | ~0 |
+| Information Overload | 0.00% | ~0 |
+| This Isn't About Escape | 0.00% | ~0 |
+| One Last Job | 0.00% | ~0 |
+| Keep Fighting | 0.00% | ~0 |
+| It's Time | 0.00% | ~0 |
+| Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,477 (Ranked 104)  
+Progressed: 15,478 (Ranked 104)  
 Completed: 57 (0.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +113,7 @@ Completed: 57 (0.37%) (Ranked 132)
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
-| 2023-06-20 | 15,477 | 57 |
+| 2023-06-20 | 15,478 | 57 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 326)  

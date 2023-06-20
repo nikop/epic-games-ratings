@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2371,6 +2371,11 @@
       "Time": "2023-06-20T19:04:34.6965932+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T20:04:29.48863+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2414,7 +2419,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -2462,7 +2467,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2494,7 +2499,7 @@
       "Name": "Guard Maker",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -2557,14 +2562,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:04:34.6965925+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:04:29.4886295+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:57:37.4074976+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:04:34.6966255+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:57:29.0758725+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:04:29.4886602+00:00"
 }

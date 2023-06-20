@@ -16,16 +16,16 @@
 | Cornivore | 36.00% | ~47 |
 | Bouncemato | 26.00% | ~21 |
 | Amateur Survivor | 26.00% | ~21 |
-| Quick-Draw Pod | 20.00% | ~16 |
-| 10K | 19.00% | ~25 |
+| Quick-Draw Pod | 21.00% | ~17 |
+| 10K | 20.00% | ~26 |
+| 15K | 19.00% | ~25 |
 | Professional Survivor | 19.00% | ~15 |
-| 15K | 18.00% | ~23 |
 | This Is My Boomstick | 18.00% | ~14 |
 | Grave Digger | 16.00% | ~13 |
 | Drinking Problem | 15.00% | ~20 |
 | Eggtraordinary | 12.00% | ~16 |
 | Summers Here | 12.00% | ~10 |
-| Skin Of Your Teeth | 10.00% | ~13 |
+| Skin Of Your Teeth | 11.00% | ~14 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
 | Carrocketeer | 9.00% | ~12 |

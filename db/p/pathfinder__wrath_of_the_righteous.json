@@ -3,7 +3,7 @@
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 118,
-  "Ranking_Popularity": 113,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 227,
@@ -2894,9 +2894,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9987,
+  "EOS_Progressed": 9988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6979,6 +6979,11 @@
       "Time": "2023-06-20T18:08:33.9388717+00:00",
       "NumProgressed": 9987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T20:06:59.4469728+00:00",
+      "NumProgressed": 9988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6998,7 +7003,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -7022,7 +7027,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -7046,7 +7051,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "09_PathOfDemon",
@@ -7198,7 +7203,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "29_StrategicVictory",
@@ -7342,7 +7347,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -7382,7 +7387,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -7917,21 +7922,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8769,
+      "Progressed": 8770,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9987,
+      "Progressed": 9988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-20T13:59:08.5156903+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:07:18.3484735+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:06:59.4469723+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:59:02.3430983+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:07:18.34865+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:58:58.7797002+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:06:59.4471621+00:00"
 }

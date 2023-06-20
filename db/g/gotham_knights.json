@@ -3,7 +3,7 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 857,
-  "Ranking_Popularity": 97,
+  "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 164,
@@ -1608,10 +1608,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3893,
       "NumberOfAwardsMax": 2348
+    },
+    {
+      "Time": "2023-06-20T20:00:41.1575064+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3894,
+      "NumberOfAwardsMax": 2348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3893,
+  "NumberOfAwards": 3894,
   "NumberOfAwardsMax": 2348,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1655,7 +1661,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1676,9 +1682,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65745,
+  "EOS_Progressed": 65750,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 870,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7121,6 +7127,11 @@
       "Time": "2023-06-20T19:07:14.9133342+00:00",
       "NumProgressed": 65745,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-20T20:06:56.0550044+00:00",
+      "NumProgressed": 65750,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7204,7 +7215,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ALL_VILLAIN",
@@ -7212,7 +7223,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "APPLY_STATUS",
@@ -7300,7 +7311,7 @@
       "Name": "Talonted",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -7308,7 +7319,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -7316,7 +7327,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -7324,7 +7335,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -7348,7 +7359,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "FREEZE_1",
@@ -7580,7 +7591,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "SECRET_CACHE",
@@ -7588,7 +7599,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -7596,7 +7607,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -7619,22 +7630,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65745,
+      "Progressed": 65750,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36025,
+      "Progressed": 36030,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-20T15:59:39.9146983+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:07:14.9133337+00:00",
+  "LastChanged": "2023-06-20T20:00:41.1575063+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:06:56.055004+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:00:43.802402+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:07:14.9134047+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:00:41.1575069+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:06:56.0550974+00:00"
 }

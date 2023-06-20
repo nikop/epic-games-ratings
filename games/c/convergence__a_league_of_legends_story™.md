@@ -21,12 +21,12 @@
 | Immaculate Aim | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | The Brass Boss | 11.00% | ~78 |
+| Like Clockwork | 10.00% | ~71 |
 | The Betrayer | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Check Your Pulse | 10.00% | ~71 |
-| Like Clockwork | 9.00% | ~64 |
 | Street Style | 9.00% | ~64 |
 | The Man Who Shattered Time | 9.00% | ~64 |
 | The Family Fortune | 9.00% | ~64 |
@@ -38,13 +38,13 @@
 | Sump Explorer | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
-| Sartorialist | 5.00% | ~36 |
 | Cultivair Explorer | 5.00% | ~36 |
-| Entresol Explorer | 5.00% | ~36 |
 | Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Syron for Hope | 5.00% | ~36 |
 | Corin Goes Home | 4.00% | ~28 |
+| Sartorialist | 4.00% | ~28 |
+| Entresol Explorer | 4.00% | ~28 |
 | Golem Hunter | 4.00% | ~28 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Hexlock for Protection | 3.00% | ~21 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711 (Ranked 195)  
+Progressed: 712 (Ranked 194)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-17 | 704 | 3 |
 | 2023-06-18 | 708 | 3 |
 | 2023-06-19 | 709 | 4 |
-| 2023-06-20 | 711 | 4 |
+| 2023-06-20 | 712 | 4 |

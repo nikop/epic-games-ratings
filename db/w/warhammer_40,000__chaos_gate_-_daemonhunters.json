@@ -558,9 +558,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2910,
+  "EOS_Progressed": 2911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1908,6 +1908,11 @@
       "Time": "2023-06-20T14:07:45.1411513+00:00",
       "NumProgressed": 2910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T20:06:57.2987916+00:00",
+      "NumProgressed": 2911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1935,7 +1940,7 @@
       "Name": "Look Over There!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "BloodAndIron",
@@ -2143,7 +2148,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "Kills_Streak",
@@ -2151,7 +2156,7 @@
       "Name": "Purging Spree",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Kills_Vakir",
@@ -2390,21 +2395,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2910,
+      "Progressed": 2911,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2910,
+      "Progressed": 2911,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-17T11:59:21.6190284+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:07:16.1201004+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:06:57.2987911+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:20.4895747+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:59:28.0187251+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:07:16.1201956+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:59:22.8264624+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:06:57.2988656+00:00"
 }

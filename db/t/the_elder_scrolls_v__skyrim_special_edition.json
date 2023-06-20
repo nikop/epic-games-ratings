@@ -3,7 +3,7 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 29,
-  "Ranking_Popularity": 125,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 227,
@@ -1258,10 +1258,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 2883,
       "NumberOfAwardsMax": 1281
+    },
+    {
+      "Time": "2023-06-20T19:57:56.5876021+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2884,
+      "NumberOfAwardsMax": 1281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2883,
+  "NumberOfAwards": 2884,
   "NumberOfAwardsMax": 1281,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1275,7 +1281,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 174
+      "Count": 175
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1338,8 +1344,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-06-20T07:57:58.1337352+00:00",
+  "LastChanged": "2023-06-20T19:57:56.587602+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.6894526+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:58:01.6794383+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:03:35.3533248+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:57:56.5876027+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:03:40.065501+00:00"
 }

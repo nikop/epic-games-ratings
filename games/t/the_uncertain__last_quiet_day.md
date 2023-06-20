@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 62.00% | ~297 |
-| Buckle up | 60.00% | ~287 |
-| Quick charge | 60.00% | ~287 |
+| I can do a thing or two | 61.00% | ~293 |
+| Buckle up | 60.00% | ~288 |
+| Quick charge | 60.00% | ~288 |
 | Now you know | 54.00% | ~259 |
 | Hands up! | 53.00% | ~254 |
 | Short circuit | 53.00% | ~254 |
-| Curious | 42.00% | ~201 |
-| Everybody lies | 36.00% | ~172 |
+| Curious | 41.00% | ~197 |
+| Everybody lies | 36.00% | ~173 |
 | Trick or Treat? | 24.00% | ~115 |
 | There is another way | 23.00% | ~110 |
-| Sysadmin | 22.00% | ~105 |
+| Sysadmin | 21.00% | ~101 |
 | Annoying | 20.00% | ~96 |
 | Every little helps | 20.00% | ~96 |
 | Hacker | 20.00% | ~96 |
 | He is just a child | 20.00% | ~96 |
 | The Walking Robot Among Us | 20.00% | ~96 |
 | Uncertain | 19.00% | ~91 |
-| Ace | 17.00% | ~81 |
-| Concrete painting | 17.00% | ~81 |
-| Goody | 17.00% | ~81 |
-| Please oh pleeease! | 17.00% | ~81 |
+| Ace | 17.00% | ~82 |
+| Concrete painting | 17.00% | ~82 |
+| Goody | 17.00% | ~82 |
+| Please oh pleeease! | 17.00% | ~82 |
 | Hipster | 16.00% | ~77 |
 | Not what it seems | 16.00% | ~77 |
 | Found it! | 15.00% | ~72 |
@@ -37,8 +37,8 @@
 | Lucky dog | 4.00% | ~19 |
 | Silent | 4.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 209)  
-Completed: 15 (3.13%) (Ranked 52)  
+Progressed: 480 (Ranked 209)  
+Completed: 15 (3.12%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 15 (3.13%) (Ranked 52)
 | 2023-06-17 | 477 | 15 |
 | 2023-06-18 | 478 | 15 |
 | 2023-06-19 | 479 | 15 |
+| 2023-06-20 | 480 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

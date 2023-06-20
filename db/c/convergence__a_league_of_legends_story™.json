@@ -2,10 +2,10 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 712,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-06-20T04:07:06.3476441+00:00",
       "NumProgressed": 711,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T20:06:18.6391945+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1461,9 +1466,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "ClovemaryGift",
@@ -1477,9 +1482,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 28
     },
     {
       "ID": "CosmeticProgress1",
@@ -1501,9 +1506,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 28
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1838,14 +1843,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 712,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:06:36.0772963+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:06:18.6391938+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:00:19.4599986+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:06:36.0773477+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:00:10.9555924+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:06:18.6392881+00:00"
 }

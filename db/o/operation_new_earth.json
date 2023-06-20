@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-06-20T19:03:37.2004469+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T20:03:41.9749068+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -597,7 +602,7 @@
       "Name": "Sergeant",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -613,7 +618,7 @@
       "Name": "Captain",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -651,9 +656,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -669,7 +674,7 @@
       "Name": "Getting Deployment",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -717,7 +722,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -731,9 +736,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -780,14 +785,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:03:37.2004465+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:03:41.9749059+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-20T19:01:27.7821224+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:03:37.2004944+00:00"
+  "LastUpdate_Ratings": "2023-06-20T20:01:24.6165993+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:03:41.9749649+00:00"
 }

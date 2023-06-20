@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -455,9 +455,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "LEFT_LEVEL",
@@ -664,8 +664,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-20T19:05:08.4279445+00:00",
+  "LastChanged_Achievements": "2023-06-20T20:04:52.886165+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.1971896+00:00",
-  "LastUpdate_Ratings": "2023-06-20T18:59:33.5851864+00:00",
-  "LastUpdate_Achievements": "2023-06-20T19:05:08.4279875+00:00"
+  "LastUpdate_Ratings": "2023-06-20T19:59:28.685794+00:00",
+  "LastUpdate_Achievements": "2023-06-20T20:04:52.8862509+00:00"
 }
