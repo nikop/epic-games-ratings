@@ -15,8 +15,8 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.37% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.97% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.97% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
@@ -24,7 +24,7 @@
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
 | 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -49,7 +49,7 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.27% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -74,7 +74,7 @@
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.97% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.92% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.90% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
@@ -113,8 +113,8 @@
 | 110 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 112 | [Train Valley](games/t/train_valley.md) | 0.66% |
 | 113 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.65% |
+| 114 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 114 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
-| 115 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 117 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
@@ -127,8 +127,8 @@
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 126 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
-| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
 | 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.41% |
 | 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
 | 131 | [Tchia](games/t/tchia.md) | 0.38% |
 | 132 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -203,16 +203,16 @@
 | 200 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 200 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 200 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 200 | [Old World](games/o/old_world.md) | 0.03% |
 | 200 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
 | 200 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 200 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 207 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 207 | [Good Company](games/g/good_company.md) | 0.02% |
-| 207 | [Old World](games/o/old_world.md) | 0.02% |
-| 207 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 207 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 207 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 207 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 208 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 208 | [Good Company](games/g/good_company.md) | 0.02% |
+| 208 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 208 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 208 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 208 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 214 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 214 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
