@@ -1,21 +1,21 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.83% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 35.29% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 38.89% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 16.43% |
-| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 9 | [Island Cities](games/i/island_cities.md) | 16.43% |
+| 10 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 14.29% |
+| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.50% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.37% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.75% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -46,10 +46,10 @@
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 47 | [ZZT!](games/z/zzt!.md) | 3.31% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
-| 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
+| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
+| 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -118,8 +118,8 @@
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 117 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
+| 119 | [Grindstone](games/g/grindstone.md) | 0.55% |
 | 119 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 120 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 121 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 121 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
 | 121 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |

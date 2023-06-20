@@ -110,6 +110,7 @@
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
 | [Circus Electrique](../games/c/circus_electrique.md) | 50 | 1,000 |
 | [EBOLA 3](../games/e/ebola_3.md) | 50 | 1,000 |
@@ -155,7 +156,6 @@
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
-| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 44 | 1,000 |
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
