@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,952 |
-| The Cursed Farmer | 3.00% | ~2,980 |
-| Beast Intentions | 2.00% | ~1,986 |
-| The Ring of Regeneration | 2.00% | ~1,986 |
-| The Mad Wizard | 2.00% | ~1,986 |
-| Were-verpowered | 1.00% | ~993 |
-| Seeking Allies | 1.00% | ~993 |
-| Are Ya Chicken? | 1.00% | ~993 |
-| Friendly Imps | 1.00% | ~993 |
+| A Brief Tour of the Realms | 7.00% | ~6,955 |
+| The Cursed Farmer | 3.00% | ~2,981 |
+| Beast Intentions | 2.00% | ~1,987 |
+| The Ring of Regeneration | 2.00% | ~1,987 |
+| The Mad Wizard | 2.00% | ~1,987 |
+| Were-verpowered | 1.00% | ~994 |
+| Seeking Allies | 1.00% | ~994 |
+| Are Ya Chicken? | 1.00% | ~994 |
+| Friendly Imps | 1.00% | ~994 |
 | A Persistent Buzzing | 0.90% | ~894 |
 | Mad Cow Disease | 0.90% | ~894 |
-| The Court of Storms | 0.90% | ~590 |
-| Pure Energy | 0.80% | ~795 |
-| Terror in the Dark | 0.70% | ~695 |
-| A Mysterious Summons | 0.70% | ~695 |
-| Unearthed Evil | 0.70% | ~695 |
-| The Crumbling Temple | 0.70% | ~695 |
-| Exploring Port Nyanzaru | 0.70% | ~695 |
+| Pure Energy | 0.90% | ~894 |
+| The Court of Storms | 0.90% | ~591 |
+| Terror in the Dark | 0.70% | ~696 |
+| A Mysterious Summons | 0.70% | ~696 |
+| Unearthed Evil | 0.70% | ~696 |
+| The Crumbling Temple | 0.70% | ~696 |
+| Exploring Port Nyanzaru | 0.70% | ~696 |
 | Beware the Jabberwock | 0.70% | ~459 |
 | Maddening | 0.60% | ~596 |
 | Beast Mode | 0.60% | ~596 |
@@ -43,11 +43,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.50% | ~328 |
 | The Silken Swamp | 0.40% | ~397 |
 | Supply Run | 0.40% | ~397 |
-| Owlbear Necessities | 0.40% | ~262 |
-| Best Thay Ever | 0.40% | ~262 |
-| Frail Doesn't Mean Broken | 0.40% | ~262 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~262 |
-| Pin and Skewer | 0.40% | ~262 |
+| Owlbear Necessities | 0.40% | ~263 |
+| Best Thay Ever | 0.40% | ~263 |
+| Frail Doesn't Mean Broken | 0.40% | ~263 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~263 |
+| Pin and Skewer | 0.40% | ~263 |
 | Street War | 0.40% | ~397 |
 | March of the Undead | 0.40% | ~397 |
 | Invisible Shadows | 0.40% | ~397 |
@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.30% | ~197 |
 | The Castle of a Thousand Vecnas | 0.30% | ~197 |
 | The Sanctum of the Sword | 0.30% | ~197 |
+| Kas the Bloody Handed | 0.30% | ~197 |
 | Get Back In The Castle | 0.30% | ~197 |
 | Bully for Vecna | 0.30% | ~197 |
 | Homecoming | 0.30% | ~298 |
@@ -82,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.30% | ~197 |
 | The Forbidden City | 0.30% | ~298 |
 | Captured! | 0.30% | ~298 |
+| Home Field Advantage | 0.30% | ~298 |
 | Force Grey Unleashed | 0.30% | ~298 |
 | Wisdom Check | 0.30% | ~298 |
 | Sleuth It Out | 0.30% | ~298 |
@@ -204,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~131 |
 | Weak Doesn't Mean Feeble | 0.20% | ~131 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~131 |
-| Kas the Bloody Handed | 0.20% | ~131 |
 | Kas the Destroyer | 0.20% | ~131 |
 | Who Lurks Below? | 0.20% | ~131 |
 | Clowning Around | 0.20% | ~131 |
@@ -225,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~199 |
 | No Good at All | 0.20% | ~199 |
 | Fall From Grace | 0.20% | ~199 |
-| Home Field Advantage | 0.20% | ~199 |
 | Double Vision | 0.20% | ~199 |
 | Underground Railroad | 0.20% | ~199 |
 | Vajra's Guards | 0.20% | ~199 |
@@ -279,10 +279,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.20% | ~131 |
 | From The Shadows | 0.20% | ~199 |
 | Spined Nuisances | 0.20% | ~199 |
-| Twilight Twist | 0.20% | ~131 |
 | Screams of the Dead | 0.20% | ~199 |
 | Frantic Excavation | 0.20% | ~199 |
-| Birds of a Feather | 0.20% | ~131 |
 | Guests of the Groom | 0.20% | ~199 |
 | Careful Consideration | 0.20% | ~199 |
 | Bazaar Exploits | 0.20% | ~199 |
@@ -455,6 +453,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~66 |
 | The Egg of Nat's Desire | 0.10% | ~66 |
 | Spirit of the Trickster Gods | 0.10% | ~66 |
+| Twilight Twist | 0.10% | ~66 |
+| Birds of a Feather | 0.10% | ~66 |
 | Tanking Expectations | 0.10% | ~66 |
 | Servants of the Demon Prince | 0.10% | ~66 |
 | The Madness Peaks | 0.10% | ~66 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,320 (Ranked 63)  
+Progressed: 99,359 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,320 | 1,971 |
+| 2023-06-20 | 99,359 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

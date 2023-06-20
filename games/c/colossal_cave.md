@@ -19,8 +19,8 @@
 | St. George's Gauntlet | 11.00% | ~9 |
 | BJ & The Bear | 10.00% | ~8 |
 | Mr. Magic | 9.00% | ~7 |
-| Who dat? | 7.00% | ~6 |
-| Soft Hands | 7.00% | ~6 |
+| Who dat? | 9.00% | ~7 |
+| Soft Hands | 9.00% | ~7 |
 | Can't bear the weight | 6.00% | ~5 |
 | Egg On His Face | 6.00% | ~5 |
 | Batteries not Included | 6.00% | ~5 |

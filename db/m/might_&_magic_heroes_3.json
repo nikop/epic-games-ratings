@@ -4,10 +4,10 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -869,10 +869,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-06-20T06:58:34.5329078+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -928,7 +934,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Unique Visuals",
@@ -954,8 +960,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-06-20T02:03:05.5867204+00:00",
+  "LastChanged": "2023-06-20T06:58:34.5329074+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.6612963+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:57:52.6959279+00:00",
-  "LastUpdate_Achievements": "2023-06-20T06:04:19.1992803+00:00"
+  "LastUpdate_Ratings": "2023-06-20T06:58:34.5329083+00:00",
+  "LastUpdate_Achievements": "2023-06-20T07:05:42.3391724+00:00"
 }

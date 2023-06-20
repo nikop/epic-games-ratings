@@ -4,7 +4,7 @@
   "ProductSlug": "fae-farm",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-15T21:57:00.3524002+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:56:55.9028261+00:00",
-  "LastUpdate_Achievements": "2023-06-20T06:00:25.4197398+00:00"
+  "LastUpdate_Ratings": "2023-06-20T06:57:09.3969989+00:00",
+  "LastUpdate_Achievements": "2023-06-20T07:02:50.4505377+00:00"
 }

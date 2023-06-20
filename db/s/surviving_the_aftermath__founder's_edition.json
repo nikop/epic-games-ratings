@@ -1059,9 +1059,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6616,
+  "EOS_Progressed": 6617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6059,6 +6059,11 @@
       "Time": "2023-06-20T04:03:33.4808874+00:00",
       "NumProgressed": 6616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T07:03:43.3919535+00:00",
+      "NumProgressed": 6617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6102,7 +6107,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "14",
@@ -6110,7 +6115,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "15",
@@ -6118,7 +6123,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "16",
@@ -6150,7 +6155,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "2",
@@ -6182,7 +6187,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "23",
@@ -6190,7 +6195,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "24",
@@ -6206,7 +6211,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "26",
@@ -6222,7 +6227,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "28",
@@ -6230,7 +6235,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "29",
@@ -6254,7 +6259,7 @@
       "Name": "Mogul",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "31",
@@ -6262,7 +6267,7 @@
       "Name": "Ranch Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "32",
@@ -6318,7 +6323,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "39",
@@ -6334,7 +6339,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "40",
@@ -6398,7 +6403,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "48",
@@ -6438,7 +6443,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "52",
@@ -6541,15 +6546,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6616,
+      "Progressed": 6617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-20T06:02:23.93736+00:00",
+  "LastChanged_Achievements": "2023-06-20T07:03:43.3919532+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-20T05:59:44.0187537+00:00",
-  "LastUpdate_Achievements": "2023-06-20T06:02:23.9374272+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:01:39.8047361+00:00",
+  "LastUpdate_Achievements": "2023-06-20T07:03:43.3920167+00:00"
 }
