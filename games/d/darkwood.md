@@ -4,8 +4,8 @@
 Rating: 4.61 (Ranked 364)  
 ## Awards
 Max (Extremely Fun): 320  (Ranked 225)  
-Sum: 2,368 (Ranked 173)  
-Diff (max vs sum): 52  
+Sum: 2,368 (Ranked 174)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 320 |

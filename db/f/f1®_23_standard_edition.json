@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 123,
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.1780246+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:57:34.1675582+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:03:05.8308761+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:57:38.2895736+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:02:17.8198882+00:00"
 }

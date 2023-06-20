@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~957 |
-| Project Arena | 3.00% | ~574 |
+| Diligence as a goal | 5.00% | ~958 |
+| Project Arena | 3.00% | ~575 |
 | The Old Grandmaster | 2.00% | ~14,197 |
 | The Assault | 1.00% | ~7,098 |
 | The Hateful Pole Fighter | 1.00% | ~7,098 |
@@ -26,8 +26,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,098 |
 | Rumble in the Hangar | 1.00% | ~7,098 |
 | Take damage to save time | 1.00% | ~7,098 |
-| Bloody Sport | 1.00% | ~191 |
-| The best strikes are the ones we avoid | 1.00% | ~191 |
+| Bloody Sport | 1.00% | ~192 |
+| The best strikes are the ones we avoid | 1.00% | ~192 |
 | Scareless | 0.90% | ~6,389 |
 | Kung-Fu Tussle | 0.90% | ~6,389 |
 | Dance of the Praying Mantis | 0.80% | ~5,679 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,847 (Ranked 17)  
+Progressed: 709,850 (Ranked 17)  
 Completed: 12,778 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 12,778 (1.80%) (Ranked 79)
 | 2023-06-17 | 709,699 | 12,775 |
 | 2023-06-18 | 709,766 | 12,776 |
 | 2023-06-19 | 709,833 | 12,778 |
-| 2023-06-20 | 709,847 | 12,778 |
+| 2023-06-20 | 709,850 | 12,778 |
 ## Awards
 Max (Great Boss Battles): 6,189  (Ranked 52)  
-Sum: 10,578 (Ranked 78)  
+Sum: 10,579 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): -26
 | This game has Diverse Characters | 535 |
 | This game has Challenging Combat | 525 |
 | This game has Quickly Understood Controls | 514 |
-| This game is Extremely Fun | 507 |
+| This game is Extremely Fun | 508 |
 | This game has Amazing Storytelling | 504 |
 | This game is Highly Recommended | 491 |
 | This game has Amazing Characters | 489 |
@@ -294,3 +294,4 @@ Diff (max vs sum): -26
 | 2023-06-17 | 4.82 | - | 6,186 | 10,565 |
 | 2023-06-18 | 4.82 | - | 6,186 | 10,568 |
 | 2023-06-19 | 4.82 | - | 6,189 | 10,578 |
+| 2023-06-20 | 4.82 | - | 6,189 | 10,579 |

@@ -2,7 +2,7 @@
   "ID": "328d636b14da496c89bc813ce133d81b",
   "Name": "BoltBreak",
   "ProductSlug": "boltbreak-c2bf02",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 123,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-28T19:59:15.1514118+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:19.4642994+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:59:32.4312265+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:06:01.7546257+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:59:27.9091014+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:05:46.2091391+00:00"
 }

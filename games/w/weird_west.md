@@ -23,9 +23,9 @@ Number of Ratings: 125  (23.09.2022)
 | The Great Escape | 23.00% | ~382 |
 | That’s All, Folks | 18.00% | ~299 |
 | Fallen Star | 16.00% | ~266 |
+| For Balance | 16.00% | ~266 |
 | Here Comes Santa Claus | 16.00% | ~266 |
 | Winds of War | 16.00% | ~266 |
-| For Balance | 15.00% | ~249 |
 | Dog Days | 13.00% | ~216 |
 | Workers' Rights | 13.00% | ~216 |
 | Elusive Prey | 12.00% | ~199 |

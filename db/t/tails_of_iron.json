@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-06-20T03:00:38.7270693+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-20T08:01:56.6255391+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1786,7 +1791,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1794,7 +1799,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1834,7 +1839,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1850,7 +1855,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "GetRangedWeapon",
@@ -1866,7 +1871,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Kill25Bugs",
@@ -1874,7 +1879,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "Kill25Frogs",
@@ -1906,7 +1911,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "RepairChef",
@@ -1938,7 +1943,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1953,22 +1958,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 349,
-      "Completed": 349
+      "Progressed": 350,
+      "Completed": 350
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-20T07:02:45.6788471+00:00",
+  "LastChanged_Achievements": "2023-06-20T08:01:56.6255387+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.2570669+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:59:10.0268675+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:02:45.6788805+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:59:08.1913715+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:01:56.6255693+00:00"
 }

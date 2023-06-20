@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62394,
+  "EOS_Progressed": 62397,
   "EOS_Completed": 562,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -6496,6 +6496,11 @@
       "Time": "2023-06-20T07:07:30.0228642+00:00",
       "NumProgressed": 62394,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2023-06-20T08:07:09.2428609+00:00",
+      "NumProgressed": 62397,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 25,
@@ -6595,7 +6600,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5615
+      "UsersEstimate": 5616
     },
     {
       "ID": "Magnetic Miracles",
@@ -6635,7 +6640,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9983
+      "UsersEstimate": 9984
     },
     {
       "ID": "Nothing Left to Say",
@@ -6651,7 +6656,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "Right On Target",
@@ -6659,7 +6664,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8111
+      "UsersEstimate": 8112
     },
     {
       "ID": "Sniper",
@@ -6706,7 +6711,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 62394,
+      "Progressed": 62397,
       "Completed": 562
     }
   ],
@@ -6714,8 +6719,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-20T07:07:30.0228636+00:00",
+  "LastChanged_Achievements": "2023-06-20T08:07:09.2428604+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:00.3005038+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:02:27.055019+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:07:30.0229355+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:01:42.3841807+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:07:09.2429053+00:00"
 }

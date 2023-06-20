@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,955 |
-| The Cursed Farmer | 3.00% | ~2,981 |
-| Beast Intentions | 2.00% | ~1,987 |
-| The Ring of Regeneration | 2.00% | ~1,987 |
-| The Mad Wizard | 2.00% | ~1,987 |
+| A Brief Tour of the Realms | 7.00% | ~6,958 |
+| The Cursed Farmer | 3.00% | ~2,982 |
+| Beast Intentions | 2.00% | ~1,988 |
+| The Ring of Regeneration | 2.00% | ~1,988 |
+| The Mad Wizard | 2.00% | ~1,988 |
 | Were-verpowered | 1.00% | ~994 |
 | Seeking Allies | 1.00% | ~994 |
 | Are Ya Chicken? | 1.00% | ~994 |
+| Mad Cow Disease | 1.00% | ~994 |
 | Friendly Imps | 1.00% | ~994 |
-| A Persistent Buzzing | 0.90% | ~894 |
-| Mad Cow Disease | 0.90% | ~894 |
-| Pure Energy | 0.90% | ~894 |
+| A Persistent Buzzing | 0.90% | ~895 |
+| Pure Energy | 0.90% | ~895 |
 | The Court of Storms | 0.90% | ~591 |
 | Terror in the Dark | 0.70% | ~696 |
 | A Mysterious Summons | 0.70% | ~696 |
 | Unearthed Evil | 0.70% | ~696 |
 | The Crumbling Temple | 0.70% | ~696 |
 | Exploring Port Nyanzaru | 0.70% | ~696 |
-| Beware the Jabberwock | 0.70% | ~459 |
+| Beware the Jabberwock | 0.70% | ~460 |
 | Maddening | 0.60% | ~596 |
 | Beast Mode | 0.60% | ~596 |
 | Building Trust | 0.60% | ~596 |
@@ -41,27 +41,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.50% | ~497 |
 | The Templar's Camp | 0.50% | ~497 |
 | Quick or Quack | 0.50% | ~328 |
-| The Silken Swamp | 0.40% | ~397 |
-| Supply Run | 0.40% | ~397 |
+| The Silken Swamp | 0.40% | ~398 |
+| Supply Run | 0.40% | ~398 |
 | Owlbear Necessities | 0.40% | ~263 |
 | Best Thay Ever | 0.40% | ~263 |
 | Frail Doesn't Mean Broken | 0.40% | ~263 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~263 |
 | Pin and Skewer | 0.40% | ~263 |
-| Street War | 0.40% | ~397 |
-| March of the Undead | 0.40% | ~397 |
-| Invisible Shadows | 0.40% | ~397 |
-| The Dinner Party | 0.40% | ~397 |
-| The Botched Kidnapping | 0.40% | ~397 |
-| Trollskull Manor | 0.40% | ~397 |
-| Attack on the Manor | 0.40% | ~397 |
-| The Death Curse | 0.40% | ~397 |
-| Premature Betrayal | 0.40% | ~397 |
-| A Tale of Two Cities | 0.40% | ~397 |
-| Flying Monkey Skulls of Doom | 0.40% | ~397 |
-| Constant Banditry | 0.40% | ~397 |
-| Overdue Rendezvous | 0.40% | ~397 |
-| Rescue in the Jungle | 0.40% | ~397 |
+| Street War | 0.40% | ~398 |
+| March of the Undead | 0.40% | ~398 |
+| Invisible Shadows | 0.40% | ~398 |
+| The Dinner Party | 0.40% | ~398 |
+| The Botched Kidnapping | 0.40% | ~398 |
+| Trollskull Manor | 0.40% | ~398 |
+| Attack on the Manor | 0.40% | ~398 |
+| The Death Curse | 0.40% | ~398 |
+| Premature Betrayal | 0.40% | ~398 |
+| A Tale of Two Cities | 0.40% | ~398 |
+| Flying Monkey Skulls of Doom | 0.40% | ~398 |
+| Close Escort | 0.40% | ~398 |
+| Constant Banditry | 0.40% | ~398 |
+| Overdue Rendezvous | 0.40% | ~398 |
+| Rescue in the Jungle | 0.40% | ~398 |
 | Pros and CONs | 0.30% | ~298 |
 | Tall Tales | 0.30% | ~197 |
 | Third Third Out | 0.30% | ~197 |
@@ -130,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~197 |
 | The Giant's Bane Tavern | 0.30% | ~197 |
 | The Everlasting Rime | 0.30% | ~197 |
-| Close Escort | 0.30% | ~298 |
 | The Long Haul | 0.30% | ~298 |
 | Lost in the Deep | 0.30% | ~298 |
 | Easily Distracted | 0.30% | ~298 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,359 (Ranked 63)  
+Progressed: 99,394 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,359 | 1,971 |
+| 2023-06-20 | 99,394 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

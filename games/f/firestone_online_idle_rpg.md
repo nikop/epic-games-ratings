@@ -5,18 +5,18 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,356 |
-| World Map | 79.00% | ~1,140 |
+| Victor | 94.00% | ~1,357 |
+| World Map | 80.00% | ~1,155 |
 | Temple of Eternals | 57.00% | ~823 |
 | Prestigious | 53.00% | ~765 |
 | Fellowship Power | 41.00% | ~592 |
-| Guild Power | 24.00% | ~346 |
+| Guild Power | 24.00% | ~347 |
 | Prestigious x10 | 21.00% | ~303 |
 | The game is on | 19.00% | ~274 |
 | Exotic Merchant | 17.00% | ~245 |
 | Dragon Clicker | 16.00% | ~231 |
 | Miner Clicker | 16.00% | ~231 |
-| Inspection | 15.00% | ~216 |
+| Inspection | 15.00% | ~217 |
 | Full Party | 14.00% | ~202 |
 | Dragon Master | 13.00% | ~188 |
 | Enlightenment | 13.00% | ~188 |
@@ -24,18 +24,18 @@ Rating: 4.07 (Ranked 894)
 | Lieutenant | 13.00% | ~188 |
 | Mysterious Rock | 12.00% | ~173 |
 | Natural Talent | 12.00% | ~173 |
-| Superior | 12.00% | ~173 |
 | The Unstoppable | 12.00% | ~173 |
 | Milestone collector | 11.00% | ~159 |
+| Superior | 11.00% | ~159 |
 | Scientist | 10.00% | ~144 |
 | The power of Awakening | 9.00% | ~130 |
-| Challenger | 8.00% | ~115 |
-| Daily Quest Completionist | 8.00% | ~115 |
-| Doing My Part | 8.00% | ~115 |
-| Hunter | 8.00% | ~115 |
-| Mastery | 8.00% | ~115 |
-| Relic Of The Past | 8.00% | ~115 |
-| Scroll Master | 8.00% | ~115 |
+| Challenger | 8.00% | ~116 |
+| Daily Quest Completionist | 8.00% | ~116 |
+| Doing My Part | 8.00% | ~116 |
+| Hunter | 8.00% | ~116 |
+| Mastery | 8.00% | ~116 |
+| Relic Of The Past | 8.00% | ~116 |
+| Scroll Master | 8.00% | ~116 |
 | Four Leaf Clover | 7.00% | ~101 |
 | Frostfire Liberator | 7.00% | ~101 |
 | Moving Up The Ladder | 7.00% | ~101 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,443 (Ranked 166)  
+Progressed: 1,444 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-17 | 1,427 | 1 |
 | 2023-06-18 | 1,441 | 1 |
 | 2023-06-19 | 1,442 | 1 |
-| 2023-06-20 | 1,443 | 1 |
+| 2023-06-20 | 1,444 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

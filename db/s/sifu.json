@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4642,10 +4642,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10578,
       "NumberOfAwardsMax": 6189
+    },
+    {
+      "Time": "2023-06-20T07:59:55.5590898+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10579,
+      "NumberOfAwardsMax": 6189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10578,
+  "NumberOfAwards": 10579,
   "NumberOfAwardsMax": 6189,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4659,7 +4665,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 507
+      "Count": 508
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4722,9 +4728,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 709847,
+  "EOS_Progressed": 709850,
   "EOS_Completed": 12778,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10552,6 +10558,11 @@
       "Time": "2023-06-20T07:07:43.8128695+00:00",
       "NumProgressed": 709847,
       "NumCompleted": 12778
+    },
+    {
+      "Time": "2023-06-20T08:07:22.2991466+00:00",
+      "NumProgressed": 709850,
+      "NumCompleted": 12778
     }
   ],
   "TotalAchievements": 50,
@@ -10899,7 +10910,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10907,7 +10918,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -10915,7 +10926,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -10947,7 +10958,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -10962,21 +10973,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19148,
+      "Progressed": 19151,
       "Completed": 10289
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709847,
+      "Progressed": 709850,
       "Completed": 12778
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-19T21:59:07.1159504+00:00",
-  "LastChanged_Achievements": "2023-06-20T07:07:43.8128689+00:00",
+  "LastChanged": "2023-06-20T07:59:55.5590897+00:00",
+  "LastChanged_Achievements": "2023-06-20T08:07:22.2991462+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:00:01.337251+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:07:43.8129629+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:59:55.5590902+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:07:22.2992086+00:00"
 }

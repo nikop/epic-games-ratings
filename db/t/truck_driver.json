@@ -2,7 +2,7 @@
   "ID": "bde5c96f4d5d4a199275f367f2fe4bae",
   "Name": "Truck Driver",
   "ProductSlug": "truck-driver",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 123,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
   "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.93635+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:57:53.5368574+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:04:51.1867227+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:57:54.9843395+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:04:36.056556+00:00"
 }

@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -3307,6 +3307,11 @@
       "Time": "2023-06-20T07:07:42.4015174+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T08:07:21.0782255+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3382,7 +3387,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "conqueror",
@@ -3406,7 +3411,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "doingmypart",
@@ -3414,7 +3419,7 @@
       "Name": "Doing My Part",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "dragonclicker",
@@ -3550,7 +3555,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "herewegoagain",
@@ -3582,7 +3587,7 @@
       "Name": "Hunter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "inspection",
@@ -3590,7 +3595,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "jewelenchanting",
@@ -3638,7 +3643,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "milestonecollector",
@@ -3726,7 +3731,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "sailor",
@@ -3750,7 +3755,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "silverwoodliberator",
@@ -3764,9 +3769,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 159
     },
     {
       "ID": "templeofeternals",
@@ -3878,7 +3883,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "warmachinesarmy",
@@ -3908,16 +3913,16 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1155
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 1
     }
   ],
@@ -3925,8 +3930,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-20T07:07:42.4015169+00:00",
+  "LastChanged_Achievements": "2023-06-20T08:07:21.0782251+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:58:42.3747876+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:07:42.4016147+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:58:38.6889307+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:07:21.0783055+00:00"
 }

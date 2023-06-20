@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55760,
+  "EOS_Progressed": 55761,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5487,6 +5487,11 @@
       "Time": "2023-06-20T07:07:37.6180074+00:00",
       "NumProgressed": 55760,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T08:07:16.3631604+00:00",
+      "NumProgressed": 55761,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5498,7 +5503,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "02",
@@ -5514,7 +5519,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10594
+      "UsersEstimate": 10595
     },
     {
       "ID": "04",
@@ -5538,7 +5543,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "07",
@@ -5834,7 +5839,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "44",
@@ -6033,21 +6038,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55760,
+      "Progressed": 55761,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19228,
+      "Progressed": 19229,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-20T07:07:37.618007+00:00",
+  "LastChanged_Achievements": "2023-06-20T08:07:16.36316+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-20T06:58:17.4858824+00:00",
-  "LastUpdate_Achievements": "2023-06-20T07:07:37.6181341+00:00"
+  "LastUpdate_Ratings": "2023-06-20T07:58:14.4400351+00:00",
+  "LastUpdate_Achievements": "2023-06-20T08:07:16.3632346+00:00"
 }
