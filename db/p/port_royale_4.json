@@ -1362,9 +1362,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH039",
@@ -1466,8 +1466,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:06:07.6441049+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:41.7775778+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9795922+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:58:42.6020648+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:06:07.6441565+00:00"
+  "LastUpdate_Ratings": "2023-06-20T03:59:22.0615198+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:41.7776294+00:00"
 }

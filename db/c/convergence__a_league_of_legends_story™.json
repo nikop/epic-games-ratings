@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2023-06-20T02:10:57.284615+00:00",
       "NumProgressed": 710,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T04:07:06.3476441+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1504,9 +1509,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "FactorywoodChests1",
@@ -1528,9 +1533,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1656,17 +1661,17 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 78
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 78
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1698,7 +1703,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "RewindParry",
@@ -1833,14 +1838,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:05:41.40814+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:06.3476432+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:59:30.4816266+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:05:41.4082+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:00:28.6443533+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:06.3477424+00:00"
 }

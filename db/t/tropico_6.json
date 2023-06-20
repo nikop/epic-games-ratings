@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3731,
+  "EOS_Progressed": 3732,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4729,6 +4729,11 @@
       "Time": "2023-06-20T03:03:28.3295753+00:00",
       "NumProgressed": 3731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T04:03:43.4835089+00:00",
+      "NumProgressed": 3732,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4756,7 +4761,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4764,7 +4769,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4780,7 +4785,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4836,7 +4841,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4860,7 +4865,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4868,7 +4873,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4884,7 +4889,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -5012,7 +5017,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5020,7 +5025,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -5059,15 +5064,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3731,
+      "Progressed": 3732,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:03:28.3295748+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:03:43.4835083+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:00:15.363612+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:03:28.3296308+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:01:33.2316507+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:03:43.4835872+00:00"
 }

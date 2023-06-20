@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13382,
+  "EOS_Progressed": 13383,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -4514,6 +4514,11 @@
       "Time": "2023-06-20T02:11:12.3468446+00:00",
       "NumProgressed": 13382,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-20T04:07:23.5882358+00:00",
+      "NumProgressed": 13383,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4581,7 +4586,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "tpote_achievement_17",
@@ -4629,7 +4634,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "tpote_achievement_22",
@@ -4637,7 +4642,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "tpote_achievement_23",
@@ -4669,7 +4674,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "tpote_achievement_27",
@@ -4789,7 +4794,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5620
+      "UsersEstimate": 5621
     },
     {
       "ID": "tpote_achievement_40",
@@ -4852,15 +4857,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13382,
+      "Progressed": 13383,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:05:53.499879+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:23.5882352+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:00:06.5410759+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:05:53.4999394+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:01:19.2239732+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:23.5883137+00:00"
 }

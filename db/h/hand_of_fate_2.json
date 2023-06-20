@@ -2,12 +2,12 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658172,
+  "EOS_Progressed": 658173,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6470,6 +6470,11 @@
       "Time": "2023-06-20T03:06:03.6677196+00:00",
       "NumProgressed": 658172,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-20T04:07:36.7051216+00:00",
+      "NumProgressed": 658173,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6481,7 +6486,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473884
+      "UsersEstimate": 473885
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6761,7 +6766,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59235
+      "UsersEstimate": 59236
     },
     {
       "ID": "Achievement_37_Champion",
@@ -6864,15 +6869,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658172,
+      "Progressed": 658173,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:06:03.6677191+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:36.7051211+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:57:57.2651689+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:06:03.6677962+00:00"
+  "LastUpdate_Ratings": "2023-06-20T03:58:14.4085697+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:36.7052036+00:00"
 }

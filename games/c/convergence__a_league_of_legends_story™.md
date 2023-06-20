@@ -4,14 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 14.00% | ~99 |
+| Time Heals All Wounds | 14.00% | ~100 |
+| The Mysterious Stranger | 12.00% | ~85 |
 | Rail Rat | 12.00% | ~85 |
 | The Steel Shadow | 11.00% | ~78 |
 | Treasure Trove | 11.00% | ~78 |
-| The Mysterious Stranger | 11.00% | ~78 |
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
 | Time Flies | 11.00% | ~78 |
+| The Harder They Fall | 11.00% | ~78 |
+| No, Thanks! | 11.00% | ~78 |
 | The Wicked Twins | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
@@ -19,8 +21,6 @@
 | The Brass Boss | 11.00% | ~78 |
 | The Betrayer | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
-| The Harder They Fall | 10.00% | ~71 |
-| No, Thanks! | 10.00% | ~71 |
 | Breaking Down Barriers | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
@@ -33,8 +33,8 @@
 | Right On Time | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |
+| Family Memories | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
-| Family Memories | 6.00% | ~43 |
 | Sump Explorer | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710 (Ranked 195)  
+Progressed: 711 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-17 | 704 | 3 |
 | 2023-06-18 | 708 | 3 |
 | 2023-06-19 | 709 | 4 |
-| 2023-06-20 | 710 | 4 |
+| 2023-06-20 | 711 | 4 |

@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224430,
+  "EOS_Progressed": 224434,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
@@ -6413,6 +6413,11 @@
       "Time": "2023-06-20T03:06:02.0228435+00:00",
       "NumProgressed": 224430,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T04:07:34.6085216+00:00",
+      "NumProgressed": 224434,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -6488,7 +6493,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80795
+      "UsersEstimate": 80796
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -6568,7 +6573,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76306
+      "UsersEstimate": 76308
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -6632,7 +6637,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38153
+      "UsersEstimate": 38154
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -6647,7 +6652,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 224430,
+      "Progressed": 224434,
       "Completed": 3
     }
   ],
@@ -6655,8 +6660,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-10T22:59:11.5974265+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:06:02.0228429+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:34.6085207+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.6410747+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:59:54.7902752+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:06:02.0229046+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:01:06.1226638+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:34.6086276+00:00"
 }

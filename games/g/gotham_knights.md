@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 857)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,943 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,628 |
-| Loose Ends | 4.00% | ~2,628 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,629 |
+| Loose Ends | 4.00% | ~2,629 |
 | The Batman Family | 3.00% | ~1,971 |
 | To the Victor Go the Spoils | 3.00% | ~1,971 |
 | Get ReQ'd | 3.00% | ~1,971 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,709 (Ranked 71)  
+Progressed: 65,714 (Ranked 71)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,15 +128,15 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
 | 2023-06-19 | 65,692 | 95 |
-| 2023-06-20 | 65,709 | 95 |
+| 2023-06-20 | 65,714 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,348  (Ranked 97)  
-Sum: 3,888 (Ranked 137)  
+Sum: 3,889 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,348 |
-| This game has Quickly Understood Controls | 200 |
+| This game has Quickly Understood Controls | 201 |
 | This game is Extremely Fun | 200 |
 | This game is Relaxing | 198 |
 | This game has Amazing Characters | 196 |
@@ -267,4 +267,4 @@ Diff (max vs sum): -40
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
 | 2023-06-18 | 4.18 | 2,346 | 3,885 |
 | 2023-06-19 | 4.18 | 2,346 | 3,886 |
-| 2023-06-20 | 4.17 | 2,348 | 3,888 |
+| 2023-06-20 | 4.17 | 2,348 | 3,889 |

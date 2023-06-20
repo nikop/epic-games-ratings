@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55752,
+  "EOS_Progressed": 55756,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5467,6 +5467,11 @@
       "Time": "2023-06-20T03:06:07.5216347+00:00",
       "NumProgressed": 55752,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T04:07:41.7323367+00:00",
+      "NumProgressed": 55756,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5478,7 +5483,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17841
+      "UsersEstimate": 17842
     },
     {
       "ID": "02",
@@ -5486,7 +5491,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11150
+      "UsersEstimate": 11151
     },
     {
       "ID": "03",
@@ -5494,7 +5499,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     },
     {
       "ID": "04",
@@ -5510,7 +5515,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9479
     },
     {
       "ID": "06",
@@ -5526,7 +5531,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "08",
@@ -5534,7 +5539,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "09",
@@ -5646,7 +5651,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "23",
@@ -5686,7 +5691,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "28",
@@ -5694,7 +5699,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "29",
@@ -5726,7 +5731,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13938
+      "UsersEstimate": 13939
     },
     {
       "ID": "33",
@@ -5750,7 +5755,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "36",
@@ -5814,7 +5819,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "44",
@@ -5838,7 +5843,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "47",
@@ -6013,21 +6018,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55752,
+      "Progressed": 55756,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19220,
+      "Progressed": 19224,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:06:07.5216342+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:41.7323361+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:58:00.8026851+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:06:07.5217356+00:00"
+  "LastUpdate_Ratings": "2023-06-20T03:58:18.2630657+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:41.7325144+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.25 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,834 |
-| Copacetic Coordination | 16.00% | ~51,768 |
-| Fronting the Money | 14.00% | ~45,297 |
-| The Dawn of Automation | 14.00% | ~45,297 |
-| Extraordinary Logistics | 14.00% | ~45,297 |
-| Dirty Money | 13.00% | ~42,062 |
-| Family First | 13.00% | ~42,062 |
-| Cleaning House | 12.00% | ~38,826 |
-| Room in the Back | 12.00% | ~38,826 |
+| Corner Clout | 46.00% | ~148,837 |
+| Copacetic Coordination | 16.00% | ~51,769 |
+| Fronting the Money | 14.00% | ~45,298 |
+| The Dawn of Automation | 14.00% | ~45,298 |
+| Extraordinary Logistics | 14.00% | ~45,298 |
+| Dirty Money | 13.00% | ~42,063 |
+| Family First | 13.00% | ~42,063 |
+| Cleaning House | 12.00% | ~38,827 |
+| Room in the Back | 12.00% | ~38,827 |
 | Booze Baron | 11.00% | ~35,591 |
-| Beating the Heat | 10.00% | ~32,355 |
-| Friends on the Force | 10.00% | ~32,355 |
-| Neighborhood Watch | 10.00% | ~32,355 |
-| Core Corps | 8.00% | ~25,884 |
+| Beating the Heat | 10.00% | ~32,356 |
+| Friends on the Force | 10.00% | ~32,356 |
+| Neighborhood Watch | 10.00% | ~32,356 |
+| Core Corps | 8.00% | ~25,885 |
 | Sizeable Stash | 7.00% | ~22,649 |
 | Street Fighter | 7.00% | ~22,649 |
 | Friendly Gestures | 7.00% | ~22,649 |
 | People Person | 7.00% | ~22,649 |
-| Liquor Lord | 6.00% | ~19,413 |
-| Safety in Numbers | 6.00% | ~19,413 |
-| Show ‘em the Sugar | 6.00% | ~19,413 |
+| Liquor Lord | 6.00% | ~19,414 |
+| Safety in Numbers | 6.00% | ~19,414 |
+| Show ‘em the Sugar | 6.00% | ~19,414 |
 | Street Knowledge | 5.00% | ~16,178 |
 | Oh Captain | 5.00% | ~16,178 |
 | Branching Out | 5.00% | ~16,178 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 799)
 | High Pillow | 0.10% | ~324 |
 | Station Master | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,552 (Ranked 40)  
+Progressed: 323,559 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-17 | 322,911 | 5 |
 | 2023-06-18 | 323,249 | 5 |
 | 2023-06-19 | 323,511 | 5 |
-| 2023-06-20 | 323,552 | 5 |
+| 2023-06-20 | 323,559 | 5 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 466)  
 Sum: 94 (Ranked 406)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12927,
-  "EOS_Completed": 269,
+  "EOS_Progressed": 12929,
+  "EOS_Completed": 271,
   "EOS_NewPlayers": 669,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 2.08,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -6549,6 +6549,11 @@
       "Time": "2023-06-20T03:06:00.9195285+00:00",
       "NumProgressed": 12927,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-06-20T04:07:33.1188671+00:00",
+      "NumProgressed": 12929,
+      "NumCompleted": 271
     }
   ],
   "TotalAchievements": 20,
@@ -6584,7 +6589,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -6680,7 +6685,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9825
+      "UsersEstimate": 9826
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6712,22 +6717,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 12927,
-      "Completed": 269
+      "Progressed": 12929,
+      "Completed": 271
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:06:00.9195281+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:33.1188666+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:00:14.4678132+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:06:00.9195843+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:01:32.0105374+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:33.1189284+00:00"
 }

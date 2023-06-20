@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~705,117 |
-| The Blues | 85.00% | ~605,403 |
+| Out of bed | 99.00% | ~705,118 |
+| The Blues | 85.00% | ~605,404 |
 | Fast | 66.00% | ~470,078 |
-| Healthbar | 55.00% | ~391,731 |
+| Healthbar | 55.00% | ~391,732 |
 | Force Cube | 53.00% | ~377,487 |
 | Double Jump | 48.00% | ~341,875 |
-| Regeneration | 47.00% | ~334,752 |
-| Climb the hill | 42.00% | ~299,140 |
-| Triple Jump | 42.00% | ~299,140 |
+| Regeneration | 47.00% | ~334,753 |
+| Climb the hill | 42.00% | ~299,141 |
+| Triple Jump | 42.00% | ~299,141 |
 | Through the fire pipe | 38.00% | ~270,651 |
-| MacGuffin | 37.00% | ~263,528 |
+| MacGuffin | 37.00% | ~263,529 |
 | Just once | 36.00% | ~256,406 |
 | Armor | 30.00% | ~213,672 |
 | True holy spirit | 27.00% | ~192,305 |
@@ -30,8 +30,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Buckle | 17.00% | ~121,081 |
 | Green Keycard | 17.00% | ~121,081 |
 | Rattle Hag | 15.00% | ~106,836 |
-| All Shells | 14.00% | ~99,713 |
-| Beam | 14.00% | ~99,713 |
+| All Shells | 14.00% | ~99,714 |
+| Beam | 14.00% | ~99,714 |
 | 9 | 13.00% | ~92,591 |
 | Purple Cube | 13.00% | ~92,591 |
 | Supraball Noob | 13.00% | ~92,591 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~712 |
 | DLC: Top of the world | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,239 (Ranked 16)  
+Progressed: 712,240 (Ranked 16)  
 Completed: 699 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 699 (0.10%) (Ranked 173)
 | 2023-06-17 | 711,831 | 698 |
 | 2023-06-18 | 712,051 | 698 |
 | 2023-06-19 | 712,211 | 699 |
-| 2023-06-20 | 712,239 | 699 |
+| 2023-06-20 | 712,240 | 699 |
 ## Awards
 Max (Challenging Puzzles): 7,627  (Ranked 42)  
 Sum: 9,927 (Ranked 80)  

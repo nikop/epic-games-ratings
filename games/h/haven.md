@@ -12,11 +12,11 @@ Number of Ratings: 38  (23.09.2022)
 | Hug therapy | 44.00% | ~565 |
 | Over my dead body | 40.00% | ~514 |
 | Shake the rust off their feet | 21.00% | ~270 |
+| My little pony | 20.00% | ~257 |
 | Strike! | 19.00% | ~244 |
-| My little pony | 19.00% | ~244 |
 | A love supreme | 18.00% | ~231 |
 | In my shoes | 17.00% | ~218 |
-| Like new! | 14.00% | ~180 |
+| Like new! | 15.00% | ~193 |
 | Head in the clouds | 14.00% | ~180 |
 | Heartstrings | 13.00% | ~167 |
 | Back to rust | 12.00% | ~154 |
@@ -26,11 +26,11 @@ Number of Ratings: 38  (23.09.2022)
 | Unstoppable | 10.00% | ~128 |
 | Self-sustainability | 8.00% | ~103 |
 | Ain't no mountain high enough | 8.00% | ~103 |
+| Can't get wetter... | 5.00% | ~64 |
 | Spring cleaning | 5.00% | ~64 |
 | An eye for an eye | 5.00% | ~64 |
 | Second thoughts | 4.00% | ~51 |
 | Mooning the moon | 4.00% | ~51 |
-| Can't get wetter... | 4.00% | ~51 |
 | Strip-a-bobble | 4.00% | ~51 |
 | Pearls before Birble | 3.00% | ~39 |
 | Last minute | 3.00% | ~39 |

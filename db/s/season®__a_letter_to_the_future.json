@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -1521,6 +1521,11 @@
       "Time": "2023-06-19T15:07:21.5993196+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-20T04:07:17.8036375+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 16,
@@ -1540,7 +1545,7 @@
       "Name": "Deep Listener",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1588,7 +1593,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1596,7 +1601,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1620,7 +1625,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1659,7 +1664,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1079,
       "Completed": 40
     }
   ],
@@ -1667,8 +1672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-20T03:05:49.3635792+00:00",
+  "LastChanged_Achievements": "2023-06-20T04:07:17.8036368+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:18.0243153+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:58:49.8709397+00:00",
-  "LastUpdate_Achievements": "2023-06-20T03:05:49.3636022+00:00"
+  "LastUpdate_Ratings": "2023-06-20T03:59:33.1154094+00:00",
+  "LastUpdate_Achievements": "2023-06-20T04:07:17.8036714+00:00"
 }
