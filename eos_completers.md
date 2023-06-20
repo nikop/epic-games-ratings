@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 16.52% |
+| 10 | [Island Cities](games/i/island_cities.md) | 16.48% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
@@ -72,7 +72,7 @@
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.07% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.03% |
 | 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.98% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -96,7 +96,7 @@
 | 93 | [Trifox](games/t/trifox.md) | 1.12% |
 | 95 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.11% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.03% |
+| 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
 | 98 | [Sable](games/s/sable.md) | 0.96% |
 | 99 | [Adios](games/a/adios.md) | 0.90% |
 | 100 | [Hades](games/h/hades.md) | 0.89% |
@@ -163,12 +163,12 @@
 | 160 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 160 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 160 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 164 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 164 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
 | 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 164 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
 | 164 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 168 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
-| 168 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 169 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 170 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 171 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
