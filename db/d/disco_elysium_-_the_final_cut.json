@@ -6,9 +6,9 @@
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1145,9 +1145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121961,
+  "EOS_Progressed": 121962,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7055,6 +7055,11 @@
       "Time": "2023-06-20T21:06:51.2854519+00:00",
       "NumProgressed": 121961,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-20T22:06:45.841208+00:00",
+      "NumProgressed": 121962,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7226,7 +7231,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10976
+      "UsersEstimate": 10977
     },
     {
       "ID": "ACH_GLUTEN",
@@ -7385,15 +7390,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121961,
+      "Progressed": 121962,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-20T21:06:51.2854514+00:00",
+  "LastChanged_Achievements": "2023-06-20T22:06:45.8412072+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:59:48.6232431+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:06:51.2855165+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:59:46.7577594+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:06:45.8412732+00:00"
 }

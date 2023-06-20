@@ -32,9 +32,9 @@ Rating: 4.56 (Ranked 454)
 | Who Needs Directions? | 1.00% | ~107 |
 | Swiss Army Strife | 1.00% | ~107 |
 | Assassin | 1.00% | ~107 |
+| Chick Magnet | 1.00% | ~107 |
 | Ain’t Nothing But a G Thing | 1.00% | ~107 |
 | Lucky Spinner | 0.90% | ~97 |
-| Chick Magnet | 0.90% | ~97 |
 | Hoopin' it Up | 0.80% | ~86 |
 | Not a Player | 0.60% | ~64 |
 | Remastered | 0.50% | ~54 |

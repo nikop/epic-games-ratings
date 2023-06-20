@@ -26,7 +26,7 @@
 | Spare Ribs | 49.00% | ~40 |
 | My pants squeak when I walk | 48.00% | ~39 |
 | Thats disgusting! | 46.00% | ~38 |
-| Cockadoodledoo! | 45.00% | ~37 |
+| Cockadoodledoo! | 46.00% | ~38 |
 | Surprise!! | 43.00% | ~35 |
 | Self assessed tax return | 40.00% | ~33 |
 | Make America Grate Again | 37.00% | ~30 |
@@ -48,10 +48,10 @@
 | I cant stand still! | 21.00% | ~17 |
 | Master Butcher | 18.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
-| Slimy... yet satisfying | 16.00% | ~13 |
+| Slimy... yet satisfying | 17.00% | ~14 |
 | Yeehaw!!! | 15.00% | ~12 |
+| Deal with it | 15.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~11 |
-| Deal with it | 13.00% | ~11 |
 | You're looking mozzare-hella good! | 11.00% | ~9 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~8 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |

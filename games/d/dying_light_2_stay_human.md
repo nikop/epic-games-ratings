@@ -6,16 +6,16 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,868 |
-| Into the Unknown | 10.00% | ~58,061 |
-| First Shot | 10.00% | ~58,061 |
-| Herzlich Wilkommen! | 9.00% | ~52,255 |
-| Good Night & Good Luck | 9.00% | ~52,255 |
-| Sancho Panza | 8.00% | ~46,449 |
-| Under Pressure | 7.00% | ~40,643 |
-| Flag Burning | 7.00% | ~40,643 |
-| Oh, So This Is How It Works! | 7.00% | ~40,643 |
-| Night Hunter | 7.00% | ~40,643 |
+| You Never Forget Your First... | 11.00% | ~63,869 |
+| Into the Unknown | 10.00% | ~58,062 |
+| First Shot | 10.00% | ~58,062 |
+| Herzlich Wilkommen! | 9.00% | ~52,256 |
+| Good Night & Good Luck | 9.00% | ~52,256 |
+| Sancho Panza | 8.00% | ~46,450 |
+| Under Pressure | 7.00% | ~40,644 |
+| Flag Burning | 7.00% | ~40,644 |
+| Oh, So This Is How It Works! | 7.00% | ~40,644 |
+| Night Hunter | 7.00% | ~40,644 |
 | On the Trail of the Enemy | 6.00% | ~34,837 |
 | Light in the Darkness | 6.00% | ~34,837 |
 | Get Outta My House! | 6.00% | ~34,837 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,225 |
 | Terminal Headache | 4.00% | ~23,225 |
 | Slowpoke! | 4.00% | ~23,225 |
-| You're Going Down! | 3.00% | ~17,418 |
+| You're Going Down! | 3.00% | ~17,419 |
 | Tickets, Please! | 2.00% | ~11,612 |
 | Parkour Master | 2.00% | ~11,612 |
 | Combat Master | 2.00% | ~11,612 |
@@ -52,7 +52,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.80% | ~4,645 |
 | Boot Licker | 0.80% | ~4,645 |
 | Who Wants To Be a... | 0.80% | ~4,645 |
-| Night of Terrors | 0.80% | ~1,808 |
+| Night of Terrors | 0.80% | ~1,809 |
 | Get the Point? | 0.70% | ~4,064 |
 | My Friend, Ciro | 0.70% | ~1,582 |
 | Skullcrusher | 0.70% | ~1,582 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,614 (Ranked 26)  
+Progressed: 580,624 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
-| 2023-06-20 | 580,614 | 57 |
+| 2023-06-20 | 580,624 | 57 |
 ## Awards
 Max (Character Customization): 7,913  (Ranked 40)  
 Sum: 18,357 (Ranked 56)  

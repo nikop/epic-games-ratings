@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6751,
+  "EOS_Progressed": 6753,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
@@ -4583,6 +4583,11 @@
       "Time": "2023-06-20T21:04:27.4625205+00:00",
       "NumProgressed": 6751,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-20T22:04:33.0806554+00:00",
+      "NumProgressed": 6753,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4594,7 +4599,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5605
     },
     {
       "ID": "ACH02",
@@ -4618,7 +4623,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "ACH05",
@@ -4714,7 +4719,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "ACH17",
@@ -4825,7 +4830,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6751,
+      "Progressed": 6753,
       "Completed": 38
     }
   ],
@@ -4833,8 +4838,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-20T05:57:51.6375902+00:00",
-  "LastChanged_Achievements": "2023-06-20T21:04:27.4625199+00:00",
+  "LastChanged_Achievements": "2023-06-20T22:04:33.0806548+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:58:24.0757295+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:04:27.4625688+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:58:25.2481898+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:04:33.0807053+00:00"
 }

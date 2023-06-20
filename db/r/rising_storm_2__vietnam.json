@@ -4,11 +4,11 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 548,
   "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -3829,10 +3829,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 6394,
       "NumberOfAwardsMax": 700
+    },
+    {
+      "Time": "2023-06-20T22:00:28.5219722+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 6403,
+      "NumberOfAwardsMax": 700
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6394,
+  "NumberOfAwards": 6403,
   "NumberOfAwardsMax": 700,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3846,7 +3852,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 687
+      "Count": 692
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3864,7 +3870,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 614
+      "Count": 615
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3882,7 +3888,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 561
+      "Count": 564
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3920,8 +3926,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-06-20T20:00:35.8424854+00:00",
+  "LastChanged": "2023-06-20T22:00:28.5219721+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:14.9724571+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:00:31.9596388+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:04:20.2620636+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:00:28.5219727+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:04:25.9979231+00:00"
 }

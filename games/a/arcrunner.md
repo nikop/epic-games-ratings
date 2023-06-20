@@ -5,8 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 0.40% | ~2 |
-| Nanonic I | 0.20% | ~1 |
-| Unlocked and Loaded | 0.20% | ~1 |
+| Nanonic I | 0.40% | ~2 |
+| Terminated I | 0.40% | ~2 |
+| Unlocked and Loaded | 0.40% | ~2 |
 | Up Close And Personal | 0.20% | ~1 |
 | The Bigger They Are | 0.00% | ~0 |
 | Challenge Accepted | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Ripperdoc | 0.00% | ~0 |
 | Rookie | 0.00% | ~0 |
 | Supply Run | 0.00% | ~0 |
-| Terminated I | 0.00% | ~0 |
 | Terminated II | 0.00% | ~0 |
 | Terminated III | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |

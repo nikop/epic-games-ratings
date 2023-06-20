@@ -6,9 +6,9 @@ Rating: 4.31 (Ranked 767)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~948 |
+| A new Journey | 72.00% | ~935 |
+| From X to Y | 71.00% | ~922 |
 | Departure | 71.00% | ~922 |
-| A new Journey | 71.00% | ~922 |
-| From X to Y | 70.00% | ~909 |
 | Way of Iron | 69.00% | ~896 |
 | Mystery Tour | 67.00% | ~870 |
 | Brainstorm | 65.00% | ~844 |
@@ -19,19 +19,19 @@ Rating: 4.31 (Ranked 767)
 | Right through the middle | 56.00% | ~727 |
 | Facility Manager | 52.00% | ~675 |
 | Poor Devil | 52.00% | ~675 |
-| Producer | 49.00% | ~636 |
-| Apprentice | 42.00% | ~545 |
-| Bridge Builder | 40.00% | ~519 |
-| Access granted | 35.00% | ~454 |
-| Stoker | 33.00% | ~428 |
-| Going once, going twice, sold | 33.00% | ~428 |
-| Full Steam ahead | 31.00% | ~402 |
-| Bull and bear | 30.00% | ~389 |
-| All mine | 27.00% | ~350 |
-| Mole | 27.00% | ~350 |
-| Financial Shark | 27.00% | ~350 |
-| Country Life | 25.00% | ~324 |
-| Socializer | 25.00% | ~324 |
+| Producer | 49.00% | ~637 |
+| Apprentice | 42.00% | ~546 |
+| Bridge Builder | 40.00% | ~520 |
+| Access granted | 35.00% | ~455 |
+| Stoker | 33.00% | ~429 |
+| Going once, going twice, sold | 33.00% | ~429 |
+| Full Steam ahead | 30.00% | ~390 |
+| Bull and bear | 30.00% | ~390 |
+| All mine | 27.00% | ~351 |
+| Mole | 27.00% | ~351 |
+| Financial Shark | 27.00% | ~351 |
+| Country Life | 25.00% | ~325 |
+| Socializer | 25.00% | ~325 |
 | General Manager | 24.00% | ~312 |
 | Hostile Takeover | 23.00% | ~299 |
 | Seven at one stroke | 22.00% | ~286 |
@@ -61,7 +61,7 @@ Rating: 4.31 (Ranked 767)
 | Three Cheers for Progress | 0.20% | ~3 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,298 (Ranked 169)  
+Progressed: 1,299 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 1,250 | 0 |
 | 2023-06-18 | 1,267 | 0 |
 | 2023-06-19 | 1,287 | 0 |
-| 2023-06-20 | 1,298 | 0 |
+| 2023-06-20 | 1,299 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

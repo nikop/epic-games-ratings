@@ -11,9 +11,9 @@
 | Crab Cakes | 47.00% | ~24 |
 | Personally Punched | 27.00% | ~14 |
 | Flight of the Raven | 25.00% | ~13 |
-| Drop In | 20.00% | ~10 |
+| Drop In | 22.00% | ~11 |
 | The Last Bullet | 18.00% | ~9 |
-| Champion of Light | 12.00% | ~6 |
+| Champion of Light | 14.00% | ~7 |
 | Betrayed | 10.00% | ~5 |
 | Parting Gift | 10.00% | ~5 |
 | Skullector | 6.00% | ~3 |

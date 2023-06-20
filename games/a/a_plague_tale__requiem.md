@@ -13,7 +13,7 @@ Rating: 4.73 (Ranked 155)
 | In our Wake | 66.00% | ~7,766 |
 | Leaving all Behind | 63.00% | ~7,413 |
 | Felons | 60.00% | ~7,060 |
-| A Sea of Promises | 58.00% | ~6,825 |
+| A Sea of Promises | 59.00% | ~6,943 |
 | Tales and Revelations | 55.00% | ~6,472 |
 | Bloodline | 50.00% | ~5,884 |
 | The Cradle of Centuries | 46.00% | ~5,413 |

@@ -15,7 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | No Harm in Looking | 0.70% | ~156 |
 | King and Kin | 0.60% | ~134 |
 | Progenitor and Protégé | 0.60% | ~134 |
-| Prequel to the Sequel | 0.50% | ~112 |
+| Prequel to the Sequel | 0.60% | ~134 |
 | Truly Blessed | 0.30% | ~67 |
 | Pillow Investments | 0.30% | ~67 |
 | Looks Familiar | 0.30% | ~67 |

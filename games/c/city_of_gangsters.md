@@ -5,27 +5,27 @@ Rating: 4.25 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,925 |
-| Copacetic Coordination | 16.00% | ~51,800 |
-| Fronting the Money | 14.00% | ~45,325 |
-| The Dawn of Automation | 14.00% | ~45,325 |
-| Extraordinary Logistics | 14.00% | ~45,325 |
-| Dirty Money | 13.00% | ~42,088 |
-| Family First | 13.00% | ~42,088 |
-| Cleaning House | 12.00% | ~38,850 |
-| Room in the Back | 12.00% | ~38,850 |
-| Booze Baron | 11.00% | ~35,613 |
-| Beating the Heat | 10.00% | ~32,375 |
-| Friends on the Force | 10.00% | ~32,375 |
-| Neighborhood Watch | 10.00% | ~32,375 |
-| Core Corps | 8.00% | ~25,900 |
+| Corner Clout | 46.00% | ~148,930 |
+| Copacetic Coordination | 16.00% | ~51,802 |
+| Fronting the Money | 14.00% | ~45,327 |
+| The Dawn of Automation | 14.00% | ~45,327 |
+| Extraordinary Logistics | 14.00% | ~45,327 |
+| Dirty Money | 13.00% | ~42,089 |
+| Family First | 13.00% | ~42,089 |
+| Cleaning House | 12.00% | ~38,851 |
+| Room in the Back | 12.00% | ~38,851 |
+| Booze Baron | 11.00% | ~35,614 |
+| Beating the Heat | 10.00% | ~32,376 |
+| Friends on the Force | 10.00% | ~32,376 |
+| Neighborhood Watch | 10.00% | ~32,376 |
+| Core Corps | 8.00% | ~25,901 |
 | Sizeable Stash | 7.00% | ~22,663 |
 | Street Fighter | 7.00% | ~22,663 |
 | Friendly Gestures | 7.00% | ~22,663 |
 | People Person | 7.00% | ~22,663 |
-| Liquor Lord | 6.00% | ~19,425 |
-| Safety in Numbers | 6.00% | ~19,425 |
-| Show ‘em the Sugar | 6.00% | ~19,425 |
+| Liquor Lord | 6.00% | ~19,426 |
+| Safety in Numbers | 6.00% | ~19,426 |
+| Show ‘em the Sugar | 6.00% | ~19,426 |
 | Street Knowledge | 5.00% | ~16,188 |
 | Oh Captain | 5.00% | ~16,188 |
 | Branching Out | 5.00% | ~16,188 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 799)
 | High Pillow | 0.10% | ~324 |
 | Station Master | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,751 (Ranked 40)  
+Progressed: 323,761 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-17 | 322,911 | 5 |
 | 2023-06-18 | 323,249 | 5 |
 | 2023-06-19 | 323,511 | 5 |
-| 2023-06-20 | 323,751 | 5 |
+| 2023-06-20 | 323,761 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 461)  
 Sum: 95 (Ranked 407)  

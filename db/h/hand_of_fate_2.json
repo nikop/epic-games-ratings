@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658214,
+  "EOS_Progressed": 658215,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6545,6 +6545,11 @@
       "Time": "2023-06-20T21:06:50.4623607+00:00",
       "NumProgressed": 658214,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-20T22:06:45.1095358+00:00",
+      "NumProgressed": 658215,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6556,7 +6561,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473914
+      "UsersEstimate": 473915
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6564,7 +6569,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381764
+      "UsersEstimate": 381765
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6620,7 +6625,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65821
+      "UsersEstimate": 65822
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -6652,7 +6657,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65821
+      "UsersEstimate": 65822
     },
     {
       "ID": "Achievement_14_Magician",
@@ -6708,7 +6713,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111896
+      "UsersEstimate": 111897
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -6756,7 +6761,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4608
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -6939,15 +6944,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658214,
+      "Progressed": 658215,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-20T21:06:50.4623602+00:00",
+  "LastChanged_Achievements": "2023-06-20T22:06:45.1095352+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:58:05.5202368+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:06:50.4624418+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:58:03.4847399+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:06:45.1096058+00:00"
 }

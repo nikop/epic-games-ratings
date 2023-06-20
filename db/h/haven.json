@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -988,6 +988,11 @@
       "Time": "2023-06-20T17:07:41.4796698+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-20T22:06:44.8889728+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -999,7 +1004,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "10",
@@ -1007,7 +1012,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "11",
@@ -1031,7 +1036,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "14",
@@ -1063,7 +1068,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "18",
@@ -1127,7 +1132,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "25",
@@ -1159,7 +1164,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "30",
@@ -1207,7 +1212,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "7",
@@ -1238,15 +1243,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1286,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-20T21:06:50.4160288+00:00",
+  "LastChanged_Achievements": "2023-06-20T22:06:44.888972+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:07.3462167+00:00",
-  "LastUpdate_Ratings": "2023-06-20T21:00:18.5066689+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:06:50.4160605+00:00"
+  "LastUpdate_Ratings": "2023-06-20T22:00:15.5183651+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:06:44.8889985+00:00"
 }

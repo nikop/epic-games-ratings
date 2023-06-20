@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2702,
+  "EOS_Progressed": 2703,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3002,6 +3002,11 @@
       "Time": "2023-06-20T21:02:19.5212286+00:00",
       "NumProgressed": 2702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T22:03:06.4817503+00:00",
+      "NumProgressed": 2703,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3101,7 +3106,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_BASE_22",
@@ -3468,13 +3473,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 883,
+      "Progressed": 884,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2702,
+      "Progressed": 2703,
       "Completed": 0
     }
   ],
@@ -3482,8 +3487,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-20T21:02:19.521228+00:00",
+  "LastChanged_Achievements": "2023-06-20T22:03:06.4817496+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-20T20:59:06.5176726+00:00",
-  "LastUpdate_Achievements": "2023-06-20T21:02:19.5213112+00:00"
+  "LastUpdate_Ratings": "2023-06-20T21:59:03.1007487+00:00",
+  "LastUpdate_Achievements": "2023-06-20T22:03:06.4818236+00:00"
 }

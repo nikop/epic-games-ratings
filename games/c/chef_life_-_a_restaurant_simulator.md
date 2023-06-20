@@ -15,8 +15,8 @@
 | Italian Style | 7.00% | ~29 |
 | Sous-Chef | 6.00% | ~25 |
 | Well-Stocked Kitchen | 5.00% | ~20 |
+| Culinary Arts | 4.00% | ~16 |
 | Perfectionist | 4.00% | ~16 |
-| Culinary Arts | 3.00% | ~12 |
 | Rolling in Dough | 3.00% | ~12 |
 | Leaning Tower of Pizza | 3.00% | ~12 |
 | Chef, Yes Chef! | 0.50% | ~2 |
