@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~91,125 |
-| Incurious | 14.00% | ~85,050 |
-| Stroller | 13.00% | ~78,975 |
-| Climate Change | 13.00% | ~78,975 |
-| Toy Train | 11.00% | ~66,825 |
-| Hiker | 10.00% | ~60,750 |
-| Advanced Hiker | 10.00% | ~60,750 |
+| Advanced Stroller | 15.00% | ~91,127 |
+| Incurious | 14.00% | ~85,052 |
+| Stroller | 13.00% | ~78,977 |
+| Climate Change | 13.00% | ~78,977 |
+| Toy Train | 11.00% | ~66,826 |
+| Hiker | 10.00% | ~60,751 |
+| Advanced Hiker | 10.00% | ~60,751 |
 | Mojave Courier | 4.00% | ~24,300 |
 | Voyager | 3.00% | ~18,225 |
 | Advanced Voyager | 3.00% | ~18,225 |
@@ -29,12 +29,12 @@ Number of Ratings: 21,990  (23.09.2022)
 | Shopaholic | 0.50% | ~3,038 |
 | Terminal Station | 0.40% | ~2,430 |
 | Dynamite Fishing | 0.40% | ~2,430 |
-| Wayfarer | 0.30% | ~1,822 |
-| Advanced Wayfarer | 0.30% | ~1,822 |
-| Trans-Siberian Railway | 0.30% | ~1,822 |
-| Scrooge | 0.30% | ~1,822 |
-| Snowman's Land | 0.30% | ~1,822 |
-| Tough Nut! | 0.30% | ~1,822 |
+| Wayfarer | 0.30% | ~1,823 |
+| Advanced Wayfarer | 0.30% | ~1,823 |
+| Trans-Siberian Railway | 0.30% | ~1,823 |
+| Scrooge | 0.30% | ~1,823 |
+| Snowman's Land | 0.30% | ~1,823 |
+| Tough Nut! | 0.30% | ~1,823 |
 | Engineer | 0.20% | ~1,215 |
 | Satan's Minion | 0.20% | ~1,215 |
 | Explorer | 0.10% | ~608 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~608 |
 | 20 Miles under the Sea | 0.10% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,500 (Ranked 23)  
+Progressed: 607,512 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 7 (0.00%) (Ranked 227)
 | 2023-06-17 | 606,494 | 7 |
 | 2023-06-18 | 607,062 | 7 |
 | 2023-06-19 | 607,500 | 7 |
+| 2023-06-20 | 607,512 | 7 |
 ## Awards
 Max (Diverse Characters): 189  (Ranked 270)  
 Sum: 1,523 (Ranked 214)  

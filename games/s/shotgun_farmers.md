@@ -34,7 +34,7 @@
 | Pork Chop Express | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Quadsparagus | 8.00% | ~6 |
-| Fresh Pancake | 6.00% | ~8 |
+| Fresh Pancake | 7.00% | ~9 |
 | Getting Started | 5.00% | ~6 |
 | Master Survivor | 5.00% | ~4 |
 | Bring Home The Bacon | 4.00% | ~5 |

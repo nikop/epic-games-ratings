@@ -692,9 +692,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15464,
+  "EOS_Progressed": 15466,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4372,6 +4372,11 @@
       "Time": "2023-06-19T23:06:56.6109475+00:00",
       "NumProgressed": 15464,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T00:04:24.2984142+00:00",
+      "NumProgressed": 15466,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4413,9 +4418,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2629
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4527,7 +4532,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4559,7 +4564,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "SHARE_PHOTO",
@@ -4583,7 +4588,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "STORY_HABITAT",
@@ -4599,7 +4604,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "STORY_MINETOWN",
@@ -4623,7 +4628,7 @@
       "Name": "Crash Site",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "STORY_TOWER",
@@ -4702,13 +4707,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15464,
+      "Progressed": 15466,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3390,
+      "Progressed": 3392,
       "Completed": 29
     }
   ],
@@ -4716,8 +4721,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-19T18:58:24.1620415+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:06:56.6109471+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:04:24.2984138+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:31.9999865+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:06:56.6109889+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:57:58.7237144+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:04:24.2984579+00:00"
 }

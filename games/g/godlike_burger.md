@@ -17,8 +17,8 @@ Rating: 4.25 (Ranked 799)
 | RAMBO | 22.00% | ~77 |
 | INDIVIDUAL APPROACH | 20.00% | ~70 |
 | MARTYR | 20.00% | ~70 |
+| CELEBRITY | 18.00% | ~63 |
 | HELL'S KITCHEN | 18.00% | ~63 |
-| CELEBRITY | 17.00% | ~60 |
 | GRATITUDE | 17.00% | ~60 |
 | LAW-ABIDING CITIZEN | 11.00% | ~39 |
 | PRUDENT | 11.00% | ~39 |

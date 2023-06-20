@@ -5897,10 +5897,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18292,
       "NumberOfAwardsMax": 7890
+    },
+    {
+      "Time": "2023-06-19T23:59:50.3811952+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18295,
+      "NumberOfAwardsMax": 7890
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18292,
+  "NumberOfAwards": 18295,
   "NumberOfAwardsMax": 7890,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5926,7 +5932,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 673
+      "Count": 676
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5977,9 +5983,9 @@
       "Count": 505
     }
   ],
-  "EOS_Progressed": 580196,
+  "EOS_Progressed": 580206,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 5033,
+  "EOS_NewPlayers": 5043,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12387,6 +12393,11 @@
       "Time": "2023-06-19T23:08:36.4308675+00:00",
       "NumProgressed": 580196,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-20T00:06:04.5555088+00:00",
+      "NumProgressed": 580206,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 65,
@@ -12398,7 +12409,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58020
+      "UsersEstimate": 58021
     },
     {
       "ID": "achievement_02",
@@ -12406,7 +12417,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58020
+      "UsersEstimate": 58021
     },
     {
       "ID": "achievement_03",
@@ -12414,7 +12425,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52218
+      "UsersEstimate": 52219
     },
     {
       "ID": "achievement_04",
@@ -12606,7 +12617,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63822
+      "UsersEstimate": 63823
     },
     {
       "ID": "achievement_28",
@@ -12686,7 +12697,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52218
+      "UsersEstimate": 52219
     },
     {
       "ID": "achievement_38",
@@ -12878,7 +12889,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "achievement_62",
@@ -12886,7 +12897,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "achievement_63",
@@ -12917,21 +12928,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 580196,
+      "Progressed": 580206,
       "Completed": 57
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 225640,
+      "Progressed": 225650,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-06-19T21:59:52.7249298+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:36.4308672+00:00",
+  "LastChanged": "2023-06-19T23:59:50.3811951+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:06:04.5555083+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:02:19.8648651+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:36.4309489+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:59:50.3811956+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:06:04.5555913+00:00"
 }

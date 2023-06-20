@@ -1219,9 +1219,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 178583,
+  "EOS_Progressed": 178586,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 2034,
+  "EOS_NewPlayers": 2037,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7629,6 +7629,11 @@
       "Time": "2023-06-19T23:08:26.2835883+00:00",
       "NumProgressed": 178583,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-20T00:05:54.097001+00:00",
+      "NumProgressed": 178586,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 44,
@@ -7704,7 +7709,7 @@
       "Name": "Gear up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "Genin",
@@ -7712,7 +7717,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "HappyLittleAccidents",
@@ -7720,7 +7725,7 @@
       "Name": "Happy little accidents",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "HappyPlanning",
@@ -7808,7 +7813,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "Okkoto",
@@ -7872,7 +7877,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "Stoned",
@@ -7880,7 +7885,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "StonedOx",
@@ -7904,7 +7909,7 @@
       "Name": "The Cave",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "TheEnd",
@@ -7928,7 +7933,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16072
+      "UsersEstimate": 16073
     },
     {
       "ID": "TimeParadox",
@@ -7991,15 +7996,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 178583,
+      "Progressed": 178586,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-19T06:59:38.5609695+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:26.2835873+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:54.0970005+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.3465438+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:01:30.246758+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:26.2836442+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:59:01.7703966+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:54.0970567+00:00"
 }

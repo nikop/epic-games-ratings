@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3032,
+  "EOS_Progressed": 3033,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4008,6 +4008,11 @@
       "Time": "2023-06-19T20:06:01.8214123+00:00",
       "NumProgressed": 3032,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-20T00:05:57.7748873+00:00",
+      "NumProgressed": 3033,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -4081,9 +4086,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 364
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4099,7 +4104,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4227,7 +4232,7 @@
       "Name": "Lord of War",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4355,7 +4360,7 @@
       "Name": "Change the Channel",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4586,13 +4591,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3032,
+      "Progressed": 3033,
       "Completed": 2
     }
   ],
@@ -4600,8 +4605,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-19T13:09:16.3523897+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:29.7642596+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:57.7748869+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:02:57.8159011+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:29.7643259+00:00"
+  "LastUpdate_Ratings": "2023-06-20T00:00:24.1737101+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:57.7749606+00:00"
 }

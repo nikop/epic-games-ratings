@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2379,
+  "EOS_Progressed": 2380,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2703,6 +2703,11 @@
       "Time": "2023-06-19T09:06:47.3010193+00:00",
       "NumProgressed": 2379,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-20T00:05:55.7315565+00:00",
+      "NumProgressed": 2380,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2730,7 +2735,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -2762,7 +2767,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2778,7 +2783,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2890,7 +2895,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2898,7 +2903,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2930,7 +2935,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2954,7 +2959,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2962,7 +2967,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3018,7 +3023,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3058,7 +3063,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3137,7 +3142,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2379,
+      "Progressed": 2380,
       "Completed": 2
     }
   ],
@@ -3145,8 +3150,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:27.7091103+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:55.7315561+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:14.5576796+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:27.7091548+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:57:42.9380076+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:55.7316033+00:00"
 }

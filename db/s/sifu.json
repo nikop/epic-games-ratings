@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4722,9 +4722,9 @@
       "Count": 357
     }
   ],
-  "EOS_Progressed": 709833,
+  "EOS_Progressed": 709834,
   "EOS_Completed": 12778,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10522,6 +10522,11 @@
       "Time": "2023-06-19T23:08:31.6721404+00:00",
       "NumProgressed": 709833,
       "NumCompleted": 12778
+    },
+    {
+      "Time": "2023-06-20T00:05:59.5733532+00:00",
+      "NumProgressed": 709834,
+      "NumCompleted": 12778
     }
   ],
   "TotalAchievements": 50,
@@ -10621,7 +10626,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "13_LowAge",
@@ -10653,7 +10658,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "17_Detective_H3",
@@ -10661,7 +10666,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "18_Detective_H4",
@@ -10669,7 +10674,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "19_Detective_H5",
@@ -10805,7 +10810,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -10829,7 +10834,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -10861,7 +10866,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -10932,21 +10937,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19134,
+      "Progressed": 19135,
       "Completed": 10289
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709833,
+      "Progressed": 709834,
       "Completed": 12778
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-19T21:59:07.1159504+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:31.6721399+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:59.5733527+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:01:29.9655951+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:31.6721976+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:59:01.5046507+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:59.5734123+00:00"
 }

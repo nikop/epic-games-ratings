@@ -3960,9 +3960,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 280750,
+  "EOS_Progressed": 280753,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1702,
+  "EOS_NewPlayers": 1705,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10260,6 +10260,11 @@
       "Time": "2023-06-19T23:07:25.0634816+00:00",
       "NumProgressed": 280750,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-20T00:04:52.6594023+00:00",
+      "NumProgressed": 280753,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10359,7 +10364,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_20",
@@ -10423,7 +10428,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_28",
@@ -10471,7 +10476,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_33",
@@ -10479,7 +10484,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "PFA_34",
@@ -10519,7 +10524,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_39",
@@ -10535,7 +10540,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_40",
@@ -10551,7 +10556,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8422
+      "UsersEstimate": 8423
     },
     {
       "ID": "PFA_42",
@@ -10630,7 +10635,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280750,
+      "Progressed": 280753,
       "Completed": 408
     }
   ],
@@ -10638,8 +10643,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-19T21:57:37.3440086+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:07:25.0634812+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:04:52.6594017+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:03.6565684+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:07:25.0636364+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:57:30.9266731+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:04:52.659462+00:00"
 }

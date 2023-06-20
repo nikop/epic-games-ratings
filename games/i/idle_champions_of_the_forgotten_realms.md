@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,933 |
-| The Cursed Farmer | 3.00% | ~2,971 |
-| Beast Intentions | 2.00% | ~1,981 |
-| The Ring of Regeneration | 2.00% | ~1,981 |
-| The Mad Wizard | 2.00% | ~1,981 |
-| Were-verpowered | 1.00% | ~990 |
-| Seeking Allies | 1.00% | ~990 |
-| Are Ya Chicken? | 1.00% | ~990 |
-| Friendly Imps | 1.00% | ~990 |
-| Mad Cow Disease | 0.90% | ~891 |
+| A Brief Tour of the Realms | 7.00% | ~6,936 |
+| The Cursed Farmer | 3.00% | ~2,973 |
+| Beast Intentions | 2.00% | ~1,982 |
+| The Ring of Regeneration | 2.00% | ~1,982 |
+| The Mad Wizard | 2.00% | ~1,982 |
+| Were-verpowered | 1.00% | ~991 |
+| Seeking Allies | 1.00% | ~991 |
+| Are Ya Chicken? | 1.00% | ~991 |
+| Friendly Imps | 1.00% | ~991 |
+| Mad Cow Disease | 0.90% | ~892 |
 | The Court of Storms | 0.90% | ~588 |
-| A Persistent Buzzing | 0.80% | ~792 |
-| Pure Energy | 0.80% | ~792 |
-| Terror in the Dark | 0.70% | ~693 |
-| A Mysterious Summons | 0.70% | ~693 |
-| Unearthed Evil | 0.70% | ~693 |
-| The Crumbling Temple | 0.70% | ~693 |
-| Exploring Port Nyanzaru | 0.70% | ~693 |
-| Beware the Jabberwock | 0.70% | ~457 |
-| Maddening | 0.60% | ~594 |
-| Beast Mode | 0.60% | ~594 |
-| Building Trust | 0.60% | ~594 |
-| Useless Allies | 0.60% | ~594 |
-| The Contagious Curse | 0.60% | ~594 |
-| Escort to Waterdeep | 0.60% | ~594 |
+| A Persistent Buzzing | 0.80% | ~793 |
+| Pure Energy | 0.80% | ~793 |
+| Terror in the Dark | 0.70% | ~694 |
+| A Mysterious Summons | 0.70% | ~694 |
+| Unearthed Evil | 0.70% | ~694 |
+| The Crumbling Temple | 0.70% | ~694 |
+| Exploring Port Nyanzaru | 0.70% | ~694 |
+| Beware the Jabberwock | 0.70% | ~458 |
+| Maddening | 0.60% | ~595 |
+| Beast Mode | 0.60% | ~595 |
+| Building Trust | 0.60% | ~595 |
+| Useless Allies | 0.60% | ~595 |
+| The Contagious Curse | 0.60% | ~595 |
+| Escort to Waterdeep | 0.60% | ~595 |
 | Coasting to the Finish | 0.60% | ~392 |
 | Checkmate | 0.50% | ~327 |
 | Vecna Out! | 0.50% | ~327 |
@@ -68,11 +68,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.30% | ~297 |
 | Hatchlings Underfoot | 0.30% | ~297 |
 | Vecna Lives! | 0.30% | ~196 |
+| Return to the Tomb | 0.30% | ~196 |
 | Keep Your Distance | 0.30% | ~196 |
 | Hands Off! | 0.30% | ~196 |
 | The Dread Domain of Tovag | 0.30% | ~196 |
 | The Castle of a Thousand Vecnas | 0.30% | ~196 |
 | The Sanctum of the Sword | 0.30% | ~196 |
+| Kas the Bloody Handed | 0.30% | ~196 |
 | Get Back In The Castle | 0.30% | ~196 |
 | Bully for Vecna | 0.30% | ~196 |
 | Homecoming | 0.30% | ~297 |
@@ -197,13 +199,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.20% | ~131 |
 | Friends of the Forest | 0.20% | ~198 |
 | More Than Well Equipped | 0.20% | ~131 |
-| Return to the Tomb | 0.20% | ~131 |
 | Arcane Efforts | 0.20% | ~131 |
 | Heatwave | 0.20% | ~131 |
 | To Avernus in a Handbasket | 0.20% | ~131 |
 | Weak Doesn't Mean Feeble | 0.20% | ~131 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~131 |
-| Kas the Bloody Handed | 0.20% | ~131 |
 | Kas the Destroyer | 0.20% | ~131 |
 | Who Lurks Below? | 0.20% | ~131 |
 | Clowning Around | 0.20% | ~131 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,036 (Ranked 63)  
+Progressed: 99,090 (Ranked 63)  
 Completed: 1,969 (1.99%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,6 +561,7 @@ Completed: 1,969 (1.99%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
+| 2023-06-20 | 99,090 | 1,969 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

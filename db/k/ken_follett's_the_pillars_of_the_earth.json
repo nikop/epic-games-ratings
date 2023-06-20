@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13378,
+  "EOS_Progressed": 13380,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4504,6 +4504,11 @@
       "Time": "2023-06-19T23:08:12.6811853+00:00",
       "NumProgressed": 13378,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-20T00:05:40.4047267+00:00",
+      "NumProgressed": 13380,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4579,7 +4584,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "tpote_achievement_18",
@@ -4619,7 +4624,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "tpote_achievement_22",
@@ -4779,7 +4784,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "tpote_achievement_40",
@@ -4803,7 +4808,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "tpote_achievement_6",
@@ -4819,7 +4824,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "tpote_achievement_8",
@@ -4827,7 +4832,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "tpote_achievement_9",
@@ -4835,22 +4840,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13378,
+      "Progressed": 13380,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:12.6811848+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:40.4047264+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:02:24.9788219+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:12.6812295+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:59:55.4162571+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:40.4047698+00:00"
 }

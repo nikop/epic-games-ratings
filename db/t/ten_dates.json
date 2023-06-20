@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -368,6 +368,11 @@
       "Time": "2023-06-17T21:06:34.1066306+00:00",
       "NumProgressed": 257,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T00:05:36.4131005+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -419,7 +424,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ryan_date2_all",
@@ -465,9 +470,9 @@
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "success_hazel",
@@ -475,7 +480,7 @@
       "Name": "The individualist",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "success_jake",
@@ -483,7 +488,7 @@
       "Name": "The nice guy",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "success_kathleen",
@@ -505,9 +510,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "success_ty",
@@ -530,7 +535,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 3
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:08.9553364+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:36.4130998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:09.8501541+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:04.4404635+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:08.9553482+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:57:32.0568653+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:36.4131121+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,858 |
-| Thorough | 9.00% | ~16,072 |
+| Genin | 10.00% | ~17,859 |
+| Thorough | 9.00% | ~16,073 |
 | A thief's beginning | 8.00% | ~14,287 |
 | Disguised | 7.00% | ~12,501 |
 | Rollin' | 7.00% | ~12,501 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,143 |
 | Prisoners | 4.00% | ~7,143 |
 | Too Early | 4.00% | ~7,143 |
-| Gear up | 3.00% | ~5,357 |
-| Happy little accidents | 3.00% | ~5,357 |
-| Noboru | 3.00% | ~5,357 |
-| Still Rollin' | 3.00% | ~5,357 |
-| Stoned | 3.00% | ~5,357 |
+| Gear up | 3.00% | ~5,358 |
+| Happy little accidents | 3.00% | ~5,358 |
+| Noboru | 3.00% | ~5,358 |
+| Still Rollin' | 3.00% | ~5,358 |
+| Stoned | 3.00% | ~5,358 |
 | Atheist Ox | 2.00% | ~3,572 |
 | It's raining men | 2.00% | ~3,572 |
 | Old Man | 2.00% | ~3,572 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 0.90% | ~1,607 |
 | When Cut Across the Neck | 0.80% | ~1,429 |
 | High Five the Moon | 0.70% | ~1,250 |
-| The Cave | 0.60% | ~1,071 |
+| The Cave | 0.60% | ~1,072 |
 | Merciful | 0.40% | ~714 |
 | Time Paradox | 0.40% | ~714 |
 | Five Shadows | 0.30% | ~536 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~179 |
 | Release the Kraken | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,583 (Ranked 56)  
+Progressed: 178,586 (Ranked 56)  
 Completed: 54 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 54 (0.03%) (Ranked 200)
 | 2023-06-17 | 177,969 | 53 |
 | 2023-06-18 | 178,321 | 53 |
 | 2023-06-19 | 178,583 | 54 |
+| 2023-06-20 | 178,586 | 54 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 180)  
 Sum: 4,685 (Ranked 126)  

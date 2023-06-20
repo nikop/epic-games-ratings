@@ -5,19 +5,19 @@ Rating: 4.18 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,474 |
+| Flesh Wound | 17.00% | ~2,629 |
 | The Outer Way | 15.00% | ~2,320 |
 | Desperate Times | 14.00% | ~2,165 |
-| Paper Jams | 13.00% | ~2,010 |
+| Paper Jams | 13.00% | ~2,011 |
 | Chew 'Em Up | 11.00% | ~1,701 |
 | Reforged | 11.00% | ~1,701 |
-| Workplace Hazard | 10.00% | ~1,546 |
-| If the SHU Fits... | 10.00% | ~1,546 |
+| Workplace Hazard | 10.00% | ~1,547 |
+| If the SHU Fits... | 10.00% | ~1,547 |
 | Get a Grip | 9.00% | ~1,392 |
 | Giving Back | 8.00% | ~1,237 |
 | Without A Paddle | 8.00% | ~1,237 |
-| In the Pipe, Five by Five | 7.00% | ~1,082 |
-| Crash Site | 7.00% | ~1,082 |
+| In the Pipe, Five by Five | 7.00% | ~1,083 |
+| Crash Site | 7.00% | ~1,083 |
 | Two Heads Are Better Than One | 6.00% | ~928 |
 | Terminated | 6.00% | ~928 |
 | Float Like A Butterfly | 6.00% | ~928 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 850)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,464 (Ranked 104)  
+Progressed: 15,466 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
+| 2023-06-20 | 15,466 | 56 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 327)  

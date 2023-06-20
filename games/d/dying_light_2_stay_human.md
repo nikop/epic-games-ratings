@@ -6,11 +6,11 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,822 |
-| Into the Unknown | 10.00% | ~58,020 |
-| First Shot | 10.00% | ~58,020 |
-| Herzlich Wilkommen! | 9.00% | ~52,218 |
-| Good Night & Good Luck | 9.00% | ~52,218 |
+| You Never Forget Your First... | 11.00% | ~63,823 |
+| Into the Unknown | 10.00% | ~58,021 |
+| First Shot | 10.00% | ~58,021 |
+| Herzlich Wilkommen! | 9.00% | ~52,219 |
+| Good Night & Good Luck | 9.00% | ~52,219 |
 | Sancho Panza | 8.00% | ~46,416 |
 | Under Pressure | 7.00% | ~40,614 |
 | Flag Burning | 7.00% | ~40,614 |
@@ -54,8 +54,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Who Wants To Be a... | 0.80% | ~4,642 |
 | Night of Terrors | 0.80% | ~1,805 |
 | Get the Point? | 0.70% | ~4,061 |
-| My Friend, Ciro | 0.70% | ~1,579 |
-| Skullcrusher | 0.70% | ~1,579 |
+| My Friend, Ciro | 0.70% | ~1,580 |
+| Skullcrusher | 0.70% | ~1,580 |
 | Revenants | 0.60% | ~3,481 |
 | Tanning Salon | 0.60% | ~3,481 |
 | Lightning Reflexes | 0.40% | ~2,321 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,196 (Ranked 25)  
+Progressed: 580,206 (Ranked 25)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,9 +133,10 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
+| 2023-06-20 | 580,206 | 57 |
 ## Awards
 Max (Character Customization): 7,890  (Ranked 40)  
-Sum: 18,292 (Ranked 56)  
+Sum: 18,295 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -143,8 +144,8 @@ Diff (max vs sum): -16
 | This game has Great Boss Battles | 4,588 |
 | This game is Great for Beginners | 722 |
 | This game is Highly Recommended | 681 |
+| This game has Amazing Characters | 676 |
 | This game has Diverse Characters | 676 |
-| This game has Amazing Characters | 673 |
 | This game is Extremely Fun | 667 |
 | This game has Quickly Understood Controls | 641 |
 | This game has Amazing Storytelling | 632 |
@@ -312,4 +313,4 @@ Diff (max vs sum): -16
 | 2023-06-16 | 4.58 | - | 7,800 | 17,582 |
 | 2023-06-17 | 4.58 | - | 7,827 | 18,144 |
 | 2023-06-18 | 4.58 | - | 7,856 | 18,212 |
-| 2023-06-19 | 4.58 | - | 7,890 | 18,292 |
+| 2023-06-19 | 4.58 | - | 7,890 | 18,295 |

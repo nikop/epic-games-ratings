@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
@@ -1182,6 +1182,11 @@
       "Time": "2023-06-19T18:06:37.8108616+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-06-20T00:05:44.6633175+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 11,
@@ -1209,7 +1214,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1233,7 +1238,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_FineGioco",
@@ -1249,7 +1254,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1257,7 +1262,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1280,15 +1285,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:16.9393563+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:44.6633169+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:36.3257732+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:02:28.4497537+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:16.9393688+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:59:58.899598+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:44.6633299+00:00"
 }

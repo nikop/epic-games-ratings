@@ -354,9 +354,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 232878,
+  "EOS_Progressed": 232880,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6729,6 +6729,11 @@
       "Time": "2023-06-19T23:08:24.2742059+00:00",
       "NumProgressed": 232878,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-20T00:05:52.1182382+00:00",
+      "NumProgressed": 232880,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -6740,7 +6745,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62877
+      "UsersEstimate": 62878
     },
     {
       "ID": "ACH_AON",
@@ -6804,7 +6809,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27945
+      "UsersEstimate": 27946
     },
     {
       "ID": "ACH_HATTRICK",
@@ -7012,7 +7017,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16301
+      "UsersEstimate": 16302
     },
     {
       "ID": "ACH_MEMESMART",
@@ -7044,7 +7049,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16301
+      "UsersEstimate": 16302
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -7155,7 +7160,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 232878,
+      "Progressed": 232880,
       "Completed": 7
     }
   ],
@@ -7163,8 +7168,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:24.2742057+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:52.1182374+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:40.9701615+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:34.700093+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:24.2742644+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:58:01.6604728+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:52.1183012+00:00"
 }

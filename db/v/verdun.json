@@ -1574,9 +1574,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 48180,
+  "EOS_Progressed": 48181,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7834,6 +7834,11 @@
       "Time": "2023-06-19T23:08:26.4050194+00:00",
       "NumProgressed": 48180,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T00:05:54.35761+00:00",
+      "NumProgressed": 48181,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -7845,7 +7850,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 26499
+      "UsersEstimate": 26500
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -8133,7 +8138,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 30353
+      "UsersEstimate": 30354
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -8261,7 +8266,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -8316,15 +8321,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 48180,
+      "Progressed": 48181,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-19T09:58:34.8421132+00:00",
-  "LastChanged_Achievements": "2023-06-19T23:08:26.4050187+00:00",
+  "LastChanged_Achievements": "2023-06-20T00:05:54.3576097+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:02.3847872+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:00:53.8391614+00:00",
-  "LastUpdate_Achievements": "2023-06-19T23:08:26.4050864+00:00"
+  "LastUpdate_Ratings": "2023-06-19T23:58:25.3098935+00:00",
+  "LastUpdate_Achievements": "2023-06-20T00:05:54.3576768+00:00"
 }
