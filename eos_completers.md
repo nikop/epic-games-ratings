@@ -21,10 +21,10 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 9.09% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.57% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -129,8 +129,8 @@
 | 126 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.42% |
 | 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
-| 130 | [Tchia](games/t/tchia.md) | 0.38% |
+| 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
+| 131 | [Tchia](games/t/tchia.md) | 0.38% |
 | 132 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 133 | [Scrapnaut](games/s/scrapnaut.md) | 0.36% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
@@ -460,4 +460,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,811 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,813 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

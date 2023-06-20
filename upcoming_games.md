@@ -16,6 +16,7 @@
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
 | [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2023-06-26 | - |  | - | - |
 | [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
+| [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2023-06-27 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-28 | - |  | - | - |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | - |  | - | - |
@@ -329,7 +330,6 @@
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Ship Simulator Realistic](games/s/ship_simulator_realistic.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
-| [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2099-01-01 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
@@ -337,6 +337,7 @@
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2099-01-01 | - |  | - | - |
 | [Strange House](games/s/strange_house.md) | 2099-01-01 | - |  | - | - |
+| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2099-01-01 | - |  | - | - |
 | [Subterrain Mines of Titan](games/s/subterrain_mines_of_titan.md) | 2099-01-01 | - |  | - | - |
 | [Sugar Shack](games/s/sugar_shack.md) | 2099-01-01 | - |  | - | - |
 | [SunnySide](games/s/sunnyside.md) | 2099-01-01 | - |  | - | - |
