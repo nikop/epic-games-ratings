@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 843)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 17.00% | ~2,631 |
-| The Outer Way | 15.00% | ~2,321 |
-| Desperate Times | 14.00% | ~2,166 |
+| The Outer Way | 15.00% | ~2,322 |
+| Desperate Times | 14.00% | ~2,167 |
 | Paper Jams | 13.00% | ~2,012 |
 | Chew 'Em Up | 11.00% | ~1,702 |
 | Reforged | 11.00% | ~1,702 |
@@ -19,9 +19,9 @@ Rating: 4.19 (Ranked 843)
 | Float Like A Butterfly | 7.00% | ~1,083 |
 | In the Pipe, Five by Five | 7.00% | ~1,083 |
 | Crash Site | 7.00% | ~1,083 |
-| Two Heads Are Better Than One | 6.00% | ~928 |
-| Terminated | 6.00% | ~928 |
-| Power Up | 6.00% | ~928 |
+| Two Heads Are Better Than One | 6.00% | ~929 |
+| Terminated | 6.00% | ~929 |
+| Power Up | 6.00% | ~929 |
 | You Need a Gun | 5.00% | ~774 |
 | What Lies Beneath | 5.00% | ~774 |
 | Full Circle | 5.00% | ~774 |
@@ -46,8 +46,8 @@ Rating: 4.19 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,475 (Ranked 104)  
-Completed: 56 (0.36%) (Ranked 133)  
+Progressed: 15,477 (Ranked 104)  
+Completed: 57 (0.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
-| 2023-06-20 | 15,475 | 56 |
+| 2023-06-20 | 15,477 | 57 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 326)  

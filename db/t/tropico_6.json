@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3737,
+  "EOS_Progressed": 3738,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4754,6 +4754,11 @@
       "Time": "2023-06-20T15:04:19.5081345+00:00",
       "NumProgressed": 3737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T18:04:40.9166955+00:00",
+      "NumProgressed": 3738,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4883,9 +4888,9 @@
       "ID": "ACH_EP_SPEAKEASY",
       "SetID": "1p8ab95",
       "Name": "Number 18",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4901,7 +4906,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -4925,7 +4930,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4949,7 +4954,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5084,15 +5089,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3737,
+      "Progressed": 3738,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:03:53.0735842+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:04:40.9166951+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:01:56.2213088+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:03:53.0736605+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:02:38.8404791+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:04:40.9167355+00:00"
 }

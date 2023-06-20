@@ -199,9 +199,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -255,9 +255,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PROGRESS_N5",
@@ -277,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:26.4699882+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:08:05.5087508+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:00:22.3092929+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:26.4700085+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:00:51.183399+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:08:05.5087638+00:00"
 }

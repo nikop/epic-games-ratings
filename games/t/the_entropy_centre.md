@@ -10,13 +10,13 @@
 | Command Centre | 48.00% | ~96 |
 | This is a Wall | 43.00% | ~86 |
 | Extendable Bridges | 39.00% | ~78 |
+| Chain Reaction | 36.00% | ~72 |
+| 48 Attempts | 35.00% | ~70 |
 | Man's Best Friend | 35.00% | ~70 |
-| Chain Reaction | 35.00% | ~70 |
-| 48 Attempts | 34.00% | ~68 |
 | Handyman | 22.00% | ~44 |
 | No Time To Relax | 19.00% | ~38 |
 | Bad Robots | 16.00% | ~32 |
-| Archivist | 15.00% | ~30 |
+| Archivist | 16.00% | ~32 |
 | Running Boots | 14.00% | ~28 |
 | Fashionista | 14.00% | ~28 |
 | Looper | 11.00% | ~22 |
@@ -25,7 +25,7 @@
 | Reunited | 10.00% | ~20 |
 | So Close | 9.00% | ~18 |
 | Transformers, cubes in disguise | 9.00% | ~18 |
-| Final Charge | 8.00% | ~16 |
+| Final Charge | 9.00% | ~18 |
 | Cataclysm | 8.00% | ~16 |
 | Summer Luvin' | 3.00% | ~6 |
 | You Are Terminated | 0.50% | ~1 |

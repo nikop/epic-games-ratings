@@ -320,9 +320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11763,
+  "EOS_Progressed": 11764,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4125,6 +4125,11 @@
       "Time": "2023-06-20T17:07:44.648967+00:00",
       "NumProgressed": 11763,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-20T18:08:21.3672907+00:00",
+      "NumProgressed": 11764,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -4136,7 +4141,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10822
+      "UsersEstimate": 10823
     },
     {
       "ID": "ACH_02",
@@ -4144,7 +4149,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9175
+      "UsersEstimate": 9176
     },
     {
       "ID": "ACH_03",
@@ -4152,7 +4157,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "ACH_04",
@@ -4160,7 +4165,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8116
+      "UsersEstimate": 8117
     },
     {
       "ID": "ACH_05",
@@ -4232,7 +4237,7 @@
       "Name": "Nothing Left",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ACH_14",
@@ -4256,7 +4261,7 @@
       "Name": "King Hugo",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "ACH_17",
@@ -4312,7 +4317,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "ACH_24",
@@ -4344,7 +4349,7 @@
       "Name": "Night guard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "ACH_28",
@@ -4352,7 +4357,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "ACH_29",
@@ -4408,14 +4413,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11763,
+      "Progressed": 11764,
       "Completed": 34
     }
   ],
@@ -4423,8 +4428,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-19T13:59:27.3405658+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:44.6489664+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:08:21.3672904+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.2294559+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:00:50.1322718+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:44.6490257+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:01:24.9980506+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:08:21.3673237+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -318,6 +318,11 @@
       "Time": "2023-06-20T16:05:59.5646117+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T18:08:29.629136+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -327,9 +332,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -385,7 +390,7 @@
       "Name": "Conciliator",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -447,9 +452,9 @@
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -559,9 +564,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -649,7 +654,7 @@
       "Name": "Breached",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -689,7 +694,7 @@
       "Name": "Fight Another Day",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Forager",
@@ -943,7 +948,7 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 61
     },
@@ -1120,7 +1125,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
@@ -1128,8 +1133,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:53.7523933+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:08:29.6291356+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.6141663+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:00:00.9661257+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:53.75254+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:00:21.6198915+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:08:29.629248+00:00"
 }

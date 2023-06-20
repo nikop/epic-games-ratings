@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -131,6 +131,11 @@
       "Time": "2023-06-10T23:05:07.4733954+00:00",
       "NumProgressed": 246,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T18:07:32.3242701+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -174,7 +179,7 @@
       "Name": "Second Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EGLE_FREED",
@@ -246,7 +251,7 @@
       "Name": "Third Commander",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PET_DOG",
@@ -269,7 +274,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 3
     }
   ],
@@ -277,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:22.6073063+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:07:32.3242698+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:51.420117+00:00",
-  "LastUpdate_Ratings": "2023-06-20T16:59:03.6392085+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:22.6073271+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:59:12.6082383+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:07:32.3242795+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -248,9 +248,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 417639,
+  "EOS_Progressed": 417646,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2365,
+  "EOS_NewPlayers": 2358,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6713,6 +6713,11 @@
       "Time": "2023-06-20T17:04:22.0471536+00:00",
       "NumProgressed": 417639,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-20T18:05:06.0703993+00:00",
+      "NumProgressed": 417646,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -6732,7 +6737,7 @@
       "Name": "100 KILLS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54293
+      "UsersEstimate": 54294
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -6748,7 +6753,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 50117
+      "UsersEstimate": 50118
     },
     {
       "ID": "BIGUPS",
@@ -6804,7 +6809,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25058
+      "UsersEstimate": 25059
     },
     {
       "ID": "CHAPTER4",
@@ -6868,7 +6873,7 @@
       "Name": "FIREFIGHT LEVEL 20",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "FIREFIGHT30 LEVEL (0-30)",
@@ -6932,7 +6937,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "FRESH",
@@ -7139,7 +7144,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 417639,
+      "Progressed": 417646,
       "Completed": 37
     }
   ],
@@ -7147,8 +7152,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-15T10:59:21.2299227+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:04:22.0471529+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:05:06.0703989+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:07.3287708+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:01:00.9927261+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:04:22.0472801+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:01:39.2993861+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:05:06.0704603+00:00"
 }

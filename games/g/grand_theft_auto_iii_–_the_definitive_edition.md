@@ -6,36 +6,36 @@ Rating: 4.14 (Ranked 873)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~5,602 |
-| Disposing of the Evidence | 37.00% | ~2,497 |
-| Without a Scratch | 33.00% | ~2,227 |
-| Wreckless Driving | 27.00% | ~1,822 |
+| Disposing of the Evidence | 37.00% | ~2,498 |
+| Without a Scratch | 33.00% | ~2,228 |
+| Wreckless Driving | 27.00% | ~1,823 |
 | A Marked Man | 24.00% | ~1,620 |
-| Street Sweeper | 17.00% | ~1,147 |
+| Street Sweeper | 17.00% | ~1,148 |
 | Liberty City Minute | 16.00% | ~1,080 |
 | Offshore Delivery | 12.00% | ~810 |
 | Dirty Money | 11.00% | ~742 |
-| By a Mile | 9.00% | ~607 |
-| Not So Fast | 9.00% | ~607 |
-| Right-hand Man | 9.00% | ~607 |
+| By a Mile | 9.00% | ~608 |
+| Not So Fast | 9.00% | ~608 |
+| Right-hand Man | 9.00% | ~608 |
 | A Gift from the King | 6.00% | ~405 |
 | Full Artillery | 4.00% | ~270 |
 | Mob Boss | 2.00% | ~135 |
 | Splish Splash | 2.00% | ~135 |
 | Liberty City Secrets | 2.00% | ~135 |
-| Escape Artist | 1.00% | ~67 |
-| Got This Figured Out | 1.00% | ~67 |
-| Come Out to Play-y-y-y | 1.00% | ~67 |
-| Where To? | 1.00% | ~67 |
-| Man Toyz | 1.00% | ~67 |
-| Playing Doctor | 1.00% | ~67 |
-| Going Rogue | 1.00% | ~67 |
+| Escape Artist | 1.00% | ~68 |
+| Got This Figured Out | 1.00% | ~68 |
+| Come Out to Play-y-y-y | 1.00% | ~68 |
+| Where To? | 1.00% | ~68 |
+| Man Toyz | 1.00% | ~68 |
+| Playing Doctor | 1.00% | ~68 |
+| Going Rogue | 1.00% | ~68 |
 | Planned Ahead | 0.90% | ~61 |
 | Wheels Up | 0.90% | ~61 |
 | Furious First Responder | 0.90% | ~61 |
 | Is That All You've Got? | 0.80% | ~54 |
 | King of Liberty City | 0.60% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,749 (Ranked 122)  
+Progressed: 6,750 (Ranked 122)  
 Completed: 38 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 38 (0.56%) (Ranked 117)
 | 2023-06-17 | 6,685 | 37 |
 | 2023-06-18 | 6,710 | 38 |
 | 2023-06-19 | 6,736 | 38 |
-| 2023-06-20 | 6,749 | 38 |
+| 2023-06-20 | 6,750 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

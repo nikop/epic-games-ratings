@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -442,9 +442,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 10730,
+  "EOS_Progressed": 10731,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5292,6 +5292,11 @@
       "Time": "2023-06-20T17:07:48.9888476+00:00",
       "NumProgressed": 10730,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-20T18:08:25.0809242+00:00",
+      "NumProgressed": 10731,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5303,7 +5308,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8584
+      "UsersEstimate": 8585
     },
     {
       "ID": "ACH02",
@@ -5351,7 +5356,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACH08",
@@ -5439,7 +5444,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH19",
@@ -5582,7 +5587,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10730,
+      "Progressed": 10731,
       "Completed": 19
     }
   ],
@@ -5590,8 +5595,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-19T23:02:41.9230211+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:48.988847+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:08:25.0809238+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:02:03.2297525+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:48.988914+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:02:49.2037174+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:08:25.0809624+00:00"
 }

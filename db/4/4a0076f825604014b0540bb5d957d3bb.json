@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -43,9 +43,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 200,
+      "Percentage": 250,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -59,9 +59,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -131,9 +131,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -147,9 +147,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -241,8 +241,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:03:40.8466539+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:04:30.7548884+00:00",
   "LastUpdate_AppInfo": "2023-06-14T08:57:05.5295495+00:00",
-  "LastUpdate_Ratings": "2023-06-20T16:57:16.8769525+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:03:40.8466786+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:57:07.1259573+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:04:30.7549024+00:00"
 }

@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Electrician | 24.00% | ~8 |
+| I See Dead People | 21.00% | ~7 |
 | Bedtime Storyteller | 21.00% | ~7 |
 | Exorcist | 21.00% | ~7 |
 | Clothes Hunter | 18.00% | ~6 |
-| I See Dead People | 18.00% | ~6 |
-| Con Artist | 15.00% | ~5 |
+| Con Artist | 18.00% | ~6 |
 | Card Sharp | 15.00% | ~5 |
 | I Ain't Afraid of No Ghost | 12.00% | ~4 |
 | Joyrider | 12.00% | ~4 |

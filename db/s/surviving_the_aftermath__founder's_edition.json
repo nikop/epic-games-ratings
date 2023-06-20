@@ -1059,9 +1059,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6627,
+  "EOS_Progressed": 6628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6104,6 +6104,11 @@
       "Time": "2023-06-20T17:03:42.9561614+00:00",
       "NumProgressed": 6627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T18:04:32.5765833+00:00",
+      "NumProgressed": 6628,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6115,7 +6120,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "10",
@@ -6147,15 +6152,15 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "14",
       "SetID": "8idi9ml",
       "Name": "Famous Explorer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2254
     },
     {
       "ID": "15",
@@ -6163,7 +6168,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "16",
@@ -6171,7 +6176,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "17",
@@ -6195,7 +6200,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "2",
@@ -6203,7 +6208,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "20",
@@ -6211,7 +6216,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "21",
@@ -6219,7 +6224,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "22",
@@ -6227,7 +6232,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "23",
@@ -6235,7 +6240,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "24",
@@ -6363,7 +6368,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "39",
@@ -6483,7 +6488,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "52",
@@ -6586,15 +6591,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6627,
+      "Progressed": 6628,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:03:42.9561605+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:04:32.576583+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:01:41.7678538+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:03:42.95632+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:02:20.857907+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:04:32.5766492+00:00"
 }

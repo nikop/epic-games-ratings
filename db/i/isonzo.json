@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6285,
+  "EOS_Progressed": 6286,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2932,6 +2932,11 @@
       "Time": "2023-06-20T16:03:40.5047528+00:00",
       "NumProgressed": 6285,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-20T18:05:14.1286458+00:00",
+      "NumProgressed": 6286,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2999,7 +3004,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -3055,7 +3060,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -3079,7 +3084,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -3151,7 +3156,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3295,14 +3300,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6285,
+      "Progressed": 6286,
       "Completed": 8
     }
   ],
@@ -3310,8 +3315,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-20T15:57:29.1430628+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:04:31.1387123+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:05:14.1286454+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.499894+00:00",
-  "LastUpdate_Ratings": "2023-06-20T16:58:06.9667052+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:04:31.1387757+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:58:03.2953663+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:05:14.1286923+00:00"
 }

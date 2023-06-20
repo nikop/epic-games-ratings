@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2301,9 +2301,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 525169,
+  "EOS_Progressed": 525173,
   "EOS_Completed": 1455,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8666,6 +8666,11 @@
       "Time": "2023-06-20T17:07:29.1753091+00:00",
       "NumProgressed": 525169,
       "NumCompleted": 1455
+    },
+    {
+      "Time": "2023-06-20T18:08:07.5260877+00:00",
+      "NumProgressed": 525173,
+      "NumCompleted": 1455
     }
   ],
   "TotalAchievements": 37,
@@ -8693,7 +8698,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157551
+      "UsersEstimate": 157552
     },
     {
       "ID": "DEVOTED",
@@ -8733,7 +8738,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 435890
+      "UsersEstimate": 435894
     },
     {
       "ID": "HONED",
@@ -8781,7 +8786,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26258
+      "UsersEstimate": 26259
     },
     {
       "ID": "THE_BANQUET",
@@ -8789,7 +8794,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210068
+      "UsersEstimate": 210069
     },
     {
       "ID": "THE_CASTLE",
@@ -8829,7 +8834,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47265
+      "UsersEstimate": 47266
     },
     {
       "ID": "THE_FOREST",
@@ -8853,7 +8858,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94530
+      "UsersEstimate": 94531
     },
     {
       "ID": "THE_KEEP",
@@ -8869,7 +8874,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26258
+      "UsersEstimate": 26259
     },
     {
       "ID": "THE_MIRE",
@@ -8893,7 +8898,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26258
+      "UsersEstimate": 26259
     },
     {
       "ID": "THE_RED_HALL",
@@ -8901,7 +8906,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47265
+      "UsersEstimate": 47266
     },
     {
       "ID": "THE_RUINS",
@@ -8933,7 +8938,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 336108
+      "UsersEstimate": 336111
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -8949,7 +8954,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84027
+      "UsersEstimate": 84028
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -8972,15 +8977,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 525169,
+      "Progressed": 525173,
       "Completed": 1455
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-18T17:59:54.6200446+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:07:29.1753081+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:08:07.5260873+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.646002+00:00",
-  "LastUpdate_Ratings": "2023-06-20T17:00:48.1681665+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:07:29.1754188+00:00"
+  "LastUpdate_Ratings": "2023-06-20T18:01:23.2958224+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:08:07.5261385+00:00"
 }

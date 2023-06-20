@@ -2,9 +2,9 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -114,6 +114,11 @@
       "Time": "2023-06-18T18:01:30.3491487+00:00",
       "NumProgressed": 18,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T18:03:56.6236392+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 7,
@@ -197,21 +202,21 @@
       "Name": "Jumper 100",
       "Percentage": 89,
       "XP": 145,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 145,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "JUMPER_5000",
       "SetID": "dademeo",
       "Name": "Jumper 5000",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 145,
       "UsersEstimate": 1
     }
@@ -220,13 +225,13 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-06-20T17:03:07.4208439+00:00",
+  "LastChanged_Achievements": "2023-06-20T18:03:56.6236388+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:13.1806546+00:00",
-  "LastUpdate_Ratings": "2023-06-20T16:57:41.2278657+00:00",
-  "LastUpdate_Achievements": "2023-06-20T17:03:07.4208639+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:57:37.4214172+00:00",
+  "LastUpdate_Achievements": "2023-06-20T18:03:56.6236454+00:00"
 }
