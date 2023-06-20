@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1172,
+  "EOS_Progressed": 1173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1949,6 +1949,11 @@
       "Time": "2023-06-20T10:02:41.7639391+00:00",
       "NumProgressed": 1172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T14:02:45.6763559+00:00",
+      "NumProgressed": 1173,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1968,7 +1973,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1976,7 +1981,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2064,7 +2069,7 @@
       "Name": "Ganglord",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "DEAD_DICK",
@@ -2080,7 +2085,7 @@
       "Name": "Jarhead",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2104,7 +2109,7 @@
       "Name": "Editor Adept",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ENDGAME",
@@ -2120,7 +2125,7 @@
       "Name": "Exorcist",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "EXPERIENCED",
@@ -2144,7 +2149,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2224,7 +2229,7 @@
       "Name": "Lumberjack",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2264,7 +2269,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "RECYCLER",
@@ -2334,9 +2339,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 246
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2344,7 +2349,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "THE_WATCHERS",
@@ -2367,7 +2372,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1172,
+      "Progressed": 1173,
       "Completed": 0
     }
   ],
@@ -2375,8 +2380,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:09:27.0939573+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:02:45.6763555+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:06:59.6749554+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:09:27.0940212+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:59:04.3179201+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:02:45.6764082+00:00"
 }

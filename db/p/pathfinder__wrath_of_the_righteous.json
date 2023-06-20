@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2814,10 +2814,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6760,
       "NumberOfAwardsMax": 1665
+    },
+    {
+      "Time": "2023-06-20T13:59:08.5156906+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6762,
+      "NumberOfAwardsMax": 1665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6760,
+  "NumberOfAwards": 6762,
   "NumberOfAwardsMax": 1665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2855,7 +2861,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 616
+      "Count": 618
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2888,9 +2894,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9982,
+  "EOS_Progressed": 9984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6963,6 +6969,11 @@
       "Time": "2023-06-20T13:14:41.9130368+00:00",
       "NumProgressed": 9982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T14:07:47.6960489+00:00",
+      "NumProgressed": 9984,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6990,7 +7001,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "04_FithCrusade",
@@ -7046,7 +7057,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "11_PathOfAeon",
@@ -7102,7 +7113,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "18_MythicChoices",
@@ -7158,7 +7169,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "25_MasterfulDispell",
@@ -7206,7 +7217,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "32_MythicReinforcements",
@@ -7214,7 +7225,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "33_DefendersHeart",
@@ -7318,7 +7329,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "46_AllPathsOpen",
@@ -7350,7 +7361,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -7398,7 +7409,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "56_GetToad",
@@ -7406,7 +7417,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "57_PathOfDevil",
@@ -7901,21 +7912,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8764,
+      "Progressed": 8766,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9982,
+      "Progressed": 9984,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-19T17:58:38.5957619+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:14:41.9130358+00:00",
+  "LastChanged": "2023-06-20T13:59:08.5156903+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:07:47.6960484+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:07:04.2584073+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:14:41.9132531+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:59:08.5156911+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:07:47.6962088+00:00"
 }

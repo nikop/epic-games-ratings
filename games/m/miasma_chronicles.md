@@ -5,32 +5,32 @@ Rating: 4.33 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,078 |
-| Ranidaphobia | 77.00% | ~902 |
-| Aspiring Editor | 74.00% | ~867 |
+| First Blood | 92.00% | ~1,079 |
+| Ranidaphobia | 77.00% | ~903 |
+| Aspiring Editor | 74.00% | ~868 |
 | Gun for Hire | 69.00% | ~809 |
 | I am the law! | 62.00% | ~727 |
-| Lumberjack | 49.00% | ~574 |
+| Lumberjack | 49.00% | ~575 |
 | Croaked | 44.00% | ~516 |
 | Limp Richard | 43.00% | ~504 |
 | From Darkness to Light | 43.00% | ~504 |
-| Editor Adept | 42.00% | ~492 |
-| Exorcist | 42.00% | ~492 |
+| Editor Adept | 42.00% | ~493 |
+| Exorcist | 42.00% | ~493 |
 | Firestarter | 40.00% | ~469 |
 | Giant Killer | 39.00% | ~457 |
 | Sensei | 37.00% | ~434 |
-| The meaning of Kain | 35.00% | ~410 |
+| The meaning of Kain | 35.00% | ~411 |
 | Technophobe | 33.00% | ~387 |
 | Recycler | 32.00% | ~375 |
-| Are you not entertained? | 27.00% | ~316 |
-| Ganglord | 27.00% | ~316 |
-| Jarhead | 27.00% | ~316 |
+| Are you not entertained? | 27.00% | ~317 |
+| Ganglord | 27.00% | ~317 |
+| Jarhead | 27.00% | ~317 |
 | Infiltrator | 26.00% | ~305 |
 | Pushing Daisy | 25.00% | ~293 |
 | Experienced | 23.00% | ~270 |
-| There Can Be Only One! | 22.00% | ~258 |
 | Chain Killer | 21.00% | ~246 |
 | Hold The Line | 21.00% | ~246 |
+| There Can Be Only One! | 21.00% | ~246 |
 | Endgame | 19.00% | ~223 |
 | Savior | 19.00% | ~223 |
 | The Watchers | 17.00% | ~199 |
@@ -57,7 +57,7 @@ Rating: 4.33 (Ranked 749)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,172 (Ranked 175)  
+Progressed: 1,173 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 1,155 | 1 |
 | 2023-06-18 | 1,163 | 1 |
 | 2023-06-19 | 1,169 | 0 |
-| 2023-06-20 | 1,172 | 0 |
+| 2023-06-20 | 1,173 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

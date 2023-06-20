@@ -4396,9 +4396,9 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 99651,
+  "EOS_Progressed": 99709,
   "EOS_Completed": 1971,
-  "EOS_NewPlayers": 9036,
+  "EOS_NewPlayers": 9092,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -10706,6 +10706,11 @@
       "Time": "2023-06-20T13:14:45.516275+00:00",
       "NumProgressed": 99651,
       "NumCompleted": 1971
+    },
+    {
+      "Time": "2023-06-20T14:07:51.2063709+00:00",
+      "NumProgressed": 99709,
+      "NumCompleted": 1971
     }
   ],
   "TotalAchievements": 493,
@@ -10717,7 +10722,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7977
     },
     {
       "ID": "objective_completed_10",
@@ -11085,7 +11090,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "objective_completed_110",
@@ -11651,9 +11656,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_125",
@@ -11901,7 +11906,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_164",
@@ -12053,7 +12058,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_208",
@@ -12133,7 +12138,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_231",
@@ -12389,7 +12394,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "objective_completed_34",
@@ -12397,7 +12402,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "objective_completed_35",
@@ -12405,7 +12410,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "objective_completed_36",
@@ -13861,7 +13866,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "objective_completed_70",
@@ -13925,7 +13930,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_8",
@@ -14307,9 +14312,9 @@
       "ID": "objective_completed_868",
       "SetID": "415jc5c",
       "Name": "Might Makes Right",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_completed_869",
@@ -14589,7 +14594,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_95",
@@ -14629,7 +14634,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "objective_completed_1356",
@@ -14645,7 +14650,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "objective_completed_1361",
@@ -14660,21 +14665,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 65925,
+      "Progressed": 65983,
       "Completed": 2807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 99651,
+      "Progressed": 99709,
       "Completed": 1971
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T18:58:36.1829643+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:14:45.516274+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:07:51.20637+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:06:47.2939818+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:14:45.5188503+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:58:48.0497837+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:07:51.208764+00:00"
 }

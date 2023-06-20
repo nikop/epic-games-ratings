@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 12.00% | ~1,198 |
 | Mythic Choices | 10.00% | ~998 |
 | Defender's Heart | 10.00% | ~998 |
-| Banner over the Citadel | 9.00% | ~898 |
+| Banner over the Citadel | 9.00% | ~899 |
 | Queen's Gratitude | 8.00% | ~799 |
 | Fifth Crusade | 6.00% | ~599 |
 | Embrace of the Abyss | 4.00% | ~399 |
@@ -19,15 +19,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 4.00% | ~399 |
 | All Paths Open | 4.00% | ~399 |
 | Demonic and Divine | 4.00% | ~399 |
-| Path of the Azata | 3.00% | ~299 |
-| Transformation | 3.00% | ~299 |
-| The Legacy | 3.00% | ~299 |
-| Divide and Rule | 3.00% | ~299 |
-| Mythic Reinforcements | 3.00% | ~299 |
-| Voice from Your Dreams | 3.00% | ~299 |
-| A Flame | 3.00% | ~299 |
-| Next-Door Play | 3.00% | ~299 |
-| Get the Toad | 3.00% | ~299 |
+| Path of the Azata | 3.00% | ~300 |
+| Transformation | 3.00% | ~300 |
+| The Legacy | 3.00% | ~300 |
+| Divide and Rule | 3.00% | ~300 |
+| Mythic Reinforcements | 3.00% | ~300 |
+| Voice from Your Dreams | 3.00% | ~300 |
+| A Flame | 3.00% | ~300 |
+| Next-Door Play | 3.00% | ~300 |
+| Get the Toad | 3.00% | ~300 |
 | Heart of the Fallen Land | 2.00% | ~200 |
 | Path of the Trickster | 2.00% | ~200 |
 | Path of the Lich | 2.00% | ~200 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,982 (Ranked 115)  
+Progressed: 9,984 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,17 +184,17 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 9,946 | 0 |
 | 2023-06-18 | 9,964 | 0 |
 | 2023-06-19 | 9,976 | 0 |
-| 2023-06-20 | 9,982 | 0 |
+| 2023-06-20 | 9,984 | 0 |
 ## Awards
 Max (Character Customization): 1,665  (Ranked 113)  
-Sum: 6,760 (Ranked 109)  
+Sum: 6,762 (Ranked 109)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,665 |
 | This game is Extremely Fun | 638 |
+| This game is Highly Recommended | 618 |
 | This game has Amazing Characters | 617 |
-| This game is Highly Recommended | 616 |
 | This game has Diverse Characters | 603 |
 | This game has Amazing Storytelling | 599 |
 | This game has Challenging Combat | 559 |
@@ -349,3 +349,4 @@ Diff (max vs sum): 4
 | 2023-06-17 | 4.76 | - | 1,663 | 6,753 |
 | 2023-06-18 | 4.76 | - | 1,663 | 6,757 |
 | 2023-06-19 | 4.76 | - | 1,665 | 6,760 |
+| 2023-06-20 | 4.76 | - | 1,665 | 6,762 |

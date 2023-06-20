@@ -18,8 +18,8 @@
 | Say hello to my little friends | 21.00% | ~55 |
 | Gotcha | 18.00% | ~47 |
 | Heal thyself | 18.00% | ~47 |
+| It's not cheating | 17.00% | ~45 |
 | Double trouble | 16.00% | ~42 |
-| It's not cheating | 16.00% | ~42 |
 | Stronk | 15.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~32 |

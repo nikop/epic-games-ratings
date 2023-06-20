@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -442,9 +442,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 10724,
+  "EOS_Progressed": 10727,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5277,6 +5277,11 @@
       "Time": "2023-06-20T13:14:34.0507444+00:00",
       "NumProgressed": 10724,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-20T14:07:38.0134758+00:00",
+      "NumProgressed": 10727,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5288,7 +5293,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8579
+      "UsersEstimate": 8582
     },
     {
       "ID": "ACH02",
@@ -5296,7 +5301,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH03",
@@ -5304,7 +5309,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH04",
@@ -5328,7 +5333,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH07",
@@ -5336,7 +5341,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ACH08",
@@ -5344,7 +5349,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5256
     },
     {
       "ID": "ACH09",
@@ -5352,7 +5357,7 @@
       "Name": "Bike or Biker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH10",
@@ -5416,7 +5421,7 @@
       "Name": "What the City Needs",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH18",
@@ -5440,7 +5445,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH21",
@@ -5456,7 +5461,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH23",
@@ -5488,7 +5493,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH27",
@@ -5512,7 +5517,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH30",
@@ -5520,7 +5525,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH31",
@@ -5567,7 +5572,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10724,
+      "Progressed": 10727,
       "Completed": 19
     }
   ],
@@ -5575,8 +5580,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-19T23:02:41.9230211+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:14:34.0507436+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:07:38.0134753+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:08:50.9074513+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:14:34.0507992+00:00"
+  "LastUpdate_Ratings": "2023-06-20T14:01:50.9759347+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:07:38.0135537+00:00"
 }

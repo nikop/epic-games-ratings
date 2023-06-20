@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4441,
+  "EOS_Progressed": 4442,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1420,6 +1420,11 @@
       "Time": "2023-06-20T03:00:50.4073414+00:00",
       "NumProgressed": 4441,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-20T14:02:53.5701782+00:00",
+      "NumProgressed": 4442,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1431,7 +1436,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1479,7 +1484,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1503,7 +1508,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1559,7 +1564,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -1703,7 +1708,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1815,7 +1820,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1966,15 +1971,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4441,
+      "Progressed": 4442,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:09:33.0415874+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:02:53.5701776+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.1207834+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:06:41.8181655+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:09:33.0416703+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:58:36.2782653+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:02:53.570489+00:00"
 }

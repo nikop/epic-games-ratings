@@ -5,52 +5,58 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,756 |
-| Realm Estate | 76.00% | ~3,614 |
-| Secret Technique | 75.00% | ~3,566 |
-| Walls Cannot Stop Us | 74.00% | ~3,519 |
-| From Friends to Family | 69.00% | ~3,281 |
-| Magical Synergy | 66.00% | ~3,138 |
-| Bone Peddler | 61.00% | ~2,901 |
-| Stronger Together | 57.00% | ~2,710 |
-| Full Ascension | 56.00% | ~2,663 |
-| There Can Only Be One! | 49.00% | ~2,330 |
-| Seat of Power | 49.00% | ~2,330 |
-| Intimidation Tactics | 46.00% | ~2,187 |
-| My Final Form | 45.00% | ~2,140 |
-| Valley of Wonders | 43.00% | ~2,045 |
-| In a Liege of Your Own | 40.00% | ~1,902 |
-| Return of the Wizard King | 32.00% | ~1,522 |
-| Digging for Treasure | 32.00% | ~1,522 |
-| Against the Odds | 32.00% | ~1,522 |
-| Enchanted Archipelago | 29.00% | ~1,379 |
-| Impenetrable Fortress | 28.00% | ~1,331 |
-| The Magic That Empowers Me! | 21.00% | ~999 |
-| Preparation Is Everything | 21.00% | ~999 |
-| Arch Mage | 20.00% | ~951 |
-| God Emperor | 19.00% | ~903 |
-| Eternal Lord | 18.00% | ~856 |
-| Crimson Caldera | 18.00% | ~856 |
-| The Creator | 16.00% | ~761 |
-| The Goddess of Nature | 16.00% | ~761 |
-| Fiery Friend | 16.00% | ~761 |
-| Lord of Chaos | 15.00% | ~713 |
-| The Eternal Court | 10.00% | ~476 |
-| Jack of All Tomes | 10.00% | ~476 |
-| Pruning for Progress | 10.00% | ~476 |
-| I've Got Everything I Need Right Here | 7.00% | ~333 |
-| Grexolis | 5.00% | ~238 |
-| One for All, All for One | 5.00% | ~238 |
-| Betrayal Most Foul | 5.00% | ~238 |
-| Snap Out of It! | 3.00% | ~143 |
-| I Want to Break Free | 2.00% | ~95 |
-| Manufactured War | 2.00% | ~95 |
-| I'll Fight You All | 1.00% | ~48 |
-| The Grey Wizard | 0.50% | ~24 |
-| Returning Circle | 0.40% | ~19 |
-| Master of Evilness | 0.30% | ~14 |
+| Valley of Wonders | 0.00% | ~0 |
+| Snap Out of It! | 0.00% | ~0 |
+| There Can Only Be One! | 0.00% | ~0 |
+| I've Got Everything I Need Right Here | 0.00% | ~0 |
+| The Magic That Empowers Me! | 0.00% | ~0 |
+| Full Ascension | 0.00% | ~0 |
+| Return of the Wizard King | 0.00% | ~0 |
+| God Emperor | 0.00% | ~0 |
+| Lord of Chaos | 0.00% | ~0 |
+| Arch Mage | 0.00% | ~0 |
+| The Creator | 0.00% | ~0 |
+| Enchanted Archipelago | 0.00% | ~0 |
+| The Goddess of Nature | 0.00% | ~0 |
+| Eternal Lord | 0.00% | ~0 |
+| Realm Estate | 0.00% | ~0 |
+| A Wonderful Discovery | 0.00% | ~0 |
+| Secret Technique | 0.00% | ~0 |
+| Walls Cannot Stop Us | 0.00% | ~0 |
+| Bone Peddler | 0.00% | ~0 |
+| Digging for Treasure | 0.00% | ~0 |
+| From Friends to Family | 0.00% | ~0 |
+| Stronger Together | 0.00% | ~0 |
+| Crimson Caldera | 0.00% | ~0 |
+| Preparation Is Everything | 0.00% | ~0 |
+| Magical Synergy | 0.00% | ~0 |
+| My Final Form | 0.00% | ~0 |
+| Seat of Power | 0.00% | ~0 |
+| In a Liege of Your Own | 0.00% | ~0 |
+| I Want to Break Free | 0.00% | ~0 |
+| Fiery Friend | 0.00% | ~0 |
+| Against the Odds | 0.00% | ~0 |
+| Manufactured War | 0.00% | ~0 |
+| Impenetrable Fortress | 0.00% | ~0 |
+| The Eternal Court | 0.00% | ~0 |
+| Intimidation Tactics | 0.00% | ~0 |
+| Jack of All Tomes | 0.00% | ~0 |
+| Master of Evilness | 0.00% | ~0 |
+| The Grey Wizard | 0.00% | ~0 |
+| Pruning for Progress | 0.00% | ~0 |
+| Grexolis | 0.00% | ~0 |
+| One for All, All for One | 0.00% | ~0 |
+| Returning Circle | 0.00% | ~0 |
+| Betrayal Most Foul | 0.00% | ~0 |
+| I'll Fight You All | 0.00% | ~0 |
+| Here be Dragons | 0.00% | ~0 |
+| Tipping the Scales | 0.00% | ~0 |
+| Duality | 0.00% | ~0 |
+| Blood of the Dragon | 0.00% | ~0 |
+| Mighty Hoard | 0.00% | ~0 |
+| Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,755 (Ranked 131)  
+Progressed: 4,757 (Ranked 131)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +103,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-17 | 4,712 | 3 |
 | 2023-06-18 | 4,734 | 3 |
 | 2023-06-19 | 4,750 | 3 |
-| 2023-06-20 | 4,755 | 3 |
+| 2023-06-20 | 4,757 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

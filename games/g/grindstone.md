@@ -52,12 +52,12 @@ Number of Ratings: 63  (23.09.2022)
 | Are We Good Guys Or Bad Guys? | 1.00% | ~51 |
 | OK Boomer | 0.90% | ~46 |
 | Biohazard | 0.80% | ~41 |
+| The Midas Touch | 0.70% | ~36 |
 | Backdraft | 0.60% | ~31 |
-| The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,126 (Ranked 129)  
-Completed: 27 (0.53%) (Ranked 120)  
+Completed: 28 (0.55%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 27 (0.53%) (Ranked 120)
 | 2023-06-16 | 5,121 | 27 |
 | 2023-06-17 | 5,124 | 27 |
 | 2023-06-18 | 5,126 | 27 |
+| 2023-06-20 | 5,126 | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

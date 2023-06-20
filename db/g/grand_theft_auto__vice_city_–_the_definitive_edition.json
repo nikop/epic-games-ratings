@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -462,7 +462,7 @@
   ],
   "EOS_Progressed": 8670,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5293,9 +5293,9 @@
       "ID": "ACH24",
       "SetID": "9llo822",
       "Name": "Big Heat from Little Havana",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH25",
@@ -5390,8 +5390,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:11:21.2734257+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:03:18.5499126+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:06:57.2264357+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:11:21.2734772+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:59:01.680391+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:03:18.5499591+00:00"
 }

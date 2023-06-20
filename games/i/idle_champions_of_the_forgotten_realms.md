@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~7,972 |
-| The Cursed Farmer | 3.00% | ~2,990 |
-| Beast Intentions | 2.00% | ~1,993 |
-| The Ring of Regeneration | 2.00% | ~1,993 |
-| The Mad Wizard | 2.00% | ~1,993 |
+| A Brief Tour of the Realms | 8.00% | ~7,977 |
+| The Cursed Farmer | 3.00% | ~2,991 |
+| Beast Intentions | 2.00% | ~1,994 |
+| The Ring of Regeneration | 2.00% | ~1,994 |
+| The Mad Wizard | 2.00% | ~1,994 |
 | Were-verpowered | 1.00% | ~997 |
 | Seeking Allies | 1.00% | ~997 |
 | Are Ya Chicken? | 1.00% | ~997 |
@@ -18,13 +18,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 1.00% | ~997 |
 | A Persistent Buzzing | 0.90% | ~897 |
 | Pure Energy | 0.90% | ~897 |
-| The Court of Storms | 0.90% | ~593 |
-| The Crumbling Temple | 0.80% | ~797 |
+| The Court of Storms | 0.90% | ~594 |
+| The Crumbling Temple | 0.80% | ~798 |
 | Terror in the Dark | 0.70% | ~698 |
 | A Mysterious Summons | 0.70% | ~698 |
 | Unearthed Evil | 0.70% | ~698 |
 | Exploring Port Nyanzaru | 0.70% | ~698 |
-| Beware the Jabberwock | 0.70% | ~461 |
+| Beware the Jabberwock | 0.70% | ~462 |
 | Maddening | 0.60% | ~598 |
 | Beast Mode | 0.60% | ~598 |
 | Building Trust | 0.60% | ~598 |
@@ -36,11 +36,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.60% | ~396 |
 | Checkmate | 0.50% | ~330 |
 | Vecna Out! | 0.50% | ~330 |
-| Low Initiative | 0.50% | ~498 |
-| No Time To Rest | 0.50% | ~498 |
-| The Dinner Party | 0.50% | ~498 |
-| Underdeep Cartography | 0.50% | ~498 |
-| The Templar's Camp | 0.50% | ~498 |
+| Low Initiative | 0.50% | ~499 |
+| No Time To Rest | 0.50% | ~499 |
+| The Dinner Party | 0.50% | ~499 |
+| Underdeep Cartography | 0.50% | ~499 |
+| The Templar's Camp | 0.50% | ~499 |
 | Quick or Quack | 0.50% | ~330 |
 | The Silken Swamp | 0.40% | ~399 |
 | Supply Run | 0.40% | ~399 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.40% | ~264 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~264 |
 | Pin and Skewer | 0.40% | ~264 |
+| Homecoming | 0.40% | ~399 |
 | Street War | 0.40% | ~399 |
 | March of the Undead | 0.40% | ~399 |
 | Invisible Shadows | 0.40% | ~399 |
@@ -78,7 +79,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.30% | ~198 |
 | Get Back In The Castle | 0.30% | ~198 |
 | Bully for Vecna | 0.30% | ~198 |
-| Homecoming | 0.30% | ~299 |
 | The Lost Heir of Omu | 0.30% | ~299 |
 | No One Can Hear You Scream | 0.30% | ~198 |
 | Welcome to the Rock | 0.30% | ~198 |
@@ -411,6 +411,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.20% | ~132 |
 | REALLY Frozen Vengeance | 0.20% | ~132 |
 | The Battle of High Hall Tower | 0.20% | ~132 |
+| Might Makes Right | 0.20% | ~132 |
 | Elturel's Last Stand | 0.20% | ~132 |
 | Gargauth's Betrayal | 0.20% | ~132 |
 | Lost in the Underdark | 0.20% | ~132 |
@@ -486,7 +487,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~66 |
 | Rickety Rubble | 0.10% | ~66 |
 | Going To Eleven | 0.10% | ~66 |
-| Might Makes Right | 0.10% | ~66 |
 | The Stunning Tower Battle | 0.10% | ~66 |
 | Visions of Hornfirth | 0.10% | ~66 |
 | Stragglers | 0.10% | ~66 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,651 (Ranked 63)  
+Progressed: 99,709 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 73)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,651 | 1,971 |
+| 2023-06-20 | 99,709 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

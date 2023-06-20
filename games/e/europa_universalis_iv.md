@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,250 |
-| That's a Grand Army | 8.00% | ~4,667 |
-| That is mine! | 8.00% | ~4,667 |
-| Victorious! | 8.00% | ~4,667 |
-| Brothers in Arms | 6.00% | ~3,500 |
-| That's a Grand Navy | 6.00% | ~3,500 |
-| Seriously?! | 6.00% | ~3,500 |
-| For the Glory | 5.00% | ~2,917 |
-| Cold War | 4.00% | ~2,333 |
-| True Catholic | 4.00% | ~2,333 |
-| Defender of the Faith | 3.00% | ~1,750 |
-| It's all about the money | 3.00% | ~1,750 |
-| Respected | 3.00% | ~1,750 |
-| Truly Divine Ruler | 3.00% | ~1,750 |
+| Until death do us apart | 9.00% | ~5,253 |
+| That's a Grand Army | 8.00% | ~4,669 |
+| That is mine! | 8.00% | ~4,669 |
+| Victorious! | 8.00% | ~4,669 |
+| Brothers in Arms | 6.00% | ~3,502 |
+| That's a Grand Navy | 6.00% | ~3,502 |
+| Seriously?! | 6.00% | ~3,502 |
+| For the Glory | 5.00% | ~2,918 |
+| Cold War | 4.00% | ~2,334 |
+| True Catholic | 4.00% | ~2,334 |
+| Defender of the Faith | 3.00% | ~1,751 |
+| It's all about the money | 3.00% | ~1,751 |
+| Respected | 3.00% | ~1,751 |
+| Truly Divine Ruler | 3.00% | ~1,751 |
 | Agressive Expander | 2.00% | ~1,167 |
 | Blockader | 2.00% | ~1,167 |
 | Combined Arms | 2.00% | ~1,167 |
@@ -31,14 +31,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,167 |
 | The Princess is in this Castle | 2.00% | ~1,167 |
 | Total Control | 2.00% | ~1,167 |
-| All That's Thine Shall Be Mine | 1.00% | ~583 |
-| Azur semé de lis or | 1.00% | ~583 |
-| Bright Spark | 1.00% | ~583 |
-| City of Cities | 1.00% | ~583 |
-| Factionalism | 1.00% | ~583 |
-| A Golden Empire | 1.00% | ~583 |
-| The Five Colonies | 1.00% | ~583 |
-| This navy can take it all | 1.00% | ~583 |
+| All That's Thine Shall Be Mine | 1.00% | ~584 |
+| Azur semé de lis or | 1.00% | ~584 |
+| Bright Spark | 1.00% | ~584 |
+| City of Cities | 1.00% | ~584 |
+| Factionalism | 1.00% | ~584 |
+| A Golden Empire | 1.00% | ~584 |
+| The Five Colonies | 1.00% | ~584 |
+| This navy can take it all | 1.00% | ~584 |
 | The Emperors new clothes | 0.90% | ~525 |
 | Isn't this the way to India? | 0.90% | ~525 |
 | Market Control | 0.90% | ~525 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~233 |
 | Tear Down This Wall | 0.40% | ~233 |
 | The Continuation of Diplomacy | 0.40% | ~233 |
+| Wonderful | 0.40% | ~233 |
 | A Decent Reserve | 0.30% | ~175 |
 | A Pile of Gold | 0.30% | ~175 |
 | Grand Duchy | 0.30% | ~175 |
@@ -80,7 +81,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~175 |
 | Traditional Player | 0.30% | ~175 |
 | Vasa or Wettin? | 0.30% | ~175 |
-| Wonderful | 0.30% | ~175 |
 | World Discoverer | 0.30% | ~175 |
 | A Protected Market | 0.20% | ~117 |
 | AAA Credit | 0.20% | ~117 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,332 (Ranked 78)  
+Progressed: 58,362 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,16 +422,16 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
 | 2023-06-19 | 58,135 | 0 |
-| 2023-06-20 | 58,332 | 0 |
+| 2023-06-20 | 58,362 | 0 |
 ## Awards
 Max (Educational): 5,420  (Ranked 61)  
-Sum: 44,785 (Ranked 27)  
+Sum: 44,792 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,420 |
 | This game is Highly Recommended | 5,199 |
-| This game has Challenging Combat | 5,161 |
+| This game has Challenging Combat | 5,168 |
 | This game is Extremely Fun | 5,142 |
 | This game has Diverse Characters | 5,100 |
 | This game is Relaxing | 5,027 |
@@ -596,4 +596,4 @@ Diff (max vs sum): 34
 | 2023-06-17 | 4.69 | - | 5,404 | 44,681 |
 | 2023-06-18 | 4.68 | - | 5,412 | 44,715 |
 | 2023-06-19 | 4.68 | - | 5,412 | 44,761 |
-| 2023-06-20 | 4.68 | - | 5,420 | 44,785 |
+| 2023-06-20 | 4.68 | - | 5,420 | 44,792 |

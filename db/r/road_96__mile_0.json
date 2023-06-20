@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-06-18T18:04:27.0126296+00:00",
       "NumProgressed": 308,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-20T14:04:46.1960275+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -830,7 +835,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "completeact2",
@@ -846,7 +851,7 @@
       "Name": "On the Road",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "findalltapes",
@@ -910,7 +915,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "scoreminrankrp2",
@@ -949,7 +954,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 2
     }
   ],
@@ -957,8 +962,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:12:42.049986+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:04:46.1960111+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.3345062+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:07:29.5553263+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:12:42.0500026+00:00"
+  "LastUpdate_Ratings": "2023-06-20T13:59:47.4948553+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:04:46.1960635+00:00"
 }

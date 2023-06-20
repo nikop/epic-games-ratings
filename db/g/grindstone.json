@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -211,10 +211,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 5126,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.53,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:21.0391131+00:00",
@@ -615,6 +615,11 @@
       "Time": "2023-06-18T16:06:31.648215+00:00",
       "NumProgressed": 5126,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-20T14:07:43.2909061+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 49,
@@ -944,9 +949,9 @@
       "ID": "ACHIEVE_MIDAS",
       "SetID": "b8l3p0g",
       "Name": "The Midas Touch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVE_MINERSET_MINING",
@@ -1018,14 +1023,14 @@
       "ID": "b8l3p0g",
       "IsBase": true,
       "Progressed": 5126,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-20T13:14:38.5310705+00:00",
+  "LastChanged_Achievements": "2023-06-20T14:07:43.2909055+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.2741715+00:00",
-  "LastUpdate_Ratings": "2023-06-20T13:08:38.5334195+00:00",
-  "LastUpdate_Achievements": "2023-06-20T13:14:38.531116+00:00"
+  "LastUpdate_Ratings": "2023-06-20T14:01:34.3488164+00:00",
+  "LastUpdate_Achievements": "2023-06-20T14:07:43.2909481+00:00"
 }

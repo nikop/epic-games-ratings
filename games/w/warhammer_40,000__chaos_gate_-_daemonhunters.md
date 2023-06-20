@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 37.00% | ~1,076 |
+| Executioner | 37.00% | ~1,077 |
 | Look Over There! | 32.00% | ~931 |
 | Watch Where You Step... | 32.00% | ~931 |
 | Not So Fast... | 31.00% | ~902 |
@@ -14,8 +14,8 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 24.00% | ~698 |
 | Blood for the Blood God! | 18.00% | ~524 |
 | Friendly Fire | 17.00% | ~495 |
-| Surgical Excision | 16.00% | ~465 |
-| Bloodless | 16.00% | ~465 |
+| Surgical Excision | 16.00% | ~466 |
+| Bloodless | 16.00% | ~466 |
 | Honoured Battle-Brother | 12.00% | ~349 |
 | The Emperor Protects | 11.00% | ~320 |
 | Nemesis Master | 11.00% | ~320 |
@@ -25,7 +25,7 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 8.00% | ~233 |
 | Just a Scratch | 8.00% | ~233 |
 | Hold Your Ground | 6.00% | ~175 |
-| A Gift Spurned | 5.00% | ~145 |
+| A Gift Spurned | 5.00% | ~146 |
 | Daemonkeeper | 4.00% | ~116 |
 | Long Distance Call | 4.00% | ~116 |
 | Corruption Cleanser | 3.00% | ~87 |
@@ -46,9 +46,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 1.00% | ~29 |
 | Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
-| True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
+| True Mastery | 0.50% | ~15 |
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,909 (Ranked 147)  
+Progressed: 2,910 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 2,906 | 0 |
 | 2023-06-18 | 2,907 | 0 |
 | 2023-06-19 | 2,909 | 0 |
+| 2023-06-20 | 2,910 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 259)  
 Sum: 425 (Ranked 301)  
