@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 29.00% | ~24 |
-| Keep 'Em Coming | 25.00% | ~21 |
-| Snatched Out | 24.00% | ~20 |
-| Cleaning Lethe, One Nest At A Time | 14.00% | ~12 |
-| Call Me Snake | 10.00% | ~8 |
-| Something Lurks Under The Hills | 10.00% | ~8 |
-| This Was No Papercut | 8.00% | ~7 |
-| The Shrink Hates Me | 7.00% | ~6 |
-| Use The Bumper, That's What It's For | 5.00% | ~4 |
-| Damn Dude, You Gotta Lose Some Weight! | 4.00% | ~3 |
-| Colonial Barrels | 2.00% | ~2 |
+| This Is Hayes, Pioneer Station, Signing Off | 36.00% | ~42 |
+| Snatched Out | 28.00% | ~33 |
+| Keep 'Em Coming | 25.00% | ~30 |
+| Cleaning Lethe, One Nest At A Time | 16.00% | ~19 |
+| Call Me Snake | 8.00% | ~9 |
+| Something Lurks Under The Hills | 8.00% | ~9 |
+| The Shrink Hates Me | 8.00% | ~9 |
+| This Was No Papercut | 7.00% | ~8 |
+| Damn Dude, You Gotta Lose Some Weight! | 6.00% | ~7 |
+| Use The Bumper, That's What It's For | 5.00% | ~6 |
+| Colonial Barrels | 3.00% | ~4 |
+| People Person | 3.00% | ~4 |
+| Recouped Investment | 3.00% | ~4 |
+| Omelette Du Fromage | 2.00% | ~2 |
 | First Steps Into Madness | 2.00% | ~2 |
-| Stuff Of Nightmares | 1.00% | ~1 |
-| Heavy Steps | 1.00% | ~1 |
-| Where It All Begun | 1.00% | ~1 |
-| The Darwin Era Was Here | 1.00% | ~1 |
-| Deep Into Insanity | 1.00% | ~1 |
-| People Person | 1.00% | ~1 |
-| Recouped Investment | 1.00% | ~1 |
+| Stuff Of Nightmares | 0.80% | ~1 |
+| Heavy Steps | 0.80% | ~1 |
+| Where It All Begun | 0.80% | ~1 |
+| The Darwin Era Was Here | 0.80% | ~1 |
+| Deep Into Insanity | 0.80% | ~1 |
 | Archivist | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | One For Every Occasion | 0.00% | ~0 |
 | Perfect Enhancements | 0.00% | ~0 |
-| Omelette Du Fromage | 0.00% | ~0 |
 | Fair And Square | 0.00% | ~0 |
 | Perfect Organism | 0.00% | ~0 |
 | This Went Smoothly | 0.00% | ~0 |
@@ -50,9 +50,9 @@
 | The True Experience | 0.00% | ~0 |
 | The More The Merrier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 297)  
+Progressed: 118 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-20 | 84 | 0 |
+| 2023-06-20 | 118 | 0 |

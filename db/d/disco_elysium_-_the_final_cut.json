@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1145,9 +1145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121928,
+  "EOS_Progressed": 121930,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6995,6 +6995,11 @@
       "Time": "2023-06-20T09:06:42.7337672+00:00",
       "NumProgressed": 121928,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-20T10:07:45.7663338+00:00",
+      "NumProgressed": 121930,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7110,7 +7115,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19508
+      "UsersEstimate": 19509
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -7142,7 +7147,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18289
+      "UsersEstimate": 18290
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -7270,7 +7275,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -7325,15 +7330,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121928,
+      "Progressed": 121930,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-20T09:06:42.7337664+00:00",
+  "LastChanged_Achievements": "2023-06-20T10:07:45.7663328+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-20T08:59:42.7827894+00:00",
-  "LastUpdate_Achievements": "2023-06-20T09:06:42.7338304+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:00:14.6072243+00:00",
+  "LastUpdate_Achievements": "2023-06-20T10:07:45.7664001+00:00"
 }

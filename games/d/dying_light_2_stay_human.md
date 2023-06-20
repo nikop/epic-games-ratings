@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,834 |
-| Into the Unknown | 10.00% | ~58,031 |
-| First Shot | 10.00% | ~58,031 |
-| Herzlich Wilkommen! | 9.00% | ~52,228 |
-| Good Night & Good Luck | 9.00% | ~52,228 |
-| Sancho Panza | 8.00% | ~46,425 |
+| You Never Forget Your First... | 11.00% | ~63,835 |
+| Into the Unknown | 10.00% | ~58,032 |
+| First Shot | 10.00% | ~58,032 |
+| Herzlich Wilkommen! | 9.00% | ~52,229 |
+| Good Night & Good Luck | 9.00% | ~52,229 |
+| Sancho Panza | 8.00% | ~46,426 |
 | Under Pressure | 7.00% | ~40,622 |
 | Flag Burning | 7.00% | ~40,622 |
 | Oh, So This Is How It Works! | 7.00% | ~40,622 |
 | Night Hunter | 7.00% | ~40,622 |
-| On the Trail of the Enemy | 6.00% | ~34,818 |
-| Light in the Darkness | 6.00% | ~34,818 |
-| Get Outta My House! | 6.00% | ~34,818 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,818 |
-| Being All Social | 6.00% | ~34,818 |
-| We Will Be Heard! | 5.00% | ~29,015 |
-| Tunnel Entrance | 5.00% | ~29,015 |
-| After the Fall | 5.00% | ~29,015 |
-| Can't Touch This! | 5.00% | ~29,015 |
-| Debris and Ashes | 4.00% | ~23,212 |
-| Known Associate | 4.00% | ~23,212 |
-| Brush with Death | 4.00% | ~23,212 |
-| Going Down | 4.00% | ~23,212 |
-| Family First | 4.00% | ~23,212 |
-| Your World, Your Rules | 4.00% | ~23,212 |
-| Death From Afar | 4.00% | ~23,212 |
-| Terminal Headache | 4.00% | ~23,212 |
-| Slowpoke! | 4.00% | ~23,212 |
-| You're Going Down! | 3.00% | ~17,409 |
+| On the Trail of the Enemy | 6.00% | ~34,819 |
+| Light in the Darkness | 6.00% | ~34,819 |
+| Get Outta My House! | 6.00% | ~34,819 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,819 |
+| Being All Social | 6.00% | ~34,819 |
+| We Will Be Heard! | 5.00% | ~29,016 |
+| Tunnel Entrance | 5.00% | ~29,016 |
+| After the Fall | 5.00% | ~29,016 |
+| Can't Touch This! | 5.00% | ~29,016 |
+| Debris and Ashes | 4.00% | ~23,213 |
+| Known Associate | 4.00% | ~23,213 |
+| Brush with Death | 4.00% | ~23,213 |
+| Going Down | 4.00% | ~23,213 |
+| Family First | 4.00% | ~23,213 |
+| Your World, Your Rules | 4.00% | ~23,213 |
+| Death From Afar | 4.00% | ~23,213 |
+| Terminal Headache | 4.00% | ~23,213 |
+| Slowpoke! | 4.00% | ~23,213 |
+| You're Going Down! | 3.00% | ~17,410 |
 | Tickets, Please! | 2.00% | ~11,606 |
 | Parkour Master | 2.00% | ~11,606 |
 | Combat Master | 2.00% | ~11,606 |
@@ -49,9 +49,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Nemesis | 1.00% | ~2,258 |
 | That's Teamwork! | 0.90% | ~5,223 |
 | Enter the Hall | 0.90% | ~2,032 |
-| Find Anything Interesting? | 0.80% | ~4,642 |
-| Boot Licker | 0.80% | ~4,642 |
-| Who Wants To Be a... | 0.80% | ~4,642 |
+| Find Anything Interesting? | 0.80% | ~4,643 |
+| Boot Licker | 0.80% | ~4,643 |
+| Who Wants To Be a... | 0.80% | ~4,643 |
 | Night of Terrors | 0.80% | ~1,806 |
 | Get the Point? | 0.70% | ~4,062 |
 | My Friend, Ciro | 0.70% | ~1,580 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,308 (Ranked 25)  
+Progressed: 580,321 (Ranked 25)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,10 +133,10 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
-| 2023-06-20 | 580,308 | 57 |
+| 2023-06-20 | 580,321 | 57 |
 ## Awards
 Max (Character Customization): 7,890  (Ranked 40)  
-Sum: 18,298 (Ranked 56)  
+Sum: 18,304 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): -16
 | This game has Quickly Understood Controls | 641 |
 | This game has Amazing Storytelling | 632 |
 | This game is Relaxing | 617 |
-| This game has a Creative Community | 505 |
+| This game has a Creative Community | 511 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -314,4 +314,4 @@ Diff (max vs sum): -16
 | 2023-06-17 | 4.58 | - | 7,827 | 18,144 |
 | 2023-06-18 | 4.58 | - | 7,856 | 18,212 |
 | 2023-06-19 | 4.58 | - | 7,890 | 18,295 |
-| 2023-06-20 | 4.58 | - | 7,890 | 18,298 |
+| 2023-06-20 | 4.58 | - | 7,890 | 18,304 |

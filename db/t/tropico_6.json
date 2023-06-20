@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3732,
+  "EOS_Progressed": 3733,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -4734,6 +4734,11 @@
       "Time": "2023-06-20T04:03:43.4835089+00:00",
       "NumProgressed": 3732,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T10:03:40.7320474+00:00",
+      "NumProgressed": 3733,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4849,7 +4854,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4905,7 +4910,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4929,7 +4934,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5001,7 +5006,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5064,15 +5069,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3732,
+      "Progressed": 3733,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-20T09:03:12.1606607+00:00",
+  "LastChanged_Achievements": "2023-06-20T10:03:40.7320467+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:00:58.9331475+00:00",
-  "LastUpdate_Achievements": "2023-06-20T09:03:12.160708+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:01:45.233998+00:00",
+  "LastUpdate_Achievements": "2023-06-20T10:03:40.7321013+00:00"
 }

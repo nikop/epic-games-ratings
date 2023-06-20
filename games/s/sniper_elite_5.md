@@ -17,7 +17,7 @@ Rating: 4.49 (Ranked 565)
 | Target America | 13.00% | ~395 |
 | As Quiet as a Mouse | 12.00% | ~365 |
 | The Kraken Sleeps | 12.00% | ~365 |
-| Liberté | 11.00% | ~334 |
+| Liberté | 11.00% | ~335 |
 | Sharpshooter | 10.00% | ~304 |
 | Explosive Efficiency | 10.00% | ~304 |
 | Just a Flesh Wound | 9.00% | ~274 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 565)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,040 (Ranked 143)  
+Progressed: 3,041 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
-| 2023-06-20 | 3,040 | 2 |
+| 2023-06-20 | 3,041 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

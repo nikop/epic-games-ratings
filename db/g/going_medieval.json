@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1096,7 +1096,7 @@
   ],
   "EOS_Progressed": 3926,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3562,9 +3562,9 @@
       "ID": "STORE_NUTRITION_5000",
       "SetID": "5349c2e",
       "Name": "Putting Food on the Table",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2316
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -3650,9 +3650,9 @@
       "ID": "UNLOCK_RESEARCH_3",
       "SetID": "5349c2e",
       "Name": "Onward",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2120
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -3674,8 +3674,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
-  "LastChanged_Achievements": "2023-06-20T09:06:41.4300934+00:00",
+  "LastChanged_Achievements": "2023-06-20T10:07:44.2788676+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:00:35.7812628+00:00",
-  "LastUpdate_Achievements": "2023-06-20T09:06:41.4301292+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:01:19.5852922+00:00",
+  "LastUpdate_Achievements": "2023-06-20T10:07:44.2789079+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1944,6 +1944,11 @@
       "Time": "2023-06-20T00:00:32.1867689+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T10:02:41.7639391+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2035,7 +2040,7 @@
       "Name": "Croaked",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "CRUELTY",
@@ -2107,7 +2112,7 @@
       "Name": "Endgame",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "EXORCIST",
@@ -2123,7 +2128,7 @@
       "Name": "Experienced",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "FIRESTARTER",
@@ -2131,15 +2136,15 @@
       "Name": "Firestarter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1067
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2187,7 +2192,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2203,7 +2208,7 @@
       "Name": "I am the law!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "INFILTRATOR",
@@ -2211,7 +2216,7 @@
       "Name": "Infiltrator",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "LUMBERJACK",
@@ -2265,9 +2270,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 363
     },
     {
       "ID": "RUTHLESS",
@@ -2283,7 +2288,7 @@
       "Name": "Savior",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "SENSEI",
@@ -2291,7 +2296,7 @@
       "Name": "Sensei",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2323,7 +2328,7 @@
       "Name": "Technophobe",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2362,7 +2367,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 0
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-20T09:01:42.1747634+00:00",
+  "LastChanged_Achievements": "2023-06-20T10:02:41.7639384+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-20T08:58:47.9749208+00:00",
-  "LastUpdate_Achievements": "2023-06-20T09:01:42.1748184+00:00"
+  "LastUpdate_Ratings": "2023-06-20T09:59:13.2319164+00:00",
+  "LastUpdate_Achievements": "2023-06-20T10:02:41.7639993+00:00"
 }

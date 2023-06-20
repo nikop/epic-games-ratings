@@ -6,36 +6,36 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~551,644 |
-| Error: Stack Overflow | 66.00% | ~391,490 |
-| We need more gold | 60.00% | ~355,900 |
-| The dawn of civilization | 53.00% | ~314,378 |
-| More FPS for the FPS god! | 49.00% | ~290,651 |
-| Beauty and harmony | 48.00% | ~284,720 |
-| One more! | 44.00% | ~260,993 |
-| Overmind | 24.00% | ~142,360 |
-| RNG is my best friend now | 18.00% | ~106,770 |
-| Cosplay | 13.00% | ~77,112 |
-| Evolution in progress... | 13.00% | ~77,112 |
-| Step by step | 8.00% | ~47,453 |
+| First.. Bit? | 93.00% | ~551,653 |
+| Error: Stack Overflow | 66.00% | ~391,496 |
+| We need more gold | 60.00% | ~355,905 |
+| The dawn of civilization | 53.00% | ~314,383 |
+| More FPS for the FPS god! | 49.00% | ~290,656 |
+| Beauty and harmony | 48.00% | ~284,724 |
+| One more! | 44.00% | ~260,997 |
+| Overmind | 24.00% | ~142,362 |
+| RNG is my best friend now | 18.00% | ~106,772 |
+| Cosplay | 13.00% | ~77,113 |
+| Evolution in progress... | 13.00% | ~77,113 |
+| Step by step | 8.00% | ~47,454 |
 | README reader | 3.00% | ~17,795 |
 | Data scientist | 3.00% | ~17,795 |
 | One small step for a man... | 3.00% | ~17,795 |
-| To see it all, to learn it all | 2.00% | ~11,863 |
-| Evolution complete | 2.00% | ~11,863 |
-| Best deal on the market | 2.00% | ~11,863 |
-| Is this Skynet? | 2.00% | ~11,863 |
-| Cybergeek 2047 | 2.00% | ~11,863 |
+| To see it all, to learn it all | 2.00% | ~11,864 |
+| Evolution complete | 2.00% | ~11,864 |
+| Best deal on the market | 2.00% | ~11,864 |
+| Is this Skynet? | 2.00% | ~11,864 |
+| Cybergeek 2047 | 2.00% | ~11,864 |
 | Ping | 1.00% | ~5,932 |
 | Magna cum laude | 1.00% | ~5,932 |
-| The hoarder | 0.90% | ~5,338 |
+| The hoarder | 0.90% | ~5,339 |
 | Deal with it! | 0.50% | ~2,966 |
 | Gold rush | 0.40% | ~2,373 |
 | Cat-o-holic | 0.40% | ~2,373 |
-| Elements will destroy you! | 0.30% | ~1,779 |
+| Elements will destroy you! | 0.30% | ~1,780 |
 | The Scrooge | 0.10% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593,166 (Ranked 24)  
+Progressed: 593,175 (Ranked 24)  
 Completed: 493 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 493 (0.08%) (Ranked 182)
 | 2023-06-17 | 592,860 | 492 |
 | 2023-06-18 | 593,002 | 492 |
 | 2023-06-19 | 593,126 | 493 |
-| 2023-06-20 | 593,166 | 493 |
+| 2023-06-20 | 593,175 | 493 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 299)  
 Sum: 133 (Ranked 391)  

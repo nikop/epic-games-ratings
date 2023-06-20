@@ -12,8 +12,8 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 65.00% | ~2,552 |
 | Green Thumb | 64.00% | ~2,513 |
 | Novice Researcher | 62.00% | ~2,434 |
-| Putting Food on the Table | 58.00% | ~2,277 |
-| Onward | 53.00% | ~2,081 |
+| Putting Food on the Table | 59.00% | ~2,316 |
+| Onward | 54.00% | ~2,120 |
 | Home Cooked Meal | 51.00% | ~2,002 |
 | The First Week | 51.00% | ~2,002 |
 | Feast or Famine | 49.00% | ~1,924 |

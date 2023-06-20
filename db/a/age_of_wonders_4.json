@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4754,
+  "EOS_Progressed": 4755,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4228,6 +4228,11 @@
       "Time": "2023-06-20T09:05:21.7911107+00:00",
       "NumProgressed": 4754,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T10:05:59.4300108+00:00",
+      "NumProgressed": 4755,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4239,7 +4244,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "10",
@@ -4255,7 +4260,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "12",
@@ -4271,7 +4276,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "14",
@@ -4279,7 +4284,7 @@
       "Name": "Full Ascension",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "15",
@@ -4287,7 +4292,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "16",
@@ -4351,7 +4356,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "23",
@@ -4375,7 +4380,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3519
     },
     {
       "ID": "26",
@@ -4383,7 +4388,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "27",
@@ -4391,7 +4396,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "28",
@@ -4399,7 +4404,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3280
+      "UsersEstimate": 3281
     },
     {
       "ID": "29",
@@ -4423,7 +4428,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "31",
@@ -4439,7 +4444,7 @@
       "Name": "My Final Form",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "33",
@@ -4447,7 +4452,7 @@
       "Name": "Seat of Power",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "34",
@@ -4479,7 +4484,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "38",
@@ -4503,7 +4508,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "40",
@@ -4519,7 +4524,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "42",
@@ -4543,7 +4548,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "5",
@@ -4590,13 +4595,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4754,
-      "Completed": 4754
+      "Progressed": 4755,
+      "Completed": 4755
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4754,
+      "Progressed": 4755,
       "Completed": 3
     }
   ],
@@ -4604,8 +4609,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-20T09:05:21.7911102+00:00",
+  "LastChanged_Achievements": "2023-06-20T10:05:59.43001+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-20T09:00:11.6680441+00:00",
-  "LastUpdate_Achievements": "2023-06-20T09:05:21.7911576+00:00"
+  "LastUpdate_Ratings": "2023-06-20T10:00:49.4246196+00:00",
+  "LastUpdate_Achievements": "2023-06-20T10:05:59.4300706+00:00"
 }

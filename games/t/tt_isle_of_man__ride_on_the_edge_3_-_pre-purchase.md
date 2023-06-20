@@ -12,7 +12,7 @@
 | Like Phileas Fogg | 11.00% | ~10 |
 | Highly Qualified | 9.00% | ~8 |
 | No Room for Improvement | 9.00% | ~8 |
-| Start Your Engines | 8.00% | ~7 |
+| Start Your Engines | 9.00% | ~8 |
 | Lone Wolf | 8.00% | ~7 |
 | Nerd | 7.00% | ~6 |
 | Upgradeaholic | 7.00% | ~6 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 295)  
+Progressed: 88 (Ranked 296)  
 Completed: 2 (2.27%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
