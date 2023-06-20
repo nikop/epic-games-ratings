@@ -11,8 +11,8 @@ Rating: 4.19 (Ranked 843)
 | Paper Jams | 13.00% | ~2,012 |
 | Chew 'Em Up | 11.00% | ~1,702 |
 | Reforged | 11.00% | ~1,702 |
-| Workplace Hazard | 10.00% | ~1,547 |
-| If the SHU Fits... | 10.00% | ~1,547 |
+| Workplace Hazard | 10.00% | ~1,548 |
+| If the SHU Fits... | 10.00% | ~1,548 |
 | Get a Grip | 9.00% | ~1,393 |
 | Giving Back | 8.00% | ~1,238 |
 | Without A Paddle | 8.00% | ~1,238 |
@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 843)
 | In Striking Distance | 3.00% | ~464 |
 | Big Game Hunter | 3.00% | ~102 |
 | Bear Trap | 3.00% | ~102 |
-| Mugshot | 2.00% | ~309 |
+| Mugshot | 2.00% | ~310 |
 | Big Spender | 2.00% | ~68 |
 | Grim Reaper | 1.00% | ~155 |
 | Parole Denied | 1.00% | ~34 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,474 (Ranked 104)  
+Progressed: 15,475 (Ranked 104)  
 Completed: 56 (0.36%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 56 (0.36%) (Ranked 133)
 | 2023-06-17 | 15,418 | 56 |
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
-| 2023-06-20 | 15,474 | 56 |
+| 2023-06-20 | 15,475 | 56 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 326)  

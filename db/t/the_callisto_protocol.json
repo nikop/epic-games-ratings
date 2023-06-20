@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -698,9 +698,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15474,
+  "EOS_Progressed": 15475,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4413,6 +4413,11 @@
       "Time": "2023-06-20T16:04:24.64708+00:00",
       "NumProgressed": 15474,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T17:05:32.0770204+00:00",
+      "NumProgressed": 15475,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4568,7 +4573,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -4608,7 +4613,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -4624,7 +4629,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "STORY_HABITAT",
@@ -4743,13 +4748,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15474,
+      "Progressed": 15475,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3400,
+      "Progressed": 3401,
       "Completed": 29
     }
   ],
@@ -4757,8 +4762,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-20T13:58:30.7230706+00:00",
-  "LastChanged_Achievements": "2023-06-20T16:04:24.6470796+00:00",
+  "LastChanged_Achievements": "2023-06-20T17:05:32.0770197+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:57:55.7815017+00:00",
-  "LastUpdate_Achievements": "2023-06-20T16:04:24.6471229+00:00"
+  "LastUpdate_Ratings": "2023-06-20T16:58:44.2441322+00:00",
+  "LastUpdate_Achievements": "2023-06-20T17:05:32.0770787+00:00"
 }

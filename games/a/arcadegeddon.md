@@ -44,10 +44,10 @@ Number of Ratings: 801  (23.09.2022)
 | Stop Hitting Yourself | 5.00% | ~366 |
 | Ground Control | 4.00% | ~293 |
 | Master of Arms | 4.00% | ~293 |
+| Start Your Collection | 4.00% | ~293 |
 | Team Player | 4.00% | ~293 |
 | Treasure Hunting | 4.00% | ~293 |
 | Event Horizon | 3.00% | ~219 |
-| Start Your Collection | 3.00% | ~219 |
 | Nexuwizard | 2.00% | ~146 |
 | Everybody Freeze | 1.00% | ~73 |
 | Nature Is Lit | 1.00% | ~73 |

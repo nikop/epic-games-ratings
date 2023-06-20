@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 421,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-06-20T02:11:11.4339171+00:00",
       "NumProgressed": 419,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-20T17:07:26.7695425+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -473,7 +478,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 400
     },
     {
       "ID": "CHOICES_MATTER",
@@ -503,9 +508,9 @@
       "ID": "ENDING_3",
       "SetID": "8eejhlh",
       "Name": "The Ploy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ENDING_4",
@@ -521,7 +526,7 @@
       "Name": "The Delivery",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ENDING_6",
@@ -537,7 +542,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -545,7 +550,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -561,15 +566,15 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 299
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 131
     },
     {
       "ID": "INTERROGATION",
@@ -585,7 +590,7 @@
       "Name": "Office Clerk",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -601,7 +606,7 @@
       "Name": "Protector",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "SABOTAGE",
@@ -609,7 +614,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SHILL_BIDDER",
@@ -617,22 +622,22 @@
       "Name": "Shill Bidder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 421,
       "Completed": 5
     }
   ],
@@ -640,8 +645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-20T16:05:39.0242247+00:00",
+  "LastChanged_Achievements": "2023-06-20T17:07:26.7695417+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.6969817+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:57:46.2765423+00:00",
-  "LastUpdate_Achievements": "2023-06-20T16:05:39.0242355+00:00"
+  "LastUpdate_Ratings": "2023-06-20T16:58:30.9674277+00:00",
+  "LastUpdate_Achievements": "2023-06-20T17:07:26.7695761+00:00"
 }

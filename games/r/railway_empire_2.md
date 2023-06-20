@@ -23,8 +23,8 @@ Rating: 4.31 (Ranked 767)
 | Apprentice | 42.00% | ~543 |
 | Bridge Builder | 40.00% | ~517 |
 | Access granted | 34.00% | ~440 |
+| Stoker | 33.00% | ~427 |
 | Going once, going twice, sold | 33.00% | ~427 |
-| Stoker | 32.00% | ~414 |
 | Full Steam ahead | 31.00% | ~401 |
 | Bull and bear | 30.00% | ~388 |
 | All mine | 27.00% | ~349 |
@@ -32,13 +32,13 @@ Rating: 4.31 (Ranked 767)
 | Financial Shark | 27.00% | ~349 |
 | Country Life | 25.00% | ~323 |
 | Socializer | 25.00% | ~323 |
-| General Manager | 23.00% | ~297 |
+| General Manager | 24.00% | ~310 |
 | Hostile Takeover | 23.00% | ~297 |
 | Seven at one stroke | 22.00% | ~284 |
 | Trailblazer | 19.00% | ~246 |
 | Breaking Ground | 18.00% | ~233 |
+| Traffic Jam | 17.00% | ~220 |
 | Traffic Junction | 17.00% | ~220 |
-| Traffic Jam | 16.00% | ~207 |
 | Assimilated | 16.00% | ~207 |
 | Locusts | 15.00% | ~194 |
 | Networker | 15.00% | ~194 |

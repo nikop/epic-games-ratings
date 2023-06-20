@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,866 (Ranked 17)  
-Completed: 12,778 (1.80%) (Ranked 79)  
+Progressed: 709,868 (Ranked 17)  
+Completed: 12,779 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 12,778 (1.80%) (Ranked 79)
 | 2023-06-17 | 709,699 | 12,775 |
 | 2023-06-18 | 709,766 | 12,776 |
 | 2023-06-19 | 709,833 | 12,778 |
-| 2023-06-20 | 709,866 | 12,778 |
+| 2023-06-20 | 709,868 | 12,779 |
 ## Awards
 Max (Great Boss Battles): 6,193  (Ranked 52)  
 Sum: 10,585 (Ranked 78)  

@@ -1,29 +1,29 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.75 (Ranked 131)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,394 |
-| Photographer | 75.00% | ~3,306 |
-| Valley's Helper | 71.00% | ~3,130 |
-| Constructor | 61.00% | ~2,689 |
-| Renovator | 58.00% | ~2,557 |
-| Bestest Friend | 56.00% | ~2,468 |
-| Banker | 48.00% | ~2,116 |
-| Gardener | 37.00% | ~1,631 |
-| Generous | 27.00% | ~1,190 |
-| Chef Cook | 22.00% | ~970 |
-| Miner | 11.00% | ~485 |
-| Duty Bound | 7.00% | ~309 |
-| Angler | 6.00% | ~264 |
-| Thorn Cleaner | 4.00% | ~176 |
-| Chit Chatter | 3.00% | ~132 |
+| Goofy's Investor | 77.00% | ~3,406 |
+| Photographer | 75.00% | ~3,317 |
+| Valley's Helper | 71.00% | ~3,140 |
+| Constructor | 60.00% | ~2,654 |
+| Renovator | 58.00% | ~2,565 |
+| Bestest Friend | 56.00% | ~2,477 |
+| Banker | 48.00% | ~2,123 |
+| Gardener | 37.00% | ~1,637 |
+| Generous | 27.00% | ~1,194 |
+| Chef Cook | 22.00% | ~973 |
+| Miner | 11.00% | ~487 |
+| Duty Bound | 7.00% | ~310 |
+| Angler | 6.00% | ~265 |
+| Thorn Cleaner | 4.00% | ~177 |
+| Chit Chatter | 3.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,408 (Ranked 134)  
-Completed: 144 (3.27%) (Ranked 50)  
+Progressed: 4,423 (Ranked 133)  
+Completed: 144 (3.26%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -34,15 +34,15 @@ Completed: 144 (3.27%) (Ranked 50)
 | 2023-06-17 | 3,840 | 98 |
 | 2023-06-18 | 4,123 | 103 |
 | 2023-06-19 | 4,300 | 141 |
-| 2023-06-20 | 4,408 | 144 |
+| 2023-06-20 | 4,423 | 144 |
 ## Awards
 Max (Great for Beginners): 873  (Ranked 146)  
-Sum: 7,179 (Ranked 103)  
+Sum: 7,180 (Ranked 103)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 873 |
-| This game is Relaxing | 776 |
+| This game is Relaxing | 777 |
 | This game is Highly Recommended | 766 |
 | This game has Amazing Characters | 763 |
 | This game has Diverse Characters | 758 |
@@ -160,3 +160,4 @@ Diff (max vs sum): 43
 | 2023-06-17 | 4.76 | - | 873 | 7,172 |
 | 2023-06-18 | 4.76 | - | 873 | 7,175 |
 | 2023-06-19 | 4.76 | - | 873 | 7,179 |
+| 2023-06-20 | 4.75 | - | 873 | 7,180 |

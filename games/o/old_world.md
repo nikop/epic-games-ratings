@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,9 +19,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 58.00% | ~7,071 |
 | Oracle | 57.00% | ~6,949 |
 | Good | 55.00% | ~6,705 |
+| Judaism | 55.00% | ~6,705 |
 | Just | 54.00% | ~6,583 |
 | Keystone | 54.00% | ~6,583 |
-| Judaism | 54.00% | ~6,583 |
 | Glorious | 52.00% | ~6,339 |
 | Trade Caravan | 52.00% | ~6,339 |
 | Naming Landmarks | 50.00% | ~6,096 |

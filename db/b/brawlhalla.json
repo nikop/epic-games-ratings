@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -3066,10 +3066,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1613,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2023-06-20T17:01:11.2425514+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1618,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1613,
+  "NumberOfAwards": 1618,
   "NumberOfAwardsMax": 171,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3095,7 +3101,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 143
+      "Count": 147
     },
     {
       "Text": "This game is Relaxing",
@@ -3113,7 +3119,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3158,8 +3164,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-20T15:59:32.6522136+00:00",
+  "LastChanged": "2023-06-20T17:01:11.2425512+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.5502935+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:59:32.6522141+00:00",
-  "LastUpdate_Achievements": "2023-06-20T16:03:19.3729779+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:01:11.2425523+00:00",
+  "LastUpdate_Achievements": "2023-06-20T17:04:01.2851538+00:00"
 }

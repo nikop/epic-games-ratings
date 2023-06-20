@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 453)  
+Rating: 4.57 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 453)
 | Gregor Spinoza | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |
 | Remember the Dead | 0.30% | ~8 |
-| Work Harder | 0.20% | ~5 |
+| Work Harder | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
 | A Junker's Dream | 0.10% | ~3 |
@@ -170,3 +170,4 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-12 | 4.58 | 0 | 0 |
 | 2023-06-13 | 4.57 | 0 | 0 |
 | 2023-06-16 | 4.56 | 0 | 0 |
+| 2023-06-20 | 4.57 | 0 | 0 |

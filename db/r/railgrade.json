@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19055,
+  "EOS_Progressed": 19056,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3310,6 +3310,11 @@
       "Time": "2023-06-20T12:07:48.1255223+00:00",
       "NumProgressed": 19055,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-20T17:07:36.8780539+00:00",
+      "NumProgressed": 19056,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3329,7 +3334,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ach.030.deertastic",
@@ -3353,7 +3358,7 @@
       "Name": "Builder",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15625
+      "UsersEstimate": 15626
     },
     {
       "ID": "ach.060.goingdistance",
@@ -3377,7 +3382,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13338
+      "UsersEstimate": 13339
     },
     {
       "ID": "ach.090.perfectionist",
@@ -3425,7 +3430,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18674
+      "UsersEstimate": 18675
     },
     {
       "ID": "ach.150.pocket",
@@ -3457,7 +3462,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11242
+      "UsersEstimate": 11243
     },
     {
       "ID": "ach.190.scenic",
@@ -3481,7 +3486,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ach.220.hot",
@@ -3505,7 +3510,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ach.250.downfall",
@@ -3513,7 +3518,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17721
+      "UsersEstimate": 17722
     },
     {
       "ID": "ach.260.investor",
@@ -3577,7 +3582,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17340
+      "UsersEstimate": 17341
     },
     {
       "ID": "ach.340.steel",
@@ -3616,7 +3621,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19055,
+      "Progressed": 19056,
       "Completed": 30
     }
   ],
@@ -3624,8 +3629,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-16T10:00:30.573746+00:00",
-  "LastChanged_Achievements": "2023-06-20T16:05:46.1981619+00:00",
+  "LastChanged_Achievements": "2023-06-20T17:07:36.8780532+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.6579586+00:00",
-  "LastUpdate_Ratings": "2023-06-20T15:59:20.1020471+00:00",
-  "LastUpdate_Achievements": "2023-06-20T16:05:46.1981966+00:00"
+  "LastUpdate_Ratings": "2023-06-20T17:00:49.3245797+00:00",
+  "LastUpdate_Achievements": "2023-06-20T17:07:36.8781059+00:00"
 }

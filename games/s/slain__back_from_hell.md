@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~5,329 |
-| A Good Day To Die | 16.00% | ~4,264 |
+| Man 'O War | 20.00% | ~5,331 |
+| A Good Day To Die | 16.00% | ~4,265 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,599 |
 | Right Back Atcha | 6.00% | ~1,599 |
-| Killed by Death | 5.00% | ~1,332 |
+| Killed by Death | 5.00% | ~1,333 |
 | Kill 'Em All | 4.00% | ~1,066 |
 | Down Boy! | 2.00% | ~533 |
 | A Snowball's Chance in Hell | 2.00% | ~533 |
-| Enjoy The Silence | 1.00% | ~266 |
+| Enjoy The Silence | 1.00% | ~267 |
 | Sure Footed As A Goat | 0.90% | ~240 |
 | Thorn in My Herbicide | 0.80% | ~213 |
 | Backdoor Man | 0.80% | ~213 |
@@ -21,9 +21,9 @@ Rating: 4.28 (Ranked 787)
 | Schadenfreude | 0.80% | ~213 |
 | Red In Tooth And Claw | 0.70% | ~187 |
 | The Sky Is Falling | 0.70% | ~187 |
+| That'll Come In Handy... | 0.70% | ~187 |
 | Start As You Mean To Go On | 0.60% | ~160 |
 | Hail the Great Horned Metal God! | 0.60% | ~160 |
-| That'll Come In Handy... | 0.60% | ~160 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~133 |
 | Four Legged Friend | 0.40% | ~107 |
 | Ice To See You | 0.40% | ~107 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 787)
 | Too Metal For Magic | 0.10% | ~27 |
 | Heart Of Steel | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,647 (Ranked 94)  
+Progressed: 26,655 (Ranked 94)  
 Completed: 20 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 20 (0.08%) (Ranked 182)
 | 2023-06-17 | 26,215 | 20 |
 | 2023-06-18 | 26,400 | 20 |
 | 2023-06-19 | 26,551 | 20 |
-| 2023-06-20 | 26,647 | 20 |
+| 2023-06-20 | 26,655 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 302)  
 Sum: 125 (Ranked 393)  
