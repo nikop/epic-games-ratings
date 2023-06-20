@@ -6,16 +6,16 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,832 |
-| Into the Unknown | 10.00% | ~58,029 |
-| First Shot | 10.00% | ~58,029 |
-| Herzlich Wilkommen! | 9.00% | ~52,226 |
-| Good Night & Good Luck | 9.00% | ~52,226 |
-| Sancho Panza | 8.00% | ~46,423 |
-| Under Pressure | 7.00% | ~40,620 |
-| Flag Burning | 7.00% | ~40,620 |
-| Oh, So This Is How It Works! | 7.00% | ~40,620 |
-| Night Hunter | 7.00% | ~40,620 |
+| You Never Forget Your First... | 11.00% | ~63,834 |
+| Into the Unknown | 10.00% | ~58,031 |
+| First Shot | 10.00% | ~58,031 |
+| Herzlich Wilkommen! | 9.00% | ~52,228 |
+| Good Night & Good Luck | 9.00% | ~52,228 |
+| Sancho Panza | 8.00% | ~46,425 |
+| Under Pressure | 7.00% | ~40,622 |
+| Flag Burning | 7.00% | ~40,622 |
+| Oh, So This Is How It Works! | 7.00% | ~40,622 |
+| Night Hunter | 7.00% | ~40,622 |
 | On the Trail of the Enemy | 6.00% | ~34,818 |
 | Light in the Darkness | 6.00% | ~34,818 |
 | Get Outta My House! | 6.00% | ~34,818 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,803 |
 | Fit as a Fiddle | 1.00% | ~5,803 |
 | Ironheart | 1.00% | ~5,803 |
-| Nemesis | 1.00% | ~2,257 |
+| Nemesis | 1.00% | ~2,258 |
 | That's Teamwork! | 0.90% | ~5,223 |
 | Enter the Hall | 0.90% | ~2,032 |
 | Find Anything Interesting? | 0.80% | ~4,642 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,292 (Ranked 25)  
+Progressed: 580,308 (Ranked 25)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
-| 2023-06-20 | 580,292 | 57 |
+| 2023-06-20 | 580,308 | 57 |
 ## Awards
 Max (Character Customization): 7,890  (Ranked 40)  
 Sum: 18,298 (Ranked 56)  

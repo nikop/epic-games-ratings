@@ -2766,9 +2766,9 @@
       "Count": 1043
     }
   ],
-  "EOS_Progressed": 47825,
+  "EOS_Progressed": 47826,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 2535,
+  "EOS_NewPlayers": 2521,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9111,6 +9111,11 @@
       "Time": "2023-06-20T08:02:23.1316108+00:00",
       "NumProgressed": 47825,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-20T09:01:57.8802351+00:00",
+      "NumProgressed": 47826,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 53,
@@ -9146,7 +9151,7 @@
       "Name": "Shopping Spree",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -9194,7 +9199,7 @@
       "Name": "Always Be Hustling",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "complete_challenge_packs",
@@ -9210,7 +9215,7 @@
       "Name": "Showdown",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "complete_first_side_hustle",
@@ -9234,7 +9239,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 15782
+      "UsersEstimate": 15783
     },
     {
       "ID": "customize_a_vehicle",
@@ -9362,7 +9367,7 @@
       "Name": "Et tu?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "get_fired",
@@ -9378,7 +9383,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "infinite_boost_refill",
@@ -9402,7 +9407,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8608
+      "UsersEstimate": 8609
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -9474,7 +9479,7 @@
       "Name": "Food for Thought",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8608
+      "UsersEstimate": 8609
     },
     {
       "ID": "two_thirds_purple",
@@ -9482,7 +9487,7 @@
       "Name": "Community Outreach",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -9506,7 +9511,7 @@
       "Name": "To The Nines",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13869
+      "UsersEstimate": 13870
     },
     {
       "ID": "whole_map_purple",
@@ -9530,7 +9535,7 @@
       "Name": "Face Off",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -9538,29 +9543,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 47825,
+      "Progressed": 47826,
       "Completed": 25
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 19462,
-      "Completed": 2032
+      "Progressed": 19463,
+      "Completed": 2035
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-06-19T13:08:27.2491087+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:02:23.1316104+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:01:57.8802342+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.6362741+00:00",
-  "LastUpdate_Ratings": "2023-06-20T08:00:40.3999378+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:02:23.1316769+00:00"
+  "LastUpdate_Ratings": "2023-06-20T09:00:23.720265+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:01:57.8803068+00:00"
 }

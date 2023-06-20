@@ -3514,9 +3514,9 @@
       "ID": "ach.260.investor",
       "SetID": "384aaja",
       "Name": "Investor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1905
     },
     {
       "ID": "ach.270.groundwater",
@@ -3619,8 +3619,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-16T10:00:30.573746+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:07:07.6021086+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:06:38.0819031+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.6579586+00:00",
-  "LastUpdate_Ratings": "2023-06-20T08:00:21.0754256+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:07:07.6021456+00:00"
+  "LastUpdate_Ratings": "2023-06-20T09:00:06.5183265+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:06:38.0819489+00:00"
 }

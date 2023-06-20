@@ -29,7 +29,7 @@ Rating: 4.54 (Ranked 491)
 | 8K is Enough for Everyone | 22.00% | ~4,192 |
 | Man of Steel | 16.00% | ~3,049 |
 | Room Full of Trains | 12.00% | ~2,286 |
-| Investor | 9.00% | ~1,715 |
+| Investor | 10.00% | ~1,905 |
 | Multiverse | 7.00% | ~1,334 |
 | The poor groundwater levels | 7.00% | ~1,334 |
 | Metropolis | 7.00% | ~1,334 |

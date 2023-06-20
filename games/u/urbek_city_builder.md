@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 63.00% | ~162 |
+| Small town | 62.00% | ~160 |
 | I like parks | 49.00% | ~126 |
 | It is nice to share with friends in the city | 26.00% | ~67 |
 | Sport is good for you | 25.00% | ~64 |
@@ -16,14 +16,14 @@
 | Clean energy | 17.00% | ~44 |
 | Bucolic city | 14.00% | ~36 |
 | King of fish | 9.00% | ~23 |
+| I love parks | 9.00% | ~23 |
 | I love books! | 8.00% | ~21 |
-| I love parks | 8.00% | ~21 |
 | What would we do if we can't go out with friends? | 7.00% | ~18 |
 | Food producer | 5.00% | ~13 |
 | Metropolurbek | 5.00% | ~13 |
-| Sport is the best thing | 4.00% | ~10 |
 | I am very happy! | 3.00% | ~8 |
 | Little Mayor | 3.00% | ~8 |
+| Sport is the best thing | 3.00% | ~8 |
 | Banking city | 2.00% | ~5 |
 | Food provider master | 2.00% | ~5 |
 | City crisis | 2.00% | ~5 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 244)  
+Progressed: 258 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 253 | 0 |
 | 2023-06-17 | 256 | 0 |
 | 2023-06-18 | 257 | 0 |
+| 2023-06-20 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

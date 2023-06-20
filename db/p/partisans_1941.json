@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-06-20T07:07:35.8106895+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-20T09:06:45.1455215+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1296,7 +1301,7 @@
       "Name": "E1M1",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Everyone_is_here",
@@ -1328,7 +1333,7 @@
       "Name": "Grenadier",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Hard_Serpent",
@@ -1344,7 +1349,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "High_noon",
@@ -1455,15 +1460,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1054,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:07:14.6960525+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:06:45.145521+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-20T08:00:10.5658022+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:07:14.6960751+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:59:55.7079888+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:06:45.1455492+00:00"
 }

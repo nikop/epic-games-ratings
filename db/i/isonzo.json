@@ -646,7 +646,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6283,
+  "EOS_Progressed": 6284,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -2916,6 +2916,11 @@
       "Time": "2023-06-19T20:03:47.309888+00:00",
       "NumProgressed": 6283,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-20T09:03:45.888512+00:00",
+      "NumProgressed": 6284,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3103,7 +3108,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3127,7 +3132,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -3159,7 +3164,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -3183,7 +3188,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -3279,14 +3284,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6283,
+      "Progressed": 6284,
       "Completed": 8
     }
   ],
@@ -3294,8 +3299,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-19T14:57:55.3917887+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:04:18.1829809+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:03:45.8885114+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.499894+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:57:55.8170354+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:04:18.1830199+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:57:48.3764555+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:03:45.8885611+00:00"
 }

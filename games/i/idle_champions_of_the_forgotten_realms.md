@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,958 |
-| The Cursed Farmer | 3.00% | ~2,982 |
-| Beast Intentions | 2.00% | ~1,988 |
-| The Ring of Regeneration | 2.00% | ~1,988 |
-| The Mad Wizard | 2.00% | ~1,988 |
+| A Brief Tour of the Realms | 7.00% | ~6,961 |
+| The Cursed Farmer | 3.00% | ~2,983 |
+| Beast Intentions | 2.00% | ~1,989 |
+| The Ring of Regeneration | 2.00% | ~1,989 |
+| The Mad Wizard | 2.00% | ~1,989 |
 | Were-verpowered | 1.00% | ~994 |
 | Seeking Allies | 1.00% | ~994 |
 | Are Ya Chicken? | 1.00% | ~994 |
@@ -25,22 +25,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.70% | ~696 |
 | Exploring Port Nyanzaru | 0.70% | ~696 |
 | Beware the Jabberwock | 0.70% | ~460 |
-| Maddening | 0.60% | ~596 |
-| Beast Mode | 0.60% | ~596 |
-| Building Trust | 0.60% | ~596 |
-| Useless Allies | 0.60% | ~596 |
-| The Contagious Curse | 0.60% | ~596 |
-| Escort to Waterdeep | 0.60% | ~596 |
+| Maddening | 0.60% | ~597 |
+| Beast Mode | 0.60% | ~597 |
+| Building Trust | 0.60% | ~597 |
+| Useless Allies | 0.60% | ~597 |
+| The Contagious Curse | 0.60% | ~597 |
+| Escort to Waterdeep | 0.60% | ~597 |
+| Waterdeep Detours | 0.60% | ~597 |
 | Coasting to the Finish | 0.60% | ~394 |
-| Checkmate | 0.50% | ~328 |
-| Vecna Out! | 0.50% | ~328 |
+| Checkmate | 0.50% | ~329 |
+| Vecna Out! | 0.50% | ~329 |
 | Low Initiative | 0.50% | ~497 |
 | No Time To Rest | 0.50% | ~497 |
 | Running of the Saurs | 0.50% | ~497 |
-| Waterdeep Detours | 0.50% | ~497 |
 | Underdeep Cartography | 0.50% | ~497 |
 | The Templar's Camp | 0.50% | ~497 |
-| Quick or Quack | 0.50% | ~328 |
+| Quick or Quack | 0.50% | ~329 |
 | The Silken Swamp | 0.40% | ~398 |
 | Supply Run | 0.40% | ~398 |
 | Owlbear Necessities | 0.40% | ~263 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,394 (Ranked 63)  
+Progressed: 99,448 (Ranked 63)  
 Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 1,971 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,394 | 1,971 |
+| 2023-06-20 | 99,448 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

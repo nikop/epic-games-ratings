@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "BADGE_BOSS_8_KILL",
       "SetID": "ak6pfjk",
       "Name": "Dwarven Countdown",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "BADGE_BRILLIANT_DAY",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:04:36.9505042+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:04:13.0176451+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:15.484612+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:59:24.3125789+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:04:36.9505417+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:59:09.6381259+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:04:13.017695+00:00"
 }

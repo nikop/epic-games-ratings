@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -887,6 +887,11 @@
       "Time": "2023-06-19T22:00:48.1293594+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T09:01:36.0001879+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1002,7 +1007,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_COLL_20",
@@ -1026,7 +1031,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1034,7 +1039,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -1114,7 +1119,7 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -1154,7 +1159,7 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1184,9 +1189,9 @@
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1258,7 +1263,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1280,9 +1285,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1290,7 +1295,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1330,7 +1335,7 @@
       "Name": "King of Knives",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_NEST1",
@@ -1369,15 +1374,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:01:56.7781573+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:01:36.0001872+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4627479+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:58:02.7477579+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:01:56.7782092+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:57:54.3442786+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:01:36.0002495+00:00"
 }

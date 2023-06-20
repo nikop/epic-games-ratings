@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,573 |
-| Resurgence | 2.00% | ~11,573 |
-| Close Shave | 2.00% | ~11,573 |
-| Preemptive Strike | 2.00% | ~11,573 |
-| Humanitarian | 2.00% | ~11,573 |
-| Unforgettable Getaway | 1.00% | ~5,786 |
-| Wounded Healer | 1.00% | ~5,786 |
-| First to the Punch | 1.00% | ~5,786 |
-| Old West Oasis | 1.00% | ~5,786 |
-| Every Last Drop | 1.00% | ~5,786 |
-| With Scars to Show | 1.00% | ~5,786 |
-| Flight to Freedom | 1.00% | ~5,786 |
-| Operation: Survival | 0.90% | ~5,208 |
-| Classy Act | 0.90% | ~5,208 |
-| Raccoon City Recruit | 0.90% | ~5,208 |
-| Cutting Out | 0.80% | ~4,629 |
-| A Fast Death | 0.80% | ~4,629 |
-| Lifting The Fog | 0.80% | ~4,629 |
-| Chorus of Chaos | 0.80% | ~4,629 |
+| Healthy Obsession | 2.00% | ~11,575 |
+| Resurgence | 2.00% | ~11,575 |
+| Close Shave | 2.00% | ~11,575 |
+| Preemptive Strike | 2.00% | ~11,575 |
+| Humanitarian | 2.00% | ~11,575 |
+| Unforgettable Getaway | 1.00% | ~5,788 |
+| Wounded Healer | 1.00% | ~5,788 |
+| First to the Punch | 1.00% | ~5,788 |
+| Old West Oasis | 1.00% | ~5,788 |
+| Every Last Drop | 1.00% | ~5,788 |
+| With Scars to Show | 1.00% | ~5,788 |
+| Flight to Freedom | 1.00% | ~5,788 |
+| Operation: Survival | 0.90% | ~5,209 |
+| Classy Act | 0.90% | ~5,209 |
+| Raccoon City Recruit | 0.90% | ~5,209 |
+| Cutting Out | 0.80% | ~4,630 |
+| A Fast Death | 0.80% | ~4,630 |
+| Lifting The Fog | 0.80% | ~4,630 |
+| Chorus of Chaos | 0.80% | ~4,630 |
 | Ancestor's Rite | 0.70% | ~4,051 |
 | Outrun Evil | 0.70% | ~4,051 |
 | Grim Pilgrimage | 0.70% | ~4,051 |
-| Devoted Gatekeeping | 0.60% | ~3,472 |
-| Shrine Apparatus | 0.60% | ~3,472 |
-| Selfless Survival | 0.60% | ~3,472 |
-| End of Days | 0.60% | ~3,472 |
-| Broken Bodies | 0.50% | ~2,893 |
-| Insult and Injury | 0.50% | ~2,893 |
-| Outrun the Overlap | 0.50% | ~2,893 |
+| Devoted Gatekeeping | 0.60% | ~3,473 |
+| Shrine Apparatus | 0.60% | ~3,473 |
+| Selfless Survival | 0.60% | ~3,473 |
+| End of Days | 0.60% | ~3,473 |
+| Broken Bodies | 0.50% | ~2,894 |
+| Insult and Injury | 0.50% | ~2,894 |
+| Outrun the Overlap | 0.50% | ~2,894 |
 | Heavy Burden | 0.40% | ~2,315 |
 | I See You | 0.40% | ~2,315 |
 | Power Moves | 0.40% | ~2,315 |
@@ -45,13 +45,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Death of Ignorance | 0.30% | ~1,736 |
 | Triage | 0.30% | ~1,736 |
 | Hack the Mainframe | 0.30% | ~1,736 |
-| Deranged Pursuit | 0.20% | ~1,157 |
-| Dismantle | 0.20% | ~1,157 |
-| Left For Dead | 0.20% | ~1,157 |
-| Denied! | 0.20% | ~1,157 |
-| Bodyguard | 0.20% | ~1,157 |
-| Ghost in the Machine | 0.20% | ~1,157 |
-| From the Deep | 0.20% | ~1,157 |
+| Deranged Pursuit | 0.20% | ~1,158 |
+| Dismantle | 0.20% | ~1,158 |
+| Left For Dead | 0.20% | ~1,158 |
+| Denied! | 0.20% | ~1,158 |
+| Bodyguard | 0.20% | ~1,158 |
+| Ghost in the Machine | 0.20% | ~1,158 |
+| From the Deep | 0.20% | ~1,158 |
 | The Grand Sacrifice | 0.10% | ~579 |
 | A bite for the Entity | 0.10% | ~579 |
 | A feast for the Entity | 0.10% | ~579 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~579 |
 | Adept Gabriel | 0.10% | ~579 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 578,644 (Ranked 26)  
+Progressed: 578,770 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
 | 2023-06-19 | 577,397 | 42 |
-| 2023-06-20 | 578,644 | 42 |
+| 2023-06-20 | 578,770 | 42 |
 ## Awards
 Max (Diverse Characters): 28,675  (Ranked 15)  
-Sum: 228,754 (Ranked 12)  
+Sum: 228,786 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 25,883 |
 | This game is Extremely Fun | 25,819 |
 | This game has Quickly Understood Controls | 25,652 |
-| This game has Challenging Combat | 25,012 |
+| This game has Challenging Combat | 25,044 |
 | This game has Amazing Storytelling | 23,559 |
 | This game has a Competitive Community | 21,837 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -456,4 +456,4 @@ Diff (max vs sum): 3
 | 2023-06-17 | 4.52 | - | 28,602 | 228,232 |
 | 2023-06-18 | 4.52 | - | 28,640 | 228,507 |
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
-| 2023-06-20 | 4.52 | - | 28,675 | 228,754 |
+| 2023-06-20 | 4.52 | - | 28,675 | 228,786 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4396,9 +4396,9 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 99394,
+  "EOS_Progressed": 99448,
   "EOS_Completed": 1971,
-  "EOS_NewPlayers": 8795,
+  "EOS_NewPlayers": 8845,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -10681,6 +10681,11 @@
       "Time": "2023-06-20T08:07:32.312896+00:00",
       "NumProgressed": 99394,
       "NumCompleted": 1971
+    },
+    {
+      "Time": "2023-06-20T09:07:01.4529171+00:00",
+      "NumProgressed": 99448,
+      "NumCompleted": 1971
     }
   ],
   "TotalAchievements": 493,
@@ -10692,7 +10697,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6958
+      "UsersEstimate": 6961
     },
     {
       "ID": "objective_completed_10",
@@ -10700,7 +10705,7 @@
       "Name": "Maddening",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_100",
@@ -11060,7 +11065,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "objective_completed_110",
@@ -11564,7 +11569,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "objective_completed_1204",
@@ -11580,7 +11585,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "objective_completed_1209",
@@ -11796,7 +11801,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_149",
@@ -11916,7 +11921,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_17",
@@ -12364,7 +12369,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "objective_completed_34",
@@ -12372,7 +12377,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "objective_completed_35",
@@ -12564,7 +12569,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_400",
@@ -13236,7 +13241,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_60",
@@ -13764,7 +13769,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_690",
@@ -13836,7 +13841,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "objective_completed_70",
@@ -13866,9 +13871,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_75",
@@ -14628,28 +14633,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 65668,
+      "Progressed": 65722,
       "Completed": 2807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 99394,
+      "Progressed": 99448,
       "Completed": 1971
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T18:58:36.1829643+00:00",
-  "LastChanged_Achievements": "2023-06-20T08:07:32.3128957+00:00",
+  "LastChanged_Achievements": "2023-06-20T09:07:01.4529166+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-20T07:58:46.5879694+00:00",
-  "LastUpdate_Achievements": "2023-06-20T08:07:32.315058+00:00"
+  "LastUpdate_Ratings": "2023-06-20T08:58:34.2613464+00:00",
+  "LastUpdate_Achievements": "2023-06-20T09:07:01.4552968+00:00"
 }
