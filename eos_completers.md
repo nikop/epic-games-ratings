@@ -26,11 +26,11 @@
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
+| 31 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
 | 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.56% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -39,7 +39,7 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
-| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.74% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
@@ -48,8 +48,8 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -72,8 +72,8 @@
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.98% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
+| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.97% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -143,9 +143,9 @@
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.28% |
-| 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
-| 144 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 145 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
+| 145 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 147 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
 | 148 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 148 | [Blanc](games/b/blanc.md) | 0.25% |
@@ -434,6 +434,7 @@
 | 227 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 227 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 227 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
+| 227 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.00% |
 | 227 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 0.00% |
 | 227 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 0.00% |
 | 227 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
@@ -460,4 +461,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,813 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,814 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
