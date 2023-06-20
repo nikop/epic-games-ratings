@@ -31,9 +31,9 @@
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
-| 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.88% |
-| 33 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
-| 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 32 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.56% |
+| 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.56% |
+| 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.72% |
@@ -42,7 +42,7 @@
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 41 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.78% |
 | 42 | [Doodle God](games/d/doodle_god.md) | 3.74% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
@@ -147,9 +147,9 @@
 | 144 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 144 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 147 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
+| 148 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 148 | [Blanc](games/b/blanc.md) | 0.25% |
 | 148 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 150 | [Against the Storm](games/a/against_the_storm.md) | 0.24% |
 | 151 | [Filament](games/f/filament.md) | 0.23% |
 | 151 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |

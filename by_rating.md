@@ -93,7 +93,7 @@
 | 89 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 287 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 497 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 648 | 165 |
-| 89 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,169 | 130 |
+| 89 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,176 | 129 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,891 | 55 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 373 | 211 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
@@ -442,7 +442,7 @@
 | 421 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 211 | 259 |
 | 421 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,397 | 23 |
 | 442 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 497 |
-| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,481 | 92 |
+| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,483 | 92 |
 | 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 403 |
 | 442 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 460 |
 | 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 497 |
@@ -482,7 +482,7 @@
 | 476 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,248 | 127 |
 | 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 212 | 257 |
 | 476 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 144 | 293 |
-| 476 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 449 |
+| 476 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 450 |
 | 476 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 497 |
 | 476 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 867 | 147 |
 | 476 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 342 |
@@ -707,7 +707,6 @@
 | 699 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 497 |
 | 699 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 223 |
 | 707 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 497 |
-| 707 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 497 |
 | 707 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 497 |
 | 707 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.38 | 0 | 497 |
 | 707 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 559 | 178 |
@@ -717,13 +716,14 @@
 | 707 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 497 |
 | 707 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 497 |
 | 707 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 87 | 344 |
-| 718 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 497 |
-| 718 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,138 | 103 |
-| 718 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
-| 718 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 400 |
-| 718 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 96 | 332 |
-| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 420 |
-| 718 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 442 |
+| 717 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 497 |
+| 717 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 497 |
+| 717 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,138 | 103 |
+| 717 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
+| 717 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 400 |
+| 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 96 | 332 |
+| 717 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 420 |
+| 717 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 442 |
 | 725 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
 | 725 | [Core](games/c/core.md) | 4.36 | 736 | 156 |
 | 725 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 283 |
@@ -763,7 +763,7 @@
 | 756 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 0 | 497 |
 | 756 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 456 |
 | 756 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 497 |
-| 756 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.32 | 31 | 449 |
+| 756 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.32 | 32 | 442 |
 | 756 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 181 |
 | 756 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 497 |
 | 767 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 497 |
@@ -807,7 +807,7 @@
 | 799 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 497 |
 | 799 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 497 |
 | 807 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 497 |
-| 807 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 449 |
+| 807 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 450 |
 | 807 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 478 |
 | 807 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 12,541 | 27 |
 | 807 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 497 |
@@ -825,7 +825,7 @@
 | 823 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 277 |
 | 823 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 262 |
 | 823 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 497 |
-| 826 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 449 |
+| 826 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 450 |
 | 826 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 497 |
 | 826 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,123 | 24 |
 | 826 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 497 |
