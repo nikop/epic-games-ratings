@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4352,
+  "EOS_Progressed": 4353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2023-06-19T23:08:36.0248925+00:00",
       "NumProgressed": 4352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T05:07:50.4880752+00:00",
+      "NumProgressed": 4353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -1973,7 +1978,7 @@
       "Name": "2-1-6",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -2021,7 +2026,7 @@
       "Name": "Be Prepared",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "ACH_BLUE_HARVEST",
@@ -2037,7 +2042,7 @@
       "Name": "All thumbs",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -2053,7 +2058,7 @@
       "Name": "Out of the Bag",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH_CATDOM",
@@ -2093,7 +2098,7 @@
       "Name": "One way ticket",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3613
     },
     {
       "ID": "ACH_DEEDEE",
@@ -2109,7 +2114,7 @@
       "Name": "Pacifist",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -2181,7 +2186,7 @@
       "Name": "Family guy",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -2261,7 +2266,7 @@
       "Name": "Home, sweet home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "ACH_MADHATTER",
@@ -2365,7 +2370,7 @@
       "Name": "The Dark Side",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "ACH_ROGUE",
@@ -2381,7 +2386,7 @@
       "Name": "I will survive!",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -2397,7 +2402,7 @@
       "Name": "Survivalist",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2405,7 +2410,7 @@
       "Name": "Last man standing",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -2413,7 +2418,7 @@
       "Name": "Prepper",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -2444,7 +2449,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 4352,
+      "Progressed": 4353,
       "Completed": 0
     }
   ],
@@ -2452,8 +2457,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:51.81183+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:50.4880748+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:51.6344219+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:01:46.5738548+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:51.8119079+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:01:49.4134248+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:50.4881425+00:00"
 }

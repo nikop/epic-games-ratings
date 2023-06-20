@@ -2,7 +2,7 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 46,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 197,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.07,
+  "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -431,6 +431,11 @@
       "Time": "2023-06-20T02:08:05.6713681+00:00",
       "NumProgressed": 193,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T05:03:27.4441268+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -442,7 +447,7 @@
       "Name": "Pit-house",
       "Percentage": 96,
       "XP": 45,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "LEVEL_003",
@@ -450,7 +455,7 @@
       "Name": "Smith house",
       "Percentage": 88,
       "XP": 45,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_004",
@@ -458,7 +463,7 @@
       "Name": "Two-story house",
       "Percentage": 74,
       "XP": 45,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "LEVEL_006",
@@ -466,7 +471,7 @@
       "Name": "Market",
       "Percentage": 63,
       "XP": 95,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_012",
@@ -474,7 +479,7 @@
       "Name": "Poultry house",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_017",
@@ -482,7 +487,7 @@
       "Name": "Temple",
       "Percentage": 14,
       "XP": 95,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_019",
@@ -490,7 +495,7 @@
       "Name": "Small block",
       "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_023",
@@ -529,14 +534,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 197,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:03:37.9741742+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:03:27.444126+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:57:19.4714524+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:03:37.9741883+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:57:23.2300618+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:03:27.4441414+00:00"
 }

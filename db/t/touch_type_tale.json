@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3008,
+  "EOS_Progressed": 3009,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -2214,6 +2214,11 @@
       "Time": "2023-06-18T21:06:20.6952599+00:00",
       "NumProgressed": 3008,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-20T05:07:41.7191658+00:00",
+      "NumProgressed": 3009,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2273,7 +2278,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "campaign10",
@@ -2361,7 +2366,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "campaign20",
@@ -2377,7 +2382,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "campaign4",
@@ -2393,7 +2398,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "campaign6",
@@ -2409,7 +2414,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "campaign8",
@@ -2433,7 +2438,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "scenario2",
@@ -2457,7 +2462,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "scenario5",
@@ -2488,7 +2493,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3008,
+      "Progressed": 3009,
       "Completed": 10
     }
   ],
@@ -2496,8 +2501,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:42.8813898+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:41.719165+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:43.7052896+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:01:36.1231474+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:42.8814316+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:01:39.9814571+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:41.7192324+00:00"
 }

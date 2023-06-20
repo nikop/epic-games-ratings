@@ -6,17 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,948 |
-| The Cursed Farmer | 3.00% | ~2,978 |
-| Beast Intentions | 2.00% | ~1,985 |
-| The Ring of Regeneration | 2.00% | ~1,985 |
-| The Mad Wizard | 2.00% | ~1,985 |
+| A Brief Tour of the Realms | 7.00% | ~6,951 |
+| The Cursed Farmer | 3.00% | ~2,979 |
+| Beast Intentions | 2.00% | ~1,986 |
+| The Ring of Regeneration | 2.00% | ~1,986 |
+| The Mad Wizard | 2.00% | ~1,986 |
 | Were-verpowered | 1.00% | ~993 |
 | Seeking Allies | 1.00% | ~993 |
 | Are Ya Chicken? | 1.00% | ~993 |
 | Friendly Imps | 1.00% | ~993 |
-| A Persistent Buzzing | 0.90% | ~893 |
-| Mad Cow Disease | 0.90% | ~893 |
+| A Persistent Buzzing | 0.90% | ~894 |
+| Mad Cow Disease | 0.90% | ~894 |
 | The Court of Storms | 0.90% | ~590 |
 | Pure Energy | 0.80% | ~794 |
 | Terror in the Dark | 0.70% | ~695 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~66 |
 | Ineffectual Intellectuals | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,262 (Ranked 63)  
-Completed: 1,969 (1.98%) (Ranked 74)  
+Progressed: 99,295 (Ranked 63)  
+Completed: 1,971 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -561,7 +561,7 @@ Completed: 1,969 (1.98%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,262 | 1,969 |
+| 2023-06-20 | 99,295 | 1,971 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

@@ -5412,9 +5412,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 788631,
+  "EOS_Progressed": 788634,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11782,6 +11782,11 @@
       "Time": "2023-06-20T04:07:49.791444+00:00",
       "NumProgressed": 788631,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-06-20T05:07:48.5236544+00:00",
+      "NumProgressed": 788634,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 82,
@@ -11825,7 +11830,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157726
+      "UsersEstimate": 157727
     },
     {
       "ID": "BadGirl",
@@ -11873,7 +11878,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 244476
+      "UsersEstimate": 244477
     },
     {
       "ID": "Bookworm",
@@ -11881,7 +11886,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 110408
+      "UsersEstimate": 110409
     },
     {
       "ID": "Buddy",
@@ -11889,7 +11894,7 @@
       "Name": "Buddy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86749
+      "UsersEstimate": 86750
     },
     {
       "ID": "Casanova",
@@ -11993,7 +11998,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181385
+      "UsersEstimate": 181386
     },
     {
       "ID": "Fighter",
@@ -12273,7 +12278,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157726
+      "UsersEstimate": 157727
     },
     {
       "ID": "RevenantOfLedechko",
@@ -12313,7 +12318,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157726
+      "UsersEstimate": 157727
     },
     {
       "ID": "SerialKiller",
@@ -12329,7 +12334,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86749
+      "UsersEstimate": 86750
     },
     {
       "ID": "Sniper",
@@ -12448,15 +12453,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 788631,
+      "Progressed": 788634,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-19T20:58:50.7824361+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:49.7914434+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:48.5236535+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:05.4980914+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:59:17.0636063+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:49.7915862+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:59:18.4368717+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:48.5238892+00:00"
 }

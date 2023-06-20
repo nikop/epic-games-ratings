@@ -14,8 +14,8 @@ Number of Ratings: 836  (23.09.2022)
 | Adventurer | 41.00% | ~2,713 |
 | Famous Healer | 38.00% | ~2,514 |
 | Local Leader | 35.00% | ~2,316 |
+| Famous Explorer | 34.00% | ~2,249 |
 | New Opportunities | 34.00% | ~2,249 |
-| Famous Explorer | 33.00% | ~2,183 |
 | Energized | 33.00% | ~2,183 |
 | The Long Haul | 33.00% | ~2,183 |
 | Survivor | 32.00% | ~2,117 |

@@ -1,7 +1,7 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.50 (Ranked 547)  
+Rating: 4.51 (Ranked 532)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -221,3 +221,4 @@ Diff (max vs sum): -58
 | 2023-05-22 | 4.50 | - | 753 | 1,552 |
 | 2023-06-08 | 4.50 | - | 754 | 1,553 |
 | 2023-06-09 | 4.50 | - | 754 | 1,555 |
+| 2023-06-20 | 4.51 | - | 754 | 1,555 |

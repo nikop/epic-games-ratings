@@ -14,6 +14,7 @@
 | Time Flies | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
 | No, Thanks! | 11.00% | ~78 |
+| Breaking Down Barriers | 11.00% | ~78 |
 | The Wicked Twins | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
@@ -21,7 +22,6 @@
 | The Brass Boss | 11.00% | ~78 |
 | The Betrayer | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
-| Breaking Down Barriers | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Fast Learner | 10.00% | ~71 |

@@ -42,8 +42,8 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 4.00% | ~24 |
 | Breath | 4.00% | ~24 |
 | Weakness | 4.00% | ~24 |
+| Listen | 4.00% | ~7 |
 | Zygote | 3.00% | ~5 |
-| Listen | 3.00% | ~5 |
 | Generous | 2.00% | ~12 |
 | Skinmaker | 1.00% | ~6 |
 | Instruments | 1.00% | ~6 |

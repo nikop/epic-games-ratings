@@ -6,31 +6,31 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 2.00% | ~11,563 |
-| Resurgence | 2.00% | ~11,563 |
-| Close Shave | 2.00% | ~11,563 |
-| Preemptive Strike | 2.00% | ~11,563 |
-| Humanitarian | 2.00% | ~11,563 |
-| Unforgettable Getaway | 1.00% | ~5,781 |
-| Wounded Healer | 1.00% | ~5,781 |
-| First to the Punch | 1.00% | ~5,781 |
-| Old West Oasis | 1.00% | ~5,781 |
-| Every Last Drop | 1.00% | ~5,781 |
-| With Scars to Show | 1.00% | ~5,781 |
-| Flight to Freedom | 1.00% | ~5,781 |
-| Operation: Survival | 0.90% | ~5,203 |
-| Classy Act | 0.90% | ~5,203 |
-| Raccoon City Recruit | 0.90% | ~5,203 |
-| Cutting Out | 0.80% | ~4,625 |
-| A Fast Death | 0.80% | ~4,625 |
-| Lifting The Fog | 0.80% | ~4,625 |
-| Chorus of Chaos | 0.80% | ~4,625 |
-| Ancestor's Rite | 0.70% | ~4,047 |
-| Outrun Evil | 0.70% | ~4,047 |
-| Grim Pilgrimage | 0.70% | ~4,047 |
-| Devoted Gatekeeping | 0.60% | ~3,469 |
-| Shrine Apparatus | 0.60% | ~3,469 |
-| End of Days | 0.60% | ~3,469 |
+| Healthy Obsession | 2.00% | ~11,565 |
+| Resurgence | 2.00% | ~11,565 |
+| Close Shave | 2.00% | ~11,565 |
+| Preemptive Strike | 2.00% | ~11,565 |
+| Humanitarian | 2.00% | ~11,565 |
+| Unforgettable Getaway | 1.00% | ~5,783 |
+| Wounded Healer | 1.00% | ~5,783 |
+| First to the Punch | 1.00% | ~5,783 |
+| Old West Oasis | 1.00% | ~5,783 |
+| Every Last Drop | 1.00% | ~5,783 |
+| With Scars to Show | 1.00% | ~5,783 |
+| Flight to Freedom | 1.00% | ~5,783 |
+| Operation: Survival | 0.90% | ~5,204 |
+| Classy Act | 0.90% | ~5,204 |
+| Raccoon City Recruit | 0.90% | ~5,204 |
+| Cutting Out | 0.80% | ~4,626 |
+| A Fast Death | 0.80% | ~4,626 |
+| Lifting The Fog | 0.80% | ~4,626 |
+| Chorus of Chaos | 0.80% | ~4,626 |
+| Ancestor's Rite | 0.70% | ~4,048 |
+| Outrun Evil | 0.70% | ~4,048 |
+| Grim Pilgrimage | 0.70% | ~4,048 |
+| Devoted Gatekeeping | 0.60% | ~3,470 |
+| Shrine Apparatus | 0.60% | ~3,470 |
+| End of Days | 0.60% | ~3,470 |
 | Broken Bodies | 0.50% | ~2,891 |
 | Selfless Survival | 0.50% | ~2,891 |
 | Insult and Injury | 0.50% | ~2,891 |
@@ -42,16 +42,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.40% | ~2,313 |
 | High Speed Pursuit | 0.40% | ~2,313 |
 | Rebuilding The Borgo | 0.40% | ~2,313 |
-| Death of Ignorance | 0.30% | ~1,734 |
-| Triage | 0.30% | ~1,734 |
-| Hack the Mainframe | 0.30% | ~1,734 |
-| Deranged Pursuit | 0.20% | ~1,156 |
-| Dismantle | 0.20% | ~1,156 |
-| Left For Dead | 0.20% | ~1,156 |
-| Denied! | 0.20% | ~1,156 |
-| Bodyguard | 0.20% | ~1,156 |
-| Ghost in the Machine | 0.20% | ~1,156 |
-| From the Deep | 0.20% | ~1,156 |
+| Death of Ignorance | 0.30% | ~1,735 |
+| Triage | 0.30% | ~1,735 |
+| Hack the Mainframe | 0.30% | ~1,735 |
+| Deranged Pursuit | 0.20% | ~1,157 |
+| Dismantle | 0.20% | ~1,157 |
+| Left For Dead | 0.20% | ~1,157 |
+| Denied! | 0.20% | ~1,157 |
+| Bodyguard | 0.20% | ~1,157 |
+| Ghost in the Machine | 0.20% | ~1,157 |
+| From the Deep | 0.20% | ~1,157 |
 | The Grand Sacrifice | 0.10% | ~578 |
 | A bite for the Entity | 0.10% | ~578 |
 | A feast for the Entity | 0.10% | ~578 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~578 |
 | Adept Gabriel | 0.10% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 578,142 (Ranked 26)  
+Progressed: 578,269 (Ranked 26)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-17 | 567,986 | 42 |
 | 2023-06-18 | 573,034 | 42 |
 | 2023-06-19 | 577,397 | 42 |
-| 2023-06-20 | 578,142 | 42 |
+| 2023-06-20 | 578,269 | 42 |
 ## Awards
 Max (Diverse Characters): 28,675  (Ranked 15)  
 Sum: 228,754 (Ranked 12)  

@@ -15,8 +15,8 @@ Rating: 4.49 (Ranked 565)
 | Taking it back | 15.00% | ~456 |
 | Organ Grinder | 13.00% | ~395 |
 | Target America | 13.00% | ~395 |
-| As Quiet as a Mouse | 12.00% | ~364 |
-| The Kraken Sleeps | 12.00% | ~364 |
+| As Quiet as a Mouse | 12.00% | ~365 |
+| The Kraken Sleeps | 12.00% | ~365 |
 | Liberté | 11.00% | ~334 |
 | Sharpshooter | 10.00% | ~304 |
 | Explosive Efficiency | 10.00% | ~304 |
@@ -35,8 +35,8 @@ Rating: 4.49 (Ranked 565)
 | Skirmisher | 6.00% | ~182 |
 | Set Europe Ablaze | 6.00% | ~182 |
 | Precision Is Key | 5.00% | ~152 |
-| Rigged to Blow | 4.00% | ~121 |
-| My Little Friend | 4.00% | ~121 |
+| Rigged to Blow | 4.00% | ~122 |
+| My Little Friend | 4.00% | ~122 |
 | Strategist | 2.00% | ~61 |
 | The Long Game | 2.00% | ~61 |
 | It'll Buff Right Out | 2.00% | ~61 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 565)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,037 (Ranked 143)  
+Progressed: 3,038 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
-| 2023-06-20 | 3,037 | 2 |
+| 2023-06-20 | 3,038 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

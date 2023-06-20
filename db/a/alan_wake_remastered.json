@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55756,
+  "EOS_Progressed": 55757,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1216,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5472,6 +5472,11 @@
       "Time": "2023-06-20T04:07:41.7323367+00:00",
       "NumProgressed": 55756,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T05:07:40.3887032+00:00",
+      "NumProgressed": 55757,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5587,7 +5592,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "15",
@@ -5595,7 +5600,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "16",
@@ -5715,7 +5720,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "31",
@@ -5747,7 +5752,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "35",
@@ -5891,7 +5896,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "53",
@@ -5937,9 +5942,9 @@
       "ID": "58",
       "SetID": "6apfemg",
       "Name": "Cardboard Companions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 115
     },
     {
       "ID": "59",
@@ -6018,21 +6023,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55756,
+      "Progressed": 55757,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19224,
+      "Progressed": 19225,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:41.7323361+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:40.3887021+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:58:18.2630657+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:41.7325144+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:58:19.0339278+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:40.388874+00:00"
 }

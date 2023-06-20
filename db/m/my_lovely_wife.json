@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_3",
       "SetID": "ajki3eh",
       "Name": "A Forked Tongue",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -555,8 +555,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:23.3362814+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:22.2328126+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:48.0076643+00:00",
-  "LastUpdate_Ratings": "2023-06-20T03:58:51.0589418+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:23.336309+00:00"
+  "LastUpdate_Ratings": "2023-06-20T04:58:51.7445364+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:22.2328379+00:00"
 }

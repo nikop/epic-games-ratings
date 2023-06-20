@@ -2301,9 +2301,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 525118,
+  "EOS_Progressed": 525119,
   "EOS_Completed": 1455,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8606,6 +8606,11 @@
       "Time": "2023-06-20T04:07:25.0675019+00:00",
       "NumProgressed": 525118,
       "NumCompleted": 1455
+    },
+    {
+      "Time": "2023-06-20T05:07:23.7884021+00:00",
+      "NumProgressed": 525119,
+      "NumCompleted": 1455
     }
   ],
   "TotalAchievements": 37,
@@ -8633,7 +8638,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157535
+      "UsersEstimate": 157536
     },
     {
       "ID": "DEVOTED",
@@ -8673,7 +8678,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 435848
+      "UsersEstimate": 435849
     },
     {
       "ID": "HONED",
@@ -8729,7 +8734,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210047
+      "UsersEstimate": 210048
     },
     {
       "ID": "THE_CASTLE",
@@ -8857,7 +8862,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42009
+      "UsersEstimate": 42010
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -8912,15 +8917,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 525118,
+      "Progressed": 525119,
       "Completed": 1455
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-18T17:59:54.6200446+00:00",
-  "LastChanged_Achievements": "2023-06-20T04:07:25.0675014+00:00",
+  "LastChanged_Achievements": "2023-06-20T05:07:23.7884014+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:57.646002+00:00",
-  "LastUpdate_Ratings": "2023-06-20T04:00:26.8264403+00:00",
-  "LastUpdate_Achievements": "2023-06-20T04:07:25.0675751+00:00"
+  "LastUpdate_Ratings": "2023-06-20T05:00:31.268628+00:00",
+  "LastUpdate_Achievements": "2023-06-20T05:07:23.7885243+00:00"
 }

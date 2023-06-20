@@ -29,15 +29,15 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 9.00% | ~5,018 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,018 |
 | Thunder and Lightning | 9.00% | ~5,018 |
-| Gatekeeper | 8.00% | ~4,460 |
-| The Lady of the Light | 8.00% | ~4,460 |
-| Two For the Price of One | 8.00% | ~4,460 |
-| Energized! | 8.00% | ~4,460 |
+| Gatekeeper | 8.00% | ~4,461 |
+| The Lady of the Light | 8.00% | ~4,461 |
+| Two For the Price of One | 8.00% | ~4,461 |
+| Energized! | 8.00% | ~4,461 |
 | A Friend in Need | 8.00% | ~1,538 |
 | What Light Through Yonder Window | 7.00% | ~3,903 |
 | Right of Way | 7.00% | ~3,903 |
 | Tornado Wrangler | 6.00% | ~3,345 |
-| A Friend Indeed | 6.00% | ~1,153 |
+| A Friend Indeed | 6.00% | ~1,154 |
 | Departure | 5.00% | ~2,788 |
 | Ding! | 5.00% | ~961 |
 | Children of the Elder God | 4.00% | ~2,230 |
@@ -56,8 +56,8 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~558 |
 | Go Gentle Into That Good Light | 1.00% | ~192 |
 | Words Will Never Harm You | 0.60% | ~115 |
+| Cardboard Companions | 0.60% | ~115 |
 | Fast and Furious | 0.50% | ~96 |
-| Cardboard Companions | 0.50% | ~96 |
 | License Revoked | 0.40% | ~77 |
 | Whirlwind | 0.40% | ~77 |
 | Creative Space | 0.40% | ~77 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,756 (Ranked 79)  
+Progressed: 55,757 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-17 | 55,510 | 55 |
 | 2023-06-18 | 55,644 | 56 |
 | 2023-06-19 | 55,743 | 56 |
-| 2023-06-20 | 55,756 | 56 |
+| 2023-06-20 | 55,757 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
