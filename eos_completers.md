@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 16.48% |
+| 10 | [Island Cities](games/i/island_cities.md) | 16.43% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
@@ -21,7 +21,7 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 9.09% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
@@ -47,9 +47,9 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.27% |
+| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.29% |
+| 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
