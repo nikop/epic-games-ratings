@@ -13,8 +13,8 @@ Rating: 4.49 (Ranked 565)
 | Change the Channel | 17.00% | ~516 |
 | Resourceful | 15.00% | ~455 |
 | Taking it back | 15.00% | ~455 |
+| Organ Grinder | 13.00% | ~395 |
 | Target America | 13.00% | ~395 |
-| Organ Grinder | 12.00% | ~364 |
 | As Quiet as a Mouse | 12.00% | ~364 |
 | Liberté | 11.00% | ~334 |
 | The Kraken Sleeps | 11.00% | ~334 |

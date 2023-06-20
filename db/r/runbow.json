@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245187,
+  "EOS_Progressed": 245189,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5784,6 +5784,11 @@
       "Time": "2023-06-20T02:11:21.4728049+00:00",
       "NumProgressed": 245187,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T03:06:01.1395951+00:00",
+      "NumProgressed": 245189,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5819,7 +5824,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49037
+      "UsersEstimate": 49038
     },
     {
       "ID": "blotbuster",
@@ -5899,7 +5904,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49037
+      "UsersEstimate": 49038
     },
     {
       "ID": "didYourTime",
@@ -5971,7 +5976,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129949
+      "UsersEstimate": 129950
     },
     {
       "ID": "indegestible",
@@ -6059,7 +6064,7 @@
       "Name": "Please The King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "readyFight",
@@ -6099,7 +6104,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51489
+      "UsersEstimate": 51490
     },
     {
       "ID": "thunderstruck",
@@ -6115,7 +6120,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31874
+      "UsersEstimate": 31875
     },
     {
       "ID": "treeMedalist",
@@ -6162,7 +6167,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245187,
+      "Progressed": 245189,
       "Completed": 3
     }
   ],
@@ -6170,8 +6175,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:11:21.4728044+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:06:01.1395946+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:04:29.0136629+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:11:21.4729116+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:59:18.0260132+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:06:01.1396721+00:00"
 }

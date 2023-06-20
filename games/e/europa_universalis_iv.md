@@ -14,8 +14,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 6.00% | ~3,490 |
 | Seriously?! | 6.00% | ~3,490 |
 | For the Glory | 5.00% | ~2,908 |
-| Cold War | 4.00% | ~2,326 |
-| True Catholic | 4.00% | ~2,326 |
+| Cold War | 4.00% | ~2,327 |
+| True Catholic | 4.00% | ~2,327 |
 | Defender of the Faith | 3.00% | ~1,745 |
 | It's all about the money | 3.00% | ~1,745 |
 | Respected | 3.00% | ~1,745 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~582 |
 | The Five Colonies | 1.00% | ~582 |
 | This navy can take it all | 1.00% | ~582 |
-| The Emperors new clothes | 0.90% | ~523 |
-| Isn't this the way to India? | 0.90% | ~523 |
-| Market Control | 0.90% | ~523 |
+| The Emperors new clothes | 0.90% | ~524 |
+| Isn't this the way to India? | 0.90% | ~524 |
+| Market Control | 0.90% | ~524 |
 | Down Under | 0.80% | ~465 |
 | Trustworthy | 0.80% | ~465 |
 | All belongs to Mother Russia | 0.60% | ~349 |
@@ -70,18 +70,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~233 |
 | Tear Down This Wall | 0.40% | ~233 |
 | The Continuation of Diplomacy | 0.40% | ~233 |
-| A Decent Reserve | 0.30% | ~174 |
-| A Pile of Gold | 0.30% | ~174 |
-| Grand Duchy | 0.30% | ~174 |
-| Multiculturalism | 0.30% | ~174 |
-| No Pirates in my Caribbean | 0.30% | ~174 |
-| Not so sad a state... | 0.30% | ~174 |
-| The Chrysanthemum Throne | 0.30% | ~174 |
-| Three Trivial Tributary Tribes | 0.30% | ~174 |
-| Traditional Player | 0.30% | ~174 |
-| Vasa or Wettin? | 0.30% | ~174 |
-| Wonderful | 0.30% | ~174 |
-| World Discoverer | 0.30% | ~174 |
+| A Decent Reserve | 0.30% | ~175 |
+| A Pile of Gold | 0.30% | ~175 |
+| Grand Duchy | 0.30% | ~175 |
+| Multiculturalism | 0.30% | ~175 |
+| No Pirates in my Caribbean | 0.30% | ~175 |
+| Not so sad a state... | 0.30% | ~175 |
+| The Chrysanthemum Throne | 0.30% | ~175 |
+| Three Trivial Tributary Tribes | 0.30% | ~175 |
+| Traditional Player | 0.30% | ~175 |
+| Vasa or Wettin? | 0.30% | ~175 |
+| Wonderful | 0.30% | ~175 |
+| World Discoverer | 0.30% | ~175 |
 | A Protected Market | 0.20% | ~116 |
 | AAA Credit | 0.20% | ~116 |
 | An early Reich | 0.20% | ~116 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,162 (Ranked 77)  
+Progressed: 58,168 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,15 +422,15 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-17 | 57,009 | 0 |
 | 2023-06-18 | 57,601 | 0 |
 | 2023-06-19 | 58,135 | 0 |
-| 2023-06-20 | 58,162 | 0 |
+| 2023-06-20 | 58,168 | 0 |
 ## Awards
 Max (Educational): 5,412  (Ranked 61)  
-Sum: 44,763 (Ranked 27)  
+Sum: 44,768 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,412 |
-| This game is Highly Recommended | 5,194 |
+| This game is Highly Recommended | 5,199 |
 | This game has Challenging Combat | 5,161 |
 | This game is Extremely Fun | 5,136 |
 | This game has Diverse Characters | 5,097 |
@@ -596,4 +596,4 @@ Diff (max vs sum): 34
 | 2023-06-17 | 4.69 | - | 5,404 | 44,681 |
 | 2023-06-18 | 4.68 | - | 5,412 | 44,715 |
 | 2023-06-19 | 4.68 | - | 5,412 | 44,761 |
-| 2023-06-20 | 4.68 | - | 5,412 | 44,763 |
+| 2023-06-20 | 4.68 | - | 5,412 | 44,768 |

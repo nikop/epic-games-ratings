@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 7.00% | ~6,942 |
-| The Cursed Farmer | 3.00% | ~2,975 |
+| A Brief Tour of the Realms | 7.00% | ~6,946 |
+| The Cursed Farmer | 3.00% | ~2,977 |
 | Beast Intentions | 2.00% | ~1,984 |
 | The Ring of Regeneration | 2.00% | ~1,984 |
 | The Mad Wizard | 2.00% | ~1,984 |
@@ -17,13 +17,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 1.00% | ~992 |
 | Mad Cow Disease | 0.90% | ~893 |
 | The Court of Storms | 0.90% | ~589 |
-| A Persistent Buzzing | 0.80% | ~793 |
-| Pure Energy | 0.80% | ~793 |
-| Terror in the Dark | 0.70% | ~694 |
-| A Mysterious Summons | 0.70% | ~694 |
-| Unearthed Evil | 0.70% | ~694 |
-| The Crumbling Temple | 0.70% | ~694 |
-| Exploring Port Nyanzaru | 0.70% | ~694 |
+| A Persistent Buzzing | 0.80% | ~794 |
+| Pure Energy | 0.80% | ~794 |
+| Terror in the Dark | 0.70% | ~695 |
+| A Mysterious Summons | 0.70% | ~695 |
+| Unearthed Evil | 0.70% | ~695 |
+| The Crumbling Temple | 0.70% | ~695 |
+| Exploring Port Nyanzaru | 0.70% | ~695 |
 | Beware the Jabberwock | 0.70% | ~458 |
 | Maddening | 0.60% | ~595 |
 | Beast Mode | 0.60% | ~595 |
@@ -74,7 +74,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.30% | ~196 |
 | The Castle of a Thousand Vecnas | 0.30% | ~196 |
 | The Sanctum of the Sword | 0.30% | ~196 |
-| Kas the Bloody Handed | 0.30% | ~196 |
 | Get Back In The Castle | 0.30% | ~196 |
 | Bully for Vecna | 0.30% | ~196 |
 | Homecoming | 0.30% | ~298 |
@@ -204,6 +203,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~131 |
 | Weak Doesn't Mean Feeble | 0.20% | ~131 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~131 |
+| Kas the Bloody Handed | 0.20% | ~131 |
 | Kas the Destroyer | 0.20% | ~131 |
 | Who Lurks Below? | 0.20% | ~131 |
 | Clowning Around | 0.20% | ~131 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~65 |
 | Ineffectual Intellectuals | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,175 (Ranked 63)  
-Completed: 1,969 (1.99%) (Ranked 74)  
+Progressed: 99,225 (Ranked 63)  
+Completed: 1,969 (1.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -561,7 +561,7 @@ Completed: 1,969 (1.99%) (Ranked 74)
 | 2023-06-17 | 96,035 | 1,947 |
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
-| 2023-06-20 | 99,175 | 1,969 |
+| 2023-06-20 | 99,225 | 1,969 |
 ## Awards
 Max (Diverse Characters): 4,949  (Ranked 64)  
 Sum: 30,148 (Ranked 37)  

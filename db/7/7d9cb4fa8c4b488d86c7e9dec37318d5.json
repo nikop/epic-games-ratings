@@ -231,9 +231,9 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Game Completed",
@@ -279,9 +279,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "The Breaker",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:09:30.0240503+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:04:32.6909478+00:00",
   "LastUpdate_AppInfo": "2023-06-13T18:57:46.2736297+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:02:09.2206634+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:09:30.0240617+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:57:29.1724066+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:04:32.6909583+00:00"
 }

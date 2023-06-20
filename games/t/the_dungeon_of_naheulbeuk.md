@@ -53,7 +53,7 @@ Number of Ratings: 118  (23.09.2022)
 | Egghead | 8.00% | ~10 |
 | An old poacher makes the best gamekeeper | 8.00% | ~10 |
 | Lëgal Legend | 8.00% | ~10 |
-| Elite Adventurers | 6.00% | ~8 |
+| Elite Adventurers | 7.00% | ~9 |
 | Free customer service | 6.00% | ~8 |
 | We come in peace | 6.00% | ~8 |
 | Super-Ultra-Lydian | 6.00% | ~8 |

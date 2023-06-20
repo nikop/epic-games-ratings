@@ -49,7 +49,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Master's Awakening | 18.00% | ~14,167 |
 | Cycle of Darkness | 16.00% | ~12,593 |
 | Job Master | 8.00% | ~6,296 |
-| Crest Bearer | 6.00% | ~4,722 |
+| Crest Bearer | 7.00% | ~5,509 |
 | Strangers' Memories | 3.00% | ~2,361 |
 | A Tale of Origins and Endings | 2.00% | ~1,574 |
 ## Popularity (Based on EOS Achievements)

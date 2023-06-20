@@ -8,13 +8,13 @@ Number of Ratings: 22  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tuto | 60.00% | ~234 |
 | Joma | 44.00% | ~172 |
-| Campaign Bronze | 35.00% | ~136 |
+| Campaign Bronze | 36.00% | ~140 |
 | Lorian | 31.00% | ~121 |
-| Metropolis | 26.00% | ~101 |
+| Metropolis | 27.00% | ~105 |
 | Rounos | 23.00% | ~90 |
 | Campaign Silver | 21.00% | ~82 |
 | Magni | 21.00% | ~82 |
-| Bora | 17.00% | ~66 |
+| Bora | 18.00% | ~70 |
 | Scientist | 15.00% | ~58 |
 | Edora | 14.00% | ~55 |
 | Campaign Gold | 13.00% | ~51 |

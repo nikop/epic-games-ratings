@@ -12,15 +12,16 @@
 | Make Up For Lost Time | 11.00% | ~78 |
 | Cartographer | 11.00% | ~78 |
 | Time Flies | 11.00% | ~78 |
+| The Wicked Twins | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | The Brass Boss | 11.00% | ~78 |
 | The Betrayer | 10.00% | ~71 |
+| The Loose Cannon | 10.00% | ~71 |
 | The Harder They Fall | 10.00% | ~71 |
 | No, Thanks! | 10.00% | ~71 |
 | Breaking Down Barriers | 10.00% | ~71 |
-| The Wicked Twins | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Fast Learner | 10.00% | ~71 |
@@ -28,7 +29,6 @@
 | Like Clockwork | 9.00% | ~64 |
 | Street Style | 9.00% | ~64 |
 | The Man Who Shattered Time | 9.00% | ~64 |
-| The Loose Cannon | 9.00% | ~64 |
 | The Family Fortune | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |

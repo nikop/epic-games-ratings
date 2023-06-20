@@ -4396,11 +4396,11 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 99175,
+  "EOS_Progressed": 99225,
   "EOS_Completed": 1969,
-  "EOS_NewPlayers": 8586,
+  "EOS_NewPlayers": 8635,
   "EOS_NewCompleters": 39,
-  "EOS_Completed_Percentage": 1.99,
+  "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -10651,6 +10651,11 @@
       "Time": "2023-06-20T02:11:45.1896201+00:00",
       "NumProgressed": 99175,
       "NumCompleted": 1969
+    },
+    {
+      "Time": "2023-06-20T03:06:22.3885245+00:00",
+      "NumProgressed": 99225,
+      "NumCompleted": 1969
     }
   ],
   "TotalAchievements": 493,
@@ -10662,7 +10667,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6942
+      "UsersEstimate": 6946
     },
     {
       "ID": "objective_completed_10",
@@ -11500,9 +11505,9 @@
       "ID": "objective_completed_1194",
       "SetID": "415jc5c",
       "Name": "Kas the Bloody Handed",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_completed_1198",
@@ -11638,7 +11643,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "objective_completed_130",
@@ -11782,7 +11787,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "objective_completed_150",
@@ -11854,7 +11859,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "objective_completed_165",
@@ -11990,7 +11995,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "objective_completed_20",
@@ -12334,7 +12339,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2977
     },
     {
       "ID": "objective_completed_34",
@@ -12350,7 +12355,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "objective_completed_36",
@@ -12806,7 +12811,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "objective_completed_540",
@@ -14406,7 +14411,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "objective_completed_902",
@@ -14605,21 +14610,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 65449,
+      "Progressed": 65499,
       "Completed": 2807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 99175,
+      "Progressed": 99225,
       "Completed": 1969
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-19T18:58:36.1829643+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:11:45.1896197+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:06:22.388524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:03:16.2999401+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:11:45.1919268+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:58:20.6141987+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:06:22.3931047+00:00"
 }

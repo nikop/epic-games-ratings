@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -692,7 +692,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15468,
+  "EOS_Progressed": 15469,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 2,
@@ -4382,6 +4382,11 @@
       "Time": "2023-06-20T02:09:39.1306373+00:00",
       "NumProgressed": 15468,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T03:04:40.179788+00:00",
+      "NumProgressed": 15469,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4409,7 +4414,7 @@
       "Name": "Giving Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -4521,7 +4526,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "KILL_ROBOT",
@@ -4551,9 +4556,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 1083
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -4561,7 +4566,7 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "PRINT_WEAPON",
@@ -4601,7 +4606,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "STORY_HANGAR",
@@ -4712,13 +4717,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15468,
+      "Progressed": 15469,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3394,
+      "Progressed": 3395,
       "Completed": 29
     }
   ],
@@ -4726,8 +4731,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-19T18:58:24.1620415+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:09:39.130637+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:04:40.1797874+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:03:05.2689716+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:09:39.130687+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:58:12.6819321+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:04:40.1798467+00:00"
 }

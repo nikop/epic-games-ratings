@@ -6,25 +6,25 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,825 |
-| Into the Unknown | 10.00% | ~58,023 |
-| First Shot | 10.00% | ~58,023 |
+| You Never Forget Your First... | 11.00% | ~63,826 |
+| Into the Unknown | 10.00% | ~58,024 |
+| First Shot | 10.00% | ~58,024 |
 | Herzlich Wilkommen! | 9.00% | ~52,221 |
 | Good Night & Good Luck | 9.00% | ~52,221 |
-| Sancho Panza | 8.00% | ~46,418 |
-| Under Pressure | 7.00% | ~40,616 |
-| Flag Burning | 7.00% | ~40,616 |
-| Oh, So This Is How It Works! | 7.00% | ~40,616 |
-| Night Hunter | 7.00% | ~40,616 |
+| Sancho Panza | 8.00% | ~46,419 |
+| Under Pressure | 7.00% | ~40,617 |
+| Flag Burning | 7.00% | ~40,617 |
+| Oh, So This Is How It Works! | 7.00% | ~40,617 |
+| Night Hunter | 7.00% | ~40,617 |
 | On the Trail of the Enemy | 6.00% | ~34,814 |
 | Light in the Darkness | 6.00% | ~34,814 |
 | Get Outta My House! | 6.00% | ~34,814 |
 | It Wasn't That Hard, Was It? | 6.00% | ~34,814 |
 | Being All Social | 6.00% | ~34,814 |
-| We Will Be Heard! | 5.00% | ~29,011 |
-| Tunnel Entrance | 5.00% | ~29,011 |
-| After the Fall | 5.00% | ~29,011 |
-| Can't Touch This! | 5.00% | ~29,011 |
+| We Will Be Heard! | 5.00% | ~29,012 |
+| Tunnel Entrance | 5.00% | ~29,012 |
+| After the Fall | 5.00% | ~29,012 |
+| Can't Touch This! | 5.00% | ~29,012 |
 | Debris and Ashes | 4.00% | ~23,209 |
 | Known Associate | 4.00% | ~23,209 |
 | Brush with Death | 4.00% | ~23,209 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,228 (Ranked 25)  
+Progressed: 580,237 (Ranked 25)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-17 | 579,047 | 51 |
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
-| 2023-06-20 | 580,228 | 57 |
+| 2023-06-20 | 580,237 | 57 |
 ## Awards
 Max (Character Customization): 7,890  (Ranked 40)  
 Sum: 18,298 (Ranked 56)  

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,269 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,270 |
 | A Keen Sense of Spell | 8.00% | ~22,462 |
 | First Class Student | 8.00% | ~22,462 |
 | Troll with the Punches | 8.00% | ~22,462 |
@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 7.00% | ~19,654 |
 | A Talent for Spending | 7.00% | ~19,654 |
 | Coasting Along | 7.00% | ~19,654 |
-| A Sallow Grave | 6.00% | ~16,846 |
-| Followed the Butterflies | 6.00% | ~16,846 |
-| The Spell Master | 6.00% | ~16,846 |
-| Rising From the Ashes | 6.00% | ~16,846 |
-| The Avenging Gazelle | 5.00% | ~14,038 |
-| Beast Friends | 5.00% | ~14,038 |
-| Flight the Good Flight | 5.00% | ~14,038 |
+| A Sallow Grave | 6.00% | ~16,847 |
+| Followed the Butterflies | 6.00% | ~16,847 |
+| The Spell Master | 6.00% | ~16,847 |
+| Rising From the Ashes | 6.00% | ~16,847 |
+| The Avenging Gazelle | 5.00% | ~14,039 |
+| Beast Friends | 5.00% | ~14,039 |
+| Flight the Good Flight | 5.00% | ~14,039 |
 | The Seeker of Knowledge | 4.00% | ~11,231 |
 | The Root of the Problem | 4.00% | ~11,231 |
 | Third Time's a Charm | 4.00% | ~11,231 |
@@ -36,10 +36,10 @@ Rating: 4.77 (Ranked 107)
 | The Intrepid Explorer | 3.00% | ~8,423 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,423 |
 | The Ends Petrify the Means | 3.00% | ~8,423 |
-| Put Down Roots | 2.00% | ~5,615 |
-| The Auror's Apprentice | 2.00% | ~5,615 |
-| Floo Around the World | 2.00% | ~5,615 |
-| The Wise Owl | 2.00% | ~5,615 |
+| Put Down Roots | 2.00% | ~5,616 |
+| The Auror's Apprentice | 2.00% | ~5,616 |
+| Floo Around the World | 2.00% | ~5,616 |
+| The Wise Owl | 2.00% | ~5,616 |
 | The Good Samaritan | 1.00% | ~2,808 |
 | Rise to the Challenges | 1.00% | ~2,808 |
 | Demiguise Dread | 1.00% | ~2,808 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,404 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,770 (Ranked 41)  
+Progressed: 280,776 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,15 +112,15 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-17 | 280,449 | 408 |
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
-| 2023-06-20 | 280,770 | 408 |
+| 2023-06-20 | 280,776 | 408 |
 ## Awards
 Max (Character Customization): 20,171  (Ranked 18)  
-Sum: 37,408 (Ranked 31)  
+Sum: 37,426 (Ranked 31)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,171 |
-| This game has Great Boss Battles | 9,572 |
+| This game has Great Boss Battles | 9,590 |
 | This game is Great for Beginners | 851 |
 | This game is Relaxing | 839 |
 | This game is Extremely Fun | 834 |
@@ -222,3 +222,4 @@ Diff (max vs sum): -13
 | 2023-06-17 | 4.77 | 20,077 | 37,248 |
 | 2023-06-18 | 4.77 | 20,122 | 37,312 |
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
+| 2023-06-20 | 4.77 | 20,171 | 37,426 |

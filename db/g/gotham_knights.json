@@ -1652,9 +1652,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65705,
+  "EOS_Progressed": 65709,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7017,6 +7017,11 @@
       "Time": "2023-06-20T02:11:36.7469468+00:00",
       "NumProgressed": 65705,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-20T03:06:14.2770519+00:00",
+      "NumProgressed": 65709,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -7186,9 +7191,9 @@
       "ID": "CRIME_FIGHTER_2",
       "SetID": "4eo5ebm",
       "Name": "Not On My Watch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 657
+      "UsersEstimate": 1314
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -7372,7 +7377,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3942
+      "UsersEstimate": 3943
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -7515,13 +7520,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65705,
+      "Progressed": 65709,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35985,
+      "Progressed": 35989,
       "Completed": 2646
     }
   ],
@@ -7529,8 +7534,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-20T02:05:09.4146976+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:11:36.7469465+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:06:14.2770514+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:05:09.4146984+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:11:36.7470367+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:59:50.7544581+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:06:14.2771476+00:00"
 }

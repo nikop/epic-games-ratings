@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6736,
+  "EOS_Progressed": 6738,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4527,6 +4527,11 @@
       "Time": "2023-06-19T23:06:31.7354448+00:00",
       "NumProgressed": 6736,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-20T03:04:15.3359131+00:00",
+      "NumProgressed": 6738,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4538,7 +4543,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5591
+      "UsersEstimate": 5593
     },
     {
       "ID": "ACH02",
@@ -4546,7 +4551,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "ACH03",
@@ -4562,7 +4567,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ACH05",
@@ -4650,7 +4655,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH16",
@@ -4666,7 +4671,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACH18",
@@ -4769,7 +4774,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6736,
+      "Progressed": 6738,
       "Completed": 38
     }
   ],
@@ -4777,8 +4782,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-17T22:58:00.5201105+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:09:08.6581838+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:04:15.3359127+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:03:04.2764838+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:09:08.6582301+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:58:11.9429124+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:04:15.3359611+00:00"
 }

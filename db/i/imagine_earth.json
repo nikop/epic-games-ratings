@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "CampaignStars2",
@@ -308,9 +308,9 @@
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "Multitalent",
@@ -324,9 +324,9 @@
       "ID": "PlanetBora",
       "SetID": "c2k469b",
       "Name": "Bora",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "PlanetEdora",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-06-20T02:06:13.393155+00:00",
+  "LastChanged_Achievements": "2023-06-20T03:00:44.3158594+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.8922938+00:00",
-  "LastUpdate_Ratings": "2023-06-20T02:04:34.0085536+00:00",
-  "LastUpdate_Achievements": "2023-06-20T02:06:13.3931937+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:59:23.2983602+00:00",
+  "LastUpdate_Achievements": "2023-06-20T03:00:44.3158832+00:00"
 }
