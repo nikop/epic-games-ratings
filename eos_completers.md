@@ -24,7 +24,7 @@
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
 | 28 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -47,9 +47,9 @@
 | 45 | [JARS](games/j/jars.md) | 3.57% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.31% |
-| 48 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.28% |
 | 48 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.28% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.27% |
+| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.27% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.13% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -71,7 +71,7 @@
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.07% |
 | 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.98% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
@@ -81,8 +81,8 @@
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.67% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 82 | [Poosh XL](games/p/poosh_xl.md) | 1.59% |
-| 83 | [Somerville](games/s/somerville.md) | 1.58% |
+| 82 | [Somerville](games/s/somerville.md) | 1.58% |
+| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.57% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 85 | [A Musical Story](games/a/a_musical_story.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.47% |
