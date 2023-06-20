@@ -5,31 +5,31 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 32.00% | ~971 |
-| Confirming Suspicions | 27.00% | ~819 |
-| The Kraken Wakes | 22.00% | ~667 |
-| It's Starting to Crack | 19.00% | ~576 |
+| Meeting Resistance | 32.00% | ~972 |
+| Confirming Suspicions | 27.00% | ~820 |
+| The Kraken Wakes | 22.00% | ~668 |
+| It's Starting to Crack | 19.00% | ~577 |
 | Lord of War | 17.00% | ~516 |
 | Change the Channel | 17.00% | ~516 |
 | Resourceful | 15.00% | ~455 |
 | Taking it back | 15.00% | ~455 |
-| Target America | 13.00% | ~394 |
+| Target America | 13.00% | ~395 |
 | Organ Grinder | 12.00% | ~364 |
 | As Quiet as a Mouse | 12.00% | ~364 |
+| Liberté | 11.00% | ~334 |
 | The Kraken Sleeps | 11.00% | ~334 |
-| Liberté | 10.00% | ~303 |
-| Sharpshooter | 10.00% | ~303 |
-| Explosive Efficiency | 10.00% | ~303 |
+| Sharpshooter | 10.00% | ~304 |
+| Explosive Efficiency | 10.00% | ~304 |
 | Just a Flesh Wound | 9.00% | ~273 |
 | Gunslinger | 9.00% | ~273 |
 | Opposing Force | 8.00% | ~243 |
 | Enemy at the Gates | 8.00% | ~243 |
-| Climbing the Ladder | 7.00% | ~212 |
-| Die Nussknacker Sweet! | 7.00% | ~212 |
-| Der Geist | 7.00% | ~212 |
-| Close Quarters | 7.00% | ~212 |
-| Snake in the Grass | 7.00% | ~212 |
-| Brains of the Operation | 7.00% | ~212 |
+| Der Geist | 8.00% | ~243 |
+| Climbing the Ladder | 7.00% | ~213 |
+| Die Nussknacker Sweet! | 7.00% | ~213 |
+| Close Quarters | 7.00% | ~213 |
+| Snake in the Grass | 7.00% | ~213 |
+| Brains of the Operation | 7.00% | ~213 |
 | No Stone Unturned | 6.00% | ~182 |
 | Fields of Glory | 6.00% | ~182 |
 | Skirmisher | 6.00% | ~182 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 565)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,033 (Ranked 143)  
+Progressed: 3,036 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.07%) (Ranked 187)
 | 2023-06-17 | 2,980 | 2 |
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
-| 2023-06-20 | 3,033 | 2 |
+| 2023-06-20 | 3,036 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

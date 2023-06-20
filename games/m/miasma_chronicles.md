@@ -5,7 +5,7 @@ Rating: 4.33 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,066 |
+| First Blood | 92.00% | ~1,077 |
 | Ranidaphobia | 76.00% | ~890 |
 | Aspiring Editor | 74.00% | ~867 |
 | Gun for Hire | 69.00% | ~808 |
@@ -23,8 +23,8 @@ Rating: 4.33 (Ranked 749)
 | Technophobe | 33.00% | ~386 |
 | Recycler | 31.00% | ~363 |
 | Are you not entertained? | 27.00% | ~316 |
+| Ganglord | 27.00% | ~316 |
 | Jarhead | 27.00% | ~316 |
-| Ganglord | 26.00% | ~304 |
 | Infiltrator | 26.00% | ~304 |
 | Pushing Daisy | 25.00% | ~293 |
 | Experienced | 23.00% | ~269 |

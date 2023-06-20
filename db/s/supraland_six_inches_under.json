@@ -3,11 +3,11 @@
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
   "Ranking_Rating": 107,
-  "Ranking_Popularity": 331,
+  "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 2103,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 11.94,
   "EosHistory": [
@@ -1447,9 +1447,9 @@
       "ID": "Translocator",
       "SetID": "5lok9mm",
       "Name": "Translocator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1682
     },
     {
       "ID": "TrickleDown",
@@ -1479,8 +1479,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:06:04.5164021+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:11:39.5495877+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:33.6497222+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:55.7635086+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:06:04.516442+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:05:27.1888999+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:11:39.5496283+00:00"
 }

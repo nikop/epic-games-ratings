@@ -3,11 +3,11 @@
   "Name": "The Escapists 2",
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 421,
-  "Ranking_Popularity": 391,
+  "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -1052,6 +1052,6 @@
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
   "LastChanged": "2023-06-09T09:58:43.9670759+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.4552172+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:58:27.1626002+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:02:19.2313338+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:03:37.0151608+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:07:26.9932133+00:00"
 }

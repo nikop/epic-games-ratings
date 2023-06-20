@@ -54,9 +54,9 @@ Rating: 3.48 (Ranked 945)
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
 | What Lies Below | 0.90% | ~15 |
+| So Anyway I Started Blasting | 0.90% | ~15 |
 | Sisterhood | 0.80% | ~14 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~14 |
-| So Anyway I Started Blasting | 0.80% | ~14 |
 | Good Samaritan | 0.50% | ~8 |
 | Someplace to Be | 0.40% | ~7 |
 | A Cry in the Dark | 0.20% | ~3 |

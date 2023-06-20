@@ -40,10 +40,10 @@ Rating: 4.17 (Ranked 857)
 | Solid Alibi | 1.00% | ~657 |
 | Fusion Expert | 0.80% | ~526 |
 | Family Meeting | 0.80% | ~526 |
+| Expert Crime Fighter | 0.70% | ~460 |
 | A Worthy Successor | 0.70% | ~460 |
 | Dressed to Impress | 0.60% | ~394 |
-| Expert Crime Fighter | 0.60% | ~394 |
-| A Momentum Occasion | 0.40% | ~263 |
+| A Momentum Occasion | 0.50% | ~329 |
 | Bat Out of Hell | 0.40% | ~263 |
 | He'd Be So Proud of You | 0.30% | ~197 |
 | Hammer and Icicle | 0.20% | ~72 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,696 (Ranked 71)  
+Progressed: 65,705 (Ranked 71)  
 Completed: 95 (0.14%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,14 +128,14 @@ Completed: 95 (0.14%) (Ranked 168)
 | 2023-06-17 | 65,456 | 95 |
 | 2023-06-18 | 65,582 | 95 |
 | 2023-06-19 | 65,692 | 95 |
-| 2023-06-20 | 65,696 | 95 |
+| 2023-06-20 | 65,705 | 95 |
 ## Awards
-Max (Great Boss Battles): 2,346  (Ranked 97)  
-Sum: 3,886 (Ranked 137)  
+Max (Great Boss Battles): 2,348  (Ranked 97)  
+Sum: 3,888 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,346 |
+| This game has Great Boss Battles | 2,348 |
 | This game has Quickly Understood Controls | 200 |
 | This game is Extremely Fun | 200 |
 | This game is Relaxing | 198 |
@@ -267,3 +267,4 @@ Diff (max vs sum): -40
 | 2023-06-17 | 4.17 | 2,339 | 3,875 |
 | 2023-06-18 | 4.18 | 2,346 | 3,885 |
 | 2023-06-19 | 4.18 | 2,346 | 3,886 |
+| 2023-06-20 | 4.17 | 2,348 | 3,888 |

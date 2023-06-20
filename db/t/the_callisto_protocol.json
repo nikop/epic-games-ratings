@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 850,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 327,
+  "Ranking_Popularity": 386,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 95,
@@ -692,9 +692,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15466,
+  "EOS_Progressed": 15468,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4377,6 +4377,11 @@
       "Time": "2023-06-20T00:04:24.2984142+00:00",
       "NumProgressed": 15466,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-20T02:09:39.1306373+00:00",
+      "NumProgressed": 15468,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 40,
@@ -4420,7 +4425,7 @@
       "Name": "Flesh Wound",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -4620,7 +4625,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4707,13 +4712,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15466,
+      "Progressed": 15468,
       "Completed": 56
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3392,
+      "Progressed": 3394,
       "Completed": 29
     }
   ],
@@ -4721,8 +4726,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-19T18:58:24.1620415+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:04:24.2984138+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:09:39.130637+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:57:58.7237144+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:04:24.2984579+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:03:05.2689716+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:09:39.130687+00:00"
 }

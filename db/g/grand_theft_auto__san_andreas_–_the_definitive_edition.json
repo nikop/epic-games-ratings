@@ -442,9 +442,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 10717,
+  "EOS_Progressed": 10719,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5252,6 +5252,11 @@
       "Time": "2023-06-19T23:08:29.0610106+00:00",
       "NumProgressed": 10717,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-20T02:11:31.900738+00:00",
+      "NumProgressed": 10719,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 35,
@@ -5263,7 +5268,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8574
+      "UsersEstimate": 8575
     },
     {
       "ID": "ACH02",
@@ -5319,7 +5324,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "ACH09",
@@ -5343,7 +5348,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH12",
@@ -5487,7 +5492,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH30",
@@ -5542,7 +5547,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10717,
+      "Progressed": 10719,
       "Completed": 19
     }
   ],
@@ -5550,8 +5555,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-19T23:02:41.9230211+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:05:57.0432944+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:11:31.9007377+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-20T00:00:08.9938654+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:05:57.0433397+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:05:43.4168197+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:11:31.9008274+00:00"
 }

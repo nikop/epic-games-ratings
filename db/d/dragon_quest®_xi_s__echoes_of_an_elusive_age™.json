@@ -4,10 +4,10 @@
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
   "Ranking_Rating": 58,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-24T09:00:00+00:00",
@@ -603,6 +603,6 @@
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
   "LastChanged": "2023-06-14T17:59:26.4668058+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.2365451+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:21.3886777+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:04:55.8768583+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:42.2815495+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:10:17.9471483+00:00"
 }

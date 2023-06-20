@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1522,10 +1522,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2160,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-06-20T02:04:48.6103632+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2161,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2160,
+  "NumberOfAwards": 2161,
   "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1593,12 +1599,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 207
+      "Count": 208
     }
   ],
-  "EOS_Progressed": 19697,
+  "EOS_Progressed": 19698,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4826,6 +4832,11 @@
       "Time": "2023-06-19T18:06:34.8764369+00:00",
       "NumProgressed": 19697,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-20T02:11:14.0486148+00:00",
+      "NumProgressed": 19698,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4885,7 +4896,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18515
+      "UsersEstimate": 18516
     },
     {
       "ID": "GameOver",
@@ -4949,7 +4960,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "Negotiator",
@@ -4973,7 +4984,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "SeniorEstateAgent",
@@ -4989,7 +5000,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "Strongman",
@@ -5020,15 +5031,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19697,
+      "Progressed": 19698,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-19T02:10:05.7712133+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:05:41.9446414+00:00",
+  "LastChanged": "2023-06-20T02:04:48.610363+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:11:14.0486142+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.3961227+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:25.8436671+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:05:41.9446678+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:48.6103636+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:11:14.0486575+00:00"
 }

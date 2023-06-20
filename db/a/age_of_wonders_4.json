@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4750,
+  "EOS_Progressed": 4751,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
@@ -4208,6 +4208,11 @@
       "Time": "2023-06-19T21:05:09.6994827+00:00",
       "NumProgressed": 4750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-20T02:10:02.2615536+00:00",
+      "NumProgressed": 4751,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -4219,7 +4224,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "10",
@@ -4227,7 +4232,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "11",
@@ -4259,15 +4264,15 @@
       "Name": "Full Ascension",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1520
     },
     {
       "ID": "16",
@@ -4275,7 +4280,7 @@
       "Name": "God Emperor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "17",
@@ -4283,7 +4288,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "18",
@@ -4299,7 +4304,7 @@
       "Name": "The Creator",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "2",
@@ -4331,7 +4336,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "23",
@@ -4339,7 +4344,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "24",
@@ -4347,7 +4352,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "25",
@@ -4355,7 +4360,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "26",
@@ -4379,7 +4384,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "29",
@@ -4387,7 +4392,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "3",
@@ -4411,7 +4416,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "32",
@@ -4570,13 +4575,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4750,
-      "Completed": 4750
+      "Progressed": 4751,
+      "Completed": 4751
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4750,
+      "Progressed": 4751,
       "Completed": 3
     }
   ],
@@ -4584,8 +4589,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-18T20:59:39.290641+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:04:43.0922195+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:10:02.2615531+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.2365917+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:25.7138925+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:04:43.0922692+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:48.4457694+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:10:02.2616405+00:00"
 }

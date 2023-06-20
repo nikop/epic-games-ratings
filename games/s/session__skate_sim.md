@@ -47,7 +47,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~49 |
 | Pew-Pew | 2.00% | ~49 |
 | Dipped! | 1.00% | ~25 |
-| That was wheelie fun | 0.90% | ~22 |
+| That was wheelie fun | 1.00% | ~25 |
 | Skatepark hero | 0.80% | ~20 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
@@ -115,8 +115,8 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 2,459 | 0 |
 | 2023-06-19 | 2,462 | 0 |
 ## Awards
-Max (Highly Recommended): 48  (Ranked 401)  
-Sum: 422 (Ranked 304)  
+Max (Highly Recommended): 48  (Ranked 400)  
+Sum: 422 (Ranked 303)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |

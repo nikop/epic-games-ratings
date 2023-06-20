@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-06-19T19:06:54.0192259+00:00",
       "NumProgressed": 709,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-20T02:10:57.284615+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1469,7 +1474,7 @@
       "Name": "Sartorialist",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CosmeticProgress1",
@@ -1485,7 +1490,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EntresolChests1",
@@ -1493,7 +1498,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1509,7 +1514,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FairgroundsChests1",
@@ -1517,7 +1522,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1757,7 +1762,7 @@
       "Name": "Syron for Hope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1828,14 +1833,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:05:27.9251016+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:10:57.2846145+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:22.0439565+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:05:27.9251453+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:43.2120548+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:10:57.2846669+00:00"
 }

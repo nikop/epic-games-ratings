@@ -4,7 +4,7 @@
   "ProductSlug": "aftertime-1ca584",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-18T03:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-27T04:56:55.1615837+00:00",
   "LastChanged": "2023-04-27T04:56:55.1615854+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:00.987346+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:57:24.0499463+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:03:04.0723739+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:02:18.1598406+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:08:02.2521667+00:00"
 }

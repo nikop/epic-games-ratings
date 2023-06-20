@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -492,7 +492,7 @@
   ],
   "EOS_Progressed": 2945,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2785,9 +2785,9 @@
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 589
     },
     {
       "ID": "Eureka_23",
@@ -3073,8 +3073,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:03:39.9231477+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:08:46.3305334+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:31.2469742+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:57:53.2656428+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:03:39.9231847+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:02:57.3034316+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:08:46.3305783+00:00"
 }

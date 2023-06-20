@@ -36,7 +36,7 @@ Number of Ratings: 209  (23.09.2022)
 | Force Cube | 81.00% | ~1,703 |
 | Got Battery | 80.00% | ~1,682 |
 | Guard Distracted | 80.00% | ~1,682 |
-| Translocator | 79.00% | ~1,661 |
+| Translocator | 80.00% | ~1,682 |
 | Inner Peace | 77.00% | ~1,619 |
 | Diamond Pickaxe | 77.00% | ~1,619 |
 | Killed them all | 76.00% | ~1,598 |
@@ -119,9 +119,9 @@ Completed: 251 (11.94%) (Ranked 16)
 | 2023-06-18 | 2,102 | 251 |
 | 2023-06-19 | 2,103 | 251 |
 ## Awards
-Max (Challenging Puzzles): 98  (Ranked 331)  
+Max (Challenging Puzzles): 98  (Ranked 330)  
 Sum: 98 (Ranked 405)  
-Diff (max vs sum): -74  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 98 |

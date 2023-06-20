@@ -6,21 +6,21 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,880 |
-| Apprentice | 58.00% | ~381,736 |
+| The Fool | 72.00% | ~473,882 |
+| Apprentice | 58.00% | ~381,739 |
 | Close Shave | 25.00% | ~164,542 |
-| Mercenary | 23.00% | ~151,378 |
-| Ninja | 23.00% | ~151,378 |
-| Northern Scourge | 17.00% | ~111,888 |
-| Thief Bane | 14.00% | ~92,143 |
+| Mercenary | 23.00% | ~151,379 |
+| Ninja | 23.00% | ~151,379 |
+| Northern Scourge | 17.00% | ~111,889 |
+| Thief Bane | 14.00% | ~92,144 |
 | Master of Arms | 12.00% | ~78,980 |
 | Gambler | 10.00% | ~65,817 |
 | Dice Master | 10.00% | ~65,817 |
 | Swordsman | 9.00% | ~59,235 |
-| Knight | 8.00% | ~52,653 |
-| Cure for Corruption | 8.00% | ~52,653 |
-| Focused | 8.00% | ~52,653 |
-| Flurry of Fury | 8.00% | ~52,653 |
+| Knight | 8.00% | ~52,654 |
+| Cure for Corruption | 8.00% | ~52,654 |
+| Focused | 8.00% | ~52,654 |
+| Flurry of Fury | 8.00% | ~52,654 |
 | Long Shot | 7.00% | ~46,072 |
 | Devil Dice | 7.00% | ~46,072 |
 | Broken Heart | 7.00% | ~46,072 |
@@ -47,7 +47,7 @@ Number of Ratings: 780  (23.09.2022)
 | Dungeon Master | 0.50% | ~3,291 |
 | Pilgrim | 0.40% | ~2,633 |
 | Smiths Honour | 0.40% | ~2,633 |
-| Peaceful Coast | 0.30% | ~1,974 |
+| Peaceful Coast | 0.30% | ~1,975 |
 | Money Bags | 0.20% | ~1,316 |
 | Grifter | 0.10% | ~658 |
 | Unburdened | 0.10% | ~658 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,166 (Ranked 20)  
+Progressed: 658,170 (Ranked 20)  
 Completed: 165 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 165 (0.03%) (Ranked 200)
 | 2023-06-17 | 658,031 | 165 |
 | 2023-06-18 | 658,111 | 165 |
 | 2023-06-19 | 658,164 | 165 |
-| 2023-06-20 | 658,166 | 165 |
+| 2023-06-20 | 658,170 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 432)  
 Sum: 180 (Ranked 367)  

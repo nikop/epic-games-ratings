@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 487,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.72,
   "EosHistory": [
@@ -1719,9 +1719,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "MQ06_4",
@@ -1792,8 +1792,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:04:19.0566183+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:09:32.8947962+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:57:25.6181206+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:04:19.0566414+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:02:20.0757642+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:09:32.8948286+00:00"
 }

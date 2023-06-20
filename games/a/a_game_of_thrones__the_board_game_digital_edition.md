@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,466 |
-| Battering Crew | 20.00% | ~3,233 |
-| The Kingsroad | 19.00% | ~3,071 |
-| Well Stocked | 14.00% | ~2,263 |
-| Royal Fleet | 14.00% | ~2,263 |
-| The Kraken’s Grasp | 9.00% | ~1,455 |
-| Alliance | 9.00% | ~1,455 |
-| Daggers in the Dark | 8.00% | ~1,293 |
-| Oathkeeper | 8.00% | ~1,293 |
-| Influential | 8.00% | ~1,293 |
-| A Long Journey | 8.00% | ~1,293 |
+| Conqueror | 40.00% | ~6,469 |
+| Battering Crew | 20.00% | ~3,235 |
+| The Kingsroad | 19.00% | ~3,073 |
+| Well Stocked | 14.00% | ~2,264 |
+| Royal Fleet | 14.00% | ~2,264 |
+| The Kraken’s Grasp | 9.00% | ~1,456 |
+| Alliance | 9.00% | ~1,456 |
+| Daggers in the Dark | 8.00% | ~1,294 |
+| Oathkeeper | 8.00% | ~1,294 |
+| Influential | 8.00% | ~1,294 |
+| A Long Journey | 8.00% | ~1,294 |
 | Ours is the Fury | 7.00% | ~1,132 |
 | We Do Not Sow | 7.00% | ~1,132 |
 | Winter is Coming | 7.00% | ~1,132 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~970 |
 | Hear me Roar! | 6.00% | ~970 |
 | Defender of the Wall | 6.00% | ~970 |
-| Growing Strong | 5.00% | ~808 |
+| Growing Strong | 5.00% | ~809 |
 | What is Dead may Never Die | 3.00% | ~485 |
 | The Swift | 3.00% | ~485 |
 | King in the North | 2.00% | ~323 |
 | War of the Five Kings | 1.00% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,165 (Ranked 102)  
+Progressed: 16,173 (Ranked 102)  
 Completed: 33 (0.20%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,11 +90,11 @@ Completed: 33 (0.20%) (Ranked 156)
 | 2023-06-17 | 15,928 | 33 |
 | 2023-06-18 | 16,067 | 33 |
 | 2023-06-19 | 16,162 | 33 |
-| 2023-06-20 | 16,165 | 33 |
+| 2023-06-20 | 16,173 | 33 |
 ## Awards
-Max (Quickly Understood Controls): 123  (Ranked 306)  
+Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 783 (Ranked 255)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 123 |

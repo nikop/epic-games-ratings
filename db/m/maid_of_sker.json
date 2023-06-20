@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -172,6 +172,11 @@
       "Time": "2023-06-18T13:09:46.0433155+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-20T02:09:57.6079628+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -237,9 +242,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "easy_listening",
@@ -365,9 +370,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "scholar",
@@ -389,9 +394,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "the_long_night",
@@ -422,7 +427,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
@@ -430,8 +435,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:04:39.3356691+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:09:57.6079622+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:48.8292075+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:59:09.6363437+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:04:39.335687+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:30.5333191+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:09:57.6079877+00:00"
 }

@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That wasn't so bad | 85.00% | ~219 |
-| Let it begin | 49.00% | ~126 |
+| Let it begin | 50.00% | ~129 |
 | The boss | 26.00% | ~67 |
 | The intellectual | 26.00% | ~67 |
 | The athlete | 24.00% | ~62 |
 | The activist | 21.00% | ~54 |
-| The individualist | 20.00% | ~52 |
+| The individualist | 21.00% | ~54 |
 | The nice guy | 13.00% | ~34 |
-| The debonair | 10.00% | ~26 |
+| The debonair | 11.00% | ~28 |
 | Picky, Picky! | 9.00% | ~23 |
-| The lad | 8.00% | ~21 |
+| The lad | 9.00% | ~23 |
 | More than browsing | 7.00% | ~18 |
 | The techie | 7.00% | ~18 |
 | The bad boy | 6.00% | ~15 |
+| Picky! | 5.00% | ~13 |
 | Playing the field | 5.00% | ~13 |
-| Picky! | 4.00% | ~10 |
 | Go well, lad | 4.00% | ~10 |
 | Keep the spark alive | 3.00% | ~8 |
 | Muggy Misha | 3.00% | ~8 |

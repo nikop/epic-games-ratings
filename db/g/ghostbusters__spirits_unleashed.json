@@ -1186,10 +1186,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2126,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-06-20T02:04:12.695906+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2127,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2126,
+  "NumberOfAwards": 2127,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1209,7 +1215,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1266,9 +1272,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23513,
+  "EOS_Progressed": 23514,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6016,6 +6022,11 @@
       "Time": "2023-06-20T00:05:58.0216713+00:00",
       "NumProgressed": 23513,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-20T02:11:32.9289595+00:00",
+      "NumProgressed": 23514,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6027,7 +6038,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17164
+      "UsersEstimate": 17165
     },
     {
       "ID": "Animated",
@@ -6067,7 +6078,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9640
+      "UsersEstimate": 9641
     },
     {
       "ID": "Collect_Spores",
@@ -6115,7 +6126,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14578
+      "UsersEstimate": 14579
     },
     {
       "ID": "Dont_Need_These",
@@ -6139,7 +6150,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15048
+      "UsersEstimate": 15049
     },
     {
       "ID": "Escape_Artist",
@@ -6163,7 +6174,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12697
+      "UsersEstimate": 12698
     },
     {
       "ID": "GB_In_Training",
@@ -6243,7 +6254,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Reckless",
@@ -6275,7 +6286,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Rivalry",
@@ -6323,7 +6334,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Stylish",
@@ -6331,7 +6342,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20221
+      "UsersEstimate": 20222
     },
     {
       "ID": "Summoner",
@@ -6355,7 +6366,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "Teamwork",
@@ -6371,7 +6382,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "Therapeutic",
@@ -6395,7 +6406,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     },
     {
       "ID": "Ultimate_Defense",
@@ -6411,7 +6422,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11286
+      "UsersEstimate": 11287
     },
     {
       "ID": "Welcome_Crew",
@@ -6427,23 +6438,23 @@
       "Name": "Whoopsie",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23513,
+      "Progressed": 23514,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-19T23:58:57.0756353+00:00",
-  "LastChanged_Achievements": "2023-06-20T00:05:58.0216709+00:00",
+  "LastChanged": "2023-06-20T02:04:12.6959058+00:00",
+  "LastChanged_Achievements": "2023-06-20T02:11:32.9289592+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-19T23:58:57.0756362+00:00",
-  "LastUpdate_Achievements": "2023-06-20T00:05:58.0217286+00:00"
+  "LastUpdate_Ratings": "2023-06-20T02:04:12.6959065+00:00",
+  "LastUpdate_Achievements": "2023-06-20T02:11:32.9290457+00:00"
 }
