@@ -25,9 +25,9 @@
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
-| 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.19% |
+| 28 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -74,8 +74,8 @@
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.86% |
-| 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.85% |
+| 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -125,8 +125,8 @@
 | 123 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.49% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
-| 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 126 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
+| 127 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 128 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.41% |
 | 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
