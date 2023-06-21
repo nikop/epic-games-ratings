@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 44.00% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 42.11% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -23,8 +23,8 @@
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
-| 24 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
-| 25 | [Time Loader](games/t/time_loader.md) | 7.48% |
+| 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
+| 25 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
 | 28 | [Without Escape](games/w/without_escape.md) | 7.14% |
@@ -70,10 +70,10 @@
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
 | 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.12% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.12% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.95% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.09% |
+| 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.94% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
