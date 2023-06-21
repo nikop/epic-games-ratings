@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 37.00% | ~1,077 |
+| Executioner | 37.00% | ~1,078 |
 | Look Over There! | 32.00% | ~932 |
 | Watch Where You Step... | 32.00% | ~932 |
 | Not So Fast... | 31.00% | ~903 |
@@ -16,7 +16,7 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 17.00% | ~495 |
 | Surgical Excision | 16.00% | ~466 |
 | Bloodless | 16.00% | ~466 |
-| Honoured Battle-Brother | 12.00% | ~349 |
+| Honoured Battle-Brother | 12.00% | ~350 |
 | The Emperor Protects | 11.00% | ~320 |
 | Nemesis Master | 11.00% | ~320 |
 | Gunmaster | 11.00% | ~320 |
@@ -26,10 +26,10 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 8.00% | ~233 |
 | Hold Your Ground | 6.00% | ~175 |
 | A Gift Spurned | 5.00% | ~146 |
-| Daemonkeeper | 4.00% | ~116 |
-| Long Distance Call | 4.00% | ~116 |
+| Daemonkeeper | 4.00% | ~117 |
+| Mind Like a Fortress | 4.00% | ~117 |
+| Long Distance Call | 4.00% | ~117 |
 | Corruption Cleanser | 3.00% | ~87 |
-| Mind Like a Fortress | 3.00% | ~87 |
 | Harvest No More | 3.00% | ~87 |
 | Junk Banishment | 3.00% | ~87 |
 | Tactical Flexibility | 3.00% | ~87 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,912 (Ranked 148)  
+Progressed: 2,913 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 2,907 | 0 |
 | 2023-06-19 | 2,909 | 0 |
 | 2023-06-20 | 2,911 | 0 |
-| 2023-06-21 | 2,912 | 0 |
+| 2023-06-21 | 2,913 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 259)  
 Sum: 425 (Ranked 301)  

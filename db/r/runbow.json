@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245272,
+  "EOS_Progressed": 245274,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5969,6 +5969,11 @@
       "Time": "2023-06-21T17:06:24.5256594+00:00",
       "NumProgressed": 245272,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T18:06:23.5410555+00:00",
+      "NumProgressed": 245274,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -6004,7 +6009,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49054
+      "UsersEstimate": 49055
     },
     {
       "ID": "blotbuster",
@@ -6036,7 +6041,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41696
+      "UsersEstimate": 41697
     },
     {
       "ID": "cantBeKeptDown",
@@ -6084,7 +6089,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49054
+      "UsersEstimate": 49055
     },
     {
       "ID": "didYourTime",
@@ -6156,7 +6161,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129994
+      "UsersEstimate": 129995
     },
     {
       "ID": "indegestible",
@@ -6220,7 +6225,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122636
+      "UsersEstimate": 122637
     },
     {
       "ID": "notScared",
@@ -6284,7 +6289,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51507
+      "UsersEstimate": 51508
     },
     {
       "ID": "thunderstruck",
@@ -6300,7 +6305,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31885
+      "UsersEstimate": 31886
     },
     {
       "ID": "treeMedalist",
@@ -6347,7 +6352,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245272,
+      "Progressed": 245274,
       "Completed": 3
     }
   ],
@@ -6355,8 +6360,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:06:24.5256589+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:06:23.5410548+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:59:35.9259683+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:06:24.5257214+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:59:37.4390772+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:06:23.5411081+00:00"
 }

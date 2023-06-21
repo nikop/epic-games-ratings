@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,549 |
-| Cavalier | 25.00% | ~197,217 |
-| Fatso | 23.00% | ~181,440 |
-| Awakening | 20.00% | ~157,774 |
-| Ranger | 20.00% | ~157,774 |
-| Scrooge | 20.00% | ~157,774 |
-| Anorectic | 16.00% | ~126,219 |
-| Firestarter | 15.00% | ~118,330 |
+| Blacksmith's Son | 31.00% | ~244,551 |
+| Cavalier | 25.00% | ~197,218 |
+| Fatso | 23.00% | ~181,441 |
+| Awakening | 20.00% | ~157,775 |
+| Ranger | 20.00% | ~157,775 |
+| Scrooge | 20.00% | ~157,775 |
+| Anorectic | 16.00% | ~126,220 |
+| Firestarter | 15.00% | ~118,331 |
 | Bookworm | 14.00% | ~110,442 |
-| Insomniac | 13.00% | ~102,553 |
-| Thief | 12.00% | ~94,664 |
+| Insomniac | 13.00% | ~102,554 |
+| Thief | 12.00% | ~94,665 |
 | Buddy | 11.00% | ~86,776 |
 | Sinner | 11.00% | ~86,776 |
 | Convict | 10.00% | ~78,887 |
 | Traveller | 10.00% | ~78,887 |
-| Haggler | 9.00% | ~70,998 |
+| Haggler | 9.00% | ~70,999 |
 | McLovin | 7.00% | ~55,221 |
 | Runt | 7.00% | ~55,221 |
 | Casanova | 6.00% | ~47,332 |
-| Bad Trip | 5.00% | ~39,443 |
-| Monk | 5.00% | ~39,443 |
-| Serial Killer | 5.00% | ~39,443 |
+| Bad Trip | 5.00% | ~39,444 |
+| Monk | 5.00% | ~39,444 |
+| Serial Killer | 5.00% | ~39,444 |
 | Bastard | 4.00% | ~31,555 |
 | Hunter | 4.00% | ~31,555 |
 | Plague Doctor | 4.00% | ~31,555 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~789 |
 | Wingman | 0.10% | ~789 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788,869 (Ranked 15)  
+Progressed: 788,874 (Ranked 15)  
 Completed: 42 (0.01%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 42 (0.01%) (Ranked 215)
 | 2023-06-18 | 788,454 | 41 |
 | 2023-06-19 | 788,611 | 41 |
 | 2023-06-20 | 788,765 | 42 |
-| 2023-06-21 | 788,869 | 42 |
+| 2023-06-21 | 788,874 | 42 |
 ## Awards
 Max (Character Customization): 7,261  (Ranked 46)  
 Sum: 27,104 (Ranked 43)  

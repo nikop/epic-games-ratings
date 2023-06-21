@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -496,6 +496,11 @@
       "Time": "2023-06-21T17:03:30.9340438+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T18:03:37.9143364+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -513,9 +518,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_defeat_players_10",
@@ -537,9 +542,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -611,15 +616,15 @@
       "Name": "Facility Online",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -627,7 +632,7 @@
       "Name": "Sergeant",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -635,7 +640,7 @@
       "Name": "Lieutenant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -657,9 +662,9 @@
       "ID": "objective_hero_level_up_6",
       "SetID": "bm61c2p",
       "Name": "Colonel",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -673,25 +678,25 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -801,23 +806,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:03:30.9340433+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:03:37.9143356+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:00:53.2311744+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:03:30.9340786+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:01:00.754503+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:03:37.9143595+00:00"
 }

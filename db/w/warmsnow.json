@@ -2,13 +2,13 @@
   "ID": "2f32d18c2cba4a2a92e359224f308770",
   "Name": "WarmSnow",
   "ProductSlug": "warmsnow-7e3180",
-  "Ranking_Rating": 29,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-17T03:00:00+00:00",
     "PcReleaseDate": "2022-01-19T03:00:00+00:00",
@@ -100,6 +100,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.8296597+00:00",
   "LastChanged": "2023-06-21T12:00:55.5375505+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.8752652+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:00:01.6209674+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:05:33.7721243+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:00:04.5380668+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:05:31.853179+00:00"
 }

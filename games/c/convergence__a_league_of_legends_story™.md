@@ -34,8 +34,9 @@
 | Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |
 | Family Memories | 7.00% | ~50 |
+| Sump Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
-| Sump Explorer | 6.00% | ~43 |
+| Syron for Hope | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
 | Corin Goes Home | 5.00% | ~36 |
@@ -44,7 +45,6 @@
 | Entresol Explorer | 5.00% | ~36 |
 | Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
-| Syron for Hope | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Hexlock for Protection | 3.00% | ~21 |

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55880,
+  "EOS_Progressed": 55882,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5652,6 +5652,11 @@
       "Time": "2023-06-21T17:06:31.5466222+00:00",
       "NumProgressed": 55880,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T18:06:31.7646018+00:00",
+      "NumProgressed": 55882,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5679,7 +5684,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10617
+      "UsersEstimate": 10618
     },
     {
       "ID": "04",
@@ -5767,7 +5772,7 @@
       "Name": "Gatekeeper",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "15",
@@ -5775,7 +5780,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "16",
@@ -5895,7 +5900,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "31",
@@ -5903,7 +5908,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "32",
@@ -5927,7 +5932,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "35",
@@ -5983,7 +5988,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "42",
@@ -6127,7 +6132,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "60",
@@ -6143,7 +6148,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "62",
@@ -6198,21 +6203,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55880,
+      "Progressed": 55882,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19348,
+      "Progressed": 19350,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:06:31.5466217+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:06:31.7646014+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:57:54.0761184+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:06:31.5467188+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:57:54.6884408+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:06:31.764672+00:00"
 }

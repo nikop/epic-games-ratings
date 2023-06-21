@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38699,
+  "EOS_Progressed": 38701,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4216,6 +4216,11 @@
       "Time": "2023-06-21T17:06:34.3741545+00:00",
       "NumProgressed": 38699,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T18:06:34.2668629+00:00",
+      "NumProgressed": 38701,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -4435,7 +4440,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "LOCATION_TEN",
@@ -4650,22 +4655,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38699,
+      "Progressed": 38701,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3536,
-      "Completed": 3536
+      "Progressed": 3538,
+      "Completed": 3538
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-13T21:58:48.808398+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:06:34.3741536+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:06:34.2668625+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.7833048+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:58:53.4971945+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:06:34.3742226+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:58:55.8246128+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:06:34.2669388+00:00"
 }

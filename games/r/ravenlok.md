@@ -26,8 +26,8 @@
 | Nightmare Fuel | 39.00% | ~396 |
 | Take Heart | 39.00% | ~396 |
 | The Guardian | 39.00% | ~396 |
+| Ancient Wisdom | 38.00% | ~386 |
 | Stronger! | 38.00% | ~386 |
-| Ancient Wisdom | 37.00% | ~376 |
 | Frog Facts! | 37.00% | ~376 |
 | All That Glistens | 37.00% | ~376 |
 | Spellbound | 36.00% | ~365 |

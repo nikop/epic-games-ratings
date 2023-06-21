@@ -1,20 +1,20 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.65 (Ranked 295)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,410 |
-| Mainframe Hacker | 47.00% | ~3,239 |
-| The Spy who eliminated me | 47.00% | ~3,239 |
-| Tomorrow Never Dyes | 46.00% | ~3,170 |
-| Never Say Loser Again | 40.00% | ~2,756 |
-| For your Eyes only | 39.00% | ~2,687 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,412 |
+| Mainframe Hacker | 47.00% | ~3,240 |
+| The Spy who eliminated me | 47.00% | ~3,240 |
+| Tomorrow Never Dyes | 46.00% | ~3,171 |
+| Never Say Loser Again | 40.00% | ~2,757 |
+| For your Eyes only | 39.00% | ~2,688 |
 | From the Vault with Love | 37.00% | ~2,550 |
 | Tailor-Made | 37.00% | ~2,550 |
-| Fully Decked Out | 35.00% | ~2,412 |
-| You Only Live Twice | 32.00% | ~2,205 |
+| Fully Decked Out | 35.00% | ~2,413 |
+| You Only Live Twice | 32.00% | ~2,206 |
 | A view to Win | 27.00% | ~1,861 |
 | Private Collection | 25.00% | ~1,723 |
 | Smells Like Trouble | 25.00% | ~1,723 |
@@ -29,7 +29,7 @@ Rating: 4.64 (Ranked 316)
 | Security Supervisor | 10.00% | ~689 |
 | License to Thrill | 8.00% | ~551 |
 | Social of Solace | 8.00% | ~551 |
-| Safe Withdrawal | 6.00% | ~413 |
+| Safe Withdrawal | 6.00% | ~414 |
 | Live and let lie | 5.00% | ~345 |
 | Call Me Maybe | 4.00% | ~276 |
 | PHD in VIP | 4.00% | ~276 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,891 (Ranked 121)  
+Progressed: 6,893 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 6,853 | 0 |
 | 2023-06-19 | 6,867 | 0 |
 | 2023-06-20 | 6,882 | 0 |
-| 2023-06-21 | 6,891 | 0 |
+| 2023-06-21 | 6,893 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -129,3 +129,4 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-05-17 | 4.69 | 0 | 0 |
 | 2023-05-19 | 4.65 | 0 | 0 |
 | 2023-06-10 | 4.64 | 0 | 0 |
+| 2023-06-21 | 4.65 | 0 | 0 |

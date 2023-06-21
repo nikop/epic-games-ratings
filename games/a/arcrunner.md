@@ -5,15 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 1.00% | ~6 |
+| Unlocked and Loaded | 1.00% | ~6 |
 | Nanonic I | 0.90% | ~5 |
-| Unlocked and Loaded | 0.70% | ~4 |
-| Terminated I | 0.50% | ~3 |
+| Terminated I | 0.90% | ~5 |
 | Challenge Accepted | 0.40% | ~2 |
 | Challenge Mastered | 0.40% | ~2 |
 | The City | 0.40% | ~2 |
 | Starship Docks | 0.40% | ~2 |
+| Terminated II | 0.40% | ~2 |
+| Nanonic II | 0.20% | ~1 |
+| Ripperdoc | 0.20% | ~1 |
 | Rookie | 0.20% | ~1 |
-| Terminated II | 0.20% | ~1 |
 | Terminated III | 0.20% | ~1 |
 | Up Close And Personal | 0.20% | ~1 |
 | The Bigger They Are | 0.00% | ~0 |
@@ -25,10 +27,8 @@
 | Hard Boiled | 0.00% | ~0 |
 | Inner Core | 0.00% | ~0 |
 | Integration | 0.00% | ~0 |
-| Nanonic II | 0.00% | ~0 |
 | Nanonic III | 0.00% | ~0 |
 | Outer Core | 0.00% | ~0 |
-| Ripperdoc | 0.00% | ~0 |
 | Supply Run | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

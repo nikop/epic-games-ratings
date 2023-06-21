@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3377,6 +3377,11 @@
       "Time": "2023-06-21T15:06:37.2350818+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T18:06:34.5232881+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3500,7 +3505,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "dragonslayer",
@@ -3556,7 +3561,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "exoticmerchant",
@@ -3572,7 +3577,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "fourleafclover",
@@ -3636,7 +3641,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "howdoyouturnthison",
@@ -3684,7 +3689,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "lockandload",
@@ -3844,7 +3849,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "thealchemist",
@@ -3948,7 +3953,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "warmachinesarmy",
@@ -3987,7 +3992,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 1
     }
   ],
@@ -3995,8 +4000,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:06:34.6220938+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:06:34.5232878+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:58:22.0664436+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:06:34.6221933+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:58:19.9776893+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:06:34.5233592+00:00"
 }

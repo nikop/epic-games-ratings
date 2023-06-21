@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2900,7 +2900,7 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 9999,
+  "EOS_Progressed": 10000,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -7025,6 +7025,11 @@
       "Time": "2023-06-21T17:06:40.4753856+00:00",
       "NumProgressed": 9999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T18:06:40.727024+00:00",
+      "NumProgressed": 10000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7362,9 +7367,9 @@
       "ID": "43_DreadfulDragon",
       "SetID": "989of5o",
       "Name": "Dreadful Dragon",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 50
     },
     {
       "ID": "44_AshesToAshes",
@@ -7963,21 +7968,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8781,
+      "Progressed": 8782,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9999,
+      "Progressed": 10000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-21T09:58:39.6400552+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:06:40.4753848+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:06:40.7270237+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:58:45.1808849+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:06:40.4755534+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:58:48.7884066+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:06:40.7271644+00:00"
 }

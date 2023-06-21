@@ -2,10 +2,10 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -388,8 +388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-06-21T17:05:31.2384137+00:00",
+  "LastChanged_Achievements": "2023-06-21T18:05:29.3878832+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:45.5928951+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:59:34.8380233+00:00",
-  "LastUpdate_Achievements": "2023-06-21T17:05:31.2384454+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:59:36.2634177+00:00",
+  "LastUpdate_Achievements": "2023-06-21T18:05:29.3879071+00:00"
 }

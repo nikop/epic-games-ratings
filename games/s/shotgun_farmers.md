@@ -27,9 +27,9 @@
 | Summers Here | 12.00% | ~10 |
 | Skin Of Your Teeth | 11.00% | ~14 |
 | Pork Chop Express | 11.00% | ~14 |
+| Carrocketeer | 10.00% | ~13 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
-| Carrocketeer | 9.00% | ~12 |
 | Quit Horsin' Around | 8.00% | ~10 |
 | Perfect | 8.00% | ~6 |
 | Expert Survivor | 8.00% | ~6 |
