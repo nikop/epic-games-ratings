@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1174,7 +1174,7 @@
   ],
   "EOS_Progressed": 426180,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5804,9 +5804,9 @@
       "ID": "ACH_LOCATION_MOUNTAIN",
       "SetID": "231ghgk",
       "Name": "The Lonely Path",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 106545
+      "UsersEstimate": 110807
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -5932,8 +5932,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-21T08:00:52.71342+00:00",
-  "LastChanged_Achievements": "2023-06-21T10:03:43.1895215+00:00",
+  "LastChanged_Achievements": "2023-06-21T11:04:36.7652053+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.1842211+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:58:37.7110842+00:00",
-  "LastUpdate_Achievements": "2023-06-21T10:03:43.1895816+00:00"
+  "LastUpdate_Ratings": "2023-06-21T10:59:21.6633214+00:00",
+  "LastUpdate_Achievements": "2023-06-21T11:04:36.7652677+00:00"
 }

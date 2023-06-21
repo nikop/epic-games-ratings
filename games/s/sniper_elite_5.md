@@ -5,15 +5,25 @@ Rating: 4.48 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Shipbreaker | 0.20% | ~6 |
 | Liberté | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
+| Skirmisher | 0.10% | ~3 |
+| Sharpshooter | 0.10% | ~3 |
 | Confirming Suspicions | 0.10% | ~3 |
+| My Little Friend | 0.10% | ~3 |
+| Explosive Efficiency | 0.10% | ~3 |
+| Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
+| Close Quarters | 0.10% | ~3 |
 | Change the Channel | 0.10% | ~3 |
+| Up close and personal | 0.10% | ~3 |
 | Taking it back | 0.10% | ~3 |
-| Shipbreaker | 0.10% | ~3 |
+| Target America | 0.10% | ~3 |
+| Sink or Swim | 0.10% | ~3 |
+| Going Overboard | 0.10% | ~3 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
@@ -26,21 +36,15 @@ Rating: 4.48 (Ranked 582)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Skirmisher | 0.00% | ~0 |
-| Sharpshooter | 0.00% | ~0 |
 | The Long Game | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
-| My Little Friend | 0.00% | ~0 |
-| Explosive Efficiency | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Resourceful | 0.00% | ~0 |
-| Der Geist | 0.00% | ~0 |
 | The Kraken Wakes | 0.00% | ~0 |
-| Close Quarters | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Burn after reading | 0.00% | ~0 |
@@ -50,12 +54,10 @@ Rating: 4.48 (Ranked 582)
 | It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
-| Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
 | Brains of the Operation | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
-| Target America | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 | The Kraken Sleeps | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
@@ -74,8 +76,6 @@ Rating: 4.48 (Ranked 582)
 | If You Go Down To The Woods Today | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
-| Sink or Swim | 0.00% | ~0 |
-| Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,053 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 186)  

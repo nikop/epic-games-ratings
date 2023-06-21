@@ -24,12 +24,12 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,855 |
 | The Spell Master | 6.00% | ~16,855 |
 | Rising From the Ashes | 6.00% | ~16,855 |
-| Beast Friends | 5.00% | ~14,045 |
-| Flight the Good Flight | 5.00% | ~14,045 |
-| The Seeker of Knowledge | 4.00% | ~11,236 |
-| The Root of the Problem | 4.00% | ~11,236 |
-| Third Time's a Charm | 4.00% | ~11,236 |
-| Raising Expectations | 4.00% | ~11,236 |
+| Beast Friends | 5.00% | ~14,046 |
+| Flight the Good Flight | 5.00% | ~14,046 |
+| The Seeker of Knowledge | 4.00% | ~11,237 |
+| The Root of the Problem | 4.00% | ~11,237 |
+| Third Time's a Charm | 4.00% | ~11,237 |
+| Raising Expectations | 4.00% | ~11,237 |
 | The Toast of the Town | 3.00% | ~8,427 |
 | Going Through the Potions | 3.00% | ~8,427 |
 | Room with a View | 3.00% | ~8,427 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,909 (Ranked 41)  
-Completed: 408 (0.15%) (Ranked 164)  
+Progressed: 280,913 (Ranked 41)  
+Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,14 +113,14 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
-| 2023-06-21 | 280,909 | 408 |
+| 2023-06-21 | 280,913 | 408 |
 ## Awards
-Max (Character Customization): 20,207  (Ranked 18)  
-Sum: 37,520 (Ranked 31)  
-Diff (max vs sum): -13  
+Max (Character Customization): 20,236  (Ranked 18)  
+Sum: 37,549 (Ranked 30)  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,207 |
+| This game has Inclusive Character Customization | 20,236 |
 | This game has Great Boss Battles | 9,614 |
 | This game is Great for Beginners | 855 |
 | This game is Relaxing | 841 |
@@ -224,4 +224,4 @@ Diff (max vs sum): -13
 | 2023-06-18 | 4.77 | 20,122 | 37,312 |
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
-| 2023-06-21 | 4.77 | 20,207 | 37,520 |
+| 2023-06-21 | 4.77 | 20,236 | 37,549 |

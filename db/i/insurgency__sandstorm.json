@@ -2261,10 +2261,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2725,
       "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-06-21T10:58:39.977482+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2726,
+      "NumberOfAwardsMax": 359
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2725,
+  "NumberOfAwards": 2726,
   "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2290,7 +2296,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 290
+      "Count": 291
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2335,9 +2341,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 395344,
+  "EOS_Progressed": 395357,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8418,
+  "EOS_NewPlayers": 8394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8825,6 +8831,11 @@
       "Time": "2023-06-21T10:02:06.8630836+00:00",
       "NumProgressed": 395344,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T11:03:01.8037962+00:00",
+      "NumProgressed": 395357,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -8844,7 +8855,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACH_CARRYING",
@@ -8860,7 +8871,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -8884,7 +8895,7 @@
       "Name": "Efficient",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -8964,7 +8975,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -9004,7 +9015,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19767
+      "UsersEstimate": 19768
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -9036,7 +9047,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -9052,7 +9063,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -9068,7 +9079,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -9092,7 +9103,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -9100,7 +9111,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19767
+      "UsersEstimate": 19768
     },
     {
       "ID": "ACH_WET_FEET",
@@ -9115,15 +9126,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 395344,
+      "Progressed": 395357,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-06-20T21:58:22.5127664+00:00",
-  "LastChanged_Achievements": "2023-06-21T10:02:06.8630831+00:00",
+  "LastChanged": "2023-06-21T10:58:39.9774819+00:00",
+  "LastChanged_Achievements": "2023-06-21T11:03:01.8037953+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:34.7121228+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:58:05.8988373+00:00",
-  "LastUpdate_Achievements": "2023-06-21T10:02:06.8631508+00:00"
+  "LastUpdate_Ratings": "2023-06-21T10:58:39.9774825+00:00",
+  "LastUpdate_Achievements": "2023-06-21T11:03:01.8038985+00:00"
 }

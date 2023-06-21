@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,061 |
-| The Cursed Farmer | 4.00% | ~4,030 |
-| Beast Intentions | 3.00% | ~3,023 |
-| The Mad Wizard | 3.00% | ~3,023 |
-| The Ring of Regeneration | 2.00% | ~2,015 |
+| A Brief Tour of the Realms | 8.00% | ~8,066 |
+| The Cursed Farmer | 4.00% | ~4,033 |
+| Beast Intentions | 3.00% | ~3,025 |
+| The Mad Wizard | 3.00% | ~3,025 |
+| The Ring of Regeneration | 2.00% | ~2,017 |
 | Were-verpowered | 1.00% | ~1,008 |
 | Seeking Allies | 1.00% | ~1,008 |
 | Are Ya Chicken? | 1.00% | ~1,008 |
@@ -18,31 +18,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 1.00% | ~1,008 |
 | A Persistent Buzzing | 0.90% | ~907 |
 | Pure Energy | 0.90% | ~907 |
-| The Court of Storms | 0.90% | ~603 |
-| Terror in the Dark | 0.80% | ~806 |
-| The Crumbling Temple | 0.80% | ~806 |
-| A Mysterious Summons | 0.70% | ~705 |
-| Unearthed Evil | 0.70% | ~705 |
-| Useless Allies | 0.70% | ~705 |
-| Exploring Port Nyanzaru | 0.70% | ~705 |
-| The Contagious Curse | 0.70% | ~705 |
-| Beware the Jabberwock | 0.70% | ~469 |
+| The Court of Storms | 0.90% | ~604 |
+| Terror in the Dark | 0.80% | ~807 |
+| The Crumbling Temple | 0.80% | ~807 |
+| A Mysterious Summons | 0.70% | ~706 |
+| Unearthed Evil | 0.70% | ~706 |
+| Useless Allies | 0.70% | ~706 |
+| Exploring Port Nyanzaru | 0.70% | ~706 |
+| The Contagious Curse | 0.70% | ~706 |
+| Beware the Jabberwock | 0.70% | ~470 |
 | Maddening | 0.60% | ~605 |
 | Beast Mode | 0.60% | ~605 |
 | Building Trust | 0.60% | ~605 |
 | Running of the Saurs | 0.60% | ~605 |
 | Escort to Waterdeep | 0.60% | ~605 |
 | Waterdeep Detours | 0.60% | ~605 |
-| Coasting to the Finish | 0.60% | ~402 |
-| Checkmate | 0.50% | ~335 |
-| Vecna Out! | 0.50% | ~335 |
+| Coasting to the Finish | 0.60% | ~403 |
+| Checkmate | 0.50% | ~336 |
+| Vecna Out! | 0.50% | ~336 |
 | Low Initiative | 0.50% | ~504 |
 | No Time To Rest | 0.50% | ~504 |
 | The Dinner Party | 0.50% | ~504 |
 | Underdeep Cartography | 0.50% | ~504 |
 | The Templar's Camp | 0.50% | ~504 |
 | Rescue in the Jungle | 0.50% | ~504 |
-| Quick or Quack | 0.50% | ~335 |
+| Quick or Quack | 0.50% | ~336 |
 | The Silken Swamp | 0.40% | ~403 |
 | Supply Run | 0.40% | ~403 |
 | Owlbear Necessities | 0.40% | ~268 |
@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.40% | ~403 |
 | Attack on the Manor | 0.40% | ~403 |
 | The Death Curse | 0.40% | ~403 |
+| Nimble Escape | 0.40% | ~403 |
 | Premature Betrayal | 0.40% | ~403 |
 | A Tale of Two Cities | 0.40% | ~403 |
 | Flying Monkey Skulls of Doom | 0.40% | ~403 |
@@ -100,7 +101,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.30% | ~302 |
 | Modron Assistance | 0.30% | ~302 |
 | Haaave You Met Asmodeus? | 0.30% | ~302 |
-| Domesticated Owlbears | 0.30% | ~302 |
 | The Immortal Warrior | 0.30% | ~302 |
 | The Wyrmheart Mine | 0.30% | ~302 |
 | Tower on the Lake | 0.30% | ~302 |
@@ -111,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.30% | ~302 |
 | Flies on the Wall | 0.30% | ~302 |
 | Backtracking Through Barovia | 0.30% | ~302 |
-| Nimble Escape | 0.30% | ~302 |
 | Fugitives | 0.30% | ~302 |
 | Excavating History | 0.30% | ~302 |
 | Towering Expectations | 0.30% | ~302 |
@@ -249,6 +248,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Fortune | 0.20% | ~202 |
 | Relentless Misfortune | 0.20% | ~202 |
 | Thine Bounty is Mine! | 0.20% | ~134 |
+| Domesticated Owlbears | 0.20% | ~202 |
 | This Quest Stinks! | 0.20% | ~134 |
 | Hold for the Red Wizards | 0.20% | ~202 |
 | Form Ranks | 0.20% | ~202 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,762 (Ranked 63)  
+Progressed: 100,829 (Ranked 63)  
 Completed: 1,974 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 1,974 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,762 | 1,974 |
+| 2023-06-21 | 100,829 | 1,974 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,159 (Ranked 37)  

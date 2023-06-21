@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -1317,9 +1317,9 @@
       "ID": "Everyone_is_here",
       "SetID": "85nb4h3",
       "Name": "The Gang\u0027s All Here",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 137
     },
     {
       "ID": "Experienced_strategist",
@@ -1477,8 +1477,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-21T10:06:16.8616145+00:00",
+  "LastChanged_Achievements": "2023-06-21T11:07:44.0372479+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:59:30.5968193+00:00",
-  "LastUpdate_Achievements": "2023-06-21T10:06:16.8616414+00:00"
+  "LastUpdate_Ratings": "2023-06-21T11:00:42.8461759+00:00",
+  "LastUpdate_Achievements": "2023-06-21T11:07:44.0373001+00:00"
 }

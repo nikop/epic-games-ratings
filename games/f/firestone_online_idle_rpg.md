@@ -5,13 +5,13 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,367 |
-| World Map | 80.00% | ~1,163 |
+| Victor | 94.00% | ~1,368 |
+| World Map | 80.00% | ~1,164 |
 | Temple of Eternals | 57.00% | ~829 |
-| Prestigious | 54.00% | ~785 |
-| Fellowship Power | 41.00% | ~596 |
+| Prestigious | 54.00% | ~786 |
+| Fellowship Power | 41.00% | ~597 |
 | Guild Power | 24.00% | ~349 |
-| Prestigious x10 | 21.00% | ~305 |
+| Prestigious x10 | 21.00% | ~306 |
 | The game is on | 19.00% | ~276 |
 | Exotic Merchant | 17.00% | ~247 |
 | Dragon Clicker | 16.00% | ~233 |
@@ -22,12 +22,12 @@ Rating: 4.07 (Ranked 894)
 | Enlightenment | 13.00% | ~189 |
 | Hero inspection | 13.00% | ~189 |
 | Lieutenant | 13.00% | ~189 |
-| Mysterious Rock | 12.00% | ~174 |
-| Natural Talent | 12.00% | ~174 |
-| Superior | 12.00% | ~174 |
-| The Unstoppable | 12.00% | ~174 |
+| Mysterious Rock | 12.00% | ~175 |
+| Natural Talent | 12.00% | ~175 |
+| Superior | 12.00% | ~175 |
+| The Unstoppable | 12.00% | ~175 |
 | Milestone collector | 11.00% | ~160 |
-| Scientist | 10.00% | ~145 |
+| Scientist | 10.00% | ~146 |
 | Hunter | 9.00% | ~131 |
 | The power of Awakening | 9.00% | ~131 |
 | Challenger | 8.00% | ~116 |
@@ -41,13 +41,13 @@ Rating: 4.07 (Ranked 894)
 | Moving Up The Ladder | 7.00% | ~102 |
 | Here We Go Again | 6.00% | ~87 |
 | Master Enchanter | 6.00% | ~87 |
-| The Expeditioner | 6.00% | ~87 |
 | The father of Dragons | 6.00% | ~87 |
 | Trader | 6.00% | ~87 |
 | Ancient Knowledge | 5.00% | ~73 |
 | Enchanting skill | 5.00% | ~73 |
 | How Do You Turn This On? | 5.00% | ~73 |
 | Missions Dedication | 5.00% | ~73 |
+| The Expeditioner | 5.00% | ~73 |
 | Weekly Quest Completionist | 5.00% | ~73 |
 | Background Story | 4.00% | ~58 |
 | Crystal Mining | 4.00% | ~58 |
@@ -64,7 +64,7 @@ Rating: 4.07 (Ranked 894)
 | What lies behind the bush | 2.00% | ~29 |
 | Mythic Power | 0.80% | ~12 |
 | Training makes a Pro player | 0.70% | ~10 |
-| Transmute | 0.60% | ~9 |
+| Transmute | 0.50% | ~7 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,454 (Ranked 166)  
+Progressed: 1,455 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.07%) (Ranked 186)
 | 2023-06-18 | 1,441 | 1 |
 | 2023-06-19 | 1,442 | 1 |
 | 2023-06-20 | 1,452 | 1 |
-| 2023-06-21 | 1,454 | 1 |
+| 2023-06-21 | 1,455 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

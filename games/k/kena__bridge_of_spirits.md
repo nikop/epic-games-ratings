@@ -30,9 +30,9 @@ Number of Ratings: 3,313  (23.09.2022)
 | Toshi's Love | 27.00% | ~115,069 |
 | A Leader Walks Alone | 26.00% | ~110,807 |
 | Bow Master | 26.00% | ~110,807 |
+| The Lonely Path | 26.00% | ~110,807 |
 | Toshi's Regret | 26.00% | ~110,807 |
 | Restore Balance | 25.00% | ~106,545 |
-| The Lonely Path | 25.00% | ~106,545 |
 | Say Cheese | 16.00% | ~68,189 |
 | Skillful Spirit Guide | 15.00% | ~63,927 |
 | Piercing Blow | 14.00% | ~59,665 |

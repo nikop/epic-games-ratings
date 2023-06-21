@@ -18,6 +18,7 @@
 | Breaking Down Barriers | 11.00% | ~78 |
 | The Wicked Twins | 11.00% | ~78 |
 | The Prince in Heels | 11.00% | ~78 |
+| Honest Mistake | 11.00% | ~78 |
 | Fast Learner | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
@@ -25,7 +26,6 @@
 | Like Clockwork | 10.00% | ~71 |
 | The Man Who Shattered Time | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
-| Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Check Your Pulse | 10.00% | ~71 |
 | The Family Fortune | 10.00% | ~71 |

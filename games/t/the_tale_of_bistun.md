@@ -8,13 +8,15 @@
 | First Blood | 86.00% | ~18 |
 | These Blades Are Made For Swinging | 81.00% | ~17 |
 | Unearth A Qanat | 76.00% | ~16 |
+| Carving A Memory | 71.00% | ~15 |
 | A Friend In Need | 67.00% | ~14 |
 | A Stranger's Diary | 67.00% | ~14 |
-| Carving A Memory | 67.00% | ~14 |
+| Skilled Hands | 62.00% | ~13 |
 | It Feels Better Than It Sounds | 62.00% | ~13 |
 | Stand By Nature | 62.00% | ~13 |
-| Skilled Hands | 57.00% | ~12 |
 | Master Smithy | 57.00% | ~12 |
+| The Milk Canal | 57.00% | ~12 |
+| Fledgling Smithy | 57.00% | ~12 |
 | Close Encounter | 52.00% | ~11 |
 | The Depths Of Darkness | 52.00% | ~11 |
 | One With The Blades | 52.00% | ~11 |
@@ -22,14 +24,12 @@
 | Anahita's Greatest Mistake | 52.00% | ~11 |
 | Heart's Desire | 52.00% | ~11 |
 | Shoo! Shoo! | 52.00% | ~11 |
-| The Milk Canal | 52.00% | ~11 |
-| Fledgling Smithy | 52.00% | ~11 |
+| At One With Nature | 52.00% | ~11 |
+| Prison Break | 48.00% | ~10 |
+| I Pick You | 48.00% | ~10 |
+| Accomplished Smithy | 48.00% | ~10 |
 | Nature's Savior | 48.00% | ~10 |
 | Hammer It Home | 48.00% | ~10 |
-| At One With Nature | 48.00% | ~10 |
-| Prison Break | 43.00% | ~9 |
-| I Pick You | 43.00% | ~9 |
-| Accomplished Smithy | 43.00% | ~9 |
 | The Blight's Blight | 43.00% | ~9 |
 | The Ultimate Sacrifice | 43.00% | ~9 |
 | For Whom the Bell Tolls | 43.00% | ~9 |
