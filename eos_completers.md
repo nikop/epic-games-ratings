@@ -17,22 +17,22 @@
 | 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.24% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.97% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
-| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
-| 22 | [Smelter](games/s/smelter.md) | 8.33% |
-| 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
-| 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
-| 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
-| 28 | [Scorn](games/s/scorn.md) | 6.84% |
-| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
-| 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
-| 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.56% |
-| 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.52% |
+| 23 | [Smelter](games/s/smelter.md) | 8.33% |
+| 24 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
+| 25 | [Time Loader](games/t/time_loader.md) | 7.48% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
+| 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
+| 29 | [Scorn](games/s/scorn.md) | 6.84% |
+| 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
+| 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
+| 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
 | 35 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
@@ -74,13 +74,13 @@
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.87% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.86% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.64% |
+| 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
 | 82 | [Somerville](games/s/somerville.md) | 1.58% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.57% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
