@@ -51,6 +51,7 @@
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | - |  | - | - |
 | [Remnant II](games/r/remnant_2.md) | 2023-07-25 | - |  | - | - |
+| [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
 | [Ratchet & Clank: Rift Apart Pre-Purchase](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | - | - |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | - |  | - | - |
 | [Arcade Fishing](games/a/arcade_fishing.md) | 2023-07-31 | - |  | - | - |
@@ -83,7 +84,6 @@
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-09-30 | - |  | - | - |
 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 2023-09-30 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
-| [Bloxs](games/b/bloxs.md) | 2023-09-30 | - |  | - | - |
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-09-30 | - |  | - | - |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | - |  | - | - |
 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 2023-09-30 | - |  | - | - |
