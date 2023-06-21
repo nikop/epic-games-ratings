@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245263,
+  "EOS_Progressed": 245265,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5949,6 +5949,11 @@
       "Time": "2023-06-21T13:13:45.03172+00:00",
       "NumProgressed": 245263,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T14:06:05.8937233+00:00",
+      "NumProgressed": 245265,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -6032,7 +6037,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36789
+      "UsersEstimate": 36790
     },
     {
       "ID": "clearCut",
@@ -6056,7 +6061,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44147
+      "UsersEstimate": 44148
     },
     {
       "ID": "curator",
@@ -6136,7 +6141,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129989
+      "UsersEstimate": 129990
     },
     {
       "ID": "indegestible",
@@ -6152,7 +6157,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17168
+      "UsersEstimate": 17169
     },
     {
       "ID": "itsTheFall",
@@ -6160,7 +6165,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63768
+      "UsersEstimate": 63769
     },
     {
       "ID": "justABit",
@@ -6232,7 +6237,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17168
+      "UsersEstimate": 17169
     },
     {
       "ID": "rideTheWave",
@@ -6264,7 +6269,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51505
+      "UsersEstimate": 51506
     },
     {
       "ID": "thunderstruck",
@@ -6327,7 +6332,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245263,
+      "Progressed": 245265,
       "Completed": 3
     }
   ],
@@ -6335,8 +6340,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:13:45.0317195+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:06:05.8937229+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:06:54.1166319+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:13:45.0317845+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:59:26.6402701+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:06:05.8937819+00:00"
 }

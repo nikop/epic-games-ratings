@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -320,9 +320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11768,
+  "EOS_Progressed": 11769,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4150,6 +4150,11 @@
       "Time": "2023-06-21T02:11:48.9658788+00:00",
       "NumProgressed": 11768,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-21T14:06:11.5413696+00:00",
+      "NumProgressed": 11769,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 35,
@@ -4169,7 +4174,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9180
     },
     {
       "ID": "ACH_03",
@@ -4177,7 +4182,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "ACH_04",
@@ -4185,7 +4190,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8120
+      "UsersEstimate": 8121
     },
     {
       "ID": "ACH_05",
@@ -4193,7 +4198,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "ACH_06",
@@ -4217,7 +4222,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6943
+      "UsersEstimate": 6944
     },
     {
       "ID": "ACH_09",
@@ -4225,7 +4230,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "ACH_10",
@@ -4241,7 +4246,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ACH_12",
@@ -4257,7 +4262,7 @@
       "Name": "Nothing Left",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "ACH_14",
@@ -4329,7 +4334,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_23",
@@ -4361,7 +4366,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_27",
@@ -4440,7 +4445,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11768,
+      "Progressed": 11769,
       "Completed": 35
     }
   ],
@@ -4448,8 +4453,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-19T13:59:27.3405658+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:13:51.0020799+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:06:11.5413691+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.2294559+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:07:10.2058735+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:13:51.002131+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:59:38.5342662+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:06:11.5414071+00:00"
 }

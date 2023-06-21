@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1089,6 +1089,11 @@
       "Time": "2023-06-21T07:04:35.7450324+00:00",
       "NumProgressed": 251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T14:03:52.682893+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1178,9 +1183,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1195,7 +1200,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 0
     }
   ],
@@ -1203,8 +1208,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:11:30.9643742+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:03:52.6828926+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.7573409+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:06:14.2297641+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:11:30.9643939+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:58:45.3973934+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:03:52.6829062+00:00"
 }

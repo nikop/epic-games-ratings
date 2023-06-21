@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55865,
+  "EOS_Progressed": 55866,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1023,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5632,6 +5632,11 @@
       "Time": "2023-06-21T13:13:52.620492+00:00",
       "NumProgressed": 55865,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T14:06:13.3838645+00:00",
+      "NumProgressed": 55866,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5659,7 +5664,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "04",
@@ -5691,7 +5696,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "08",
@@ -5699,7 +5704,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "09",
@@ -5811,7 +5816,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "23",
@@ -5851,7 +5856,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "28",
@@ -5859,7 +5864,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "29",
@@ -5883,7 +5888,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7262
+      "UsersEstimate": 7263
     },
     {
       "ID": "32",
@@ -5963,7 +5968,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7262
+      "UsersEstimate": 7263
     },
     {
       "ID": "42",
@@ -6178,21 +6183,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55865,
+      "Progressed": 55866,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19333,
+      "Progressed": 19334,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:13:52.6204913+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:06:13.3838641+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:05:22.2565223+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:13:52.6205886+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:57:57.1597481+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:06:13.383943+00:00"
 }

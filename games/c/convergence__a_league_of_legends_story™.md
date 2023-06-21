@@ -38,13 +38,13 @@
 | Sump Explorer | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
+| Corin Goes Home | 5.00% | ~36 |
 | Sartorialist | 5.00% | ~36 |
 | Cultivair Explorer | 5.00% | ~36 |
 | Entresol Explorer | 5.00% | ~36 |
 | Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Syron for Hope | 5.00% | ~36 |
-| Corin Goes Home | 4.00% | ~29 |
 | Golem Hunter | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Hexlock for Protection | 3.00% | ~21 |

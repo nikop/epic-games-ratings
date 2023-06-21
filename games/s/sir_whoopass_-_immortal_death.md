@@ -27,15 +27,15 @@
 | My pants squeak when I walk | 48.00% | ~40 |
 | Thats disgusting! | 47.00% | ~39 |
 | Cockadoodledoo! | 47.00% | ~39 |
-| Surprise!! | 42.00% | ~35 |
+| Surprise!! | 43.00% | ~36 |
 | Self assessed tax return | 40.00% | ~33 |
 | Make America Grate Again | 37.00% | ~31 |
 | Haemochromatosis | 36.00% | ~30 |
+| Pasta Bolognese | 36.00% | ~30 |
+| You are no match for me, Billy! | 35.00% | ~29 |
+| Catch the bus with me! | 35.00% | ~29 |
 | Karaoke king | 35.00% | ~29 |
-| Pasta Bolognese | 35.00% | ~29 |
-| You are no match for me, Billy! | 34.00% | ~28 |
-| Catch the bus with me! | 34.00% | ~28 |
-| You can't stop me, bro! | 34.00% | ~28 |
+| You can't stop me, bro! | 35.00% | ~29 |
 | I'm going to get a concussion | 33.00% | ~27 |
 | Meatballs, coming up! | 29.00% | ~24 |
 | A Megapint...? | 29.00% | ~24 |

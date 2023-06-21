@@ -1059,9 +1059,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6647,
+  "EOS_Progressed": 6648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6174,6 +6174,11 @@
       "Time": "2023-06-21T13:10:36.7938522+00:00",
       "NumProgressed": 6647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T14:03:19.9482227+00:00",
+      "NumProgressed": 6648,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6273,7 +6278,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "20",
@@ -6297,7 +6302,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "23",
@@ -6335,9 +6340,9 @@
       "ID": "27",
       "SetID": "8idi9ml",
       "Name": "Energized",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2194
     },
     {
       "ID": "28",
@@ -6361,7 +6366,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "30",
@@ -6431,9 +6436,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2925
     },
     {
       "ID": "39",
@@ -6641,7 +6646,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "9",
@@ -6656,15 +6661,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6647,
+      "Progressed": 6648,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:10:36.7938516+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:03:19.9482223+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:07:51.2007466+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:10:36.7939396+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:00:22.8222802+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:03:19.948287+00:00"
 }

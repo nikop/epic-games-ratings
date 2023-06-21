@@ -6,20 +6,20 @@ Rating: 4.73 (Ranked 155)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 92.00% | ~10,827 |
-| Newcomers | 78.00% | ~9,179 |
-| A Burden of Blood | 72.00% | ~8,473 |
-| Protector's Duty | 69.00% | ~8,120 |
+| Newcomers | 78.00% | ~9,180 |
+| A Burden of Blood | 72.00% | ~8,474 |
+| Protector's Duty | 69.00% | ~8,121 |
 | Alchemist | 67.00% | ~7,885 |
-| In our Wake | 66.00% | ~7,767 |
+| In our Wake | 66.00% | ~7,768 |
 | Leaving all Behind | 63.00% | ~7,414 |
 | Felons | 60.00% | ~7,061 |
-| A Sea of Promises | 59.00% | ~6,943 |
-| Tales and Revelations | 55.00% | ~6,472 |
+| A Sea of Promises | 59.00% | ~6,944 |
+| Tales and Revelations | 55.00% | ~6,473 |
 | Bloodline | 50.00% | ~5,884 |
-| The Cradle of Centuries | 46.00% | ~5,413 |
+| The Cradle of Centuries | 46.00% | ~5,414 |
 | The Life We Deserve | 44.00% | ~5,178 |
 | Night guard | 42.00% | ~4,943 |
-| Nothing Left | 37.00% | ~4,354 |
+| Nothing Left | 37.00% | ~4,355 |
 | Healing our Wounds | 35.00% | ~4,119 |
 | Dying Sun | 31.00% | ~3,648 |
 | Improved crossbow | 26.00% | ~3,060 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 155)
 | Perfect throw | 21.00% | ~2,471 |
 | Knights! | 19.00% | ~2,236 |
 | Handful of pockets | 13.00% | ~1,530 |
-| Not a toy anymore | 11.00% | ~1,294 |
-| Pocket laboratory | 11.00% | ~1,294 |
+| Not a toy anymore | 11.00% | ~1,295 |
+| Pocket laboratory | 11.00% | ~1,295 |
 | Herbalist | 7.00% | ~824 |
 | Fighter | 7.00% | ~824 |
 | Ornithologist | 5.00% | ~588 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 155)
 | Explorer | 1.00% | ~118 |
 | Malignant | 1.00% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,768 (Ranked 111)  
+Progressed: 11,769 (Ranked 111)  
 Completed: 35 (0.30%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 35 (0.30%) (Ranked 144)
 | 2023-06-18 | 11,729 | 33 |
 | 2023-06-19 | 11,749 | 33 |
 | 2023-06-20 | 11,767 | 35 |
-| 2023-06-21 | 11,768 | 35 |
+| 2023-06-21 | 11,769 | 35 |
 ## Awards
 Max (Great Boss Battles): 406  (Ranked 204)  
 Sum: 582 (Ranked 287)  

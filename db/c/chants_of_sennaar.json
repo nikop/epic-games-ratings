@@ -196,9 +196,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -236,17 +236,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PROGRESS_N3",
@@ -282,8 +282,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:13:37.2534589+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:05:58.2820236+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:06:48.6813316+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:13:37.2534786+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:59:21.0487901+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:05:58.2820376+00:00"
 }

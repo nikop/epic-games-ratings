@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1703,
+  "EOS_Progressed": 1704,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 8.51,
   "EosHistory": [
@@ -2888,6 +2888,11 @@
       "Time": "2023-06-21T11:07:27.0247966+00:00",
       "NumProgressed": 1703,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-06-21T14:05:57.6868434+00:00",
+      "NumProgressed": 1704,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 12,
@@ -2899,7 +2904,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Bernard",
@@ -2939,7 +2944,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Jude",
@@ -2955,7 +2960,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Little Helper",
@@ -2994,7 +2999,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1703,
+      "Progressed": 1704,
       "Completed": 145
     }
   ],
@@ -3002,8 +3007,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:13:36.6859445+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:05:57.6868431+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:07:22.4657516+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:13:36.6859737+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:59:58.2375173+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:05:57.686865+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,248 |
-| Settler | 81.00% | ~9,882 |
-| Explorer | 79.00% | ~9,638 |
-| Friendly Family | 75.00% | ~9,150 |
-| Intrepid | 70.00% | ~8,540 |
-| Architect | 61.00% | ~7,442 |
-| Mason | 61.00% | ~7,442 |
-| Able | 60.00% | ~7,320 |
-| Strong | 59.00% | ~7,198 |
-| Hanging Gardens | 59.00% | ~7,198 |
-| Noble | 57.00% | ~6,954 |
-| Oracle | 57.00% | ~6,954 |
-| Good | 55.00% | ~6,710 |
-| Judaism | 55.00% | ~6,710 |
-| Just | 54.00% | ~6,588 |
-| Keystone | 54.00% | ~6,588 |
-| Glorious | 52.00% | ~6,344 |
-| Trade Caravan | 52.00% | ~6,344 |
+| Play a Single Player Game | 84.00% | ~10,249 |
+| Settler | 81.00% | ~9,883 |
+| Explorer | 79.00% | ~9,639 |
+| Friendly Family | 75.00% | ~9,151 |
+| Intrepid | 70.00% | ~8,541 |
+| Architect | 61.00% | ~7,443 |
+| Mason | 61.00% | ~7,443 |
+| Able | 60.00% | ~7,321 |
+| Strong | 59.00% | ~7,199 |
+| Hanging Gardens | 59.00% | ~7,199 |
+| Noble | 58.00% | ~7,077 |
+| Oracle | 57.00% | ~6,955 |
+| Good | 55.00% | ~6,711 |
+| Judaism | 55.00% | ~6,711 |
+| Just | 54.00% | ~6,589 |
+| Keystone | 54.00% | ~6,589 |
+| Glorious | 52.00% | ~6,345 |
+| Trade Caravan | 52.00% | ~6,345 |
 | Naming Landmarks | 50.00% | ~6,100 |
 | Learned | 49.00% | ~5,978 |
 | Fountainhead | 48.00% | ~5,856 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,200 (Ranked 110)  
+Progressed: 12,201 (Ranked 110)  
 Completed: 4 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 4 (0.03%) (Ranked 200)
 | 2023-06-18 | 12,164 | 3 |
 | 2023-06-19 | 12,179 | 3 |
 | 2023-06-20 | 12,197 | 4 |
-| 2023-06-21 | 12,200 | 4 |
+| 2023-06-21 | 12,201 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 253)  
 Sum: 1,773 (Ranked 201)  

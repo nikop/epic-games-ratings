@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1650,
+  "EOS_Progressed": 1651,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-06-21T11:04:56.5852476+00:00",
       "NumProgressed": 1650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T14:04:17.7377283+00:00",
+      "NumProgressed": 1651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2460,7 +2465,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -2468,7 +2473,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -2587,14 +2592,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1650,
+      "Progressed": 1651,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-21T13:11:45.897658+00:00",
+  "LastChanged_Achievements": "2023-06-21T14:04:17.7377279+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:04:46.8817128+00:00",
-  "LastUpdate_Achievements": "2023-06-21T13:11:45.8976901+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:57:20.3791059+00:00",
+  "LastUpdate_Achievements": "2023-06-21T14:04:17.7377532+00:00"
 }
