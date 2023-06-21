@@ -19,10 +19,10 @@
 | Ball Protector | 4.00% | ~6 |
 | Ticking Clock | 4.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
+| Collector | 3.00% | ~4 |
 | Detoxed | 3.00% | ~4 |
 | Medium Rare | 3.00% | ~4 |
 | Nomad | 3.00% | ~4 |
-| Collector | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |

@@ -1,30 +1,30 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,877 |
-| Into the Unknown | 10.00% | ~58,070 |
-| First Shot | 10.00% | ~58,070 |
-| Herzlich Wilkommen! | 9.00% | ~52,263 |
-| Good Night & Good Luck | 9.00% | ~52,263 |
-| Sancho Panza | 8.00% | ~46,456 |
-| Under Pressure | 7.00% | ~40,649 |
-| Flag Burning | 7.00% | ~40,649 |
-| Oh, So This Is How It Works! | 7.00% | ~40,649 |
-| Night Hunter | 7.00% | ~40,649 |
-| On the Trail of the Enemy | 6.00% | ~34,842 |
-| Light in the Darkness | 6.00% | ~34,842 |
-| Get Outta My House! | 6.00% | ~34,842 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,842 |
-| Being All Social | 6.00% | ~34,842 |
-| We Will Be Heard! | 5.00% | ~29,035 |
-| Tunnel Entrance | 5.00% | ~29,035 |
-| After the Fall | 5.00% | ~29,035 |
-| Can't Touch This! | 5.00% | ~29,035 |
+| You Never Forget Your First... | 11.00% | ~63,878 |
+| Into the Unknown | 10.00% | ~58,071 |
+| First Shot | 10.00% | ~58,071 |
+| Herzlich Wilkommen! | 9.00% | ~52,264 |
+| Good Night & Good Luck | 9.00% | ~52,264 |
+| Sancho Panza | 8.00% | ~46,457 |
+| Under Pressure | 7.00% | ~40,650 |
+| Flag Burning | 7.00% | ~40,650 |
+| Oh, So This Is How It Works! | 7.00% | ~40,650 |
+| Night Hunter | 7.00% | ~40,650 |
+| On the Trail of the Enemy | 6.00% | ~34,843 |
+| Light in the Darkness | 6.00% | ~34,843 |
+| Get Outta My House! | 6.00% | ~34,843 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,843 |
+| Being All Social | 6.00% | ~34,843 |
+| We Will Be Heard! | 5.00% | ~29,036 |
+| Tunnel Entrance | 5.00% | ~29,036 |
+| After the Fall | 5.00% | ~29,036 |
+| Can't Touch This! | 5.00% | ~29,036 |
 | Debris and Ashes | 4.00% | ~23,228 |
 | Known Associate | 4.00% | ~23,228 |
 | Brush with Death | 4.00% | ~23,228 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,807 |
 | Fit as a Fiddle | 1.00% | ~5,807 |
 | Ironheart | 1.00% | ~5,807 |
-| Nemesis | 1.00% | ~2,261 |
+| Nemesis | 1.00% | ~2,262 |
 | That's Teamwork! | 0.90% | ~5,226 |
 | Enter the Hall | 0.90% | ~2,035 |
 | Find Anything Interesting? | 0.80% | ~4,646 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~226 |
 | Connoisseur | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,700 (Ranked 26)  
+Progressed: 580,711 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 57 (0.01%) (Ranked 214)
 | 2023-06-18 | 579,717 | 51 |
 | 2023-06-19 | 580,196 | 57 |
 | 2023-06-20 | 580,637 | 57 |
-| 2023-06-21 | 580,700 | 57 |
+| 2023-06-21 | 580,711 | 57 |
 ## Awards
 Max (Character Customization): 7,913  (Ranked 40)  
 Sum: 18,366 (Ranked 56)  

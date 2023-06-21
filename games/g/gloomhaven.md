@@ -1,12 +1,12 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 592)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 68  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,470  (Ranked 80)  
-Sum: 8,034 (Ranked 92)  
-Diff (max vs sum): -12  
+Sum: 8,034 (Ranked 93)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,470 |

@@ -1219,9 +1219,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 178936,
+  "EOS_Progressed": 178943,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 2082,
+  "EOS_NewPlayers": 2081,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7769,6 +7769,11 @@
       "Time": "2023-06-21T05:06:12.4376097+00:00",
       "NumProgressed": 178936,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-21T06:06:52.0719953+00:00",
+      "NumProgressed": 178943,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 44,
@@ -7884,7 +7889,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "ItsRainingMen",
@@ -7900,7 +7905,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "Mercyful",
@@ -7956,7 +7961,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7157
+      "UsersEstimate": 7158
     },
     {
       "ID": "OldMan",
@@ -7980,7 +7985,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7157
+      "UsersEstimate": 7158
     },
     {
       "ID": "ReleaseTheKraken",
@@ -7996,7 +8001,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "Rollin",
@@ -8028,7 +8033,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "TanukiTime",
@@ -8068,7 +8073,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16104
+      "UsersEstimate": 16105
     },
     {
       "ID": "TimeParadox",
@@ -8092,7 +8097,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7157
+      "UsersEstimate": 7158
     },
     {
       "ID": "Warzone",
@@ -8108,7 +8113,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "WinnerWinner",
@@ -8124,22 +8129,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 178936,
+      "Progressed": 178943,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-19T06:59:38.5609695+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:06:12.4376093+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:06:52.0719947+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.3465438+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:59:11.2143975+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:06:12.4376794+00:00"
+  "LastUpdate_Ratings": "2023-06-21T05:59:41.5652249+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:06:52.0720572+00:00"
 }

@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13021,
+  "EOS_Progressed": 13022,
   "EOS_Completed": 272,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 12,
@@ -6674,6 +6674,11 @@
       "Time": "2023-06-21T05:06:06.2879288+00:00",
       "NumProgressed": 13021,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-06-21T06:06:44.9619125+00:00",
+      "NumProgressed": 13022,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 20,
@@ -6789,7 +6794,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "GAME_FINISHED",
@@ -6805,7 +6810,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9896
+      "UsersEstimate": 9897
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -6829,7 +6834,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "WEST_FINISHED",
@@ -6844,15 +6849,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13021,
+      "Progressed": 13022,
       "Completed": 272
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:06:06.2879283+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:06:44.9619122+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:40.4011238+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:00:12.9330097+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:06:06.2879798+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:01:00.8191133+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:06:44.9619431+00:00"
 }

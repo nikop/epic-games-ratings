@@ -4364,10 +4364,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30156,
       "NumberOfAwardsMax": 4951
+    },
+    {
+      "Time": "2023-06-21T05:58:35.9034183+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30159,
+      "NumberOfAwardsMax": 4951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30156,
+  "NumberOfAwards": 30159,
   "NumberOfAwardsMax": 4951,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4399,7 +4405,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3963
+      "Count": 3966
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4414,10 +4420,10 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 100572,
+  "EOS_Progressed": 100603,
   "EOS_Completed": 1973,
-  "EOS_NewPlayers": 9903,
-  "EOS_NewCompleters": 42,
+  "EOS_NewPlayers": 9931,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
     {
@@ -10799,6 +10805,11 @@
       "Time": "2023-06-21T05:06:27.1130162+00:00",
       "NumProgressed": 100572,
       "NumCompleted": 1973
+    },
+    {
+      "Time": "2023-06-21T06:07:17.6712575+00:00",
+      "NumProgressed": 100603,
+      "NumCompleted": 1973
     }
   ],
   "TotalAchievements": 493,
@@ -10810,7 +10821,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8046
+      "UsersEstimate": 8048
     },
     {
       "ID": "objective_completed_10",
@@ -10818,7 +10829,7 @@
       "Name": "Maddening",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_100",
@@ -11176,9 +11187,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2011
+      "UsersEstimate": 3018
     },
     {
       "ID": "objective_completed_110",
@@ -11450,7 +11461,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_1158",
@@ -11482,7 +11493,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_1163",
@@ -11610,7 +11621,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_1188",
@@ -11634,7 +11645,7 @@
       "Name": "Unreasonable Doesn\u0027t Mean Stupid",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_1193",
@@ -11690,7 +11701,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_1208",
@@ -11914,7 +11925,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_149",
@@ -12034,7 +12045,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_17",
@@ -12482,7 +12493,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "objective_completed_34",
@@ -12490,7 +12501,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "objective_completed_35",
@@ -12682,7 +12693,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_400",
@@ -13298,7 +13309,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_590",
@@ -13352,9 +13363,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 704
     },
     {
       "ID": "objective_completed_60",
@@ -13882,7 +13893,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_690",
@@ -13954,7 +13965,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "objective_completed_70",
@@ -13986,7 +13997,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "objective_completed_75",
@@ -14753,21 +14764,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 66846,
+      "Progressed": 66877,
       "Completed": 2809
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 100572,
+      "Progressed": 100603,
       "Completed": 1973
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-20T20:58:40.2672817+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:06:27.1130157+00:00",
+  "LastChanged": "2023-06-21T05:58:35.9034182+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:07:17.6712571+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:58:19.9124506+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:06:27.115618+00:00"
+  "LastUpdate_Ratings": "2023-06-21T05:58:35.9034188+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:07:17.6734028+00:00"
 }

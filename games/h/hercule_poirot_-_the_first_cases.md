@@ -26,17 +26,17 @@ Rating: 4.32 (Ranked 756)
 | Well-acquainted | 41.00% | ~160 |
 | Zakariya Demir | 41.00% | ~160 |
 | Well-read | 38.00% | ~149 |
-| Cassandra Van den Bosch | 36.00% | ~141 |
+| Cassandra Van den Bosch | 37.00% | ~145 |
 | The Secret | 36.00% | ~141 |
 | Gedeon Demir | 34.00% | ~133 |
 | Rehana Piette | 33.00% | ~129 |
-| Instinct is Marvellous | 31.00% | ~121 |
+| Instinct is Marvellous | 32.00% | ~125 |
 | Ernesto da Silva | 31.00% | ~121 |
 | Inge Frank | 30.00% | ~117 |
 | The Search | 29.00% | ~113 |
 | Hugo Beckers | 28.00% | ~109 |
-| The Family | 26.00% | ~102 |
-| Well-travelled | 25.00% | ~98 |
+| The Family | 27.00% | ~106 |
+| Well-travelled | 26.00% | ~102 |
 | Thinking of Everything | 25.00% | ~98 |
 | Exquisite Artwork | 25.00% | ~98 |
 | Viscount Edwin Van den Bosch | 25.00% | ~98 |

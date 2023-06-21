@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524550,
+  "EOS_Progressed": 1524551,
   "EOS_Completed": 629,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1541,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6940,6 +6940,11 @@
       "Time": "2023-06-21T05:04:28.8677129+00:00",
       "NumProgressed": 1524550,
       "NumCompleted": 629
+    },
+    {
+      "Time": "2023-06-21T06:04:47.1574148+00:00",
+      "NumProgressed": 1524551,
+      "NumCompleted": 629
     }
   ],
   "TotalAchievements": 20,
@@ -6983,7 +6988,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45736
+      "UsersEstimate": 45737
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -7031,7 +7036,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45736
+      "UsersEstimate": 45737
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -7110,15 +7115,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1524550,
+      "Progressed": 1524551,
       "Completed": 629
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:04:28.8677122+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:04:47.1574144+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:00:07.4424379+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:04:28.8678403+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:00:54.5418573+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:04:47.1574519+00:00"
 }

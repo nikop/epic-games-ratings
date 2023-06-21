@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -206,6 +206,11 @@
       "Time": "2023-06-17T17:04:45.9031062+00:00",
       "NumProgressed": 328,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T06:04:57.9746486+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -231,17 +236,17 @@
       "ID": "BALL_HEAVY_HIT",
       "SetID": "20koof9",
       "Name": "Fore!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 86
     },
     {
       "ID": "CATAPULT_THROW",
       "SetID": "20koof9",
       "Name": "Car-Tapult",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "COIN_COLLECT",
@@ -249,7 +254,7 @@
       "Name": "The Collector",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -271,9 +276,9 @@
       "ID": "COLLECT_500_COIN",
       "SetID": "20koof9",
       "Name": "High Roller",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -305,7 +310,7 @@
       "Name": "Drift King!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FIND_40_M2H",
@@ -345,7 +350,7 @@
       "Name": "Disoriented",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -391,9 +396,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -423,9 +428,9 @@
       "ID": "HIT_EXPLOSIVE_BARREL",
       "SetID": "20koof9",
       "Name": "Insurance fraud",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 86
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -455,9 +460,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "LEFT_LEVEL",
@@ -473,7 +478,7 @@
       "Name": "The Wild West",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -497,7 +502,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -545,7 +550,7 @@
       "Name": "Out of this League",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -561,7 +566,7 @@
       "Name": "Ferry Good!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "USE_ROCKET",
@@ -617,7 +622,7 @@
       "Name": "Assert Dominance",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -625,7 +630,7 @@
       "Name": "Speed of light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WIN_ROBBER",
@@ -656,7 +661,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 2
     }
   ],
@@ -664,8 +669,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:04:37.6684167+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:04:57.9746483+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.1971896+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:58:57.5315172+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:04:37.668466+00:00"
+  "LastUpdate_Ratings": "2023-06-21T05:59:20.86417+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:04:57.9746879+00:00"
 }

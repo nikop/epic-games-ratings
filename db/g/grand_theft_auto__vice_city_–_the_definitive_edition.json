@@ -460,9 +460,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8680,
+  "EOS_Progressed": 8681,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -5140,6 +5140,11 @@
       "Time": "2023-06-21T04:03:29.2382187+00:00",
       "NumProgressed": 8680,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-21T06:03:27.981844+00:00",
+      "NumProgressed": 8681,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5237,9 +5242,9 @@
       "ID": "ACH12",
       "SetID": "9llo822",
       "Name": "Catch Me if You Can",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 434
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH13",
@@ -5311,7 +5316,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3820
     },
     {
       "ID": "ACH22",
@@ -5343,7 +5348,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH26",
@@ -5422,7 +5427,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8680,
+      "Progressed": 8681,
       "Completed": 36
     }
   ],
@@ -5430,8 +5435,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:03:24.006442+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:03:27.9818437+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:58:28.3656003+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:03:24.0064958+00:00"
+  "LastUpdate_Ratings": "2023-06-21T05:58:47.1273214+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:03:27.9818845+00:00"
 }

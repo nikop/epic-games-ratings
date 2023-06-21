@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,046 |
-| The Cursed Farmer | 4.00% | ~4,023 |
-| The Mad Wizard | 3.00% | ~3,017 |
-| Beast Intentions | 2.00% | ~2,011 |
-| The Ring of Regeneration | 2.00% | ~2,011 |
+| A Brief Tour of the Realms | 8.00% | ~8,048 |
+| The Cursed Farmer | 4.00% | ~4,024 |
+| Beast Intentions | 3.00% | ~3,018 |
+| The Mad Wizard | 3.00% | ~3,018 |
+| The Ring of Regeneration | 2.00% | ~2,012 |
 | Were-verpowered | 1.00% | ~1,006 |
 | Seeking Allies | 1.00% | ~1,006 |
 | Are Ya Chicken? | 1.00% | ~1,006 |
@@ -24,15 +24,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.70% | ~704 |
 | Unearthed Evil | 0.70% | ~704 |
 | Exploring Port Nyanzaru | 0.70% | ~704 |
+| The Contagious Curse | 0.70% | ~704 |
 | Beware the Jabberwock | 0.70% | ~468 |
-| Maddening | 0.60% | ~603 |
-| Beast Mode | 0.60% | ~603 |
-| Building Trust | 0.60% | ~603 |
-| Useless Allies | 0.60% | ~603 |
-| Running of the Saurs | 0.60% | ~603 |
-| The Contagious Curse | 0.60% | ~603 |
-| Escort to Waterdeep | 0.60% | ~603 |
-| Waterdeep Detours | 0.60% | ~603 |
+| Maddening | 0.60% | ~604 |
+| Beast Mode | 0.60% | ~604 |
+| Building Trust | 0.60% | ~604 |
+| Useless Allies | 0.60% | ~604 |
+| Running of the Saurs | 0.60% | ~604 |
+| Escort to Waterdeep | 0.60% | ~604 |
+| Waterdeep Detours | 0.60% | ~604 |
 | Coasting to the Finish | 0.60% | ~401 |
 | Checkmate | 0.50% | ~334 |
 | Vecna Out! | 0.50% | ~334 |
@@ -45,11 +45,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.50% | ~334 |
 | The Silken Swamp | 0.40% | ~402 |
 | Supply Run | 0.40% | ~402 |
-| Owlbear Necessities | 0.40% | ~267 |
-| Best Thay Ever | 0.40% | ~267 |
-| Frail Doesn't Mean Broken | 0.40% | ~267 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~267 |
-| Pin and Skewer | 0.40% | ~267 |
+| Owlbear Necessities | 0.40% | ~268 |
+| Best Thay Ever | 0.40% | ~268 |
+| Frail Doesn't Mean Broken | 0.40% | ~268 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~268 |
+| Pin and Skewer | 0.40% | ~268 |
 | Homecoming | 0.40% | ~402 |
 | The Lost Heir of Omu | 0.40% | ~402 |
 | Street War | 0.40% | ~402 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,572 (Ranked 63)  
+Progressed: 100,603 (Ranked 63)  
 Completed: 1,973 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,10 +562,10 @@ Completed: 1,973 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,572 | 1,973 |
+| 2023-06-21 | 100,603 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
-Sum: 30,156 (Ranked 37)  
+Sum: 30,159 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -573,8 +573,8 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,883 |
 | This game has Quickly Understood Controls | 4,620 |
 | This game is Relaxing | 4,518 |
+| This game is Highly Recommended | 3,966 |
 | This game has Amazing Characters | 3,965 |
-| This game is Highly Recommended | 3,963 |
 | This game has Playful Visuals | 3,256 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -725,3 +725,4 @@ Diff (max vs sum): 27
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
 | 2023-06-19 | 4.06 | - | 4,949 | 30,148 |
 | 2023-06-20 | 4.06 | - | 4,951 | 30,156 |
+| 2023-06-21 | 4.06 | - | 4,951 | 30,159 |

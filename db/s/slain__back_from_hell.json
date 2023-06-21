@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26725,
+  "EOS_Progressed": 26728,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6701,6 +6701,11 @@
       "Time": "2023-06-21T05:06:03.2713546+00:00",
       "NumProgressed": 26725,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-21T06:06:41.5247853+00:00",
+      "NumProgressed": 26728,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6720,7 +6725,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6742,9 +6747,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -6752,7 +6757,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -6824,7 +6829,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -6943,7 +6948,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26725,
+      "Progressed": 26728,
       "Completed": 20
     }
   ],
@@ -6951,8 +6956,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:06:03.2713544+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:06:41.5247849+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:00:03.3680283+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:06:03.2714127+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:00:50.2535241+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:06:41.5248308+00:00"
 }

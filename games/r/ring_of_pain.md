@@ -1,40 +1,40 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,908 |
-| Uncharted Territory | 89.00% | ~205,727 |
-| Getting A Glimpse | 73.00% | ~168,742 |
-| A Quick Escape | 65.00% | ~150,250 |
-| Explorer | 62.00% | ~143,315 |
-| Defeat The Dark | 61.00% | ~141,004 |
-| An Offering | 61.00% | ~141,004 |
-| Colorful Corpse | 58.00% | ~134,069 |
-| That Was Quick | 56.00% | ~129,446 |
-| A Donation | 56.00% | ~129,446 |
-| Goodbye, Frog Friend | 54.00% | ~124,823 |
+| First Steps | 96.00% | ~221,909 |
+| Uncharted Territory | 89.00% | ~205,728 |
+| Getting A Glimpse | 73.00% | ~168,743 |
+| A Quick Escape | 65.00% | ~150,251 |
+| Explorer | 62.00% | ~143,316 |
+| Defeat The Dark | 61.00% | ~141,005 |
+| An Offering | 61.00% | ~141,005 |
+| Colorful Corpse | 58.00% | ~134,070 |
+| That Was Quick | 56.00% | ~129,447 |
+| A Donation | 56.00% | ~129,447 |
+| Goodbye, Frog Friend | 54.00% | ~124,824 |
 | Heavy Hitter | 53.00% | ~122,512 |
 | Heartless | 46.00% | ~106,331 |
 | Spine Breaker | 46.00% | ~106,331 |
-| Deflection | 45.00% | ~104,019 |
-| Sneaky | 43.00% | ~99,396 |
+| Deflection | 45.00% | ~104,020 |
+| Sneaky | 43.00% | ~99,397 |
 | Delving Deeper | 42.00% | ~97,085 |
-| Ambitious Intent | 41.00% | ~94,773 |
-| C-C-Combo | 41.00% | ~94,773 |
+| Ambitious Intent | 41.00% | ~94,774 |
+| C-C-Combo | 41.00% | ~94,774 |
 | The Bestiary | 40.00% | ~92,462 |
 | Nothing To Lose | 39.00% | ~90,150 |
 | What's Yours Is Mine | 38.00% | ~87,839 |
-| R.I.P | 36.00% | ~83,215 |
+| R.I.P | 36.00% | ~83,216 |
 | Shootout | 35.00% | ~80,904 |
-| Cold Hearted | 34.00% | ~78,592 |
-| I Am Overburdened | 34.00% | ~78,592 |
+| Cold Hearted | 34.00% | ~78,593 |
+| I Am Overburdened | 34.00% | ~78,593 |
 | Dig Your Own Grave | 33.00% | ~76,281 |
 | Toxic | 33.00% | ~76,281 |
-| Who To Trust? | 32.00% | ~73,969 |
+| Who To Trust? | 32.00% | ~73,970 |
 | Flesh Wound | 29.00% | ~67,035 |
 | Walk It Off | 27.00% | ~62,412 |
 | Stone Touch | 27.00% | ~62,412 |
@@ -58,11 +58,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 15.00% | ~34,673 |
 | The Long Run | 14.00% | ~32,362 |
 | A Rough Road | 13.00% | ~30,050 |
-| Berzerker | 12.00% | ~27,738 |
-| Chain Reaction | 12.00% | ~27,738 |
+| Berzerker | 12.00% | ~27,739 |
+| Chain Reaction | 12.00% | ~27,739 |
 | Antivenom | 11.00% | ~25,427 |
-| Thank You, Friend | 10.00% | ~23,115 |
-| Barbecue | 10.00% | ~23,115 |
+| Thank You, Friend | 10.00% | ~23,116 |
+| Barbecue | 10.00% | ~23,116 |
 | Snake Sneak | 9.00% | ~20,804 |
 | Challenge Increases | 8.00% | ~18,492 |
 | New Game+ | 8.00% | ~18,492 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~925 |
 | Near Death Experience | 0.30% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,154 (Ranked 45)  
+Progressed: 231,155 (Ranked 45)  
 Completed: 240 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 240 (0.10%) (Ranked 173)
 | 2023-06-18 | 231,044 | 240 |
 | 2023-06-19 | 231,097 | 240 |
 | 2023-06-20 | 231,144 | 240 |
-| 2023-06-21 | 231,154 | 240 |
+| 2023-06-21 | 231,155 | 240 |
 ## Awards
 Max (Great for Beginners): 1,480  (Ranked 118)  
 Sum: 12,935 (Ranked 69)  

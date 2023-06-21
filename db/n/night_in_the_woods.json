@@ -4,11 +4,11 @@
   "ProductSlug": "night-in-the-woods",
   "Ranking_Rating": 167,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-27T16:00:00+00:00",
     "PcReleaseDate": "2020-12-27T16:00:00+00:00",
@@ -517,6 +517,6 @@
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
   "LastChanged": "2023-06-07T19:00:47.5686498+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.4415266+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:59:48.051668+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:05:20.3344335+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:00:29.1738567+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:05:49.6750497+00:00"
 }

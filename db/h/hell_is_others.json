@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 633,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251519,
+  "EOS_Progressed": 251525,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6776,6 +6776,11 @@
       "Time": "2023-06-21T05:04:04.8892997+00:00",
       "NumProgressed": 251519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T06:04:17.9547537+00:00",
+      "NumProgressed": 251525,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -6787,7 +6792,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17606
+      "UsersEstimate": 17607
     },
     {
       "ID": "Act2",
@@ -6835,7 +6840,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77971
+      "UsersEstimate": 77973
     },
     {
       "ID": "BackHomeNTimes",
@@ -6987,7 +6992,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15091
+      "UsersEstimate": 15092
     },
     {
       "ID": "GrowPlants2",
@@ -7043,7 +7048,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15091
+      "UsersEstimate": 15092
     },
     {
       "ID": "KillOtherWithKatana",
@@ -7075,7 +7080,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55334
+      "UsersEstimate": 55336
     },
     {
       "ID": "KillOthers2",
@@ -7234,7 +7239,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251519,
+      "Progressed": 251525,
       "Completed": 1
     }
   ],
@@ -7242,8 +7247,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-20T13:08:51.6290877+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:04:04.8892993+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:04:17.9547532+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:00:21.0890349+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:04:04.8893754+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:01:12.1624131+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:04:17.9548222+00:00"
 }

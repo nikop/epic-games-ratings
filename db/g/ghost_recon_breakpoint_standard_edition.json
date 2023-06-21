@@ -4,11 +4,11 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 491,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5188,6 +5188,6 @@
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
   "LastChanged": "2023-06-21T02:03:26.6317969+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.6004315+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:57:44.9273669+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:04:26.7522324+00:00"
+  "LastUpdate_Ratings": "2023-06-21T05:57:58.5974352+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:04:44.4580395+00:00"
 }

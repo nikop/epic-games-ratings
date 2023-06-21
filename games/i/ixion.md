@@ -17,8 +17,8 @@ Rating: 4.57 (Ranked 442)
 | Fully Recycled | 8.00% | ~216 |
 | Ain't Nobody Got Time for That | 8.00% | ~216 |
 | The Ship of Theseus | 8.00% | ~216 |
+| Hope Seeker | 8.00% | ~216 |
 | Breaking Protocol | 7.00% | ~189 |
-| Hope Seeker | 7.00% | ~189 |
 | A Hunk of Junk | 6.00% | ~162 |
 | Exceeding Capacity | 6.00% | ~162 |
 | Man's Best Friend | 4.00% | ~108 |

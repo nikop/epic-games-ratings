@@ -1,19 +1,19 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 477)  
+Rating: 4.55 (Ranked 478)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,871 |
-| Let There Be Light | 26.00% | ~14,520 |
+| Follow the Light | 32.00% | ~17,872 |
+| Let There Be Light | 26.00% | ~14,521 |
 | Float Like a Butterfly | 25.00% | ~13,962 |
-| Nordic Walking | 20.00% | ~11,169 |
+| Nordic Walking | 20.00% | ~11,170 |
 | Bright Falls' Finest | 19.00% | ~10,611 |
 | Under a Thin Layer of Skin | 17.00% | ~9,494 |
-| Park Ranger | 14.00% | ~7,818 |
-| Paging Mr. Wake | 14.00% | ~7,818 |
+| Park Ranger | 14.00% | ~7,819 |
+| Paging Mr. Wake | 14.00% | ~7,819 |
 | Back! Back, I Say! | 13.00% | ~7,260 |
 | Finders Keepers | 13.00% | ~7,260 |
 | Damn Good Cup of Coffee | 12.00% | ~6,702 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 3.00% | ~1,675 |
 | If It Flies, It Burns | 3.00% | ~1,675 |
 | KBF-FM | 3.00% | ~1,675 |
-| Kill Your Darlings | 3.00% | ~579 |
-| Heartbreaker | 3.00% | ~579 |
+| Kill Your Darlings | 3.00% | ~580 |
+| Heartbreaker | 3.00% | ~580 |
 | Medical Opinions | 2.00% | ~1,117 |
 | Taken Season | 2.00% | ~1,117 |
 | Carny | 2.00% | ~1,117 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,846 (Ranked 79)  
+Progressed: 55,849 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-18 | 55,644 | 56 |
 | 2023-06-19 | 55,743 | 56 |
 | 2023-06-20 | 55,823 | 56 |
-| 2023-06-21 | 55,846 | 56 |
+| 2023-06-21 | 55,849 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

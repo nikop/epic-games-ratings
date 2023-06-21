@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -763,9 +763,9 @@
       "ID": "collector",
       "SetID": "jig50d",
       "Name": "Collector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "detoxed",
@@ -964,8 +964,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-21T05:00:55.1184887+00:00",
+  "LastChanged_Achievements": "2023-06-21T06:01:54.6386143+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:29.7769184+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:00:05.0848247+00:00",
-  "LastUpdate_Achievements": "2023-06-21T05:00:55.1187311+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:00:52.2613632+00:00",
+  "LastUpdate_Achievements": "2023-06-21T06:01:54.6386343+00:00"
 }

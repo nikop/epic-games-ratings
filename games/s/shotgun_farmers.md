@@ -11,9 +11,9 @@
 | Triple Kill | 43.00% | ~56 |
 | I Believe I Can Fly | 38.00% | ~49 |
 | Early Survivor | 38.00% | ~30 |
+| No Asperascope | 37.00% | ~48 |
 | Cornivore | 37.00% | ~48 |
 | No Diggity | 37.00% | ~30 |
-| No Asperascope | 36.00% | ~47 |
 | Amateur Survivor | 27.00% | ~22 |
 | Bouncemato | 26.00% | ~21 |
 | Quick-Draw Pod | 21.00% | ~17 |
