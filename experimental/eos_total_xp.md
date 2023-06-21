@@ -40,6 +40,7 @@
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
 | [Absolute Drift](../games/a/absolute_drift.md) | 20 | 1,000 |
+| [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
@@ -385,6 +386,7 @@
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
+| [Souls Of Chronos](../games/f/fc740bd5bc244b50a36620a391980636.md) | 41 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |

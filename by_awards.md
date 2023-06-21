@@ -29,7 +29,7 @@
 | 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,609 | 4.24 | 806 |
 | 28 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,519 | 4.36 | 724 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,445 | 4.60 | 390 |
-| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,216 | 4.42 | 659 |
+| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,227 | 4.42 | 659 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,779 | 4.87 | 26 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,700 | 4.39 | 699 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,280 | 4.69 | 221 |
@@ -39,7 +39,7 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,282 | 4.61 | 364 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,756 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,359 | 4.60 | 390 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,913 | 4.58 | 423 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,931 | 4.58 | 423 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,634 | 4.85 | 41 |
 | 42 | [Supraland](games/s/supraland.md) | 7,627 | 4.61 | 364 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,498 | 4.89 | 13 |
@@ -151,11 +151,11 @@
 | 149 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 860 | 4.44 | 633 |
 | 150 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 793 | 4.69 | 221 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 785 | 4.56 | 454 |
-| 152 | [Frostpunk](games/f/frostpunk.md) | 782 | 4.74 | 144 |
+| 152 | [Frostpunk](games/f/frostpunk.md) | 783 | 4.74 | 144 |
 | 153 | [The Long Dark](games/t/the_long_dark.md) | 763 | 4.74 | 144 |
 | 154 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 754 | 4.51 | 532 |
 | 155 | [Auto Chess](games/a/auto_chess.md) | 748 | 4.52 | 515 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 738 | 4.45 | 621 |
+| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 740 | 4.45 | 621 |
 | 157 | [Core](games/c/core.md) | 736 | 4.36 | 724 |
 | 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 728 | 4.78 | 99 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 700 | 4.50 | 548 |
@@ -308,7 +308,7 @@
 | 306 | [Predecessor](games/p/predecessor.md) | 121 | 4.44 | 633 |
 | 307 | [Aven Colony](games/a/aven_colony.md) | 120 | 4.20 | 833 |
 | 307 | [Going Medieval](games/g/going_medieval.md) | 120 | 4.60 | 390 |
-| 309 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.52 | 515 |
+| 307 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 120 | 4.52 | 515 |
 | 310 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 118 | 4.79 | 89 |
 | 310 | [Sonic Origins](games/s/sonic_origins.md) | 118 | 4.58 | 423 |
 | 312 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 750 |
