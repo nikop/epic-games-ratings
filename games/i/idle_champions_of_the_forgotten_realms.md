@@ -6,37 +6,37 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,091 |
-| The Cursed Farmer | 4.00% | ~4,046 |
-| Beast Intentions | 3.00% | ~3,034 |
-| The Mad Wizard | 3.00% | ~3,034 |
-| The Ring of Regeneration | 2.00% | ~2,023 |
-| Were-verpowered | 1.00% | ~1,011 |
-| A Persistent Buzzing | 1.00% | ~1,011 |
-| Seeking Allies | 1.00% | ~1,011 |
-| Are Ya Chicken? | 1.00% | ~1,011 |
-| Mad Cow Disease | 1.00% | ~1,011 |
-| Friendly Imps | 1.00% | ~1,011 |
-| Pure Energy | 1.00% | ~1,011 |
+| A Brief Tour of the Realms | 8.00% | ~8,097 |
+| The Cursed Farmer | 4.00% | ~4,049 |
+| Beast Intentions | 3.00% | ~3,037 |
+| The Mad Wizard | 3.00% | ~3,037 |
+| The Ring of Regeneration | 2.00% | ~2,024 |
+| Were-verpowered | 1.00% | ~1,012 |
+| A Persistent Buzzing | 1.00% | ~1,012 |
+| Seeking Allies | 1.00% | ~1,012 |
+| Are Ya Chicken? | 1.00% | ~1,012 |
+| Mad Cow Disease | 1.00% | ~1,012 |
+| Friendly Imps | 1.00% | ~1,012 |
+| Pure Energy | 1.00% | ~1,012 |
 | The Court of Storms | 0.90% | ~607 |
-| Terror in the Dark | 0.80% | ~809 |
-| Unearthed Evil | 0.80% | ~809 |
-| The Crumbling Temple | 0.80% | ~809 |
-| A Mysterious Summons | 0.70% | ~708 |
-| Useless Allies | 0.70% | ~708 |
-| Exploring Port Nyanzaru | 0.70% | ~708 |
-| The Contagious Curse | 0.70% | ~708 |
+| Terror in the Dark | 0.80% | ~810 |
+| Unearthed Evil | 0.80% | ~810 |
+| The Crumbling Temple | 0.80% | ~810 |
+| Exploring Port Nyanzaru | 0.80% | ~810 |
+| A Mysterious Summons | 0.70% | ~709 |
+| Useless Allies | 0.70% | ~709 |
+| The Contagious Curse | 0.70% | ~709 |
 | Beware the Jabberwock | 0.70% | ~472 |
 | Maddening | 0.60% | ~607 |
 | Beast Mode | 0.60% | ~607 |
+| Low Initiative | 0.60% | ~607 |
 | Building Trust | 0.60% | ~607 |
 | Running of the Saurs | 0.60% | ~607 |
 | Escort to Waterdeep | 0.60% | ~607 |
 | Waterdeep Detours | 0.60% | ~607 |
-| Coasting to the Finish | 0.60% | ~404 |
+| Coasting to the Finish | 0.60% | ~405 |
 | Checkmate | 0.50% | ~337 |
 | Vecna Out! | 0.50% | ~337 |
-| Low Initiative | 0.50% | ~506 |
 | No Time To Rest | 0.50% | ~506 |
 | The Dinner Party | 0.50% | ~506 |
 | Underdeep Cartography | 0.50% | ~506 |
@@ -68,13 +68,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.40% | ~405 |
 | Constant Banditry | 0.40% | ~405 |
 | Overdue Rendezvous | 0.40% | ~405 |
-| Pros and CONs | 0.30% | ~303 |
+| Pros and CONs | 0.30% | ~304 |
 | Tall Tales | 0.30% | ~202 |
 | The Witchlight Carnival | 0.30% | ~202 |
 | Third Third Out | 0.30% | ~202 |
-| Wet Feet | 0.30% | ~303 |
-| Hatchlings Underfoot | 0.30% | ~303 |
-| Don't Look Up! | 0.30% | ~303 |
+| Wet Feet | 0.30% | ~304 |
+| Hatchlings Underfoot | 0.30% | ~304 |
+| Don't Look Up! | 0.30% | ~304 |
 | The Lutes of Loomlurch | 0.30% | ~202 |
 | Vecna Lives! | 0.30% | ~202 |
 | Return to the Tomb | 0.30% | ~202 |
@@ -89,48 +89,48 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.30% | ~202 |
 | No One Can Hear You Scream | 0.30% | ~202 |
 | Welcome to the Rock | 0.30% | ~202 |
-| The Forbidden City | 0.30% | ~303 |
-| Captured! | 0.30% | ~303 |
-| Home Field Advantage | 0.30% | ~303 |
-| Force Grey Unleashed | 0.30% | ~303 |
-| Sleuth It Out | 0.30% | ~303 |
-| A Grand Puzzle | 0.30% | ~303 |
-| Azaka's Procession - Part 1 | 0.30% | ~303 |
-| Tomb of the Nine Gods | 0.30% | ~303 |
-| The Mists of Ravenloft | 0.30% | ~303 |
-| Family Entanglements | 0.30% | ~303 |
-| Chatty Nobles | 0.30% | ~303 |
-| Modron Assistance | 0.30% | ~303 |
-| Haaave You Met Asmodeus? | 0.30% | ~303 |
-| Domesticated Owlbears | 0.30% | ~303 |
-| The Immortal Warrior | 0.30% | ~303 |
-| The Wyrmheart Mine | 0.30% | ~303 |
-| Tower on the Lake | 0.30% | ~303 |
-| Seeds of Deceit | 0.30% | ~303 |
-| The Gargoyle's Apprentice | 0.30% | ~303 |
-| The Trepidatious Trio | 0.30% | ~303 |
-| Treasure Hunters | 0.30% | ~303 |
-| The Guardian of Orolunga | 0.30% | ~303 |
-| The Lost Love | 0.30% | ~303 |
-| Flies on the Wall | 0.30% | ~303 |
-| Backtracking Through Barovia | 0.30% | ~303 |
-| Fugitives | 0.30% | ~303 |
-| Excavating History | 0.30% | ~303 |
-| Towering Expectations | 0.30% | ~303 |
-| Hopelessly Lost | 0.30% | ~303 |
-| Cramped Quarters | 0.30% | ~303 |
-| Enter the Sargauth | 0.30% | ~303 |
-| The Dead Three | 0.30% | ~303 |
-| Lair of the Xanathar | 0.30% | ~303 |
-| Waterdeep Under Siege | 0.30% | ~303 |
-| Crowded Streets | 0.30% | ~303 |
-| The Darkness Runs Deeper | 0.30% | ~303 |
-| Difficult Terrain | 0.30% | ~303 |
-| Vault of Dragons | 0.30% | ~303 |
-| Champions of Waterdeep | 0.30% | ~303 |
-| Elturel Has Fallen | 0.30% | ~303 |
-| Resolve Amongst Chaos | 0.30% | ~303 |
-| Market Fluctuations | 0.30% | ~303 |
+| The Forbidden City | 0.30% | ~304 |
+| Captured! | 0.30% | ~304 |
+| Home Field Advantage | 0.30% | ~304 |
+| Force Grey Unleashed | 0.30% | ~304 |
+| Sleuth It Out | 0.30% | ~304 |
+| A Grand Puzzle | 0.30% | ~304 |
+| Azaka's Procession - Part 1 | 0.30% | ~304 |
+| Tomb of the Nine Gods | 0.30% | ~304 |
+| The Mists of Ravenloft | 0.30% | ~304 |
+| Family Entanglements | 0.30% | ~304 |
+| Chatty Nobles | 0.30% | ~304 |
+| Modron Assistance | 0.30% | ~304 |
+| Haaave You Met Asmodeus? | 0.30% | ~304 |
+| Domesticated Owlbears | 0.30% | ~304 |
+| The Immortal Warrior | 0.30% | ~304 |
+| The Wyrmheart Mine | 0.30% | ~304 |
+| Tower on the Lake | 0.30% | ~304 |
+| Seeds of Deceit | 0.30% | ~304 |
+| The Gargoyle's Apprentice | 0.30% | ~304 |
+| The Trepidatious Trio | 0.30% | ~304 |
+| Treasure Hunters | 0.30% | ~304 |
+| The Guardian of Orolunga | 0.30% | ~304 |
+| The Lost Love | 0.30% | ~304 |
+| Flies on the Wall | 0.30% | ~304 |
+| Backtracking Through Barovia | 0.30% | ~304 |
+| Fugitives | 0.30% | ~304 |
+| Excavating History | 0.30% | ~304 |
+| Towering Expectations | 0.30% | ~304 |
+| Hopelessly Lost | 0.30% | ~304 |
+| Cramped Quarters | 0.30% | ~304 |
+| Enter the Sargauth | 0.30% | ~304 |
+| The Dead Three | 0.30% | ~304 |
+| Lair of the Xanathar | 0.30% | ~304 |
+| Waterdeep Under Siege | 0.30% | ~304 |
+| Crowded Streets | 0.30% | ~304 |
+| The Darkness Runs Deeper | 0.30% | ~304 |
+| Difficult Terrain | 0.30% | ~304 |
+| Vault of Dragons | 0.30% | ~304 |
+| Champions of Waterdeep | 0.30% | ~304 |
+| Elturel Has Fallen | 0.30% | ~304 |
+| Resolve Amongst Chaos | 0.30% | ~304 |
+| Market Fluctuations | 0.30% | ~304 |
 | Into The Fire | 0.30% | ~202 |
 | Hearts Aflame | 0.30% | ~202 |
 | Dreamscape | 0.30% | ~202 |
@@ -139,20 +139,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.30% | ~202 |
 | The Lost Hollyphant | 0.30% | ~202 |
 | An Even Worse Time in Avernus | 0.30% | ~202 |
-| The Wandering Emporium | 0.30% | ~202 |
 | Bel's Forge | 0.30% | ~202 |
 | The Giant's Bane Tavern | 0.30% | ~202 |
 | The Everlasting Rime | 0.30% | ~202 |
-| The Long Haul | 0.30% | ~303 |
-| Lost in the Deep | 0.30% | ~303 |
-| Easily Distracted | 0.30% | ~303 |
-| Rude Welcome | 0.30% | ~303 |
+| The Long Haul | 0.30% | ~304 |
+| Lost in the Deep | 0.30% | ~304 |
+| Easily Distracted | 0.30% | ~304 |
+| Rude Welcome | 0.30% | ~304 |
 | Moose Tracks | 0.30% | ~202 |
-| Durable Deep | 0.30% | ~303 |
-| Expert Opinion | 0.30% | ~303 |
+| Durable Deep | 0.30% | ~304 |
+| Expert Opinion | 0.30% | ~304 |
 | Witty Riposting | 0.30% | ~202 |
 | How Far Away is Thay | 0.30% | ~202 |
-| The Haunted Jungle | 0.30% | ~303 |
+| The Haunted Jungle | 0.30% | ~304 |
 | Upholding the Law | 0.20% | ~202 |
 | Starving in the Jungle | 0.20% | ~202 |
 | Cold as Ice | 0.20% | ~135 |
@@ -365,6 +364,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.20% | ~135 |
 | The Gargoyle | 0.20% | ~135 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~135 |
+| The Wandering Emporium | 0.20% | ~135 |
 | Madcap Adventures Redux | 0.20% | ~135 |
 | When the Going Gets Tough | 0.20% | ~135 |
 | Tiamat's Army | 0.20% | ~135 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,139 (Ranked 63)  
+Progressed: 101,217 (Ranked 63)  
 Completed: 1,975 (1.95%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 1,975 (1.95%) (Ranked 74)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 101,139 | 1,975 |
+| 2023-06-21 | 101,217 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,161 (Ranked 37)  

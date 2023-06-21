@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -63,9 +63,9 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Bird_Fragile",
@@ -95,9 +95,9 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Butterfly_Fragile",
@@ -111,9 +111,9 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Cloud_Fragile",
@@ -127,9 +127,9 @@
       "ID": "Flower",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Flower_Fragile",
@@ -151,9 +151,9 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Grass_Fragile",
@@ -167,9 +167,9 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Home_Fragile",
@@ -183,9 +183,9 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Moon_Fragile",
@@ -199,9 +199,9 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Mountain_Fragile",
@@ -215,17 +215,17 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Star_Fragile",
@@ -239,9 +239,9 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Tree_Fragile",
@@ -255,9 +255,9 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Water_Fragile",
@@ -277,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:04:15.332612+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:03:17.7989299+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:16.8748564+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:57:29.5572993+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:04:15.3326318+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:57:09.9546546+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:03:17.7989491+00:00"
 }

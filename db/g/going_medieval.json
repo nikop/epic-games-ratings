@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1096,7 +1096,7 @@
   ],
   "EOS_Progressed": 3956,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3545,9 +3545,9 @@
       "ID": "HARVEST_CROPS_200",
       "SetID": "5349c2e",
       "Name": "Green Thumb",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2571
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -3769,8 +3769,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:08.820771+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:26.5368288+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:01:44.5399354+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:08.8208114+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:00:13.8249187+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:26.5368663+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-06-21T02:11:48.5652216+00:00",
       "NumProgressed": 985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T17:06:29.2865709+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1530,7 +1535,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "EXPERT_1",
@@ -1560,9 +1565,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 177
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1594,7 +1599,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LOVE_GURU_1",
@@ -1761,15 +1766,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:12.5493095+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:29.2865701+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:41.112645+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:02:09.2730194+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:12.5512646+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:00:35.7199104+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:29.2866039+00:00"
 }

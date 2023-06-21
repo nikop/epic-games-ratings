@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "7pimpda",
       "Name": "Giantess Slayer",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -562,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:07:51.6551948+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:21.2800301+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.7029568+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:01:29.2992019+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:07:51.6552353+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:00:04.9334608+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:21.2800683+00:00"
 }

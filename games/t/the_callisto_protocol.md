@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.00% | ~0 |
 | Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,488 (Ranked 104)  
+Progressed: 15,488 (Ranked 105)  
 Completed: 57 (0.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |

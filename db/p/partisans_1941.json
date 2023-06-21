@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1056,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-06-21T07:07:18.4519093+00:00",
       "NumProgressed": 1056,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T17:06:29.5420351+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1279,7 +1284,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Defense_Common",
@@ -1311,7 +1316,7 @@
       "Name": "E1M1",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "Everyone_is_here",
@@ -1333,9 +1338,9 @@
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 84
+      "UsersEstimate": 95
     },
     {
       "ID": "Grenadier",
@@ -1343,7 +1348,7 @@
       "Name": "Grenadier",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Hard_Serpent",
@@ -1359,7 +1364,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "High_noon",
@@ -1470,15 +1475,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1056,
+      "Progressed": 1057,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:12.8367368+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:29.5420345+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:00:51.2606524+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:12.8367842+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:59:39.1708978+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:29.5420608+00:00"
 }

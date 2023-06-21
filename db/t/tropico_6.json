@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -924,7 +924,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3749,
+  "EOS_Progressed": 3750,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -4804,6 +4804,11 @@
       "Time": "2023-06-21T16:04:18.0092062+00:00",
       "NumProgressed": 3749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T17:03:19.583157+00:00",
+      "NumProgressed": 3750,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4863,7 +4868,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -4879,7 +4884,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4919,7 +4924,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4935,7 +4940,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4975,7 +4980,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4983,7 +4988,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -5087,7 +5092,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5111,7 +5116,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -5134,15 +5139,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3749,
+      "Progressed": 3750,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-14T21:59:40.453146+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:04:18.0092057+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:03:19.5831565+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:02:12.5350293+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:04:18.0092678+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:00:37.1198929+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:03:19.5832112+00:00"
 }

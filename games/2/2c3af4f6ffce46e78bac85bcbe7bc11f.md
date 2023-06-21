@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something free... | 40.00% | ~2 |
-| Something gentle... | 40.00% | ~2 |
-| Something ever-changing... | 40.00% | ~2 |
-| Something fully in bloom... | 40.00% | ~2 |
-| Something foundational... | 40.00% | ~2 |
-| Somewhere to belong... | 40.00% | ~2 |
-| Something to make you dream... | 40.00% | ~2 |
-| Something monumental... | 40.00% | ~2 |
-| Something natural... | 40.00% | ~2 |
-| Something to long for... | 40.00% | ~2 |
-| Something firmly rooted... | 40.00% | ~2 |
-| Something reflective... | 40.00% | ~2 |
+| Something free... | 60.00% | ~3 |
+| Something gentle... | 60.00% | ~3 |
+| Something ever-changing... | 60.00% | ~3 |
+| Something fully in bloom... | 60.00% | ~3 |
+| Something foundational... | 60.00% | ~3 |
+| Somewhere to belong... | 60.00% | ~3 |
+| Something to make you dream... | 60.00% | ~3 |
+| Something monumental... | 60.00% | ~3 |
+| Something natural... | 60.00% | ~3 |
+| Something to long for... | 60.00% | ~3 |
+| Something firmly rooted... | 60.00% | ~3 |
+| Something reflective... | 60.00% | ~3 |
 | Something free... (fragile) | 20.00% | ~1 |
 | Something more... | 20.00% | ~1 |
 | Something more... (fragile) | 20.00% | ~1 |

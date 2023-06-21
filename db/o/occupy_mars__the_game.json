@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1298,
+  "EOS_Progressed": 1300,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2208,6 +2208,11 @@
       "Time": "2023-06-21T16:05:45.2453164+00:00",
       "NumProgressed": 1298,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T17:04:23.453278+00:00",
+      "NumProgressed": 1300,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2299,7 +2304,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2339,7 +2344,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2353,9 +2358,9 @@
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
       "SetID": "l546gc",
       "Name": "Caveman",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -2395,7 +2400,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2435,7 +2440,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2467,15 +2472,15 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 533
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2497,9 +2502,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -2579,7 +2584,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2602,7 +2607,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1298,
+      "Progressed": 1300,
       "Completed": 0
     }
   ],
@@ -2610,8 +2615,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-16T13:03:21.7324195+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:05:45.2453157+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:04:23.453277+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.7999055+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:58:06.9272344+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:05:45.2454086+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:57:39.956645+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:04:23.4533262+00:00"
 }

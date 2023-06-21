@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3395,
+  "EOS_Progressed": 3396,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4446,6 +4446,11 @@
       "Time": "2023-06-21T16:07:39.308553+00:00",
       "NumProgressed": 3395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T17:06:12.3145328+00:00",
+      "NumProgressed": 3396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4473,7 +4478,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "12",
@@ -4513,7 +4518,7 @@
       "Name": "Dense Forest",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "3",
@@ -4576,7 +4581,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3395,
+      "Progressed": 3396,
       "Completed": 0
     }
   ],
@@ -4584,8 +4589,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:07:39.3085523+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:12.3145324+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.5815325+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:59:08.9218821+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:07:39.3086213+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:58:27.4238881+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:12.3145675+00:00"
 }

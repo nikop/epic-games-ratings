@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:03:46.8022464+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:02:28.384865+00:00",
   "LastUpdate_AppInfo": "2023-06-20T09:57:11.9784487+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:57:18.769145+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:03:46.802282+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:56:57.5835497+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:02:28.3848875+00:00"
 }

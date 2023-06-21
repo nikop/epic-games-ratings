@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 225,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -511,6 +511,11 @@
       "Time": "2023-06-21T16:04:11.9547802+00:00",
       "NumProgressed": 223,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-21T17:03:15.4566567+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 11,
@@ -522,15 +527,15 @@
       "Name": "Pit-house",
       "Percentage": 96,
       "XP": 45,
-      "UsersEstimate": 214
+      "UsersEstimate": 216
     },
     {
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 45,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_004",
@@ -538,7 +543,7 @@
       "Name": "Two-story house",
       "Percentage": 74,
       "XP": 45,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_006",
@@ -546,15 +551,15 @@
       "Name": "Market",
       "Percentage": 63,
       "XP": 95,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 95,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_017",
@@ -568,9 +573,9 @@
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 95,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_023",
@@ -586,7 +591,7 @@
       "Name": "Townhouse",
       "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_026",
@@ -594,7 +599,7 @@
       "Name": "2 neighbour islands",
       "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_060",
@@ -609,14 +614,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 225,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:04:11.9547795+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:03:15.456656+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:57:26.2470195+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:04:11.9547997+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:57:06.4291507+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:03:15.4566687+00:00"
 }

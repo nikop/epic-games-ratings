@@ -4,11 +4,11 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 566,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-29T16:00:00+00:00",
     "PcReleaseDate": "2020-12-29T16:00:00+00:00",
@@ -796,10 +796,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 551,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-06-21T16:59:54.1600708+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 551,
+  "NumberOfAwards": 610,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 56
+      "Count": 59
     },
     {
       "Text": "This game has Playful Visuals",
@@ -881,8 +887,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2023-06-21T13:07:18.8999625+00:00",
+  "LastChanged": "2023-06-21T16:59:54.1600707+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:05.5152392+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:01:13.9586653+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:06:44.0830184+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:59:54.1600713+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:05:23.9735967+00:00"
 }

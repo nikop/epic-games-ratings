@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -620,10 +620,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 422,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-06-21T16:59:32.3008489+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 423,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 422,
+  "NumberOfAwards": 423,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -661,7 +667,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -700,9 +706,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2470,
+  "EOS_Progressed": 2471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2780,6 +2786,11 @@
       "Time": "2023-06-21T16:08:10.278986+00:00",
       "NumProgressed": 2470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T17:06:27.5723507+00:00",
+      "NumProgressed": 2471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2791,7 +2802,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3167,22 +3178,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2470,
+      "Progressed": 2471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-06-17T00:00:13.6383166+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:10.2789853+00:00",
+  "LastChanged": "2023-06-21T16:59:32.3008487+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:27.5723502+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.1070332+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:00:36.8476975+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:10.2790569+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:59:32.3008493+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:27.5724009+00:00"
 }

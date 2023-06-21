@@ -1,19 +1,19 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,849 |
+| Just One...More...Term... | 76.00% | ~2,850 |
 | Un-Lonely Island | 48.00% | ~1,800 |
 | The Beginning of a Servantship | 46.00% | ~1,725 |
-| Trade Is My Trait | 37.00% | ~1,387 |
-| Number 18 | 25.00% | ~937 |
+| Trade Is My Trait | 37.00% | ~1,388 |
+| Number 18 | 25.00% | ~938 |
 | We Don't Have Time For That | 20.00% | ~750 |
 | The Governator | 18.00% | ~675 |
-| The Legend of Langostino | 17.00% | ~637 |
+| The Legend of Langostino | 17.00% | ~638 |
 | Caribbean Comrade | 16.00% | ~600 |
 | The Dreamer of Dreams | 16.00% | ~600 |
 | Happy Ending? | 11.00% | ~412 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~225 |
 | I Owe You Nothing | 6.00% | ~225 |
 | Watch The World Burn | 6.00% | ~225 |
-| Viva Tropico! | 5.00% | ~187 |
-| Computer Says "No" | 5.00% | ~187 |
-| Fairy Tale Come True | 5.00% | ~187 |
+| Viva Tropico! | 5.00% | ~188 |
+| Computer Says "No" | 5.00% | ~188 |
+| Fairy Tale Come True | 5.00% | ~188 |
 | Apocalypso | 4.00% | ~150 |
 | Been there, Done That | 3.00% | ~112 |
 | Narcissist | 3.00% | ~112 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~75 |
 | Terraformer | 2.00% | ~75 |
 | Curse of the Mummy | 2.00% | ~75 |
-| From Knight to Little Duck | 1.00% | ~37 |
+| From Knight to Little Duck | 1.00% | ~38 |
 | Survivor | 0.90% | ~34 |
 | My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 138)  
+Progressed: 3,750 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.03%) (Ranked 200)
 | 2023-06-18 | 3,714 | 1 |
 | 2023-06-19 | 3,726 | 1 |
 | 2023-06-20 | 3,743 | 1 |
-| 2023-06-21 | 3,749 | 1 |
+| 2023-06-21 | 3,750 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 654 (Ranked 278)  

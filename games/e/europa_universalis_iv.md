@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,300 |
-| That's a Grand Army | 8.00% | ~4,711 |
-| That is mine! | 8.00% | ~4,711 |
-| Victorious! | 8.00% | ~4,711 |
-| Brothers in Arms | 6.00% | ~3,533 |
-| That's a Grand Navy | 6.00% | ~3,533 |
-| Seriously?! | 6.00% | ~3,533 |
-| For the Glory | 5.00% | ~2,945 |
-| Cold War | 4.00% | ~2,356 |
-| True Catholic | 4.00% | ~2,356 |
-| Defender of the Faith | 3.00% | ~1,767 |
-| It's all about the money | 3.00% | ~1,767 |
-| Respected | 3.00% | ~1,767 |
-| Truly Divine Ruler | 3.00% | ~1,767 |
+| Until death do us apart | 9.00% | ~5,303 |
+| That's a Grand Army | 8.00% | ~4,714 |
+| That is mine! | 8.00% | ~4,714 |
+| Victorious! | 8.00% | ~4,714 |
+| Brothers in Arms | 6.00% | ~3,535 |
+| That's a Grand Navy | 6.00% | ~3,535 |
+| Seriously?! | 6.00% | ~3,535 |
+| For the Glory | 5.00% | ~2,946 |
+| Cold War | 4.00% | ~2,357 |
+| True Catholic | 4.00% | ~2,357 |
+| Defender of the Faith | 3.00% | ~1,768 |
+| It's all about the money | 3.00% | ~1,768 |
+| Respected | 3.00% | ~1,768 |
+| Truly Divine Ruler | 3.00% | ~1,768 |
 | Agressive Expander | 2.00% | ~1,178 |
 | Blockader | 2.00% | ~1,178 |
 | Combined Arms | 2.00% | ~1,178 |
@@ -45,17 +45,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~471 |
 | Trustworthy | 0.80% | ~471 |
 | Electable! | 0.70% | ~412 |
-| All belongs to Mother Russia | 0.60% | ~353 |
-| At every continent | 0.60% | ~353 |
-| Early-Modern Warfare | 0.60% | ~353 |
-| Populists in Government | 0.60% | ~353 |
-| Time Bandit | 0.60% | ~353 |
-| One Family to Rule them All | 0.50% | ~294 |
-| Ruina Imperii | 0.50% | ~294 |
-| The pen is mightier than the sword | 0.50% | ~294 |
-| This is My Faith | 0.50% | ~294 |
-| Trophy Hunter | 0.50% | ~294 |
-| Voting Streak | 0.50% | ~294 |
+| All belongs to Mother Russia | 0.60% | ~354 |
+| At every continent | 0.60% | ~354 |
+| Early-Modern Warfare | 0.60% | ~354 |
+| Populists in Government | 0.60% | ~354 |
+| Time Bandit | 0.60% | ~354 |
+| One Family to Rule them All | 0.50% | ~295 |
+| Ruina Imperii | 0.50% | ~295 |
+| The pen is mightier than the sword | 0.50% | ~295 |
+| This is My Faith | 0.50% | ~295 |
+| Trophy Hunter | 0.50% | ~295 |
+| Voting Streak | 0.50% | ~295 |
 | Absolutely | 0.40% | ~236 |
 | All Your Trade Are Belong to Us | 0.40% | ~236 |
 | Bleed Them Dry | 0.40% | ~236 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,891 (Ranked 78)  
+Progressed: 58,923 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 57,601 | 0 |
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
-| 2023-06-21 | 58,891 | 0 |
+| 2023-06-21 | 58,923 | 0 |
 ## Awards
 Max (Educational): 5,430  (Ranked 61)  
 Sum: 44,878 (Ranked 27)  

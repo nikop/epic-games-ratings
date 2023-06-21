@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,094 |
-| A Keen Sense of Spell | 8.00% | ~22,475 |
-| First Class Student | 8.00% | ~22,475 |
-| Troll with the Punches | 8.00% | ~22,475 |
-| That's a Keeper | 8.00% | ~22,475 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,095 |
+| A Keen Sense of Spell | 8.00% | ~22,476 |
+| First Class Student | 8.00% | ~22,476 |
+| Troll with the Punches | 8.00% | ~22,476 |
+| That's a Keeper | 8.00% | ~22,476 |
 | Grappling with a Graphorn | 7.00% | ~19,666 |
 | The One Who Mastered Memories | 7.00% | ~19,666 |
 | The Hallowed Hero | 7.00% | ~19,666 |
@@ -19,11 +19,11 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 7.00% | ~19,666 |
 | A Talent for Spending | 7.00% | ~19,666 |
 | Coasting Along | 7.00% | ~19,666 |
-| The Avenging Gazelle | 6.00% | ~16,856 |
-| A Sallow Grave | 6.00% | ~16,856 |
-| Followed the Butterflies | 6.00% | ~16,856 |
-| The Spell Master | 6.00% | ~16,856 |
-| Rising From the Ashes | 6.00% | ~16,856 |
+| The Avenging Gazelle | 6.00% | ~16,857 |
+| A Sallow Grave | 6.00% | ~16,857 |
+| Followed the Butterflies | 6.00% | ~16,857 |
+| The Spell Master | 6.00% | ~16,857 |
+| Rising From the Ashes | 6.00% | ~16,857 |
 | Beast Friends | 5.00% | ~14,047 |
 | Flight the Good Flight | 5.00% | ~14,047 |
 | The Seeker of Knowledge | 4.00% | ~11,238 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,941 (Ranked 41)  
+Progressed: 280,946 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
-| 2023-06-21 | 280,941 | 408 |
+| 2023-06-21 | 280,946 | 408 |
 ## Awards
 Max (Character Customization): 20,236  (Ranked 18)  
 Sum: 37,549 (Ranked 30)  

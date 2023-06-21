@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1597,10 +1597,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2413,
       "NumberOfAwardsMax": 793
+    },
+    {
+      "Time": "2023-06-21T17:00:14.438983+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2414,
+      "NumberOfAwardsMax": 793
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2413,
+  "NumberOfAwards": 2414,
   "NumberOfAwardsMax": 793,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1638,7 +1644,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game is Relaxing",
@@ -1677,9 +1683,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42858,
+  "EOS_Progressed": 42859,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4112,6 +4118,11 @@
       "Time": "2023-06-21T14:06:21.4565752+00:00",
       "NumProgressed": 42858,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-21T17:06:39.5242427+00:00",
+      "NumProgressed": 42859,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4123,7 +4134,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26143
+      "UsersEstimate": 26144
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -4179,7 +4190,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12000
+      "UsersEstimate": 12001
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -4251,7 +4262,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -4275,7 +4286,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -4283,7 +4294,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -4299,7 +4310,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -4315,7 +4326,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26572
+      "UsersEstimate": 26573
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4363,7 +4374,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7715
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -4371,7 +4382,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21000
+      "UsersEstimate": 21001
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4379,7 +4390,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 15000
+      "UsersEstimate": 15001
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -4403,7 +4414,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -4411,7 +4422,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15857
+      "UsersEstimate": 15858
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4427,7 +4438,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21429
+      "UsersEstimate": 21430
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -4451,7 +4462,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29143
+      "UsersEstimate": 29144
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4467,7 +4478,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12857
+      "UsersEstimate": 12858
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -4483,7 +4494,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24429
+      "UsersEstimate": 24430
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4491,7 +4502,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20143
+      "UsersEstimate": 20144
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4635,7 +4646,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7715
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -4650,15 +4661,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42858,
+      "Progressed": 42859,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-06-21T04:01:20.0422287+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:25.0163931+00:00",
+  "LastChanged": "2023-06-21T17:00:14.4389828+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:39.5242423+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.8416601+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:01:45.4002975+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:25.0165279+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:00:14.4389835+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:39.5243098+00:00"
 }

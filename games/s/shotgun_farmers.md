@@ -14,8 +14,8 @@
 | No Asperascope | 37.00% | ~48 |
 | Cornivore | 37.00% | ~48 |
 | No Diggity | 37.00% | ~30 |
+| Bouncemato | 27.00% | ~22 |
 | Amateur Survivor | 27.00% | ~22 |
-| Bouncemato | 26.00% | ~21 |
 | Quick-Draw Pod | 21.00% | ~17 |
 | 10K | 20.00% | ~26 |
 | 15K | 19.00% | ~25 |

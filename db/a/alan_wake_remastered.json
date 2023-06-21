@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55878,
+  "EOS_Progressed": 55880,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5647,6 +5647,11 @@
       "Time": "2023-06-21T16:08:15.6177174+00:00",
       "NumProgressed": 55878,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T17:06:31.5466222+00:00",
+      "NumProgressed": 55880,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5658,7 +5663,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17882
     },
     {
       "ID": "02",
@@ -5690,7 +5695,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9499
+      "UsersEstimate": 9500
     },
     {
       "ID": "06",
@@ -5850,7 +5855,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "26",
@@ -5930,7 +5935,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "36",
@@ -5970,7 +5975,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "41",
@@ -6018,7 +6023,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6705
+      "UsersEstimate": 6706
     },
     {
       "ID": "47",
@@ -6193,21 +6198,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55878,
+      "Progressed": 55880,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19346,
+      "Progressed": 19348,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:15.617717+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:31.5466217+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:58:31.6489416+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:15.6178213+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:57:54.0761184+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:31.5467188+00:00"
 }

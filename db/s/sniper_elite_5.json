@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -350,7 +350,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3069,
+  "EOS_Progressed": 3071,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
@@ -4125,6 +4125,11 @@
       "Time": "2023-06-21T16:08:18.8283803+00:00",
       "NumProgressed": 3069,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T17:06:34.583325+00:00",
+      "NumProgressed": 3071,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4142,17 +4147,17 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
       "SetID": "bm6el81",
       "Name": "Best of the Best",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -4262,17 +4267,17 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -4342,9 +4347,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -4374,25 +4379,25 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -4446,9 +4451,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4494,17 +4499,17 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4518,17 +4523,17 @@
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4542,17 +4547,17 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -4678,9 +4683,9 @@
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
       "SetID": "83mdf7p",
       "Name": "Shipbreaker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -4703,13 +4708,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3020,
+      "Progressed": 3022,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3069,
+      "Progressed": 3071,
       "Completed": 2
     }
   ],
@@ -4717,8 +4722,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-21T16:08:18.8283797+00:00",
+  "LastChanged_Achievements": "2023-06-21T17:06:34.5833244+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-21T16:02:43.1650791+00:00",
-  "LastUpdate_Achievements": "2023-06-21T16:08:18.8284801+00:00"
+  "LastUpdate_Ratings": "2023-06-21T17:01:01.123565+00:00",
+  "LastUpdate_Achievements": "2023-06-21T17:06:34.5834179+00:00"
 }
