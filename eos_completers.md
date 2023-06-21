@@ -24,10 +24,10 @@
 | 22 | [Smelter](games/s/smelter.md) | 8.33% |
 | 23 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
-| 28 | [Scorn](games/s/scorn.md) | 6.85% |
+| 28 | [Scorn](games/s/scorn.md) | 6.84% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
@@ -35,7 +35,7 @@
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
 | 35 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.26% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.09% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
@@ -72,9 +72,9 @@
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
-| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.97% |
+| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.90% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.88% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
@@ -462,4 +462,4 @@
 | 227 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 227 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 227 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,815 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,816 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
