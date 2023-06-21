@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1167,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.2,
+  "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -3394,6 +3394,11 @@
       "Time": "2023-06-21T14:05:51.349705+00:00",
       "NumProgressed": 1167,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-06-21T16:07:36.7061596+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 5,
@@ -3405,7 +3410,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1169
     },
     {
       "ID": "2",
@@ -3413,7 +3418,7 @@
       "Name": "Jill the Bold",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "3",
@@ -3429,7 +3434,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "5",
@@ -3444,7 +3449,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1167,
+      "Progressed": 1169,
       "Completed": 84
     }
   ],
@@ -3452,8 +3457,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:12.2456768+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:07:36.706159+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.6170741+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:57:31.8871307+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:12.2457401+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:57:49.1485216+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:07:36.7062056+00:00"
 }

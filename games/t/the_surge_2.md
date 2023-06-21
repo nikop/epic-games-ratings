@@ -35,9 +35,9 @@ Rating: 4.24 (Ranked 806)
 | Marked For Success | 12.00% | ~217 |
 | Sorry, Didn't See You There | 12.00% | ~217 |
 | Corrupted Beauty | 11.00% | ~199 |
+| Stimulating The Local Economy | 10.00% | ~181 |
 | Triplets | 10.00% | ~181 |
 | Defense in Depth | 9.00% | ~163 |
-| Stimulating The Local Economy | 9.00% | ~163 |
 | A Little Banged Up | 8.00% | ~145 |
 | Denying Prophecy | 8.00% | ~145 |
 | Following In Their Footsteps | 8.00% | ~145 |

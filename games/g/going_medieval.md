@@ -24,7 +24,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 38.00% | ~1,503 |
 | Fit For A King | 37.00% | ~1,464 |
 | Luminary Researcher | 35.00% | ~1,385 |
-| Heating Up | 26.00% | ~1,029 |
+| Heating Up | 27.00% | ~1,068 |
 | Winter Is Coming | 23.00% | ~910 |
 | Winter Is Here | 20.00% | ~791 |
 | A Party Now | 18.00% | ~712 |
@@ -82,8 +82,8 @@ Completed: 9 (0.23%) (Ranked 151)
 | 2023-06-21 | 3,956 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
-Sum: 953 (Ranked 236)  
-Diff (max vs sum): 71  
+Sum: 953 (Ranked 237)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 120 |

@@ -9,18 +9,18 @@
 | The Preacher's fate | 88.00% | ~7 |
 | Welcome to the Tower | 88.00% | ~7 |
 | The great escape | 88.00% | ~7 |
+| A new dawn | 88.00% | ~7 |
 | Champollion | 75.00% | ~6 |
 | Scholar | 75.00% | ~6 |
-| A new dawn | 75.00% | ~6 |
 | The darkness | 75.00% | ~6 |
 | One last step | 75.00% | ~6 |
 | Cable guy | 63.00% | ~5 |
 | True G4M3R | 63.00% | ~5 |
 | I did it | 50.00% | ~4 |
 | A good beginning | 50.00% | ~4 |
+| Fashion victim | 50.00% | ~4 |
 | In this together | 38.00% | ~3 |
 | Feels like springtime | 38.00% | ~3 |
-| Fashion victim | 38.00% | ~3 |
 | Peace walker | 25.00% | ~2 |
 | Half the way | 25.00% | ~2 |
 | Open door | 13.00% | ~1 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -374,6 +374,11 @@
       "Time": "2023-06-17T19:07:30.3619837+00:00",
       "NumProgressed": 461,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-21T16:08:13.9545658+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -473,7 +478,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Hitman",
@@ -503,9 +508,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 208
     },
     {
       "ID": "Leisurely_Strol",
@@ -616,7 +621,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 5
     }
   ],
@@ -624,8 +629,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:33.2210727+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:08:13.9545652+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7989726+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:01:02.1313071+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:33.2210969+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:02:43.3512937+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:08:13.9545879+00:00"
 }

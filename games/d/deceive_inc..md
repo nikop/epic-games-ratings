@@ -6,18 +6,18 @@ Rating: 4.64 (Ranked 316)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,410 |
-| Mainframe Hacker | 47.00% | ~3,238 |
-| The Spy who eliminated me | 47.00% | ~3,238 |
-| Tomorrow Never Dyes | 46.00% | ~3,169 |
+| Mainframe Hacker | 47.00% | ~3,239 |
+| The Spy who eliminated me | 47.00% | ~3,239 |
+| Tomorrow Never Dyes | 46.00% | ~3,170 |
 | Never Say Loser Again | 40.00% | ~2,756 |
 | For your Eyes only | 39.00% | ~2,687 |
-| From the Vault with Love | 37.00% | ~2,549 |
-| Tailor-Made | 37.00% | ~2,549 |
+| From the Vault with Love | 37.00% | ~2,550 |
+| Tailor-Made | 37.00% | ~2,550 |
 | Fully Decked Out | 35.00% | ~2,412 |
 | You Only Live Twice | 32.00% | ~2,205 |
-| A view to Win | 27.00% | ~1,860 |
-| Private Collection | 25.00% | ~1,722 |
-| Smells Like Trouble | 25.00% | ~1,722 |
+| A view to Win | 27.00% | ~1,861 |
+| Private Collection | 25.00% | ~1,723 |
+| Smells Like Trouble | 25.00% | ~1,723 |
 | Assistant Accountant | 24.00% | ~1,654 |
 | The Living Portrait | 24.00% | ~1,654 |
 | Killer Looks | 24.00% | ~1,654 |
@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 316)
 | License to Thrill | 8.00% | ~551 |
 | Social of Solace | 8.00% | ~551 |
 | Safe Withdrawal | 6.00% | ~413 |
-| Live and let lie | 5.00% | ~344 |
+| Live and let lie | 5.00% | ~345 |
 | Call Me Maybe | 4.00% | ~276 |
 | PHD in VIP | 4.00% | ~276 |
 | Branch Manager | 3.00% | ~207 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,890 (Ranked 121)  
+Progressed: 6,891 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 6,853 | 0 |
 | 2023-06-19 | 6,867 | 0 |
 | 2023-06-20 | 6,882 | 0 |
-| 2023-06-21 | 6,890 | 0 |
+| 2023-06-21 | 6,891 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

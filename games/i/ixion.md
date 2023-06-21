@@ -9,10 +9,10 @@ Rating: 4.57 (Ranked 442)
 | Infinite Growth... | 16.00% | ~433 |
 | Sputnik 2049 | 16.00% | ~433 |
 | Without Breaking Some Eggs... | 15.00% | ~406 |
-| Space Society | 10.00% | ~270 |
-| A Thousand Strong | 10.00% | ~270 |
-| Ready for a New World | 10.00% | ~270 |
-| Permanent Redesigns | 9.00% | ~243 |
+| Space Society | 10.00% | ~271 |
+| A Thousand Strong | 10.00% | ~271 |
+| Ready for a New World | 10.00% | ~271 |
+| Permanent Redesigns | 9.00% | ~244 |
 | Guy de Borderlands | 8.00% | ~216 |
 | Fully Recycled | 8.00% | ~216 |
 | Ain't Nobody Got Time for That | 8.00% | ~216 |
@@ -46,8 +46,8 @@ Rating: 4.57 (Ranked 442)
 | Help of the Forgotten Member | 1.00% | ~27 |
 | Pulsar Disciple | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~24 |
-| You Had One Job... | 0.90% | ~24 |
 | Tiqqun Unchained | 0.90% | ~24 |
+| You Had One Job... | 0.80% | ~22 |
 | Scientifically Accurate | 0.80% | ~22 |
 | Gregor Spinoza | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,705 (Ranked 151)  
+Progressed: 2,706 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 2,685 | 0 |
 | 2023-06-19 | 2,692 | 0 |
 | 2023-06-20 | 2,704 | 0 |
-| 2023-06-21 | 2,705 | 0 |
+| 2023-06-21 | 2,706 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

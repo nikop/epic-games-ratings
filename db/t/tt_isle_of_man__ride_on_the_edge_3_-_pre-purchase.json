@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -637,9 +637,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -709,9 +709,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:03:30.8279+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:04:21.6146956+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.584177+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:57:57.2461874+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:03:30.8279367+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:58:28.772803+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:04:21.6147317+00:00"
 }

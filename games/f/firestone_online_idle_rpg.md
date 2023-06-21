@@ -64,7 +64,7 @@ Rating: 4.07 (Ranked 894)
 | What lies behind the bush | 2.00% | ~29 |
 | Mythic Power | 0.80% | ~12 |
 | Training makes a Pro player | 0.70% | ~10 |
-| Transmute | 0.50% | ~7 |
+| Transmute | 0.60% | ~9 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |

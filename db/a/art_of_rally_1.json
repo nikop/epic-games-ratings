@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10146,
+  "EOS_Progressed": 10147,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-20T15:07:57.4819996+00:00",
       "NumProgressed": 10146,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-21T16:07:47.8373838+00:00",
+      "NumProgressed": 10147,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1095,7 +1100,7 @@
       "Name": "car wash",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1183,7 +1188,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1207,7 +1212,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7812
+      "UsersEstimate": 7813
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1271,7 +1276,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1287,7 +1292,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5986
+      "UsersEstimate": 5987
     },
     {
       "ID": "ACH_NIGHT",
@@ -1335,7 +1340,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ACH_SNOW",
@@ -1383,22 +1388,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10146,
+      "Progressed": 10147,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:20.7955576+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:07:47.8373829+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0768896+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:57:43.6618704+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:20.795595+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:58:04.769995+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:07:47.8374247+00:00"
 }

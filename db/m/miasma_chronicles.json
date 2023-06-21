@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1959,6 +1959,11 @@
       "Time": "2023-06-20T18:03:50.4112862+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T16:03:35.8248092+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1986,7 +1991,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2042,7 +2047,7 @@
       "Name": "Commando",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "CROAKED",
@@ -2050,7 +2055,7 @@
       "Name": "Croaked",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "CRUELTY",
@@ -2058,7 +2063,7 @@
       "Name": "Cruelty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CURVEBALL",
@@ -2114,7 +2119,7 @@
       "Name": "Editor Adept",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ENDGAME",
@@ -2154,7 +2159,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2202,7 +2207,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2226,7 +2231,7 @@
       "Name": "Infiltrator",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "LUMBERJACK",
@@ -2234,7 +2239,7 @@
       "Name": "Lumberjack",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2274,7 +2279,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "RECYCLER",
@@ -2338,7 +2343,7 @@
       "Name": "Technophobe",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2377,7 +2382,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 0
     }
   ],
@@ -2385,8 +2390,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:02:28.3186623+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:03:35.8248087+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:58:39.7357003+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:02:28.3187169+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:59:29.2919974+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:03:35.824866+00:00"
 }

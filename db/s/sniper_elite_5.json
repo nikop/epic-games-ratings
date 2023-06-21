@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -350,9 +350,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3068,
+  "EOS_Progressed": 3069,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4120,6 +4120,11 @@
       "Time": "2023-06-21T15:06:36.9920447+00:00",
       "NumProgressed": 3068,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T16:08:18.8283803+00:00",
+      "NumProgressed": 3069,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4137,9 +4142,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4185,9 +4190,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -4217,9 +4222,9 @@
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
       "SetID": "bm6el81",
       "Name": "Master of Pistols",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
@@ -4297,9 +4302,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4329,9 +4334,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -4353,9 +4358,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4401,41 +4406,41 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -4465,9 +4470,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4481,9 +4486,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -4497,9 +4502,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4521,9 +4526,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4537,9 +4542,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4698,13 +4703,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3019,
+      "Progressed": 3020,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3068,
+      "Progressed": 3069,
       "Completed": 2
     }
   ],
@@ -4712,8 +4717,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:36.9920443+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:08:18.8283797+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-21T15:01:01.9902082+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:36.9921439+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:02:43.1650791+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:08:18.8284801+00:00"
 }

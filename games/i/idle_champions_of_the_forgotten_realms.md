@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,086 |
-| The Cursed Farmer | 4.00% | ~4,043 |
-| Beast Intentions | 3.00% | ~3,032 |
-| The Mad Wizard | 3.00% | ~3,032 |
-| The Ring of Regeneration | 2.00% | ~2,021 |
+| A Brief Tour of the Realms | 8.00% | ~8,091 |
+| The Cursed Farmer | 4.00% | ~4,046 |
+| Beast Intentions | 3.00% | ~3,034 |
+| The Mad Wizard | 3.00% | ~3,034 |
+| The Ring of Regeneration | 2.00% | ~2,023 |
 | Were-verpowered | 1.00% | ~1,011 |
 | A Persistent Buzzing | 1.00% | ~1,011 |
 | Seeking Allies | 1.00% | ~1,011 |
@@ -18,56 +18,56 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 1.00% | ~1,011 |
 | Friendly Imps | 1.00% | ~1,011 |
 | Pure Energy | 1.00% | ~1,011 |
-| The Court of Storms | 0.90% | ~606 |
+| The Court of Storms | 0.90% | ~607 |
 | Terror in the Dark | 0.80% | ~809 |
 | Unearthed Evil | 0.80% | ~809 |
 | The Crumbling Temple | 0.80% | ~809 |
-| A Mysterious Summons | 0.70% | ~707 |
-| Useless Allies | 0.70% | ~707 |
-| Exploring Port Nyanzaru | 0.70% | ~707 |
-| The Contagious Curse | 0.70% | ~707 |
-| Beware the Jabberwock | 0.70% | ~471 |
-| Maddening | 0.60% | ~606 |
-| Beast Mode | 0.60% | ~606 |
-| Building Trust | 0.60% | ~606 |
-| Running of the Saurs | 0.60% | ~606 |
-| Escort to Waterdeep | 0.60% | ~606 |
-| Waterdeep Detours | 0.60% | ~606 |
+| A Mysterious Summons | 0.70% | ~708 |
+| Useless Allies | 0.70% | ~708 |
+| Exploring Port Nyanzaru | 0.70% | ~708 |
+| The Contagious Curse | 0.70% | ~708 |
+| Beware the Jabberwock | 0.70% | ~472 |
+| Maddening | 0.60% | ~607 |
+| Beast Mode | 0.60% | ~607 |
+| Building Trust | 0.60% | ~607 |
+| Running of the Saurs | 0.60% | ~607 |
+| Escort to Waterdeep | 0.60% | ~607 |
+| Waterdeep Detours | 0.60% | ~607 |
 | Coasting to the Finish | 0.60% | ~404 |
 | Checkmate | 0.50% | ~337 |
 | Vecna Out! | 0.50% | ~337 |
-| Low Initiative | 0.50% | ~505 |
-| No Time To Rest | 0.50% | ~505 |
-| The Dinner Party | 0.50% | ~505 |
-| Underdeep Cartography | 0.50% | ~505 |
-| The Templar's Camp | 0.50% | ~505 |
-| Rescue in the Jungle | 0.50% | ~505 |
+| Low Initiative | 0.50% | ~506 |
+| No Time To Rest | 0.50% | ~506 |
+| The Dinner Party | 0.50% | ~506 |
+| Underdeep Cartography | 0.50% | ~506 |
+| The Templar's Camp | 0.50% | ~506 |
+| Rescue in the Jungle | 0.50% | ~506 |
 | Quick or Quack | 0.50% | ~337 |
-| The Silken Swamp | 0.40% | ~404 |
-| Supply Run | 0.40% | ~404 |
-| Owlbear Necessities | 0.40% | ~269 |
-| Best Thay Ever | 0.40% | ~269 |
-| Frail Doesn't Mean Broken | 0.40% | ~269 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~269 |
-| Pin and Skewer | 0.40% | ~269 |
-| Homecoming | 0.40% | ~404 |
-| The Lost Heir of Omu | 0.40% | ~404 |
-| Street War | 0.40% | ~404 |
-| March of the Undead | 0.40% | ~404 |
-| Wisdom Check | 0.40% | ~404 |
-| Invisible Shadows | 0.40% | ~404 |
-| The Botched Kidnapping | 0.40% | ~404 |
-| Trollskull Manor | 0.40% | ~404 |
-| Attack on the Manor | 0.40% | ~404 |
-| The Death Curse | 0.40% | ~404 |
-| Nimble Escape | 0.40% | ~404 |
-| Premature Betrayal | 0.40% | ~404 |
-| A Tale of Two Cities | 0.40% | ~404 |
-| Flying Monkey Skulls of Doom | 0.40% | ~404 |
-| Dinosaur Racing | 0.40% | ~404 |
-| Close Escort | 0.40% | ~404 |
-| Constant Banditry | 0.40% | ~404 |
-| Overdue Rendezvous | 0.40% | ~404 |
+| The Silken Swamp | 0.40% | ~405 |
+| Supply Run | 0.40% | ~405 |
+| Owlbear Necessities | 0.40% | ~270 |
+| Best Thay Ever | 0.40% | ~270 |
+| Frail Doesn't Mean Broken | 0.40% | ~270 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~270 |
+| Pin and Skewer | 0.40% | ~270 |
+| Homecoming | 0.40% | ~405 |
+| The Lost Heir of Omu | 0.40% | ~405 |
+| Street War | 0.40% | ~405 |
+| March of the Undead | 0.40% | ~405 |
+| Wisdom Check | 0.40% | ~405 |
+| Invisible Shadows | 0.40% | ~405 |
+| The Botched Kidnapping | 0.40% | ~405 |
+| Trollskull Manor | 0.40% | ~405 |
+| Attack on the Manor | 0.40% | ~405 |
+| The Death Curse | 0.40% | ~405 |
+| Nimble Escape | 0.40% | ~405 |
+| Premature Betrayal | 0.40% | ~405 |
+| A Tale of Two Cities | 0.40% | ~405 |
+| Flying Monkey Skulls of Doom | 0.40% | ~405 |
+| Dinosaur Racing | 0.40% | ~405 |
+| Close Escort | 0.40% | ~405 |
+| Constant Banditry | 0.40% | ~405 |
+| Overdue Rendezvous | 0.40% | ~405 |
 | Pros and CONs | 0.30% | ~303 |
 | Tall Tales | 0.30% | ~202 |
 | The Witchlight Carnival | 0.30% | ~202 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.30% | ~303 |
 | Seeds of Deceit | 0.30% | ~303 |
 | The Gargoyle's Apprentice | 0.30% | ~303 |
+| The Trepidatious Trio | 0.30% | ~303 |
 | Treasure Hunters | 0.30% | ~303 |
 | The Guardian of Orolunga | 0.30% | ~303 |
 | The Lost Love | 0.30% | ~303 |
@@ -134,9 +135,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.30% | ~202 |
 | Dreamscape | 0.30% | ~202 |
 | Look Out! | 0.30% | ~202 |
+| The Path of Dreams | 0.30% | ~202 |
 | Bad Odds in Avernus | 0.30% | ~202 |
 | The Lost Hollyphant | 0.30% | ~202 |
 | An Even Worse Time in Avernus | 0.30% | ~202 |
+| The Wandering Emporium | 0.30% | ~202 |
 | Bel's Forge | 0.30% | ~202 |
 | The Giant's Bane Tavern | 0.30% | ~202 |
 | The Everlasting Rime | 0.30% | ~202 |
@@ -265,7 +268,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.20% | ~135 |
 | House of Darkness | 0.20% | ~202 |
 | Home Not So Alone | 0.20% | ~135 |
-| The Trepidatious Trio | 0.20% | ~202 |
 | Our Time To Shine | 0.20% | ~202 |
 | Review by the Blackstaff | 0.20% | ~135 |
 | Think Your Way Out Of It | 0.20% | ~202 |
@@ -357,14 +359,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Devil Arrives | 0.20% | ~135 |
 | Dream Gauntlet | 0.20% | ~135 |
 | Zombie Dreams | 0.20% | ~135 |
-| The Path of Dreams | 0.20% | ~135 |
 | The Path of Redcaps | 0.20% | ~135 |
 | The Path of Trials | 0.20% | ~135 |
 | Alterdeep | 0.20% | ~135 |
 | Elder Rune Attack | 0.20% | ~135 |
 | The Gargoyle | 0.20% | ~135 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~135 |
-| The Wandering Emporium | 0.20% | ~135 |
 | Madcap Adventures Redux | 0.20% | ~135 |
 | When the Going Gets Tough | 0.20% | ~135 |
 | Tiamat's Army | 0.20% | ~135 |
@@ -403,6 +403,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.20% | ~135 |
 | The Bleeding Citadel | 0.20% | ~135 |
 | Don't Pick at the Scab | 0.20% | ~135 |
+| Going To Eleven | 0.20% | ~135 |
 | Idyllglen | 0.20% | ~135 |
 | The Madness of Yeenoghu | 0.20% | ~135 |
 | Reya Reborn | 0.20% | ~135 |
@@ -488,7 +489,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.10% | ~67 |
 | A Neutral Party | 0.10% | ~67 |
 | Rickety Rubble | 0.10% | ~67 |
-| Going To Eleven | 0.10% | ~67 |
 | The Stunning Tower Battle | 0.10% | ~67 |
 | Stragglers | 0.10% | ~67 |
 | Volo's Guide to Kuo-toa | 0.10% | ~67 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,071 (Ranked 63)  
-Completed: 1,975 (1.95%) (Ranked 73)  
+Progressed: 101,139 (Ranked 63)  
+Completed: 1,975 (1.95%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -562,7 +562,7 @@ Completed: 1,975 (1.95%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 101,071 | 1,975 |
+| 2023-06-21 | 101,139 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,161 (Ranked 37)  

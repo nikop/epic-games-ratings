@@ -10,9 +10,9 @@
 | Onwards and Upwards | 20.00% | ~18 |
 | Serial Winner | 14.00% | ~12 |
 | Like Phileas Fogg | 11.00% | ~10 |
+| Start Your Engines | 10.00% | ~9 |
 | Highly Qualified | 9.00% | ~8 |
 | No Room for Improvement | 9.00% | ~8 |
-| Start Your Engines | 9.00% | ~8 |
 | Upgradeaholic | 8.00% | ~7 |
 | Lone Wolf | 8.00% | ~7 |
 | Nerd | 7.00% | ~6 |
@@ -21,14 +21,14 @@
 | POI Hunter | 5.00% | ~4 |
 | Seven-League Boots | 5.00% | ~4 |
 | First and Foremost | 5.00% | ~4 |
+| Made Mother Proud | 5.00% | ~4 |
+| Winner Winner Chicken Dinner | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
-| Made Mother Proud | 3.00% | ~3 |
-| Winner Winner Chicken Dinner | 3.00% | ~3 |
 | Tempus Fugit | 3.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |

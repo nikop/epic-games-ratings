@@ -5,15 +5,15 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,639 |
-| Feeling the beat! | 80.00% | ~2,639 |
-| You can pet the cat! | 74.00% | ~2,441 |
-| Who put gears in there? | 68.00% | ~2,243 |
-| Cream of the Crop | 62.00% | ~2,045 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,045 |
-| You got this, Peppermint? | 56.00% | ~1,847 |
-| Perfect Parry | 54.00% | ~1,781 |
-| Alright, that felt AWESOME! | 53.00% | ~1,748 |
+| Start with a bang! | 80.00% | ~2,640 |
+| Feeling the beat! | 80.00% | ~2,640 |
+| You can pet the cat! | 74.00% | ~2,442 |
+| Who put gears in there? | 68.00% | ~2,244 |
+| Cream of the Crop | 62.00% | ~2,046 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,046 |
+| You got this, Peppermint? | 56.00% | ~1,848 |
+| Perfect Parry | 54.00% | ~1,782 |
+| Alright, that felt AWESOME! | 53.00% | ~1,749 |
 | I play my own way! | 49.00% | ~1,617 |
 | This will cost you big time | 47.00% | ~1,551 |
 | Uh, they were broken when I got here | 46.00% | ~1,518 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,299 (Ranked 142)  
+Progressed: 3,300 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 5 (0.15%) (Ranked 163)
 | 2023-06-18 | 3,277 | 5 |
 | 2023-06-19 | 3,288 | 5 |
 | 2023-06-20 | 3,292 | 5 |
-| 2023-06-21 | 3,299 | 5 |
+| 2023-06-21 | 3,300 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

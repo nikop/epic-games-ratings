@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55876,
+  "EOS_Progressed": 55878,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5642,6 +5642,11 @@
       "Time": "2023-06-21T15:06:34.5293542+00:00",
       "NumProgressed": 55876,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T16:08:15.6177174+00:00",
+      "NumProgressed": 55878,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5653,7 +5658,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "02",
@@ -5661,7 +5666,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11175
+      "UsersEstimate": 11176
     },
     {
       "ID": "03",
@@ -5669,7 +5674,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10616
+      "UsersEstimate": 10617
     },
     {
       "ID": "04",
@@ -5717,7 +5722,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "10",
@@ -5813,7 +5818,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "22",
@@ -5877,7 +5882,7 @@
       "Name": "Sound and Fury",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "30",
@@ -5901,7 +5906,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13969
+      "UsersEstimate": 13970
     },
     {
       "ID": "33",
@@ -5909,7 +5914,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "34",
@@ -6188,21 +6193,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55876,
+      "Progressed": 55878,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19344,
+      "Progressed": 19346,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:34.5293534+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:08:15.617717+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:58:00.9490412+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:34.52946+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:58:31.6489416+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:08:15.6178213+00:00"
 }

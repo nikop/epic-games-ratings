@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245268,
+  "EOS_Progressed": 245269,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5959,6 +5959,11 @@
       "Time": "2023-06-21T15:06:27.3058654+00:00",
       "NumProgressed": 245268,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T16:08:05.9589269+00:00",
+      "NumProgressed": 245269,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -6146,7 +6151,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129992
+      "UsersEstimate": 129993
     },
     {
       "ID": "indegestible",
@@ -6186,7 +6191,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19621
+      "UsersEstimate": 19622
     },
     {
       "ID": "lockupLockdown",
@@ -6337,7 +6342,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245268,
+      "Progressed": 245269,
       "Completed": 3
     }
   ],
@@ -6345,8 +6350,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-21T15:06:27.3058652+00:00",
+  "LastChanged_Achievements": "2023-06-21T16:08:05.9589264+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:59:32.3615279+00:00",
-  "LastUpdate_Achievements": "2023-06-21T15:06:27.3059403+00:00"
+  "LastUpdate_Ratings": "2023-06-21T16:00:44.8629298+00:00",
+  "LastUpdate_Achievements": "2023-06-21T16:08:05.9590292+00:00"
 }

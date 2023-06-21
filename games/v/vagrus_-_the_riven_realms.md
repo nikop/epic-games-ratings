@@ -16,6 +16,7 @@
 | Tactician | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
+| Acquaintance | 2.00% | ~2 |
 | Tail-wind | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
@@ -24,8 +25,8 @@
 | Harbinger | 0.90% | ~1 |
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
-| Acquaintance | 0.90% | ~1 |
 | Taskmaster | 0.90% | ~1 |
+| Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
 | Trouble at Fort Larius | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
@@ -94,7 +95,6 @@
 | Tax Evasion | 0.00% | ~0 |
 | Theory to Practice | 0.00% | ~0 |
 | Wyrmslayer | 0.00% | ~0 |
-| Inquisitions of Discord | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Merchant Lord | 0.00% | ~0 |
