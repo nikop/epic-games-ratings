@@ -32,7 +32,7 @@ Rating: 4.33 (Ranked 750)
 | Chain Killer | 21.00% | ~247 |
 | Hold The Line | 21.00% | ~247 |
 | Endgame | 20.00% | ~235 |
-| Savior | 19.00% | ~223 |
+| Savior | 20.00% | ~235 |
 | The Watchers | 17.00% | ~200 |
 | Newtonian Knockout | 15.00% | ~176 |
 | Ruthless | 13.00% | ~153 |

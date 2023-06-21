@@ -16,7 +16,7 @@ Number of Ratings: 836  (23.09.2022)
 | Local Leader | 35.00% | ~2,324 |
 | Famous Explorer | 34.00% | ~2,257 |
 | New Opportunities | 34.00% | ~2,257 |
-| Energized | 33.00% | ~2,191 |
+| Energized | 34.00% | ~2,257 |
 | The Long Haul | 33.00% | ~2,191 |
 | Survivor | 32.00% | ~2,124 |
 | The Great Healer | 31.00% | ~2,058 |

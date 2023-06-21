@@ -44,8 +44,8 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 4.00% | ~24 |
 | Listen | 4.00% | ~7 |
 | Zygote | 3.00% | ~5 |
+| Skinmaker | 2.00% | ~12 |
 | Generous | 2.00% | ~12 |
-| Skinmaker | 1.00% | ~6 |
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)

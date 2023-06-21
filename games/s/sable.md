@@ -6,22 +6,22 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~24,021 |
-| Just The Two of Us | 33.00% | ~23,315 |
-| Up On High | 25.00% | ~17,663 |
-| Under The Hood | 25.00% | ~17,663 |
-| Got Your Nose | 24.00% | ~16,956 |
-| The Gift of Gab | 24.00% | ~16,956 |
-| Wrapping Up | 22.00% | ~15,543 |
-| More Than A Box Of Sand | 18.00% | ~12,717 |
+| Simoon | 34.00% | ~24,022 |
+| Just The Two of Us | 33.00% | ~23,316 |
+| Up On High | 25.00% | ~17,664 |
+| Under The Hood | 25.00% | ~17,664 |
+| Got Your Nose | 24.00% | ~16,957 |
+| The Gift of Gab | 24.00% | ~16,957 |
+| Wrapping Up | 22.00% | ~15,544 |
+| More Than A Box Of Sand | 18.00% | ~12,718 |
 | Chum Novice | 17.00% | ~12,011 |
 | The Dunboyne | 17.00% | ~12,011 |
 | Badge Hobbyist | 17.00% | ~12,011 |
 | Sticky Paws | 17.00% | ~12,011 |
-| Silver-Tongued Sable | 16.00% | ~11,304 |
-| Bubble Up | 16.00% | ~11,304 |
+| Silver-Tongued Sable | 16.00% | ~11,305 |
+| Bubble Up | 16.00% | ~11,305 |
 | Thread The Needle | 15.00% | ~10,598 |
-| Power to the People | 14.00% | ~9,891 |
+| Power to the People | 14.00% | ~9,892 |
 | Take That! | 13.00% | ~9,185 |
 | Nesting Giant | 13.00% | ~9,185 |
 | Treasure Tracker | 13.00% | ~9,185 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,120 |
 | Vivacious Vivarium | 2.00% | ~1,413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,651 (Ranked 69)  
+Progressed: 70,654 (Ranked 69)  
 Completed: 677 (0.96%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 677 (0.96%) (Ranked 98)
 | 2023-06-18 | 70,071 | 662 |
 | 2023-06-19 | 70,348 | 675 |
 | 2023-06-20 | 70,585 | 676 |
-| 2023-06-21 | 70,651 | 677 |
+| 2023-06-21 | 70,654 | 677 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

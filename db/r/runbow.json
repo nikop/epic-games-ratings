@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245255,
+  "EOS_Progressed": 245258,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5924,6 +5924,11 @@
       "Time": "2023-06-21T07:07:12.8581873+00:00",
       "NumProgressed": 245255,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T08:08:34.4833492+00:00",
+      "NumProgressed": 245258,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5959,7 +5964,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49051
+      "UsersEstimate": 49052
     },
     {
       "ID": "blotbuster",
@@ -5991,7 +5996,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41693
+      "UsersEstimate": 41694
     },
     {
       "ID": "cantBeKeptDown",
@@ -6007,7 +6012,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36788
+      "UsersEstimate": 36789
     },
     {
       "ID": "clearCut",
@@ -6039,7 +6044,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49051
+      "UsersEstimate": 49052
     },
     {
       "ID": "didYourTime",
@@ -6111,7 +6116,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129985
+      "UsersEstimate": 129987
     },
     {
       "ID": "indegestible",
@@ -6135,7 +6140,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63766
+      "UsersEstimate": 63767
     },
     {
       "ID": "justABit",
@@ -6151,7 +6156,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19620
+      "UsersEstimate": 19621
     },
     {
       "ID": "lockupLockdown",
@@ -6175,7 +6180,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122628
+      "UsersEstimate": 122629
     },
     {
       "ID": "notScared",
@@ -6255,7 +6260,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31883
+      "UsersEstimate": 31884
     },
     {
       "ID": "treeMedalist",
@@ -6302,7 +6307,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245255,
+      "Progressed": 245258,
       "Completed": 3
     }
   ],
@@ -6310,8 +6315,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:07:12.8581866+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:08:34.4833488+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-21T07:00:14.9036011+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:07:12.8582708+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:01:50.7601554+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:08:34.4834037+00:00"
 }

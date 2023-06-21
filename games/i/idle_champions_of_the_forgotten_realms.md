@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,051 |
-| The Cursed Farmer | 4.00% | ~4,025 |
-| Beast Intentions | 3.00% | ~3,019 |
-| The Mad Wizard | 3.00% | ~3,019 |
-| The Ring of Regeneration | 2.00% | ~2,013 |
-| Were-verpowered | 1.00% | ~1,006 |
-| Seeking Allies | 1.00% | ~1,006 |
-| Are Ya Chicken? | 1.00% | ~1,006 |
-| Mad Cow Disease | 1.00% | ~1,006 |
-| Friendly Imps | 1.00% | ~1,006 |
+| A Brief Tour of the Realms | 8.00% | ~8,054 |
+| The Cursed Farmer | 4.00% | ~4,027 |
+| Beast Intentions | 3.00% | ~3,020 |
+| The Mad Wizard | 3.00% | ~3,020 |
+| The Ring of Regeneration | 2.00% | ~2,014 |
+| Were-verpowered | 1.00% | ~1,007 |
+| Seeking Allies | 1.00% | ~1,007 |
+| Are Ya Chicken? | 1.00% | ~1,007 |
+| Mad Cow Disease | 1.00% | ~1,007 |
+| Friendly Imps | 1.00% | ~1,007 |
 | A Persistent Buzzing | 0.90% | ~906 |
 | Pure Energy | 0.90% | ~906 |
-| The Court of Storms | 0.90% | ~602 |
+| The Court of Storms | 0.90% | ~603 |
 | Terror in the Dark | 0.80% | ~805 |
 | The Crumbling Temple | 0.80% | ~805 |
-| A Mysterious Summons | 0.70% | ~704 |
-| Unearthed Evil | 0.70% | ~704 |
-| Exploring Port Nyanzaru | 0.70% | ~704 |
-| The Contagious Curse | 0.70% | ~704 |
-| Beware the Jabberwock | 0.70% | ~468 |
+| A Mysterious Summons | 0.70% | ~705 |
+| Unearthed Evil | 0.70% | ~705 |
+| Useless Allies | 0.70% | ~705 |
+| Exploring Port Nyanzaru | 0.70% | ~705 |
+| The Contagious Curse | 0.70% | ~705 |
+| Beware the Jabberwock | 0.70% | ~469 |
 | Maddening | 0.60% | ~604 |
 | Beast Mode | 0.60% | ~604 |
 | Building Trust | 0.60% | ~604 |
-| Useless Allies | 0.60% | ~604 |
 | Running of the Saurs | 0.60% | ~604 |
 | Escort to Waterdeep | 0.60% | ~604 |
 | Waterdeep Detours | 0.60% | ~604 |
-| Coasting to the Finish | 0.60% | ~401 |
+| Coasting to the Finish | 0.60% | ~402 |
 | Checkmate | 0.50% | ~335 |
 | Vecna Out! | 0.50% | ~335 |
 | Low Initiative | 0.50% | ~503 |
@@ -289,7 +289,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Birds of a Feather | 0.20% | ~134 |
 | Guests of the Groom | 0.20% | ~201 |
 | Careful Consideration | 0.20% | ~201 |
-| Tanking Expectations | 0.20% | ~134 |
 | Bazaar Exploits | 0.20% | ~201 |
 | Flame(skull) War | 0.20% | ~201 |
 | Servants of the Demon Prince | 0.20% | ~134 |
@@ -466,6 +465,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~67 |
 | The Egg of Nat's Desire | 0.10% | ~67 |
 | Spirit of the Trickster Gods | 0.10% | ~67 |
+| Tanking Expectations | 0.10% | ~67 |
 | A Familiar Friend | 0.10% | ~67 |
 | A Tale of Two Years | 0.10% | ~67 |
 | DPS in the Deeps | 0.10% | ~67 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,634 (Ranked 63)  
+Progressed: 100,679 (Ranked 63)  
 Completed: 1,973 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 1,973 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,634 | 1,973 |
+| 2023-06-21 | 100,679 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,159 (Ranked 37)  

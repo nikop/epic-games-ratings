@@ -4420,9 +4420,9 @@
       "Count": 3256
     }
   ],
-  "EOS_Progressed": 100634,
+  "EOS_Progressed": 100679,
   "EOS_Completed": 1973,
-  "EOS_NewPlayers": 9962,
+  "EOS_NewPlayers": 10005,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
@@ -10815,6 +10815,11 @@
       "Time": "2023-06-21T07:07:34.6368727+00:00",
       "NumProgressed": 100634,
       "NumCompleted": 1973
+    },
+    {
+      "Time": "2023-06-21T08:08:55.843859+00:00",
+      "NumProgressed": 100679,
+      "NumCompleted": 1973
     }
   ],
   "TotalAchievements": 493,
@@ -10826,7 +10831,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8051
+      "UsersEstimate": 8054
     },
     {
       "ID": "objective_completed_10",
@@ -11194,7 +11199,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "objective_completed_110",
@@ -11690,7 +11695,7 @@
       "Name": "Were-verpowered",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_1203",
@@ -12018,7 +12023,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "objective_completed_165",
@@ -12154,7 +12159,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "objective_completed_20",
@@ -12498,7 +12503,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4025
+      "UsersEstimate": 4027
     },
     {
       "ID": "objective_completed_34",
@@ -12506,7 +12511,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "objective_completed_35",
@@ -12618,7 +12623,7 @@
       "Name": "Seeking Allies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_390",
@@ -12690,15 +12695,15 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_40",
       "SetID": "cc37lbc",
       "Name": "Useless Allies",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 705
     },
     {
       "ID": "objective_completed_400",
@@ -12816,9 +12821,9 @@
       "ID": "objective_completed_416",
       "SetID": "415jc5c",
       "Name": "Tanking Expectations",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 67
     },
     {
       "ID": "objective_completed_418",
@@ -12962,7 +12967,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_54",
@@ -12970,7 +12975,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "objective_completed_540",
@@ -13370,7 +13375,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "objective_completed_60",
@@ -13970,7 +13975,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "objective_completed_70",
@@ -14042,7 +14047,7 @@
       "Name": "Friendly Imps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_80",
@@ -14738,7 +14743,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "objective_completed_1356",
@@ -14746,7 +14751,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "objective_completed_1360",
@@ -14754,7 +14759,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "objective_completed_1361",
@@ -14769,21 +14774,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 66908,
+      "Progressed": 66953,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 100634,
+      "Progressed": 100679,
       "Completed": 1973
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T05:58:35.9034182+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:07:34.6368722+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:08:55.8438586+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T06:58:55.2315024+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:07:34.6402153+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:00:39.0671208+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:08:55.8460412+00:00"
 }

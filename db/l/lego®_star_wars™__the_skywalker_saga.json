@@ -2504,9 +2504,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49664,
+  "EOS_Progressed": 49665,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -7824,6 +7824,11 @@
       "Time": "2023-06-21T06:07:08.0919986+00:00",
       "NumProgressed": 49664,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-06-21T08:08:47.0046889+00:00",
+      "NumProgressed": 49665,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 45,
@@ -7955,7 +7960,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22845
+      "UsersEstimate": 22846
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -7971,7 +7976,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23342
+      "UsersEstimate": 23343
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8027,7 +8032,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28308
+      "UsersEstimate": 28309
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8075,7 +8080,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28805
+      "UsersEstimate": 28806
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8099,7 +8104,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48174
+      "UsersEstimate": 48175
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8139,7 +8144,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35261
+      "UsersEstimate": 35262
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8187,22 +8192,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35758
+      "UsersEstimate": 35759
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49664,
+      "Progressed": 49665,
       "Completed": 193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-19T07:01:22.8784392+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:07:25.3811935+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:08:47.0046882+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-21T07:01:53.630614+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:07:25.3812709+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:03:26.645932+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:08:47.0047399+00:00"
 }

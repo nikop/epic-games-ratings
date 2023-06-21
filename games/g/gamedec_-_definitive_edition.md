@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,258 |
-| Powergamer | 27.00% | ~62,928 |
-| Barely scratched the surface | 25.00% | ~58,266 |
-| Write that down | 24.00% | ~55,936 |
-| Guns, lots of guns | 12.00% | ~27,968 |
-| Collector | 11.00% | ~25,637 |
+| I will finish what you started | 28.00% | ~65,260 |
+| Powergamer | 27.00% | ~62,929 |
+| Barely scratched the surface | 25.00% | ~58,268 |
+| Write that down | 24.00% | ~55,937 |
+| Guns, lots of guns | 12.00% | ~27,969 |
+| Collector | 11.00% | ~25,638 |
 | Elementary! | 9.00% | ~20,976 |
-| Pumpkin Jack | 8.00% | ~18,645 |
-| Wake up! | 8.00% | ~18,645 |
+| Pumpkin Jack | 8.00% | ~18,646 |
+| Wake up! | 8.00% | ~18,646 |
 | It's honest work | 7.00% | ~16,315 |
 | Griever | 7.00% | ~16,315 |
 | Me smart | 6.00% | ~13,984 |
-| Good listener | 5.00% | ~11,653 |
-| Trash compactor | 5.00% | ~11,653 |
-| Valedictorian | 5.00% | ~11,653 |
+| Good listener | 5.00% | ~11,654 |
+| Trash compactor | 5.00% | ~11,654 |
+| Valedictorian | 5.00% | ~11,654 |
 | BOY! | 4.00% | ~9,323 |
 | Ka-ching! | 4.00% | ~9,323 |
 | So you like to read? | 4.00% | ~9,323 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | The power of three | 0.90% | ~2,098 |
 | Let's try another | 0.80% | ~1,865 |
 | Home run | 0.80% | ~1,865 |
-| I have the high ground | 0.70% | ~1,631 |
-| It's blue, always blue | 0.70% | ~1,631 |
+| I have the high ground | 0.70% | ~1,632 |
+| It's blue, always blue | 0.70% | ~1,632 |
 | Who wouldn't love a troll? | 0.50% | ~1,165 |
 | Enjoy these little moments | 0.40% | ~932 |
 | Irondec | 0.40% | ~932 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~466 |
 | Memory 5 | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,065 (Ranked 44)  
+Progressed: 233,072 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 7 (0.00%) (Ranked 227)
 | 2023-06-18 | 232,705 | 6 |
 | 2023-06-19 | 232,878 | 7 |
 | 2023-06-20 | 233,022 | 7 |
-| 2023-06-21 | 233,065 | 7 |
+| 2023-06-21 | 233,072 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 358)  
 Sum: 74 (Ranked 421)  

@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.00% | ~0 |
 | Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,483 (Ranked 104)  
+Progressed: 15,485 (Ranked 104)  
 Completed: 57 (0.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 57 (0.37%) (Ranked 132)
 | 2023-06-18 | 15,445 | 56 |
 | 2023-06-19 | 15,464 | 56 |
 | 2023-06-20 | 15,482 | 57 |
-| 2023-06-21 | 15,483 | 57 |
+| 2023-06-21 | 15,485 | 57 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 324 (Ranked 326)  

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55851,
+  "EOS_Progressed": 55852,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5602,6 +5602,11 @@
       "Time": "2023-06-21T07:07:20.6977544+00:00",
       "NumProgressed": 55851,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T08:08:42.1892028+00:00",
+      "NumProgressed": 55852,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5613,7 +5618,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17872
+      "UsersEstimate": 17873
     },
     {
       "ID": "02",
@@ -5885,7 +5890,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14521
+      "UsersEstimate": 14522
     },
     {
       "ID": "36",
@@ -6148,21 +6153,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55851,
+      "Progressed": 55852,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19319,
+      "Progressed": 19320,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:07:20.697754+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:08:42.1892024+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T06:58:26.7316181+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:07:20.6978578+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:00:11.8212968+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:08:42.1892777+00:00"
 }

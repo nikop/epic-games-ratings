@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 582)
 | Sink or Swim | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,050 (Ranked 143)  
+Progressed: 3,051 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
-| 2023-06-21 | 3,050 | 2 |
+| 2023-06-21 | 3,051 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

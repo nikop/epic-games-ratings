@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -595,9 +595,9 @@
       "ID": "ACQUIRE_ALLOUTFITS",
       "SetID": "ccc0dlh",
       "Name": "Skinmaker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -929,8 +929,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:02:20.5629167+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:03:54.3241998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.2798351+00:00",
-  "LastUpdate_Ratings": "2023-06-21T07:01:41.5634421+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:02:20.5629578+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:03:12.8998489+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:03:54.3242281+00:00"
 }

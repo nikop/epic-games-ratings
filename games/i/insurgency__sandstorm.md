@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,765 |
-| Wallbanger | 5.00% | ~19,765 |
-| Exploitative | 4.00% | ~15,812 |
-| High Speed Low Drag | 4.00% | ~15,812 |
-| Wet Feet | 4.00% | ~15,812 |
-| Checkpoint Victory | 3.00% | ~11,859 |
-| Lucky | 3.00% | ~11,859 |
-| Stylin' | 3.00% | ~11,859 |
-| Turf War | 3.00% | ~11,859 |
+| Point Shooting | 5.00% | ~19,766 |
+| Wallbanger | 5.00% | ~19,766 |
+| Exploitative | 4.00% | ~15,813 |
+| High Speed Low Drag | 4.00% | ~15,813 |
+| Wet Feet | 4.00% | ~15,813 |
+| Checkpoint Victory | 3.00% | ~11,860 |
+| Lucky | 3.00% | ~11,860 |
+| Stylin' | 3.00% | ~11,860 |
+| Turf War | 3.00% | ~11,860 |
 | Banged | 2.00% | ~7,906 |
 | First Blood | 2.00% | ~7,906 |
 | Flaccid Paralysis | 2.00% | ~7,906 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,558 |
 | Mount & Gun | 0.90% | ~3,558 |
 | Personal | 0.90% | ~3,558 |
-| Grounded | 0.80% | ~3,162 |
-| Play to Win | 0.80% | ~3,162 |
+| Grounded | 0.80% | ~3,163 |
+| Play to Win | 0.80% | ~3,163 |
 | #1 | 0.70% | ~2,767 |
 | Special Delivery | 0.70% | ~2,767 |
 | Firefight Victory | 0.60% | ~2,372 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~395 |
 | Road Hazard | 0.10% | ~395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,306 (Ranked 39)  
+Progressed: 395,323 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,11 +104,11 @@ Completed: 2 (0.00%) (Ranked 227)
 | 2023-06-18 | 393,478 | 2 |
 | 2023-06-19 | 394,530 | 2 |
 | 2023-06-20 | 395,093 | 2 |
-| 2023-06-21 | 395,306 | 2 |
+| 2023-06-21 | 395,323 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 359  (Ranked 215)  
-Sum: 2,725 (Ranked 166)  
-Diff (max vs sum): 49  
+Sum: 2,725 (Ranked 167)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 359 |

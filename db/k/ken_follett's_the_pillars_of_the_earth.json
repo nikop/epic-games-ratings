@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13404,
+  "EOS_Progressed": 13405,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4594,6 +4594,11 @@
       "Time": "2023-06-21T07:06:54.822447+00:00",
       "NumProgressed": 13404,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-21T08:08:26.8681382+00:00",
+      "NumProgressed": 13405,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4605,7 +4610,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "tpote_achievement_10",
@@ -4645,7 +4650,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "tpote_achievement_15",
@@ -4677,7 +4682,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "tpote_achievement_19",
@@ -4693,7 +4698,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "tpote_achievement_20",
@@ -4709,7 +4714,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "tpote_achievement_22",
@@ -4733,7 +4738,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "tpote_achievement_25",
@@ -4781,7 +4786,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "tpote_achievement_30",
@@ -4925,22 +4930,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13404,
+      "Progressed": 13405,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:06:54.8224467+00:00",
+  "LastChanged_Achievements": "2023-06-21T08:08:26.8681379+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-21T07:01:13.8637707+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:06:54.8225134+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:02:43.6264923+00:00",
+  "LastUpdate_Achievements": "2023-06-21T08:08:26.8681842+00:00"
 }

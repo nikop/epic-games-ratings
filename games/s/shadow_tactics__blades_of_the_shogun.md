@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,895 |
-| Thorough | 9.00% | ~16,106 |
-| A thief's beginning | 8.00% | ~14,316 |
-| Disguised | 7.00% | ~12,527 |
-| Rollin' | 7.00% | ~12,527 |
-| Tanuki Time | 7.00% | ~12,527 |
-| Ice Ice Yuki | 6.00% | ~10,737 |
-| Jonin | 6.00% | ~10,737 |
-| Rescue Takuma | 6.00% | ~10,737 |
-| Stoned Ox | 6.00% | ~10,737 |
-| Yabu | 6.00% | ~10,737 |
+| Genin | 10.00% | ~17,897 |
+| Thorough | 9.00% | ~16,107 |
+| A thief's beginning | 8.00% | ~14,318 |
+| Disguised | 7.00% | ~12,528 |
+| Rollin' | 7.00% | ~12,528 |
+| Tanuki Time | 7.00% | ~12,528 |
+| Ice Ice Yuki | 6.00% | ~10,738 |
+| Jonin | 6.00% | ~10,738 |
+| Rescue Takuma | 6.00% | ~10,738 |
+| Stoned Ox | 6.00% | ~10,738 |
+| Yabu | 6.00% | ~10,738 |
 | Chunin | 5.00% | ~8,948 |
 | Flying Rocks | 5.00% | ~8,948 |
 | Happy Planning | 5.00% | ~8,948 |
 | Mugen Unchained | 5.00% | ~8,948 |
 | Warzone | 5.00% | ~8,948 |
-| Okkoto | 4.00% | ~7,158 |
-| Prisoners | 4.00% | ~7,158 |
-| Too Early | 4.00% | ~7,158 |
+| Okkoto | 4.00% | ~7,159 |
+| Prisoners | 4.00% | ~7,159 |
+| Too Early | 4.00% | ~7,159 |
 | Gear up | 3.00% | ~5,369 |
 | Happy little accidents | 3.00% | ~5,369 |
 | Noboru | 3.00% | ~5,369 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~179 |
 | Release the Kraken | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,952 (Ranked 56)  
+Progressed: 178,970 (Ranked 56)  
 Completed: 54 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,11 +113,11 @@ Completed: 54 (0.03%) (Ranked 200)
 | 2023-06-18 | 178,321 | 53 |
 | 2023-06-19 | 178,583 | 54 |
 | 2023-06-20 | 178,877 | 54 |
-| 2023-06-21 | 178,952 | 54 |
+| 2023-06-21 | 178,970 | 54 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
-Sum: 4,685 (Ranked 127)  
-Diff (max vs sum): 54  
+Sum: 4,685 (Ranked 128)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 551 |
