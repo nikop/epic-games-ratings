@@ -6031,9 +6031,9 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 580682,
+  "EOS_Progressed": 580685,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 4660,
+  "EOS_NewPlayers": 4643,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12566,6 +12566,11 @@
       "Time": "2023-06-21T02:11:58.1332114+00:00",
       "NumProgressed": 580682,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-21T03:06:22.0281877+00:00",
+      "NumProgressed": 580685,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 65,
@@ -12593,7 +12598,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52261
+      "UsersEstimate": 52262
     },
     {
       "ID": "achievement_04",
@@ -12865,7 +12870,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52261
+      "UsersEstimate": 52262
     },
     {
       "ID": "achievement_38",
@@ -12969,7 +12974,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17420
+      "UsersEstimate": 17421
     },
     {
       "ID": "achievement_51",
@@ -13096,21 +13101,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 580682,
+      "Progressed": 580685,
       "Completed": 57
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 226126,
+      "Progressed": 226129,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-21T02:05:44.7170439+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:58.1332108+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:22.0281873+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:05:44.7170444+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:58.1332946+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:00:06.0776592+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:22.0282943+00:00"
 }

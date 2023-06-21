@@ -10,8 +10,8 @@
 | Rail Rat | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
+| Time Flies | 12.00% | ~86 |
 | Treasure Trove | 11.00% | ~78 |
-| Time Flies | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
 | No, Thanks! | 11.00% | ~78 |
 | Breaking Down Barriers | 11.00% | ~78 |

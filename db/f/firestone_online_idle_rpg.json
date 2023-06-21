@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 1453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3838,9 +3838,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "thefatherofdragons",
@@ -3975,8 +3975,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:54.1418046+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:18.1059393+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:03:57.1170204+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:54.1418814+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:58:15.2408422+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:18.1060357+00:00"
 }

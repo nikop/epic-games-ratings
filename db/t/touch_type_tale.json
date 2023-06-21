@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3010,
+  "EOS_Progressed": 3011,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2023-06-20T10:07:51.0696279+00:00",
       "NumProgressed": 3010,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-21T03:06:15.3394739+00:00",
+      "NumProgressed": 3011,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2235,7 +2240,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "bonus2",
@@ -2251,7 +2256,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "bonus4",
@@ -2283,7 +2288,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "campaign10",
@@ -2363,7 +2368,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "campaign2",
@@ -2371,7 +2376,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "campaign20",
@@ -2379,7 +2384,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "campaign3",
@@ -2387,7 +2392,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "campaign4",
@@ -2435,7 +2440,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "scenario1",
@@ -2443,7 +2448,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "scenario2",
@@ -2459,7 +2464,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "scenario4",
@@ -2498,7 +2503,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3010,
+      "Progressed": 3011,
       "Completed": 10
     }
   ],
@@ -2506,8 +2511,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:51.5466142+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:15.3394734+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:43.7052896+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:06:02.5309561+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:51.546643+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:00:24.1083201+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:15.3395104+00:00"
 }

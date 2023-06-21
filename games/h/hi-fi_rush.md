@@ -25,7 +25,7 @@ Rating: 4.89 (Ranked 13)
 | You must like calling me in, Chai | 33.00% | ~1,086 |
 | Out in a puff of smoke | 33.00% | ~1,086 |
 | Headliner | 32.00% | ~1,053 |
-| Time to pay up! | 29.00% | ~955 |
+| Time to pay up! | 30.00% | ~988 |
 | Perfecter Parry-er! | 29.00% | ~955 |
 | Who's the boss now? | 28.00% | ~922 |
 | I look cool. But I can look COOLER. | 28.00% | ~922 |

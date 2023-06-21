@@ -1278,9 +1278,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23558,
+  "EOS_Progressed": 23559,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6118,6 +6118,11 @@
       "Time": "2023-06-21T02:11:53.6129063+00:00",
       "NumProgressed": 23558,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-21T03:06:17.5268968+00:00",
+      "NumProgressed": 23559,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6129,7 +6134,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17197
+      "UsersEstimate": 17198
     },
     {
       "ID": "Animated",
@@ -6185,7 +6190,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "Cultured",
@@ -6193,7 +6198,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12250
+      "UsersEstimate": 12251
     },
     {
       "ID": "Daily_Dose",
@@ -6201,7 +6206,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8245
+      "UsersEstimate": 8246
     },
     {
       "ID": "Diabolical",
@@ -6217,7 +6222,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14606
+      "UsersEstimate": 14607
     },
     {
       "ID": "Dont_Need_These",
@@ -6233,7 +6238,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "Efficient",
@@ -6241,7 +6246,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15077
+      "UsersEstimate": 15078
     },
     {
       "ID": "Escape_Artist",
@@ -6265,7 +6270,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12721
+      "UsersEstimate": 12722
     },
     {
       "ID": "GB_In_Training",
@@ -6273,7 +6278,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "Ghost_Expert",
@@ -6289,7 +6294,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "Legions",
@@ -6401,7 +6406,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "Skilled",
@@ -6433,7 +6438,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20260
+      "UsersEstimate": 20261
     },
     {
       "ID": "Summoner",
@@ -6473,7 +6478,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4240
+      "UsersEstimate": 4241
     },
     {
       "ID": "Therapeutic",
@@ -6536,7 +6541,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23558,
+      "Progressed": 23559,
       "Completed": 46
     }
   ],
@@ -6544,8 +6549,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-20T04:59:57.5820536+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:53.6129056+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:17.5268964+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:04:43.6114044+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:53.6129641+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:59:06.6403682+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:17.5269854+00:00"
 }

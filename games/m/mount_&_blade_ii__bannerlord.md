@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,336 |
-| Landlord | 30.00% | ~16,113 |
-| Bannerlord | 21.00% | ~11,279 |
-| Horde breaker | 21.00% | ~11,279 |
-| Lawmaker | 21.00% | ~11,279 |
-| Trained | 21.00% | ~11,279 |
+| Lawbringer | 36.00% | ~19,337 |
+| Landlord | 30.00% | ~16,114 |
+| Bannerlord | 21.00% | ~11,280 |
+| Horde breaker | 21.00% | ~11,280 |
+| Lawmaker | 21.00% | ~11,280 |
+| Trained | 21.00% | ~11,280 |
 | The king is pleased | 17.00% | ~9,131 |
 | King Solomon | 16.00% | ~8,594 |
 | I can do it | 15.00% | ~8,057 |
 | Apple of my eye | 14.00% | ~7,520 |
-| God of the Arena | 12.00% | ~6,445 |
+| God of the Arena | 12.00% | ~6,446 |
 | Against all odds | 10.00% | ~5,371 |
 | Duelist | 9.00% | ~4,834 |
 | Swordbearer | 9.00% | ~4,834 |
@@ -27,10 +27,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 7.00% | ~3,760 |
 | Mastery | 7.00% | ~3,760 |
 | Know your enemy | 6.00% | ~3,223 |
-| Crowdfunded | 4.00% | ~2,148 |
-| Crush your enemies | 4.00% | ~2,148 |
-| My way | 4.00% | ~2,148 |
-| Veni vidi vici | 4.00% | ~2,148 |
+| Crowdfunded | 4.00% | ~2,149 |
+| Crush your enemies | 4.00% | ~2,149 |
+| My way | 4.00% | ~2,149 |
+| Veni vidi vici | 4.00% | ~2,149 |
 | Freedom! | 3.00% | ~1,611 |
 | Entrepreneur | 2.00% | ~1,074 |
 | Long live the Empire! | 2.00% | ~1,074 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,711 (Ranked 81)  
+Progressed: 53,713 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 53,536 | 0 |
 | 2023-06-19 | 53,625 | 0 |
 | 2023-06-20 | 53,707 | 0 |
-| 2023-06-21 | 53,711 | 0 |
+| 2023-06-21 | 53,713 | 0 |
 ## Awards
 Max (Character Customization): 6,690  (Ranked 48)  
 Sum: 13,450 (Ranked 68)  

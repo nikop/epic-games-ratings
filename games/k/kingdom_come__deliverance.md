@@ -1,20 +1,20 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 179)  
+Rating: 4.71 (Ranked 180)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,525 |
-| Cavalier | 25.00% | ~197,197 |
-| Fatso | 23.00% | ~181,421 |
+| Blacksmith's Son | 31.00% | ~244,526 |
+| Cavalier | 25.00% | ~197,198 |
+| Fatso | 23.00% | ~181,422 |
 | Awakening | 20.00% | ~157,758 |
 | Ranger | 20.00% | ~157,758 |
 | Scrooge | 20.00% | ~157,758 |
-| Anorectic | 16.00% | ~126,206 |
-| Firestarter | 15.00% | ~118,318 |
-| Bookworm | 14.00% | ~110,430 |
+| Anorectic | 16.00% | ~126,207 |
+| Firestarter | 15.00% | ~118,319 |
+| Bookworm | 14.00% | ~110,431 |
 | Insomniac | 13.00% | ~102,543 |
 | Thief | 12.00% | ~94,655 |
 | Buddy | 11.00% | ~86,767 |
@@ -24,10 +24,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Haggler | 9.00% | ~70,991 |
 | McLovin | 7.00% | ~55,215 |
 | Runt | 7.00% | ~55,215 |
-| Casanova | 6.00% | ~47,327 |
-| Bad Trip | 5.00% | ~39,439 |
-| Monk | 5.00% | ~39,439 |
-| Serial Killer | 5.00% | ~39,439 |
+| Casanova | 6.00% | ~47,328 |
+| Bad Trip | 5.00% | ~39,440 |
+| Monk | 5.00% | ~39,440 |
+| Serial Killer | 5.00% | ~39,440 |
 | Bastard | 4.00% | ~31,552 |
 | Hunter | 4.00% | ~31,552 |
 | Plague Doctor | 4.00% | ~31,552 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~789 |
 | Wingman | 0.10% | ~789 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788,789 (Ranked 15)  
+Progressed: 788,792 (Ranked 15)  
 Completed: 42 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 42 (0.01%) (Ranked 214)
 | 2023-06-18 | 788,454 | 41 |
 | 2023-06-19 | 788,611 | 41 |
 | 2023-06-20 | 788,765 | 42 |
-| 2023-06-21 | 788,789 | 42 |
+| 2023-06-21 | 788,792 | 42 |
 ## Awards
 Max (Character Customization): 7,260  (Ranked 46)  
 Sum: 27,097 (Ranked 43)  

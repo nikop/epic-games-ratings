@@ -6,7 +6,7 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 107,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14757,
+  "EOS_Progressed": 14758,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
@@ -5021,6 +5021,11 @@
       "Time": "2023-06-21T02:06:31.9630688+00:00",
       "NumProgressed": 14757,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-21T03:00:54.114852+00:00",
+      "NumProgressed": 14758,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 16,
@@ -5056,7 +5061,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "Eyes_On_Fire",
@@ -5064,7 +5069,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "Feel_The_Thunder",
@@ -5128,7 +5133,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "Sole_Survivor",
@@ -5159,15 +5164,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14757,
+      "Progressed": 14758,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:06:31.9630682+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:00:54.1148516+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.1000808+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:04:48.3251096+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:06:31.9631048+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:59:13.4464638+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:00:54.1149275+00:00"
 }

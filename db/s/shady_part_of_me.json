@@ -2,12 +2,12 @@
   "ID": "c35a1d7081e44562afaa750f27cd0a18",
   "Name": "Shady Part of Me",
   "ProductSlug": "shady-part-of-me",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 180,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-10T23:00:00+00:00",
@@ -82,6 +82,6 @@
   "FirstSeenRating": "2022-10-19T19:01:08.08918+00:00",
   "LastChanged": "2023-04-29T23:57:32.3597248+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.9108829+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:03:49.285857+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:09:32.9630305+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:58:07.734238+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:04:01.334717+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 214869,
+  "EOS_Progressed": 214871,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6908,6 +6908,11 @@
       "Time": "2023-06-21T02:09:52.6980896+00:00",
       "NumProgressed": 214869,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-21T03:04:20.1575302+00:00",
+      "NumProgressed": 214871,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -6927,7 +6932,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53717
+      "UsersEstimate": 53718
     },
     {
       "ID": "ACH_BASE_11",
@@ -7167,7 +7172,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25784
+      "UsersEstimate": 25785
     },
     {
       "ID": "ACH_BASE_8",
@@ -7190,7 +7195,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 214869,
+      "Progressed": 214871,
       "Completed": 4
     }
   ],
@@ -7198,8 +7203,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-20T15:58:30.2379587+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:09:52.698089+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:04:20.1575298+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.2900721+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:04:22.0353442+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:09:52.6981407+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:58:42.8523687+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:04:20.1575951+00:00"
 }

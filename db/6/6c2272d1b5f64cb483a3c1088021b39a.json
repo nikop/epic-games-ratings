@@ -2,9 +2,9 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1481,6 +1481,11 @@
       "Time": "2023-06-20T20:04:12.584819+00:00",
       "NumProgressed": 577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T03:04:09.63481+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1490,9 +1495,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 151
     },
     {
       "ID": "adventurous_2",
@@ -1586,9 +1591,9 @@
       "ID": "collector_1",
       "SetID": "53c1p3k",
       "Name": "Collector 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "collector_2",
@@ -1660,7 +1665,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "elemental_stones_2",
@@ -1730,9 +1735,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "glitter_of_gold_2",
@@ -1778,9 +1783,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "invincible_2",
@@ -2019,14 +2024,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:09:41.5871027+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:04:09.6348094+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:02:55.2958418+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:09:41.587161+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:57:15.0379269+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:04:09.6348807+00:00"
 }

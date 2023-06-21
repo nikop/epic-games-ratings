@@ -4,7 +4,7 @@
   "ProductSlug": "reyna-darkness-0e1bb8",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -25,9 +25,114 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 13,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BECOME A BUILDER",
+      "SetID": "517hp5f",
+      "Name": "BECOME A BUILDER",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUILDING EXPERT",
+      "SetID": "517hp5f",
+      "Name": "BUILDING EXPERT",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPION",
+      "SetID": "517hp5f",
+      "Name": "CHAMPION",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONQUEROR",
+      "SetID": "517hp5f",
+      "Name": "CONQUEROR",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAZY RICH",
+      "SetID": "517hp5f",
+      "Name": "CRAZY RICH",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIGHTER",
+      "SetID": "517hp5f",
+      "Name": "FIGHTER",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GENERAL OF WAR",
+      "SetID": "517hp5f",
+      "Name": "GENERAL OF WAR",
+      "Percentage": 0,
+      "XP": 135,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEATHERWORKER",
+      "SetID": "517hp5f",
+      "Name": "LEATHERWORKER",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEDIUM WEALTH",
+      "SetID": "517hp5f",
+      "Name": "MEDIUM WEALTH",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROFESSIONAL BUILDER",
+      "SetID": "517hp5f",
+      "Name": "PROFESSIONAL BUILDER",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROAD TO GLORY",
+      "SetID": "517hp5f",
+      "Name": "ROAD TO GLORY",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHINNY AND GLOWING",
+      "SetID": "517hp5f",
+      "Name": "SHINNY AND GLOWING",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SNOWY",
+      "SetID": "517hp5f",
+      "Name": "SNOWY...",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "517hp5f",
@@ -37,8 +142,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:06:39.1718146+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:01:01.1376133+00:00",
   "LastUpdate_AppInfo": "2023-06-18T06:57:00.7834026+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:02:49.3446915+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:06:39.1718169+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:57:08.5425455+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:01:01.1376218+00:00"
 }

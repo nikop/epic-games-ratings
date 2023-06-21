@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -438,6 +438,11 @@
       "Time": "2023-06-19T21:06:52.1214909+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T03:06:18.4035678+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -473,7 +478,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ALLMODULESS",
@@ -545,7 +550,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -575,9 +580,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 278
     },
     {
       "ID": "CAREERADVANCED",
@@ -601,7 +606,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -745,7 +750,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ONELIVERY",
@@ -759,9 +764,9 @@
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 278
     },
     {
       "ID": "ONEPAINT",
@@ -864,7 +869,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 0
     }
   ],
@@ -872,8 +877,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:54.3805093+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:18.4035673+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:49.1580209+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:04:02.9433795+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:54.3805472+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:58:20.2446823+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:18.403612+00:00"
 }

@@ -1608,9 +1608,9 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 19700,
+  "EOS_Progressed": 19701,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4853,6 +4853,11 @@
       "Time": "2023-06-21T00:05:51.2975582+00:00",
       "NumProgressed": 19700,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-21T03:06:01.392519+00:00",
+      "NumProgressed": 19701,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4880,7 +4885,7 @@
       "Name": "Nerd",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "DoItASAP",
@@ -4912,7 +4917,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18518
+      "UsersEstimate": 18519
     },
     {
       "ID": "GameOver",
@@ -5008,7 +5013,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.5,
       "XP": 150,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "SmothFamily",
@@ -5047,15 +5052,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19700,
+      "Progressed": 19701,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-20T02:59:36.4091782+00:00",
-  "LastChanged_Achievements": "2023-06-21T02:11:36.0393962+00:00",
+  "LastChanged_Achievements": "2023-06-21T03:06:01.3925184+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.3961227+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:05:13.0235544+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:11:36.0394251+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:59:39.504504+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:06:01.3925559+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~288 |
-| Increasing your Power Level | 28.00% | ~288 |
-| Enter the Speed Gauntlet | 25.00% | ~257 |
-| I just can't choose | 25.00% | ~257 |
+| Rookie No More | 27.00% | ~278 |
+| Increasing your Power Level | 27.00% | ~278 |
+| Enter the Speed Gauntlet | 25.00% | ~258 |
+| I just can't choose | 25.00% | ~258 |
 | A Cheese Grater to the Face | 20.00% | ~206 |
 | Put it on a shelf | 19.00% | ~196 |
 | It's like an haircut | 18.00% | ~185 |
@@ -17,7 +17,7 @@ Rating: 4.45 (Ranked 620)
 | Walked like an Egyptian | 15.00% | ~154 |
 | Rookie No-No More | 13.00% | ~134 |
 | Running at the speed of sound | 13.00% | ~134 |
-| Martian explorer | 12.00% | ~123 |
+| Martian explorer | 12.00% | ~124 |
 | To the core | 9.00% | ~93 |
 | Blurred photofinish | 9.00% | ~93 |
 | EZ game EZ life | 7.00% | ~72 |
@@ -26,7 +26,7 @@ Rating: 4.45 (Ranked 620)
 | Under the sea, under the sea | 6.00% | ~62 |
 | Even Faster! | 6.00% | ~62 |
 | Longshot | 6.00% | ~62 |
-| B-asic! | 5.00% | ~51 |
+| B-asic! | 5.00% | ~52 |
 | Under the neon lights | 4.00% | ~41 |
 | Almost broke the game | 4.00% | ~41 |
 | Better luck next time | 4.00% | ~41 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 620)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,029 (Ranked 181)  
+Progressed: 1,030 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-16 | 1,026 | 0 |
 | 2023-06-17 | 1,028 | 0 |
 | 2023-06-19 | 1,029 | 0 |
+| 2023-06-21 | 1,030 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -41,13 +41,13 @@ Rating: 4.07 (Ranked 894)
 | Moving Up The Ladder | 7.00% | ~102 |
 | Here We Go Again | 6.00% | ~87 |
 | Master Enchanter | 6.00% | ~87 |
+| The Expeditioner | 6.00% | ~87 |
 | The father of Dragons | 6.00% | ~87 |
 | Trader | 6.00% | ~87 |
 | Ancient Knowledge | 5.00% | ~73 |
 | Enchanting skill | 5.00% | ~73 |
 | How Do You Turn This On? | 5.00% | ~73 |
 | Missions Dedication | 5.00% | ~73 |
-| The Expeditioner | 5.00% | ~73 |
 | Weekly Quest Completionist | 5.00% | ~73 |
 | Background Story | 4.00% | ~58 |
 | Crystal Mining | 4.00% | ~58 |

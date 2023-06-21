@@ -4,7 +4,7 @@
   "ProductSlug": "basingstoke-16d446",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-29T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.3817855+00:00",
   "LastChanged": "2023-03-31T05:58:07.3817856+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:41.2585849+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:03:53.202406+00:00",
-  "LastUpdate_Achievements": "2023-06-21T02:10:17.5951712+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:58:12.7412613+00:00",
+  "LastUpdate_Achievements": "2023-06-21T03:04:44.3064974+00:00"
 }
