@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3292,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3778,9 +3778,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1481
     },
     {
       "ID": "Ach028",
@@ -4073,8 +4073,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-21T00:06:11.4176243+00:00",
+  "LastChanged_Achievements": "2023-06-21T02:11:57.2356454+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:58:38.5517286+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:06:11.4177081+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:04:25.1853+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:11:57.2357052+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,589 |
-| Pay 'n' Spray | 49.00% | ~5,261 |
+| Getting Started | 80.00% | ~8,591 |
+| Pay 'n' Spray | 49.00% | ~5,262 |
 | All Dressed Up for San Fierro | 24.00% | ~2,577 |
-| The American Dream | 18.00% | ~1,932 |
+| The American Dream | 18.00% | ~1,933 |
 | School's Out | 16.00% | ~1,718 |
 | Smooth Moves | 16.00% | ~1,718 |
 | Today Was a Good Day | 14.00% | ~1,503 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 454)
 | With Extra Dip | 6.00% | ~644 |
 | The End of the Line | 6.00% | ~644 |
 | Saviour | 5.00% | ~537 |
-| They Can’t Stop All of Us | 4.00% | ~429 |
-| Rescue a Kitten Too? | 4.00% | ~429 |
+| They Can’t Stop All of Us | 4.00% | ~430 |
+| Rescue a Kitten Too? | 4.00% | ~430 |
 | What are the Odds | 3.00% | ~322 |
 | I’ll Have Two Number 9s | 2.00% | ~215 |
 | Bike or Biker | 2.00% | ~215 |
@@ -32,16 +32,16 @@ Rating: 4.56 (Ranked 454)
 | Who Needs Directions? | 1.00% | ~107 |
 | Swiss Army Strife | 1.00% | ~107 |
 | Assassin | 1.00% | ~107 |
-| Chick Magnet | 1.00% | ~107 |
 | Ain’t Nothing But a G Thing | 1.00% | ~107 |
 | Lucky Spinner | 0.90% | ~97 |
+| Chick Magnet | 0.90% | ~97 |
 | Hoopin' it Up | 0.80% | ~86 |
 | Not a Player | 0.60% | ~64 |
 | Remastered | 0.50% | ~54 |
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,736 (Ranked 112)  
+Progressed: 10,739 (Ranked 112)  
 Completed: 19 (0.18%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 19 (0.18%) (Ranked 159)
 | 2023-06-18 | 10,690 | 19 |
 | 2023-06-19 | 10,717 | 19 |
 | 2023-06-20 | 10,735 | 19 |
-| 2023-06-21 | 10,736 | 19 |
+| 2023-06-21 | 10,739 | 19 |
 ## Awards
 Max (Great Boss Battles): 176  (Ranked 277)  
 Sum: 176 (Ranked 370)  

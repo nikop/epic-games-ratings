@@ -4,10 +4,10 @@
   "ProductSlug": "hood-outlaws-and-legends",
   "Ranking_Rating": 912,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2420,10 +2420,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 2375,
       "NumberOfAwardsMax": 371
+    },
+    {
+      "Time": "2023-06-21T02:04:08.0770867+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2744,
+      "NumberOfAwardsMax": 371
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2375,
+  "NumberOfAwards": 2744,
   "NumberOfAwardsMax": 371,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2471,9 +2477,9 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 361
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 369
     }
   ],
   "EOS_Progressed": 0,
@@ -2487,8 +2493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2023-06-18T15:58:26.592386+00:00",
+  "LastChanged": "2023-06-21T02:04:08.0770866+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:53.8351684+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:58:18.5573533+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:03:19.3551532+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:04:08.077087+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:09:06.6457838+00:00"
 }

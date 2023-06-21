@@ -30,12 +30,12 @@ Rating: 3.48 (Ranked 945)
 | Block Party | 8.00% | ~135 |
 | Starve the Beast | 8.00% | ~135 |
 | From the Shadows | 6.00% | ~102 |
+| Revelations | 4.00% | ~68 |
 | Bell-ringer | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |
 | Nice Try | 4.00% | ~68 |
 | Enemy of My Enemy | 4.00% | ~68 |
-| Revelations | 3.00% | ~51 |
 | Contingency Plans | 3.00% | ~51 |
 | Sic Transit Umbra | 3.00% | ~51 |
 | Good Morning | 3.00% | ~51 |
@@ -57,7 +57,7 @@ Rating: 3.48 (Ranked 945)
 | So Anyway I Started Blasting | 0.90% | ~15 |
 | Sisterhood | 0.80% | ~14 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~14 |
-| Good Samaritan | 0.50% | ~8 |
+| Good Samaritan | 0.60% | ~10 |
 | Someplace to Be | 0.40% | ~7 |
 | A Cry in the Dark | 0.20% | ~3 |
 | Rum Runner | 0.20% | ~3 |

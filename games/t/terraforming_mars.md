@@ -6,21 +6,21 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 39.00% | ~24,800 |
-| Final touch | 38.00% | ~24,165 |
-| Prop-M Rover | 34.00% | ~21,621 |
-| Changing the Planet | 29.00% | ~18,441 |
-| Sojourner | 28.00% | ~17,805 |
-| New Home | 25.00% | ~15,898 |
-| Beagle 2 | 25.00% | ~15,898 |
-| Winner Winner Terraformer | 23.00% | ~14,626 |
-| Project Manager | 21.00% | ~13,354 |
-| Curiosity | 20.00% | ~12,718 |
-| Collector | 20.00% | ~12,718 |
-| Self-sufficient | 20.00% | ~12,718 |
-| Master | 20.00% | ~12,718 |
-| No Longer Red | 19.00% | ~12,082 |
-| Money money | 17.00% | ~10,810 |
+| It's a steal! | 39.00% | ~24,802 |
+| Final touch | 38.00% | ~24,166 |
+| Prop-M Rover | 34.00% | ~21,622 |
+| Changing the Planet | 29.00% | ~18,443 |
+| Sojourner | 28.00% | ~17,807 |
+| New Home | 25.00% | ~15,899 |
+| Beagle 2 | 25.00% | ~15,899 |
+| Winner Winner Terraformer | 23.00% | ~14,627 |
+| Project Manager | 21.00% | ~13,355 |
+| Curiosity | 20.00% | ~12,719 |
+| Collector | 20.00% | ~12,719 |
+| Self-sufficient | 20.00% | ~12,719 |
+| Master | 20.00% | ~12,719 |
+| No Longer Red | 19.00% | ~12,083 |
+| Money money | 17.00% | ~10,811 |
 | Biggest Reward | 15.00% | ~9,539 |
 | Acquired knowledge | 14.00% | ~8,903 |
 | Hellenic Elysium | 13.00% | ~8,267 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 12.00% | ~7,631 |
 | Spirit | 11.00% | ~6,995 |
 | Ultimate success | 11.00% | ~6,995 |
-| Variety Expert | 10.00% | ~6,359 |
-| Frequent tester | 8.00% | ~5,087 |
-| Determined | 8.00% | ~5,087 |
+| Variety Expert | 10.00% | ~6,360 |
+| Frequent tester | 8.00% | ~5,088 |
+| Determined | 8.00% | ~5,088 |
 | Terraformer | 4.00% | ~2,544 |
 | Team Effort | 3.00% | ~1,908 |
 | Opportunity | 3.00% | ~1,908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,591 (Ranked 74)  
+Progressed: 63,595 (Ranked 74)  
 Completed: 66 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,15 +99,15 @@ Completed: 66 (0.10%) (Ranked 173)
 | 2023-06-18 | 63,299 | 66 |
 | 2023-06-19 | 63,443 | 66 |
 | 2023-06-20 | 63,589 | 66 |
-| 2023-06-21 | 63,591 | 66 |
+| 2023-06-21 | 63,595 | 66 |
 ## Awards
 Max (Relaxing): 501  (Ranked 188)  
-Sum: 3,085 (Ranked 151)  
+Sum: 3,086 (Ranked 151)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 501 |
-| This game is Highly Recommended | 485 |
+| This game is Highly Recommended | 486 |
 | This game has Quickly Understood Controls | 445 |
 | This game is Extremely Fun | 439 |
 | This game has Competitive Players | 437 |
@@ -237,3 +237,4 @@ Diff (max vs sum): 37
 | 2023-06-15 | 4.54 | - | 499 | 3,082 |
 | 2023-06-18 | 4.54 | - | 500 | 3,084 |
 | 2023-06-19 | 4.54 | - | 501 | 3,085 |
+| 2023-06-21 | 4.54 | - | 501 | 3,086 |

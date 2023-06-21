@@ -27,9 +27,9 @@
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Check Your Pulse | 10.00% | ~71 |
+| The Family Fortune | 10.00% | ~71 |
 | Street Style | 9.00% | ~64 |
 | The Man Who Shattered Time | 9.00% | ~64 |
-| The Family Fortune | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |
@@ -38,13 +38,13 @@
 | Sump Explorer | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
+| Sartorialist | 5.00% | ~36 |
 | Cultivair Explorer | 5.00% | ~36 |
+| Entresol Explorer | 5.00% | ~36 |
 | Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Syron for Hope | 5.00% | ~36 |
 | Corin Goes Home | 4.00% | ~29 |
-| Sartorialist | 4.00% | ~29 |
-| Entresol Explorer | 4.00% | ~29 |
 | Golem Hunter | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~21 |
 | Hexlock for Protection | 3.00% | ~21 |

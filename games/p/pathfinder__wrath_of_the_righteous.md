@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 18.00% | ~1,798 |
+| Devoured by Darkness | 18.00% | ~1,799 |
 | A Spark | 13.00% | ~1,299 |
 | Burning City | 12.00% | ~1,199 |
 | Mythic Choices | 10.00% | ~999 |
 | Defender's Heart | 10.00% | ~999 |
 | Banner over the Citadel | 9.00% | ~899 |
 | Queen's Gratitude | 8.00% | ~799 |
-| Fifth Crusade | 6.00% | ~599 |
+| Fifth Crusade | 6.00% | ~600 |
 | Embrace of the Abyss | 4.00% | ~400 |
 | Path of the Angel | 4.00% | ~400 |
 | Great Upstart | 4.00% | ~400 |
@@ -36,11 +36,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~200 |
 | Your First Big Enemy | 2.00% | ~200 |
 | Hey, I Know You! | 2.00% | ~200 |
-| Stay Underground | 2.00% | ~175 |
-| Hanged Man's Notes | 2.00% | ~175 |
-| Sarkoris Will Be Green | 2.00% | ~175 |
-| The Lady of the Forest | 2.00% | ~175 |
-| Beware Still Water | 2.00% | ~175 |
+| Stay Underground | 2.00% | ~176 |
+| Hanged Man's Notes | 2.00% | ~176 |
+| Sarkoris Will Be Green | 2.00% | ~176 |
+| The Lady of the Forest | 2.00% | ~176 |
+| Beware Still Water | 2.00% | ~176 |
 | Path of the Demon | 1.00% | ~100 |
 | Path of the Aeon | 1.00% | ~100 |
 | Abyssal Conspiracy | 1.00% | ~100 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,991 (Ranked 115)  
+Progressed: 9,993 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,11 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 9,964 | 0 |
 | 2023-06-19 | 9,976 | 0 |
 | 2023-06-20 | 9,991 | 0 |
+| 2023-06-21 | 9,993 | 0 |
 ## Awards
 Max (Character Customization): 1,665  (Ranked 114)  
-Sum: 6,762 (Ranked 109)  
-Diff (max vs sum): 5  
+Sum: 6,762 (Ranked 110)  
+Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,665 |

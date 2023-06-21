@@ -18,13 +18,13 @@ Rating: 4.32 (Ranked 756)
 | Order and Method | 52.00% | ~203 |
 | The Altercation | 49.00% | ~192 |
 | Truth from Within | 48.00% | ~188 |
-| The Major | 46.00% | ~180 |
+| The Major | 47.00% | ~184 |
 | Comtesse Margaux de Vos | 44.00% | ~172 |
 | Curious and Beautiful | 43.00% | ~168 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~168 |
-| The Interrogations | 42.00% | ~164 |
-| Well-acquainted | 40.00% | ~156 |
-| Zakariya Demir | 40.00% | ~156 |
+| The Interrogations | 43.00% | ~168 |
+| Well-acquainted | 41.00% | ~160 |
+| Zakariya Demir | 41.00% | ~160 |
 | Well-read | 38.00% | ~149 |
 | Cassandra Van den Bosch | 36.00% | ~141 |
 | The Secret | 36.00% | ~141 |
@@ -38,8 +38,8 @@ Rating: 4.32 (Ranked 756)
 | The Family | 26.00% | ~102 |
 | Well-travelled | 25.00% | ~98 |
 | Thinking of Everything | 25.00% | ~98 |
+| Exquisite Artwork | 25.00% | ~98 |
 | Viscount Edwin Van den Bosch | 25.00% | ~98 |
-| Exquisite Artwork | 24.00% | ~94 |
 | Archibald Sterling | 24.00% | ~94 |
 | Well-prepared | 20.00% | ~78 |
 | The Truth | 20.00% | ~78 |

@@ -6,43 +6,43 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,030 |
-| The Cursed Farmer | 4.00% | ~4,015 |
-| The Mad Wizard | 3.00% | ~3,011 |
-| Beast Intentions | 2.00% | ~2,008 |
-| The Ring of Regeneration | 2.00% | ~2,008 |
-| Were-verpowered | 1.00% | ~1,004 |
-| Seeking Allies | 1.00% | ~1,004 |
-| Are Ya Chicken? | 1.00% | ~1,004 |
-| Mad Cow Disease | 1.00% | ~1,004 |
-| Friendly Imps | 1.00% | ~1,004 |
-| A Persistent Buzzing | 0.90% | ~903 |
-| Pure Energy | 0.90% | ~903 |
-| The Court of Storms | 0.90% | ~600 |
-| Terror in the Dark | 0.80% | ~803 |
-| The Crumbling Temple | 0.80% | ~803 |
+| A Brief Tour of the Realms | 8.00% | ~8,036 |
+| The Cursed Farmer | 4.00% | ~4,018 |
+| The Mad Wizard | 3.00% | ~3,014 |
+| Beast Intentions | 2.00% | ~2,009 |
+| The Ring of Regeneration | 2.00% | ~2,009 |
+| Were-verpowered | 1.00% | ~1,005 |
+| Seeking Allies | 1.00% | ~1,005 |
+| Are Ya Chicken? | 1.00% | ~1,005 |
+| Mad Cow Disease | 1.00% | ~1,005 |
+| Friendly Imps | 1.00% | ~1,005 |
+| A Persistent Buzzing | 0.90% | ~904 |
+| Pure Energy | 0.90% | ~904 |
+| The Court of Storms | 0.90% | ~601 |
+| Terror in the Dark | 0.80% | ~804 |
+| The Crumbling Temple | 0.80% | ~804 |
 | A Mysterious Summons | 0.70% | ~703 |
 | Unearthed Evil | 0.70% | ~703 |
 | Exploring Port Nyanzaru | 0.70% | ~703 |
 | Beware the Jabberwock | 0.70% | ~467 |
-| Maddening | 0.60% | ~602 |
-| Beast Mode | 0.60% | ~602 |
-| Building Trust | 0.60% | ~602 |
-| Useless Allies | 0.60% | ~602 |
-| Running of the Saurs | 0.60% | ~602 |
-| The Contagious Curse | 0.60% | ~602 |
-| Escort to Waterdeep | 0.60% | ~602 |
-| Waterdeep Detours | 0.60% | ~602 |
+| Maddening | 0.60% | ~603 |
+| Beast Mode | 0.60% | ~603 |
+| Building Trust | 0.60% | ~603 |
+| Useless Allies | 0.60% | ~603 |
+| Running of the Saurs | 0.60% | ~603 |
+| The Contagious Curse | 0.60% | ~603 |
+| Escort to Waterdeep | 0.60% | ~603 |
+| Waterdeep Detours | 0.60% | ~603 |
 | Coasting to the Finish | 0.60% | ~400 |
-| Checkmate | 0.50% | ~333 |
-| Vecna Out! | 0.50% | ~333 |
+| Checkmate | 0.50% | ~334 |
+| Vecna Out! | 0.50% | ~334 |
 | Low Initiative | 0.50% | ~502 |
 | No Time To Rest | 0.50% | ~502 |
 | The Dinner Party | 0.50% | ~502 |
 | Underdeep Cartography | 0.50% | ~502 |
 | The Templar's Camp | 0.50% | ~502 |
 | Rescue in the Jungle | 0.50% | ~502 |
-| Quick or Quack | 0.50% | ~333 |
+| Quick or Quack | 0.50% | ~334 |
 | The Silken Swamp | 0.40% | ~402 |
 | Supply Run | 0.40% | ~402 |
 | Owlbear Necessities | 0.40% | ~267 |
@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.30% | ~200 |
 | Wet Feet | 0.30% | ~301 |
 | Hatchlings Underfoot | 0.30% | ~301 |
+| Don't Look Up! | 0.30% | ~301 |
 | Vecna Lives! | 0.30% | ~200 |
 | Return to the Tomb | 0.30% | ~200 |
 | Keep Your Distance | 0.30% | ~200 |
@@ -181,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dark Heart | 0.20% | ~133 |
 | The Oozing Hunger | 0.20% | ~133 |
 | The Madness of Zuggtmoy | 0.20% | ~133 |
-| Don't Look Up! | 0.20% | ~201 |
 | The Cult of Lolth | 0.20% | ~133 |
 | Will of the Feywild | 0.20% | ~133 |
 | All Damage, All The Time | 0.20% | ~133 |
@@ -290,11 +290,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.20% | ~201 |
 | Bazaar Exploits | 0.20% | ~201 |
 | Flame(skull) War | 0.20% | ~201 |
+| Servants of the Demon Prince | 0.20% | ~133 |
 | Elder Rune Madness | 0.20% | ~201 |
 | The Madness Grows | 0.20% | ~201 |
 | Who Lurks in Lurkwood | 0.20% | ~201 |
 | Bullywugs in the Bog | 0.20% | ~201 |
 | Modrons in the Mud | 0.20% | ~201 |
+| And a Pixie in a Pear Treant | 0.20% | ~133 |
 | Orcs Are Wild | 0.20% | ~201 |
 | An Abyssal Situation | 0.20% | ~201 |
 | Dino Nightmare | 0.20% | ~201 |
@@ -309,6 +311,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sober Up | 0.20% | ~201 |
 | The Sunless Citadel | 0.20% | ~201 |
 | Veteran Brigade | 0.20% | ~201 |
+| Social Grace | 0.20% | ~133 |
 | Meepo's Quest | 0.20% | ~201 |
 | Patience is Key | 0.20% | ~201 |
 | Troublesome Prisoner | 0.20% | ~201 |
@@ -460,14 +463,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~67 |
 | Spirit of the Trickster Gods | 0.10% | ~67 |
 | Tanking Expectations | 0.10% | ~67 |
-| Servants of the Demon Prince | 0.10% | ~67 |
 | The Madness Peaks | 0.10% | ~67 |
-| And a Pixie in a Pear Treant | 0.10% | ~67 |
 | A Familiar Friend | 0.10% | ~67 |
 | A Tale of Two Years | 0.10% | ~67 |
 | DPS in the Deeps | 0.10% | ~67 |
 | In The Beginning | 0.10% | ~67 |
-| Social Grace | 0.10% | ~67 |
 | Evergreens with an Evergreen | 0.10% | ~67 |
 | She's Harmless! | 0.10% | ~100 |
 | The Tallest of Kobolds | 0.10% | ~67 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,378 (Ranked 63)  
-Completed: 1,973 (1.97%) (Ranked 73)  
+Progressed: 100,454 (Ranked 63)  
+Completed: 1,973 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -562,7 +562,7 @@ Completed: 1,973 (1.97%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,378 | 1,973 |
+| 2023-06-21 | 100,454 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,156 (Ranked 37)  

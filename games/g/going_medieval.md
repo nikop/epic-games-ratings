@@ -14,7 +14,7 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 62.00% | ~2,444 |
 | Putting Food on the Table | 59.00% | ~2,326 |
 | Onward | 54.00% | ~2,129 |
-| Home Cooked Meal | 51.00% | ~2,010 |
+| Home Cooked Meal | 52.00% | ~2,050 |
 | The First Week | 51.00% | ~2,010 |
 | Feast or Famine | 49.00% | ~1,932 |
 | Studious Researcher | 49.00% | ~1,932 |
@@ -27,8 +27,8 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 26.00% | ~1,025 |
 | Winter Is Coming | 23.00% | ~907 |
 | Winter Is Here | 20.00% | ~788 |
+| A Party Now | 18.00% | ~710 |
 | Disassembled | 17.00% | ~670 |
-| A Party Now | 17.00% | ~670 |
 | Oh Deer! | 17.00% | ~670 |
 | All Year Round | 17.00% | ~670 |
 | Nothing Wasted | 11.00% | ~434 |

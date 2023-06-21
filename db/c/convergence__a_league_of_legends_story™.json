@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 713,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1487,9 +1487,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "CosmeticProgress1",
@@ -1511,9 +1511,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1839,9 +1839,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
@@ -1854,8 +1854,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-21T00:05:38.9663481+00:00",
+  "LastChanged_Achievements": "2023-06-21T02:11:23.8975051+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:59:26.167449+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:05:38.966405+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:05:09.3588714+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:11:23.8975478+00:00"
 }

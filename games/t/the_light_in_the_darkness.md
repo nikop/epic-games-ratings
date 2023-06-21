@@ -17,7 +17,7 @@
 | Nuremberg Laws | 11.00% | ~187 |
 | May Their Memories be a Blessing | 9.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,699 (Ranked 161)  
+Progressed: 1,700 (Ranked 161)  
 Completed: 145 (8.53%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 145 (8.53%) (Ranked 21)
 | 2023-06-18 | 1,685 | 143 |
 | 2023-06-19 | 1,688 | 144 |
 | 2023-06-20 | 1,699 | 145 |
+| 2023-06-21 | 1,700 | 145 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

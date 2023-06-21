@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 171,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 136,
@@ -1673,7 +1673,7 @@
   ],
   "EOS_Progressed": 42851,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4626,8 +4626,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-18T15:59:56.1193822+00:00",
-  "LastChanged_Achievements": "2023-06-21T00:06:13.2753757+00:00",
+  "LastChanged_Achievements": "2023-06-21T02:11:59.2292118+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.8416601+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:59:50.2038507+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:06:13.2754541+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:05:40.9597203+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:11:59.2292717+00:00"
 }

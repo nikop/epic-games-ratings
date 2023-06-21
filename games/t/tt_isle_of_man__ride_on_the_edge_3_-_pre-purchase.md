@@ -13,19 +13,19 @@
 | Highly Qualified | 9.00% | ~8 |
 | No Room for Improvement | 9.00% | ~8 |
 | Start Your Engines | 9.00% | ~8 |
+| Upgradeaholic | 8.00% | ~7 |
 | Lone Wolf | 8.00% | ~7 |
 | Nerd | 7.00% | ~6 |
-| Upgradeaholic | 7.00% | ~6 |
 | Tailor-Made | 7.00% | ~6 |
 | Playing God | 7.00% | ~6 |
 | POI Hunter | 5.00% | ~4 |
 | Seven-League Boots | 5.00% | ~4 |
+| First and Foremost | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
-| First and Foremost | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
 | Made Mother Proud | 3.00% | ~3 |
 | Winner Winner Chicken Dinner | 3.00% | ~3 |

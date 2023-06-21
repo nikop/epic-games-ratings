@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 109,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 111,
@@ -2894,9 +2894,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9991,
+  "EOS_Progressed": 9993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6989,6 +6989,11 @@
       "Time": "2023-06-20T23:08:04.0124584+00:00",
       "NumProgressed": 9991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T02:12:00.0382421+00:00",
+      "NumProgressed": 9993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7000,7 +7005,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "02_BurningCity",
@@ -7024,7 +7029,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -7872,7 +7877,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -7880,7 +7885,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -7888,7 +7893,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -7912,7 +7917,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -7920,28 +7925,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8773,
+      "Progressed": 8775,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9991,
+      "Progressed": 9993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-20T13:59:08.5156903+00:00",
-  "LastChanged_Achievements": "2023-06-21T00:06:14.1961728+00:00",
+  "LastChanged_Achievements": "2023-06-21T02:12:00.0382417+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:58:26.836564+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:06:14.1963663+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:04:14.6584737+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:12:00.0383937+00:00"
 }

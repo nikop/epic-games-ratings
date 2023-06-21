@@ -1096,7 +1096,7 @@
   ],
   "EOS_Progressed": 3942,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3524,9 +3524,9 @@
       "ID": "HAVE_SATTLERS_10",
       "SetID": "5349c2e",
       "Name": "A Party Now",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 670
+      "UsersEstimate": 710
     },
     {
       "ID": "HUNT_DEER_20",
@@ -3588,9 +3588,9 @@
       "ID": "PRODUCE_AT_CAMPFIRE",
       "SetID": "5349c2e",
       "Name": "Home Cooked Meal",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2050
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -3724,8 +3724,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
-  "LastChanged_Achievements": "2023-06-21T00:05:59.5667279+00:00",
+  "LastChanged_Achievements": "2023-06-21T02:11:45.8290125+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:59:48.7620036+00:00",
-  "LastUpdate_Achievements": "2023-06-21T00:05:59.5667656+00:00"
+  "LastUpdate_Ratings": "2023-06-21T02:05:39.5698429+00:00",
+  "LastUpdate_Achievements": "2023-06-21T02:11:45.8290412+00:00"
 }
