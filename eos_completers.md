@@ -4,10 +4,10 @@
 | 2 | [Volley Pals](games/v/volley_pals.md) | 38.89% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 4 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 25.00% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 16.38% |
 | 10 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
@@ -36,7 +36,7 @@
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
 | 35 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
@@ -48,8 +48,8 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.27% |
-| 49 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.23% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -74,9 +74,9 @@
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.85% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
-| 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.84% |
+| 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |

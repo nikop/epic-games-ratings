@@ -1,19 +1,19 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 2023-06-21 | 35 (1,000 XP) | 2 | - | - |
+| [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 2023-06-21 | - |  | - | - |
 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-20 | 20 (1,000 XP) | 1 | - | - |
 | [Torch Cave](games/3/3c9e5ab8388f4f179a092f070431ebb0.md) | 2023-06-20 | - |  | - | - |
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-20 | - |  | - | - |
 | [OverDrift Festival](games/6/607b4b770360431eae1b003047ac0d64.md) | 2023-06-20 | - |  | - | - |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | 2023-06-20 | 22 (1,000 XP) | 0 | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 618 | - | 0 |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 632 | - | 0 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 2 | - | - |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 2 | - | - |
-| [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 2023-06-18 | - |  | - | - |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
-| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 2,870 | - | 0 |
+| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 2,878 | - | 0 |
 | [THE IMPOSSIBLE](games/2/2010b387d2964690a42249ff8c4f9ee4.md) | 2023-06-16 | - |  | - | - |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 26 | - | 0 |
 | [TV Head: Eight Pages](games/4/4b7c856ef3a54f0489e21feef74b7d08.md) | 2023-06-16 | - |  | - | - |
@@ -23,15 +23,15 @@
 | [IL-2 Sturmovik: 1946](games/5/5332e78b6dcf4b148da8e7ad110d0baf.md) | 2023-06-15 | - |  | - | - |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | - |  | - | - |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | - |  | - | 0 |
-| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 216 | - | 0 |
-| [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 2023-06-15 | 49 (1,000 XP) | 63,909 | 4.63 | 0 |
-| [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 2023-06-15 | 31 (1,000 XP) | 85,440 | 4.39 | 0 |
+| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 217 | - | 0 |
+| [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 2023-06-15 | 49 (1,000 XP) | 64,111 | 4.63 | 0 |
+| [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 2023-06-15 | 31 (1,000 XP) | 85,668 | 4.39 | 0 |
 | [ProtoCorgi](games/d/da164cec5b4c4ceaafe2278674348454.md) | 2023-06-15 | - |  | - | 0 |
 | [Fall of Porcupine](games/a/aba40ee99a904fe8891fddc8f88a1f65.md) | 2023-06-15 | 19 (1,000 XP) | 0 | - | - |
 | [Timewell: Trail Of Celestes](games/t/timewell__trail_of_celestes.md) | 2023-06-15 | - |  | - | 0 |
 | [Indies Lies](games/i/indies_lies.md) | 2023-06-15 | - |  | - | 0 |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 2023-06-14 | 14 (1,000 XP) | 1 | - | 0 |
-| [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-06-14 | 26 (1,000 XP) | 4 | - | - |
+| [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-06-14 | 26 (1,000 XP) | 5 | - | - |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-06-14 | - |  | - | 0 |
 | [Metro Simulator](games/d/d1c8b68acafc466d9b393b5ff6797dc4.md) | 2023-06-14 | - |  | - | - |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 10 (1,000 XP) | 51 | - | 0 |
@@ -58,12 +58,12 @@
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | - |  | - | - |
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2023-06-08 | - |  | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 1 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,270,345 | 4.56 | 1,974 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,270,840 | 4.56 | 2,175 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 7 (1,000 XP) | 19 | - | - |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 2 | - | - |
 | [Tracks of Triumph Retro Blast](games/e/e542fbd76b3d42a6bf92fcfd0179d8cf.md) | 2023-06-07 | - |  | - | - |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 21 | - | - |
-| [Scathe](games/s/scathe.md) | 2023-06-06 | 30 (1,000 XP) | 62 | - | 0 |
+| [Scathe](games/s/scathe.md) | 2023-06-06 | 30 (1,000 XP) | 63 | - | 0 |
 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 2023-06-06 | 54 (1,000 XP) | 12 | - | - |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-06-06 | - |  | - | 0 |
 | [The Alchemist of Ars Magna](games/4/4c57fbae5dc34c44b63b82037d03dc00.md) | 2023-06-06 | - |  | - | 0 |
@@ -85,8 +85,8 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 34 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 648,321 | 4.66 | 1,341 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,175,514 | 4.40 | 22 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 648,398 | 4.66 | 1,341 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,175,597 | 4.40 | 22 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 286 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | 0 |
@@ -118,7 +118,7 @@
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | - |  | - | - |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 47 | - | 0 |
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 17 | - | - |
-| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 93 | - | - |
+| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 94 | - | - |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | - |  | - | 0 |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | - |  | - | 0 |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | 0 |
@@ -154,6 +154,6 @@
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - |  | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,645 | - | 0 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,647 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - |  | - | 0 |

@@ -4,14 +4,14 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 448,689 | 4.50 | 548 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,121 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 187,490 | 4.68 | 239 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,467 | 4.19 | 844 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,520 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 152,144 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,272 | 4.53 | 504 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,609 | 4.69 | 221 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 70,048 | 4.62 | 348 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,097 | 4.58 | 422 |
 | 11 | [VALORANT](games/v/valorant.md) | 57,438 | 4.54 | 491 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 38,728 | 4.60 | 390 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 38,822 | 4.60 | 390 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,064 | 4.50 | 548 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,266 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,714 | 4.52 | 515 |
@@ -56,7 +56,7 @@
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,941 | 4.64 | 316 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,892 | 4.79 | 89 |
 | 56 | [DEATH STRANDING](games/d/death_stranding.md) | 5,847 | 4.77 | 107 |
-| 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,788 | 4.66 | 276 |
+| 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,791 | 4.66 | 276 |
 | 58 | [Prey](games/p/prey.md) | 5,581 | 4.62 | 348 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,571 | 4.82 | 66 |
 | 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,493 | 4.85 | 40 |
@@ -102,10 +102,10 @@
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,316 | 4.78 | 99 |
 | 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,226 | 4.67 | 256 |
 | 102 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,177 | 4.41 | 670 |
-| 103 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,152 | 4.63 | 331 |
-| 104 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,139 | 4.37 | 717 |
-| 105 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,976 | 4.49 | 566 |
-| 106 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,974 | 4.56 | 454 |
+| 103 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2,175 | 4.56 | 454 |
+| 104 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,152 | 4.63 | 331 |
+| 105 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,139 | 4.37 | 717 |
+| 106 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,976 | 4.49 | 566 |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,884 | 4.65 | 296 |
 | 108 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,846 | 4.70 | 196 |
 | 109 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,832 | 4.90 | 8 |
@@ -123,7 +123,7 @@
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,390 | 4.81 | 75 |
 | 122 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 1,341 | 4.66 | 276 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,338 | 4.62 | 348 |
-| 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,301 | 4.70 | 196 |
+| 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,302 | 4.70 | 196 |
 | 125 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 276 |
 | 126 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,281 | 4.86 | 29 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,271 | 4.52 | 515 |
@@ -173,7 +173,7 @@
 | 171 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 612 | 4.74 | 144 |
 | 172 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 861 |
 | 173 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 593 | 4.63 | 331 |
-| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 584 | 4.74 | 144 |
+| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 589 | 4.74 | 144 |
 | 175 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 580 | 4.60 | 390 |
 | 176 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 572 | 4.73 | 155 |
 | 177 | [FAR CRY 4](games/f/far_cry_4.md) | 563 | 4.67 | 256 |
@@ -184,7 +184,7 @@
 | 182 | [Vampyr](games/v/vampyr.md) | 549 | 4.32 | 756 |
 | 183 | [Star Trek Online](games/s/star_trek_online.md) | 547 | 4.44 | 633 |
 | 184 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 545 | 4.62 | 348 |
-| 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 541 | 4.41 | 670 |
+| 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 542 | 4.41 | 670 |
 | 186 | [Godfall Ultimate Edition](games/g/godfall.md) | 521 | 4.07 | 894 |
 | 187 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 510 | 4.52 | 515 |
 | 188 | [Terraforming Mars](games/t/terraforming_mars.md) | 501 | 4.54 | 491 |
@@ -220,7 +220,7 @@
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 347 | 4.71 | 180 |
 | 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 345 | 4.85 | 40 |
 | 220 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 340 | 4.76 | 118 |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 335 | 3.94 | 919 |
+| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 337 | 3.94 | 919 |
 | 222 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 29 |
 | 223 | [Dungeons 3](games/d/dungeons_3.md) | 326 | 4.65 | 296 |
 | 223 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 699 |
