@@ -75,7 +75,7 @@
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 394 | 208 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 37 | 425 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 199 |
-| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,390 | 121 |
+| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,396 | 121 |
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 497 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 461 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,317 | 51 |
@@ -102,7 +102,7 @@
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,285 | 36 |
 | 99 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 497 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 158 |
-| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,316 | 100 |
+| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,318 | 100 |
 | 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 43 | 411 |
 | 99 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 497 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 145 |
@@ -127,7 +127,7 @@
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 497 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,665 | 114 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 46 | 403 |
-| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,741 | 38 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,756 | 38 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 497 |
 | 118 | [Star Atlas](games/s/star_atlas.md) | 4.76 | 0 | 497 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 43 | 411 |
@@ -289,7 +289,7 @@
 | 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 551 | 181 |
 | 276 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 443 |
 | 276 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.66 | 0 | 497 |
-| 276 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 475 | 191 |
+| 276 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 478 | 191 |
 | 276 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 62 | 377 |
 | 276 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 497 |
 | 276 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,791 | 57 |
@@ -310,7 +310,7 @@
 | 296 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,884 | 107 |
 | 296 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 390 |
 | 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 497 |
-| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,575 | 16 |
+| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,580 | 16 |
 | 296 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 472 |
 | 296 | [SOMA](games/s/soma.md) | 4.65 | 0 | 497 |
 | 296 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 497 |
@@ -469,7 +469,7 @@
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 497 |
 | 454 | [Minit](games/m/minit.md) | 4.56 | 0 | 497 |
 | 454 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,743 | 66 |
-| 454 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,486 | 44 |
+| 454 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,488 | 44 |
 | 454 | [Observation](games/o/observation.md) | 4.56 | 0 | 497 |
 | 454 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.56 | 2,175 | 103 |
 | 454 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,786 | 111 |
@@ -492,7 +492,7 @@
 | 478 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,187 | 129 |
 | 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,703 | 67 |
 | 491 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
-| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,146 | 132 |
+| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,149 | 132 |
 | 491 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 367 |
 | 491 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 478 |
 | 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
@@ -663,7 +663,7 @@
 | 659 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 453 |
 | 659 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,216 | 30 |
 | 659 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 497 |
-| 659 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,146 | 132 |
+| 659 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,146 | 133 |
 | 659 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 659 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 241 |
 | 659 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 137 | 296 |
@@ -858,7 +858,7 @@
 | 851 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 497 |
 | 857 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 467 |
 | 857 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 497 |
-| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,348 | 98 |
+| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,354 | 98 |
 | 857 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 497 |
 | 861 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 497 |
 | 861 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 172 |
