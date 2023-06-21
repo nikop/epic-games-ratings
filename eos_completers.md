@@ -33,7 +33,7 @@
 | 31 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 5.56% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.37% |
+| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
 | 35 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
@@ -49,7 +49,7 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.27% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.22% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -112,9 +112,9 @@
 | 110 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
 | 110 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 112 | [Train Valley](games/t/train_valley.md) | 0.66% |
-| 113 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.65% |
-| 114 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
-| 114 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
+| 113 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 113 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
+| 113 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.64% |
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 117 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |

@@ -339,6 +339,7 @@
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
+| [Reyna Darkness](../games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 13 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |

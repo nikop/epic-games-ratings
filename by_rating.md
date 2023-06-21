@@ -92,7 +92,7 @@
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 396 | 206 |
 | 89 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 287 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 497 |
-| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 648 | 166 |
+| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 649 | 166 |
 | 89 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,176 | 130 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,892 | 55 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 373 | 211 |
@@ -171,30 +171,30 @@
 | 167 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 295 |
 | 167 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 420 |
 | 167 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 497 |
-| 167 | [shapez](games/s/shapez.md) | 4.72 | 193 | 267 |
+| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 361 |
+| 167 | [shapez](games/s/shapez.md) | 4.72 | 193 | 268 |
 | 167 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 314 | 227 |
 | 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 497 |
 | 167 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 497 |
 | 167 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 497 |
 | 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 124 | 304 |
 | 167 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 497 |
-| 179 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 497 |
-| 179 | [Barony](games/b/barony.md) | 4.71 | 72 | 363 |
-| 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 497 |
-| 179 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 347 | 218 |
-| 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 497 |
-| 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,499 | 50 |
-| 179 | [Fez](games/f/fez.md) | 4.71 | 23 | 476 |
-| 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 432 |
-| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,260 | 46 |
-| 179 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 497 |
-| 179 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 497 |
-| 179 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 497 |
-| 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 73 | 361 |
-| 179 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 497 |
-| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 313 |
-| 179 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 497 |
-| 179 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 497 |
+| 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 497 |
+| 180 | [Barony](games/b/barony.md) | 4.71 | 72 | 363 |
+| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 497 |
+| 180 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 347 | 218 |
+| 180 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 497 |
+| 180 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,499 | 50 |
+| 180 | [Fez](games/f/fez.md) | 4.71 | 23 | 476 |
+| 180 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 432 |
+| 180 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,260 | 46 |
+| 180 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 497 |
+| 180 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 497 |
+| 180 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 497 |
+| 180 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 497 |
+| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 313 |
+| 180 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 497 |
+| 180 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 497 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,536 | 69 |
 | 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 367 | 214 |
 | 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,399 | 70 |
@@ -523,7 +523,7 @@
 | 515 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 327 |
 | 515 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 291 |
 | 515 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 119 | 308 |
-| 515 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,262 | 127 |
+| 515 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,271 | 127 |
 | 515 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 497 |
 | 515 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 234 |
 | 515 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 497 |
@@ -531,7 +531,7 @@
 | 515 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.52 | 0 | 497 |
 | 515 | [Tails of Iron](games/t/tails_of_iron.md) | 4.52 | 0 | 497 |
 | 515 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.52 | 0 | 497 |
-| 532 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,616 | 116 |
+| 532 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,619 | 116 |
 | 532 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 336 |
 | 532 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
 | 532 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 497 |
@@ -652,7 +652,7 @@
 | 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 497 |
 | 633 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 384 |
 | 652 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 497 |
-| 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 193 | 267 |
+| 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 194 | 267 |
 | 652 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 497 |
 | 652 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 497 |
 | 652 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 370 |
@@ -790,14 +790,14 @@
 | 787 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 303 |
 | 787 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 429 |
 | 787 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 281 |
-| 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 497 |
 | 791 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 497 |
 | 791 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,475 | 93 |
 | 791 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 230 |
-| 795 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 497 |
-| 795 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 497 |
-| 795 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 497 |
-| 795 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 497 |
+| 794 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 497 |
+| 794 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 497 |
+| 794 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 497 |
+| 794 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 497 |
+| 794 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 497 |
 | 799 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 27 | 461 |
 | 799 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,029 | 139 |
 | 799 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 497 |
