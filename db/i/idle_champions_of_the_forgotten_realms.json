@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4370,10 +4370,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30159,
       "NumberOfAwardsMax": 4951
+    },
+    {
+      "Time": "2023-06-21T14:58:25.6277359+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30161,
+      "NumberOfAwardsMax": 4951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30159,
+  "NumberOfAwards": 30161,
   "NumberOfAwardsMax": 4951,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4417,13 +4423,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3256
+      "Count": 3258
     }
   ],
-  "EOS_Progressed": 100987,
-  "EOS_Completed": 1974,
-  "EOS_NewPlayers": 10296,
-  "EOS_NewCompleters": 41,
+  "EOS_Progressed": 101071,
+  "EOS_Completed": 1975,
+  "EOS_NewPlayers": 10377,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
     {
@@ -10850,6 +10856,11 @@
       "Time": "2023-06-21T14:06:26.1011875+00:00",
       "NumProgressed": 100987,
       "NumCompleted": 1974
+    },
+    {
+      "Time": "2023-06-21T15:06:46.6472332+00:00",
+      "NumProgressed": 101071,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 493,
@@ -10861,7 +10872,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8079
+      "UsersEstimate": 8086
     },
     {
       "ID": "objective_completed_10",
@@ -11229,7 +11240,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3032
     },
     {
       "ID": "objective_completed_110",
@@ -11725,7 +11736,7 @@
       "Name": "Were-verpowered",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_1203",
@@ -11733,7 +11744,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "objective_completed_1204",
@@ -11749,7 +11760,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "objective_completed_1209",
@@ -11837,7 +11848,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_130",
@@ -11981,7 +11992,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "objective_completed_150",
@@ -12189,7 +12200,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "objective_completed_20",
@@ -12533,7 +12544,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4043
     },
     {
       "ID": "objective_completed_34",
@@ -12541,7 +12552,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "objective_completed_35",
@@ -12549,7 +12560,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "objective_completed_36",
@@ -12653,7 +12664,7 @@
       "Name": "Seeking Allies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_390",
@@ -12725,7 +12736,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_40",
@@ -12997,7 +13008,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_54",
@@ -14005,7 +14016,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3032
     },
     {
       "ID": "objective_completed_70",
@@ -14077,7 +14088,7 @@
       "Name": "Friendly Imps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_80",
@@ -14605,7 +14616,7 @@
       "Name": "Pure Energy",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_902",
@@ -14773,7 +14784,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "objective_completed_1356",
@@ -14797,28 +14808,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 67261,
+      "Progressed": 67345,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 100987,
-      "Completed": 1974
+      "Progressed": 101071,
+      "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-21T05:58:35.9034182+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:06:26.1011869+00:00",
+  "LastChanged": "2023-06-21T14:58:25.6277358+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:46.6472328+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:58:23.1657851+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:06:26.1034008+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:58:25.6277371+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:46.6498284+00:00"
 }

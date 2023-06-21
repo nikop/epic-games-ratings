@@ -14,7 +14,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Breaking Point | 40.00% | ~150 |
 | Here Comes the Boom | 40.00% | ~150 |
 | Treasure Hunter | 37.00% | ~139 |
-| Sniper Wolf | 35.00% | ~132 |
+| Sniper Wolf | 36.00% | ~135 |
 | The Motivation | 34.00% | ~128 |
 | Heroism | 33.00% | ~124 |
 | Missing in Action | 33.00% | ~124 |

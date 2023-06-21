@@ -7,18 +7,18 @@ Rating: 4.31 (Ranked 766)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~953 |
 | A new Journey | 72.00% | ~940 |
+| From X to Y | 71.00% | ~927 |
 | Departure | 71.00% | ~927 |
-| From X to Y | 70.00% | ~913 |
 | Way of Iron | 69.00% | ~900 |
 | Mystery Tour | 67.00% | ~874 |
+| We brake for nobody | 66.00% | ~861 |
 | Brainstorm | 65.00% | ~848 |
-| We brake for nobody | 65.00% | ~848 |
 | Travel Company | 64.00% | ~835 |
 | Mind the Gap | 63.00% | ~822 |
 | All around the World | 61.00% | ~796 |
 | Right through the middle | 56.00% | ~731 |
+| Poor Devil | 53.00% | ~692 |
 | Facility Manager | 52.00% | ~679 |
-| Poor Devil | 52.00% | ~679 |
 | Producer | 49.00% | ~639 |
 | Apprentice | 42.00% | ~548 |
 | Bridge Builder | 40.00% | ~522 |
@@ -52,8 +52,8 @@ Rating: 4.31 (Ranked 766)
 | Unstoppable | 5.00% | ~65 |
 | Track to the Future | 5.00% | ~65 |
 | Conductor | 3.00% | ~39 |
+| Call of Duty | 3.00% | ~39 |
 | Let off some steam | 2.00% | ~26 |
-| Call of Duty | 2.00% | ~26 |
 | Engineer | 1.00% | ~13 |
 | Accurate | 1.00% | ~13 |
 | Together we stand | 0.40% | ~5 |

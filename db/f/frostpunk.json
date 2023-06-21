@@ -3864,11 +3864,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 6565,
       "NumberOfAwardsMax": 782
+    },
+    {
+      "Time": "2023-06-21T14:58:01.149099+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6568,
+      "NumberOfAwardsMax": 783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6565,
-  "NumberOfAwardsMax": 782,
+  "NumberOfAwards": 6568,
+  "NumberOfAwardsMax": 783,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3881,7 +3887,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 782
+      "Count": 783
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3899,7 +3905,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 702
+      "Count": 704
     },
     {
       "Text": "This game is Educational",
@@ -3957,9 +3963,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-06-20T14:59:00.7130208+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:05:46.1654232+00:00",
+  "LastChanged": "2023-06-21T14:58:01.1490988+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:07.4111692+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:25.6087541+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:57:57.4207032+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:05:46.1654255+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:58:01.1490995+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:07.4111747+00:00"
 }

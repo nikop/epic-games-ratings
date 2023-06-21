@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1456,
+  "EOS_Progressed": 1457,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3372,6 +3372,11 @@
       "Time": "2023-06-21T12:07:28.3060732+00:00",
       "NumProgressed": 1456,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T15:06:37.2350818+00:00",
+      "NumProgressed": 1457,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3447,7 +3452,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "conqueror",
@@ -3471,7 +3476,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "doingmypart",
@@ -3479,7 +3484,7 @@
       "Name": "Doing My Part",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "dragonclicker",
@@ -3615,7 +3620,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "herewegoagain",
@@ -3655,7 +3660,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "jewelenchanting",
@@ -3703,7 +3708,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "milestonecollector",
@@ -3775,7 +3780,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "prestigiousx10",
@@ -3791,7 +3796,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "sailor",
@@ -3815,7 +3820,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "silverwoodliberator",
@@ -3943,7 +3948,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "warmachinesarmy",
@@ -3975,14 +3980,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1456,
+      "Progressed": 1457,
       "Completed": 1
     }
   ],
@@ -3990,8 +3995,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:06:16.2567807+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:37.2350814+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:58:17.1687941+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:06:16.2568574+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:58:20.2469277+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:37.2351848+00:00"
 }

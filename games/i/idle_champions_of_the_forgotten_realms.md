@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,079 |
-| The Cursed Farmer | 4.00% | ~4,039 |
-| Beast Intentions | 3.00% | ~3,030 |
-| The Mad Wizard | 3.00% | ~3,030 |
-| The Ring of Regeneration | 2.00% | ~2,020 |
-| Were-verpowered | 1.00% | ~1,010 |
-| A Persistent Buzzing | 1.00% | ~1,010 |
-| Seeking Allies | 1.00% | ~1,010 |
-| Are Ya Chicken? | 1.00% | ~1,010 |
-| Mad Cow Disease | 1.00% | ~1,010 |
-| Friendly Imps | 1.00% | ~1,010 |
-| Pure Energy | 1.00% | ~1,010 |
-| The Court of Storms | 0.90% | ~605 |
-| Terror in the Dark | 0.80% | ~808 |
-| Unearthed Evil | 0.80% | ~808 |
-| The Crumbling Temple | 0.80% | ~808 |
+| A Brief Tour of the Realms | 8.00% | ~8,086 |
+| The Cursed Farmer | 4.00% | ~4,043 |
+| Beast Intentions | 3.00% | ~3,032 |
+| The Mad Wizard | 3.00% | ~3,032 |
+| The Ring of Regeneration | 2.00% | ~2,021 |
+| Were-verpowered | 1.00% | ~1,011 |
+| A Persistent Buzzing | 1.00% | ~1,011 |
+| Seeking Allies | 1.00% | ~1,011 |
+| Are Ya Chicken? | 1.00% | ~1,011 |
+| Mad Cow Disease | 1.00% | ~1,011 |
+| Friendly Imps | 1.00% | ~1,011 |
+| Pure Energy | 1.00% | ~1,011 |
+| The Court of Storms | 0.90% | ~606 |
+| Terror in the Dark | 0.80% | ~809 |
+| Unearthed Evil | 0.80% | ~809 |
+| The Crumbling Temple | 0.80% | ~809 |
 | A Mysterious Summons | 0.70% | ~707 |
 | Useless Allies | 0.70% | ~707 |
 | Exploring Port Nyanzaru | 0.70% | ~707 |
@@ -34,15 +34,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.60% | ~606 |
 | Waterdeep Detours | 0.60% | ~606 |
 | Coasting to the Finish | 0.60% | ~404 |
-| Checkmate | 0.50% | ~336 |
-| Vecna Out! | 0.50% | ~336 |
+| Checkmate | 0.50% | ~337 |
+| Vecna Out! | 0.50% | ~337 |
 | Low Initiative | 0.50% | ~505 |
 | No Time To Rest | 0.50% | ~505 |
 | The Dinner Party | 0.50% | ~505 |
 | Underdeep Cartography | 0.50% | ~505 |
 | The Templar's Camp | 0.50% | ~505 |
 | Rescue in the Jungle | 0.50% | ~505 |
-| Quick or Quack | 0.50% | ~336 |
+| Quick or Quack | 0.50% | ~337 |
 | The Silken Swamp | 0.40% | ~404 |
 | Supply Run | 0.40% | ~404 |
 | Owlbear Necessities | 0.40% | ~269 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,987 (Ranked 63)  
-Completed: 1,974 (1.95%) (Ranked 73)  
+Progressed: 101,071 (Ranked 63)  
+Completed: 1,975 (1.95%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -562,10 +562,10 @@ Completed: 1,974 (1.95%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,987 | 1,974 |
+| 2023-06-21 | 101,071 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
-Sum: 30,159 (Ranked 37)  
+Sum: 30,161 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -575,7 +575,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,518 |
 | This game is Highly Recommended | 3,966 |
 | This game has Amazing Characters | 3,965 |
-| This game has Playful Visuals | 3,256 |
+| This game has Playful Visuals | 3,258 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -725,4 +725,4 @@ Diff (max vs sum): 27
 | 2023-06-18 | 4.06 | - | 4,948 | 30,140 |
 | 2023-06-19 | 4.06 | - | 4,949 | 30,148 |
 | 2023-06-20 | 4.06 | - | 4,951 | 30,156 |
-| 2023-06-21 | 4.06 | - | 4,951 | 30,159 |
+| 2023-06-21 | 4.06 | - | 4,951 | 30,161 |

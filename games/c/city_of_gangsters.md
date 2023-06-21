@@ -5,27 +5,27 @@ Rating: 4.25 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~148,993 |
-| Copacetic Coordination | 16.00% | ~51,824 |
-| Fronting the Money | 14.00% | ~45,346 |
-| The Dawn of Automation | 14.00% | ~45,346 |
-| Extraordinary Logistics | 14.00% | ~45,346 |
-| Dirty Money | 13.00% | ~42,107 |
-| Family First | 13.00% | ~42,107 |
-| Cleaning House | 12.00% | ~38,868 |
-| Room in the Back | 12.00% | ~38,868 |
-| Booze Baron | 11.00% | ~35,629 |
-| Beating the Heat | 10.00% | ~32,390 |
-| Friends on the Force | 10.00% | ~32,390 |
-| Neighborhood Watch | 10.00% | ~32,390 |
-| Core Corps | 8.00% | ~25,912 |
-| Sizeable Stash | 7.00% | ~22,673 |
-| Street Fighter | 7.00% | ~22,673 |
-| Friendly Gestures | 7.00% | ~22,673 |
-| People Person | 7.00% | ~22,673 |
-| Liquor Lord | 6.00% | ~19,434 |
-| Safety in Numbers | 6.00% | ~19,434 |
-| Show ‘em the Sugar | 6.00% | ~19,434 |
+| Corner Clout | 46.00% | ~148,998 |
+| Copacetic Coordination | 16.00% | ~51,825 |
+| Fronting the Money | 14.00% | ~45,347 |
+| The Dawn of Automation | 14.00% | ~45,347 |
+| Extraordinary Logistics | 14.00% | ~45,347 |
+| Dirty Money | 13.00% | ~42,108 |
+| Family First | 13.00% | ~42,108 |
+| Cleaning House | 12.00% | ~38,869 |
+| Room in the Back | 12.00% | ~38,869 |
+| Booze Baron | 11.00% | ~35,630 |
+| Beating the Heat | 10.00% | ~32,391 |
+| Friends on the Force | 10.00% | ~32,391 |
+| Neighborhood Watch | 10.00% | ~32,391 |
+| Core Corps | 8.00% | ~25,913 |
+| Sizeable Stash | 7.00% | ~22,674 |
+| Street Fighter | 7.00% | ~22,674 |
+| Friendly Gestures | 7.00% | ~22,674 |
+| People Person | 7.00% | ~22,674 |
+| Liquor Lord | 6.00% | ~19,435 |
+| Safety in Numbers | 6.00% | ~19,435 |
+| Show ‘em the Sugar | 6.00% | ~19,435 |
 | Street Knowledge | 5.00% | ~16,195 |
 | Oh Captain | 5.00% | ~16,195 |
 | Branching Out | 5.00% | ~16,195 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 799)
 | High Pillow | 0.10% | ~324 |
 | Station Master | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,898 (Ranked 40)  
+Progressed: 323,909 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 5 (0.00%) (Ranked 227)
 | 2023-06-18 | 323,249 | 5 |
 | 2023-06-19 | 323,511 | 5 |
 | 2023-06-20 | 323,768 | 5 |
-| 2023-06-21 | 323,898 | 5 |
+| 2023-06-21 | 323,909 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 461)  
 Sum: 95 (Ranked 407)  

@@ -57,9 +57,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.60% | ~60 |
 | Masterful Charge | 0.40% | ~40 |
 | Prelate's Nemesis | 0.40% | ~40 |
+| Ashes to Ashes | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
-| Ashes to Ashes | 0.20% | ~20 |
 | Path of the Swarm | 0.10% | ~10 |
 | Equal to Aroden | 0.10% | ~10 |
 | Spirit of Adventure | 0.10% | ~10 |

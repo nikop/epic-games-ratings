@@ -19,14 +19,14 @@
 | Churchill | 51.00% | ~55 |
 | Sam | 51.00% | ~55 |
 | Doctor | 50.00% | ~54 |
+| Leave | 49.00% | ~52 |
 | Commissioner | 49.00% | ~52 |
 | Engineer | 49.00% | ~52 |
-| Leave | 48.00% | ~51 |
 | Soldier | 48.00% | ~51 |
 | Press Play | 36.00% | ~39 |
 | General | 24.00% | ~26 |
 | Bookworm | 22.00% | ~24 |
-| Stay | 14.00% | ~15 |
+| Stay | 15.00% | ~16 |
 | Floppy Disk Finder | 13.00% | ~14 |
 | Nurse | 11.00% | ~12 |
 | No Page Unturned | 5.00% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -1709,9 +1709,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_011",
@@ -1822,8 +1822,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:05:55.9235839+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:17.2028524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.6609834+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:58:17.9453584+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:05:55.9236047+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:58:21.824818+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:17.2028786+00:00"
 }

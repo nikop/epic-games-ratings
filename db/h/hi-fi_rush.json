@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3299,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3640,9 +3640,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 990
     },
     {
       "ID": "Ach007",
@@ -3672,9 +3672,9 @@
       "ID": "Ach010",
       "SetID": "12n4k20",
       "Name": "I think I deserve some praise, here!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 231
     },
     {
       "ID": "Ach011",
@@ -4103,8 +4103,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:06:20.0354826+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:40.7212701+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-21T13:58:47.635001+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:06:20.0355432+00:00"
+  "LastUpdate_Ratings": "2023-06-21T14:58:58.3530413+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:40.7213498+00:00"
 }

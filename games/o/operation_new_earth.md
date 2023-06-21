@@ -9,7 +9,7 @@
 | Facility Online | 48.00% | ~81 |
 | Corporal | 36.00% | ~60 |
 | Sergeant | 27.00% | ~45 |
-| Covert Operative | 24.00% | ~40 |
+| Covert Operative | 25.00% | ~42 |
 | Lieutenant | 20.00% | ~34 |
 | Stocking Up | 20.00% | ~34 |
 | On Target | 18.00% | ~30 |
@@ -20,7 +20,7 @@
 | Silver Competitor | 13.00% | ~22 |
 | Brothers in Arms | 11.00% | ~18 |
 | Factory Expansion | 11.00% | ~18 |
-| Captain | 9.00% | ~15 |
+| Captain | 10.00% | ~17 |
 | Exterminator | 8.00% | ~13 |
 | Moving On Up | 6.00% | ~10 |
 | Player Betrayer | 5.00% | ~8 |

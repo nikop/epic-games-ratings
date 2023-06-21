@@ -6,39 +6,39 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,877 |
-| Let There Be Light | 26.00% | ~14,525 |
-| Float Like a Butterfly | 25.00% | ~13,966 |
-| Nordic Walking | 20.00% | ~11,173 |
-| Bright Falls' Finest | 19.00% | ~10,615 |
-| Under a Thin Layer of Skin | 17.00% | ~9,497 |
-| Park Ranger | 14.00% | ~7,821 |
-| Paging Mr. Wake | 14.00% | ~7,821 |
-| Back! Back, I Say! | 13.00% | ~7,263 |
-| Finders Keepers | 13.00% | ~7,263 |
-| Damn Good Cup of Coffee | 12.00% | ~6,704 |
-| Wheels Within Wheels | 11.00% | ~6,145 |
-| They're Heeeeeere! | 11.00% | ~6,145 |
-| Sound and Fury | 11.00% | ~6,145 |
-| Missed by a Mile | 11.00% | ~6,145 |
-| Heavy Metal | 10.00% | ~5,587 |
-| Iron Horse | 10.00% | ~5,587 |
-| The Six-Gun Scribe | 10.00% | ~5,587 |
-| Collateral Carnage | 10.00% | ~5,587 |
-| Come One, Come All | 10.00% | ~5,587 |
-| Perchance to Dream | 9.00% | ~5,028 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,028 |
-| Thunder and Lightning | 9.00% | ~5,028 |
-| Gatekeeper | 8.00% | ~4,469 |
-| The Lady of the Light | 8.00% | ~4,469 |
-| Two For the Price of One | 8.00% | ~4,469 |
-| Energized! | 8.00% | ~4,469 |
-| A Friend in Need | 8.00% | ~1,547 |
+| Follow the Light | 32.00% | ~17,880 |
+| Let There Be Light | 26.00% | ~14,528 |
+| Float Like a Butterfly | 25.00% | ~13,969 |
+| Nordic Walking | 20.00% | ~11,175 |
+| Bright Falls' Finest | 19.00% | ~10,616 |
+| Under a Thin Layer of Skin | 17.00% | ~9,499 |
+| Park Ranger | 14.00% | ~7,823 |
+| Paging Mr. Wake | 14.00% | ~7,823 |
+| Back! Back, I Say! | 13.00% | ~7,264 |
+| Finders Keepers | 13.00% | ~7,264 |
+| Damn Good Cup of Coffee | 12.00% | ~6,705 |
+| Wheels Within Wheels | 11.00% | ~6,146 |
+| They're Heeeeeere! | 11.00% | ~6,146 |
+| Sound and Fury | 11.00% | ~6,146 |
+| Missed by a Mile | 11.00% | ~6,146 |
+| Heavy Metal | 10.00% | ~5,588 |
+| Iron Horse | 10.00% | ~5,588 |
+| The Six-Gun Scribe | 10.00% | ~5,588 |
+| Collateral Carnage | 10.00% | ~5,588 |
+| Come One, Come All | 10.00% | ~5,588 |
+| Perchance to Dream | 9.00% | ~5,029 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,029 |
+| Thunder and Lightning | 9.00% | ~5,029 |
+| Gatekeeper | 8.00% | ~4,470 |
+| The Lady of the Light | 8.00% | ~4,470 |
+| Two For the Price of One | 8.00% | ~4,470 |
+| Energized! | 8.00% | ~4,470 |
+| A Friend in Need | 8.00% | ~1,548 |
 | What Light Through Yonder Window | 7.00% | ~3,911 |
 | Right of Way | 7.00% | ~3,911 |
-| Tornado Wrangler | 6.00% | ~3,352 |
-| A Friend Indeed | 6.00% | ~1,160 |
-| Departure | 5.00% | ~2,793 |
+| Tornado Wrangler | 6.00% | ~3,353 |
+| A Friend Indeed | 6.00% | ~1,161 |
+| Departure | 5.00% | ~2,794 |
 | Ding! | 5.00% | ~967 |
 | Children of the Elder God | 4.00% | ~2,235 |
 | Drink 'Em Both Up | 4.00% | ~2,235 |
@@ -48,10 +48,10 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,676 |
 | Kill Your Darlings | 3.00% | ~580 |
 | Heartbreaker | 3.00% | ~580 |
-| Medical Opinions | 2.00% | ~1,117 |
-| Taken Season | 2.00% | ~1,117 |
-| Carny | 2.00% | ~1,117 |
-| An Idyllic Small Town | 2.00% | ~1,117 |
+| Medical Opinions | 2.00% | ~1,118 |
+| Taken Season | 2.00% | ~1,118 |
+| Carny | 2.00% | ~1,118 |
+| An Idyllic Small Town | 2.00% | ~1,118 |
 | Iron Will | 2.00% | ~387 |
 | Couch Potato | 1.00% | ~559 |
 | Go Gentle Into That Good Light | 1.00% | ~193 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,866 (Ranked 79)  
+Progressed: 55,876 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-18 | 55,644 | 56 |
 | 2023-06-19 | 55,743 | 56 |
 | 2023-06-20 | 55,823 | 56 |
-| 2023-06-21 | 55,866 | 56 |
+| 2023-06-21 | 55,876 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

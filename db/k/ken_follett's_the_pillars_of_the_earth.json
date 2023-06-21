@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13412,
+  "EOS_Progressed": 13413,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -4619,6 +4619,11 @@
       "Time": "2023-06-21T14:05:58.9459898+00:00",
       "NumProgressed": 13412,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-06-21T15:06:20.2268971+00:00",
+      "NumProgressed": 13413,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 41,
@@ -4742,7 +4747,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "tpote_achievement_23",
@@ -4766,7 +4771,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "tpote_achievement_26",
@@ -4854,7 +4859,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "tpote_achievement_36",
@@ -4878,7 +4883,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "tpote_achievement_39",
@@ -4950,22 +4955,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4695
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13412,
+      "Progressed": 13413,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-21T14:05:58.9459892+00:00",
+  "LastChanged_Achievements": "2023-06-21T15:06:20.2268967+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-21T14:00:24.7838736+00:00",
-  "LastUpdate_Achievements": "2023-06-21T14:05:58.9460354+00:00"
+  "LastUpdate_Ratings": "2023-06-21T15:00:28.0819483+00:00",
+  "LastUpdate_Achievements": "2023-06-21T15:06:20.226954+00:00"
 }

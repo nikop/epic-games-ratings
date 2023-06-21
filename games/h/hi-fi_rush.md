@@ -25,7 +25,7 @@ Rating: 4.89 (Ranked 13)
 | You must like calling me in, Chai | 33.00% | ~1,089 |
 | Out in a puff of smoke | 33.00% | ~1,089 |
 | Headliner | 32.00% | ~1,056 |
-| Time to pay up! | 29.00% | ~957 |
+| Time to pay up! | 30.00% | ~990 |
 | Perfecter Parry-er! | 29.00% | ~957 |
 | Who's the boss now? | 28.00% | ~924 |
 | I have to read these things? | 28.00% | ~924 |
@@ -39,11 +39,11 @@ Rating: 4.89 (Ranked 13)
 | Wanna hear my playlist? | 11.00% | ~363 |
 | Check out my moves! | 11.00% | ~363 |
 | We're Jammin' | 8.00% | ~264 |
+| I think I deserve some praise, here! | 7.00% | ~231 |
 | I think I found your calling, Macaron | 7.00% | ~231 |
 | I'm not done with you yet | 7.00% | ~231 |
 | First we parry, then we counter | 7.00% | ~231 |
 | I hit things with a guitar really well. | 7.00% | ~231 |
-| I think I deserve some praise, here! | 6.00% | ~198 |
 | You ever parry a volcano? | 6.00% | ~198 |
 | This is a breeze! | 4.00% | ~132 |
 | Easy Listening | 3.00% | ~99 |

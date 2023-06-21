@@ -6,11 +6,11 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,446 |
+| Unforgiven | 87.00% | ~1,447 |
 | Self-Improvement | 72.00% | ~1,197 |
-| Perky | 66.00% | ~1,097 |
-| Let’s Ride | 60.00% | ~997 |
-| Welcome to the Weird West | 57.00% | ~947 |
+| Perky | 65.00% | ~1,081 |
+| Let’s Ride | 60.00% | ~998 |
+| Welcome to the Weird West | 57.00% | ~948 |
 | Dead or Alive | 56.00% | ~931 |
 | Full House | 37.00% | ~615 |
 | Off the Trail | 34.00% | ~565 |
@@ -28,10 +28,10 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~266 |
 | Dog Days | 13.00% | ~216 |
 | Workers' Rights | 13.00% | ~216 |
-| Elusive Prey | 12.00% | ~199 |
-| Out on the Ebb Tide | 12.00% | ~199 |
-| Power Behind the Pulpit | 12.00% | ~199 |
-| Turning the Tables | 12.00% | ~199 |
+| Elusive Prey | 12.00% | ~200 |
+| Out on the Ebb Tide | 12.00% | ~200 |
+| Power Behind the Pulpit | 12.00% | ~200 |
+| Turning the Tables | 12.00% | ~200 |
 | Something Wicked This Way Comes… | 11.00% | ~183 |
 | There is Hope | 11.00% | ~183 |
 | Loyalty to the Pack | 9.00% | ~150 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,662 (Ranked 163)  
+Progressed: 1,663 (Ranked 163)  
 Completed: 2 (0.12%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 171)
 | 2023-06-17 | 1,658 | 2 |
 | 2023-06-18 | 1,660 | 2 |
 | 2023-06-20 | 1,661 | 2 |
-| 2023-06-21 | 1,662 | 2 |
+| 2023-06-21 | 1,663 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 472)  
 Sum: 24 (Ranked 478)  

@@ -6,26 +6,26 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,875 |
-| Haikyo | 80.00% | ~340,947 |
-| Good as New | 72.00% | ~306,852 |
-| Into the Woods | 69.00% | ~294,067 |
-| Hunter in the Forest | 60.00% | ~255,710 |
-| Rot Commander | 60.00% | ~255,710 |
-| Taro's Fear | 56.00% | ~238,663 |
-| Between the Eyes | 46.00% | ~196,045 |
-| Taro's Love | 45.00% | ~191,783 |
-| Taro's Regret | 43.00% | ~183,259 |
-| Spirit Guide | 42.00% | ~178,997 |
-| Harness Your Power | 38.00% | ~161,950 |
-| The Open Range | 37.00% | ~157,688 |
+| Found a Friend | 95.00% | ~404,877 |
+| Haikyo | 80.00% | ~340,949 |
+| Good as New | 72.00% | ~306,854 |
+| Into the Woods | 69.00% | ~294,068 |
+| Hunter in the Forest | 60.00% | ~255,712 |
+| Rot Commander | 60.00% | ~255,712 |
+| Taro's Fear | 56.00% | ~238,664 |
+| Between the Eyes | 46.00% | ~196,046 |
+| Taro's Love | 45.00% | ~191,784 |
+| Taro's Regret | 43.00% | ~183,260 |
+| Spirit Guide | 42.00% | ~178,998 |
+| Harness Your Power | 38.00% | ~161,951 |
+| The Open Range | 37.00% | ~157,689 |
 | Adira's Love | 34.00% | ~144,903 |
-| Adira's Fear | 32.00% | ~136,379 |
-| Weigh Them Down | 31.00% | ~132,117 |
-| Adira's Regret | 31.00% | ~132,117 |
-| A Heavy Hammer | 30.00% | ~127,855 |
-| Crossing Over | 29.00% | ~123,593 |
-| Quick Draw | 29.00% | ~123,593 |
+| Adira's Fear | 32.00% | ~136,380 |
+| Weigh Them Down | 31.00% | ~132,118 |
+| Adira's Regret | 31.00% | ~132,118 |
+| A Heavy Hammer | 30.00% | ~127,856 |
+| Crossing Over | 29.00% | ~123,594 |
+| Quick Draw | 29.00% | ~123,594 |
 | Toshi's Fear | 27.00% | ~115,070 |
 | Toshi's Love | 27.00% | ~115,070 |
 | A Leader Walks Alone | 26.00% | ~110,808 |
@@ -33,7 +33,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Lonely Path | 26.00% | ~110,808 |
 | Toshi's Regret | 26.00% | ~110,808 |
 | Restore Balance | 25.00% | ~106,546 |
-| Say Cheese | 16.00% | ~68,189 |
+| Say Cheese | 16.00% | ~68,190 |
 | Skillful Spirit Guide | 15.00% | ~63,928 |
 | Piercing Blow | 14.00% | ~59,666 |
 | Zen Master | 8.00% | ~34,095 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,836 |
 | Master Spirit Guide | 0.30% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,184 (Ranked 36)  
+Progressed: 426,186 (Ranked 36)  
 Completed: 509 (0.12%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 509 (0.12%) (Ranked 171)
 | 2023-06-18 | 426,124 | 508 |
 | 2023-06-19 | 426,150 | 509 |
 | 2023-06-20 | 426,170 | 509 |
-| 2023-06-21 | 426,184 | 509 |
+| 2023-06-21 | 426,186 | 509 |
 ## Awards
 Max (Great Boss Battles): 1,302  (Ranked 124)  
 Sum: 1,674 (Ranked 203)  
