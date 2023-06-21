@@ -7,9 +7,9 @@ Number of Ratings: 55,748  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matchmaker | 74.00% | ~798,971 |
-| Bun-Puncher Supreme | 68.00% | ~734,189 |
-| You Mean Business | 68.00% | ~734,189 |
-| You're Getting Pretty Good At This! | 68.00% | ~734,189 |
+| Bun-Puncher Supreme | 68.00% | ~734,190 |
+| You Mean Business | 68.00% | ~734,190 |
+| You're Getting Pretty Good At This! | 68.00% | ~734,190 |
 | Aerial Specialist | 63.00% | ~680,205 |
 | Proving Yourself | 63.00% | ~680,205 |
 | Stepping Out | 63.00% | ~680,205 |
@@ -24,9 +24,9 @@ Number of Ratings: 55,748  (23.09.2022)
 | Toast Master | 41.00% | ~442,673 |
 | Nice Speech | 41.00% | ~442,673 |
 | Credit Where It's Due | 41.00% | ~442,673 |
-| Life of the Party | 36.00% | ~388,688 |
-| Social Butterfly | 36.00% | ~388,688 |
-| Party Animal | 36.00% | ~388,688 |
+| Life of the Party | 36.00% | ~388,689 |
+| Social Butterfly | 36.00% | ~388,689 |
+| Party Animal | 36.00% | ~388,689 |
 | And Your Little Dog, Too! | 33.00% | ~356,298 |
 | Bring A Friend | 33.00% | ~356,298 |
 | Ringouts Are Better In Pairs | 33.00% | ~356,298 |
@@ -35,7 +35,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Going Down? | 29.00% | ~313,110 |
 | Run It Back | 6.00% | ~64,781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079,690 (Ranked 11)  
+Progressed: 1,079,691 (Ranked 11)  
 Completed: 31,681 (2.93%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 31,681 (2.93%) (Ranked 54)
 | 2023-06-18 | 1,079,101 | 31,678 |
 | 2023-06-19 | 1,079,347 | 31,680 |
 | 2023-06-20 | 1,079,619 | 31,680 |
-| 2023-06-21 | 1,079,690 | 31,681 |
+| 2023-06-21 | 1,079,691 | 31,681 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 66)  
 Sum: 45,699 (Ranked 26)  

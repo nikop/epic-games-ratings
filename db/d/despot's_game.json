@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -290,6 +290,11 @@
       "Time": "2023-06-15T14:05:24.283081+00:00",
       "NumProgressed": 401,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T09:08:42.0595665+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -349,7 +354,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "different-items1",
@@ -357,7 +362,7 @@
       "Name": "Party",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "different-items2",
@@ -371,9 +376,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "finished-quest-cube",
@@ -381,7 +386,7 @@
       "Name": "Impossible Cube",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "finished-quest-flight",
@@ -395,17 +400,17 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "finished-quest-pit",
@@ -421,7 +426,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "finished-quest-reaper",
@@ -429,7 +434,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "finished-quest-sci",
@@ -437,7 +442,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "finished-quest-secret",
@@ -467,9 +472,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "last-hero",
@@ -477,7 +482,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "save-zombie",
@@ -509,7 +514,7 @@
       "Name": "Great Hero",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "win-first-biom",
@@ -517,7 +522,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "win-first-level",
@@ -525,7 +530,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "win-koth-fights1",
@@ -533,7 +538,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "win-koth-fights2",
@@ -557,7 +562,7 @@
       "Name": "Through the Darkness",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "win-with-3-cultists",
@@ -580,7 +585,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 1
     }
   ],
@@ -588,8 +593,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-21T08:08:38.1440998+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:08:42.0595657+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:21.782645+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:01:20.5116195+00:00",
-  "LastUpdate_Achievements": "2023-06-21T08:08:38.1441207+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:00:35.0392346+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:08:42.0595982+00:00"
 }

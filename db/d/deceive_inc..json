@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6884,
+  "EOS_Progressed": 6885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4549,6 +4549,11 @@
       "Time": "2023-06-21T07:07:19.7364218+00:00",
       "NumProgressed": 6884,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T09:08:45.7970158+00:00",
+      "NumProgressed": 6885,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4624,7 +4629,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "0010",
@@ -4656,7 +4661,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "0014",
@@ -4664,7 +4669,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "0015",
@@ -4696,7 +4701,7 @@
       "Name": "In It to Win It",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "0019",
@@ -4712,7 +4717,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "0021",
@@ -4768,7 +4773,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "0028",
@@ -4776,7 +4781,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "0029",
@@ -4847,7 +4852,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6884,
+      "Progressed": 6885,
       "Completed": 0
     }
   ],
@@ -4855,8 +4860,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-21T08:08:41.3033023+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:08:45.7970152+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.409508+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:02:24.9479034+00:00",
-  "LastUpdate_Achievements": "2023-06-21T08:08:41.3033406+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:02:01.6937183+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:08:45.7970753+00:00"
 }

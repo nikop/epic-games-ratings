@@ -4,7 +4,7 @@
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 40,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 159,
+  "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 47,
@@ -1928,10 +1928,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2876,
       "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2023-06-21T09:03:00.9549813+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2877,
+      "NumberOfAwardsMax": 345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2876,
+  "NumberOfAwards": 2877,
   "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1987,7 +1993,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2002,9 +2008,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 228440,
+  "EOS_Progressed": 228441,
   "EOS_Completed": 747,
-  "EOS_NewPlayers": 1402,
+  "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8422,6 +8428,11 @@
       "Time": "2023-06-21T08:08:43.6786259+00:00",
       "NumProgressed": 228440,
       "NumCompleted": 747
+    },
+    {
+      "Time": "2023-06-21T09:08:48.6087463+00:00",
+      "NumProgressed": 228441,
+      "NumCompleted": 747
     }
   ],
   "TotalAchievements": 39,
@@ -8465,7 +8476,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 59394
+      "UsersEstimate": 59395
     },
     {
       "ID": "AchievementBigFootID",
@@ -8489,7 +8500,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59394
+      "UsersEstimate": 59395
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -8497,7 +8508,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 207880
+      "UsersEstimate": 207881
     },
     {
       "ID": "AchievementClownID",
@@ -8529,7 +8540,7 @@
       "Name": "Egg Simulator",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36550
+      "UsersEstimate": 36551
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -8545,7 +8556,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75385
+      "UsersEstimate": 75386
     },
     {
       "ID": "AchievementGoatID",
@@ -8561,7 +8572,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 121073
+      "UsersEstimate": 121074
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -8705,7 +8716,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 125642
+      "UsersEstimate": 125643
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -8729,7 +8740,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 148486
+      "UsersEstimate": 148487
     },
     {
       "ID": "AchievementWhaleID",
@@ -8737,23 +8748,23 @@
       "Name": "Real Buoy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59394
+      "UsersEstimate": 59395
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 228440,
+      "Progressed": 228441,
       "Completed": 747
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-06-21T07:01:40.2553614+00:00",
-  "LastChanged_Achievements": "2023-06-21T08:08:43.6786255+00:00",
+  "LastChanged": "2023-06-21T09:03:00.9549812+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:08:48.6087458+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.9159117+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:03:11.3907401+00:00",
-  "LastUpdate_Achievements": "2023-06-21T08:08:43.67868+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:03:00.9549818+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:08:48.6088248+00:00"
 }

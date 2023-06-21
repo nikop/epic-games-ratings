@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 391,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -495,9 +495,9 @@
       "ID": "ACH_028",
       "SetID": "72imik0",
       "Name": "It Wasn\u2019t a Burglary",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_029",
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-06-06T07:57:37.3793148+00:00",
-  "LastChanged_Achievements": "2023-06-21T08:08:44.3568681+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:08:49.3674217+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:29.9795614+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:00:17.9474563+00:00",
-  "LastUpdate_Achievements": "2023-06-21T08:08:44.3568997+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:59:19.5925275+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:08:49.3674658+00:00"
 }

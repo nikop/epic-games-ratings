@@ -15,9 +15,9 @@
 | Highlander | 20.00% | ~36 |
 | Look Mum I'm A Detective | 19.00% | ~34 |
 | You Had One Job | 14.00% | ~25 |
+| Voyeur | 12.00% | ~22 |
 | Book 'em Danny | 11.00% | ~20 |
 | Poetent | 11.00% | ~20 |
-| Voyeur | 11.00% | ~20 |
 | Oscar Winning Performance | 10.00% | ~18 |
 | Heavy Rayne | 9.00% | ~16 |
 | Put A Ring On It | 9.00% | ~16 |

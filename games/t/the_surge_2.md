@@ -42,10 +42,10 @@ Rating: 4.24 (Ranked 806)
 | Denying Prophecy | 8.00% | ~145 |
 | Reverse Engineering | 7.00% | ~126 |
 | Following In Their Footsteps | 7.00% | ~126 |
+| Remote Surgery | 6.00% | ~108 |
 | Turbo Booster | 6.00% | ~108 |
 | Squid Pro Quo | 6.00% | ~108 |
 | Reborn | 5.00% | ~90 |
-| Remote Surgery | 5.00% | ~90 |
 | Counter-Sniper | 5.00% | ~90 |
 | Shrimp Cocktail | 5.00% | ~90 |
 | Juiced Up | 5.00% | ~90 |

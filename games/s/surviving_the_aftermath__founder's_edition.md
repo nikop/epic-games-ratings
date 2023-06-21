@@ -6,37 +6,37 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,714 |
-| Leader | 61.00% | ~4,050 |
-| Explorer | 53.00% | ~3,519 |
-| Healer | 53.00% | ~3,519 |
+| First Step | 71.00% | ~4,715 |
+| Leader | 61.00% | ~4,051 |
+| Explorer | 53.00% | ~3,520 |
+| Healer | 53.00% | ~3,520 |
 | Aspiring Inventor | 45.00% | ~2,988 |
-| Adventurer | 42.00% | ~2,788 |
-| Famous Healer | 38.00% | ~2,523 |
+| Adventurer | 42.00% | ~2,789 |
+| Famous Healer | 38.00% | ~2,524 |
 | Local Leader | 35.00% | ~2,324 |
-| Famous Explorer | 34.00% | ~2,257 |
-| New Opportunities | 34.00% | ~2,257 |
-| Energized | 34.00% | ~2,257 |
-| The Long Haul | 33.00% | ~2,191 |
-| Survivor | 32.00% | ~2,124 |
-| The Great Healer | 31.00% | ~2,058 |
+| Famous Explorer | 34.00% | ~2,258 |
+| New Opportunities | 34.00% | ~2,258 |
+| Energized | 34.00% | ~2,258 |
+| The Long Haul | 33.00% | ~2,192 |
+| Survivor | 32.00% | ~2,125 |
+| The Great Healer | 31.00% | ~2,059 |
 | Cleaner | 28.00% | ~1,859 |
 | Catastrofan | 28.00% | ~1,859 |
 | Legendary Explorer | 27.00% | ~1,793 |
-| Finders, Keepers | 26.00% | ~1,726 |
+| Finders, Keepers | 26.00% | ~1,727 |
 | Top Notch | 25.00% | ~1,660 |
 | Ice Lakes | 23.00% | ~1,527 |
 | Mentor | 23.00% | ~1,527 |
 | Great Leader | 22.00% | ~1,461 |
 | Real Survivor | 22.00% | ~1,461 |
-| Merchant | 21.00% | ~1,394 |
-| War Never Changes | 19.00% | ~1,261 |
-| Rocket Surgeon | 19.00% | ~1,261 |
+| Merchant | 21.00% | ~1,395 |
+| War Never Changes | 19.00% | ~1,262 |
+| Rocket Surgeon | 19.00% | ~1,262 |
 | Big Game Hunter | 17.00% | ~1,129 |
-| Friendly | 16.00% | ~1,062 |
-| Around the World | 16.00% | ~1,062 |
-| Spreading Influence | 16.00% | ~1,062 |
-| Bookworm | 14.00% | ~929 |
+| Friendly | 16.00% | ~1,063 |
+| Around the World | 16.00% | ~1,063 |
+| Spreading Influence | 16.00% | ~1,063 |
+| Bookworm | 14.00% | ~930 |
 | Famous Adventurer | 13.00% | ~863 |
 | Prepared for Anything | 13.00% | ~863 |
 | Big Catastrofan | 12.00% | ~797 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~13 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,639 (Ranked 124)  
+Progressed: 6,641 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 6,583 | 0 |
 | 2023-06-19 | 6,610 | 0 |
 | 2023-06-20 | 6,636 | 0 |
-| 2023-06-21 | 6,639 | 0 |
+| 2023-06-21 | 6,641 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 328)  
 Sum: 668 (Ranked 270)  

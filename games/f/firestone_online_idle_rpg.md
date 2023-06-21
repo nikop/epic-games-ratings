@@ -68,11 +68,11 @@ Rating: 4.07 (Ranked 894)
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
+| Angel Power | 0.30% | ~4 |
 | Enchanting skill x5 | 0.30% | ~4 |
 | Gear Enchanting | 0.30% | ~4 |
 | Guardian Master | 0.30% | ~4 |
 | Titan Power | 0.30% | ~4 |
-| Angel Power | 0.20% | ~3 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
 | Conqueror | 0.10% | ~1 |

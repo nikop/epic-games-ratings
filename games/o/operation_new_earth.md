@@ -12,16 +12,16 @@
 | Covert Operative | 25.00% | ~41 |
 | Stocking Up | 21.00% | ~34 |
 | Lieutenant | 20.00% | ~33 |
-| On Target | 18.00% | ~30 |
+| On Target | 19.00% | ~31 |
+| Infantry Reporting | 18.00% | ~30 |
 | Getting Deployment | 17.00% | ~28 |
-| Infantry Reporting | 17.00% | ~28 |
 | Keeping Busy | 16.00% | ~26 |
 | Fighting for Survival | 13.00% | ~21 |
 | Silver Competitor | 13.00% | ~21 |
 | Brothers in Arms | 11.00% | ~18 |
 | Factory Expansion | 11.00% | ~18 |
+| Exterminator | 9.00% | ~15 |
 | Captain | 9.00% | ~15 |
-| Exterminator | 8.00% | ~13 |
 | Moving On Up | 6.00% | ~10 |
 | Player Betrayer | 5.00% | ~8 |
 | Know The Enemy | 4.00% | ~7 |

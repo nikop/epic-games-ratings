@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,054 |
-| The Cursed Farmer | 4.00% | ~4,027 |
-| Beast Intentions | 3.00% | ~3,020 |
-| The Mad Wizard | 3.00% | ~3,020 |
+| A Brief Tour of the Realms | 8.00% | ~8,058 |
+| The Cursed Farmer | 4.00% | ~4,029 |
+| Beast Intentions | 3.00% | ~3,022 |
+| The Mad Wizard | 3.00% | ~3,022 |
 | The Ring of Regeneration | 2.00% | ~2,014 |
 | Were-verpowered | 1.00% | ~1,007 |
 | Seeking Allies | 1.00% | ~1,007 |
@@ -19,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.90% | ~906 |
 | Pure Energy | 0.90% | ~906 |
 | The Court of Storms | 0.90% | ~603 |
-| Terror in the Dark | 0.80% | ~805 |
-| The Crumbling Temple | 0.80% | ~805 |
+| Terror in the Dark | 0.80% | ~806 |
+| The Crumbling Temple | 0.80% | ~806 |
 | A Mysterious Summons | 0.70% | ~705 |
 | Unearthed Evil | 0.70% | ~705 |
 | Useless Allies | 0.70% | ~705 |
@@ -36,12 +36,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.60% | ~402 |
 | Checkmate | 0.50% | ~335 |
 | Vecna Out! | 0.50% | ~335 |
-| Low Initiative | 0.50% | ~503 |
-| No Time To Rest | 0.50% | ~503 |
-| The Dinner Party | 0.50% | ~503 |
-| Underdeep Cartography | 0.50% | ~503 |
-| The Templar's Camp | 0.50% | ~503 |
-| Rescue in the Jungle | 0.50% | ~503 |
+| Low Initiative | 0.50% | ~504 |
+| No Time To Rest | 0.50% | ~504 |
+| The Dinner Party | 0.50% | ~504 |
+| Underdeep Cartography | 0.50% | ~504 |
+| The Templar's Camp | 0.50% | ~504 |
+| Rescue in the Jungle | 0.50% | ~504 |
 | Quick or Quack | 0.50% | ~335 |
 | The Silken Swamp | 0.40% | ~403 |
 | Supply Run | 0.40% | ~403 |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.40% | ~403 |
 | A Tale of Two Cities | 0.40% | ~403 |
 | Flying Monkey Skulls of Doom | 0.40% | ~403 |
+| Dinosaur Racing | 0.40% | ~403 |
 | Close Escort | 0.40% | ~403 |
 | Constant Banditry | 0.40% | ~403 |
 | Overdue Rendezvous | 0.40% | ~403 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.30% | ~302 |
 | Vault of Dragons | 0.30% | ~302 |
 | Champions of Waterdeep | 0.30% | ~302 |
-| Dinosaur Racing | 0.30% | ~302 |
 | Elturel Has Fallen | 0.30% | ~302 |
 | Resolve Amongst Chaos | 0.30% | ~302 |
 | Market Fluctuations | 0.30% | ~302 |
@@ -289,6 +289,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Birds of a Feather | 0.20% | ~134 |
 | Guests of the Groom | 0.20% | ~201 |
 | Careful Consideration | 0.20% | ~201 |
+| Tanking Expectations | 0.20% | ~134 |
 | Bazaar Exploits | 0.20% | ~201 |
 | Flame(skull) War | 0.20% | ~201 |
 | Servants of the Demon Prince | 0.20% | ~134 |
@@ -465,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~67 |
 | The Egg of Nat's Desire | 0.10% | ~67 |
 | Spirit of the Trickster Gods | 0.10% | ~67 |
-| Tanking Expectations | 0.10% | ~67 |
 | A Familiar Friend | 0.10% | ~67 |
 | A Tale of Two Years | 0.10% | ~67 |
 | DPS in the Deeps | 0.10% | ~67 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,679 (Ranked 63)  
-Completed: 1,973 (1.96%) (Ranked 73)  
+Progressed: 100,720 (Ranked 63)  
+Completed: 1,974 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -562,7 +562,7 @@ Completed: 1,973 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,679 | 1,973 |
+| 2023-06-21 | 100,720 | 1,974 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,159 (Ranked 37)  

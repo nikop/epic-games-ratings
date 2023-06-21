@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 98,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 12.24,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 13.27,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-06-21T00:00:51.3663515+00:00",
       "NumProgressed": 98,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-21T09:03:23.623906+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 6,
@@ -530,9 +535,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 165,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -540,13 +545,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 98,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-21T07:02:21.9798094+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:03:23.6238817+00:00",
   "LastUpdate_AppInfo": "2023-06-15T10:57:00.9986251+00:00",
-  "LastUpdate_Ratings": "2023-06-21T07:59:21.318828+00:00",
-  "LastUpdate_Achievements": "2023-06-21T07:02:21.9798194+00:00"
+  "LastUpdate_Ratings": "2023-06-21T08:58:05.0812751+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:03:23.6263438+00:00"
 }

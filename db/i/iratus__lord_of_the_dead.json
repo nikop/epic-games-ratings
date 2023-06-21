@@ -2002,9 +2002,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 32690,
+  "EOS_Progressed": 32691,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8432,6 +8432,11 @@
       "Time": "2023-06-21T08:08:50.750644+00:00",
       "NumProgressed": 32690,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-06-21T09:08:56.4733094+00:00",
+      "NumProgressed": 32691,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -8475,7 +8480,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18633
+      "UsersEstimate": 18634
     },
     {
       "ID": "achievements_14",
@@ -8483,7 +8488,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "achievements_15",
@@ -8491,7 +8496,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 15364
+      "UsersEstimate": 15365
     },
     {
       "ID": "achievements_17",
@@ -8547,7 +8552,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19614
+      "UsersEstimate": 19615
     },
     {
       "ID": "achievements_24",
@@ -8563,7 +8568,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "achievements_26",
@@ -8683,7 +8688,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "achievements_4",
@@ -8691,7 +8696,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 21575
+      "UsersEstimate": 21576
     },
     {
       "ID": "achievements_40",
@@ -8747,7 +8752,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 27786
+      "UsersEstimate": 27787
     },
     {
       "ID": "achievements_47",
@@ -8811,7 +8816,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18633
+      "UsersEstimate": 18634
     },
     {
       "ID": "achievements_54",
@@ -8883,7 +8888,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "achievements_63",
@@ -8891,7 +8896,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "achievements_64",
@@ -8947,7 +8952,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 12422
+      "UsersEstimate": 12423
     },
     {
       "ID": "achievements_70",
@@ -9042,15 +9047,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 32690,
+      "Progressed": 32691,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-20T13:07:30.3079787+00:00",
-  "LastChanged_Achievements": "2023-06-21T08:08:50.7506435+00:00",
+  "LastChanged_Achievements": "2023-06-21T09:08:56.4733089+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:28.0872732+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:01:29.4200565+00:00",
-  "LastUpdate_Achievements": "2023-06-21T08:08:50.7507497+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:00:45.9929778+00:00",
+  "LastUpdate_Achievements": "2023-06-21T09:08:56.4734692+00:00"
 }
