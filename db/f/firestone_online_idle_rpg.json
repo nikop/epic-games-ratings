@@ -3591,9 +3591,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "fullparty",
@@ -3823,9 +3823,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "silverwoodliberator",
@@ -4000,8 +4000,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:08:30.033668+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:07:38.8923088+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:58:58.6101101+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:08:30.0338143+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:58:40.5002001+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:07:38.8924052+00:00"
 }

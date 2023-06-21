@@ -6,7 +6,7 @@ Rating: 3.82 (Ranked 934)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,415 |
-| The First Step | 88.00% | ~1,271 |
+| The First Step | 89.00% | ~1,285 |
 | Moonbury Traveller | 64.00% | ~924 |
 | Rookie Chemist | 62.00% | ~895 |
 | Great Doctor | 51.00% | ~736 |

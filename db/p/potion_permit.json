@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -1407,9 +1407,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1664,8 +1664,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-21T02:06:14.3245144+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:08:26.5420324+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:07:35.9339688+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.6101982+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:03:02.1214899+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:08:26.5420686+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:01:57.4829351+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:07:35.9340037+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "597b081ce3ab4e0bba952ed03d3fe150",
   "Name": "Hero\u0027s Hour",
   "ProductSlug": "heros-hour-871285",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -180,6 +180,6 @@
   "FirstSeen": "2022-07-22T20:25:59.0417581+00:00",
   "LastChanged": "2023-03-31T05:57:59.1494096+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.5776637+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:59:29.1536863+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:04:21.884405+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:59:08.3359399+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:03:24.3327446+00:00"
 }

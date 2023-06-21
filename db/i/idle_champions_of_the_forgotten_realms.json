@@ -4432,11 +4432,11 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101519,
+  "EOS_Progressed": 101584,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 10808,
+  "EOS_NewPlayers": 10867,
   "EOS_NewCompleters": 41,
-  "EOS_Completed_Percentage": 1.95,
+  "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -10897,6 +10897,11 @@
       "Time": "2023-06-21T21:08:42.1939777+00:00",
       "NumProgressed": 101519,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-21T22:07:49.4020293+00:00",
+      "NumProgressed": 101584,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11834,9 +11839,9 @@
       "ID": "objective_completed_1219",
       "SetID": "415jc5c",
       "Name": "A Whale of a Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_124",
@@ -12042,9 +12047,9 @@
       "ID": "objective_completed_151",
       "SetID": "cc37lbc",
       "Name": "No Good at All",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_152",
@@ -12178,9 +12183,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_181",
@@ -12274,9 +12279,9 @@
       "ID": "objective_completed_210",
       "SetID": "cc37lbc",
       "Name": "Werewolves in the Mist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_211",
@@ -12306,9 +12311,9 @@
       "ID": "objective_completed_215",
       "SetID": "cc37lbc",
       "Name": "Poor Fortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_216",
@@ -12394,9 +12399,9 @@
       "ID": "objective_completed_247",
       "SetID": "cc37lbc",
       "Name": "Hold for the Red Wizards",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_248",
@@ -12970,9 +12975,9 @@
       "ID": "objective_completed_426",
       "SetID": "415jc5c",
       "Name": "The Madness Peaks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_428",
@@ -13010,9 +13015,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_434",
@@ -13114,9 +13119,9 @@
       "ID": "objective_completed_548",
       "SetID": "415jc5c",
       "Name": "Sneak Attack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_55",
@@ -13202,9 +13207,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_561",
@@ -13234,9 +13239,9 @@
       "ID": "objective_completed_565",
       "SetID": "cc37lbc",
       "Name": "Meepo\u0027s Quest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_566",
@@ -13290,9 +13295,9 @@
       "ID": "objective_completed_573",
       "SetID": "415jc5c",
       "Name": "Faer\u00FBn\u0027s Most Wanted",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_575",
@@ -13386,9 +13391,9 @@
       "ID": "objective_completed_588",
       "SetID": "415jc5c",
       "Name": "Take Five",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_59",
@@ -13474,9 +13479,9 @@
       "ID": "objective_completed_601",
       "SetID": "cc37lbc",
       "Name": "Everything is Awful",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_602",
@@ -13554,9 +13559,9 @@
       "ID": "objective_completed_612",
       "SetID": "415jc5c",
       "Name": "Thrice More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_613",
@@ -13594,9 +13599,9 @@
       "ID": "objective_completed_618",
       "SetID": "415jc5c",
       "Name": "Smooth Talkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_62",
@@ -13618,9 +13623,9 @@
       "ID": "objective_completed_621",
       "SetID": "415jc5c",
       "Name": "An Illithid Ambush",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_622",
@@ -13658,9 +13663,9 @@
       "ID": "objective_completed_627",
       "SetID": "415jc5c",
       "Name": "Ireena von Zarovich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_628",
@@ -13714,9 +13719,9 @@
       "ID": "objective_completed_636",
       "SetID": "415jc5c",
       "Name": "Dream Gauntlet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_637",
@@ -13730,9 +13735,9 @@
       "ID": "objective_completed_638",
       "SetID": "415jc5c",
       "Name": "Look Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_640",
@@ -13834,9 +13839,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_661",
@@ -13866,9 +13871,9 @@
       "ID": "objective_completed_666",
       "SetID": "415jc5c",
       "Name": "Show of Strength",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_667",
@@ -14354,9 +14359,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_843",
@@ -14370,9 +14375,9 @@
       "ID": "objective_completed_844",
       "SetID": "415jc5c",
       "Name": "Reya Reborn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_847",
@@ -14458,9 +14463,9 @@
       "ID": "objective_completed_859",
       "SetID": "415jc5c",
       "Name": "Fire and Ice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_862",
@@ -14506,9 +14511,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_872",
@@ -14586,9 +14591,9 @@
       "ID": "objective_completed_888",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_889",
@@ -14931,21 +14936,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 67793,
+      "Progressed": 67858,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101519,
+      "Progressed": 101584,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:08:42.1939772+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:07:49.4020286+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:59:07.4150343+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:08:42.1969266+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:58:47.3827717+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:07:49.4048076+00:00"
 }

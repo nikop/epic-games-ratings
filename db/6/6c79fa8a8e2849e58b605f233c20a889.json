@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1659,
+  "EOS_Progressed": 1661,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2426,6 +2426,11 @@
       "Time": "2023-06-21T21:05:49.8161506+00:00",
       "NumProgressed": 1659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T22:04:49.9837163+00:00",
+      "NumProgressed": 1661,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2517,7 +2522,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2539,9 +2544,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 979
+      "UsersEstimate": 997
     },
     {
       "ID": "GUARD_MAKER",
@@ -2612,14 +2617,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1659,
+      "Progressed": 1661,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:05:49.8161502+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:04:49.9837158+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:57:34.9615565+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:05:49.8161772+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:57:26.1247253+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:04:49.9837428+00:00"
 }

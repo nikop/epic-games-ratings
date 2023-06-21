@@ -50,8 +50,8 @@ Rating: 4.33 (Ranked 750)
 | Fratricide | 0.90% | ~11 |
 | Shadow Boxin' | 0.80% | ~9 |
 | Alpha Editor | 0.60% | ~7 |
+| Goaaaaal! | 0.60% | ~7 |
 | QA Has Suffered! (Redux) | 0.60% | ~7 |
-| Goaaaaal! | 0.50% | ~6 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

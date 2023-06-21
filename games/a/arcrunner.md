@@ -12,15 +12,16 @@
 | Unlocked and Loaded | 2.00% | ~11 |
 | Challenge Accepted | 1.00% | ~6 |
 | The City | 1.00% | ~6 |
+| Terminated III | 1.00% | ~6 |
 | Up Close And Personal | 0.70% | ~4 |
 | Nanonic II | 0.50% | ~3 |
+| Cybernetic | 0.40% | ~2 |
 | Starship Docks | 0.40% | ~2 |
 | Rookie | 0.40% | ~2 |
 | Supply Run | 0.40% | ~2 |
-| Terminated III | 0.40% | ~2 |
+| Nanonic III | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
 | The Bigger They Are | 0.00% | ~0 |
-| Cybernetic | 0.00% | ~0 |
 | Cyborg | 0.00% | ~0 |
 | Destruction | 0.00% | ~0 |
 | Eden Heights | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | Hard Boiled | 0.00% | ~0 |
 | Inner Core | 0.00% | ~0 |
 | Integration | 0.00% | ~0 |
-| Nanonic III | 0.00% | ~0 |
 | Outer Core | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

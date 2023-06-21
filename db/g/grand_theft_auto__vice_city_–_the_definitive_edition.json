@@ -460,9 +460,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8688,
+  "EOS_Progressed": 8689,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5180,6 +5180,11 @@
       "Time": "2023-06-21T20:03:13.8495886+00:00",
       "NumProgressed": 8688,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-21T22:03:36.9043246+00:00",
+      "NumProgressed": 8689,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 34,
@@ -5295,7 +5300,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "ACH15",
@@ -5383,7 +5388,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH26",
@@ -5462,7 +5467,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8688,
+      "Progressed": 8689,
       "Completed": 37
     }
   ],
@@ -5470,8 +5475,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:04:35.6479816+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:03:36.9043241+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:59:21.7187786+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:04:35.6480228+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:59:03.6437951+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:03:36.9043763+00:00"
 }

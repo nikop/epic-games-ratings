@@ -4026,9 +4026,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 280969,
+  "EOS_Progressed": 280972,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10541,6 +10541,11 @@
       "Time": "2023-06-21T21:07:06.532334+00:00",
       "NumProgressed": 280969,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-21T22:06:27.083773+00:00",
+      "NumProgressed": 280972,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10616,7 +10621,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14048
+      "UsersEstimate": 14049
     },
     {
       "ID": "PFA_18",
@@ -10632,7 +10637,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14048
+      "UsersEstimate": 14049
     },
     {
       "ID": "PFA_2",
@@ -10911,7 +10916,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 280969,
+      "Progressed": 280972,
       "Completed": 408
     }
   ],
@@ -10919,8 +10924,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-21T19:57:45.3251233+00:00",
-  "LastChanged_Achievements": "2023-06-21T21:07:06.5323335+00:00",
+  "LastChanged_Achievements": "2023-06-21T22:06:27.0837723+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:58:00.4839093+00:00",
-  "LastUpdate_Achievements": "2023-06-21T21:07:06.5324291+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:57:48.8551416+00:00",
+  "LastUpdate_Achievements": "2023-06-21T22:06:27.0838476+00:00"
 }
