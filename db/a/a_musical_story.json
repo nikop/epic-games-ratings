@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "L4_FINISH",
       "SetID": "6finf64",
       "Name": "Pinewood, Here we come!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "L4_PERFECT",
@@ -463,9 +463,9 @@
       "ID": "L5_FINISH",
       "SetID": "6finf64",
       "Name": "The Van",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "L5_PERFECT",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-06-21T19:05:57.109326+00:00",
+  "LastChanged_Achievements": "2023-06-21T20:04:44.5882632+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:54.4131169+00:00",
-  "LastUpdate_Ratings": "2023-06-21T18:59:13.2260206+00:00",
-  "LastUpdate_Achievements": "2023-06-21T19:05:57.1093978+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:58:53.5281162+00:00",
+  "LastUpdate_Achievements": "2023-06-21T20:04:44.5883161+00:00"
 }

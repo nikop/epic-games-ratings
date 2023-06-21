@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 1458,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3455,9 +3455,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "conqueror",
@@ -4000,8 +4000,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-21T19:08:23.5718765+00:00",
+  "LastChanged_Achievements": "2023-06-21T20:07:08.2746844+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-21T18:58:53.1986004+00:00",
-  "LastUpdate_Achievements": "2023-06-21T19:08:23.5719921+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:58:39.1326338+00:00",
+  "LastUpdate_Achievements": "2023-06-21T20:07:08.2747823+00:00"
 }

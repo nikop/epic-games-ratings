@@ -1,16 +1,16 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,413 |
-| Mainframe Hacker | 47.00% | ~3,241 |
-| The Spy who eliminated me | 47.00% | ~3,241 |
-| Tomorrow Never Dyes | 46.00% | ~3,172 |
-| Never Say Loser Again | 40.00% | ~2,758 |
-| For your Eyes only | 39.00% | ~2,689 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,414 |
+| Mainframe Hacker | 47.00% | ~3,242 |
+| The Spy who eliminated me | 47.00% | ~3,242 |
+| Tomorrow Never Dyes | 46.00% | ~3,173 |
+| Never Say Loser Again | 40.00% | ~2,759 |
+| For your Eyes only | 39.00% | ~2,690 |
 | From the Vault with Love | 37.00% | ~2,552 |
 | Tailor-Made | 37.00% | ~2,552 |
 | Fully Decked Out | 35.00% | ~2,414 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 295)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,896 (Ranked 121)  
+Progressed: 6,897 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-18 | 6,853 | 0 |
 | 2023-06-19 | 6,867 | 0 |
 | 2023-06-20 | 6,882 | 0 |
-| 2023-06-21 | 6,896 | 0 |
+| 2023-06-21 | 6,897 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

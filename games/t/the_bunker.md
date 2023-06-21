@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Last Goodbye | 89.00% | ~95 |
 | The Routine | 79.00% | ~85 |
-| Mother | 77.00% | ~82 |
+| Mother | 78.00% | ~83 |
 | Failure | 75.00% | ~80 |
 | Replace Fuse | 66.00% | ~71 |
 | Alarm | 64.00% | ~68 |
@@ -25,7 +25,7 @@
 | Soldier | 48.00% | ~51 |
 | Press Play | 36.00% | ~39 |
 | General | 24.00% | ~26 |
-| Bookworm | 22.00% | ~24 |
+| Bookworm | 23.00% | ~25 |
 | Stay | 15.00% | ~16 |
 | Floppy Disk Finder | 13.00% | ~14 |
 | Nurse | 11.00% | ~12 |

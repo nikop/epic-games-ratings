@@ -5,42 +5,45 @@ Rating: 4.48 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 0.60% | ~18 |
 | Confirming Suspicions | 0.60% | ~18 |
+| It's Starting to Crack | 0.60% | ~18 |
 | Taking it back | 0.60% | ~18 |
-| Meeting Resistance | 0.50% | ~15 |
-| It's Starting to Crack | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Just a Flesh Wound | 0.40% | ~12 |
 | Change the Channel | 0.40% | ~12 |
 | Target America | 0.40% | ~12 |
+| The Kraken Sleeps | 0.40% | ~12 |
 | Liberté | 0.30% | ~9 |
 | Sharpshooter | 0.30% | ~9 |
 | Precision Is Key | 0.30% | ~9 |
+| Explosive Efficiency | 0.30% | ~9 |
 | Lord of War | 0.30% | ~9 |
 | Resourceful | 0.30% | ~9 |
+| As Quiet as a Mouse | 0.30% | ~9 |
 | The Kraken Wakes | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
-| The Kraken Sleeps | 0.30% | ~9 |
+| Going Overboard | 0.30% | ~9 |
+| Climbing the Ladder | 0.20% | ~6 |
 | No Stone Unturned | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
 | Gunslinger | 0.20% | ~6 |
 | Skirmisher | 0.20% | ~6 |
-| Explosive Efficiency | 0.20% | ~6 |
 | Die Nussknacker Sweet! | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
-| As Quiet as a Mouse | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | Brains of the Operation | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
-| Going Overboard | 0.20% | ~6 |
-| Climbing the Ladder | 0.10% | ~3 |
 | Best of the Best | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
+| Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
+| Master-at-arms | 0.10% | ~3 |
+| The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
@@ -56,6 +59,7 @@ Rating: 4.48 (Ranked 582)
 | Road Rage | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
+| Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
@@ -72,12 +76,8 @@ Rating: 4.48 (Ranked 582)
 | If You Go Down To The Woods Today | 0.10% | ~3 |
 | Fight Another Day | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
-| Master of Secondaries | 0.00% | ~0 |
-| Master-at-arms | 0.00% | ~0 |
-| The Long Game | 0.00% | ~0 |
-| Shoot for the Moon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,072 (Ranked 143)  
+Progressed: 3,073 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
-| 2023-06-21 | 3,072 | 2 |
+| 2023-06-21 | 3,073 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

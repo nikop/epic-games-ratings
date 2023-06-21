@@ -37,10 +37,10 @@ Rating: 4.32 (Ranked 756)
 | The Search | 29.00% | ~113 |
 | The Family | 27.00% | ~106 |
 | Well-travelled | 26.00% | ~102 |
-| Thinking of Everything | 25.00% | ~98 |
+| Thinking of Everything | 26.00% | ~102 |
 | Exquisite Artwork | 25.00% | ~98 |
+| Archibald Sterling | 25.00% | ~98 |
 | Viscount Edwin Van den Bosch | 25.00% | ~98 |
-| Archibald Sterling | 24.00% | ~94 |
 | Well-prepared | 20.00% | ~78 |
 | The Truth | 20.00% | ~78 |
 | Sunken Secrets | 18.00% | ~70 |

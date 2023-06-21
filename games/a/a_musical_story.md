@@ -9,8 +9,8 @@
 | Daily Life | 93.00% | ~63 |
 | Assembly Line Work | 88.00% | ~60 |
 | Solitude | 84.00% | ~57 |
-| Pinewood, Here we come! | 75.00% | ~51 |
-| The Van | 68.00% | ~46 |
+| Pinewood, Here we come! | 76.00% | ~52 |
+| The Van | 69.00% | ~47 |
 | Road-Trip | 62.00% | ~42 |
 | A Musical Pause | 60.00% | ~41 |
 | Briget's | 50.00% | ~34 |

@@ -28,9 +28,9 @@ Rating: 4.07 (Ranked 894)
 | The Unstoppable | 12.00% | ~175 |
 | Milestone collector | 11.00% | ~160 |
 | Scientist | 10.00% | ~146 |
+| Challenger | 9.00% | ~131 |
 | Hunter | 9.00% | ~131 |
 | The power of Awakening | 9.00% | ~131 |
-| Challenger | 8.00% | ~117 |
 | Daily Quest Completionist | 8.00% | ~117 |
 | Doing My Part | 8.00% | ~117 |
 | Mastery | 8.00% | ~117 |

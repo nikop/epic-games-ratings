@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6764,
+  "EOS_Progressed": 6765,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4638,6 +4638,11 @@
       "Time": "2023-06-21T19:05:32.8259406+00:00",
       "NumProgressed": 6764,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-21T20:04:28.0985218+00:00",
+      "NumProgressed": 6765,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4649,7 +4654,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "ACH02",
@@ -4721,7 +4726,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "ACH11",
@@ -4769,7 +4774,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "ACH17",
@@ -4880,7 +4885,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6764,
+      "Progressed": 6765,
       "Completed": 38
     }
   ],
@@ -4888,8 +4893,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-20T05:57:51.6375902+00:00",
-  "LastChanged_Achievements": "2023-06-21T19:05:32.82594+00:00",
+  "LastChanged_Achievements": "2023-06-21T20:04:28.0985212+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-21T18:58:43.1330892+00:00",
-  "LastUpdate_Achievements": "2023-06-21T19:05:32.8259977+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:58:27.6266173+00:00",
+  "LastUpdate_Achievements": "2023-06-21T20:04:28.0985693+00:00"
 }

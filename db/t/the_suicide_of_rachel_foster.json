@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.08,
   "EosHistory": [
@@ -1217,6 +1217,11 @@
       "Time": "2023-06-21T02:11:38.9988892+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-06-21T20:06:45.2699983+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 11,
@@ -1244,7 +1249,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1268,7 +1273,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_FineGioco",
@@ -1276,15 +1281,15 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 460
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1292,7 +1297,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1315,15 +1320,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1181,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-21T19:08:05.8978474+00:00",
+  "LastChanged_Achievements": "2023-06-21T20:06:45.269998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:36.3257732+00:00",
-  "LastUpdate_Ratings": "2023-06-21T19:02:11.2338305+00:00",
-  "LastUpdate_Achievements": "2023-06-21T19:08:05.8978689+00:00"
+  "LastUpdate_Ratings": "2023-06-21T20:01:08.4909257+00:00",
+  "LastUpdate_Achievements": "2023-06-21T20:06:45.2700131+00:00"
 }

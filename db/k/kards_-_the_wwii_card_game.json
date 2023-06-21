@@ -2,13 +2,13 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 708,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2020-04-15T11:18:00+00:00",
@@ -2007,6 +2007,6 @@
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
   "LastChanged": "2023-06-20T07:59:19.8585415+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:12.9655665+00:00",
-  "LastUpdate_Ratings": "2023-06-21T18:59:46.2249512+00:00",
-  "LastUpdate_Achievements": "2023-06-21T19:04:27.7363764+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:59:19.195517+00:00",
+  "LastUpdate_Achievements": "2023-06-21T20:03:22.0013358+00:00"
 }

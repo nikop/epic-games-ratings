@@ -30,8 +30,8 @@
 | Check Your Pulse | 10.00% | ~71 |
 | The Family Fortune | 10.00% | ~71 |
 | Street Style | 9.00% | ~64 |
+| Whiz Kid | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
-| Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
