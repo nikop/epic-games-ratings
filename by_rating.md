@@ -135,7 +135,7 @@
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 472 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,271 | 62 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.75 | 269 | 240 |
-| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 873 | 147 |
+| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 874 | 147 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 495 | 189 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 317 |
 | 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 494 | 190 |
@@ -237,7 +237,7 @@
 | 221 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 497 |
 | 221 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 497 |
 | 221 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 497 |
-| 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 791 | 150 |
+| 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 793 | 150 |
 | 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,331 | 83 |
 | 239 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,188 | 87 |
 | 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 497 |
@@ -505,7 +505,7 @@
 | 491 | [VALORANT](games/v/valorant.md) | 4.54 | 57,438 | 11 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 497 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
-| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,254 | 17 |
+| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,264 | 17 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 434 |
 | 504 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 142,272 | 7 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 497 |
@@ -722,15 +722,15 @@
 | 717 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 497 |
 | 717 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 400 |
 | 717 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 97 | 331 |
-| 717 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 39 | 420 |
 | 717 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 443 |
-| 725 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
-| 725 | [Core](games/c/core.md) | 4.36 | 736 | 157 |
-| 725 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 283 |
-| 725 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,519 | 28 |
-| 725 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
-| 725 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
-| 725 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
+| 724 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 497 |
+| 724 | [Core](games/c/core.md) | 4.36 | 736 | 157 |
+| 724 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 283 |
+| 724 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,519 | 28 |
+| 724 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 497 |
+| 724 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 470 |
+| 724 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 39 | 420 |
+| 724 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 497 |
 | 732 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 497 |
 | 732 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 95 | 335 |
 | 732 | [Encased](games/e/encased.md) | 4.35 | 132 | 300 |
