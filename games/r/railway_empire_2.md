@@ -27,9 +27,9 @@ Rating: 4.31 (Ranked 766)
 | Going once, going twice, sold | 33.00% | ~430 |
 | Bull and bear | 31.00% | ~404 |
 | Full Steam ahead | 30.00% | ~391 |
+| Financial Shark | 28.00% | ~365 |
 | All mine | 27.00% | ~352 |
 | Mole | 27.00% | ~352 |
-| Financial Shark | 27.00% | ~352 |
 | Country Life | 25.00% | ~326 |
 | Socializer | 25.00% | ~326 |
 | General Manager | 24.00% | ~313 |
@@ -37,8 +37,8 @@ Rating: 4.31 (Ranked 766)
 | Hostile Takeover | 23.00% | ~300 |
 | Trailblazer | 19.00% | ~248 |
 | Breaking Ground | 18.00% | ~235 |
+| Traffic Jam | 17.00% | ~222 |
 | Traffic Junction | 17.00% | ~222 |
-| Traffic Jam | 16.00% | ~208 |
 | Assimilated | 15.00% | ~195 |
 | Locusts | 15.00% | ~195 |
 | Networker | 15.00% | ~195 |

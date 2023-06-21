@@ -6,22 +6,22 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~39,526 |
-| INFUSED WITH LIGHT | 52.00% | ~30,677 |
-| FOXIN' AROUND | 28.00% | ~16,518 |
-| FETCH | 27.00% | ~15,928 |
-| BLOOMS OF LIGHT | 26.00% | ~15,338 |
-| BEST FRIENDS | 22.00% | ~12,979 |
-| AWAKEN | 21.00% | ~12,389 |
-| ERADICATE | 20.00% | ~11,799 |
-| SPIRIT BARK | 20.00% | ~11,799 |
-| GARDEN OF LIGHT | 18.00% | ~10,619 |
-| SPIRIT FORM | 16.00% | ~9,439 |
-| UPROOTING DARKNESS | 15.00% | ~8,849 |
-| WRITTEN IN STONE | 15.00% | ~8,849 |
-| WEIGHTLESS | 12.00% | ~7,079 |
-| SPIRIT DASH | 10.00% | ~5,899 |
-| OLD COMPANION | 9.00% | ~5,309 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~39,530 |
+| INFUSED WITH LIGHT | 52.00% | ~30,680 |
+| FOXIN' AROUND | 28.00% | ~16,520 |
+| FETCH | 27.00% | ~15,930 |
+| BLOOMS OF LIGHT | 26.00% | ~15,340 |
+| BEST FRIENDS | 22.00% | ~12,980 |
+| AWAKEN | 21.00% | ~12,390 |
+| ERADICATE | 20.00% | ~11,800 |
+| SPIRIT BARK | 20.00% | ~11,800 |
+| GARDEN OF LIGHT | 18.00% | ~10,620 |
+| SPIRIT FORM | 16.00% | ~9,440 |
+| UPROOTING DARKNESS | 15.00% | ~8,850 |
+| WRITTEN IN STONE | 15.00% | ~8,850 |
+| WEIGHTLESS | 12.00% | ~7,080 |
+| SPIRIT DASH | 10.00% | ~5,900 |
+| OLD COMPANION | 9.00% | ~5,310 |
 | PLAGUE DOCTOR | 8.00% | ~4,720 |
 | SPIRITED AWAY | 8.00% | ~4,720 |
 | MATCH MAKER | 7.00% | ~4,130 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,180 |
 | KINDRED SPIRITS | 0.60% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,994 (Ranked 77)  
+Progressed: 59,000 (Ranked 77)  
 Completed: 298 (0.51%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 298 (0.51%) (Ranked 121)
 | 2023-06-18 | 58,730 | 296 |
 | 2023-06-19 | 58,835 | 296 |
 | 2023-06-20 | 58,958 | 298 |
-| 2023-06-21 | 58,994 | 298 |
+| 2023-06-21 | 59,000 | 298 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 470)  
 Sum: 113 (Ranked 399)  

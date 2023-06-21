@@ -10,8 +10,8 @@
 | Exorcist | 21.00% | ~7 |
 | Clothes Hunter | 18.00% | ~6 |
 | Con Artist | 18.00% | ~6 |
-| Card Sharp | 15.00% | ~5 |
-| I Ain't Afraid of No Ghost | 12.00% | ~4 |
+| Card Sharp | 18.00% | ~6 |
+| I Ain't Afraid of No Ghost | 15.00% | ~5 |
 | Joyrider | 12.00% | ~4 |
 | Top Detective | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

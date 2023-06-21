@@ -16,9 +16,9 @@
 | Squid game | 35.00% | ~22 |
 | Sensitive soul | 33.00% | ~21 |
 | Rock Solid | 29.00% | ~18 |
+| The beast within | 29.00% | ~18 |
+| Rooftop | 29.00% | ~18 |
 | It's getting dark | 29.00% | ~18 |
-| The beast within | 27.00% | ~17 |
-| Rooftop | 27.00% | ~17 |
 | Hard Rock | 27.00% | ~17 |
 | Homeless | 25.00% | ~16 |
 | Big badaboom! | 24.00% | ~15 |

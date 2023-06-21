@@ -460,9 +460,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8682,
+  "EOS_Progressed": 8683,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -5150,6 +5150,11 @@
       "Time": "2023-06-21T09:04:26.8403854+00:00",
       "NumProgressed": 8682,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-21T10:02:33.5376648+00:00",
+      "NumProgressed": 8683,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 34,
@@ -5321,7 +5326,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "ACH22",
@@ -5345,7 +5350,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACH25",
@@ -5361,7 +5366,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACH27",
@@ -5432,7 +5437,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8682,
+      "Progressed": 8683,
       "Completed": 36
     }
   ],
@@ -5440,8 +5445,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-21T09:04:26.8403849+00:00",
+  "LastChanged_Achievements": "2023-06-21T10:02:33.537664+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-21T08:59:58.8382736+00:00",
-  "LastUpdate_Achievements": "2023-06-21T09:04:26.8404459+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:58:34.1722781+00:00",
+  "LastUpdate_Achievements": "2023-06-21T10:02:33.537719+00:00"
 }

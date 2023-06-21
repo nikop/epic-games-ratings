@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 27336,
+  "EOS_Progressed": 27338,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7179,6 +7179,11 @@
       "Time": "2023-06-21T09:08:33.118182+00:00",
       "NumProgressed": 27336,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-21T10:06:08.5570351+00:00",
+      "NumProgressed": 27338,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -7310,7 +7315,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4920
+      "UsersEstimate": 4921
     },
     {
       "ID": "novice",
@@ -7406,7 +7411,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "sightseer",
@@ -7446,7 +7451,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "unlockmaya",
@@ -7501,15 +7506,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 27336,
+      "Progressed": 27338,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-17T20:59:48.8022113+00:00",
-  "LastChanged_Achievements": "2023-06-21T09:08:33.1181815+00:00",
+  "LastChanged_Achievements": "2023-06-21T10:06:08.5570344+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:53.9980856+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:01:26.8645494+00:00",
-  "LastUpdate_Achievements": "2023-06-21T09:08:33.1182741+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:59:35.8639734+00:00",
+  "LastUpdate_Achievements": "2023-06-21T10:06:08.5571044+00:00"
 }

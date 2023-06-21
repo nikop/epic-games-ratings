@@ -1141,9 +1141,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_CITY",
@@ -1181,9 +1181,9 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_EDEN",
@@ -1350,8 +1350,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-21T09:04:11.7320712+00:00",
+  "LastChanged_Achievements": "2023-06-21T10:02:23.0323331+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:01:58.0187707+00:00",
-  "LastUpdate_Achievements": "2023-06-21T09:04:11.7321038+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:59:58.8601619+00:00",
+  "LastUpdate_Achievements": "2023-06-21T10:02:23.0323596+00:00"
 }

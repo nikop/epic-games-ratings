@@ -11,14 +11,14 @@ Number of Ratings: 7,683  (23.09.2022)
 | Just a sprinkle | 63.00% | ~27,968 |
 | I'm stumped | 61.00% | ~27,080 |
 | Plant get enough | 61.00% | ~27,080 |
-| This is just my weekend vehicle | 58.00% | ~25,748 |
-| It's just the beginning | 58.00% | ~25,748 |
-| Hard work pays off | 53.00% | ~23,528 |
+| This is just my weekend vehicle | 58.00% | ~25,749 |
+| It's just the beginning | 58.00% | ~25,749 |
+| Hard work pays off | 53.00% | ~23,529 |
 | It's never too late to farm | 47.00% | ~20,865 |
 | All out of Land | 44.00% | ~19,533 |
 | Field Trip | 43.00% | ~19,089 |
-| I like to switch it up | 40.00% | ~17,757 |
-| Help me to help you | 38.00% | ~16,869 |
+| I like to switch it up | 40.00% | ~17,758 |
+| Help me to help you | 38.00% | ~16,870 |
 | Ultimutt Pawesomeness | 28.00% | ~12,430 |
 | Van Gogh | 26.00% | ~11,542 |
 | You wood not believe it | 21.00% | ~9,323 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~178 |
 | Raisin the stakes | 0.30% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,393 (Ranked 85)  
+Progressed: 44,394 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 5 (0.01%) (Ranked 214)
 | 2023-06-18 | 44,287 | 5 |
 | 2023-06-19 | 44,333 | 5 |
 | 2023-06-20 | 44,379 | 5 |
-| 2023-06-21 | 44,393 | 5 |
+| 2023-06-21 | 44,394 | 5 |
 ## Awards
 Max (Great for Beginners): 4,399  (Ranked 70)  
 Sum: 37,410 (Ranked 32)  

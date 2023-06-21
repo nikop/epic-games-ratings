@@ -19,7 +19,7 @@ Rating: 4.33 (Ranked 750)
 | Firestarter | 40.00% | ~470 |
 | Giant Killer | 39.00% | ~458 |
 | Sensei | 37.00% | ~434 |
-| The meaning of Kain | 35.00% | ~411 |
+| The meaning of Kain | 36.00% | ~423 |
 | Technophobe | 33.00% | ~387 |
 | Recycler | 32.00% | ~376 |
 | Are you not entertained? | 28.00% | ~329 |

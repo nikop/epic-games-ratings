@@ -2790,9 +2790,9 @@
       "Count": 1043
     }
   ],
-  "EOS_Progressed": 48037,
+  "EOS_Progressed": 48040,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 2318,
+  "EOS_NewPlayers": 2306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9255,6 +9255,11 @@
       "Time": "2023-06-21T09:04:12.1904211+00:00",
       "NumProgressed": 48037,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-21T10:02:23.437201+00:00",
+      "NumProgressed": 48040,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 53,
@@ -9314,7 +9319,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8166
+      "UsersEstimate": 8167
     },
     {
       "ID": "complet_epilogue_mission",
@@ -9322,7 +9327,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "complete_all_of_wanted",
@@ -9346,7 +9351,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "complete_final_mission",
@@ -9370,7 +9375,7 @@
       "Name": "Wet Work",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10568
+      "UsersEstimate": 10569
     },
     {
       "ID": "complete_mission_1",
@@ -9378,7 +9383,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 15852
+      "UsersEstimate": 15853
     },
     {
       "ID": "customize_a_vehicle",
@@ -9394,7 +9399,7 @@
       "Name": "Optimized",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12009
+      "UsersEstimate": 12010
     },
     {
       "ID": "cutting_edge_materials",
@@ -9450,7 +9455,7 @@
       "Name": "Power Players",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "empire_tier_4",
@@ -9466,7 +9471,7 @@
       "Name": "A Golden Age",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "first_building_placed",
@@ -9474,7 +9479,7 @@
       "Name": "Landlord",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10568
+      "UsersEstimate": 10569
     },
     {
       "ID": "fully_complete_a_building",
@@ -9498,7 +9503,7 @@
       "Name": "Kitted Out",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "get_betrayed",
@@ -9514,7 +9519,7 @@
       "Name": "Performance Review",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12009
+      "UsersEstimate": 12010
     },
     {
       "ID": "hit_max_level",
@@ -9538,7 +9543,7 @@
       "Name": "Picking Fights",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -9650,7 +9655,7 @@
       "Name": "To The Nines",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 14411
+      "UsersEstimate": 14412
     },
     {
       "ID": "whole_map_purple",
@@ -9689,13 +9694,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 48037,
+      "Progressed": 48040,
       "Completed": 25
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 19674,
+      "Progressed": 19677,
       "Completed": 2063
     }
   ],
@@ -9703,8 +9708,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-06-21T06:00:26.2507418+00:00",
-  "LastChanged_Achievements": "2023-06-21T09:04:12.1904204+00:00",
+  "LastChanged_Achievements": "2023-06-21T10:02:23.4371998+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.6362741+00:00",
-  "LastUpdate_Ratings": "2023-06-21T09:01:58.425716+00:00",
-  "LastUpdate_Achievements": "2023-06-21T09:04:12.1905135+00:00"
+  "LastUpdate_Ratings": "2023-06-21T09:59:59.2379016+00:00",
+  "LastUpdate_Achievements": "2023-06-21T10:02:23.4372759+00:00"
 }

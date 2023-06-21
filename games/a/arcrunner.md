@@ -8,8 +8,9 @@
 | Unlocked and Loaded | 0.70% | ~4 |
 | Nanonic I | 0.50% | ~3 |
 | Terminated I | 0.50% | ~3 |
+| Challenge Mastered | 0.40% | ~2 |
 | The City | 0.40% | ~2 |
-| Challenge Mastered | 0.20% | ~1 |
+| Starship Docks | 0.40% | ~2 |
 | Rookie | 0.20% | ~1 |
 | Terminated II | 0.20% | ~1 |
 | Terminated III | 0.20% | ~1 |
@@ -19,7 +20,6 @@
 | Cybernetic | 0.00% | ~0 |
 | Cyborg | 0.00% | ~0 |
 | Destruction | 0.00% | ~0 |
-| Starship Docks | 0.00% | ~0 |
 | Eden Heights | 0.00% | ~0 |
 | Fully Modded | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
