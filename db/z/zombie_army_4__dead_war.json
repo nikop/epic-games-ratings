@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1683,9 +1683,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42860,
+  "EOS_Progressed": 42861,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4128,6 +4128,11 @@
       "Time": "2023-06-21T19:08:29.8501797+00:00",
       "NumProgressed": 42860,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-21T21:08:36.9643441+00:00",
+      "NumProgressed": 42861,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4235,7 +4240,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6000
+      "UsersEstimate": 6001
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -4331,7 +4336,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26573
+      "UsersEstimate": 26574
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4355,7 +4360,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -4387,7 +4392,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21001
+      "UsersEstimate": 21002
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4427,7 +4432,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15858
+      "UsersEstimate": 15859
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4499,7 +4504,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24430
+      "UsersEstimate": 24431
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4507,7 +4512,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20144
+      "UsersEstimate": 20145
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4531,7 +4536,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -4539,7 +4544,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27859
+      "UsersEstimate": 27860
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -4579,7 +4584,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -4595,7 +4600,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27859
+      "UsersEstimate": 27860
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -4603,7 +4608,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10286
+      "UsersEstimate": 10287
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -4666,15 +4671,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42860,
+      "Progressed": 42861,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-21T17:00:14.4389828+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:07:13.1966628+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:36.9643436+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.8416601+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:00:53.5388229+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:07:13.1967411+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:02:02.0791307+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:36.9644474+00:00"
 }

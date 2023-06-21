@@ -5,13 +5,13 @@ Rating: 4.44 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,988 |
-| Predator I | 22.00% | ~55,346 |
-| Fixer I | 10.00% | ~25,157 |
-| A week in Century City | 10.00% | ~25,157 |
+| Survivor | 31.00% | ~77,989 |
+| Predator I | 22.00% | ~55,347 |
+| Fixer I | 10.00% | ~25,158 |
+| A week in Century City | 10.00% | ~25,158 |
 | The Wait | 7.00% | ~17,610 |
-| Green thumb I | 6.00% | ~15,094 |
-| Cleaning Company | 6.00% | ~15,094 |
+| Green thumb I | 6.00% | ~15,095 |
+| Cleaning Company | 6.00% | ~15,095 |
 | Well-oiled machine | 5.00% | ~12,579 |
 | Saver I | 5.00% | ~12,579 |
 | The Ascent | 4.00% | ~10,063 |
@@ -19,14 +19,14 @@ Rating: 4.44 (Ranked 633)
 | Vandalism | 4.00% | ~10,063 |
 | Capitalist I | 4.00% | ~10,063 |
 | Adrenaline | 3.00% | ~7,547 |
-| By a hair | 2.00% | ~5,031 |
-| Fixer II | 2.00% | ~5,031 |
-| It took a while | 2.00% | ~5,031 |
-| Samurai | 2.00% | ~5,031 |
-| I Left You a Present | 2.00% | ~5,031 |
-| Predator II | 2.00% | ~5,031 |
-| Truffle Dog | 2.00% | ~5,031 |
-| A month in Century City | 2.00% | ~5,031 |
+| By a hair | 2.00% | ~5,032 |
+| Fixer II | 2.00% | ~5,032 |
+| It took a while | 2.00% | ~5,032 |
+| Samurai | 2.00% | ~5,032 |
+| I Left You a Present | 2.00% | ~5,032 |
+| Predator II | 2.00% | ~5,032 |
+| Truffle Dog | 2.00% | ~5,032 |
+| A month in Century City | 2.00% | ~5,032 |
 | The Strengthening | 1.00% | ~2,516 |
 | Saver II | 1.00% | ~2,516 |
 | It's the last one, I swear | 1.00% | ~2,516 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 633)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,574 (Ranked 42)  
+Progressed: 251,577 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.00%) (Ranked 228)
 | 2023-06-18 | 251,395 | 1 |
 | 2023-06-19 | 251,448 | 1 |
 | 2023-06-20 | 251,507 | 1 |
-| 2023-06-21 | 251,574 | 1 |
+| 2023-06-21 | 251,577 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 459)  
 Sum: 139 (Ranked 388)  

@@ -481,9 +481,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -562,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:06:45.4766533+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:12.4669903+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:15.7029568+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:00:40.943193+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:06:45.4766957+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:01:43.4662104+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:12.4670402+00:00"
 }

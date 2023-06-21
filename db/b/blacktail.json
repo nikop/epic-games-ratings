@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1010,6 +1010,11 @@
       "Time": "2023-06-21T04:07:40.0869424+00:00",
       "NumProgressed": 507,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T21:08:16.7185525+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1045,7 +1050,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "DevilDetail",
@@ -1109,7 +1114,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GossipGirl",
@@ -1276,7 +1281,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 1
     }
   ],
@@ -1284,8 +1289,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:06:48.6037035+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:16.718552+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.5964785+00:00",
-  "LastUpdate_Ratings": "2023-06-21T19:58:29.1474174+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:06:48.6037339+00:00"
+  "LastUpdate_Ratings": "2023-06-21T20:58:47.3226111+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:16.718578+00:00"
 }

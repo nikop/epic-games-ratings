@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-06-21T20:06:40.2238814+00:00",
       "NumProgressed": 722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T21:08:05.1547026+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1897,7 +1902,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "CHIEF",
@@ -1913,7 +1918,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "DEBTOR",
@@ -1969,7 +1974,7 @@
       "Name": "SECOND_FLOOR",
       "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SUCCESSFUL",
@@ -2000,7 +2005,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 0
     }
   ],
@@ -2008,8 +2013,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:06:40.2238809+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:05.1547023+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.0817931+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:00:23.9505403+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:06:40.2239037+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:01:19.85341+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:05.1547238+00:00"
 }

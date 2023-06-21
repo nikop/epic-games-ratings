@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,563 |
-| Photographer | 75.00% | ~3,470 |
-| Valley's Helper | 71.00% | ~3,285 |
-| Constructor | 60.00% | ~2,776 |
-| Renovator | 58.00% | ~2,684 |
-| Bestest Friend | 56.00% | ~2,591 |
-| Banker | 47.00% | ~2,175 |
-| Gardener | 37.00% | ~1,712 |
-| Generous | 27.00% | ~1,249 |
-| Chef Cook | 22.00% | ~1,018 |
-| Miner | 10.00% | ~463 |
-| Duty Bound | 7.00% | ~324 |
+| Goofy's Investor | 77.00% | ~3,570 |
+| Photographer | 75.00% | ~3,478 |
+| Valley's Helper | 71.00% | ~3,292 |
+| Constructor | 60.00% | ~2,782 |
+| Renovator | 58.00% | ~2,689 |
+| Bestest Friend | 56.00% | ~2,597 |
+| Banker | 47.00% | ~2,179 |
+| Gardener | 37.00% | ~1,716 |
+| Generous | 27.00% | ~1,252 |
+| Chef Cook | 22.00% | ~1,020 |
+| Miner | 10.00% | ~464 |
+| Duty Bound | 7.00% | ~325 |
 | Angler | 6.00% | ~278 |
 | Thorn Cleaner | 4.00% | ~185 |
 | Chit Chatter | 3.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,627 (Ranked 132)  
-Completed: 148 (3.20%) (Ranked 50)  
+Progressed: 4,637 (Ranked 132)  
+Completed: 148 (3.19%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,10 +35,10 @@ Completed: 148 (3.20%) (Ranked 50)
 | 2023-06-18 | 4,123 | 103 |
 | 2023-06-19 | 4,300 | 141 |
 | 2023-06-20 | 4,493 | 145 |
-| 2023-06-21 | 4,627 | 148 |
+| 2023-06-21 | 4,637 | 148 |
 ## Awards
 Max (Great for Beginners): 874  (Ranked 147)  
-Sum: 7,189 (Ranked 103)  
+Sum: 7,190 (Ranked 103)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -51,7 +51,7 @@ Diff (max vs sum): 44
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 716 |
 | This game has a Creative Community | 597 |
-| This game has Easy Combat | 478 |
+| This game has Easy Combat | 479 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -162,4 +162,4 @@ Diff (max vs sum): 44
 | 2023-06-18 | 4.76 | - | 873 | 7,175 |
 | 2023-06-19 | 4.76 | - | 873 | 7,179 |
 | 2023-06-20 | 4.75 | - | 873 | 7,188 |
-| 2023-06-21 | 4.75 | - | 874 | 7,189 |
+| 2023-06-21 | 4.75 | - | 874 | 7,190 |

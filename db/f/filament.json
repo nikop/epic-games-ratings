@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 756,
   "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 69,
@@ -157,18 +157,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 554
+    },
+    {
+      "Time": "2023-06-21T21:00:19.7640703+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 669,
+      "NumberOfAwardsMax": 555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 668,
-  "NumberOfAwardsMax": 554,
+  "NumberOfAwards": 669,
+  "NumberOfAwardsMax": 555,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 554
+      "Count": 555
     },
     {
       "Text": "This game is Highly Recommended",
@@ -207,9 +213,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194084,
+  "EOS_Progressed": 194091,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6692,6 +6698,11 @@
       "Time": "2023-06-21T20:06:40.9407183+00:00",
       "NumProgressed": 194084,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-06-21T21:08:06.2290141+00:00",
+      "NumProgressed": 194091,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 29,
@@ -6727,7 +6738,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182439
+      "UsersEstimate": 182446
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6783,7 +6794,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -6863,7 +6874,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -6887,7 +6898,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19408
+      "UsersEstimate": 19409
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -6934,16 +6945,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194084,
+      "Progressed": 194091,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:06:40.9407174+00:00",
+  "LastChanged": "2023-06-21T21:00:19.7640701+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:06.2289947+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-21T19:59:38.3489892+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:06:40.9407763+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:00:19.7640707+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:06.2291173+00:00"
 }

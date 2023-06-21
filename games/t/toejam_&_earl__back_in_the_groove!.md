@@ -7,7 +7,7 @@ Rating: 4.32 (Ranked 756)
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~4,979 |
 | Fall Fest | 7.00% | ~3,873 |
-| Thrill Seeker | 6.00% | ~3,319 |
+| Thrill Seeker | 6.00% | ~3,320 |
 | Flying Present Catcher | 5.00% | ~2,766 |
 | HFZ Goober | 5.00% | ~2,766 |
 | Sunflower Master | 4.00% | ~2,213 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 756)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,324 (Ranked 80)  
+Progressed: 55,325 (Ranked 80)  
 Completed: 4 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 4 (0.01%) (Ranked 216)
 | 2023-06-18 | 55,284 | 4 |
 | 2023-06-19 | 55,298 | 4 |
 | 2023-06-20 | 55,312 | 4 |
-| 2023-06-21 | 55,324 | 4 |
+| 2023-06-21 | 55,325 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

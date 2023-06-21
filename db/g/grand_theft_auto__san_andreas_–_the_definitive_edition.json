@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 455,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 159,
@@ -450,7 +450,7 @@
   ],
   "EOS_Progressed": 10746,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5656,8 +5656,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-21T12:01:42.134672+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:07:07.1339202+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:08:28.6018267+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.3077875+00:00",
-  "LastUpdate_Ratings": "2023-06-21T20:01:20.7016068+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:07:07.1339913+00:00"
+  "LastUpdate_Ratings": "2023-06-21T21:02:42.2227658+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:08:28.6018831+00:00"
 }

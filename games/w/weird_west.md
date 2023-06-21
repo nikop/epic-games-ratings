@@ -17,9 +17,9 @@ Number of Ratings: 125  (23.09.2022)
 | Justice Served | 29.00% | ~482 |
 | Chain Reaction | 27.00% | ~449 |
 | Through Their Eyes | 26.00% | ~432 |
+| Dishonored | 25.00% | ~416 |
 | Rain of Death | 25.00% | ~416 |
 | Scholar | 25.00% | ~416 |
-| Dishonored | 24.00% | ~399 |
 | The Great Escape | 23.00% | ~382 |
 | That’s All, Folks | 18.00% | ~299 |
 | Fallen Star | 16.00% | ~266 |

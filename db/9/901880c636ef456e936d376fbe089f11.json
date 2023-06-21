@@ -127,9 +127,9 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
@@ -303,9 +303,9 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -391,9 +391,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -493,8 +493,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-21T20:03:43.4673594+00:00",
+  "LastChanged_Achievements": "2023-06-21T21:05:16.4332263+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-21T19:57:18.5952477+00:00",
-  "LastUpdate_Achievements": "2023-06-21T20:03:43.4674082+00:00"
+  "LastUpdate_Ratings": "2023-06-21T20:57:20.8571878+00:00",
+  "LastUpdate_Achievements": "2023-06-21T21:05:16.4332699+00:00"
 }

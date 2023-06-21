@@ -7,13 +7,13 @@ Rating: 4.89 (Ranked 13)
 | ---- | ---------- | ----- |
 | Start with a bang! | 80.00% | ~2,642 |
 | Feeling the beat! | 80.00% | ~2,642 |
-| You can pet the cat! | 74.00% | ~2,443 |
-| Who put gears in there? | 68.00% | ~2,245 |
-| Cream of the Crop | 62.00% | ~2,047 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,047 |
-| You got this, Peppermint? | 56.00% | ~1,849 |
-| Perfect Parry | 54.00% | ~1,783 |
-| Alright, that felt AWESOME! | 53.00% | ~1,750 |
+| You can pet the cat! | 74.00% | ~2,444 |
+| Who put gears in there? | 68.00% | ~2,246 |
+| Cream of the Crop | 62.00% | ~2,048 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,048 |
+| You got this, Peppermint? | 56.00% | ~1,850 |
+| Perfect Parry | 54.00% | ~1,784 |
+| Alright, that felt AWESOME! | 53.00% | ~1,751 |
 | I play my own way! | 49.00% | ~1,618 |
 | This will cost you big time | 47.00% | ~1,552 |
 | Uh, they were broken when I got here | 46.00% | ~1,519 |
@@ -30,11 +30,11 @@ Rating: 4.89 (Ranked 13)
 | Who's the boss now? | 28.00% | ~925 |
 | I have to read these things? | 28.00% | ~925 |
 | I look cool. But I can look COOLER. | 28.00% | ~925 |
-| There's such a thing as TOO helpful | 21.00% | ~693 |
-| That's a lot of junk metal… | 19.00% | ~627 |
-| Beat-hit mania | 18.00% | ~594 |
-| Well that was a rush! | 17.00% | ~561 |
-| I told you I'd be fine, Peppermint! | 17.00% | ~561 |
+| There's such a thing as TOO helpful | 21.00% | ~694 |
+| That's a lot of junk metal… | 19.00% | ~628 |
+| Beat-hit mania | 18.00% | ~595 |
+| Well that was a rush! | 17.00% | ~562 |
+| I told you I'd be fine, Peppermint! | 17.00% | ~562 |
 | Chip-tuned | 11.00% | ~363 |
 | Wanna hear my playlist? | 11.00% | ~363 |
 | Check out my moves! | 11.00% | ~363 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,302 (Ranked 142)  
+Progressed: 3,303 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 5 (0.15%) (Ranked 163)
 | 2023-06-18 | 3,277 | 5 |
 | 2023-06-19 | 3,288 | 5 |
 | 2023-06-20 | 3,292 | 5 |
-| 2023-06-21 | 3,302 | 5 |
+| 2023-06-21 | 3,303 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

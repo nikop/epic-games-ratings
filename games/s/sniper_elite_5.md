@@ -9,27 +9,29 @@ Rating: 4.48 (Ranked 582)
 | Confirming Suspicions | 0.60% | ~18 |
 | It's Starting to Crack | 0.60% | ~18 |
 | Taking it back | 0.60% | ~18 |
+| Change the Channel | 0.50% | ~15 |
+| Target America | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Just a Flesh Wound | 0.40% | ~12 |
-| Change the Channel | 0.40% | ~12 |
-| Target America | 0.40% | ~12 |
+| Resourceful | 0.40% | ~12 |
+| The Kraken Wakes | 0.40% | ~12 |
 | The Kraken Sleeps | 0.40% | ~12 |
 | Liberté | 0.30% | ~9 |
+| Gunslinger | 0.30% | ~9 |
+| Skirmisher | 0.30% | ~9 |
 | Sharpshooter | 0.30% | ~9 |
 | Precision Is Key | 0.30% | ~9 |
 | Explosive Efficiency | 0.30% | ~9 |
 | Lord of War | 0.30% | ~9 |
-| Resourceful | 0.30% | ~9 |
 | As Quiet as a Mouse | 0.30% | ~9 |
-| The Kraken Wakes | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | Climbing the Ladder | 0.20% | ~6 |
 | No Stone Unturned | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
+| Fields of Glory | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
-| Gunslinger | 0.20% | ~6 |
-| Skirmisher | 0.20% | ~6 |
+| Set Europe Ablaze | 0.20% | ~6 |
 | Die Nussknacker Sweet! | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
@@ -37,14 +39,12 @@ Rating: 4.48 (Ranked 582)
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
-| Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
-| Set Europe Ablaze | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
