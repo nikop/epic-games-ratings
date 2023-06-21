@@ -2,12 +2,12 @@
   "ID": "42c16682591a49f6bc488ed2fa422589",
   "Name": "The Banner Saga Epic Trilogy",
   "ProductSlug": "the-banner-saga-epic-trilogy",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 318,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-21T16:00:00+00:00",
@@ -116,6 +116,6 @@
   "FirstSeenRating": "2022-09-23T09:02:16.9087013+00:00",
   "LastChanged": "2023-04-01T16:58:08.8260182+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.7878434+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:00:08.4013536+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:06:21.8891996+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:59:28.2593733+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:05:22.3493973+00:00"
 }

@@ -4432,9 +4432,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101584,
+  "EOS_Progressed": 101645,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 10867,
+  "EOS_NewPlayers": 10923,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10902,6 +10902,11 @@
       "Time": "2023-06-21T22:07:49.4020293+00:00",
       "NumProgressed": 101584,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-21T23:06:47.3945346+00:00",
+      "NumProgressed": 101645,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11863,9 +11868,9 @@
       "ID": "objective_completed_126",
       "SetID": "cc37lbc",
       "Name": "Struggling Toward Omu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_127",
@@ -12039,9 +12044,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_151",
@@ -12087,9 +12092,9 @@
       "ID": "objective_completed_157",
       "SetID": "cc37lbc",
       "Name": "Underground Railroad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_16",
@@ -12479,9 +12484,9 @@
       "ID": "objective_completed_265",
       "SetID": "cc37lbc",
       "Name": "Intelligence Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_267",
@@ -12495,9 +12500,9 @@
       "ID": "objective_completed_268",
       "SetID": "cc37lbc",
       "Name": "Visions of Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_269",
@@ -12671,9 +12676,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_386",
@@ -12839,9 +12844,9 @@
       "ID": "objective_completed_408",
       "SetID": "cc37lbc",
       "Name": "Excavating History",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_409",
@@ -13175,17 +13180,17 @@
       "ID": "objective_completed_556",
       "SetID": "cc37lbc",
       "Name": "Bregan D\u0027aerthe Comes to Call",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_557",
       "SetID": "cc37lbc",
       "Name": "Sober Up",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_558",
@@ -13223,9 +13228,9 @@
       "ID": "objective_completed_562",
       "SetID": "415jc5c",
       "Name": "Social Grace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_563",
@@ -13583,9 +13588,9 @@
       "ID": "objective_completed_616",
       "SetID": "cc37lbc",
       "Name": "Displaced Anger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_617",
@@ -13671,9 +13676,9 @@
       "ID": "objective_completed_628",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu All Over Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_630",
@@ -13831,9 +13836,9 @@
       "ID": "objective_completed_658",
       "SetID": "415jc5c",
       "Name": "Ulkoria\u0027s Escape from Alterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_660",
@@ -14015,9 +14020,9 @@
       "ID": "objective_completed_693",
       "SetID": "415jc5c",
       "Name": "Power of Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_695",
@@ -14159,9 +14164,9 @@
       "ID": "objective_completed_804",
       "SetID": "415jc5c",
       "Name": "CONtagious Cold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_805",
@@ -14255,9 +14260,9 @@
       "ID": "objective_completed_819",
       "SetID": "415jc5c",
       "Name": "Rickety Rubble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_82",
@@ -14271,9 +14276,9 @@
       "ID": "objective_completed_827",
       "SetID": "415jc5c",
       "Name": "Dwarven Rumors",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_828",
@@ -14303,9 +14308,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_833",
@@ -14383,25 +14388,25 @@
       "ID": "objective_completed_847",
       "SetID": "415jc5c",
       "Name": "The Radiant Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_848",
       "SetID": "415jc5c",
       "Name": "Quick Thinking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_849",
       "SetID": "415jc5c",
       "Name": "Tough Acting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_850",
@@ -14431,9 +14436,9 @@
       "ID": "objective_completed_854",
       "SetID": "415jc5c",
       "Name": "A Chilling Encounter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_855",
@@ -14639,9 +14644,9 @@
       "ID": "objective_completed_898",
       "SetID": "415jc5c",
       "Name": "Mysteries Unlocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_899",
@@ -14719,17 +14724,17 @@
       "ID": "objective_completed_924",
       "SetID": "415jc5c",
       "Name": "Watchful Eyes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_925",
       "SetID": "415jc5c",
       "Name": "Maroon Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_928",
@@ -14743,9 +14748,9 @@
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_930",
@@ -14831,9 +14836,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_1360",
@@ -14936,21 +14941,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 67858,
+      "Progressed": 67919,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101584,
+      "Progressed": 101645,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:07:49.4020286+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:06:47.3945341+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:58:47.3827717+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:07:49.4048076+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:58:35.0392632+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:06:47.3967804+00:00"
 }

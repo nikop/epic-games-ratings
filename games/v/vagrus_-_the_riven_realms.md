@@ -10,13 +10,13 @@
 | Randomized | 13.00% | ~15 |
 | Conquered | 13.00% | ~15 |
 | Scribe | 6.00% | ~7 |
+| Breached | 5.00% | ~6 |
 | Fight Another Day | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
 | Tactician | 4.00% | ~4 |
-| Breached | 4.00% | ~4 |
+| Acquaintance | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
-| Acquaintance | 2.00% | ~2 |
 | Tail-wind | 2.00% | ~2 |
 | Taskmaster | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |

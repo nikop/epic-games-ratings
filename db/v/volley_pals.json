@@ -2,10 +2,10 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 42.11,
+  "EOS_Completed_Percentage": 40,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-06-21T19:07:42.9719112+00:00",
       "NumProgressed": 19,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-21T23:06:14.2337671+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 10,
@@ -133,7 +138,7 @@
       "ID": "LEVEL_0",
       "SetID": "1fnbp5h",
       "Name": "Beach",
-      "Percentage": 95,
+      "Percentage": 90,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -141,7 +146,7 @@
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 79,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -149,7 +154,7 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 74,
+      "Percentage": 70,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -157,7 +162,7 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 68,
+      "Percentage": 65,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -165,7 +170,7 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -173,7 +178,7 @@
       "ID": "LEVEL_5",
       "SetID": "1fnbp5h",
       "Name": "Ball Disposal Facility",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -181,7 +186,7 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -189,7 +194,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -197,7 +202,7 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -205,7 +210,7 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     }
@@ -214,13 +219,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:07:12.6286025+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:06:14.2337666+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.0578372+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:57:41.6144863+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:07:12.6286109+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:57:30.3610096+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:06:14.2337744+00:00"
 }

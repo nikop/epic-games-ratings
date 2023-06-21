@@ -13,8 +13,8 @@
 | Challenge Accepted | 1.00% | ~6 |
 | The City | 1.00% | ~6 |
 | Terminated III | 1.00% | ~6 |
+| Nanonic II | 0.70% | ~4 |
 | Up Close And Personal | 0.70% | ~4 |
-| Nanonic II | 0.50% | ~3 |
 | Cybernetic | 0.40% | ~2 |
 | Starship Docks | 0.40% | ~2 |
 | Rookie | 0.40% | ~2 |

@@ -25,11 +25,11 @@
 | Perfect Timing | 10.00% | ~39 |
 | Killer Elite | 7.00% | ~27 |
 | Bumper Car | 5.00% | ~19 |
+| First Victory | 5.00% | ~19 |
 | OP | 5.00% | ~19 |
 | Thirty Birds... | 5.00% | ~19 |
 | The Disruptor | 4.00% | ~16 |
 | Early Bird | 4.00% | ~16 |
-| First Victory | 4.00% | ~16 |
 | Swiss Cheese | 3.00% | ~12 |
 | Heavy Metal | 2.00% | ~8 |
 | Mister Fix It | 2.00% | ~8 |

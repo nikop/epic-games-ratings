@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -1086,9 +1086,9 @@
       "ID": "AchievementWillWork",
       "SetID": "76o014g",
       "Name": "Will work",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementWithoutALunchBreak",
@@ -1124,8 +1124,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:04:54.6458812+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:04:25.3096632+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4263139+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:58:00.5356433+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:04:54.6459632+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:57:51.5851407+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:04:25.3097235+00:00"
 }

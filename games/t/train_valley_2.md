@@ -56,11 +56,11 @@ Number of Ratings: 87  (23.09.2022)
 | Ouroboros | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
+| Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
 | Information Age | 0.80% | ~1 |
-| Will work | 0.80% | ~6 |
 | Metro builder | 0.70% | ~5 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |

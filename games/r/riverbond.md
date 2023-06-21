@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~364,048 |
-| Now You're Talking | 62.00% | ~322,443 |
-| Steel Yourself | 62.00% | ~322,443 |
-| Window Dressing | 50.00% | ~260,034 |
-| Trigger Happy | 46.00% | ~239,232 |
-| Riverborn | 45.00% | ~234,031 |
-| Starry Eyed | 34.00% | ~176,823 |
-| Poking Around | 34.00% | ~176,823 |
+| First Step | 70.00% | ~364,050 |
+| Now You're Talking | 62.00% | ~322,445 |
+| Steel Yourself | 62.00% | ~322,445 |
+| Window Dressing | 50.00% | ~260,036 |
+| Trigger Happy | 46.00% | ~239,233 |
+| Riverborn | 45.00% | ~234,032 |
+| Starry Eyed | 34.00% | ~176,824 |
+| Poking Around | 34.00% | ~176,824 |
 | Talk of the Town | 24.00% | ~124,817 |
-| AAARR! | 23.00% | ~119,616 |
-| Hello Darkness | 23.00% | ~119,616 |
-| Wind At Our Backs | 22.00% | ~114,415 |
+| AAARR! | 23.00% | ~119,617 |
+| Hello Darkness | 23.00% | ~119,617 |
+| Wind At Our Backs | 22.00% | ~114,416 |
 | To the Beat | 20.00% | ~104,014 |
 | Sunny Shores | 17.00% | ~88,412 |
-| Sunday Best | 16.00% | ~83,211 |
-| To Victory! | 15.00% | ~78,010 |
+| Sunday Best | 16.00% | ~83,212 |
+| To Victory! | 15.00% | ~78,011 |
 | Two of a Kind | 14.00% | ~72,810 |
 | Keep On Trucking | 13.00% | ~67,609 |
 | Going on an Adventure | 11.00% | ~57,208 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,204 |
 | Dressed to Kill | 6.00% | ~31,204 |
 | Beast Mode | 6.00% | ~31,204 |
-| Oh, Romeo! | 5.00% | ~26,003 |
-| Noble Intentions | 5.00% | ~26,003 |
-| Rising Star | 5.00% | ~26,003 |
-| Slime Slayer | 5.00% | ~26,003 |
+| Oh, Romeo! | 5.00% | ~26,004 |
+| Noble Intentions | 5.00% | ~26,004 |
+| Rising Star | 5.00% | ~26,004 |
+| Slime Slayer | 5.00% | ~26,004 |
 | Privacy, Please! | 4.00% | ~20,803 |
 | Silky Smooth | 4.00% | ~20,803 |
 | Hash It Over | 4.00% | ~20,803 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,560 |
 | Point Taken | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,069 (Ranked 29)  
+Progressed: 520,072 (Ranked 29)  
 Completed: 432 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 432 (0.08%) (Ranked 182)
 | 2023-06-18 | 519,799 | 430 |
 | 2023-06-19 | 519,888 | 430 |
 | 2023-06-20 | 519,988 | 431 |
-| 2023-06-21 | 520,069 | 432 |
+| 2023-06-21 | 520,072 | 432 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

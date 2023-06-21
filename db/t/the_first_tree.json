@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32479,
+  "EOS_Progressed": 32481,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5803,6 +5803,11 @@
       "Time": "2023-06-21T22:02:29.1357547+00:00",
       "NumProgressed": 32479,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-21T23:01:40.504368+00:00",
+      "NumProgressed": 32481,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -5902,7 +5907,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25334
+      "UsersEstimate": 25335
     },
     {
       "ID": "roots",
@@ -5910,7 +5915,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "secretItem",
@@ -5925,15 +5930,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32479,
+      "Progressed": 32481,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:02:29.1357543+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:01:40.5043671+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.4402273+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:01:41.5329786+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:02:29.1358198+00:00"
+  "LastUpdate_Ratings": "2023-06-21T23:00:58.6504966+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:01:40.5044024+00:00"
 }

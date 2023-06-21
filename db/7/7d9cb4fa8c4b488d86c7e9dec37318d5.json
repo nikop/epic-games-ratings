@@ -2,9 +2,9 @@
   "ID": "7d9cb4fa8c4b488d86c7e9dec37318d5",
   "Name": "Suicide Guy",
   "ProductSlug": "suicide-guy-9f7963",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-06-21T22:05:21.638645+00:00",
       "NumProgressed": 55,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T23:04:39.1232926+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -281,17 +286,17 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Game Completed",
       "SetID": "1fffk9d",
       "Name": "Congrats",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Statue Collector Complete",
@@ -305,9 +310,9 @@
       "ID": "Statue Collector Intermediate",
       "SetID": "1fffk9d",
       "Name": "10 Suicide Guy statues",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Statue Collector Master",
@@ -321,7 +326,7 @@
       "ID": "Statue Collector beginner",
       "SetID": "1fffk9d",
       "Name": "5 Suicide Guy statues",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -329,9 +334,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "The Breaker",
@@ -346,14 +351,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:05:21.6386442+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:04:39.123292+00:00",
   "LastUpdate_AppInfo": "2023-06-20T19:57:06.8077696+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:57:26.0456786+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:05:21.6386544+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:57:18.514088+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:04:39.1233019+00:00"
 }

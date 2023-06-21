@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,316 |
-| That's a Grand Army | 8.00% | ~4,725 |
-| That is mine! | 8.00% | ~4,725 |
-| Victorious! | 8.00% | ~4,725 |
-| Brothers in Arms | 6.00% | ~3,544 |
-| That's a Grand Navy | 6.00% | ~3,544 |
-| Seriously?! | 6.00% | ~3,544 |
-| For the Glory | 5.00% | ~2,953 |
+| Until death do us apart | 9.00% | ~5,317 |
+| That's a Grand Army | 8.00% | ~4,727 |
+| That is mine! | 8.00% | ~4,727 |
+| Victorious! | 8.00% | ~4,727 |
+| Brothers in Arms | 6.00% | ~3,545 |
+| That's a Grand Navy | 6.00% | ~3,545 |
+| Seriously?! | 6.00% | ~3,545 |
+| For the Glory | 5.00% | ~2,954 |
 | Cold War | 4.00% | ~2,363 |
 | True Catholic | 4.00% | ~2,363 |
 | Defender of the Faith | 3.00% | ~1,772 |
 | It's all about the money | 3.00% | ~1,772 |
 | Respected | 3.00% | ~1,772 |
 | Truly Divine Ruler | 3.00% | ~1,772 |
-| Agressive Expander | 2.00% | ~1,181 |
-| Blockader | 2.00% | ~1,181 |
-| Combined Arms | 2.00% | ~1,181 |
-| Double the Love | 2.00% | ~1,181 |
-| Gentle Persuasion | 2.00% | ~1,181 |
-| It's all about luck | 2.00% | ~1,181 |
-| My armies are invincible! | 2.00% | ~1,181 |
-| Queen of Conquest | 2.00% | ~1,181 |
-| Royal Authority | 2.00% | ~1,181 |
-| The Princess is in this Castle | 2.00% | ~1,181 |
-| Total Control | 2.00% | ~1,181 |
+| Agressive Expander | 2.00% | ~1,182 |
+| Blockader | 2.00% | ~1,182 |
+| Combined Arms | 2.00% | ~1,182 |
+| Double the Love | 2.00% | ~1,182 |
+| Gentle Persuasion | 2.00% | ~1,182 |
+| It's all about luck | 2.00% | ~1,182 |
+| My armies are invincible! | 2.00% | ~1,182 |
+| Queen of Conquest | 2.00% | ~1,182 |
+| Royal Authority | 2.00% | ~1,182 |
+| The Princess is in this Castle | 2.00% | ~1,182 |
+| Total Control | 2.00% | ~1,182 |
 | All That's Thine Shall Be Mine | 1.00% | ~591 |
 | Azur semé de lis or | 1.00% | ~591 |
 | Bright Spark | 1.00% | ~591 |
@@ -44,7 +44,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~532 |
 | Down Under | 0.80% | ~473 |
 | Trustworthy | 0.80% | ~473 |
-| Electable! | 0.70% | ~413 |
+| Electable! | 0.70% | ~414 |
 | All belongs to Mother Russia | 0.60% | ~354 |
 | At every continent | 0.60% | ~354 |
 | Early-Modern Warfare | 0.60% | ~354 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,068 (Ranked 78)  
+Progressed: 59,083 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-18 | 57,601 | 0 |
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
-| 2023-06-21 | 59,068 | 0 |
+| 2023-06-21 | 59,083 | 0 |
 ## Awards
 Max (Educational): 5,430  (Ranked 61)  
 Sum: 44,886 (Ranked 27)  

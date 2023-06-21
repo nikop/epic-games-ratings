@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2023-06-20T00:05:36.4131005+00:00",
       "NumProgressed": 258,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T23:06:17.4967288+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -414,9 +419,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "profile_ryan",
@@ -424,7 +429,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ryan_date2_all",
@@ -454,17 +459,17 @@
       "ID": "success_bash",
       "SetID": "6h5h9ho",
       "Name": "The lad",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "success_derek",
@@ -478,9 +483,9 @@
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "success_jake",
@@ -520,7 +525,7 @@
       "Name": "The bad boy",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "vinny_number",
@@ -535,7 +540,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 3
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:07:16.1513866+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:06:17.4967286+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:09.8501541+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:57:53.3810267+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:07:16.1514008+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:57:44.8442487+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:06:17.4967385+00:00"
 }

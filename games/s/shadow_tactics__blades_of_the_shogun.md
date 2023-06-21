@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 275)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,918 |
-| Thorough | 9.00% | ~16,126 |
-| A thief's beginning | 8.00% | ~14,334 |
+| Genin | 10.00% | ~17,919 |
+| Thorough | 9.00% | ~16,127 |
+| A thief's beginning | 8.00% | ~14,335 |
 | Disguised | 7.00% | ~12,543 |
 | Rollin' | 7.00% | ~12,543 |
 | Tanuki Time | 7.00% | ~12,543 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,167 |
 | Prisoners | 4.00% | ~7,167 |
 | Too Early | 4.00% | ~7,167 |
-| Gear up | 3.00% | ~5,375 |
-| Happy little accidents | 3.00% | ~5,375 |
-| Noboru | 3.00% | ~5,375 |
-| Still Rollin' | 3.00% | ~5,375 |
-| Stoned | 3.00% | ~5,375 |
+| Gear up | 3.00% | ~5,376 |
+| Happy little accidents | 3.00% | ~5,376 |
+| Noboru | 3.00% | ~5,376 |
+| Still Rollin' | 3.00% | ~5,376 |
+| Stoned | 3.00% | ~5,376 |
 | Atheist Ox | 2.00% | ~3,584 |
 | It's raining men | 2.00% | ~3,584 |
 | Old Man | 2.00% | ~3,584 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~179 |
 | Release the Kraken | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,179 (Ranked 56)  
+Progressed: 179,186 (Ranked 56)  
 Completed: 55 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 55 (0.03%) (Ranked 200)
 | 2023-06-18 | 178,321 | 53 |
 | 2023-06-19 | 178,583 | 54 |
 | 2023-06-20 | 178,877 | 54 |
-| 2023-06-21 | 179,179 | 55 |
+| 2023-06-21 | 179,186 | 55 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
 Sum: 4,685 (Ranked 128)  

@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -286,17 +286,17 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CollectGold",
@@ -334,9 +334,9 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FirstStep",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:03:15.5732319+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:02:22.4060037+00:00",
   "LastUpdate_AppInfo": "2023-06-19T06:57:14.8908293+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:57:28.9877987+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:03:15.5732478+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:57:21.3778971+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:02:22.4060174+00:00"
 }

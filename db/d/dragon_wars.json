@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-wars-92b684",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-22T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.1326057+00:00",
   "LastChanged": "2023-03-31T05:57:54.1326058+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:22.2170144+00:00",
-  "LastUpdate_Ratings": "2023-06-21T21:59:43.8546769+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:04:35.8202345+00:00"
+  "LastUpdate_Ratings": "2023-06-21T22:59:14.6009421+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:04:09.0678303+00:00"
 }

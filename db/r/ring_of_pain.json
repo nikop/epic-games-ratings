@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2329,9 +2329,9 @@
       "Count": 729
     }
   ],
-  "EOS_Progressed": 231194,
+  "EOS_Progressed": 231195,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8489,6 +8489,11 @@
       "Time": "2023-06-21T22:07:45.9051772+00:00",
       "NumProgressed": 231194,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-06-21T23:06:44.1128363+00:00",
+      "NumProgressed": 231195,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 122,
@@ -8500,7 +8505,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23119
+      "UsersEstimate": 23120
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -8532,7 +8537,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 221946
+      "UsersEstimate": 221947
     },
     {
       "ID": "CURSE1HP",
@@ -8548,7 +8553,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60110
+      "UsersEstimate": 60111
     },
     {
       "ID": "DAILY7",
@@ -8596,7 +8601,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97101
+      "UsersEstimate": 97102
     },
     {
       "ID": "DEPTH12HARD",
@@ -8732,7 +8737,7 @@
       "Name": "Walk It Off",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62422
+      "UsersEstimate": 62423
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -8740,7 +8745,7 @@
       "Name": "Barbecue",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23119
+      "UsersEstimate": 23120
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -8900,7 +8905,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141028
+      "UsersEstimate": 141029
     },
     {
       "ID": "KILL1000",
@@ -8908,7 +8913,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60110
+      "UsersEstimate": 60111
     },
     {
       "ID": "KILL10000",
@@ -8996,7 +9001,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106349
+      "UsersEstimate": 106350
     },
     {
       "ID": "KILLPARANOIA",
@@ -9028,7 +9033,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106349
+      "UsersEstimate": 106350
     },
     {
       "ID": "KILLSPITTER",
@@ -9132,7 +9137,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 104037
+      "UsersEstimate": 104038
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -9148,7 +9153,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150276
+      "UsersEstimate": 150277
     },
     {
       "ID": "PETRIFY50",
@@ -9156,7 +9161,7 @@
       "Name": "Stone Touch",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62422
+      "UsersEstimate": 62423
     },
     {
       "ID": "PLAY10HOURS",
@@ -9188,7 +9193,7 @@
       "Name": "Acid Bath",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62422
+      "UsersEstimate": 62423
     },
     {
       "ID": "POISONSELF20",
@@ -9228,7 +9233,7 @@
       "Name": "New Perspectives",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62422
+      "UsersEstimate": 62423
     },
     {
       "ID": "SNAKESTEALTH",
@@ -9236,7 +9241,7 @@
       "Name": "Snake Sneak",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20807
+      "UsersEstimate": 20808
     },
     {
       "ID": "SPECIALROOMS1",
@@ -9244,7 +9249,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205763
+      "UsersEstimate": 205764
     },
     {
       "ID": "SPECIALROOMS10",
@@ -9252,7 +9257,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143340
+      "UsersEstimate": 143341
     },
     {
       "ID": "SPEEDRUN10",
@@ -9268,7 +9273,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 99413
+      "UsersEstimate": 99414
     },
     {
       "ID": "STEALTH100",
@@ -9276,7 +9281,7 @@
       "Name": "Shadow Walker",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62422
+      "UsersEstimate": 62423
     },
     {
       "ID": "SURVIVEON1",
@@ -9284,7 +9289,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67046
+      "UsersEstimate": 67047
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -9300,7 +9305,7 @@
       "Name": "Shapeshifting",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60110
+      "UsersEstimate": 60111
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -9316,7 +9321,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141028
+      "UsersEstimate": 141029
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -9475,7 +9480,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231194,
+      "Progressed": 231195,
       "Completed": 240
     }
   ],
@@ -9483,8 +9488,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-21T04:00:50.2078447+00:00",
-  "LastChanged_Achievements": "2023-06-21T22:07:45.9051767+00:00",
+  "LastChanged_Achievements": "2023-06-21T23:06:44.1128357+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.8459013+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:00:46.4988408+00:00",
-  "LastUpdate_Achievements": "2023-06-21T22:07:45.9053863+00:00"
+  "LastUpdate_Ratings": "2023-06-21T23:00:10.2310355+00:00",
+  "LastUpdate_Achievements": "2023-06-21T23:06:44.1129998+00:00"
 }
