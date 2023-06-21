@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 124,
@@ -1059,7 +1059,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6636,
+  "EOS_Progressed": 6637,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
@@ -6134,6 +6134,11 @@
       "Time": "2023-06-20T23:03:49.0915189+00:00",
       "NumProgressed": 6636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T00:03:17.285161+00:00",
+      "NumProgressed": 6637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6145,7 +6150,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "10",
@@ -6177,7 +6182,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "14",
@@ -6185,7 +6190,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "15",
@@ -6201,7 +6206,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "17",
@@ -6225,7 +6230,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "2",
@@ -6265,7 +6270,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "24",
@@ -6361,7 +6366,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "35",
@@ -6465,7 +6470,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "47",
@@ -6489,7 +6494,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "5",
@@ -6616,15 +6621,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6636,
+      "Progressed": 6637,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-18T21:00:08.1920815+00:00",
-  "LastChanged_Achievements": "2023-06-20T23:03:49.0915183+00:00",
+  "LastChanged_Achievements": "2023-06-21T00:03:17.2851604+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:01:16.8953578+00:00",
-  "LastUpdate_Achievements": "2023-06-20T23:03:49.0916265+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:59:55.6333145+00:00",
+  "LastUpdate_Achievements": "2023-06-21T00:03:17.2852517+00:00"
 }

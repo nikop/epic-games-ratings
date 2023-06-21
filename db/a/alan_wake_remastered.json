@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55823,
+  "EOS_Progressed": 55824,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1074,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5567,6 +5567,11 @@
       "Time": "2023-06-20T23:07:51.9373256+00:00",
       "NumProgressed": 55823,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T00:06:04.6217887+00:00",
+      "NumProgressed": 55824,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5578,7 +5583,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17863
+      "UsersEstimate": 17864
     },
     {
       "ID": "02",
@@ -5594,7 +5599,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10606
+      "UsersEstimate": 10607
     },
     {
       "ID": "04",
@@ -5986,7 +5991,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "53",
@@ -6113,21 +6118,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55823,
+      "Progressed": 55824,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19291,
+      "Progressed": 19292,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-20T23:07:51.9373251+00:00",
+  "LastChanged_Achievements": "2023-06-21T00:06:04.6217881+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-20T22:58:16.4778457+00:00",
-  "LastUpdate_Achievements": "2023-06-20T23:07:51.9374459+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:57:47.0778089+00:00",
+  "LastUpdate_Achievements": "2023-06-21T00:06:04.6218919+00:00"
 }

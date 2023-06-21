@@ -11,10 +11,10 @@
 | We will need a bigger wardrobe | 33.00% | ~14 |
 | Born to Win | 31.00% | ~13 |
 | Welcome to Seoul | 31.00% | ~13 |
-| Roller Race | 29.00% | ~12 |
+| Roller Race | 31.00% | ~13 |
 | Scooter Race | 24.00% | ~10 |
+| Barcelona Hidden Style | 21.00% | ~9 |
 | Creating New Trends | 19.00% | ~8 |
-| Barcelona Hidden Style | 19.00% | ~8 |
 | Best Gala Ever | 19.00% | ~8 |
 | Welcome to the The Stylin' Soiree | 19.00% | ~8 |
 | Seoul Hidden Style | 14.00% | ~6 |

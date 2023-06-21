@@ -76,9 +76,9 @@
       "ID": "Betrayed",
       "SetID": "6jf74lf",
       "Name": "Betrayed",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Chainsplosion",
@@ -196,9 +196,9 @@
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PersonallyPunched",
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-06-20T23:04:12.2530584+00:00",
+  "LastChanged_Achievements": "2023-06-21T00:03:26.0892451+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:46.6307744+00:00",
-  "LastUpdate_Ratings": "2023-06-20T23:01:39.6031002+00:00",
-  "LastUpdate_Achievements": "2023-06-20T23:04:12.2530799+00:00"
+  "LastUpdate_Ratings": "2023-06-21T00:00:13.7159431+00:00",
+  "LastUpdate_Achievements": "2023-06-21T00:03:26.0892625+00:00"
 }

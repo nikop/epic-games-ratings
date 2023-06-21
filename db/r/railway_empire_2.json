@@ -2386,9 +2386,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 299
     },
     {
       "ID": "A14",
@@ -2731,8 +2731,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-20T23:07:59.5706173+00:00",
+  "LastChanged_Achievements": "2023-06-21T00:06:10.3977408+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-20T22:58:45.0476724+00:00",
-  "LastUpdate_Achievements": "2023-06-20T23:07:59.5706937+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:58:08.1408279+00:00",
+  "LastUpdate_Achievements": "2023-06-21T00:06:10.3978054+00:00"
 }

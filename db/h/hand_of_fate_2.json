@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658216,
+  "EOS_Progressed": 658218,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6555,6 +6555,11 @@
       "Time": "2023-06-20T23:07:46.4782027+00:00",
       "NumProgressed": 658216,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-21T00:06:00.4408408+00:00",
+      "NumProgressed": 658218,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6566,7 +6571,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473916
+      "UsersEstimate": 473917
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6574,7 +6579,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381765
+      "UsersEstimate": 381766
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6710,7 +6715,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92150
+      "UsersEstimate": 92151
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -6750,7 +6755,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19746
+      "UsersEstimate": 19747
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -6822,7 +6827,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19746
+      "UsersEstimate": 19747
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -6846,7 +6851,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59239
+      "UsersEstimate": 59240
     },
     {
       "ID": "Achievement_37_Champion",
@@ -6870,7 +6875,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19746
+      "UsersEstimate": 19747
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -6949,15 +6954,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658216,
+      "Progressed": 658218,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-20T23:07:46.4782021+00:00",
+  "LastChanged_Achievements": "2023-06-21T00:06:00.4408403+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-20T22:58:12.4471782+00:00",
-  "LastUpdate_Achievements": "2023-06-20T23:07:46.4783154+00:00"
+  "LastUpdate_Ratings": "2023-06-20T23:57:44.7622583+00:00",
+  "LastUpdate_Achievements": "2023-06-21T00:06:00.4409167+00:00"
 }

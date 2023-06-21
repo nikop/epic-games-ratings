@@ -5,15 +5,15 @@ Rating: 4.23 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~332,878 |
-| Well educated | 37.00% | ~256,593 |
-| City Planner | 19.00% | ~131,764 |
-| Deforester | 16.00% | ~110,959 |
-| Big Hauling | 15.00% | ~104,024 |
-| Exporter | 13.00% | ~90,154 |
-| I would drive 500 tiles... | 12.00% | ~83,219 |
-| Apprentice Manufacturer | 12.00% | ~83,219 |
-| Landscaper | 11.00% | ~76,284 |
+| Entrepreneur | 48.00% | ~332,883 |
+| Well educated | 37.00% | ~256,597 |
+| City Planner | 19.00% | ~131,766 |
+| Deforester | 16.00% | ~110,961 |
+| Big Hauling | 15.00% | ~104,026 |
+| Exporter | 13.00% | ~90,156 |
+| I would drive 500 tiles... | 12.00% | ~83,221 |
+| Apprentice Manufacturer | 12.00% | ~83,221 |
+| Landscaper | 11.00% | ~76,286 |
 | Railwayman | 7.00% | ~48,545 |
 | Penniless | 6.00% | ~41,610 |
 | Massive Gains | 6.00% | ~41,610 |
@@ -23,17 +23,17 @@ Rating: 4.23 (Ranked 818)
 | Captain | 0.80% | ~5,548 |
 | Billionaire | 0.60% | ~4,161 |
 | Vroom Vroom | 0.40% | ~2,774 |
-| Excavator | 0.30% | ~2,080 |
-| Loan Ranger | 0.30% | ~2,080 |
-| [2130] Nature Lover | 0.10% | ~693 |
-| [2130] No Quarter Given | 0.10% | ~693 |
-| [2130] Dumpster Diving | 0.10% | ~693 |
-| Freelancer | 0.10% | ~693 |
-| Director | 0.10% | ~693 |
-| Master Builder | 0.10% | ~693 |
-| Hard working | 0.10% | ~693 |
+| Excavator | 0.30% | ~2,081 |
+| Loan Ranger | 0.30% | ~2,081 |
+| [2130] Nature Lover | 0.10% | ~694 |
+| [2130] No Quarter Given | 0.10% | ~694 |
+| [2130] Dumpster Diving | 0.10% | ~694 |
+| Freelancer | 0.10% | ~694 |
+| Director | 0.10% | ~694 |
+| Master Builder | 0.10% | ~694 |
+| Hard working | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,495 (Ranked 19)  
+Progressed: 693,506 (Ranked 19)  
 Completed: 3 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 3 (0.00%) (Ranked 227)
 | 2023-06-18 | 692,398 | 3 |
 | 2023-06-19 | 692,962 | 3 |
 | 2023-06-20 | 693,495 | 3 |
+| 2023-06-21 | 693,506 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,8 +13,8 @@
 | Fun Guy | 62.00% | ~629 |
 | Vibing | 61.00% | ~619 |
 | Tragic Brave | 53.00% | ~538 |
+| Little Shop | 50.00% | ~508 |
 | Awakened Spirits | 50.00% | ~508 |
-| Little Shop | 49.00% | ~497 |
 | Surprise! | 45.00% | ~457 |
 | An Actor! | 45.00% | ~457 |
 | Curtain Call | 44.00% | ~447 |
@@ -50,7 +50,7 @@
 | Mirror, Mirror | 30.00% | ~304 |
 | Flower Power | 27.00% | ~274 |
 | Shopping Spree! | 24.00% | ~244 |
-| Crowned | 22.00% | ~223 |
+| Crowned | 23.00% | ~233 |
 | Max Level! | 15.00% | ~152 |
 | Dance Master | 9.00% | ~91 |
 | Bombs Away! | 9.00% | ~91 |

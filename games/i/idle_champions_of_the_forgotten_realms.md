@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,027 |
-| The Cursed Farmer | 4.00% | ~4,014 |
-| The Mad Wizard | 3.00% | ~3,010 |
-| Beast Intentions | 2.00% | ~2,007 |
-| The Ring of Regeneration | 2.00% | ~2,007 |
-| Were-verpowered | 1.00% | ~1,003 |
-| Seeking Allies | 1.00% | ~1,003 |
-| Are Ya Chicken? | 1.00% | ~1,003 |
-| Mad Cow Disease | 1.00% | ~1,003 |
-| Friendly Imps | 1.00% | ~1,003 |
+| A Brief Tour of the Realms | 8.00% | ~8,030 |
+| The Cursed Farmer | 4.00% | ~4,015 |
+| The Mad Wizard | 3.00% | ~3,011 |
+| Beast Intentions | 2.00% | ~2,008 |
+| The Ring of Regeneration | 2.00% | ~2,008 |
+| Were-verpowered | 1.00% | ~1,004 |
+| Seeking Allies | 1.00% | ~1,004 |
+| Are Ya Chicken? | 1.00% | ~1,004 |
+| Mad Cow Disease | 1.00% | ~1,004 |
+| Friendly Imps | 1.00% | ~1,004 |
 | A Persistent Buzzing | 0.90% | ~903 |
 | Pure Energy | 0.90% | ~903 |
 | The Court of Storms | 0.90% | ~600 |
 | Terror in the Dark | 0.80% | ~803 |
 | The Crumbling Temple | 0.80% | ~803 |
-| A Mysterious Summons | 0.70% | ~702 |
-| Unearthed Evil | 0.70% | ~702 |
-| Exploring Port Nyanzaru | 0.70% | ~702 |
-| Beware the Jabberwock | 0.70% | ~466 |
+| A Mysterious Summons | 0.70% | ~703 |
+| Unearthed Evil | 0.70% | ~703 |
+| Exploring Port Nyanzaru | 0.70% | ~703 |
+| Beware the Jabberwock | 0.70% | ~467 |
 | Maddening | 0.60% | ~602 |
 | Beast Mode | 0.60% | ~602 |
 | Building Trust | 0.60% | ~602 |
@@ -43,28 +43,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.50% | ~502 |
 | Rescue in the Jungle | 0.50% | ~502 |
 | Quick or Quack | 0.50% | ~333 |
-| The Silken Swamp | 0.40% | ~401 |
-| Supply Run | 0.40% | ~401 |
-| Owlbear Necessities | 0.40% | ~266 |
-| Best Thay Ever | 0.40% | ~266 |
-| Frail Doesn't Mean Broken | 0.40% | ~266 |
-| Unreasonable Doesn't Mean Stupid | 0.40% | ~266 |
-| Pin and Skewer | 0.40% | ~266 |
-| Homecoming | 0.40% | ~401 |
-| Street War | 0.40% | ~401 |
-| March of the Undead | 0.40% | ~401 |
-| Wisdom Check | 0.40% | ~401 |
-| Invisible Shadows | 0.40% | ~401 |
-| The Botched Kidnapping | 0.40% | ~401 |
-| Trollskull Manor | 0.40% | ~401 |
-| Attack on the Manor | 0.40% | ~401 |
-| The Death Curse | 0.40% | ~401 |
-| Premature Betrayal | 0.40% | ~401 |
-| A Tale of Two Cities | 0.40% | ~401 |
-| Flying Monkey Skulls of Doom | 0.40% | ~401 |
-| Close Escort | 0.40% | ~401 |
-| Constant Banditry | 0.40% | ~401 |
-| Overdue Rendezvous | 0.40% | ~401 |
+| The Silken Swamp | 0.40% | ~402 |
+| Supply Run | 0.40% | ~402 |
+| Owlbear Necessities | 0.40% | ~267 |
+| Best Thay Ever | 0.40% | ~267 |
+| Frail Doesn't Mean Broken | 0.40% | ~267 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~267 |
+| Pin and Skewer | 0.40% | ~267 |
+| Homecoming | 0.40% | ~402 |
+| Street War | 0.40% | ~402 |
+| March of the Undead | 0.40% | ~402 |
+| Wisdom Check | 0.40% | ~402 |
+| Invisible Shadows | 0.40% | ~402 |
+| The Botched Kidnapping | 0.40% | ~402 |
+| Trollskull Manor | 0.40% | ~402 |
+| Attack on the Manor | 0.40% | ~402 |
+| The Death Curse | 0.40% | ~402 |
+| Premature Betrayal | 0.40% | ~402 |
+| A Tale of Two Cities | 0.40% | ~402 |
+| Flying Monkey Skulls of Doom | 0.40% | ~402 |
+| Close Escort | 0.40% | ~402 |
+| Constant Banditry | 0.40% | ~402 |
+| Overdue Rendezvous | 0.40% | ~402 |
 | Pros and CONs | 0.30% | ~301 |
 | Tall Tales | 0.30% | ~200 |
 | Third Third Out | 0.30% | ~200 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,341 (Ranked 63)  
+Progressed: 100,378 (Ranked 63)  
 Completed: 1,973 (1.97%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,6 +562,7 @@ Completed: 1,973 (1.97%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
+| 2023-06-21 | 100,378 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,156 (Ranked 37)  

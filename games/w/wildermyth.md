@@ -60,8 +60,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 1.00% | ~13 |
 | A Lowly Crust of Beef | 0.90% | ~11 |
 | Overwhelming Monstrosity | 0.70% | ~9 |
+| Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |
-| Peacemaker | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,267 (Ranked 172)  
 Completed: 4 (0.32%) (Ranked 138)  

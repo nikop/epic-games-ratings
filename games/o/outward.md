@@ -25,8 +25,8 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Freedom | 9.00% | ~266 |
 | Ace Detective | 8.00% | ~236 |
 | Gift from the Ancestors | 8.00% | ~236 |
+| House of Cards | 8.00% | ~236 |
 | Magic is a science | 8.00% | ~236 |
-| House of Cards | 7.00% | ~207 |
 | Let ‘em eat magma! | 7.00% | ~207 |
 | The power of ambition | 7.00% | ~207 |
 | Hold my Mead and Watch This | 6.00% | ~177 |

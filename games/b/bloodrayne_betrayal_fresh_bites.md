@@ -14,8 +14,8 @@
 | Drop In | 22.00% | ~11 |
 | The Last Bullet | 18.00% | ~9 |
 | Champion of Light | 14.00% | ~7 |
-| Betrayed | 10.00% | ~5 |
-| Parting Gift | 10.00% | ~5 |
+| Betrayed | 12.00% | ~6 |
+| Parting Gift | 12.00% | ~6 |
 | Skullector | 6.00% | ~3 |
 | Chainsplosion! | 4.00% | ~2 |
 | Stomach Ache | 4.00% | ~2 |

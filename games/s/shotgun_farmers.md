@@ -8,12 +8,12 @@
 | Aspairagus | 58.00% | ~46 |
 | Survivor | 48.00% | ~38 |
 | First Blood | 45.00% | ~58 |
-| Triple Kill | 42.00% | ~55 |
+| Triple Kill | 43.00% | ~56 |
 | I Believe I Can Fly | 38.00% | ~49 |
 | Early Survivor | 38.00% | ~30 |
+| Cornivore | 37.00% | ~48 |
 | No Diggity | 37.00% | ~30 |
 | No Asperascope | 36.00% | ~47 |
-| Cornivore | 36.00% | ~47 |
 | Amateur Survivor | 27.00% | ~22 |
 | Bouncemato | 26.00% | ~21 |
 | Quick-Draw Pod | 21.00% | ~17 |
@@ -38,9 +38,9 @@
 | Getting Started | 5.00% | ~6 |
 | Master Survivor | 5.00% | ~4 |
 | Bring Home The Bacon | 4.00% | ~5 |
+| Heart Breaker | 4.00% | ~3 |
 | Chick Magnet | 3.00% | ~4 |
 | Early Bird | 3.00% | ~4 |
-| Heart Breaker | 3.00% | ~2 |
 | Honk Honk | 2.00% | ~3 |
 | I Have The High Ground | 2.00% | ~3 |
 | Pro Pyromancer | 2.00% | ~3 |

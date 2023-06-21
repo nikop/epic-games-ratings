@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~232,149 |
-| First Victory | 50.00% | ~232,149 |
-| Clean Sheet | 49.00% | ~227,506 |
-| He's Sold! | 47.00% | ~218,220 |
-| I'm The Boss! | 41.00% | ~190,362 |
-| Hat-trick | 41.00% | ~190,362 |
-| Thumping | 37.00% | ~171,790 |
-| Scoring Streak | 37.00% | ~171,790 |
-| Unbeatable! | 36.00% | ~167,147 |
-| Superb Dressing Room Atmosphere | 35.00% | ~162,504 |
-| Total Support | 32.00% | ~148,575 |
-| Record Signing | 31.00% | ~143,932 |
-| Millionaire's Club | 31.00% | ~143,932 |
-| Team Performance | 30.00% | ~139,289 |
-| He's a Natural | 30.00% | ~139,289 |
-| Parked The Bus | 29.00% | ~134,646 |
-| Shrewd Spender | 29.00% | ~134,646 |
-| Star Man | 29.00% | ~134,646 |
-| Attack! | 27.00% | ~125,360 |
-| You're On Fire | 26.00% | ~120,717 |
-| Tremendous Trio | 26.00% | ~120,717 |
-| Record Sale | 26.00% | ~120,717 |
-| On A Roll | 25.00% | ~116,074 |
-| Unstoppable Force | 25.00% | ~116,074 |
+| He's Signed! | 50.00% | ~232,151 |
+| First Victory | 50.00% | ~232,151 |
+| Clean Sheet | 49.00% | ~227,508 |
+| He's Sold! | 47.00% | ~218,222 |
+| I'm The Boss! | 41.00% | ~190,364 |
+| Hat-trick | 41.00% | ~190,364 |
+| Thumping | 37.00% | ~171,792 |
+| Scoring Streak | 37.00% | ~171,792 |
+| Unbeatable! | 36.00% | ~167,149 |
+| Superb Dressing Room Atmosphere | 35.00% | ~162,506 |
+| Total Support | 32.00% | ~148,577 |
+| Record Signing | 31.00% | ~143,934 |
+| Millionaire's Club | 31.00% | ~143,934 |
+| Team Performance | 30.00% | ~139,291 |
+| He's a Natural | 30.00% | ~139,291 |
+| Parked The Bus | 29.00% | ~134,648 |
+| Shrewd Spender | 29.00% | ~134,648 |
+| Star Man | 29.00% | ~134,648 |
+| Attack! | 27.00% | ~125,362 |
+| You're On Fire | 26.00% | ~120,719 |
+| Tremendous Trio | 26.00% | ~120,719 |
+| Record Sale | 26.00% | ~120,719 |
+| On A Roll | 25.00% | ~116,076 |
+| Unstoppable Force | 25.00% | ~116,076 |
 | Full Faith | 24.00% | ~111,432 |
 | The Boss | 24.00% | ~111,432 |
 | Armchair Expert | 24.00% | ~111,432 |
@@ -90,7 +90,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | One more draft | 0.60% | ~2,786 |
 | Online Streak | 0.60% | ~2,786 |
 | Set Piece Specialist | 0.60% | ~2,786 |
-| Draft Rivalry | 0.50% | ~2,321 |
+| Draft Rivalry | 0.50% | ~2,322 |
 | Outstanding Defence | 0.30% | ~1,393 |
 | Club Legend | 0.30% | ~1,393 |
 | Beat all the AI Managers | 0.30% | ~1,393 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~464 |
 | Shoestring Budget | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,298 (Ranked 33)  
+Progressed: 464,302 (Ranked 33)  
 Completed: 19 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 19 (0.00%) (Ranked 227)
 | 2023-06-18 | 464,044 | 18 |
 | 2023-06-19 | 464,174 | 19 |
 | 2023-06-20 | 464,298 | 19 |
+| 2023-06-21 | 464,302 | 19 |
 ## Awards
 Max (Relaxing): 6,317  (Ranked 51)  
 Sum: 49,789 (Ranked 24)  
