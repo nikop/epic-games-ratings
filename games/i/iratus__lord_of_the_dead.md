@@ -6,25 +6,25 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~27,800 |
-| Blood Moon | 73.00% | ~23,875 |
-| Path of the Necromancer | 66.00% | ~21,586 |
-| Chainbreaker - I | 60.00% | ~19,624 |
-| Cursed Creature | 57.00% | ~18,642 |
-| Extraction | 57.00% | ~18,642 |
-| Chainbreaker - II | 55.00% | ~17,988 |
-| Necromancer's Apprentice | 51.00% | ~16,680 |
-| Keeper of Keys | 47.00% | ~15,372 |
+| Improvement | 85.00% | ~27,802 |
+| Blood Moon | 73.00% | ~23,877 |
+| Path of the Necromancer | 66.00% | ~21,587 |
+| Chainbreaker - I | 60.00% | ~19,625 |
+| Cursed Creature | 57.00% | ~18,644 |
+| Extraction | 57.00% | ~18,644 |
+| Chainbreaker - II | 55.00% | ~17,989 |
+| Necromancer's Apprentice | 51.00% | ~16,681 |
+| Keeper of Keys | 47.00% | ~15,373 |
 | Distillation | 43.00% | ~14,064 |
 | Mountain King - I | 42.00% | ~13,737 |
 | Transmutation | 42.00% | ~13,737 |
-| Prepared Necromancer | 41.00% | ~13,409 |
-| Mountain King - II | 39.00% | ~12,755 |
-| Blind Rage | 38.00% | ~12,428 |
-| Mad Genius | 35.00% | ~11,447 |
-| Cannon Fodder - I | 34.00% | ~11,120 |
-| Soul of Lies | 34.00% | ~11,120 |
-| Bane of Mercenaries - I | 33.00% | ~10,793 |
+| Prepared Necromancer | 41.00% | ~13,410 |
+| Mountain King - II | 39.00% | ~12,756 |
+| Blind Rage | 38.00% | ~12,429 |
+| Mad Genius | 35.00% | ~11,448 |
+| Cannon Fodder - I | 34.00% | ~11,121 |
+| Soul of Lies | 34.00% | ~11,121 |
+| Bane of Mercenaries - I | 33.00% | ~10,794 |
 | Bane of Mercenaries - II | 31.00% | ~10,139 |
 | Shadow Between Worlds | 30.00% | ~9,812 |
 | Cannon Fodder - II | 29.00% | ~9,485 |
@@ -32,18 +32,18 @@ Number of Ratings: 10,109  (23.09.2022)
 | Chainbreaker - III | 27.00% | ~8,831 |
 | Revealed Secrets - I | 27.00% | ~8,831 |
 | Revealed Secrets - II | 26.00% | ~8,504 |
-| Unholy Bones | 24.00% | ~7,849 |
-| Blood Elemental | 24.00% | ~7,849 |
-| Lord of Fire | 23.00% | ~7,522 |
-| Uncommon Warrior | 23.00% | ~7,522 |
-| Cannon Fodder - III | 22.00% | ~7,195 |
-| Spiritual Attraction | 22.00% | ~7,195 |
-| Nightmare of the Humanity - I | 22.00% | ~7,195 |
-| Nightmare of the Humanity - II | 22.00% | ~7,195 |
-| That Was Easy! | 20.00% | ~6,541 |
-| Silent Waters | 20.00% | ~6,541 |
-| Calcination | 20.00% | ~6,541 |
-| Head of Order | 20.00% | ~6,541 |
+| Unholy Bones | 24.00% | ~7,850 |
+| Blood Elemental | 24.00% | ~7,850 |
+| Lord of Fire | 23.00% | ~7,523 |
+| Uncommon Warrior | 23.00% | ~7,523 |
+| Cannon Fodder - III | 22.00% | ~7,196 |
+| Spiritual Attraction | 22.00% | ~7,196 |
+| Nightmare of the Humanity - I | 22.00% | ~7,196 |
+| Nightmare of the Humanity - II | 22.00% | ~7,196 |
+| That Was Easy! | 20.00% | ~6,542 |
+| Silent Waters | 20.00% | ~6,542 |
+| Calcination | 20.00% | ~6,542 |
+| Head of Order | 20.00% | ~6,542 |
 | Blood Mage | 17.00% | ~5,560 |
 | Wild Hunger | 16.00% | ~5,233 |
 | Rage Concentrated | 16.00% | ~5,233 |
@@ -60,11 +60,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | More Mortal Suffering! | 9.00% | ~2,944 |
 | Forbidden Knowledge | 9.00% | ~2,944 |
 | Live Operation | 9.00% | ~2,944 |
-| Master of Rage | 8.00% | ~2,616 |
-| Icy Incursion | 8.00% | ~2,616 |
-| Arachnophobia | 8.00% | ~2,616 |
-| Revealed Secrets - III | 8.00% | ~2,616 |
-| Nightmare of the Humanity - III | 7.00% | ~2,289 |
+| Master of Rage | 8.00% | ~2,617 |
+| Icy Incursion | 8.00% | ~2,617 |
+| Arachnophobia | 8.00% | ~2,617 |
+| Revealed Secrets - III | 8.00% | ~2,617 |
+| Nightmare of the Humanity - III | 7.00% | ~2,290 |
 | Means of Recovery | 6.00% | ~1,962 |
 | Master of Magic | 6.00% | ~1,962 |
 | Master of Destruction | 4.00% | ~1,308 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~164 |
 | Renowned Researcher | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,706 (Ranked 89)  
+Progressed: 32,708 (Ranked 89)  
 Completed: 22 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 22 (0.07%) (Ranked 186)
 | 2023-06-18 | 32,506 | 22 |
 | 2023-06-19 | 32,603 | 22 |
 | 2023-06-20 | 32,671 | 22 |
-| 2023-06-21 | 32,706 | 22 |
+| 2023-06-21 | 32,708 | 22 |
 ## Awards
 Max (Character Customization): 2,139  (Ranked 105)  
 Sum: 4,144 (Ranked 134)  

@@ -8,6 +8,7 @@
 | Grand Re-Opening | 38.00% | ~3 |
 | Summer Day | 38.00% | ~3 |
 | Risky Rescue | 38.00% | ~3 |
+| Everything Under Control | 25.00% | ~2 |
 | Pup Pup Boogie | 25.00% | ~2 |
 | Mr. Porter | 25.00% | ~2 |
 | Break Time | 25.00% | ~2 |
@@ -23,7 +24,6 @@
 | Adventure Bay’s Citizen | 25.00% | ~2 |
 | King of the Mountain | 13.00% | ~1 |
 | A Great Explorer | 13.00% | ~1 |
-| Everything Under Control | 13.00% | ~1 |
 | In the Air | 13.00% | ~1 |
 | Clear the Road | 13.00% | ~1 |
 | You Have Been Everywhere | 13.00% | ~1 |

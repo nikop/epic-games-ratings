@@ -13,8 +13,8 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 57.00% | ~76 |
 | Déjà vu | 56.00% | ~75 |
 | GG EZ | 51.00% | ~68 |
+| Way of the Wimp | 50.00% | ~67 |
 | DM intervention | 50.00% | ~67 |
-| Way of the Wimp | 49.00% | ~66 |
 | Oh, when I'll be level 10... | 43.00% | ~58 |
 | Speedrun | 42.00% | ~56 |
 | A beer, two curses, three companions | 37.00% | ~50 |

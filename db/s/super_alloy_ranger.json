@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_35",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-21T12:02:19.3944784+00:00",
+  "LastChanged_Achievements": "2023-06-21T13:08:37.5014257+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4232501+00:00",
-  "LastUpdate_Ratings": "2023-06-21T12:01:20.3285651+00:00",
-  "LastUpdate_Achievements": "2023-06-21T12:02:19.3945289+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:07:48.6238717+00:00",
+  "LastUpdate_Achievements": "2023-06-21T13:08:37.5014766+00:00"
 }

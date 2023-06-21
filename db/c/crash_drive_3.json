@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-06-21T06:04:57.9746486+00:00",
       "NumProgressed": 329,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T13:12:05.6886523+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -246,7 +251,7 @@
       "Name": "Car-Tapult",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "COIN_COLLECT",
@@ -262,7 +267,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -278,7 +283,7 @@
       "Name": "High Roller",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -294,7 +299,7 @@
       "Name": "Special Forces",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -390,7 +395,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -398,7 +403,7 @@
       "Name": "Anger Issues",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -406,7 +411,7 @@
       "Name": "Pushover",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "HIT_ALIEN",
@@ -462,7 +467,7 @@
       "Name": "Your Highness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEFT_LEVEL",
@@ -510,7 +515,7 @@
       "Name": "Multiply that!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -620,9 +625,9 @@
       "ID": "WIN_KING_HILL",
       "SetID": "20koof9",
       "Name": "Assert Dominance",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -661,7 +666,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 2
     }
   ],
@@ -669,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-21T12:05:18.8987971+00:00",
+  "LastChanged_Achievements": "2023-06-21T13:12:05.6886518+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.1971896+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:59:50.8151727+00:00",
-  "LastUpdate_Achievements": "2023-06-21T12:05:18.898853+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:06:30.1991517+00:00",
+  "LastUpdate_Achievements": "2023-06-21T13:12:05.6887048+00:00"
 }

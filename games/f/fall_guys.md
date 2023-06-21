@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 8.00% | ~2,684,209 |
-| Snowflake | 8.00% | ~2,684,209 |
-| Fall Throttle | 7.00% | ~2,348,683 |
-| Big Bully | 6.00% | ~2,013,157 |
-| Face First | 6.00% | ~2,013,157 |
-| One to Watch | 5.00% | ~1,677,630 |
-| Style Points | 5.00% | ~1,677,630 |
-| Troublemaker | 5.00% | ~1,677,630 |
-| Bargain Bucket | 4.00% | ~1,342,104 |
-| Flawless Victory | 4.00% | ~1,342,104 |
-| Fall Bae | 4.00% | ~1,342,104 |
-| Ahead of the Pack | 4.00% | ~1,342,104 |
-| Stumble Chums | 4.00% | ~1,342,104 |
-| Victory! | 4.00% | ~1,342,104 |
-| Catwalk Model | 2.00% | ~671,052 |
-| Down to the Wire | 2.00% | ~671,052 |
-| Household Name | 2.00% | ~671,052 |
-| Head Turner | 2.00% | ~671,052 |
-| One giant leap | 2.00% | ~671,052 |
-| Big Air | 1.00% | ~335,526 |
-| Star of the Show | 1.00% | ~335,526 |
-| Quite Dashing | 1.00% | ~335,526 |
-| Shopping Spree | 1.00% | ~335,526 |
-| Squad Goals | 1.00% | ~335,526 |
-| Mad Trendy | 0.90% | ~301,973 |
-| Top Tier | 0.90% | ~301,973 |
-| Low Baller | 0.80% | ~268,421 |
-| Veteran Status | 0.50% | ~167,763 |
-| Show Off | 0.50% | ~167,763 |
-| Golden Guy | 0.40% | ~134,210 |
-| Track Star | 0.30% | ~100,658 |
-| Big Tease | 0.20% | ~67,105 |
-| Fall Guy Fashionista | 0.20% | ~67,105 |
-| Infallible | 0.10% | ~33,553 |
+| One small trip | 8.00% | ~2,684,309 |
+| Snowflake | 8.00% | ~2,684,309 |
+| Fall Throttle | 7.00% | ~2,348,771 |
+| Big Bully | 6.00% | ~2,013,232 |
+| Face First | 6.00% | ~2,013,232 |
+| One to Watch | 5.00% | ~1,677,693 |
+| Style Points | 5.00% | ~1,677,693 |
+| Troublemaker | 5.00% | ~1,677,693 |
+| Bargain Bucket | 4.00% | ~1,342,155 |
+| Flawless Victory | 4.00% | ~1,342,155 |
+| Fall Bae | 4.00% | ~1,342,155 |
+| Ahead of the Pack | 4.00% | ~1,342,155 |
+| Stumble Chums | 4.00% | ~1,342,155 |
+| Victory! | 4.00% | ~1,342,155 |
+| Catwalk Model | 2.00% | ~671,077 |
+| Down to the Wire | 2.00% | ~671,077 |
+| Household Name | 2.00% | ~671,077 |
+| Head Turner | 2.00% | ~671,077 |
+| One giant leap | 2.00% | ~671,077 |
+| Big Air | 1.00% | ~335,539 |
+| Star of the Show | 1.00% | ~335,539 |
+| Quite Dashing | 1.00% | ~335,539 |
+| Shopping Spree | 1.00% | ~335,539 |
+| Squad Goals | 1.00% | ~335,539 |
+| Mad Trendy | 0.90% | ~301,985 |
+| Top Tier | 0.90% | ~301,985 |
+| Low Baller | 0.80% | ~268,431 |
+| Veteran Status | 0.50% | ~167,769 |
+| Show Off | 0.50% | ~167,769 |
+| Golden Guy | 0.40% | ~134,215 |
+| Track Star | 0.30% | ~100,662 |
+| Big Tease | 0.20% | ~67,108 |
+| Fall Guy Fashionista | 0.20% | ~67,108 |
+| Infallible | 0.10% | ~33,554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,552,610 (Ranked 1)  
-Completed: 34,452 (0.10%) (Ranked 173)  
+Progressed: 33,553,868 (Ranked 1)  
+Completed: 34,460 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,10 +103,10 @@ Completed: 34,452 (0.10%) (Ranked 173)
 | 2023-06-18 | 33,496,719 | 33,810 |
 | 2023-06-19 | 33,519,033 | 34,303 |
 | 2023-06-20 | 33,542,698 | 34,404 |
-| 2023-06-21 | 33,552,610 | 34,452 |
+| 2023-06-21 | 33,553,868 | 34,460 |
 ## Awards
 Max (Great for Beginners): 142,272  (Ranked 7)  
-Sum: 1,322,013 (Ranked 5)  
+Sum: 1,322,062 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -116,7 +116,7 @@ Diff (max vs sum): 2
 | This game has Quickly Understood Controls | 129,048 |
 | This game is Great for Quick Sessions | 125,575 |
 | This game has Diverse Characters | 122,663 |
-| This game is Extremely Fun | 118,108 |
+| This game is Extremely Fun | 118,157 |
 | This game is Highly Recommended | 111,578 |
 | This game has Amazing Characters | 108,701 |
 | This game has Amazing Storytelling | 103,549 |
@@ -271,4 +271,4 @@ Diff (max vs sum): 2
 | 2023-06-18 | 4.53 | - | 142,088 | 1,320,527 |
 | 2023-06-19 | 4.53 | - | 142,175 | 1,321,128 |
 | 2023-06-20 | 4.53 | - | 142,272 | 1,321,740 |
-| 2023-06-21 | 4.53 | - | 142,272 | 1,322,013 |
+| 2023-06-21 | 4.53 | - | 142,272 | 1,322,062 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -48,9 +48,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 167,
+      "Percentage": 200,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -96,9 +96,9 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 167,
+      "Percentage": 200,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -120,9 +120,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 167,
+      "Percentage": 200,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-06-21T12:03:35.382874+00:00",
+  "LastChanged_Achievements": "2023-06-21T13:10:34.877673+00:00",
   "LastUpdate_AppInfo": "2023-06-21T08:57:55.7452407+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:57:20.3692105+00:00",
-  "LastUpdate_Achievements": "2023-06-21T12:03:35.3828932+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:04:32.743802+00:00",
+  "LastUpdate_Achievements": "2023-06-21T13:10:34.8776888+00:00"
 }

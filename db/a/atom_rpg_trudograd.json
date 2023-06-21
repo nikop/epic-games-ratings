@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -770,6 +770,11 @@
       "Time": "2023-06-20T00:05:40.9215876+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T13:13:38.3968186+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -797,7 +802,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ATOM_QUIT",
@@ -819,9 +824,9 @@
       "ID": "B_E",
       "SetID": "62d2oh4",
       "Name": "Baby Eater",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "COMMANDO",
@@ -909,7 +914,7 @@
       "Name": "Lot 49",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -1013,7 +1018,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1021,7 +1026,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -1029,14 +1034,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1113,
       "Completed": 0
     }
   ],
@@ -1044,8 +1049,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-21T12:07:08.9616565+00:00",
+  "LastChanged_Achievements": "2023-06-21T13:13:38.396818+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.2136356+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:57:51.8098618+00:00",
-  "LastUpdate_Achievements": "2023-06-21T12:07:08.9616955+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:04:59.3109333+00:00",
+  "LastUpdate_Achievements": "2023-06-21T13:13:38.3968449+00:00"
 }

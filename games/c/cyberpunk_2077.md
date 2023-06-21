@@ -1,58 +1,58 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 348)  
+Rating: 4.62 (Ranked 349)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~583,790 |
-| Right Back At Ya | 38.00% | ~326,236 |
-| The Lovers | 33.00% | ~283,310 |
-| Stanislavski's Method | 27.00% | ~231,799 |
-| The Wheel of Fortune | 26.00% | ~223,214 |
-| The Hermit | 23.00% | ~197,458 |
-| Christmas Tree Attack | 22.00% | ~188,873 |
-| True Soldier | 22.00% | ~188,873 |
-| The High Priestess | 20.00% | ~171,703 |
-| Legend of The Afterlife | 20.00% | ~171,703 |
-| Life of the Road | 19.00% | ~163,118 |
-| Full Body Conversion | 17.00% | ~145,948 |
-| The World | 16.00% | ~137,362 |
-| Bushido and Chill | 15.00% | ~128,777 |
-| Gun Fu | 14.00% | ~120,192 |
-| True Warrior | 14.00% | ~120,192 |
-| To Protect and Serve | 13.00% | ~111,607 |
-| Master Crafter | 13.00% | ~111,607 |
-| I Am The Law | 13.00% | ~111,607 |
-| Judy vs Night City | 13.00% | ~111,607 |
-| Two Heads, One Bullet | 11.00% | ~94,437 |
-| The Wandering Fool | 9.00% | ~77,266 |
-| The Quick and the Dead | 9.00% | ~77,266 |
-| Ten out of Ten | 8.00% | ~68,681 |
-| Breathtaking | 7.00% | ~60,096 |
-| To Bad Decisions! | 6.00% | ~51,511 |
-| The Star | 6.00% | ~51,511 |
-| The Sun | 6.00% | ~51,511 |
-| Must Be Rats | 4.00% | ~34,341 |
-| Temperance | 4.00% | ~34,341 |
-| City Lights | 3.00% | ~25,755 |
-| Mean Streets | 3.00% | ~25,755 |
-| Little Tokyo | 3.00% | ~25,755 |
-| Greetings from Pacifica! | 3.00% | ~25,755 |
-| The Jungle | 3.00% | ~25,755 |
-| V for Vendetta | 3.00% | ~25,755 |
-| It's Elementary | 3.00% | ~25,755 |
-| Autojock | 2.00% | ~17,170 |
-| Frequent Flyer | 2.00% | ~17,170 |
-| The Wasteland | 2.00% | ~17,170 |
-| Daemon In The Shell | 2.00% | ~17,170 |
-| The Devil | 2.00% | ~17,170 |
-| Gunslinger | 1.00% | ~8,585 |
-| Rough Landing | 0.40% | ~3,434 |
+| The Fool | 68.00% | ~583,824 |
+| Right Back At Ya | 38.00% | ~326,254 |
+| The Lovers | 33.00% | ~283,326 |
+| Stanislavski's Method | 27.00% | ~231,812 |
+| The Wheel of Fortune | 26.00% | ~223,227 |
+| The Hermit | 23.00% | ~197,470 |
+| Christmas Tree Attack | 22.00% | ~188,884 |
+| True Soldier | 22.00% | ~188,884 |
+| The High Priestess | 20.00% | ~171,713 |
+| Legend of The Afterlife | 20.00% | ~171,713 |
+| Life of the Road | 19.00% | ~163,127 |
+| Full Body Conversion | 17.00% | ~145,956 |
+| The World | 16.00% | ~137,370 |
+| Bushido and Chill | 15.00% | ~128,785 |
+| Gun Fu | 14.00% | ~120,199 |
+| True Warrior | 14.00% | ~120,199 |
+| To Protect and Serve | 13.00% | ~111,613 |
+| Master Crafter | 13.00% | ~111,613 |
+| I Am The Law | 13.00% | ~111,613 |
+| Judy vs Night City | 13.00% | ~111,613 |
+| Two Heads, One Bullet | 11.00% | ~94,442 |
+| The Wandering Fool | 9.00% | ~77,271 |
+| The Quick and the Dead | 9.00% | ~77,271 |
+| Ten out of Ten | 8.00% | ~68,685 |
+| Breathtaking | 7.00% | ~60,099 |
+| To Bad Decisions! | 6.00% | ~51,514 |
+| The Star | 6.00% | ~51,514 |
+| The Sun | 6.00% | ~51,514 |
+| Must Be Rats | 4.00% | ~34,343 |
+| Temperance | 4.00% | ~34,343 |
+| City Lights | 3.00% | ~25,757 |
+| Mean Streets | 3.00% | ~25,757 |
+| Little Tokyo | 3.00% | ~25,757 |
+| Greetings from Pacifica! | 3.00% | ~25,757 |
+| The Jungle | 3.00% | ~25,757 |
+| V for Vendetta | 3.00% | ~25,757 |
+| It's Elementary | 3.00% | ~25,757 |
+| Autojock | 2.00% | ~17,171 |
+| Frequent Flyer | 2.00% | ~17,171 |
+| The Wasteland | 2.00% | ~17,171 |
+| Daemon In The Shell | 2.00% | ~17,171 |
+| The Devil | 2.00% | ~17,171 |
+| Gunslinger | 1.00% | ~8,586 |
+| Rough Landing | 0.50% | ~4,293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858,515 (Ranked 13)  
-Completed: 1,785 (0.21%) (Ranked 155)  
+Progressed: 858,564 (Ranked 13)  
+Completed: 1,786 (0.21%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,10 +113,10 @@ Completed: 1,785 (0.21%) (Ranked 155)
 | 2023-06-18 | 856,927 | 1,776 |
 | 2023-06-19 | 857,278 | 1,779 |
 | 2023-06-20 | 858,099 | 1,782 |
-| 2023-06-21 | 858,515 | 1,785 |
+| 2023-06-21 | 858,564 | 1,786 |
 ## Awards
 Max (Character Customization): 70,048  (Ranked 9)  
-Sum: 182,892 (Ranked 13)  
+Sum: 182,921 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 7,847 |
 | This game is Relaxing | 7,817 |
 | This game has Quickly Understood Controls | 7,709 |
-| This game has Amazing Characters | 7,656 |
+| This game has Amazing Characters | 7,685 |
 | This game has a Creative Community | 5,066 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -287,4 +287,4 @@ Diff (max vs sum): -4
 | 2023-06-18 | 4.62 | - | 69,539 | 181,519 |
 | 2023-06-19 | 4.62 | - | 69,802 | 182,191 |
 | 2023-06-20 | 4.62 | - | 70,048 | 182,833 |
-| 2023-06-21 | 4.62 | - | 70,048 | 182,892 |
+| 2023-06-21 | 4.62 | - | 70,048 | 182,921 |

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55863,
+  "EOS_Progressed": 55865,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5627,6 +5627,11 @@
       "Time": "2023-06-21T12:07:24.7252112+00:00",
       "NumProgressed": 55863,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-21T13:13:52.620492+00:00",
+      "NumProgressed": 55865,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5638,7 +5643,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17876
+      "UsersEstimate": 17877
     },
     {
       "ID": "02",
@@ -5830,7 +5835,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "26",
@@ -5910,7 +5915,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     },
     {
       "ID": "36",
@@ -5950,7 +5955,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "41",
@@ -6038,7 +6043,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "52",
@@ -6173,21 +6178,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55863,
+      "Progressed": 55865,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19331,
+      "Progressed": 19333,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-21T12:07:24.7252106+00:00",
+  "LastChanged_Achievements": "2023-06-21T13:13:52.6204913+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:58:20.9912483+00:00",
-  "LastUpdate_Achievements": "2023-06-21T12:07:24.725312+00:00"
+  "LastUpdate_Ratings": "2023-06-21T13:05:22.2565223+00:00",
+  "LastUpdate_Achievements": "2023-06-21T13:13:52.6205886+00:00"
 }
