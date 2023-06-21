@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,069 |
-| Titan's First Steps | 96.00% | ~125,759 |
-| Basic in Bulk | 91.00% | ~119,209 |
-| Tinkle of Coins | 87.00% | ~113,969 |
-| Disintermediation | 76.00% | ~99,559 |
-| Capitalism Ho! | 74.00% | ~96,939 |
-| It's Free Real Estate | 70.00% | ~91,699 |
-| Budding Merchant | 66.00% | ~86,459 |
-| Another Satisfied Customer | 61.00% | ~79,909 |
-| One Easy Payment | 60.00% | ~78,599 |
-| Own the Means of Production | 60.00% | ~78,599 |
-| Some Assembly Required | 58.00% | ~75,979 |
-| Pretty Penny | 57.00% | ~74,669 |
+| Sponsored by Argon | 97.00% | ~127,070 |
+| Titan's First Steps | 96.00% | ~125,760 |
+| Basic in Bulk | 91.00% | ~119,210 |
+| Tinkle of Coins | 87.00% | ~113,970 |
+| Disintermediation | 76.00% | ~99,560 |
+| Capitalism Ho! | 74.00% | ~96,940 |
+| It's Free Real Estate | 70.00% | ~91,700 |
+| Budding Merchant | 66.00% | ~86,460 |
+| Another Satisfied Customer | 61.00% | ~79,910 |
+| One Easy Payment | 60.00% | ~78,600 |
+| Own the Means of Production | 60.00% | ~78,600 |
+| Some Assembly Required | 58.00% | ~75,980 |
+| Pretty Penny | 57.00% | ~74,670 |
 | One-Armed Bandit | 50.00% | ~65,500 |
 | Through Repetition, Perfection | 46.00% | ~60,260 |
 | The Daily Grind | 45.00% | ~58,950 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~655 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,999 (Ranked 58)  
+Progressed: 131,000 (Ranked 58)  
 Completed: 108 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 108 (0.08%) (Ranked 182)
 | 2023-06-18 | 130,882 | 105 |
 | 2023-06-19 | 130,940 | 107 |
 | 2023-06-20 | 130,990 | 108 |
-| 2023-06-21 | 130,999 | 108 |
+| 2023-06-21 | 131,000 | 108 |
 ## Awards
 Max (Great for Beginners): 4,629  (Ranked 68)  
 Sum: 26,784 (Ranked 45)  

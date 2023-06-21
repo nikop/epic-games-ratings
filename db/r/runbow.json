@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245247,
+  "EOS_Progressed": 245248,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 0,
@@ -5904,6 +5904,11 @@
       "Time": "2023-06-21T03:06:07.6472429+00:00",
       "NumProgressed": 245247,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-21T04:07:40.7092193+00:00",
+      "NumProgressed": 245248,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -5939,7 +5944,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49049
+      "UsersEstimate": 49050
     },
     {
       "ID": "blotbuster",
@@ -6011,7 +6016,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44144
+      "UsersEstimate": 44145
     },
     {
       "ID": "curator",
@@ -6019,7 +6024,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49049
+      "UsersEstimate": 49050
     },
     {
       "ID": "didYourTime",
@@ -6282,7 +6287,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245247,
+      "Progressed": 245248,
       "Completed": 3
     }
   ],
@@ -6290,8 +6295,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:06:07.6472423+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:07:40.7092186+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:59:21.3953943+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:06:07.6473155+00:00"
+  "LastUpdate_Ratings": "2023-06-21T04:00:23.4072472+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:07:40.7093134+00:00"
 }

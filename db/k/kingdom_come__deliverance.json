@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -5344,10 +5344,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27097,
       "NumberOfAwardsMax": 7260
+    },
+    {
+      "Time": "2023-06-21T03:59:19.8050949+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27100,
+      "NumberOfAwardsMax": 7260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27097,
+  "NumberOfAwards": 27100,
   "NumberOfAwardsMax": 7260,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5397,13 +5403,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1613
+      "Count": 1614
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1661
+      "Count": 1663
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5430,9 +5436,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 788792,
+  "EOS_Progressed": 788794,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1244,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11910,6 +11916,11 @@
       "Time": "2023-06-21T03:06:20.585539+00:00",
       "NumProgressed": 788792,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-21T04:07:57.1115019+00:00",
+      "NumProgressed": 788794,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 82,
@@ -11953,7 +11964,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157758
+      "UsersEstimate": 157759
     },
     {
       "ID": "BadGirl",
@@ -12121,7 +12132,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181422
+      "UsersEstimate": 181423
     },
     {
       "ID": "Fighter",
@@ -12321,7 +12332,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55215
+      "UsersEstimate": 55216
     },
     {
       "ID": "MercenarysHonor",
@@ -12401,7 +12412,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157758
+      "UsersEstimate": 157759
     },
     {
       "ID": "RevenantOfLedechko",
@@ -12425,7 +12436,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55215
+      "UsersEstimate": 55216
     },
     {
       "ID": "Saviour",
@@ -12441,7 +12452,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157758
+      "UsersEstimate": 157759
     },
     {
       "ID": "SerialKiller",
@@ -12576,15 +12587,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 788792,
+      "Progressed": 788794,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-06-20T20:59:03.067633+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:06:20.5855385+00:00",
+  "LastChanged": "2023-06-21T03:59:19.8050948+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:07:57.1115011+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:05.4980914+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:58:38.5195789+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:06:20.5856711+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:59:19.8050954+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:07:57.1116689+00:00"
 }

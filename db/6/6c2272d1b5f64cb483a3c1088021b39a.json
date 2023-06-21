@@ -1495,9 +1495,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "adventurous_2",
@@ -2030,8 +2030,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:04:09.6348094+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:04:50.0199498+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:57:15.0379269+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:04:09.6348807+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:57:21.4693073+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:04:50.0200407+00:00"
 }

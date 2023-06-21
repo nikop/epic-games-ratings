@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -43,9 +43,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 150,
+      "Percentage": 200,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -115,9 +115,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 150,
+      "Percentage": 200,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -275,9 +275,9 @@
       "ID": "CgkIxYDzrbcPEAIQHg",
       "SetID": "4egpam7",
       "Name": "Curious Soul",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:03:18.6807468+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:03:15.6664405+00:00",
   "LastUpdate_AppInfo": "2023-06-20T09:57:11.9784487+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:57:10.4101196+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:03:18.6807674+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:57:15.6090499+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:03:15.6664646+00:00"
 }

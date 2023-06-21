@@ -5,10 +5,10 @@ Rating: 3.93 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,848 |
-| First One’s Free | 65.00% | ~43,785 |
-| Neophyte Ninja | 50.00% | ~33,681 |
-| Too Old for This | 47.00% | ~31,660 |
+| Downed but Not Outed | 74.00% | ~49,849 |
+| First One’s Free | 65.00% | ~43,786 |
+| Neophyte Ninja | 50.00% | ~33,682 |
+| Too Old for This | 47.00% | ~31,661 |
 | Fancy Pants | 35.00% | ~23,577 |
 | Case Closed | 34.00% | ~22,903 |
 | King of the Hill | 34.00% | ~22,903 |
@@ -29,10 +29,10 @@ Rating: 3.93 (Ranked 920)
 | Foo Finder | 7.00% | ~4,715 |
 | Legend Looter | 5.00% | ~3,368 |
 | Savvy Seeker | 5.00% | ~3,368 |
-| Imports and Exports | 4.00% | ~2,694 |
-| Olympus Ascended | 4.00% | ~2,694 |
-| Cracked the Jack | 4.00% | ~2,694 |
-| Red Star | 4.00% | ~2,694 |
+| Imports and Exports | 4.00% | ~2,695 |
+| Olympus Ascended | 4.00% | ~2,695 |
+| Cracked the Jack | 4.00% | ~2,695 |
+| Red Star | 4.00% | ~2,695 |
 | Privateer | 3.00% | ~2,021 |
 | Groundhog Days | 3.00% | ~2,021 |
 | Rockay Raider | 2.00% | ~1,347 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 920)
 | Geek Out | 0.50% | ~337 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,362 (Ranked 70)  
+Progressed: 67,363 (Ranked 70)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-18 | 67,188 | 34 |
 | 2023-06-19 | 67,268 | 34 |
 | 2023-06-20 | 67,353 | 34 |
-| 2023-06-21 | 67,362 | 34 |
+| 2023-06-21 | 67,363 | 34 |
 ## Awards
 Max (Diverse Characters): 335  (Ranked 221)  
 Sum: 1,608 (Ranked 208)  

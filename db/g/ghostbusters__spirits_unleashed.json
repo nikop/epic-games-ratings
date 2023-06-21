@@ -1198,10 +1198,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2128,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-06-21T04:00:03.4047693+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2129,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2128,
+  "NumberOfAwards": 2129,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1239,7 +1245,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1280,7 +1286,7 @@
   ],
   "EOS_Progressed": 23559,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6548,9 +6554,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-20T04:59:57.5820536+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:06:17.5268964+00:00",
+  "LastChanged": "2023-06-21T04:00:03.4047692+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:07:53.1422723+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:59:06.6403682+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:06:17.5269854+00:00"
+  "LastUpdate_Ratings": "2023-06-21T04:00:03.4047699+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:07:53.1423675+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 507,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-06-20T09:06:38.6202588+00:00",
       "NumProgressed": 505,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T04:07:40.0869424+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1062,9 +1067,9 @@
       "ID": "Extremist",
       "SetID": "2aagp3d",
       "Name": "Devoted",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "EyeSpy",
@@ -1192,7 +1197,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Specialist",
@@ -1232,7 +1237,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Toxic",
@@ -1271,7 +1276,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 507,
       "Completed": 1
     }
   ],
@@ -1279,8 +1284,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-06-21T03:06:07.0986529+00:00",
+  "LastChanged_Achievements": "2023-06-21T04:07:40.0869417+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.5964785+00:00",
-  "LastUpdate_Ratings": "2023-06-21T02:58:07.988408+00:00",
-  "LastUpdate_Achievements": "2023-06-21T03:06:07.0986822+00:00"
+  "LastUpdate_Ratings": "2023-06-21T03:58:39.1129144+00:00",
+  "LastUpdate_Achievements": "2023-06-21T04:07:40.0869784+00:00"
 }

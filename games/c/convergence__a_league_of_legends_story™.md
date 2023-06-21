@@ -12,6 +12,7 @@
 | Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
 | Treasure Trove | 11.00% | ~78 |
+| The Betrayer | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
 | No, Thanks! | 11.00% | ~78 |
 | Breaking Down Barriers | 11.00% | ~78 |
@@ -22,7 +23,6 @@
 | Immaculate Aim | 11.00% | ~78 |
 | The Brass Boss | 11.00% | ~78 |
 | Like Clockwork | 10.00% | ~71 |
-| The Betrayer | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |

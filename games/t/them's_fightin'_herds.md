@@ -14,27 +14,27 @@ Rating: 4.64 (Ranked 316)
 | Champ'een of The Praire | 1.00% | ~2,245 |
 | Come At Me! | 1.00% | ~2,245 |
 | Sin'er Man | 0.20% | ~449 |
-| Well-Done | 0.10% | ~224 |
-| Valedictorian | 0.10% | ~224 |
-| Love is a Battlefield | 0.10% | ~224 |
-| That'll Do | 0.10% | ~224 |
-| Swashbuckle'd | 0.10% | ~224 |
-| School of Hard Knocks | 0.10% | ~224 |
-| Way of the Dragon | 0.10% | ~224 |
-| Iced Out | 0.10% | ~224 |
-| Kickin' 'n Stompin' | 0.10% | ~224 |
-| Dark Magic | 0.10% | ~224 |
-| I Love You This Much | 0.10% | ~224 |
-| Who Let The Dogs Out? | 0.10% | ~224 |
-| The GOAT | 0.10% | ~224 |
-| The Key To Victory | 0.10% | ~224 |
-| Honor For All | 0.10% | ~224 |
-| Ice Queen | 0.10% | ~224 |
-| Doohickeys | 0.10% | ~224 |
-| Alpaca Space Program | 0.10% | ~224 |
-| High Priestess | 0.10% | ~224 |
+| Well-Done | 0.10% | ~225 |
+| Valedictorian | 0.10% | ~225 |
+| Love is a Battlefield | 0.10% | ~225 |
+| That'll Do | 0.10% | ~225 |
+| Swashbuckle'd | 0.10% | ~225 |
+| School of Hard Knocks | 0.10% | ~225 |
+| Way of the Dragon | 0.10% | ~225 |
+| Iced Out | 0.10% | ~225 |
+| Kickin' 'n Stompin' | 0.10% | ~225 |
+| Dark Magic | 0.10% | ~225 |
+| I Love You This Much | 0.10% | ~225 |
+| Who Let The Dogs Out? | 0.10% | ~225 |
+| The GOAT | 0.10% | ~225 |
+| The Key To Victory | 0.10% | ~225 |
+| Honor For All | 0.10% | ~225 |
+| Ice Queen | 0.10% | ~225 |
+| Doohickeys | 0.10% | ~225 |
+| Alpaca Space Program | 0.10% | ~225 |
+| High Priestess | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,499 (Ranked 49)  
+Progressed: 224,501 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 3 (0.00%) (Ranked 227)
 | 2023-06-18 | 224,342 | 3 |
 | 2023-06-19 | 224,413 | 3 |
 | 2023-06-20 | 224,491 | 3 |
-| 2023-06-21 | 224,499 | 3 |
+| 2023-06-21 | 224,501 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
