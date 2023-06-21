@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658247,
+  "EOS_Progressed": 658249,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6630,6 +6630,11 @@
       "Time": "2023-06-21T18:06:26.6820531+00:00",
       "NumProgressed": 658247,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-21T19:08:14.5574803+00:00",
+      "NumProgressed": 658249,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6641,7 +6646,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473938
+      "UsersEstimate": 473939
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6649,7 +6654,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381783
+      "UsersEstimate": 381784
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7024,15 +7029,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658247,
+      "Progressed": 658249,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:06:26.6820528+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:08:14.55748+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:57:52.0542027+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:06:26.6821077+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:58:18.8997671+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:08:14.5575896+00:00"
 }

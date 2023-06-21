@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 442)
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,706 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -11,9 +11,9 @@
 | Welcome to the Tower | 88.00% | ~7 |
 | The great escape | 88.00% | ~7 |
 | A new dawn | 88.00% | ~7 |
+| The darkness | 88.00% | ~7 |
 | True G4M3R | 75.00% | ~6 |
 | Champollion | 75.00% | ~6 |
-| The darkness | 75.00% | ~6 |
 | One last step | 75.00% | ~6 |
 | Cable guy | 63.00% | ~5 |
 | I did it | 50.00% | ~4 |

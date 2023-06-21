@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~278 |
-| Increasing your Power Level | 27.00% | ~278 |
+| Rookie No More | 28.00% | ~288 |
+| Increasing your Power Level | 28.00% | ~288 |
 | Enter the Speed Gauntlet | 25.00% | ~258 |
 | I just can't choose | 25.00% | ~258 |
 | A Cheese Grater to the Face | 20.00% | ~206 |
@@ -59,7 +59,7 @@ Rating: 4.45 (Ranked 621)
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,030 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

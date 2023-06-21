@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~4,061 |
 | Explorer | 53.00% | ~3,528 |
 | Healer | 53.00% | ~3,528 |
-| Aspiring Inventor | 44.00% | ~2,929 |
+| Aspiring Inventor | 45.00% | ~2,996 |
 | Adventurer | 42.00% | ~2,796 |
 | Famous Healer | 38.00% | ~2,530 |
 | Local Leader | 35.00% | ~2,330 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,657 (Ranked 124)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-21 | 6,657 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 328)  
-Sum: 668 (Ranked 270)  
+Sum: 669 (Ranked 270)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 85 |
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 80 |
-| This game is Highly Recommended | 68 |
+| This game is Highly Recommended | 69 |
 | This game has Diverse Characters | 68 |
 | This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
@@ -240,3 +240,4 @@ Diff (max vs sum): 58
 | 2023-06-11 | 4.47 | - | 99 | 665 |
 | 2023-06-17 | 4.47 | - | 99 | 666 |
 | 2023-06-18 | 4.47 | - | 99 | 668 |
+| 2023-06-21 | 4.47 | - | 99 | 669 |

@@ -11,6 +11,7 @@
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
+| Immaculate Aim | 12.00% | ~86 |
 | Treasure Trove | 11.00% | ~78 |
 | The Betrayer | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
@@ -20,7 +21,6 @@
 | The Prince in Heels | 11.00% | ~78 |
 | Honest Mistake | 11.00% | ~78 |
 | Fast Learner | 11.00% | ~78 |
-| Immaculate Aim | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
 | The Brass Boss | 11.00% | ~78 |
 | Like Clockwork | 10.00% | ~71 |

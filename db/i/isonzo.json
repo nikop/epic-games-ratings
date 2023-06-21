@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -654,7 +654,7 @@
   ],
   "EOS_Progressed": 6293,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3131,9 +3131,9 @@
       "ID": "ISONZO_ACH_MALPRACTICE",
       "SetID": "akchbl3",
       "Name": "Malpractice",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "ISONZO_ACH_MAMMA_MIA",
@@ -3340,8 +3340,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-20T15:57:29.1430628+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:03:51.7070695+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:05:09.7354377+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.499894+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:57:40.0077047+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:03:51.7071767+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:58:02.5993318+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:05:09.7354967+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-06-21T02:10:38.4356475+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T19:06:33.4373328+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -923,7 +928,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achSaveses",
@@ -970,14 +975,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:05:10.8849483+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:06:33.4373324+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.7260663+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:57:21.0436563+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:05:10.8849619+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:57:30.6250216+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:06:33.4373523+00:00"
 }

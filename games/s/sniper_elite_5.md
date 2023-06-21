@@ -5,36 +5,38 @@ Rating: 4.48 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Confirming Suspicions | 0.60% | ~18 |
+| Taking it back | 0.60% | ~18 |
 | Meeting Resistance | 0.50% | ~15 |
-| Confirming Suspicions | 0.50% | ~15 |
-| Taking it back | 0.50% | ~15 |
+| It's Starting to Crack | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Just a Flesh Wound | 0.40% | ~12 |
-| It's Starting to Crack | 0.40% | ~12 |
 | Change the Channel | 0.40% | ~12 |
+| Target America | 0.40% | ~12 |
 | Liberté | 0.30% | ~9 |
 | Sharpshooter | 0.30% | ~9 |
+| Precision Is Key | 0.30% | ~9 |
+| Lord of War | 0.30% | ~9 |
 | Resourceful | 0.30% | ~9 |
 | The Kraken Wakes | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
-| Target America | 0.30% | ~9 |
 | The Kraken Sleeps | 0.30% | ~9 |
 | No Stone Unturned | 0.20% | ~6 |
+| Enemy at the Gates | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
 | Gunslinger | 0.20% | ~6 |
 | Skirmisher | 0.20% | ~6 |
-| Precision Is Key | 0.20% | ~6 |
 | Explosive Efficiency | 0.20% | ~6 |
-| Lord of War | 0.20% | ~6 |
 | Die Nussknacker Sweet! | 0.20% | ~6 |
+| Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
+| Brains of the Operation | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
 | Best of the Best | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
-| Enemy at the Gates | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
@@ -43,7 +45,6 @@ Rating: 4.48 (Ranked 582)
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
-| Der Geist | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Burn after reading | 0.10% | ~3 |
@@ -54,7 +55,6 @@ Rating: 4.48 (Ranked 582)
 | Up close and personal | 0.10% | ~3 |
 | Road Rage | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
-| Brains of the Operation | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 582)
 | The Long Game | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,071 (Ranked 143)  
+Progressed: 3,072 (Ranked 143)  
 Completed: 2 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-18 | 3,018 | 2 |
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
-| 2023-06-21 | 3,071 | 2 |
+| 2023-06-21 | 3,072 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

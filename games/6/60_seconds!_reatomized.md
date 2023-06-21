@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 317)
 | Not Alone | 2.00% | ~87 |
 | Raining Cats and Dogs | 1.00% | ~44 |
 | Konrad style! | 1.00% | ~44 |
-| Cuckoo's nest | 0.70% | ~31 |
+| Cuckoo's nest | 0.80% | ~35 |
 | Bughunter | 0.70% | ~31 |
 | Cat Lady | 0.70% | ~31 |
 | Naysayer | 0.60% | ~26 |
@@ -67,7 +67,7 @@ Rating: 4.64 (Ranked 317)
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,369 (Ranked 135)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 1 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 4,342 | 0 |
 | 2023-06-19 | 4,352 | 0 |
 | 2023-06-20 | 4,363 | 0 |
-| 2023-06-21 | 4,369 | 0 |
+| 2023-06-21 | 4,369 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

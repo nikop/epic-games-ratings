@@ -17,8 +17,8 @@ Rating: 4.20 (Ranked 833)
 | “Here boy…" | 2.00% | ~32 |
 | First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587 (Ranked 165)  
-Completed: 25 (1.58%) (Ranked 82)  
+Progressed: 1,588 (Ranked 165)  
+Completed: 25 (1.57%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,6 +55,7 @@ Completed: 25 (1.58%) (Ranked 82)
 | 2023-06-15 | 1,584 | 25 |
 | 2023-06-18 | 1,586 | 25 |
 | 2023-06-19 | 1,587 | 25 |
+| 2023-06-21 | 1,588 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

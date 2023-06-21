@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2381,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -2713,6 +2713,11 @@
       "Time": "2023-06-21T18:06:32.6894815+00:00",
       "NumProgressed": 2381,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-21T19:08:21.1799755+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2788,7 +2793,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2804,7 +2809,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2828,7 +2833,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2876,7 +2881,7 @@
       "Name": "Do you trust me?",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -2940,7 +2945,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2956,7 +2961,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2970,9 +2975,9 @@
       "ID": "STB_MISSION4_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Sacred Woods",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2980,7 +2985,7 @@
       "Name": "Glyndemere",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3026,9 +3031,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1429
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3100,7 +3105,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3108,7 +3113,7 @@
       "Name": "Spellcrafting",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -3116,7 +3121,7 @@
       "Name": "Full equipped",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3132,7 +3137,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3140,14 +3145,14 @@
       "Name": "Petricite Burst",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2381,
+      "Progressed": 2382,
       "Completed": 2
     }
   ],
@@ -3155,8 +3160,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:06:32.689481+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:08:21.1799749+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:57:51.6517702+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:06:32.6895284+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:58:18.3035654+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:08:21.1800609+00:00"
 }

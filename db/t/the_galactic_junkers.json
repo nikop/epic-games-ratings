@@ -3,9 +3,9 @@
   "Name": "The Galactic Junkers",
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "A_Extinguish_1_Fire",
       "SetID": "56632p4",
       "Name": "Firefighter",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "A_Extinguish_25_Fires",
@@ -229,9 +229,9 @@
       "ID": "A_Fix_1_System",
       "SetID": "56632p4",
       "Name": "Mechanic",
-      "Percentage": 90,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "A_Fix_50_Systems",
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:03:28.4935935+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:04:36.3782865+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.899244+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:59:24.5355146+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:03:28.4936052+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:00:24.3092116+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:04:36.3783044+00:00"
 }

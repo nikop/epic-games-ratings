@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3434,
+  "EOS_Progressed": 3435,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -548,6 +548,11 @@
       "Time": "2023-06-20T17:07:37.6414273+00:00",
       "NumProgressed": 3434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T19:08:10.261119+00:00",
+      "NumProgressed": 3435,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -599,7 +604,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -631,7 +636,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -663,7 +668,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -679,7 +684,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -727,7 +732,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -766,7 +771,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3434,
+      "Progressed": 3435,
       "Completed": 0
     }
   ],
@@ -774,8 +779,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:06:23.4419528+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:08:10.2611181+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.5639476+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:59:55.357292+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:06:23.4419675+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:01:09.6085777+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:08:10.2611386+00:00"
 }

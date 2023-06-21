@@ -9,23 +9,25 @@
 | The Package | 22.00% | ~24 |
 | Randomized | 14.00% | ~16 |
 | Conquered | 14.00% | ~16 |
+| Scribe | 6.00% | ~7 |
 | Conciliator | 5.00% | ~6 |
-| Scribe | 5.00% | ~6 |
 | Breached | 5.00% | ~6 |
 | Fight Another Day | 5.00% | ~6 |
-| Tactician | 3.00% | ~3 |
+| Tactician | 4.00% | ~4 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Acquaintance | 2.00% | ~2 |
 | Tail-wind | 2.00% | ~2 |
+| Taskmaster | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
+| Quartermaster | 0.90% | ~1 |
+| Supercargo | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Xevarian Gambit | 0.90% | ~1 |
 | Harbinger | 0.90% | ~1 |
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
-| Taskmaster | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
 | Trouble at Fort Larius | 0.90% | ~1 |
@@ -36,8 +38,6 @@
 | And the Sky Full of Stars | 0.00% | ~0 |
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
-| Quartermaster | 0.00% | ~0 |
-| Supercargo | 0.00% | ~0 |
 | Carpenter | 0.00% | ~0 |
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

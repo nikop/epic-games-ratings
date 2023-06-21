@@ -4770,9 +4770,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 709916,
+  "EOS_Progressed": 709918,
   "EOS_Completed": 12779,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10740,6 +10740,11 @@
       "Time": "2023-06-21T18:06:36.1452001+00:00",
       "NumProgressed": 709916,
       "NumCompleted": 12779
+    },
+    {
+      "Time": "2023-06-21T19:08:25.1414149+00:00",
+      "NumProgressed": 709918,
+      "NumCompleted": 12779
     }
   ],
   "TotalAchievements": 50,
@@ -10799,7 +10804,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "08_Wude_H2",
@@ -10807,7 +10812,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "09_Wude_H3",
@@ -10863,7 +10868,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "16_Detective_H2",
@@ -11150,21 +11155,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19217,
+      "Progressed": 19219,
       "Completed": 10296
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709916,
+      "Progressed": 709918,
       "Completed": 12779
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-21T13:06:46.9152514+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:06:36.1451998+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:08:25.1414142+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:59:29.2401992+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:06:36.1452577+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:00:30.952727+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:08:25.1415353+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,402 |
-| Rookie | 25.00% | ~6,854 |
-| Nomad | 18.00% | ~4,935 |
-| Picking Up Speed | 17.00% | ~4,661 |
+| Finding Your Footing | 27.00% | ~7,404 |
+| Rookie | 25.00% | ~6,855 |
+| Nomad | 18.00% | ~4,936 |
+| Picking Up Speed | 17.00% | ~4,662 |
 | Welcome Maya | 16.00% | ~4,387 |
 | Sightseer | 11.00% | ~3,016 |
 | Scout | 10.00% | ~2,742 |
-| Amateur | 9.00% | ~2,467 |
-| Wanderer | 9.00% | ~2,467 |
-| Enter Paz | 8.00% | ~2,193 |
+| Amateur | 9.00% | ~2,468 |
+| Wanderer | 9.00% | ~2,468 |
+| Enter Paz | 8.00% | ~2,194 |
 | Unlock Maya | 7.00% | ~1,919 |
 | Aviator | 6.00% | ~1,645 |
 | One With The Board | 6.00% | ~1,645 |
@@ -23,11 +23,11 @@ Number of Ratings: 332  (23.09.2022)
 | Voyager | 5.00% | ~1,371 |
 | Sandboarder | 4.00% | ~1,097 |
 | Izel Has Arrived | 4.00% | ~1,097 |
-| Junkie | 3.00% | ~822 |
-| Traveler | 3.00% | ~822 |
-| Journeyer | 3.00% | ~822 |
-| Unlock Paz | 3.00% | ~822 |
-| Here Comes Felipe | 3.00% | ~822 |
+| Junkie | 3.00% | ~823 |
+| Traveler | 3.00% | ~823 |
+| Journeyer | 3.00% | ~823 |
+| Unlock Paz | 3.00% | ~823 |
+| Here Comes Felipe | 3.00% | ~823 |
 | Pro | 2.00% | ~548 |
 | Human Flight | 2.00% | ~548 |
 | Explorer | 1.00% | ~274 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~274 |
 | Daredevil | 0.90% | ~247 |
 | Unlock Felipe | 0.70% | ~192 |
-| Adventurer | 0.60% | ~164 |
+| Adventurer | 0.60% | ~165 |
 | Unlock Tupa | 0.40% | ~110 |
 | Master Of The Sands | 0.30% | ~82 |
 | Master | 0.20% | ~55 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~27 |
 | Windswept | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,416 (Ranked 93)  
+Progressed: 27,421 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 5 (0.02%) (Ranked 208)
 | 2023-06-18 | 26,994 | 5 |
 | 2023-06-19 | 27,136 | 5 |
 | 2023-06-20 | 27,278 | 5 |
-| 2023-06-21 | 27,416 | 5 |
+| 2023-06-21 | 27,421 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 406)  
 Sum: 347 (Ranked 320)  

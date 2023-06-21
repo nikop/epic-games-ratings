@@ -5,15 +5,15 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,640 |
-| Feeling the beat! | 80.00% | ~2,640 |
-| You can pet the cat! | 74.00% | ~2,442 |
-| Who put gears in there? | 68.00% | ~2,244 |
-| Cream of the Crop | 62.00% | ~2,046 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,046 |
-| You got this, Peppermint? | 56.00% | ~1,848 |
-| Perfect Parry | 54.00% | ~1,782 |
-| Alright, that felt AWESOME! | 53.00% | ~1,749 |
+| Start with a bang! | 80.00% | ~2,641 |
+| Feeling the beat! | 80.00% | ~2,641 |
+| You can pet the cat! | 74.00% | ~2,443 |
+| Who put gears in there? | 68.00% | ~2,245 |
+| Cream of the Crop | 62.00% | ~2,047 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,047 |
+| You got this, Peppermint? | 56.00% | ~1,849 |
+| Perfect Parry | 54.00% | ~1,783 |
+| Alright, that felt AWESOME! | 53.00% | ~1,750 |
 | I play my own way! | 49.00% | ~1,617 |
 | This will cost you big time | 47.00% | ~1,551 |
 | Uh, they were broken when I got here | 46.00% | ~1,518 |
@@ -60,14 +60,14 @@ Rating: 4.89 (Ranked 13)
 | My Ultimate Setlist | 0.60% | ~20 |
 | Have we met before? | 0.60% | ~20 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~20 |
-| I think that's enough health for now | 0.50% | ~16 |
-| I have to read ALL of these things? | 0.50% | ~16 |
-| I'm untouchable! | 0.50% | ~16 |
+| I think that's enough health for now | 0.50% | ~17 |
+| I have to read ALL of these things? | 0.50% | ~17 |
+| I'm untouchable! | 0.50% | ~17 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,300 (Ranked 142)  
+Progressed: 3,301 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 5 (0.15%) (Ranked 163)
 | 2023-06-18 | 3,277 | 5 |
 | 2023-06-19 | 3,288 | 5 |
 | 2023-06-20 | 3,292 | 5 |
-| 2023-06-21 | 3,300 | 5 |
+| 2023-06-21 | 3,301 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

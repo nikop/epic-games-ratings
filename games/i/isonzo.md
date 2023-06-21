@@ -48,7 +48,7 @@ Number of Ratings: 98  (23.09.2022)
 | Compagnia della Morte | 1.00% | ~63 |
 | Drop and Give Me 20 | 1.00% | ~63 |
 | Rome Wasn't Built In A Day | 1.00% | ~63 |
-| Malpractice | 0.80% | ~50 |
+| Malpractice | 0.90% | ~57 |
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)

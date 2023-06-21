@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1145,7 +1145,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122012,
+  "EOS_Progressed": 122017,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
@@ -7140,6 +7140,11 @@
       "Time": "2023-06-21T18:06:27.3184234+00:00",
       "NumProgressed": 122012,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-21T19:08:15.1515603+00:00",
+      "NumProgressed": 122017,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7175,7 +7180,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "ACH_COP_ART",
@@ -7183,7 +7188,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21962
+      "UsersEstimate": 21963
     },
     {
       "ID": "ACH_COP_BAD",
@@ -7207,7 +7212,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29283
+      "UsersEstimate": 29284
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -7231,7 +7236,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34163
+      "UsersEstimate": 34165
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7247,7 +7252,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -7255,7 +7260,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19522
+      "UsersEstimate": 19523
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -7263,7 +7268,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24402
+      "UsersEstimate": 24403
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -7287,7 +7292,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18302
+      "UsersEstimate": 18303
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -7295,7 +7300,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13421
+      "UsersEstimate": 13422
     },
     {
       "ID": "ACH_CUNO",
@@ -7311,7 +7316,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10981
+      "UsersEstimate": 10982
     },
     {
       "ID": "ACH_GLUTEN",
@@ -7375,7 +7380,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -7447,7 +7452,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -7470,15 +7475,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122012,
+      "Progressed": 122017,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:06:27.3184229+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:08:15.1515598+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:59:33.8102203+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:06:27.318474+00:00"
+  "LastUpdate_Ratings": "2023-06-21T19:00:37.3919603+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:08:15.1516321+00:00"
 }

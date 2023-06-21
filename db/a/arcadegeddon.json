@@ -6,9 +6,9 @@
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -727,9 +727,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7328,
+  "EOS_Progressed": 7329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4452,6 +4452,11 @@
       "Time": "2023-06-21T18:04:18.4977722+00:00",
       "NumProgressed": 7328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T19:05:33.4516589+00:00",
+      "NumProgressed": 7329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -4463,7 +4468,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -4519,7 +4524,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -4543,7 +4548,7 @@
       "Name": "Grey Goo",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -4567,7 +4572,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -4575,7 +4580,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -4607,7 +4612,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -4663,7 +4668,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -4703,7 +4708,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -4767,7 +4772,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6229
+      "UsersEstimate": 6230
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -4855,22 +4860,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4251
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7328,
+      "Progressed": 7329,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:04:18.4977717+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:05:33.451658+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.8888573+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:58:49.767836+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:04:18.4978266+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:59:28.3626474+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:05:33.4517295+00:00"
 }

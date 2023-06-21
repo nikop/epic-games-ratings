@@ -6,9 +6,9 @@
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5997,
+  "EOS_Progressed": 5998,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3423,6 +3423,11 @@
       "Time": "2023-06-21T16:06:07.153007+00:00",
       "NumProgressed": 5997,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T19:06:12.1376816+00:00",
+      "NumProgressed": 5998,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3474,7 +3479,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "Control_All_Relics",
@@ -3546,7 +3551,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "First_Ship_Designed",
@@ -3648,9 +3653,9 @@
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2039
     },
     {
       "ID": "Play_1000_Hours",
@@ -3754,7 +3759,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3922,7 +3927,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4009,15 +4014,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5997,
+      "Progressed": 5998,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-21T18:04:46.374516+00:00",
+  "LastChanged_Achievements": "2023-06-21T19:06:12.1376811+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.5784862+00:00",
-  "LastUpdate_Ratings": "2023-06-21T17:57:41.0054678+00:00",
-  "LastUpdate_Achievements": "2023-06-21T18:04:46.3745842+00:00"
+  "LastUpdate_Ratings": "2023-06-21T18:58:03.938709+00:00",
+  "LastUpdate_Achievements": "2023-06-21T19:06:12.1377698+00:00"
 }

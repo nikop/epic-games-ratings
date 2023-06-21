@@ -50,7 +50,7 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 599 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
