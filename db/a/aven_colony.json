@@ -4,11 +4,11 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 833,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2017-07-25T15:00:00+00:00",
@@ -1438,10 +1438,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-06-21T11:58:04.8366029+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
+  "NumberOfAwards": 712,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1455,7 +1461,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1511,8 +1517,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-06-17T05:57:30.3021666+00:00",
+  "LastChanged": "2023-06-21T11:58:04.8366027+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.2609333+00:00",
-  "LastUpdate_Ratings": "2023-06-21T10:58:07.5054571+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:02:47.1705338+00:00"
+  "LastUpdate_Ratings": "2023-06-21T11:58:04.8366038+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:02:23.4368609+00:00"
 }

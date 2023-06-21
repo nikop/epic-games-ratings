@@ -29,9 +29,9 @@
 | Compulsive hoarder | 19.00% | ~12 |
 | Payback | 19.00% | ~12 |
 | Magnitude 5 | 16.00% | ~10 |
+| GG EZ | 13.00% | ~8 |
 | MayDay! MayDay! | 13.00% | ~8 |
-| GG EZ | 11.00% | ~7 |
-| Comeback | 11.00% | ~7 |
+| Comeback | 13.00% | ~8 |
 | Gooooooaaaaal!!! | 10.00% | ~6 |
 | Sadistic | 2.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |

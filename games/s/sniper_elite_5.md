@@ -6,31 +6,36 @@ Rating: 4.48 (Ranked 582)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shipbreaker | 0.20% | ~6 |
+| Sink or Swim | 0.20% | ~6 |
 | Liberté | 0.10% | ~3 |
+| Opposing Force | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
+| Organ Grinder | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
 | Skirmisher | 0.10% | ~3 |
 | Sharpshooter | 0.10% | ~3 |
 | Confirming Suspicions | 0.10% | ~3 |
+| Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
+| Resourceful | 0.10% | ~3 |
 | Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
+| Snake in the Grass | 0.10% | ~3 |
 | Change the Channel | 0.10% | ~3 |
 | Up close and personal | 0.10% | ~3 |
 | Taking it back | 0.10% | ~3 |
+| Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
-| Sink or Swim | 0.10% | ~3 |
+| The Kraken Sleeps | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
-| Opposing Force | 0.00% | ~0 |
 | Enemy at the Gates | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
-| Organ Grinder | 0.00% | ~0 |
 | Strategist | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
@@ -40,12 +45,9 @@ Rating: 4.48 (Ranked 582)
 | Set Europe Ablaze | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| Rigged to Blow | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
-| Resourceful | 0.00% | ~0 |
 | The Kraken Wakes | 0.00% | ~0 |
-| Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Burn after reading | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
@@ -56,10 +58,8 @@ Rating: 4.48 (Ranked 582)
 | Locomotion Commotion | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
-| Brains of the Operation | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
-| The Kraken Sleeps | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | Führerious Repetition | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |

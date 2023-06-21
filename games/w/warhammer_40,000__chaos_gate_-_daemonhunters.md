@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.59 (Ranked 413)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,9 +46,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 1.00% | ~29 |
 | Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
+| True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
-| True Mastery | 0.50% | ~15 |
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
@@ -223,3 +223,4 @@ Diff (max vs sum): -42
 | 2023-06-14 | 4.58 | - | 210 | 423 |
 | 2023-06-16 | 4.58 | - | 211 | 424 |
 | 2023-06-17 | 4.58 | - | 211 | 425 |
+| 2023-06-21 | 4.59 | - | 211 | 425 |

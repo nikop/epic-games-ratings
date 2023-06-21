@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "Woman on a (side) mission",
       "SetID": "gl7plp",
       "Name": "Woman on a (side) mission",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "You_are_the_One",
@@ -646,8 +646,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-21T11:03:36.602971+00:00",
+  "LastChanged_Achievements": "2023-06-21T12:03:26.2122099+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.1262224+00:00",
-  "LastUpdate_Ratings": "2023-06-21T10:58:22.6390924+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:03:36.603032+00:00"
+  "LastUpdate_Ratings": "2023-06-21T11:58:17.6432148+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:03:26.2122413+00:00"
 }

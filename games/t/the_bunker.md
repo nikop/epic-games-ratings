@@ -11,13 +11,13 @@
 | Replace Fuse | 66.00% | ~71 |
 | Alarm | 64.00% | ~68 |
 | Air Filtration | 64.00% | ~68 |
-| Broken | 61.00% | ~65 |
-| Radiation | 59.00% | ~63 |
-| Descent | 58.00% | ~62 |
+| Broken | 62.00% | ~66 |
+| Radiation | 60.00% | ~64 |
+| Descent | 59.00% | ~63 |
 | Awakenings | 57.00% | ~61 |
 | Cold Storage | 57.00% | ~61 |
+| Churchill | 51.00% | ~55 |
 | Sam | 51.00% | ~55 |
-| Churchill | 50.00% | ~54 |
 | Doctor | 50.00% | ~54 |
 | Commissioner | 49.00% | ~52 |
 | Engineer | 49.00% | ~52 |

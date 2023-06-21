@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 620)  
+Rating: 4.45 (Ranked 621)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,7 +46,7 @@ Number of Ratings: 125  (23.09.2022)
 | Healing Old Wounds | 6.00% | ~100 |
 | Who You Gonna Call? | 6.00% | ~100 |
 | This Is Sparta | 5.00% | ~83 |
-| What’s in the Box? | 4.00% | ~66 |
+| What’s in the Box? | 5.00% | ~83 |
 | Ghost Town | 3.00% | ~50 |
 | Moondrunk | 3.00% | ~50 |
 | Lord Inut Sends His Regards | 2.00% | ~33 |

@@ -40,8 +40,8 @@ Rating: 4.24 (Ranked 806)
 | Stimulating The Local Economy | 9.00% | ~163 |
 | A Little Banged Up | 8.00% | ~145 |
 | Denying Prophecy | 8.00% | ~145 |
+| Following In Their Footsteps | 8.00% | ~145 |
 | Reverse Engineering | 7.00% | ~127 |
-| Following In Their Footsteps | 7.00% | ~127 |
 | Remote Surgery | 6.00% | ~108 |
 | Turbo Booster | 6.00% | ~108 |
 | Squid Pro Quo | 6.00% | ~108 |

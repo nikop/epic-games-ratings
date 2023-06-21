@@ -20,8 +20,8 @@
 | Silver Competitor | 13.00% | ~22 |
 | Brothers in Arms | 11.00% | ~18 |
 | Factory Expansion | 11.00% | ~18 |
+| Captain | 9.00% | ~15 |
 | Exterminator | 8.00% | ~13 |
-| Captain | 8.00% | ~13 |
 | Moving On Up | 6.00% | ~10 |
 | Player Betrayer | 5.00% | ~8 |
 | Know The Enemy | 4.00% | ~7 |

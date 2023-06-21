@@ -28,9 +28,9 @@
 | Prison Break | 48.00% | ~10 |
 | I Pick You | 48.00% | ~10 |
 | Accomplished Smithy | 48.00% | ~10 |
+| The Blight's Blight | 48.00% | ~10 |
 | Nature's Savior | 48.00% | ~10 |
 | Hammer It Home | 48.00% | ~10 |
-| The Blight's Blight | 43.00% | ~9 |
 | The Ultimate Sacrifice | 43.00% | ~9 |
 | For Whom the Bell Tolls | 43.00% | ~9 |
 | Here I Am | 43.00% | ~9 |

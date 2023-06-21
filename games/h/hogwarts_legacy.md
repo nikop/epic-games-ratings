@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,091 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,092 |
 | A Keen Sense of Spell | 8.00% | ~22,473 |
 | First Class Student | 8.00% | ~22,473 |
 | Troll with the Punches | 8.00% | ~22,473 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 107)
 | The Root of the Problem | 4.00% | ~11,237 |
 | Third Time's a Charm | 4.00% | ~11,237 |
 | Raising Expectations | 4.00% | ~11,237 |
-| The Toast of the Town | 3.00% | ~8,427 |
-| Going Through the Potions | 3.00% | ~8,427 |
-| Room with a View | 3.00% | ~8,427 |
-| The Intrepid Explorer | 3.00% | ~8,427 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,427 |
-| The Ends Petrify the Means | 3.00% | ~8,427 |
+| The Toast of the Town | 3.00% | ~8,428 |
+| Going Through the Potions | 3.00% | ~8,428 |
+| Room with a View | 3.00% | ~8,428 |
+| The Intrepid Explorer | 3.00% | ~8,428 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,428 |
+| The Ends Petrify the Means | 3.00% | ~8,428 |
 | Put Down Roots | 2.00% | ~5,618 |
 | The Auror's Apprentice | 2.00% | ~5,618 |
 | Floo Around the World | 2.00% | ~5,618 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 107)
 | Finishing Touches | 1.00% | ~2,809 |
 | A Forte for Achievement | 1.00% | ~2,809 |
 | Merlin's Beard! | 0.70% | ~1,966 |
-| Spilled Milk | 0.60% | ~1,685 |
+| Spilled Milk | 0.60% | ~1,686 |
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,913 (Ranked 41)  
+Progressed: 280,918 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-18 | 280,636 | 408 |
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
-| 2023-06-21 | 280,913 | 408 |
+| 2023-06-21 | 280,918 | 408 |
 ## Awards
 Max (Character Customization): 20,236  (Ranked 18)  
 Sum: 37,549 (Ranked 30)  

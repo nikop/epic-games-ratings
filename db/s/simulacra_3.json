@@ -4,8 +4,8 @@
   "ProductSlug": "simulacra-3-61a15e",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-08T00:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-05-11T13:05:49.8389666+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
-  "LastChanged_Achievements": "2023-06-21T11:07:36.5557555+00:00",
+  "LastChanged_Achievements": "2023-06-21T12:07:15.6864822+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:39.9967553+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:01:56.6997474+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:07:36.5557724+00:00"
+  "LastUpdate_Ratings": "2023-06-21T12:01:35.2150892+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:07:15.6865009+00:00"
 }

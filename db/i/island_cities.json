@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 16.38,
+  "EOS_Completed_Percentage": 16.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1623,6 +1623,11 @@
       "Time": "2023-06-20T19:06:46.3310871+00:00",
       "NumProgressed": 354,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-21T12:07:04.8087664+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 22,
@@ -1632,9 +1637,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 350
+      "UsersEstimate": 348
     },
     {
       "ID": "LEVEL_002",
@@ -1642,15 +1647,15 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 237
+      "UsersEstimate": 234
     },
     {
       "ID": "LEVEL_004",
@@ -1658,7 +1663,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "LEVEL_005",
@@ -1666,7 +1671,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_006",
@@ -1674,7 +1679,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LEVEL_007",
@@ -1730,7 +1735,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_014",
@@ -1746,7 +1751,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_016",
@@ -1792,24 +1797,24 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 58
     }
   ],
@@ -1817,8 +1822,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-21T11:07:24.6205086+00:00",
+  "LastChanged_Achievements": "2023-06-21T12:07:04.8087655+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.6609834+00:00",
-  "LastUpdate_Ratings": "2023-06-21T10:58:58.0040034+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:07:24.6205373+00:00"
+  "LastUpdate_Ratings": "2023-06-21T11:58:49.9265095+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:07:04.8087965+00:00"
 }

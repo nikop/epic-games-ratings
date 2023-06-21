@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 371,
   "RatingHistory": [
     {
@@ -494,6 +494,12 @@
     {
       "Time": "2023-06-17T11:59:21.6190286+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 425,
+      "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2023-06-21T11:59:40.9544934+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 425,
       "NumberOfAwardsMax": 211
     }
@@ -2375,9 +2381,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "StrategicCommand",
@@ -2412,9 +2418,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-06-17T11:59:21.6190284+00:00",
-  "LastChanged_Achievements": "2023-06-21T11:07:55.404631+00:00",
+  "LastChanged": "2023-06-21T11:59:40.9544933+00:00",
+  "LastChanged_Achievements": "2023-06-21T12:07:32.5992881+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:20.4895747+00:00",
-  "LastUpdate_Ratings": "2023-06-21T10:59:52.5980113+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:07:55.4046872+00:00"
+  "LastUpdate_Ratings": "2023-06-21T11:59:40.9544939+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:07:32.5993494+00:00"
 }

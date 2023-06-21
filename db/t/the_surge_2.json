@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -1559,9 +1559,9 @@
       "ID": "ACHV_17",
       "SetID": "8p5mlmc",
       "Name": "Following In Their Footsteps",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHV_18",
@@ -1896,8 +1896,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-21T11:07:55.3702648+00:00",
+  "LastChanged_Achievements": "2023-06-21T12:07:32.5414532+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.3482938+00:00",
-  "LastUpdate_Ratings": "2023-06-21T11:02:21.4360795+00:00",
-  "LastUpdate_Achievements": "2023-06-21T11:07:55.3703522+00:00"
+  "LastUpdate_Ratings": "2023-06-21T12:01:56.2663321+00:00",
+  "LastUpdate_Achievements": "2023-06-21T12:07:32.5415165+00:00"
 }
