@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6495,10 +6495,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 23800,
       "NumberOfAwardsMax": 2803
+    },
+    {
+      "Time": "2023-06-21T06:59:08.9793242+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 23806,
+      "NumberOfAwardsMax": 2803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23800,
+  "NumberOfAwards": 23806,
   "NumberOfAwardsMax": 2803,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6560,7 +6566,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1475
+      "Count": 1481
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6586,8 +6592,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-06-20T18:58:57.8464538+00:00",
+  "LastChanged": "2023-06-21T06:59:08.979324+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0795337+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:58:48.4919789+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:03:59.3084951+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:59:08.9793247+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:04:18.6975102+00:00"
 }

@@ -81,12 +81,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 21.00% | ~2,562 |
 | Via Recta Souk | 21.00% | ~2,562 |
 | Mighty | 20.00% | ~2,440 |
+| Circus Maximus | 20.00% | ~2,440 |
 | Hagia Sophia | 20.00% | ~2,440 |
 | Dualism | 20.00% | ~2,440 |
 | Legionary | 20.00% | ~2,440 |
 | Victorious | 19.00% | ~2,318 |
 | Statesmen | 19.00% | ~2,318 |
-| Circus Maximus | 19.00% | ~2,318 |
 | Adur Burzen-Mihr | 19.00% | ~2,318 |
 | Economic Reform | 19.00% | ~2,318 |
 | Cimmerian Archer | 19.00% | ~2,318 |

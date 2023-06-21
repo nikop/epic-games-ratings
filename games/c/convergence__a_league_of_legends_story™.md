@@ -23,13 +23,13 @@
 | Immaculate Aim | 11.00% | ~78 |
 | The Brass Boss | 11.00% | ~78 |
 | Like Clockwork | 10.00% | ~71 |
+| The Man Who Shattered Time | 10.00% | ~71 |
 | The Loose Cannon | 10.00% | ~71 |
 | Honest Mistake | 10.00% | ~71 |
 | Golem Chaser | 10.00% | ~71 |
 | Check Your Pulse | 10.00% | ~71 |
 | The Family Fortune | 10.00% | ~71 |
 | Street Style | 9.00% | ~64 |
-| The Man Who Shattered Time | 9.00% | ~64 |
 | Right On Time | 8.00% | ~57 |
 | Whiz Kid | 8.00% | ~57 |
 | Chaincrawler Explorer | 7.00% | ~50 |

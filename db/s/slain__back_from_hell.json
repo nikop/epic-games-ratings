@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26728,
+  "EOS_Progressed": 26735,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6706,6 +6706,11 @@
       "Time": "2023-06-21T06:06:41.5247853+00:00",
       "NumProgressed": 26728,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-21T07:07:09.0734073+00:00",
+      "NumProgressed": 26735,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6717,7 +6722,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4278
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6725,7 +6730,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6789,7 +6794,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -6819,9 +6824,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -6948,7 +6953,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26728,
+      "Progressed": 26735,
       "Completed": 20
     }
   ],
@@ -6956,8 +6961,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:06:41.5247849+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:07:09.0734068+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-21T06:00:50.2535241+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:06:41.5248308+00:00"
+  "LastUpdate_Ratings": "2023-06-21T07:01:12.1194627+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:07:09.0734781+00:00"
 }

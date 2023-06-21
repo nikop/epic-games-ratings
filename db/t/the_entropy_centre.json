@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -626,9 +626,9 @@
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ACT13",
@@ -786,9 +786,9 @@
       "ID": "ACH_REUINTED",
       "SetID": "2310cb1",
       "Name": "Reunited",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_REWINDTIME",
@@ -827,8 +827,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:06:38.5786114+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:07:06.1272503+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:13.4396906+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:57:54.7736953+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:06:38.5786291+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:58:12.6427021+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:07:06.1272775+00:00"
 }

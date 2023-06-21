@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~875,747 |
-| I Need a Bigger Garage | 62.00% | ~610,071 |
-| Pump my Ride | 46.00% | ~452,633 |
-| Ghostbuster | 32.00% | ~314,875 |
-| Call Roadside Assistance | 17.00% | ~167,277 |
-| That Was Close | 17.00% | ~167,277 |
-| Quickie | 10.00% | ~98,398 |
-| California Dreamer | 7.00% | ~68,879 |
-| Can't Touch This | 5.00% | ~49,199 |
+| The First of Many | 89.00% | ~875,769 |
+| I Need a Bigger Garage | 62.00% | ~610,086 |
+| Pump my Ride | 46.00% | ~452,645 |
+| Ghostbuster | 32.00% | ~314,883 |
+| Call Roadside Assistance | 17.00% | ~167,282 |
+| That Was Close | 17.00% | ~167,282 |
+| Quickie | 10.00% | ~98,401 |
+| California Dreamer | 7.00% | ~68,881 |
+| Can't Touch This | 5.00% | ~49,200 |
 | Carménère Taster | 3.00% | ~29,520 |
 | Comeback | 3.00% | ~29,520 |
 | Marathonist | 3.00% | ~29,520 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~984 |
 | Look Mom, No Hands! | 0.10% | ~984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 983,985 (Ranked 12)  
+Progressed: 984,010 (Ranked 12)  
 Completed: 314 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 314 (0.03%) (Ranked 200)
 | 2023-06-18 | 981,851 | 309 |
 | 2023-06-19 | 982,845 | 312 |
 | 2023-06-20 | 983,782 | 314 |
-| 2023-06-21 | 983,985 | 314 |
+| 2023-06-21 | 984,010 | 314 |
 ## Awards
 Max (Great for Beginners): 144  (Ranked 293)  
-Sum: 1,164 (Ranked 228)  
+Sum: 1,165 (Ranked 228)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -118,7 +118,7 @@ Diff (max vs sum): 65
 | This game is Relaxing | 119 |
 | This game is Highly Recommended | 112 |
 | This game is Great for Quick Sessions | 112 |
-| This game has Competitive Players | 106 |
+| This game has Competitive Players | 107 |
 | This game has Playful Visuals | 102 |
 | This game is Extremely Fun | 97 |
 | This game has Amazing Characters | 87 |
@@ -273,3 +273,4 @@ Diff (max vs sum): 65
 | 2023-06-18 | 4.56 | - | 144 | 1,158 |
 | 2023-06-19 | 4.55 | - | 144 | 1,160 |
 | 2023-06-20 | 4.55 | - | 144 | 1,164 |
+| 2023-06-21 | 4.55 | - | 144 | 1,165 |

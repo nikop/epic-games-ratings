@@ -2,7 +2,7 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 41,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.86,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -476,6 +476,11 @@
       "Time": "2023-06-21T06:03:38.3773567+00:00",
       "NumProgressed": 215,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-21T07:03:37.9919618+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -487,7 +492,7 @@
       "Name": "Pit-house",
       "Percentage": 96,
       "XP": 45,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "LEVEL_003",
@@ -495,7 +500,7 @@
       "Name": "Smith house",
       "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "LEVEL_004",
@@ -503,7 +508,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_006",
@@ -511,15 +516,15 @@
       "Name": "Market",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 95,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_017",
@@ -541,9 +546,9 @@
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "LEVEL_025",
@@ -574,14 +579,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:03:38.3773563+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:03:37.9919612+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:57:21.2535152+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:03:38.377367+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:57:38.9083277+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:03:37.9919769+00:00"
 }

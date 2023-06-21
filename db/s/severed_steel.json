@@ -248,9 +248,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 417777,
+  "EOS_Progressed": 417782,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2364,
+  "EOS_NewPlayers": 2359,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6773,6 +6773,11 @@
       "Time": "2023-06-21T06:04:07.7218672+00:00",
       "NumProgressed": 417777,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-21T07:04:27.0340423+00:00",
+      "NumProgressed": 417782,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -6792,7 +6797,7 @@
       "Name": "100 KILLS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54311
+      "UsersEstimate": 54312
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -6800,7 +6805,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 29244
+      "UsersEstimate": 29245
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -6808,7 +6813,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 50133
+      "UsersEstimate": 50134
     },
     {
       "ID": "BIGUPS",
@@ -6856,7 +6861,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29244
+      "UsersEstimate": 29245
     },
     {
       "ID": "CHAPTER3",
@@ -7199,7 +7204,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 417777,
+      "Progressed": 417782,
       "Completed": 37
     }
   ],
@@ -7207,8 +7212,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-15T10:59:21.2299227+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:04:07.7218668+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:04:27.0340419+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:07.3287708+00:00",
-  "LastUpdate_Ratings": "2023-06-21T06:00:16.4904488+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:04:07.7219336+00:00"
+  "LastUpdate_Ratings": "2023-06-21T07:00:42.206158+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:04:27.034125+00:00"
 }

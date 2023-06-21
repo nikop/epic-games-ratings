@@ -59,9 +59,9 @@ Rating: 4.07 (Ranked 894)
 | Active Member | 2.00% | ~29 |
 | Arena Challenger | 2.00% | ~29 |
 | Ebony Jungle Liberator | 2.00% | ~29 |
+| Legendary | 2.00% | ~29 |
 | The Alchemist | 2.00% | ~29 |
 | What lies behind the bush | 2.00% | ~29 |
-| Legendary | 1.00% | ~15 |
 | Mythic Power | 0.80% | ~12 |
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~9 |

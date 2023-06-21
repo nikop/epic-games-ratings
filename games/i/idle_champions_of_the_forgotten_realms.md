@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,048 |
-| The Cursed Farmer | 4.00% | ~4,024 |
-| Beast Intentions | 3.00% | ~3,018 |
-| The Mad Wizard | 3.00% | ~3,018 |
-| The Ring of Regeneration | 2.00% | ~2,012 |
+| A Brief Tour of the Realms | 8.00% | ~8,051 |
+| The Cursed Farmer | 4.00% | ~4,025 |
+| Beast Intentions | 3.00% | ~3,019 |
+| The Mad Wizard | 3.00% | ~3,019 |
+| The Ring of Regeneration | 2.00% | ~2,013 |
 | Were-verpowered | 1.00% | ~1,006 |
 | Seeking Allies | 1.00% | ~1,006 |
 | Are Ya Chicken? | 1.00% | ~1,006 |
 | Mad Cow Disease | 1.00% | ~1,006 |
 | Friendly Imps | 1.00% | ~1,006 |
-| A Persistent Buzzing | 0.90% | ~905 |
-| Pure Energy | 0.90% | ~905 |
+| A Persistent Buzzing | 0.90% | ~906 |
+| Pure Energy | 0.90% | ~906 |
 | The Court of Storms | 0.90% | ~602 |
 | Terror in the Dark | 0.80% | ~805 |
 | The Crumbling Temple | 0.80% | ~805 |
@@ -34,38 +34,38 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.60% | ~604 |
 | Waterdeep Detours | 0.60% | ~604 |
 | Coasting to the Finish | 0.60% | ~401 |
-| Checkmate | 0.50% | ~334 |
-| Vecna Out! | 0.50% | ~334 |
+| Checkmate | 0.50% | ~335 |
+| Vecna Out! | 0.50% | ~335 |
 | Low Initiative | 0.50% | ~503 |
 | No Time To Rest | 0.50% | ~503 |
 | The Dinner Party | 0.50% | ~503 |
 | Underdeep Cartography | 0.50% | ~503 |
 | The Templar's Camp | 0.50% | ~503 |
 | Rescue in the Jungle | 0.50% | ~503 |
-| Quick or Quack | 0.50% | ~334 |
-| The Silken Swamp | 0.40% | ~402 |
-| Supply Run | 0.40% | ~402 |
+| Quick or Quack | 0.50% | ~335 |
+| The Silken Swamp | 0.40% | ~403 |
+| Supply Run | 0.40% | ~403 |
 | Owlbear Necessities | 0.40% | ~268 |
 | Best Thay Ever | 0.40% | ~268 |
 | Frail Doesn't Mean Broken | 0.40% | ~268 |
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~268 |
 | Pin and Skewer | 0.40% | ~268 |
-| Homecoming | 0.40% | ~402 |
-| The Lost Heir of Omu | 0.40% | ~402 |
-| Street War | 0.40% | ~402 |
-| March of the Undead | 0.40% | ~402 |
-| Wisdom Check | 0.40% | ~402 |
-| Invisible Shadows | 0.40% | ~402 |
-| The Botched Kidnapping | 0.40% | ~402 |
-| Trollskull Manor | 0.40% | ~402 |
-| Attack on the Manor | 0.40% | ~402 |
-| The Death Curse | 0.40% | ~402 |
-| Premature Betrayal | 0.40% | ~402 |
-| A Tale of Two Cities | 0.40% | ~402 |
-| Flying Monkey Skulls of Doom | 0.40% | ~402 |
-| Close Escort | 0.40% | ~402 |
-| Constant Banditry | 0.40% | ~402 |
-| Overdue Rendezvous | 0.40% | ~402 |
+| Homecoming | 0.40% | ~403 |
+| The Lost Heir of Omu | 0.40% | ~403 |
+| Street War | 0.40% | ~403 |
+| March of the Undead | 0.40% | ~403 |
+| Wisdom Check | 0.40% | ~403 |
+| Invisible Shadows | 0.40% | ~403 |
+| The Botched Kidnapping | 0.40% | ~403 |
+| Trollskull Manor | 0.40% | ~403 |
+| Attack on the Manor | 0.40% | ~403 |
+| The Death Curse | 0.40% | ~403 |
+| Premature Betrayal | 0.40% | ~403 |
+| A Tale of Two Cities | 0.40% | ~403 |
+| Flying Monkey Skulls of Doom | 0.40% | ~403 |
+| Close Escort | 0.40% | ~403 |
+| Constant Banditry | 0.40% | ~403 |
+| Overdue Rendezvous | 0.40% | ~403 |
 | Pros and CONs | 0.30% | ~302 |
 | Tall Tales | 0.30% | ~201 |
 | The Witchlight Carnival | 0.30% | ~201 |
@@ -289,6 +289,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Birds of a Feather | 0.20% | ~134 |
 | Guests of the Groom | 0.20% | ~201 |
 | Careful Consideration | 0.20% | ~201 |
+| Tanking Expectations | 0.20% | ~134 |
 | Bazaar Exploits | 0.20% | ~201 |
 | Flame(skull) War | 0.20% | ~201 |
 | Servants of the Demon Prince | 0.20% | ~134 |
@@ -465,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~67 |
 | The Egg of Nat's Desire | 0.10% | ~67 |
 | Spirit of the Trickster Gods | 0.10% | ~67 |
-| Tanking Expectations | 0.10% | ~67 |
 | A Familiar Friend | 0.10% | ~67 |
 | A Tale of Two Years | 0.10% | ~67 |
 | DPS in the Deeps | 0.10% | ~67 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,603 (Ranked 63)  
+Progressed: 100,634 (Ranked 63)  
 Completed: 1,973 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 1,973 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,603 | 1,973 |
+| 2023-06-21 | 100,634 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,159 (Ranked 37)  

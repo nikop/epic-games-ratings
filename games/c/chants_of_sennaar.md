@@ -18,9 +18,9 @@
 | True G4M3R | 71.00% | ~5 |
 | I did it | 57.00% | ~4 |
 | A good beginning | 57.00% | ~4 |
+| In this together | 43.00% | ~3 |
 | Feels like springtime | 43.00% | ~3 |
 | Fashion victim | 43.00% | ~3 |
-| In this together | 29.00% | ~2 |
 | Peace walker | 29.00% | ~2 |
 | Half the way | 29.00% | ~2 |
 | Open door | 14.00% | ~1 |

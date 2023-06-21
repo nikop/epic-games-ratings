@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,405 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,406 |
 | Mainframe Hacker | 47.00% | ~3,235 |
 | The Spy who eliminated me | 47.00% | ~3,235 |
-| Tomorrow Never Dyes | 46.00% | ~3,166 |
-| Never Say Loser Again | 40.00% | ~2,753 |
-| For your Eyes only | 39.00% | ~2,684 |
+| Tomorrow Never Dyes | 46.00% | ~3,167 |
+| Never Say Loser Again | 40.00% | ~2,754 |
+| For your Eyes only | 39.00% | ~2,685 |
 | From the Vault with Love | 37.00% | ~2,547 |
 | Tailor-Made | 37.00% | ~2,547 |
 | Fully Decked Out | 35.00% | ~2,409 |
 | You Only Live Twice | 32.00% | ~2,203 |
-| A view to Win | 27.00% | ~1,858 |
+| A view to Win | 27.00% | ~1,859 |
 | Private Collection | 25.00% | ~1,721 |
 | Smells Like Trouble | 25.00% | ~1,721 |
 | Assistant Accountant | 24.00% | ~1,652 |
@@ -33,7 +33,7 @@ Rating: 4.64 (Ranked 316)
 | Live and let lie | 5.00% | ~344 |
 | Call Me Maybe | 5.00% | ~344 |
 | PHD in VIP | 4.00% | ~275 |
-| Branch Manager | 3.00% | ~206 |
+| Branch Manager | 3.00% | ~207 |
 | The terminals are not enough | 2.00% | ~138 |
 | Lose Another Day | 2.00% | ~138 |
 | Chairman of Deceive Inc. | 2.00% | ~138 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 316)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,883 (Ranked 121)  
+Progressed: 6,884 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 6,853 | 0 |
 | 2023-06-19 | 6,867 | 0 |
 | 2023-06-20 | 6,882 | 0 |
-| 2023-06-21 | 6,883 | 0 |
+| 2023-06-21 | 6,884 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

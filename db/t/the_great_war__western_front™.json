@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1084,6 +1084,11 @@
       "Time": "2023-06-21T05:04:03.9346244+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T07:04:35.7450324+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1119,7 +1124,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -1143,7 +1148,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -1190,7 +1195,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:04:16.8023367+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:04:35.7450319+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.7573409+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:59:04.5719545+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:04:16.8023478+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:59:23.9338957+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:04:35.7450492+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1055,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1215,6 +1215,11 @@
       "Time": "2023-06-20T21:06:52.9741267+00:00",
       "NumProgressed": 1055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-21T07:07:18.4519093+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1242,7 +1247,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Big_Bertha",
@@ -1280,9 +1285,9 @@
       "ID": "Defense_Common",
       "SetID": "85nb4h3",
       "Name": "Unbreakable Wall",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "Defense_Epic",
@@ -1418,7 +1423,7 @@
       "Name": "Mosquito bite",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Scout",
@@ -1465,15 +1470,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1055,
+      "Progressed": 1056,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:06:51.0836548+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:07:18.4519087+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:59:55.6492078+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:06:51.0836717+00:00"
+  "LastUpdate_Ratings": "2023-06-21T07:00:19.8625319+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:07:18.4519417+00:00"
 }

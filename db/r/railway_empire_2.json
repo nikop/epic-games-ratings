@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1301,
+  "EOS_Progressed": 1302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2278,6 +2278,11 @@
       "Time": "2023-06-21T02:11:56.2851282+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T07:07:26.722238+00:00",
+      "NumProgressed": 1302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2289,7 +2294,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "A01",
@@ -2297,7 +2302,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "A02",
@@ -2367,9 +2372,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 924
     },
     {
       "ID": "A11",
@@ -2409,7 +2414,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "A16",
@@ -2457,7 +2462,7 @@
       "Name": "Country Life",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "A22",
@@ -2481,7 +2486,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "A25",
@@ -2521,7 +2526,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "A30",
@@ -2529,7 +2534,7 @@
       "Name": "All mine",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "A31",
@@ -2561,7 +2566,7 @@
       "Name": "Producer",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "A35",
@@ -2625,7 +2630,7 @@
       "Name": "Bridge Builder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "A43",
@@ -2633,7 +2638,7 @@
       "Name": "Mole",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "A44",
@@ -2673,7 +2678,7 @@
       "Name": "Bull and bear",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "A49",
@@ -2681,7 +2686,7 @@
       "Name": "Financial Shark",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "A50",
@@ -2705,7 +2710,7 @@
       "Name": "Socializer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "A53",
@@ -2728,7 +2733,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1301,
+      "Progressed": 1302,
       "Completed": 0
     }
   ],
@@ -2736,8 +2741,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:07:09.2611342+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:07:26.7222375+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:58:33.7368091+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:07:09.2611857+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:58:52.8289425+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:07:26.7223007+00:00"
 }

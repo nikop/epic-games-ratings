@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2320,9 +2320,9 @@
       "Count": 232
     }
   ],
-  "EOS_Progressed": 63608,
+  "EOS_Progressed": 63610,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8780,6 +8780,11 @@
       "Time": "2023-06-21T06:02:13.9814083+00:00",
       "NumProgressed": 63608,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-06-21T07:02:24.6271045+00:00",
+      "NumProgressed": 63610,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 30,
@@ -8839,7 +8844,7 @@
       "Name": "Biggest Reward",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9541
+      "UsersEstimate": 9542
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -8871,7 +8876,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24807
+      "UsersEstimate": 24808
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -8879,7 +8884,7 @@
       "Name": "Changing the Planet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 18446
+      "UsersEstimate": 18447
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -8927,7 +8932,7 @@
       "Name": "Sojourner",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 17810
+      "UsersEstimate": 17811
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -8959,7 +8964,7 @@
       "Name": "Money money",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10813
+      "UsersEstimate": 10814
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -8967,7 +8972,7 @@
       "Name": "Final touch",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 24171
+      "UsersEstimate": 24172
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -9030,15 +9035,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 63608,
+      "Progressed": 63610,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-06-21T02:04:10.502364+00:00",
-  "LastChanged_Achievements": "2023-06-21T06:02:13.9814079+00:00",
+  "LastChanged_Achievements": "2023-06-21T07:02:24.627104+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.5050503+00:00",
-  "LastUpdate_Ratings": "2023-06-21T05:58:48.3199313+00:00",
-  "LastUpdate_Achievements": "2023-06-21T06:02:13.9814549+00:00"
+  "LastUpdate_Ratings": "2023-06-21T06:59:08.8164456+00:00",
+  "LastUpdate_Achievements": "2023-06-21T07:02:24.6271671+00:00"
 }
