@@ -7,30 +7,30 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 72.00% | ~2,840 |
-| Having A Field Day | 71.00% | ~2,800 |
-| Reap What You Sow | 69.00% | ~2,721 |
+| Having A Field Day | 71.00% | ~2,801 |
+| Reap What You Sow | 69.00% | ~2,722 |
 | The First Day | 65.00% | ~2,564 |
-| Green Thumb | 64.00% | ~2,524 |
-| Novice Researcher | 62.00% | ~2,445 |
-| Putting Food on the Table | 59.00% | ~2,327 |
+| Green Thumb | 64.00% | ~2,525 |
+| Novice Researcher | 62.00% | ~2,446 |
+| Putting Food on the Table | 59.00% | ~2,328 |
 | Onward | 54.00% | ~2,130 |
 | Home Cooked Meal | 52.00% | ~2,051 |
-| The First Week | 51.00% | ~2,011 |
+| The First Week | 51.00% | ~2,012 |
 | Feast or Famine | 49.00% | ~1,933 |
 | Studious Researcher | 49.00% | ~1,933 |
-| Beam Me Up | 48.00% | ~1,893 |
-| Adept Researcher | 44.00% | ~1,735 |
+| Beam Me Up | 48.00% | ~1,894 |
+| Adept Researcher | 44.00% | ~1,736 |
 | Retribution | 38.00% | ~1,499 |
 | ...And Don’t Come Back! | 38.00% | ~1,499 |
-| Fit For A King | 37.00% | ~1,459 |
-| Luminary Researcher | 35.00% | ~1,380 |
-| Heating Up | 26.00% | ~1,025 |
+| Fit For A King | 37.00% | ~1,460 |
+| Luminary Researcher | 35.00% | ~1,381 |
+| Heating Up | 26.00% | ~1,026 |
 | Winter Is Coming | 23.00% | ~907 |
 | Winter Is Here | 20.00% | ~789 |
-| Disassembled | 17.00% | ~670 |
-| A Party Now | 17.00% | ~670 |
-| Oh Deer! | 17.00% | ~670 |
-| All Year Round | 17.00% | ~670 |
+| Disassembled | 17.00% | ~671 |
+| A Party Now | 17.00% | ~671 |
+| Oh Deer! | 17.00% | ~671 |
+| All Year Round | 17.00% | ~671 |
 | Nothing Wasted | 11.00% | ~434 |
 | Don't Cry Wolf | 11.00% | ~434 |
 | Deerly Departed | 9.00% | ~355 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~79 |
 | Wabbit Season | 0.70% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,944 (Ranked 137)  
+Progressed: 3,945 (Ranked 137)  
 Completed: 9 (0.23%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 9 (0.23%) (Ranked 151)
 | 2023-06-18 | 3,892 | 8 |
 | 2023-06-19 | 3,917 | 9 |
 | 2023-06-20 | 3,939 | 9 |
-| 2023-06-21 | 3,944 | 9 |
+| 2023-06-21 | 3,945 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 306)  
 Sum: 953 (Ranked 236)  

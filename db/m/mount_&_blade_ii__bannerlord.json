@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4971,9 +4971,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53713,
+  "EOS_Progressed": 53715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11256,6 +11256,11 @@
       "Time": "2023-06-21T03:06:19.7632923+00:00",
       "NumProgressed": 53713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-21T05:06:18.6391302+00:00",
+      "NumProgressed": 53715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11267,7 +11272,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5371
+      "UsersEstimate": 5372
     },
     {
       "ID": "Apple of my eye",
@@ -11619,7 +11624,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9131
+      "UsersEstimate": 9132
     },
     {
       "ID": "This Is Our Land",
@@ -11674,15 +11679,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53713,
+      "Progressed": 53715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-20T22:00:29.5422996+00:00",
-  "LastChanged_Achievements": "2023-06-21T04:07:55.9491751+00:00",
+  "LastChanged_Achievements": "2023-06-21T05:06:18.6391298+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:01:08.1927542+00:00",
-  "LastUpdate_Achievements": "2023-06-21T04:07:55.9492807+00:00"
+  "LastUpdate_Ratings": "2023-06-21T04:59:48.1851156+00:00",
+  "LastUpdate_Achievements": "2023-06-21T05:06:18.6392107+00:00"
 }

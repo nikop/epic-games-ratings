@@ -21,8 +21,8 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 36.00% | ~48 |
 | I am the night | 36.00% | ~48 |
 | Thieves' Guild Accreditation | 36.00% | ~48 |
+| Team Building Exercise | 35.00% | ~46 |
 | The Ranger of Chaos | 34.00% | ~45 |
-| Team Building Exercise | 34.00% | ~45 |
 | Dwarf Fortress | 33.00% | ~44 |
 | Look but don't touch | 31.00% | ~41 |
 | The demons' feast | 28.00% | ~37 |

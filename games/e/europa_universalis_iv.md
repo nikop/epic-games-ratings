@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,280 |
-| That's a Grand Army | 8.00% | ~4,693 |
-| That is mine! | 8.00% | ~4,693 |
-| Victorious! | 8.00% | ~4,693 |
+| Until death do us apart | 9.00% | ~5,281 |
+| That's a Grand Army | 8.00% | ~4,694 |
+| That is mine! | 8.00% | ~4,694 |
+| Victorious! | 8.00% | ~4,694 |
 | Brothers in Arms | 6.00% | ~3,520 |
 | That's a Grand Navy | 6.00% | ~3,520 |
 | Seriously?! | 6.00% | ~3,520 |
-| For the Glory | 5.00% | ~2,933 |
+| For the Glory | 5.00% | ~2,934 |
 | Cold War | 4.00% | ~2,347 |
 | True Catholic | 4.00% | ~2,347 |
 | Defender of the Faith | 3.00% | ~1,760 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,666 (Ranked 78)  
+Progressed: 58,673 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,10 +423,10 @@ Completed: 0 (0.00%) (Ranked 227)
 | 2023-06-18 | 57,601 | 0 |
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
-| 2023-06-21 | 58,666 | 0 |
+| 2023-06-21 | 58,673 | 0 |
 ## Awards
 Max (Educational): 5,420  (Ranked 61)  
-Sum: 44,807 (Ranked 27)  
+Sum: 44,815 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -438,7 +438,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 5,034 |
 | This game has Competitive Players | 4,878 |
 | This game has Amazing Storytelling | 4,612 |
-| This game has Amazing Characters | 4,254 |
+| This game has Amazing Characters | 4,262 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -598,3 +598,4 @@ Diff (max vs sum): 34
 | 2023-06-18 | 4.68 | - | 5,412 | 44,715 |
 | 2023-06-19 | 4.68 | - | 5,412 | 44,761 |
 | 2023-06-20 | 4.68 | - | 5,420 | 44,807 |
+| 2023-06-21 | 4.68 | - | 5,420 | 44,815 |

@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 8.00% | ~8,043 |
-| The Cursed Farmer | 4.00% | ~4,021 |
-| The Mad Wizard | 3.00% | ~3,016 |
+| A Brief Tour of the Realms | 8.00% | ~8,046 |
+| The Cursed Farmer | 4.00% | ~4,023 |
+| The Mad Wizard | 3.00% | ~3,017 |
 | Beast Intentions | 2.00% | ~2,011 |
 | The Ring of Regeneration | 2.00% | ~2,011 |
-| Were-verpowered | 1.00% | ~1,005 |
-| Seeking Allies | 1.00% | ~1,005 |
-| Are Ya Chicken? | 1.00% | ~1,005 |
-| Mad Cow Disease | 1.00% | ~1,005 |
-| Friendly Imps | 1.00% | ~1,005 |
+| Were-verpowered | 1.00% | ~1,006 |
+| Seeking Allies | 1.00% | ~1,006 |
+| Are Ya Chicken? | 1.00% | ~1,006 |
+| Mad Cow Disease | 1.00% | ~1,006 |
+| Friendly Imps | 1.00% | ~1,006 |
 | A Persistent Buzzing | 0.90% | ~905 |
 | Pure Energy | 0.90% | ~905 |
-| The Court of Storms | 0.90% | ~601 |
-| Terror in the Dark | 0.80% | ~804 |
-| The Crumbling Temple | 0.80% | ~804 |
+| The Court of Storms | 0.90% | ~602 |
+| Terror in the Dark | 0.80% | ~805 |
+| The Crumbling Temple | 0.80% | ~805 |
 | A Mysterious Summons | 0.70% | ~704 |
 | Unearthed Evil | 0.70% | ~704 |
 | Exploring Port Nyanzaru | 0.70% | ~704 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.40% | ~267 |
 | Pin and Skewer | 0.40% | ~267 |
 | Homecoming | 0.40% | ~402 |
+| The Lost Heir of Omu | 0.40% | ~402 |
 | Street War | 0.40% | ~402 |
 | March of the Undead | 0.40% | ~402 |
 | Wisdom Check | 0.40% | ~402 |
@@ -66,26 +67,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.40% | ~402 |
 | Overdue Rendezvous | 0.40% | ~402 |
 | Pros and CONs | 0.30% | ~302 |
-| Tall Tales | 0.30% | ~200 |
-| Third Third Out | 0.30% | ~200 |
+| Tall Tales | 0.30% | ~201 |
+| The Witchlight Carnival | 0.30% | ~201 |
+| Third Third Out | 0.30% | ~201 |
 | Wet Feet | 0.30% | ~302 |
 | Hatchlings Underfoot | 0.30% | ~302 |
 | Don't Look Up! | 0.30% | ~302 |
-| The Lutes of Loomlurch | 0.30% | ~200 |
-| Vecna Lives! | 0.30% | ~200 |
-| Return to the Tomb | 0.30% | ~200 |
-| Keep Your Distance | 0.30% | ~200 |
-| Heatwave | 0.30% | ~200 |
-| Hands Off! | 0.30% | ~200 |
-| The Dread Domain of Tovag | 0.30% | ~200 |
-| The Castle of a Thousand Vecnas | 0.30% | ~200 |
-| The Sanctum of the Sword | 0.30% | ~200 |
-| Kas the Bloody Handed | 0.30% | ~200 |
-| Get Back In The Castle | 0.30% | ~200 |
-| Bully for Vecna | 0.30% | ~200 |
-| The Lost Heir of Omu | 0.30% | ~302 |
-| No One Can Hear You Scream | 0.30% | ~200 |
-| Welcome to the Rock | 0.30% | ~200 |
+| The Lutes of Loomlurch | 0.30% | ~201 |
+| Vecna Lives! | 0.30% | ~201 |
+| Return to the Tomb | 0.30% | ~201 |
+| Keep Your Distance | 0.30% | ~201 |
+| Heatwave | 0.30% | ~201 |
+| Hands Off! | 0.30% | ~201 |
+| The Dread Domain of Tovag | 0.30% | ~201 |
+| The Castle of a Thousand Vecnas | 0.30% | ~201 |
+| The Sanctum of the Sword | 0.30% | ~201 |
+| Kas the Bloody Handed | 0.30% | ~201 |
+| Get Back In The Castle | 0.30% | ~201 |
+| Bully for Vecna | 0.30% | ~201 |
+| No One Can Hear You Scream | 0.30% | ~201 |
+| Welcome to the Rock | 0.30% | ~201 |
 | The Forbidden City | 0.30% | ~302 |
 | Captured! | 0.30% | ~302 |
 | Home Field Advantage | 0.30% | ~302 |
@@ -96,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.30% | ~302 |
 | Family Entanglements | 0.30% | ~302 |
 | Chatty Nobles | 0.30% | ~302 |
+| Modron Assistance | 0.30% | ~302 |
 | Haaave You Met Asmodeus? | 0.30% | ~302 |
 | The Immortal Warrior | 0.30% | ~302 |
 | The Wyrmheart Mine | 0.30% | ~302 |
@@ -126,24 +128,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~302 |
 | Resolve Amongst Chaos | 0.30% | ~302 |
 | Market Fluctuations | 0.30% | ~302 |
-| Into The Fire | 0.30% | ~200 |
-| Hearts Aflame | 0.30% | ~200 |
-| Dreamscape | 0.30% | ~200 |
-| Look Out! | 0.30% | ~200 |
-| Bad Odds in Avernus | 0.30% | ~200 |
-| The Lost Hollyphant | 0.30% | ~200 |
-| An Even Worse Time in Avernus | 0.30% | ~200 |
-| Bel's Forge | 0.30% | ~200 |
-| The Giant's Bane Tavern | 0.30% | ~200 |
-| The Everlasting Rime | 0.30% | ~200 |
+| Into The Fire | 0.30% | ~201 |
+| Hearts Aflame | 0.30% | ~201 |
+| Dreamscape | 0.30% | ~201 |
+| Look Out! | 0.30% | ~201 |
+| Bad Odds in Avernus | 0.30% | ~201 |
+| The Lost Hollyphant | 0.30% | ~201 |
+| An Even Worse Time in Avernus | 0.30% | ~201 |
+| Bel's Forge | 0.30% | ~201 |
+| The Giant's Bane Tavern | 0.30% | ~201 |
+| The Everlasting Rime | 0.30% | ~201 |
 | The Long Haul | 0.30% | ~302 |
 | Lost in the Deep | 0.30% | ~302 |
 | Easily Distracted | 0.30% | ~302 |
 | Rude Welcome | 0.30% | ~302 |
-| Moose Tracks | 0.30% | ~200 |
+| Moose Tracks | 0.30% | ~201 |
 | Durable Deep | 0.30% | ~302 |
-| Witty Riposting | 0.30% | ~200 |
-| How Far Away is Thay | 0.30% | ~200 |
+| Expert Opinion | 0.30% | ~302 |
+| Witty Riposting | 0.30% | ~201 |
+| How Far Away is Thay | 0.30% | ~201 |
 | The Haunted Jungle | 0.30% | ~302 |
 | Upholding the Law | 0.20% | ~201 |
 | Starving in the Jungle | 0.20% | ~201 |
@@ -152,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.20% | ~134 |
 | An Unexpected Geist | 0.20% | ~134 |
 | Back to Nature | 0.20% | ~134 |
-| The Witchlight Carnival | 0.20% | ~134 |
 | A Monarch Among Us | 0.20% | ~134 |
 | A Dragon Against Us | 0.20% | ~134 |
 | A Familiar Behind Us | 0.20% | ~134 |
@@ -245,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.20% | ~201 |
 | Poor Fortune | 0.20% | ~201 |
 | Relentless Misfortune | 0.20% | ~201 |
-| Modron Assistance | 0.20% | ~201 |
 | Thine Bounty is Mine! | 0.20% | ~134 |
 | Domesticated Owlbears | 0.20% | ~201 |
 | This Quest Stinks! | 0.20% | ~134 |
@@ -293,6 +294,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Servants of the Demon Prince | 0.20% | ~134 |
 | Elder Rune Madness | 0.20% | ~201 |
 | The Madness Grows | 0.20% | ~201 |
+| The Madness Peaks | 0.20% | ~134 |
 | Who Lurks in Lurkwood | 0.20% | ~201 |
 | Bullywugs in the Bog | 0.20% | ~201 |
 | Modrons in the Mud | 0.20% | ~201 |
@@ -389,7 +391,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archduke's Blessing | 0.20% | ~134 |
 | Wrecked Flying Fortress | 0.20% | ~134 |
 | Relentless Peril | 0.20% | ~134 |
-| Expert Opinion | 0.20% | ~201 |
 | Dwarven Rumors | 0.20% | ~134 |
 | Mimic Perception | 0.20% | ~134 |
 | Frozen in Fear | 0.20% | ~134 |
@@ -421,6 +422,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Gargauth's Betrayal | 0.20% | ~134 |
 | Lost in the Underdark | 0.20% | ~134 |
 | Demons Here, Demons There | 0.20% | ~134 |
+| Visions of Hornfirth | 0.20% | ~134 |
 | Leemooggoogoon Rises | 0.20% | ~134 |
 | Ending the Rime - Part 1 | 0.20% | ~134 |
 | Ambitious Speakers - Part 1 | 0.20% | ~134 |
@@ -464,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~67 |
 | Spirit of the Trickster Gods | 0.10% | ~67 |
 | Tanking Expectations | 0.10% | ~67 |
-| The Madness Peaks | 0.10% | ~67 |
 | A Familiar Friend | 0.10% | ~67 |
 | A Tale of Two Years | 0.10% | ~67 |
 | DPS in the Deeps | 0.10% | ~67 |
@@ -489,7 +490,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.10% | ~67 |
 | Going To Eleven | 0.10% | ~67 |
 | The Stunning Tower Battle | 0.10% | ~67 |
-| Visions of Hornfirth | 0.10% | ~67 |
 | Stragglers | 0.10% | ~67 |
 | Volo's Guide to Kuo-toa | 0.10% | ~67 |
 | Shady Sidekicks - Part 1 | 0.10% | ~67 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~67 |
 | Alien Allies | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,535 (Ranked 63)  
+Progressed: 100,572 (Ranked 63)  
 Completed: 1,973 (1.96%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 1,973 (1.96%) (Ranked 73)
 | 2023-06-18 | 97,685 | 1,948 |
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
-| 2023-06-21 | 100,535 | 1,973 |
+| 2023-06-21 | 100,572 | 1,973 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,156 (Ranked 37)  

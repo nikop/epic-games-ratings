@@ -21,8 +21,8 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 12.00% | ~152 |
 | Pyrrhic Victory | 10.00% | ~127 |
 | Thematic Divergence | 8.00% | ~101 |
+| Chain Reaction | 8.00% | ~101 |
 | Echoes Die | 8.00% | ~101 |
-| Chain Reaction | 7.00% | ~89 |
 | Everfading | 7.00% | ~89 |
 | A Story of Heroes | 7.00% | ~89 |
 | Let Me Get My Chisel | 6.00% | ~76 |

@@ -2329,7 +2329,7 @@
       "Count": 729
     }
   ],
-  "EOS_Progressed": 231153,
+  "EOS_Progressed": 231154,
   "EOS_Completed": 240,
   "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
@@ -8404,6 +8404,11 @@
       "Time": "2023-06-21T04:08:02.085708+00:00",
       "NumProgressed": 231153,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-06-21T05:06:23.8652995+00:00",
+      "NumProgressed": 231154,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 122,
@@ -8447,7 +8452,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 221907
+      "UsersEstimate": 221908
     },
     {
       "ID": "CURSE1HP",
@@ -8479,7 +8484,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36984
+      "UsersEstimate": 36985
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -8495,7 +8500,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122511
+      "UsersEstimate": 122512
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -8503,7 +8508,7 @@
       "Name": "Max Damage!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36984
+      "UsersEstimate": 36985
     },
     {
       "ID": "DEPTH12",
@@ -8511,7 +8516,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97084
+      "UsersEstimate": 97085
     },
     {
       "ID": "DEPTH12HARD",
@@ -8607,7 +8612,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76280
+      "UsersEstimate": 76281
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -8647,7 +8652,7 @@
       "Name": "Walk It Off",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62411
+      "UsersEstimate": 62412
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -8815,7 +8820,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141003
+      "UsersEstimate": 141004
     },
     {
       "ID": "KILL1000",
@@ -8847,7 +8852,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 92461
+      "UsersEstimate": 92462
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -8871,7 +8876,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36984
+      "UsersEstimate": 36985
     },
     {
       "ID": "KILLBOSSHARD",
@@ -8911,7 +8916,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106330
+      "UsersEstimate": 106331
     },
     {
       "ID": "KILLPARANOIA",
@@ -8919,7 +8924,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 87838
+      "UsersEstimate": 87839
     },
     {
       "ID": "KILLREFLECT10",
@@ -8943,7 +8948,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106330
+      "UsersEstimate": 106331
     },
     {
       "ID": "KILLSPITTER",
@@ -9063,7 +9068,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150249
+      "UsersEstimate": 150250
     },
     {
       "ID": "PETRIFY50",
@@ -9071,7 +9076,7 @@
       "Name": "Stone Touch",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62411
+      "UsersEstimate": 62412
     },
     {
       "ID": "PLAY10HOURS",
@@ -9079,7 +9084,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36984
+      "UsersEstimate": 36985
     },
     {
       "ID": "POISON300",
@@ -9095,7 +9100,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76280
+      "UsersEstimate": 76281
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -9103,7 +9108,7 @@
       "Name": "Acid Bath",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62411
+      "UsersEstimate": 62412
     },
     {
       "ID": "POISONSELF20",
@@ -9143,7 +9148,7 @@
       "Name": "New Perspectives",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62411
+      "UsersEstimate": 62412
     },
     {
       "ID": "SNAKESTEALTH",
@@ -9159,7 +9164,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205726
+      "UsersEstimate": 205727
     },
     {
       "ID": "SPECIALROOMS10",
@@ -9191,7 +9196,7 @@
       "Name": "Shadow Walker",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62411
+      "UsersEstimate": 62412
     },
     {
       "ID": "SURVIVEON1",
@@ -9199,7 +9204,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67034
+      "UsersEstimate": 67035
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -9231,7 +9236,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141003
+      "UsersEstimate": 141004
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -9239,7 +9244,7 @@
       "Name": "The Long Run",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32361
+      "UsersEstimate": 32362
     },
     {
       "ID": "WIN0ATTACK",
@@ -9390,7 +9395,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231153,
+      "Progressed": 231154,
       "Completed": 240
     }
   ],
@@ -9398,8 +9403,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-21T04:00:50.2078447+00:00",
-  "LastChanged_Achievements": "2023-06-21T04:08:02.0857074+00:00",
+  "LastChanged_Achievements": "2023-06-21T05:06:23.8652989+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.8459013+00:00",
-  "LastUpdate_Ratings": "2023-06-21T04:00:50.2078455+00:00",
-  "LastUpdate_Achievements": "2023-06-21T04:08:02.0859851+00:00"
+  "LastUpdate_Ratings": "2023-06-21T04:59:37.3155889+00:00",
+  "LastUpdate_Achievements": "2023-06-21T05:06:23.8655226+00:00"
 }

@@ -2080,9 +2080,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 517
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2385,8 +2385,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-21T04:03:00.8131234+00:00",
+  "LastChanged_Achievements": "2023-06-21T05:01:04.9056614+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-21T03:59:10.3449974+00:00",
-  "LastUpdate_Achievements": "2023-06-21T04:03:00.8131919+00:00"
+  "LastUpdate_Ratings": "2023-06-21T04:58:30.0196823+00:00",
+  "LastUpdate_Achievements": "2023-06-21T05:01:04.9057083+00:00"
 }

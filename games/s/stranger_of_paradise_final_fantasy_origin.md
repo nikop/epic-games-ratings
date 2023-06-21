@@ -45,8 +45,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | True Potential | 21.00% | ~16,530 |
 | Polymath | 21.00% | ~16,530 |
 | Origin of True Chaos | 20.00% | ~15,743 |
+| Master's Awakening | 19.00% | ~14,956 |
 | Jack-of-All-Trades | 19.00% | ~14,956 |
-| Master's Awakening | 18.00% | ~14,169 |
 | Cycle of Darkness | 16.00% | ~12,594 |
 | Job Master | 8.00% | ~6,297 |
 | Crest Bearer | 7.00% | ~5,510 |

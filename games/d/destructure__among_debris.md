@@ -27,10 +27,10 @@
 | Monster of Fashion | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
 | Bullet Hell | 1.00% | ~1 |
+| Scrap Collector | 1.00% | ~1 |
 | Untouchable | 1.00% | ~1 |
 | Machine Man | 0.70% | ~1 |
 | Mushroom Man | 0.70% | ~1 |
-| Scrap Collector | 0.70% | ~1 |
 | Total Walrus | 0.70% | ~1 |
 | True Victory | 0.70% | ~1 |
 | Victory That Is Even More True | 0.70% | ~1 |
