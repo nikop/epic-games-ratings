@@ -79,7 +79,7 @@
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 497 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 461 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,317 | 51 |
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,406 | 95 |
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,409 | 95 |
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 205 | 261 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 326 |
 | 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 497 |
@@ -399,7 +399,7 @@
 | 390 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 57 | 386 |
 | 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 385 |
 | 390 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 425 |
-| 390 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 580 | 175 |
+| 390 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 581 | 175 |
 | 390 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 377 |
 | 390 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 497 |
 | 390 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 497 |
@@ -486,23 +486,23 @@
 | 478 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 497 |
 | 478 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 868 | 148 |
 | 478 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 342 |
+| 478 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.55 | 0 | 497 |
 | 478 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 497 |
 | 478 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.55 | 0 | 497 |
 | 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 300 | 229 |
 | 478 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,187 | 129 |
-| 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,703 | 67 |
-| 491 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
-| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,149 | 132 |
-| 491 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 367 |
-| 491 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 478 |
-| 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
-| 491 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
-| 491 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 497 |
-| 491 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 497 |
-| 491 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 497 |
-| 491 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 501 | 188 |
-| 491 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 497 |
-| 491 | [VALORANT](games/v/valorant.md) | 4.54 | 57,600 | 11 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,703 | 67 |
+| 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
+| 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,149 | 132 |
+| 492 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 367 |
+| 492 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 478 |
+| 492 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
+| 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
+| 492 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 497 |
+| 492 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 497 |
+| 492 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 501 | 188 |
+| 492 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 497 |
+| 492 | [VALORANT](games/v/valorant.md) | 4.54 | 57,600 | 11 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 497 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
 | 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,264 | 17 |
@@ -703,7 +703,7 @@
 | 699 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 497 |
 | 699 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.39 | 0 | 497 |
 | 699 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 497 |
-| 699 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,698 | 32 |
+| 699 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,700 | 32 |
 | 699 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 363 |
 | 699 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 497 |
 | 699 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 223 |

@@ -49,7 +49,7 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.37% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.27% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.21% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.20% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -72,12 +72,12 @@
 | 70 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.13% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
+| 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.95% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.83% |
-| 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
+| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.81% |
+| 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
@@ -209,23 +209,23 @@
 | 200 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 208 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 208 | [Good Company](games/g/good_company.md) | 0.02% |
+| 208 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
 | 208 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 208 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 208 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 208 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 214 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 214 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
-| 214 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 214 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 214 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 214 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.01% |
-| 214 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 214 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 214 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 214 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 214 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 214 | [Verdun](games/v/verdun.md) | 0.01% |
+| 215 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 215 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 215 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
+| 215 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 215 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 215 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 215 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 215 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 215 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 215 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 215 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 215 | [Verdun](games/v/verdun.md) | 0.01% |
 | 227 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 227 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 227 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
