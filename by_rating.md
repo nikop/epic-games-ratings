@@ -244,7 +244,7 @@
 | 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 497 |
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,193 | 47 |
 | 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,837 | 78 |
-| 239 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,420 | 61 |
+| 239 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,430 | 61 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,121 | 3 |
 | 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 187,490 | 4 |
 | 239 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 497 |
@@ -296,7 +296,7 @@
 | 276 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 194 |
 | 276 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 497 |
 | 296 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 497 |
-| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,749 | 65 |
+| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,753 | 65 |
 | 296 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 284 |
 | 296 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 497 |
 | 296 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 326 | 223 |
@@ -763,29 +763,29 @@
 | 756 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 0 | 497 |
 | 756 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 456 |
 | 756 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 497 |
-| 756 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.32 | 32 | 443 |
 | 756 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 182 |
 | 756 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 497 |
-| 767 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 497 |
-| 767 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.31 | 0 | 497 |
-| 767 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 951 | 144 |
-| 767 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 497 |
-| 771 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 497 |
-| 771 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 497 |
-| 771 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 497 |
-| 771 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 497 |
-| 771 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 497 |
-| 771 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.30 | 0 | 497 |
-| 777 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 497 |
-| 777 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 497 |
-| 777 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
-| 777 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
-| 777 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,435,930 | 1 |
-| 777 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,647 | 79 |
-| 777 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 690 | 162 |
-| 777 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
-| 777 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 297 |
-| 777 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 497 |
+| 766 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 497 |
+| 766 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.31 | 0 | 497 |
+| 766 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 951 | 144 |
+| 766 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 497 |
+| 770 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 497 |
+| 770 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 497 |
+| 770 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 497 |
+| 770 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 497 |
+| 770 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 497 |
+| 770 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.30 | 0 | 497 |
+| 776 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 497 |
+| 776 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 497 |
+| 776 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
+| 776 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
+| 776 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,435,930 | 1 |
+| 776 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,647 | 79 |
+| 776 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 690 | 162 |
+| 776 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
+| 776 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 297 |
+| 776 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.29 | 32 | 443 |
+| 776 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 497 |
 | 787 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 497 |
 | 787 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 303 |
 | 787 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 429 |

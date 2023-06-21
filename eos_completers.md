@@ -11,10 +11,10 @@
 | 9 | [Island Cities](games/i/island_cities.md) | 16.38% |
 | 10 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 13 | [Remains](games/r/remains.md) | 12.50% |
-| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.24% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.27% |
+| 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 14 | [Remains](games/r/remains.md) | 12.50% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.97% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |

@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,435,930 | 4.29 | 777 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,435,930 | 4.29 | 776 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 448,689 | 4.50 | 548 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,121 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 187,490 | 4.68 | 239 |
@@ -60,11 +60,11 @@
 | 58 | [Prey](games/p/prey.md) | 5,581 | 4.62 | 348 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,571 | 4.82 | 66 |
 | 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,493 | 4.85 | 40 |
-| 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,420 | 4.68 | 239 |
+| 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,430 | 4.68 | 239 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,271 | 4.75 | 133 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,052 | 4.34 | 740 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,951 | 4.06 | 897 |
-| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 4,749 | 4.65 | 296 |
+| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 4,753 | 4.65 | 296 |
 | 66 | [MultiVersus](games/m/multiversus.md) | 4,743 | 4.56 | 454 |
 | 67 | [Dead Island 2](games/d/dead_island_2.md) | 4,703 | 4.54 | 491 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,629 | 3.99 | 912 |
@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,052 | 4.56 | 454 |
 | 77 | [SMITE](games/s/smite.md) | 3,920 | 4.45 | 620 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,837 | 4.68 | 239 |
-| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,647 | 4.29 | 777 |
+| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,647 | 4.29 | 776 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,470 | 4.47 | 593 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,381 | 4.46 | 604 |
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,379 | 4.77 | 107 |
@@ -143,7 +143,7 @@
 | 141 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,000 | 4.40 | 686 |
 | 143 | [Torchlight II](games/t/torchlight_ii.md) | 984 | 4.58 | 422 |
-| 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 951 | 4.31 | 767 |
+| 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 951 | 4.31 | 766 |
 | 145 | [Sonic Mania](games/s/sonic_mania.md) | 917 | 4.78 | 99 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 903 | 4.69 | 221 |
 | 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 874 | 4.75 | 133 |
@@ -161,7 +161,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 700 | 4.50 | 548 |
 | 160 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 697 | 4.86 | 29 |
 | 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 696 | 4.59 | 413 |
-| 162 | [Neverwinter](games/n/neverwinter.md) | 690 | 4.29 | 777 |
+| 162 | [Neverwinter](games/n/neverwinter.md) | 690 | 4.29 | 776 |
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 671 | 4.68 | 239 |
 | 164 | [Subnautica](games/s/subnautica.md) | 668 | 4.85 | 40 |
 | 165 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 652 | 4.67 | 256 |
@@ -296,7 +296,7 @@
 | 294 | [Blasphemous](games/b/blasphemous.md) | 141 | 4.86 | 29 |
 | 295 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.72 | 167 |
 | 296 | [Star Stable Online](games/s/star_stable_online.md) | 137 | 4.42 | 659 |
-| 297 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 136 | 4.29 | 777 |
+| 297 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 136 | 4.29 | 776 |
 | 298 | [Atomicrops](games/a/atomicrops.md) | 135 | 4.88 | 19 |
 | 299 | [while True: learn()](games/w/while_true__learn().md) | 133 | 4.51 | 532 |
 | 300 | [Encased](games/e/encased.md) | 132 | 4.35 | 733 |
@@ -411,7 +411,7 @@
 | 406 | [The Alto Collection](games/t/the_alto_collection.md) | 45 | 4.70 | 196 |
 | 410 | [Returnal™](games/r/returnal™.md) | 44 | 4.63 | 331 |
 | 411 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 43 | 4.78 | 99 |
-| 411 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 777 |
+| 411 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 776 |
 | 411 | [The Riftbreaker](games/t/the_riftbreaker.md) | 43 | 4.76 | 118 |
 | 414 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 276 |
 | 414 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 41 | 4.76 | 118 |
@@ -447,7 +447,7 @@
 | 443 | [MythForce](games/m/mythforce.md) | 32 | 4.50 | 548 |
 | 443 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 32 | 4.41 | 670 |
 | 443 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.66 | 276 |
-| 443 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 32 | 4.32 | 756 |
+| 443 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 32 | 4.29 | 776 |
 | 443 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 717 |
 | 450 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 806 |
 | 450 | [Blankos Block Party](games/b/blankos_block_party.md) | 31 | 4.21 | 826 |
