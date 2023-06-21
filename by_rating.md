@@ -99,7 +99,7 @@
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
 | 89 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 497 |
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 497 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,285 | 36 |
+| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,296 | 36 |
 | 99 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 497 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 158 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,318 | 100 |
@@ -108,7 +108,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 145 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,379 | 82 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,847 | 56 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,207 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,236 | 18 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 497 |
 | 107 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 497 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 425 |
@@ -138,7 +138,7 @@
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 874 | 147 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 495 | 189 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 317 |
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 494 | 190 |
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 495 | 189 |
 | 133 | [Tchia](games/t/tchia.md) | 4.75 | 0 | 497 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 497 |
 | 133 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 414 |
@@ -279,7 +279,7 @@
 | 276 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 269 |
 | 276 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 497 |
 | 276 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 125 |
-| 276 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.66 | 1,341 | 122 |
+| 276 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.66 | 1,341 | 123 |
 | 276 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 497 |
 | 276 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 497 |
 | 276 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 497 |
@@ -350,7 +350,7 @@
 | 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 70,048 | 9 |
 | 348 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 275 | 237 |
 | 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 434 |
-| 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,338 | 123 |
+| 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,342 | 122 |
 | 348 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 359 | 215 |
 | 348 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 545 | 184 |
 | 348 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 497 |
@@ -442,7 +442,7 @@
 | 422 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 211 | 259 |
 | 422 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,399 | 23 |
 | 442 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 497 |
-| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,483 | 92 |
+| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,485 | 92 |
 | 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 403 |
 | 442 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 461 |
 | 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 497 |
