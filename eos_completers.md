@@ -74,7 +74,7 @@
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 73 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.96% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.88% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.87% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |

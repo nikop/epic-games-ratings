@@ -22,7 +22,7 @@
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 262 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,081 | 75 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 151,855 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,097 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,130 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 497 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,397 | 120 |
@@ -404,13 +404,13 @@
 | 390 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 497 |
 | 390 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 497 |
 | 390 | [RiME](games/r/rime.md) | 4.60 | 0 | 497 |
-| 390 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 453 | 195 |
+| 390 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 453 | 196 |
 | 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 202 | 263 |
 | 390 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 286 | 233 |
 | 390 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.60 | 0 | 497 |
 | 390 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 486 |
 | 390 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 497 |
-| 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 357 | 216 |
+| 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 358 | 216 |
 | 390 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 347 |
 | 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 406 |
 | 413 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 640 | 167 |
@@ -418,7 +418,7 @@
 | 413 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 497 |
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
 | 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 357 |
-| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,265 | 85 |
+| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,269 | 85 |
 | 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 161 |
 | 421 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.58 | 0 | 497 |
 | 421 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.58 | 0 | 497 |
@@ -811,7 +811,7 @@
 | 806 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.24 | 0 | 497 |
 | 806 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 12,609 | 27 |
 | 806 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 497 |
-| 806 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 452 | 196 |
+| 806 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 454 | 195 |
 | 806 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 497 |
 | 806 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 406 |
 | 806 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 497 |
@@ -918,10 +918,10 @@
 | 914 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,343 | 99 |
 | 917 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 497 |
 | 918 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 406 |
+| 919 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 335 | 221 |
 | 919 | [Patron](games/p/patron.md) | 3.94 | 0 | 497 |
-| 920 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 22 | 478 |
-| 920 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 335 | 221 |
-| 920 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 497 |
+| 921 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 22 | 478 |
+| 921 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 497 |
 | 923 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 456 |
 | 923 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 497 |
 | 925 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |
@@ -937,8 +937,8 @@
 | 935 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 497 |
 | 936 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 0 | 497 |
 | 936 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 497 |
-| 936 | [Poker Club](games/p/poker_club.md) | 3.79 | 0 | 497 |
-| 939 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,043 | 138 |
+| 938 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 497 |
+| 938 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,043 | 138 |
 | 940 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 497 |
 | 940 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 62 | 377 |
 | 940 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 497 |

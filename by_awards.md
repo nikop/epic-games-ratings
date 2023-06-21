@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,698 | 4.39 | 699 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,280 | 4.69 | 221 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,578 | 4.45 | 620 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 10,097 | 4.88 | 19 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 10,130 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,285 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,271 | 4.61 | 364 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,741 | 4.76 | 118 |
@@ -84,7 +84,7 @@
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,379 | 4.77 | 107 |
 | 83 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,331 | 4.68 | 239 |
 | 84 | [Paladins](games/p/paladins.md) | 3,324 | 4.34 | 740 |
-| 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,265 | 4.59 | 413 |
+| 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,269 | 4.59 | 413 |
 | 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,239 | 4.76 | 118 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,188 | 4.68 | 239 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,133 | 4.57 | 442 |
@@ -137,7 +137,7 @@
 | 135 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,116 | 4.61 | 364 |
 | 136 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,066 | 4.61 | 364 |
 | 137 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,049 | 4.66 | 276 |
-| 138 | [Saints Row](games/s/saints_row.md) | 1,043 | 3.78 | 939 |
+| 138 | [Saints Row](games/s/saints_row.md) | 1,043 | 3.78 | 938 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,029 | 4.25 | 799 |
 | 140 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 818 |
 | 141 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
@@ -194,8 +194,8 @@
 | 192 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 473 | 4.86 | 29 |
 | 193 | [Ghostrunner](games/g/ghostrunner.md) | 468 | 4.72 | 167 |
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 276 |
-| 195 | [Surviving Mars](games/s/surviving_mars.md) | 453 | 4.60 | 390 |
-| 196 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 452 | 4.24 | 806 |
+| 195 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 454 | 4.24 | 806 |
+| 196 | [Surviving Mars](games/s/surviving_mars.md) | 453 | 4.60 | 390 |
 | 197 | [Second Extinction™](games/s/second_extinction™.md) | 443 | 4.04 | 900 |
 | 198 | [Prison Architect](games/p/prison_architect.md) | 440 | 4.61 | 364 |
 | 199 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
@@ -215,12 +215,12 @@
 | 212 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 371 | 3.99 | 912 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 367 | 4.70 | 196 |
 | 215 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 359 | 4.62 | 348 |
-| 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 357 | 4.60 | 390 |
+| 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 358 | 4.60 | 390 |
 | 217 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 350 | 4.32 | 756 |
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 347 | 4.71 | 180 |
 | 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 345 | 4.85 | 40 |
 | 220 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 340 | 4.76 | 118 |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 335 | 3.93 | 920 |
+| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 335 | 3.94 | 919 |
 | 222 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 29 |
 | 223 | [Dungeons 3](games/d/dungeons_3.md) | 326 | 4.65 | 296 |
 | 223 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 699 |
@@ -477,7 +477,7 @@
 | 472 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.45 | 620 |
 | 476 | [Fez](games/f/fez.md) | 23 | 4.71 | 180 |
 | 476 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 504 |
-| 478 | [Chimeraland](games/c/chimeraland.md) | 22 | 3.93 | 920 |
+| 478 | [Chimeraland](games/c/chimeraland.md) | 22 | 3.93 | 921 |
 | 478 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.24 | 806 |
 | 478 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 833 |
 | 478 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 22 | 4.40 | 686 |
