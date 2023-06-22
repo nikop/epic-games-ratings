@@ -15,7 +15,7 @@ Number of Ratings: 546  (23.09.2022)
 | False Goddess, Disappear | 39.00% | ~3,062 |
 | Quick Movements | 34.00% | ~2,669 |
 | Inventory Management | 33.00% | ~2,590 |
-| The Fall of the Leonia Order | 29.00% | ~2,276 |
+| The Fall of the Leonia Order | 30.00% | ~2,355 |
 | The Hero Killer | 27.00% | ~2,120 |
 | The Final Battle of the First Hero | 26.00% | ~2,041 |
 | Go Home... | 26.00% | ~2,041 |

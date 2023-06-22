@@ -15,9 +15,9 @@
 | The darkness | 88.00% | ~7 |
 | One last step | 88.00% | ~7 |
 | Cable guy | 75.00% | ~6 |
+| A good beginning | 75.00% | ~6 |
 | True G4M3R | 75.00% | ~6 |
 | I did it | 63.00% | ~5 |
-| A good beginning | 63.00% | ~5 |
 | Fashion victim | 63.00% | ~5 |
 | Feels like springtime | 50.00% | ~4 |
 | In this together | 38.00% | ~3 |

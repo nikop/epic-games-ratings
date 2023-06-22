@@ -3,8 +3,8 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 498,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 95,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15522,
+  "EOS_Progressed": 15523,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5376,6 +5376,11 @@
       "Time": "2023-06-22T13:11:47.8082622+00:00",
       "NumProgressed": 15522,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-22T14:07:44.2552221+00:00",
+      "NumProgressed": 15523,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -5387,7 +5392,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12262
+      "UsersEstimate": 12263
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -5419,7 +5424,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -5498,15 +5503,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15522,
+      "Progressed": 15523,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-22T13:11:47.8082619+00:00",
+  "LastChanged_Achievements": "2023-06-22T14:07:44.2552216+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.2218881+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:06:48.47541+00:00",
-  "LastUpdate_Achievements": "2023-06-22T13:11:47.8082975+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:02:07.1713777+00:00",
+  "LastUpdate_Achievements": "2023-06-22T14:07:44.2552913+00:00"
 }

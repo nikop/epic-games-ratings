@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4776,9 +4776,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 709941,
+  "EOS_Progressed": 709947,
   "EOS_Completed": 12781,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10801,6 +10801,11 @@
       "Time": "2023-06-22T13:12:10.8211996+00:00",
       "NumProgressed": 709941,
       "NumCompleted": 12781
+    },
+    {
+      "Time": "2023-06-22T14:08:00.8793248+00:00",
+      "NumProgressed": 709947,
+      "NumCompleted": 12781
     }
   ],
   "TotalAchievements": 50,
@@ -10900,7 +10905,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6390
     },
     {
       "ID": "13_LowAge",
@@ -11084,7 +11089,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6390
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -11211,21 +11216,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19242,
+      "Progressed": 19248,
       "Completed": 10302
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709941,
+      "Progressed": 709947,
       "Completed": 12781
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-21T19:59:51.6064683+00:00",
-  "LastChanged_Achievements": "2023-06-22T13:12:10.821199+00:00",
+  "LastChanged_Achievements": "2023-06-22T14:08:00.8793237+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:05:17.027248+00:00",
-  "LastUpdate_Achievements": "2023-06-22T13:12:10.8212642+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:00:23.8226746+00:00",
+  "LastUpdate_Achievements": "2023-06-22T14:08:00.8793971+00:00"
 }

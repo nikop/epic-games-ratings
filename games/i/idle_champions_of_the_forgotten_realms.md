@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,589 (Ranked 63)  
-Completed: 1,975 (1.93%) (Ranked 74)  
+Progressed: 102,700 (Ranked 63)  
+Completed: 1,975 (1.92%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.93%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,589 | 1,975 |
+| 2023-06-22 | 102,700 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

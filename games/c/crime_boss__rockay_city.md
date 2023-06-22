@@ -5,30 +5,30 @@ Rating: 3.94 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,927 |
-| First One’s Free | 65.00% | ~43,855 |
-| Neophyte Ninja | 50.00% | ~33,734 |
-| Too Old for This | 47.00% | ~31,710 |
-| Fancy Pants | 35.00% | ~23,614 |
-| Case Closed | 34.00% | ~22,939 |
-| King of the Hill | 34.00% | ~22,939 |
-| Underworld Initiate | 29.00% | ~19,566 |
-| Roid Ranger | 21.00% | ~14,168 |
-| True Player | 19.00% | ~12,819 |
-| Off the Rocks | 19.00% | ~12,819 |
-| Raider’s Ruin | 16.00% | ~10,795 |
-| Dragonslayer | 16.00% | ~10,795 |
+| Downed but Not Outed | 74.00% | ~49,930 |
+| First One’s Free | 65.00% | ~43,857 |
+| Neophyte Ninja | 50.00% | ~33,736 |
+| Too Old for This | 47.00% | ~31,712 |
+| Fancy Pants | 35.00% | ~23,616 |
+| Case Closed | 34.00% | ~22,941 |
+| King of the Hill | 34.00% | ~22,941 |
+| Underworld Initiate | 29.00% | ~19,567 |
+| Roid Ranger | 21.00% | ~14,169 |
+| True Player | 19.00% | ~12,820 |
+| Off the Rocks | 19.00% | ~12,820 |
+| Raider’s Ruin | 16.00% | ~10,796 |
+| Dragonslayer | 16.00% | ~10,796 |
 | Hidden Sonata | 13.00% | ~8,771 |
 | Rockay Rex | 11.00% | ~7,422 |
 | Freebooter | 10.00% | ~6,747 |
-| Track Star | 9.00% | ~6,072 |
-| Classy Joint | 9.00% | ~6,072 |
+| Track Star | 9.00% | ~6,073 |
+| Classy Joint | 9.00% | ~6,073 |
 | I Like Trains | 8.00% | ~5,398 |
 | Headhunter | 8.00% | ~5,398 |
 | Ding Dong | 8.00% | ~5,398 |
 | Foo Finder | 7.00% | ~4,723 |
-| Legend Looter | 5.00% | ~3,373 |
-| Savvy Seeker | 5.00% | ~3,373 |
+| Legend Looter | 5.00% | ~3,374 |
+| Savvy Seeker | 5.00% | ~3,374 |
 | Imports and Exports | 4.00% | ~2,699 |
 | Olympus Ascended | 4.00% | ~2,699 |
 | Cracked the Jack | 4.00% | ~2,699 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 919)
 | Geek Out | 0.50% | ~337 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,469 (Ranked 71)  
+Progressed: 67,473 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-19 | 67,268 | 34 |
 | 2023-06-20 | 67,353 | 34 |
 | 2023-06-21 | 67,421 | 34 |
-| 2023-06-22 | 67,469 | 34 |
+| 2023-06-22 | 67,473 | 34 |
 ## Awards
 Max (Diverse Characters): 337  (Ranked 221)  
 Sum: 1,617 (Ranked 208)  

@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 857)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,950 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,633 |
-| Loose Ends | 4.00% | ~2,633 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,634 |
+| Loose Ends | 4.00% | ~2,634 |
 | The Batman Family | 3.00% | ~1,975 |
 | To the Victor Go the Spoils | 3.00% | ~1,975 |
 | Get ReQ'd | 3.00% | ~1,975 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,836 (Ranked 72)  
+Progressed: 65,839 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 96 (0.15%) (Ranked 164)
 | 2023-06-19 | 65,692 | 95 |
 | 2023-06-20 | 65,758 | 96 |
 | 2023-06-21 | 65,809 | 96 |
-| 2023-06-22 | 65,836 | 96 |
+| 2023-06-22 | 65,839 | 96 |
 ## Awards
 Max (Great Boss Battles): 2,362  (Ranked 99)  
 Sum: 3,913 (Ranked 136)  

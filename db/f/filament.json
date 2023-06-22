@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 756,
   "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 68,
@@ -213,9 +213,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194144,
+  "EOS_Progressed": 194146,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6773,6 +6773,11 @@
       "Time": "2023-06-22T13:11:45.0354656+00:00",
       "NumProgressed": 194144,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-06-22T14:07:40.2467903+00:00",
+      "NumProgressed": 194146,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 29,
@@ -6808,7 +6813,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182495
+      "UsersEstimate": 182497
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -6968,7 +6973,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19414
+      "UsersEstimate": 19415
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -7015,7 +7020,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194144,
+      "Progressed": 194146,
       "Completed": 447
     }
   ],
@@ -7023,8 +7028,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-21T21:00:19.7640701+00:00",
-  "LastChanged_Achievements": "2023-06-22T13:11:45.0354647+00:00",
+  "LastChanged_Achievements": "2023-06-22T14:07:40.2467895+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.0276244+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:05:03.0823753+00:00",
-  "LastUpdate_Achievements": "2023-06-22T13:11:45.0355168+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:00:10.3446155+00:00",
+  "LastUpdate_Achievements": "2023-06-22T14:07:40.2468535+00:00"
 }

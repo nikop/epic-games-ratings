@@ -41,13 +41,13 @@ Rating: 4.07 (Ranked 894)
 | Moving Up The Ladder | 7.00% | ~102 |
 | Here We Go Again | 6.00% | ~88 |
 | Master Enchanter | 6.00% | ~88 |
+| The Expeditioner | 6.00% | ~88 |
 | The father of Dragons | 6.00% | ~88 |
 | Trader | 6.00% | ~88 |
 | Ancient Knowledge | 5.00% | ~73 |
 | Enchanting skill | 5.00% | ~73 |
 | How Do You Turn This On? | 5.00% | ~73 |
 | Missions Dedication | 5.00% | ~73 |
-| The Expeditioner | 5.00% | ~73 |
 | Weekly Quest Completionist | 5.00% | ~73 |
 | Background Story | 4.00% | ~58 |
 | Crystal Mining | 4.00% | ~58 |
@@ -67,10 +67,10 @@ Rating: 4.07 (Ranked 894)
 | Transmute | 0.60% | ~9 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
+| Gear Enchanting | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
 | Angel Power | 0.30% | ~4 |
 | Enchanting skill x5 | 0.30% | ~4 |
-| Gear Enchanting | 0.30% | ~4 |
 | Guardian Master | 0.30% | ~4 |
 | Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |

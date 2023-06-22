@@ -7,8 +7,8 @@ Rating: 4.31 (Ranked 766)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~961 |
 | A new Journey | 72.00% | ~948 |
+| From X to Y | 71.00% | ~934 |
 | Departure | 71.00% | ~934 |
-| From X to Y | 70.00% | ~921 |
 | Way of Iron | 69.00% | ~908 |
 | Mystery Tour | 67.00% | ~882 |
 | Brainstorm | 65.00% | ~855 |
@@ -61,7 +61,7 @@ Rating: 4.31 (Ranked 766)
 | Three Cheers for Progress | 0.20% | ~3 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,316 (Ranked 168)  
+Progressed: 1,316 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |

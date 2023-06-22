@@ -35,8 +35,8 @@ Rating: 4.89 (Ranked 13)
 | Beat-hit mania | 18.00% | ~597 |
 | Well that was a rush! | 17.00% | ~564 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~564 |
+| Wanna hear my playlist? | 12.00% | ~398 |
 | Chip-tuned | 11.00% | ~365 |
-| Wanna hear my playlist? | 11.00% | ~365 |
 | Check out my moves! | 11.00% | ~365 |
 | We're Jammin' | 8.00% | ~265 |
 | I think I deserve some praise, here! | 7.00% | ~232 |

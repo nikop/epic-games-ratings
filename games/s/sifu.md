@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,099 |
 | Bloody Sport | 1.00% | ~192 |
 | The best strikes are the ones we avoid | 1.00% | ~192 |
-| Scareless | 0.90% | ~6,389 |
-| Kung-Fu Tussle | 0.90% | ~6,389 |
+| Scareless | 0.90% | ~6,390 |
+| Kung-Fu Tussle | 0.90% | ~6,390 |
 | Dance of the Praying Mantis | 0.80% | ~5,680 |
 | Qi Gong: Mind | 0.80% | ~5,680 |
 | I know Kung-Fu | 0.80% | ~5,680 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,941 (Ranked 17)  
+Progressed: 709,947 (Ranked 17)  
 Completed: 12,781 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 12,781 (1.80%) (Ranked 79)
 | 2023-06-19 | 709,833 | 12,778 |
 | 2023-06-20 | 709,878 | 12,779 |
 | 2023-06-21 | 709,919 | 12,779 |
-| 2023-06-22 | 709,941 | 12,781 |
+| 2023-06-22 | 709,947 | 12,781 |
 ## Awards
 Max (Great Boss Battles): 6,197  (Ranked 52)  
 Sum: 10,597 (Ranked 78)  

@@ -1588,9 +1588,9 @@
       "ID": "ID_ACHIEV_19",
       "SetID": "98bke8c",
       "Name": "Melting Down",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 400
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1988,8 +1988,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-22T13:08:31.8058377+00:00",
+  "LastChanged_Achievements": "2023-06-22T14:03:41.5756835+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.1207834+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:04:02.8495533+00:00",
-  "LastUpdate_Achievements": "2023-06-22T13:08:31.805898+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:59:04.7814934+00:00",
+  "LastUpdate_Achievements": "2023-06-22T14:03:41.5757705+00:00"
 }
