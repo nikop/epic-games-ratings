@@ -310,9 +310,9 @@
       "ID": "Achievement5",
       "SetID": "jf6ho5",
       "Name": "Red in Tooth and Claw",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement6",
@@ -359,8 +359,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:19.1548402+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:27.8928365+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.8647276+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:00:10.6346752+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:19.1548543+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:01:17.1721105+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:27.8928505+00:00"
 }

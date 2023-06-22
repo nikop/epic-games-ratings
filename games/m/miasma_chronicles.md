@@ -37,7 +37,7 @@ Rating: 4.34 (Ranked 741)
 | Newtonian Knockout | 15.00% | ~177 |
 | Dr Jones | 13.00% | ~154 |
 | Ruthless | 13.00% | ~154 |
-| Chaos Theory | 11.00% | ~130 |
+| Chaos Theory | 12.00% | ~142 |
 | Commando | 10.00% | ~118 |
 | Chain Reaction | 8.00% | ~95 |
 | Side Order | 8.00% | ~95 |

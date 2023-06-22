@@ -5,9 +5,9 @@
   "Ranking_Rating": 179,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
-  "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -55,11 +55,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -205,6 +205,11 @@
       "Time": "2023-06-14T00:07:19.9902454+00:00",
       "NumProgressed": 317,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T22:07:33.6234212+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -272,7 +277,7 @@
       "Name": "The Director is Dead",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -350,9 +355,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "ach-campaign-story2",
@@ -390,9 +395,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-discover-locations-high",
@@ -416,7 +421,7 @@
       "Name": "Fire and Flood",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-find-treasure",
@@ -440,7 +445,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach-hardExpeditions",
@@ -504,7 +509,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -560,7 +565,7 @@
       "Name": "Insomnia",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ach-pacifist-goals",
@@ -608,15 +613,15 @@
       "Name": "Good Mama",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-rideDinosaur",
@@ -638,9 +643,9 @@
       "ID": "ach-salamanderPrince",
       "SetID": "17ih7ma",
       "Name": "Cold Blood, Warm Heart",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ach-spendNoMoney",
@@ -662,9 +667,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -688,14 +693,14 @@
       "Name": "Dapper",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 1
     }
   ],
@@ -703,8 +708,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:24.2962561+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:33.6234209+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.5581585+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:00:26.4293926+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:24.2963146+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:01:38.4777606+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:33.6234736+00:00"
 }

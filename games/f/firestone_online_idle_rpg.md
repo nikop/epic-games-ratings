@@ -36,9 +36,9 @@ Rating: 4.07 (Ranked 894)
 | Doing My Part | 8.00% | ~117 |
 | Frostfire Liberator | 8.00% | ~117 |
 | Mastery | 8.00% | ~117 |
+| Moving Up The Ladder | 8.00% | ~117 |
 | Relic Of The Past | 8.00% | ~117 |
 | Four Leaf Clover | 7.00% | ~103 |
-| Moving Up The Ladder | 7.00% | ~103 |
 | Here We Go Again | 6.00% | ~88 |
 | Master Enchanter | 6.00% | ~88 |
 | The Expeditioner | 6.00% | ~88 |

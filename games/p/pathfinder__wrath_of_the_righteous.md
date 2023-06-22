@@ -8,18 +8,18 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 18.00% | ~1,802 |
 | A Spark | 13.00% | ~1,302 |
-| Burning City | 12.00% | ~1,201 |
+| Burning City | 12.00% | ~1,202 |
 | Mythic Choices | 10.00% | ~1,001 |
 | Defender's Heart | 10.00% | ~1,001 |
 | Banner over the Citadel | 9.00% | ~901 |
 | Queen's Gratitude | 8.00% | ~801 |
 | Fifth Crusade | 6.00% | ~601 |
-| Embrace of the Abyss | 4.00% | ~400 |
-| Path of the Angel | 4.00% | ~400 |
-| Great Upstart | 4.00% | ~400 |
-| Voice from Your Dreams | 4.00% | ~400 |
-| All Paths Open | 4.00% | ~400 |
-| Demonic and Divine | 4.00% | ~400 |
+| Embrace of the Abyss | 4.00% | ~401 |
+| Path of the Angel | 4.00% | ~401 |
+| Great Upstart | 4.00% | ~401 |
+| Voice from Your Dreams | 4.00% | ~401 |
+| All Paths Open | 4.00% | ~401 |
+| Demonic and Divine | 4.00% | ~401 |
 | Path of the Azata | 3.00% | ~300 |
 | Transformation | 3.00% | ~300 |
 | The Legacy | 3.00% | ~300 |
@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.60% | ~60 |
 | Path of the Legend | 0.60% | ~60 |
 | Playful Mood | 0.60% | ~60 |
+| Dreadful Dragon | 0.60% | ~60 |
 | Truly Profane Gift | 0.60% | ~60 |
-| Dreadful Dragon | 0.50% | ~50 |
 | Masterful Charge | 0.40% | ~40 |
 | Prelate's Nemesis | 0.40% | ~40 |
 | Masterful Dispel | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,012 (Ranked 115)  
+Progressed: 10,013 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-19 | 9,976 | 0 |
 | 2023-06-20 | 9,991 | 0 |
 | 2023-06-21 | 10,000 | 0 |
-| 2023-06-22 | 10,012 | 0 |
+| 2023-06-22 | 10,013 | 0 |
 ## Awards
 Max (Character Customization): 1,667  (Ranked 114)  
 Sum: 6,772 (Ranked 110)  

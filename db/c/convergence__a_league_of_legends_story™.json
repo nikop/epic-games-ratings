@@ -1548,9 +1548,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 93
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1859,8 +1859,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:05:58.9108967+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:02.6029057+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:59:24.5280164+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:05:58.9109529+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:00:15.8703066+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:02.6029502+00:00"
 }

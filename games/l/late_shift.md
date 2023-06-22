@@ -11,7 +11,7 @@
 | The Delivery | 43.00% | ~183 |
 | Shill Bidder | 43.00% | ~183 |
 | The Frenzy | 34.00% | ~145 |
-| Good Karma | 31.00% | ~132 |
+| Good Karma | 32.00% | ~136 |
 | Office Clerk | 31.00% | ~132 |
 | Protector | 28.00% | ~119 |
 | The Bribe | 26.00% | ~111 |

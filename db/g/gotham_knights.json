@@ -3,7 +3,7 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 857,
-  "Ranking_Popularity": 99,
+  "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 164,
@@ -1712,9 +1712,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65850,
+  "EOS_Progressed": 65851,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7372,6 +7372,11 @@
       "Time": "2023-06-22T21:06:24.0251055+00:00",
       "NumProgressed": 65850,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-22T22:07:33.3111329+00:00",
+      "NumProgressed": 65851,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7463,7 +7468,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "APPLY_STATUS",
@@ -7559,7 +7564,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -7567,7 +7572,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -7599,7 +7604,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "FREEZE_1",
@@ -7831,7 +7836,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "SECRET_CACHE",
@@ -7839,7 +7844,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -7847,7 +7852,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -7870,13 +7875,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65850,
+      "Progressed": 65851,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36130,
+      "Progressed": 36131,
       "Completed": 2646
     }
   ],
@@ -7884,8 +7889,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-22T19:59:47.4940781+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:24.0251048+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:33.3111321+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:59:43.2314969+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:24.0251994+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:00:40.2354077+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:33.3112117+00:00"
 }

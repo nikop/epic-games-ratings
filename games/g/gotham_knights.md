@@ -31,13 +31,13 @@ Rating: 4.17 (Ranked 857)
 | From Inside Gotham's Walls | 2.00% | ~1,317 |
 | Voiceless | 2.00% | ~1,317 |
 | Seeking Asylum | 2.00% | ~1,317 |
-| End of an Era | 1.00% | ~658 |
-| Bulldozed | 1.00% | ~658 |
-| Out of Their League | 1.00% | ~658 |
-| Drone You Out | 1.00% | ~658 |
-| Gotham Knight | 1.00% | ~658 |
-| Gotham City Confidential | 1.00% | ~658 |
-| Solid Alibi | 1.00% | ~658 |
+| End of an Era | 1.00% | ~659 |
+| Bulldozed | 1.00% | ~659 |
+| Out of Their League | 1.00% | ~659 |
+| Drone You Out | 1.00% | ~659 |
+| Gotham Knight | 1.00% | ~659 |
+| Gotham City Confidential | 1.00% | ~659 |
+| Solid Alibi | 1.00% | ~659 |
 | Fusion Expert | 0.80% | ~527 |
 | Family Meeting | 0.80% | ~527 |
 | Expert Crime Fighter | 0.70% | ~461 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,850 (Ranked 72)  
+Progressed: 65,851 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,11 +130,11 @@ Completed: 96 (0.15%) (Ranked 164)
 | 2023-06-19 | 65,692 | 95 |
 | 2023-06-20 | 65,758 | 96 |
 | 2023-06-21 | 65,809 | 96 |
-| 2023-06-22 | 65,850 | 96 |
+| 2023-06-22 | 65,851 | 96 |
 ## Awards
-Max (Great Boss Battles): 2,362  (Ranked 99)  
+Max (Great Boss Battles): 2,362  (Ranked 100)  
 Sum: 3,915 (Ranked 136)  
-Diff (max vs sum): -37  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,362 |

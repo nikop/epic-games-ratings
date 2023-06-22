@@ -9,38 +9,38 @@ Rating: 4.46 (Ranked 603)
 | Confirming Suspicions | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
 | The Kraken Wakes | 0.90% | ~28 |
+| Taking it back | 0.90% | ~28 |
 | Lord of War | 0.80% | ~25 |
 | Change the Channel | 0.80% | ~25 |
-| Taking it back | 0.80% | ~25 |
 | Target America | 0.80% | ~25 |
 | Sharpshooter | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
+| Resourceful | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
 | Just a Flesh Wound | 0.60% | ~19 |
-| Resourceful | 0.60% | ~19 |
 | As Quiet as a Mouse | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
 | Organ Grinder | 0.50% | ~15 |
 | Gunslinger | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
 | Der Geist | 0.50% | ~15 |
+| Close Quarters | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | No Stone Unturned | 0.40% | ~12 |
 | Skirmisher | 0.40% | ~12 |
 | Precision Is Key | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
-| Close Quarters | 0.40% | ~12 |
 | Snake in the Grass | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Brains of the Operation | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |
 | Opposing Force | 0.30% | ~9 |
+| Enemy at the Gates | 0.30% | ~9 |
 | Rigged to Blow | 0.30% | ~9 |
 | My Little Friend | 0.30% | ~9 |
 | Locomotion Commotion | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
-| Enemy at the Gates | 0.20% | ~6 |
 | Fields of Glory | 0.20% | ~6 |
 | Strategist | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |

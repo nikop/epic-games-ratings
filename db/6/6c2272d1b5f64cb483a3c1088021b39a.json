@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -1546,6 +1546,11 @@
       "Time": "2023-06-22T21:02:32.676658+00:00",
       "NumProgressed": 597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T22:02:23.7210836+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1555,9 +1560,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "adventurous_2",
@@ -2084,14 +2089,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:02:32.6766573+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:02:23.7210832+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:57:18.2017284+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:02:32.6767319+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:57:22.8668708+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:02:23.721138+00:00"
 }

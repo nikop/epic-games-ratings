@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 242)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,359 |
-| That's a Grand Army | 8.00% | ~4,764 |
-| That is mine! | 8.00% | ~4,764 |
-| Victorious! | 8.00% | ~4,764 |
-| Brothers in Arms | 6.00% | ~3,573 |
-| That's a Grand Navy | 6.00% | ~3,573 |
-| Seriously?! | 6.00% | ~3,573 |
-| For the Glory | 5.00% | ~2,977 |
-| Cold War | 4.00% | ~2,382 |
-| True Catholic | 4.00% | ~2,382 |
-| Defender of the Faith | 3.00% | ~1,786 |
-| It's all about the money | 3.00% | ~1,786 |
-| Respected | 3.00% | ~1,786 |
-| Truly Divine Ruler | 3.00% | ~1,786 |
+| Until death do us apart | 9.00% | ~5,361 |
+| That's a Grand Army | 8.00% | ~4,765 |
+| That is mine! | 8.00% | ~4,765 |
+| Victorious! | 8.00% | ~4,765 |
+| Brothers in Arms | 6.00% | ~3,574 |
+| That's a Grand Navy | 6.00% | ~3,574 |
+| Seriously?! | 6.00% | ~3,574 |
+| For the Glory | 5.00% | ~2,978 |
+| Cold War | 4.00% | ~2,383 |
+| True Catholic | 4.00% | ~2,383 |
+| Defender of the Faith | 3.00% | ~1,787 |
+| It's all about the money | 3.00% | ~1,787 |
+| Respected | 3.00% | ~1,787 |
+| Truly Divine Ruler | 3.00% | ~1,787 |
 | Agressive Expander | 2.00% | ~1,191 |
 | Blockader | 2.00% | ~1,191 |
 | Combined Arms | 2.00% | ~1,191 |
@@ -31,19 +31,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,191 |
 | The Princess is in this Castle | 2.00% | ~1,191 |
 | Total Control | 2.00% | ~1,191 |
-| All That's Thine Shall Be Mine | 1.00% | ~595 |
-| Azur semé de lis or | 1.00% | ~595 |
-| Bright Spark | 1.00% | ~595 |
-| City of Cities | 1.00% | ~595 |
-| Factionalism | 1.00% | ~595 |
-| A Golden Empire | 1.00% | ~595 |
-| The Five Colonies | 1.00% | ~595 |
-| This navy can take it all | 1.00% | ~595 |
+| All That's Thine Shall Be Mine | 1.00% | ~596 |
+| Azur semé de lis or | 1.00% | ~596 |
+| Bright Spark | 1.00% | ~596 |
+| City of Cities | 1.00% | ~596 |
+| Factionalism | 1.00% | ~596 |
+| A Golden Empire | 1.00% | ~596 |
+| The Five Colonies | 1.00% | ~596 |
+| This navy can take it all | 1.00% | ~596 |
 | The Emperors new clothes | 0.90% | ~536 |
 | Isn't this the way to India? | 0.90% | ~536 |
 | Market Control | 0.90% | ~536 |
-| Down Under | 0.80% | ~476 |
-| Trustworthy | 0.80% | ~476 |
+| Down Under | 0.80% | ~477 |
+| Trustworthy | 0.80% | ~477 |
 | Electable! | 0.70% | ~417 |
 | All belongs to Mother Russia | 0.60% | ~357 |
 | At every continent | 0.60% | ~357 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,547 (Ranked 77)  
+Progressed: 59,567 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
-| 2023-06-22 | 59,547 | 0 |
+| 2023-06-22 | 59,567 | 0 |
 ## Awards
 Max (Educational): 5,439  (Ranked 61)  
 Sum: 44,925 (Ranked 27)  

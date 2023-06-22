@@ -53,7 +53,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I've never seen a real one!'' | 0.80% | ~397 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49,682 (Ranked 82)  
-Completed: 193 (0.39%) (Ranked 130)  
+Completed: 194 (0.39%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,10 +115,10 @@ Completed: 193 (0.39%) (Ranked 130)
 | 2023-06-19 | 49,646 | 191 |
 | 2023-06-20 | 49,660 | 193 |
 | 2023-06-21 | 49,673 | 193 |
-| 2023-06-22 | 49,682 | 193 |
+| 2023-06-22 | 49,682 | 194 |
 ## Awards
 Max (Great Boss Battles): 2,318  (Ranked 101)  
-Sum: 6,430 (Ranked 113)  
+Sum: 6,432 (Ranked 113)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -128,7 +128,7 @@ Diff (max vs sum): -12
 | This game has Amazing Characters | 477 |
 | This game has Amazing Storytelling | 457 |
 | This game is Highly Recommended | 456 |
-| This game has Easy Combat | 447 |
+| This game has Easy Combat | 449 |
 | This game is Extremely Fun | 445 |
 | This game has Quickly Understood Controls | 433 |
 | This game is Relaxing | 432 |
@@ -275,4 +275,4 @@ Diff (max vs sum): -12
 | 2023-06-18 | 4.78 | - | 2,316 | 6,425 |
 | 2023-06-19 | 4.78 | - | 2,316 | 6,426 |
 | 2023-06-21 | 4.78 | - | 2,318 | 6,429 |
-| 2023-06-22 | 4.78 | - | 2,318 | 6,430 |
+| 2023-06-22 | 4.78 | - | 2,318 | 6,432 |

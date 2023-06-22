@@ -14,22 +14,22 @@
 | The Thrower | 48.00% | ~53 |
 | The Penguin | 47.00% | ~52 |
 | The Magician | 45.00% | ~50 |
-| The Tunneler | 40.00% | ~44 |
+| The Tunneler | 41.00% | ~45 |
 | Level Up!! | 39.00% | ~43 |
 | The Shield | 38.00% | ~42 |
 | Kill-streak | 34.00% | ~37 |
 | The Bird | 30.00% | ~33 |
 | The Ninja | 29.00% | ~32 |
+| The Idol | 27.00% | ~30 |
 | Inferno Ruins | 27.00% | ~30 |
 | Topped up | 26.00% | ~29 |
-| The Idol | 26.00% | ~29 |
 | Untouchable | 25.00% | ~28 |
 | I'm Rich | 24.00% | ~26 |
 | 1 is all I need | 21.00% | ~23 |
 | The Slime | 21.00% | ~23 |
 | The Giant | 20.00% | ~22 |
+| Out of the Frying Pan... | 19.00% | ~21 |
 | The Flower | 18.00% | ~20 |
-| Out of the Frying Pan... | 18.00% | ~20 |
 | The Blacksmith | 17.00% | ~19 |
 | The Assistant | 15.00% | ~16 |
 | The Ooze | 15.00% | ~16 |

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 14.00% | ~100 |
+| The Mysterious Stranger | 13.00% | ~93 |
 | Rail Rat | 13.00% | ~93 |
 | The Steel Shadow | 12.00% | ~86 |
 | Treasure Trove | 12.00% | ~86 |
-| The Mysterious Stranger | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |

@@ -2,12 +2,12 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -6954,10 +6954,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1345623,
       "NumberOfAwardsMax": 298202
+    },
+    {
+      "Time": "2023-06-22T21:59:37.1002053+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1345668,
+      "NumberOfAwardsMax": 298202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1345623,
+  "NumberOfAwards": 1345668,
   "NumberOfAwardsMax": 298202,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6983,13 +6989,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 117154
+      "Count": 117181
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 111937
+      "Count": 111955
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7039,8 +7045,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-06-22T19:59:02.842077+00:00",
+  "LastChanged": "2023-06-22T21:59:37.1002052+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:28.6762114+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:58:57.1707936+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:04:49.0249294+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:59:37.1002056+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:05:30.3377687+00:00"
 }

@@ -1,16 +1,16 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 365)  
+Rating: 4.61 (Ranked 366)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~36,189 |
-| Get Busy Living | 17.00% | ~23,662 |
-| Samuel Norton | 9.00% | ~12,527 |
-| Spare The Rod | 5.00% | ~6,960 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,568 |
+| Stone Walls | 26.00% | ~36,196 |
+| Get Busy Living | 17.00% | ~23,666 |
+| Samuel Norton | 9.00% | ~12,529 |
+| Spare The Rod | 5.00% | ~6,961 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,569 |
 | Don't Put Me In The Dark | 3.00% | ~4,176 |
 | Wait and Hope | 3.00% | ~4,176 |
 | Iron Bars | 3.00% | ~4,176 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~139 |
 | ... It's What You Can Prove | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,190 (Ranked 57)  
+Progressed: 139,214 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,16 +86,16 @@ Completed: 5 (0.00%) (Ranked 229)
 | 2023-06-19 | 137,916 | 5 |
 | 2023-06-20 | 138,336 | 5 |
 | 2023-06-21 | 138,764 | 5 |
-| 2023-06-22 | 139,190 | 5 |
+| 2023-06-22 | 139,214 | 5 |
 ## Awards
 Max (Extremely Fun): 441  (Ranked 198)  
-Sum: 3,458 (Ranked 146)  
+Sum: 3,459 (Ranked 146)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 441 |
 | This game is Great for Beginners | 427 |
-| This game is Highly Recommended | 422 |
+| This game is Highly Recommended | 423 |
 | This game has Quickly Understood Controls | 409 |
 | This game is Relaxing | 390 |
 | This game has Diverse Characters | 378 |
@@ -259,4 +259,4 @@ Diff (max vs sum): 52
 | 2023-06-19 | 4.61 | - | 440 | 3,446 |
 | 2023-06-20 | 4.61 | - | 440 | 3,449 |
 | 2023-06-21 | 4.61 | - | 440 | 3,450 |
-| 2023-06-22 | 4.61 | - | 441 | 3,458 |
+| 2023-06-22 | 4.61 | - | 441 | 3,459 |

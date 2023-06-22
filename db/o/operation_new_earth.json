@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -536,6 +536,11 @@
       "Time": "2023-06-22T21:04:01.3644569+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T22:04:29.6124811+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -561,9 +566,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_defeat_players_100",
@@ -627,7 +632,7 @@
       "Name": "Keeping Busy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_headquarters_15",
@@ -649,9 +654,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -667,7 +672,7 @@
       "Name": "Sergeant",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -723,7 +728,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -755,7 +760,7 @@
       "Name": "Stocking Up",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -769,9 +774,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -850,14 +855,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:04:01.3644563+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:04:29.6124802+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:00:18.1168895+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:04:01.364484+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:01:27.7751871+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:04:29.6125063+00:00"
 }

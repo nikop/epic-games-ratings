@@ -428,9 +428,9 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -604,9 +604,9 @@
       "ID": "PRG_BOSS_TUNNELER",
       "SetID": "89cjc9l",
       "Name": "The Tunneler",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -812,9 +812,9 @@
       "ID": "PRG_MODE_HARD",
       "SetID": "89cjc9l",
       "Name": "Out of the Frying Pan...",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:27.257685+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:36.9268909+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:57:44.2693268+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:27.257769+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:57:58.1092024+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:36.9269631+00:00"
 }

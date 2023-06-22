@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-06-22T09:11:24.6798273+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T22:07:12.8073917+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -502,7 +507,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -700,9 +705,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -734,21 +739,21 @@
       "Name": "Starting to take notes",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:06.5496507+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:12.8073914+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:54.6466698+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:58:23.2641998+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:06.5496743+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:58:50.9883027+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:12.807411+00:00"
 }

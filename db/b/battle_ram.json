@@ -327,17 +327,17 @@
       "ID": "ach_18",
       "SetID": "392n4e7",
       "Name": "Colonel Baran",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_19",
       "SetID": "392n4e7",
       "Name": "Brigadier General Baran",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_2",
@@ -351,17 +351,17 @@
       "ID": "ach_20",
       "SetID": "392n4e7",
       "Name": "Lieutenant General Baran",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_21",
       "SetID": "392n4e7",
       "Name": "EMERAID RAM",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 185,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_22",
@@ -438,8 +438,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:02.4895773+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:07.8051568+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.4053474+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:58:17.2493041+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:02.4895932+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:58:42.7810441+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:07.8051695+00:00"
 }

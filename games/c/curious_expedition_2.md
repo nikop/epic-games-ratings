@@ -6,17 +6,17 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 60.00% | ~190 |
-| Cartographer | 54.00% | ~171 |
-| A Strange Artefact | 50.00% | ~158 |
-| Insomnia | 44.00% | ~139 |
+| The Adventure Begins | 60.00% | ~191 |
+| Cartographer | 53.00% | ~169 |
+| A Strange Artefact | 49.00% | ~156 |
+| Insomnia | 44.00% | ~140 |
 | From Whence we Came | 41.00% | ~130 |
 | Lost & Found & Lost Again | 40.00% | ~127 |
-| Fire and Flood | 37.00% | ~117 |
+| Fire and Flood | 37.00% | ~118 |
 | Spooky! | 35.00% | ~111 |
-| Shennong Herbalist | 32.00% | ~101 |
-| Treasure Hunt | 32.00% | ~101 |
-| Good Mama | 31.00% | ~98 |
+| Shennong Herbalist | 32.00% | ~102 |
+| Good Mama | 31.00% | ~99 |
+| Treasure Hunt | 31.00% | ~99 |
 | O Captain My Captain | 29.00% | ~92 |
 | Taxonomist | 27.00% | ~86 |
 | Plunderer | 27.00% | ~86 |
@@ -29,10 +29,10 @@ Number of Ratings: 20  (23.09.2022)
 | Iron Man | 16.00% | ~51 |
 | For the Club! | 15.00% | ~48 |
 | Shortening of the Way | 15.00% | ~48 |
-| A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
-| The Director is Dead | 14.00% | ~44 |
-| Dapper | 14.00% | ~44 |
+| The Director is Dead | 14.00% | ~45 |
+| A Gentle Beast | 14.00% | ~45 |
+| Dapper | 14.00% | ~45 |
 | The New Director | 13.00% | ~41 |
 | Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
@@ -41,12 +41,12 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 11.00% | ~35 |
 | Under the Table | 10.00% | ~32 |
 | It's Complicated | 10.00% | ~32 |
-| Cold Blood, Warm Heart | 9.00% | ~29 |
 | Errand Runner | 9.00% | ~29 |
 | SCHMETTERLING | 8.00% | ~25 |
 | No Laughing Matter | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
 | Level Up | 8.00% | ~25 |
+| Cold Blood, Warm Heart | 8.00% | ~25 |
 | Zookeeper | 6.00% | ~19 |
 | The Workshop | 6.00% | ~19 |
 | Islander Understanding | 5.00% | ~16 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 233)  
-Completed: 1 (0.32%) (Ranked 138)  
+Progressed: 318 (Ranked 232)  
+Completed: 1 (0.31%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 1 (0.32%) (Ranked 138)
 | 2023-06-11 | 314 | 1 |
 | 2023-06-12 | 316 | 1 |
 | 2023-06-14 | 317 | 1 |
+| 2023-06-22 | 318 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,47 +6,47 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 3.00% | ~17,693 |
-| Resurgence | 3.00% | ~17,693 |
-| Preemptive Strike | 3.00% | ~17,693 |
-| Humanitarian | 3.00% | ~17,693 |
-| Unforgettable Getaway | 2.00% | ~11,796 |
-| Wounded Healer | 2.00% | ~11,796 |
-| Old West Oasis | 2.00% | ~11,796 |
-| Close Shave | 2.00% | ~11,796 |
-| With Scars to Show | 2.00% | ~11,796 |
-| Flight to Freedom | 2.00% | ~11,796 |
-| Ancestor's Rite | 1.00% | ~5,898 |
-| Cutting Out | 1.00% | ~5,898 |
-| Outrun Evil | 1.00% | ~5,898 |
-| First to the Punch | 1.00% | ~5,898 |
-| Operation: Survival | 1.00% | ~5,898 |
-| Classy Act | 1.00% | ~5,898 |
-| Every Last Drop | 1.00% | ~5,898 |
-| Raccoon City Recruit | 1.00% | ~5,898 |
-| A Fast Death | 1.00% | ~5,898 |
-| Lifting The Fog | 1.00% | ~5,898 |
-| Chorus of Chaos | 1.00% | ~5,898 |
-| Grim Pilgrimage | 0.90% | ~5,308 |
-| Devoted Gatekeeping | 0.80% | ~4,718 |
-| Shrine Apparatus | 0.80% | ~4,718 |
-| End of Days | 0.80% | ~4,718 |
-| Outrun the Overlap | 0.80% | ~4,718 |
-| Broken Bodies | 0.70% | ~4,128 |
-| Selfless Survival | 0.70% | ~4,128 |
-| Insult and Injury | 0.70% | ~4,128 |
-| I See You | 0.60% | ~3,539 |
-| Rebuilding The Borgo | 0.60% | ~3,539 |
-| Heavy Burden | 0.50% | ~2,949 |
-| Power Moves | 0.50% | ~2,949 |
-| Punch Drunk | 0.50% | ~2,949 |
-| Prowler | 0.50% | ~2,949 |
-| High Speed Pursuit | 0.50% | ~2,949 |
-| Hack the Mainframe | 0.50% | ~2,949 |
-| Death of Ignorance | 0.40% | ~2,359 |
-| Triage | 0.40% | ~2,359 |
-| Denied! | 0.30% | ~1,769 |
-| Deranged Pursuit | 0.20% | ~1,180 |
+| Healthy Obsession | 3.00% | ~17,701 |
+| Resurgence | 3.00% | ~17,701 |
+| Preemptive Strike | 3.00% | ~17,701 |
+| Humanitarian | 3.00% | ~17,701 |
+| Unforgettable Getaway | 2.00% | ~11,801 |
+| Wounded Healer | 2.00% | ~11,801 |
+| Old West Oasis | 2.00% | ~11,801 |
+| Close Shave | 2.00% | ~11,801 |
+| With Scars to Show | 2.00% | ~11,801 |
+| Flight to Freedom | 2.00% | ~11,801 |
+| Ancestor's Rite | 1.00% | ~5,900 |
+| Cutting Out | 1.00% | ~5,900 |
+| Outrun Evil | 1.00% | ~5,900 |
+| First to the Punch | 1.00% | ~5,900 |
+| Operation: Survival | 1.00% | ~5,900 |
+| Grim Pilgrimage | 1.00% | ~5,900 |
+| Classy Act | 1.00% | ~5,900 |
+| Every Last Drop | 1.00% | ~5,900 |
+| Raccoon City Recruit | 1.00% | ~5,900 |
+| A Fast Death | 1.00% | ~5,900 |
+| Lifting The Fog | 1.00% | ~5,900 |
+| Chorus of Chaos | 1.00% | ~5,900 |
+| Devoted Gatekeeping | 0.80% | ~4,720 |
+| Shrine Apparatus | 0.80% | ~4,720 |
+| Selfless Survival | 0.80% | ~4,720 |
+| End of Days | 0.80% | ~4,720 |
+| Outrun the Overlap | 0.80% | ~4,720 |
+| Broken Bodies | 0.70% | ~4,130 |
+| Insult and Injury | 0.70% | ~4,130 |
+| I See You | 0.60% | ~3,540 |
+| Rebuilding The Borgo | 0.60% | ~3,540 |
+| Heavy Burden | 0.50% | ~2,950 |
+| Power Moves | 0.50% | ~2,950 |
+| Punch Drunk | 0.50% | ~2,950 |
+| Prowler | 0.50% | ~2,950 |
+| High Speed Pursuit | 0.50% | ~2,950 |
+| Hack the Mainframe | 0.50% | ~2,950 |
+| Death of Ignorance | 0.40% | ~2,360 |
+| Triage | 0.40% | ~2,360 |
+| Deranged Pursuit | 0.30% | ~1,770 |
+| Denied! | 0.30% | ~1,770 |
 | Dismantle | 0.20% | ~1,180 |
 | Silent Approach | 0.20% | ~1,180 |
 | Left For Dead | 0.20% | ~1,180 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~590 |
 | Adept Gabriel | 0.10% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,782 (Ranked 25)  
+Progressed: 590,028 (Ranked 25)  
 Completed: 42 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,15 +290,15 @@ Completed: 42 (0.01%) (Ranked 216)
 | 2023-06-19 | 577,397 | 42 |
 | 2023-06-20 | 581,814 | 42 |
 | 2023-06-21 | 586,158 | 42 |
-| 2023-06-22 | 589,782 | 42 |
+| 2023-06-22 | 590,028 | 42 |
 ## Awards
 Max (Diverse Characters): 28,879  (Ranked 15)  
-Sum: 229,814 (Ranked 12)  
+Sum: 229,877 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,879 |
-| This game has Competitive Players | 26,380 |
+| This game has Competitive Players | 26,443 |
 | This game is Highly Recommended | 26,148 |
 | This game has Amazing Characters | 26,001 |
 | This game is Extremely Fun | 25,934 |
@@ -460,4 +460,4 @@ Diff (max vs sum): 3
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
 | 2023-06-20 | 4.52 | - | 28,714 | 229,011 |
 | 2023-06-21 | 4.52 | - | 28,786 | 229,346 |
-| 2023-06-22 | 4.52 | - | 28,879 | 229,814 |
+| 2023-06-22 | 4.52 | - | 28,879 | 229,877 |

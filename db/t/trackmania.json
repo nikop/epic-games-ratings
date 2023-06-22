@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -6573,10 +6573,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 23892,
       "NumberOfAwardsMax": 2817
+    },
+    {
+      "Time": "2023-06-22T21:58:55.6086595+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 23908,
+      "NumberOfAwardsMax": 2817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23892,
+  "NumberOfAwards": 23908,
   "NumberOfAwardsMax": 2817,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6590,7 +6596,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2550
+      "Count": 2555
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6608,7 +6614,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2503
+      "Count": 2509
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6632,7 +6638,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1948
+      "Count": 1953
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6664,8 +6670,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-06-22T20:58:27.0676745+00:00",
+  "LastChanged": "2023-06-22T21:58:55.6086593+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0795337+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:58:27.0676751+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:04:00.5398385+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:58:55.6086598+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:04:28.5515849+00:00"
 }

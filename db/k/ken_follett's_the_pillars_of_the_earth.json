@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13429,
+  "EOS_Progressed": 13430,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4679,6 +4679,11 @@
       "Time": "2023-06-22T21:06:07.0293852+00:00",
       "NumProgressed": 13429,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-22T22:07:13.2929865+00:00",
+      "NumProgressed": 13430,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 41,
@@ -4714,7 +4719,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "tpote_achievement_13",
@@ -4722,7 +4727,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "tpote_achievement_14",
@@ -4930,7 +4935,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "tpote_achievement_38",
@@ -4954,7 +4959,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5640
+      "UsersEstimate": 5641
     },
     {
       "ID": "tpote_achievement_40",
@@ -4978,7 +4983,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "tpote_achievement_6",
@@ -5002,7 +5007,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "tpote_achievement_9",
@@ -5017,15 +5022,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13429,
+      "Progressed": 13430,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:06:07.0293847+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:07:13.2929861+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:59:56.4353001+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:06:07.029438+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:00:57.8546721+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:07:13.2930316+00:00"
 }

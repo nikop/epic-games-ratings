@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -3138,10 +3138,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1653,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-06-22T22:00:32.816006+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1660,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1653,
+  "NumberOfAwards": 1660,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3167,7 +3173,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 148
+      "Count": 150
     },
     {
       "Text": "This game is Relaxing",
@@ -3185,7 +3191,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 123
+      "Count": 127
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3197,7 +3203,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 134
+      "Count": 135
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3230,8 +3236,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-06-22T13:05:59.8463583+00:00",
+  "LastChanged": "2023-06-22T22:00:32.8160059+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.5502935+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:59:37.6447854+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:03:52.9948957+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:00:32.8160063+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:04:18.7123812+00:00"
 }

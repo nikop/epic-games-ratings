@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -1074,6 +1074,11 @@
       "Time": "2023-06-22T18:03:11.0515463+00:00",
       "NumProgressed": 682,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T22:02:07.0357384+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1093,7 +1098,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH002",
@@ -1141,7 +1146,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH008",
@@ -1181,7 +1186,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH013",
@@ -1189,7 +1194,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH014",
@@ -1205,7 +1210,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH016",
@@ -1235,9 +1240,9 @@
       "ID": "ACH019",
       "SetID": "69nfp41",
       "Name": "Just a scratch",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH020",
@@ -1269,7 +1274,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH024",
@@ -1325,7 +1330,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH031",
@@ -1389,7 +1394,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH039",
@@ -1435,9 +1440,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH045",
@@ -1484,15 +1489,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-22T21:02:20.2915956+00:00",
+  "LastChanged_Achievements": "2023-06-22T22:02:07.035738+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9795922+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:58:37.7536596+00:00",
-  "LastUpdate_Achievements": "2023-06-22T21:02:20.2916458+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:59:11.2124302+00:00",
+  "LastUpdate_Achievements": "2023-06-22T22:02:07.0357669+00:00"
 }
