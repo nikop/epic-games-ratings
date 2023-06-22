@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3982,10 +3982,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37635,
       "NumberOfAwardsMax": 20270
+    },
+    {
+      "Time": "2023-06-22T19:57:48.2152068+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37641,
+      "NumberOfAwardsMax": 20270
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37635,
+  "NumberOfAwards": 37641,
   "NumberOfAwardsMax": 20270,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4005,7 +4011,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 682
+      "Count": 688
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4062,10 +4068,10 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281050,
+  "EOS_Progressed": 281057,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1054,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 1022,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -10677,6 +10683,11 @@
       "Time": "2023-06-22T18:06:37.1374022+00:00",
       "NumProgressed": 281050,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-22T20:05:34.4594566+00:00",
+      "NumProgressed": 281057,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10688,7 +10699,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28105
+      "UsersEstimate": 28106
     },
     {
       "ID": "PFA_10",
@@ -10752,7 +10763,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14052
+      "UsersEstimate": 14053
     },
     {
       "ID": "PFA_18",
@@ -10768,7 +10779,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14052
+      "UsersEstimate": 14053
     },
     {
       "ID": "PFA_2",
@@ -10784,7 +10795,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_21",
@@ -10808,7 +10819,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22484
+      "UsersEstimate": 22485
     },
     {
       "ID": "PFA_24",
@@ -10880,7 +10891,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_32",
@@ -10920,7 +10931,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_37",
@@ -10960,7 +10971,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_41",
@@ -10984,7 +10995,7 @@
       "Name": "Finishing Touches",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_44",
@@ -11000,7 +11011,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "PFA_5",
@@ -11016,7 +11027,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22484
+      "UsersEstimate": 22485
     },
     {
       "ID": "PFA_7",
@@ -11024,7 +11035,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22484
+      "UsersEstimate": 22485
     },
     {
       "ID": "PFA_8",
@@ -11032,7 +11043,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22484
+      "UsersEstimate": 22485
     },
     {
       "ID": "PFA_9",
@@ -11047,16 +11058,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281050,
+      "Progressed": 281057,
       "Completed": 408
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-22T18:57:40.0382255+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:06:37.1374018+00:00",
+  "LastChanged": "2023-06-22T19:57:48.2152066+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:05:34.4594559+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:57:40.0382264+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:05:59.3538054+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:57:48.2152073+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:05:34.4596261+00:00"
 }

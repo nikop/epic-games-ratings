@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 274,
   "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 68,
@@ -2244,7 +2244,7 @@
   ],
   "EOS_Progressed": 21079,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 767,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -9289,8 +9289,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-21T22:00:26.1788631+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:05:56.1851491+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:05:31.9498606+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:49.0512231+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:59:49.8923588+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:05:56.1852521+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:59:20.9924048+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:05:31.9499933+00:00"
 }

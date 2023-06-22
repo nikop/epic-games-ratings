@@ -2,13 +2,13 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 517,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -6723,11 +6723,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 229658,
       "NumberOfAwardsMax": 28786
+    },
+    {
+      "Time": "2023-06-22T20:00:16.5082129+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 229814,
+      "NumberOfAwardsMax": 28879
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 229658,
-  "NumberOfAwardsMax": 28786,
+  "NumberOfAwards": 229814,
+  "NumberOfAwardsMax": 28879,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6740,7 +6746,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28786
+      "Count": 28879
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6770,7 +6776,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26085
+      "Count": 26148
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6797,9 +6803,9 @@
       "Count": 21946
     }
   ],
-  "EOS_Progressed": 589198,
+  "EOS_Progressed": 589200,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 31094,
+  "EOS_NewPlayers": 30848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13532,6 +13538,11 @@
       "Time": "2023-06-22T19:07:19.3592781+00:00",
       "NumProgressed": 589198,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-06-22T20:06:34.5470485+00:00",
+      "NumProgressed": 589200,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 220,
@@ -15302,21 +15313,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 589198,
+      "Progressed": 589200,
       "Completed": 22
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 589198,
+      "Progressed": 589200,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-06-22T19:01:06.4656407+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:07:19.3592777+00:00",
+  "LastChanged": "2023-06-22T20:00:16.5082126+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:06:34.5470481+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:48.0585833+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:01:06.4656414+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:07:19.3598704+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:00:16.5082134+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:06:34.5477555+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 709,
-  "Ranking_Popularity": 179,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2020-04-15T11:18:00+00:00",
@@ -1926,11 +1926,17 @@
       "Rating": 4.38,
       "NumberOfAwards": 3697,
       "NumberOfAwardsMax": 559
+    },
+    {
+      "Time": "2023-06-22T19:58:46.3268819+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3699,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3697,
-  "NumberOfAwardsMax": 559,
+  "NumberOfAwards": 3699,
+  "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1949,7 +1955,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 559
+      "Count": 560
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1967,7 +1973,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 453
+      "Count": 454
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2005,8 +2011,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-06-20T07:59:19.8585415+00:00",
+  "LastChanged": "2023-06-22T19:58:46.3268816+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:12.9655665+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:59:03.4430628+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:03:52.2309103+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:58:46.3268826+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:03:59.937883+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 516)  
+Rating: 4.52 (Ranked 517)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~589 |
 | Adept Gabriel | 0.10% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,198 (Ranked 25)  
+Progressed: 589,200 (Ranked 25)  
 Completed: 42 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,16 +290,16 @@ Completed: 42 (0.01%) (Ranked 216)
 | 2023-06-19 | 577,397 | 42 |
 | 2023-06-20 | 581,814 | 42 |
 | 2023-06-21 | 586,158 | 42 |
-| 2023-06-22 | 589,198 | 42 |
+| 2023-06-22 | 589,200 | 42 |
 ## Awards
-Max (Diverse Characters): 28,786  (Ranked 15)  
-Sum: 229,658 (Ranked 12)  
+Max (Diverse Characters): 28,879  (Ranked 15)  
+Sum: 229,814 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 28,786 |
+| This game has Diverse Characters | 28,879 |
 | This game has Competitive Players | 26,380 |
-| This game is Highly Recommended | 26,085 |
+| This game is Highly Recommended | 26,148 |
 | This game has Amazing Characters | 26,001 |
 | This game is Extremely Fun | 25,934 |
 | This game has Quickly Understood Controls | 25,731 |
@@ -460,4 +460,4 @@ Diff (max vs sum): 3
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
 | 2023-06-20 | 4.52 | - | 28,714 | 229,011 |
 | 2023-06-21 | 4.52 | - | 28,786 | 229,346 |
-| 2023-06-22 | 4.52 | - | 28,786 | 229,658 |
+| 2023-06-22 | 4.52 | - | 28,879 | 229,814 |

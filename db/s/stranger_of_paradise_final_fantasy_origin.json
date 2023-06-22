@@ -3,8 +3,8 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 211,
+  "Ranking_Popularity": 140,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 131,
@@ -1460,12 +1460,18 @@
       "Rating": 4.51,
       "NumberOfAwards": 1555,
       "NumberOfAwardsMax": 754
+    },
+    {
+      "Time": "2023-06-22T19:59:50.1056582+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2579,
+      "NumberOfAwardsMax": 1024
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1555,
-  "NumberOfAwardsMax": 754,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 2579,
+  "NumberOfAwardsMax": 1024,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1481,9 +1487,9 @@
     },
     {
       "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 452
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 1024
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1542,7 +1548,7 @@
   ],
   "EOS_Progressed": 78726,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -5124,9 +5130,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2023-06-20T05:01:07.1975884+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:05:10.0915453+00:00",
+  "LastChanged": "2023-06-22T19:59:50.105658+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:04:29.270741+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:21.7374443+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:00:30.871299+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:04:31.9209731+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:59:50.1056586+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:04:29.2708017+00:00"
 }

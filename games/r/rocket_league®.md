@@ -6,43 +6,43 @@ Number of Ratings: 366,020  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pick-Me Up | 81.00% | ~19,738,820 |
-| First-Timer | 73.00% | ~17,789,306 |
-| Triple Threat | 68.00% | ~16,570,861 |
-| Turbocharger | 62.00% | ~15,108,726 |
-| Tinkerer | 61.00% | ~14,865,037 |
-| Clean Sheet | 60.00% | ~14,621,348 |
-| Traveler | 60.00% | ~14,621,348 |
-| Wall-Crawler | 59.00% | ~14,377,659 |
-| Winner | 59.00% | ~14,377,659 |
-| Barras Bravas | 53.00% | ~12,915,524 |
-| Minute to Win it | 52.00% | ~12,671,835 |
-| Pitch Veteran | 51.00% | ~12,428,146 |
-| Double Up | 51.00% | ~12,428,146 |
-| Speed Demon | 50.00% | ~12,184,456 |
-| Good Times | 49.00% | ~11,940,767 |
-| Coming On Strong | 48.00% | ~11,697,078 |
+| Pick-Me Up | 81.00% | ~19,738,821 |
+| First-Timer | 73.00% | ~17,789,308 |
+| Triple Threat | 68.00% | ~16,570,862 |
+| Turbocharger | 62.00% | ~15,108,727 |
+| Tinkerer | 61.00% | ~14,865,038 |
+| Clean Sheet | 60.00% | ~14,621,349 |
+| Traveler | 60.00% | ~14,621,349 |
+| Wall-Crawler | 59.00% | ~14,377,660 |
+| Winner | 59.00% | ~14,377,660 |
+| Barras Bravas | 53.00% | ~12,915,525 |
+| Minute to Win it | 52.00% | ~12,671,836 |
+| Pitch Veteran | 51.00% | ~12,428,147 |
+| Double Up | 51.00% | ~12,428,147 |
+| Speed Demon | 50.00% | ~12,184,458 |
+| Good Times | 49.00% | ~11,940,768 |
+| Coming On Strong | 48.00% | ~11,697,079 |
 | Drops in the Bucket | 43.00% | ~10,478,633 |
-| Trifecta | 42.00% | ~10,234,943 |
-| Super Victorious | 41.00% | ~9,991,254 |
-| Car Collector | 41.00% | ~9,991,254 |
-| Storm Trooper | 41.00% | ~9,991,254 |
-| Rider's Block | 39.00% | ~9,503,876 |
-| Gladiator | 39.00% | ~9,503,876 |
-| Helen's Pride | 39.00% | ~9,503,876 |
-| GG | 39.00% | ~9,503,876 |
-| Rank Up | 37.00% | ~9,016,498 |
+| Trifecta | 42.00% | ~10,234,944 |
+| Super Victorious | 41.00% | ~9,991,255 |
+| Car Collector | 41.00% | ~9,991,255 |
+| Storm Trooper | 41.00% | ~9,991,255 |
+| Rider's Block | 39.00% | ~9,503,877 |
+| Gladiator | 39.00% | ~9,503,877 |
+| Helen's Pride | 39.00% | ~9,503,877 |
+| GG | 39.00% | ~9,503,877 |
+| Rank Up | 37.00% | ~9,016,499 |
 | Singles Club | 36.00% | ~8,772,809 |
 | Still A Show-Off | 36.00% | ~8,772,809 |
-| Grease Monkey | 33.00% | ~8,041,741 |
-| Far, Far Away... | 33.00% | ~8,041,741 |
-| Sky High | 31.00% | ~7,554,363 |
-| Family, Not Friends | 31.00% | ~7,554,363 |
+| Grease Monkey | 33.00% | ~8,041,742 |
+| Far, Far Away... | 33.00% | ~8,041,742 |
+| Sky High | 31.00% | ~7,554,364 |
+| Family, Not Friends | 31.00% | ~7,554,364 |
 | Brave the Elements | 30.00% | ~7,310,674 |
 | Break Shot | 29.00% | ~7,066,985 |
 | Rocket Repleter | 29.00% | ~7,066,985 |
 | Budding Artist | 28.00% | ~6,823,296 |
-| Stocked | 26.00% | ~6,335,917 |
+| Stocked | 26.00% | ~6,335,918 |
 | All Fours | 23.00% | ~5,604,850 |
 | Trade Secret | 23.00% | ~5,604,850 |
 | Know the Drill | 22.00% | ~5,361,161 |
@@ -52,11 +52,11 @@ Number of Ratings: 366,020  (23.09.2022)
 | New Challenger | 22.00% | ~5,361,161 |
 | The Streak | 21.00% | ~5,117,472 |
 | Throwback | 20.00% | ~4,873,783 |
-| People Person | 19.00% | ~4,630,093 |
-| Ride or Die | 18.00% | ~4,386,404 |
-| Squad Goals | 18.00% | ~4,386,404 |
-| One Better | 17.00% | ~4,142,715 |
-| Join the Club! | 17.00% | ~4,142,715 |
+| People Person | 19.00% | ~4,630,094 |
+| Ride or Die | 18.00% | ~4,386,405 |
+| Squad Goals | 18.00% | ~4,386,405 |
+| One Better | 17.00% | ~4,142,716 |
+| Join the Club! | 17.00% | ~4,142,716 |
 | Drift King | 16.00% | ~3,899,026 |
 | Best of the Bunch | 16.00% | ~3,899,026 |
 | SARPBC Forever | 14.00% | ~3,411,648 |
@@ -64,8 +64,8 @@ Number of Ratings: 366,020  (23.09.2022)
 | Get Up, Mr. Bubbles! | 13.00% | ~3,167,959 |
 | Drill Sergeant | 12.00% | ~2,924,270 |
 | Certifiable | 12.00% | ~2,924,270 |
-| Feather in Your Recap | 11.00% | ~2,680,580 |
-| Psycho-Master Exploder | 11.00% | ~2,680,580 |
+| Feather in Your Recap | 11.00% | ~2,680,581 |
+| Psycho-Master Exploder | 11.00% | ~2,680,581 |
 | Don't Look Back | 9.00% | ~2,193,202 |
 | Damage Control | 9.00% | ~2,193,202 |
 | Icing the Cake | 8.00% | ~1,949,513 |
@@ -95,7 +95,7 @@ Number of Ratings: 366,020  (23.09.2022)
 | Virtuoso | 0.10% | ~24,369 |
 | Winning is Winning | 0.10% | ~24,369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,368,913 (Ranked 2)  
+Progressed: 24,368,915 (Ranked 2)  
 Completed: 2,024 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 2,024 (0.01%) (Ranked 216)
 | 2023-06-19 | 24,321,816 | 2,015 |
 | 2023-06-20 | 24,340,020 | 2,017 |
 | 2023-06-21 | 24,356,612 | 2,021 |
-| 2023-06-22 | 24,368,913 | 2,024 |
+| 2023-06-22 | 24,368,915 | 2,024 |
 ## Awards
 Max (Great for Quick Sessions): 449,408  (Ranked 2)  
 Sum: 3,063,869 (Ranked 2)  

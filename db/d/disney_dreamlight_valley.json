@@ -3,11 +3,11 @@
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 147,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2312,7 +2312,7 @@
   ],
   "EOS_Progressed": 4767,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 1724,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 56,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -3503,8 +3503,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-06-22T03:58:56.2257862+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:05:32.5308931+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:05:14.1510773+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.1945397+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:58:29.9668499+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:05:32.5309148+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:58:22.5400827+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:05:14.1511491+00:00"
 }

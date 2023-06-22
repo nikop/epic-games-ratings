@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,105 |
-| A Keen Sense of Spell | 8.00% | ~22,484 |
-| First Class Student | 8.00% | ~22,484 |
-| Troll with the Punches | 8.00% | ~22,484 |
-| That's a Keeper | 8.00% | ~22,484 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,106 |
+| A Keen Sense of Spell | 8.00% | ~22,485 |
+| First Class Student | 8.00% | ~22,485 |
+| Troll with the Punches | 8.00% | ~22,485 |
+| That's a Keeper | 8.00% | ~22,485 |
 | Grappling with a Graphorn | 7.00% | ~19,674 |
 | The One Who Mastered Memories | 7.00% | ~19,674 |
 | The Hallowed Hero | 7.00% | ~19,674 |
@@ -24,8 +24,8 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,863 |
 | The Spell Master | 6.00% | ~16,863 |
 | Rising From the Ashes | 6.00% | ~16,863 |
-| Beast Friends | 5.00% | ~14,052 |
-| Flight the Good Flight | 5.00% | ~14,052 |
+| Beast Friends | 5.00% | ~14,053 |
+| Flight the Good Flight | 5.00% | ~14,053 |
 | The Seeker of Knowledge | 4.00% | ~11,242 |
 | The Root of the Problem | 4.00% | ~11,242 |
 | Third Time's a Charm | 4.00% | ~11,242 |
@@ -40,18 +40,18 @@ Rating: 4.77 (Ranked 107)
 | The Auror's Apprentice | 2.00% | ~5,621 |
 | Floo Around the World | 2.00% | ~5,621 |
 | The Wise Owl | 2.00% | ~5,621 |
-| The Good Samaritan | 1.00% | ~2,810 |
-| Savvy Spender | 1.00% | ~2,810 |
-| Rise to the Challenges | 1.00% | ~2,810 |
-| Demiguise Dread | 1.00% | ~2,810 |
-| Finishing Touches | 1.00% | ~2,810 |
-| A Forte for Achievement | 1.00% | ~2,810 |
+| The Good Samaritan | 1.00% | ~2,811 |
+| Savvy Spender | 1.00% | ~2,811 |
+| Rise to the Challenges | 1.00% | ~2,811 |
+| Demiguise Dread | 1.00% | ~2,811 |
+| Finishing Touches | 1.00% | ~2,811 |
+| A Forte for Achievement | 1.00% | ~2,811 |
 | Merlin's Beard! | 0.70% | ~1,967 |
 | Spilled Milk | 0.60% | ~1,686 |
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,050 (Ranked 41)  
+Progressed: 281,057 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,10 +114,10 @@ Completed: 408 (0.15%) (Ranked 164)
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
-| 2023-06-22 | 281,050 | 408 |
+| 2023-06-22 | 281,057 | 408 |
 ## Awards
 Max (Character Customization): 20,270  (Ranked 18)  
-Sum: 37,635 (Ranked 30)  
+Sum: 37,641 (Ranked 30)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): -12
 | This game has Amazing Characters | 806 |
 | This game is Highly Recommended | 791 |
 | This game has Quickly Understood Controls | 739 |
-| This game has Beautiful Visuals | 682 |
+| This game has Beautiful Visuals | 688 |
 | This game has a Creative Community | 520 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -226,4 +226,4 @@ Diff (max vs sum): -12
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
-| 2023-06-22 | 4.77 | 20,270 | 37,635 |
+| 2023-06-22 | 4.77 | 20,270 | 37,641 |

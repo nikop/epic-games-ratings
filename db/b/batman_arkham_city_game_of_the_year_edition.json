@@ -3,12 +3,12 @@
   "Name": "Batman Arkham City Game of the Year Edition",
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 89,
-  "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 193,
+  "Ranking_Popularity": 119,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2012-09-07T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1411,18 +1411,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 1975,
       "NumberOfAwardsMax": 1459
+    },
+    {
+      "Time": "2023-06-22T19:57:41.9087464+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1977,
+      "NumberOfAwardsMax": 1461
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1975,
-  "NumberOfAwardsMax": 1459,
+  "NumberOfAwards": 1977,
+  "NumberOfAwardsMax": 1461,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1459
+      "Count": 1461
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1484,8 +1490,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2023-06-19T22:59:53.4195671+00:00",
+  "LastChanged": "2023-06-22T19:57:41.9087462+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:00.7375086+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:57:31.056319+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:05:58.768596+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:57:41.9087469+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:05:33.8686101+00:00"
 }

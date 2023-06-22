@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,334 |
-| Powergamer | 27.00% | ~63,000 |
-| Barely scratched the surface | 25.00% | ~58,334 |
-| Write that down | 24.00% | ~56,000 |
-| Guns, lots of guns | 12.00% | ~28,000 |
-| Collector | 11.00% | ~25,667 |
-| Elementary! | 9.00% | ~21,000 |
+| I will finish what you started | 28.00% | ~65,336 |
+| Powergamer | 27.00% | ~63,002 |
+| Barely scratched the surface | 25.00% | ~58,336 |
+| Write that down | 24.00% | ~56,002 |
+| Guns, lots of guns | 12.00% | ~28,001 |
+| Collector | 11.00% | ~25,668 |
+| Elementary! | 9.00% | ~21,001 |
 | Pumpkin Jack | 8.00% | ~18,667 |
 | Wake up! | 8.00% | ~18,667 |
-| It's honest work | 7.00% | ~16,333 |
-| Griever | 7.00% | ~16,333 |
-| Me smart | 6.00% | ~14,000 |
+| It's honest work | 7.00% | ~16,334 |
+| Griever | 7.00% | ~16,334 |
+| Me smart | 6.00% | ~14,001 |
 | Good listener | 5.00% | ~11,667 |
 | Trash compactor | 5.00% | ~11,667 |
 | Valedictorian | 5.00% | ~11,667 |
-| BOY! | 4.00% | ~9,333 |
-| Ka-ching! | 4.00% | ~9,333 |
-| So you like to read? | 4.00% | ~9,333 |
+| BOY! | 4.00% | ~9,334 |
+| Ka-ching! | 4.00% | ~9,334 |
+| So you like to read? | 4.00% | ~9,334 |
 | I like to sniff around | 3.00% | ~7,000 |
 | Mind reader | 3.00% | ~7,000 |
 | Gentleman's classic | 2.00% | ~4,667 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~467 |
 | Memory 5 | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,334 (Ranked 44)  
+Progressed: 233,342 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 7 (0.00%) (Ranked 228)
 | 2023-06-19 | 232,878 | 7 |
 | 2023-06-20 | 233,022 | 7 |
 | 2023-06-21 | 233,207 | 7 |
-| 2023-06-22 | 233,334 | 7 |
+| 2023-06-22 | 233,342 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 358)  
 Sum: 74 (Ranked 421)  

@@ -3,12 +3,12 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 75,
-  "Ranking_Popularity": 122,
+  "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5556,11 +5556,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 10847,
       "NumberOfAwardsMax": 1396
+    },
+    {
+      "Time": "2023-06-22T19:58:01.6049534+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 10852,
+      "NumberOfAwardsMax": 1401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10847,
-  "NumberOfAwardsMax": 1396,
+  "NumberOfAwards": 10852,
+  "NumberOfAwardsMax": 1401,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -5603,7 +5609,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1396
+      "Count": 1401
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5641,8 +5647,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-06-22T16:57:59.0679833+00:00",
+  "LastChanged": "2023-06-22T19:58:01.6049532+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:23.6265869+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:58:01.3090889+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:04:32.4246327+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:58:01.6049539+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:04:29.5197028+00:00"
 }

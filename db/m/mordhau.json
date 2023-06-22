@@ -4,11 +4,11 @@
   "ProductSlug": "mordhau",
   "Ranking_Rating": 673,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-04-29T00:00:00+00:00",
@@ -1834,10 +1834,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 1745,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2023-06-22T20:00:12.728653+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 1754,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1745,
+  "NumberOfAwards": 1754,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1851,7 +1857,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 264
+      "Count": 273
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1898,8 +1904,8 @@
   ],
   "EOS_Progressed": 1439039,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 11711,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 11599,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -8902,9 +8908,9 @@
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2023-06-22T18:01:30.6627632+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:03:59.0376342+00:00",
+  "LastChanged": "2023-06-22T20:00:12.7286528+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:04:04.9730039+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:44.6964202+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:01:01.3245189+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:03:59.0377422+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:00:12.7286534+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:04:04.9731269+00:00"
 }

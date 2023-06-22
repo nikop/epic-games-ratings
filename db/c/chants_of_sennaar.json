@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "META_RESULT_1-3",
@@ -282,8 +282,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:02:07.2701089+00:00",
+  "LastChanged_Achievements": "2023-06-22T20:00:39.666451+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.239291+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:59:39.9351618+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:01:39.4358589+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:59:13.6225661+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:00:39.6664706+00:00"
 }

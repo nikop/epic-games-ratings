@@ -23,7 +23,7 @@
 | In this together | 38.00% | ~3 |
 | Peace walker | 25.00% | ~2 |
 | Half the way | 25.00% | ~2 |
-| Open door | 13.00% | ~1 |
+| Open door | 25.00% | ~2 |
 | Free at last | 13.00% | ~1 |
 | A great audience | 13.00% | ~1 |
 | For its own good | 13.00% | ~1 |

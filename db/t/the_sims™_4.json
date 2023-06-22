@@ -4,11 +4,11 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 365,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 170,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -3312,6 +3312,6 @@
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "LastChanged": "2023-06-22T16:57:56.002383+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.0789564+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:57:58.3817206+00:00",
-  "LastUpdate_Achievements": "2023-06-22T19:04:15.5363249+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:57:59.6238652+00:00",
+  "LastUpdate_Achievements": "2023-06-22T20:04:16.8855638+00:00"
 }
