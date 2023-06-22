@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.25 (Ranked 799)  
+Rating: 4.25 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.25 (Ranked 799)
 | HONORS STUDENT | 37.00% | ~130 |
 | BUTCHER | 26.00% | ~92 |
 | RAMBO | 22.00% | ~77 |
+| MARTYR | 21.00% | ~74 |
 | INDIVIDUAL APPROACH | 20.00% | ~70 |
-| MARTYR | 20.00% | ~70 |
 | CELEBRITY | 18.00% | ~63 |
 | HELL'S KITCHEN | 18.00% | ~63 |
 | GRATITUDE | 17.00% | ~60 |

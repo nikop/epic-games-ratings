@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,919 |
-| Thorough | 9.00% | ~16,127 |
+| Genin | 10.00% | ~17,921 |
+| Thorough | 9.00% | ~16,129 |
 | A thief's beginning | 8.00% | ~14,336 |
 | Disguised | 7.00% | ~12,544 |
 | Rollin' | 7.00% | ~12,544 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~179 |
 | Release the Kraken | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,194 (Ranked 56)  
+Progressed: 179,206 (Ranked 56)  
 Completed: 55 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 55 (0.03%) (Ranked 200)
 | 2023-06-19 | 178,583 | 54 |
 | 2023-06-20 | 178,877 | 54 |
 | 2023-06-21 | 179,186 | 55 |
-| 2023-06-22 | 179,194 | 55 |
+| 2023-06-22 | 179,206 | 55 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
 Sum: 4,685 (Ranked 128)  

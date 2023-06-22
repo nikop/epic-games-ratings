@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.10% | ~68 |
 | Vecna Out! | 0.10% | ~68 |
 | Bully for Vecna | 0.10% | ~68 |
+| Who Lurks Below? | 0.10% | ~68 |
 | Clowning Around | 0.10% | ~68 |
 | A Whale of a Time | 0.10% | ~68 |
 | Homecoming | 0.10% | ~102 |
@@ -31,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.10% | ~102 |
 | The Minions of Endelyn Moongrave | 0.10% | ~68 |
 | Between a Brigganock and a Hard Place | 0.10% | ~68 |
+| Love Unsoiled | 0.10% | ~68 |
 | The Play's the Thing! | 0.10% | ~68 |
 | The Bitter End | 0.10% | ~68 |
 | The Palace of Heart's Desire | 0.10% | ~68 |
@@ -166,6 +168,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.10% | ~102 |
 | A Tale of Two Cities | 0.10% | ~102 |
 | A Tale of Two Fiends | 0.10% | ~102 |
+| A Tale of Two Champions | 0.10% | ~102 |
 | A Tale of Two Years | 0.10% | ~68 |
 | The Dead Three | 0.10% | ~102 |
 | Slow and Steady | 0.10% | ~102 |
@@ -198,10 +201,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.10% | ~102 |
 | Vault of Pixies | 0.10% | ~102 |
 | Vault of Poison | 0.10% | ~102 |
+| Vault of Cuteness | 0.10% | ~68 |
 | Champions of Waterdeep | 0.10% | ~102 |
 | On The Job Learning | 0.10% | ~102 |
 | Take Five | 0.10% | ~68 |
 | Running of the Saurs | 0.10% | ~102 |
+| Lost in the Goblin Halls | 0.10% | ~102 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~68 |
 | The Twilight Grove | 0.10% | ~102 |
 | The Contagious Curse | 0.10% | ~102 |
@@ -232,6 +237,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.10% | ~68 |
 | Into The Fire | 0.10% | ~68 |
 | A Difficult Descent | 0.10% | ~68 |
+| The Devil Arrives | 0.10% | ~68 |
 | Hearts Aflame | 0.10% | ~68 |
 | Dreamscape | 0.10% | ~68 |
 | Dream Gauntlet | 0.10% | ~68 |
@@ -261,6 +267,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Brimstone | 0.10% | ~68 |
 | Into the Unknown | 0.10% | ~68 |
 | A Tenday at Golgamann's | 0.10% | ~68 |
+| A Nightmare Occasion | 0.10% | ~68 |
 | The Prison of Velkynvelve | 0.10% | ~68 |
 | Prisoners of Lolth | 0.10% | ~68 |
 | Prisoners of Unknown Choices | 0.10% | ~68 |
@@ -295,6 +302,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lone Wolf Party | 0.10% | ~68 |
 | The Sibriex | 0.10% | ~68 |
 | The Archduke's Blessing | 0.10% | ~68 |
+| A Neutral Party | 0.10% | ~68 |
 | Wrecked Flying Fortress | 0.10% | ~68 |
 | Relentless Peril | 0.10% | ~68 |
 | Rickety Rubble | 0.10% | ~68 |
@@ -308,6 +316,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~68 |
 | It's Cold Out There Every Day | 0.10% | ~68 |
 | The Bleeding Citadel | 0.10% | ~68 |
+| Going To Eleven | 0.10% | ~68 |
 | Idyllglen | 0.10% | ~68 |
 | Reya Reborn | 0.10% | ~68 |
 | The Radiant Nightmare | 0.10% | ~68 |
@@ -324,6 +333,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~68 |
 | Mimic Vengeance | 0.10% | ~68 |
 | REALLY Frozen Vengeance | 0.10% | ~68 |
+| The Battle of High Hall Tower | 0.10% | ~68 |
 | The Stunning Tower Battle | 0.10% | ~68 |
 | Gargauth's Betrayal | 0.10% | ~68 |
 | Lost in the Underdark | 0.10% | ~68 |
@@ -339,6 +349,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~68 |
 | Mysteries Unlocked | 0.10% | ~68 |
 | Pure Energy | 0.10% | ~102 |
+| Tekeli-li's Hunt | 0.10% | ~68 |
 | Working for the Weak End | 0.10% | ~68 |
 | Neutral No More | 0.10% | ~68 |
 | Fungal Excitation | 0.10% | ~68 |
@@ -460,10 +471,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.00% | ~0 |
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
-| Who Lurks Below? | 0.00% | ~0 |
 | Xanathaaaaaaar! | 0.00% | ~0 |
 | Taking Responsibility | 0.00% | ~0 |
-| Love Unsoiled | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
@@ -471,32 +480,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
 | The Madness Grows | 0.00% | ~0 |
-| A Tale of Two Champions | 0.00% | ~0 |
 | She's Harmless! | 0.00% | ~0 |
 | Madcap Adventures | 0.00% | ~0 |
-| Vault of Cuteness | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
-| Lost in the Goblin Halls | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | The Nimble Grove | 0.00% | ~0 |
 | The Misty Grove | 0.00% | ~0 |
 | All You Know Is Wrong | 0.00% | ~0 |
 | Shadow Stalkers | 0.00% | ~0 |
-| The Devil Arrives | 0.00% | ~0 |
 | Zombie Dreams | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
-| A Nightmare Occasion | 0.00% | ~0 |
-| A Neutral Party | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
 | The Madness of Yeenoghu | 0.00% | ~0 |
-| The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Elturel's Last Stand | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Male Pattern Boldness | 0.00% | ~0 |
-| Tekeli-li's Hunt | 0.00% | ~0 |
 | Cackling Horror | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,698 (Ranked 63)  
+Progressed: 101,814 (Ranked 63)  
 Completed: 1,975 (1.94%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 101,698 | 1,975 |
+| 2023-06-22 | 101,814 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,163 (Ranked 37)  

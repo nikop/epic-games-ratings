@@ -25,7 +25,7 @@ Rating: 4.33 (Ranked 750)
 | Are you not entertained? | 28.00% | ~330 |
 | Ganglord | 27.00% | ~318 |
 | Jarhead | 27.00% | ~318 |
-| Infiltrator | 26.00% | ~306 |
+| Infiltrator | 27.00% | ~318 |
 | Pushing Daisy | 25.00% | ~294 |
 | Experienced | 23.00% | ~271 |
 | There Can Be Only One! | 22.00% | ~259 |

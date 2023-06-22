@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-06-19T15:02:20.2409233+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T02:14:19.5669306+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -450,7 +455,7 @@
       "Name": "Marbleball Badge",
       "Percentage": 73,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -464,7 +469,7 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -490,7 +495,7 @@
       "Name": "Speedroller Rookie",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -513,14 +518,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:03:38.0207545+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:14:19.5669299+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:03.5804095+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:57:44.0510801+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:03:38.0207668+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:09:06.2768362+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:14:19.5669391+00:00"
 }

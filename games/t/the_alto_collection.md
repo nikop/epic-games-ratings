@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,412 |
-| Rookie | 25.00% | ~6,863 |
-| Nomad | 18.00% | ~4,942 |
-| Picking Up Speed | 17.00% | ~4,667 |
-| Welcome Maya | 16.00% | ~4,392 |
-| Sightseer | 11.00% | ~3,020 |
-| Scout | 10.00% | ~2,745 |
-| Amateur | 9.00% | ~2,471 |
-| Wanderer | 9.00% | ~2,471 |
-| Enter Paz | 8.00% | ~2,196 |
+| Finding Your Footing | 27.00% | ~7,415 |
+| Rookie | 25.00% | ~6,866 |
+| Nomad | 18.00% | ~4,943 |
+| Picking Up Speed | 17.00% | ~4,669 |
+| Welcome Maya | 16.00% | ~4,394 |
+| Sightseer | 11.00% | ~3,021 |
+| Scout | 10.00% | ~2,746 |
+| Amateur | 9.00% | ~2,472 |
+| Wanderer | 9.00% | ~2,472 |
+| Enter Paz | 8.00% | ~2,197 |
 | Unlock Maya | 7.00% | ~1,922 |
-| Aviator | 6.00% | ~1,647 |
-| One With The Board | 6.00% | ~1,647 |
+| Aviator | 6.00% | ~1,648 |
+| One With The Board | 6.00% | ~1,648 |
 | My Little Friend | 5.00% | ~1,373 |
 | Voyager | 5.00% | ~1,373 |
-| Sandboarder | 4.00% | ~1,098 |
-| Izel Has Arrived | 4.00% | ~1,098 |
+| Sandboarder | 4.00% | ~1,099 |
+| Izel Has Arrived | 4.00% | ~1,099 |
 | Junkie | 3.00% | ~824 |
 | Traveler | 3.00% | ~824 |
 | Journeyer | 3.00% | ~824 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~27 |
 | Windswept | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,453 (Ranked 93)  
+Progressed: 27,463 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,11 +109,11 @@ Completed: 5 (0.02%) (Ranked 208)
 | 2023-06-19 | 27,136 | 5 |
 | 2023-06-20 | 27,278 | 5 |
 | 2023-06-21 | 27,447 | 5 |
-| 2023-06-22 | 27,453 | 5 |
+| 2023-06-22 | 27,463 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 45  (Ranked 406)  
+Max (Great for Quick Sessions): 45  (Ranked 407)  
 Sum: 347 (Ranked 320)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 45 |

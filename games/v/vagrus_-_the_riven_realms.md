@@ -28,6 +28,7 @@
 | Harbinger | 0.90% | ~1 |
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
+| Been There | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
 | Trouble at Fort Larius | 0.90% | ~1 |
@@ -61,7 +62,6 @@
 | Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
-| Been There | 0.00% | ~0 |
 | Business As Usual | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
 | Forged in Battle | 0.00% | ~0 |

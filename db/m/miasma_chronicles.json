@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 1177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2239,9 +2239,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 318
     },
     {
       "ID": "LUMBERJACK",
@@ -2400,8 +2400,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:03:48.4681047+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:14:28.1710419+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:59:14.5065246+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:03:48.4682057+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:10:35.0766586+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:14:28.1710889+00:00"
 }

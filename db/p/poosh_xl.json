@@ -3,8 +3,8 @@
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.57,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -599,6 +599,11 @@
       "Time": "2023-06-20T04:04:59.9535999+00:00",
       "NumProgressed": 127,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T02:16:24.2777791+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -610,7 +615,7 @@
       "Name": "Challenge 01",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Challenge 02",
@@ -706,7 +711,7 @@
       "Name": "Destroyed 25 Obstacles",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Obtain 50 PowerUps",
@@ -714,7 +719,7 @@
       "Name": "Obtained 50 PowerUps",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Poosh Past 10000",
@@ -728,7 +733,7 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 25,
       "UsersEstimate": 90
     },
@@ -746,7 +751,7 @@
       "Name": "Pooshed Past 7500",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Poosh over 250000",
@@ -760,22 +765,22 @@
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:05:25.6842321+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:16:24.2777784+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.2495836+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:58:13.0112691+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:05:25.6842515+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:09:31.8750541+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:16:24.2777967+00:00"
 }

@@ -4922,9 +4922,9 @@
       "ID": "tpote_achievement_4",
       "SetID": "3jcf6c3",
       "Name": "Tattletale",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5636
     },
     {
       "ID": "tpote_achievement_40",
@@ -4994,8 +4994,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:07:43.3585494+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:18:39.7823684+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-22T00:01:53.8337563+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:07:43.3586154+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:12:55.407516+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:18:39.7824147+00:00"
 }

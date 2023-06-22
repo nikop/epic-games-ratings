@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~129 |
-| Starting Skyward | 52.00% | ~116 |
+| In the Black | 58.00% | ~130 |
+| Starting Skyward | 51.00% | ~114 |
 | Grime is Not Good | 46.00% | ~103 |
 | Campaign Launch | 39.00% | ~87 |
 | Floor Galore | 38.00% | ~85 |
 | Dinner Dash | 37.00% | ~83 |
-| Need a Consult | 35.00% | ~78 |
-| It's Technical | 35.00% | ~78 |
+| Need a Consult | 34.00% | ~76 |
+| It's Technical | 34.00% | ~76 |
 | Upgrade Unlock | 33.00% | ~74 |
 | Delegate Maintenance | 33.00% | ~74 |
 | Proper Walls | 31.00% | ~69 |
 | Destination Destiny | 27.00% | ~60 |
 | Happy Tenants | 25.00% | ~56 |
-| Your Prestige is Rising | 23.00% | ~51 |
-| Potent Potables | 23.00% | ~51 |
-| Smooth Service | 23.00% | ~51 |
+| Your Prestige is Rising | 23.00% | ~52 |
+| Potent Potables | 23.00% | ~52 |
+| Smooth Service | 23.00% | ~52 |
 | Retail Revenue | 22.00% | ~49 |
-| Leveled Up Shops | 22.00% | ~49 |
 | Lux Living | 21.00% | ~47 |
+| Leveled Up Shops | 21.00% | ~47 |
 | Don't Feel a Loan | 20.00% | ~45 |
 | People Mover | 20.00% | ~45 |
 | Emporium Empire | 20.00% | ~45 |
@@ -34,20 +34,20 @@
 | Under One Roof | 16.00% | ~36 |
 | Established Fame | 16.00% | ~36 |
 | Cashflow Chief | 16.00% | ~36 |
-| Starred Dining | 15.00% | ~33 |
-| Boutique Benefits | 15.00% | ~33 |
-| Terrifically Trashed | 15.00% | ~33 |
+| Starred Dining | 15.00% | ~34 |
+| Boutique Benefits | 15.00% | ~34 |
+| Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 14.00% | ~31 |
 | Smooth Operator | 13.00% | ~29 |
 | Swimming in Surplus | 13.00% | ~29 |
 | 28 Days Later | 11.00% | ~25 |
-| Aestheticly Pleased | 9.00% | ~20 |
 | Plaza Plan | 9.00% | ~20 |
 | Master of Puppets | 9.00% | ~20 |
 | Refined Palates | 9.00% | ~20 |
-| Revenue Royalty | 9.00% | ~20 |
 | First 100 Days | 8.00% | ~18 |
+| Aestheticly Pleased | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
+| Revenue Royalty | 8.00% | ~18 |
 | Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | Meet Me at HQ | 7.00% | ~16 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223 (Ranked 251)  
+Progressed: 224 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-17 | 221 | 0 |
 | 2023-06-18 | 222 | 0 |
 | 2023-06-19 | 223 | 0 |
+| 2023-06-22 | 224 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

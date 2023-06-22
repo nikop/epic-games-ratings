@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -652,6 +652,11 @@
       "Time": "2023-06-21T02:11:57.4875703+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T02:19:10.9346733+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -933,9 +938,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "FELIZ_2",
@@ -1047,7 +1052,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1095,7 +1100,7 @@
       "Name": "Small town",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "POPULATION_2",
@@ -1269,9 +1274,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "WELFARE_1",
@@ -1294,7 +1299,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
@@ -1302,8 +1307,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:08:18.0595505+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:19:10.9346728+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:28.8250127+00:00",
-  "LastUpdate_Ratings": "2023-06-22T00:00:05.5493789+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:08:18.0597928+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:11:20.8610078+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:19:10.9347417+00:00"
 }

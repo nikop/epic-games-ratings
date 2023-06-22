@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "BeginningOfTheEnd",
       "SetID": "4nce15l",
       "Name": "Beginning of the End",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Bling",
@@ -169,9 +169,9 @@
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "GettingItDone",
@@ -185,9 +185,9 @@
       "ID": "MasterCrafter",
       "SetID": "4nce15l",
       "Name": "Master Crafter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MasterTrader",
@@ -225,9 +225,9 @@
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ReadyToRock",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:07:43.2011336+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:18:39.6554053+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.2117335+00:00",
-  "LastUpdate_Ratings": "2023-06-22T00:00:19.8202577+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:07:43.2011488+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:11:36.4858902+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:18:39.655418+00:00"
 }

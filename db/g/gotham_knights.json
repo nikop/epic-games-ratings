@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1694,9 +1694,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65813,
+  "EOS_Progressed": 65820,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7274,6 +7274,11 @@
       "Time": "2023-06-22T00:08:17.7262863+00:00",
       "NumProgressed": 65813,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-22T02:19:10.6542036+00:00",
+      "NumProgressed": 65820,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 61,
@@ -7333,7 +7338,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -7509,7 +7514,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "FREEZE_1_5",
@@ -7597,7 +7602,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "HARLEY_3",
@@ -7661,7 +7666,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -7685,7 +7690,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "MYSTERY_03",
@@ -7693,7 +7698,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "MYSTERY_04",
@@ -7772,13 +7777,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65813,
+      "Progressed": 65820,
       "Completed": 96
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36093,
+      "Progressed": 36100,
       "Completed": 2646
     }
   ],
@@ -7786,8 +7791,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-21T19:01:40.1682897+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:08:17.7262858+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:19:10.654203+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.8383594+00:00",
-  "LastUpdate_Ratings": "2023-06-22T00:01:32.235925+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:08:17.7264062+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:12:34.5910864+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:19:10.6542747+00:00"
 }

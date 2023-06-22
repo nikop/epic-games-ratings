@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "achMeat",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:06:25.2186537+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:17:23.9679378+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.7260663+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:57:32.529297+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:06:25.2186729+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:08:50.0603865+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:17:23.9679513+00:00"
 }

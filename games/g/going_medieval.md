@@ -9,7 +9,7 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 72.00% | ~2,858 |
 | Having A Field Day | 71.00% | ~2,818 |
 | Reap What You Sow | 69.00% | ~2,739 |
-| The First Day | 65.00% | ~2,580 |
+| The First Day | 66.00% | ~2,620 |
 | Green Thumb | 64.00% | ~2,540 |
 | Novice Researcher | 62.00% | ~2,461 |
 | Putting Food on the Table | 59.00% | ~2,342 |
@@ -27,8 +27,8 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 27.00% | ~1,072 |
 | Winter Is Coming | 23.00% | ~913 |
 | Winter Is Here | 20.00% | ~794 |
+| A Party Now | 18.00% | ~714 |
 | Disassembled | 17.00% | ~675 |
-| A Party Now | 17.00% | ~675 |
 | Oh Deer! | 17.00% | ~675 |
 | All Year Round | 17.00% | ~675 |
 | Nothing Wasted | 11.00% | ~437 |

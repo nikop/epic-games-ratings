@@ -5,9 +5,9 @@
   "Ranking_Rating": 621,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 478,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1664,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1312,9 +1312,9 @@
       "ID": "ACH_IT_ALL_DIES",
       "SetID": "8j30i9k",
       "Name": "End the world",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_I_KICKED_A_BIRD_AND_I_LIKED_IT",
@@ -1440,9 +1440,9 @@
       "ID": "ACH_PIT_FIGHTER",
       "SetID": "8j30i9k",
       "Name": "Winter Has Come",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_POWER_BEHIND_THE_PULPIT",
@@ -1464,9 +1464,9 @@
       "ID": "ACH_REVENANT",
       "SetID": "8j30i9k",
       "Name": "Revenant",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SCHOLAR",
@@ -1616,8 +1616,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:29.8963992+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:13:42.0159916+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.0482083+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:59:34.1545893+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:29.8964376+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:10:51.9156029+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:13:42.0160676+00:00"
 }

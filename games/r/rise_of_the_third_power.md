@@ -16,14 +16,14 @@
 | Teamwork | 24.00% | ~31 |
 | Ready to Rock | 23.00% | ~30 |
 | Determined | 21.00% | ~28 |
-| Beginning of the End | 19.00% | ~25 |
+| Beginning of the End | 20.00% | ~26 |
 | Bling | 19.00% | ~25 |
-| Geared | 17.00% | ~22 |
+| Geared | 18.00% | ~24 |
+| Master Crafter | 13.00% | ~17 |
 | Master Trader | 13.00% | ~17 |
-| Master Crafter | 12.00% | ~16 |
 | Mysteries of Rin | 12.00% | ~16 |
 | Empyrean Champion | 10.00% | ~13 |
-| Patience | 9.00% | ~12 |
+| Patience | 10.00% | ~13 |
 | Master Tactician | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 278)  

@@ -53,14 +53,14 @@ Number of Ratings: 125  (23.09.2022)
 | I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
 | 'Ma Barker | 1.00% | ~17 |
+| End the world | 0.50% | ~8 |
 | Dirt and Blame | 0.40% | ~7 |
 | Explorer | 0.40% | ~7 |
-| End the world | 0.40% | ~7 |
 | Moon Hunter | 0.40% | ~7 |
-| Revenant | 0.30% | ~5 |
-| Winter Has Come | 0.20% | ~3 |
+| Revenant | 0.40% | ~7 |
+| Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,664 (Ranked 163)  
+Progressed: 1,664 (Ranked 164)  
 Completed: 2 (0.12%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

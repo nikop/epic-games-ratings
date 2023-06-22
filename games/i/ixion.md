@@ -27,10 +27,10 @@ Rating: 4.57 (Ranked 442)
 | Convenient Transport | 4.00% | ~108 |
 | Please Make it Stop! | 4.00% | ~108 |
 | From the Past | 4.00% | ~108 |
+| Oats | 3.00% | ~81 |
 | Sightseeing | 3.00% | ~81 |
 | Access Granted | 3.00% | ~81 |
 | All in Good Health | 3.00% | ~81 |
-| Oats | 2.00% | ~54 |
 | What They Hide From Us | 2.00% | ~54 |
 | ...  in a finite world | 2.00% | ~54 |
 | Sustainable Energy | 2.00% | ~54 |

@@ -4432,9 +4432,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101698,
+  "EOS_Progressed": 101814,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 10973,
+  "EOS_NewPlayers": 11087,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10912,6 +10912,11 @@
       "Time": "2023-06-22T00:08:25.8837569+00:00",
       "NumProgressed": 101698,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T02:19:17.8631245+00:00",
+      "NumProgressed": 101814,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11825,9 +11830,9 @@
       "ID": "objective_completed_1213",
       "SetID": "415jc5c",
       "Name": "Who Lurks Below?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_1214",
@@ -11945,9 +11950,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_1331",
@@ -13089,9 +13094,9 @@
       "ID": "objective_completed_542",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_543",
@@ -13369,9 +13374,9 @@
       "ID": "objective_completed_583",
       "SetID": "415jc5c",
       "Name": "Vault of Cuteness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_585",
@@ -13417,9 +13422,9 @@
       "ID": "objective_completed_590",
       "SetID": "cc37lbc",
       "Name": "Lost in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_591",
@@ -13705,9 +13710,9 @@
       "ID": "objective_completed_632",
       "SetID": "415jc5c",
       "Name": "The Devil Arrives",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_633",
@@ -13961,9 +13966,9 @@
       "ID": "objective_completed_682",
       "SetID": "415jc5c",
       "Name": "A Nightmare Occasion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_685",
@@ -14241,9 +14246,9 @@
       "ID": "objective_completed_814",
       "SetID": "415jc5c",
       "Name": "A Neutral Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_817",
@@ -14361,9 +14366,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_842",
@@ -14505,9 +14510,9 @@
       "ID": "objective_completed_867",
       "SetID": "415jc5c",
       "Name": "The Battle of High Hall Tower",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_868",
@@ -14673,9 +14678,9 @@
       "ID": "objective_completed_902",
       "SetID": "415jc5c",
       "Name": "Tekeli-li\u0027s Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_903",
@@ -14946,21 +14951,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 67972,
+      "Progressed": 68088,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101698,
+      "Progressed": 101814,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-22T00:08:25.8837564+00:00",
+  "LastChanged_Achievements": "2023-06-22T02:19:17.863124+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:58:55.7064699+00:00",
-  "LastUpdate_Achievements": "2023-06-22T00:08:25.8864702+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:10:16.8417125+00:00",
+  "LastUpdate_Achievements": "2023-06-22T02:19:17.8653549+00:00"
 }
