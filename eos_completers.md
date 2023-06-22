@@ -15,7 +15,7 @@
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.89% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -76,7 +76,7 @@
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.83% |
+| 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.82% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
@@ -101,11 +101,11 @@
 | 99 | [Adios](games/a/adios.md) | 0.91% |
 | 100 | [Hades](games/h/hades.md) | 0.89% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 103 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 105 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 105 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.73% |
 | 108 | [Haven](games/h/haven.md) | 0.70% |
 | 109 | [Them and Us](games/t/them_and_us.md) | 0.69% |
