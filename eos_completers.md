@@ -16,7 +16,7 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.97% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.94% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
@@ -24,14 +24,14 @@
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
-| 25 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
-| 28 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
+| 27 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.14% |
+| 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.06% |
+| 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
 | 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
@@ -63,8 +63,8 @@
 | 61 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.47% |
-| 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.45% |
+| 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.37% |
@@ -98,10 +98,10 @@
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
 | 98 | [Sable](games/s/sable.md) | 0.96% |
-| 99 | [Adios](games/a/adios.md) | 0.90% |
+| 99 | [Adios](games/a/adios.md) | 0.91% |
 | 100 | [Hades](games/h/hades.md) | 0.89% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 103 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 105 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -125,8 +125,8 @@
 | 122 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
 | 124 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
+| 126 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 126 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
-| 127 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.43% |
 | 129 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 130 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |

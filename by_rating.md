@@ -191,7 +191,7 @@
 | 179 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 497 |
 | 179 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 497 |
 | 179 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 497 |
-| 179 | [shapez](games/s/shapez.md) | 4.71 | 193 | 268 |
+| 179 | [shapez](games/s/shapez.md) | 4.71 | 196 | 267 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 313 |
 | 179 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 497 |
 | 179 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 497 |
@@ -476,7 +476,7 @@
 | 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 497 |
 | 455 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 77 | 355 |
 | 455 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 51 | 390 |
-| 455 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,052 | 76 |
+| 455 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,056 | 76 |
 | 478 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 497 |
 | 478 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 497 |
 | 478 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,254 | 128 |
@@ -507,7 +507,7 @@
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
 | 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,264 | 17 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 434 |
-| 504 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 142,272 | 7 |
+| 504 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 142,355 | 7 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 497 |
 | 504 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 497 |
 | 504 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 476 |
@@ -652,7 +652,7 @@
 | 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 497 |
 | 633 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 384 |
 | 652 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 497 |
-| 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 194 | 267 |
+| 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 194 | 268 |
 | 652 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 497 |
 | 652 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 497 |
 | 652 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 370 |
