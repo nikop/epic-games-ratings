@@ -19,15 +19,15 @@
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.86% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.09% |
+| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.70% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.41% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
-| 26 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 28 | [Scorn](games/s/scorn.md) | 6.84% |
+| 27 | [Scorn](games/s/scorn.md) | 6.84% |
+| 28 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
@@ -51,8 +51,8 @@
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.13% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
+| 53 | [Bunny Park](games/b/bunny_park.md) | 3.11% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -77,8 +77,8 @@
 | 75 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
-| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.80% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
+| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.76% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.56% |
@@ -138,11 +138,11 @@
 | 136 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 136 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 138 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 138 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 138 | [The Surge](games/t/the_surge.md) | 0.32% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 141 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 145 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 145 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
