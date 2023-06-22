@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,333 |
+| Fish Just Got Reel | 75.00% | ~3,334 |
 | Hey Good Hookin | 65.00% | ~2,889 |
 | I'm on a Boat! | 56.00% | ~2,489 |
 | Can you smell what the Rod is Hooking | 50.00% | ~2,222 |
@@ -15,8 +15,8 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 41.00% | ~1,822 |
 | License to Gill | 33.00% | ~1,467 |
 | Fish Out of Water | 32.00% | ~1,422 |
-| Things that go Splash in the Night | 26.00% | ~1,155 |
-| Goldfish? | 26.00% | ~1,155 |
+| Things that go Splash in the Night | 26.00% | ~1,156 |
+| Goldfish? | 26.00% | ~1,156 |
 | Going for Gold | 24.00% | ~1,067 |
 | I'm Hooked! | 18.00% | ~800 |
 | More than a Tourist | 12.00% | ~533 |
@@ -31,8 +31,8 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 1.00% | ~44 |
 | Rod and Troll | 1.00% | ~38 |
 | Head for Heights | 0.60% | ~27 |
-| Lake Me up Before You Go Go | 0.50% | ~22 |
-| Fish upon a Star | 0.50% | ~19 |
+| Lake Me up Before You Go Go | 0.40% | ~18 |
+| Fish upon a Star | 0.40% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~9 |
 | Buckaroo | 0.20% | ~9 |
 | Trollsporet Tale Teller | 0.20% | ~8 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,444 (Ranked 133)  
+Progressed: 4,445 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,11 +105,11 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 4,414 | 0 |
 | 2023-06-20 | 4,425 | 0 |
 | 2023-06-21 | 4,440 | 0 |
-| 2023-06-22 | 4,444 | 0 |
+| 2023-06-22 | 4,445 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 444)  
-Sum: 158 (Ranked 382)  
-Diff (max vs sum): 62  
+Sum: 158 (Ranked 383)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

@@ -5,8 +5,8 @@ Rating: 4.44 (Ranked 632)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,001 |
-| Predator I | 22.00% | ~55,355 |
+| Survivor | 31.00% | ~78,003 |
+| Predator I | 22.00% | ~55,357 |
 | Fixer I | 10.00% | ~25,162 |
 | A week in Century City | 10.00% | ~25,162 |
 | The Wait | 7.00% | ~17,613 |
@@ -18,7 +18,7 @@ Rating: 4.44 (Ranked 632)
 | Pacifist | 4.00% | ~10,065 |
 | Vandalism | 4.00% | ~10,065 |
 | Capitalist I | 4.00% | ~10,065 |
-| Adrenaline | 3.00% | ~7,548 |
+| Adrenaline | 3.00% | ~7,549 |
 | By a hair | 2.00% | ~5,032 |
 | Fixer II | 2.00% | ~5,032 |
 | It took a while | 2.00% | ~5,032 |
@@ -62,8 +62,8 @@ Rating: 4.44 (Ranked 632)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,615 (Ranked 42)  
-Completed: 1 (0.00%) (Ranked 228)  
+Progressed: 251,621 (Ranked 42)  
+Completed: 2 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,11 +125,11 @@ Completed: 1 (0.00%) (Ranked 228)
 | 2023-06-19 | 251,448 | 1 |
 | 2023-06-20 | 251,507 | 1 |
 | 2023-06-21 | 251,581 | 1 |
-| 2023-06-22 | 251,615 | 1 |
+| 2023-06-22 | 251,621 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 459)  
-Sum: 139 (Ranked 388)  
-Diff (max vs sum): 71  
+Sum: 159 (Ranked 381)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 28 |
@@ -138,6 +138,7 @@ Diff (max vs sum): 71
 | This game has Quickly Understood Controls | 20 |
 | This game has Challenging Combat | 20 |
 | This game has a Competitive Community | 20 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,3 +223,4 @@ Diff (max vs sum): 71
 | 2023-06-16 | 4.43 | 27 | 137 |
 | 2023-06-19 | 4.44 | 27 | 138 |
 | 2023-06-20 | 4.44 | 28 | 139 |
+| 2023-06-22 | 4.44 | 28 | 159 |

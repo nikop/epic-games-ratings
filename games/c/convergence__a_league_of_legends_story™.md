@@ -11,19 +11,19 @@
 | Rail Rat | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
-| Time Flies | 12.00% | ~86 |
-| The Prince in Heels | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
-| The Brass Boss | 12.00% | ~86 |
-| The Betrayer | 11.00% | ~78 |
-| The Harder They Fall | 11.00% | ~78 |
-| No, Thanks! | 11.00% | ~78 |
-| Breaking Down Barriers | 11.00% | ~78 |
-| The Wicked Twins | 11.00% | ~78 |
-| Honest Mistake | 11.00% | ~78 |
-| Golem Chaser | 11.00% | ~78 |
-| Fast Learner | 11.00% | ~78 |
-| Immaculate Aim | 11.00% | ~78 |
+| The Betrayer | 11.00% | ~79 |
+| Time Flies | 11.00% | ~79 |
+| The Harder They Fall | 11.00% | ~79 |
+| No, Thanks! | 11.00% | ~79 |
+| Breaking Down Barriers | 11.00% | ~79 |
+| The Wicked Twins | 11.00% | ~79 |
+| The Prince in Heels | 11.00% | ~79 |
+| Honest Mistake | 11.00% | ~79 |
+| Golem Chaser | 11.00% | ~79 |
+| Fast Learner | 11.00% | ~79 |
+| Immaculate Aim | 11.00% | ~79 |
+| The Brass Boss | 11.00% | ~79 |
 | Like Clockwork | 10.00% | ~71 |
 | Street Style | 10.00% | ~71 |
 | The Man Who Shattered Time | 10.00% | ~71 |
@@ -36,6 +36,7 @@
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
+| Factorywood Explorer | 6.00% | ~43 |
 | Syron for Hope | 6.00% | ~43 |
 | Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
@@ -43,7 +44,6 @@
 | Sartorialist | 5.00% | ~36 |
 | Cultivair Explorer | 5.00% | ~36 |
 | Entresol Explorer | 5.00% | ~36 |
-| Factorywood Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~21 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 195)  
+Progressed: 714 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,3 +92,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-18 | 708 | 3 |
 | 2023-06-19 | 709 | 4 |
 | 2023-06-20 | 713 | 4 |
+| 2023-06-22 | 714 | 4 |

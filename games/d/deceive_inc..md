@@ -11,10 +11,10 @@ Rating: 4.65 (Ranked 297)
 | The Spy who eliminated me | 46.00% | ~3,176 |
 | Never Say Loser Again | 40.00% | ~2,762 |
 | For your Eyes only | 39.00% | ~2,693 |
-| From the Vault with Love | 37.00% | ~2,554 |
-| Tailor-Made | 37.00% | ~2,554 |
-| Fully Decked Out | 35.00% | ~2,416 |
-| You Only Live Twice | 32.00% | ~2,209 |
+| From the Vault with Love | 37.00% | ~2,555 |
+| Tailor-Made | 37.00% | ~2,555 |
+| Fully Decked Out | 35.00% | ~2,417 |
+| You Only Live Twice | 32.00% | ~2,210 |
 | A view to Win | 27.00% | ~1,864 |
 | Private Collection | 25.00% | ~1,726 |
 | Smells Like Trouble | 25.00% | ~1,726 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 297)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,904 (Ranked 121)  
+Progressed: 6,905 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 6,867 | 0 |
 | 2023-06-20 | 6,882 | 0 |
 | 2023-06-21 | 6,897 | 0 |
-| 2023-06-22 | 6,904 | 0 |
+| 2023-06-22 | 6,905 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@ Rating: 4.48 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
-| Meeting Resistance | 0.90% | ~28 |
 | Confirming Suspicions | 0.90% | ~28 |
+| Taking it back | 0.80% | ~25 |
 | The Kraken Wakes | 0.70% | ~22 |
 | Change the Channel | 0.70% | ~22 |
-| Taking it back | 0.70% | ~22 |
 | Target America | 0.70% | ~22 |
 | Just a Flesh Wound | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
@@ -20,17 +20,17 @@ Rating: 4.48 (Ranked 582)
 | Liberté | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
 | Resourceful | 0.50% | ~15 |
+| As Quiet as a Mouse | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | No Stone Unturned | 0.40% | ~12 |
 | Organ Grinder | 0.40% | ~12 |
 | Gunslinger | 0.40% | ~12 |
+| Skirmisher | 0.40% | ~12 |
+| Precision Is Key | 0.40% | ~12 |
+| Die Nussknacker Sweet! | 0.40% | ~12 |
 | Der Geist | 0.40% | ~12 |
-| As Quiet as a Mouse | 0.40% | ~12 |
 | Brains of the Operation | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |
-| Skirmisher | 0.30% | ~9 |
-| Precision Is Key | 0.30% | ~9 |
-| Die Nussknacker Sweet! | 0.30% | ~9 |
 | Close Quarters | 0.30% | ~9 |
 | Snake in the Grass | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |

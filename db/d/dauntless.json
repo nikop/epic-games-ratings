@@ -3,12 +3,12 @@
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 18,
+  "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -5916,18 +5916,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 50625,
       "NumberOfAwardsMax": 20264
+    },
+    {
+      "Time": "2023-06-22T15:59:08.2824662+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 50633,
+      "NumberOfAwardsMax": 20272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50625,
-  "NumberOfAwardsMax": 20264,
+  "NumberOfAwards": 50633,
+  "NumberOfAwardsMax": 20272,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20264
+      "Count": 20272
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6001,8 +6007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-06-22T14:00:29.9698058+00:00",
+  "LastChanged": "2023-06-22T15:59:08.282466+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.6763628+00:00",
-  "LastUpdate_Ratings": "2023-06-22T14:59:56.3326337+00:00",
-  "LastUpdate_Achievements": "2023-06-22T15:04:39.1996777+00:00"
+  "LastUpdate_Ratings": "2023-06-22T15:59:08.2824665+00:00",
+  "LastUpdate_Achievements": "2023-06-22T16:04:17.9998772+00:00"
 }

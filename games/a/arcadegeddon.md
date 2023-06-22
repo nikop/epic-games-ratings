@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,678 |
-| Photogenic | 88.00% | ~6,458 |
-| Surge Gauntlet Jockey | 85.00% | ~6,238 |
-| Plug It In | 84.00% | ~6,165 |
-| Adventure Time | 80.00% | ~5,871 |
-| Playing With Power | 77.00% | ~5,651 |
-| Coup d'Etat | 59.00% | ~4,330 |
+| Let's Get This Party Started | 91.00% | ~6,679 |
+| Photogenic | 88.00% | ~6,459 |
+| Surge Gauntlet Jockey | 85.00% | ~6,239 |
+| Plug It In | 84.00% | ~6,166 |
+| Adventure Time | 80.00% | ~5,872 |
+| Playing With Power | 77.00% | ~5,652 |
+| Coup d'Etat | 59.00% | ~4,331 |
 | You're Fired | 58.00% | ~4,257 |
 | Get Furious | 56.00% | ~4,110 |
-| Gunplay And Cosplay | 55.00% | ~4,036 |
-| Hacks In Stacks | 54.00% | ~3,963 |
-| Meching Enemies | 49.00% | ~3,596 |
+| Gunplay And Cosplay | 55.00% | ~4,037 |
+| Hacks In Stacks | 54.00% | ~3,964 |
+| Meching Enemies | 49.00% | ~3,597 |
 | Ticket Toddler | 45.00% | ~3,303 |
 | Booty Bashing | 43.00% | ~3,156 |
 | Here Comes a New Challenger | 38.00% | ~2,789 |
-| Field Medic | 37.00% | ~2,715 |
+| Field Medic | 37.00% | ~2,716 |
 | Rapid Response | 33.00% | ~2,422 |
 | Guardian Angel | 31.00% | ~2,275 |
 | Surge Ahead | 31.00% | ~2,275 |
 | The Full Monty | 31.00% | ~2,275 |
 | Poppin Noggins | 25.00% | ~1,835 |
 | Clips and Crits | 21.00% | ~1,541 |
-| Grey Goo | 19.00% | ~1,394 |
+| Grey Goo | 19.00% | ~1,395 |
 | Boss of Bosses | 15.00% | ~1,101 |
-| The Final Blow | 14.00% | ~1,027 |
+| The Final Blow | 14.00% | ~1,028 |
 | Light My Fire | 13.00% | ~954 |
 | To Be Continued | 13.00% | ~954 |
 | Seasoned Adventurer | 12.00% | ~881 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~29 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,339 (Ranked 119)  
+Progressed: 7,340 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 7,311 | 0 |
 | 2023-06-20 | 7,316 | 0 |
 | 2023-06-21 | 7,331 | 0 |
-| 2023-06-22 | 7,339 | 0 |
+| 2023-06-22 | 7,340 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 378)  
 Sum: 485 (Ranked 296)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1546,10 +1546,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2163,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-06-22T15:59:31.0357667+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2164,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2163,
+  "NumberOfAwards": 2164,
   "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1593,7 +1599,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game is Educational",
@@ -1620,7 +1626,7 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 19715,
+  "EOS_Progressed": 19716,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -4915,6 +4921,11 @@
       "Time": "2023-06-22T15:07:09.2006455+00:00",
       "NumProgressed": 19715,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-22T16:06:04.8630099+00:00",
+      "NumProgressed": 19716,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4974,7 +4985,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18532
+      "UsersEstimate": 18533
     },
     {
       "ID": "GameOver",
@@ -5109,15 +5120,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19715,
+      "Progressed": 19716,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-22T11:04:31.1278529+00:00",
-  "LastChanged_Achievements": "2023-06-22T15:07:09.2006449+00:00",
+  "LastChanged": "2023-06-22T15:59:31.0357666+00:00",
+  "LastChanged_Achievements": "2023-06-22T16:06:04.8630093+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:03.3961227+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:00:26.7726974+00:00",
-  "LastUpdate_Achievements": "2023-06-22T15:07:09.2006942+00:00"
+  "LastUpdate_Ratings": "2023-06-22T15:59:31.0357674+00:00",
+  "LastUpdate_Achievements": "2023-06-22T16:06:04.863039+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "swords-of-legends-online",
   "Ranking_Rating": 786,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-09T12:00:00+00:00",
     "PcReleaseDate": "2021-07-09T12:00:00+00:00",
@@ -694,10 +694,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2023-06-22T15:59:12.6004158+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 470,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 470,
   "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -760,6 +766,12 @@
       "Prefix": "This game is",
       "Type": "Educational",
       "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -773,8 +785,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2023-06-17T10:59:56.5686916+00:00",
+  "LastChanged": "2023-06-22T15:59:12.6004157+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:45.9857031+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:00:00.8109853+00:00",
-  "LastUpdate_Achievements": "2023-06-22T15:03:15.1942337+00:00"
+  "LastUpdate_Ratings": "2023-06-22T15:59:12.600416+00:00",
+  "LastUpdate_Achievements": "2023-06-22T16:03:15.6249855+00:00"
 }

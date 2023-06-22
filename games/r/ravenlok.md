@@ -47,7 +47,7 @@
 | Spot of Tea? | 33.00% | ~335 |
 | Going Home | 33.00% | ~335 |
 | Extraordinary! | 32.00% | ~325 |
-| Mirror, Mirror | 30.00% | ~305 |
+| Mirror, Mirror | 31.00% | ~315 |
 | Flower Power | 27.00% | ~274 |
 | Shopping Spree! | 24.00% | ~244 |
 | Crowned | 23.00% | ~234 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55336,
+  "EOS_Progressed": 55340,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4197,6 +4197,11 @@
       "Time": "2023-06-22T15:03:06.3264753+00:00",
       "NumProgressed": 55336,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-22T16:03:09.3761755+00:00",
+      "NumProgressed": 55340,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4296,7 +4301,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4981
     },
     {
       "ID": "FoolMeTwice",
@@ -4520,7 +4525,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "Teamwork",
@@ -4599,7 +4604,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55336,
+      "Progressed": 55340,
       "Completed": 4
     }
   ],
@@ -4607,8 +4612,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-22T15:03:06.3264746+00:00",
+  "LastChanged_Achievements": "2023-06-22T16:03:09.376175+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:02.7981608+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:01:44.9787912+00:00",
-  "LastUpdate_Achievements": "2023-06-22T15:03:06.32654+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:00:25.574763+00:00",
+  "LastUpdate_Achievements": "2023-06-22T16:03:09.3762248+00:00"
 }
