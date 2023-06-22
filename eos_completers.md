@@ -16,7 +16,7 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.94% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.91% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
@@ -26,8 +26,8 @@
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
-| 27 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.14% |
 | 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
+| 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -64,10 +64,10 @@
 | 62 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
-| 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 68 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.37% |
+| 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
+| 66 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
+| 67 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.37% |
+| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
@@ -188,12 +188,12 @@
 | 186 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 186 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
 | 186 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 186 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
 | 186 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 191 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
-| 191 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
-| 191 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 191 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 190 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
+| 190 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
+| 190 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 190 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.06% |
+| 190 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 195 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 195 | [House Party](games/h/house_party.md) | 0.05% |
 | 195 | [Saints Row](games/s/saints_row.md) | 0.05% |
