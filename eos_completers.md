@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.29% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 36.36% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.93% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -27,8 +27,8 @@
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
 | 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
-| 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
-| 29 | [Scorn](games/s/scorn.md) | 6.84% |
+| 28 | [Scorn](games/s/scorn.md) | 6.84% |
+| 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |

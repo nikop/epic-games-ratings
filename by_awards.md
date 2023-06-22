@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,156 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 187,995 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,520 | 4.19 | 844 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 152,144 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 152,480 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,355 | 4.53 | 504 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,665 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 70,263 | 4.62 | 349 |
@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,700 | 4.39 | 699 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,280 | 4.69 | 220 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,610 | 4.45 | 621 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 10,130 | 4.88 | 19 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 10,156 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,296 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,282 | 4.61 | 365 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,756 | 4.76 | 118 |
@@ -113,7 +113,7 @@
 | 111 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,786 | 4.56 | 455 |
 | 112 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,753 | 4.57 | 442 |
 | 113 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,747 | 4.63 | 332 |
-| 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,665 | 4.76 | 118 |
+| 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,667 | 4.76 | 118 |
 | 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,632 | 4.70 | 196 |
 | 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,619 | 4.51 | 532 |
 | 117 | [Celeste](games/c/celeste.md) | 1,492 | 4.92 | 4 |
@@ -143,7 +143,7 @@
 | 141 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 25 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,000 | 4.40 | 686 |
 | 143 | [Torchlight II](games/t/torchlight_ii.md) | 984 | 4.58 | 423 |
-| 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 951 | 4.31 | 766 |
+| 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 952 | 4.31 | 766 |
 | 145 | [Sonic Mania](games/s/sonic_mania.md) | 917 | 4.78 | 99 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 906 | 4.69 | 220 |
 | 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 874 | 4.75 | 133 |

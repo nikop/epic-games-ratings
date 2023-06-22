@@ -20,8 +20,8 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,210 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 298 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,081 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 152,144 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,130 | 35 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 152,480 | 6 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,156 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 479 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 497 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 262 | 242 |
@@ -125,7 +125,7 @@
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,175 | 73 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 497 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 497 |
-| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,665 | 114 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,667 | 114 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 46 | 404 |
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,756 | 38 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 497 |
@@ -767,7 +767,7 @@
 | 756 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 497 |
 | 766 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 497 |
 | 766 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.31 | 0 | 497 |
-| 766 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 951 | 144 |
+| 766 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 952 | 144 |
 | 766 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 497 |
 | 770 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 497 |
 | 770 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 497 |
@@ -934,9 +934,9 @@
 | 932 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 497 |
 | 932 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 497 |
 | 934 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 66 | 370 |
+| 935 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 497 |
 | 935 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 497 |
-| 936 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 0 | 497 |
-| 936 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 497 |
+| 937 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 497 |
 | 938 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 497 |
 | 938 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,043 | 138 |
 | 940 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 497 |
