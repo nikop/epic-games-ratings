@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 34.38% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.50% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -16,12 +16,12 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.91% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.89% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
@@ -38,7 +38,7 @@
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 38 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.35% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.72% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
@@ -49,8 +49,8 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.36% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.16% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
-| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.15% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
@@ -80,9 +80,9 @@
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.61% |
-| 82 | [Somerville](games/s/somerville.md) | 1.57% |
-| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.56% |
+| 81 | [Somerville](games/s/somerville.md) | 1.57% |
+| 82 | [Poosh XL](games/p/poosh_xl.md) | 1.56% |
+| 83 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.54% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
@@ -260,6 +260,7 @@
 | 228 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
 | 228 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 0.00% |
 | 228 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
+| 228 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 0.00% |
 | 228 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
 | 228 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
 | 228 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
@@ -463,4 +464,4 @@
 | 228 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 228 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,823 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,824 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

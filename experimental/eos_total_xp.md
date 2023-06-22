@@ -101,6 +101,7 @@
 | [Chants of Sennaar](../games/c/chants_of_sennaar.md) | 25 | 1,000 |
 | [Chaos Galaxy](../games/c/chaos_galaxy.md) | 48 | 1,000 |
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
+| [Chased by Darkness](../games/e/e6059b123f9045878919974afd435691.md) | 66 | 1,000 |
 | [Chef Life - A Restaurant Simulator](../games/c/chef_life_-_a_restaurant_simulator.md) | 40 | 1,000 |
 | [Chess Ultra](../games/c/chess_ultra.md) | 38 | 1,000 |
 | [Children of Silentown](../games/c/children_of_silentown.md) | 26 | 1,000 |
