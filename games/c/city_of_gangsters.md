@@ -5,27 +5,27 @@ Rating: 4.25 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~149,111 |
-| Copacetic Coordination | 16.00% | ~51,865 |
-| Fronting the Money | 14.00% | ~45,382 |
-| The Dawn of Automation | 14.00% | ~45,382 |
-| Extraordinary Logistics | 14.00% | ~45,382 |
-| Dirty Money | 13.00% | ~42,140 |
-| Family First | 13.00% | ~42,140 |
-| Cleaning House | 12.00% | ~38,898 |
-| Room in the Back | 12.00% | ~38,898 |
-| Booze Baron | 11.00% | ~35,657 |
-| Beating the Heat | 10.00% | ~32,415 |
-| Friends on the Force | 10.00% | ~32,415 |
-| Neighborhood Watch | 10.00% | ~32,415 |
-| Core Corps | 8.00% | ~25,932 |
-| Sizeable Stash | 7.00% | ~22,691 |
-| Street Fighter | 7.00% | ~22,691 |
-| Friendly Gestures | 7.00% | ~22,691 |
-| People Person | 7.00% | ~22,691 |
-| Liquor Lord | 6.00% | ~19,449 |
-| Safety in Numbers | 6.00% | ~19,449 |
-| Show ‘em the Sugar | 6.00% | ~19,449 |
+| Corner Clout | 46.00% | ~149,118 |
+| Copacetic Coordination | 16.00% | ~51,867 |
+| Fronting the Money | 14.00% | ~45,384 |
+| The Dawn of Automation | 14.00% | ~45,384 |
+| Extraordinary Logistics | 14.00% | ~45,384 |
+| Dirty Money | 13.00% | ~42,142 |
+| Family First | 13.00% | ~42,142 |
+| Cleaning House | 12.00% | ~38,900 |
+| Room in the Back | 12.00% | ~38,900 |
+| Booze Baron | 11.00% | ~35,659 |
+| Beating the Heat | 10.00% | ~32,417 |
+| Friends on the Force | 10.00% | ~32,417 |
+| Neighborhood Watch | 10.00% | ~32,417 |
+| Core Corps | 8.00% | ~25,934 |
+| Sizeable Stash | 7.00% | ~22,692 |
+| Street Fighter | 7.00% | ~22,692 |
+| Friendly Gestures | 7.00% | ~22,692 |
+| People Person | 7.00% | ~22,692 |
+| Liquor Lord | 6.00% | ~19,450 |
+| Safety in Numbers | 6.00% | ~19,450 |
+| Show ‘em the Sugar | 6.00% | ~19,450 |
 | Street Knowledge | 5.00% | ~16,208 |
 | Oh Captain | 5.00% | ~16,208 |
 | Branching Out | 5.00% | ~16,208 |
@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 798)
 | Mission Mastery | 5.00% | ~16,208 |
 | Wise Head | 5.00% | ~16,208 |
 | Killing Them Softly | 5.00% | ~16,208 |
-| Considerable Clams | 4.00% | ~12,966 |
-| Gin Joint | 4.00% | ~12,966 |
-| An Affront to the Enemy | 4.00% | ~12,966 |
-| Friends from Back Home | 4.00% | ~12,966 |
-| Half Century Mark | 4.00% | ~12,966 |
+| Considerable Clams | 4.00% | ~12,967 |
+| Gin Joint | 4.00% | ~12,967 |
+| An Affront to the Enemy | 4.00% | ~12,967 |
+| Friends from Back Home | 4.00% | ~12,967 |
+| Half Century Mark | 4.00% | ~12,967 |
 | Corner Opportunities | 3.00% | ~9,725 |
 | 2122 North Clark Street | 3.00% | ~9,725 |
 | Copious Cabbage | 3.00% | ~9,725 |
@@ -59,8 +59,8 @@ Rating: 4.25 (Ranked 798)
 | Full House | 1.00% | ~3,242 |
 | The Rubber Meets the Road | 1.00% | ~3,242 |
 | Cat’s Meow Clubs | 1.00% | ~3,242 |
-| Determined Deliveries | 0.90% | ~2,917 |
-| Stepping It Up | 0.90% | ~2,917 |
+| Determined Deliveries | 0.90% | ~2,918 |
+| Stepping It Up | 0.90% | ~2,918 |
 | Crossing Over | 0.80% | ~2,593 |
 | Boots in the Ground | 0.70% | ~2,269 |
 | Getting Fancy | 0.70% | ~2,269 |
@@ -69,9 +69,9 @@ Rating: 4.25 (Ranked 798)
 | High End Booze | 0.40% | ~1,297 |
 | Working on the Railroad | 0.40% | ~1,297 |
 | Social Butterfly | 0.40% | ~1,297 |
-| Bottled Up | 0.30% | ~972 |
-| Streetwise | 0.30% | ~972 |
-| In-House Maintenance | 0.30% | ~972 |
+| Bottled Up | 0.30% | ~973 |
+| Streetwise | 0.30% | ~973 |
+| In-House Maintenance | 0.30% | ~973 |
 | Dirty Work | 0.20% | ~648 |
 | Balkan Firewater | 0.20% | ~648 |
 | Windy City Win | 0.10% | ~324 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 798)
 | High Pillow | 0.10% | ~324 |
 | Station Master | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324,154 (Ranked 40)  
+Progressed: 324,169 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 5 (0.00%) (Ranked 228)
 | 2023-06-19 | 323,511 | 5 |
 | 2023-06-20 | 323,768 | 5 |
 | 2023-06-21 | 324,011 | 5 |
-| 2023-06-22 | 324,154 | 5 |
+| 2023-06-22 | 324,169 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 461)  
 Sum: 95 (Ranked 407)  

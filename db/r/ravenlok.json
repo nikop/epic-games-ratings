@@ -2528,9 +2528,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 366
     },
     {
       "ID": "14",
@@ -2905,8 +2905,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:07:44.036172+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:11.6294177+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.0914361+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:58:21.9009774+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:07:44.0362314+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:57:49.5608121+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:11.6294851+00:00"
 }

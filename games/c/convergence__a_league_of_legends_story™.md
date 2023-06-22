@@ -12,6 +12,7 @@
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
+| The Prince in Heels | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Brass Boss | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~78 |
@@ -19,7 +20,6 @@
 | No, Thanks! | 11.00% | ~78 |
 | Breaking Down Barriers | 11.00% | ~78 |
 | The Wicked Twins | 11.00% | ~78 |
-| The Prince in Heels | 11.00% | ~78 |
 | Honest Mistake | 11.00% | ~78 |
 | Golem Chaser | 11.00% | ~78 |
 | Fast Learner | 11.00% | ~78 |

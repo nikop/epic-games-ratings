@@ -278,9 +278,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
       "SetID": "9433p49",
       "Name": "Gold Digger",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RUNE_DROPEXTRAHEART",
@@ -351,8 +351,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:07:39.5058196+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:07.2231108+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:19.1005315+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:58:30.5018263+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:07:39.5058342+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:57:58.1305461+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:07.2231225+00:00"
 }

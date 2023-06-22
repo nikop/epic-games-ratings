@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "ach-discover-locations-high",
@@ -590,9 +590,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "ach-promotion",
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:08:02.6141503+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:30.4475059+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.5581585+00:00",
-  "LastUpdate_Ratings": "2023-06-22T14:02:23.4883095+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:08:02.6142025+00:00"
+  "LastUpdate_Ratings": "2023-06-22T15:01:48.2993391+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:30.4475646+00:00"
 }

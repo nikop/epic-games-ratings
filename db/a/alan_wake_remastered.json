@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55935,
+  "EOS_Progressed": 55938,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5742,6 +5742,11 @@
       "Time": "2023-06-22T14:02:33.2543284+00:00",
       "NumProgressed": 55935,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T15:01:57.1029585+00:00",
+      "NumProgressed": 55938,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5753,7 +5758,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17899
+      "UsersEstimate": 17900
     },
     {
       "ID": "02",
@@ -5761,7 +5766,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11187
+      "UsersEstimate": 11188
     },
     {
       "ID": "03",
@@ -5833,7 +5838,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "12",
@@ -5849,7 +5854,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "14",
@@ -5889,7 +5894,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "19",
@@ -5945,7 +5950,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3915
+      "UsersEstimate": 3916
     },
     {
       "ID": "26",
@@ -5977,7 +5982,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6712
+      "UsersEstimate": 6713
     },
     {
       "ID": "30",
@@ -6025,7 +6030,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "36",
@@ -6065,7 +6070,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3915
+      "UsersEstimate": 3916
     },
     {
       "ID": "41",
@@ -6113,7 +6118,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6712
+      "UsersEstimate": 6713
     },
     {
       "ID": "47",
@@ -6288,21 +6293,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55935,
+      "Progressed": 55938,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19403,
+      "Progressed": 19406,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:02:33.254328+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:01:57.1029577+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:58:42.3955092+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:02:33.2544514+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:58:09.1757957+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:01:57.1030741+00:00"
 }

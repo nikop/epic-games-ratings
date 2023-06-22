@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.05,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-06-13T15:05:23.9183518+00:00",
       "NumProgressed": 131,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-22T15:07:09.0358645+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -107,7 +112,7 @@
       "Name": "Attuned",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -129,7 +134,7 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -161,17 +166,17 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "GettingItDone",
@@ -211,7 +216,7 @@
       "Name": "Opulent",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Overpowered",
@@ -219,7 +224,7 @@
       "Name": "Overpowered",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Patience",
@@ -243,15 +248,15 @@
       "Name": "Side Job",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "Specialist",
@@ -265,16 +270,16 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 4
     }
   ],
@@ -282,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:07:41.5341376+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:09.0358638+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.2117335+00:00",
-  "LastUpdate_Ratings": "2023-06-22T14:00:22.6460677+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:07:41.5341682+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:59:49.0350123+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:09.0358805+00:00"
 }

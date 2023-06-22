@@ -39,20 +39,20 @@
 | I'm going to get a concussion | 33.00% | ~28 |
 | Meatballs, coming up! | 30.00% | ~25 |
 | A Megapint...? | 29.00% | ~24 |
-| Another one bites the iron | 26.00% | ~22 |
+| Another one bites the iron | 27.00% | ~23 |
 | Ripe Meat Off The Bone! | 25.00% | ~21 |
 | Hovering around | 24.00% | ~20 |
+| Your daily dose of Vitamin C. | 23.00% | ~19 |
 | Kleptomaniac | 23.00% | ~19 |
 | You're not so Big anymore, Boi! | 21.00% | ~18 |
-| Your daily dose of Vitamin C. | 21.00% | ~18 |
 | I cant stand still! | 21.00% | ~18 |
 | Master Butcher | 18.00% | ~15 |
 | Slimy... yet satisfying | 18.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
 | Deal with it | 15.00% | ~13 |
 | Yeehaw!!! | 14.00% | ~12 |
+| You're looking mozzare-hella good! | 13.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~11 |
-| You're looking mozzare-hella good! | 12.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~8 |
 | I drink, but I'm not a drunk! | 10.00% | ~8 |
 | Timber! | 10.00% | ~8 |

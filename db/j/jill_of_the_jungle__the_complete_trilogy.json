@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 84,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.15,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -3429,6 +3429,11 @@
       "Time": "2023-06-22T10:11:05.5213851+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-06-22T15:06:59.6867534+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 5,
@@ -3440,7 +3445,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "2",
@@ -3479,7 +3484,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 84
     }
   ],
@@ -3487,8 +3492,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:07:32.2582368+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:06:59.6867525+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.6170741+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:58:04.8287646+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:07:32.2582671+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:57:32.8085691+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:06:59.6867885+00:00"
 }

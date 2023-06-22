@@ -6,28 +6,28 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~962 |
+| Diligence as a goal | 5.00% | ~963 |
 | Project Arena | 4.00% | ~770 |
 | The Old Grandmaster | 2.00% | ~14,199 |
 | Life is your teacher | 2.00% | ~14,199 |
-| The Assault | 1.00% | ~7,099 |
-| The Hateful Pole Fighter | 1.00% | ~7,099 |
-| A Lady's Blood in the Snow | 1.00% | ~7,099 |
-| Lady Wing Chun | 1.00% | ~7,099 |
-| Furious Fists | 1.00% | ~7,099 |
-| Kill Nil | 1.00% | ~7,099 |
-| Stuntmaster | 1.00% | ~7,099 |
-| Street Fighting | 1.00% | ~7,099 |
-| State of constant learning | 1.00% | ~7,099 |
-| Qi Gong: Breath | 1.00% | ~7,099 |
-| Qi Gong: Essence | 1.00% | ~7,099 |
-| Old Child | 1.00% | ~7,099 |
-| Lightning Hands | 1.00% | ~7,099 |
-| Path of the Prospect | 1.00% | ~7,099 |
-| Rumble in the Hangar | 1.00% | ~7,099 |
-| Take damage to save time | 1.00% | ~7,099 |
-| Bloody Sport | 1.00% | ~192 |
-| The best strikes are the ones we avoid | 1.00% | ~192 |
+| The Assault | 1.00% | ~7,100 |
+| The Hateful Pole Fighter | 1.00% | ~7,100 |
+| A Lady's Blood in the Snow | 1.00% | ~7,100 |
+| Lady Wing Chun | 1.00% | ~7,100 |
+| Furious Fists | 1.00% | ~7,100 |
+| Kill Nil | 1.00% | ~7,100 |
+| Stuntmaster | 1.00% | ~7,100 |
+| Street Fighting | 1.00% | ~7,100 |
+| State of constant learning | 1.00% | ~7,100 |
+| Qi Gong: Breath | 1.00% | ~7,100 |
+| Qi Gong: Essence | 1.00% | ~7,100 |
+| Old Child | 1.00% | ~7,100 |
+| Lightning Hands | 1.00% | ~7,100 |
+| Path of the Prospect | 1.00% | ~7,100 |
+| Rumble in the Hangar | 1.00% | ~7,100 |
+| Take damage to save time | 1.00% | ~7,100 |
+| Bloody Sport | 1.00% | ~193 |
+| The best strikes are the ones we avoid | 1.00% | ~193 |
 | Scareless | 0.90% | ~6,390 |
 | Kung-Fu Tussle | 0.90% | ~6,390 |
 | Dance of the Praying Mantis | 0.80% | ~5,680 |
@@ -37,7 +37,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.60% | ~4,260 |
 | Tiger on Fire | 0.60% | ~4,260 |
 | Detective Story | 0.60% | ~4,260 |
-| A Touch of Acumen | 0.60% | ~115 |
+| A Touch of Acumen | 0.60% | ~116 |
 | Source of Flying Daggers | 0.50% | ~3,550 |
 | Iron Money | 0.50% | ~3,550 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,550 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,947 (Ranked 17)  
+Progressed: 709,950 (Ranked 17)  
 Completed: 12,781 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,10 +120,10 @@ Completed: 12,781 (1.80%) (Ranked 79)
 | 2023-06-19 | 709,833 | 12,778 |
 | 2023-06-20 | 709,878 | 12,779 |
 | 2023-06-21 | 709,919 | 12,779 |
-| 2023-06-22 | 709,947 | 12,781 |
+| 2023-06-22 | 709,950 | 12,781 |
 ## Awards
 Max (Great Boss Battles): 6,197  (Ranked 52)  
-Sum: 10,597 (Ranked 78)  
+Sum: 10,599 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -132,7 +132,7 @@ Diff (max vs sum): -26
 | This game has Challenging Combat | 525 |
 | This game has Quickly Understood Controls | 516 |
 | This game is Extremely Fun | 510 |
-| This game has Amazing Storytelling | 505 |
+| This game has Amazing Storytelling | 507 |
 | This game is Highly Recommended | 493 |
 | This game has Amazing Characters | 490 |
 | This game has Unique Visuals | 468 |
@@ -298,3 +298,4 @@ Diff (max vs sum): -26
 | 2023-06-19 | 4.82 | - | 6,189 | 10,578 |
 | 2023-06-20 | 4.82 | - | 6,193 | 10,585 |
 | 2023-06-21 | 4.82 | - | 6,197 | 10,597 |
+| 2023-06-22 | 4.82 | - | 6,197 | 10,599 |

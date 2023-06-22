@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2709,
+  "EOS_Progressed": 2711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3032,6 +3032,11 @@
       "Time": "2023-06-22T09:07:20.3252482+00:00",
       "NumProgressed": 2709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T15:02:43.6331059+00:00",
+      "NumProgressed": 2711,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3043,7 +3048,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_BASE_10",
@@ -3107,7 +3112,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_BASE_19",
@@ -3155,7 +3160,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_BASE_25",
@@ -3169,9 +3174,9 @@
       "ID": "ACH_BASE_26",
       "SetID": "92iocjf",
       "Name": "Sightseeing",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_BASE_27",
@@ -3377,9 +3382,9 @@
       "ID": "ACH_BASE_52",
       "SetID": "92iocjf",
       "Name": "BRAWL!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASE_53",
@@ -3393,9 +3398,9 @@
       "ID": "ACH_BASE_56",
       "SetID": "92iocjf",
       "Name": "Please Make it Stop!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_BASE_57",
@@ -3498,13 +3503,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 890,
+      "Progressed": 892,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2709,
+      "Progressed": 2711,
       "Completed": 0
     }
   ],
@@ -3512,8 +3517,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:03:18.0029056+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:02:43.6331053+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:59:44.7524142+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:03:18.002981+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:59:10.1397697+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:02:43.6331873+00:00"
 }

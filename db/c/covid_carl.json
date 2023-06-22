@@ -4,7 +4,7 @@
   "ProductSlug": "covid-carl-7dd371",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -25,9 +25,194 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "animal_kills_achievement",
+      "SetID": "4l4e229",
+      "Name": "Hunting for Sport",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bullets_fired_achievement",
+      "SetID": "4l4e229",
+      "Name": "Shots Fired!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "carl_kills_achievement",
+      "SetID": "4l4e229",
+      "Name": "Covid Carl is a Loser",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catknight_achievement",
+      "SetID": "4l4e229",
+      "Name": "Cat Knight",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "falls_achievement",
+      "SetID": "4l4e229",
+      "Name": "The Fall Guy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "flamethrower_time_achievement",
+      "SetID": "4l4e229",
+      "Name": "The Burninator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "game_wins_20_achievement",
+      "SetID": "4l4e229",
+      "Name": "Covid Champion",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "game_wins_achievement",
+      "SetID": "4l4e229",
+      "Name": "Winner Winner Covid Dinner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "garage_found_achievement",
+      "SetID": "4l4e229",
+      "Name": "Customer States...",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hits_achievement",
+      "SetID": "4l4e229",
+      "Name": "Hurts so good",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jumps_achievement",
+      "SetID": "4l4e229",
+      "Name": "Jump Around",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mech_kills_achievement",
+      "SetID": "4l4e229",
+      "Name": "Mechwarrior",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_deaths_100_achievement",
+      "SetID": "4l4e229",
+      "Name": "Rumplestiltskin",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_deaths_20_achievement",
+      "SetID": "4l4e229",
+      "Name": "So sleepy...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "player_deaths_achievment",
+      "SetID": "4l4e229",
+      "Name": "Just taking a nap...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pup_found_achievement",
+      "SetID": "4l4e229",
+      "Name": "Good Girl",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "robo_kills_achievment",
+      "SetID": "4l4e229",
+      "Name": "Three Law Breakers",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "total_score10x_achievement",
+      "SetID": "4l4e229",
+      "Name": "All the points",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "total_score5x_achievement",
+      "SetID": "4l4e229",
+      "Name": "Just here for even more points",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "total_score_achievement",
+      "SetID": "4l4e229",
+      "Name": "Just here for the points",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "turret_kills_achievement",
+      "SetID": "4l4e229",
+      "Name": "Guns Blazing",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zombie_kills_achievement",
+      "SetID": "4l4e229",
+      "Name": "Knee Deep in the Walking Dead",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zoombies_found_achievement",
+      "SetID": "4l4e229",
+      "Name": "For Gamers by Gamers",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4l4e229",
@@ -37,8 +222,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T19:04:28.6969533+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:04:24.8958592+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:03:50.034534+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:53.8269348+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:59:24.4879081+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:04:24.8958626+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:58:50.2907893+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:03:50.034551+00:00"
 }

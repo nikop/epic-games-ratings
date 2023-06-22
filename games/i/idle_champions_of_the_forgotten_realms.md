@@ -6,9 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.30% | ~308 |
-| The Ring of Regeneration | 0.20% | ~205 |
-| The Mad Wizard | 0.20% | ~205 |
+| The Cursed Farmer | 0.40% | ~412 |
+| The Mad Wizard | 0.30% | ~309 |
+| Were-verpowered | 0.20% | ~206 |
+| The Ring of Regeneration | 0.20% | ~206 |
+| Are Ya Chicken? | 0.20% | ~206 |
 | Frail Doesn't Mean Broken | 0.10% | ~69 |
 | The Castle of a Thousand Vecnas | 0.10% | ~69 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~69 |
@@ -17,7 +19,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~69 |
 | Get Back In The Castle | 0.10% | ~69 |
 | Kas the Destroyer | 0.10% | ~69 |
-| Were-verpowered | 0.10% | ~103 |
 | Checkmate | 0.10% | ~69 |
 | Pin and Skewer | 0.10% | ~69 |
 | Vecna Out! | 0.10% | ~69 |
@@ -40,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Love Unsoiled | 0.10% | ~69 |
 | The Play's the Thing! | 0.10% | ~69 |
 | The Bitter End | 0.10% | ~69 |
+| A Nimble Approach | 0.10% | ~69 |
 | The Palace of Heart's Desire | 0.10% | ~69 |
 | The Egg of Nat's Desire | 0.10% | ~69 |
 | No One Can Hear You Scream | 0.10% | ~69 |
@@ -139,7 +141,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~69 |
 | Nimble Escape | 0.10% | ~103 |
 | Nimblest Escape | 0.10% | ~103 |
-| Are Ya Chicken? | 0.10% | ~103 |
 | Useless Allies | 0.10% | ~103 |
 | Stumbling Escape | 0.10% | ~103 |
 | Distracted Escape | 0.10% | ~69 |
@@ -369,6 +370,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~69 |
 | Ending the Rime - Part 2 | 0.10% | ~69 |
 | Ambitious Speakers - Part 2 | 0.10% | ~69 |
+| Shady Sidekicks - Part 2 | 0.10% | ~69 |
 | Reghed Glacier Mysteries | 0.10% | ~69 |
 | Mysteries Unlocked | 0.10% | ~69 |
 | Male Pattern Boldness | 0.10% | ~69 |
@@ -496,8 +498,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.00% | ~0 |
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
-| A Nimble Approach | 0.00% | ~0 |
-| Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,700 (Ranked 63)  
+Progressed: 102,903 (Ranked 63)  
 Completed: 1,975 (1.92%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.92%) (Ranked 75)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,700 | 1,975 |
+| 2023-06-22 | 102,903 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

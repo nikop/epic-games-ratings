@@ -4438,9 +4438,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 102700,
+  "EOS_Progressed": 102903,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11949,
+  "EOS_NewPlayers": 12145,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -10983,6 +10983,11 @@
       "Time": "2023-06-22T14:08:10.2056337+00:00",
       "NumProgressed": 102700,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T15:07:37.6293526+00:00",
+      "NumProgressed": 102903,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11856,9 +11861,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1203",
@@ -12040,9 +12045,9 @@
       "ID": "objective_completed_1336",
       "SetID": "415jc5c",
       "Name": "A Nimble Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_completed_1340",
@@ -12664,9 +12669,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 412
     },
     {
       "ID": "objective_completed_34",
@@ -12674,7 +12679,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_35",
@@ -12856,9 +12861,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_40",
@@ -14136,9 +14141,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 309
     },
     {
       "ID": "objective_completed_70",
@@ -14704,9 +14709,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_completed_897",
@@ -15017,21 +15022,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68974,
+      "Progressed": 69177,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 102700,
+      "Progressed": 102903,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-22T05:59:00.1885849+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:08:10.2056332+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:37.629352+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:59:13.8601334+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:08:10.2083997+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:58:39.2774875+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:37.6324116+00:00"
 }

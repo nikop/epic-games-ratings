@@ -18,6 +18,8 @@
 | Rookie | 0.50% | ~3 |
 | Cybernetic | 0.30% | ~2 |
 | Starship Docks | 0.30% | ~2 |
+| Inner Core | 0.30% | ~2 |
+| Integration | 0.30% | ~2 |
 | Supply Run | 0.30% | ~2 |
 | Nanonic III | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
@@ -27,8 +29,6 @@
 | Eden Heights | 0.00% | ~0 |
 | Fully Modded | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
-| Inner Core | 0.00% | ~0 |
-| Integration | 0.00% | ~0 |
 | Outer Core | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 426221,
+  "EOS_Progressed": 426222,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5702,6 +5702,11 @@
       "Time": "2023-06-22T14:05:11.2455208+00:00",
       "NumProgressed": 426221,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-06-22T15:04:36.7417479+00:00",
+      "NumProgressed": 426222,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 41,
@@ -5745,7 +5750,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106555
+      "UsersEstimate": 106556
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -5761,7 +5766,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 110817
+      "UsersEstimate": 110818
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -5769,7 +5774,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127866
+      "UsersEstimate": 127867
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -5833,7 +5838,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110817
+      "UsersEstimate": 110818
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -5857,7 +5862,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29835
+      "UsersEstimate": 29836
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -5881,7 +5886,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404910
+      "UsersEstimate": 404911
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -5897,7 +5902,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306879
+      "UsersEstimate": 306880
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -5913,7 +5918,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294092
+      "UsersEstimate": 294093
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -5921,7 +5926,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110817
+      "UsersEstimate": 110818
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -5929,7 +5934,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340977
+      "UsersEstimate": 340978
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -5937,7 +5942,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29835
+      "UsersEstimate": 29836
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -5953,7 +5958,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68195
+      "UsersEstimate": 68196
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -5961,7 +5966,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191799
+      "UsersEstimate": 191800
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -5977,7 +5982,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110817
+      "UsersEstimate": 110818
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -6040,15 +6045,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426221,
+      "Progressed": 426222,
       "Completed": 509
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-21T08:00:52.71342+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:05:11.2455203+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:04:36.7417472+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:00.1842211+00:00",
-  "LastUpdate_Ratings": "2023-06-22T13:59:31.4835253+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:05:11.2456005+00:00"
+  "LastUpdate_Ratings": "2023-06-22T14:58:57.2372186+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:04:36.7418379+00:00"
 }

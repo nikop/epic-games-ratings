@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13423,
+  "EOS_Progressed": 13424,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
@@ -4659,6 +4659,11 @@
       "Time": "2023-06-22T14:07:41.2859324+00:00",
       "NumProgressed": 13423,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-06-22T15:07:08.9602784+00:00",
+      "NumProgressed": 13424,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 41,
@@ -4750,7 +4755,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "tpote_achievement_2",
@@ -4822,7 +4827,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "tpote_achievement_28",
@@ -4870,7 +4875,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "tpote_achievement_33",
@@ -4997,15 +5002,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13423,
+      "Progressed": 13424,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-22T14:07:41.2859321+00:00",
+  "LastChanged_Achievements": "2023-06-22T15:07:08.9602778+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-22T14:01:39.4029366+00:00",
-  "LastUpdate_Achievements": "2023-06-22T14:07:41.2859898+00:00"
+  "LastUpdate_Ratings": "2023-06-22T15:01:05.4730132+00:00",
+  "LastUpdate_Achievements": "2023-06-22T15:07:08.9604067+00:00"
 }

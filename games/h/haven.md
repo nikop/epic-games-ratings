@@ -6,7 +6,7 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 78.00% | ~1,008 |
+| Balding bloot! | 79.00% | ~1,021 |
 | Lovebirds | 50.00% | ~646 |
 | Life’s short, ride long | 45.00% | ~581 |
 | Hug therapy | 44.00% | ~568 |

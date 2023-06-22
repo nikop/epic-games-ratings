@@ -13,12 +13,12 @@ Rating: 4.89 (Ranked 13)
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,055 |
 | You got this, Peppermint? | 56.00% | ~1,856 |
 | Perfect Parry | 54.00% | ~1,790 |
-| Alright, that felt AWESOME! | 53.00% | ~1,757 |
+| Alright, that felt AWESOME! | 54.00% | ~1,790 |
 | I play my own way! | 49.00% | ~1,624 |
 | This will cost you big time | 47.00% | ~1,558 |
 | Uh, they were broken when I got here | 46.00% | ~1,525 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,492 |
-| Kissing the sky! | 43.00% | ~1,425 |
+| Kissing the sky! | 44.00% | ~1,459 |
 | Does that say weakpoint? | 41.00% | ~1,359 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,293 |
 | The Negotiator | 38.00% | ~1,260 |
