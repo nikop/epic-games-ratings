@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524723,
+  "EOS_Progressed": 1524727,
   "EOS_Completed": 629,
   "EOS_NewPlayers": 1504,
   "EOS_NewCompleters": 7,
@@ -7050,6 +7050,11 @@
       "Time": "2023-06-22T04:05:14.4206528+00:00",
       "NumProgressed": 1524723,
       "NumCompleted": 629
+    },
+    {
+      "Time": "2023-06-22T05:05:22.4936827+00:00",
+      "NumProgressed": 1524727,
+      "NumCompleted": 629
     }
   ],
   "TotalAchievements": 20,
@@ -7077,7 +7082,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30494
+      "UsersEstimate": 30495
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -7133,7 +7138,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30494
+      "UsersEstimate": 30495
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -7149,7 +7154,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30494
+      "UsersEstimate": 30495
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -7157,7 +7162,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152472
+      "UsersEstimate": 152473
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7220,15 +7225,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1524723,
+      "Progressed": 1524727,
       "Completed": 629
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-22T04:05:14.4206524+00:00",
+  "LastChanged_Achievements": "2023-06-22T05:05:22.4936823+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:02:04.3988079+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:05:14.4207085+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:01:46.3396787+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:05:22.4937252+00:00"
 }

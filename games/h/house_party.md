@@ -38,6 +38,7 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
+| A Striking Resemblance | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
@@ -64,7 +65,6 @@ Number of Ratings: 177  (23.09.2022)
 | Party Pooper | 0.10% | ~6 |
 | Ronin | 0.10% | ~6 |
 | Do You Smell Blood? | 0.10% | ~6 |
-| A Striking Resemblance | 0.10% | ~6 |
 | Howz It Goin Dood | 0.10% | ~6 |
 | That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |

@@ -35,15 +35,15 @@ Rating: 4.89 (Ranked 13)
 | Beat-hit mania | 18.00% | ~596 |
 | Well that was a rush! | 17.00% | ~563 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~563 |
+| Check out my moves! | 12.00% | ~397 |
 | Chip-tuned | 11.00% | ~364 |
 | Wanna hear my playlist? | 11.00% | ~364 |
-| Check out my moves! | 11.00% | ~364 |
 | We're Jammin' | 8.00% | ~265 |
+| I think I deserve some praise, here! | 7.00% | ~232 |
 | I think I found your calling, Macaron | 7.00% | ~232 |
 | I'm not done with you yet | 7.00% | ~232 |
 | First we parry, then we counter | 7.00% | ~232 |
 | I hit things with a guitar really well. | 7.00% | ~232 |
-| I think I deserve some praise, here! | 6.00% | ~199 |
 | You ever parry a volcano? | 6.00% | ~199 |
 | This is a breeze! | 4.00% | ~132 |
 | Easy Listening | 3.00% | ~99 |

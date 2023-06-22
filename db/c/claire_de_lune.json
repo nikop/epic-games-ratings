@@ -2,9 +2,9 @@
   "ID": "470e78f71f7a4b8eb05f1ec1422553e6",
   "Name": "Claire de Lune",
   "ProductSlug": "claire-de-lune",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-12T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.9539561+00:00",
   "LastChanged": "2023-03-31T05:58:09.9539562+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:44.9673676+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:02:18.4924407+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:07:13.628579+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:01:59.003749+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:07:09.2655154+00:00"
 }

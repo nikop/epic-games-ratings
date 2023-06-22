@@ -4432,9 +4432,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101911,
+  "EOS_Progressed": 101964,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11179,
+  "EOS_NewPlayers": 11231,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10927,6 +10927,11 @@
       "Time": "2023-06-22T04:08:25.0172567+00:00",
       "NumProgressed": 101911,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T05:08:13.3516363+00:00",
+      "NumProgressed": 101964,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -13408,9 +13413,9 @@
       "ID": "objective_completed_587",
       "SetID": "415jc5c",
       "Name": "Strike!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_588",
@@ -14961,21 +14966,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68185,
+      "Progressed": 68238,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101911,
+      "Progressed": 101964,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-22T04:08:25.0172563+00:00",
+  "LastChanged_Achievements": "2023-06-22T05:08:13.3516354+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:58:57.9435496+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:08:25.0304283+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:58:50.4573728+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:08:13.3539109+00:00"
 }

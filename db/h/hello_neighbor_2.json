@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2491,
+  "EOS_Progressed": 2492,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-06-21T21:04:17.1042721+00:00",
       "NumProgressed": 2491,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-22T05:03:17.6669571+00:00",
+      "NumProgressed": 2492,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 14,
@@ -1530,7 +1535,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1578,7 +1583,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1586,14 +1591,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2491,
+      "Progressed": 2492,
       "Completed": 98
     }
   ],
@@ -1601,8 +1606,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-22T04:03:46.133566+00:00",
+  "LastChanged_Achievements": "2023-06-22T05:03:17.6669567+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:50.0345943+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:02:27.0175703+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:03:46.1335845+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:02:07.7510369+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:03:17.6669711+00:00"
 }

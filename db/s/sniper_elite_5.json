@@ -352,7 +352,7 @@
   "Tags": [],
   "EOS_Progressed": 3077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4284,9 +4284,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -4532,9 +4532,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4556,9 +4556,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4747,8 +4747,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-22T04:08:14.8726374+00:00",
+  "LastChanged_Achievements": "2023-06-22T05:07:44.4126139+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:02:47.8949388+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:08:14.8727352+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:02:24.4000125+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:07:44.4126866+00:00"
 }

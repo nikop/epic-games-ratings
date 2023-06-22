@@ -2,9 +2,9 @@
   "ID": "9e20456aa9964c3287bda848105582e2",
   "Name": "Swarm Grinder",
   "ProductSlug": "swarm-grinder-a76676",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-21T18:56:56.740531+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:57:27.4098621+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:05:31.5437043+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:57:25.78628+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:05:36.985197+00:00"
 }

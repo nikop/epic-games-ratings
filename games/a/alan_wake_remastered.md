@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 10.00% | ~5,592 |
 | Collateral Carnage | 10.00% | ~5,592 |
 | Come One, Come All | 10.00% | ~5,592 |
-| Perchance to Dream | 9.00% | ~5,032 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,032 |
-| Thunder and Lightning | 9.00% | ~5,032 |
+| Perchance to Dream | 9.00% | ~5,033 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,033 |
+| Thunder and Lightning | 9.00% | ~5,033 |
 | Gatekeeper | 8.00% | ~4,473 |
 | The Lady of the Light | 8.00% | ~4,473 |
 | Two For the Price of One | 8.00% | ~4,473 |
@@ -43,9 +43,9 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,237 |
 | Drink 'Em Both Up | 4.00% | ~2,237 |
 | Hardboiled Writer | 4.00% | ~2,237 |
-| Boob Tube | 3.00% | ~1,677 |
-| If It Flies, It Burns | 3.00% | ~1,677 |
-| KBF-FM | 3.00% | ~1,677 |
+| Boob Tube | 3.00% | ~1,678 |
+| If It Flies, It Burns | 3.00% | ~1,678 |
+| KBF-FM | 3.00% | ~1,678 |
 | Kill Your Darlings | 3.00% | ~582 |
 | Heartbreaker | 3.00% | ~582 |
 | Medical Opinions | 2.00% | ~1,118 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,916 (Ranked 79)  
+Progressed: 55,917 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-19 | 55,743 | 56 |
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
-| 2023-06-22 | 55,916 | 56 |
+| 2023-06-22 | 55,917 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

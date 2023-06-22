@@ -213,6 +213,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Cuteness | 0.10% | ~68 |
 | Champions of Waterdeep | 0.10% | ~102 |
 | On The Job Learning | 0.10% | ~102 |
+| Strike! | 0.10% | ~68 |
 | Take Five | 0.10% | ~68 |
 | Running of the Saurs | 0.10% | ~102 |
 | Lost in the Goblin Halls | 0.10% | ~102 |
@@ -493,7 +494,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| Strike! | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,911 (Ranked 63)  
+Progressed: 101,964 (Ranked 63)  
 Completed: 1,975 (1.94%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 101,911 | 1,975 |
+| 2023-06-22 | 101,964 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,163 (Ranked 37)  

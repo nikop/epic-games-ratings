@@ -583,9 +583,9 @@
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 222
+      "UsersEstimate": 224
     },
     {
       "ID": "LEVEL_004",
@@ -607,33 +607,33 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 95,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 95,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_025",
@@ -670,8 +670,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-22T04:04:10.5735531+00:00",
+  "LastChanged_Achievements": "2023-06-22T05:03:38.177429+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:57:13.1568603+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:04:10.5735667+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:57:15.0925434+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:03:38.1774393+00:00"
 }

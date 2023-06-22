@@ -1,9 +1,9 @@
 {
   "ID": "03a32daea7d042709ed53d21cd70aad7",
   "Name": "Deadly Flight",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:20.8120439+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:00:32.2885802+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:06:32.4215875+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:00:17.136113+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:06:22.3676431+00:00"
 }

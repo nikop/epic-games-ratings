@@ -2,9 +2,9 @@
   "ID": "c01c0a9b79094e8c91164d2e1f50b131",
   "Name": "RichBroker",
   "ProductSlug": "richbroker-d6a5ad",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-19T23:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-01T12:00:24.4502779+00:00",
   "LastChanged": "2023-05-01T12:00:24.450278+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.7600348+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:02:39.6502191+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:07:18.9321757+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:02:18.3612765+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:07:13.6244798+00:00"
 }

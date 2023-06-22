@@ -20,8 +20,8 @@
 | Oh, you're up to no gouda! | 62.00% | ~52 |
 | Meat grinder | 60.00% | ~50 |
 | You're not going to blow me up! | 55.00% | ~46 |
-| Mushroom soup of the day | 51.00% | ~43 |
-| Honk honk! | 50.00% | ~42 |
+| Mushroom soup of the day | 52.00% | ~44 |
+| Honk honk! | 51.00% | ~43 |
 | Butcher | 50.00% | ~42 |
 | Spare Ribs | 49.00% | ~41 |
 | My pants squeak when I walk | 48.00% | ~40 |

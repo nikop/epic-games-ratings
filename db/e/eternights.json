@@ -2,9 +2,9 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-21T07:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:58:38.7759676+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:00:26.0302084+00:00",
-  "LastUpdate_Achievements": "2023-06-22T04:06:25.0600904+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:00:10.4841889+00:00",
+  "LastUpdate_Achievements": "2023-06-22T05:06:16.3008398+00:00"
 }
