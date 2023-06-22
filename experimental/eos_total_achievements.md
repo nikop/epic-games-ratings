@@ -344,6 +344,7 @@
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
+| [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
