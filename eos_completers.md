@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.29% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 30.77% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -25,7 +25,7 @@
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.41% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
 | 27 | [Scorn](games/s/scorn.md) | 6.84% |
 | 28 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
@@ -50,8 +50,8 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
-| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.13% |
-| 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
+| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.12% |
+| 51 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.11% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -78,10 +78,10 @@
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
-| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.76% |
+| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.74% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
-| 82 | [Poosh XL](games/p/poosh_xl.md) | 1.56% |
+| 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 83 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.54% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
