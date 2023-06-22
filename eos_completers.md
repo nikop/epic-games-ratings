@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.48% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
+| 1 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 34.38% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -57,7 +57,7 @@
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 57 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 58 | [The Bunker](games/t/the_bunker.md) | 2.80% |
+| 58 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 59 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 60 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 61 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
@@ -68,8 +68,8 @@
 | 66 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.40% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.21% |
-| 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
+| 69 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.12% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
@@ -91,7 +91,7 @@
 | 89 | [Chorus](games/c/chorus.md) | 1.20% |
 | 90 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.18% |
-| 92 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
+| 92 | [Ten Dates](games/t/ten_dates.md) | 1.15% |
 | 93 | [Five Dates](games/f/five_dates.md) | 1.12% |
 | 93 | [Trifox](games/t/trifox.md) | 1.12% |
 | 95 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.10% |
@@ -159,19 +159,19 @@
 | 156 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 158 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
-| 160 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 160 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
-| 160 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 163 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
-| 163 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 163 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 163 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 163 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
-| 163 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 169 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 170 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 171 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
+| 160 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 161 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 161 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
+| 161 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 164 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
+| 164 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 164 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
+| 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 164 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
+| 164 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 170 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 171 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 172 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 173 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 173 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 173 | [House Flipper](games/h/house_flipper.md) | 0.10% |
@@ -463,4 +463,4 @@
 | 228 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 228 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,822 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,823 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

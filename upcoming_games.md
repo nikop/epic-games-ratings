@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Mars Colonization](games/2/2e32af4418934f70a72e6a64d4813806.md) | 2023-06-22 | - |  | - | - |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [YouCanDomino](games/f/ffdc5ced10554d2ab6f7ab1b920573a4.md) | 2023-06-22 | - |  | - | - |
 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2023-06-22 | 37 (1,000 XP) | 0 | - | - |
@@ -219,6 +218,7 @@
 | [Beyond Enemy Lines 2 Enhanced Edition](games/b/beyond_enemy_lines_2_enhanced_edition.md) | 2099-01-01 | - |  | - | - |
 | [Bionic Bay](games/b/bionic_bay.md) | 2099-01-01 | - |  | - | - |
 | [Bloody Hell Hotel](games/b/bloody_hell_hotel.md) | 2099-01-01 | - |  | - | - |
+| [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2099-01-01 | - |  | - | - |
 | [BurnOut](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Can't Be Touched](games/7/73df555f0b5145ee89ee3b370e7eebb7.md) | 2099-01-01 | - |  | - | - |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
