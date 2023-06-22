@@ -12,9 +12,9 @@ Number of Ratings: 71  (23.09.2022)
 | Screwdriver | 44.00% | ~521 |
 | Cutepie | 42.00% | ~497 |
 | Someone was here | 41.00% | ~485 |
+| Pack Rat | 40.00% | ~473 |
 | Ghost Hunters | 40.00% | ~473 |
 | Alone | 39.00% | ~461 |
-| Pack Rat | 39.00% | ~461 |
 | All together, again | 34.00% | ~402 |
 | Spicy | 6.00% | ~71 |
 ## Popularity (Based on EOS Achievements)

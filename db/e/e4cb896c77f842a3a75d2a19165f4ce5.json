@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -606,6 +606,11 @@
       "Time": "2023-06-22T15:03:53.925359+00:00",
       "NumProgressed": 284,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-22T17:03:54.0041475+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -617,7 +622,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "LEVEL_003",
@@ -625,7 +630,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "LEVEL_004",
@@ -633,7 +638,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "LEVEL_006",
@@ -641,7 +646,7 @@
       "Name": "Market",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_012",
@@ -704,14 +709,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:03:44.4954694+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:03:54.0041463+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:57:17.8736809+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:03:44.4954812+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:57:10.632496+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:03:54.0041673+00:00"
 }

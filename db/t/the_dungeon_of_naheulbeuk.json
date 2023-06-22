@@ -1137,9 +1137,9 @@
       "ID": "DLC1ChooseNecro",
       "SetID": "50p8kh1",
       "Name": "Necrophilia",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "DLC1ChooseVampire",
@@ -1695,8 +1695,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:05:43.8994457+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:06:42.3159471+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.3805867+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:59:05.1931421+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:05:43.8995285+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:59:46.0691001+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:06:42.3160924+00:00"
 }

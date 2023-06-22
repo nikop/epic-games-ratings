@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 123,
@@ -1073,7 +1073,7 @@
   ],
   "EOS_Progressed": 6683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6317,9 +6317,9 @@
       "ID": "13",
       "SetID": "8idi9ml",
       "Name": "Explorer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3609
     },
     {
       "ID": "14",
@@ -6765,8 +6765,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-22T14:01:36.9205659+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:03:43.2294997+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:03:52.3426895+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:59:55.9529977+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:03:43.2295668+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:00:54.924224+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:03:52.3427757+00:00"
 }

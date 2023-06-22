@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 2826,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3509,
+  "EOS_Progressed": 3510,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-06-20T23:07:37.1734637+00:00",
       "NumProgressed": 3509,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-22T17:07:14.1859305+00:00",
+      "NumProgressed": 3510,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -340,7 +345,7 @@
       "Name": "Hot Potato",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "16",
@@ -428,7 +433,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "26",
@@ -571,7 +576,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3509,
+      "Progressed": 3510,
       "Completed": -29
     }
   ],
@@ -579,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:07.223114+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:14.1859298+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:00.2016916+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:57:34.4526243+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:07.2231363+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:57:34.6833909+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:14.1859777+00:00"
 }

@@ -45,8 +45,8 @@ Rating: 4.32 (Ranked 756)
 | The Truth | 20.00% | ~78 |
 | Sunken Secrets | 18.00% | ~70 |
 | I Like an Audience | 18.00% | ~70 |
+| The Denouement | 17.00% | ~66 |
 | What Else Did I Miss? | 17.00% | ~66 |
-| The Denouement | 16.00% | ~63 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |
 | Take a Break | 10.00% | ~39 |
 | Room with a View | 7.00% | ~27 |

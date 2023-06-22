@@ -1297,9 +1297,9 @@
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1337,8 +1337,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:07.5350501+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:14.5096089+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:36.3257732+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:00:01.3001021+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:07.5350632+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:01:03.0260578+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:14.5096333+00:00"
 }

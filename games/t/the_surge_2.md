@@ -5,12 +5,12 @@ Rating: 4.24 (Ranked 806)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,447 |
-| Don't I Know You...? | 77.00% | ~1,393 |
+| Rigged And Ready | 80.00% | ~1,448 |
+| Don't I Know You...? | 77.00% | ~1,394 |
 | Jailbreak | 65.00% | ~1,176 |
-| HEADSHOT! | 38.00% | ~687 |
-| Suited and Booted | 38.00% | ~687 |
-| Sleeping With The Fishes | 35.00% | ~633 |
+| HEADSHOT! | 38.00% | ~688 |
+| Suited and Booted | 38.00% | ~688 |
+| Sleeping With The Fishes | 35.00% | ~634 |
 | Overheated | 30.00% | ~543 |
 | High Performance | 30.00% | ~543 |
 | Powered Up | 28.00% | ~507 |
@@ -26,7 +26,7 @@ Rating: 4.24 (Ranked 806)
 | Dead Again | 18.00% | ~326 |
 | Clean Cut | 18.00% | ~326 |
 | Full Arsenal | 17.00% | ~308 |
-| Can't Trust Banks | 15.00% | ~271 |
+| Can't Trust Banks | 15.00% | ~272 |
 | Mommy Dearest | 13.00% | ~235 |
 | Bad Dog | 13.00% | ~235 |
 | Where It All Began | 13.00% | ~235 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 806)
 | Box Office Smash | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,809 (Ranked 159)  
+Progressed: 1,810 (Ranked 159)  
 Completed: 10 (0.55%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 10 (0.55%) (Ranked 119)
 | 2023-06-19 | 1,804 | 10 |
 | 2023-06-20 | 1,807 | 10 |
 | 2023-06-21 | 1,808 | 10 |
-| 2023-06-22 | 1,809 | 10 |
+| 2023-06-22 | 1,810 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

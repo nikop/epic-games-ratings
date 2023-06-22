@@ -70,7 +70,7 @@
   "Tags": [],
   "EOS_Progressed": 1319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2503,9 +2503,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 699
     },
     {
       "ID": "A18",
@@ -2816,8 +2816,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:21.3300952+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:31.8022055+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:58:16.3805646+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:21.3301427+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:58:32.2609689+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:31.8022704+00:00"
 }

@@ -343,9 +343,9 @@
       "ID": "ACH_010",
       "SetID": "72imik0",
       "Name": "The Denouement",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_011",
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-06-06T07:57:37.3793148+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:18.21634+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:27.862227+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:29.9795614+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:57:59.888443+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:18.2163728+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:58:09.7576409+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:27.8622693+00:00"
 }

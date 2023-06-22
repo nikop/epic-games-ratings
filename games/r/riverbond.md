@@ -1,35 +1,35 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 592)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~364,080 |
-| Now You're Talking | 62.00% | ~322,471 |
-| Steel Yourself | 62.00% | ~322,471 |
-| Window Dressing | 50.00% | ~260,057 |
-| Trigger Happy | 46.00% | ~239,252 |
-| Riverborn | 45.00% | ~234,051 |
-| Starry Eyed | 34.00% | ~176,839 |
-| Poking Around | 34.00% | ~176,839 |
-| Talk of the Town | 24.00% | ~124,827 |
-| AAARR! | 23.00% | ~119,626 |
-| Hello Darkness | 23.00% | ~119,626 |
-| Wind At Our Backs | 22.00% | ~114,425 |
-| To the Beat | 20.00% | ~104,023 |
-| Sunny Shores | 17.00% | ~88,419 |
-| Sunday Best | 16.00% | ~83,218 |
-| To Victory! | 15.00% | ~78,017 |
-| Two of a Kind | 14.00% | ~72,816 |
-| Keep On Trucking | 13.00% | ~67,615 |
+| First Step | 70.00% | ~364,085 |
+| Now You're Talking | 62.00% | ~322,475 |
+| Steel Yourself | 62.00% | ~322,475 |
+| Window Dressing | 50.00% | ~260,060 |
+| Trigger Happy | 46.00% | ~239,256 |
+| Riverborn | 45.00% | ~234,054 |
+| Starry Eyed | 34.00% | ~176,841 |
+| Poking Around | 34.00% | ~176,841 |
+| Talk of the Town | 24.00% | ~124,829 |
+| AAARR! | 23.00% | ~119,628 |
+| Hello Darkness | 23.00% | ~119,628 |
+| Wind At Our Backs | 22.00% | ~114,427 |
+| To the Beat | 20.00% | ~104,024 |
+| Sunny Shores | 17.00% | ~88,421 |
+| Sunday Best | 16.00% | ~83,219 |
+| To Victory! | 15.00% | ~78,018 |
+| Two of a Kind | 14.00% | ~72,817 |
+| Keep On Trucking | 13.00% | ~67,616 |
 | Going on an Adventure | 11.00% | ~57,213 |
 | Make Peace, Not War | 11.00% | ~57,213 |
-| Walking The Line | 10.00% | ~52,011 |
-| Not So Cute Anymore | 10.00% | ~52,011 |
-| Road Less Travelled | 9.00% | ~46,810 |
-| Lost and Found | 9.00% | ~46,810 |
+| Walking The Line | 10.00% | ~52,012 |
+| Not So Cute Anymore | 10.00% | ~52,012 |
+| Road Less Travelled | 9.00% | ~46,811 |
+| Lost and Found | 9.00% | ~46,811 |
 | Partner in Crime | 7.00% | ~36,408 |
 | Hard to Hear | 7.00% | ~36,408 |
 | Under the Radar | 7.00% | ~36,408 |
@@ -48,12 +48,12 @@ Number of Ratings: 617  (23.09.2022)
 | Biting Tongue | 4.00% | ~20,805 |
 | What a Catch! | 4.00% | ~20,805 |
 | Hit the Spot | 4.00% | ~20,805 |
-| Talk the Talk | 3.00% | ~15,603 |
-| Skin in the Game | 3.00% | ~15,603 |
-| Caving In | 3.00% | ~15,603 |
-| Page Turner | 3.00% | ~15,603 |
-| Spinal Adjustment | 3.00% | ~15,603 |
-| The Knowledge | 3.00% | ~15,603 |
+| Talk the Talk | 3.00% | ~15,604 |
+| Skin in the Game | 3.00% | ~15,604 |
+| Caving In | 3.00% | ~15,604 |
+| Page Turner | 3.00% | ~15,604 |
+| Spinal Adjustment | 3.00% | ~15,604 |
+| The Knowledge | 3.00% | ~15,604 |
 | Seek the Rainbow | 2.00% | ~10,402 |
 | Words of Truth | 2.00% | ~10,402 |
 | Star Power | 2.00% | ~10,402 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,560 |
 | Point Taken | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,114 (Ranked 29)  
+Progressed: 520,121 (Ranked 29)  
 Completed: 432 (0.08%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 432 (0.08%) (Ranked 182)
 | 2023-06-19 | 519,888 | 430 |
 | 2023-06-20 | 519,988 | 431 |
 | 2023-06-21 | 520,072 | 432 |
-| 2023-06-22 | 520,114 | 432 |
+| 2023-06-22 | 520,121 | 432 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

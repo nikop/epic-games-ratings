@@ -1,37 +1,37 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 582)  
+Rating: 4.46 (Ranked 603)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~31 |
+| Confirming Suspicions | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
-| Confirming Suspicions | 0.90% | ~28 |
 | Taking it back | 0.80% | ~25 |
 | The Kraken Wakes | 0.70% | ~22 |
 | Change the Channel | 0.70% | ~22 |
 | Target America | 0.70% | ~22 |
+| Liberté | 0.60% | ~19 |
 | Just a Flesh Wound | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
 | Explosive Efficiency | 0.60% | ~19 |
 | Lord of War | 0.60% | ~19 |
+| Resourceful | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
-| Liberté | 0.50% | ~15 |
+| Gunslinger | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
-| Resourceful | 0.50% | ~15 |
+| Der Geist | 0.50% | ~15 |
 | As Quiet as a Mouse | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | No Stone Unturned | 0.40% | ~12 |
 | Organ Grinder | 0.40% | ~12 |
-| Gunslinger | 0.40% | ~12 |
 | Skirmisher | 0.40% | ~12 |
 | Precision Is Key | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
-| Der Geist | 0.40% | ~12 |
+| Close Quarters | 0.40% | ~12 |
 | Brains of the Operation | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |
-| Close Quarters | 0.30% | ~9 |
 | Snake in the Grass | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
@@ -41,6 +41,7 @@ Rating: 4.48 (Ranked 582)
 | Fields of Glory | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
+| Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
@@ -62,7 +63,6 @@ Rating: 4.48 (Ranked 582)
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
-| Locomotion Commotion | 0.10% | ~3 |
 | Road Rage | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 582)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,085 (Ranked 144)  
+Progressed: 3,086 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.06%) (Ranked 190)
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
-| 2023-06-22 | 3,085 | 2 |
+| 2023-06-22 | 3,086 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -194,3 +194,4 @@ Completed: 2 (0.06%) (Ranked 190)
 | 2023-06-18 | 4.48 | 0 | 0 |
 | 2023-06-19 | 4.49 | 0 | 0 |
 | 2023-06-21 | 4.48 | 0 | 0 |
+| 2023-06-22 | 4.46 | 0 | 0 |

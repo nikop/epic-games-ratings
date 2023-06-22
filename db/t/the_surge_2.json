@@ -237,7 +237,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1809,
+  "EOS_Progressed": 1810,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -1427,6 +1427,11 @@
       "Time": "2023-06-22T03:08:47.3969952+00:00",
       "NumProgressed": 1809,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-22T17:07:33.1478668+00:00",
+      "NumProgressed": 1810,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1614,7 +1619,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACHV_24",
@@ -1638,7 +1643,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "ACHV_27",
@@ -1710,7 +1715,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHV_36",
@@ -1718,7 +1723,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHV_37",
@@ -1742,7 +1747,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ACHV_40",
@@ -1758,7 +1763,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACHV_42",
@@ -1893,7 +1898,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1809,
+      "Progressed": 1810,
       "Completed": 10
     }
   ],
@@ -1901,8 +1906,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:22.3639017+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:33.1478659+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.3482938+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:00:22.3473158+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:22.3639436+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:01:32.3979351+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:33.1479692+00:00"
 }

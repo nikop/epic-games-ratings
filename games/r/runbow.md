@@ -1,29 +1,29 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 604)  
+Rating: 4.46 (Ranked 603)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,017 |
-| My First Runbow | 50.00% | ~122,658 |
-| It's The Fall | 26.00% | ~63,782 |
-| The Stunner | 21.00% | ~51,516 |
-| Be Aggressive | 20.00% | ~49,063 |
-| Curator | 20.00% | ~49,063 |
-| Crowning Around | 18.00% | ~44,157 |
-| Can You Dig It? | 17.00% | ~41,704 |
-| You Juan-A-Go? | 16.00% | ~39,250 |
-| Chan-tastic | 15.00% | ~36,797 |
-| Muddy Waters | 14.00% | ~34,344 |
-| Toasty! | 13.00% | ~31,891 |
-| Lazy Laser | 8.00% | ~19,625 |
-| Into The Drift | 7.00% | ~17,172 |
-| Ready? Fight! | 7.00% | ~17,172 |
+| In The Zone | 53.00% | ~130,021 |
+| My First Runbow | 50.00% | ~122,661 |
+| It's The Fall | 26.00% | ~63,784 |
+| The Stunner | 21.00% | ~51,518 |
+| Be Aggressive | 20.00% | ~49,064 |
+| Curator | 20.00% | ~49,064 |
+| Crowning Around | 18.00% | ~44,158 |
+| Can You Dig It? | 17.00% | ~41,705 |
+| You Juan-A-Go? | 16.00% | ~39,252 |
+| Chan-tastic | 15.00% | ~36,798 |
+| Muddy Waters | 14.00% | ~34,345 |
+| Toasty! | 13.00% | ~31,892 |
+| Lazy Laser | 8.00% | ~19,626 |
+| Into The Drift | 7.00% | ~17,173 |
+| Ready? Fight! | 7.00% | ~17,173 |
 | Just A Phaze | 6.00% | ~14,719 |
 | Butt Butt | 6.00% | ~14,719 |
-| He Who Laughs Last | 3.00% | ~7,359 |
-| Shoo, Cat! | 3.00% | ~7,359 |
+| He Who Laughs Last | 3.00% | ~7,360 |
+| Shoo, Cat! | 3.00% | ~7,360 |
 | And You're Okay | 2.00% | ~4,906 |
 | Blotbuster | 2.00% | ~4,906 |
 | Thunderstruck | 2.00% | ~4,906 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 604)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,315 (Ranked 43)  
+Progressed: 245,322 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 3 (0.00%) (Ranked 228)
 | 2023-06-19 | 245,181 | 3 |
 | 2023-06-20 | 245,239 | 3 |
 | 2023-06-21 | 245,281 | 3 |
-| 2023-06-22 | 245,315 | 3 |
+| 2023-06-22 | 245,322 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 144,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -344,15 +344,21 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-22T17:01:36.0461673+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3085,
+  "EOS_Progressed": 3086,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4175,6 +4181,11 @@
       "Time": "2023-06-22T14:08:00.2938965+00:00",
       "NumProgressed": 3085,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T17:07:29.9361976+00:00",
+      "NumProgressed": 3086,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4192,9 +4203,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4304,9 +4315,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -4352,9 +4363,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4408,17 +4419,17 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -4440,9 +4451,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -4512,9 +4523,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -4753,22 +4764,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3036,
+      "Progressed": 3037,
       "Completed": 4
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3085,
+      "Progressed": 3086,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:19.6849655+00:00",
+  "LastChanged": "2023-06-22T17:01:36.046167+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:29.9361967+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:00:24.9098105+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:19.6850493+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:01:36.046168+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:29.9363705+00:00"
 }

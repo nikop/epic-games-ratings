@@ -13,9 +13,9 @@ Rating: 3.84 (Ranked 931)
 | I am the greatest botanist on this planet. | 29.00% | ~378 |
 | Gardener | 25.00% | ~326 |
 | Miner | 25.00% | ~326 |
-| Occupy Mars! | 23.00% | ~299 |
-| Houston we have a problem | 21.00% | ~273 |
-| Detective | 18.00% | ~234 |
+| Occupy Mars! | 23.00% | ~300 |
+| Houston we have a problem | 21.00% | ~274 |
+| Detective | 18.00% | ~235 |
 | The Collector | 16.00% | ~208 |
 | Get your hands dirty | 9.00% | ~117 |
 | All Wheel Trouble | 7.00% | ~91 |
@@ -54,7 +54,7 @@ Rating: 3.84 (Ranked 931)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,302 (Ranked 170)  
+Progressed: 1,303 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 1,289 | 0 |
 | 2023-06-20 | 1,296 | 0 |
 | 2023-06-21 | 1,300 | 0 |
-| 2023-06-22 | 1,302 | 0 |
+| 2023-06-22 | 1,303 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

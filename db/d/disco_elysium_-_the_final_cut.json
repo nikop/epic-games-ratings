@@ -1145,9 +1145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122063,
+  "EOS_Progressed": 122064,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7235,6 +7235,11 @@
       "Time": "2023-06-22T16:06:14.0784191+00:00",
       "NumProgressed": 122063,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-22T17:07:22.9781377+00:00",
+      "NumProgressed": 122064,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7278,7 +7283,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21971
+      "UsersEstimate": 21972
     },
     {
       "ID": "ACH_COP_BAD",
@@ -7382,7 +7387,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18309
+      "UsersEstimate": 18310
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -7565,15 +7570,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122063,
+      "Progressed": 122064,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-18T05:58:55.3615497+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:06:14.0784186+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:07:22.9781368+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:59:10.7315574+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:06:14.078471+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:59:51.063371+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:07:22.9782624+00:00"
 }

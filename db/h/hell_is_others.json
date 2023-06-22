@@ -518,10 +518,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 159,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-06-22T17:01:18.0794324+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 159,
+  "NumberOfAwards": 160,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -553,7 +559,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has a Competitive Community",
@@ -568,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251621,
+  "EOS_Progressed": 251624,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6958,6 +6964,11 @@
       "Time": "2023-06-22T16:04:17.5383669+00:00",
       "NumProgressed": 251621,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T17:04:38.492085+00:00",
+      "NumProgressed": 251624,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -6969,7 +6980,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17613
+      "UsersEstimate": 17614
     },
     {
       "ID": "Act2",
@@ -7416,16 +7427,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251621,
+      "Progressed": 251624,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-22T16:00:12.8180712+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:04:17.5383664+00:00",
+  "LastChanged": "2023-06-22T17:01:18.0794322+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:04:38.4920838+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:47.5026777+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:00:12.8180715+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:04:17.5384347+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:01:18.0794329+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:04:38.4922405+00:00"
 }

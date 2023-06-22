@@ -1,14 +1,14 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 592)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,745 |
 | Leader | 61.00% | ~4,077 |
-| Explorer | 53.00% | ~3,542 |
+| Explorer | 54.00% | ~3,609 |
 | Healer | 53.00% | ~3,542 |
 | Aspiring Inventor | 45.00% | ~3,007 |
 | Adventurer | 42.00% | ~2,807 |

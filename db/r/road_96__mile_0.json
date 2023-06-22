@@ -853,9 +853,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "completeact2",
@@ -893,9 +893,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "scoreminrankrb2",
@@ -982,8 +982,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:04:32.4895206+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:04:59.8736105+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.3345062+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:58:52.969361+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:04:32.4895349+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:59:28.069655+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:04:59.8736356+00:00"
 }

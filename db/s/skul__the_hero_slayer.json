@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -868,7 +868,7 @@
   ],
   "EOS_Progressed": 7850,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3242,9 +3242,9 @@
       "ID": "StockManagement",
       "SetID": "97dk767",
       "Name": "Inventory Management",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2669
     },
     {
       "ID": "TheLegendBegins",
@@ -3290,8 +3290,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-22T16:00:31.2396385+00:00",
+  "LastChanged_Achievements": "2023-06-22T17:01:48.1515855+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-22T15:59:00.4493348+00:00",
-  "LastUpdate_Achievements": "2023-06-22T16:00:31.2397978+00:00"
+  "LastUpdate_Ratings": "2023-06-22T16:59:39.236466+00:00",
+  "LastUpdate_Achievements": "2023-06-22T17:01:48.1516465+00:00"
 }

@@ -45,9 +45,9 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~20 |
 | Scholar of the Lands of Fangh | 12.00% | ~18 |
 | The Dungeon Master | 12.00% | ~18 |
+| Necrophilia | 12.00% | ~18 |
 | He’s alive! Aliiiive! | 12.00% | ~18 |
 | Dead for good | 12.00% | ~18 |
-| Necrophilia | 11.00% | ~16 |
 | It's been a hard day's night | 11.00% | ~16 |
 | Lust and Debauchery | 9.00% | ~13 |
 | Elite Adventurers | 8.00% | ~12 |

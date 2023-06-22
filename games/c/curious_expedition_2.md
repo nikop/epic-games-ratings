@@ -11,12 +11,12 @@ Number of Ratings: 20  (23.09.2022)
 | A Strange Artefact | 50.00% | ~158 |
 | Insomnia | 44.00% | ~139 |
 | From Whence we Came | 41.00% | ~130 |
-| Lost & Found & Lost Again | 39.00% | ~124 |
+| Lost & Found & Lost Again | 40.00% | ~127 |
 | Fire and Flood | 37.00% | ~117 |
 | Spooky! | 35.00% | ~111 |
 | Shennong Herbalist | 32.00% | ~101 |
+| Treasure Hunt | 32.00% | ~101 |
 | Good Mama | 31.00% | ~98 |
-| Treasure Hunt | 31.00% | ~98 |
 | O Captain My Captain | 29.00% | ~92 |
 | Taxonomist | 27.00% | ~86 |
 | Plunderer | 27.00% | ~86 |
