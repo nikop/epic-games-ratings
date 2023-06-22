@@ -5,23 +5,23 @@ Rating: 4.41 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~718,992 |
-| The ABCs | 43.00% | ~618,333 |
-| Home Run | 42.00% | ~603,953 |
-| Keeps Coming Off | 41.00% | ~589,573 |
-| Guts | 20.00% | ~287,597 |
-| Meat Grinder | 20.00% | ~287,597 |
-| Burning Man | 16.00% | ~230,077 |
-| Lived to Tell the Tale | 12.00% | ~172,558 |
-| Highlander | 10.00% | ~143,798 |
-| Unstoppable | 10.00% | ~143,798 |
-| Just a Scratch | 9.00% | ~129,418 |
-| Tough Nut to Crack | 6.00% | ~86,279 |
-| Yoink | 6.00% | ~86,279 |
-| Long List of Names | 4.00% | ~57,519 |
-| Pyromaniac | 4.00% | ~57,519 |
-| The Queen of Weapons | 4.00% | ~57,519 |
-| This isn’t Sparta | 3.00% | ~43,139 |
+| Justice from the Grave | 50.00% | ~719,010 |
+| The ABCs | 43.00% | ~618,348 |
+| Home Run | 42.00% | ~603,968 |
+| Keeps Coming Off | 41.00% | ~589,588 |
+| Guts | 20.00% | ~287,604 |
+| Meat Grinder | 20.00% | ~287,604 |
+| Burning Man | 16.00% | ~230,083 |
+| Lived to Tell the Tale | 12.00% | ~172,562 |
+| Highlander | 10.00% | ~143,802 |
+| Unstoppable | 10.00% | ~143,802 |
+| Just a Scratch | 9.00% | ~129,422 |
+| Tough Nut to Crack | 6.00% | ~86,281 |
+| Yoink | 6.00% | ~86,281 |
+| Long List of Names | 4.00% | ~57,521 |
+| Pyromaniac | 4.00% | ~57,521 |
+| The Queen of Weapons | 4.00% | ~57,521 |
+| This isn’t Sparta | 3.00% | ~43,141 |
 | Crybaby | 2.00% | ~28,760 |
 | Eagle Eye | 2.00% | ~28,760 |
 | Poacher | 2.00% | ~28,760 |
@@ -44,7 +44,7 @@ Rating: 4.41 (Ranked 672)
 | That’s No Ordinary Cold | 0.10% | ~1,438 |
 | Stairway to Hell | 0.10% | ~1,438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,437,983 (Ranked 7)  
+Progressed: 1,438,019 (Ranked 7)  
 Completed: 38 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 38 (0.00%) (Ranked 228)
 | 2023-06-19 | 1,434,760 | 35 |
 | 2023-06-20 | 1,436,319 | 37 |
 | 2023-06-21 | 1,437,809 | 38 |
-| 2023-06-22 | 1,437,983 | 38 |
+| 2023-06-22 | 1,438,019 | 38 |
 ## Awards
 Max (Highly Recommended): 297  (Ranked 230)  
 Sum: 1,737 (Ranked 202)  

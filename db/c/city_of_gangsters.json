@@ -403,9 +403,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 324054,
+  "EOS_Progressed": 324059,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1928,
+  "EOS_NewPlayers": 1929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6988,6 +6988,11 @@
       "Time": "2023-06-22T03:06:21.738962+00:00",
       "NumProgressed": 324054,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T04:05:17.7193548+00:00",
+      "NumProgressed": 324059,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -7015,7 +7020,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38886
+      "UsersEstimate": 38887
     },
     {
       "ID": "ach004",
@@ -7055,7 +7060,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38886
+      "UsersEstimate": 38887
     },
     {
       "ID": "ach009",
@@ -7087,7 +7092,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25924
+      "UsersEstimate": 25925
     },
     {
       "ID": "ach013",
@@ -7127,7 +7132,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 42127
+      "UsersEstimate": 42128
     },
     {
       "ID": "ach018",
@@ -7207,7 +7212,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 149065
+      "UsersEstimate": 149067
     },
     {
       "ID": "ach028",
@@ -7223,7 +7228,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32405
+      "UsersEstimate": 32406
     },
     {
       "ID": "ach030",
@@ -7303,7 +7308,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32405
+      "UsersEstimate": 32406
     },
     {
       "ID": "ach040",
@@ -7351,7 +7356,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42127
+      "UsersEstimate": 42128
     },
     {
       "ID": "ach046",
@@ -7407,7 +7412,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19443
+      "UsersEstimate": 19444
     },
     {
       "ID": "ach053",
@@ -7463,7 +7468,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32405
+      "UsersEstimate": 32406
     },
     {
       "ID": "ach060",
@@ -7471,7 +7476,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19443
+      "UsersEstimate": 19444
     },
     {
       "ID": "ach061",
@@ -7503,7 +7508,7 @@
       "Name": "Determined Deliveries",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "ach066",
@@ -7519,7 +7524,7 @@
       "Name": "Stepping It Up",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "ach068",
@@ -7567,7 +7572,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19443
+      "UsersEstimate": 19444
     },
     {
       "ID": "ach074",
@@ -7638,7 +7643,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 324054,
+      "Progressed": 324059,
       "Completed": 5
     }
   ],
@@ -7646,8 +7651,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-06-20T13:06:29.2734378+00:00",
-  "LastChanged_Achievements": "2023-06-22T03:06:21.7389613+00:00",
+  "LastChanged_Achievements": "2023-06-22T04:05:17.719354+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.5025048+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:58:33.8031835+00:00",
-  "LastUpdate_Achievements": "2023-06-22T03:06:21.7392085+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:58:28.4526302+00:00",
+  "LastUpdate_Achievements": "2023-06-22T04:05:17.7194852+00:00"
 }

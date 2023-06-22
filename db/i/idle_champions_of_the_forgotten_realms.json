@@ -4432,10 +4432,10 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101867,
+  "EOS_Progressed": 101911,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11136,
-  "EOS_NewCompleters": 41,
+  "EOS_NewPlayers": 11179,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
     {
@@ -10922,6 +10922,11 @@
       "Time": "2023-06-22T03:08:54.2760198+00:00",
       "NumProgressed": 101867,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T04:08:25.0172567+00:00",
+      "NumProgressed": 101911,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11931,9 +11936,9 @@
       "ID": "objective_completed_132",
       "SetID": "cc37lbc",
       "Name": "Taking Responsibility",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_1325",
@@ -12523,9 +12528,9 @@
       "ID": "objective_completed_269",
       "SetID": "cc37lbc",
       "Name": "Seeds of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_270",
@@ -12603,9 +12608,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_completed_34",
@@ -12731,9 +12736,9 @@
       "ID": "objective_completed_390",
       "SetID": "cc37lbc",
       "Name": "Class Vacation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_391",
@@ -12819,9 +12824,9 @@
       "ID": "objective_completed_401",
       "SetID": "415jc5c",
       "Name": "Distracted Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_403",
@@ -12987,9 +12992,9 @@
       "ID": "objective_completed_425",
       "SetID": "cc37lbc",
       "Name": "The Madness Grows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_426",
@@ -13267,9 +13272,9 @@
       "ID": "objective_completed_566",
       "SetID": "cc37lbc",
       "Name": "She\u0027s Harmless!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_567",
@@ -13339,9 +13344,9 @@
       "ID": "objective_completed_577",
       "SetID": "cc37lbc",
       "Name": "Madcap Adventures",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_578",
@@ -13435,9 +13440,9 @@
       "ID": "objective_completed_591",
       "SetID": "cc37lbc",
       "Name": "Batiri in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_592",
@@ -13459,17 +13464,17 @@
       "ID": "objective_completed_596",
       "SetID": "cc37lbc",
       "Name": "The Nimble Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_597",
       "SetID": "415jc5c",
       "Name": "The Misty Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_6",
@@ -13531,17 +13536,17 @@
       "ID": "objective_completed_606",
       "SetID": "cc37lbc",
       "Name": "All You Know Is Wrong",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_607",
       "SetID": "415jc5c",
       "Name": "Shadow Stalkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_608",
@@ -13747,9 +13752,9 @@
       "ID": "objective_completed_637",
       "SetID": "415jc5c",
       "Name": "Zombie Dreams",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_638",
@@ -13771,9 +13776,9 @@
       "ID": "objective_completed_641",
       "SetID": "415jc5c",
       "Name": "The Path of Redcaps",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_642",
@@ -14363,9 +14368,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_839",
@@ -14387,9 +14392,9 @@
       "ID": "objective_completed_843",
       "SetID": "415jc5c",
       "Name": "The Madness of Yeenoghu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_844",
@@ -14539,9 +14544,9 @@
       "ID": "objective_completed_872",
       "SetID": "415jc5c",
       "Name": "Elturel\u0027s Last Stand",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_873",
@@ -14956,21 +14961,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68141,
+      "Progressed": 68185,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101867,
+      "Progressed": 101911,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-22T03:08:54.2760191+00:00",
+  "LastChanged_Achievements": "2023-06-22T04:08:25.0172563+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:59:12.9842317+00:00",
-  "LastUpdate_Achievements": "2023-06-22T03:08:54.2790077+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:58:57.9435496+00:00",
+  "LastUpdate_Achievements": "2023-06-22T04:08:25.0304283+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,892 |
+| Follow the Light | 32.00% | ~17,893 |
 | Let There Be Light | 26.00% | ~14,538 |
-| Float Like a Butterfly | 25.00% | ~13,978 |
+| Float Like a Butterfly | 25.00% | ~13,979 |
 | Nordic Walking | 20.00% | ~11,183 |
 | Bright Falls' Finest | 19.00% | ~10,624 |
-| Under a Thin Layer of Skin | 17.00% | ~9,505 |
+| Under a Thin Layer of Skin | 17.00% | ~9,506 |
 | Park Ranger | 14.00% | ~7,828 |
 | Paging Mr. Wake | 14.00% | ~7,828 |
 | Back! Back, I Say! | 13.00% | ~7,269 |
@@ -21,11 +21,11 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 11.00% | ~6,151 |
 | Sound and Fury | 11.00% | ~6,151 |
 | Missed by a Mile | 11.00% | ~6,151 |
-| Heavy Metal | 10.00% | ~5,591 |
-| Iron Horse | 10.00% | ~5,591 |
-| The Six-Gun Scribe | 10.00% | ~5,591 |
-| Collateral Carnage | 10.00% | ~5,591 |
-| Come One, Come All | 10.00% | ~5,591 |
+| Heavy Metal | 10.00% | ~5,592 |
+| Iron Horse | 10.00% | ~5,592 |
+| The Six-Gun Scribe | 10.00% | ~5,592 |
+| Collateral Carnage | 10.00% | ~5,592 |
+| Come One, Come All | 10.00% | ~5,592 |
 | Perchance to Dream | 9.00% | ~5,032 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,032 |
 | Thunder and Lightning | 9.00% | ~5,032 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 3.00% | ~1,677 |
 | If It Flies, It Burns | 3.00% | ~1,677 |
 | KBF-FM | 3.00% | ~1,677 |
-| Kill Your Darlings | 3.00% | ~581 |
-| Heartbreaker | 3.00% | ~581 |
+| Kill Your Darlings | 3.00% | ~582 |
+| Heartbreaker | 3.00% | ~582 |
 | Medical Opinions | 2.00% | ~1,118 |
 | Taken Season | 2.00% | ~1,118 |
 | Carny | 2.00% | ~1,118 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,914 (Ranked 79)  
+Progressed: 55,916 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-19 | 55,743 | 56 |
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
-| 2023-06-22 | 55,914 | 56 |
+| 2023-06-22 | 55,916 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

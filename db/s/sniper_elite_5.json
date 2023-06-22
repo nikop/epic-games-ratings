@@ -6,8 +6,8 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -350,11 +350,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3075,
+  "EOS_Progressed": 3077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -4150,6 +4150,11 @@
       "Time": "2023-06-22T03:08:42.7915504+00:00",
       "NumProgressed": 3075,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T04:08:14.872638+00:00",
+      "NumProgressed": 3077,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4327,9 +4332,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4527,9 +4532,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -4728,13 +4733,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3026,
+      "Progressed": 3028,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3075,
+      "Progressed": 3077,
       "Completed": 2
     }
   ],
@@ -4742,8 +4747,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-22T03:08:42.7915496+00:00",
+  "LastChanged_Achievements": "2023-06-22T04:08:14.8726374+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:03:19.6858227+00:00",
-  "LastUpdate_Achievements": "2023-06-22T03:08:42.7917203+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:02:47.8949388+00:00",
+  "LastUpdate_Achievements": "2023-06-22T04:08:14.8727352+00:00"
 }

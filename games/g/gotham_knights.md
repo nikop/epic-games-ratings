@@ -14,23 +14,23 @@ Rating: 4.17 (Ranked 857)
 | Knighthood | 3.00% | ~1,975 |
 | Whispered Words | 3.00% | ~1,975 |
 | Lock and Key | 3.00% | ~1,975 |
-| In Your Element | 2.00% | ~1,316 |
-| Protector of Gotham | 2.00% | ~1,316 |
-| Something in the Clay | 2.00% | ~1,316 |
-| The Show Mud Go On | 2.00% | ~1,316 |
-| Rock and a Hard Place | 2.00% | ~1,316 |
-| Not On My Watch | 2.00% | ~1,316 |
-| Shock Til They Drop | 2.00% | ~1,316 |
-| Quartzer Life Crisis | 2.00% | ~1,316 |
-| Snow Problem | 2.00% | ~1,316 |
-| Cooldown | 2.00% | ~1,316 |
-| Working Hard or Harley Working? | 2.00% | ~1,316 |
-| Universal Health Scare | 2.00% | ~1,316 |
-| Unstoppable Force | 2.00% | ~1,316 |
-| Bad Apples in Every Orchard | 2.00% | ~1,316 |
-| From Inside Gotham's Walls | 2.00% | ~1,316 |
-| Voiceless | 2.00% | ~1,316 |
-| Seeking Asylum | 2.00% | ~1,316 |
+| In Your Element | 2.00% | ~1,317 |
+| Protector of Gotham | 2.00% | ~1,317 |
+| Something in the Clay | 2.00% | ~1,317 |
+| The Show Mud Go On | 2.00% | ~1,317 |
+| Rock and a Hard Place | 2.00% | ~1,317 |
+| Not On My Watch | 2.00% | ~1,317 |
+| Shock Til They Drop | 2.00% | ~1,317 |
+| Quartzer Life Crisis | 2.00% | ~1,317 |
+| Snow Problem | 2.00% | ~1,317 |
+| Cooldown | 2.00% | ~1,317 |
+| Working Hard or Harley Working? | 2.00% | ~1,317 |
+| Universal Health Scare | 2.00% | ~1,317 |
+| Unstoppable Force | 2.00% | ~1,317 |
+| Bad Apples in Every Orchard | 2.00% | ~1,317 |
+| From Inside Gotham's Walls | 2.00% | ~1,317 |
+| Voiceless | 2.00% | ~1,317 |
+| Seeking Asylum | 2.00% | ~1,317 |
 | End of an Era | 1.00% | ~658 |
 | Bulldozed | 1.00% | ~658 |
 | Out of Their League | 1.00% | ~658 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,825 (Ranked 72)  
+Progressed: 65,826 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 96 (0.15%) (Ranked 163)
 | 2023-06-19 | 65,692 | 95 |
 | 2023-06-20 | 65,758 | 96 |
 | 2023-06-21 | 65,809 | 96 |
-| 2023-06-22 | 65,825 | 96 |
+| 2023-06-22 | 65,826 | 96 |
 ## Awards
 Max (Great Boss Battles): 2,354  (Ranked 99)  
 Sum: 3,903 (Ranked 136)  

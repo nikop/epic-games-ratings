@@ -2,9 +2,9 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -291,6 +291,11 @@
       "Time": "2023-06-18T14:07:02.9038666+00:00",
       "NumProgressed": 205,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T04:08:05.6923748+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -366,15 +371,15 @@
       "Name": "Small-time Finder",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -446,7 +451,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -493,13 +498,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 5
     }
   ],
@@ -507,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-22T03:08:32.0328395+00:00",
+  "LastChanged_Achievements": "2023-06-22T04:08:05.6923742+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:49.4883204+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:01:03.1949612+00:00",
-  "LastUpdate_Achievements": "2023-06-22T03:08:32.0328737+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:00:39.9812625+00:00",
+  "LastUpdate_Achievements": "2023-06-22T04:08:05.6923939+00:00"
 }

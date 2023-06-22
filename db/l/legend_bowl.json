@@ -4,7 +4,7 @@
   "ProductSlug": "legend-bowl-10bc86",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-02T23:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.9619923+00:00",
   "LastChanged": "2023-03-31T05:58:45.9619924+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:03.9432762+00:00",
-  "LastUpdate_Ratings": "2023-06-22T03:03:23.8021943+00:00",
-  "LastUpdate_Achievements": "2023-06-22T03:08:05.8820086+00:00"
+  "LastUpdate_Ratings": "2023-06-22T04:02:51.0955677+00:00",
+  "LastUpdate_Achievements": "2023-06-22T04:07:23.4765069+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,099 |
-| A Keen Sense of Spell | 8.00% | ~22,479 |
-| First Class Student | 8.00% | ~22,479 |
-| Troll with the Punches | 8.00% | ~22,479 |
-| That's a Keeper | 8.00% | ~22,479 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,100 |
+| A Keen Sense of Spell | 8.00% | ~22,480 |
+| First Class Student | 8.00% | ~22,480 |
+| Troll with the Punches | 8.00% | ~22,480 |
+| That's a Keeper | 8.00% | ~22,480 |
 | Grappling with a Graphorn | 7.00% | ~19,670 |
 | The One Who Mastered Memories | 7.00% | ~19,670 |
 | The Hallowed Hero | 7.00% | ~19,670 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,993 (Ranked 41)  
+Progressed: 280,996 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,10 +114,10 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
-| 2023-06-22 | 280,993 | 408 |
+| 2023-06-22 | 280,996 | 408 |
 ## Awards
 Max (Character Customization): 20,236  (Ranked 18)  
-Sum: 37,558 (Ranked 30)  
+Sum: 37,560 (Ranked 30)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -132,7 +132,7 @@ Diff (max vs sum): -12
 | This game is Highly Recommended | 788 |
 | This game has Quickly Understood Controls | 739 |
 | This game has Beautiful Visuals | 682 |
-| This game has a Creative Community | 518 |
+| This game has a Creative Community | 520 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -226,3 +226,4 @@ Diff (max vs sum): -12
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
+| 2023-06-22 | 4.77 | 20,236 | 37,560 |

@@ -15,7 +15,7 @@
 | Blurry depth perception | 80.00% | ~67 |
 | Up and down | 75.00% | ~63 |
 | Rolling, Rolling, Rolling | 71.00% | ~60 |
-| Fire-fighter! | 68.00% | ~57 |
+| Fire-fighter! | 69.00% | ~58 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~53 |
 | Oh, you're up to no gouda! | 62.00% | ~52 |
 | Meat grinder | 60.00% | ~50 |
@@ -28,9 +28,9 @@
 | Thats disgusting! | 48.00% | ~40 |
 | Cockadoodledoo! | 48.00% | ~40 |
 | Surprise!! | 43.00% | ~36 |
-| Self assessed tax return | 39.00% | ~33 |
+| Self assessed tax return | 40.00% | ~34 |
+| Make America Grate Again | 38.00% | ~32 |
 | Haemochromatosis | 38.00% | ~32 |
-| Make America Grate Again | 37.00% | ~31 |
 | Pasta Bolognese | 36.00% | ~30 |
 | You are no match for me, Billy! | 35.00% | ~29 |
 | Catch the bus with me! | 35.00% | ~29 |

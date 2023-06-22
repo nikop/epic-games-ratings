@@ -6,6 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cursed Farmer | 0.20% | ~204 |
 | Frail Doesn't Mean Broken | 0.10% | ~68 |
 | The Castle of a Thousand Vecnas | 0.10% | ~68 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~68 |
@@ -31,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.10% | ~102 |
 | Not Very Charming | 0.10% | ~102 |
 | Lobsterfolk Assault | 0.10% | ~102 |
+| Taking Responsibility | 0.10% | ~102 |
 | The Minions of Endelyn Moongrave | 0.10% | ~68 |
 | Between a Brigganock and a Hard Place | 0.10% | ~68 |
 | Love Unsoiled | 0.10% | ~68 |
@@ -103,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.10% | ~102 |
 | Seeds of Deceit | 0.10% | ~102 |
 | Visions of Strahd | 0.10% | ~102 |
+| Seeds of Corruption | 0.10% | ~102 |
 | The Strahd Squad | 0.10% | ~68 |
 | Trollskull Manor | 0.10% | ~102 |
 | The Gargoyle's Apprentice | 0.10% | ~102 |
@@ -112,7 +115,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~102 |
 | Our Time To Shine | 0.10% | ~102 |
 | Review by the Blackstaff | 0.10% | ~68 |
-| The Cursed Farmer | 0.10% | ~102 |
 | The Ring of Regeneration | 0.10% | ~102 |
 | The Crumbling Temple | 0.10% | ~102 |
 | The Death Curse | 0.10% | ~102 |
@@ -128,6 +130,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.10% | ~102 |
 | The Killer Mists | 0.10% | ~102 |
 | Seeking Allies | 0.10% | ~102 |
+| Class Vacation | 0.10% | ~102 |
 | A Nod from Strahd | 0.10% | ~68 |
 | Backtracking Through Barovia | 0.10% | ~102 |
 | Diversity Day-Trip | 0.10% | ~102 |
@@ -138,6 +141,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.10% | ~102 |
 | Useless Allies | 0.10% | ~102 |
 | Stumbling Escape | 0.10% | ~102 |
+| Distracted Escape | 0.10% | ~68 |
 | Fugitives | 0.10% | ~102 |
 | From The Shadows | 0.10% | ~102 |
 | Spined Nuisances | 0.10% | ~102 |
@@ -157,6 +161,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flame(skull) War | 0.10% | ~102 |
 | Enter the Sargauth | 0.10% | ~102 |
 | Elder Rune Madness | 0.10% | ~102 |
+| The Madness Grows | 0.10% | ~102 |
 | The Madness Peaks | 0.10% | ~68 |
 | Who Lurks in Lurkwood | 0.10% | ~102 |
 | Bullywugs in the Bog | 0.10% | ~102 |
@@ -191,6 +196,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Social Grace | 0.10% | ~68 |
 | Evergreens with an Evergreen | 0.10% | ~68 |
 | Meepo's Quest | 0.10% | ~102 |
+| She's Harmless! | 0.10% | ~102 |
 | The Tallest of Kobolds | 0.10% | ~68 |
 | Patience is Key | 0.10% | ~102 |
 | The Darkness Runs Deeper | 0.10% | ~102 |
@@ -199,6 +205,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Wanted | 0.10% | ~68 |
 | Difficult Terrain | 0.10% | ~102 |
 | Cold & Wet | 0.10% | ~102 |
+| Madcap Adventures | 0.10% | ~102 |
 | Faerûn's Most Neglected | 0.10% | ~68 |
 | Vault of Dragons | 0.10% | ~102 |
 | Vault of Pixies | 0.10% | ~102 |
@@ -209,8 +216,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.10% | ~68 |
 | Running of the Saurs | 0.10% | ~102 |
 | Lost in the Goblin Halls | 0.10% | ~102 |
+| Batiri in the Goblin Halls | 0.10% | ~102 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~68 |
 | The Twilight Grove | 0.10% | ~102 |
+| The Nimble Grove | 0.10% | ~102 |
+| The Misty Grove | 0.10% | ~68 |
 | The Contagious Curse | 0.10% | ~102 |
 | Dinosaur Racing | 0.10% | ~102 |
 | Elturel Has Fallen | 0.10% | ~102 |
@@ -218,6 +228,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Earthquake! | 0.10% | ~68 |
 | Hailstorm! | 0.10% | ~68 |
 | Resolve Amongst Chaos | 0.10% | ~102 |
+| All You Know Is Wrong | 0.10% | ~102 |
+| Shadow Stalkers | 0.10% | ~68 |
 | Avernus Frozen Over | 0.10% | ~68 |
 | Market Fluctuations | 0.10% | ~102 |
 | Once More Into The Breach | 0.10% | ~102 |
@@ -243,8 +255,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.10% | ~68 |
 | Dreamscape | 0.10% | ~68 |
 | Dream Gauntlet | 0.10% | ~68 |
+| Zombie Dreams | 0.10% | ~68 |
 | Look Out! | 0.10% | ~68 |
 | The Path of Dreams | 0.10% | ~68 |
+| The Path of Redcaps | 0.10% | ~68 |
 | The Path of Trials | 0.10% | ~68 |
 | Bad Odds in Avernus | 0.10% | ~68 |
 | The Lost Hollyphant | 0.10% | ~68 |
@@ -318,8 +332,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~68 |
 | It's Cold Out There Every Day | 0.10% | ~68 |
 | The Bleeding Citadel | 0.10% | ~68 |
+| Don't Pick at the Scab | 0.10% | ~68 |
 | Going To Eleven | 0.10% | ~68 |
 | Idyllglen | 0.10% | ~68 |
+| The Madness of Yeenoghu | 0.10% | ~68 |
 | Reya Reborn | 0.10% | ~68 |
 | The Radiant Nightmare | 0.10% | ~68 |
 | Quick Thinking | 0.10% | ~68 |
@@ -337,6 +353,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.10% | ~68 |
 | The Battle of High Hall Tower | 0.10% | ~68 |
 | The Stunning Tower Battle | 0.10% | ~68 |
+| Elturel's Last Stand | 0.10% | ~68 |
 | Gargauth's Betrayal | 0.10% | ~68 |
 | Lost in the Underdark | 0.10% | ~68 |
 | Demons Here, Demons There | 0.10% | ~68 |
@@ -474,27 +491,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.00% | ~0 |
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
-| Taking Responsibility | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Seeds of Corruption | 0.00% | ~0 |
-| Class Vacation | 0.00% | ~0 |
-| Distracted Escape | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| The Madness Grows | 0.00% | ~0 |
-| She's Harmless! | 0.00% | ~0 |
-| Madcap Adventures | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
-| Batiri in the Goblin Halls | 0.00% | ~0 |
-| The Nimble Grove | 0.00% | ~0 |
-| The Misty Grove | 0.00% | ~0 |
-| All You Know Is Wrong | 0.00% | ~0 |
-| Shadow Stalkers | 0.00% | ~0 |
-| Zombie Dreams | 0.00% | ~0 |
-| The Path of Redcaps | 0.00% | ~0 |
-| Don't Pick at the Scab | 0.00% | ~0 |
-| The Madness of Yeenoghu | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Elturel's Last Stand | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Cackling Horror | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,867 (Ranked 63)  
+Progressed: 101,911 (Ranked 63)  
 Completed: 1,975 (1.94%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 101,867 | 1,975 |
+| 2023-06-22 | 101,911 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,163 (Ranked 37)  

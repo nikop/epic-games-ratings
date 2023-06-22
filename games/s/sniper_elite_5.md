@@ -6,9 +6,9 @@ Rating: 4.48 (Ranked 582)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Starting to Crack | 0.90% | ~28 |
+| Confirming Suspicions | 0.80% | ~25 |
 | Meeting Resistance | 0.70% | ~22 |
-| Confirming Suspicions | 0.70% | ~22 |
-| Taking it back | 0.70% | ~22 |
+| Taking it back | 0.60% | ~18 |
 | Just a Flesh Wound | 0.50% | ~15 |
 | Sharpshooter | 0.50% | ~15 |
 | The Kraken Wakes | 0.50% | ~15 |
@@ -77,8 +77,8 @@ Rating: 4.48 (Ranked 582)
 | Fight Another Day | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,075 (Ranked 144)  
-Completed: 2 (0.07%) (Ranked 186)  
+Progressed: 3,077 (Ranked 144)  
+Completed: 2 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 2 (0.07%) (Ranked 186)
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
-| 2023-06-22 | 3,075 | 2 |
+| 2023-06-22 | 3,077 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

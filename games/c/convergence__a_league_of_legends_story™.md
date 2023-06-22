@@ -13,6 +13,7 @@
 | Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
+| The Brass Boss | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~78 |
 | The Harder They Fall | 11.00% | ~78 |
 | No, Thanks! | 11.00% | ~78 |
@@ -22,7 +23,6 @@
 | Honest Mistake | 11.00% | ~78 |
 | Fast Learner | 11.00% | ~78 |
 | Immaculate Aim | 11.00% | ~78 |
-| The Brass Boss | 11.00% | ~78 |
 | Like Clockwork | 10.00% | ~71 |
 | Street Style | 10.00% | ~71 |
 | The Man Who Shattered Time | 10.00% | ~71 |

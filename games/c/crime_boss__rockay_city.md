@@ -5,27 +5,27 @@ Rating: 3.94 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,898 |
-| First One’s Free | 65.00% | ~43,830 |
-| Neophyte Ninja | 50.00% | ~33,715 |
-| Too Old for This | 47.00% | ~31,692 |
-| Fancy Pants | 35.00% | ~23,600 |
-| Case Closed | 34.00% | ~22,926 |
-| King of the Hill | 34.00% | ~22,926 |
-| Underworld Initiate | 29.00% | ~19,555 |
-| Roid Ranger | 21.00% | ~14,160 |
+| Downed but Not Outed | 74.00% | ~49,901 |
+| First One’s Free | 65.00% | ~43,832 |
+| Neophyte Ninja | 50.00% | ~33,717 |
+| Too Old for This | 47.00% | ~31,694 |
+| Fancy Pants | 35.00% | ~23,602 |
+| Case Closed | 34.00% | ~22,928 |
+| King of the Hill | 34.00% | ~22,928 |
+| Underworld Initiate | 29.00% | ~19,556 |
+| Roid Ranger | 21.00% | ~14,161 |
 | True Player | 19.00% | ~12,812 |
 | Off the Rocks | 19.00% | ~12,812 |
 | Raider’s Ruin | 16.00% | ~10,789 |
 | Dragonslayer | 16.00% | ~10,789 |
 | Hidden Sonata | 13.00% | ~8,766 |
-| Rockay Rex | 11.00% | ~7,417 |
+| Rockay Rex | 11.00% | ~7,418 |
 | Freebooter | 10.00% | ~6,743 |
 | Track Star | 9.00% | ~6,069 |
 | Classy Joint | 9.00% | ~6,069 |
-| I Like Trains | 8.00% | ~5,394 |
-| Headhunter | 8.00% | ~5,394 |
-| Ding Dong | 8.00% | ~5,394 |
+| I Like Trains | 8.00% | ~5,395 |
+| Headhunter | 8.00% | ~5,395 |
+| Ding Dong | 8.00% | ~5,395 |
 | Foo Finder | 7.00% | ~4,720 |
 | Legend Looter | 5.00% | ~3,372 |
 | Savvy Seeker | 5.00% | ~3,372 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 919)
 | Geek Out | 0.50% | ~337 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,430 (Ranked 71)  
+Progressed: 67,434 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-19 | 67,268 | 34 |
 | 2023-06-20 | 67,353 | 34 |
 | 2023-06-21 | 67,421 | 34 |
-| 2023-06-22 | 67,430 | 34 |
+| 2023-06-22 | 67,434 | 34 |
 ## Awards
 Max (Diverse Characters): 337  (Ranked 221)  
 Sum: 1,610 (Ranked 208)  
