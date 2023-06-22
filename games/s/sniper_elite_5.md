@@ -9,11 +9,11 @@ Rating: 4.48 (Ranked 582)
 | Confirming Suspicions | 0.80% | ~25 |
 | Meeting Resistance | 0.70% | ~22 |
 | Taking it back | 0.70% | ~22 |
+| Change the Channel | 0.60% | ~18 |
 | Target America | 0.60% | ~18 |
 | Just a Flesh Wound | 0.50% | ~15 |
 | Sharpshooter | 0.50% | ~15 |
 | The Kraken Wakes | 0.50% | ~15 |
-| Change the Channel | 0.50% | ~15 |
 | The Kraken Sleeps | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Liberté | 0.40% | ~12 |
@@ -28,6 +28,7 @@ Rating: 4.48 (Ranked 582)
 | Skirmisher | 0.30% | ~9 |
 | Set Europe Ablaze | 0.30% | ~9 |
 | Precision Is Key | 0.30% | ~9 |
+| Die Nussknacker Sweet! | 0.30% | ~9 |
 | Der Geist | 0.30% | ~9 |
 | Close Quarters | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
@@ -37,7 +38,6 @@ Rating: 4.48 (Ranked 582)
 | Fields of Glory | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
-| Die Nussknacker Sweet! | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |

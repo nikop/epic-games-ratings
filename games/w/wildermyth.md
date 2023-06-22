@@ -54,11 +54,11 @@ Number of Ratings: 45  (23.09.2022)
 | Symbiosis | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
 | Lochias's Hunger | 2.00% | ~25 |
+| A Lowly Crust of Beef | 1.00% | ~13 |
 | Solid as the Hills | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
 | A Temperamental Shrub | 1.00% | ~13 |
-| A Lowly Crust of Beef | 0.90% | ~11 |
 | Overwhelming Monstrosity | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |

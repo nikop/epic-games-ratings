@@ -4382,10 +4382,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30163,
       "NumberOfAwardsMax": 4951
+    },
+    {
+      "Time": "2023-06-22T05:59:00.1885852+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30166,
+      "NumberOfAwardsMax": 4951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30163,
+  "NumberOfAwards": 30166,
   "NumberOfAwardsMax": 4951,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4423,7 +4429,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3965
+      "Count": 3968
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4432,9 +4438,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101964,
+  "EOS_Progressed": 102027,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11231,
+  "EOS_NewPlayers": 11294,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10932,6 +10938,11 @@
       "Time": "2023-06-22T05:08:13.3516363+00:00",
       "NumProgressed": 101964,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T06:07:41.5304559+00:00",
+      "NumProgressed": 102027,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -14701,9 +14712,9 @@
       "ID": "objective_completed_903",
       "SetID": "415jc5c",
       "Name": "Cackling Horror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_904",
@@ -14966,21 +14977,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68238,
+      "Progressed": 68301,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101964,
+      "Progressed": 102027,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-22T05:08:13.3516354+00:00",
+  "LastChanged": "2023-06-22T05:59:00.1885849+00:00",
+  "LastChanged_Achievements": "2023-06-22T06:07:41.530455+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:58:50.4573728+00:00",
-  "LastUpdate_Achievements": "2023-06-22T05:08:13.3539109+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:59:00.1885863+00:00",
+  "LastUpdate_Achievements": "2023-06-22T06:07:41.5334787+00:00"
 }

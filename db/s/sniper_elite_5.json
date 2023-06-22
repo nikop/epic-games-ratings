@@ -352,7 +352,7 @@
   "Tags": [],
   "EOS_Progressed": 3077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4380,9 +4380,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -4500,9 +4500,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4747,8 +4747,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-22T05:07:44.4126139+00:00",
+  "LastChanged_Achievements": "2023-06-22T06:07:32.3638213+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-22T05:02:24.4000125+00:00",
-  "LastUpdate_Achievements": "2023-06-22T05:07:44.4126866+00:00"
+  "LastUpdate_Ratings": "2023-06-22T06:02:25.1158247+00:00",
+  "LastUpdate_Achievements": "2023-06-22T06:07:32.36392+00:00"
 }

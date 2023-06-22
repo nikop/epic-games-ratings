@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,893 |
-| Let There Be Light | 26.00% | ~14,538 |
-| Float Like a Butterfly | 25.00% | ~13,979 |
-| Nordic Walking | 20.00% | ~11,183 |
-| Bright Falls' Finest | 19.00% | ~10,624 |
+| Follow the Light | 32.00% | ~17,894 |
+| Let There Be Light | 26.00% | ~14,539 |
+| Float Like a Butterfly | 25.00% | ~13,980 |
+| Nordic Walking | 20.00% | ~11,184 |
+| Bright Falls' Finest | 19.00% | ~10,625 |
 | Under a Thin Layer of Skin | 17.00% | ~9,506 |
-| Park Ranger | 14.00% | ~7,828 |
-| Paging Mr. Wake | 14.00% | ~7,828 |
+| Park Ranger | 14.00% | ~7,829 |
+| Paging Mr. Wake | 14.00% | ~7,829 |
 | Back! Back, I Say! | 13.00% | ~7,269 |
 | Finders Keepers | 13.00% | ~7,269 |
 | Damn Good Cup of Coffee | 12.00% | ~6,710 |
@@ -29,10 +29,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 9.00% | ~5,033 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,033 |
 | Thunder and Lightning | 9.00% | ~5,033 |
-| Gatekeeper | 8.00% | ~4,473 |
-| The Lady of the Light | 8.00% | ~4,473 |
-| Two For the Price of One | 8.00% | ~4,473 |
-| Energized! | 8.00% | ~4,473 |
+| Gatekeeper | 8.00% | ~4,474 |
+| The Lady of the Light | 8.00% | ~4,474 |
+| Two For the Price of One | 8.00% | ~4,474 |
+| Energized! | 8.00% | ~4,474 |
 | A Friend in Need | 8.00% | ~1,551 |
 | What Light Through Yonder Window | 7.00% | ~3,914 |
 | Right of Way | 7.00% | ~3,914 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,917 (Ranked 79)  
+Progressed: 55,919 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 56 (0.10%) (Ranked 173)
 | 2023-06-19 | 55,743 | 56 |
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
-| 2023-06-22 | 55,917 | 56 |
+| 2023-06-22 | 55,919 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4995,9 +4995,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53809,
+  "EOS_Progressed": 53812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11395,6 +11395,11 @@
       "Time": "2023-06-22T05:08:05.3449116+00:00",
       "NumProgressed": 53809,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T06:07:33.0651169+00:00",
+      "NumProgressed": 53812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11414,7 +11419,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "Bannerlord",
@@ -11422,7 +11427,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "Best served cold",
@@ -11566,7 +11571,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "I can do it",
@@ -11574,7 +11579,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8071
+      "UsersEstimate": 8072
     },
     {
       "ID": "I spit on your grave",
@@ -11598,7 +11603,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8610
     },
     {
       "ID": "Kingslayer",
@@ -11630,7 +11635,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 16143
+      "UsersEstimate": 16144
     },
     {
       "ID": "Lawbringer",
@@ -11638,7 +11643,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19371
+      "UsersEstimate": 19372
     },
     {
       "ID": "Lawmaker",
@@ -11646,7 +11651,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "Long live the Empire",
@@ -11782,7 +11787,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "Undercover",
@@ -11813,15 +11818,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53809,
+      "Progressed": 53812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-21T23:00:23.2258526+00:00",
-  "LastChanged_Achievements": "2023-06-22T05:08:05.344911+00:00",
+  "LastChanged_Achievements": "2023-06-22T06:07:33.0651164+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-22T05:01:16.0901594+00:00",
-  "LastUpdate_Achievements": "2023-06-22T05:08:05.3449727+00:00"
+  "LastUpdate_Ratings": "2023-06-22T06:01:12.0674949+00:00",
+  "LastUpdate_Achievements": "2023-06-22T06:07:33.0653274+00:00"
 }

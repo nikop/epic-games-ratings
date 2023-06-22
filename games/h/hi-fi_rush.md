@@ -5,23 +5,23 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,647 |
-| Feeling the beat! | 80.00% | ~2,647 |
+| Start with a bang! | 80.00% | ~2,648 |
+| Feeling the beat! | 80.00% | ~2,648 |
 | You can pet the cat! | 74.00% | ~2,449 |
-| Who put gears in there? | 68.00% | ~2,250 |
+| Who put gears in there? | 68.00% | ~2,251 |
 | Cream of the Crop | 62.00% | ~2,052 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,052 |
-| You got this, Peppermint? | 56.00% | ~1,853 |
+| You got this, Peppermint? | 56.00% | ~1,854 |
 | Perfect Parry | 54.00% | ~1,787 |
 | Alright, that felt AWESOME! | 53.00% | ~1,754 |
-| I play my own way! | 49.00% | ~1,621 |
-| This will cost you big time | 47.00% | ~1,555 |
-| Uh, they were broken when I got here | 46.00% | ~1,522 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,489 |
+| I play my own way! | 49.00% | ~1,622 |
+| This will cost you big time | 47.00% | ~1,556 |
+| Uh, they were broken when I got here | 46.00% | ~1,523 |
+| Z-shielding's got nothing on us! | 45.00% | ~1,490 |
 | Kissing the sky! | 43.00% | ~1,423 |
 | Does that say weakpoint? | 41.00% | ~1,357 |
 | Whoa! There's ANOTHER health bar!? | 39.00% | ~1,291 |
-| The Negotiator | 38.00% | ~1,257 |
+| The Negotiator | 38.00% | ~1,258 |
 | You must like calling me in, Chai | 33.00% | ~1,092 |
 | Out in a puff of smoke | 33.00% | ~1,092 |
 | Headliner | 32.00% | ~1,059 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,309 (Ranked 142)  
+Progressed: 3,310 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 5 (0.15%) (Ranked 163)
 | 2023-06-19 | 3,288 | 5 |
 | 2023-06-20 | 3,292 | 5 |
 | 2023-06-21 | 3,303 | 5 |
-| 2023-06-22 | 3,309 | 5 |
+| 2023-06-22 | 3,310 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

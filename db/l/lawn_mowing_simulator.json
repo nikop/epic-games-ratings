@@ -2041,9 +2041,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 631540,
+  "EOS_Progressed": 631554,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 3297,
+  "EOS_NewPlayers": 3303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8686,6 +8686,11 @@
       "Time": "2023-06-22T05:07:39.0528648+00:00",
       "NumProgressed": 631540,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-22T06:07:26.9763943+00:00",
+      "NumProgressed": 631554,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 54,
@@ -8697,7 +8702,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 511547
+      "UsersEstimate": 511559
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -8705,7 +8710,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -8785,7 +8790,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 227354
+      "UsersEstimate": 227359
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -8809,7 +8814,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18946
+      "UsersEstimate": 18947
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -8817,7 +8822,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18946
+      "UsersEstimate": 18947
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -8937,7 +8942,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 202093
+      "UsersEstimate": 202097
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -8969,7 +8974,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 37892
+      "UsersEstimate": 37893
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -9001,7 +9006,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 94731
+      "UsersEstimate": 94733
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -9033,7 +9038,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -9057,7 +9062,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44208
+      "UsersEstimate": 44209
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -9073,7 +9078,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18946
+      "UsersEstimate": 18947
     },
     {
       "ID": "RP_ESTEEMED",
@@ -9097,7 +9102,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 113677
+      "UsersEstimate": 113680
     },
     {
       "ID": "RP_TRUSTED",
@@ -9113,7 +9118,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 56839
+      "UsersEstimate": 56840
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -9128,15 +9133,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 631540,
+      "Progressed": 631554,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-06-11T10:57:41.8590713+00:00",
-  "LastChanged_Achievements": "2023-06-22T05:07:39.0528645+00:00",
+  "LastChanged_Achievements": "2023-06-22T06:07:26.9763937+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:42.7135206+00:00",
-  "LastUpdate_Ratings": "2023-06-22T04:58:41.4983236+00:00",
-  "LastUpdate_Achievements": "2023-06-22T05:07:39.052931+00:00"
+  "LastUpdate_Ratings": "2023-06-22T05:58:47.3411648+00:00",
+  "LastUpdate_Achievements": "2023-06-22T06:07:26.9765257+00:00"
 }

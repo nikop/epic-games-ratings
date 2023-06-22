@@ -17,9 +17,9 @@ Number of Ratings: 38  (23.09.2022)
 | A love supreme | 18.00% | ~232 |
 | In my shoes | 17.00% | ~219 |
 | Like new! | 15.00% | ~194 |
+| Heartstrings | 14.00% | ~181 |
 | Head in the clouds | 14.00% | ~181 |
 | Don't look back | 13.00% | ~168 |
-| Heartstrings | 13.00% | ~168 |
 | Back to rust | 12.00% | ~155 |
 | Flower Powered | 12.00% | ~155 |
 | Perfect timing | 10.00% | ~129 |

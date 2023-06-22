@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524727,
+  "EOS_Progressed": 1524735,
   "EOS_Completed": 629,
   "EOS_NewPlayers": 1504,
   "EOS_NewCompleters": 7,
@@ -7055,6 +7055,11 @@
       "Time": "2023-06-22T05:05:22.4936827+00:00",
       "NumProgressed": 1524727,
       "NumCompleted": 629
+    },
+    {
+      "Time": "2023-06-22T06:05:13.0758912+00:00",
+      "NumProgressed": 1524735,
+      "NumCompleted": 629
     }
   ],
   "TotalAchievements": 20,
@@ -7114,7 +7119,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137225
+      "UsersEstimate": 137226
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -7162,7 +7167,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152473
+      "UsersEstimate": 152474
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7178,7 +7183,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137225
+      "UsersEstimate": 137226
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -7210,7 +7215,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76236
+      "UsersEstimate": 76237
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -7225,15 +7230,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1524727,
+      "Progressed": 1524735,
       "Completed": 629
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-22T05:05:22.4936823+00:00",
+  "LastChanged_Achievements": "2023-06-22T06:05:13.0758906+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-22T05:01:46.3396787+00:00",
-  "LastUpdate_Achievements": "2023-06-22T05:05:22.4937252+00:00"
+  "LastUpdate_Ratings": "2023-06-22T06:01:44.4755921+00:00",
+  "LastUpdate_Achievements": "2023-06-22T06:05:13.0759699+00:00"
 }

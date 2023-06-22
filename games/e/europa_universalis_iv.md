@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,325 |
-| That's a Grand Army | 8.00% | ~4,733 |
-| That is mine! | 8.00% | ~4,733 |
-| Victorious! | 8.00% | ~4,733 |
+| Until death do us apart | 9.00% | ~5,326 |
+| That's a Grand Army | 8.00% | ~4,734 |
+| That is mine! | 8.00% | ~4,734 |
+| Victorious! | 8.00% | ~4,734 |
 | Brothers in Arms | 6.00% | ~3,550 |
 | That's a Grand Navy | 6.00% | ~3,550 |
 | Seriously?! | 6.00% | ~3,550 |
-| For the Glory | 5.00% | ~2,958 |
+| For the Glory | 5.00% | ~2,959 |
 | Cold War | 4.00% | ~2,367 |
 | True Catholic | 4.00% | ~2,367 |
 | Defender of the Faith | 3.00% | ~1,775 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~592 |
 | The Five Colonies | 1.00% | ~592 |
 | This navy can take it all | 1.00% | ~592 |
-| The Emperors new clothes | 0.90% | ~532 |
-| Isn't this the way to India? | 0.90% | ~532 |
-| Market Control | 0.90% | ~532 |
+| The Emperors new clothes | 0.90% | ~533 |
+| Isn't this the way to India? | 0.90% | ~533 |
+| Market Control | 0.90% | ~533 |
 | Down Under | 0.80% | ~473 |
 | Trustworthy | 0.80% | ~473 |
 | Electable! | 0.70% | ~414 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~237 |
 | The Continuation of Diplomacy | 0.40% | ~237 |
 | Wonderful | 0.40% | ~237 |
-| A Decent Reserve | 0.30% | ~177 |
-| A Pile of Gold | 0.30% | ~177 |
-| Grand Duchy | 0.30% | ~177 |
-| Multiculturalism | 0.30% | ~177 |
-| No Pirates in my Caribbean | 0.30% | ~177 |
-| Not so sad a state... | 0.30% | ~177 |
-| The Chrysanthemum Throne | 0.30% | ~177 |
-| Three Trivial Tributary Tribes | 0.30% | ~177 |
-| Traditional Player | 0.30% | ~177 |
-| Vasa or Wettin? | 0.30% | ~177 |
-| World Discoverer | 0.30% | ~177 |
+| A Decent Reserve | 0.30% | ~178 |
+| A Pile of Gold | 0.30% | ~178 |
+| Grand Duchy | 0.30% | ~178 |
+| Multiculturalism | 0.30% | ~178 |
+| No Pirates in my Caribbean | 0.30% | ~178 |
+| Not so sad a state... | 0.30% | ~178 |
+| The Chrysanthemum Throne | 0.30% | ~178 |
+| Three Trivial Tributary Tribes | 0.30% | ~178 |
+| Traditional Player | 0.30% | ~178 |
+| Vasa or Wettin? | 0.30% | ~178 |
+| World Discoverer | 0.30% | ~178 |
 | A Protected Market | 0.20% | ~118 |
 | AAA Credit | 0.20% | ~118 |
 | An early Reich | 0.20% | ~118 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,164 (Ranked 77)  
+Progressed: 59,174 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
-| 2023-06-22 | 59,164 | 0 |
+| 2023-06-22 | 59,174 | 0 |
 ## Awards
 Max (Educational): 5,430  (Ranked 61)  
 Sum: 44,886 (Ranked 27)  
