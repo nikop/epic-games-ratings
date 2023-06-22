@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3418,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4521,6 +4521,11 @@
       "Time": "2023-06-22T16:05:59.9872521+00:00",
       "NumProgressed": 3418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T18:07:25.1909809+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4644,14 +4649,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3418,
+      "Progressed": 3419,
       "Completed": 0
     }
   ],
@@ -4659,8 +4664,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:07:04.679298+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:07:25.1909806+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.5815325+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:58:31.6390808+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:07:04.679338+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:58:56.936179+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:07:25.1910082+00:00"
 }

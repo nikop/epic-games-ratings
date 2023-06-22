@@ -4041,9 +4041,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1791
     },
     {
       "ID": "Ach049",
@@ -4137,9 +4137,9 @@
       "ID": "Ach060",
       "SetID": "12n4k20",
       "Name": "Check out my moves!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 398
     },
     {
       "ID": "Ach061",
@@ -4168,8 +4168,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:07:32.8341884+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:07:52.1673994+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:59:11.1864296+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:07:32.8343377+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:59:32.5164409+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:07:52.1674579+00:00"
 }

@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6773,
+  "EOS_Progressed": 6775,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
@@ -4689,6 +4689,11 @@
       "Time": "2023-06-22T16:00:36.6022606+00:00",
       "NumProgressed": 6773,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-22T18:02:08.6415485+00:00",
+      "NumProgressed": 6775,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4700,7 +4705,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "ACH02",
@@ -4708,7 +4713,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH03",
@@ -4724,7 +4729,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "ACH05",
@@ -4732,7 +4737,7 @@
       "Name": "Mob Boss",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH06",
@@ -4740,7 +4745,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH07",
@@ -4860,7 +4865,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH22",
@@ -4908,7 +4913,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH28",
@@ -4931,7 +4936,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6773,
+      "Progressed": 6775,
       "Completed": 38
     }
   ],
@@ -4939,8 +4944,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:01:55.2390943+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:02:08.6415481+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:58:17.7502938+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:01:55.2391505+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:58:44.0488509+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:02:08.6415842+00:00"
 }

@@ -8,14 +8,14 @@ Rating: 4.46 (Ranked 603)
 | Meeting Resistance | 1.00% | ~31 |
 | Confirming Suspicions | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
+| The Kraken Wakes | 0.80% | ~25 |
 | Taking it back | 0.80% | ~25 |
-| The Kraken Wakes | 0.70% | ~22 |
+| Explosive Efficiency | 0.70% | ~22 |
 | Change the Channel | 0.70% | ~22 |
 | Target America | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
 | Just a Flesh Wound | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
-| Explosive Efficiency | 0.60% | ~19 |
 | Lord of War | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
@@ -30,17 +30,18 @@ Rating: 4.46 (Ranked 603)
 | Precision Is Key | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
 | Close Quarters | 0.40% | ~12 |
+| It'll Buff Right Out | 0.40% | ~12 |
 | Brains of the Operation | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |
+| Opposing Force | 0.30% | ~9 |
+| My Little Friend | 0.30% | ~9 |
 | Snake in the Grass | 0.30% | ~9 |
-| It'll Buff Right Out | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
-| Opposing Force | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Fields of Glory | 0.20% | ~6 |
+| Strategist | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
-| My Little Friend | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
@@ -51,7 +52,6 @@ Rating: 4.46 (Ranked 603)
 | If You Go Down To The Woods Today | 0.20% | ~6 |
 | Fight Another Day | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
-| Strategist | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 603)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,086 (Ranked 144)  
+Progressed: 3,087 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.06%) (Ranked 190)
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
-| 2023-06-22 | 3,086 | 2 |
+| 2023-06-22 | 3,087 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

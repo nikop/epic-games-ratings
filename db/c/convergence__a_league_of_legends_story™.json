@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1588,9 +1588,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 93
     },
     {
       "ID": "HexlockGift",
@@ -1859,8 +1859,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:06:59.9959005+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:07:21.0547889+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:00:12.6316486+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:06:59.9959986+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:00:32.0975439+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:07:21.0548315+00:00"
 }

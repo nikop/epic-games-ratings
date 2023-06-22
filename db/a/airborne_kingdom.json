@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6670,
+  "EOS_Progressed": 6671,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2113,6 +2113,11 @@
       "Time": "2023-06-22T13:11:47.0335907+00:00",
       "NumProgressed": 6670,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-22T18:07:32.7310712+00:00",
+      "NumProgressed": 6671,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2156,7 +2161,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2172,7 +2177,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2276,7 +2281,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2339,15 +2344,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6670,
+      "Progressed": 6671,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:07:12.7112099+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:07:32.7310708+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:57:45.5756052+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:07:12.7112643+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:58:12.8571869+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:07:32.7310935+00:00"
 }

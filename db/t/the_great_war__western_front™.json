@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2023-06-22T13:09:49.8636505+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T18:05:09.0496794+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1177,17 +1182,17 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1195,7 +1200,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1210,7 +1215,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 256,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:04:35.2015767+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:05:09.0496789+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.7573409+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:59:06.9359323+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:04:35.2016048+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:59:29.3438986+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:05:09.049692+00:00"
 }

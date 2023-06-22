@@ -6,17 +6,17 @@ Rating: 4.49 (Ranked 566)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~20,299 |
-| Advancement | 73.00% | ~17,230 |
-| Meticulously Efficient | 64.00% | ~15,106 |
+| Advancement | 73.00% | ~17,231 |
+| Meticulously Efficient | 64.00% | ~15,107 |
 | Discovery | 62.00% | ~14,634 |
 | Swift Rift Removers | 55.00% | ~12,982 |
 | Fully Upgraded | 54.00% | ~12,746 |
 | Cultured | 52.00% | ~12,274 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,038 |
-| Vaporous Expansion | 48.00% | ~11,329 |
-| Teamwork | 44.00% | ~10,385 |
-| There you are! | 43.00% | ~10,149 |
-| Clutch Capture | 41.00% | ~9,677 |
+| Vaporous Expansion | 48.00% | ~11,330 |
+| Teamwork | 44.00% | ~10,386 |
+| There you are! | 43.00% | ~10,150 |
+| Clutch Capture | 41.00% | ~9,678 |
 | Back Off | 36.00% | ~8,497 |
 | Daily Dose | 35.00% | ~8,261 |
 | Solo Capture | 32.00% | ~7,553 |
@@ -38,9 +38,9 @@ Rating: 4.49 (Ranked 566)
 | Tobin's Prodigy | 19.00% | ~4,485 |
 | Terrifying | 18.00% | ~4,249 |
 | Reckless | 17.00% | ~4,013 |
-| Diabolical | 16.00% | ~3,776 |
-| Escape Artist | 16.00% | ~3,776 |
-| Seasoned | 16.00% | ~3,776 |
+| Diabolical | 16.00% | ~3,777 |
+| Escape Artist | 16.00% | ~3,777 |
+| Seasoned | 16.00% | ~3,777 |
 | Whoopsie | 11.00% | ~2,596 |
 | Liability | 10.00% | ~2,360 |
 | Rivalry | 10.00% | ~2,360 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 566)
 | Mycophile | 1.00% | ~236 |
 | I don't need these | 0.90% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,603 (Ranked 95)  
+Progressed: 23,604 (Ranked 95)  
 Completed: 46 (0.19%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 46 (0.19%) (Ranked 158)
 | 2023-06-19 | 23,511 | 46 |
 | 2023-06-20 | 23,556 | 46 |
 | 2023-06-21 | 23,589 | 46 |
-| 2023-06-22 | 23,603 | 46 |
+| 2023-06-22 | 23,604 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 248)  
 Sum: 2,130 (Ranked 186)  

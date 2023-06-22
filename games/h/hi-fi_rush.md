@@ -13,7 +13,7 @@ Rating: 4.89 (Ranked 13)
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,056 |
 | You got this, Peppermint? | 56.00% | ~1,857 |
 | Perfect Parry | 54.00% | ~1,791 |
-| Alright, that felt AWESOME! | 53.00% | ~1,757 |
+| Alright, that felt AWESOME! | 54.00% | ~1,791 |
 | I play my own way! | 49.00% | ~1,625 |
 | This will cost you big time | 47.00% | ~1,559 |
 | Uh, they were broken when I got here | 46.00% | ~1,525 |
@@ -36,8 +36,8 @@ Rating: 4.89 (Ranked 13)
 | Well that was a rush! | 17.00% | ~564 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~564 |
 | Wanna hear my playlist? | 12.00% | ~398 |
+| Check out my moves! | 12.00% | ~398 |
 | Chip-tuned | 11.00% | ~365 |
-| Check out my moves! | 11.00% | ~365 |
 | We're Jammin' | 8.00% | ~265 |
 | I think I deserve some praise, here! | 7.00% | ~232 |
 | I think I found your calling, Macaron | 7.00% | ~232 |

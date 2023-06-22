@@ -543,9 +543,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_defeat_players_10",
@@ -559,9 +559,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -846,8 +846,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:04:15.793058+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:04:51.3961966+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:01:28.6833515+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:04:15.7931125+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:01:42.7111761+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:04:51.3962226+00:00"
 }

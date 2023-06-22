@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.68,
+  "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -698,6 +698,11 @@
       "Time": "2023-06-19T20:03:30.1650476+00:00",
       "NumProgressed": 148,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T18:03:44.143256+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -709,7 +714,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "avaricerite",
@@ -781,7 +786,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "easy_victory",
@@ -797,7 +802,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -875,9 +880,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "scrap_collector",
@@ -956,7 +961,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 1
     }
   ],
@@ -964,8 +969,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:03:14.7806883+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:03:44.1432555+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:29.7769184+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:00:58.7691104+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:03:14.7807342+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:01:15.4330628+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:03:44.1432771+00:00"
 }

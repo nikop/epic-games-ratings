@@ -2,9 +2,9 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.48,
+  "EOS_Completed_Percentage": 7.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -101,6 +101,11 @@
       "Time": "2023-06-16T19:06:09.8146091+00:00",
       "NumProgressed": 107,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-22T18:07:36.8571809+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -110,7 +115,7 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 35
     },
@@ -128,7 +133,7 @@
       "Name": "Cassette",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "04_Mug",
@@ -198,9 +203,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "13_DrAntivirus",
@@ -222,7 +227,7 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
       "UsersEstimate": 68
     },
@@ -230,7 +235,7 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 65
     },
@@ -238,7 +243,7 @@
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -294,7 +299,7 @@
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -318,7 +323,7 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 70,
       "UsersEstimate": 37
     },
@@ -336,14 +341,14 @@
       "Name": "Act 3",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 8
     }
   ],
@@ -351,8 +356,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:07:16.4910347+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:07:36.8571805+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:38.5606048+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:58:20.6290362+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:07:16.4910704+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:58:46.7535067+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:07:36.8571975+00:00"
 }

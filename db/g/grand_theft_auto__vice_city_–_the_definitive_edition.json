@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 117,
@@ -466,9 +466,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8697,
+  "EOS_Progressed": 8698,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5226,6 +5226,11 @@
       "Time": "2023-06-22T17:03:43.0895237+00:00",
       "NumProgressed": 8697,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-22T18:04:21.1211428+00:00",
+      "NumProgressed": 8698,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 34,
@@ -5405,7 +5410,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "ACH23",
@@ -5413,7 +5418,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "ACH24",
@@ -5508,7 +5513,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8697,
+      "Progressed": 8698,
       "Completed": 37
     }
   ],
@@ -5516,8 +5521,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-22T12:00:29.6050811+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:03:43.0895229+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:04:21.1211424+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:58:46.1020034+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:03:43.0895996+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:59:09.7038282+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:04:21.1211862+00:00"
 }

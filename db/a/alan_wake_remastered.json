@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55948,
+  "EOS_Progressed": 55950,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5757,6 +5757,11 @@
       "Time": "2023-06-22T17:01:52.3111818+00:00",
       "NumProgressed": 55948,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T18:02:06.0097824+00:00",
+      "NumProgressed": 55950,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5768,7 +5773,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17903
+      "UsersEstimate": 17904
     },
     {
       "ID": "02",
@@ -5800,7 +5805,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9511
+      "UsersEstimate": 9512
     },
     {
       "ID": "06",
@@ -5856,7 +5861,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "13",
@@ -5896,7 +5901,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "18",
@@ -5952,7 +5957,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "25",
@@ -5960,7 +5965,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "26",
@@ -5968,7 +5973,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "27",
@@ -6008,7 +6013,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "32",
@@ -6016,7 +6021,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13987
+      "UsersEstimate": 13988
     },
     {
       "ID": "33",
@@ -6040,7 +6045,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "36",
@@ -6080,7 +6085,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "41",
@@ -6088,7 +6093,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "42",
@@ -6152,7 +6157,7 @@
       "Name": "Couch Potato",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "50",
@@ -6192,7 +6197,7 @@
       "Name": "Words Will Never Harm You",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "55",
@@ -6224,7 +6229,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "59",
@@ -6240,7 +6245,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "61",
@@ -6296,28 +6301,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55948,
+      "Progressed": 55950,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19416,
+      "Progressed": 19418,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T17:01:52.3111809+00:00",
+  "LastChanged_Achievements": "2023-06-22T18:02:06.009782+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T16:58:03.4440537+00:00",
-  "LastUpdate_Achievements": "2023-06-22T17:01:52.3113049+00:00"
+  "LastUpdate_Ratings": "2023-06-22T17:58:30.1756809+00:00",
+  "LastUpdate_Achievements": "2023-06-22T18:02:06.0098898+00:00"
 }
