@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "Big_Spender",
       "SetID": "gl7plp",
       "Name": "Big Spender",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "Clarity_of_Mind",
@@ -646,8 +646,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:07:58.9455207+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:05:49.8374085+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.1262224+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:59:22.6358005+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:07:58.9455578+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:59:06.3661396+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:05:49.8374312+00:00"
 }

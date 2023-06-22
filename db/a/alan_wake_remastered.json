@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55926,
+  "EOS_Progressed": 55927,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5727,6 +5727,11 @@
       "Time": "2023-06-22T11:07:39.365566+00:00",
       "NumProgressed": 55926,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T12:05:33.188134+00:00",
+      "NumProgressed": 55927,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5738,7 +5743,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17896
+      "UsersEstimate": 17897
     },
     {
       "ID": "02",
@@ -5770,7 +5775,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9507
+      "UsersEstimate": 9508
     },
     {
       "ID": "06",
@@ -5978,7 +5983,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7270
+      "UsersEstimate": 7271
     },
     {
       "ID": "32",
@@ -6058,7 +6063,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7270
+      "UsersEstimate": 7271
     },
     {
       "ID": "42",
@@ -6273,21 +6278,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55926,
+      "Progressed": 55927,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19394,
+      "Progressed": 19395,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:07:39.3655654+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:05:33.1881335+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:59:32.6385249+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:07:39.3656838+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:59:13.3297475+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:05:33.1882171+00:00"
 }

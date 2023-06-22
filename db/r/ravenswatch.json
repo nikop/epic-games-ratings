@@ -4,8 +4,8 @@
   "ProductSlug": "ravenswatch-b0115d",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:58:55.5234646+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:04:04.3994949+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:11:29.7815889+00:00"
+  "LastUpdate_Ratings": "2023-06-22T12:02:56.8666819+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:08:46.5931407+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Wraith | 62.00% | ~278 |
 | Welcome to Mordor! | 52.00% | ~233 |
-| Collectibles Part 1 | 50.00% | ~224 |
+| Collectibles Part 1 | 51.00% | ~228 |
 | Wait! Wait! Not yet! | 38.00% | ~170 |
 | Like Flying... | 33.00% | ~148 |
 | Memories | 29.00% | ~130 |

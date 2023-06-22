@@ -17,8 +17,8 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 1.00% | ~56 |
 | Drunk and Disorderly: Ashley | 0.60% | ~34 |
 | IRL Let's Player | 0.60% | ~34 |
-| Newcomer: Vickie | 0.60% | ~34 |
 | Inspector | 0.50% | ~28 |
+| Newcomer: Vickie | 0.50% | ~28 |
 | Social Butterfly | 0.50% | ~28 |
 | Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,636 (Ranked 128)  
+Progressed: 5,637 (Ranked 128)  
 Completed: 3 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.05%) (Ranked 195)
 | 2023-06-19 | 5,626 | 3 |
 | 2023-06-20 | 5,632 | 3 |
 | 2023-06-21 | 5,633 | 3 |
-| 2023-06-22 | 5,636 | 3 |
+| 2023-06-22 | 5,637 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3614,9 +3614,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 219
     },
     {
       "ID": "gearenchanting",
@@ -4015,8 +4015,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:12:46.1964837+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:10:22.182208+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:00:17.6141111+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:12:46.1965872+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:59:58.4638713+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:10:22.1822826+00:00"
 }

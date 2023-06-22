@@ -2,13 +2,13 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 621,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -326,10 +326,10 @@
     }
   ],
   "EOS_Progressed": 1665,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:31.998977+00:00",
@@ -1180,6 +1180,11 @@
       "Time": "2023-06-22T03:03:32.1904891+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T12:05:41.5186184+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1615,14 +1620,14 @@
       "ID": "8j30i9k",
       "IsBase": true,
       "Progressed": 1665,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:07:48.9805289+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:05:41.518618+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.0482083+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:01:36.9663743+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:07:48.9805779+00:00"
+  "LastUpdate_Ratings": "2023-06-22T12:01:01.6652895+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:05:41.5186585+00:00"
 }

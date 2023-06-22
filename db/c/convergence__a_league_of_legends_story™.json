@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1735,9 +1735,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 78
     },
     {
       "ID": "SkillCompletion1",
@@ -1854,8 +1854,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:12:15.7377237+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:09:25.0697776+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:04:14.8461808+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:12:15.737781+00:00"
+  "LastUpdate_Ratings": "2023-06-22T12:03:02.3079314+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:09:25.0698212+00:00"
 }

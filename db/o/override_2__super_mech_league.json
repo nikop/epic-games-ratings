@@ -4,8 +4,8 @@
   "ProductSlug": "override-2-super-mech-league",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-05T13:00:00+00:00",
     "PcReleaseDate": "2020-12-22T09:41:21+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.7943369+00:00",
   "LastChanged": "2023-03-31T05:57:40.7943371+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:56.7341142+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:04:03.613787+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:11:31.1153312+00:00"
+  "LastUpdate_Ratings": "2023-06-22T12:02:56.2113453+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:08:47.5340646+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5821,10 +5821,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 37443,
       "NumberOfAwardsMax": 4404
+    },
+    {
+      "Time": "2023-06-22T12:03:39.0891675+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 37446,
+      "NumberOfAwardsMax": 4404
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37443,
+  "NumberOfAwards": 37446,
   "NumberOfAwardsMax": 4404,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5838,7 +5844,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3977
+      "Count": 3980
     },
     {
       "Text": "This game is Educational",
@@ -5901,9 +5907,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44429,
+  "EOS_Progressed": 44430,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11311,6 +11317,11 @@
       "Time": "2023-06-22T10:07:26.6144138+00:00",
       "NumProgressed": 44429,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T12:05:41.3014601+00:00",
+      "NumProgressed": 44430,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -11354,7 +11365,7 @@
       "Name": "Road Trip",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "CollectiblesAlpine",
@@ -11474,7 +11485,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33766
+      "UsersEstimate": 33767
     },
     {
       "ID": "HorseJumps",
@@ -11530,7 +11541,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23547
+      "UsersEstimate": 23548
     },
     {
       "ID": "NumBeehives",
@@ -11538,7 +11549,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "NumDrivables",
@@ -11610,7 +11621,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27990
+      "UsersEstimate": 27991
     },
     {
       "ID": "Stones",
@@ -11618,7 +11629,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "TractorDriving",
@@ -11626,7 +11637,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19104
+      "UsersEstimate": 19105
     },
     {
       "ID": "TruckDriving",
@@ -11665,15 +11676,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44429,
+      "Progressed": 44430,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-06-22T05:01:09.5835135+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:07:48.9071365+00:00",
+  "LastChanged": "2023-06-22T12:03:39.0891674+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:05:41.3014596+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:14.3676072+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:05:00.1718621+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:07:48.9072057+00:00"
+  "LastUpdate_Ratings": "2023-06-22T12:03:39.0891678+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:05:41.3015128+00:00"
 }

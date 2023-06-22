@@ -6,17 +6,17 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,766 |
+| Own use | 76.00% | ~33,767 |
 | I read Shakespeare and stuff | 64.00% | ~28,435 |
-| Just a sprinkle | 63.00% | ~27,990 |
+| Just a sprinkle | 63.00% | ~27,991 |
 | I'm stumped | 61.00% | ~27,102 |
 | Plant get enough | 61.00% | ~27,102 |
 | This is just my weekend vehicle | 58.00% | ~25,769 |
 | It's just the beginning | 58.00% | ~25,769 |
-| Hard work pays off | 53.00% | ~23,547 |
+| Hard work pays off | 53.00% | ~23,548 |
 | It's never too late to farm | 47.00% | ~20,882 |
 | All out of Land | 44.00% | ~19,549 |
-| Field Trip | 43.00% | ~19,104 |
+| Field Trip | 43.00% | ~19,105 |
 | I like to switch it up | 40.00% | ~17,772 |
 | Help me to help you | 38.00% | ~16,883 |
 | Ultimutt Pawesomeness | 28.00% | ~12,440 |
@@ -30,15 +30,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 15.00% | ~6,664 |
 | That's a wrap | 14.00% | ~6,220 |
 | Fix me up | 13.00% | ~5,776 |
-| Rock on | 12.00% | ~5,331 |
+| Rock on | 12.00% | ~5,332 |
 | It's sow easy | 11.00% | ~4,887 |
 | Highly cultivated | 10.00% | ~4,443 |
 | Giddy-up! | 10.00% | ~4,443 |
 | Cowherd | 7.00% | ~3,110 |
 | Fluffyness | 6.00% | ~2,666 |
 | Helper A does not stop … ever | 6.00% | ~2,666 |
-| Road Trip | 5.00% | ~2,221 |
-| Bringing in the Honey | 5.00% | ~2,221 |
+| Road Trip | 5.00% | ~2,222 |
+| Bringing in the Honey | 5.00% | ~2,222 |
 | Three little piggies… | 4.00% | ~1,777 |
 | Game on | 4.00% | ~1,777 |
 | Pretty colourful | 0.90% | ~400 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~178 |
 | Raisin the stakes | 0.30% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,429 (Ranked 85)  
+Progressed: 44,430 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,15 +113,15 @@ Completed: 5 (0.01%) (Ranked 216)
 | 2023-06-19 | 44,333 | 5 |
 | 2023-06-20 | 44,379 | 5 |
 | 2023-06-21 | 44,421 | 5 |
-| 2023-06-22 | 44,429 | 5 |
+| 2023-06-22 | 44,430 | 5 |
 ## Awards
 Max (Great for Beginners): 4,404  (Ranked 70)  
-Sum: 37,443 (Ranked 32)  
+Sum: 37,446 (Ranked 32)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,404 |
-| This game is Relaxing | 3,977 |
+| This game is Relaxing | 3,980 |
 | This game is Educational | 3,927 |
 | This game has Quickly Understood Controls | 3,900 |
 | This game is Highly Recommended | 3,762 |
@@ -291,4 +291,4 @@ Diff (max vs sum): 38
 | 2023-06-19 | 4.70 | - | 4,394 | 37,382 |
 | 2023-06-20 | 4.70 | - | 4,399 | 37,407 |
 | 2023-06-21 | 4.70 | - | 4,404 | 37,440 |
-| 2023-06-22 | 4.70 | - | 4,404 | 37,443 |
+| 2023-06-22 | 4.70 | - | 4,404 | 37,446 |

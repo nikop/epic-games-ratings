@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6668,
+  "EOS_Progressed": 6669,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2103,6 +2103,11 @@
       "Time": "2023-06-21T23:06:22.5814466+00:00",
       "NumProgressed": 6668,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-22T12:10:06.9591891+00:00",
+      "NumProgressed": 6669,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2146,7 +2151,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2266,7 +2271,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3734
+      "UsersEstimate": 3735
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2306,7 +2311,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -2314,7 +2319,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2329,15 +2334,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6668,
+      "Progressed": 6669,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:12:29.4909915+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:10:06.9591886+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:58:49.0916369+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:12:29.4910218+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:58:50.2183798+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:10:06.959214+00:00"
 }

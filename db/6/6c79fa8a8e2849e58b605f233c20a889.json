@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -2466,6 +2466,11 @@
       "Time": "2023-06-22T10:09:09.34814+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T12:07:44.2931256+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2485,7 +2490,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "BOT_DESTROYER",
@@ -2501,7 +2506,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "CONQUEROR",
@@ -2517,7 +2522,7 @@
       "Name": "Express Yourself",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FACE_FACE",
@@ -2541,7 +2546,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -2565,7 +2570,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -2579,9 +2584,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 988
+      "UsersEstimate": 1005
     },
     {
       "ID": "GUARD_MAKER",
@@ -2652,14 +2657,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:10:15.0416361+00:00",
+  "LastChanged_Achievements": "2023-06-22T12:07:44.2931253+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:57:55.2575942+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:10:15.0416637+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:57:58.974258+00:00",
+  "LastUpdate_Achievements": "2023-06-22T12:07:44.2931499+00:00"
 }

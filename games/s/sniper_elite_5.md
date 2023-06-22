@@ -9,19 +9,20 @@ Rating: 4.48 (Ranked 582)
 | Meeting Resistance | 0.80% | ~25 |
 | Confirming Suspicions | 0.80% | ~25 |
 | Taking it back | 0.70% | ~22 |
+| Target America | 0.70% | ~22 |
+| The Kraken Wakes | 0.60% | ~18 |
 | Change the Channel | 0.60% | ~18 |
-| Target America | 0.60% | ~18 |
 | Just a Flesh Wound | 0.50% | ~15 |
 | Sharpshooter | 0.50% | ~15 |
-| The Kraken Wakes | 0.50% | ~15 |
+| Lord of War | 0.50% | ~15 |
 | The Kraken Sleeps | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Liberté | 0.40% | ~12 |
 | Gunslinger | 0.40% | ~12 |
 | Set Europe Ablaze | 0.40% | ~12 |
 | Explosive Efficiency | 0.40% | ~12 |
-| Lord of War | 0.40% | ~12 |
 | Resourceful | 0.40% | ~12 |
+| Der Geist | 0.40% | ~12 |
 | As Quiet as a Mouse | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |
 | No Stone Unturned | 0.30% | ~9 |
@@ -29,7 +30,6 @@ Rating: 4.48 (Ranked 582)
 | Skirmisher | 0.30% | ~9 |
 | Precision Is Key | 0.30% | ~9 |
 | Die Nussknacker Sweet! | 0.30% | ~9 |
-| Der Geist | 0.30% | ~9 |
 | Close Quarters | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
 | Brains of the Operation | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 582)
 | Fight Another Day | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,079 (Ranked 144)  
+Progressed: 3,080 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.06%) (Ranked 190)
 | 2023-06-19 | 3,032 | 2 |
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
-| 2023-06-22 | 3,079 | 2 |
+| 2023-06-22 | 3,080 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
