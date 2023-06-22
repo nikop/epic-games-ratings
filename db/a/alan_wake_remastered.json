@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55950,
+  "EOS_Progressed": 55951,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5762,6 +5762,11 @@
       "Time": "2023-06-22T18:02:06.0097824+00:00",
       "NumProgressed": 55950,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T19:01:38.3247182+00:00",
+      "NumProgressed": 55951,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5789,7 +5794,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10630
+      "UsersEstimate": 10631
     },
     {
       "ID": "04",
@@ -5797,7 +5802,7 @@
       "Name": "Boob Tube",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "05",
@@ -5837,7 +5842,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "10",
@@ -5925,7 +5930,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "21",
@@ -5933,7 +5938,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "22",
@@ -6029,7 +6034,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "34",
@@ -6149,7 +6154,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "49",
@@ -6173,7 +6178,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "52",
@@ -6308,21 +6313,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55950,
+      "Progressed": 55951,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19418,
+      "Progressed": 19419,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:02:06.009782+00:00",
+  "LastChanged_Achievements": "2023-06-22T19:01:38.3247177+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:58:30.1756809+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:02:06.0098898+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:58:05.1914324+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:01:38.3248226+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -383,6 +383,11 @@
       "Time": "2023-06-22T12:09:31.9166931+00:00",
       "NumProgressed": 260,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-22T19:06:49.7831724+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -424,9 +429,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "profile_ryan",
@@ -434,7 +439,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ryan_date2_all",
@@ -522,7 +527,7 @@
       "Name": "The athlete",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "success_ty",
@@ -545,7 +550,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 3
     }
   ],
@@ -553,8 +558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:07:27.8388186+00:00",
+  "LastChanged_Achievements": "2023-06-22T19:06:49.7831721+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:09.8501541+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:58:09.4704614+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:07:27.8388521+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:57:43.3558374+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:06:49.7832163+00:00"
 }

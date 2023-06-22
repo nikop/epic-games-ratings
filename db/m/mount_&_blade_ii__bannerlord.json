@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4921,10 +4921,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13461,
       "NumberOfAwardsMax": 6696
+    },
+    {
+      "Time": "2023-06-22T19:00:24.7563534+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13462,
+      "NumberOfAwardsMax": 6696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13461,
+  "NumberOfAwards": 13462,
   "NumberOfAwardsMax": 6696,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4980,7 +4986,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 833
+      "Count": 834
     },
     {
       "Text": "This game is Relaxing",
@@ -5001,9 +5007,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53874,
+  "EOS_Progressed": 53876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11466,6 +11472,11 @@
       "Time": "2023-06-22T18:07:49.8456052+00:00",
       "NumProgressed": 53874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T19:07:11.1865521+00:00",
+      "NumProgressed": 53876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11477,7 +11488,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5387
+      "UsersEstimate": 5388
     },
     {
       "ID": "Apple of my eye",
@@ -11485,7 +11496,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7542
+      "UsersEstimate": 7543
     },
     {
       "ID": "Bannerlord",
@@ -11573,7 +11584,7 @@
       "Name": "Entrepreneur",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Explorer",
@@ -11685,7 +11696,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "Lance-a-lot",
@@ -11701,7 +11712,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16701
+      "UsersEstimate": 16702
     },
     {
       "ID": "Lawbringer",
@@ -11725,7 +11736,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Mastery",
@@ -11765,7 +11776,7 @@
       "Name": "Real Estate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Ride it like you stole it",
@@ -11797,7 +11808,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Strike",
@@ -11884,15 +11895,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53874,
+      "Progressed": 53876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-22T17:00:35.5030236+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:07:49.8456048+00:00",
+  "LastChanged": "2023-06-22T19:00:24.7563531+00:00",
+  "LastChanged_Achievements": "2023-06-22T19:07:11.1865509+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:00:53.6023493+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:07:49.8456731+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:00:24.7563544+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:07:11.1866439+00:00"
 }

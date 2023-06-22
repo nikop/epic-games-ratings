@@ -2,7 +2,7 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 466,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 1912,
   "RatingHistory": [
     {
@@ -1324,6 +1324,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-22T19:01:25.8000446+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 366,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
@@ -1415,8 +1421,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-06-21T17:01:07.7067244+00:00",
+  "LastChanged": "2023-06-22T19:01:25.8000444+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:05.136555+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:01:54.9183327+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:05:23.5824785+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:01:25.800045+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:04:45.5115498+00:00"
 }

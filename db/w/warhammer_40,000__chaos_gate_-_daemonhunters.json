@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2913,
+  "EOS_Progressed": 2914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1929,6 +1929,11 @@
       "Time": "2023-06-21T18:06:38.5700687+00:00",
       "NumProgressed": 2913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T19:07:14.2872262+00:00",
+      "NumProgressed": 2914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2116,7 +2121,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2204,7 +2209,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2212,7 +2217,7 @@
       "Name": "Nemesis Master",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2220,7 +2225,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MasterOfTheForge",
@@ -2308,7 +2313,7 @@
       "Name": "A Foul Creche",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2411,21 +2416,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2913,
+      "Progressed": 2914,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2913,
+      "Progressed": 2914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-21T11:59:40.9544933+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:07:52.5905859+00:00",
+  "LastChanged_Achievements": "2023-06-22T19:07:14.2872257+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:20.4895747+00:00",
-  "LastUpdate_Ratings": "2023-06-22T17:59:40.776511+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:07:52.5907305+00:00"
+  "LastUpdate_Ratings": "2023-06-22T18:59:13.0476021+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:07:14.2872878+00:00"
 }

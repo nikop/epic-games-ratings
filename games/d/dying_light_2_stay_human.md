@@ -1,32 +1,32 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 423)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,959 |
-| Into the Unknown | 10.00% | ~58,145 |
-| First Shot | 10.00% | ~58,145 |
-| Herzlich Wilkommen! | 9.00% | ~52,330 |
-| Good Night & Good Luck | 9.00% | ~52,330 |
-| Sancho Panza | 8.00% | ~46,516 |
-| Under Pressure | 7.00% | ~40,701 |
-| On the Trail of the Enemy | 7.00% | ~40,701 |
-| Flag Burning | 7.00% | ~40,701 |
-| Oh, So This Is How It Works! | 7.00% | ~40,701 |
-| Night Hunter | 7.00% | ~40,701 |
-| Light in the Darkness | 6.00% | ~34,887 |
-| Get Outta My House! | 6.00% | ~34,887 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,887 |
-| Being All Social | 6.00% | ~34,887 |
-| Debris and Ashes | 5.00% | ~29,072 |
-| We Will Be Heard! | 5.00% | ~29,072 |
-| Known Associate | 5.00% | ~29,072 |
-| Tunnel Entrance | 5.00% | ~29,072 |
-| After the Fall | 5.00% | ~29,072 |
-| Can't Touch This! | 5.00% | ~29,072 |
+| You Never Forget Your First... | 11.00% | ~63,960 |
+| Into the Unknown | 10.00% | ~58,146 |
+| First Shot | 10.00% | ~58,146 |
+| Herzlich Wilkommen! | 9.00% | ~52,331 |
+| Good Night & Good Luck | 9.00% | ~52,331 |
+| Sancho Panza | 8.00% | ~46,517 |
+| Under Pressure | 7.00% | ~40,702 |
+| On the Trail of the Enemy | 7.00% | ~40,702 |
+| Flag Burning | 7.00% | ~40,702 |
+| Oh, So This Is How It Works! | 7.00% | ~40,702 |
+| Night Hunter | 7.00% | ~40,702 |
+| Light in the Darkness | 6.00% | ~34,888 |
+| Get Outta My House! | 6.00% | ~34,888 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,888 |
+| Being All Social | 6.00% | ~34,888 |
+| Debris and Ashes | 5.00% | ~29,073 |
+| We Will Be Heard! | 5.00% | ~29,073 |
+| Known Associate | 5.00% | ~29,073 |
+| Tunnel Entrance | 5.00% | ~29,073 |
+| After the Fall | 5.00% | ~29,073 |
+| Can't Touch This! | 5.00% | ~29,073 |
 | Brush with Death | 4.00% | ~23,258 |
 | Going Down | 4.00% | ~23,258 |
 | Family First | 4.00% | ~23,258 |
@@ -34,19 +34,19 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,258 |
 | Terminal Headache | 4.00% | ~23,258 |
 | Slowpoke! | 4.00% | ~23,258 |
-| You're Going Down! | 3.00% | ~17,443 |
+| You're Going Down! | 3.00% | ~17,444 |
 | Tickets, Please! | 2.00% | ~11,629 |
 | Parkour Master | 2.00% | ~11,629 |
 | Combat Master | 2.00% | ~11,629 |
-| Municipal Services | 1.00% | ~5,814 |
-| Tube Map | 1.00% | ~5,814 |
-| Don Quixote | 1.00% | ~5,814 |
-| Can't You Read the Signs? | 1.00% | ~5,814 |
-| Ban Hammer | 1.00% | ~5,814 |
-| That's Teamwork! | 1.00% | ~5,814 |
-| Modder | 1.00% | ~5,814 |
-| Fit as a Fiddle | 1.00% | ~5,814 |
-| Ironheart | 1.00% | ~5,814 |
+| Municipal Services | 1.00% | ~5,815 |
+| Tube Map | 1.00% | ~5,815 |
+| Don Quixote | 1.00% | ~5,815 |
+| Can't You Read the Signs? | 1.00% | ~5,815 |
+| Ban Hammer | 1.00% | ~5,815 |
+| That's Teamwork! | 1.00% | ~5,815 |
+| Modder | 1.00% | ~5,815 |
+| Fit as a Fiddle | 1.00% | ~5,815 |
+| Ironheart | 1.00% | ~5,815 |
 | Nemesis | 1.00% | ~2,269 |
 | Enter the Hall | 1.00% | ~2,269 |
 | Find Anything Interesting? | 0.80% | ~4,652 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581,448 (Ranked 26)  
+Progressed: 581,459 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,10 +135,10 @@ Completed: 57 (0.01%) (Ranked 216)
 | 2023-06-19 | 580,196 | 57 |
 | 2023-06-20 | 580,637 | 57 |
 | 2023-06-21 | 581,081 | 57 |
-| 2023-06-22 | 581,448 | 57 |
+| 2023-06-22 | 581,459 | 57 |
 ## Awards
 Max (Character Customization): 7,963  (Ranked 40)  
-Sum: 18,483 (Ranked 56)  
+Sum: 18,487 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -147,12 +147,12 @@ Diff (max vs sum): -16
 | This game is Great for Beginners | 735 |
 | This game is Highly Recommended | 693 |
 | This game has Amazing Characters | 683 |
-| This game has Diverse Characters | 681 |
+| This game has Diverse Characters | 683 |
 | This game is Extremely Fun | 671 |
 | This game has Quickly Understood Controls | 646 |
 | This game has Amazing Storytelling | 635 |
 | This game is Relaxing | 623 |
-| This game has a Creative Community | 513 |
+| This game has a Creative Community | 515 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -318,4 +318,4 @@ Diff (max vs sum): -16
 | 2023-06-19 | 4.58 | - | 7,890 | 18,295 |
 | 2023-06-20 | 4.58 | - | 7,913 | 18,357 |
 | 2023-06-21 | 4.58 | - | 7,931 | 18,419 |
-| 2023-06-22 | 4.58 | - | 7,963 | 18,483 |
+| 2023-06-22 | 4.58 | - | 7,963 | 18,487 |

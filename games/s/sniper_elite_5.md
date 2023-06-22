@@ -11,18 +11,18 @@ Rating: 4.46 (Ranked 603)
 | The Kraken Wakes | 0.80% | ~25 |
 | Taking it back | 0.80% | ~25 |
 | Explosive Efficiency | 0.70% | ~22 |
+| Lord of War | 0.70% | ~22 |
 | Change the Channel | 0.70% | ~22 |
 | Target America | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
 | Just a Flesh Wound | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
-| Lord of War | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
+| As Quiet as a Mouse | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
 | Gunslinger | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
 | Der Geist | 0.50% | ~15 |
-| As Quiet as a Mouse | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | No Stone Unturned | 0.40% | ~12 |
 | Organ Grinder | 0.40% | ~12 |

@@ -6,7 +6,7 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 87.00% | ~588 |
+| Plenty More to Go | 88.00% | ~595 |
 | All Bark, No Bite | 77.00% | ~521 |
 | Hopeful Hunter | 67.00% | ~453 |
 | Amateur Adventurer | 64.00% | ~433 |

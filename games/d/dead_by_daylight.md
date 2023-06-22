@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 3.00% | ~17,673 |
-| Resurgence | 3.00% | ~17,673 |
-| Preemptive Strike | 3.00% | ~17,673 |
-| Wounded Healer | 2.00% | ~11,782 |
-| Close Shave | 2.00% | ~11,782 |
-| Humanitarian | 2.00% | ~11,782 |
-| Flight to Freedom | 2.00% | ~11,782 |
-| Ancestor's Rite | 1.00% | ~5,891 |
-| Unforgettable Getaway | 1.00% | ~5,891 |
-| Cutting Out | 1.00% | ~5,891 |
-| Outrun Evil | 1.00% | ~5,891 |
-| First to the Punch | 1.00% | ~5,891 |
-| Operation: Survival | 1.00% | ~5,891 |
-| Old West Oasis | 1.00% | ~5,891 |
-| Classy Act | 1.00% | ~5,891 |
-| Every Last Drop | 1.00% | ~5,891 |
-| Raccoon City Recruit | 1.00% | ~5,891 |
-| With Scars to Show | 1.00% | ~5,891 |
-| A Fast Death | 1.00% | ~5,891 |
-| Lifting The Fog | 1.00% | ~5,891 |
-| Chorus of Chaos | 1.00% | ~5,891 |
-| Grim Pilgrimage | 0.90% | ~5,302 |
-| Devoted Gatekeeping | 0.80% | ~4,713 |
-| Shrine Apparatus | 0.80% | ~4,713 |
-| End of Days | 0.80% | ~4,713 |
+| Healthy Obsession | 3.00% | ~17,676 |
+| Resurgence | 3.00% | ~17,676 |
+| Preemptive Strike | 3.00% | ~17,676 |
+| Wounded Healer | 2.00% | ~11,784 |
+| Close Shave | 2.00% | ~11,784 |
+| Humanitarian | 2.00% | ~11,784 |
+| Flight to Freedom | 2.00% | ~11,784 |
+| Ancestor's Rite | 1.00% | ~5,892 |
+| Unforgettable Getaway | 1.00% | ~5,892 |
+| Cutting Out | 1.00% | ~5,892 |
+| Outrun Evil | 1.00% | ~5,892 |
+| First to the Punch | 1.00% | ~5,892 |
+| Operation: Survival | 1.00% | ~5,892 |
+| Old West Oasis | 1.00% | ~5,892 |
+| Classy Act | 1.00% | ~5,892 |
+| Every Last Drop | 1.00% | ~5,892 |
+| Raccoon City Recruit | 1.00% | ~5,892 |
+| With Scars to Show | 1.00% | ~5,892 |
+| A Fast Death | 1.00% | ~5,892 |
+| Lifting The Fog | 1.00% | ~5,892 |
+| Chorus of Chaos | 1.00% | ~5,892 |
+| Grim Pilgrimage | 0.90% | ~5,303 |
+| Devoted Gatekeeping | 0.80% | ~4,714 |
+| Shrine Apparatus | 0.80% | ~4,714 |
+| End of Days | 0.80% | ~4,714 |
 | Broken Bodies | 0.70% | ~4,124 |
 | Selfless Survival | 0.70% | ~4,124 |
 | Insult and Injury | 0.70% | ~4,124 |
 | Outrun the Overlap | 0.70% | ~4,124 |
 | I See You | 0.60% | ~3,535 |
 | Rebuilding The Borgo | 0.60% | ~3,535 |
-| Heavy Burden | 0.50% | ~2,945 |
-| Power Moves | 0.50% | ~2,945 |
-| Punch Drunk | 0.50% | ~2,945 |
-| Prowler | 0.50% | ~2,945 |
-| High Speed Pursuit | 0.50% | ~2,945 |
-| Hack the Mainframe | 0.50% | ~2,945 |
-| Death of Ignorance | 0.40% | ~2,356 |
-| Triage | 0.40% | ~2,356 |
-| Denied! | 0.30% | ~1,767 |
+| Heavy Burden | 0.50% | ~2,946 |
+| Power Moves | 0.50% | ~2,946 |
+| Punch Drunk | 0.50% | ~2,946 |
+| Prowler | 0.50% | ~2,946 |
+| High Speed Pursuit | 0.50% | ~2,946 |
+| Hack the Mainframe | 0.50% | ~2,946 |
+| Death of Ignorance | 0.40% | ~2,357 |
+| Triage | 0.40% | ~2,357 |
+| Denied! | 0.30% | ~1,768 |
 | Deranged Pursuit | 0.20% | ~1,178 |
 | Dismantle | 0.20% | ~1,178 |
 | Left For Dead | 0.20% | ~1,178 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~589 |
 | Adept Gabriel | 0.10% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,094 (Ranked 25)  
+Progressed: 589,198 (Ranked 25)  
 Completed: 42 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 42 (0.01%) (Ranked 216)
 | 2023-06-19 | 577,397 | 42 |
 | 2023-06-20 | 581,814 | 42 |
 | 2023-06-21 | 586,158 | 42 |
-| 2023-06-22 | 589,094 | 42 |
+| 2023-06-22 | 589,198 | 42 |
 ## Awards
 Max (Diverse Characters): 28,786  (Ranked 15)  
-Sum: 229,605 (Ranked 12)  
+Sum: 229,658 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 25,731 |
 | This game has Challenging Combat | 25,133 |
 | This game has Amazing Storytelling | 23,662 |
-| This game has a Competitive Community | 21,893 |
+| This game has a Competitive Community | 21,946 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -460,4 +460,4 @@ Diff (max vs sum): 3
 | 2023-06-19 | 4.52 | - | 28,675 | 228,730 |
 | 2023-06-20 | 4.52 | - | 28,714 | 229,011 |
 | 2023-06-21 | 4.52 | - | 28,786 | 229,346 |
-| 2023-06-22 | 4.52 | - | 28,786 | 229,605 |
+| 2023-06-22 | 4.52 | - | 28,786 | 229,658 |

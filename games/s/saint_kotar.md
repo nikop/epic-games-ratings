@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish the Tutorial | 72.00% | ~13 |
-| A Map for Benedek | 44.00% | ~8 |
-| A Map for Nikolay | 44.00% | ~8 |
-| The Wall of Laments | 39.00% | ~7 |
-| Death Whistle | 39.00% | ~7 |
-| Burial Mound | 33.00% | ~6 |
-| Make the Prophet Your Ally | 28.00% | ~5 |
-| Become a Half-Child | 28.00% | ~5 |
-| Find the Road of Cadavers | 28.00% | ~5 |
-| A Catacomb | 28.00% | ~5 |
-| Put Kata out of Her Misery | 22.00% | ~4 |
-| Ulric's Painting Acquired | 22.00% | ~4 |
-| Save Arsen | 22.00% | ~4 |
-| The Dreaded Klek | 22.00% | ~4 |
-| Found Ulric's Portrait | 22.00% | ~4 |
-| Veil of Vera | 22.00% | ~4 |
-| The Crypt of Ivan Kotar | 22.00% | ~4 |
-| Lore and Background Story | 22.00% | ~4 |
-| Infuriate Elizabeta | 17.00% | ~3 |
-| Nikolay's Nonsense | 17.00% | ~3 |
-| You Abandoned God | 17.00% | ~3 |
+| Finish the Tutorial | 68.00% | ~13 |
+| A Map for Benedek | 42.00% | ~8 |
+| A Map for Nikolay | 42.00% | ~8 |
+| The Wall of Laments | 37.00% | ~7 |
+| Death Whistle | 37.00% | ~7 |
+| Burial Mound | 32.00% | ~6 |
+| Make the Prophet Your Ally | 26.00% | ~5 |
+| Become a Half-Child | 26.00% | ~5 |
+| Find the Road of Cadavers | 26.00% | ~5 |
+| A Catacomb | 26.00% | ~5 |
+| Put Kata out of Her Misery | 21.00% | ~4 |
+| Ulric's Painting Acquired | 21.00% | ~4 |
+| Save Arsen | 21.00% | ~4 |
+| The Dreaded Klek | 21.00% | ~4 |
+| Found Ulric's Portrait | 21.00% | ~4 |
+| Veil of Vera | 21.00% | ~4 |
+| The Crypt of Ivan Kotar | 21.00% | ~4 |
+| Lore and Background Story | 21.00% | ~4 |
+| Infuriate Elizabeta | 16.00% | ~3 |
+| Nikolay's Nonsense | 16.00% | ~3 |
+| You Abandoned God | 16.00% | ~3 |
 | Leave the Town | 11.00% | ~2 |
 | Davor Was Deported | 11.00% | ~2 |
 | Gregor Was Punished | 11.00% | ~2 |
@@ -40,22 +40,23 @@
 | Goldin's Fate | 11.00% | ~2 |
 | Warden's Monstrosities | 11.00% | ~2 |
 | Lodge's Secret Passage Shortcut | 11.00% | ~2 |
-| Found Vilim's Body | 6.00% | ~1 |
-| Forgive Ida | 6.00% | ~1 |
-| Get Eaten by the Food Man | 6.00% | ~1 |
-| You Helped Fulfill the Prophecy | 6.00% | ~1 |
-| Death Whistle Opened the Door | 6.00% | ~1 |
-| The Meaning of Life | 6.00% | ~1 |
-| That's Viktoria | 6.00% | ~1 |
-| You Decided to Stay With God | 6.00% | ~1 |
+| Found Vilim's Body | 5.00% | ~1 |
+| Forgive Ida | 5.00% | ~1 |
+| Get Eaten by the Food Man | 5.00% | ~1 |
+| You Helped Fulfill the Prophecy | 5.00% | ~1 |
+| Death Whistle Opened the Door | 5.00% | ~1 |
+| The Meaning of Life | 5.00% | ~1 |
+| That's Viktoria | 5.00% | ~1 |
+| You Decided to Stay With God | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 363)  
+Progressed: 19 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 18 | 0 |
+| 2023-06-22 | 19 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

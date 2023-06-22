@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-06-22T17:04:15.7930589+00:00",
       "NumProgressed": 178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T19:04:13.1565602+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -649,7 +654,7 @@
       "Name": "Corporal",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -657,7 +662,7 @@
       "Name": "Sergeant",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -721,7 +726,7 @@
       "Name": "Covert Operative",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -777,7 +782,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -791,9 +796,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -840,14 +845,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T18:04:51.3961966+00:00",
+  "LastChanged_Achievements": "2023-06-22T19:04:13.1565591+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T18:01:42.7111761+00:00",
-  "LastUpdate_Achievements": "2023-06-22T18:04:51.3962226+00:00"
+  "LastUpdate_Ratings": "2023-06-22T19:01:13.114522+00:00",
+  "LastUpdate_Achievements": "2023-06-22T19:04:13.1565932+00:00"
 }

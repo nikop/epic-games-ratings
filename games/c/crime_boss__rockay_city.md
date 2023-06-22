@@ -5,19 +5,19 @@ Rating: 3.94 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,943 |
-| First One’s Free | 65.00% | ~43,868 |
-| Neophyte Ninja | 50.00% | ~33,745 |
-| Too Old for This | 47.00% | ~31,720 |
+| Downed but Not Outed | 74.00% | ~49,944 |
+| First One’s Free | 65.00% | ~43,870 |
+| Neophyte Ninja | 50.00% | ~33,746 |
+| Too Old for This | 47.00% | ~31,721 |
 | Fancy Pants | 35.00% | ~23,622 |
 | Case Closed | 34.00% | ~22,947 |
 | King of the Hill | 34.00% | ~22,947 |
-| Underworld Initiate | 29.00% | ~19,572 |
+| Underworld Initiate | 29.00% | ~19,573 |
 | Roid Ranger | 21.00% | ~14,173 |
 | True Player | 19.00% | ~12,823 |
 | Off the Rocks | 19.00% | ~12,823 |
-| Raider’s Ruin | 16.00% | ~10,798 |
-| Dragonslayer | 16.00% | ~10,798 |
+| Raider’s Ruin | 16.00% | ~10,799 |
+| Dragonslayer | 16.00% | ~10,799 |
 | Hidden Sonata | 13.00% | ~8,774 |
 | Rockay Rex | 11.00% | ~7,424 |
 | Freebooter | 10.00% | ~6,749 |
@@ -27,8 +27,8 @@ Rating: 3.94 (Ranked 919)
 | Headhunter | 8.00% | ~5,399 |
 | Ding Dong | 8.00% | ~5,399 |
 | Foo Finder | 7.00% | ~4,724 |
-| Legend Looter | 5.00% | ~3,374 |
-| Savvy Seeker | 5.00% | ~3,374 |
+| Legend Looter | 5.00% | ~3,375 |
+| Savvy Seeker | 5.00% | ~3,375 |
 | Imports and Exports | 4.00% | ~2,700 |
 | Olympus Ascended | 4.00% | ~2,700 |
 | Cracked the Jack | 4.00% | ~2,700 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 919)
 | Geek Out | 0.50% | ~337 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,490 (Ranked 71)  
+Progressed: 67,492 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-19 | 67,268 | 34 |
 | 2023-06-20 | 67,353 | 34 |
 | 2023-06-21 | 67,421 | 34 |
-| 2023-06-22 | 67,490 | 34 |
+| 2023-06-22 | 67,492 | 34 |
 ## Awards
 Max (Diverse Characters): 337  (Ranked 221)  
 Sum: 1,620 (Ranked 208)  
