@@ -15,13 +15,13 @@
 | Tornado Chaser | 17.00% | ~49 |
 | Bomberman | 12.00% | ~35 |
 | The Colossus | 10.00% | ~29 |
-| Bubble Party | 8.00% | ~23 |
+| Bubble Party | 9.00% | ~26 |
 | Floor is Lava | 7.00% | ~20 |
 | Pim Pam Pum | 7.00% | ~20 |
 | Ambush | 6.00% | ~17 |
 | Black Belt | 5.00% | ~14 |
 | Dash Crash - Hero Edition | 5.00% | ~14 |
-| Quite The Hero | 3.00% | ~9 |
+| Quite The Hero | 4.00% | ~12 |
 | Path of the Hero | 2.00% | ~6 |
 | Snake Eyes - Hero Edition | 2.00% | ~6 |
 | The King of Flat - Hero Edition | 2.00% | ~6 |

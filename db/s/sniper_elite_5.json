@@ -350,7 +350,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3074,
+  "EOS_Progressed": 3075,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -4145,6 +4145,11 @@
       "Time": "2023-06-22T02:19:07.8194127+00:00",
       "NumProgressed": 3074,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-22T03:08:42.7915504+00:00",
+      "NumProgressed": 3075,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4386,9 +4391,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -4723,13 +4728,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 3
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3074,
+      "Progressed": 3075,
       "Completed": 2
     }
   ],
@@ -4737,8 +4742,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-21T06:01:28.0378446+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:07.8194122+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:42.7915496+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:13:33.7920949+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:07.8194848+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:03:19.6858227+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:42.7917203+00:00"
 }

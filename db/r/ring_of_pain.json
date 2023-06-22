@@ -9385,9 +9385,9 @@
       "ID": "WINDAILY",
       "SetID": "5l8oe0h",
       "Name": "Champion of the Day",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11560
+      "UsersEstimate": 13872
     },
     {
       "ID": "WININVERTEDCANDLE",
@@ -9498,8 +9498,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-21T04:00:50.2078447+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:14.4981115+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:50.4139948+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.8459013+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:12:12.4707268+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:14.4982754+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:01:33.7267751+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:50.4142216+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -208,9 +208,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Dust_fighter",
@@ -272,25 +272,25 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Repair",
@@ -336,9 +336,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:15:22.6248636+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:05:08.0512248+00:00",
   "LastUpdate_AppInfo": "2023-06-19T18:57:02.4147936+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:08:50.2186916+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:15:22.624875+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:57:33.7970126+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:05:08.0512557+00:00"
 }

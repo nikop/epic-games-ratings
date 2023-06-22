@@ -16,9 +16,9 @@
 | Butter Fingers | 52.00% | ~25 |
 | True Story! | 29.00% | ~14 |
 | Bedroom Secret Spot | 27.00% | ~13 |
+| Have Mercy | 25.00% | ~12 |
 | Grand Slam! | 23.00% | ~11 |
 | Kick It | 23.00% | ~11 |
-| Have Mercy | 23.00% | ~11 |
 | Spooky | 19.00% | ~9 |
 | Save some water for the fishies | 17.00% | ~8 |
 | Bathroom Secret Spot | 17.00% | ~8 |

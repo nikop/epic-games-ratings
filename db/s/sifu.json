@@ -4776,9 +4776,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 709925,
+  "EOS_Progressed": 709927,
   "EOS_Completed": 12779,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10766,6 +10766,11 @@
       "Time": "2023-06-22T02:19:08.9182419+00:00",
       "NumProgressed": 709925,
       "NumCompleted": 12779
+    },
+    {
+      "Time": "2023-06-22T03:08:44.1210216+00:00",
+      "NumProgressed": 709927,
+      "NumCompleted": 12779
     }
   ],
   "TotalAchievements": 50,
@@ -10777,7 +10782,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14198
+      "UsersEstimate": 14199
     },
     {
       "ID": "02_Vengeance_H1",
@@ -10953,7 +10958,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14198
+      "UsersEstimate": 14199
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -11176,21 +11181,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19226,
+      "Progressed": 19228,
       "Completed": 10297
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709925,
+      "Progressed": 709927,
       "Completed": 12779
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-21T19:59:51.6064683+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:08.9182414+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:44.1210207+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:11:37.5939266+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:08.9183035+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:00:47.0438678+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:44.1211578+00:00"
 }

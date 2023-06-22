@@ -6240,7 +6240,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 59132,
+  "EOS_Progressed": 59138,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3590,
   "EOS_NewCompleters": 0,
@@ -12890,6 +12890,11 @@
       "Time": "2023-06-22T02:19:16.8493047+00:00",
       "NumProgressed": 59132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T03:08:53.049834+00:00",
+      "NumProgressed": 59138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -13421,7 +13426,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "achievement_colonial_management",
@@ -15493,7 +15498,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -15732,21 +15737,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 59132,
+      "Progressed": 59138,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 59132,
+      "Progressed": 59138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-21T21:57:44.9082074+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:16.8493042+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:53.0498333+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:04.505623+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:09:05.9533065+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:16.8502949+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:57:50.6021648+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:53.0517862+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.75 (Ranked 133)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~55,054 |
-| The Player Whisperer | 76.00% | ~54,339 |
-| One of Us, One of Us! | 73.00% | ~52,194 |
-| Clean Sheet | 68.00% | ~48,619 |
-| First Victory | 68.00% | ~48,619 |
-| #DoneDeal | 67.00% | ~47,904 |
-| Off the Books | 65.00% | ~46,474 |
-| Super-Sub | 65.00% | ~46,474 |
-| Hat-trick | 60.00% | ~42,899 |
-| "I Would Love It If We Beat Them" | 58.00% | ~41,469 |
-| Planned Signing | 58.00% | ~41,469 |
-| Thumping | 53.00% | ~37,894 |
-| Scoring Streak | 53.00% | ~37,894 |
-| Wheeler Dealer | 52.00% | ~37,179 |
-| Unbeatable! | 51.00% | ~36,464 |
-| People Pleaser | 51.00% | ~36,464 |
+| Motivational Speaker | 77.00% | ~55,055 |
+| The Player Whisperer | 76.00% | ~54,340 |
+| One of Us, One of Us! | 73.00% | ~52,195 |
+| Clean Sheet | 68.00% | ~48,620 |
+| First Victory | 68.00% | ~48,620 |
+| #DoneDeal | 67.00% | ~47,905 |
+| Off the Books | 65.00% | ~46,475 |
+| Super-Sub | 65.00% | ~46,475 |
+| Hat-trick | 60.00% | ~42,900 |
+| "I Would Love It If We Beat Them" | 58.00% | ~41,470 |
+| Planned Signing | 58.00% | ~41,470 |
+| Thumping | 53.00% | ~37,895 |
+| Scoring Streak | 53.00% | ~37,895 |
+| Wheeler Dealer | 52.00% | ~37,180 |
+| Unbeatable! | 51.00% | ~36,465 |
+| People Pleaser | 51.00% | ~36,465 |
 | One Of Our Own | 48.00% | ~34,320 |
 | They're a Natural | 44.00% | ~31,460 |
 | Team Performance | 43.00% | ~30,745 |
@@ -87,26 +87,26 @@ Rating: 4.75 (Ranked 133)
 | First Win Versus | 1.00% | ~715 |
 | The Greatest | 1.00% | ~715 |
 | Perfect Host | 1.00% | ~715 |
-| Clean Sheet Versus | 0.90% | ~643 |
-| Versus Champ | 0.90% | ~643 |
-| Online Streak | 0.90% | ~643 |
+| Clean Sheet Versus | 0.90% | ~644 |
+| Versus Champ | 0.90% | ~644 |
+| Online Streak | 0.90% | ~644 |
 | The Rich Get Richer | 0.70% | ~500 |
 | Online Rivalry | 0.60% | ~429 |
-| Import To Victory | 0.50% | ~357 |
+| Import To Victory | 0.50% | ~358 |
 | Outstanding Defence | 0.40% | ~286 |
 | You Shall Not Pass | 0.20% | ~143 |
 | Draft Dominator | 0.20% | ~143 |
 | Draft Value | 0.20% | ~143 |
-| Immortality | 0.10% | ~71 |
-| New Kids On The Block | 0.10% | ~71 |
-| Value for Money | 0.10% | ~71 |
-| Red Hot Newgen | 0.10% | ~71 |
-| The Unstoppables | 0.10% | ~71 |
-| GOAT | 0.10% | ~71 |
-| Versus Anyone | 0.10% | ~71 |
-| 200 Club | 0.10% | ~71 |
+| Immortality | 0.10% | ~72 |
+| New Kids On The Block | 0.10% | ~72 |
+| Value for Money | 0.10% | ~72 |
+| Red Hot Newgen | 0.10% | ~72 |
+| The Unstoppables | 0.10% | ~72 |
+| GOAT | 0.10% | ~72 |
+| Versus Anyone | 0.10% | ~72 |
+| 200 Club | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,499 (Ranked 68)  
+Progressed: 71,500 (Ranked 68)  
 Completed: 18 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 18 (0.03%) (Ranked 200)
 | 2023-06-19 | 71,134 | 18 |
 | 2023-06-20 | 71,319 | 18 |
 | 2023-06-21 | 71,495 | 18 |
-| 2023-06-22 | 71,499 | 18 |
+| 2023-06-22 | 71,500 | 18 |
 ## Awards
 Max (Diverse Characters): 495  (Ranked 189)  
 Sum: 3,587 (Ranked 142)  

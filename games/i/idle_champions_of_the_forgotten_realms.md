@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.10% | ~68 |
 | Who Lurks Below? | 0.10% | ~68 |
 | Clowning Around | 0.10% | ~68 |
+| Xanathaaaaaaar! | 0.10% | ~68 |
 | A Whale of a Time | 0.10% | ~68 |
 | Homecoming | 0.10% | ~102 |
 | Anti-Dexterous Explorers | 0.10% | ~102 |
@@ -125,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.10% | ~102 |
 | Spirit of the Trickster Gods | 0.10% | ~68 |
 | Flies on the Wall | 0.10% | ~102 |
+| The Killer Mists | 0.10% | ~102 |
 | Seeking Allies | 0.10% | ~102 |
 | A Nod from Strahd | 0.10% | ~68 |
 | Backtracking Through Barovia | 0.10% | ~102 |
@@ -348,6 +350,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.10% | ~68 |
 | Reghed Glacier Mysteries | 0.10% | ~68 |
 | Mysteries Unlocked | 0.10% | ~68 |
+| Male Pattern Boldness | 0.10% | ~68 |
 | Pure Energy | 0.10% | ~102 |
 | Tekeli-li's Hunt | 0.10% | ~68 |
 | Working for the Weak End | 0.10% | ~68 |
@@ -471,11 +474,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.00% | ~0 |
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
-| Xanathaaaaaaar! | 0.00% | ~0 |
 | Taking Responsibility | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
-| The Killer Mists | 0.00% | ~0 |
 | Class Vacation | 0.00% | ~0 |
 | Distracted Escape | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
@@ -496,7 +497,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Male Pattern Boldness | 0.00% | ~0 |
 | Cackling Horror | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,814 (Ranked 63)  
+Progressed: 101,867 (Ranked 63)  
 Completed: 1,975 (1.94%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 101,814 | 1,975 |
+| 2023-06-22 | 101,867 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,163 (Ranked 37)  

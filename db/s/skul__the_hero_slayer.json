@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -3109,9 +3109,9 @@
       "ID": "Concentration",
       "SetID": "97dk767",
       "Name": "Focus!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4866
+      "UsersEstimate": 4945
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3213,9 +3213,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4866
+      "UsersEstimate": 4945
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3285,8 +3285,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:13:59.3144061+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:03:52.89896+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:35.4983345+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:11:30.2269679+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:13:59.3144312+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:00:40.2394536+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:03:52.8990009+00:00"
 }

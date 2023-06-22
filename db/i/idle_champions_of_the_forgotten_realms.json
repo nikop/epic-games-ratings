@@ -4432,9 +4432,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101814,
+  "EOS_Progressed": 101867,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11087,
+  "EOS_NewPlayers": 11136,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10917,6 +10917,11 @@
       "Time": "2023-06-22T02:19:17.8631245+00:00",
       "NumProgressed": 101814,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T03:08:54.2760198+00:00",
+      "NumProgressed": 101867,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -11846,9 +11851,9 @@
       "ID": "objective_completed_1218",
       "SetID": "415jc5c",
       "Name": "Xanathaaaaaaar!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_1219",
@@ -12710,9 +12715,9 @@
       "ID": "objective_completed_389",
       "SetID": "cc37lbc",
       "Name": "The Killer Mists",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_39",
@@ -14662,9 +14667,9 @@
       "ID": "objective_completed_899",
       "SetID": "415jc5c",
       "Name": "Male Pattern Boldness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_9",
@@ -14951,21 +14956,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68088,
+      "Progressed": 68141,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101814,
+      "Progressed": 101867,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:17.863124+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:54.2760191+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:10:16.8417125+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:17.8653549+00:00"
+  "LastUpdate_Ratings": "2023-06-22T02:59:12.9842317+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:54.2790077+00:00"
 }

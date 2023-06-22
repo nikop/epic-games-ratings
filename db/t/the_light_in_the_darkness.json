@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1706,
+  "EOS_Progressed": 1707,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 8.5,
+  "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2903,6 +2903,11 @@
       "Time": "2023-06-21T20:06:41.3974786+00:00",
       "NumProgressed": 1706,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-06-22T03:08:20.4677897+00:00",
+      "NumProgressed": 1707,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 12,
@@ -2946,7 +2951,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "Jakob",
@@ -2994,7 +2999,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "Nuremberg Laws",
@@ -3009,7 +3014,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1706,
+      "Progressed": 1707,
       "Completed": 145
     }
   ],
@@ -3017,8 +3022,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:18:38.4090942+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:20.467789+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:12:19.8436677+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:18:38.4091169+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:01:42.2441878+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:20.4678363+00:00"
 }

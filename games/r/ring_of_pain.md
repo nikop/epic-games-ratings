@@ -83,7 +83,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Power Score | 6.00% | ~13,872 |
 | Just Looking Around | 6.00% | ~13,872 |
 | Obsessed | 6.00% | ~13,872 |
-| Champion of the Day | 5.00% | ~11,560 |
+| Champion of the Day | 6.00% | ~13,872 |
 | Achievement Hunter | 4.00% | ~9,248 |
 | Hydrophobe | 4.00% | ~9,248 |
 | Explosive Betrayal | 4.00% | ~9,248 |

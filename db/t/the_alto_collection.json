@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 27463,
+  "EOS_Progressed": 27466,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1146,
+  "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7259,6 +7259,11 @@
       "Time": "2023-06-22T02:18:43.1761715+00:00",
       "NumProgressed": 27463,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T03:08:26.1343994+00:00",
+      "NumProgressed": 27466,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -7294,7 +7299,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "distance500000",
@@ -7390,7 +7395,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4943
+      "UsersEstimate": 4944
     },
     {
       "ID": "novice",
@@ -7422,7 +7427,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "playerPaz",
@@ -7478,7 +7483,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "sandboarder",
@@ -7534,7 +7539,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "unlockpaz",
@@ -7581,15 +7586,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 27463,
+      "Progressed": 27466,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-17T20:59:48.8022113+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:18:43.176171+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:26.1343988+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:53.9980856+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:11:58.1531243+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:18:43.1762244+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:01:14.1550354+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:26.1344704+00:00"
 }

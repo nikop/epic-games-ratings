@@ -2026,9 +2026,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 228575,
+  "EOS_Progressed": 228576,
   "EOS_Completed": 747,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8531,6 +8531,11 @@
       "Time": "2023-06-22T02:19:05.7462455+00:00",
       "NumProgressed": 228575,
       "NumCompleted": 747
+    },
+    {
+      "Time": "2023-06-22T03:08:40.507121+00:00",
+      "NumProgressed": 228576,
+      "NumCompleted": 747
     }
   ],
   "TotalAchievements": 39,
@@ -8590,7 +8595,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 68572
+      "UsersEstimate": 68573
     },
     {
       "ID": "AchievementBoulderID",
@@ -8606,7 +8611,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 208003
+      "UsersEstimate": 208004
     },
     {
       "ID": "AchievementClownID",
@@ -8814,7 +8819,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 125716
+      "UsersEstimate": 125717
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -8822,7 +8827,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 107430
+      "UsersEstimate": 107431
     },
     {
       "ID": "AchievementTrinketID",
@@ -8853,7 +8858,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 228575,
+      "Progressed": 228576,
       "Completed": 747
     }
   ],
@@ -8861,8 +8866,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-06-21T15:00:56.999588+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:05.746245+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:40.5071202+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.9159117+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:13:28.5480033+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:05.7462954+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:03:11.1131343+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:40.5072414+00:00"
 }

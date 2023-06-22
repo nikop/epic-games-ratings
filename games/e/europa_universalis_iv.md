@@ -14,8 +14,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 6.00% | ~3,548 |
 | Seriously?! | 6.00% | ~3,548 |
 | For the Glory | 5.00% | ~2,957 |
-| Cold War | 4.00% | ~2,365 |
-| True Catholic | 4.00% | ~2,365 |
+| Cold War | 4.00% | ~2,366 |
+| True Catholic | 4.00% | ~2,366 |
 | Defender of the Faith | 3.00% | ~1,774 |
 | It's all about the money | 3.00% | ~1,774 |
 | Respected | 3.00% | ~1,774 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,132 (Ranked 77)  
+Progressed: 59,138 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 58,135 | 0 |
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
-| 2023-06-22 | 59,132 | 0 |
+| 2023-06-22 | 59,138 | 0 |
 ## Awards
 Max (Educational): 5,430  (Ranked 61)  
 Sum: 44,886 (Ranked 27)  

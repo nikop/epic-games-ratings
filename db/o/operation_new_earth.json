@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -706,9 +706,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -786,9 +786,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:15:33.9461043+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:05:22.0672478+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:13:26.6980461+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:15:33.9461321+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:03:08.1075422+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:05:22.0673007+00:00"
 }

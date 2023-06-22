@@ -8,8 +8,8 @@ Number of Ratings: 546  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~7,300 |
 | What should I buy? | 83.00% | ~6,515 |
-| Focus! | 62.00% | ~4,866 |
-| Rescued Elder Ent | 62.00% | ~4,866 |
+| Focus! | 63.00% | ~4,945 |
+| Rescued Elder Ent | 63.00% | ~4,945 |
 | The End of the Gold Mane Knights | 47.00% | ~3,689 |
 | Rules of Etiquette | 40.00% | ~3,140 |
 | False Goddess, Disappear | 39.00% | ~3,061 |

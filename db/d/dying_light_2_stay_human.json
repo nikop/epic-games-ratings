@@ -6061,9 +6061,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 581114,
+  "EOS_Progressed": 581122,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 4197,
+  "EOS_NewPlayers": 4182,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12711,6 +12711,11 @@
       "Time": "2023-06-22T02:19:11.940883+00:00",
       "NumProgressed": 581114,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-22T03:08:47.8022008+00:00",
+      "NumProgressed": 581122,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 65,
@@ -12722,7 +12727,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58111
+      "UsersEstimate": 58112
     },
     {
       "ID": "achievement_02",
@@ -12730,7 +12735,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58111
+      "UsersEstimate": 58112
     },
     {
       "ID": "achievement_03",
@@ -12738,7 +12743,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52300
+      "UsersEstimate": 52301
     },
     {
       "ID": "achievement_04",
@@ -12746,7 +12751,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40678
+      "UsersEstimate": 40679
     },
     {
       "ID": "achievement_05",
@@ -12858,7 +12863,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46489
+      "UsersEstimate": 46490
     },
     {
       "ID": "achievement_19",
@@ -12914,7 +12919,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40678
+      "UsersEstimate": 40679
     },
     {
       "ID": "achievement_26",
@@ -12938,7 +12943,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40678
+      "UsersEstimate": 40679
     },
     {
       "ID": "achievement_29",
@@ -13010,7 +13015,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52300
+      "UsersEstimate": 52301
     },
     {
       "ID": "achievement_38",
@@ -13026,7 +13031,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40678
+      "UsersEstimate": 40679
     },
     {
       "ID": "achievement_40",
@@ -13114,7 +13119,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17433
+      "UsersEstimate": 17434
     },
     {
       "ID": "achievement_51",
@@ -13194,7 +13199,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_61",
@@ -13241,21 +13246,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 581114,
+      "Progressed": 581122,
       "Completed": 57
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 226558,
+      "Progressed": 226566,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-21T18:00:28.5899694+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:11.9408826+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:47.8022001+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:12:47.118186+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:11.9409632+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:02:15.7775951+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:47.8024034+00:00"
 }

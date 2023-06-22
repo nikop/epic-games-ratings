@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4995,7 +4995,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53805,
+  "EOS_Progressed": 53807,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 0,
@@ -11385,6 +11385,11 @@
       "Time": "2023-06-22T02:19:09.203773+00:00",
       "NumProgressed": 53805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T03:08:44.4162596+00:00",
+      "NumProgressed": 53807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11396,7 +11401,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "Apple of my eye",
@@ -11476,7 +11481,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "Dynasty",
@@ -11484,7 +11489,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "Entrepreneur",
@@ -11572,7 +11577,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "Jack of All Trades",
@@ -11628,7 +11633,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19370
+      "UsersEstimate": 19371
     },
     {
       "ID": "Lawmaker",
@@ -11740,7 +11745,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "The king is pleased",
@@ -11756,7 +11761,7 @@
       "Name": "This Is Our Land",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "This is Sparta",
@@ -11796,22 +11801,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53805,
+      "Progressed": 53807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-21T23:00:23.2258526+00:00",
-  "LastChanged_Achievements": "2023-06-22T02:19:09.2037724+00:00",
+  "LastChanged_Achievements": "2023-06-22T03:08:44.4162589+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-22T02:12:29.0367457+00:00",
-  "LastUpdate_Achievements": "2023-06-22T02:19:09.2038387+00:00"
+  "LastUpdate_Ratings": "2023-06-22T03:01:53.734258+00:00",
+  "LastUpdate_Achievements": "2023-06-22T03:08:44.4164038+00:00"
 }
