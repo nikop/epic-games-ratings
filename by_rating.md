@@ -432,7 +432,7 @@
 | 423 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 244 |
 | 423 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 425 |
 | 423 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 219 | 252 |
-| 423 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,480 | 118 |
+| 423 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,481 | 118 |
 | 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 118 | 310 |
 | 423 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 260 |
 | 423 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 497 |
@@ -491,7 +491,7 @@
 | 478 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.55 | 0 | 497 |
 | 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 303 | 229 |
 | 478 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,188 | 129 |
-| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,703 | 67 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,734 | 67 |
 | 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
 | 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,149 | 132 |
 | 492 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 367 |

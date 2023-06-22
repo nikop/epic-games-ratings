@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.74% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.29% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 36.36% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -34,7 +34,7 @@
 | 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
-| 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
+| 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
 | 36 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.76% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -285,6 +285,7 @@
 | 228 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 228 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
 | 228 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
+| 228 | [Eigengrau](games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 0.00% |
 | 228 | [ELEGIES Aya](games/e/elegies_aya.md) | 0.00% |
 | 228 | [Elypse](games/e/elypse.md) | 0.00% |
 | 228 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
