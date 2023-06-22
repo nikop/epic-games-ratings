@@ -378,7 +378,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -948,6 +948,11 @@
       "Time": "2023-06-22T03:07:49.6816378+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T11:11:58.1844101+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -959,7 +964,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "100Fail",
@@ -981,15 +986,15 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 70
     },
@@ -1029,9 +1034,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Chapter5",
@@ -1055,7 +1060,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Chapter8",
@@ -1215,7 +1220,7 @@
       "Name": "Free customer service",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DLC3Chapter12",
@@ -1359,7 +1364,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DwarfElf15Support",
@@ -1391,7 +1396,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ElfEpic",
@@ -1399,7 +1404,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -1423,7 +1428,7 @@
       "Name": "GG EZ",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EndCombatOneHp",
@@ -1431,7 +1436,7 @@
       "Name": "DM intervention",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EndGameCursed",
@@ -1455,7 +1460,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "FollowBraztok",
@@ -1469,9 +1474,9 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "InsultLoose",
@@ -1495,7 +1500,7 @@
       "Name": "We come in peace",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MinistrelEpic",
@@ -1503,7 +1508,7 @@
       "Name": "Super-Ultra-Lydian",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "OgreEpic",
@@ -1525,9 +1530,9 @@
       "ID": "PaladineEpic",
       "SetID": "50chcgj",
       "Name": "Law and Order",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Poster",
@@ -1535,7 +1540,7 @@
       "Name": "Inception",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PriestessEpic",
@@ -1543,7 +1548,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "QuestEmile",
@@ -1565,9 +1570,9 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "QuestPriestess",
@@ -1583,7 +1588,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Rogue30Backstab",
@@ -1599,15 +1604,15 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Speedrun",
       "SetID": "50chcgj",
       "Name": "Speedrun",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "SupportCount4",
@@ -1662,21 +1667,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:10:21.7082255+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:11:58.184409+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.3805867+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:03:11.179671+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:10:21.7083092+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:03:12.1411856+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:11:58.184509+00:00"
 }

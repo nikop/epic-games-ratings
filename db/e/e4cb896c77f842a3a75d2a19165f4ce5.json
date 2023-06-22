@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 271,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 2.23,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -581,6 +581,11 @@
       "Time": "2023-06-22T10:08:26.7318014+00:00",
       "NumProgressed": 269,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-22T11:09:14.4123723+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -592,7 +597,7 @@
       "Name": "Pit-house",
       "Percentage": 96,
       "XP": 45,
-      "UsersEstimate": 258
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_003",
@@ -600,7 +605,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 231
+      "UsersEstimate": 233
     },
     {
       "ID": "LEVEL_004",
@@ -608,7 +613,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 196
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_006",
@@ -616,7 +621,7 @@
       "Name": "Market",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "LEVEL_012",
@@ -624,7 +629,7 @@
       "Name": "Poultry house",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_017",
@@ -632,7 +637,7 @@
       "Name": "Temple",
       "Percentage": 15,
       "XP": 95,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_019",
@@ -646,9 +651,9 @@
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_025",
@@ -679,14 +684,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 271,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:08:26.7318011+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:09:14.4123719+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-22T09:57:27.4953734+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:08:26.7318116+00:00"
+  "LastUpdate_Ratings": "2023-06-22T10:57:29.5874632+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:09:14.4123849+00:00"
 }

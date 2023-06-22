@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14794,
+  "EOS_Progressed": 14795,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
@@ -5126,6 +5126,11 @@
       "Time": "2023-06-22T07:05:28.5575378+00:00",
       "NumProgressed": 14794,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-22T11:08:28.4002609+00:00",
+      "NumProgressed": 14795,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 16,
@@ -5137,7 +5142,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "Burning_For_You",
@@ -5145,7 +5150,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "Deadline",
@@ -5209,7 +5214,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "Mirrors",
@@ -5264,15 +5269,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14794,
+      "Progressed": 14795,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:07:54.5747679+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:08:28.4002605+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.1000808+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:03:07.7054807+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:07:54.5748008+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:03:08.879173+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:08:28.4003053+00:00"
 }

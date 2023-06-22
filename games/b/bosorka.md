@@ -11,10 +11,10 @@
 | First time, yes? | 52.00% | ~44 |
 | Skilled rider | 49.00% | ~41 |
 | Kind heart | 46.00% | ~39 |
-| Devil's dozen | 27.00% | ~23 |
+| Devil's dozen | 29.00% | ~24 |
 | It doesn't work like that | 24.00% | ~20 |
+| This is just the beginning... | 17.00% | ~14 |
 | A small victory | 17.00% | ~14 |
-| This is just the beginning... | 15.00% | ~13 |
 | Unstoppable Curiosity | 15.00% | ~13 |
 | Time is on my side | 10.00% | ~8 |
 | Gold Digger | 10.00% | ~8 |

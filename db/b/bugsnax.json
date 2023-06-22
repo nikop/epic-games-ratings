@@ -671,7 +671,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27779,
+  "EOS_Progressed": 27780,
   "EOS_Completed": 1287,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 4,
@@ -2671,6 +2671,11 @@
       "Time": "2023-06-22T03:05:36.1413889+00:00",
       "NumProgressed": 27779,
       "NumCompleted": 1287
+    },
+    {
+      "Time": "2023-06-22T11:09:50.2942735+00:00",
+      "NumProgressed": 27780,
+      "NumCompleted": 1287
     }
   ],
   "TotalAchievements": 30,
@@ -2714,7 +2719,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12778
+      "UsersEstimate": 12779
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -2722,7 +2727,7 @@
       "Name": "Deep Impact",
       "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -2730,7 +2735,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 8889
+      "UsersEstimate": 8890
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -2738,7 +2743,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18334
+      "UsersEstimate": 18335
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -2746,7 +2751,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21390
+      "UsersEstimate": 21391
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -2778,7 +2783,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26946
+      "UsersEstimate": 26947
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -2818,7 +2823,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16945
+      "UsersEstimate": 16946
     },
     {
       "ID": "ACH_LAUNCH",
@@ -2826,7 +2831,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15556
+      "UsersEstimate": 15557
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -2834,7 +2839,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14445
+      "UsersEstimate": 14446
     },
     {
       "ID": "ACH_PUZZLE",
@@ -2874,7 +2879,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25834
+      "UsersEstimate": 25835
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -2882,7 +2887,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15556
+      "UsersEstimate": 15557
     },
     {
       "ID": "ACH_SUNDAE",
@@ -2898,7 +2903,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10000
+      "UsersEstimate": 10001
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -2906,7 +2911,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20834
+      "UsersEstimate": 20835
     },
     {
       "ID": "ACH_WATERFALL",
@@ -2914,22 +2919,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24168
+      "UsersEstimate": 24169
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27779,
+      "Progressed": 27780,
       "Completed": 1287
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-19T18:00:19.4590398+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:08:51.7565415+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:09:50.2942731+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:23.0746522+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:05:17.7079321+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:08:51.7565685+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:05:25.6322828+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:09:50.2943075+00:00"
 }

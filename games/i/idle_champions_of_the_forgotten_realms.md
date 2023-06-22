@@ -6,7 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.20% | ~205 |
+| The Cursed Farmer | 0.30% | ~307 |
+| The Ring of Regeneration | 0.20% | ~205 |
 | The Mad Wizard | 0.20% | ~205 |
 | Frail Doesn't Mean Broken | 0.10% | ~69 |
 | The Castle of a Thousand Vecnas | 0.10% | ~69 |
@@ -116,7 +117,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~102 |
 | Our Time To Shine | 0.10% | ~102 |
 | Review by the Blackstaff | 0.10% | ~69 |
-| The Ring of Regeneration | 0.10% | ~102 |
 | The Crumbling Temple | 0.10% | ~102 |
 | The Death Curse | 0.10% | ~102 |
 | Treasure Hunters | 0.10% | ~102 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,278 (Ranked 63)  
+Progressed: 102,371 (Ranked 63)  
 Completed: 1,975 (1.93%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.93%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,278 | 1,975 |
+| 2023-06-22 | 102,371 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

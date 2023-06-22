@@ -7,6 +7,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 3.00% | ~463 |
+| Taking Action | 3.00% | ~463 |
 | No Deaths | 3.00% | ~463 |
 | Homesick | 2.00% | ~308 |
 | First Real Expedition | 2.00% | ~308 |
@@ -20,7 +21,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~308 |
 | The Scarlet Orchard | 2.00% | ~308 |
 | A Real Challenge | 2.00% | ~308 |
-| Taking Action | 2.00% | ~308 |
 | Like a Machine | 2.00% | ~308 |
 | Trade Baron | 2.00% | ~308 |
 | Serving Ale | 1.00% | ~154 |

@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -302,9 +302,9 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 55,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -351,8 +351,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:11:10.6911689+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:12:25.238648+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:19.1005315+00:00",
-  "LastUpdate_Ratings": "2023-06-22T09:59:06.4629078+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:11:10.6911795+00:00"
+  "LastUpdate_Ratings": "2023-06-22T10:59:07.776394+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:12:25.2386596+00:00"
 }

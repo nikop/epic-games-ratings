@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 7.00% | ~19,671 |
 | A Talent for Spending | 7.00% | ~19,671 |
 | Coasting Along | 7.00% | ~19,671 |
-| The Avenging Gazelle | 6.00% | ~16,860 |
-| A Sallow Grave | 6.00% | ~16,860 |
-| Followed the Butterflies | 6.00% | ~16,860 |
-| The Spell Master | 6.00% | ~16,860 |
-| Rising From the Ashes | 6.00% | ~16,860 |
-| Beast Friends | 5.00% | ~14,050 |
-| Flight the Good Flight | 5.00% | ~14,050 |
+| The Avenging Gazelle | 6.00% | ~16,861 |
+| A Sallow Grave | 6.00% | ~16,861 |
+| Followed the Butterflies | 6.00% | ~16,861 |
+| The Spell Master | 6.00% | ~16,861 |
+| Rising From the Ashes | 6.00% | ~16,861 |
+| Beast Friends | 5.00% | ~14,051 |
+| Flight the Good Flight | 5.00% | ~14,051 |
 | The Seeker of Knowledge | 4.00% | ~11,240 |
 | The Root of the Problem | 4.00% | ~11,240 |
 | Third Time's a Charm | 4.00% | ~11,240 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,405 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,008 (Ranked 41)  
+Progressed: 281,012 (Ranked 41)  
 Completed: 408 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,20 +114,20 @@ Completed: 408 (0.15%) (Ranked 163)
 | 2023-06-19 | 280,750 | 408 |
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
-| 2023-06-22 | 281,008 | 408 |
+| 2023-06-22 | 281,012 | 408 |
 ## Awards
-Max (Character Customization): 20,236  (Ranked 18)  
-Sum: 37,591 (Ranked 30)  
-Diff (max vs sum): -12  
+Max (Character Customization): 20,270  (Ranked 17)  
+Sum: 37,631 (Ranked 30)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,236 |
+| This game has Inclusive Character Customization | 20,270 |
 | This game has Great Boss Battles | 9,636 |
 | This game is Great for Beginners | 855 |
+| This game is Relaxing | 843 |
 | This game is Extremely Fun | 841 |
-| This game is Relaxing | 841 |
 | This game has Amazing Storytelling | 825 |
-| This game has Diverse Characters | 819 |
+| This game has Diverse Characters | 823 |
 | This game has Amazing Characters | 806 |
 | This game is Highly Recommended | 791 |
 | This game has Quickly Understood Controls | 739 |
@@ -226,4 +226,4 @@ Diff (max vs sum): -12
 | 2023-06-19 | 4.77 | 20,171 | 37,408 |
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
-| 2023-06-22 | 4.77 | 20,236 | 37,591 |
+| 2023-06-22 | 4.77 | 20,270 | 37,631 |

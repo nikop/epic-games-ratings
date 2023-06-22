@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Dust_fighter",
@@ -292,9 +292,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Liberator",
@@ -371,8 +371,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-22T10:08:32.8191168+00:00",
+  "LastChanged_Achievements": "2023-06-22T11:09:23.2766213+00:00",
   "LastUpdate_AppInfo": "2023-06-19T18:57:02.4147936+00:00",
-  "LastUpdate_Ratings": "2023-06-22T09:57:56.0666161+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:08:32.8191285+00:00"
+  "LastUpdate_Ratings": "2023-06-22T10:58:02.1297577+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:09:23.2766416+00:00"
 }

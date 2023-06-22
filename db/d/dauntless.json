@@ -3,11 +3,11 @@
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 17,
+  "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
@@ -5997,6 +5997,6 @@
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
   "LastChanged": "2023-06-22T07:01:37.0092665+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:41.6763628+00:00",
-  "LastUpdate_Ratings": "2023-06-22T10:03:20.1545345+00:00",
-  "LastUpdate_Achievements": "2023-06-22T10:08:58.1637966+00:00"
+  "LastUpdate_Ratings": "2023-06-22T11:03:18.5480012+00:00",
+  "LastUpdate_Achievements": "2023-06-22T11:09:59.1616051+00:00"
 }

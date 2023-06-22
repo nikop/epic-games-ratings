@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,600 |
+| Getting Started | 80.00% | ~8,601 |
 | Pay 'n' Spray | 49.00% | ~5,268 |
 | All Dressed Up for San Fierro | 24.00% | ~2,580 |
 | The American Dream | 18.00% | ~1,935 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 455)
 | Saviour | 5.00% | ~538 |
 | They Can’t Stop All of Us | 4.00% | ~430 |
 | Rescue a Kitten Too? | 4.00% | ~430 |
-| What are the Odds | 3.00% | ~322 |
+| What are the Odds | 3.00% | ~323 |
 | I’ll Have Two Number 9s | 2.00% | ~215 |
 | Bike or Biker | 2.00% | ~215 |
 | What the City Needs | 2.00% | ~215 |
@@ -36,12 +36,12 @@ Rating: 4.56 (Ranked 455)
 | Ain’t Nothing But a G Thing | 1.00% | ~108 |
 | Lucky Spinner | 0.90% | ~97 |
 | Hoopin' it Up | 0.80% | ~86 |
-| Not a Player | 0.60% | ~64 |
+| Not a Player | 0.60% | ~65 |
 | Remastered | 0.50% | ~54 |
 | ...Here we go again | 0.20% | ~22 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,750 (Ranked 112)  
+Progressed: 10,751 (Ranked 112)  
 Completed: 20 (0.19%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 20 (0.19%) (Ranked 158)
 | 2023-06-19 | 10,717 | 19 |
 | 2023-06-20 | 10,735 | 19 |
 | 2023-06-21 | 10,747 | 19 |
-| 2023-06-22 | 10,750 | 20 |
+| 2023-06-22 | 10,751 | 20 |
 ## Awards
 Max (Great Boss Battles): 177  (Ranked 276)  
 Sum: 177 (Ranked 369)  

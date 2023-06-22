@@ -10,7 +10,7 @@
 | FIREFIGHTER | 54.00% | ~391 |
 | ADVANCED | 39.00% | ~282 |
 | CHIEF | 19.00% | ~138 |
-| SECOND_FLOOR | 11.00% | ~80 |
+| SECOND_FLOOR | 12.00% | ~87 |
 | DEBTOR | 10.00% | ~72 |
 | THINGS ARE GOING WELL | 5.00% | ~36 |
 | SUCCESSFUL | 4.00% | ~29 |
