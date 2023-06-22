@@ -117,6 +117,7 @@
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2023-11-30 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | - |  | - | - |
+| [The Sophisticated Art of Friendship](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2023-11-30 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |

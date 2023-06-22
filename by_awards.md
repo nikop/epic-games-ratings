@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,056 | 4.56 | 455 |
 | 77 | [SMITE](games/s/smite.md) | 3,920 | 4.45 | 621 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,838 | 4.68 | 241 |
-| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,647 | 4.29 | 776 |
+| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,651 | 4.29 | 776 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,470 | 4.47 | 593 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,387 | 4.77 | 107 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,381 | 4.46 | 604 |
@@ -114,7 +114,7 @@
 | 112 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,753 | 4.57 | 442 |
 | 113 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,747 | 4.63 | 332 |
 | 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,667 | 4.76 | 118 |
-| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,632 | 4.70 | 196 |
+| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,633 | 4.70 | 196 |
 | 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,619 | 4.51 | 532 |
 | 117 | [Celeste](games/c/celeste.md) | 1,492 | 4.92 | 4 |
 | 118 | [Ring of Pain](games/r/ring_of_pain.md) | 1,481 | 4.58 | 423 |
@@ -142,7 +142,7 @@
 | 140 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 818 |
 | 141 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 25 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,000 | 4.40 | 686 |
-| 143 | [Torchlight II](games/t/torchlight_ii.md) | 984 | 4.58 | 423 |
+| 143 | [Torchlight II](games/t/torchlight_ii.md) | 985 | 4.58 | 423 |
 | 144 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 952 | 4.31 | 766 |
 | 145 | [Sonic Mania](games/s/sonic_mania.md) | 917 | 4.78 | 99 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 906 | 4.69 | 220 |
@@ -259,9 +259,9 @@
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 213 | 4.55 | 478 |
 | 258 | [Crying Suns](games/c/crying_suns.md) | 212 | 4.50 | 548 |
 | 259 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 211 | 4.59 | 413 |
+| 260 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 209 | 4.81 | 75 |
 | 260 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 423 |
-| 261 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 206 | 4.60 | 390 |
-| 262 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 205 | 4.81 | 75 |
+| 262 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 206 | 4.60 | 390 |
 | 263 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 823 |
 | 264 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 733 |
 | 265 | [HITMAN](games/h/hitman.md) | 200 | 4.64 | 318 |

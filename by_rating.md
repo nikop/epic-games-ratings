@@ -77,7 +77,7 @@
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 199 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,396 | 122 |
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 497 |
-| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 205 | 262 |
+| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 209 | 260 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 461 |
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,319 | 51 |
 | 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,409 | 95 |
@@ -217,7 +217,7 @@
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 497 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 174 | 280 |
 | 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,360 | 71 |
-| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,632 | 115 |
+| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,633 | 115 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 497 |
 | 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,665 | 8 |
 | 220 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 497 |
@@ -405,7 +405,7 @@
 | 390 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 497 |
 | 390 | [RiME](games/r/rime.md) | 4.60 | 0 | 497 |
 | 390 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 453 | 196 |
-| 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 206 | 261 |
+| 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 206 | 262 |
 | 390 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 287 | 233 |
 | 390 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.60 | 0 | 497 |
 | 390 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 486 |
@@ -437,7 +437,7 @@
 | 423 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 260 |
 | 423 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 497 |
 | 423 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 390 |
-| 423 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 984 | 143 |
+| 423 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 985 | 143 |
 | 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,183 | 53 |
 | 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 497 |
 | 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,399 | 23 |
@@ -780,7 +780,7 @@
 | 776 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 497 |
 | 776 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 497 |
 | 776 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,439,086 | 1 |
-| 776 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,647 | 79 |
+| 776 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,651 | 79 |
 | 776 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 692 | 162 |
 | 776 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
 | 776 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.29 | 33 | 437 |
