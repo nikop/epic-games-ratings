@@ -1,21 +1,21 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 274)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,690,351 |
-| Easy to forget | 46.00% | ~1,619,920 |
-| Back in the black | 38.00% | ~1,338,195 |
-| That's what I'm talking about | 28.00% | ~986,038 |
-| The Best of Both Worlds | 24.00% | ~845,176 |
-| Get your wings | 20.00% | ~704,313 |
-| Double trouble | 15.00% | ~528,235 |
-| Smashing it | 10.00% | ~352,156 |
-| But can it run Crysis? | 9.00% | ~316,941 |
-| My favourite feature... | 9.00% | ~316,941 |
+| You need to plug it in... | 48.00% | ~1,690,355 |
+| Easy to forget | 46.00% | ~1,619,924 |
+| Back in the black | 38.00% | ~1,338,198 |
+| That's what I'm talking about | 28.00% | ~986,040 |
+| The Best of Both Worlds | 24.00% | ~845,178 |
+| Get your wings | 20.00% | ~704,315 |
+| Double trouble | 15.00% | ~528,236 |
+| Smashing it | 10.00% | ~352,157 |
+| But can it run Crysis? | 9.00% | ~316,942 |
+| My favourite feature... | 9.00% | ~316,942 |
 | From humble beginnings... | 7.00% | ~246,510 |
 | Customer satisfaction | 7.00% | ~246,510 |
 | Keeping things neat | 4.00% | ~140,863 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,522 |
 | Treat yourself - GPU | 0.10% | ~3,522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521,565 (Ranked 4)  
+Progressed: 3,521,573 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 28 (0.00%) (Ranked 228)
 | 2023-06-19 | 3,520,523 | 28 |
 | 2023-06-20 | 3,520,982 | 28 |
 | 2023-06-21 | 3,521,452 | 28 |
-| 2023-06-22 | 3,521,565 | 28 |
+| 2023-06-22 | 3,521,573 | 28 |
 ## Awards
 Max (Great for Beginners): 1,050  (Ranked 137)  
 Sum: 7,832 (Ranked 96)  

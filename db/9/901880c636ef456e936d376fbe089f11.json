@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -403,9 +403,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -491,9 +491,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:06:45.0780692+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:05:08.5274826+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:57:20.5237191+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:06:45.0781186+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:57:18.2568856+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:05:08.527528+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.69,
+  "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -233,6 +233,11 @@
       "Time": "2023-06-20T17:05:42.9218058+00:00",
       "NumProgressed": 297,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-22T08:06:24.9257303+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -316,7 +321,7 @@
       "Name": "Grau Hill",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_10",
@@ -332,7 +337,7 @@
       "Name": "A forgotten language",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_12",
@@ -356,7 +361,7 @@
       "Name": "Lord Clayton",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_15",
@@ -395,7 +400,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 8
     }
   ],
@@ -403,8 +408,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:08:04.2424591+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:06:24.9257295+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:30.5945158+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:59:05.8903007+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:08:04.2424746+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:58:54.9016753+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:06:24.9257465+00:00"
 }

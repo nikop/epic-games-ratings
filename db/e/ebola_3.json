@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -803,6 +803,11 @@
       "Time": "2023-06-21T20:07:11.5787378+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T08:08:22.8863634+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -838,7 +843,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achBett",
@@ -878,7 +883,7 @@
       "Name": "Chest \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achCity",
@@ -1014,7 +1019,7 @@
       "Name": "Fright \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achLizun",
@@ -1213,7 +1218,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
@@ -1221,8 +1226,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:09:56.3993029+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:08:22.886363+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:44.5726171+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:03:58.134061+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:09:56.3993647+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:03:02.6441738+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:08:22.8864118+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3833,9 +3833,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "silverwoodliberator",
@@ -4010,8 +4010,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:09:52.8828339+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:08:20.0065924+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:59:30.3234802+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:09:52.8830019+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:59:14.3732134+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:08:20.0066777+00:00"
 }

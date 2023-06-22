@@ -4,8 +4,8 @@
   "ProductSlug": "stonekeep-d87a3b",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-22T16:00:00+00:00",
     "PcReleaseDate": "2022-07-22T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.0831438+00:00",
   "LastChanged": "2023-03-31T05:58:03.0831439+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:05.8641302+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:00:11.826162+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:07:17.1711367+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:59:51.7339658+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:05:31.7895477+00:00"
 }

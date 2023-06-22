@@ -36,6 +36,7 @@
 | Space Ranger: Prologue | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Rapidfire | 2.00% | ~1 |
+| Hell of a Fight | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
 | Clean Sweep | 2.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
@@ -46,7 +47,6 @@
 | Pumped Up | 0.00% | ~0 |
 | The Truth? | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
-| Hell of a Fight | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |

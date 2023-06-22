@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -1979,6 +1979,11 @@
       "Time": "2023-06-22T04:03:43.9410032+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T08:04:25.4400846+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2006,7 +2011,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2094,7 +2099,7 @@
       "Name": "Ganglord",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "DEAD_DICK",
@@ -2110,7 +2115,7 @@
       "Name": "Jarhead",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2134,7 +2139,7 @@
       "Name": "Editor Adept",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ENDGAME",
@@ -2174,7 +2179,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2238,7 +2243,7 @@
       "Name": "I am the law!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "INFILTRATOR",
@@ -2246,15 +2251,15 @@
       "Name": "Infiltrator",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 578
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2294,7 +2299,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "RECYCLER",
@@ -2302,7 +2307,7 @@
       "Name": "Recycler",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "RUTHLESS",
@@ -2366,7 +2371,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2374,7 +2379,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "THE_WATCHERS",
@@ -2382,7 +2387,7 @@
       "Name": "The Watchers",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "WIPE_OUT",
@@ -2397,7 +2402,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 0
     }
   ],
@@ -2405,8 +2410,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-19T06:58:50.3205524+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:05:43.1066348+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:04:25.4400841+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:59:59.7083148+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:05:43.1067061+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:59:40.3461935+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:04:25.4401402+00:00"
 }

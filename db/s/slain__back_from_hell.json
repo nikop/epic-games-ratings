@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26858,
+  "EOS_Progressed": 26862,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6826,6 +6826,11 @@
       "Time": "2023-06-22T07:09:37.7611314+00:00",
       "NumProgressed": 26858,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-22T08:08:08.1683711+00:00",
+      "NumProgressed": 26862,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6837,7 +6842,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6989,7 +6994,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -6997,7 +7002,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -7068,7 +7073,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26858,
+      "Progressed": 26862,
       "Completed": 20
     }
   ],
@@ -7076,8 +7081,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:09:37.7611306+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:08:08.1683707+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:03:25.9300199+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:09:37.7612574+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:02:34.3484544+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:08:08.1684289+00:00"
 }

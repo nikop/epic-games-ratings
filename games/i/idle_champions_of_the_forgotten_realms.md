@@ -353,6 +353,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~68 |
 | REALLY Frozen Vengeance | 0.10% | ~68 |
 | The Battle of High Hall Tower | 0.10% | ~68 |
+| Might Makes Right | 0.10% | ~68 |
 | The Stunning Tower Battle | 0.10% | ~68 |
 | Elturel's Last Stand | 0.10% | ~68 |
 | Gargauth's Betrayal | 0.10% | ~68 |
@@ -496,7 +497,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,093 (Ranked 63)  
+Progressed: 102,144 (Ranked 63)  
 Completed: 1,975 (1.93%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.93%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,093 | 1,975 |
+| 2023-06-22 | 102,144 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

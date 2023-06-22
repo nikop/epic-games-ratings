@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -543,9 +543,9 @@
       "ID": "Achi_38",
       "SetID": "51a97k7",
       "Name": "Hell of a Fight",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_39",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:05:14.854943+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:04:06.1126554+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.4232501+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:03:16.6696856+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:05:14.8550127+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:02:27.8952368+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:04:06.1126991+00:00"
 }

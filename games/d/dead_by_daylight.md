@@ -6,55 +6,55 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 3.00% | ~17,617 |
-| Resurgence | 3.00% | ~17,617 |
-| Wounded Healer | 2.00% | ~11,744 |
-| Close Shave | 2.00% | ~11,744 |
-| Preemptive Strike | 2.00% | ~11,744 |
-| Humanitarian | 2.00% | ~11,744 |
-| Flight to Freedom | 2.00% | ~11,744 |
-| Unforgettable Getaway | 1.00% | ~5,872 |
-| Cutting Out | 1.00% | ~5,872 |
-| First to the Punch | 1.00% | ~5,872 |
-| Operation: Survival | 1.00% | ~5,872 |
-| Old West Oasis | 1.00% | ~5,872 |
-| Classy Act | 1.00% | ~5,872 |
-| Every Last Drop | 1.00% | ~5,872 |
-| Raccoon City Recruit | 1.00% | ~5,872 |
-| With Scars to Show | 1.00% | ~5,872 |
-| A Fast Death | 1.00% | ~5,872 |
-| Lifting The Fog | 1.00% | ~5,872 |
-| Chorus of Chaos | 1.00% | ~5,872 |
-| Ancestor's Rite | 0.90% | ~5,285 |
-| Outrun Evil | 0.90% | ~5,285 |
-| Grim Pilgrimage | 0.90% | ~5,285 |
-| End of Days | 0.80% | ~4,698 |
+| Healthy Obsession | 3.00% | ~17,620 |
+| Resurgence | 3.00% | ~17,620 |
+| Wounded Healer | 2.00% | ~11,747 |
+| Close Shave | 2.00% | ~11,747 |
+| Preemptive Strike | 2.00% | ~11,747 |
+| Humanitarian | 2.00% | ~11,747 |
+| Flight to Freedom | 2.00% | ~11,747 |
+| Unforgettable Getaway | 1.00% | ~5,873 |
+| Cutting Out | 1.00% | ~5,873 |
+| First to the Punch | 1.00% | ~5,873 |
+| Operation: Survival | 1.00% | ~5,873 |
+| Old West Oasis | 1.00% | ~5,873 |
+| Classy Act | 1.00% | ~5,873 |
+| Every Last Drop | 1.00% | ~5,873 |
+| Raccoon City Recruit | 1.00% | ~5,873 |
+| With Scars to Show | 1.00% | ~5,873 |
+| A Fast Death | 1.00% | ~5,873 |
+| Lifting The Fog | 1.00% | ~5,873 |
+| Chorus of Chaos | 1.00% | ~5,873 |
+| Ancestor's Rite | 0.90% | ~5,286 |
+| Outrun Evil | 0.90% | ~5,286 |
+| Grim Pilgrimage | 0.90% | ~5,286 |
+| End of Days | 0.80% | ~4,699 |
 | Devoted Gatekeeping | 0.70% | ~4,111 |
 | Shrine Apparatus | 0.70% | ~4,111 |
 | Broken Bodies | 0.70% | ~4,111 |
 | Selfless Survival | 0.70% | ~4,111 |
 | Insult and Injury | 0.70% | ~4,111 |
 | Outrun the Overlap | 0.70% | ~4,111 |
-| Heavy Burden | 0.50% | ~2,936 |
-| I See You | 0.50% | ~2,936 |
-| Power Moves | 0.50% | ~2,936 |
-| Prowler | 0.50% | ~2,936 |
-| High Speed Pursuit | 0.50% | ~2,936 |
-| Rebuilding The Borgo | 0.50% | ~2,936 |
+| Heavy Burden | 0.50% | ~2,937 |
+| I See You | 0.50% | ~2,937 |
+| Power Moves | 0.50% | ~2,937 |
+| Prowler | 0.50% | ~2,937 |
+| High Speed Pursuit | 0.50% | ~2,937 |
+| Rebuilding The Borgo | 0.50% | ~2,937 |
 | Punch Drunk | 0.40% | ~2,349 |
 | Triage | 0.40% | ~2,349 |
 | Hack the Mainframe | 0.40% | ~2,349 |
 | Denied! | 0.30% | ~1,762 |
 | Death of Ignorance | 0.30% | ~1,762 |
-| Deranged Pursuit | 0.20% | ~1,174 |
-| Dismantle | 0.20% | ~1,174 |
-| Left For Dead | 0.20% | ~1,174 |
-| Bodyguard | 0.20% | ~1,174 |
-| Speed Kills | 0.20% | ~1,174 |
-| Rescue Mission | 0.20% | ~1,174 |
-| One Thousand Cuts | 0.20% | ~1,174 |
-| Ghost in the Machine | 0.20% | ~1,174 |
-| From the Deep | 0.20% | ~1,174 |
+| Deranged Pursuit | 0.20% | ~1,175 |
+| Dismantle | 0.20% | ~1,175 |
+| Left For Dead | 0.20% | ~1,175 |
+| Bodyguard | 0.20% | ~1,175 |
+| Speed Kills | 0.20% | ~1,175 |
+| Rescue Mission | 0.20% | ~1,175 |
+| One Thousand Cuts | 0.20% | ~1,175 |
+| Ghost in the Machine | 0.20% | ~1,175 |
+| From the Deep | 0.20% | ~1,175 |
 | The Grand Sacrifice | 0.10% | ~587 |
 | A bite for the Entity | 0.10% | ~587 |
 | A feast for the Entity | 0.10% | ~587 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~587 |
 | Adept Gabriel | 0.10% | ~587 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587,223 (Ranked 25)  
+Progressed: 587,334 (Ranked 25)  
 Completed: 42 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 42 (0.01%) (Ranked 216)
 | 2023-06-19 | 577,397 | 42 |
 | 2023-06-20 | 581,814 | 42 |
 | 2023-06-21 | 586,158 | 42 |
-| 2023-06-22 | 587,223 | 42 |
+| 2023-06-22 | 587,334 | 42 |
 ## Awards
 Max (Diverse Characters): 28,786  (Ranked 15)  
 Sum: 229,397 (Ranked 12)  

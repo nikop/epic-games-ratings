@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 652)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,746 |
-| This is only the beginning | 19.00% | ~40,847 |
-| Knowledge is power | 12.00% | ~25,798 |
+| No aid from the Omnissiah | 25.00% | ~53,747 |
+| This is only the beginning | 19.00% | ~40,848 |
+| Knowledge is power | 12.00% | ~25,799 |
 | Power Ranger | 9.00% | ~19,349 |
 | Galvanic Rifle | 9.00% | ~19,349 |
 | Taser Goad | 9.00% | ~19,349 |
 | Radium Ready | 9.00% | ~19,349 |
 | Half a cog | 9.00% | ~19,349 |
 | Watch them crumble | 6.00% | ~12,899 |
-| Competent Cohort | 4.00% | ~8,599 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,599 |
-| One with the Machine | 4.00% | ~8,599 |
+| Competent Cohort | 4.00% | ~8,600 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,600 |
+| One with the Machine | 4.00% | ~8,600 |
 | Legio Cybernetica | 3.00% | ~6,450 |
 | Fleshy Disposal | 3.00% | ~6,450 |
 | Battle Servitor | 2.00% | ~4,300 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 652)
 | Perma-live | 0.10% | ~215 |
 | Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,985 (Ranked 50)  
+Progressed: 214,989 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 4 (0.00%) (Ranked 228)
 | 2023-06-19 | 214,763 | 4 |
 | 2023-06-20 | 214,860 | 4 |
 | 2023-06-21 | 214,964 | 4 |
-| 2023-06-22 | 214,985 | 4 |
+| 2023-06-22 | 214,989 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 235)  
-Sum: 2,111 (Ranked 187)  
+Sum: 2,112 (Ranked 187)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): 48
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 259 |
-| This game has Diverse Characters | 253 |
+| This game has Diverse Characters | 254 |
 | This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
 | This game has Unique Visuals | 205 |
@@ -160,3 +160,4 @@ Diff (max vs sum): 48
 | 2023-06-12 | 4.43 | 279 | 2,107 |
 | 2023-06-18 | 4.43 | 280 | 2,109 |
 | 2023-06-20 | 4.43 | 280 | 2,111 |
+| 2023-06-22 | 4.43 | 280 | 2,112 |

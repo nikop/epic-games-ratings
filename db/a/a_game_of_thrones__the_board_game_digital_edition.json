@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 16348,
+  "EOS_Progressed": 16350,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7711,6 +7711,11 @@
       "Time": "2023-06-22T07:09:36.1970164+00:00",
       "NumProgressed": 16348,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-22T08:08:06.9468694+00:00",
+      "NumProgressed": 16350,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 22,
@@ -7722,7 +7727,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "1016",
@@ -7762,7 +7767,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "1021",
@@ -7818,7 +7823,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "1028",
@@ -7834,7 +7839,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "1030",
@@ -7858,7 +7863,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "1033",
@@ -7897,15 +7902,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 16348,
+      "Progressed": 16350,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-18T13:05:12.3034021+00:00",
-  "LastChanged_Achievements": "2023-06-22T07:09:36.1970154+00:00",
+  "LastChanged_Achievements": "2023-06-22T08:08:06.9468691+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.0084134+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:03:54.0696033+00:00",
-  "LastUpdate_Achievements": "2023-06-22T07:09:36.1970981+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:03:00.2859096+00:00",
+  "LastUpdate_Achievements": "2023-06-22T08:08:06.946924+00:00"
 }
