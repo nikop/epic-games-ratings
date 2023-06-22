@@ -29,6 +29,7 @@ Rating: 4.45 (Ranked 619)
 | B-asic! | 5.00% | ~52 |
 | Under the neon lights | 4.00% | ~41 |
 | All Power to Engines! | 4.00% | ~41 |
+| Had to sweat a bit | 4.00% | ~41 |
 | Almost broke the game | 4.00% | ~41 |
 | Better luck next time | 4.00% | ~41 |
 | Dev, this! | 4.00% | ~41 |
@@ -37,7 +38,6 @@ Rating: 4.45 (Ranked 619)
 | A-mazing! | 3.00% | ~31 |
 | To infinity and gravity! | 3.00% | ~31 |
 | One giant drive for mankind | 3.00% | ~31 |
-| Had to sweat a bit | 3.00% | ~31 |
 | [Sweats profusely] | 3.00% | ~31 |
 | It's like a party! | 3.00% | ~31 |
 | Healthy competition | 3.00% | ~31 |

@@ -7,12 +7,12 @@ Rating: 4.31 (Ranked 766)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~967 |
 | A new Journey | 72.00% | ~954 |
+| From X to Y | 71.00% | ~941 |
 | Departure | 71.00% | ~941 |
-| From X to Y | 70.00% | ~927 |
 | Way of Iron | 69.00% | ~914 |
 | Mystery Tour | 67.00% | ~888 |
+| We brake for nobody | 66.00% | ~874 |
 | Brainstorm | 65.00% | ~861 |
-| We brake for nobody | 65.00% | ~861 |
 | Travel Company | 64.00% | ~848 |
 | Mind the Gap | 63.00% | ~835 |
 | All around the World | 61.00% | ~808 |
@@ -27,9 +27,9 @@ Rating: 4.31 (Ranked 766)
 | Stoker | 32.00% | ~424 |
 | Full Steam ahead | 31.00% | ~411 |
 | Bull and bear | 31.00% | ~411 |
+| All mine | 28.00% | ~371 |
 | Mole | 28.00% | ~371 |
 | Financial Shark | 28.00% | ~371 |
-| All mine | 27.00% | ~358 |
 | Socializer | 26.00% | ~344 |
 | Country Life | 25.00% | ~331 |
 | General Manager | 24.00% | ~318 |

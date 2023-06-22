@@ -5019,7 +5019,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 53890,
+  "EOS_Progressed": 53891,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
@@ -11499,6 +11499,11 @@
       "Time": "2023-06-22T22:07:31.9905207+00:00",
       "NumProgressed": 53890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T23:08:02.7817815+00:00",
+      "NumProgressed": 53891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11702,7 +11707,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8622
+      "UsersEstimate": 8623
     },
     {
       "ID": "Kingslayer",
@@ -11742,7 +11747,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19400
+      "UsersEstimate": 19401
     },
     {
       "ID": "Lawmaker",
@@ -11917,15 +11922,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 53890,
+      "Progressed": 53891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-22T22:00:36.8836419+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:07:31.9905204+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:08:02.7817808+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:17.3516171+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:00:36.8836424+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:07:31.990584+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:01:06.4607716+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:08:02.7819286+00:00"
 }

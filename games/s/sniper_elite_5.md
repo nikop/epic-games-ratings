@@ -26,6 +26,7 @@ Rating: 4.46 (Ranked 603)
 | Der Geist | 0.50% | ~15 |
 | Close Quarters | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
+| Climbing the Ladder | 0.40% | ~12 |
 | No Stone Unturned | 0.40% | ~12 |
 | Skirmisher | 0.40% | ~12 |
 | Precision Is Key | 0.40% | ~12 |
@@ -33,7 +34,6 @@ Rating: 4.46 (Ranked 603)
 | Snake in the Grass | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Brains of the Operation | 0.40% | ~12 |
-| Climbing the Ladder | 0.30% | ~9 |
 | Opposing Force | 0.30% | ~9 |
 | Enemy at the Gates | 0.30% | ~9 |
 | Rigged to Blow | 0.30% | ~9 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2023-06-22T22:04:29.6124811+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T23:04:48.8857111+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -560,7 +565,7 @@
       "Name": "Exterminator",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_defeat_players_10",
@@ -584,7 +589,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -654,9 +659,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -678,9 +683,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -688,7 +693,7 @@
       "Name": "Captain",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -704,7 +709,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -768,7 +773,7 @@
       "Name": "Resourceful",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -808,7 +813,7 @@
       "Name": "Defenses Online",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -848,21 +853,21 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:04:29.6124802+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:04:48.8857102+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:01:27.7751871+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:04:29.6125063+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:01:59.2709053+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:04:48.8857449+00:00"
 }

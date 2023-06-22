@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Never around when you need them | 47.00% | ~7 |
 | Became the new Maker | 20.00% | ~3 |
+| Jumped into the void | 13.00% | ~2 |
 | Where's the air conditioner? | 13.00% | ~2 |
 | You got all endings! | 7.00% | ~1 |
-| Jumped into the void | 7.00% | ~1 |
 | Did you think you would make it? | 7.00% | ~1 |
 | Stubbornness unleashed! | 7.00% | ~1 |
 | So nineties it hurts... | 7.00% | ~1 |

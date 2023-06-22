@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -930,7 +930,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3764,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -4865,6 +4865,11 @@
       "Time": "2023-06-22T21:03:50.1189574+00:00",
       "NumProgressed": 3764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T23:04:32.6226044+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4884,7 +4889,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -4996,7 +5001,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5180,7 +5185,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5195,15 +5200,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3764,
+      "Progressed": 3765,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-21T20:01:16.6815919+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:04:15.0103741+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:04:32.6226037+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:01:11.5783236+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:04:15.0104167+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:01:42.8780422+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:04:32.6227176+00:00"
 }

@@ -10,18 +10,18 @@
 | The Wall of Laments | 42.00% | ~8 |
 | Death Whistle | 37.00% | ~7 |
 | Burial Mound | 37.00% | ~7 |
-| Make the Prophet Your Ally | 26.00% | ~5 |
-| Become a Half-Child | 26.00% | ~5 |
+| Make the Prophet Your Ally | 32.00% | ~6 |
+| Become a Half-Child | 32.00% | ~6 |
+| A Catacomb | 32.00% | ~6 |
+| Put Kata out of Her Misery | 26.00% | ~5 |
 | The Dreaded Klek | 26.00% | ~5 |
 | Find the Road of Cadavers | 26.00% | ~5 |
-| A Catacomb | 26.00% | ~5 |
-| Put Kata out of Her Misery | 21.00% | ~4 |
+| Found Ulric's Portrait | 26.00% | ~5 |
+| The Crypt of Ivan Kotar | 26.00% | ~5 |
+| Lore and Background Story | 26.00% | ~5 |
 | Ulric's Painting Acquired | 21.00% | ~4 |
 | Save Arsen | 21.00% | ~4 |
-| Found Ulric's Portrait | 21.00% | ~4 |
 | Veil of Vera | 21.00% | ~4 |
-| The Crypt of Ivan Kotar | 21.00% | ~4 |
-| Lore and Background Story | 21.00% | ~4 |
 | Infuriate Elizabeta | 16.00% | ~3 |
 | Nikolay's Nonsense | 16.00% | ~3 |
 | You Abandoned God | 16.00% | ~3 |

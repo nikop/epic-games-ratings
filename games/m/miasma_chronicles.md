@@ -39,8 +39,8 @@ Rating: 4.34 (Ranked 741)
 | Ruthless | 13.00% | ~154 |
 | Chaos Theory | 12.00% | ~142 |
 | Commando | 10.00% | ~118 |
+| Side Order | 9.00% | ~106 |
 | Chain Reaction | 8.00% | ~95 |
-| Side Order | 8.00% | ~95 |
 | Curveball | 7.00% | ~83 |
 | Wipe Out | 7.00% | ~83 |
 | Bot Whisperer | 6.00% | ~71 |

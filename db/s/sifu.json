@@ -4788,9 +4788,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 709969,
+  "EOS_Progressed": 709970,
   "EOS_Completed": 12781,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10853,6 +10853,11 @@
       "Time": "2023-06-22T22:07:31.416322+00:00",
       "NumProgressed": 709969,
       "NumCompleted": 12781
+    },
+    {
+      "Time": "2023-06-22T23:08:02.2172007+00:00",
+      "NumProgressed": 709970,
+      "NumCompleted": 12781
     }
   ],
   "TotalAchievements": 50,
@@ -10926,9 +10931,9 @@
       "ID": "09_Wude_H3",
       "SetID": "adcm20g",
       "Name": "Source of Flying Daggers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3550
+      "UsersEstimate": 4260
     },
     {
       "ID": "10_Wude_H4",
@@ -11263,21 +11268,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19270,
+      "Progressed": 19271,
       "Completed": 10304
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709969,
+      "Progressed": 709970,
       "Completed": 12781
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-22T20:59:05.526102+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:07:31.4163218+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:08:02.2172+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:59:48.6158936+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:07:31.416379+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:00:13.7716308+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:08:02.2173423+00:00"
 }

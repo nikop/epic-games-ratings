@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "CAREERTRIALSA",
       "SetID": "3dh70f3",
       "Name": "Had to sweat a bit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "CAREERTRIALSB",
@@ -877,8 +877,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:07:31.0716402+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:08:01.9030552+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:49.1580209+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:58:47.0571245+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:07:31.071679+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:59:06.1550183+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:08:01.9031402+00:00"
 }

@@ -36,9 +36,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Deadly Venom | 0.70% | ~135 |
 | Muk Yan Master | 0.60% | ~4,260 |
 | Tiger on Fire | 0.60% | ~4,260 |
+| Source of Flying Daggers | 0.60% | ~4,260 |
 | Detective Story | 0.60% | ~4,260 |
 | A Touch of Acumen | 0.60% | ~116 |
-| Source of Flying Daggers | 0.50% | ~3,550 |
 | Iron Money | 0.50% | ~3,550 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,550 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,550 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,969 (Ranked 17)  
+Progressed: 709,970 (Ranked 17)  
 Completed: 12,781 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 12,781 (1.80%) (Ranked 78)
 | 2023-06-19 | 709,833 | 12,778 |
 | 2023-06-20 | 709,878 | 12,779 |
 | 2023-06-21 | 709,919 | 12,779 |
-| 2023-06-22 | 709,969 | 12,781 |
+| 2023-06-22 | 709,970 | 12,781 |
 ## Awards
 Max (Great Boss Battles): 6,197  (Ranked 52)  
 Sum: 10,601 (Ranked 78)  

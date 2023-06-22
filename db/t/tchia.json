@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6576,
+  "EOS_Progressed": 6578,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -3920,6 +3920,11 @@
       "Time": "2023-06-22T21:06:04.0459098+00:00",
       "NumProgressed": 6576,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-22T23:07:39.2539761+00:00",
+      "NumProgressed": 6578,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -4003,7 +4008,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -4035,7 +4040,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "LIBERATOR",
@@ -4098,7 +4103,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6576,
+      "Progressed": 6578,
       "Completed": 25
     }
   ],
@@ -4106,8 +4111,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:07:09.8252866+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:07:39.2539752+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:39.0448454+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:58:34.6816963+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:07:09.8253117+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:58:52.178609+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:07:39.2540203+00:00"
 }

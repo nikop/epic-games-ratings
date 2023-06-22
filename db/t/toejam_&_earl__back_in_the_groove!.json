@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55348,
+  "EOS_Progressed": 55350,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4217,6 +4217,11 @@
       "Time": "2023-06-22T21:03:10.89828+00:00",
       "NumProgressed": 55348,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-22T23:03:29.2004554+00:00",
+      "NumProgressed": 55350,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4276,7 +4281,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Explorer",
@@ -4292,7 +4297,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "FlyingPresent",
@@ -4300,7 +4305,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "FlyingPresentMaster",
@@ -4316,7 +4321,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "FoolMeTwice",
@@ -4324,7 +4329,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "FoundAllBackers",
@@ -4372,7 +4377,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "HarshLove",
@@ -4460,7 +4465,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "PacifistVictory",
@@ -4596,7 +4601,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -4619,7 +4624,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55348,
+      "Progressed": 55350,
       "Completed": 4
     }
   ],
@@ -4627,8 +4632,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:03:14.5559245+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:03:29.2004546+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:02.7981608+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:01:35.6664128+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:03:14.5559764+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:02:07.869147+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:03:29.2005237+00:00"
 }

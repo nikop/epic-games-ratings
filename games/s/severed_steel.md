@@ -1,22 +1,22 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,384 |
-| 50 HEADSHOTS | 12.00% | ~50,200 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,650 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,650 |
-| 200 HEADSHOTS | 8.00% | ~33,467 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,284 |
-| FINISHED CHAPTER 3 | 6.00% | ~25,100 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,917 |
-| 1000 KILLS | 4.00% | ~16,733 |
-| FINISH CHAPTER 5 | 4.00% | ~16,733 |
-| FINISH CHAPTER 6 | 4.00% | ~16,733 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,733 |
+| 100 KILLS | 13.00% | ~54,386 |
+| 50 HEADSHOTS | 12.00% | ~50,202 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,652 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,652 |
+| 200 HEADSHOTS | 8.00% | ~33,468 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,285 |
+| FINISHED CHAPTER 3 | 6.00% | ~25,101 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,918 |
+| 1000 KILLS | 4.00% | ~16,734 |
+| FINISH CHAPTER 5 | 4.00% | ~16,734 |
+| FINISH CHAPTER 6 | 4.00% | ~16,734 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,734 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,367 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,928 |
 | FIRST BLOOD | 0.70% | ~2,928 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 241)
 | THE GAMBLER | 0.10% | ~418 |
 | WARRIOR IN A GARDEN | 0.10% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,337 (Ranked 37)  
+Progressed: 418,352 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 37 (0.01%) (Ranked 216)
 | 2023-06-19 | 417,396 | 37 |
 | 2023-06-20 | 417,705 | 37 |
 | 2023-06-21 | 418,000 | 37 |
-| 2023-06-22 | 418,337 | 37 |
+| 2023-06-22 | 418,352 | 37 |
 ## Awards
 Max (Great Boss Battles): 179  (Ranked 276)  
 Sum: 179 (Ranked 369)  

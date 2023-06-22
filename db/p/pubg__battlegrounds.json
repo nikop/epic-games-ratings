@@ -2374,9 +2374,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 408940,
+  "EOS_Progressed": 409004,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13073,
+  "EOS_NewPlayers": 13074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9114,6 +9114,11 @@
       "Time": "2023-06-22T22:07:20.0323603+00:00",
       "NumProgressed": 408940,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-22T23:07:50.0840249+00:00",
+      "NumProgressed": 409004,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -9125,7 +9130,7 @@
       "Name": "Last Survivor",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16360
     },
     {
       "ID": "10",
@@ -9133,7 +9138,7 @@
       "Name": "Marksman Master",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16360
     },
     {
       "ID": "11",
@@ -9141,7 +9146,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 36805
+      "UsersEstimate": 36810
     },
     {
       "ID": "12",
@@ -9149,7 +9154,7 @@
       "Name": "Marksman Novice",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 81788
+      "UsersEstimate": 81801
     },
     {
       "ID": "13",
@@ -9189,7 +9194,7 @@
       "Name": "Collateral Damage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 28626
+      "UsersEstimate": 28630
     },
     {
       "ID": "18",
@@ -9197,7 +9202,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 126771
+      "UsersEstimate": 126791
     },
     {
       "ID": "19",
@@ -9205,7 +9210,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 310794
+      "UsersEstimate": 310843
     },
     {
       "ID": "2",
@@ -9213,7 +9218,7 @@
       "Name": "Winner Winner Chicken Dinner!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "20",
@@ -9229,7 +9234,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 89967
+      "UsersEstimate": 89981
     },
     {
       "ID": "22",
@@ -9237,7 +9242,7 @@
       "Name": "Trigonometry Novice",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16360
     },
     {
       "ID": "23",
@@ -9245,7 +9250,7 @@
       "Name": "Okay, Now I\u0027m Ready",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "24",
@@ -9253,7 +9258,7 @@
       "Name": "First Blood",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 57252
+      "UsersEstimate": 57261
     },
     {
       "ID": "25",
@@ -9269,7 +9274,7 @@
       "Name": "First Come, First Served",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16360
     },
     {
       "ID": "27",
@@ -9277,7 +9282,7 @@
       "Name": "Agent 48",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "28",
@@ -9285,7 +9290,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 49073
+      "UsersEstimate": 49080
     },
     {
       "ID": "29",
@@ -9293,7 +9298,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24536
+      "UsersEstimate": 24540
     },
     {
       "ID": "3",
@@ -9301,7 +9306,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16360
     },
     {
       "ID": "30",
@@ -9309,7 +9314,7 @@
       "Name": "Fury Road",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "31",
@@ -9317,7 +9322,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 159487
+      "UsersEstimate": 159512
     },
     {
       "ID": "32",
@@ -9325,7 +9330,7 @@
       "Name": "Ghost",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "33",
@@ -9333,7 +9338,7 @@
       "Name": "Don\u0027t Pan Me Bro!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "34",
@@ -9341,7 +9346,7 @@
       "Name": "Fast and Furious",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "35",
@@ -9349,7 +9354,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 167665
+      "UsersEstimate": 167692
     },
     {
       "ID": "36",
@@ -9357,7 +9362,7 @@
       "Name": "Cruising with the Enemy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "37",
@@ -9365,7 +9370,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 184023
+      "UsersEstimate": 184052
     },
     {
       "ID": "4",
@@ -9373,7 +9378,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 85877
+      "UsersEstimate": 85891
     },
     {
       "ID": "5",
@@ -9381,7 +9386,7 @@
       "Name": "Top 10",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 57252
+      "UsersEstimate": 57261
     },
     {
       "ID": "6",
@@ -9389,7 +9394,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24536
+      "UsersEstimate": 24540
     },
     {
       "ID": "7",
@@ -9405,7 +9410,7 @@
       "Name": "CQB Expert",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "9",
@@ -9413,14 +9418,14 @@
       "Name": "CQB Novice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 32715
+      "UsersEstimate": 32720
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 408940,
+      "Progressed": 409004,
       "Completed": 10
     }
   ],
@@ -9428,8 +9433,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-06-22T21:59:19.8174358+00:00",
-  "LastChanged_Achievements": "2023-06-22T22:07:20.0323599+00:00",
+  "LastChanged_Achievements": "2023-06-22T23:07:50.0840242+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:16.5143591+00:00",
-  "LastUpdate_Ratings": "2023-06-22T21:59:19.8174366+00:00",
-  "LastUpdate_Achievements": "2023-06-22T22:07:20.0324122+00:00"
+  "LastUpdate_Ratings": "2023-06-22T22:59:40.9172079+00:00",
+  "LastUpdate_Achievements": "2023-06-22T23:07:50.0841216+00:00"
 }
