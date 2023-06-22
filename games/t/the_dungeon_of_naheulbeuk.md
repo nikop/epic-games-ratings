@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 19.00% | ~27 |
 | Urik's Depths | 18.00% | ~25 |
 | In Navalu's footsteps | 18.00% | ~25 |
-| Cursed die | 16.00% | ~23 |
+| Cursed die | 17.00% | ~24 |
 | Law and Order | 16.00% | ~23 |
 | Res Judicata | 14.00% | ~20 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~20 |

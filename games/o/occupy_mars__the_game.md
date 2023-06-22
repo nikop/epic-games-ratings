@@ -31,11 +31,11 @@ Rating: 3.84 (Ranked 931)
 | Caveman | 0.80% | ~10 |
 | Rocket Jump | 0.80% | ~10 |
 | Thunderstruck | 0.80% | ~10 |
-| 5G Network | 0.50% | ~6 |
-| Bull’s eye | 0.50% | ~6 |
-| Planetary Defence | 0.50% | ~6 |
-| One does not simply... | 0.50% | ~6 |
-| Rover Mechanic | 0.50% | ~6 |
+| 5G Network | 0.50% | ~7 |
+| Bull’s eye | 0.50% | ~7 |
+| Planetary Defence | 0.50% | ~7 |
+| One does not simply... | 0.50% | ~7 |
+| Rover Mechanic | 0.50% | ~7 |
 | Korolev crater | 0.40% | ~5 |
 | Hot Repairs | 0.30% | ~4 |
 | Never Ending Story? | 0.20% | ~3 |
@@ -54,7 +54,7 @@ Rating: 3.84 (Ranked 931)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 170)  
+Progressed: 1,301 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 1,289 | 0 |
 | 2023-06-20 | 1,296 | 0 |
 | 2023-06-21 | 1,300 | 0 |
+| 2023-06-22 | 1,301 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

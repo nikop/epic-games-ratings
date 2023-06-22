@@ -4,7 +4,7 @@
   "ProductSlug": "skotos-455463",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-29T11:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T16:58:31.8527727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.2788788+00:00",
   "LastChanged": "2023-03-31T16:58:31.8527728+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:07:37.4339502+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:11:15.6147807+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:20.7974428+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:00:16.7539397+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:07:37.4339531+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:01:41.3239335+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:11:15.6147849+00:00"
 }

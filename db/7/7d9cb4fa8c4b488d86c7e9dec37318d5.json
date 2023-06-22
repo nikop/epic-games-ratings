@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -346,9 +346,9 @@
       "ID": "Statue Collector beginner",
       "SetID": "1fffk9d",
       "Name": "5 Suicide Guy statues",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Suicide Guy",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:06:08.3695025+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:09:36.3498596+00:00",
   "LastUpdate_AppInfo": "2023-06-20T19:57:06.8077696+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:57:37.8249743+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:06:08.3695149+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:57:48.4788763+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:09:36.3498721+00:00"
 }

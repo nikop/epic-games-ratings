@@ -17,7 +17,7 @@
 | Massive slaughter | 16.00% | ~4 |
 | ... And that one! | 12.00% | ~3 |
 | Endurance test! | 8.00% | ~2 |
-| You monster! | 0.00% | ~0 |
+| You monster! | 4.00% | ~1 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 352)  

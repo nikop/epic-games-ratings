@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "ach_bunny50",
       "SetID": "c2c0fb6",
       "Name": "You monster!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_day10",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:07:41.4891409+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:11:21.3168307+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.4329887+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:01:00.1050304+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:07:41.4891524+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:02:33.4726904+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:11:21.3168439+00:00"
 }

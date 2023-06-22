@@ -4438,9 +4438,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 102144,
+  "EOS_Progressed": 102218,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 11407,
+  "EOS_NewPlayers": 11480,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 1.93,
   "EosHistory": [
@@ -10953,6 +10953,11 @@
       "Time": "2023-06-22T08:08:29.1266465+00:00",
       "NumProgressed": 102144,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T09:11:56.6637289+00:00",
+      "NumProgressed": 102218,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -12994,9 +12999,9 @@
       "ID": "objective_completed_421",
       "SetID": "415jc5c",
       "Name": "Servants of the Demon Prince",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_423",
@@ -14106,9 +14111,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_completed_70",
@@ -14987,21 +14992,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 68418,
+      "Progressed": 68492,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 102144,
+      "Progressed": 102218,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-22T05:59:00.1885849+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:08:29.1266447+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:11:56.6637283+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:59:19.844193+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:08:29.1295198+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:00:13.538765+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:11:56.6669078+00:00"
 }

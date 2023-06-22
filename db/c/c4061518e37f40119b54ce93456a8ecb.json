@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -65,17 +65,17 @@
       "ID": "ACH_ActivateGrace",
       "SetID": "aao9n96",
       "Name": "It\u0027s alive! It\u0027s alive!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_AlignRelay",
       "SetID": "aao9n96",
       "Name": "Don\u0027t cross the streams",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_AllRooms",
@@ -169,9 +169,9 @@
       "ID": "ACH_EnterHeaven",
       "SetID": "aao9n96",
       "Name": "I\u0027ve a feeling we\u0027re not in Kansas anymore",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_EscapeTrap",
@@ -209,9 +209,9 @@
       "ID": "ACH_GraceEnding",
       "SetID": "aao9n96",
       "Name": "The hardest choices require the strongest wills",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 140,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_HeldBreath",
@@ -225,17 +225,17 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_Keeper",
       "SetID": "aao9n96",
       "Name": "Speak Friend and Enter",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LongJump",
@@ -249,9 +249,9 @@
       "ID": "ACH_MomWalk",
       "SetID": "aao9n96",
       "Name": "I want to tell you my secret now",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MoonSurface",
@@ -265,9 +265,9 @@
       "ID": "ACH_OverridePanel",
       "SetID": "aao9n96",
       "Name": "Mess with the best, die like the rest",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_QuestionControl",
@@ -281,9 +281,9 @@
       "ID": "ACH_ResetRelay",
       "SetID": "aao9n96",
       "Name": "When we fix something it stays fixed",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_Shortcut",
@@ -297,9 +297,9 @@
       "ID": "ACH_Siege",
       "SetID": "aao9n96",
       "Name": "Let them come",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_Spire",
@@ -313,9 +313,9 @@
       "ID": "ACH_Theremin",
       "SetID": "aao9n96",
       "Name": "Put it up to eleven",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ThrowRocks",
@@ -352,8 +352,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:06:21.4659656+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:09:55.3355224+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3601408+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:57:49.3080655+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:06:21.4659916+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:57:59.2436883+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:09:55.3355554+00:00"
 }

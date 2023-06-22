@@ -4,7 +4,7 @@
   "ProductSlug": "the-bookwalker-cd43ce",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-22T16:00:00+00:00",
@@ -25,9 +25,306 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "abandoned_apartment",
+      "SetID": "5o7abj2",
+      "Name": "Secrets Beneath",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "change_of_heart",
+      "SetID": "5o7abj2",
+      "Name": "A Change of Heart",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book1",
+      "SetID": "5o7abj2",
+      "Name": "Drop of Infinity",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book2",
+      "SetID": "5o7abj2",
+      "Name": "The Spark of a Hammer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book3",
+      "SetID": "5o7abj2",
+      "Name": "The Kornelius Paradox",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book4",
+      "SetID": "5o7abj2",
+      "Name": "Black River Drifters",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book5",
+      "SetID": "5o7abj2",
+      "Name": "Timeless Mansion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book6",
+      "SetID": "5o7abj2",
+      "Name": "Heart of Sand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_book7",
+      "SetID": "5o7abj2",
+      "Name": "The Mastermind",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_epilogue",
+      "SetID": "5o7abj2",
+      "Name": "Happily Ever After",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cops_no_damage",
+      "SetID": "5o7abj2",
+      "Name": "Fight the Establishment",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "craft_lots_ink",
+      "SetID": "5o7abj2",
+      "Name": "Deconstruction",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "craft_lots_items",
+      "SetID": "5o7abj2",
+      "Name": "Innovator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "craft_some_items",
+      "SetID": "5o7abj2",
+      "Name": "Crafty",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "defeat_crowd",
+      "SetID": "5o7abj2",
+      "Name": "Streikbrecher",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dialogue_lots_ink",
+      "SetID": "5o7abj2",
+      "Name": "Write Your Story",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dialogue_lots_items",
+      "SetID": "5o7abj2",
+      "Name": "No Time For Words",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dialogue_some_ink",
+      "SetID": "5o7abj2",
+      "Name": "Plot Twist",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dialogue_some_items",
+      "SetID": "5o7abj2",
+      "Name": "Alternate Solution",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fight_blocked_damage",
+      "SetID": "5o7abj2",
+      "Name": "Sticks and Stones Won\u0027t Break My Bones",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fight_drain",
+      "SetID": "5o7abj2",
+      "Name": "Plagiarism",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fight_unique",
+      "SetID": "5o7abj2",
+      "Name": "Relentless Warrior",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "final_all_artifacts",
+      "SetID": "5o7abj2",
+      "Name": "Jack of All Trades",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "final_no_artifacts",
+      "SetID": "5o7abj2",
+      "Name": "Luddite",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mansion_letters",
+      "SetID": "5o7abj2",
+      "Name": "Pen Pals",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pacifist_factory",
+      "SetID": "5o7abj2",
+      "Name": "\u0022Pacifist By Day,  Utilitarianist By Night\u0022",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "potion_full",
+      "SetID": "5o7abj2",
+      "Name": "All or Nothing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "potion_half",
+      "SetID": "5o7abj2",
+      "Name": "Divide (and Conquer)",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "return_keys",
+      "SetID": "5o7abj2",
+      "Name": "Keymaster",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "robot_treasure",
+      "SetID": "5o7abj2",
+      "Name": "Treasures of Days Past",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secret_portrait_room",
+      "SetID": "5o7abj2",
+      "Name": "Portrait of the Fat Gentleman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shoot_turret",
+      "SetID": "5o7abj2",
+      "Name": "Clay Pigeon Shooting",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "spaceship_recordings",
+      "SetID": "5o7abj2",
+      "Name": "Audio Chronicle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "steal_food",
+      "SetID": "5o7abj2",
+      "Name": "Kleptoparasitism",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "trust_bricks",
+      "SetID": "5o7abj2",
+      "Name": "\u0022Brick,  No Mortar\u0022",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "upgrade_all",
+      "SetID": "5o7abj2",
+      "Name": "Strive For Perfection",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "upgrade_one",
+      "SetID": "5o7abj2",
+      "Name": "\u0022Your Shield,  My Liege\u0022",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5o7abj2",
@@ -37,8 +334,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:04:40.4323537+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:08:00.954435+00:00",
   "LastUpdate_AppInfo": "2023-06-21T09:57:04.3816302+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:57:32.835434+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:04:40.4323564+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:57:42.2640892+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:08:00.9544689+00:00"
 }

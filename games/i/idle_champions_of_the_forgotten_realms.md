@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.20% | ~204 |
+| The Mad Wizard | 0.20% | ~204 |
 | Frail Doesn't Mean Broken | 0.10% | ~68 |
 | The Castle of a Thousand Vecnas | 0.10% | ~68 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~68 |
@@ -159,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.10% | ~102 |
 | Cramped Quarters | 0.10% | ~102 |
 | Flame(skull) War | 0.10% | ~102 |
+| Servants of the Demon Prince | 0.10% | ~68 |
 | Enter the Sargauth | 0.10% | ~102 |
 | Elder Rune Madness | 0.10% | ~102 |
 | The Madness Grows | 0.10% | ~102 |
@@ -297,7 +299,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~68 |
 | Mirage Arcane | 0.10% | ~68 |
 | Only Human | 0.10% | ~68 |
-| The Mad Wizard | 0.10% | ~102 |
 | Close Escort | 0.10% | ~102 |
 | Constant Banditry | 0.10% | ~102 |
 | The Long Haul | 0.10% | ~102 |
@@ -496,7 +497,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Servants of the Demon Prince | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,144 (Ranked 63)  
+Progressed: 102,218 (Ranked 63)  
 Completed: 1,975 (1.93%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.93%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,144 | 1,975 |
+| 2023-06-22 | 102,218 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

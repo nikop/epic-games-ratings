@@ -336,7 +336,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2492,
+  "EOS_Progressed": 2493,
   "EOS_Completed": 98,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
@@ -1476,6 +1476,11 @@
       "Time": "2023-06-22T05:03:17.6669571+00:00",
       "NumProgressed": 2492,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-22T09:07:41.9771717+00:00",
+      "NumProgressed": 2493,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 14,
@@ -1495,7 +1500,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -1519,7 +1524,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -1527,7 +1532,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1591,14 +1596,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2492,
+      "Progressed": 2493,
       "Completed": 98
     }
   ],
@@ -1606,8 +1611,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:04:27.1639633+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:07:41.9771711+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:50.0345943+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:03:04.7277597+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:04:27.1639821+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:05:50.2632429+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:07:41.9771938+00:00"
 }

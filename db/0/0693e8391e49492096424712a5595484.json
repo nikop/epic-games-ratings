@@ -297,9 +297,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Drunkard",
@@ -313,9 +313,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:04:59.6589769+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:08:28.3385373+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:12.9807221+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:57:12.8858977+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:04:59.6590157+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:57:17.5045878+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:08:28.338578+00:00"
 }

@@ -22,6 +22,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.50% | ~28 |
 | Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
+| It Smells Like Roses | 0.40% | ~11 |
 | Smooth Operator: Ashley | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Muse: Madison | 0.40% | ~23 |
@@ -29,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.40% | ~23 |
 | I'll Be Back | 0.30% | ~17 |
 | Casanova | 0.30% | ~17 |
-| It Smells Like Roses | 0.30% | ~8 |
 | Now It's a Party! | 0.30% | ~17 |
 | Vickie | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |

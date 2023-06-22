@@ -4,7 +4,7 @@
   "ProductSlug": "mail-time-ed1aea",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4596731+00:00",
   "LastChanged": "2023-03-31T05:58:06.4596732+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:19.4801193+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:02:07.3339916+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:07:15.6862359+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:04:25.0639642+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:10:44.2649099+00:00"
 }

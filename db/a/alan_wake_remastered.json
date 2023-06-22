@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55920,
+  "EOS_Progressed": 55922,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5717,6 +5717,11 @@
       "Time": "2023-06-22T07:09:50.1829993+00:00",
       "NumProgressed": 55920,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T09:11:43.1618248+00:00",
+      "NumProgressed": 55922,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5728,7 +5733,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17894
+      "UsersEstimate": 17895
     },
     {
       "ID": "02",
@@ -5760,7 +5765,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     },
     {
       "ID": "06",
@@ -5920,7 +5925,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "26",
@@ -6000,7 +6005,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14539
+      "UsersEstimate": 14540
     },
     {
       "ID": "36",
@@ -6040,7 +6045,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "41",
@@ -6088,7 +6093,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "47",
@@ -6192,7 +6197,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "60",
@@ -6263,21 +6268,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55920,
+      "Progressed": 55922,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19388,
+      "Progressed": 19390,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T08:08:17.8418411+00:00",
+  "LastChanged_Achievements": "2023-06-22T09:11:43.1618242+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T07:58:42.1146275+00:00",
-  "LastUpdate_Achievements": "2023-06-22T08:08:17.841942+00:00"
+  "LastUpdate_Ratings": "2023-06-22T08:59:12.8373133+00:00",
+  "LastUpdate_Achievements": "2023-06-22T09:11:43.1619354+00:00"
 }
