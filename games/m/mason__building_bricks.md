@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Constructor | 43.00% | ~9 |
-| Novice Mason | 38.00% | ~8 |
+| Novice Mason | 43.00% | ~9 |
 | Expert Mason | 19.00% | ~4 |
 | Arch Mason | 14.00% | ~3 |
 | Grand Mason | 10.00% | ~2 |

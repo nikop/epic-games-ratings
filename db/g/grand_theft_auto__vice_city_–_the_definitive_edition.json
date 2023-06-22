@@ -460,9 +460,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8690,
+  "EOS_Progressed": 8691,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5190,6 +5190,11 @@
       "Time": "2023-06-21T23:03:19.4391239+00:00",
       "NumProgressed": 8690,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-22T00:04:10.2152398+00:00",
+      "NumProgressed": 8691,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 34,
@@ -5409,7 +5414,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH28",
@@ -5472,7 +5477,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8690,
+      "Progressed": 8691,
       "Completed": 37
     }
   ],
@@ -5480,8 +5485,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-20T11:59:11.1344045+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:03:19.4391233+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:04:10.2152393+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:57.0855016+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:58:43.0431468+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:03:19.4391651+00:00"
+  "LastUpdate_Ratings": "2023-06-21T23:59:11.918018+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:04:10.2152957+00:00"
 }

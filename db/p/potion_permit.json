@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -324,7 +324,7 @@
   ],
   "EOS_Progressed": 1445,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1412,9 +1412,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1669,8 +1669,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-21T02:06:14.3245144+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:34.6986273+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:08:10.6884289+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.6101982+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:01:14.2407655+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:34.6986537+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:02:34.6559985+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:08:10.6884623+00:00"
 }

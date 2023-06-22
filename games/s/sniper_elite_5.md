@@ -5,18 +5,18 @@ Rating: 4.48 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It's Starting to Crack | 0.80% | ~25 |
 | Meeting Resistance | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
-| It's Starting to Crack | 0.70% | ~22 |
 | Taking it back | 0.60% | ~18 |
+| Just a Flesh Wound | 0.50% | ~15 |
+| Sharpshooter | 0.50% | ~15 |
 | The Kraken Wakes | 0.50% | ~15 |
 | Change the Channel | 0.50% | ~15 |
 | Target America | 0.50% | ~15 |
 | The Kraken Sleeps | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Liberté | 0.40% | ~12 |
-| Just a Flesh Wound | 0.40% | ~12 |
-| Sharpshooter | 0.40% | ~12 |
 | Explosive Efficiency | 0.40% | ~12 |
 | Resourceful | 0.40% | ~12 |
 | Climbing the Ladder | 0.30% | ~9 |

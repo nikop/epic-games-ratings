@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2160,9 +2160,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67421,
+  "EOS_Progressed": 67422,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8690,6 +8690,11 @@
       "Time": "2023-06-21T23:01:43.6218469+00:00",
       "NumProgressed": 67421,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-22T00:03:20.7413239+00:00",
+      "NumProgressed": 67422,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -8701,7 +8706,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33710
+      "UsersEstimate": 33711
     },
     {
       "ID": "ACH_0011",
@@ -8717,7 +8722,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14158
+      "UsersEstimate": 14159
     },
     {
       "ID": "ACH_0013",
@@ -8789,7 +8794,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ACH_0060",
@@ -8933,7 +8938,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23597
+      "UsersEstimate": 23598
     },
     {
       "ID": "ACH_0431",
@@ -8965,7 +8970,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "ACH_0452",
@@ -8973,7 +8978,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "ACH_0460",
@@ -8996,7 +9001,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67421,
+      "Progressed": 67422,
       "Completed": 34
     }
   ],
@@ -9004,8 +9009,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-21T08:02:42.4252208+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:01:43.6218463+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:03:20.7413236+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7712921+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:00:43.5005531+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:01:43.621898+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:01:52.0447431+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:03:20.7415887+00:00"
 }

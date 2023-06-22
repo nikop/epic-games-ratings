@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~511,473 |
-| Every story has a beginning | 36.00% | ~227,321 |
-| The first of many | 32.00% | ~202,063 |
-| Positive word of mouth | 18.00% | ~113,661 |
-| Lawn in the U.S.A. | 15.00% | ~94,717 |
-| Blade Runner | 9.00% | ~56,830 |
-| Credible | 7.00% | ~44,201 |
-| Teamwork makes the dream work | 6.00% | ~37,887 |
+| The dream begins | 81.00% | ~511,483 |
+| Every story has a beginning | 36.00% | ~227,326 |
+| The first of many | 32.00% | ~202,067 |
+| Positive word of mouth | 18.00% | ~113,663 |
+| Lawn in the U.S.A. | 15.00% | ~94,719 |
+| Blade Runner | 9.00% | ~56,831 |
+| Credible | 7.00% | ~44,202 |
+| Teamwork makes the dream work | 6.00% | ~37,888 |
 | Where there's muck there's brass | 4.00% | ~25,258 |
 | Bigger and better | 4.00% | ~25,258 |
 | Aggressive expansion | 4.00% | ~25,258 |
-| Size isn't everything | 3.00% | ~18,943 |
-| Close shave | 3.00% | ~18,943 |
-| Established | 3.00% | ~18,943 |
+| Size isn't everything | 3.00% | ~18,944 |
+| Close shave | 3.00% | ~18,944 |
+| Established | 3.00% | ~18,944 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,629 |
 | Every good deed… | 2.00% | ~12,629 |
 | Leaner and meaner | 2.00% | ~12,629 |
 | First step on the ladder | 2.00% | ~12,629 |
 | Trusted | 2.00% | ~12,629 |
-| Fighting on all fronts | 1.00% | ~6,314 |
-| The top of the mountain | 1.00% | ~6,314 |
+| Fighting on all fronts | 1.00% | ~6,315 |
+| The top of the mountain | 1.00% | ~6,315 |
 | Earn your stripes | 0.90% | ~5,683 |
 | Lawn & Order | 0.90% | ~5,683 |
 | Jack of all trades | 0.90% | ~5,683 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~631 |
 | Mo mowers, mo problems | 0.10% | ~631 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631,448 (Ranked 22)  
+Progressed: 631,460 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 14 (0.00%) (Ranked 228)
 | 2023-06-19 | 630,600 | 14 |
 | 2023-06-20 | 631,052 | 14 |
 | 2023-06-21 | 631,448 | 14 |
+| 2023-06-22 | 631,460 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 274)  
 Sum: 964 (Ranked 235)  

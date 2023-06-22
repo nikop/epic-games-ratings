@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19062,
+  "EOS_Progressed": 19063,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3345,6 +3345,11 @@
       "Time": "2023-06-21T18:06:23.0479478+00:00",
       "NumProgressed": 19062,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-22T00:07:50.9918355+00:00",
+      "NumProgressed": 19063,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3364,7 +3369,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7434
+      "UsersEstimate": 7435
     },
     {
       "ID": "ach.030.deertastic",
@@ -3388,7 +3393,7 @@
       "Name": "Builder",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15631
+      "UsersEstimate": 15632
     },
     {
       "ID": "ach.060.goingdistance",
@@ -3396,7 +3401,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10293
+      "UsersEstimate": 10294
     },
     {
       "ID": "ach.070.8kenough",
@@ -3412,7 +3417,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13343
+      "UsersEstimate": 13344
     },
     {
       "ID": "ach.090.perfectionist",
@@ -3452,7 +3457,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17156
+      "UsersEstimate": 17157
     },
     {
       "ID": "ach.140.legacy",
@@ -3460,7 +3465,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18681
+      "UsersEstimate": 18682
     },
     {
       "ID": "ach.150.pocket",
@@ -3468,7 +3473,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12390
+      "UsersEstimate": 12391
     },
     {
       "ID": "ach.160.box",
@@ -3476,7 +3481,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6290
+      "UsersEstimate": 6291
     },
     {
       "ID": "ach.170.room",
@@ -3484,7 +3489,7 @@
       "Name": "Room Full of Trains",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "ach.180.inspector",
@@ -3524,7 +3529,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5909
+      "UsersEstimate": 5910
     },
     {
       "ID": "ach.230.infinity",
@@ -3548,7 +3553,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17728
+      "UsersEstimate": 17729
     },
     {
       "ID": "ach.260.investor",
@@ -3612,7 +3617,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17346
+      "UsersEstimate": 17347
     },
     {
       "ID": "ach.340.steel",
@@ -3651,7 +3656,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19062,
+      "Progressed": 19063,
       "Completed": 30
     }
   ],
@@ -3659,8 +3664,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-16T10:00:30.573746+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:26.9784012+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:07:50.9918351+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.6579586+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:00:03.3295011+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:26.9784361+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:00:56.5714043+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:07:50.9919042+00:00"
 }

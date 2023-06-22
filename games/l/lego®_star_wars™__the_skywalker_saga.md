@@ -6,17 +6,17 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,183 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,184 |
 | ''I don't like you either!'' | 79.00% | ~39,242 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~35,765 |
-| ''Impressive, most impressive'' | 71.00% | ~35,268 |
-| The Phantom Menace | 59.00% | ~29,307 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,810 |
+| ''Impressive, most impressive'' | 71.00% | ~35,269 |
+| The Phantom Menace | 59.00% | ~29,308 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,811 |
 | ''I can fly anything'' | 57.00% | ~28,314 |
 | ''And who gave you permission...?'' | 53.00% | ~26,327 |
-| A New Hope | 47.00% | ~23,346 |
+| A New Hope | 47.00% | ~23,347 |
 | Attack of the Clones | 46.00% | ~22,850 |
-| Revenge of the Sith | 40.00% | ~19,869 |
+| Revenge of the Sith | 40.00% | ~19,870 |
 | The Empire Strikes Back | 37.00% | ~18,379 |
 | ''A fine addition to my collection'' | 37.00% | ~18,379 |
 | Return of the Jedi | 31.00% | ~15,399 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~497 |
 | ''I've never seen a real one!'' | 0.80% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,673 (Ranked 82)  
+Progressed: 49,674 (Ranked 82)  
 Completed: 193 (0.39%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,15 +115,16 @@ Completed: 193 (0.39%) (Ranked 130)
 | 2023-06-19 | 49,646 | 191 |
 | 2023-06-20 | 49,660 | 193 |
 | 2023-06-21 | 49,673 | 193 |
+| 2023-06-22 | 49,674 | 193 |
 ## Awards
 Max (Great Boss Battles): 2,318  (Ranked 100)  
-Sum: 6,429 (Ranked 113)  
+Sum: 6,430 (Ranked 113)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,318 |
+| This game has Diverse Characters | 483 |
 | This game is Great for Beginners | 482 |
-| This game has Diverse Characters | 482 |
 | This game has Amazing Characters | 477 |
 | This game has Amazing Storytelling | 457 |
 | This game is Highly Recommended | 456 |
@@ -274,3 +275,4 @@ Diff (max vs sum): -13
 | 2023-06-18 | 4.78 | - | 2,316 | 6,425 |
 | 2023-06-19 | 4.78 | - | 2,316 | 6,426 |
 | 2023-06-21 | 4.78 | - | 2,318 | 6,429 |
+| 2023-06-22 | 4.78 | - | 2,318 | 6,430 |

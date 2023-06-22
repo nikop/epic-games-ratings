@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 50.00% | ~4 |
+| Mighty Powers | 63.00% | ~5 |
 | Grand Re-Opening | 38.00% | ~3 |
+| Pup Pup Boogie | 38.00% | ~3 |
 | Summer Day | 38.00% | ~3 |
 | Risky Rescue | 38.00% | ~3 |
 | Everything Under Control | 25.00% | ~2 |
-| Pup Pup Boogie | 25.00% | ~2 |
 | Mr. Porter | 25.00% | ~2 |
 | Break Time | 25.00% | ~2 |
 | Master of the Rope | 25.00% | ~2 |

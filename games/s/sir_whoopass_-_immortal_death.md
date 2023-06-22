@@ -7,17 +7,17 @@
 | Tastes just like chicken! | 92.00% | ~77 |
 | MLG 360 no scope kill! | 90.00% | ~76 |
 | Are you ready to rumble? | 89.00% | ~75 |
-| That's what cheese said! | 83.00% | ~70 |
-| I like you...but I have to kill you... | 82.00% | ~69 |
+| That's what cheese said! | 85.00% | ~71 |
+| I like you...but I have to kill you... | 83.00% | ~70 |
+| AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~69 |
+| Not so hip anymore! | 82.00% | ~69 |
 | Nerd | 82.00% | ~69 |
-| AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~68 |
-| Not so hip anymore! | 81.00% | ~68 |
-| Blurry depth perception | 79.00% | ~66 |
-| Up and down | 74.00% | ~62 |
+| Blurry depth perception | 80.00% | ~67 |
+| Up and down | 75.00% | ~63 |
 | Rolling, Rolling, Rolling | 71.00% | ~60 |
 | Fire-fighter! | 68.00% | ~57 |
+| Oh, you're up to no gouda! | 62.00% | ~52 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~52 |
-| Oh, you're up to no gouda! | 61.00% | ~51 |
 | Meat grinder | 58.00% | ~49 |
 | You're not going to blow me up! | 54.00% | ~45 |
 | Mushroom soup of the day | 51.00% | ~43 |

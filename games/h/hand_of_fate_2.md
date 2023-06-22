@@ -11,7 +11,7 @@ Number of Ratings: 780  (23.09.2022)
 | Close Shave | 25.00% | ~164,564 |
 | Mercenary | 23.00% | ~151,399 |
 | Ninja | 23.00% | ~151,399 |
-| Northern Scourge | 17.00% | ~111,903 |
+| Northern Scourge | 17.00% | ~111,904 |
 | Thief Bane | 14.00% | ~92,156 |
 | Master of Arms | 12.00% | ~78,991 |
 | Gambler | 10.00% | ~65,826 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,255 (Ranked 20)  
+Progressed: 658,256 (Ranked 20)  
 Completed: 165 (0.03%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 165 (0.03%) (Ranked 200)
 | 2023-06-19 | 658,164 | 165 |
 | 2023-06-20 | 658,216 | 165 |
 | 2023-06-21 | 658,255 | 165 |
+| 2023-06-22 | 658,256 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 432)  
 Sum: 180 (Ranked 368)  

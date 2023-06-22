@@ -38,13 +38,13 @@ Rating: 4.57 (Ranked 442)
 | BRAWL! | 2.00% | ~54 |
 | Pedal to the Metal | 2.00% | ~54 |
 | What the Ruins Teach Us | 2.00% | ~54 |
+| Pulsar Disciple | 2.00% | ~54 |
 | Mutual Loyalty | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Delivery! | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
-| Pulsar Disciple | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~24 |
 | Tiqqun Unchained | 0.90% | ~24 |
 | You Had One Job... | 0.80% | ~22 |

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -511,6 +511,11 @@
       "Time": "2023-06-21T21:05:09.7299729+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T00:04:43.9524486+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -610,7 +615,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_headquarters_20",
@@ -626,15 +631,15 @@
       "Name": "Facility Online",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -642,7 +647,7 @@
       "Name": "Sergeant",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -682,7 +687,7 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -698,7 +703,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -712,9 +717,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -722,7 +727,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -746,7 +751,7 @@
       "Name": "On Target",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -760,9 +765,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -778,7 +783,7 @@
       "Name": "Defenses Online",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -794,7 +799,7 @@
       "Name": "Titan Tanks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -825,14 +830,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:03:42.8524619+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:04:43.9524483+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:01:11.3851762+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:03:42.8524928+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:02:30.9040984+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:04:43.9524777+00:00"
 }

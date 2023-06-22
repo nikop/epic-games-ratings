@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1309,
+  "EOS_Progressed": 1310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2318,6 +2318,11 @@
       "Time": "2023-06-21T20:07:10.500115+00:00",
       "NumProgressed": 1309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T00:08:17.014312+00:00",
+      "NumProgressed": 1310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2377,7 +2382,7 @@
       "Name": "Unstoppable",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "A07",
@@ -2385,7 +2390,7 @@
       "Name": "Track to the Future",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "A08",
@@ -2409,7 +2414,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "A11",
@@ -2425,7 +2430,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "A13",
@@ -2441,7 +2446,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "A15",
@@ -2497,7 +2502,7 @@
       "Name": "Country Life",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "A22",
@@ -2505,7 +2510,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "A23",
@@ -2553,7 +2558,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "A29",
@@ -2567,9 +2572,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 354
     },
     {
       "ID": "A31",
@@ -2585,7 +2590,7 @@
       "Name": "Assimilated",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "A33",
@@ -2601,7 +2606,7 @@
       "Name": "Producer",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "A35",
@@ -2617,7 +2622,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "A37",
@@ -2625,7 +2630,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "A38",
@@ -2657,7 +2662,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "A42",
@@ -2697,7 +2702,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "A47",
@@ -2745,7 +2750,7 @@
       "Name": "Socializer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "A53",
@@ -2768,7 +2773,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 0
     }
   ],
@@ -2776,8 +2781,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:39.7486616+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:08:17.0143117+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.4963789+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:58:34.464292+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:39.7487096+00:00"
+  "LastUpdate_Ratings": "2023-06-21T23:58:54.8263873+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:08:17.0143858+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 17.00% | ~11 |
+| First Blood | 16.00% | ~11 |
 | Half a Life | 9.00% | ~6 |
-| Shock to the System | 8.00% | ~5 |
+| Shock to the System | 7.00% | ~5 |
 | Bad Blood | 3.00% | ~2 |
-| Bloodstorm | 2.00% | ~1 |
-| Doomed | 2.00% | ~1 |
-| Serious Bam | 2.00% | ~1 |
-| Unreal | 2.00% | ~1 |
+| Bloodstorm | 1.00% | ~1 |
+| Doomed | 1.00% | ~1 |
+| Serious Bam | 1.00% | ~1 |
+| Unreal | 1.00% | ~1 |
 | Amaging Work | 0.00% | ~0 |
 | ...And I'm All Out Of Gun | 0.00% | ~0 |
 | Castle Of The Wolf | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 311)  
+Progressed: 67 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 59 | 0 |
 | 2023-06-20 | 62 | 0 |
 | 2023-06-21 | 66 | 0 |
+| 2023-06-22 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

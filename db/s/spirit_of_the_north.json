@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 59076,
+  "EOS_Progressed": 59077,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -6873,6 +6873,11 @@
       "Time": "2023-06-21T23:06:20.8756755+00:00",
       "NumProgressed": 59076,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-06-22T00:07:42.7931552+00:00",
+      "NumProgressed": 59077,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 24,
@@ -6900,7 +6905,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 39581
+      "UsersEstimate": 39582
     },
     {
       "ID": "BEST_FRIENDS",
@@ -6940,7 +6945,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 16541
+      "UsersEstimate": 16542
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -7052,7 +7057,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 8861
+      "UsersEstimate": 8862
     },
     {
       "ID": "WEIGHTLESS",
@@ -7068,14 +7073,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 8861
+      "UsersEstimate": 8862
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 59076,
+      "Progressed": 59077,
       "Completed": 299
     }
   ],
@@ -7083,8 +7088,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:20.8756749+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:07:42.7931547+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:02.6918412+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:00:07.6483797+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:20.8757192+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:01:03.4242306+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:07:42.7932218+00:00"
 }

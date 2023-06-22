@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.10% | ~68 |
 | Anchors Aweigh | 0.10% | ~68 |
 | Welcome to the Rock | 0.10% | ~68 |
+| Welcome to the Band | 0.10% | ~68 |
 | Beast Mode | 0.10% | ~102 |
 | The Forbidden City | 0.10% | ~102 |
 | Terror in the Dark | 0.10% | ~102 |
@@ -63,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 1 | 0.10% | ~102 |
 | Snakes on our Plane | 0.10% | ~68 |
 | Tomb of the Nine Gods | 0.10% | ~102 |
+| The Soulmonger Calls | 0.10% | ~102 |
 | Azaka's Procession - Part 2 | 0.10% | ~102 |
 | Acererak's Puzzle | 0.10% | ~68 |
 | Unearthed Evil | 0.10% | ~102 |
@@ -94,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~68 |
 | Tower on the Lake | 0.10% | ~102 |
 | Only the Strong Survive | 0.10% | ~102 |
+| Shorty's Day Off | 0.10% | ~102 |
 | Intelligence Hunt | 0.10% | ~102 |
 | Seeds of Deceit | 0.10% | ~102 |
 | Visions of Strahd | 0.10% | ~102 |
@@ -139,6 +142,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~102 |
 | Premature Betrayal | 0.10% | ~102 |
 | Frantic Excavation | 0.10% | ~102 |
+| Birds of a Feather | 0.10% | ~68 |
 | Towering Expectations | 0.10% | ~102 |
 | Guests of the Groom | 0.10% | ~102 |
 | Careful Consideration | 0.10% | ~102 |
@@ -262,11 +266,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Unknown Choices | 0.10% | ~68 |
 | Escort to Waterdeep | 0.10% | ~102 |
 | The Giant's Bane Tavern | 0.10% | ~68 |
+| Rime Bandits | 0.10% | ~68 |
 | Giant-Size Adventure | 0.10% | ~68 |
 | Power of Three | 0.10% | ~68 |
 | The Everlasting Rime | 0.10% | ~68 |
 | Enemy Summit | 0.10% | ~68 |
 | Mirage Arcane | 0.10% | ~68 |
+| Only Human | 0.10% | ~68 |
 | The Mad Wizard | 0.10% | ~102 |
 | Close Escort | 0.10% | ~102 |
 | Constant Banditry | 0.10% | ~102 |
@@ -290,6 +296,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.10% | ~68 |
 | The Archduke's Blessing | 0.10% | ~68 |
 | Wrecked Flying Fortress | 0.10% | ~68 |
+| Relentless Peril | 0.10% | ~68 |
 | Rickety Rubble | 0.10% | ~68 |
 | Expert Opinion | 0.10% | ~102 |
 | Dwarven Rumors | 0.10% | ~68 |
@@ -308,6 +315,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~68 |
 | Witty Riposting | 0.10% | ~68 |
 | Waiting on Sunrise | 0.10% | ~68 |
+| Frontline Fighters | 0.10% | ~68 |
 | A Chilling Encounter | 0.10% | ~68 |
 | How Far Away is Thay | 0.10% | ~68 |
 | Deekin's Mission | 0.10% | ~68 |
@@ -317,6 +325,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~68 |
 | REALLY Frozen Vengeance | 0.10% | ~68 |
 | The Stunning Tower Battle | 0.10% | ~68 |
+| Gargauth's Betrayal | 0.10% | ~68 |
 | Lost in the Underdark | 0.10% | ~68 |
 | Demons Here, Demons There | 0.10% | ~68 |
 | Visions of Hornfirth | 0.10% | ~68 |
@@ -456,14 +465,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.00% | ~0 |
 | Love Unsoiled | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Welcome to the Band | 0.00% | ~0 |
-| The Soulmonger Calls | 0.00% | ~0 |
-| Shorty's Day Off | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
 | Class Vacation | 0.00% | ~0 |
 | Distracted Escape | 0.00% | ~0 |
-| Birds of a Feather | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
 | The Madness Grows | 0.00% | ~0 |
 | A Tale of Two Champions | 0.00% | ~0 |
@@ -481,18 +486,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zombie Dreams | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
 | A Nightmare Occasion | 0.00% | ~0 |
-| Rime Bandits | 0.00% | ~0 |
-| Only Human | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
-| Relentless Peril | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | The Madness of Yeenoghu | 0.00% | ~0 |
-| Frontline Fighters | 0.00% | ~0 |
 | The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Elturel's Last Stand | 0.00% | ~0 |
-| Gargauth's Betrayal | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Male Pattern Boldness | 0.00% | ~0 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,645 (Ranked 63)  
+Progressed: 101,698 (Ranked 63)  
 Completed: 1,975 (1.94%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,6 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
+| 2023-06-22 | 101,698 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,163 (Ranked 37)  

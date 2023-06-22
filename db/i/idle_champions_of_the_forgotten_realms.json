@@ -4432,9 +4432,9 @@
       "Count": 3258
     }
   ],
-  "EOS_Progressed": 101645,
+  "EOS_Progressed": 101698,
   "EOS_Completed": 1975,
-  "EOS_NewPlayers": 10923,
+  "EOS_NewPlayers": 10973,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -10907,6 +10907,11 @@
       "Time": "2023-06-21T23:06:47.3945346+00:00",
       "NumProgressed": 101645,
       "NumCompleted": 1975
+    },
+    {
+      "Time": "2023-06-22T00:08:25.8837569+00:00",
+      "NumProgressed": 101698,
+      "NumCompleted": 1975
     }
   ],
   "TotalAchievements": 503,
@@ -12012,9 +12017,9 @@
       "ID": "objective_completed_1351",
       "SetID": "415jc5c",
       "Name": "Welcome to the Band",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_14",
@@ -12220,9 +12225,9 @@
       "ID": "objective_completed_185",
       "SetID": "cc37lbc",
       "Name": "The Soulmonger Calls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_186",
@@ -12476,9 +12481,9 @@
       "ID": "objective_completed_264",
       "SetID": "cc37lbc",
       "Name": "Shorty\u0027s Day Off",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_completed_265",
@@ -12876,9 +12881,9 @@
       "ID": "objective_completed_411",
       "SetID": "415jc5c",
       "Name": "Birds of a Feather",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_413",
@@ -14004,9 +14009,9 @@
       "ID": "objective_completed_691",
       "SetID": "415jc5c",
       "Name": "Rime Bandits",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_692",
@@ -14052,9 +14057,9 @@
       "ID": "objective_completed_698",
       "SetID": "415jc5c",
       "Name": "Only Human",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_7",
@@ -14252,9 +14257,9 @@
       "ID": "objective_completed_818",
       "SetID": "415jc5c",
       "Name": "Relentless Peril",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_819",
@@ -14428,9 +14433,9 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_854",
@@ -14532,9 +14537,9 @@
       "ID": "objective_completed_873",
       "SetID": "415jc5c",
       "Name": "Gargauth\u0027s Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_completed_877",
@@ -14941,21 +14946,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 67919,
+      "Progressed": 67972,
       "Completed": 2810
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 101645,
+      "Progressed": 101698,
       "Completed": 1975
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-21T19:58:44.5194647+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:47.3945341+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:08:25.8837564+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:46.3199693+00:00",
-  "LastUpdate_Ratings": "2023-06-21T22:58:35.0392632+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:47.3967804+00:00"
+  "LastUpdate_Ratings": "2023-06-21T23:58:55.7064699+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:08:25.8864702+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,642 |
-| Feeling the beat! | 80.00% | ~2,642 |
-| You can pet the cat! | 74.00% | ~2,444 |
-| Who put gears in there? | 68.00% | ~2,246 |
+| Start with a bang! | 80.00% | ~2,643 |
+| Feeling the beat! | 80.00% | ~2,643 |
+| You can pet the cat! | 74.00% | ~2,445 |
+| Who put gears in there? | 68.00% | ~2,247 |
 | Cream of the Crop | 62.00% | ~2,048 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,048 |
 | You got this, Peppermint? | 56.00% | ~1,850 |
 | Perfect Parry | 54.00% | ~1,784 |
 | Alright, that felt AWESOME! | 53.00% | ~1,751 |
-| I play my own way! | 49.00% | ~1,618 |
-| This will cost you big time | 47.00% | ~1,552 |
-| Uh, they were broken when I got here | 46.00% | ~1,519 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,486 |
-| Kissing the sky! | 43.00% | ~1,420 |
-| Does that say weakpoint? | 41.00% | ~1,354 |
-| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,288 |
-| The Negotiator | 38.00% | ~1,255 |
+| I play my own way! | 49.00% | ~1,619 |
+| This will cost you big time | 47.00% | ~1,553 |
+| Uh, they were broken when I got here | 46.00% | ~1,520 |
+| Z-shielding's got nothing on us! | 45.00% | ~1,487 |
+| Kissing the sky! | 43.00% | ~1,421 |
+| Does that say weakpoint? | 41.00% | ~1,355 |
+| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,289 |
+| The Negotiator | 38.00% | ~1,256 |
 | You must like calling me in, Chai | 33.00% | ~1,090 |
 | Out in a puff of smoke | 33.00% | ~1,090 |
 | Headliner | 32.00% | ~1,057 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,303 (Ranked 142)  
+Progressed: 3,304 (Ranked 142)  
 Completed: 5 (0.15%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 5 (0.15%) (Ranked 163)
 | 2023-06-19 | 3,288 | 5 |
 | 2023-06-20 | 3,292 | 5 |
 | 2023-06-21 | 3,303 | 5 |
+| 2023-06-22 | 3,304 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

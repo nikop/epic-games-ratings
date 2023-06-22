@@ -8,14 +8,14 @@ Rating: 3.48 (Ranked 945)
 | I Like My Stakes Rare! | 76.00% | ~1,288 |
 | Home Is Where the Heart Is | 60.00% | ~1,017 |
 | Ne Plus Ultra | 60.00% | ~1,017 |
-| Wounded Whispers | 59.00% | ~1,000 |
+| Wounded Whispers | 60.00% | ~1,017 |
 | Blood Will Have Blood | 50.00% | ~848 |
 | ICU | 45.00% | ~763 |
 | Peek-a-boo | 44.00% | ~746 |
 | Catch and Release | 44.00% | ~746 |
 | Sucks To Be You | 42.00% | ~712 |
 | Welcome to the Neighborhood | 37.00% | ~627 |
-| Fly Fisher | 35.00% | ~593 |
+| Fly Fisher | 36.00% | ~610 |
 | Throw The First Stone | 34.00% | ~576 |
 | Enter of Your Own Free Will | 32.00% | ~542 |
 | Heart Attack | 32.00% | ~542 |

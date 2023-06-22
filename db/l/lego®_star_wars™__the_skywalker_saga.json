@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2436,10 +2436,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6429,
       "NumberOfAwardsMax": 2318
+    },
+    {
+      "Time": "2023-06-22T00:02:53.2273905+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6430,
+      "NumberOfAwardsMax": 2318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6429,
+  "NumberOfAwards": 6430,
   "NumberOfAwardsMax": 2318,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2477,7 +2483,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 482
+      "Count": 483
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2516,9 +2522,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49673,
+  "EOS_Progressed": 49674,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -7866,6 +7872,11 @@
       "Time": "2023-06-21T19:08:24.7004334+00:00",
       "NumProgressed": 49673,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-06-22T00:08:15.2708234+00:00",
+      "NumProgressed": 49674,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 45,
@@ -7989,7 +8000,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29307
+      "UsersEstimate": 29308
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8005,7 +8016,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19869
+      "UsersEstimate": 19870
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8013,7 +8024,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23346
+      "UsersEstimate": 23347
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8117,7 +8128,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28810
+      "UsersEstimate": 28811
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8141,7 +8152,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48183
+      "UsersEstimate": 48184
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8181,7 +8192,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35268
+      "UsersEstimate": 35269
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8236,15 +8247,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49673,
+      "Progressed": 49674,
       "Completed": 193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-21T22:02:12.1474831+00:00",
-  "LastChanged_Achievements": "2023-06-21T23:06:38.3983317+00:00",
+  "LastChanged": "2023-06-22T00:02:53.2273885+00:00",
+  "LastChanged_Achievements": "2023-06-22T00:08:15.2708229+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:04.6961294+00:00",
-  "LastUpdate_Ratings": "2023-06-21T23:01:25.8596625+00:00",
-  "LastUpdate_Achievements": "2023-06-21T23:06:38.398383+00:00"
+  "LastUpdate_Ratings": "2023-06-22T00:02:53.227391+00:00",
+  "LastUpdate_Achievements": "2023-06-22T00:08:15.2709672+00:00"
 }

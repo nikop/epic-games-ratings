@@ -35,9 +35,9 @@
 | Expert Survivor | 8.00% | ~6 |
 | Quadsparagus | 8.00% | ~6 |
 | Fresh Pancake | 7.00% | ~9 |
+| Bring Home The Bacon | 5.00% | ~6 |
 | Getting Started | 5.00% | ~6 |
 | Master Survivor | 5.00% | ~4 |
-| Bring Home The Bacon | 4.00% | ~5 |
 | Chick Magnet | 4.00% | ~5 |
 | Early Bird | 4.00% | ~5 |
 | Heart Breaker | 4.00% | ~3 |
