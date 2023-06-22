@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 215001,
+  "EOS_Progressed": 215003,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7074,6 +7074,11 @@
       "Time": "2023-06-22T12:07:42.0878731+00:00",
       "NumProgressed": 215001,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-22T13:10:01.4149554+00:00",
+      "NumProgressed": 215003,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -7085,7 +7090,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40850
+      "UsersEstimate": 40851
     },
     {
       "ID": "ACH_BASE_10",
@@ -7093,7 +7098,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53750
+      "UsersEstimate": 53751
     },
     {
       "ID": "ACH_BASE_11",
@@ -7356,7 +7361,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 215001,
+      "Progressed": 215003,
       "Completed": 4
     }
   ],
@@ -7364,8 +7369,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-22T07:59:59.5660142+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:07:42.0878727+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:10:01.4149548+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.2900721+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:01:04.4872036+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:42.0879225+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:04:41.3297014+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:10:01.4150098+00:00"
 }

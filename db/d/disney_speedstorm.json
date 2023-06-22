@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2831,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -2995,9 +2995,9 @@
       "ID": "16",
       "SetID": "9p3jgda",
       "Name": "RELEASE THE KRAKEN",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 311
+      "UsersEstimate": 340
     },
     {
       "ID": "17",
@@ -3083,9 +3083,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 821
+      "UsersEstimate": 849
     },
     {
       "ID": "5",
@@ -3137,8 +3137,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:07:54.8255757+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:10:12.0628068+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:02:17.9130087+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:54.8256034+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:05:15.6506688+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:10:12.0628358+00:00"
 }

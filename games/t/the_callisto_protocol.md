@@ -5,37 +5,37 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's over, Jacob! | 0.10% | ~15 |
+| It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~3 |
-| Giving Back | 0.10% | ~15 |
-| You Need a Gun | 0.10% | ~15 |
-| Flesh Wound | 0.10% | ~15 |
-| Grim Reaper | 0.10% | ~15 |
-| I Do Belong Here | 0.10% | ~15 |
-| The Protocol is About Life | 0.10% | ~15 |
+| Giving Back | 0.10% | ~16 |
+| You Need a Gun | 0.10% | ~16 |
+| Flesh Wound | 0.10% | ~16 |
+| Grim Reaper | 0.10% | ~16 |
+| I Do Belong Here | 0.10% | ~16 |
+| The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~3 |
 | Lifer | 0.10% | ~3 |
 | Parole Denied | 0.10% | ~3 |
-| Get a Grip | 0.10% | ~15 |
-| In Striking Distance | 0.10% | ~15 |
-| Two Heads Are Better Than One | 0.10% | ~15 |
-| Chew 'Em Up | 0.10% | ~15 |
-| Terminated | 0.10% | ~15 |
-| Workplace Hazard | 0.10% | ~15 |
-| The Commonality | 0.10% | ~15 |
-| Float Like A Butterfly | 0.10% | ~15 |
-| Reforged | 0.10% | ~15 |
-| Paper Jams | 0.10% | ~15 |
-| Mugshot | 0.10% | ~15 |
-| The Outer Way | 0.10% | ~15 |
-| If the SHU Fits... | 0.10% | ~15 |
-| Without A Paddle | 0.10% | ~15 |
-| In the Pipe, Five by Five | 0.10% | ~15 |
-| What Lies Beneath | 0.10% | ~15 |
-| Desperate Times | 0.10% | ~15 |
-| Crash Site | 0.10% | ~15 |
-| Full Circle | 0.10% | ~15 |
-| Power Up | 0.10% | ~15 |
+| Get a Grip | 0.10% | ~16 |
+| In Striking Distance | 0.10% | ~16 |
+| Two Heads Are Better Than One | 0.10% | ~16 |
+| Chew 'Em Up | 0.10% | ~16 |
+| Terminated | 0.10% | ~16 |
+| Workplace Hazard | 0.10% | ~16 |
+| The Commonality | 0.10% | ~16 |
+| Float Like A Butterfly | 0.10% | ~16 |
+| Reforged | 0.10% | ~16 |
+| Paper Jams | 0.10% | ~16 |
+| Mugshot | 0.10% | ~16 |
+| The Outer Way | 0.10% | ~16 |
+| If the SHU Fits... | 0.10% | ~16 |
+| Without A Paddle | 0.10% | ~16 |
+| In the Pipe, Five by Five | 0.10% | ~16 |
+| What Lies Beneath | 0.10% | ~16 |
+| Desperate Times | 0.10% | ~16 |
+| Crash Site | 0.10% | ~16 |
+| Full Circle | 0.10% | ~16 |
+| Power Up | 0.10% | ~16 |
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.00% | ~0 |
 | Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,499 (Ranked 105)  
+Progressed: 15,500 (Ranked 105)  
 Completed: 57 (0.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 57 (0.37%) (Ranked 132)
 | 2023-06-19 | 15,464 | 56 |
 | 2023-06-20 | 15,482 | 57 |
 | 2023-06-21 | 15,493 | 57 |
-| 2023-06-22 | 15,499 | 57 |
+| 2023-06-22 | 15,500 | 57 |
 ## Awards
 Max (Amazing Characters): 56  (Ranked 387)  
 Sum: 325 (Ranked 326)  

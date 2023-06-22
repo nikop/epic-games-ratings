@@ -10,13 +10,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | Second Coming | 0.30% | ~1,384 |
 | Jeef Skeejj | 0.30% | ~1,384 |
 | Careful planning | 0.30% | ~1,384 |
-| In space, no one can hear you scream | 0.20% | ~922 |
-| Chapter I: Echoes | 0.20% | ~922 |
-| Mother | 0.20% | ~922 |
-| Things persisted in not being what they seemed | 0.20% | ~922 |
-| Jeef Skagg | 0.20% | ~922 |
-| Plan for the worst | 0.20% | ~922 |
-| Excelsior Rule | 0.20% | ~922 |
+| In space, no one can hear you scream | 0.20% | ~923 |
+| Chapter I: Echoes | 0.20% | ~923 |
+| Mother | 0.20% | ~923 |
+| Things persisted in not being what they seemed | 0.20% | ~923 |
+| Jeef Skagg | 0.20% | ~923 |
+| Plan for the worst | 0.20% | ~923 |
+| Excelsior Rule | 0.20% | ~923 |
 | Knightmare Frames | 0.10% | ~461 |
 | May His passing cleanse the world | 0.10% | ~461 |
 | Chapter II: Fallible Flesh | 0.10% | ~461 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~5 |
 | Kronos Rule | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,249 (Ranked 34)  
+Progressed: 461,253 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 14 (0.00%) (Ranked 228)
 | 2023-06-19 | 461,073 | 14 |
 | 2023-06-20 | 461,154 | 14 |
 | 2023-06-21 | 461,215 | 14 |
-| 2023-06-22 | 461,249 | 14 |
+| 2023-06-22 | 461,253 | 14 |
 ## Awards
 Max (Character Customization): 212  (Ranked 258)  
 Sum: 212 (Ranked 352)  

@@ -10,10 +10,10 @@ Rating: 4.48 (Ranked 582)
 | Confirming Suspicions | 0.80% | ~25 |
 | Taking it back | 0.70% | ~22 |
 | Target America | 0.70% | ~22 |
+| Sharpshooter | 0.60% | ~18 |
 | The Kraken Wakes | 0.60% | ~18 |
 | Change the Channel | 0.60% | ~18 |
 | Just a Flesh Wound | 0.50% | ~15 |
-| Sharpshooter | 0.50% | ~15 |
 | Lord of War | 0.50% | ~15 |
 | The Kraken Sleeps | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
@@ -31,6 +31,7 @@ Rating: 4.48 (Ranked 582)
 | Precision Is Key | 0.30% | ~9 |
 | Die Nussknacker Sweet! | 0.30% | ~9 |
 | Close Quarters | 0.30% | ~9 |
+| Snake in the Grass | 0.30% | ~9 |
 | It'll Buff Right Out | 0.30% | ~9 |
 | Brains of the Operation | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
@@ -39,7 +40,8 @@ Rating: 4.48 (Ranked 582)
 | Fields of Glory | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
-| Snake in the Grass | 0.20% | ~6 |
+| Herr Today, Gone Tomorrow | 0.20% | ~6 |
+| Operation Foxley | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
@@ -66,8 +68,6 @@ Rating: 4.48 (Ranked 582)
 | From Führer Away | 0.10% | ~3 |
 | Covert Elimination | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
-| Herr Today, Gone Tomorrow | 0.10% | ~3 |
-| Operation Foxley | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
 | Siegebreaker | 0.10% | ~3 |

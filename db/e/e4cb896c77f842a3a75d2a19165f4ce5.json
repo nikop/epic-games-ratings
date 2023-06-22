@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-06-22T12:06:53.6937859+00:00",
       "NumProgressed": 276,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-22T13:09:20.9404266+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -602,7 +607,7 @@
       "Name": "Pit-house",
       "Percentage": 96,
       "XP": 45,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "LEVEL_003",
@@ -610,7 +615,7 @@
       "Name": "Smith house",
       "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_004",
@@ -618,7 +623,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_006",
@@ -626,15 +631,15 @@
       "Name": "Market",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 95,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_017",
@@ -642,15 +647,15 @@
       "Name": "Temple",
       "Percentage": 15,
       "XP": 95,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 95,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_023",
@@ -664,9 +669,9 @@
       "ID": "LEVEL_025",
       "SetID": "7jk5g4e",
       "Name": "Townhouse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVEL_026",
@@ -689,14 +694,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:06:53.6937855+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:09:20.9404258+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:57:43.9480238+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:06:53.6937958+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:02:55.6680642+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:09:20.940436+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -490,7 +490,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2954,
+  "EOS_Progressed": 2955,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -2755,6 +2755,11 @@
       "Time": "2023-06-22T03:05:41.2009692+00:00",
       "NumProgressed": 2954,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-22T13:09:49.5459338+00:00",
+      "NumProgressed": 2955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2806,7 +2811,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "CrowdPleaser",
@@ -2830,7 +2835,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2966,7 +2971,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2974,7 +2979,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2982,7 +2987,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Tapped_22",
@@ -2990,7 +2995,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3022,7 +3027,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -3101,15 +3106,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2954,
+      "Progressed": 2955,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:07:27.71648+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:09:49.5459332+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:31.2469742+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:59:39.0715022+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:27.7165171+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:54.1879236+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:09:49.5459724+00:00"
 }

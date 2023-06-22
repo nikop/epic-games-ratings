@@ -2,10 +2,10 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-06-27T13:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.1136664+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:05:08.5196701+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:12.6553483+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:06:52.1148741+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:09:36.9537031+00:00"
 }

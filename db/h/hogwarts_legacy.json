@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4056,9 +4056,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281015,
+  "EOS_Progressed": 281018,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10641,6 +10641,11 @@
       "Time": "2023-06-22T12:08:46.7950238+00:00",
       "NumProgressed": 281015,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-06-22T13:11:05.403872+00:00",
+      "NumProgressed": 281018,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 45,
@@ -10740,7 +10745,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_20",
@@ -10804,7 +10809,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_28",
@@ -10852,7 +10857,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_33",
@@ -10900,7 +10905,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_39",
@@ -10916,7 +10921,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_40",
@@ -10932,7 +10937,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "PFA_42",
@@ -11011,7 +11016,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281015,
+      "Progressed": 281018,
       "Completed": 408
     }
   ],
@@ -11019,8 +11024,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-22T10:58:34.2057577+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:08:46.795023+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:11:05.4038713+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:58:40.2748415+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:08:46.7950852+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:17.9966104+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:11:05.4039365+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "974517e397b144c6a5b58a81b5bc1e73",
   "Name": "Tracks of Triumph",
   "ProductSlug": "tracks-of-triumph-7b2685",
-  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-10T14:00:00+00:00",
     "PcReleaseDate": "2023-05-10T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-21T18:56:56.9662317+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:58:04.6752044+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:40.4891863+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:02.7378189+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:10:00.0496415+00:00"
 }

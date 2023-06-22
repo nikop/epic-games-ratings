@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 11.91,
+  "EOS_Completed_Percentage": 11.89,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1356,6 +1356,11 @@
       "Time": "2023-06-22T04:05:21.4619889+00:00",
       "NumProgressed": 470,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-22T13:10:18.667092+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 30,
@@ -1367,7 +1372,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LEVEL_002",
@@ -1375,7 +1380,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LEVEL_003",
@@ -1383,7 +1388,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_004",
@@ -1391,7 +1396,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "LEVEL_005",
@@ -1415,7 +1420,7 @@
       "Name": "Animals in the farm",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "LEVEL_008",
@@ -1455,7 +1460,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_013",
@@ -1503,7 +1508,7 @@
       "Name": "Isle rock city",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_019",
@@ -1606,14 +1611,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:08:02.8559347+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:10:18.6670913+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.2112754+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:57:59.3143374+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:08:02.8559588+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:01.2724145+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:10:18.6671168+00:00"
 }

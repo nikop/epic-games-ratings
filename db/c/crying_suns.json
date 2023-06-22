@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -550,9 +550,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 461249,
+  "EOS_Progressed": 461253,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6860,6 +6860,11 @@
       "Time": "2023-06-22T12:10:25.1534286+00:00",
       "NumProgressed": 461249,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-22T13:12:12.6162322+00:00",
+      "NumProgressed": 461253,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -6887,7 +6892,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -6895,7 +6900,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -6991,7 +6996,7 @@
       "Name": "Mother",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -7047,7 +7052,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -7303,7 +7308,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -7319,7 +7324,7 @@
       "Name": "Plan for the worst",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -7383,7 +7388,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -7502,21 +7507,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 5183,
+      "Progressed": 5187,
       "Completed": 2350
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 461249,
+      "Progressed": 461253,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-14T16:59:12.9074178+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:10:25.1534281+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:12:12.6162316+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:54.1590462+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:02:53.9790051+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:10:25.1535256+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:05:35.070478+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:12:12.6163381+00:00"
 }

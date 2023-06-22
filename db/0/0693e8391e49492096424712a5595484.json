@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -185,9 +185,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BasiliskBroom",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:07:07.7117048+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:09:32.9724313+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:12.9807221+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:57:32.5659155+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:07.7117362+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:02:46.5284332+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:09:32.9724612+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "025c623059b644f4ada37ccf1d130b28",
   "Name": "Saboteur SiO",
   "ProductSlug": "saboteur-sio-123236",
-  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-28T18:00:00+00:00",
     "PcReleaseDate": "2023-04-28T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.7471949+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:02:26.5140621+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:06:27.6772911+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:05:18.8170237+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:08:29.2341207+00:00"
 }

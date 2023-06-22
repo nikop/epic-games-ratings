@@ -15,10 +15,10 @@
 | Conciliator | 4.00% | ~4 |
 | Tactician | 4.00% | ~4 |
 | Acquaintance | 3.00% | ~3 |
+| Taskmaster | 3.00% | ~3 |
 | Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Tail-wind | 2.00% | ~2 |
-| Taskmaster | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Quartermaster | 0.90% | ~1 |

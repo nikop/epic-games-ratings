@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6769,
+  "EOS_Progressed": 6770,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4669,6 +4669,11 @@
       "Time": "2023-06-22T11:07:41.8710182+00:00",
       "NumProgressed": 6769,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-22T13:07:15.4067817+00:00",
+      "NumProgressed": 6770,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4680,7 +4685,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5618
+      "UsersEstimate": 5619
     },
     {
       "ID": "ACH02",
@@ -4911,7 +4916,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6769,
+      "Progressed": 6770,
       "Completed": 38
     }
   ],
@@ -4919,8 +4924,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:05:35.481819+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:07:15.4067809+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:59:41.638733+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:05:35.4818598+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:57.0319764+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:07:15.4068293+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "aa192ebf919a43a5bb8dfee09b3da1eb",
   "Name": "De-Exit - Eternal Matters",
   "ProductSlug": "deexit-eternal-matters-da8992",
-  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-14T16:30:00+00:00",
     "PcReleaseDate": "2023-04-14T16:30:00+00:00",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-04-16T17:58:47.7786353+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:35.5945122+00:00",
   "LastChanged": "2023-04-16T17:58:47.7786353+00:00",
-  "LastChanged_Achievements": "2023-06-22T12:07:36.0183655+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:09:56.4892623+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:11.9660595+00:00",
-  "LastUpdate_Ratings": "2023-06-22T11:58:47.5760695+00:00",
-  "LastUpdate_Achievements": "2023-06-22T12:07:36.0183809+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:03:21.8718679+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:09:56.4892783+00:00"
 }

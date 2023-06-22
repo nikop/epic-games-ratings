@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~962 |
-| Project Arena | 3.00% | ~577 |
+| Project Arena | 4.00% | ~770 |
 | The Old Grandmaster | 2.00% | ~14,199 |
 | Life is your teacher | 2.00% | ~14,199 |
 | The Assault | 1.00% | ~7,099 |
@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~192 |
 | Scareless | 0.90% | ~6,389 |
 | Kung-Fu Tussle | 0.90% | ~6,389 |
-| Dance of the Praying Mantis | 0.80% | ~5,679 |
-| Qi Gong: Mind | 0.80% | ~5,679 |
-| I know Kung-Fu | 0.80% | ~5,679 |
+| Dance of the Praying Mantis | 0.80% | ~5,680 |
+| Qi Gong: Mind | 0.80% | ~5,680 |
+| I know Kung-Fu | 0.80% | ~5,680 |
 | Deadly Venom | 0.70% | ~135 |
 | Muk Yan Master | 0.60% | ~4,260 |
 | Tiger on Fire | 0.60% | ~4,260 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,937 (Ranked 17)  
-Completed: 12,780 (1.80%) (Ranked 79)  
+Progressed: 709,941 (Ranked 17)  
+Completed: 12,781 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 12,780 (1.80%) (Ranked 79)
 | 2023-06-19 | 709,833 | 12,778 |
 | 2023-06-20 | 709,878 | 12,779 |
 | 2023-06-21 | 709,919 | 12,779 |
-| 2023-06-22 | 709,937 | 12,780 |
+| 2023-06-22 | 709,941 | 12,781 |
 ## Awards
 Max (Great Boss Battles): 6,197  (Ranked 52)  
 Sum: 10,597 (Ranked 78)  

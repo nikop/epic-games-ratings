@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 8.49,
+  "EOS_Completed_Percentage": 8.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2913,6 +2913,11 @@
       "Time": "2023-06-22T11:12:26.7594681+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-06-22T13:07:11.7400835+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 12,
@@ -2948,7 +2953,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Jacques a Dit",
@@ -3019,7 +3024,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 145
     }
   ],
@@ -3027,8 +3032,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-22T11:12:26.7594676+00:00",
+  "LastChanged_Achievements": "2023-06-22T13:07:11.7400629+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-22T12:03:24.1538162+00:00",
-  "LastUpdate_Achievements": "2023-06-22T11:12:26.7594961+00:00"
+  "LastUpdate_Ratings": "2023-06-22T13:05:51.967707+00:00",
+  "LastUpdate_Achievements": "2023-06-22T13:07:11.7419661+00:00"
 }
