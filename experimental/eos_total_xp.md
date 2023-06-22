@@ -22,6 +22,7 @@
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
+| [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
@@ -59,7 +60,6 @@
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
-| [ArcRunner](../games/a/arcrunner.md) | 28 | 1,000 |
 | [Are You Smarter Than A 5th Grader](../games/a/are_you_smarter_than_a_5th_grader.md) | 19 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
