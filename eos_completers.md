@@ -50,7 +50,7 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
-| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.15% |
+| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.14% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
@@ -74,7 +74,7 @@
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.11% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.92% |
+| 75 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.89% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
@@ -112,9 +112,9 @@
 | 110 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.68% |
 | 110 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.68% |
 | 112 | [Train Valley](games/t/train_valley.md) | 0.66% |
-| 113 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 113 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 113 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.64% |
+| 115 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
 | 117 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 117 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
@@ -154,9 +154,9 @@
 | 151 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 155 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 155 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 156 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 156 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
+| 157 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 158 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
 | 160 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
@@ -464,4 +464,4 @@
 | 228 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 228 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,825 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,826 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
