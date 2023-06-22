@@ -13,6 +13,7 @@
 | Cartographer | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
+| The Loose Cannon | 11.00% | ~79 |
 | Time Flies | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
@@ -27,7 +28,6 @@
 | Like Clockwork | 10.00% | ~71 |
 | Street Style | 10.00% | ~71 |
 | The Man Who Shattered Time | 10.00% | ~71 |
-| The Loose Cannon | 10.00% | ~71 |
 | Check Your Pulse | 10.00% | ~71 |
 | The Family Fortune | 10.00% | ~71 |
 | Right On Time | 9.00% | ~64 |

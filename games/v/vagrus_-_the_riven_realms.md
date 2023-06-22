@@ -14,18 +14,18 @@
 | Fight Another Day | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
 | Tactician | 4.00% | ~4 |
+| Scholar | 3.00% | ~3 |
 | Acquaintance | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
 | Taskmaster | 3.00% | ~3 |
-| Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
+| Harbinger | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Quartermaster | 0.90% | ~1 |
 | Supercargo | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Xevarian Gambit | 0.90% | ~1 |
-| Harbinger | 0.90% | ~1 |
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 112 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

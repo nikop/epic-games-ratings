@@ -33,9 +33,9 @@ Number of Ratings: 1,919  (23.09.2022)
 | Duty's Course | 36.00% | ~28,341 |
 | Path of the Paladin | 36.00% | ~28,341 |
 | Path of the Liberator | 35.00% | ~27,554 |
+| Path of the Tyrant | 35.00% | ~27,554 |
 | Led by the Nose | 34.00% | ~26,767 |
 | Path of the Void Knight | 34.00% | ~26,767 |
-| Path of the Tyrant | 34.00% | ~26,767 |
 | Path of the Ninja | 33.00% | ~25,980 |
 | Terminus of Fate | 32.00% | ~25,192 |
 | Path of the Assassin | 32.00% | ~25,192 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15534,
+  "EOS_Progressed": 15537,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5406,6 +5406,11 @@
       "Time": "2023-06-22T19:06:55.5669112+00:00",
       "NumProgressed": 15534,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-22T21:06:09.2491377+00:00",
+      "NumProgressed": 15537,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -5417,7 +5422,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12272
+      "UsersEstimate": 12274
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -5457,7 +5462,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -5473,7 +5478,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8233
+      "UsersEstimate": 8235
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -5489,7 +5494,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -5505,7 +5510,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -5521,22 +5526,22 @@
       "Name": "Wild West Hero",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15534,
+      "Progressed": 15537,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:16.0302462+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:09.249137+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.2218881+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:00:19.1300984+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:16.0302947+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:00:15.1881001+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:09.2491743+00:00"
 }

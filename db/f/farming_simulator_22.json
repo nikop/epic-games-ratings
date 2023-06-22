@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5931,9 +5931,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44440,
+  "EOS_Progressed": 44442,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11371,6 +11371,11 @@
       "Time": "2023-06-22T19:01:28.4628152+00:00",
       "NumProgressed": 44440,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T21:00:32.9066441+00:00",
+      "NumProgressed": 44442,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -11406,7 +11411,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "CarDriving",
@@ -11462,7 +11467,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28442
+      "UsersEstimate": 28443
     },
     {
       "ID": "CutTree",
@@ -11470,7 +11475,7 @@
       "Name": "You wood not believe it",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9332
+      "UsersEstimate": 9333
     },
     {
       "ID": "CutTreeFirst",
@@ -11478,7 +11483,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27108
+      "UsersEstimate": 27110
     },
     {
       "ID": "DeliveryGrapes",
@@ -11510,7 +11515,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "FertilizeFirst",
@@ -11518,7 +11523,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27108
+      "UsersEstimate": 27110
     },
     {
       "ID": "Harvested",
@@ -11534,7 +11539,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33774
+      "UsersEstimate": 33776
     },
     {
       "ID": "HorseJumps",
@@ -11566,7 +11571,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "Mission",
@@ -11574,7 +11579,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "MissionFirst",
@@ -11582,7 +11587,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16887
+      "UsersEstimate": 16888
     },
     {
       "ID": "Money",
@@ -11590,7 +11595,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23553
+      "UsersEstimate": 23554
     },
     {
       "ID": "NumBeehives",
@@ -11606,7 +11611,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17776
+      "UsersEstimate": 17777
     },
     {
       "ID": "NumPlaceables",
@@ -11622,7 +11627,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "NumVehiclesLarge",
@@ -11630,7 +11635,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 9332
+      "UsersEstimate": 9333
     },
     {
       "ID": "NumVehiclesSmall",
@@ -11638,7 +11643,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25775
+      "UsersEstimate": 25776
     },
     {
       "ID": "PetDog",
@@ -11646,7 +11651,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "PlayTime",
@@ -11654,7 +11659,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25775
+      "UsersEstimate": 25776
     },
     {
       "ID": "Sow",
@@ -11662,7 +11667,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "SowFirst",
@@ -11670,7 +11675,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27997
+      "UsersEstimate": 27998
     },
     {
       "ID": "Stones",
@@ -11686,7 +11691,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19109
+      "UsersEstimate": 19110
     },
     {
       "ID": "TruckDriving",
@@ -11694,7 +11699,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "VehicleRepaint",
@@ -11702,7 +11707,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "VehicleRepair",
@@ -11725,15 +11730,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44440,
+      "Progressed": 44442,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-22T19:00:21.8523876+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:01:28.4628132+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:00:32.9066431+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:14.3676072+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:59:43.2322647+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:00:32.1302881+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:59:39.2508623+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:00:32.90671+00:00"
 }

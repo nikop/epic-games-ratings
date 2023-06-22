@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 92.00% | ~47 |
-| Just a Taste | 80.00% | ~41 |
-| Strange Skulls | 61.00% | ~31 |
-| Treasure Hunter | 57.00% | ~29 |
-| Crab Cakes | 47.00% | ~24 |
+| Finish Him | 90.00% | ~47 |
+| Just a Taste | 81.00% | ~42 |
+| Strange Skulls | 60.00% | ~31 |
+| Treasure Hunter | 56.00% | ~29 |
+| Crab Cakes | 46.00% | ~24 |
 | Personally Punched | 27.00% | ~14 |
 | Flight of the Raven | 25.00% | ~13 |
-| Drop In | 22.00% | ~11 |
-| The Last Bullet | 18.00% | ~9 |
-| Champion of Light | 14.00% | ~7 |
+| Drop In | 21.00% | ~11 |
+| The Last Bullet | 17.00% | ~9 |
+| Champion of Light | 13.00% | ~7 |
 | Betrayed | 12.00% | ~6 |
 | Parting Gift | 12.00% | ~6 |
 | Skullector | 6.00% | ~3 |
@@ -29,8 +29,8 @@
 | Collateral | 0.00% | ~0 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 320)  
-Completed: 0 (0.00%) (Ranked 228)  
+Progressed: 52 (Ranked 320)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -41,6 +41,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-05-29 | 49 | 0 |
 | 2023-06-08 | 50 | 0 |
 | 2023-06-20 | 51 | 0 |
+| 2023-06-22 | 52 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

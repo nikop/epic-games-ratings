@@ -6,9 +6,9 @@
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6002,
+  "EOS_Progressed": 6003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3443,6 +3443,11 @@
       "Time": "2023-06-22T08:06:19.6249349+00:00",
       "NumProgressed": 6002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T21:05:00.4371159+00:00",
+      "NumProgressed": 6003,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3494,7 +3499,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "Control_All_Relics",
@@ -3566,7 +3571,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "First_Ship_Designed",
@@ -3774,7 +3779,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3942,7 +3947,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4021
+      "UsersEstimate": 4022
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4029,15 +4034,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6002,
+      "Progressed": 6003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:05:10.4099638+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:05:00.4371154+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.5784862+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:57:52.3446433+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:05:10.4100733+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:57:44.0796935+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:05:00.4372015+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-06-22T14:07:51.006808+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T21:06:14.5885626+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1005,7 +1010,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "02",
@@ -1037,7 +1042,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 687
     },
     {
       "ID": "06",
@@ -1045,7 +1050,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "07",
@@ -1053,7 +1058,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "08",
@@ -1061,7 +1066,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "09",
@@ -1069,7 +1074,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "10",
@@ -1083,9 +1088,9 @@
       "ID": "11",
       "SetID": "73ikgfc",
       "Name": "Someone to Protect",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "12",
@@ -1133,7 +1138,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 636
     },
     {
       "ID": "18",
@@ -1188,7 +1193,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
@@ -1196,8 +1201,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:20.7345314+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:14.5885619+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:16.9264687+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:59:45.0867941+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:20.7345663+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:59:41.0636226+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:14.588581+00:00"
 }

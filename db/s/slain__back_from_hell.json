@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 26925,
+  "EOS_Progressed": 26946,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1058,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6886,6 +6886,11 @@
       "Time": "2023-06-22T20:06:16.9363179+00:00",
       "NumProgressed": 26925,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-22T21:06:10.3627991+00:00",
+      "NumProgressed": 26946,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -6897,7 +6902,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4311
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -6905,7 +6910,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5389
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -6921,7 +6926,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -6929,7 +6934,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -6937,7 +6942,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -6945,7 +6950,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -6969,7 +6974,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -6985,7 +6990,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -7001,7 +7006,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -7009,7 +7014,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -7033,7 +7038,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -7041,7 +7046,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -7049,7 +7054,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -7057,7 +7062,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -7065,7 +7070,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -7081,7 +7086,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -7128,7 +7133,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 26925,
+      "Progressed": 26946,
       "Completed": 20
     }
   ],
@@ -7136,8 +7141,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:16.9363173+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:10.3627987+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:31.4954219+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:59:59.17298+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:16.936425+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:59:55.5151704+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:10.3628582+00:00"
 }

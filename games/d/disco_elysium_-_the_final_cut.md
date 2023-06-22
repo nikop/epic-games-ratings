@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,179 |
-| Biggest Communism Builder | 24.00% | ~29,297 |
-| The World's Most Laughable Centrist | 20.00% | ~24,414 |
-| Il Coppo Del'Arte! | 18.00% | ~21,972 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,531 |
-| Hyperstellar Law Official | 15.00% | ~18,310 |
+| Goodest Of The Good Cops | 28.00% | ~34,181 |
+| Biggest Communism Builder | 24.00% | ~29,298 |
+| The World's Most Laughable Centrist | 20.00% | ~24,415 |
+| Il Coppo Del'Arte! | 18.00% | ~21,973 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,532 |
+| Hyperstellar Law Official | 15.00% | ~18,311 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,090 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,869 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,869 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,870 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,870 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,428 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,986 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,987 |
 | Unbelievably Boring **** | 8.00% | ~9,766 |
 | Enemy Of The Physical Realm | 8.00% | ~9,766 |
 | Hardie's Heroes | 6.00% | ~7,324 |
@@ -29,12 +29,12 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,441 |
 | Wheel of Pleasure and Light | 2.00% | ~2,441 |
 | Massive Torque Dork | 1.00% | ~1,221 |
-| Avowed Inframaterialist | 0.90% | ~1,099 |
+| Avowed Inframaterialist | 1.00% | ~1,221 |
 | Real Musor | 0.90% | ~1,099 |
 | Baddest Brow in Town | 0.80% | ~977 |
 | Committee of la Responsabilité | 0.80% | ~977 |
 | Venture into the HARDCORE | 0.80% | ~977 |
-| Networthy Individual | 0.70% | ~854 |
+| Networthy Individual | 0.70% | ~855 |
 | Leopard Mindset | 0.60% | ~732 |
 | Modus: Mullen | 0.30% | ~366 |
 | Palerunner | 0.30% | ~366 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,069 (Ranked 59)  
+Progressed: 122,074 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 25 (0.02%) (Ranked 208)
 | 2023-06-19 | 121,915 | 25 |
 | 2023-06-20 | 121,964 | 25 |
 | 2023-06-21 | 122,022 | 25 |
-| 2023-06-22 | 122,069 | 25 |
+| 2023-06-22 | 122,074 | 25 |
 ## Awards
 Max (Character Customization): 697  (Ranked 160)  
 Sum: 1,057 (Ranked 232)  

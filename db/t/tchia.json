@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -170,10 +170,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6576,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 73,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 77,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -3915,6 +3915,11 @@
       "Time": "2023-06-22T15:07:05.0292527+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-22T21:06:04.0459098+00:00",
+      "NumProgressed": 6576,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -3924,9 +3929,9 @@
       "ID": "AHEM_AHEM",
       "SetID": "3cck1g6",
       "Name": "Ahem Ahem",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 591
+      "UsersEstimate": 658
     },
     {
       "ID": "ARRR",
@@ -3934,7 +3939,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AUDIOPHILE",
@@ -3950,7 +3955,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3966,7 +3971,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ENERGY_SAVER",
@@ -4014,7 +4019,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ICONOCLAST",
@@ -4030,7 +4035,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "LIBERATOR",
@@ -4062,7 +4067,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "SOUL_CANON",
@@ -4070,7 +4075,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -4078,7 +4083,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "THING",
@@ -4093,7 +4098,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6576,
       "Completed": 25
     }
   ],
@@ -4101,8 +4106,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:11.3066193+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:04.0459092+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:39.0448454+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:58:17.6872151+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:11.3066595+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:58:11.2726337+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:04.0459435+00:00"
 }

@@ -17,11 +17,11 @@
 | A small victory | 18.00% | ~15 |
 | Unstoppable Curiosity | 16.00% | ~14 |
 | Gold Digger | 12.00% | ~10 |
-| Time is on my side | 9.00% | ~8 |
+| Time is on my side | 11.00% | ~9 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 85 (Ranked 297)  
-Completed: 0 (0.00%) (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -41,10 +41,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 490,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 26,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.69,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 22,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 4.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1565,6 +1565,11 @@
       "Time": "2023-06-22T18:05:55.5964935+00:00",
       "NumProgressed": 490,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-22T21:04:52.8435367+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 28,
@@ -1598,9 +1603,9 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "MQ02_3",
@@ -1766,9 +1771,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 162
     },
     {
       "ID": "MQ08_2",
@@ -1800,15 +1805,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 490,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:05:17.6504998+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:04:52.8435359+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:02.1759866+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:57:42.8563767+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:05:03.4418354+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:57:34.0432179+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:04:52.8435638+00:00"
 }

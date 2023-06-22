@@ -3,9 +3,9 @@
   "Name": "Cardpocalypse Standard Edition",
   "ProductSlug": "cardpocalypse",
   "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2019-09-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.4282024+00:00",
   "LastChanged": "2023-03-31T05:57:47.4282025+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.8380499+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:58:05.6645909+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:03:24.0611318+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:57:58.2388289+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:03:07.0569386+00:00"
 }

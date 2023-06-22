@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -861,17 +861,17 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "findalltapes",
@@ -982,8 +982,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:04:45.4013714+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:04:33.4758116+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.3345062+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:58:59.832503+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:04:45.4013922+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:58:54.883069+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:04:33.4758335+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~91,297 |
-| Incurious | 14.00% | ~85,210 |
-| Stroller | 13.00% | ~79,124 |
-| Climate Change | 13.00% | ~79,124 |
-| Toy Train | 11.00% | ~66,951 |
-| Hiker | 10.00% | ~60,864 |
-| Advanced Hiker | 10.00% | ~60,864 |
-| Mojave Courier | 5.00% | ~30,432 |
-| Voyager | 3.00% | ~18,259 |
-| Advanced Voyager | 3.00% | ~18,259 |
-| Expert Stroller | 3.00% | ~18,259 |
-| Orient Express | 3.00% | ~18,259 |
-| Saved by Nausicaä | 3.00% | ~18,259 |
-| Expert Hiker | 2.00% | ~12,173 |
-| Marathon | 2.00% | ~12,173 |
-| Destructionist | 2.00% | ~12,173 |
-| Lost | 1.00% | ~6,086 |
+| Advanced Stroller | 15.00% | ~91,306 |
+| Incurious | 14.00% | ~85,219 |
+| Stroller | 13.00% | ~79,132 |
+| Climate Change | 13.00% | ~79,132 |
+| Toy Train | 11.00% | ~66,958 |
+| Hiker | 10.00% | ~60,871 |
+| Advanced Hiker | 10.00% | ~60,871 |
+| Mojave Courier | 5.00% | ~30,435 |
+| Voyager | 3.00% | ~18,261 |
+| Advanced Voyager | 3.00% | ~18,261 |
+| Expert Stroller | 3.00% | ~18,261 |
+| Orient Express | 3.00% | ~18,261 |
+| Saved by Nausicaä | 3.00% | ~18,261 |
+| Expert Hiker | 2.00% | ~12,174 |
+| Marathon | 2.00% | ~12,174 |
+| Destructionist | 2.00% | ~12,174 |
+| Lost | 1.00% | ~6,087 |
 | Rocketman | 0.60% | ~3,652 |
-| Expert Voyager | 0.50% | ~3,043 |
-| Nanuk | 0.50% | ~3,043 |
-| Shopaholic | 0.50% | ~3,043 |
+| Expert Voyager | 0.50% | ~3,044 |
+| Nanuk | 0.50% | ~3,044 |
+| Shopaholic | 0.50% | ~3,044 |
 | Terminal Station | 0.40% | ~2,435 |
 | Dynamite Fishing | 0.40% | ~2,435 |
 | Wayfarer | 0.30% | ~1,826 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~609 |
 | 20 Miles under the Sea | 0.10% | ~609 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 608,645 (Ranked 23)  
-Completed: 7 (0.00%) (Ranked 228)  
+Progressed: 608,709 (Ranked 23)  
+Completed: 7 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 7 (0.00%) (Ranked 228)
 | 2023-06-19 | 607,500 | 7 |
 | 2023-06-20 | 607,903 | 7 |
 | 2023-06-21 | 608,290 | 7 |
-| 2023-06-22 | 608,645 | 7 |
+| 2023-06-22 | 608,709 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 270)  
 Sum: 1,524 (Ranked 214)  

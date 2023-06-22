@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -237,9 +237,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1810,
+  "EOS_Progressed": 1811,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1432,6 +1432,11 @@
       "Time": "2023-06-22T17:07:33.1478668+00:00",
       "NumProgressed": 1810,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-22T21:06:25.12161+00:00",
+      "NumProgressed": 1811,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1451,7 +1456,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "ACHV_03",
@@ -1475,7 +1480,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHV_06",
@@ -1483,7 +1488,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHV_07",
@@ -1547,7 +1552,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHV_15",
@@ -1643,7 +1648,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACHV_27",
@@ -1787,7 +1792,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHV_45",
@@ -1835,7 +1840,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHV_51",
@@ -1851,7 +1856,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHV_53",
@@ -1898,7 +1903,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1810,
+      "Progressed": 1811,
       "Completed": 10
     }
   ],
@@ -1906,8 +1911,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-22T19:07:14.0572212+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:25.1216093+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.3482938+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:00:23.6121214+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:30.1565335+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:00:20.5028371+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:25.1216693+00:00"
 }

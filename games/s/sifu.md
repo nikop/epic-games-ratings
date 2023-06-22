@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~963 |
-| Project Arena | 4.00% | ~770 |
+| Project Arena | 4.00% | ~771 |
 | The Old Grandmaster | 2.00% | ~14,199 |
 | Life is your teacher | 2.00% | ~14,199 |
 | The Assault | 1.00% | ~7,100 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,957 (Ranked 17)  
-Completed: 12,781 (1.80%) (Ranked 79)  
+Progressed: 709,964 (Ranked 17)  
+Completed: 12,781 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,10 +120,10 @@ Completed: 12,781 (1.80%) (Ranked 79)
 | 2023-06-19 | 709,833 | 12,778 |
 | 2023-06-20 | 709,878 | 12,779 |
 | 2023-06-21 | 709,919 | 12,779 |
-| 2023-06-22 | 709,957 | 12,781 |
+| 2023-06-22 | 709,964 | 12,781 |
 ## Awards
 Max (Great Boss Battles): 6,197  (Ranked 52)  
-Sum: 10,599 (Ranked 78)  
+Sum: 10,601 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -134,7 +134,7 @@ Diff (max vs sum): -26
 | This game is Extremely Fun | 510 |
 | This game has Amazing Storytelling | 507 |
 | This game is Highly Recommended | 493 |
-| This game has Amazing Characters | 490 |
+| This game has Amazing Characters | 492 |
 | This game has Unique Visuals | 468 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 358 |
@@ -298,4 +298,4 @@ Diff (max vs sum): -26
 | 2023-06-19 | 4.82 | - | 6,189 | 10,578 |
 | 2023-06-20 | 4.82 | - | 6,193 | 10,585 |
 | 2023-06-21 | 4.82 | - | 6,197 | 10,597 |
-| 2023-06-22 | 4.82 | - | 6,197 | 10,599 |
+| 2023-06-22 | 4.82 | - | 6,197 | 10,601 |

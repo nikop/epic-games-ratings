@@ -3,9 +3,9 @@
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -356,8 +356,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:12.6645042+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:05.671547+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:19.1005315+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:57:57.6168381+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:12.6645224+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:57:49.7348833+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:05.6715574+00:00"
 }

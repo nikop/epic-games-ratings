@@ -23,8 +23,8 @@ Rating: 3.48 (Ranked 945)
 | Grounded | 24.00% | ~407 |
 | Bad Wiring | 21.00% | ~356 |
 | I Spit On Your Grave | 19.00% | ~322 |
+| Neighborhood Revitalization | 16.00% | ~271 |
 | Radio Silence | 16.00% | ~271 |
-| Neighborhood Revitalization | 15.00% | ~254 |
 | Helping Hand | 12.00% | ~203 |
 | You Clean It Up | 11.00% | ~186 |
 | Block Party | 8.00% | ~136 |
@@ -73,7 +73,7 @@ Rating: 3.48 (Ranked 945)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,695 (Ranked 162)  
-Completed: 0 (0.00%) (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

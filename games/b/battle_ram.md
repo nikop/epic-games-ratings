@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 88.00% | ~43 |
-| Ram Corporal | 84.00% | ~41 |
-| Ram Sergeant | 59.00% | ~29 |
-| Ram Staff Sergeant | 57.00% | ~28 |
-| Ram First Sergeant | 51.00% | ~25 |
-| Senior Sergeant Baran | 51.00% | ~25 |
-| Sergeant Major Baran | 41.00% | ~20 |
-| Senior warrant officer Baran 1st class | 27.00% | ~13 |
-| Senior warrant officer Baran 2nd class | 27.00% | ~13 |
-| Senior warrant officer Baran 3rd class | 24.00% | ~12 |
-| Senior warrant officer Baran 4th class | 20.00% | ~10 |
-| Junior Lieutenant Baran | 20.00% | ~10 |
-| Baran Senior Warrant Officer Grade 5 | 18.00% | ~9 |
-| Senior Lieutenant Baran | 18.00% | ~9 |
-| Captain Baran | 12.00% | ~6 |
-| Senior Major Baran | 12.00% | ~6 |
-| Lieutenant Colonel Baran | 8.00% | ~4 |
+| START | 88.00% | ~44 |
+| Ram Corporal | 84.00% | ~42 |
+| Ram Sergeant | 60.00% | ~30 |
+| Ram Staff Sergeant | 58.00% | ~29 |
+| Ram First Sergeant | 52.00% | ~26 |
+| Senior Sergeant Baran | 52.00% | ~26 |
+| Sergeant Major Baran | 42.00% | ~21 |
+| Senior warrant officer Baran 1st class | 28.00% | ~14 |
+| Senior warrant officer Baran 2nd class | 28.00% | ~14 |
+| Senior warrant officer Baran 3rd class | 26.00% | ~13 |
+| Senior warrant officer Baran 4th class | 22.00% | ~11 |
+| Junior Lieutenant Baran | 22.00% | ~11 |
+| Baran Senior Warrant Officer Grade 5 | 20.00% | ~10 |
+| Senior Lieutenant Baran | 20.00% | ~10 |
+| Captain Baran | 14.00% | ~7 |
+| Senior Major Baran | 14.00% | ~7 |
+| Lieutenant Colonel Baran | 10.00% | ~5 |
 | Colonel Baran | 4.00% | ~2 |
 | Brigadier General Baran | 2.00% | ~1 |
 | Lieutenant General Baran | 2.00% | ~1 |
 | EMERAID RAM | 2.00% | ~1 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 322)  
-Completed: 0 (0.00%) (Ranked 228)  
+Progressed: 50 (Ranked 322)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,3 +51,4 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-15 | 47 | 0 |
 | 2023-06-18 | 48 | 0 |
 | 2023-06-21 | 49 | 0 |
+| 2023-06-22 | 50 | 0 |

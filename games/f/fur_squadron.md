@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 61.00% | ~14 |
-| Do a barrel roll! | 43.00% | ~10 |
-| Huh? What was that? | 26.00% | ~6 |
+| All systems go | 65.00% | ~15 |
+| Do a barrel roll! | 48.00% | ~11 |
+| Huh? What was that? | 30.00% | ~7 |
 | Priceless company | 26.00% | ~6 |
 | Whatever it is, fix it! | 22.00% | ~5 |
 | The opposite of good news | 22.00% | ~5 |
@@ -30,7 +30,7 @@
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 355)  
-Completed: 0 (0.00%) (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

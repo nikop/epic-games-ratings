@@ -3,9 +3,9 @@
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -106,9 +106,9 @@
       "ID": "all_slips_read_wall_of_laments",
       "SetID": "4akddl8",
       "Name": "The Wall of Laments",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "by_killing_Hem_you_saved_one_soul",
@@ -122,9 +122,9 @@
       "ID": "children_are_eaten_on_Klek",
       "SetID": "4akddl8",
       "Name": "The Dreaded Klek",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "death_whistle_acquired",
@@ -138,9 +138,9 @@
       "ID": "denouncement_declined_Ida",
       "SetID": "4akddl8",
       "Name": "Forgive Ida",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "denouncement_successful_Davor",
@@ -186,9 +186,9 @@
       "ID": "finished_tutorial",
       "SetID": "4akddl8",
       "Name": "Finish the Tutorial",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "found_Put_leseva",
@@ -258,9 +258,9 @@
       "ID": "hidden_location_ida_mother_discovered",
       "SetID": "4akddl8",
       "Name": "Burial Mound",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "hidden_location_kabeer_catacomb_discovered",
@@ -362,17 +362,17 @@
       "ID": "map_enabled_for_Benedek",
       "SetID": "4akddl8",
       "Name": "A Map for Benedek",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "map_enabled_for_Nikolay",
       "SetID": "4akddl8",
       "Name": "A Map for Nikolay",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "opened_passage_with_walking_stick",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:30.2343053+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:25.3103414+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.9374847+00:00",
-  "LastUpdate_Ratings": "2023-06-22T20:00:27.2300397+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:30.2343434+00:00"
+  "LastUpdate_Ratings": "2023-06-22T21:00:24.7893551+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:25.3103786+00:00"
 }

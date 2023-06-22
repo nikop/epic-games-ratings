@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,494 |
-| Sweet Sorrow | 18.00% | ~5,747 |
-| Rules the Waves | 17.00% | ~5,428 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,789 |
-| Rival | 14.00% | ~4,470 |
-| Correspondent | 12.00% | ~3,831 |
-| Lose Your Mind | 12.00% | ~3,831 |
-| Sound Mind? | 12.00% | ~3,831 |
-| Salt's Curse | 11.00% | ~3,512 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,512 |
-| The Fall of the House | 11.00% | ~3,512 |
-| Shipmate | 11.00% | ~3,512 |
-| One Year at Zee | 8.00% | ~2,554 |
-| Pupil | 7.00% | ~2,235 |
-| Salvager | 7.00% | ~2,235 |
-| Open Your Ears | 7.00% | ~2,235 |
-| The Ascent of Man | 7.00% | ~2,235 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,596 |
-| Zee Fever | 5.00% | ~1,596 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,277 |
+| Sink Beneath the Waves | 36.00% | ~11,498 |
+| Sweet Sorrow | 18.00% | ~5,749 |
+| Rules the Waves | 17.00% | ~5,430 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,791 |
+| Rival | 14.00% | ~4,471 |
+| Correspondent | 12.00% | ~3,833 |
+| Lose Your Mind | 12.00% | ~3,833 |
+| Sound Mind? | 12.00% | ~3,833 |
+| Salt's Curse | 11.00% | ~3,513 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,513 |
+| The Fall of the House | 11.00% | ~3,513 |
+| Shipmate | 11.00% | ~3,513 |
+| One Year at Zee | 8.00% | ~2,555 |
+| Pupil | 7.00% | ~2,236 |
+| Salvager | 7.00% | ~2,236 |
+| Open Your Ears | 7.00% | ~2,236 |
+| The Ascent of Man | 7.00% | ~2,236 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,597 |
+| Zee Fever | 5.00% | ~1,597 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,278 |
 | Storm's Curse | 3.00% | ~958 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~958 |
 | Come Closer | 3.00% | ~958 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~287 |
 | No regrets | 0.90% | ~287 |
 | Depth charge | 0.90% | ~287 |
-| What lies beneath | 0.80% | ~255 |
+| What lies beneath | 0.80% | ~256 |
 | Stone's Curse | 0.70% | ~224 |
 | Five Years at Zee | 0.50% | ~160 |
 | The Lady's Parlour | 0.20% | ~64 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,929 (Ranked 91)  
+Progressed: 31,939 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.01%) (Ranked 216)
 | 2023-06-19 | 31,761 | 3 |
 | 2023-06-20 | 31,826 | 3 |
 | 2023-06-21 | 31,876 | 3 |
-| 2023-06-22 | 31,929 | 3 |
+| 2023-06-22 | 31,939 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
 Sum: 278 (Ranked 335)  

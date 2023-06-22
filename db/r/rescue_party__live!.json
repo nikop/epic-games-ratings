@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -253,9 +253,9 @@
       "ID": "ACH_LIFE_MATTERS",
       "SetID": "1p69hf1",
       "Name": "Life matters",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_LIGHT",
@@ -325,17 +325,17 @@
       "ID": "ACH_RESOURCE_MANAGER",
       "SetID": "1p69hf1",
       "Name": "Resource manager",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_SPEEDY",
@@ -358,8 +358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:11.857411+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:04.8256828+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.5536342+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:59:31.9265989+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:11.857428+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:59:26.0182611+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:04.8256949+00:00"
 }

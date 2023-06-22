@@ -11,10 +11,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 1.00% | ~223 |
 | Poise and Poisons | 1.00% | ~223 |
 | Hands and Hammers | 0.70% | ~156 |
+| Progenitor and Protégé | 0.70% | ~156 |
 | Suns and Soldiers | 0.70% | ~156 |
 | No Harm in Looking | 0.70% | ~156 |
 | King and Kin | 0.60% | ~134 |
-| Progenitor and Protégé | 0.60% | ~134 |
 | Prequel to the Sequel | 0.60% | ~134 |
 | Truly Blessed | 0.30% | ~67 |
 | Pillow Investments | 0.30% | ~67 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,335 (Ranked 97)  
+Progressed: 22,337 (Ranked 97)  
 Completed: 35 (0.16%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 35 (0.16%) (Ranked 161)
 | 2023-06-19 | 22,312 | 35 |
 | 2023-06-20 | 22,321 | 35 |
 | 2023-06-21 | 22,326 | 35 |
-| 2023-06-22 | 22,335 | 35 |
+| 2023-06-22 | 22,337 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 253)  
 Sum: 1,652 (Ranked 206)  

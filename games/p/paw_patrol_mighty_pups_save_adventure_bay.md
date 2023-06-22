@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 387)  
-Completed: 0 (0.00%) (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

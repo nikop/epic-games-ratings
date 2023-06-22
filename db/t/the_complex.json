@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -342,6 +342,11 @@
       "Time": "2023-06-22T09:11:39.702619+00:00",
       "NumProgressed": 506,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-22T21:06:17.1269308+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -353,7 +358,7 @@
       "Name": "Beat It",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "blast_from_the_past",
@@ -361,7 +366,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "deadly_secret",
@@ -377,7 +382,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ending_2",
@@ -409,7 +414,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ending_6",
@@ -505,14 +510,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 16
     }
   ],
@@ -520,8 +525,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-22T20:06:23.0131303+00:00",
+  "LastChanged_Achievements": "2023-06-22T21:06:17.1269301+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:58.9795575+00:00",
-  "LastUpdate_Ratings": "2023-06-22T19:57:40.5182134+00:00",
-  "LastUpdate_Achievements": "2023-06-22T20:06:23.0131481+00:00"
+  "LastUpdate_Ratings": "2023-06-22T20:57:31.6407085+00:00",
+  "LastUpdate_Achievements": "2023-06-22T21:06:17.1269461+00:00"
 }
