@@ -1683,9 +1683,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42863,
+  "EOS_Progressed": 42864,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4138,6 +4138,11 @@
       "Time": "2023-06-22T00:08:20.6863699+00:00",
       "NumProgressed": 42863,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-22T10:12:11.5084926+00:00",
+      "NumProgressed": 42864,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4149,7 +4154,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26146
+      "UsersEstimate": 26147
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -4341,7 +4346,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26575
+      "UsersEstimate": 26576
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4389,7 +4394,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -4437,7 +4442,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15859
+      "UsersEstimate": 15860
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4477,7 +4482,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29147
+      "UsersEstimate": 29148
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4549,7 +4554,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27861
+      "UsersEstimate": 27862
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -4589,7 +4594,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14573
+      "UsersEstimate": 14574
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -4605,7 +4610,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27861
+      "UsersEstimate": 27862
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -4653,7 +4658,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6429
+      "UsersEstimate": 6430
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -4661,7 +4666,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -4676,15 +4681,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42863,
+      "Progressed": 42864,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-21T17:00:14.4389828+00:00",
-  "LastChanged_Achievements": "2023-06-22T09:11:51.4150115+00:00",
+  "LastChanged_Achievements": "2023-06-22T10:12:11.5084922+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.8416601+00:00",
-  "LastUpdate_Ratings": "2023-06-22T09:04:37.726247+00:00",
-  "LastUpdate_Achievements": "2023-06-22T09:11:51.4151073+00:00"
+  "LastUpdate_Ratings": "2023-06-22T10:05:17.3257074+00:00",
+  "LastUpdate_Achievements": "2023-06-22T10:12:11.5085524+00:00"
 }

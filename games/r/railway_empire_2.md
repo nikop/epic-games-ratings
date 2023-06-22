@@ -5,28 +5,28 @@ Rating: 4.31 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~957 |
-| A new Journey | 72.00% | ~944 |
-| From X to Y | 71.00% | ~931 |
-| Departure | 71.00% | ~931 |
+| Country Bumpkin | 73.00% | ~958 |
+| A new Journey | 72.00% | ~945 |
+| From X to Y | 71.00% | ~932 |
+| Departure | 71.00% | ~932 |
 | Way of Iron | 69.00% | ~905 |
-| Mystery Tour | 67.00% | ~878 |
-| We brake for nobody | 66.00% | ~865 |
-| Brainstorm | 65.00% | ~852 |
-| Travel Company | 64.00% | ~839 |
-| Mind the Gap | 63.00% | ~826 |
+| Mystery Tour | 67.00% | ~879 |
+| We brake for nobody | 66.00% | ~866 |
+| Brainstorm | 65.00% | ~853 |
+| Travel Company | 64.00% | ~840 |
+| Mind the Gap | 63.00% | ~827 |
 | All around the World | 61.00% | ~800 |
-| Right through the middle | 56.00% | ~734 |
+| Right through the middle | 56.00% | ~735 |
 | Facility Manager | 53.00% | ~695 |
 | Poor Devil | 53.00% | ~695 |
 | Producer | 50.00% | ~656 |
 | Apprentice | 42.00% | ~551 |
-| Bridge Builder | 41.00% | ~538 |
+| Bridge Builder | 40.00% | ~525 |
 | Access granted | 35.00% | ~459 |
 | Going once, going twice, sold | 34.00% | ~446 |
 | Stoker | 33.00% | ~433 |
-| Full Steam ahead | 31.00% | ~406 |
-| Bull and bear | 31.00% | ~406 |
+| Full Steam ahead | 31.00% | ~407 |
+| Bull and bear | 31.00% | ~407 |
 | All mine | 28.00% | ~367 |
 | Mole | 28.00% | ~367 |
 | Financial Shark | 28.00% | ~367 |
@@ -61,7 +61,7 @@ Rating: 4.31 (Ranked 766)
 | Three Cheers for Progress | 0.20% | ~3 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 169)  
+Progressed: 1,312 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 1,287 | 0 |
 | 2023-06-20 | 1,300 | 0 |
 | 2023-06-21 | 1,309 | 0 |
-| 2023-06-22 | 1,311 | 0 |
+| 2023-06-22 | 1,312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,46 +6,46 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~14,715 |
-| The Evilest Evil | 59.00% | ~12,403 |
+| The Shadow strikes | 70.00% | ~14,716 |
+| The Evilest Evil | 59.00% | ~12,404 |
 | Twistram is devastated | 58.00% | ~12,193 |
-| The Gehenna Stones | 50.00% | ~10,511 |
-| No one has to die today! | 47.00% | ~9,880 |
-| Death and destruction! | 46.00% | ~9,670 |
+| The Gehenna Stones | 50.00% | ~10,512 |
+| No one has to die today! | 47.00% | ~9,881 |
+| Death and destruction! | 46.00% | ~9,671 |
 | The Swamplanders from the swamplands | 44.00% | ~9,250 |
-| Rusty Steel | 42.00% | ~8,829 |
+| Rusty Steel | 42.00% | ~8,830 |
 | The One-Huge-Army-Building Evil | 41.00% | ~8,619 |
 | The last burger | 39.00% | ~8,199 |
-| Braiiiiins! | 38.00% | ~7,988 |
-| Hands off the Dungeonheart! | 37.00% | ~7,778 |
+| Braiiiiins! | 38.00% | ~7,989 |
+| Hands off the Dungeonheart! | 37.00% | ~7,779 |
 | A trip on sea, what fun it can be | 36.00% | ~7,568 |
-| Damned good | 34.00% | ~7,147 |
+| Damned good | 34.00% | ~7,148 |
 | Stock Market Crash | 32.00% | ~6,727 |
 | Factory farming | 32.00% | ~6,727 |
 | Not-So-Overproud | 31.00% | ~6,517 |
 | For a handfull of Catapults | 30.00% | ~6,307 |
-| Thirst quencher | 29.00% | ~6,096 |
-| Ogre Solo! | 29.00% | ~6,096 |
-| Shadow hunter | 29.00% | ~6,096 |
+| Thirst quencher | 29.00% | ~6,097 |
+| Ogre Solo! | 29.00% | ~6,097 |
+| Shadow hunter | 29.00% | ~6,097 |
 | Destroy the thing | 27.00% | ~5,676 |
 | Tide Master | 27.00% | ~5,676 |
 | Difficult family relationships | 26.00% | ~5,466 |
 | MASS-O-BOT | 25.00% | ~5,256 |
 | Prepare the grave | 25.00% | ~5,256 |
 | Angel of Fire | 25.00% | ~5,256 |
-| Where there is Light, there is Shadow | 24.00% | ~5,045 |
+| Where there is Light, there is Shadow | 24.00% | ~5,046 |
 | At the foot of Mount Destiny | 23.00% | ~4,835 |
 | The Force disturbed | 22.00% | ~4,625 |
 | The Victorious Evil | 21.00% | ~4,415 |
-| Chorus of damnation | 20.00% | ~4,204 |
-| We don’t have time! | 20.00% | ~4,204 |
+| Chorus of damnation | 20.00% | ~4,205 |
+| We don’t have time! | 20.00% | ~4,205 |
 | The Stones’ Power | 18.00% | ~3,784 |
 | Lifeguard | 18.00% | ~3,784 |
 | Flat as a pancake | 17.00% | ~3,574 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,364 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,733 |
 | Then let them eat cake! | 13.00% | ~2,733 |
-| Please, no interruptions! | 11.00% | ~2,312 |
+| Please, no interruptions! | 11.00% | ~2,313 |
 | The White Knight | 10.00% | ~2,102 |
 | Use the terrain | 9.00% | ~1,892 |
 | Master of Traps | 9.00% | ~1,892 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~420 |
 | Sacrifices! | 2.00% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,022 (Ranked 98)  
+Progressed: 21,023 (Ranked 98)  
 Completed: 176 (0.84%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 176 (0.84%) (Ranked 102)
 | 2023-06-19 | 20,818 | 175 |
 | 2023-06-20 | 20,910 | 175 |
 | 2023-06-21 | 21,009 | 175 |
-| 2023-06-22 | 21,022 | 176 |
+| 2023-06-22 | 21,023 | 176 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 223)  
 Sum: 2,569 (Ranked 169)  

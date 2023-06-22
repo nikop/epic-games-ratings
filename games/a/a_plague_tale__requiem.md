@@ -9,13 +9,13 @@ Rating: 4.73 (Ranked 155)
 | Newcomers | 78.00% | ~9,184 |
 | A Burden of Blood | 73.00% | ~8,596 |
 | Protector's Duty | 69.00% | ~8,125 |
+| In our Wake | 67.00% | ~7,889 |
 | Alchemist | 67.00% | ~7,889 |
-| In our Wake | 66.00% | ~7,772 |
 | Leaving all Behind | 63.00% | ~7,418 |
 | Felons | 60.00% | ~7,065 |
 | A Sea of Promises | 59.00% | ~6,947 |
 | Tales and Revelations | 55.00% | ~6,476 |
-| Bloodline | 50.00% | ~5,888 |
+| Bloodline | 51.00% | ~6,005 |
 | The Cradle of Centuries | 46.00% | ~5,416 |
 | The Life We Deserve | 44.00% | ~5,181 |
 | Night guard | 42.00% | ~4,946 |

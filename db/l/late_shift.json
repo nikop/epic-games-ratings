@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -477,6 +477,11 @@
       "Time": "2023-06-20T22:06:32.3314618+00:00",
       "NumProgressed": 423,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T10:11:12.4043454+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -488,7 +493,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "CHOICES_MATTER",
@@ -520,7 +525,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ENDING_4",
@@ -550,9 +555,9 @@
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -576,7 +581,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "GOOD_KARMA",
@@ -584,7 +589,7 @@
       "Name": "Good Karma",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "INTERROGATION",
@@ -616,7 +621,7 @@
       "Name": "Protector",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "SABOTAGE",
@@ -647,7 +652,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 5
     }
   ],
@@ -655,8 +660,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-22T09:11:25.4505485+00:00",
+  "LastChanged_Achievements": "2023-06-22T10:11:12.4043451+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.6969817+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:59:16.5918846+00:00",
-  "LastUpdate_Achievements": "2023-06-22T09:11:25.4505695+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:59:31.8134771+00:00",
+  "LastUpdate_Achievements": "2023-06-22T10:11:12.4043571+00:00"
 }

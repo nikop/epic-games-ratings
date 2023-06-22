@@ -50,7 +50,7 @@ Number of Ratings: 401  (23.09.2022)
 | Depth charge | 0.90% | ~287 |
 | What lies beneath | 0.80% | ~255 |
 | Stone's Curse | 0.70% | ~223 |
-| Five Years at Zee | 0.50% | ~159 |
+| Five Years at Zee | 0.50% | ~160 |
 | The Lady's Parlour | 0.20% | ~64 |
 | A Past Wreathed in Shadows | 0.20% | ~64 |
 | Under pressure | 0.20% | ~64 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,899 (Ranked 91)  
+Progressed: 31,901 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.01%) (Ranked 216)
 | 2023-06-19 | 31,761 | 3 |
 | 2023-06-20 | 31,826 | 3 |
 | 2023-06-21 | 31,876 | 3 |
-| 2023-06-22 | 31,899 | 3 |
+| 2023-06-22 | 31,901 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
 Sum: 278 (Ranked 335)  

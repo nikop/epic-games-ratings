@@ -1,11 +1,11 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.48 (Ranked 945)  
+Rating: 3.51 (Ranked 945)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 76.00% | ~1,288 |
+| I Like My Stakes Rare! | 77.00% | ~1,305 |
 | Home Is Where the Heart Is | 60.00% | ~1,017 |
 | Ne Plus Ultra | 60.00% | ~1,017 |
 | Wounded Whispers | 60.00% | ~1,017 |
@@ -149,3 +149,4 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-05 | 3.44 | 0 | 0 |
 | 2023-06-13 | 3.46 | 0 | 0 |
 | 2023-06-18 | 3.48 | 0 | 0 |
+| 2023-06-22 | 3.51 | 0 | 0 |

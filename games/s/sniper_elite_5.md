@@ -18,6 +18,7 @@ Rating: 4.48 (Ranked 582)
 | Shipbreaker | 0.50% | ~15 |
 | Liberté | 0.40% | ~12 |
 | Gunslinger | 0.40% | ~12 |
+| Set Europe Ablaze | 0.40% | ~12 |
 | Explosive Efficiency | 0.40% | ~12 |
 | Lord of War | 0.40% | ~12 |
 | Resourceful | 0.40% | ~12 |
@@ -26,7 +27,6 @@ Rating: 4.48 (Ranked 582)
 | No Stone Unturned | 0.30% | ~9 |
 | Organ Grinder | 0.30% | ~9 |
 | Skirmisher | 0.30% | ~9 |
-| Set Europe Ablaze | 0.30% | ~9 |
 | Precision Is Key | 0.30% | ~9 |
 | Die Nussknacker Sweet! | 0.30% | ~9 |
 | Der Geist | 0.30% | ~9 |
@@ -34,6 +34,7 @@ Rating: 4.48 (Ranked 582)
 | It'll Buff Right Out | 0.30% | ~9 |
 | Brains of the Operation | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
+| Opposing Force | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Fields of Glory | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
@@ -41,7 +42,6 @@ Rating: 4.48 (Ranked 582)
 | Snake in the Grass | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
-| Opposing Force | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |

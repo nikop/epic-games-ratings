@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-22T09:11:52.5391805+00:00",
+  "LastChanged_Achievements": "2023-06-22T10:12:12.4397418+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:58:39.0010263+00:00",
-  "LastUpdate_Achievements": "2023-06-22T09:11:52.5392783+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:58:52.1160797+00:00",
+  "LastUpdate_Achievements": "2023-06-22T10:12:12.4398037+00:00"
 }

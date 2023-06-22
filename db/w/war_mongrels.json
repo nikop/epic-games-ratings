@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-06-21T23:02:09.5934753+00:00",
       "NumProgressed": 377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T10:07:50.9739108+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1030,9 +1035,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_COLL_20",
@@ -1048,7 +1053,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1168,7 +1173,7 @@
       "Name": "The Motivation",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1176,7 +1181,7 @@
       "Name": "Heroism",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1184,7 +1189,7 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1272,7 +1277,7 @@
       "Name": "Missing in Action",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1312,7 +1317,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1360,7 +1365,7 @@
       "Name": "King of Knives",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_NEST1",
@@ -1399,15 +1404,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
-  "LastChanged_Achievements": "2023-06-22T09:07:19.7947283+00:00",
+  "LastChanged_Achievements": "2023-06-22T10:07:50.9739104+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4627479+00:00",
-  "LastUpdate_Ratings": "2023-06-22T08:58:43.4775629+00:00",
-  "LastUpdate_Achievements": "2023-06-22T09:07:19.7947995+00:00"
+  "LastUpdate_Ratings": "2023-06-22T09:59:00.3447306+00:00",
+  "LastUpdate_Achievements": "2023-06-22T10:07:50.9739555+00:00"
 }

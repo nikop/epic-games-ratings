@@ -36,7 +36,7 @@
 | Ember | 15.00% | ~16 |
 | Turquoise | 15.00% | ~16 |
 | The Steampunk | 14.00% | ~15 |
-| Verse | 13.00% | ~14 |
+| Verse | 14.00% | ~15 |
 | The Droid | 11.00% | ~12 |
 | Iron | 11.00% | ~12 |
 | Tested | 9.00% | ~10 |

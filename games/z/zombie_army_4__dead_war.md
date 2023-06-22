@@ -6,11 +6,11 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,147 |
-| Say goodbye, creep! | 65.00% | ~27,861 |
-| Blood splattered | 65.00% | ~27,861 |
-| Choo choo! | 62.00% | ~26,575 |
-| Groovy | 61.00% | ~26,146 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,148 |
+| Say goodbye, creep! | 65.00% | ~27,862 |
+| Blood splattered | 65.00% | ~27,862 |
+| Choo choo! | 62.00% | ~26,576 |
+| Groovy | 61.00% | ~26,147 |
 | Cleanup on aisle 4! | 57.00% | ~24,432 |
 | Gold | 50.00% | ~21,432 |
 | The boat can leave now...tell the crew | 49.00% | ~21,003 |
@@ -22,12 +22,12 @@ Number of Ratings: 743  (23.09.2022)
 | What did you say, Blain? | 41.00% | ~17,574 |
 | In the dark dark woods... | 38.00% | ~16,288 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,288 |
-| Double tap | 37.00% | ~15,859 |
+| Double tap | 37.00% | ~15,860 |
 | Cranial blowout! | 36.00% | ~15,431 |
 | Zombie killin' machine | 36.00% | ~15,431 |
 | Every bullet counts | 36.00% | ~15,431 |
 | All of this has happened before… | 35.00% | ~15,002 |
-| You've got red on you | 34.00% | ~14,573 |
+| You've got red on you | 34.00% | ~14,574 |
 | All roads lead to Rome | 33.00% | ~14,145 |
 | You're all going to die down here | 31.00% | ~13,288 |
 | He did Nazi that coming | 31.00% | ~13,288 |
@@ -38,11 +38,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gore soaked | 24.00% | ~10,287 |
 | Shock therapy | 22.00% | ~9,430 |
 | Leave the limbs you've lost | 22.00% | ~9,430 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,715 |
-| Take them down screaming | 18.00% | ~7,715 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,716 |
+| Take them down screaming | 18.00% | ~7,716 |
 | Bad Blood | 17.00% | ~7,287 |
 | Weapons expert | 17.00% | ~7,287 |
-| The bigger they are... | 15.00% | ~6,429 |
+| The bigger they are... | 15.00% | ~6,430 |
 | I'm going deeper underground | 14.00% | ~6,001 |
 | Well equipped | 12.00% | ~5,144 |
 | Into the deep | 12.00% | ~5,144 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~429 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,863 (Ranked 86)  
+Progressed: 42,864 (Ranked 86)  
 Completed: 25 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 25 (0.06%) (Ranked 190)
 | 2023-06-19 | 42,839 | 25 |
 | 2023-06-20 | 42,851 | 25 |
 | 2023-06-21 | 42,861 | 25 |
-| 2023-06-22 | 42,863 | 25 |
+| 2023-06-22 | 42,864 | 25 |
 ## Awards
 Max (Great Boss Battles): 793  (Ranked 150)  
 Sum: 2,414 (Ranked 172)  
