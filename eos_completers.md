@@ -19,7 +19,7 @@
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.89% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
+| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.09% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -49,8 +49,8 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.36% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
+| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.16% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
-| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.14% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
@@ -74,7 +74,7 @@
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.11% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [Frogun](games/f/frogun.md) | 1.93% |
-| 75 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.89% |
+| 75 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.86% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
