@@ -421,6 +421,7 @@
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
 | [The Alto Collection](../games/t/the_alto_collection.md) | 39 | 1,000 |
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
+| [The Bookwalker: Thief of Tales](../games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 37 | 1,000 |
 | [The Bunker](../games/t/the_bunker.md) | 28 | 1,000 |
 | [The Caligula Effect 2](../games/t/the_caligula_effect_2.md) | 49 | 1,000 |
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
