@@ -108,7 +108,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 145 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,387 | 81 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,867 | 56 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,236 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,270 | 17 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 497 |
 | 107 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 497 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 425 |
@@ -420,7 +420,7 @@
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
 | 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 357 |
 | 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,273 | 85 |
-| 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 161 |
+| 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 697 | 160 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 211 | 259 |
 | 423 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.58 | 0 | 497 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 497 |
@@ -505,7 +505,7 @@
 | 492 | [VALORANT](games/v/valorant.md) | 4.54 | 57,600 | 11 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 497 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 497 |
-| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,264 | 17 |
+| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,264 | 18 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 434 |
 | 504 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 142,355 | 7 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 497 |
@@ -524,7 +524,7 @@
 | 516 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 327 |
 | 516 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 291 |
 | 516 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 120 | 307 |
-| 516 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,271 | 127 |
+| 516 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,277 | 127 |
 | 516 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 497 |
 | 516 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 234 |
 | 516 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 497 |
@@ -944,5 +944,5 @@
 | 940 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 497 |
 | 943 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 497 |
 | 944 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.54 | 0 | 497 |
-| 945 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 497 |
+| 945 | [Redfall](games/r/redfall.md) | 3.48 | 0 | 497 |
 | 946 | [Adios](games/a/adios.md) | 3.36 | 0 | 497 |

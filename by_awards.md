@@ -16,8 +16,8 @@
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,317 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,786 | 4.52 | 516 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,580 | 4.65 | 297 |
-| 17 | [Dauntless](games/d/dauntless.md) | 20,264 | 4.53 | 504 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,236 | 4.77 | 107 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,270 | 4.77 | 107 |
+| 18 | [Dauntless](games/d/dauntless.md) | 20,264 | 4.53 | 504 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,725 | 4.57 | 442 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,210 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,552 | 4.61 | 365 |
@@ -126,7 +126,7 @@
 | 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,302 | 4.70 | 196 |
 | 125 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 274 |
 | 126 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,281 | 4.86 | 28 |
-| 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,271 | 4.52 | 516 |
+| 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,277 | 4.52 | 516 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,254 | 4.55 | 478 |
 | 129 | [XCOM® 2](games/x/xcom®_2.md) | 1,188 | 4.55 | 478 |
 | 130 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,181 | 4.79 | 89 |
@@ -160,7 +160,7 @@
 | 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 728 | 4.78 | 99 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 701 | 4.50 | 548 |
 | 160 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 697 | 4.86 | 28 |
-| 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 696 | 4.59 | 413 |
+| 160 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 697 | 4.59 | 413 |
 | 162 | [Neverwinter](games/n/neverwinter.md) | 692 | 4.29 | 776 |
 | 163 | [Neon Abyss](games/n/neon_abyss.md) | 671 | 4.68 | 241 |
 | 164 | [Subnautica](games/s/subnautica.md) | 669 | 4.85 | 41 |
