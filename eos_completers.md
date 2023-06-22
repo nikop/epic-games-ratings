@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.67% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.48% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 34.78% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -25,7 +25,7 @@
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
 | 27 | [Without Escape](games/w/without_escape.md) | 7.14% |
 | 28 | [Scorn](games/s/scorn.md) | 6.84% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
@@ -37,7 +37,7 @@
 | 35 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 38 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.55% |
+| 38 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.35% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.05% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.72% |
@@ -67,8 +67,8 @@
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 66 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.40% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
-| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.29% |
-| 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
+| 68 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.23% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.12% |
@@ -158,7 +158,7 @@
 | 156 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 156 | [BLACKTAIL](games/b/blacktail.md) | 0.20% |
 | 158 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 159 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
+| 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
 | 160 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 160 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 160 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |

@@ -158,7 +158,7 @@
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 467 |
 | 155 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 69 | 368 |
 | 155 | [Haven](games/h/haven.md) | 4.73 | 0 | 497 |
-| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 572 | 176 |
+| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 575 | 176 |
 | 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 497 |
 | 155 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 228 | 251 |
 | 155 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 497 |
@@ -380,7 +380,7 @@
 | 365 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 634 | 168 |
 | 365 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 441 | 198 |
 | 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,282 | 37 |
-| 365 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,066 | 136 |
+| 365 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,067 | 136 |
 | 365 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 273 | 238 |
 | 365 | [Supraland](games/s/supraland.md) | 4.61 | 7,627 | 42 |
 | 365 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 497 |
@@ -419,7 +419,7 @@
 | 413 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 497 |
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 497 |
 | 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 357 |
-| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,269 | 85 |
+| 413 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,273 | 85 |
 | 413 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 161 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 211 | 259 |
 | 423 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.58 | 0 | 497 |
@@ -608,7 +608,7 @@
 | 604 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 497 |
 | 604 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 497 |
 | 604 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 398 |
-| 604 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,381 | 82 |
+| 604 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,384 | 82 |
 | 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 497 |
 | 604 | [Faeria](games/f/faeria.md) | 4.46 | 106 | 318 |
 | 604 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 318 |
@@ -812,16 +812,16 @@
 | 806 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 12,684 | 27 |
 | 806 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 497 |
 | 806 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 456 | 195 |
+| 806 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 497 |
 | 806 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 497 |
 | 806 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 407 |
 | 806 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 497 |
 | 806 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 497 |
 | 806 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 22 | 479 |
-| 818 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 497 |
-| 818 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 140 |
-| 818 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 497 |
-| 818 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 497 |
-| 818 | [Wreckfest](games/w/wreckfest.md) | 4.23 | 0 | 497 |
+| 819 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 497 |
+| 819 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 140 |
+| 819 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 497 |
+| 819 | [Wreckfest](games/w/wreckfest.md) | 4.23 | 0 | 497 |
 | 823 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 279 |
 | 823 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 263 |
 | 823 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 497 |
@@ -858,7 +858,7 @@
 | 850 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 497 |
 | 857 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 467 |
 | 857 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 497 |
-| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,354 | 100 |
+| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,362 | 99 |
 | 857 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 497 |
 | 861 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 497 |
 | 861 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 172 |
@@ -915,7 +915,7 @@
 | 912 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,629 | 68 |
 | 914 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 497 |
 | 914 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.98 | 0 | 497 |
-| 914 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,357 | 99 |
+| 914 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,357 | 100 |
 | 917 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 497 |
 | 918 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 407 |
 | 919 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 337 | 221 |
@@ -944,5 +944,5 @@
 | 940 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 497 |
 | 943 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 497 |
 | 944 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.54 | 0 | 497 |
-| 945 | [Redfall](games/r/redfall.md) | 3.48 | 0 | 497 |
+| 945 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 497 |
 | 946 | [Adios](games/a/adios.md) | 3.36 | 0 | 497 |
