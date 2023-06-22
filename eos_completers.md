@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.74% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 38.10% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 36.36% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -21,7 +21,7 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Time Loader](games/t/time_loader.md) | 7.48% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
@@ -49,8 +49,8 @@
 | 47 | [ZZT!](games/z/zzt!.md) | 3.37% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 49 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
-| 50 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.17% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.17% |
+| 51 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.05% |
 | 54 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -65,7 +65,7 @@
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 64 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 65 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.44% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 68 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.37% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |

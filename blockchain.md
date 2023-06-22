@@ -18,7 +18,7 @@
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-06-30 | - |  | - | - |
-| [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | - | - |
+| [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | - | 0 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | - | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.86 | 0 |
