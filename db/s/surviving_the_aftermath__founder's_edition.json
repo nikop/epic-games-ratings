@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1065,7 +1065,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6670,
+  "EOS_Progressed": 6671,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
@@ -6230,6 +6230,11 @@
       "Time": "2023-06-22T03:04:56.9511357+00:00",
       "NumProgressed": 6670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T07:06:15.0235843+00:00",
+      "NumProgressed": 6671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6273,7 +6278,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "14",
@@ -6297,7 +6302,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "17",
@@ -6321,7 +6326,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "2",
@@ -6329,7 +6334,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "20",
@@ -6417,7 +6422,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "30",
@@ -6593,7 +6598,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "50",
@@ -6689,7 +6694,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "8",
@@ -6697,7 +6702,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "9",
@@ -6712,15 +6717,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6670,
+      "Progressed": 6671,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-21T19:02:02.5702005+00:00",
-  "LastChanged_Achievements": "2023-06-22T06:03:40.0010281+00:00",
+  "LastChanged_Achievements": "2023-06-22T07:06:15.0235836+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:01:34.4256533+00:00",
-  "LastUpdate_Achievements": "2023-06-22T06:03:40.0011542+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:03:23.9268068+00:00",
+  "LastUpdate_Achievements": "2023-06-22T07:06:15.0236881+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,419 |
-| Rookie | 25.00% | ~6,870 |
-| Nomad | 18.00% | ~4,946 |
-| Picking Up Speed | 17.00% | ~4,671 |
+| Finding Your Footing | 27.00% | ~7,421 |
+| Rookie | 25.00% | ~6,871 |
+| Nomad | 18.00% | ~4,947 |
+| Picking Up Speed | 17.00% | ~4,672 |
 | Welcome Maya | 16.00% | ~4,397 |
 | Sightseer | 11.00% | ~3,023 |
 | Scout | 10.00% | ~2,748 |
-| Amateur | 9.00% | ~2,473 |
-| Wanderer | 9.00% | ~2,473 |
-| Enter Paz | 8.00% | ~2,198 |
+| Amateur | 9.00% | ~2,474 |
+| Wanderer | 9.00% | ~2,474 |
+| Enter Paz | 8.00% | ~2,199 |
 | Unlock Maya | 7.00% | ~1,924 |
 | Aviator | 6.00% | ~1,649 |
 | One With The Board | 6.00% | ~1,649 |
@@ -23,13 +23,13 @@ Number of Ratings: 332  (23.09.2022)
 | Voyager | 5.00% | ~1,374 |
 | Sandboarder | 4.00% | ~1,099 |
 | Izel Has Arrived | 4.00% | ~1,099 |
-| Junkie | 3.00% | ~824 |
-| Traveler | 3.00% | ~824 |
-| Journeyer | 3.00% | ~824 |
-| Unlock Paz | 3.00% | ~824 |
-| Here Comes Felipe | 3.00% | ~824 |
+| Junkie | 3.00% | ~825 |
+| Traveler | 3.00% | ~825 |
+| Journeyer | 3.00% | ~825 |
+| Unlock Paz | 3.00% | ~825 |
 | Pro | 2.00% | ~550 |
 | Human Flight | 2.00% | ~550 |
+| Here Comes Felipe | 2.00% | ~550 |
 | Explorer | 1.00% | ~275 |
 | Hoist the Mainsail | 1.00% | ~275 |
 | Unlock Izel | 1.00% | ~275 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~27 |
 | Windswept | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,479 (Ranked 93)  
+Progressed: 27,484 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 5 (0.02%) (Ranked 208)
 | 2023-06-19 | 27,136 | 5 |
 | 2023-06-20 | 27,278 | 5 |
 | 2023-06-21 | 27,447 | 5 |
-| 2023-06-22 | 27,479 | 5 |
+| 2023-06-22 | 27,484 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 407)  
 Sum: 347 (Ranked 320)  

@@ -2242,9 +2242,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 21018,
+  "EOS_Progressed": 21019,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -8727,6 +8727,11 @@
       "Time": "2023-06-22T06:06:12.6937637+00:00",
       "NumProgressed": 21018,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-06-22T07:08:28.3198339+00:00",
+      "NumProgressed": 21019,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 60,
@@ -8746,7 +8751,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -8754,7 +8759,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 12190
+      "UsersEstimate": 12191
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -8794,7 +8799,7 @@
       "Name": "Hearts of Iron",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_Completed",
@@ -8826,7 +8831,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -8850,7 +8855,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 10509
+      "UsersEstimate": 10510
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -8882,7 +8887,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5254
+      "UsersEstimate": 5255
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -8906,7 +8911,7 @@
       "Name": "Prepare the grave",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5254
+      "UsersEstimate": 5255
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -8922,7 +8927,7 @@
       "Name": "Angel of Fire",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5254
+      "UsersEstimate": 5255
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -8954,7 +8959,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -8978,7 +8983,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -8986,7 +8991,7 @@
       "Name": "Can\u2019t stand to see an Ogre bleed",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_Completed",
@@ -8994,7 +8999,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -9002,7 +9007,7 @@
       "Name": "Lifesaver",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACH_D3_Campaign_Infested_2",
@@ -9042,7 +9047,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -9066,7 +9071,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -9122,7 +9127,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 9668
+      "UsersEstimate": 9669
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -9130,7 +9135,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -9217,15 +9222,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 21018,
+      "Progressed": 21019,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-21T22:00:26.1788631+00:00",
-  "LastChanged_Achievements": "2023-06-22T06:06:12.6937631+00:00",
+  "LastChanged_Achievements": "2023-06-22T07:08:28.3198332+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:49.0512231+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:00:31.2086746+00:00",
-  "LastUpdate_Achievements": "2023-06-22T06:06:12.6938692+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:01:52.6132751+00:00",
+  "LastUpdate_Achievements": "2023-06-22T07:08:28.3199315+00:00"
 }

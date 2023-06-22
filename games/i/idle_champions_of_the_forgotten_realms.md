@@ -366,6 +366,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 1 | 0.10% | ~68 |
 | Shady Sidekicks - Part 1 | 0.10% | ~68 |
 | Ending the Rime - Part 2 | 0.10% | ~68 |
+| Ambitious Speakers - Part 2 | 0.10% | ~68 |
 | Reghed Glacier Mysteries | 0.10% | ~68 |
 | Mysteries Unlocked | 0.10% | ~68 |
 | Male Pattern Boldness | 0.10% | ~68 |
@@ -496,7 +497,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,027 (Ranked 63)  
-Completed: 1,975 (1.94%) (Ranked 74)  
+Progressed: 102,093 (Ranked 63)  
+Completed: 1,975 (1.93%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -573,7 +573,7 @@ Completed: 1,975 (1.94%) (Ranked 74)
 | 2023-06-19 | 99,036 | 1,969 |
 | 2023-06-20 | 100,341 | 1,973 |
 | 2023-06-21 | 101,645 | 1,975 |
-| 2023-06-22 | 102,027 | 1,975 |
+| 2023-06-22 | 102,093 | 1,975 |
 ## Awards
 Max (Diverse Characters): 4,951  (Ranked 64)  
 Sum: 30,166 (Ranked 37)  

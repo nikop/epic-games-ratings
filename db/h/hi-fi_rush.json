@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3310,
+  "EOS_Progressed": 3311,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3631,6 +3631,11 @@
       "Time": "2023-06-22T06:07:35.4342795+00:00",
       "NumProgressed": 3310,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-22T07:09:56.7595542+00:00",
+      "NumProgressed": 3311,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 61,
@@ -3642,7 +3647,7 @@
       "Name": "Start with a bang!",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "Ach002",
@@ -3650,7 +3655,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "Ach003",
@@ -3674,7 +3679,7 @@
       "Name": "Headliner",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "Ach006",
@@ -3754,7 +3759,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "Ach016",
@@ -3818,7 +3823,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "Ach024",
@@ -3842,7 +3847,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "Ach027",
@@ -3866,7 +3871,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "Ach030",
@@ -3882,7 +3887,7 @@
       "Name": "Perfect Parry",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "Ach032",
@@ -3922,7 +3927,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "Ach037",
@@ -4018,7 +4023,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "Ach049",
@@ -4042,7 +4047,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "Ach052",
@@ -4058,7 +4063,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "Ach054",
@@ -4129,22 +4134,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3310,
+      "Progressed": 3311,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1831,
-      "Completed": 1831
+      "Progressed": 1832,
+      "Completed": 1832
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-22T06:07:35.4342786+00:00",
+  "LastChanged_Achievements": "2023-06-22T07:09:56.7595535+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:13.6630132+00:00",
-  "LastUpdate_Ratings": "2023-06-22T05:59:39.1106759+00:00",
-  "LastUpdate_Achievements": "2023-06-22T06:07:35.434365+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:00:38.9396631+00:00",
+  "LastUpdate_Achievements": "2023-06-22T07:09:56.7596802+00:00"
 }

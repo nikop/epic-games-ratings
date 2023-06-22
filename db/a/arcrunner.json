@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1118,6 +1118,11 @@
       "Time": "2023-06-21T21:03:22.4886373+00:00",
       "NumProgressed": 569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-22T07:04:52.4372512+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1279,9 +1284,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1352,7 +1357,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 0
     }
   ],
@@ -1360,8 +1365,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-22T06:02:43.1839979+00:00",
+  "LastChanged_Achievements": "2023-06-22T07:04:52.4372504+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-22T06:01:05.5584798+00:00",
-  "LastUpdate_Achievements": "2023-06-22T06:02:43.184029+00:00"
+  "LastUpdate_Ratings": "2023-06-22T07:02:43.426636+00:00",
+  "LastUpdate_Achievements": "2023-06-22T07:04:52.4372829+00:00"
 }

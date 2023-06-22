@@ -15,9 +15,9 @@
 | Terminated III | 1.00% | ~6 |
 | Nanonic II | 0.70% | ~4 |
 | Up Close And Personal | 0.70% | ~4 |
+| Rookie | 0.50% | ~3 |
 | Cybernetic | 0.40% | ~2 |
 | Starship Docks | 0.40% | ~2 |
-| Rookie | 0.40% | ~2 |
 | Supply Run | 0.40% | ~2 |
 | Nanonic III | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
@@ -33,7 +33,7 @@
 | Trickshot | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 569 (Ranked 206)  
+Progressed: 570 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 228)
 | 2023-06-19 | 555 | 0 |
 | 2023-06-20 | 558 | 0 |
 | 2023-06-21 | 569 | 0 |
+| 2023-06-22 | 570 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

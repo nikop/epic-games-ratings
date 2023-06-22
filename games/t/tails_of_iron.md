@@ -11,7 +11,7 @@ Rating: 4.52 (Ranked 516)
 | Defeat 25 Frogs | 61.00% | ~1,046 |
 | Collect Monster Parts | 57.00% | ~978 |
 | Two Handed Weapon | 55.00% | ~943 |
-| Defeat 25 Grubs | 51.00% | ~875 |
+| Defeat 25 Grubs | 52.00% | ~892 |
 | Rescue Redgi's Brothers | 51.00% | ~875 |
 | Collect Iron Ore | 46.00% | ~789 |
 | Kitchen Ready To Cook | 46.00% | ~789 |
