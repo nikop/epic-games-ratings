@@ -3,10 +3,10 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 97,
+  "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -4236,18 +4236,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 6440,
       "NumberOfAwardsMax": 2406
+    },
+    {
+      "Time": "2023-06-23T21:59:36.1883639+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6447,
+      "NumberOfAwardsMax": 2411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6440,
-  "NumberOfAwardsMax": 2406,
+  "NumberOfAwards": 6447,
+  "NumberOfAwardsMax": 2411,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2406
+      "Count": 2411
     },
     {
       "Text": "This game is Relaxing",
@@ -4259,7 +4265,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 528
+      "Count": 529
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4289,7 +4295,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 491
+      "Count": 492
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4327,8 +4333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-06-23T19:59:12.5449946+00:00",
+  "LastChanged": "2023-06-23T21:59:36.1883638+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:58.635616+00:00",
-  "LastUpdate_Ratings": "2023-06-23T20:59:17.8642487+00:00",
-  "LastUpdate_Achievements": "2023-06-23T21:02:15.0278859+00:00"
+  "LastUpdate_Ratings": "2023-06-23T21:59:36.1883645+00:00",
+  "LastUpdate_Achievements": "2023-06-23T22:01:08.4708857+00:00"
 }

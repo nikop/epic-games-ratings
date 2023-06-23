@@ -5,22 +5,22 @@ Rating: 4.47 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It's Starting to Crack | 2.00% | ~62 |
 | Meeting Resistance | 1.00% | ~31 |
+| Sharpshooter | 1.00% | ~31 |
 | Confirming Suspicions | 1.00% | ~31 |
 | Explosive Efficiency | 1.00% | ~31 |
 | Lord of War | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
 | The Kraken Wakes | 1.00% | ~31 |
-| It's Starting to Crack | 1.00% | ~31 |
 | Change the Channel | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
 | Liberté | 0.90% | ~28 |
 | Just a Flesh Wound | 0.90% | ~28 |
-| Sharpshooter | 0.90% | ~28 |
 | Resourceful | 0.90% | ~28 |
-| Der Geist | 0.80% | ~25 |
+| Der Geist | 0.90% | ~28 |
 | Organ Grinder | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 592)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,101 (Ranked 144)  
+Progressed: 3,102 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,101 | 2 |
+| 2023-06-23 | 3,102 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

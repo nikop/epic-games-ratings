@@ -38,7 +38,7 @@ Rating: 4.34 (Ranked 741)
 | Dr Jones | 13.00% | ~154 |
 | Ruthless | 13.00% | ~154 |
 | Chaos Theory | 12.00% | ~142 |
-| Commando | 10.00% | ~118 |
+| Commando | 11.00% | ~130 |
 | Side Order | 9.00% | ~106 |
 | Chain Reaction | 8.00% | ~95 |
 | Bot Whisperer | 7.00% | ~83 |
@@ -58,7 +58,7 @@ Rating: 4.34 (Ranked 741)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,183 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

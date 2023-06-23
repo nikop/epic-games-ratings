@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,406 |
-| That's a Grand Army | 8.00% | ~4,806 |
-| That is mine! | 8.00% | ~4,806 |
-| Victorious! | 8.00% | ~4,806 |
-| Brothers in Arms | 6.00% | ~3,604 |
-| That's a Grand Navy | 6.00% | ~3,604 |
-| Seriously?! | 6.00% | ~3,604 |
-| For the Glory | 5.00% | ~3,004 |
-| Cold War | 4.00% | ~2,403 |
-| True Catholic | 4.00% | ~2,403 |
-| Defender of the Faith | 3.00% | ~1,802 |
-| It's all about the money | 3.00% | ~1,802 |
-| Respected | 3.00% | ~1,802 |
-| Truly Divine Ruler | 3.00% | ~1,802 |
-| Agressive Expander | 2.00% | ~1,201 |
-| Blockader | 2.00% | ~1,201 |
-| Combined Arms | 2.00% | ~1,201 |
-| Double the Love | 2.00% | ~1,201 |
-| Gentle Persuasion | 2.00% | ~1,201 |
-| It's all about luck | 2.00% | ~1,201 |
-| My armies are invincible! | 2.00% | ~1,201 |
-| Queen of Conquest | 2.00% | ~1,201 |
-| Royal Authority | 2.00% | ~1,201 |
-| The Princess is in this Castle | 2.00% | ~1,201 |
-| Total Control | 2.00% | ~1,201 |
+| Until death do us apart | 9.00% | ~5,409 |
+| That's a Grand Army | 8.00% | ~4,808 |
+| That is mine! | 8.00% | ~4,808 |
+| Victorious! | 8.00% | ~4,808 |
+| Brothers in Arms | 6.00% | ~3,606 |
+| That's a Grand Navy | 6.00% | ~3,606 |
+| Seriously?! | 6.00% | ~3,606 |
+| For the Glory | 5.00% | ~3,005 |
+| Cold War | 4.00% | ~2,404 |
+| True Catholic | 4.00% | ~2,404 |
+| Defender of the Faith | 3.00% | ~1,803 |
+| It's all about the money | 3.00% | ~1,803 |
+| Respected | 3.00% | ~1,803 |
+| Truly Divine Ruler | 3.00% | ~1,803 |
+| Agressive Expander | 2.00% | ~1,202 |
+| Blockader | 2.00% | ~1,202 |
+| Combined Arms | 2.00% | ~1,202 |
+| Double the Love | 2.00% | ~1,202 |
+| Gentle Persuasion | 2.00% | ~1,202 |
+| It's all about luck | 2.00% | ~1,202 |
+| My armies are invincible! | 2.00% | ~1,202 |
+| Queen of Conquest | 2.00% | ~1,202 |
+| Royal Authority | 2.00% | ~1,202 |
+| The Princess is in this Castle | 2.00% | ~1,202 |
+| Total Control | 2.00% | ~1,202 |
 | All That's Thine Shall Be Mine | 1.00% | ~601 |
 | Azur semé de lis or | 1.00% | ~601 |
 | Bright Spark | 1.00% | ~601 |
@@ -44,18 +44,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~541 |
 | Down Under | 0.80% | ~481 |
 | Trustworthy | 0.80% | ~481 |
-| Electable! | 0.70% | ~420 |
-| All belongs to Mother Russia | 0.60% | ~360 |
-| At every continent | 0.60% | ~360 |
-| Early-Modern Warfare | 0.60% | ~360 |
-| Populists in Government | 0.60% | ~360 |
-| Time Bandit | 0.60% | ~360 |
-| One Family to Rule them All | 0.50% | ~300 |
-| Ruina Imperii | 0.50% | ~300 |
-| The pen is mightier than the sword | 0.50% | ~300 |
-| This is My Faith | 0.50% | ~300 |
-| Trophy Hunter | 0.50% | ~300 |
-| Voting Streak | 0.50% | ~300 |
+| Electable! | 0.70% | ~421 |
+| All belongs to Mother Russia | 0.60% | ~361 |
+| At every continent | 0.60% | ~361 |
+| Early-Modern Warfare | 0.60% | ~361 |
+| Populists in Government | 0.60% | ~361 |
+| Time Bandit | 0.60% | ~361 |
+| One Family to Rule them All | 0.50% | ~301 |
+| Ruina Imperii | 0.50% | ~301 |
+| The pen is mightier than the sword | 0.50% | ~301 |
+| This is My Faith | 0.50% | ~301 |
+| Trophy Hunter | 0.50% | ~301 |
+| Voting Streak | 0.50% | ~301 |
 | Absolutely | 0.40% | ~240 |
 | All Your Trade Are Belong to Us | 0.40% | ~240 |
 | Bleed Them Dry | 0.40% | ~240 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,071 (Ranked 77)  
-Completed: 0 (0.00%) (Ranked 230)  
+Progressed: 60,104 (Ranked 77)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -425,7 +425,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
-| 2023-06-23 | 60,071 | 0 |
+| 2023-06-23 | 60,104 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,966 (Ranked 27)  

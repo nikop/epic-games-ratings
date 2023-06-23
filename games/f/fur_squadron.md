@@ -10,7 +10,7 @@
 | Whatever it is, fix it! | 32.00% | ~9 |
 | Priceless company | 29.00% | ~8 |
 | The opposite of good news | 25.00% | ~7 |
-| My Emperor... I've failed you! | 18.00% | ~5 |
+| My Emperor... I've failed you! | 21.00% | ~6 |
 | Enemy shield analyzed | 11.00% | ~3 |
 | Piece of cake | 7.00% | ~2 |
 | No need to say goodbye | 7.00% | ~2 |
@@ -30,7 +30,7 @@
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28 (Ranked 353)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
