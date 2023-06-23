@@ -1251,9 +1251,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 16432,
+  "EOS_Progressed": 16433,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -7796,6 +7796,11 @@
       "Time": "2023-06-23T02:29:14.5381392+00:00",
       "NumProgressed": 16432,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-23T03:30:14.0693817+00:00",
+      "NumProgressed": 16433,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -7927,7 +7932,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3287
     },
     {
       "ID": "1031",
@@ -7935,7 +7940,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "1032",
@@ -7967,7 +7972,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "1036",
@@ -7982,15 +7987,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 16432,
+      "Progressed": 16433,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-18T13:05:12.3034021+00:00",
-  "LastChanged_Achievements": "2023-06-23T02:29:14.5381386+00:00",
+  "LastChanged_Achievements": "2023-06-23T03:30:14.0693812+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.0084134+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:23:27.0022728+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:29:14.5381874+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:24:35.5896935+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:30:14.0694993+00:00"
 }

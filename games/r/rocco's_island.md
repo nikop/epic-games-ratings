@@ -45,7 +45,7 @@
 | Cogito Ergo Sum | 0.00% | ~0 |
 | Omnipotent! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 416)  
+Progressed: 2 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

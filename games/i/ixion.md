@@ -10,8 +10,8 @@ Rating: 4.57 (Ranked 442)
 | Infinite Growth... | 16.00% | ~434 |
 | Sputnik 2049 | 16.00% | ~434 |
 | Space Society | 11.00% | ~298 |
+| Ready for a New World | 11.00% | ~298 |
 | A Thousand Strong | 10.00% | ~271 |
-| Ready for a New World | 10.00% | ~271 |
 | Permanent Redesigns | 9.00% | ~244 |
 | Guy de Borderlands | 8.00% | ~217 |
 | Fully Recycled | 8.00% | ~217 |
@@ -21,12 +21,12 @@ Rating: 4.57 (Ranked 442)
 | A Hunk of Junk | 7.00% | ~190 |
 | Breaking Protocol | 7.00% | ~190 |
 | Exceeding Capacity | 6.00% | ~163 |
-| Please Make it Stop! | 5.00% | ~136 |
 | Man's Best Friend | 4.00% | ~108 |
 | Sightseeing | 4.00% | ~108 |
 | Power Outage | 4.00% | ~108 |
 | Necessary Enhancement | 4.00% | ~108 |
 | Convenient Transport | 4.00% | ~108 |
+| Please Make it Stop! | 4.00% | ~108 |
 | From the Past | 4.00% | ~108 |
 | Oats | 3.00% | ~81 |
 | Access Granted | 3.00% | ~81 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,711 (Ranked 151)  
+Progressed: 2,712 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-20 | 2,704 | 0 |
 | 2023-06-21 | 2,706 | 0 |
 | 2023-06-22 | 2,711 | 0 |
+| 2023-06-23 | 2,712 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

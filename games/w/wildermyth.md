@@ -43,6 +43,7 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 3.00% | ~38 |
 | Into Mulch | 3.00% | ~38 |
 | Astrology | 3.00% | ~38 |
+| Lochias's Hunger | 3.00% | ~38 |
 | The Power of Friendship | 2.00% | ~25 |
 | Empty the Caves | 2.00% | ~25 |
 | Drauvenslayers | 2.00% | ~25 |
@@ -53,7 +54,6 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 2.00% | ~25 |
 | Symbiosis | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
-| Lochias's Hunger | 2.00% | ~25 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | Solid as the Hills | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |

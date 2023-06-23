@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2832,
+  "EOS_Progressed": 2833,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -2935,6 +2935,11 @@
       "Time": "2023-06-22T17:05:08.2610471+00:00",
       "NumProgressed": 2832,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-06-23T03:28:52.6838529+00:00",
+      "NumProgressed": 2833,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 24,
@@ -2954,7 +2959,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "11",
@@ -2986,7 +2991,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "15",
@@ -3074,7 +3079,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "3",
@@ -3106,7 +3111,7 @@
       "Name": "PRO",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "7",
@@ -3137,13 +3142,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2832,
+      "Progressed": 2833,
       "Completed": 68
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-23T02:27:49.9021297+00:00",
+  "LastChanged_Achievements": "2023-06-23T03:28:52.6838524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:22:21.4675484+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:27:49.9021634+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:23:30.4254269+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:28:52.6838964+00:00"
 }

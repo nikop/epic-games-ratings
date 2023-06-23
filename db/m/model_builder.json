@@ -4,8 +4,8 @@
   "ProductSlug": "model-builder-f9b456",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-16T17:00:00+00:00",
     "PcReleaseDate": "2022-02-08T17:00:00+00:00",
@@ -618,6 +618,6 @@
   "LastChanged": "2023-03-31T05:58:36.1160751+00:00",
   "LastChanged_Achievements": "2023-06-23T02:26:08.3302967+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:56.6802524+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:21:43.6186484+00:00",
+  "LastUpdate_Ratings": "2023-06-23T03:22:51.6248733+00:00",
   "LastUpdate_Achievements": "2023-06-23T02:26:08.3303681+00:00"
 }

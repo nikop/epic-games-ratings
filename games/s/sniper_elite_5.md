@@ -10,11 +10,11 @@ Rating: 4.46 (Ranked 603)
 | The Kraken Wakes | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
 | Lord of War | 0.90% | ~28 |
+| Change the Channel | 0.90% | ~28 |
 | Taking it back | 0.90% | ~28 |
+| Target America | 0.90% | ~28 |
 | Sharpshooter | 0.80% | ~25 |
 | Explosive Efficiency | 0.80% | ~25 |
-| Change the Channel | 0.80% | ~25 |
-| Target America | 0.80% | ~25 |
 | Just a Flesh Wound | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
@@ -23,13 +23,13 @@ Rating: 4.46 (Ranked 603)
 | As Quiet as a Mouse | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
 | Organ Grinder | 0.50% | ~15 |
+| Skirmisher | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
 | Precision Is Key | 0.50% | ~15 |
 | Close Quarters | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Climbing the Ladder | 0.40% | ~12 |
 | No Stone Unturned | 0.40% | ~12 |
-| Skirmisher | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
 | Snake in the Grass | 0.40% | ~12 |

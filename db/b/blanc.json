@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1988,
+  "EOS_Progressed": 1990,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -883,6 +883,11 @@
       "Time": "2023-06-22T23:03:15.2058984+00:00",
       "NumProgressed": 1988,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-23T03:25:24.6458529+00:00",
+      "NumProgressed": 1990,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -966,7 +971,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "THE_END",
@@ -988,16 +993,16 @@
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 358
+      "UsersEstimate": 338
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1988,
+      "Progressed": 1990,
       "Completed": 5
     }
   ],
@@ -1005,8 +1010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-23T02:26:07.6145453+00:00",
+  "LastChanged_Achievements": "2023-06-23T03:25:24.6458524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:53.8258645+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:22:37.1605637+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:26:07.6145642+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:23:45.9031754+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:25:24.6458686+00:00"
 }

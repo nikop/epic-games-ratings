@@ -4,8 +4,8 @@
   "ProductSlug": "oddballers",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.5048421+00:00",
   "LastChanged": "2023-03-31T05:57:32.5048422+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.5729506+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:21:35.4076729+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:27:54.4532402+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:22:43.8548298+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:28:56.7833912+00:00"
 }

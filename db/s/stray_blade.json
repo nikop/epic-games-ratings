@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -427,8 +427,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-06-23T02:24:10.3672216+00:00",
+  "LastChanged_Achievements": "2023-06-23T03:25:18.4009086+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:32.9892729+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:21:25.0749745+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:24:10.367292+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:22:33.4001432+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:25:18.4010344+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -1673,17 +1673,17 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 240
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "LEVEL_005",
@@ -1842,8 +1842,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-23T02:29:10.8605162+00:00",
+  "LastChanged_Achievements": "2023-06-23T03:30:10.4342907+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.6609834+00:00",
-  "LastUpdate_Ratings": "2023-06-23T02:21:33.8557095+00:00",
-  "LastUpdate_Achievements": "2023-06-23T02:29:10.8605466+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:22:41.8448208+00:00",
+  "LastUpdate_Achievements": "2023-06-23T03:30:10.4343144+00:00"
 }

@@ -14,7 +14,7 @@
 | First aid | 63.00% | ~22 |
 | Soundtrack | 54.00% | ~19 |
 | Antidote | 46.00% | ~16 |
-| Pick the right door | 23.00% | ~8 |
+| Pick the right door | 26.00% | ~9 |
 | On the right path | 20.00% | ~7 |
 | I'm close now | 20.00% | ~7 |
 | Failed attempt | 20.00% | ~7 |

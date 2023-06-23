@@ -24,13 +24,13 @@
 | Inferno Ruins | 27.00% | ~30 |
 | Topped up | 26.00% | ~29 |
 | Untouchable | 25.00% | ~28 |
-| I'm Rich | 24.00% | ~26 |
+| I'm Rich | 25.00% | ~28 |
+| The Slime | 22.00% | ~24 |
 | 1 is all I need | 21.00% | ~23 |
-| The Slime | 21.00% | ~23 |
 | The Giant | 20.00% | ~22 |
+| The Flower | 19.00% | ~21 |
 | Out of the Frying Pan... | 19.00% | ~21 |
-| The Flower | 18.00% | ~20 |
-| The Blacksmith | 17.00% | ~19 |
+| The Blacksmith | 18.00% | ~20 |
 | The Assistant | 15.00% | ~16 |
 | The Ooze | 15.00% | ~16 |
 | Ember | 15.00% | ~16 |
@@ -52,6 +52,7 @@
 | Combo Master | 3.00% | ~3 |
 | Tongs | 3.00% | ~3 |
 | It's a Trap! | 2.00% | ~2 |
+| Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Concluded | 2.00% | ~2 |
@@ -61,7 +62,6 @@
 | Really Bad Luck | 0.90% | ~1 |
 | Blaze | 0.90% | ~1 |
 | Topaz | 0.90% | ~1 |
-| Chorus | 0.90% | ~1 |
 | Immortality | 0.90% | ~1 |
 | Titanium | 0.90% | ~1 |
 | Rocket | 0.90% | ~1 |
