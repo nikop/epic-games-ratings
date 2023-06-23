@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.82% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.43% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 28.12% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.22% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.00% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 17.07% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.75% |
@@ -21,11 +21,11 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.00% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.27% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
@@ -64,9 +64,9 @@
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 63 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 65 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
-| 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.42% |
-| 67 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.40% |
+| 65 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.47% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.42% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.37% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.25% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -87,7 +87,7 @@
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.43% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.42% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
@@ -117,9 +117,9 @@
 | 114 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.64% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 117 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
+| 118 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
-| 119 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 119 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
+| 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
