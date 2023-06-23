@@ -7,8 +7,10 @@ Number of Ratings: 82  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | And So It Begins | 0.30% | ~29 |
+| Loaded | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
 | Still Kind Of Poor | 0.30% | ~29 |
+| Treasure Hunter | 0.30% | ~29 |
 | Well Off | 0.30% | ~29 |
 | Agent | 0.20% | ~19 |
 | Master Agent | 0.20% | ~19 |
@@ -18,7 +20,6 @@ Number of Ratings: 82  (23.09.2022)
 | Gotta Start Somewhere | 0.20% | ~19 |
 | Home, Sweet Home | 0.20% | ~19 |
 | Kill It With Gas | 0.20% | ~19 |
-| Loaded | 0.20% | ~19 |
 | Lured In | 0.20% | ~19 |
 | Millionaire | 0.20% | ~19 |
 | Mr Clean | 0.20% | ~19 |
@@ -26,7 +27,6 @@ Number of Ratings: 82  (23.09.2022)
 | Expert Renovator | 0.20% | ~19 |
 | Master Renovator | 0.20% | ~19 |
 | TGIF | 0.20% | ~19 |
-| Treasure Hunter | 0.20% | ~19 |
 | Expert Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
 | Babysitter | 0.10% | ~10 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,687 (Ranked 116)  
+Progressed: 9,688 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-16 | 9,685 | 0 |
 | 2023-06-19 | 9,686 | 0 |
 | 2023-06-20 | 9,687 | 0 |
+| 2023-06-23 | 9,688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

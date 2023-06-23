@@ -34,16 +34,16 @@ Rating: 4.34 (Ranked 741)
 | Endgame | 21.00% | ~248 |
 | Savior | 20.00% | ~237 |
 | The Watchers | 17.00% | ~201 |
-| Newtonian Knockout | 15.00% | ~177 |
+| Newtonian Knockout | 16.00% | ~189 |
 | Dr Jones | 13.00% | ~154 |
 | Ruthless | 13.00% | ~154 |
 | Chaos Theory | 12.00% | ~142 |
 | Commando | 10.00% | ~118 |
 | Side Order | 9.00% | ~106 |
 | Chain Reaction | 8.00% | ~95 |
+| Bot Whisperer | 7.00% | ~83 |
 | Curveball | 7.00% | ~83 |
 | Wipe Out | 7.00% | ~83 |
-| Bot Whisperer | 6.00% | ~71 |
 | Dressed To Kill | 6.00% | ~71 |
 | Cruelty | 2.00% | ~24 |
 | Five Finger Deathcount | 1.00% | ~12 |

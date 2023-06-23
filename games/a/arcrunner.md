@@ -12,14 +12,14 @@
 | Challenge Accepted | 0.30% | ~2 |
 | The City | 0.30% | ~2 |
 | Cybernetic | 0.30% | ~2 |
+| Nanonic III | 0.30% | ~2 |
 | Rookie | 0.30% | ~2 |
 | Unlocked and Loaded | 0.30% | ~2 |
+| The Bigger They Are | 0.20% | ~1 |
 | Nanonic I | 0.20% | ~1 |
-| Nanonic III | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
 | Terminated II | 0.20% | ~1 |
 | Terminated III | 0.20% | ~1 |
-| The Bigger They Are | 0.00% | ~0 |
 | Challenge Mastered | 0.00% | ~0 |
 | Cyborg | 0.00% | ~0 |
 | Destruction | 0.00% | ~0 |

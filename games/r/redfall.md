@@ -13,7 +13,7 @@ Rating: 3.51 (Ranked 945)
 | ICU | 46.00% | ~781 |
 | Peek-a-boo | 44.00% | ~747 |
 | Catch and Release | 44.00% | ~747 |
-| Sucks To Be You | 42.00% | ~713 |
+| Sucks To Be You | 43.00% | ~730 |
 | Welcome to the Neighborhood | 37.00% | ~628 |
 | Fly Fisher | 36.00% | ~611 |
 | Throw The First Stone | 35.00% | ~594 |

@@ -44,6 +44,7 @@ Rating: 4.07 (Ranked 894)
 | The father of Dragons | 6.00% | ~89 |
 | Trader | 6.00% | ~89 |
 | Ancient Knowledge | 5.00% | ~74 |
+| Crystal Mining | 5.00% | ~74 |
 | Enchanting skill | 5.00% | ~74 |
 | How Do You Turn This On? | 5.00% | ~74 |
 | Missions Dedication | 5.00% | ~74 |
@@ -51,7 +52,6 @@ Rating: 4.07 (Ranked 894)
 | Weekly Quest Completionist | 5.00% | ~74 |
 | Background Story | 4.00% | ~59 |
 | Blueprint Upgrades | 4.00% | ~59 |
-| Crystal Mining | 4.00% | ~59 |
 | Dragon Slayer | 4.00% | ~59 |
 | Engineer Mastery | 4.00% | ~59 |
 | Lock And Load | 4.00% | ~59 |

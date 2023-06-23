@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 389)
 | Mighty Hoard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,806 (Ranked 132)  
+Progressed: 4,807 (Ranked 132)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-20 | 4,765 | 3 |
 | 2023-06-21 | 4,778 | 3 |
 | 2023-06-22 | 4,799 | 3 |
-| 2023-06-23 | 4,806 | 3 |
+| 2023-06-23 | 4,807 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

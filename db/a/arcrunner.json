@@ -1170,9 +1170,9 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -1290,9 +1290,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-23T20:02:20.8603218+00:00",
+  "LastChanged_Achievements": "2023-06-23T21:02:27.8903065+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-23T19:59:26.0300311+00:00",
-  "LastUpdate_Achievements": "2023-06-23T20:02:20.8603805+00:00"
+  "LastUpdate_Ratings": "2023-06-23T20:59:33.1989672+00:00",
+  "LastUpdate_Achievements": "2023-06-23T21:02:27.8903369+00:00"
 }

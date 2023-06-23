@@ -7,7 +7,7 @@
 | Tutorial Completed | 6.00% | ~417 |
 | Supermart Heisted | 3.00% | ~208 |
 | Supermart Objectives Complete | 2.00% | ~139 |
-| Sewer Objectives Complete | 1.00% | ~69 |
+| Sewer Objectives Complete | 1.00% | ~70 |
 | Bank Heisted | 0.50% | ~35 |
 | Crocodile Maxed Out | 0.20% | ~14 |
 | All Objectives Complete | 0.10% | ~7 |
@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,949 (Ranked 120)  
+Progressed: 6,950 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 6,925 | 0 |
 | 2023-06-21 | 6,927 | 0 |
 | 2023-06-22 | 6,935 | 0 |
-| 2023-06-23 | 6,949 | 0 |
+| 2023-06-23 | 6,950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

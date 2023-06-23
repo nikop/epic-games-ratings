@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3099,
+  "EOS_Progressed": 3101,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4242,6 +4242,11 @@
       "Time": "2023-06-23T20:05:53.6443762+00:00",
       "NumProgressed": 3099,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T21:06:05.6395346+00:00",
+      "NumProgressed": 3101,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4275,9 +4280,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -4307,17 +4312,17 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4403,9 +4408,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4413,7 +4418,7 @@
       "Name": "Precision Is Key",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -4437,7 +4442,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4445,7 +4450,7 @@
       "Name": "My Little Friend",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -4469,7 +4474,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -4491,9 +4496,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4523,9 +4528,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -4539,9 +4544,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -4579,9 +4584,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -4820,13 +4825,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3050,
+      "Progressed": 3052,
       "Completed": 5
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3099,
+      "Progressed": 3101,
       "Completed": 2
     }
   ],
@@ -4834,8 +4839,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-23T20:05:53.6443758+00:00",
+  "LastChanged_Achievements": "2023-06-23T21:06:05.6395342+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-23T20:00:11.2614265+00:00",
-  "LastUpdate_Achievements": "2023-06-23T20:05:53.6444864+00:00"
+  "LastUpdate_Ratings": "2023-06-23T21:00:18.1143808+00:00",
+  "LastUpdate_Achievements": "2023-06-23T21:06:05.6396332+00:00"
 }

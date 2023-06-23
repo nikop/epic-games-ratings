@@ -10,22 +10,22 @@ Rating: 4.77 (Ranked 107)
 | A Keen Sense of Spell | 8.00% | ~22,495 |
 | Troll with the Punches | 8.00% | ~22,495 |
 | That's a Keeper | 8.00% | ~22,495 |
-| Grappling with a Graphorn | 7.00% | ~19,683 |
-| The One Who Mastered Memories | 7.00% | ~19,683 |
-| The Hallowed Hero | 7.00% | ~19,683 |
-| The Hero of Hogwarts | 7.00% | ~19,683 |
-| The Defender of Dragons | 7.00% | ~19,683 |
-| Challenge Accepted | 7.00% | ~19,683 |
-| Loom for Improvement | 7.00% | ~19,683 |
-| A Talent for Spending | 7.00% | ~19,683 |
-| Coasting Along | 7.00% | ~19,683 |
-| The Avenging Gazelle | 6.00% | ~16,871 |
-| A Sallow Grave | 6.00% | ~16,871 |
-| Followed the Butterflies | 6.00% | ~16,871 |
-| The Spell Master | 6.00% | ~16,871 |
-| Rising From the Ashes | 6.00% | ~16,871 |
-| Beast Friends | 5.00% | ~14,059 |
-| Flight the Good Flight | 5.00% | ~14,059 |
+| Grappling with a Graphorn | 7.00% | ~19,684 |
+| The One Who Mastered Memories | 7.00% | ~19,684 |
+| The Hallowed Hero | 7.00% | ~19,684 |
+| The Hero of Hogwarts | 7.00% | ~19,684 |
+| The Defender of Dragons | 7.00% | ~19,684 |
+| Challenge Accepted | 7.00% | ~19,684 |
+| Loom for Improvement | 7.00% | ~19,684 |
+| A Talent for Spending | 7.00% | ~19,684 |
+| Coasting Along | 7.00% | ~19,684 |
+| The Avenging Gazelle | 6.00% | ~16,872 |
+| A Sallow Grave | 6.00% | ~16,872 |
+| Followed the Butterflies | 6.00% | ~16,872 |
+| The Spell Master | 6.00% | ~16,872 |
+| Rising From the Ashes | 6.00% | ~16,872 |
+| Beast Friends | 5.00% | ~14,060 |
+| Flight the Good Flight | 5.00% | ~14,060 |
 | The Seeker of Knowledge | 4.00% | ~11,248 |
 | The Root of the Problem | 4.00% | ~11,248 |
 | Third Time's a Charm | 4.00% | ~11,248 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,189 (Ranked 41)  
+Progressed: 281,193 (Ranked 41)  
 Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 409 (0.15%) (Ranked 165)
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
-| 2023-06-23 | 281,189 | 409 |
+| 2023-06-23 | 281,193 | 409 |
 ## Awards
 Max (Character Customization): 20,298  (Ranked 17)  
 Sum: 37,712 (Ranked 30)  

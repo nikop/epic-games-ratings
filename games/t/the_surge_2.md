@@ -31,9 +31,9 @@ Rating: 4.24 (Ranked 807)
 | Bad Dog | 13.00% | ~236 |
 | Where It All Began | 13.00% | ~236 |
 | Risk Tolerant | 13.00% | ~236 |
+| Sorry, Didn't See You There | 13.00% | ~236 |
 | What A Catchy Song | 13.00% | ~236 |
 | Marked For Success | 12.00% | ~217 |
-| Sorry, Didn't See You There | 12.00% | ~217 |
 | Corrupted Beauty | 11.00% | ~199 |
 | Stimulating The Local Economy | 10.00% | ~181 |
 | Triplets | 10.00% | ~181 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6305,
+  "EOS_Progressed": 6306,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3003,6 +3003,11 @@
       "Time": "2023-06-23T20:03:55.9860335+00:00",
       "NumProgressed": 6305,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-23T21:04:04.5718289+00:00",
+      "NumProgressed": 6306,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3030,7 +3035,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3070,7 +3075,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -3150,7 +3155,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -3190,7 +3195,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3262,7 +3267,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3373,7 +3378,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6305,
+      "Progressed": 6306,
       "Completed": 8
     }
   ],
@@ -3381,8 +3386,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-22T03:57:56.7064606+00:00",
-  "LastChanged_Achievements": "2023-06-23T20:03:55.986033+00:00",
+  "LastChanged_Achievements": "2023-06-23T21:04:04.5718285+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:10.499894+00:00",
-  "LastUpdate_Ratings": "2023-06-23T19:57:34.808277+00:00",
-  "LastUpdate_Achievements": "2023-06-23T20:03:55.9860804+00:00"
+  "LastUpdate_Ratings": "2023-06-23T20:57:35.9543679+00:00",
+  "LastUpdate_Achievements": "2023-06-23T21:04:04.5718806+00:00"
 }

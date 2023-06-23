@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6785,
+  "EOS_Progressed": 6786,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
@@ -4739,6 +4739,11 @@
       "Time": "2023-06-23T19:00:34.5684161+00:00",
       "NumProgressed": 6785,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-23T21:02:09.5049529+00:00",
+      "NumProgressed": 6786,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4774,7 +4779,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH05",
@@ -4790,7 +4795,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ACH07",
@@ -4870,7 +4875,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH17",
@@ -4981,7 +4986,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6785,
+      "Progressed": 6786,
       "Completed": 38
     }
   ],
@@ -4989,8 +4994,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-23T20:00:32.376292+00:00",
+  "LastChanged_Achievements": "2023-06-23T21:02:09.5049524+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-23T19:57:56.229191+00:00",
-  "LastUpdate_Achievements": "2023-06-23T20:00:32.3763469+00:00"
+  "LastUpdate_Ratings": "2023-06-23T20:57:59.0987842+00:00",
+  "LastUpdate_Achievements": "2023-06-23T21:02:09.5050014+00:00"
 }

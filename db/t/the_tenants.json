@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9687,
+  "EOS_Progressed": 9688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -565,6 +565,11 @@
     {
       "Time": "2023-06-20T11:02:27.8151687+00:00",
       "NumProgressed": 9687,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T21:03:10.5899106+00:00",
+      "NumProgressed": 9688,
       "NumCompleted": 0
     }
   ],
@@ -935,9 +940,9 @@
       "ID": "ACH_LOADED",
       "SetID": "13614nd",
       "Name": "Loaded",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_LURED_IN",
@@ -1199,9 +1204,9 @@
       "ID": "ACH_TREASURE_HUNTER",
       "SetID": "13614nd",
       "Name": "Treasure Hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_UNCLEST_OF_THE_UNCLES",
@@ -1264,21 +1269,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9687,
+      "Progressed": 9688,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-06-11T16:59:07.234811+00:00",
-  "LastChanged_Achievements": "2023-06-23T20:02:33.6276851+00:00",
+  "LastChanged_Achievements": "2023-06-23T21:03:10.5899098+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:29.8325312+00:00",
-  "LastUpdate_Ratings": "2023-06-23T19:58:46.084023+00:00",
-  "LastUpdate_Achievements": "2023-06-23T20:02:33.6277863+00:00"
+  "LastUpdate_Ratings": "2023-06-23T20:58:51.754976+00:00",
+  "LastUpdate_Achievements": "2023-06-23T21:03:10.5900122+00:00"
 }

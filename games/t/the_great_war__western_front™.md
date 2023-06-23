@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 48.00% | ~123 |
+| Earth Shattering | 48.00% | ~124 |
 | Das Ist Endgültig! | 19.00% | ~49 |
 | La Der des Ders | 14.00% | ~36 |
 | From the Pages of History | 9.00% | ~23 |
@@ -17,7 +17,7 @@
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 247)  
+Progressed: 258 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 249 | 0 |
 | 2023-06-21 | 253 | 0 |
 | 2023-06-22 | 256 | 0 |
-| 2023-06-23 | 257 | 0 |
+| 2023-06-23 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
