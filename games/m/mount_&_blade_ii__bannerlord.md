@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,408 |
-| Landlord | 31.00% | ~16,712 |
-| Bannerlord | 21.00% | ~11,321 |
-| Horde breaker | 21.00% | ~11,321 |
-| Lawmaker | 21.00% | ~11,321 |
-| Trained | 21.00% | ~11,321 |
+| Lawbringer | 36.00% | ~19,409 |
+| Landlord | 31.00% | ~16,713 |
+| Bannerlord | 21.00% | ~11,322 |
+| Horde breaker | 21.00% | ~11,322 |
+| Lawmaker | 21.00% | ~11,322 |
+| Trained | 21.00% | ~11,322 |
 | The king is pleased | 17.00% | ~9,165 |
 | King Solomon | 16.00% | ~8,626 |
-| I can do it | 15.00% | ~8,086 |
-| Apple of my eye | 14.00% | ~7,547 |
-| God of the Arena | 12.00% | ~6,469 |
+| I can do it | 15.00% | ~8,087 |
+| Apple of my eye | 14.00% | ~7,548 |
+| God of the Arena | 12.00% | ~6,470 |
 | Against all odds | 10.00% | ~5,391 |
 | Duelist | 9.00% | ~4,852 |
 | Swordbearer | 9.00% | ~4,852 |
@@ -27,10 +27,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 7.00% | ~3,774 |
 | Mastery | 7.00% | ~3,774 |
 | Know your enemy | 6.00% | ~3,235 |
-| Crowdfunded | 4.00% | ~2,156 |
-| Crush your enemies | 4.00% | ~2,156 |
-| My way | 4.00% | ~2,156 |
-| Veni vidi vici | 4.00% | ~2,156 |
+| Crowdfunded | 4.00% | ~2,157 |
+| Crush your enemies | 4.00% | ~2,157 |
+| My way | 4.00% | ~2,157 |
+| Veni vidi vici | 4.00% | ~2,157 |
 | Freedom! | 3.00% | ~1,617 |
 | Entrepreneur | 2.00% | ~1,078 |
 | Long live the Empire! | 2.00% | ~1,078 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,910 (Ranked 81)  
+Progressed: 53,914 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 53,707 | 0 |
 | 2023-06-21 | 53,799 | 0 |
 | 2023-06-22 | 53,891 | 0 |
-| 2023-06-23 | 53,910 | 0 |
+| 2023-06-23 | 53,914 | 0 |
 ## Awards
 Max (Character Customization): 6,700  (Ranked 48)  
 Sum: 13,469 (Ranked 68)  

@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520166,
+  "EOS_Progressed": 520167,
   "EOS_Completed": 432,
   "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 5,
@@ -6955,6 +6955,11 @@
       "Time": "2023-06-23T06:02:19.3823215+00:00",
       "NumProgressed": 520166,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-06-23T07:03:16.2743443+00:00",
+      "NumProgressed": 520167,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 57,
@@ -6982,7 +6987,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 364116
+      "UsersEstimate": 364117
     },
     {
       "ID": "12",
@@ -7046,7 +7051,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 322503
+      "UsersEstimate": 322504
     },
     {
       "ID": "2",
@@ -7190,7 +7195,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260083
+      "UsersEstimate": 260084
     },
     {
       "ID": "36",
@@ -7222,7 +7227,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176856
+      "UsersEstimate": 176857
     },
     {
       "ID": "4",
@@ -7254,7 +7259,7 @@
       "Name": "Written in the Stars",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "43",
@@ -7294,7 +7299,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 322503
+      "UsersEstimate": 322504
     },
     {
       "ID": "48",
@@ -7310,7 +7315,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176856
+      "UsersEstimate": 176857
     },
     {
       "ID": "5",
@@ -7342,7 +7347,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239276
+      "UsersEstimate": 239277
     },
     {
       "ID": "53",
@@ -7414,22 +7419,22 @@
       "Name": "Boss of All Bosses",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     }
   ],
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 520166,
+      "Progressed": 520167,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:02:19.3823211+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:03:16.2743434+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:06.4806196+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:57:29.8597147+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:02:19.3824229+00:00"
+  "LastUpdate_Ratings": "2023-06-23T06:57:52.3356502+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:03:16.274415+00:00"
 }

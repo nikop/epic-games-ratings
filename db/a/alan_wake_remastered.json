@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55984,
+  "EOS_Progressed": 55987,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5812,6 +5812,11 @@
       "Time": "2023-06-23T06:02:09.353986+00:00",
       "NumProgressed": 55984,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-23T07:02:12.4554905+00:00",
+      "NumProgressed": 55987,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5823,7 +5828,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17915
+      "UsersEstimate": 17916
     },
     {
       "ID": "02",
@@ -5839,7 +5844,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10637
+      "UsersEstimate": 10638
     },
     {
       "ID": "04",
@@ -5855,7 +5860,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9517
+      "UsersEstimate": 9518
     },
     {
       "ID": "06",
@@ -5871,7 +5876,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5598
+      "UsersEstimate": 5599
     },
     {
       "ID": "08",
@@ -5879,7 +5884,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5598
+      "UsersEstimate": 5599
     },
     {
       "ID": "09",
@@ -5887,7 +5892,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "10",
@@ -5983,7 +5988,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "22",
@@ -5991,7 +5996,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5598
+      "UsersEstimate": 5599
     },
     {
       "ID": "23",
@@ -6031,7 +6036,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5598
+      "UsersEstimate": 5599
     },
     {
       "ID": "28",
@@ -6039,7 +6044,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5598
+      "UsersEstimate": 5599
     },
     {
       "ID": "29",
@@ -6071,7 +6076,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13996
+      "UsersEstimate": 13997
     },
     {
       "ID": "33",
@@ -6079,7 +6084,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "34",
@@ -6095,7 +6100,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "36",
@@ -6358,21 +6363,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55984,
+      "Progressed": 55987,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19452,
+      "Progressed": 19455,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:02:09.353985+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:02:12.45549+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:57:47.1858741+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:02:09.3540884+00:00"
+  "LastUpdate_Ratings": "2023-06-23T06:58:16.6041644+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:02:12.4555643+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -3881,9 +3881,9 @@
       "ID": "Win_As_Manti",
       "SetID": "4h07amh",
       "Name": "Win as the Manti",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "Win_As_Mimot",
@@ -4041,8 +4041,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:04:38.3309596+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:05:41.1145891+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.5784862+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:57:34.7980201+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:04:38.3310535+00:00"
+  "LastUpdate_Ratings": "2023-06-23T06:57:59.0276938+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:05:41.1146552+00:00"
 }

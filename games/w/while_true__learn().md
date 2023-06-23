@@ -1,22 +1,22 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 532)  
+Rating: 4.51 (Ranked 533)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~551,998 |
-| Error: Stack Overflow | 66.00% | ~391,740 |
-| We need more gold | 60.00% | ~356,128 |
-| The dawn of civilization | 53.00% | ~314,579 |
-| More FPS for the FPS god! | 49.00% | ~290,838 |
-| Beauty and harmony | 48.00% | ~284,902 |
-| One more! | 44.00% | ~261,160 |
-| Overmind | 24.00% | ~142,451 |
-| RNG is my best friend now | 18.00% | ~106,838 |
-| Cosplay | 13.00% | ~77,161 |
-| Evolution in progress... | 13.00% | ~77,161 |
+| First.. Bit? | 93.00% | ~552,002 |
+| Error: Stack Overflow | 66.00% | ~391,743 |
+| We need more gold | 60.00% | ~356,130 |
+| The dawn of civilization | 53.00% | ~314,582 |
+| More FPS for the FPS god! | 49.00% | ~290,840 |
+| Beauty and harmony | 48.00% | ~284,904 |
+| One more! | 44.00% | ~261,162 |
+| Overmind | 24.00% | ~142,452 |
+| RNG is my best friend now | 18.00% | ~106,839 |
+| Cosplay | 13.00% | ~77,162 |
+| Evolution in progress... | 13.00% | ~77,162 |
 | Step by step | 8.00% | ~47,484 |
 | README reader | 3.00% | ~17,806 |
 | Data scientist | 3.00% | ~17,806 |
@@ -26,8 +26,8 @@ Number of Ratings: 896  (23.09.2022)
 | Best deal on the market | 2.00% | ~11,871 |
 | Is this Skynet? | 2.00% | ~11,871 |
 | Cybergeek 2047 | 2.00% | ~11,871 |
-| Ping | 1.00% | ~5,935 |
-| Magna cum laude | 1.00% | ~5,935 |
+| Ping | 1.00% | ~5,936 |
+| Magna cum laude | 1.00% | ~5,936 |
 | The hoarder | 0.90% | ~5,342 |
 | Deal with it! | 0.50% | ~2,968 |
 | Gold rush | 0.40% | ~2,374 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,781 |
 | The Scrooge | 0.10% | ~594 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593,546 (Ranked 24)  
+Progressed: 593,550 (Ranked 24)  
 Completed: 493 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 493 (0.08%) (Ranked 183)
 | 2023-06-20 | 593,264 | 493 |
 | 2023-06-21 | 593,381 | 493 |
 | 2023-06-22 | 593,515 | 493 |
-| 2023-06-23 | 593,546 | 493 |
+| 2023-06-23 | 593,550 | 493 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 299)  
 Sum: 133 (Ranked 391)  

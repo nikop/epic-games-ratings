@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,112 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,113 |
 | First Class Student | 9.00% | ~25,301 |
 | A Keen Sense of Spell | 8.00% | ~22,490 |
 | Troll with the Punches | 8.00% | ~22,490 |
@@ -19,11 +19,11 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 7.00% | ~19,679 |
 | A Talent for Spending | 7.00% | ~19,679 |
 | Coasting Along | 7.00% | ~19,679 |
-| The Avenging Gazelle | 6.00% | ~16,867 |
-| A Sallow Grave | 6.00% | ~16,867 |
-| Followed the Butterflies | 6.00% | ~16,867 |
-| The Spell Master | 6.00% | ~16,867 |
-| Rising From the Ashes | 6.00% | ~16,867 |
+| The Avenging Gazelle | 6.00% | ~16,868 |
+| A Sallow Grave | 6.00% | ~16,868 |
+| Followed the Butterflies | 6.00% | ~16,868 |
+| The Spell Master | 6.00% | ~16,868 |
+| Rising From the Ashes | 6.00% | ~16,868 |
 | Beast Friends | 5.00% | ~14,056 |
 | Flight the Good Flight | 5.00% | ~14,056 |
 | The Seeker of Knowledge | 4.00% | ~11,245 |
@@ -36,10 +36,10 @@ Rating: 4.77 (Ranked 107)
 | The Intrepid Explorer | 3.00% | ~8,434 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,434 |
 | The Ends Petrify the Means | 3.00% | ~8,434 |
-| Put Down Roots | 2.00% | ~5,622 |
-| The Auror's Apprentice | 2.00% | ~5,622 |
-| Floo Around the World | 2.00% | ~5,622 |
-| The Wise Owl | 2.00% | ~5,622 |
+| Put Down Roots | 2.00% | ~5,623 |
+| The Auror's Apprentice | 2.00% | ~5,623 |
+| Floo Around the World | 2.00% | ~5,623 |
+| The Wise Owl | 2.00% | ~5,623 |
 | The Good Samaritan | 1.00% | ~2,811 |
 | Savvy Spender | 1.00% | ~2,811 |
 | Rise to the Challenges | 1.00% | ~2,811 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,122 (Ranked 41)  
+Progressed: 281,127 (Ranked 41)  
 Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 409 (0.15%) (Ranked 165)
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
-| 2023-06-23 | 281,122 | 409 |
+| 2023-06-23 | 281,127 | 409 |
 ## Awards
 Max (Character Customization): 20,270  (Ranked 18)  
 Sum: 37,661 (Ranked 30)  

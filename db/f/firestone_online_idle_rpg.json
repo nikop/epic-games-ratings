@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -3422,6 +3422,11 @@
       "Time": "2023-06-23T02:29:26.7743927+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-23T07:07:22.5199842+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3641,7 +3646,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "gearenchanting",
@@ -3705,7 +3710,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "jewelenchanting",
@@ -3767,9 +3772,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 221
     },
     {
       "ID": "missionsdedication",
@@ -3793,7 +3798,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "mythicpower",
@@ -3809,7 +3814,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "pokerface",
@@ -3863,9 +3868,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 118
     },
     {
       "ID": "silverwoodliberator",
@@ -3881,7 +3886,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "templeofeternals",
@@ -3937,7 +3942,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "titanpower",
@@ -3993,7 +3998,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "warmachinesarmy",
@@ -4025,14 +4030,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:05:55.7242913+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:07:22.5199836+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:58:04.6656674+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:05:55.7243934+00:00"
+  "LastUpdate_Ratings": "2023-06-23T06:58:39.6208347+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:07:22.5200591+00:00"
 }

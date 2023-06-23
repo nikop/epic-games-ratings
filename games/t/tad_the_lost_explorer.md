@@ -32,7 +32,7 @@
 | Another life of Bryan | 0.00% | ~0 |
 | Turboamazing archaeologist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 439)  
+Progressed: 1 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

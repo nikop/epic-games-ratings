@@ -4080,9 +4080,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281122,
+  "EOS_Progressed": 281127,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10745,6 +10745,11 @@
       "Time": "2023-06-23T06:05:02.5686787+00:00",
       "NumProgressed": 281122,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-06-23T07:06:13.5765719+00:00",
+      "NumProgressed": 281127,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 45,
@@ -10756,7 +10761,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28112
+      "UsersEstimate": 28113
     },
     {
       "ID": "PFA_10",
@@ -10804,7 +10809,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16867
+      "UsersEstimate": 16868
     },
     {
       "ID": "PFA_16",
@@ -10828,7 +10833,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16867
+      "UsersEstimate": 16868
     },
     {
       "ID": "PFA_19",
@@ -10916,7 +10921,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "PFA_29",
@@ -10932,7 +10937,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "PFA_30",
@@ -10972,7 +10977,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "PFA_35",
@@ -10980,7 +10985,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16867
+      "UsersEstimate": 16868
     },
     {
       "ID": "PFA_36",
@@ -11060,7 +11065,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16867
+      "UsersEstimate": 16868
     },
     {
       "ID": "PFA_45",
@@ -11076,7 +11081,7 @@
       "Name": "The Wise Owl",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "PFA_6",
@@ -11108,14 +11113,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16867
+      "UsersEstimate": 16868
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281122,
+      "Progressed": 281127,
       "Completed": 409
     }
   ],
@@ -11123,8 +11128,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-23T05:57:30.6774399+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:05:02.5686783+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:06:13.5765712+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:57:30.6774405+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:05:02.568764+00:00"
+  "LastUpdate_Ratings": "2023-06-23T06:57:53.421582+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:06:13.5766301+00:00"
 }

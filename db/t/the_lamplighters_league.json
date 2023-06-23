@@ -4,7 +4,7 @@
   "ProductSlug": "the-lamplighters-league",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-03T16:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:39.3400058+00:00",
-  "LastChanged_Achievements": "2023-06-23T06:05:40.0739735+00:00",
+  "LastChanged_Achievements": "2023-06-23T07:07:02.5987823+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:36.9563003+00:00",
-  "LastUpdate_Ratings": "2023-06-23T05:59:49.6824943+00:00",
-  "LastUpdate_Achievements": "2023-06-23T06:05:40.0739764+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:01:03.0557096+00:00",
+  "LastUpdate_Achievements": "2023-06-23T07:07:02.5987855+00:00"
 }

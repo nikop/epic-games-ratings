@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,955 |
-| Thorough | 9.00% | ~16,160 |
-| A thief's beginning | 8.00% | ~14,364 |
-| Disguised | 7.00% | ~12,569 |
-| Rollin' | 7.00% | ~12,569 |
-| Tanuki Time | 7.00% | ~12,569 |
-| Ice Ice Yuki | 6.00% | ~10,773 |
-| Jonin | 6.00% | ~10,773 |
-| Rescue Takuma | 6.00% | ~10,773 |
-| Stoned Ox | 6.00% | ~10,773 |
-| Yabu | 6.00% | ~10,773 |
+| Genin | 10.00% | ~17,956 |
+| Thorough | 9.00% | ~16,161 |
+| A thief's beginning | 8.00% | ~14,365 |
+| Disguised | 7.00% | ~12,570 |
+| Rollin' | 7.00% | ~12,570 |
+| Tanuki Time | 7.00% | ~12,570 |
+| Ice Ice Yuki | 6.00% | ~10,774 |
+| Jonin | 6.00% | ~10,774 |
+| Rescue Takuma | 6.00% | ~10,774 |
+| Stoned Ox | 6.00% | ~10,774 |
+| Yabu | 6.00% | ~10,774 |
 | Chunin | 5.00% | ~8,978 |
 | Flying Rocks | 5.00% | ~8,978 |
 | Happy Planning | 5.00% | ~8,978 |
 | Mugen Unchained | 5.00% | ~8,978 |
 | Warzone | 5.00% | ~8,978 |
-| Okkoto | 4.00% | ~7,182 |
-| Prisoners | 4.00% | ~7,182 |
-| Too Early | 4.00% | ~7,182 |
+| Okkoto | 4.00% | ~7,183 |
+| Prisoners | 4.00% | ~7,183 |
+| Too Early | 4.00% | ~7,183 |
 | Gear up | 3.00% | ~5,387 |
 | Happy little accidents | 3.00% | ~5,387 |
 | Noboru | 3.00% | ~5,387 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,796 |
 | The End | 1.00% | ~1,796 |
 | Undeserved Honor | 0.90% | ~1,616 |
-| When Cut Across the Neck | 0.80% | ~1,436 |
+| When Cut Across the Neck | 0.80% | ~1,437 |
 | High Five the Moon | 0.70% | ~1,257 |
 | The Cave | 0.60% | ~1,077 |
 | Merciful | 0.40% | ~718 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~180 |
 | Release the Kraken | 0.10% | ~180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,554 (Ranked 56)  
+Progressed: 179,565 (Ranked 56)  
 Completed: 55 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 55 (0.03%) (Ranked 201)
 | 2023-06-20 | 178,877 | 54 |
 | 2023-06-21 | 179,186 | 55 |
 | 2023-06-22 | 179,480 | 55 |
-| 2023-06-23 | 179,554 | 55 |
+| 2023-06-23 | 179,565 | 55 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 181)  
 Sum: 4,685 (Ranked 128)  

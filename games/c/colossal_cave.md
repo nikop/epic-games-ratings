@@ -24,8 +24,8 @@
 | Can't bear the weight | 6.00% | ~5 |
 | Egg On His Face | 6.00% | ~5 |
 | Batteries not Included | 6.00% | ~5 |
+| What a Winner! | 6.00% | ~5 |
 | Master Cave Plunderer | 5.00% | ~4 |
-| What a Winner! | 5.00% | ~4 |
 | Colossal Cave Explorer | 4.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
