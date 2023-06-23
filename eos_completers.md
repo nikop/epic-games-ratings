@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.56% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.82% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -19,20 +19,20 @@
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.76% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.71% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.06% |
-| 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
+| 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
+| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.88% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.31% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
@@ -72,7 +72,7 @@
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.05% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -85,7 +85,7 @@
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
-| 86 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.48% |
+| 86 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.47% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
@@ -466,4 +466,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,830 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,831 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

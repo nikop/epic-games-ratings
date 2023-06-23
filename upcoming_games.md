@@ -44,6 +44,7 @@
 | [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | - |  | - | - |
+| [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |
 | [Remnant II](games/r/remnant_2.md) | 2023-07-25 | - |  | - | - |
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
@@ -379,7 +380,6 @@
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | - |  | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | - |  | - | - |
-| [Zorans: Resistance (Closed Alpha)](games/z/zorans__resistance_(closed_alpha).md) | 2099-01-01 | - |  | - | - |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | 2099-01-01 | - |  | - | - |
 | [Binary Smoke](games/b/binary_smoke.md) | 2099-01-02 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2099-01-02 | - |  | - | - |
