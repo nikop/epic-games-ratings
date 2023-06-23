@@ -10,16 +10,16 @@
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.04% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
-| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
-| 13 | [Remains](games/r/remains.md) | 12.50% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.81% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
-| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
+| 11 | [Sonic Origins](games/s/sonic_origins.md) | 13.04% |
+| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
+| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
+| 14 | [Remains](games/r/remains.md) | 12.50% |
+| 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.81% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -36,7 +36,7 @@
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.90% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.89% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.35% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
@@ -52,8 +52,8 @@
 | 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.17% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
-| 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
-| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.09% |
+| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.11% |
+| 54 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -80,8 +80,8 @@
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.80% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.57% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
+| 82 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.56% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
