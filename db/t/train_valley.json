@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "22_ouroboros",
@@ -592,8 +592,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-23T17:05:44.3338027+00:00",
+  "LastChanged_Achievements": "2023-06-23T18:05:30.1145871+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9004309+00:00",
-  "LastUpdate_Ratings": "2023-06-23T16:58:05.9043586+00:00",
-  "LastUpdate_Achievements": "2023-06-23T17:05:44.3338358+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:57:52.654244+00:00",
+  "LastUpdate_Achievements": "2023-06-23T18:05:30.114613+00:00"
 }

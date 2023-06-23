@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3094,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -4221,6 +4221,11 @@
       "Time": "2023-06-23T17:07:26.9363442+00:00",
       "NumProgressed": 3094,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T18:06:58.1823956+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4238,9 +4243,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4294,9 +4299,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4358,9 +4363,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -4382,9 +4387,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4454,25 +4459,25 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -4494,9 +4499,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -4526,17 +4531,17 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -4646,17 +4651,17 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
       "SetID": "83mdf7p",
       "Name": "F\u00FChrerious Repetition",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -4799,13 +4804,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3045,
-      "Completed": 4
+      "Progressed": 3048,
+      "Completed": 5
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3094,
+      "Progressed": 3097,
       "Completed": 2
     }
   ],
@@ -4813,8 +4818,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-22T17:01:36.046167+00:00",
-  "LastChanged_Achievements": "2023-06-23T17:07:26.9363437+00:00",
+  "LastChanged_Achievements": "2023-06-23T18:06:58.1823952+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-23T17:01:38.8427601+00:00",
-  "LastUpdate_Achievements": "2023-06-23T17:07:26.9364419+00:00"
+  "LastUpdate_Ratings": "2023-06-23T18:01:15.9481783+00:00",
+  "LastUpdate_Achievements": "2023-06-23T18:06:58.18247+00:00"
 }

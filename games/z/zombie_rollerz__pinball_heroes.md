@@ -43,17 +43,18 @@
 | The Bomber | 8.00% | ~9 |
 | The Astronaut | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~6 |
+| The Exorcist | 5.00% | ~6 |
 | Highway to Hell | 5.00% | ~6 |
 | Aluminum | 5.00% | ~6 |
 | Anvil | 5.00% | ~6 |
-| The Exorcist | 4.00% | ~4 |
 | Mithril | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
+| It's a Trap! | 3.00% | ~3 |
 | Tongs | 3.00% | ~3 |
-| It's a Trap! | 2.00% | ~2 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
+| Titanium | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Concluded | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
@@ -63,20 +64,19 @@
 | Blaze | 0.90% | ~1 |
 | Topaz | 0.90% | ~1 |
 | Immortality | 0.90% | ~1 |
-| Titanium | 0.90% | ~1 |
 | Rocket | 0.90% | ~1 |
 | Inferno | 0.90% | ~1 |
 | Sapphire | 0.90% | ~1 |
 | Hammer | 0.90% | ~1 |
 | Warp Drive Spacecraft | 0.90% | ~1 |
+| Wu-wei | 0.90% | ~1 |
 | Satellite | 0.90% | ~1 |
+| Zombie Slayer | 0.90% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 | Encore | 0.00% | ~0 |
 | Adamantite | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
-| Wu-wei | 0.00% | ~0 |
-| Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 110 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 230)  

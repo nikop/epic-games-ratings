@@ -31,7 +31,7 @@ Rating: 4.34 (Ranked 741)
 | Hold The Line | 22.00% | ~260 |
 | There Can Be Only One! | 22.00% | ~260 |
 | Chain Killer | 21.00% | ~248 |
-| Endgame | 20.00% | ~237 |
+| Endgame | 21.00% | ~248 |
 | Savior | 20.00% | ~237 |
 | The Watchers | 17.00% | ~201 |
 | Newtonian Knockout | 15.00% | ~177 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 741)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 176)  
+Progressed: 1,183 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

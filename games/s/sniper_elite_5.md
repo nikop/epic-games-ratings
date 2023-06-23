@@ -15,24 +15,24 @@ Rating: 4.46 (Ranked 604)
 | Taking it back | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
+| Liberté | 0.90% | ~28 |
 | Sharpshooter | 0.90% | ~28 |
-| Liberté | 0.80% | ~25 |
+| Resourceful | 0.90% | ~28 |
+| As Quiet as a Mouse | 0.90% | ~28 |
 | Just a Flesh Wound | 0.80% | ~25 |
-| Resourceful | 0.80% | ~25 |
-| As Quiet as a Mouse | 0.80% | ~25 |
+| Der Geist | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
+| Organ Grinder | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
-| Der Geist | 0.60% | ~19 |
+| Skirmisher | 0.60% | ~19 |
+| Set Europe Ablaze | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
+| Snake in the Grass | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
 | No Stone Unturned | 0.50% | ~15 |
-| Organ Grinder | 0.50% | ~15 |
-| Skirmisher | 0.50% | ~15 |
-| Set Europe Ablaze | 0.50% | ~15 |
 | Precision Is Key | 0.50% | ~15 |
 | My Little Friend | 0.50% | ~15 |
 | Die Nussknacker Sweet! | 0.50% | ~15 |
-| Snake in the Grass | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Enemy at the Gates | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |
@@ -43,6 +43,8 @@ Rating: 4.46 (Ranked 604)
 | Fields of Glory | 0.30% | ~9 |
 | Strategist | 0.30% | ~9 |
 | Burn after reading | 0.30% | ~9 |
+| Eagle Eyed | 0.30% | ~9 |
+| Tinkerer | 0.30% | ~9 |
 | Locomotion Commotion | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Don't hold your breath | 0.30% | ~9 |
@@ -51,9 +53,9 @@ Rating: 4.46 (Ranked 604)
 | Going Overboard | 0.30% | ~9 |
 | From Paris with Love | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
-| Eagle Eyed | 0.20% | ~6 |
-| Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
+| Can't Outrun A Bullet | 0.20% | ~6 |
+| Führerious Repetition | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
@@ -69,15 +71,13 @@ Rating: 4.46 (Ranked 604)
 | Out of Scope | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
-| Can't Outrun A Bullet | 0.10% | ~3 |
-| Führerious Repetition | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,094 (Ranked 144)  
+Progressed: 3,097 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,094 | 2 |
+| 2023-06-23 | 3,097 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

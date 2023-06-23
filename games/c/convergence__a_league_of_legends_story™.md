@@ -8,9 +8,9 @@
 | The Steel Shadow | 13.00% | ~93 |
 | The Mysterious Stranger | 13.00% | ~93 |
 | Rail Rat | 13.00% | ~93 |
+| Cartographer | 13.00% | ~93 |
 | Treasure Trove | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
-| Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
 | The Wicked Twins | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
@@ -46,13 +46,13 @@
 | Entresol Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
+| Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |
 | Hexlock for Protection | 3.00% | ~22 |
-| Rungs Was Right | 3.00% | ~22 |
 | Wunderkind | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
-| Wildlife Protection | 0.60% | ~4 |
+| Wildlife Protection | 0.70% | ~5 |
 | A Lesson in Precision | 0.60% | ~4 |
 | No Time to Waste | 0.60% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |

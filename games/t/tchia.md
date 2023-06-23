@@ -20,14 +20,14 @@ Rating: 4.75 (Ranked 133)
 | Shredder | 5.00% | ~329 |
 | Liberator | 4.00% | ~263 |
 | Live Wire | 4.00% | ~263 |
-| Fashion Faux-Pas | 3.00% | ~197 |
-| Fashion Victim | 3.00% | ~197 |
+| Fashion Faux-Pas | 3.00% | ~198 |
+| Fashion Victim | 3.00% | ~198 |
 | Arrr! | 2.00% | ~132 |
 | Snip Snip | 2.00% | ~132 |
 | Ça de Wizz! | 1.00% | ~66 |
 | Thing | 1.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,583 (Ranked 125)  
+Progressed: 6,584 (Ranked 125)  
 Completed: 25 (0.38%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 25 (0.38%) (Ranked 132)
 | 2023-06-20 | 6,559 | 25 |
 | 2023-06-21 | 6,567 | 25 |
 | 2023-06-22 | 6,578 | 25 |
-| 2023-06-23 | 6,583 | 25 |
+| 2023-06-23 | 6,584 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

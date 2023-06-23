@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 80.00% | ~40 |
-| Accessory Unlocked | 80.00% | ~40 |
-| Character Unlocked | 78.00% | ~39 |
-| Homer | 64.00% | ~32 |
-| Have a good trip! | 62.00% | ~31 |
-| First Win | 60.00% | ~30 |
-| Kickball Unlocked | 60.00% | ~30 |
-| Settle Down | 56.00% | ~28 |
-| Butter Fingers | 54.00% | ~27 |
-| Stay Hydrated | 54.00% | ~27 |
-| True Story! | 30.00% | ~15 |
-| Grand Slam! | 26.00% | ~13 |
-| Bedroom Secret Spot | 26.00% | ~13 |
+| Hat Unlocked | 80.00% | ~41 |
+| Accessory Unlocked | 80.00% | ~41 |
+| Character Unlocked | 78.00% | ~40 |
+| Homer | 65.00% | ~33 |
+| Kickball Unlocked | 61.00% | ~31 |
+| Have a good trip! | 61.00% | ~31 |
+| First Win | 59.00% | ~30 |
+| Settle Down | 57.00% | ~29 |
+| Butter Fingers | 55.00% | ~28 |
+| Stay Hydrated | 55.00% | ~28 |
+| True Story! | 29.00% | ~15 |
+| Grand Slam! | 27.00% | ~14 |
+| Bedroom Secret Spot | 25.00% | ~13 |
 | Kick It | 24.00% | ~12 |
 | Have Mercy | 24.00% | ~12 |
 | Save some water for the fishies | 18.00% | ~9 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 324)  
+Progressed: 51 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-11 | 46 | 0 |
 | 2023-06-12 | 47 | 0 |
 | 2023-06-22 | 49 | 0 |
-| 2023-06-23 | 50 | 0 |
+| 2023-06-23 | 51 | 0 |

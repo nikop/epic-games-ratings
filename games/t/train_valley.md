@@ -23,7 +23,7 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 26.00% | ~79 |
 | Madness! | 25.00% | ~76 |
 | Foreman | 24.00% | ~73 |
-| Missed it! | 22.00% | ~67 |
+| Missed it! | 23.00% | ~70 |
 | Russia | 20.00% | ~61 |
 | Sabotage | 19.00% | ~58 |
 | America | 18.00% | ~55 |

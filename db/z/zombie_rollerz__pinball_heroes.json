@@ -4,8 +4,8 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -460,9 +460,9 @@
       "ID": "CLG_UNLOCK_10007",
       "SetID": "89cjc9l",
       "Name": "The Exorcist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CLG_UNLOCK_10008",
@@ -508,9 +508,9 @@
       "ID": "PRG_ACCUM_EVENT",
       "SetID": "89cjc9l",
       "Name": "It\u0027s a Trap!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_ACCUM_GOLD",
@@ -692,9 +692,9 @@
       "ID": "PRG_HARD_10008",
       "SetID": "89cjc9l",
       "Name": "Titanium",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRG_HARD_10009",
@@ -876,9 +876,9 @@
       "ID": "PRG_NORMAL_10007",
       "SetID": "89cjc9l",
       "Name": "Wu-wei",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRG_NORMAL_10008",
@@ -908,9 +908,9 @@
       "ID": "PRG_NORMAL_ALL",
       "SetID": "89cjc9l",
       "Name": "Zombie Slayer",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRG_SP_arcadeFTUX",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-23T17:07:31.9340705+00:00",
+  "LastChanged_Achievements": "2023-06-23T18:07:03.2211945+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.9773542+00:00",
-  "LastUpdate_Ratings": "2023-06-23T16:57:48.2795015+00:00",
-  "LastUpdate_Achievements": "2023-06-23T17:07:31.934148+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:57:35.9045242+00:00",
+  "LastUpdate_Achievements": "2023-06-23T18:07:03.2212549+00:00"
 }

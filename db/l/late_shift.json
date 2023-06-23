@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -497,6 +497,11 @@
       "Time": "2023-06-23T12:02:08.0126357+00:00",
       "NumProgressed": 428,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-23T18:02:11.0204963+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -508,7 +513,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "CHOICES_MATTER",
@@ -564,7 +569,7 @@
       "Name": "The Bribe",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ENDING_7",
@@ -572,7 +577,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -596,15 +601,15 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 133
     },
     {
       "ID": "INTERROGATION",
@@ -626,9 +631,9 @@
       "ID": "PROFICIENT_STORYTELLER",
       "SetID": "8eejhlh",
       "Name": "Proficient Storyteller",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "PROTECTOR",
@@ -667,7 +672,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 5
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-23T17:02:25.3610978+00:00",
+  "LastChanged_Achievements": "2023-06-23T18:02:11.0204958+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.6969817+00:00",
-  "LastUpdate_Ratings": "2023-06-23T16:58:08.8167729+00:00",
-  "LastUpdate_Achievements": "2023-06-23T17:02:25.3611151+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:57:55.2327575+00:00",
+  "LastUpdate_Achievements": "2023-06-23T18:02:11.0205104+00:00"
 }

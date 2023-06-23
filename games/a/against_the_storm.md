@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 2.00% | ~309 |
 | Barren Lands | 2.00% | ~309 |
 | Ancient Battleground | 2.00% | ~309 |
+| Sparkdew Crystals | 2.00% | ~309 |
 | Fertile Meadows | 2.00% | ~309 |
 | Lost Colonies | 2.00% | ~309 |
 | Coral Forest | 2.00% | ~309 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 1.00% | ~154 |
 | Refinery | 1.00% | ~154 |
 | Against All Odds | 1.00% | ~154 |
-| Sparkdew Crystals | 1.00% | ~154 |
 | Dangerous Lands | 1.00% | ~154 |
 | Haunted Forest | 1.00% | ~154 |
 | Levitating Monument | 1.00% | ~154 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,436 (Ranked 106)  
+Progressed: 15,437 (Ranked 106)  
 Completed: 38 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 38 (0.25%) (Ranked 149)
 | 2023-06-20 | 15,406 | 38 |
 | 2023-06-21 | 15,416 | 38 |
 | 2023-06-22 | 15,423 | 38 |
-| 2023-06-23 | 15,436 | 38 |
+| 2023-06-23 | 15,437 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 199)  
 Sum: 3,053 (Ranked 155)  
