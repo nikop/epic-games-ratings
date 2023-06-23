@@ -196,7 +196,7 @@
 | 179 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 498 |
 | 179 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 498 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,537 | 69 |
-| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 369 | 214 |
+| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 370 | 214 |
 | 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,413 | 70 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 371 | 212 |
 | 196 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 498 |
@@ -475,7 +475,7 @@
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,787 | 111 |
 | 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 498 |
 | 456 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 77 | 355 |
-| 456 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,056 | 76 |
+| 456 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,062 | 76 |
 | 477 | [Aimlabs](games/a/aimlabs.md) | 4.55 | 0 | 498 |
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 498 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 498 |
@@ -781,7 +781,7 @@
 | 775 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,441,731 | 1 |
 | 775 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,651 | 79 |
 | 775 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.29 | 0 | 498 |
-| 775 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 692 | 162 |
+| 775 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 695 | 162 |
 | 775 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 411 |
 | 775 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.29 | 33 | 437 |
 | 775 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 498 |
