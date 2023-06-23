@@ -16,7 +16,7 @@ Number of Ratings: 546  (23.09.2022)
 | Quick Movements | 34.00% | ~2,669 |
 | Inventory Management | 34.00% | ~2,669 |
 | The Fall of the Leonia Order | 30.00% | ~2,355 |
-| The Hero Killer | 27.00% | ~2,120 |
+| The Hero Killer | 28.00% | ~2,198 |
 | The Final Battle of the First Hero | 26.00% | ~2,041 |
 | Go Home... | 26.00% | ~2,041 |
 | Brain at Full Throttle | 22.00% | ~1,727 |

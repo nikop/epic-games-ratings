@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15763,
+  "EOS_Progressed": 15764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2551,6 +2551,11 @@
       "Time": "2023-06-23T07:07:18.8480277+00:00",
       "NumProgressed": 15763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T09:06:33.5854209+00:00",
+      "NumProgressed": 15764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2562,7 +2567,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "ACH001",
@@ -2570,7 +2575,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13556
+      "UsersEstimate": 13557
     },
     {
       "ID": "ACH0010",
@@ -2602,7 +2607,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH0014",
@@ -2658,7 +2663,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11349
+      "UsersEstimate": 11350
     },
     {
       "ID": "ACH0020",
@@ -2722,7 +2727,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13871
+      "UsersEstimate": 13872
     },
     {
       "ID": "ACH005",
@@ -2769,7 +2774,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15763,
+      "Progressed": 15764,
       "Completed": 0
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-16T22:00:35.1733965+00:00",
-  "LastChanged_Achievements": "2023-06-23T08:07:43.7172639+00:00",
+  "LastChanged_Achievements": "2023-06-23T09:06:33.5854205+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:45.6656293+00:00",
-  "LastUpdate_Ratings": "2023-06-23T08:01:28.7459083+00:00",
-  "LastUpdate_Achievements": "2023-06-23T08:07:43.7173036+00:00"
+  "LastUpdate_Ratings": "2023-06-23T09:00:15.0586655+00:00",
+  "LastUpdate_Achievements": "2023-06-23T09:06:33.5854699+00:00"
 }

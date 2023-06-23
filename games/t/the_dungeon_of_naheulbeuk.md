@@ -6,43 +6,43 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~154 |
+| Alt+F4 | 92.00% | ~155 |
 | Where's that freaking Dwarf? | 86.00% | ~144 |
 | Sock! SOCK! | 71.00% | ~119 |
 | Fireproof Wizardess | 59.00% | ~99 |
 | Livin' in a dwarven paradise | 55.00% | ~92 |
-| Déjà vu | 50.00% | ~84 |
+| Déjà vu | 51.00% | ~86 |
 | GG EZ | 49.00% | ~82 |
-| Way of the Wimp | 47.00% | ~78 |
+| Way of the Wimp | 47.00% | ~79 |
 | DM intervention | 46.00% | ~77 |
 | Oh, when I'll be level 10... | 40.00% | ~67 |
-| Speedrun | 37.00% | ~62 |
 | The Ranger of Chaos | 36.00% | ~60 |
-| Thieves' Guild Accreditation | 35.00% | ~58 |
-| The plot thickens... At the tavern | 34.00% | ~57 |
+| Speedrun | 36.00% | ~60 |
+| The plot thickens... At the tavern | 35.00% | ~59 |
+| Thieves' Guild Accreditation | 35.00% | ~59 |
+| Team Building Exercise | 35.00% | ~59 |
 | Dwarf Fortress | 34.00% | ~57 |
 | I am the night | 34.00% | ~57 |
-| Team Building Exercise | 34.00% | ~57 |
-| A beer, two curses, three companions | 32.00% | ~53 |
+| A beer, two curses, three companions | 33.00% | ~55 |
 | Look but don't touch | 31.00% | ~52 |
-| Shiny and Crôm | 26.00% | ~43 |
-| Material Girl | 26.00% | ~43 |
+| Shiny and Crôm | 26.00% | ~44 |
+| The Statuette of Gladeulfeurah | 26.00% | ~44 |
+| A tale of adventurers not quite like the others... | 26.00% | ~44 |
+| Material Girl | 26.00% | ~44 |
 | The demons' feast | 25.00% | ~42 |
-| The Statuette of Gladeulfeurah | 25.00% | ~42 |
-| A tale of adventurers not quite like the others... | 25.00% | ~42 |
 | Gargantua | 25.00% | ~42 |
 | The Great Library | 24.00% | ~40 |
 | Torture and Sensibility | 24.00% | ~40 |
 | The Famous Dungeon of Naheulbeuk | 21.00% | ~35 |
 | The beards of change | 21.00% | ~35 |
-| In Navalu's footsteps | 20.00% | ~33 |
-| Urik's Depths | 19.00% | ~32 |
-| The Blood Countess | 19.00% | ~32 |
+| In Navalu's footsteps | 20.00% | ~34 |
+| Urik's Depths | 18.00% | ~30 |
+| The Blood Countess | 18.00% | ~30 |
+| The Woman in the High Castle | 17.00% | ~29 |
 | Cursed die | 16.00% | ~27 |
-| The Woman in the High Castle | 16.00% | ~27 |
-| Res Judicata | 14.00% | ~23 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~23 |
-| Law and Order | 14.00% | ~23 |
+| Res Judicata | 14.00% | ~24 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~24 |
+| Law and Order | 14.00% | ~24 |
 | The Dungeon Master | 13.00% | ~22 |
 | Necrophilia | 12.00% | ~20 |
 | Scholar of the Lands of Fangh | 11.00% | ~18 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 270)  
+Progressed: 168 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 132 | 0 |
 | 2023-06-21 | 138 | 0 |
 | 2023-06-22 | 163 | 0 |
-| 2023-06-23 | 167 | 0 |
+| 2023-06-23 | 168 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

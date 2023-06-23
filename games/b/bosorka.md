@@ -20,7 +20,7 @@
 | Time is on my side | 11.00% | ~9 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 297)  
+Progressed: 85 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

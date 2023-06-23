@@ -17,10 +17,10 @@ Rating: 4.46 (Ranked 604)
 | Sharpshooter | 0.80% | ~25 |
 | Just a Flesh Wound | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
+| As Quiet as a Mouse | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Der Geist | 0.60% | ~19 |
-| As Quiet as a Mouse | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
 | No Stone Unturned | 0.50% | ~15 |
 | Organ Grinder | 0.50% | ~15 |

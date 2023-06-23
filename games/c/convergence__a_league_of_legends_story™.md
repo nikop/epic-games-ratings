@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 15.00% | ~107 |
+| Time Heals All Wounds | 15.00% | ~108 |
 | The Mysterious Stranger | 13.00% | ~93 |
 | Rail Rat | 13.00% | ~93 |
 | The Steel Shadow | 12.00% | ~86 |
@@ -30,8 +30,8 @@
 | Honest Mistake | 10.00% | ~72 |
 | Check Your Pulse | 10.00% | ~72 |
 | The Family Fortune | 10.00% | ~72 |
-| Right On Time | 9.00% | ~64 |
-| Whiz Kid | 9.00% | ~64 |
+| Right On Time | 9.00% | ~65 |
+| Whiz Kid | 9.00% | ~65 |
 | Chaincrawler Explorer | 7.00% | ~50 |
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
@@ -46,9 +46,9 @@
 | Entresol Explorer | 5.00% | ~36 |
 | Fairgrounds Explorer | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
-| Clovemary for Remembering | 3.00% | ~21 |
-| Hexlock for Protection | 3.00% | ~21 |
-| Rungs Was Right | 3.00% | ~21 |
+| Clovemary for Remembering | 3.00% | ~22 |
+| Hexlock for Protection | 3.00% | ~22 |
+| Rungs Was Right | 3.00% | ~22 |
 | Wunderkind | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Fitting In | 1.00% | ~7 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 195)  
+Progressed: 718 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 4 (0.56%) (Ranked 118)
 | 2023-06-19 | 709 | 4 |
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
-| 2023-06-23 | 716 | 4 |
+| 2023-06-23 | 718 | 4 |
