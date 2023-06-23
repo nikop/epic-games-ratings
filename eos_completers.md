@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.29% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 34.29% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.53% |
+| 9 | [Island Cities](games/i/island_cities.md) | 16.81% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -78,7 +78,7 @@
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
-| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.74% |
+| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.72% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
@@ -101,7 +101,7 @@
 | 99 | [Adios](games/a/adios.md) | 0.91% |
 | 100 | [Hades](games/h/hades.md) | 0.89% |
 | 101 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 102 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 103 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 103 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 105 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -464,4 +464,4 @@
 | 229 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 229 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,827 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,828 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

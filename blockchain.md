@@ -14,6 +14,7 @@
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2023-12-31 | - |  | - | - |
+| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2023-12-31 | - |  | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
@@ -27,4 +28,4 @@
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.81 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.76 | 0 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.44 | 40 |
-| [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 31 |
+| [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.20 | 31 |
