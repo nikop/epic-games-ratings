@@ -20,7 +20,7 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,254 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 298 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,087 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 152,480 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 152,813 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,156 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 479 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 498 |
@@ -898,7 +898,7 @@
 | 894 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 274 |
 | 897 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,956 | 64 |
 | 897 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 498 |
-| 899 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 443 | 197 |
+| 899 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 446 | 197 |
 | 899 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 498 |
 | 901 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 498 |
 | 901 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 498 |
@@ -925,7 +925,7 @@
 | 921 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 498 |
 | 924 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 456 |
 | 925 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |
-| 925 | [Warface](games/w/warface.md) | 3.91 | 396 | 208 |
+| 925 | [Warface](games/w/warface.md) | 3.91 | 397 | 207 |
 | 927 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 498 |
 | 928 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 498 |
 | 928 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 498 |

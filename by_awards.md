@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,202 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 188,452 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,576 | 4.19 | 844 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 152,480 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 152,813 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,432 | 4.53 | 504 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,725 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 70,456 | 4.62 | 347 |
@@ -196,7 +196,7 @@
 | 194 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 273 |
 | 195 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 456 | 4.24 | 807 |
 | 196 | [Surviving Mars](games/s/surviving_mars.md) | 453 | 4.60 | 389 |
-| 197 | [Second Extinction™](games/s/second_extinction™.md) | 443 | 4.05 | 899 |
+| 197 | [Second Extinction™](games/s/second_extinction™.md) | 446 | 4.05 | 899 |
 | 198 | [Prison Architect](games/p/prison_architect.md) | 441 | 4.61 | 365 |
 | 199 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 200 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 417 | 4.40 | 687 |
@@ -207,7 +207,7 @@
 | 205 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 402 | 4.49 | 566 |
 | 205 | [The Sims™ 4](games/t/the_sims™_4.md) | 402 | 4.61 | 365 |
 | 207 | [Dishonored 2](games/d/dishonored_2.md) | 397 | 4.79 | 89 |
-| 208 | [Warface](games/w/warface.md) | 396 | 3.91 | 925 |
+| 207 | [Warface](games/w/warface.md) | 397 | 3.91 | 925 |
 | 209 | [Slime Rancher](games/s/slime_rancher.md) | 394 | 4.82 | 65 |
 | 210 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 365 |
 | 211 | [Nuclear Throne](games/n/nuclear_throne.md) | 374 | 4.79 | 89 |
