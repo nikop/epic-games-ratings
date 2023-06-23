@@ -78,7 +78,7 @@
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
-| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.68% |
+| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.66% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |

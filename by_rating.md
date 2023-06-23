@@ -312,24 +312,24 @@
 | 296 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 390 |
 | 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 498 |
 | 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,582 | 16 |
-| 296 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 473 |
 | 296 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 498 |
 | 296 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 486 |
-| 316 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 498 |
-| 316 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 498 |
-| 316 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,941 | 54 |
-| 316 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 314 |
-| 316 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.64 | 0 | 498 |
-| 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 498 |
-| 316 | [HITMAN](games/h/hitman.md) | 4.64 | 200 | 265 |
-| 316 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 498 |
-| 316 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 181 | 273 |
-| 316 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 498 |
-| 316 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 373 |
-| 316 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 498 |
-| 316 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.64 | 0 | 498 |
-| 316 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 190 | 270 |
-| 316 | [Wall World](games/w/wall_world.md) | 4.64 | 0 | 498 |
+| 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 498 |
+| 315 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 498 |
+| 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,941 | 54 |
+| 315 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 314 |
+| 315 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.64 | 0 | 498 |
+| 315 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 498 |
+| 315 | [HITMAN](games/h/hitman.md) | 4.64 | 200 | 265 |
+| 315 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 498 |
+| 315 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 181 | 273 |
+| 315 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 498 |
+| 315 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 24 | 473 |
+| 315 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 373 |
+| 315 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 498 |
+| 315 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.64 | 0 | 498 |
+| 315 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 190 | 270 |
+| 315 | [Wall World](games/w/wall_world.md) | 4.64 | 0 | 498 |
 | 331 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 494 |
 | 331 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 498 |
 | 331 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 498 |
@@ -442,7 +442,7 @@
 | 422 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 498 |
 | 422 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,400 | 23 |
 | 442 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 498 |
-| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,485 | 92 |
+| 442 | [Among Us](games/a/among_us.md) | 4.57 | 2,487 | 92 |
 | 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 404 |
 | 442 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 461 |
 | 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 498 |
@@ -513,24 +513,24 @@
 | 504 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 477 |
 | 504 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 93 | 339 |
 | 504 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 498 |
+| 504 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 498 |
 | 504 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.53 | 0 | 498 |
 | 504 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 498 |
 | 504 | [Verdun](games/v/verdun.md) | 4.53 | 94 | 336 |
-| 517 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 21 | 486 |
-| 517 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 749 | 155 |
-| 517 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,879 | 15 |
-| 517 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 486 |
-| 517 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 510 | 187 |
-| 517 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.52 | 0 | 498 |
-| 517 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 327 |
-| 517 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 291 |
-| 517 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 120 | 307 |
-| 517 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,277 | 127 |
-| 517 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 498 |
-| 517 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 234 |
-| 517 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 498 |
-| 517 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 498 |
-| 517 | [Tails of Iron](games/t/tails_of_iron.md) | 4.52 | 0 | 498 |
+| 518 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 21 | 486 |
+| 518 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 749 | 155 |
+| 518 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,879 | 15 |
+| 518 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 486 |
+| 518 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 510 | 187 |
+| 518 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.52 | 0 | 498 |
+| 518 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 327 |
+| 518 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 291 |
+| 518 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 120 | 307 |
+| 518 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,277 | 127 |
+| 518 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 498 |
+| 518 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 234 |
+| 518 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 498 |
+| 518 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 498 |
 | 532 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,622 | 116 |
 | 532 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 336 |
 | 532 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
