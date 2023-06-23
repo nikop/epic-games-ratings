@@ -6,27 +6,27 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,997 |
-| Into the Unknown | 10.00% | ~58,179 |
-| First Shot | 10.00% | ~58,179 |
-| Herzlich Wilkommen! | 9.00% | ~52,361 |
-| Good Night & Good Luck | 9.00% | ~52,361 |
-| Sancho Panza | 8.00% | ~46,543 |
-| Under Pressure | 7.00% | ~40,725 |
-| On the Trail of the Enemy | 7.00% | ~40,725 |
-| Flag Burning | 7.00% | ~40,725 |
-| Oh, So This Is How It Works! | 7.00% | ~40,725 |
-| Night Hunter | 7.00% | ~40,725 |
-| Light in the Darkness | 6.00% | ~34,907 |
-| Get Outta My House! | 6.00% | ~34,907 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,907 |
-| Being All Social | 6.00% | ~34,907 |
-| Debris and Ashes | 5.00% | ~29,090 |
-| We Will Be Heard! | 5.00% | ~29,090 |
-| Known Associate | 5.00% | ~29,090 |
-| Tunnel Entrance | 5.00% | ~29,090 |
-| After the Fall | 5.00% | ~29,090 |
-| Can't Touch This! | 5.00% | ~29,090 |
+| You Never Forget Your First... | 11.00% | ~63,999 |
+| Into the Unknown | 10.00% | ~58,181 |
+| First Shot | 10.00% | ~58,181 |
+| Herzlich Wilkommen! | 9.00% | ~52,363 |
+| Good Night & Good Luck | 9.00% | ~52,363 |
+| Sancho Panza | 8.00% | ~46,545 |
+| Under Pressure | 7.00% | ~40,727 |
+| On the Trail of the Enemy | 7.00% | ~40,727 |
+| Flag Burning | 7.00% | ~40,727 |
+| Oh, So This Is How It Works! | 7.00% | ~40,727 |
+| Night Hunter | 7.00% | ~40,727 |
+| Light in the Darkness | 6.00% | ~34,909 |
+| Get Outta My House! | 6.00% | ~34,909 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,909 |
+| Being All Social | 6.00% | ~34,909 |
+| Debris and Ashes | 5.00% | ~29,091 |
+| We Will Be Heard! | 5.00% | ~29,091 |
+| Known Associate | 5.00% | ~29,091 |
+| Tunnel Entrance | 5.00% | ~29,091 |
+| After the Fall | 5.00% | ~29,091 |
+| Can't Touch This! | 5.00% | ~29,091 |
 | Brush with Death | 4.00% | ~23,272 |
 | Going Down | 4.00% | ~23,272 |
 | Family First | 4.00% | ~23,272 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,818 |
 | Fit as a Fiddle | 1.00% | ~5,818 |
 | Ironheart | 1.00% | ~5,818 |
-| Nemesis | 1.00% | ~2,272 |
-| Enter the Hall | 1.00% | ~2,272 |
+| Nemesis | 1.00% | ~2,273 |
+| Enter the Hall | 1.00% | ~2,273 |
 | Find Anything Interesting? | 0.80% | ~4,654 |
 | Boot Licker | 0.80% | ~4,654 |
 | Who Wants To Be a... | 0.80% | ~4,654 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581,791 (Ranked 26)  
+Progressed: 581,811 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,17 +136,17 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-20 | 580,637 | 57 |
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
-| 2023-06-23 | 581,791 | 57 |
+| 2023-06-23 | 581,811 | 57 |
 ## Awards
-Max (Character Customization): 7,963  (Ranked 40)  
-Sum: 18,519 (Ranked 56)  
+Max (Character Customization): 7,983  (Ranked 40)  
+Sum: 18,544 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,963 |
+| This game has Inclusive Character Customization | 7,983 |
 | This game has Great Boss Battles | 4,656 |
 | This game is Great for Beginners | 738 |
-| This game is Highly Recommended | 693 |
+| This game is Highly Recommended | 698 |
 | This game has Amazing Characters | 684 |
 | This game has Diverse Characters | 683 |
 | This game is Extremely Fun | 674 |
@@ -320,4 +320,4 @@ Diff (max vs sum): -16
 | 2023-06-20 | 4.58 | - | 7,913 | 18,357 |
 | 2023-06-21 | 4.58 | - | 7,931 | 18,419 |
 | 2023-06-22 | 4.58 | - | 7,963 | 18,493 |
-| 2023-06-23 | 4.58 | - | 7,963 | 18,519 |
+| 2023-06-23 | 4.58 | - | 7,983 | 18,544 |

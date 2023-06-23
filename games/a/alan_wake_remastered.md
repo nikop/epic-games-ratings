@@ -26,10 +26,10 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 10.00% | ~5,602 |
 | Collateral Carnage | 10.00% | ~5,602 |
 | Come One, Come All | 10.00% | ~5,602 |
-| Perchance to Dream | 9.00% | ~5,041 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,041 |
-| Thunder and Lightning | 9.00% | ~5,041 |
-| Two For the Price of One | 9.00% | ~5,041 |
+| Perchance to Dream | 9.00% | ~5,042 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,042 |
+| Thunder and Lightning | 9.00% | ~5,042 |
+| Two For the Price of One | 9.00% | ~5,042 |
 | Gatekeeper | 8.00% | ~4,481 |
 | The Lady of the Light | 8.00% | ~4,481 |
 | Energized! | 8.00% | ~4,481 |
@@ -43,11 +43,11 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,241 |
 | Drink 'Em Both Up | 4.00% | ~2,241 |
 | Hardboiled Writer | 4.00% | ~2,241 |
-| Boob Tube | 3.00% | ~1,680 |
-| If It Flies, It Burns | 3.00% | ~1,680 |
-| KBF-FM | 3.00% | ~1,680 |
-| Kill Your Darlings | 3.00% | ~584 |
-| Heartbreaker | 3.00% | ~584 |
+| Boob Tube | 3.00% | ~1,681 |
+| If It Flies, It Burns | 3.00% | ~1,681 |
+| KBF-FM | 3.00% | ~1,681 |
+| Kill Your Darlings | 3.00% | ~585 |
+| Heartbreaker | 3.00% | ~585 |
 | Medical Opinions | 2.00% | ~1,120 |
 | Taken Season | 2.00% | ~1,120 |
 | Carny | 2.00% | ~1,120 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,015 (Ranked 79)  
+Progressed: 56,017 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
 | 2023-06-22 | 55,969 | 56 |
-| 2023-06-23 | 56,015 | 56 |
+| 2023-06-23 | 56,017 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

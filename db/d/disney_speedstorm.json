@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2834,
+  "EOS_Progressed": 2835,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -2945,6 +2945,11 @@
       "Time": "2023-06-23T16:04:34.0800984+00:00",
       "NumProgressed": 2834,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-06-23T17:05:00.110508+00:00",
+      "NumProgressed": 2835,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 24,
@@ -3044,7 +3049,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "20",
@@ -3060,7 +3065,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "22",
@@ -3068,7 +3073,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "23",
@@ -3092,7 +3097,7 @@
       "Name": "FRIENDLY",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "4",
@@ -3124,7 +3129,7 @@
       "Name": "MASTER",
       "Percentage": 13,
       "XP": 65,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "8",
@@ -3147,13 +3152,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2834,
+      "Progressed": 2835,
       "Completed": 68
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:04:34.0800976+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:05:00.1105076+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.2252783+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:59:00.1548097+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:04:34.0801268+00:00"
+  "LastUpdate_Ratings": "2023-06-23T16:59:44.1402515+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:05:00.1105438+00:00"
 }

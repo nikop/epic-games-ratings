@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1719,
+  "EOS_Progressed": 1720,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 8.55,
   "EosHistory": [
@@ -2973,6 +2973,11 @@
       "Time": "2023-06-23T15:01:33.1354134+00:00",
       "NumProgressed": 1719,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-06-23T17:02:24.2094835+00:00",
+      "NumProgressed": 1720,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 12,
@@ -3008,7 +3013,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Jacques a Dit",
@@ -3024,7 +3029,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Jude",
@@ -3040,7 +3045,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Little Helper",
@@ -3079,7 +3084,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1719,
+      "Progressed": 1720,
       "Completed": 147
     }
   ],
@@ -3087,8 +3092,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:02:15.1487959+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:02:24.209483+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:09.3932229+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:59:30.8812607+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:02:15.1488183+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:00:26.6984779+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:02:24.2095109+00:00"
 }

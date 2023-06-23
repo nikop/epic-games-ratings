@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 138,
@@ -936,9 +936,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3778,
+  "EOS_Progressed": 3779,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4921,6 +4921,11 @@
       "Time": "2023-06-23T16:03:36.4995899+00:00",
       "NumProgressed": 3778,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-23T17:03:54.7372438+00:00",
+      "NumProgressed": 3779,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4940,7 +4945,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -4988,7 +4993,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5004,7 +5009,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5028,7 +5033,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5092,7 +5097,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5188,7 +5193,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5236,7 +5241,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5251,15 +5256,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3778,
+      "Progressed": 3779,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-23T16:00:05.5042402+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:03:36.4995893+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:03:54.7372435+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:42.1559682+00:00",
-  "LastUpdate_Ratings": "2023-06-23T16:00:05.5042406+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:03:36.4996332+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:01:15.4502168+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:03:54.7372979+00:00"
 }

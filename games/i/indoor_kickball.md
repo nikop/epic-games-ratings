@@ -8,9 +8,9 @@
 | Accessory Unlocked | 80.00% | ~40 |
 | Character Unlocked | 78.00% | ~39 |
 | Homer | 64.00% | ~32 |
+| Have a good trip! | 62.00% | ~31 |
 | First Win | 60.00% | ~30 |
 | Kickball Unlocked | 60.00% | ~30 |
-| Have a good trip! | 60.00% | ~30 |
 | Settle Down | 56.00% | ~28 |
 | Butter Fingers | 54.00% | ~27 |
 | Stay Hydrated | 54.00% | ~27 |
@@ -19,10 +19,10 @@
 | Bedroom Secret Spot | 26.00% | ~13 |
 | Kick It | 24.00% | ~12 |
 | Have Mercy | 24.00% | ~12 |
+| Save some water for the fishies | 18.00% | ~9 |
 | Spooky | 18.00% | ~9 |
-| Save some water for the fishies | 16.00% | ~8 |
 | Bathroom Secret Spot | 16.00% | ~8 |
-| Classroom Secret Spot | 10.00% | ~5 |
+| Classroom Secret Spot | 12.00% | ~6 |
 | Living Room Secret Spot | 10.00% | ~5 |
 | At least everyone still had fun | 10.00% | ~5 |
 | Angry Dad | 8.00% | ~4 |
@@ -34,18 +34,18 @@
 | Attic Secret Spot | 2.00% | ~1 |
 | Garage Secret Spot | 2.00% | ~1 |
 | You broke it, you bought it | 2.00% | ~1 |
+| Hi Hungry, I'm Dad | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |
 | Angry Mom | 2.00% | ~1 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
-| Hi Hungry, I'm Dad | 0.00% | ~0 |
 | Nice! | 0.00% | ~0 |
 | Not wide right this time | 0.00% | ~0 |
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 322)  
+Progressed: 50 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

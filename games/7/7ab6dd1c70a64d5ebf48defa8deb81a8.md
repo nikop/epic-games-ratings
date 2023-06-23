@@ -3,7 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 0.00% | ~0 |
+| Break out | 50.00% | ~1 |
+| Tributes of Caladrias | 50.00% | ~1 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
 | Monsalar: Wildlands | 0.00% | ~0 |
@@ -17,7 +18,6 @@
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter them all | 0.00% | ~0 |

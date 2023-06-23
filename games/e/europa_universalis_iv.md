@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,392 |
-| That's a Grand Army | 8.00% | ~4,792 |
-| That is mine! | 8.00% | ~4,792 |
-| Victorious! | 8.00% | ~4,792 |
-| Brothers in Arms | 6.00% | ~3,594 |
-| That's a Grand Navy | 6.00% | ~3,594 |
-| Seriously?! | 6.00% | ~3,594 |
-| For the Glory | 5.00% | ~2,995 |
-| Cold War | 4.00% | ~2,396 |
-| True Catholic | 4.00% | ~2,396 |
-| Defender of the Faith | 3.00% | ~1,797 |
-| It's all about the money | 3.00% | ~1,797 |
-| Respected | 3.00% | ~1,797 |
-| Truly Divine Ruler | 3.00% | ~1,797 |
-| Agressive Expander | 2.00% | ~1,198 |
-| Blockader | 2.00% | ~1,198 |
-| Combined Arms | 2.00% | ~1,198 |
-| Double the Love | 2.00% | ~1,198 |
-| Gentle Persuasion | 2.00% | ~1,198 |
-| It's all about luck | 2.00% | ~1,198 |
-| My armies are invincible! | 2.00% | ~1,198 |
-| Queen of Conquest | 2.00% | ~1,198 |
-| Royal Authority | 2.00% | ~1,198 |
-| The Princess is in this Castle | 2.00% | ~1,198 |
-| Total Control | 2.00% | ~1,198 |
+| Until death do us apart | 9.00% | ~5,394 |
+| That's a Grand Army | 8.00% | ~4,794 |
+| That is mine! | 8.00% | ~4,794 |
+| Victorious! | 8.00% | ~4,794 |
+| Brothers in Arms | 6.00% | ~3,596 |
+| That's a Grand Navy | 6.00% | ~3,596 |
+| Seriously?! | 6.00% | ~3,596 |
+| For the Glory | 5.00% | ~2,997 |
+| Cold War | 4.00% | ~2,397 |
+| True Catholic | 4.00% | ~2,397 |
+| Defender of the Faith | 3.00% | ~1,798 |
+| It's all about the money | 3.00% | ~1,798 |
+| Respected | 3.00% | ~1,798 |
+| Truly Divine Ruler | 3.00% | ~1,798 |
+| Agressive Expander | 2.00% | ~1,199 |
+| Blockader | 2.00% | ~1,199 |
+| Combined Arms | 2.00% | ~1,199 |
+| Double the Love | 2.00% | ~1,199 |
+| Gentle Persuasion | 2.00% | ~1,199 |
+| It's all about luck | 2.00% | ~1,199 |
+| My armies are invincible! | 2.00% | ~1,199 |
+| Queen of Conquest | 2.00% | ~1,199 |
+| Royal Authority | 2.00% | ~1,199 |
+| The Princess is in this Castle | 2.00% | ~1,199 |
+| Total Control | 2.00% | ~1,199 |
 | All That's Thine Shall Be Mine | 1.00% | ~599 |
 | Azur semé de lis or | 1.00% | ~599 |
 | Bright Spark | 1.00% | ~599 |
@@ -44,12 +44,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~539 |
 | Down Under | 0.80% | ~479 |
 | Trustworthy | 0.80% | ~479 |
-| Electable! | 0.70% | ~419 |
-| All belongs to Mother Russia | 0.60% | ~359 |
-| At every continent | 0.60% | ~359 |
-| Early-Modern Warfare | 0.60% | ~359 |
-| Populists in Government | 0.60% | ~359 |
-| Time Bandit | 0.60% | ~359 |
+| Electable! | 0.70% | ~420 |
+| All belongs to Mother Russia | 0.60% | ~360 |
+| At every continent | 0.60% | ~360 |
+| Early-Modern Warfare | 0.60% | ~360 |
+| Populists in Government | 0.60% | ~360 |
+| Time Bandit | 0.60% | ~360 |
 | One Family to Rule them All | 0.50% | ~300 |
 | Ruina Imperii | 0.50% | ~300 |
 | The pen is mightier than the sword | 0.50% | ~300 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,906 (Ranked 77)  
+Progressed: 59,931 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
-| 2023-06-23 | 59,906 | 0 |
+| 2023-06-23 | 59,931 | 0 |
 ## Awards
 Max (Educational): 5,439  (Ranked 61)  
 Sum: 44,947 (Ranked 27)  

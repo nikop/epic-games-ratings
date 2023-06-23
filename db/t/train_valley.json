@@ -416,9 +416,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "20_sabotage",
@@ -592,8 +592,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:05:06.24138+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:05:44.3338027+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9004309+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:57:48.5773046+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:05:06.2414054+00:00"
+  "LastUpdate_Ratings": "2023-06-23T16:58:05.9043586+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:05:44.3338358+00:00"
 }

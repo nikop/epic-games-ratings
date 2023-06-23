@@ -1,12 +1,12 @@
 # Crysis Remastered
 [Store](https://store.epicgames.com/en-US/p/crysis-remastered)  
 [View Rawdata](../../db/c/crysis_remastered.json)  
-Rating: 4.40 (Ranked 686)  
+Rating: 4.40 (Ranked 685)  
 Number of Ratings: 697  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 246  (Ranked 245)  
-Sum: 268 (Ranked 339)  
-Diff (max vs sum): -94  
+Sum: 268 (Ranked 340)  
+Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 246 |

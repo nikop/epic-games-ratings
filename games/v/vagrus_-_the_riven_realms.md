@@ -14,9 +14,9 @@
 | Breached | 5.00% | ~6 |
 | Fight Another Day | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
+| Acquaintance | 4.00% | ~4 |
 | Taskmaster | 4.00% | ~4 |
 | Scholar | 3.00% | ~3 |
-| Acquaintance | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
 | The More the Merrier | 2.00% | ~2 |
 | Harbinger | 2.00% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3438,
+  "EOS_Progressed": 3439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -568,6 +568,11 @@
       "Time": "2023-06-23T13:23:22.5939314+00:00",
       "NumProgressed": 3438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T17:07:15.2831381+00:00",
+      "NumProgressed": 3439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -683,7 +688,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -699,7 +704,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -723,7 +728,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -779,14 +784,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3438,
+      "Progressed": 3439,
       "Completed": 0
     }
   ],
@@ -794,8 +799,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:06:06.5631972+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:07:15.2831378+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.5639476+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:59:25.7605679+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:06:06.5632135+00:00"
+  "LastUpdate_Ratings": "2023-06-23T17:00:19.9831048+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:07:15.2831557+00:00"
 }

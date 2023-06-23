@@ -33,8 +33,8 @@ Rating: 4.31 (Ranked 766)
 | Socializer | 26.00% | ~347 |
 | Country Life | 25.00% | ~334 |
 | General Manager | 24.00% | ~320 |
+| Hostile Takeover | 24.00% | ~320 |
 | Seven at one stroke | 23.00% | ~307 |
-| Hostile Takeover | 23.00% | ~307 |
 | Trailblazer | 19.00% | ~253 |
 | Breaking Ground | 18.00% | ~240 |
 | Traffic Jam | 17.00% | ~227 |

@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,473 (Ranked 153)  
+Progressed: 2,474 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-19 | 2,462 | 0 |
 | 2023-06-20 | 2,467 | 0 |
 | 2023-06-21 | 2,471 | 0 |
-| 2023-06-23 | 2,473 | 0 |
+| 2023-06-23 | 2,474 | 0 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 398)  
 Sum: 425 (Ranked 302)  

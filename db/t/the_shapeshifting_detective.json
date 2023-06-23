@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -172,6 +172,11 @@
       "Time": "2023-06-23T15:02:33.6887615+00:00",
       "NumProgressed": 184,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T17:03:18.4716221+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -223,7 +228,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "heavy_rayne",
@@ -245,9 +250,9 @@
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "oscar_winning_performance",
@@ -261,9 +266,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "play_it_again_sam",
@@ -271,7 +276,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "play_me_by_the_hour",
@@ -279,7 +284,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "poetent",
@@ -311,7 +316,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "the_big_sleep",
@@ -325,9 +330,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "voyeur",
@@ -350,7 +355,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 2
     }
   ],
@@ -358,8 +363,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:03:11.008215+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:03:18.4716217+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:24.2046437+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:58:47.2841647+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:03:11.0082283+00:00"
+  "LastUpdate_Ratings": "2023-06-23T16:59:26.3197638+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:03:18.471637+00:00"
 }

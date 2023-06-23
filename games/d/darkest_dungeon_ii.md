@@ -1,58 +1,58 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~98,852 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~74,404 |
-| A Clear Conscience | 69.00% | ~73,341 |
-| Unleash Hell | 68.00% | ~72,279 |
-| Unfulfilled Desires | 68.00% | ~72,279 |
-| Funny Guy | 67.00% | ~71,216 |
-| Unshackled | 67.00% | ~71,216 |
-| Long Live the King | 66.00% | ~70,153 |
-| Resurrection | 62.00% | ~65,901 |
-| Wyrdly Reconstructed | 62.00% | ~65,901 |
-| Boxcar Kid | 60.00% | ~63,775 |
-| To Grandmother's House | 60.00% | ~63,775 |
-| Rush Hour | 59.00% | ~62,712 |
-| Serenity Now! | 51.00% | ~54,209 |
-| Hope Rekindled | 50.00% | ~53,146 |
-| Ramble On | 47.00% | ~49,957 |
-| Nope | 46.00% | ~48,894 |
-| This Looks Familiar | 37.00% | ~39,328 |
-| Hot Air | 36.00% | ~38,265 |
-| Now Stay Dead | 35.00% | ~37,202 |
-| Harvest Festival | 35.00% | ~37,202 |
-| Merry Time | 34.00% | ~36,139 |
-| Creep and Sleep | 32.00% | ~34,013 |
-| Overdue Notice | 30.00% | ~31,888 |
-| Whale | 30.00% | ~31,888 |
-| Banishment | 29.00% | ~30,825 |
-| FNG | 28.00% | ~29,762 |
-| Autodidact | 23.00% | ~24,447 |
-| Predator | 22.00% | ~23,384 |
-| Reverse Banditry | 22.00% | ~23,384 |
-| Meat and Greet | 21.00% | ~22,321 |
-| Spelunker | 20.00% | ~21,258 |
-| Eyes Up | 20.00% | ~21,258 |
-| Road Trip | 20.00% | ~21,258 |
-| It Rings a Bell | 18.00% | ~19,133 |
-| Escape from the Black Hole | 17.00% | ~18,070 |
-| It Happens | 16.00% | ~17,007 |
-| This Belongs in a Museum | 15.00% | ~15,944 |
-| Dissector | 14.00% | ~14,881 |
-| Handled | 14.00% | ~14,881 |
-| Catch and Decease | 13.00% | ~13,818 |
-| Not Today! | 12.00% | ~12,755 |
-| Deprogramming | 11.00% | ~11,692 |
-| Shrine of Reflection | 11.00% | ~11,692 |
-| When You Want Something Done Right | 10.00% | ~10,629 |
-| Body of Work | 8.00% | ~8,503 |
-| Utopia | 7.00% | ~7,440 |
+| A Place to Lay Your Head | 93.00% | ~98,862 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~74,412 |
+| A Clear Conscience | 69.00% | ~73,349 |
+| Unleash Hell | 68.00% | ~72,286 |
+| Unfulfilled Desires | 68.00% | ~72,286 |
+| Funny Guy | 67.00% | ~71,223 |
+| Unshackled | 67.00% | ~71,223 |
+| Long Live the King | 66.00% | ~70,160 |
+| Resurrection | 62.00% | ~65,908 |
+| Wyrdly Reconstructed | 62.00% | ~65,908 |
+| Boxcar Kid | 60.00% | ~63,782 |
+| To Grandmother's House | 60.00% | ~63,782 |
+| Rush Hour | 59.00% | ~62,719 |
+| Serenity Now! | 51.00% | ~54,215 |
+| Hope Rekindled | 50.00% | ~53,152 |
+| Ramble On | 47.00% | ~49,962 |
+| Nope | 46.00% | ~48,899 |
+| This Looks Familiar | 37.00% | ~39,332 |
+| Hot Air | 36.00% | ~38,269 |
+| Now Stay Dead | 35.00% | ~37,206 |
+| Harvest Festival | 35.00% | ~37,206 |
+| Merry Time | 34.00% | ~36,143 |
+| Creep and Sleep | 32.00% | ~34,017 |
+| Overdue Notice | 30.00% | ~31,891 |
+| Whale | 30.00% | ~31,891 |
+| Banishment | 29.00% | ~30,828 |
+| FNG | 28.00% | ~29,765 |
+| Autodidact | 23.00% | ~24,450 |
+| Predator | 22.00% | ~23,387 |
+| Reverse Banditry | 22.00% | ~23,387 |
+| Meat and Greet | 21.00% | ~22,324 |
+| Spelunker | 20.00% | ~21,261 |
+| Eyes Up | 20.00% | ~21,261 |
+| Road Trip | 20.00% | ~21,261 |
+| It Rings a Bell | 18.00% | ~19,135 |
+| Escape from the Black Hole | 17.00% | ~18,072 |
+| It Happens | 16.00% | ~17,008 |
+| This Belongs in a Museum | 15.00% | ~15,945 |
+| Dissector | 14.00% | ~14,882 |
+| Handled | 14.00% | ~14,882 |
+| Catch and Decease | 13.00% | ~13,819 |
+| Not Today! | 12.00% | ~12,756 |
+| Deprogramming | 11.00% | ~11,693 |
+| Shrine of Reflection | 11.00% | ~11,693 |
+| When You Want Something Done Right | 10.00% | ~10,630 |
+| Body of Work | 8.00% | ~8,504 |
+| Utopia | 7.00% | ~7,441 |
 | Hat Trick | 6.00% | ~6,378 |
 | Ichthyophobic | 4.00% | ~4,252 |
 | No More Mouths to Feed | 4.00% | ~4,252 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~106 |
 | Hard Mode | 0.10% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106,292 (Ranked 63)  
+Progressed: 106,303 (Ranked 63)  
 Completed: 1 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,16 +126,16 @@ Completed: 1 (0.00%) (Ranked 230)
 | 2023-06-20 | 105,711 | 1 |
 | 2023-06-21 | 105,928 | 1 |
 | 2023-06-22 | 106,159 | 1 |
-| 2023-06-23 | 106,292 | 1 |
+| 2023-06-23 | 106,303 | 1 |
 ## Awards
 Max (Character Customization): 7,201  (Ranked 47)  
-Sum: 18,598 (Ranked 55)  
+Sum: 18,599 (Ranked 55)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,201 |
 | This game has Diverse Characters | 1,455 |
-| This game has Challenging Combat | 1,405 |
+| This game has Challenging Combat | 1,406 |
 | This game is Highly Recommended | 1,367 |
 | This game has Amazing Characters | 1,319 |
 | This game is Extremely Fun | 1,314 |
@@ -296,4 +296,4 @@ Diff (max vs sum): -8
 | 2023-06-20 | 4.68 | - | 7,193 | 18,564 |
 | 2023-06-21 | 4.68 | - | 7,199 | 18,584 |
 | 2023-06-22 | 4.68 | - | 7,201 | 18,591 |
-| 2023-06-23 | 4.68 | - | 7,201 | 18,598 |
+| 2023-06-23 | 4.68 | - | 7,201 | 18,599 |

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224,
+  "EOS_Progressed": 225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -377,6 +377,11 @@
       "Time": "2023-06-22T02:19:13.803784+00:00",
       "NumProgressed": 224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T17:07:31.5855065+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -396,7 +401,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_apartments_1",
@@ -412,15 +417,15 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_area_1",
@@ -476,7 +481,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_campaigns_1",
@@ -530,9 +535,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_consultants_a",
@@ -596,7 +601,7 @@
       "Name": "Proper Walls",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_drones",
@@ -692,7 +697,7 @@
       "Name": "Starting Skyward",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_floors_1",
@@ -700,7 +705,7 @@
       "Name": "Careful Constructor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_floors_2",
@@ -716,15 +721,15 @@
       "Name": "Water Features",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_grime_1",
@@ -746,9 +751,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_loan",
@@ -844,7 +849,7 @@
       "Name": "Sky High Stature",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_profit_0",
@@ -858,9 +863,9 @@
       "ID": "ach_profit_1",
       "SetID": "b8gh1fi",
       "Name": "Swimming in Surplus",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_profit_2",
@@ -932,7 +937,7 @@
       "Name": "Retail Revenue",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_retail_2",
@@ -1036,7 +1041,7 @@
       "Name": "Tuned In",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_util_gas",
@@ -1044,7 +1049,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_util_phone",
@@ -1076,7 +1081,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_visitors_1",
@@ -1084,14 +1089,14 @@
       "Name": "Destination Destiny",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 224,
+      "Progressed": 225,
       "Completed": 0
     }
   ],
@@ -1099,8 +1104,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:06:19.8525776+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:07:31.5855061+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:47.7118249+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:58:11.4612011+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:06:19.8526592+00:00"
+  "LastUpdate_Ratings": "2023-06-23T16:58:36.2080893+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:07:31.5856051+00:00"
 }

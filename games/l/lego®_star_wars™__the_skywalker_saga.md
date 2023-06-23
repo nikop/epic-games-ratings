@@ -6,14 +6,14 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,198 |
-| ''I don't like you either!'' | 79.00% | ~39,254 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,776 |
-| ''Impressive, most impressive'' | 71.00% | ~35,279 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,199 |
+| ''I don't like you either!'' | 79.00% | ~39,255 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,777 |
+| ''Impressive, most impressive'' | 71.00% | ~35,280 |
 | The Phantom Menace | 59.00% | ~29,317 |
 | ''Aggressive Negotiations'' | 58.00% | ~28,820 |
 | ''I can fly anything'' | 57.00% | ~28,323 |
-| ''And who gave you permission...?'' | 53.00% | ~26,335 |
+| ''And who gave you permission...?'' | 53.00% | ~26,336 |
 | A New Hope | 47.00% | ~23,354 |
 | Attack of the Clones | 46.00% | ~22,857 |
 | Revenge of the Sith | 40.00% | ~19,876 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~497 |
 | ''I've never seen a real one!'' | 0.80% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,689 (Ranked 82)  
+Progressed: 49,690 (Ranked 82)  
 Completed: 194 (0.39%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,11 +116,11 @@ Completed: 194 (0.39%) (Ranked 131)
 | 2023-06-20 | 49,660 | 193 |
 | 2023-06-21 | 49,673 | 193 |
 | 2023-06-22 | 49,683 | 194 |
-| 2023-06-23 | 49,689 | 194 |
+| 2023-06-23 | 49,690 | 194 |
 ## Awards
 Max (Great Boss Battles): 2,322  (Ranked 101)  
-Sum: 6,436 (Ranked 113)  
-Diff (max vs sum): -12  
+Sum: 6,436 (Ranked 114)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,322 |

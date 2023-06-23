@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56015,
+  "EOS_Progressed": 56017,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5852,6 +5852,11 @@
       "Time": "2023-06-23T16:02:17.7553819+00:00",
       "NumProgressed": 56015,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-23T17:02:27.1735313+00:00",
+      "NumProgressed": 56017,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5887,7 +5892,7 @@
       "Name": "Boob Tube",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "05",
@@ -5951,7 +5956,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "13",
@@ -6015,7 +6020,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "21",
@@ -6047,7 +6052,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "25",
@@ -6063,7 +6068,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "27",
@@ -6095,7 +6100,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "31",
@@ -6239,7 +6244,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "49",
@@ -6335,7 +6340,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "61",
@@ -6391,28 +6396,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56015,
+      "Progressed": 56017,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19483,
+      "Progressed": 19485,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-23T16:02:17.7553814+00:00",
+  "LastChanged_Achievements": "2023-06-23T17:02:27.1735304+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-23T15:57:49.2282068+00:00",
-  "LastUpdate_Achievements": "2023-06-23T16:02:17.7554575+00:00"
+  "LastUpdate_Ratings": "2023-06-23T16:58:07.1056386+00:00",
+  "LastUpdate_Achievements": "2023-06-23T17:02:27.1736314+00:00"
 }
