@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Avoid It](games/f/fc26bb604bcb4130bc0798c8d9ef95b1.md) | 2023-06-23 | - |  | - | - |
 | [The Silent City Chapter 1](games/9/910c2c0f214946c893429b050c486468.md) | 2023-06-23 | - |  | - | - |
 | [Vectoroids](games/e/e77f3dc66a514c68bd525d8f418c1be2.md) | 2023-06-23 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
