@@ -5,13 +5,13 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,381 |
-| World Map | 80.00% | ~1,175 |
-| Temple of Eternals | 57.00% | ~837 |
-| Prestigious | 54.00% | ~793 |
-| Fellowship Power | 41.00% | ~602 |
+| Victor | 94.00% | ~1,382 |
+| World Map | 80.00% | ~1,176 |
+| Temple of Eternals | 57.00% | ~838 |
+| Prestigious | 54.00% | ~794 |
+| Fellowship Power | 41.00% | ~603 |
 | Guild Power | 24.00% | ~353 |
-| Prestigious x10 | 21.00% | ~308 |
+| Prestigious x10 | 21.00% | ~309 |
 | The game is on | 19.00% | ~279 |
 | Exotic Merchant | 17.00% | ~250 |
 | Dragon Clicker | 16.00% | ~235 |
@@ -44,11 +44,11 @@ Rating: 4.07 (Ranked 894)
 | The Expeditioner | 6.00% | ~88 |
 | The father of Dragons | 6.00% | ~88 |
 | Trader | 6.00% | ~88 |
-| Ancient Knowledge | 5.00% | ~73 |
-| Enchanting skill | 5.00% | ~73 |
-| How Do You Turn This On? | 5.00% | ~73 |
-| Missions Dedication | 5.00% | ~73 |
-| Weekly Quest Completionist | 5.00% | ~73 |
+| Ancient Knowledge | 5.00% | ~74 |
+| Enchanting skill | 5.00% | ~74 |
+| How Do You Turn This On? | 5.00% | ~74 |
+| Missions Dedication | 5.00% | ~74 |
+| Weekly Quest Completionist | 5.00% | ~74 |
 | Background Story | 4.00% | ~59 |
 | Crystal Mining | 4.00% | ~59 |
 | Dragon Slayer | 4.00% | ~59 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,469 (Ranked 166)  
+Progressed: 1,470 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 1 (0.07%) (Ranked 186)
 | 2023-06-20 | 1,452 | 1 |
 | 2023-06-21 | 1,458 | 1 |
 | 2023-06-22 | 1,469 | 1 |
+| 2023-06-23 | 1,470 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

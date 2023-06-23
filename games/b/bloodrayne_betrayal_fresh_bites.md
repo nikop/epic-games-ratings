@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 90.00% | ~47 |
+| Finish Him | 92.00% | ~48 |
 | Just a Taste | 81.00% | ~42 |
-| Strange Skulls | 60.00% | ~31 |
+| Strange Skulls | 62.00% | ~32 |
 | Treasure Hunter | 56.00% | ~29 |
-| Crab Cakes | 46.00% | ~24 |
+| Crab Cakes | 48.00% | ~25 |
 | Personally Punched | 27.00% | ~14 |
 | Flight of the Raven | 25.00% | ~13 |
 | Drop In | 21.00% | ~11 |

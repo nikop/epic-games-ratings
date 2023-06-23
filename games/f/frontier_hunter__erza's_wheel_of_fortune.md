@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Training Simulation | 91.00% | ~31 |
-| Travel Streamer | 88.00% | ~30 |
-| Kuku Bird Hunter | 85.00% | ~29 |
-| Wolf King Killer | 82.00% | ~28 |
-| Arms Mechanic | 76.00% | ~26 |
-| Fashion Connoisseur | 76.00% | ~26 |
-| Storm Traveller | 76.00% | ~26 |
-| Beginner Artificer | 68.00% | ~23 |
-| Flower Thief | 68.00% | ~23 |
-| Apostle of Flame | 68.00% | ~23 |
-| Beginner Cook | 65.00% | ~22 |
-| Seal Breaker | 62.00% | ~21 |
-| Giant Lizard Killer | 56.00% | ~19 |
-| Handyman | 56.00% | ~19 |
-| Nosebleeder | 53.00% | ~18 |
-| Trader | 53.00% | ~18 |
-| Weapon Boost | 53.00% | ~18 |
-| Guardian | 50.00% | ~17 |
-| Youth Magnet | 47.00% | ~16 |
-| Furious Scorpion Killer | 47.00% | ~16 |
-| Flying Kobold Killer | 44.00% | ~15 |
-| Lethal Blade Mantis Killer | 44.00% | ~15 |
-| Squeaky Clean | 44.00% | ~15 |
-| Kind Adventurer | 44.00% | ~15 |
-| Master Artificer | 44.00% | ~15 |
-| Mermaid Killer | 41.00% | ~14 |
-| Cave Master | 38.00% | ~13 |
-| Face Slapper | 38.00% | ~13 |
-| Master Cook | 32.00% | ~11 |
+| Training Simulation | 91.00% | ~32 |
+| Travel Streamer | 89.00% | ~31 |
+| Kuku Bird Hunter | 86.00% | ~30 |
+| Wolf King Killer | 83.00% | ~29 |
+| Arms Mechanic | 77.00% | ~27 |
+| Fashion Connoisseur | 77.00% | ~27 |
+| Storm Traveller | 77.00% | ~27 |
+| Beginner Artificer | 69.00% | ~24 |
+| Flower Thief | 69.00% | ~24 |
+| Apostle of Flame | 69.00% | ~24 |
+| Beginner Cook | 66.00% | ~23 |
+| Seal Breaker | 63.00% | ~22 |
+| Giant Lizard Killer | 57.00% | ~20 |
+| Handyman | 57.00% | ~20 |
+| Nosebleeder | 54.00% | ~19 |
+| Trader | 54.00% | ~19 |
+| Weapon Boost | 54.00% | ~19 |
+| Guardian | 51.00% | ~18 |
+| Youth Magnet | 49.00% | ~17 |
+| Furious Scorpion Killer | 49.00% | ~17 |
+| Flying Kobold Killer | 46.00% | ~16 |
+| Lethal Blade Mantis Killer | 46.00% | ~16 |
+| Squeaky Clean | 46.00% | ~16 |
+| Kind Adventurer | 46.00% | ~16 |
+| Mermaid Killer | 43.00% | ~15 |
+| Master Artificer | 43.00% | ~15 |
+| Cave Master | 40.00% | ~14 |
+| Face Slapper | 40.00% | ~14 |
+| Master Cook | 34.00% | ~12 |
 | Berserker Slayer | 26.00% | ~9 |
 | Warden Slayer | 26.00% | ~9 |
-| Giantess Slayer | 24.00% | ~8 |
-| Boss challenge | 21.00% | ~7 |
+| Giantess Slayer | 23.00% | ~8 |
+| Boss challenge | 20.00% | ~7 |
 | Big Face Goalkeeper Challenge | 9.00% | ~3 |
 | Blade Mantis Challenge | 6.00% | ~2 |
 | Giant Claw Spider Challenge | 6.00% | ~2 |
@@ -44,13 +44,13 @@
 | Berserker Challenge | 6.00% | ~2 |
 | Giantess Challenge | 6.00% | ~2 |
 | Warden Challenge | 6.00% | ~2 |
+| Rebellious | 3.00% | ~1 |
 | Flying Kobold Challenge | 3.00% | ~1 |
 | Furious Scorpion Challenge | 3.00% | ~1 |
 | Silver Moon Wolf King Challenge | 3.00% | ~1 |
 | Giant Lizard Challenge | 3.00% | ~1 |
-| Rebellious | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 342)  
+Progressed: 35 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-18 | 32 | 0 |
 | 2023-06-20 | 33 | 0 |
 | 2023-06-22 | 34 | 0 |
+| 2023-06-23 | 35 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

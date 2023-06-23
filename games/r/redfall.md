@@ -10,7 +10,7 @@ Rating: 3.51 (Ranked 945)
 | Ne Plus Ultra | 60.00% | ~1,017 |
 | Wounded Whispers | 60.00% | ~1,017 |
 | Blood Will Have Blood | 50.00% | ~848 |
-| ICU | 45.00% | ~763 |
+| ICU | 46.00% | ~780 |
 | Peek-a-boo | 44.00% | ~746 |
 | Catch and Release | 44.00% | ~746 |
 | Sucks To Be You | 42.00% | ~712 |

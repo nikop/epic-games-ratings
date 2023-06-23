@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 65.00% | ~15 |
-| Do a barrel roll! | 48.00% | ~11 |
-| Huh? What was that? | 30.00% | ~7 |
-| Whatever it is, fix it! | 26.00% | ~6 |
-| Priceless company | 26.00% | ~6 |
-| The opposite of good news | 22.00% | ~5 |
-| My Emperor... I've failed you! | 13.00% | ~3 |
-| Enemy shield analyzed | 9.00% | ~2 |
+| All systems go | 67.00% | ~16 |
+| Do a barrel roll! | 50.00% | ~12 |
+| Huh? What was that? | 33.00% | ~8 |
+| Whatever it is, fix it! | 29.00% | ~7 |
+| Priceless company | 29.00% | ~7 |
+| The opposite of good news | 25.00% | ~6 |
+| My Emperor... I've failed you! | 21.00% | ~5 |
+| Enemy shield analyzed | 8.00% | ~2 |
 | Piece of cake | 4.00% | ~1 |
+| I'm ready, anytime | 4.00% | ~1 |
 | No need to say goodbye | 4.00% | ~1 |
 | Better hurry up | 0.00% | ~0 |
 | I call her the BF-Worm | 0.00% | ~0 |
 | Axel? | 0.00% | ~0 |
 | You won't escape that easy!! | 0.00% | ~0 |
 | See you on the other side | 0.00% | ~0 |
-| I'm ready, anytime | 0.00% | ~0 |
 | Actually it's called aileron roll | 0.00% | ~0 |
 | I have a bad feeling about this | 0.00% | ~0 |
 | Any other day at work | 0.00% | ~0 |
@@ -29,7 +29,7 @@
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 355)  
+Progressed: 24 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,3 +53,4 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-05-26 | 19 | 0 |
 | 2023-06-10 | 20 | 0 |
 | 2023-06-22 | 23 | 0 |
+| 2023-06-23 | 24 | 0 |

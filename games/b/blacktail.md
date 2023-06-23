@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~127 |
+| Tooth fairy | 25.00% | ~128 |
 | Dental maturity | 19.00% | ~97 |
 | Devil's in the details | 13.00% | ~66 |
 | Uprooting | 12.00% | ~61 |
@@ -14,8 +14,8 @@ Rating: 4.68 (Ranked 240)
 | Devoted | 8.00% | ~41 |
 | Gold rush | 7.00% | ~36 |
 | Spirit animal | 6.00% | ~31 |
-| Sneak peek | 5.00% | ~25 |
-| A friend in need... | 5.00% | ~25 |
+| Sneak peek | 5.00% | ~26 |
+| A friend in need... | 5.00% | ~26 |
 | Favorite | 4.00% | ~20 |
 | Fishing fanatic | 4.00% | ~20 |
 | The word around is... | 4.00% | ~20 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 240)
 | Mushrooming enthusiast | 0.40% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 207)  
+Progressed: 510 (Ranked 207)  
 Completed: 1 (0.20%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.20%) (Ranked 157)
 | 2023-06-20 | 505 | 1 |
 | 2023-06-21 | 508 | 1 |
 | 2023-06-22 | 509 | 1 |
+| 2023-06-23 | 510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

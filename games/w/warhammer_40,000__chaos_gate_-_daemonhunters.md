@@ -6,14 +6,14 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 38.00% | ~1,107 |
-| Look Over There! | 32.00% | ~932 |
-| Watch Where You Step... | 32.00% | ~932 |
-| Not So Fast... | 31.00% | ~903 |
+| Executioner | 38.00% | ~1,108 |
+| Look Over There! | 32.00% | ~933 |
+| Watch Where You Step... | 32.00% | ~933 |
+| Not So Fast... | 31.00% | ~904 |
 | An Ill Omen | 30.00% | ~874 |
-| Purging Spree | 24.00% | ~699 |
+| Purging Spree | 24.00% | ~700 |
 | Blood for the Blood God! | 18.00% | ~525 |
-| Friendly Fire | 17.00% | ~495 |
+| Friendly Fire | 17.00% | ~496 |
 | Surgical Excision | 16.00% | ~466 |
 | Bloodless | 16.00% | ~466 |
 | Honoured Battle-Brother | 12.00% | ~350 |
@@ -27,9 +27,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 6.00% | ~175 |
 | A Gift Spurned | 5.00% | ~146 |
 | Daemonkeeper | 4.00% | ~117 |
-| Mind Like a Fortress | 4.00% | ~117 |
 | Long Distance Call | 4.00% | ~117 |
 | Corruption Cleanser | 3.00% | ~87 |
+| Mind Like a Fortress | 3.00% | ~87 |
 | Harvest No More | 3.00% | ~87 |
 | Junk Banishment | 3.00% | ~87 |
 | Tactical Flexibility | 3.00% | ~87 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,914 (Ranked 148)  
+Progressed: 2,915 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-20 | 2,911 | 0 |
 | 2023-06-21 | 2,913 | 0 |
 | 2023-06-22 | 2,914 | 0 |
+| 2023-06-23 | 2,915 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 259)  
 Sum: 425 (Ranked 301)  

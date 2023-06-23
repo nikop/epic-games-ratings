@@ -12,19 +12,19 @@ Rating: 4.89 (Ranked 13)
 | Cream of the Crop | 62.00% | ~2,057 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,057 |
 | You got this, Peppermint? | 56.00% | ~1,858 |
-| Perfect Parry | 54.00% | ~1,791 |
-| Alright, that felt AWESOME! | 54.00% | ~1,791 |
-| I play my own way! | 49.00% | ~1,625 |
+| Perfect Parry | 54.00% | ~1,792 |
+| Alright, that felt AWESOME! | 54.00% | ~1,792 |
+| I play my own way! | 49.00% | ~1,626 |
 | This will cost you big time | 47.00% | ~1,559 |
 | Uh, they were broken when I got here | 46.00% | ~1,526 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,493 |
-| Kissing the sky! | 44.00% | ~1,459 |
+| Kissing the sky! | 44.00% | ~1,460 |
 | Does that say weakpoint? | 41.00% | ~1,360 |
-| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,294 |
-| The Negotiator | 38.00% | ~1,260 |
+| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,327 |
+| The Negotiator | 38.00% | ~1,261 |
 | You must like calling me in, Chai | 33.00% | ~1,095 |
 | Out in a puff of smoke | 33.00% | ~1,095 |
-| Headliner | 32.00% | ~1,061 |
+| Headliner | 32.00% | ~1,062 |
 | Time to pay up! | 30.00% | ~995 |
 | Perfecter Parry-er! | 29.00% | ~962 |
 | Who's the boss now? | 28.00% | ~929 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,317 (Ranked 143)  
+Progressed: 3,318 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 5 (0.15%) (Ranked 164)
 | 2023-06-20 | 3,292 | 5 |
 | 2023-06-21 | 3,303 | 5 |
 | 2023-06-22 | 3,317 | 5 |
+| 2023-06-23 | 3,318 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

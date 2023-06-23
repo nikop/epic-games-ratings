@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64209,
+  "EOS_Progressed": 64210,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -4120,6 +4120,11 @@
       "Time": "2023-06-22T23:04:22.5696869+00:00",
       "NumProgressed": 64209,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-23T02:26:46.2053081+00:00",
+      "NumProgressed": 64210,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4193,9 +4198,9 @@
       "ID": "ACH_LIGHTMINES",
       "SetID": "6ccjg6f",
       "Name": "Let there be light",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_MATCHES",
@@ -4290,7 +4295,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64209,
+      "Progressed": 64210,
       "Completed": 13
     }
   ],
@@ -4298,8 +4303,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:03:37.9655806+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:26:46.2053075+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.0843197+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:57:55.0601013+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:03:37.9656268+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:21:05.4734281+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:26:46.2053528+00:00"
 }

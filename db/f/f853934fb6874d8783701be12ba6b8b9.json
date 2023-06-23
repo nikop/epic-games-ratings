@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-21T01:30:00+00:00",
     "PcReleaseDate": "2023-04-20T02:30:00+00:00",
@@ -25,9 +25,170 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A Place to Call Your Own",
+      "SetID": "3lgcfc7",
+      "Name": "A Place to Call Your Own",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beginner Survivor",
+      "SetID": "3lgcfc7",
+      "Name": "Beginner Survivor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Billionaire Baron",
+      "SetID": "3lgcfc7",
+      "Name": "Billionaire Baron",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CEO Magnate",
+      "SetID": "3lgcfc7",
+      "Name": "CEO Magnate",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cheerful Champion",
+      "SetID": "3lgcfc7",
+      "Name": "Cheerful Champion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Degree Conferred",
+      "SetID": "3lgcfc7",
+      "Name": "Degree Conferred",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Deluxe Driver",
+      "SetID": "3lgcfc7",
+      "Name": "Deluxe Driver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Doctorate Earned",
+      "SetID": "3lgcfc7",
+      "Name": "Doctorate Earned",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fitness Legend",
+      "SetID": "3lgcfc7",
+      "Name": "Fitness Legend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Intermediate Survivor",
+      "SetID": "3lgcfc7",
+      "Name": "Intermediate Survivor",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Living Like a King",
+      "SetID": "3lgcfc7",
+      "Name": "Living Like a King",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Master of Law and Order",
+      "SetID": "3lgcfc7",
+      "Name": "Master of Law and Order",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Millionaire Tycoon",
+      "SetID": "3lgcfc7",
+      "Name": "Millionaire Tycoon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Motorcycle Maverick",
+      "SetID": "3lgcfc7",
+      "Name": "Motorcycle Maverick",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Muscular Marvel",
+      "SetID": "3lgcfc7",
+      "Name": "Muscular Marvel",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Reaching New Heights",
+      "SetID": "3lgcfc7",
+      "Name": "Reaching New Heights",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Seasoned Survivor",
+      "SetID": "3lgcfc7",
+      "Name": "Seasoned Survivor",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Supercar Superstar",
+      "SetID": "3lgcfc7",
+      "Name": "Supercar Superstar",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Survivor Extraordinaire",
+      "SetID": "3lgcfc7",
+      "Name": "Survivor Extraordinaire",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Victorious Legend",
+      "SetID": "3lgcfc7",
+      "Name": "Victorious Legend",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3lgcfc7",
@@ -37,8 +198,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T09:07:33.6284309+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:03:14.4388527+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:26:21.8226507+00:00",
   "LastUpdate_AppInfo": "2023-06-18T06:57:00.7839882+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:57:18.5512541+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:03:14.4388565+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:20:30.6429865+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:26:21.822665+00:00"
 }

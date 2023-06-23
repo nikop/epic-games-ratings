@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1096,7 +1096,7 @@
   ],
   "EOS_Progressed": 3995,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3773,9 +3773,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2637
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -3869,8 +3869,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-17T10:00:31.9490922+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:06:01.5362352+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:29:20.9148811+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.3550621+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:59:52.2591642+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:06:01.5362745+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:23:08.3067971+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:29:20.9149177+00:00"
 }

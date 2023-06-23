@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Tastes just like chicken! | 92.00% | ~77 |
 | MLG 360 no scope kill! | 90.00% | ~76 |
-| Are you ready to rumble? | 89.00% | ~75 |
+| Are you ready to rumble? | 90.00% | ~76 |
 | That's what cheese said! | 85.00% | ~71 |
 | I like you...but I have to kill you... | 83.00% | ~70 |
 | AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~69 |
@@ -46,7 +46,7 @@
 | You're not so Big anymore, Boi! | 23.00% | ~19 |
 | Your daily dose of Vitamin C. | 23.00% | ~19 |
 | I cant stand still! | 23.00% | ~19 |
-| Master Butcher | 18.00% | ~15 |
+| Master Butcher | 19.00% | ~16 |
 | Slimy... yet satisfying | 18.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
 | Deal with it | 15.00% | ~13 |

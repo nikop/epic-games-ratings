@@ -9,20 +9,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 3.00% | ~463 |
 | Taking Action | 3.00% | ~463 |
 | No Deaths | 3.00% | ~463 |
-| Homesick | 2.00% | ~308 |
-| First Real Expedition | 2.00% | ~308 |
-| Overcoming Difficulty | 2.00% | ~308 |
-| Bandit Camp | 2.00% | ~308 |
-| Barren Lands | 2.00% | ~308 |
-| Ancient Battleground | 2.00% | ~308 |
-| Fertile Meadows | 2.00% | ~308 |
-| Lost Colonies | 2.00% | ~308 |
-| Coral Forest | 2.00% | ~308 |
-| Cursed Lands | 2.00% | ~308 |
-| The Scarlet Orchard | 2.00% | ~308 |
-| A Real Challenge | 2.00% | ~308 |
-| Like a Machine | 2.00% | ~308 |
-| Trade Baron | 2.00% | ~308 |
+| Homesick | 2.00% | ~309 |
+| First Real Expedition | 2.00% | ~309 |
+| Overcoming Difficulty | 2.00% | ~309 |
+| Bandit Camp | 2.00% | ~309 |
+| Barren Lands | 2.00% | ~309 |
+| Ancient Battleground | 2.00% | ~309 |
+| Fertile Meadows | 2.00% | ~309 |
+| Lost Colonies | 2.00% | ~309 |
+| Coral Forest | 2.00% | ~309 |
+| Cursed Lands | 2.00% | ~309 |
+| The Scarlet Orchard | 2.00% | ~309 |
+| A Real Challenge | 2.00% | ~309 |
+| Like a Machine | 2.00% | ~309 |
+| Trade Baron | 2.00% | ~309 |
 | Serving Ale | 1.00% | ~154 |
 | Refinery | 1.00% | ~154 |
 | Against All Odds | 1.00% | ~154 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,424 (Ranked 106)  
+Progressed: 15,426 (Ranked 106)  
 Completed: 38 (0.25%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 38 (0.25%) (Ranked 148)
 | 2023-06-20 | 15,406 | 38 |
 | 2023-06-21 | 15,416 | 38 |
 | 2023-06-22 | 15,423 | 38 |
-| 2023-06-23 | 15,424 | 38 |
+| 2023-06-23 | 15,426 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 199)  
 Sum: 3,052 (Ranked 155)  

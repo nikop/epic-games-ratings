@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,181 |
-| Biggest Communism Builder | 24.00% | ~29,298 |
-| The World's Most Laughable Centrist | 20.00% | ~24,415 |
+| Goodest Of The Good Cops | 28.00% | ~34,182 |
+| Biggest Communism Builder | 24.00% | ~29,299 |
+| The World's Most Laughable Centrist | 20.00% | ~24,416 |
 | Il Coppo Del'Arte! | 18.00% | ~21,974 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,532 |
-| Hyperstellar Law Official | 15.00% | ~18,311 |
+| Hyperstellar Law Official | 15.00% | ~18,312 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,091 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,870 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,870 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,428 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,429 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,987 |
 | Unbelievably Boring **** | 8.00% | ~9,766 |
 | Enemy Of The Physical Realm | 8.00% | ~9,766 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,076 (Ranked 59)  
+Progressed: 122,078 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,13 +111,14 @@ Completed: 25 (0.02%) (Ranked 208)
 | 2023-06-20 | 121,964 | 25 |
 | 2023-06-21 | 122,022 | 25 |
 | 2023-06-22 | 122,076 | 25 |
+| 2023-06-23 | 122,078 | 25 |
 ## Awards
-Max (Character Customization): 697  (Ranked 160)  
-Sum: 1,057 (Ranked 232)  
+Max (Character Customization): 698  (Ranked 160)  
+Sum: 1,058 (Ranked 232)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 697 |
+| This game has Inclusive Character Customization | 698 |
 | This game has Amazing Storytelling | 46 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -237,3 +238,4 @@ Diff (max vs sum): -72
 | 2023-06-12 | 4.86 | - | 696 | 1,055 |
 | 2023-06-13 | 4.86 | - | 696 | 1,056 |
 | 2023-06-18 | 4.86 | - | 697 | 1,057 |
+| 2023-06-23 | 4.86 | - | 698 | 1,058 |

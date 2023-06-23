@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 61.00% | ~81 |
-| Aspairagus | 57.00% | ~47 |
-| Survivor | 48.00% | ~39 |
+| Aspairagus | 58.00% | ~48 |
+| Survivor | 49.00% | ~40 |
 | First Blood | 45.00% | ~59 |
-| Triple Kill | 42.00% | ~55 |
+| Triple Kill | 43.00% | ~57 |
 | I Believe I Can Fly | 39.00% | ~51 |
 | Early Survivor | 38.00% | ~31 |
-| No Asperascope | 36.00% | ~48 |
-| Cornivore | 36.00% | ~48 |
-| No Diggity | 36.00% | ~30 |
+| No Asperascope | 37.00% | ~49 |
+| Cornivore | 37.00% | ~49 |
+| No Diggity | 37.00% | ~30 |
 | Bouncemato | 27.00% | ~22 |
 | Amateur Survivor | 27.00% | ~22 |
 | Quick-Draw Pod | 21.00% | ~17 |
@@ -30,11 +30,11 @@
 | Eggtraordinary | 11.00% | ~15 |
 | Oh My Gourd | 10.00% | ~8 |
 | Pyromaniac | 10.00% | ~8 |
+| Fresh Pancake | 8.00% | ~11 |
 | Quit Horsin' Around | 8.00% | ~11 |
 | Perfect | 8.00% | ~7 |
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
-| Fresh Pancake | 7.00% | ~9 |
 | Bring Home The Bacon | 5.00% | ~7 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~4 |

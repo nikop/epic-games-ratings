@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2023-06-23T00:05:45.1879077+00:00",
       "NumProgressed": 715,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-23T02:29:05.3935644+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1617,9 +1622,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 79
     },
     {
       "ID": "LacunaCompleted",
@@ -1721,9 +1726,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 107
     },
     {
       "ID": "RewindParry",
@@ -1801,9 +1806,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1858,14 +1863,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:05:45.1879066+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:29:05.3935638+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:59:28.2932758+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:05:45.1879626+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:22:43.9073397+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:29:05.3936257+00:00"
 }

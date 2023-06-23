@@ -2,10 +2,10 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -112,6 +112,11 @@
       "Time": "2023-06-22T22:03:30.1993983+00:00",
       "NumProgressed": 289,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-23T02:26:27.5282113+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 18,
@@ -123,7 +128,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "BP-02",
@@ -145,9 +150,9 @@
       "ID": "BP-04",
       "SetID": "7fc93f2",
       "Name": "Debris Finder",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 241
     },
     {
       "ID": "BP-05",
@@ -155,7 +160,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "BP-06",
@@ -171,7 +176,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "BP-08",
@@ -179,15 +184,15 @@
       "Name": "Stylish Decorator",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "BP-09",
       "SetID": "7fc93f2",
       "Name": "Ace Decorator",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "BP-10",
@@ -219,7 +224,7 @@
       "Name": "Winter Wonderland",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "BP-14",
@@ -266,7 +271,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 9
     }
   ],
@@ -274,8 +279,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:03:19.4010254+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:26:27.5282107+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.5044146+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:58:34.8381542+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:03:19.4010389+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:21:46.7439906+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:26:27.5282278+00:00"
 }

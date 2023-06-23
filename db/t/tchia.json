@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6578,
+  "EOS_Progressed": 6580,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -3925,6 +3925,11 @@
       "Time": "2023-06-22T23:07:39.2539761+00:00",
       "NumProgressed": 6578,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-23T02:29:10.3168986+00:00",
+      "NumProgressed": 6580,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -3934,9 +3939,9 @@
       "ID": "AHEM_AHEM",
       "SetID": "3cck1g6",
       "Name": "Ahem Ahem",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 592
     },
     {
       "ID": "ARRR",
@@ -3952,7 +3957,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3984,7 +3989,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4103,7 +4108,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6578,
+      "Progressed": 6580,
       "Completed": 25
     }
   ],
@@ -4111,8 +4116,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-15T10:57:56.2084417+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:05:50.0320618+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:29:10.316898+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:39.0448454+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:58:18.0542813+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:05:50.0321397+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:21:29.7499818+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:29:10.3169605+00:00"
 }

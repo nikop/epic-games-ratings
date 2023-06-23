@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 14.00% | ~100 |
+| Time Heals All Wounds | 15.00% | ~107 |
 | The Mysterious Stranger | 13.00% | ~93 |
 | Rail Rat | 13.00% | ~93 |
 | The Steel Shadow | 12.00% | ~86 |
@@ -14,6 +14,7 @@
 | Time Flies | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
+| The Loose Cannon | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
@@ -26,7 +27,6 @@
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
 | The Man Who Shattered Time | 10.00% | ~72 |
-| The Loose Cannon | 10.00% | ~72 |
 | Honest Mistake | 10.00% | ~72 |
 | Check Your Pulse | 10.00% | ~72 |
 | The Family Fortune | 10.00% | ~72 |
@@ -35,10 +35,10 @@
 | Chaincrawler Explorer | 7.00% | ~50 |
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
+| Theater Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
 | Factorywood Explorer | 6.00% | ~43 |
 | Syron for Hope | 6.00% | ~43 |
-| Theater Explorer | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
 | Corin Goes Home | 5.00% | ~36 |
 | Sartorialist | 5.00% | ~36 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715 (Ranked 195)  
+Progressed: 716 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-19 | 709 | 4 |
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
-| 2023-06-23 | 715 | 4 |
+| 2023-06-23 | 716 | 4 |

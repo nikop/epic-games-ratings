@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6673,
+  "EOS_Progressed": 6674,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2123,6 +2123,11 @@
       "Time": "2023-06-22T21:06:08.58754+00:00",
       "NumProgressed": 6673,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-23T02:29:14.4814511+00:00",
+      "NumProgressed": 6674,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2222,7 +2227,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "AK_ON_TOWN",
@@ -2230,7 +2235,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -2246,7 +2251,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -2334,7 +2339,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2349,15 +2354,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6673,
+      "Progressed": 6674,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-23T00:05:55.1797486+00:00",
+  "LastChanged_Achievements": "2023-06-23T02:29:14.4814506+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:12.8106679+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:57:52.5969218+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:05:55.1797957+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:21:03.2593655+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:29:14.4814822+00:00"
 }

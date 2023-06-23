@@ -4,11 +4,11 @@
   "ProductSlug": "red-dead-redemption-2",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 6,
-  "Ranking_PopularitySum": 8,
+  "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -8090,10 +8090,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 389858,
       "NumberOfAwardsMax": 152480
+    },
+    {
+      "Time": "2023-06-23T02:22:27.1135694+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 389936,
+      "NumberOfAwardsMax": 152480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389858,
+  "NumberOfAwards": 389936,
   "NumberOfAwardsMax": 152480,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -8155,7 +8161,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 15048
+      "Count": 15091
     },
     {
       "Text": "This game is Relaxing",
@@ -8173,7 +8179,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 13882
+      "Count": 13917
     },
     {
       "Text": "This game has a Creative Community",
@@ -8193,8 +8199,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-22T23:00:18.2786351+00:00",
+  "LastChanged": "2023-06-23T02:22:27.113569+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.010115+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:59:12.9883849+00:00",
-  "LastUpdate_Achievements": "2023-06-23T00:03:23.736361+00:00"
+  "LastUpdate_Ratings": "2023-06-23T02:22:27.1135699+00:00",
+  "LastUpdate_Achievements": "2023-06-23T02:26:31.802342+00:00"
 }

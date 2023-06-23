@@ -25,7 +25,7 @@
 | FRIENDLY | 10.00% | ~283 |
 | PERFECTLY POISED | 9.00% | ~255 |
 | BE OUR GUEST | 9.00% | ~255 |
-| ACE TRICKSTER | 7.00% | ~198 |
+| ACE TRICKSTER | 8.00% | ~227 |
 | EXPERIENCED CREW | 4.00% | ~113 |
 | FRAMED! | 3.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
