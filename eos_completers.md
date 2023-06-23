@@ -9,14 +9,14 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 16.76% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.67% |
-| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
-| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
-| 14 | [Remains](games/r/remains.md) | 12.50% |
+| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
+| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
+| 13 | [Remains](games/r/remains.md) | 12.50% |
+| 13 | [Sonic Origins](games/s/sonic_origins.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.84% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -49,7 +49,7 @@
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.35% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
-| 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.23% |
+| 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.17% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
@@ -80,7 +80,7 @@
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.63% |
+| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.61% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
