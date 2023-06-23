@@ -260,6 +260,7 @@
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [Life After Death](../games/l/life_after_death.md) | 60 | 1,000 |
+| [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |

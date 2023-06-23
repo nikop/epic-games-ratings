@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Dr. Virus](games/0/058ca65993ce4a3a8a79cd238e80c539.md) | 2023-06-23 | - |  | - | - |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-23 | - |  | - | - |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2023-06-23 | - |  | - | - |
 | [Avoid It](games/f/fc26bb604bcb4130bc0798c8d9ef95b1.md) | 2023-06-23 | - |  | - | - |
@@ -227,6 +228,7 @@
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
+| [Class of '09](games/4/4bb9340a10b14570b83fe6292e19619d.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 34 (1,000 XP) | 0 | - | - |
 | [Cookie Cutter](games/c/cookie_cutter.md) | 2099-01-01 | - |  | - | - |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | - |  | - | - |
