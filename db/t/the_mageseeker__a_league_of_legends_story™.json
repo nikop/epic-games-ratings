@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2385,
+  "EOS_Progressed": 2386,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2733,6 +2733,11 @@
       "Time": "2023-06-22T15:07:25.3789846+00:00",
       "NumProgressed": 2385,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T05:05:47.1442146+00:00",
+      "NumProgressed": 2386,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2792,7 +2797,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2806,9 +2811,9 @@
       "ID": "STB_DEFEAT_GAREN_I",
       "SetID": "3pe2bac",
       "Name": "For Demacia",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2267
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2824,7 +2829,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2832,7 +2837,7 @@
       "Name": "I smell fear",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -2928,7 +2933,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2944,7 +2949,7 @@
       "Name": "The end of the experiments",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -2960,7 +2965,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3032,7 +3037,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3048,7 +3053,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3072,7 +3077,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -3088,7 +3093,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3110,9 +3115,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 310
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3120,7 +3125,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3144,7 +3149,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3152,7 +3157,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3167,7 +3172,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2385,
+      "Progressed": 2386,
       "Completed": 2
     }
   ],
@@ -3175,8 +3180,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-23T04:07:12.2356755+00:00",
+  "LastChanged_Achievements": "2023-06-23T05:05:47.1442141+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:20.6744897+00:00",
-  "LastUpdate_Ratings": "2023-06-23T03:57:54.5933774+00:00",
-  "LastUpdate_Achievements": "2023-06-23T04:07:12.2357258+00:00"
+  "LastUpdate_Ratings": "2023-06-23T04:57:38.3893402+00:00",
+  "LastUpdate_Achievements": "2023-06-23T05:05:47.1442765+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,783 |
+| Own use | 76.00% | ~33,784 |
 | I read Shakespeare and stuff | 64.00% | ~28,449 |
-| Just a sprinkle | 63.00% | ~28,004 |
-| I'm stumped | 61.00% | ~27,115 |
-| Plant get enough | 61.00% | ~27,115 |
+| Just a sprinkle | 63.00% | ~28,005 |
+| I'm stumped | 61.00% | ~27,116 |
+| Plant get enough | 61.00% | ~27,116 |
 | This is just my weekend vehicle | 58.00% | ~25,782 |
 | It's just the beginning | 58.00% | ~25,782 |
-| Hard work pays off | 53.00% | ~23,559 |
+| Hard work pays off | 53.00% | ~23,560 |
 | It's never too late to farm | 47.00% | ~20,892 |
-| All out of Land | 44.00% | ~19,558 |
+| All out of Land | 44.00% | ~19,559 |
 | Field Trip | 43.00% | ~19,114 |
-| I like to switch it up | 40.00% | ~17,780 |
-| Help me to help you | 38.00% | ~16,891 |
-| Ultimutt Pawesomeness | 28.00% | ~12,446 |
-| Van Gogh | 26.00% | ~11,557 |
+| I like to switch it up | 40.00% | ~17,781 |
+| Help me to help you | 38.00% | ~16,892 |
+| Ultimutt Pawesomeness | 28.00% | ~12,447 |
+| Van Gogh | 26.00% | ~11,558 |
 | You wood not believe it | 21.00% | ~9,335 |
 | Vehicle fleet | 21.00% | ~9,335 |
 | The plot thickens | 16.00% | ~7,112 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~178 |
 | Raisin the stakes | 0.30% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,451 (Ranked 85)  
+Progressed: 44,452 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 5 (0.01%) (Ranked 216)
 | 2023-06-20 | 44,379 | 5 |
 | 2023-06-21 | 44,421 | 5 |
 | 2023-06-22 | 44,446 | 5 |
-| 2023-06-23 | 44,451 | 5 |
+| 2023-06-23 | 44,452 | 5 |
 ## Awards
 Max (Great for Beginners): 4,413  (Ranked 70)  
 Sum: 37,468 (Ranked 32)  

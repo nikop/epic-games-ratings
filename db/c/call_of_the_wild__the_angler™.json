@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4450,
+  "EOS_Progressed": 4451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2023-06-23T04:04:44.9624931+00:00",
       "NumProgressed": 4450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T05:03:56.0677353+00:00",
+      "NumProgressed": 4451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3718,7 +3723,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3726,7 +3731,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3734,7 +3739,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -3750,7 +3755,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3758,7 +3763,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3766,7 +3771,7 @@
       "Name": "Scaling up",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3782,7 +3787,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3798,7 +3803,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -3902,7 +3907,7 @@
       "Name": "Taylor Made",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -3989,13 +3994,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4450,
+      "Progressed": 4451,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3822,
+      "Progressed": 3823,
       "Completed": 112
     }
   ],
@@ -4003,8 +4008,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-23T04:04:44.9624927+00:00",
+  "LastChanged_Achievements": "2023-06-23T05:03:56.0677349+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:00:28.220568+00:00",
-  "LastUpdate_Achievements": "2023-06-23T04:04:44.9625304+00:00"
+  "LastUpdate_Ratings": "2023-06-23T04:59:28.7221997+00:00",
+  "LastUpdate_Achievements": "2023-06-23T05:03:56.0677833+00:00"
 }

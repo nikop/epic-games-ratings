@@ -5,22 +5,22 @@ Rating: 3.94 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,966 |
-| First One’s Free | 65.00% | ~43,889 |
-| Neophyte Ninja | 50.00% | ~33,761 |
-| Too Old for This | 47.00% | ~31,735 |
-| Fancy Pants | 35.00% | ~23,633 |
-| Case Closed | 34.00% | ~22,957 |
-| King of the Hill | 34.00% | ~22,957 |
-| Underworld Initiate | 29.00% | ~19,581 |
+| Downed but Not Outed | 74.00% | ~49,969 |
+| First One’s Free | 65.00% | ~43,892 |
+| Neophyte Ninja | 50.00% | ~33,763 |
+| Too Old for This | 47.00% | ~31,737 |
+| Fancy Pants | 35.00% | ~23,634 |
+| Case Closed | 34.00% | ~22,959 |
+| King of the Hill | 34.00% | ~22,959 |
+| Underworld Initiate | 29.00% | ~19,583 |
 | Roid Ranger | 21.00% | ~14,180 |
-| True Player | 19.00% | ~12,829 |
-| Off the Rocks | 19.00% | ~12,829 |
+| True Player | 19.00% | ~12,830 |
+| Off the Rocks | 19.00% | ~12,830 |
 | Raider’s Ruin | 16.00% | ~10,804 |
 | Dragonslayer | 16.00% | ~10,804 |
 | Hidden Sonata | 13.00% | ~8,778 |
-| Rockay Rex | 11.00% | ~7,427 |
-| Freebooter | 10.00% | ~6,752 |
+| Rockay Rex | 11.00% | ~7,428 |
+| Freebooter | 10.00% | ~6,753 |
 | Track Star | 9.00% | ~6,077 |
 | Classy Joint | 9.00% | ~6,077 |
 | I Like Trains | 8.00% | ~5,402 |
@@ -35,15 +35,15 @@ Rating: 3.94 (Ranked 919)
 | Red Star | 4.00% | ~2,701 |
 | Privateer | 3.00% | ~2,026 |
 | Groundhog Days | 3.00% | ~2,026 |
-| Rockay Raider | 2.00% | ~1,350 |
-| Moneybags | 2.00% | ~1,350 |
-| Impossible Dreamer | 2.00% | ~1,350 |
+| Rockay Raider | 2.00% | ~1,351 |
+| Moneybags | 2.00% | ~1,351 |
+| Impossible Dreamer | 2.00% | ~1,351 |
 | Rockay Knight | 1.00% | ~675 |
 | Talent Scout | 1.00% | ~675 |
 | Geek Out | 0.50% | ~338 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,522 (Ranked 71)  
+Progressed: 67,526 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-20 | 67,353 | 34 |
 | 2023-06-21 | 67,421 | 34 |
 | 2023-06-22 | 67,506 | 34 |
-| 2023-06-23 | 67,522 | 34 |
+| 2023-06-23 | 67,526 | 34 |
 ## Awards
 Max (Diverse Characters): 340  (Ranked 221)  
 Sum: 1,623 (Ranked 209)  
