@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 411)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 411)
 | Mighty Hoard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,805 (Ranked 132)  
+Progressed: 4,806 (Ranked 132)  
 Completed: 3 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-20 | 4,765 | 3 |
 | 2023-06-21 | 4,778 | 3 |
 | 2023-06-22 | 4,799 | 3 |
-| 2023-06-23 | 4,805 | 3 |
+| 2023-06-23 | 4,806 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -141,3 +141,4 @@ Completed: 3 (0.06%) (Ranked 191)
 | 2023-06-15 | 4.59 | 0 | 0 |
 | 2023-06-18 | 4.58 | 0 | 0 |
 | 2023-06-21 | 4.59 | 0 | 0 |
+| 2023-06-23 | 4.60 | 0 | 0 |

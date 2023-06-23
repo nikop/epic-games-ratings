@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 17.27,
+  "EOS_Completed_Percentage": 17.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1663,6 +1663,11 @@
       "Time": "2023-06-23T19:06:03.34783+00:00",
       "NumProgressed": 359,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-06-23T20:05:37.2285765+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 22,
@@ -1674,7 +1679,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "LEVEL_002",
@@ -1682,7 +1687,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "LEVEL_003",
@@ -1714,7 +1719,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_007",
@@ -1730,15 +1735,15 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_010",
@@ -1754,7 +1759,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_012",
@@ -1786,7 +1791,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_016",
@@ -1834,7 +1839,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_022",
@@ -1842,14 +1847,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 62
     }
   ],
@@ -1857,8 +1862,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:06:03.3478292+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:05:37.2285759+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.6609834+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:58:13.1716815+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:06:03.3478731+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:58:04.2715028+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:05:37.2286214+00:00"
 }

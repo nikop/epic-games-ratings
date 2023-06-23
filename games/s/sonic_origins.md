@@ -1,60 +1,60 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.57 (Ranked 441)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 101.00% | ~68 |
-| Newbie Hero | 87.00% | ~58 |
-| Welcome to Sonic CD | 84.00% | ~56 |
-| Welcome to Sonic the Hedgehog 2 | 84.00% | ~56 |
-| Welcome to Sonic 3 & Knuckles | 78.00% | ~52 |
-| Time Traveler | 76.00% | ~51 |
-| Ring Collector | 76.00% | ~51 |
-| Gallant Spin Dash | 75.00% | ~50 |
-| Bubbly Breath | 72.00% | ~48 |
-| Everyone's Hero | 72.00% | ~48 |
-| Knuckles the Echidna | 70.00% | ~47 |
-| Cleared Sonic the Hedgehog | 67.00% | ~45 |
-| Miles "Tails" Prower | 66.00% | ~44 |
-| Easy Peasy with Shields | 64.00% | ~43 |
-| Very First Mission Clear! | 64.00% | ~43 |
-| Boss Rush Attempt | 61.00% | ~41 |
-| Super Sonic | 61.00% | ~41 |
-| Museum Time | 60.00% | ~40 |
-| Shut Down Metal Sonic | 58.00% | ~39 |
-| Cleared Sonic CD | 57.00% | ~38 |
-| Beware Stingers! | 55.00% | ~37 |
-| Beware Moto Bugs! | 52.00% | ~35 |
-| Cleared Sonic the Hedgehog 2 | 51.00% | ~34 |
-| Cleared Sonic the Hedgehog 3 & Knuckles | 51.00% | ~34 |
-| To the Mirror World | 45.00% | ~30 |
-| All Clear! | 45.00% | ~30 |
-| Lucky Hedgehog | 36.00% | ~24 |
-| Movie Maniac | 34.00% | ~23 |
-| Sound Savant | 34.00% | ~23 |
-| Sonic the Hedgehog Mission Master | 28.00% | ~19 |
-| Beware Rhinobots! | 27.00% | ~18 |
-| Art Appreciator | 27.00% | ~18 |
-| Sonic CD Mission Master | 25.00% | ~17 |
-| S3 & K Mission Master | 22.00% | ~15 |
-| Sonic the Hedgehog 2 Mission Master | 21.00% | ~14 |
+| Welcome to Sonic the Hedgehog | 101.00% | ~74 |
+| Newbie Hero | 86.00% | ~63 |
+| Welcome to Sonic the Hedgehog 2 | 84.00% | ~61 |
+| Welcome to Sonic CD | 82.00% | ~60 |
+| Welcome to Sonic 3 & Knuckles | 77.00% | ~56 |
+| Ring Collector | 77.00% | ~56 |
+| Time Traveler | 75.00% | ~55 |
+| Gallant Spin Dash | 73.00% | ~53 |
+| Everyone's Hero | 73.00% | ~53 |
+| Knuckles the Echidna | 71.00% | ~52 |
+| Bubbly Breath | 68.00% | ~50 |
+| Miles "Tails" Prower | 67.00% | ~49 |
+| Cleared Sonic the Hedgehog | 66.00% | ~48 |
+| Easy Peasy with Shields | 64.00% | ~47 |
+| Very First Mission Clear! | 63.00% | ~46 |
+| Boss Rush Attempt | 60.00% | ~44 |
+| Super Sonic | 60.00% | ~44 |
+| Museum Time | 59.00% | ~43 |
+| Shut Down Metal Sonic | 56.00% | ~41 |
+| Beware Stingers! | 55.00% | ~40 |
+| Cleared Sonic CD | 55.00% | ~40 |
+| Beware Moto Bugs! | 52.00% | ~38 |
+| Cleared Sonic the Hedgehog 2 | 51.00% | ~37 |
+| Cleared Sonic the Hedgehog 3 & Knuckles | 51.00% | ~37 |
+| All Clear! | 45.00% | ~33 |
+| To the Mirror World | 44.00% | ~32 |
+| Lucky Hedgehog | 36.00% | ~26 |
+| Movie Maniac | 36.00% | ~26 |
+| Sound Savant | 36.00% | ~26 |
+| Sonic the Hedgehog Mission Master | 30.00% | ~22 |
+| Art Appreciator | 29.00% | ~21 |
+| Beware Rhinobots! | 27.00% | ~20 |
+| Sonic CD Mission Master | 26.00% | ~19 |
+| S3 & K Mission Master | 23.00% | ~17 |
+| Sonic the Hedgehog 2 Mission Master | 22.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 313)  
-Completed: 8 (11.94%) (Ranked 17)  
+Progressed: 73 (Ranked 309)  
+Completed: 10 (13.70%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-23 | 67 | 8 |
+| 2023-06-23 | 73 | 10 |
 ## Awards
-Max (Great Boss Battles): 118  (Ranked 310)  
-Sum: 118 (Ranked 396)  
+Max (Great Boss Battles): 119  (Ranked 310)  
+Sum: 119 (Ranked 396)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 118 |
+| This game has Great Boss Battles | 119 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -101,3 +101,4 @@ Diff (max vs sum): -86
 | 2023-05-05 | 4.57 | - | 117 | 117 |
 | 2023-05-22 | 4.58 | - | 117 | 117 |
 | 2023-06-19 | 4.58 | - | 118 | 118 |
+| 2023-06-23 | 4.57 | - | 119 | 119 |

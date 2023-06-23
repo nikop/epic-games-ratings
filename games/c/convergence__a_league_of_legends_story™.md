@@ -50,8 +50,8 @@
 | Clovemary for Remembering | 3.00% | ~22 |
 | Hexlock for Protection | 3.00% | ~22 |
 | Wunderkind | 2.00% | ~14 |
+| Fitting In | 2.00% | ~14 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
-| Fitting In | 1.00% | ~7 |
 | Wildlife Protection | 0.70% | ~5 |
 | A Lesson in Precision | 0.60% | ~4 |
 | No Time to Waste | 0.60% | ~4 |

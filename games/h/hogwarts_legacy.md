@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,118 |
-| First Class Student | 9.00% | ~25,306 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,119 |
+| First Class Student | 9.00% | ~25,307 |
 | A Keen Sense of Spell | 8.00% | ~22,495 |
 | Troll with the Punches | 8.00% | ~22,495 |
 | That's a Keeper | 8.00% | ~22,495 |
@@ -26,16 +26,16 @@ Rating: 4.77 (Ranked 107)
 | Rising From the Ashes | 6.00% | ~16,871 |
 | Beast Friends | 5.00% | ~14,059 |
 | Flight the Good Flight | 5.00% | ~14,059 |
-| The Seeker of Knowledge | 4.00% | ~11,247 |
-| The Root of the Problem | 4.00% | ~11,247 |
-| Third Time's a Charm | 4.00% | ~11,247 |
-| Raising Expectations | 4.00% | ~11,247 |
-| The Toast of the Town | 3.00% | ~8,435 |
-| Going Through the Potions | 3.00% | ~8,435 |
-| Room with a View | 3.00% | ~8,435 |
-| The Intrepid Explorer | 3.00% | ~8,435 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,435 |
-| The Ends Petrify the Means | 3.00% | ~8,435 |
+| The Seeker of Knowledge | 4.00% | ~11,248 |
+| The Root of the Problem | 4.00% | ~11,248 |
+| Third Time's a Charm | 4.00% | ~11,248 |
+| Raising Expectations | 4.00% | ~11,248 |
+| The Toast of the Town | 3.00% | ~8,436 |
+| Going Through the Potions | 3.00% | ~8,436 |
+| Room with a View | 3.00% | ~8,436 |
+| The Intrepid Explorer | 3.00% | ~8,436 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,436 |
+| The Ends Petrify the Means | 3.00% | ~8,436 |
 | Put Down Roots | 2.00% | ~5,624 |
 | The Auror's Apprentice | 2.00% | ~5,624 |
 | Floo Around the World | 2.00% | ~5,624 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,183 (Ranked 41)  
+Progressed: 281,189 (Ranked 41)  
 Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,16 +115,16 @@ Completed: 409 (0.15%) (Ranked 165)
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
-| 2023-06-23 | 281,183 | 409 |
+| 2023-06-23 | 281,189 | 409 |
 ## Awards
 Max (Character Customization): 20,298  (Ranked 17)  
-Sum: 37,710 (Ranked 30)  
+Sum: 37,712 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,298 |
 | This game has Great Boss Battles | 9,653 |
-| This game is Great for Beginners | 859 |
+| This game is Great for Beginners | 861 |
 | This game is Relaxing | 847 |
 | This game is Extremely Fun | 841 |
 | This game has Diverse Characters | 830 |
@@ -228,4 +228,4 @@ Diff (max vs sum): -13
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
 | 2023-06-22 | 4.77 | 20,270 | 37,641 |
-| 2023-06-23 | 4.77 | 20,298 | 37,710 |
+| 2023-06-23 | 4.77 | 20,298 | 37,712 |

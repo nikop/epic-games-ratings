@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -336,7 +336,7 @@
   "Tags": [],
   "EOS_Progressed": 6785,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4876,9 +4876,9 @@
       "ID": "ACH17",
       "SetID": "552d41m",
       "Name": "Offshore Delivery",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH18",
@@ -4989,8 +4989,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:00:34.5684145+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:00:32.376292+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:58:04.281072+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:00:34.5685005+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:56.229191+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:00:32.3763469+00:00"
 }

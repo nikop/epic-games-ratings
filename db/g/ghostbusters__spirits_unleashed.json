@@ -1210,10 +1210,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2130,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-06-23T19:58:52.005339+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2131,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2130,
+  "NumberOfAwards": 2131,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1245,7 +1251,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1290,9 +1296,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23641,
+  "EOS_Progressed": 23642,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6315,6 +6321,11 @@
       "Time": "2023-06-23T18:01:25.9427553+00:00",
       "NumProgressed": 23641,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-23T20:00:22.5429407+00:00",
+      "NumProgressed": 23642,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6326,7 +6337,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17258
+      "UsersEstimate": 17259
     },
     {
       "ID": "Animated",
@@ -6382,7 +6393,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "Cultured",
@@ -6390,7 +6401,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12293
+      "UsersEstimate": 12294
     },
     {
       "ID": "Daily_Dose",
@@ -6398,7 +6409,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8274
+      "UsersEstimate": 8275
     },
     {
       "ID": "Diabolical",
@@ -6414,7 +6425,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "Dont_Need_These",
@@ -6430,7 +6441,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "Efficient",
@@ -6438,7 +6449,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15130
+      "UsersEstimate": 15131
     },
     {
       "ID": "Escape_Artist",
@@ -6462,7 +6473,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12767
     },
     {
       "ID": "GB_In_Training",
@@ -6470,7 +6481,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7092
+      "UsersEstimate": 7093
     },
     {
       "ID": "Ghost_Expert",
@@ -6486,7 +6497,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7092
+      "UsersEstimate": 7093
     },
     {
       "ID": "Legions",
@@ -6598,7 +6609,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6619
+      "UsersEstimate": 6620
     },
     {
       "ID": "Skilled",
@@ -6630,7 +6641,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20331
+      "UsersEstimate": 20332
     },
     {
       "ID": "Summoner",
@@ -6670,7 +6681,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "Therapeutic",
@@ -6733,16 +6744,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23641,
+      "Progressed": 23642,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-22T02:11:30.6066185+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:00:24.3049668+00:00",
+  "LastChanged": "2023-06-23T19:58:52.0053388+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:00:22.5429398+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:58:58.4209217+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:00:24.3050625+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:58:52.0053393+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:00:22.543031+00:00"
 }

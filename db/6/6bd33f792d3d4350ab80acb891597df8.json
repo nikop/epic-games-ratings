@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -61,17 +61,17 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 125,
+      "Percentage": 150,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 100,
+      "Percentage": 125,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -141,9 +141,9 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 125,
+      "Percentage": 150,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -299,8 +299,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:03:16.4340616+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:02:22.376042+00:00",
   "LastUpdate_AppInfo": "2023-06-20T09:57:11.9784487+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:12.4652757+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:03:16.4340862+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:04.6790088+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:02:22.3760741+00:00"
 }

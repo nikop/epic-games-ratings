@@ -59,7 +59,7 @@
 | Hostile Waters | 15.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 271)  
-Completed: 20 (12.42%) (Ranked 15)  
+Completed: 20 (12.42%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

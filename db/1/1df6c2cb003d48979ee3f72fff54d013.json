@@ -4,7 +4,7 @@
   "ProductSlug": "chicken-journey-415550",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.4110219+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:12.2132253+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:03:50.0590599+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:04.5269294+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:03:25.3588876+00:00"
 }

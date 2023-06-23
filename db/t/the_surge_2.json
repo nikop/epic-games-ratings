@@ -1547,9 +1547,9 @@
       "ID": "ACHV_13",
       "SetID": "8p5mlmc",
       "Name": "Own Medicine",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHV_14",
@@ -1916,8 +1916,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:06:22.4209635+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:05:55.651209+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:56.3482938+00:00",
-  "LastUpdate_Ratings": "2023-06-23T19:00:13.7502893+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:06:22.4210217+00:00"
+  "LastUpdate_Ratings": "2023-06-23T20:00:09.1044431+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:05:55.6512739+00:00"
 }

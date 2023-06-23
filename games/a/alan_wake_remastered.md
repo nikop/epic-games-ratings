@@ -6,39 +6,39 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,929 |
-| Let There Be Light | 26.00% | ~14,568 |
-| Float Like a Butterfly | 25.00% | ~14,007 |
-| Nordic Walking | 20.00% | ~11,206 |
-| Bright Falls' Finest | 19.00% | ~10,646 |
-| Under a Thin Layer of Skin | 17.00% | ~9,525 |
-| Park Ranger | 14.00% | ~7,844 |
-| Paging Mr. Wake | 14.00% | ~7,844 |
-| Back! Back, I Say! | 13.00% | ~7,284 |
-| Finders Keepers | 13.00% | ~7,284 |
-| Sound and Fury | 12.00% | ~6,723 |
-| Damn Good Cup of Coffee | 12.00% | ~6,723 |
-| Wheels Within Wheels | 11.00% | ~6,163 |
-| They're Heeeeeere! | 11.00% | ~6,163 |
-| Missed by a Mile | 11.00% | ~6,163 |
-| Heavy Metal | 10.00% | ~5,603 |
-| Iron Horse | 10.00% | ~5,603 |
-| The Six-Gun Scribe | 10.00% | ~5,603 |
-| Collateral Carnage | 10.00% | ~5,603 |
-| Come One, Come All | 10.00% | ~5,603 |
+| Follow the Light | 32.00% | ~17,932 |
+| Let There Be Light | 26.00% | ~14,569 |
+| Float Like a Butterfly | 25.00% | ~14,009 |
+| Nordic Walking | 20.00% | ~11,207 |
+| Bright Falls' Finest | 19.00% | ~10,647 |
+| Under a Thin Layer of Skin | 17.00% | ~9,526 |
+| Park Ranger | 14.00% | ~7,845 |
+| Paging Mr. Wake | 14.00% | ~7,845 |
+| Back! Back, I Say! | 13.00% | ~7,285 |
+| Finders Keepers | 13.00% | ~7,285 |
+| Sound and Fury | 12.00% | ~6,724 |
+| Damn Good Cup of Coffee | 12.00% | ~6,724 |
+| Wheels Within Wheels | 11.00% | ~6,164 |
+| They're Heeeeeere! | 11.00% | ~6,164 |
+| Missed by a Mile | 11.00% | ~6,164 |
+| Heavy Metal | 10.00% | ~5,604 |
+| Iron Horse | 10.00% | ~5,604 |
+| The Six-Gun Scribe | 10.00% | ~5,604 |
+| Collateral Carnage | 10.00% | ~5,604 |
+| Come One, Come All | 10.00% | ~5,604 |
 | Perchance to Dream | 9.00% | ~5,043 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,043 |
 | Thunder and Lightning | 9.00% | ~5,043 |
 | Two For the Price of One | 9.00% | ~5,043 |
-| Gatekeeper | 8.00% | ~4,482 |
-| The Lady of the Light | 8.00% | ~4,482 |
-| Energized! | 8.00% | ~4,482 |
+| Gatekeeper | 8.00% | ~4,483 |
+| The Lady of the Light | 8.00% | ~4,483 |
+| Energized! | 8.00% | ~4,483 |
 | A Friend in Need | 8.00% | ~1,560 |
-| What Light Through Yonder Window | 7.00% | ~3,922 |
-| Right of Way | 7.00% | ~3,922 |
+| What Light Through Yonder Window | 7.00% | ~3,923 |
+| Right of Way | 7.00% | ~3,923 |
 | Tornado Wrangler | 6.00% | ~3,362 |
 | A Friend Indeed | 6.00% | ~1,170 |
-| Departure | 5.00% | ~2,801 |
+| Departure | 5.00% | ~2,802 |
 | Ding! | 5.00% | ~975 |
 | Children of the Elder God | 4.00% | ~2,241 |
 | Drink 'Em Both Up | 4.00% | ~2,241 |
@@ -57,13 +57,13 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~195 |
 | Words Will Never Harm You | 0.60% | ~117 |
 | Cardboard Companions | 0.60% | ~117 |
-| Fast and Furious | 0.50% | ~97 |
+| Fast and Furious | 0.50% | ~98 |
 | License Revoked | 0.40% | ~78 |
 | Whirlwind | 0.40% | ~78 |
 | Creative Space | 0.40% | ~78 |
 | Alan, Wake Up | 0.30% | ~168 |
 | Picking Up After Yourself | 0.30% | ~168 |
-| Run-On Sentence | 0.30% | ~58 |
+| Run-On Sentence | 0.30% | ~59 |
 | Meet the Deadline | 0.20% | ~112 |
 | Gunless Wonder | 0.20% | ~112 |
 | Bright Falls Aficionado | 0.20% | ~112 |
@@ -72,9 +72,9 @@ Number of Ratings: 524  (23.09.2022)
 | Every Nook and Cranny | 0.10% | ~56 |
 | Collector's Edition | 0.10% | ~56 |
 | Hypercaffeinated | 0.10% | ~56 |
-| No Punctuation | 0.10% | ~19 |
+| No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,029 (Ranked 79)  
+Progressed: 56,036 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
 | 2023-06-22 | 55,969 | 56 |
-| 2023-06-23 | 56,029 | 56 |
+| 2023-06-23 | 56,036 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

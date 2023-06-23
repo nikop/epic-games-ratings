@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4018,10 +4018,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37710,
       "NumberOfAwardsMax": 20298
+    },
+    {
+      "Time": "2023-06-23T19:57:30.6852844+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37712,
+      "NumberOfAwardsMax": 20298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37710,
+  "NumberOfAwards": 37712,
   "NumberOfAwardsMax": 20298,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4053,7 +4059,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 859
+      "Count": 861
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4098,9 +4104,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281183,
+  "EOS_Progressed": 281189,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10828,6 +10834,11 @@
       "Time": "2023-06-23T19:05:26.9151275+00:00",
       "NumProgressed": 281183,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-06-23T20:05:00.6419687+00:00",
+      "NumProgressed": 281189,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 45,
@@ -10839,7 +10850,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28118
+      "UsersEstimate": 28119
     },
     {
       "ID": "PFA_10",
@@ -10879,7 +10890,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "PFA_15",
@@ -10927,7 +10938,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_20",
@@ -10975,7 +10986,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "PFA_26",
@@ -10991,7 +11002,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_28",
@@ -11007,7 +11018,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "PFA_3",
@@ -11039,7 +11050,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_33",
@@ -11087,7 +11098,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_39",
@@ -11103,7 +11114,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_40",
@@ -11119,7 +11130,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "PFA_42",
@@ -11127,7 +11138,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "PFA_43",
@@ -11167,7 +11178,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25306
+      "UsersEstimate": 25307
     },
     {
       "ID": "PFA_7",
@@ -11198,16 +11209,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281183,
+      "Progressed": 281189,
       "Completed": 409
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-23T13:13:45.0517378+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:05:26.9151267+00:00",
+  "LastChanged": "2023-06-23T19:57:30.6852843+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:05:00.6419683+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.3959055+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:38.8519584+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:05:26.9152721+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:30.6852849+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:05:00.64206+00:00"
 }

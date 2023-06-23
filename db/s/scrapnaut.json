@@ -778,9 +778,9 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -971,8 +971,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:03:20.1921086+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:02:26.3522284+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:08.9798889+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:58:33.9418165+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:03:20.1921589+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:58:26.1800377+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:02:26.3522699+00:00"
 }

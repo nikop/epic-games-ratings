@@ -5,12 +5,12 @@ Rating: 4.80 (Ranked 81)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,269 |
-| No more cages! | 92.00% | ~2,197 |
+| For Demacia | 95.00% | ~2,270 |
+| No more cages! | 92.00% | ~2,198 |
 | Everfrost | 78.00% | ~1,863 |
-| Dark Forest | 77.00% | ~1,839 |
-| Pentakill | 76.00% | ~1,815 |
-| The use of petricite | 73.00% | ~1,743 |
+| Dark Forest | 77.00% | ~1,840 |
+| Pentakill | 76.00% | ~1,816 |
+| The use of petricite | 73.00% | ~1,744 |
 | You can pet the dog | 61.00% | ~1,457 |
 | Big Helmet Bro | 35.00% | ~836 |
 | Clarion Cove | 35.00% | ~836 |
@@ -26,8 +26,8 @@ Rating: 4.80 (Ranked 81)
 | Hijack | 26.00% | ~621 |
 | Ancient power | 24.00% | ~573 |
 | I chose my shackles | 23.00% | ~549 |
-| Sacred Woods | 21.00% | ~501 |
-| Capelworth | 21.00% | ~501 |
+| Sacred Woods | 21.00% | ~502 |
+| Capelworth | 21.00% | ~502 |
 | Little light | 20.00% | ~478 |
 | Iffighain Headquarters | 20.00% | ~478 |
 | Glyndemere | 19.00% | ~454 |
@@ -41,8 +41,8 @@ Rating: 4.80 (Ranked 81)
 | True power | 14.00% | ~334 |
 | Meltridge | 14.00% | ~334 |
 | Cloven Dell Headquarters | 14.00% | ~334 |
-| My heart and sword always for Demacia | 13.00% | ~310 |
-| The Central Headquarters | 13.00% | ~310 |
+| My heart and sword always for Demacia | 13.00% | ~311 |
+| The Central Headquarters | 13.00% | ~311 |
 | Whispers in the Woods IV | 12.00% | ~287 |
 | Embrace the darkness | 11.00% | ~263 |
 | I smell fear | 10.00% | ~239 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 81)
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,388 (Ranked 154)  
+Progressed: 2,389 (Ranked 154)  
 Completed: 2 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.08%) (Ranked 183)
 | 2023-06-20 | 2,380 | 2 |
 | 2023-06-21 | 2,383 | 2 |
 | 2023-06-22 | 2,385 | 2 |
-| 2023-06-23 | 2,388 | 2 |
+| 2023-06-23 | 2,389 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,9 +14,9 @@ Rating: 4.75 (Ranked 133)
 | Audiophile | 7.00% | ~461 |
 | Clay Pigeon | 6.00% | ~395 |
 | Historian | 6.00% | ~395 |
+| Iconoclast | 6.00% | ~395 |
 | Soul-Canon | 6.00% | ~395 |
 | Happy Camper | 5.00% | ~329 |
-| Iconoclast | 5.00% | ~329 |
 | Shredder | 5.00% | ~329 |
 | Liberator | 4.00% | ~263 |
 | Live Wire | 4.00% | ~263 |

@@ -1045,9 +1045,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_COLL_20",
@@ -1093,9 +1093,9 @@
       "ID": "ACH_COLL_CH04",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IV",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_COLL_CH05",
@@ -1109,9 +1109,9 @@
       "ID": "ACH_COLL_CH06",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VI",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_COLL_CH07",
@@ -1141,9 +1141,9 @@
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -1157,9 +1157,9 @@
       "ID": "ACH_COLL_CH12",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XII",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -1421,8 +1421,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:03:24.3960245+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:02:30.3245915+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:15.4627479+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:45.9406343+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:03:24.3961427+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:38.277195+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:02:30.3403413+00:00"
 }

@@ -54,11 +54,11 @@ Rating: 4.24 (Ranked 807)
 | Homewrecker | 4.00% | ~72 |
 | Plank of Wood | 4.00% | ~72 |
 | Gotta Craft 'em All | 3.00% | ~54 |
+| Own Medicine | 2.00% | ~36 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~36 |
 | Box Office Smash | 2.00% | ~36 |
 | Going Postal | 2.00% | ~36 |
 | Loot, Pillage & Craft | 2.00% | ~36 |
-| Own Medicine | 1.00% | ~18 |
 | Swiss Army Drone | 1.00% | ~18 |
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |

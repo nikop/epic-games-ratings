@@ -4,7 +4,7 @@
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "ACH_CITYGATES",
       "SetID": "73kff7",
       "Name": "The city is yours",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DESTROYWALL",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:05:01.7380295+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:04:36.4700457+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:17.0816335+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:26.0983228+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:05:01.7380493+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:20.3450558+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:04:36.4700647+00:00"
 }

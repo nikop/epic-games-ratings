@@ -1619,9 +1619,9 @@
       "ID": "InxChromaInTheatre",
       "SetID": "a9e499d",
       "Name": "Fitting In",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "JinxDefeated",
@@ -1874,8 +1874,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:05:58.5947279+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:05:32.6817771+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:59:21.8881811+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:05:58.5948232+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:59:13.3618297+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:05:32.6818495+00:00"
 }

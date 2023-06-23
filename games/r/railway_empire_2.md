@@ -21,15 +21,15 @@ Rating: 4.31 (Ranked 766)
 | Poor Devil | 53.00% | ~710 |
 | Producer | 50.00% | ~670 |
 | Apprentice | 41.00% | ~549 |
-| Bridge Builder | 40.00% | ~536 |
+| Bridge Builder | 41.00% | ~549 |
 | Access granted | 35.00% | ~469 |
 | Going once, going twice, sold | 34.00% | ~456 |
 | Stoker | 32.00% | ~429 |
 | Full Steam ahead | 31.00% | ~415 |
 | Bull and bear | 31.00% | ~415 |
 | All mine | 28.00% | ~375 |
+| Mole | 28.00% | ~375 |
 | Financial Shark | 28.00% | ~375 |
-| Mole | 27.00% | ~362 |
 | Socializer | 26.00% | ~348 |
 | Country Life | 25.00% | ~335 |
 | General Manager | 24.00% | ~322 |

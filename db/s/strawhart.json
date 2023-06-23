@@ -4,7 +4,7 @@
   "ProductSlug": "strawhart-776f4d",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
@@ -239,8 +239,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:06:08.3782947+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:05:41.9682686+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.0375839+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:59:43.6188127+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:06:08.3783194+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:59:34.7017416+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:05:41.9682825+00:00"
 }

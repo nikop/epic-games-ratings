@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~236 |
+| Explorer | 63.00% | ~239 |
 | Cowardice | 55.00% | ~209 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~179 |
 | Eat Lead! | 45.00% | ~171 |
@@ -30,9 +30,9 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 19.00% | ~72 |
 | Bullseye! | 18.00% | ~68 |
 | Food Massacre | 17.00% | ~65 |
+| Collectibles of Chapter IV | 15.00% | ~57 |
 | Sorrow | 15.00% | ~57 |
 | Collectibles of Chapter III | 14.00% | ~53 |
-| Collectibles of Chapter IV | 14.00% | ~53 |
 | Helping Hand | 14.00% | ~53 |
 | Atonement | 13.00% | ~49 |
 | Without a Second Thought | 12.00% | ~46 |
@@ -40,16 +40,16 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 8.00% | ~30 |
 | Such is War! | 7.00% | ~27 |
 | Collectibles of Chapter VII | 6.00% | ~23 |
+| Collectibles of Chapter XII | 6.00% | ~23 |
 | Piece of Cake | 6.00% | ~23 |
-| Collectibles of Chapter XII | 5.00% | ~19 |
 | Collectibles of Chapter VIII | 4.00% | ~15 |
+| Collectibles of Chapter X | 4.00% | ~15 |
 | Collectibles of Chapter XI | 4.00% | ~15 |
 | It Will Rain | 4.00% | ~15 |
 | Not Spill a Drop | 4.00% | ~15 |
+| Collectibles of Chapter VI | 3.00% | ~11 |
 | Collectibles of Chapter IX | 3.00% | ~11 |
-| Collectibles of Chapter X | 3.00% | ~11 |
 | The Good Samaritan | 3.00% | ~11 |
-| Collectibles of Chapter VI | 2.00% | ~8 |
 | Daddy Would Be Proud | 2.00% | ~8 |
 | Hold a Door | 1.00% | ~4 |
 | Warm Up | 0.30% | ~1 |

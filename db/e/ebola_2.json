@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-23T19:05:15.2110355+00:00",
+  "LastChanged_Achievements": "2023-06-23T20:04:49.27335+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:56:57.7260663+00:00",
-  "LastUpdate_Ratings": "2023-06-23T18:57:25.2654372+00:00",
-  "LastUpdate_Achievements": "2023-06-23T19:05:15.2110521+00:00"
+  "LastUpdate_Ratings": "2023-06-23T19:57:18.9748867+00:00",
+  "LastUpdate_Achievements": "2023-06-23T20:04:49.2733706+00:00"
 }

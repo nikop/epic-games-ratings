@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 604)  
+Rating: 4.47 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,10 +20,10 @@ Rating: 4.46 (Ranked 604)
 | Resourceful | 0.90% | ~28 |
 | As Quiet as a Mouse | 0.90% | ~28 |
 | Just a Flesh Wound | 0.80% | ~25 |
-| Der Geist | 0.70% | ~22 |
+| Der Geist | 0.80% | ~25 |
+| Gunslinger | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
 | Organ Grinder | 0.60% | ~19 |
-| Gunslinger | 0.60% | ~19 |
 | Skirmisher | 0.60% | ~19 |
 | Set Europe Ablaze | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
@@ -31,12 +31,12 @@ Rating: 4.46 (Ranked 604)
 | Brains of the Operation | 0.60% | ~19 |
 | No Stone Unturned | 0.50% | ~15 |
 | Precision Is Key | 0.50% | ~15 |
+| Rigged to Blow | 0.50% | ~15 |
 | My Little Friend | 0.50% | ~15 |
 | Die Nussknacker Sweet! | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Opposing Force | 0.40% | ~12 |
 | Enemy at the Gates | 0.40% | ~12 |
-| Rigged to Blow | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
@@ -59,6 +59,7 @@ Rating: 4.46 (Ranked 604)
 | Road Rage | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
+| Reich To The Point | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
@@ -71,13 +72,12 @@ Rating: 4.46 (Ranked 604)
 | Out of Scope | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
-| Reich To The Point | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,098 (Ranked 144)  
+Progressed: 3,099 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,098 | 2 |
+| 2023-06-23 | 3,099 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -196,3 +196,4 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-19 | 4.49 | 0 | 0 |
 | 2023-06-21 | 4.48 | 0 | 0 |
 | 2023-06-22 | 4.46 | 0 | 0 |
+| 2023-06-23 | 4.47 | 0 | 0 |
