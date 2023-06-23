@@ -54,10 +54,10 @@ Number of Ratings: 63  (23.09.2022)
 | Biohazard | 0.80% | ~41 |
 | The Midas Touch | 0.70% | ~36 |
 | Backdraft | 0.60% | ~31 |
-| Completionist | 0.50% | ~26 |
+| Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,126 (Ranked 129)  
-Completed: 28 (0.55%) (Ranked 120)  
+Completed: 29 (0.57%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 28 (0.55%) (Ranked 120)
 | 2023-06-17 | 5,124 | 27 |
 | 2023-06-18 | 5,126 | 27 |
 | 2023-06-20 | 5,126 | 28 |
+| 2023-06-23 | 5,126 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

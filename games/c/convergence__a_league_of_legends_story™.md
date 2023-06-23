@@ -12,27 +12,27 @@
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
+| The Wicked Twins | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
 | The Loose Cannon | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
-| The Wicked Twins | 11.00% | ~79 |
 | The Prince in Heels | 11.00% | ~79 |
 | Golem Chaser | 11.00% | ~79 |
 | Fast Learner | 11.00% | ~79 |
+| Check Your Pulse | 11.00% | ~79 |
 | Immaculate Aim | 11.00% | ~79 |
 | The Brass Boss | 11.00% | ~79 |
+| The Family Fortune | 11.00% | ~79 |
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
 | The Man Who Shattered Time | 10.00% | ~72 |
 | Honest Mistake | 10.00% | ~72 |
-| Check Your Pulse | 10.00% | ~72 |
-| The Family Fortune | 10.00% | ~72 |
 | Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |
-| Chaincrawler Explorer | 7.00% | ~50 |
+| Chaincrawler Explorer | 8.00% | ~57 |
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
 | Theater Explorer | 7.00% | ~50 |
@@ -59,7 +59,7 @@
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 718 (Ranked 195)  
-Completed: 4 (0.56%) (Ranked 118)  
+Completed: 4 (0.56%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

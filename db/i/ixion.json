@@ -3186,9 +3186,9 @@
       "ID": "ACH_BASE_25",
       "SetID": "92iocjf",
       "Name": "Remember the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BASE_26",
@@ -3354,9 +3354,9 @@
       "ID": "ACH_BASE_47",
       "SetID": "92iocjf",
       "Name": "Delivery!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_BASE_48",
@@ -3537,8 +3537,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-23T15:01:14.1214363+00:00",
+  "LastChanged_Achievements": "2023-06-23T16:00:39.8540783+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:09.4230668+00:00",
-  "LastUpdate_Ratings": "2023-06-23T14:58:47.5238607+00:00",
-  "LastUpdate_Achievements": "2023-06-23T15:01:14.1215161+00:00"
+  "LastUpdate_Ratings": "2023-06-23T15:58:33.9631873+00:00",
+  "LastUpdate_Achievements": "2023-06-23T16:00:39.8541664+00:00"
 }

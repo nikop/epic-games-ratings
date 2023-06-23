@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1113,6 +1113,11 @@
       "Time": "2023-06-21T16:03:21.3040623+00:00",
       "NumProgressed": 785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T16:02:33.3758381+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1132,7 +1137,7 @@
       "Name": "Act II Complete",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1146,9 +1151,9 @@
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
       "SetID": "108h92c",
       "Name": "Always Finding Your Mark",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 228
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1164,7 +1169,7 @@
       "Name": "A successful procedure!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1172,7 +1177,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1188,7 +1193,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1196,7 +1201,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1204,7 +1209,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1260,7 +1265,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1276,15 +1281,15 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1300,7 +1305,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1316,7 +1321,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -1332,14 +1337,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 787,
       "Completed": 0
     }
   ],
@@ -1347,8 +1352,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-23T15:02:24.7122537+00:00",
+  "LastChanged_Achievements": "2023-06-23T16:02:33.3758376+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.6635362+00:00",
-  "LastUpdate_Ratings": "2023-06-23T14:57:44.3510746+00:00",
-  "LastUpdate_Achievements": "2023-06-23T15:02:24.712276+00:00"
+  "LastUpdate_Ratings": "2023-06-23T15:57:39.7909573+00:00",
+  "LastUpdate_Achievements": "2023-06-23T16:02:33.3758618+00:00"
 }

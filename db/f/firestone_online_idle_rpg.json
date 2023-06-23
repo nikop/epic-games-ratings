@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3442,6 +3442,11 @@
       "Time": "2023-06-23T14:06:53.7462144+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-23T16:06:14.6614565+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3453,7 +3458,7 @@
       "Name": "Active Member",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ancientknowledge",
@@ -3477,7 +3482,7 @@
       "Name": "Arena Challenger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "backgroundstory",
@@ -3515,9 +3520,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "conqueror",
@@ -3581,7 +3586,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "enchantingskill",
@@ -3637,7 +3642,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "fourleafclover",
@@ -3659,9 +3664,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 207
     },
     {
       "ID": "gearenchanting",
@@ -3693,7 +3698,7 @@
       "Name": "Here We Go Again",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "heroinspection",
@@ -3741,7 +3746,7 @@
       "Name": "Legendary",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "lieutenant",
@@ -3765,7 +3770,7 @@
       "Name": "Master Enchanter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "mastery",
@@ -3845,7 +3850,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "prestigiousx10",
@@ -3877,15 +3882,15 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "silverwoodliberator",
@@ -3909,7 +3914,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "thealchemist",
@@ -3917,7 +3922,7 @@
       "Name": "The Alchemist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "theexpeditioner",
@@ -3933,7 +3938,7 @@
       "Name": "The father of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "thegameison",
@@ -3973,7 +3978,7 @@
       "Name": "Trader",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -4013,7 +4018,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "warmachinesarmy",
@@ -4037,7 +4042,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "worldmap",
@@ -4045,14 +4050,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1181
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1476,
       "Completed": 1
     }
   ],
@@ -4060,8 +4065,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-23T15:06:28.9035898+00:00",
+  "LastChanged_Achievements": "2023-06-23T16:06:14.6614561+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:44.0165443+00:00",
-  "LastUpdate_Ratings": "2023-06-23T14:58:16.6831308+00:00",
-  "LastUpdate_Achievements": "2023-06-23T15:06:28.9036863+00:00"
+  "LastUpdate_Ratings": "2023-06-23T15:58:05.9632017+00:00",
+  "LastUpdate_Achievements": "2023-06-23T16:06:14.661535+00:00"
 }

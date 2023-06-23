@@ -36,6 +36,7 @@ Rating: 4.57 (Ranked 442)
 | ...  in a finite world | 2.00% | ~54 |
 | Sustainable Energy | 2.00% | ~54 |
 | In Dolos We Trust | 2.00% | ~54 |
+| Delivery! | 2.00% | ~54 |
 | Pedal to the Metal | 2.00% | ~54 |
 | What the Ruins Teach Us | 2.00% | ~54 |
 | Pulsar Disciple | 2.00% | ~54 |
@@ -43,7 +44,6 @@ Rating: 4.57 (Ranked 442)
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
-| Delivery! | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~24 |
 | Tiqqun Unchained | 0.90% | ~24 |
@@ -51,7 +51,7 @@ Rating: 4.57 (Ranked 442)
 | Scientifically Accurate | 0.80% | ~22 |
 | Gregor Spinoza | 0.70% | ~19 |
 | Better Him Than Me | 0.60% | ~16 |
-| Remember the Dead | 0.30% | ~8 |
+| Remember the Dead | 0.40% | ~11 |
 | Work Harder | 0.30% | ~8 |
 | Soylent Green | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~5 |

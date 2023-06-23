@@ -27,7 +27,7 @@
 | Legacy of the Sanguine | 0.00% | ~0 |
 | Daughter of Blood and Darkness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 366)  
+Progressed: 17 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

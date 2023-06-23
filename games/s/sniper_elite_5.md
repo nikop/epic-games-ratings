@@ -17,9 +17,9 @@ Rating: 4.46 (Ranked 604)
 | Sharpshooter | 0.90% | ~28 |
 | Just a Flesh Wound | 0.80% | ~25 |
 | Resourceful | 0.80% | ~25 |
+| The Kraken Sleeps | 0.80% | ~25 |
+| Liberté | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
-| The Kraken Sleeps | 0.70% | ~22 |
-| Liberté | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Der Geist | 0.60% | ~19 |
 | Climbing the Ladder | 0.50% | ~15 |
@@ -46,6 +46,7 @@ Rating: 4.46 (Ranked 604)
 | Operation Foxley | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
+| Burn after reading | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
@@ -61,7 +62,6 @@ Rating: 4.46 (Ranked 604)
 | The Long Game | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
-| Burn after reading | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 604)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,092 (Ranked 144)  
+Progressed: 3,093 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,092 | 2 |
+| 2023-06-23 | 3,093 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

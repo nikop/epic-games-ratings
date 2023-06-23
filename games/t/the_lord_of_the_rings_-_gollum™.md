@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~279 |
-| Welcome to Mordor! | 52.00% | ~234 |
+| The Wraith | 62.00% | ~280 |
+| Welcome to Mordor! | 52.00% | ~235 |
 | Collectibles Part 1 | 51.00% | ~230 |
 | Wait! Wait! Not yet! | 38.00% | ~171 |
-| Like Flying... | 33.00% | ~148 |
-| Memories | 29.00% | ~130 |
+| Like Flying... | 33.00% | ~149 |
+| Memories | 29.00% | ~131 |
 | The Maggot | 27.00% | ~122 |
 | The Breeder | 22.00% | ~99 |
 | The Veteran | 18.00% | ~81 |
@@ -22,7 +22,7 @@
 | Murderer | 8.00% | ~36 |
 | Trigger-Happy | 8.00% | ~36 |
 | The Friend | 6.00% | ~27 |
-| Master of the Old Game | 5.00% | ~22 |
+| Master of the Old Game | 5.00% | ~23 |
 | So Silly! | 4.00% | ~18 |
 | Made a Song | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |
@@ -30,8 +30,8 @@
 | And now we wish... | 2.00% | ~9 |
 | Sweet Darkness | 2.00% | ~9 |
 | Ss ss ss... | 2.00% | ~9 |
-| Collectibles Part 2 | 1.00% | ~4 |
-| Nervous Hands | 1.00% | ~4 |
+| Collectibles Part 2 | 1.00% | ~5 |
+| Nervous Hands | 1.00% | ~5 |
 | Elf-Friend | 0.40% | ~2 |
 | We wants it! We needs it | 0.40% | ~2 |
 | Scout | 0.40% | ~2 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 213)  
+Progressed: 451 (Ranked 213)  
 Completed: 1 (0.22%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,4 +74,4 @@ Completed: 1 (0.22%) (Ranked 153)
 | 2023-06-16 | 444 | 1 |
 | 2023-06-18 | 447 | 1 |
 | 2023-06-21 | 448 | 1 |
-| 2023-06-23 | 450 | 1 |
+| 2023-06-23 | 451 | 1 |

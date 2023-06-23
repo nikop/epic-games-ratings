@@ -12,7 +12,7 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 59.00% | ~101 |
 | Livin' in a dwarven paradise | 56.00% | ~96 |
 | Déjà vu | 51.00% | ~87 |
-| GG EZ | 49.00% | ~84 |
+| GG EZ | 50.00% | ~86 |
 | Way of the Wimp | 47.00% | ~80 |
 | DM intervention | 47.00% | ~80 |
 | Oh, when I'll be level 10... | 41.00% | ~70 |

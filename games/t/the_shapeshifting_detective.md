@@ -10,7 +10,7 @@
 | Patient Listener | 46.00% | ~85 |
 | Video Saved The Radio Star | 38.00% | ~70 |
 | Hashtag Winning | 36.00% | ~66 |
-| A Woman Scorned | 24.00% | ~44 |
+| A Woman Scorned | 25.00% | ~46 |
 | Chameleon | 21.00% | ~39 |
 | Highlander | 20.00% | ~37 |
 | Look Mum I'm A Detective | 20.00% | ~37 |
