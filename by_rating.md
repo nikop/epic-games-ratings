@@ -469,7 +469,7 @@
 | 456 | [Isonzo](games/i/isonzo.md) | 4.56 | 33 | 437 |
 | 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 498 |
 | 456 | [Minit](games/m/minit.md) | 4.56 | 0 | 498 |
-| 456 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,743 | 66 |
+| 456 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,743 | 67 |
 | 456 | [Observation](games/o/observation.md) | 4.56 | 0 | 498 |
 | 456 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.56 | 2,386 | 98 |
 | 456 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,787 | 111 |
@@ -491,7 +491,7 @@
 | 477 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.55 | 0 | 498 |
 | 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 303 | 229 |
 | 477 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,189 | 130 |
-| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,734 | 67 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,755 | 66 |
 | 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
 | 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,154 | 132 |
 | 492 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 367 |
@@ -575,7 +575,7 @@
 | 566 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 238 |
 | 566 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 236 | 248 |
 | 566 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 498 |
-| 566 | [Maneater](games/m/maneater.md) | 4.49 | 13,525 | 25 |
+| 566 | [Maneater](games/m/maneater.md) | 4.49 | 13,528 | 25 |
 | 566 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 625 | 169 |
 | 566 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 0 | 498 |
 | 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 498 |

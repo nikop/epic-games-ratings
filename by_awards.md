@@ -24,7 +24,7 @@
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,576 | 4.76 | 119 |
 | 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,400 | 4.58 | 422 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 14,219 | 4.21 | 826 |
-| 25 | [Maneater](games/m/maneater.md) | 13,525 | 4.49 | 566 |
+| 25 | [Maneater](games/m/maneater.md) | 13,528 | 4.49 | 566 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,415 | 4.60 | 389 |
 | 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,738 | 4.24 | 807 |
 | 28 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,530 | 4.36 | 724 |
@@ -65,8 +65,8 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,053 | 4.34 | 741 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,956 | 4.06 | 897 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 4,774 | 4.65 | 296 |
-| 66 | [MultiVersus](games/m/multiversus.md) | 4,743 | 4.56 | 456 |
-| 67 | [Dead Island 2](games/d/dead_island_2.md) | 4,734 | 4.54 | 492 |
+| 66 | [Dead Island 2](games/d/dead_island_2.md) | 4,755 | 4.54 | 492 |
+| 67 | [MultiVersus](games/m/multiversus.md) | 4,743 | 4.56 | 456 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,630 | 3.99 | 912 |
 | 69 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,537 | 4.70 | 196 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,413 | 4.70 | 196 |

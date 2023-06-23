@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-23 | - |  | - | - |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2023-06-23 | - |  | - | - |
 | [Avoid It](games/f/fc26bb604bcb4130bc0798c8d9ef95b1.md) | 2023-06-23 | - |  | - | - |
 | [The Silent City Chapter 1](games/9/910c2c0f214946c893429b050c486468.md) | 2023-06-23 | - |  | - | - |

@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 34.21% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 31.03% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -79,7 +79,7 @@
 | 77 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
 | 79 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.65% |
+| 80 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.64% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 83 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
