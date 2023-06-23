@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.00% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 31.03% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -14,16 +14,16 @@
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 13 | [Remains](games/r/remains.md) | 12.50% |
-| 13 | [Sonic Origins](games/s/sonic_origins.md) | 12.50% |
-| 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.84% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
-| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
-| 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 23 | [Smelter](games/s/smelter.md) | 8.33% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.84% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
+| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 22 | [Smelter](games/s/smelter.md) | 8.33% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
@@ -31,7 +31,7 @@
 | 29 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
+| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.06% |
 | 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.34% |
@@ -53,7 +53,7 @@
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
-| 53 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.10% |
+| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.09% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -77,10 +77,10 @@
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.81% |
-| 79 | [Sifu](games/s/sifu.md) | 1.80% |
+| 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.80% |
+| 78 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.61% |
+| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.60% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
@@ -105,8 +105,8 @@
 | 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 104 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
-| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.77% |
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.73% |
 | 109 | [Haven](games/h/haven.md) | 0.70% |
 | 110 | [Them and Us](games/t/them_and_us.md) | 0.69% |
@@ -116,7 +116,7 @@
 | 114 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.64% |
 | 114 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.64% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 117 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.61% |
+| 117 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 118 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 118 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 120 | [Grindstone](games/g/grindstone.md) | 0.55% |
