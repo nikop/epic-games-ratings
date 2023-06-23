@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.59 (Ranked 411)  
 ## Awards
-Max (Great for Beginners): 180  (Ranked 274)  
+Max (Great for Beginners): 180  (Ranked 275)  
 Sum: 1,660 (Ranked 205)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 180 |

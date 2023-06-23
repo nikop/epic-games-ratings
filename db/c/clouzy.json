@@ -2,9 +2,9 @@
   "ID": "3ea5e15881be44bda09a0706e51d94ba",
   "Name": "Clouzy",
   "ProductSlug": "clouzy-c67f4b",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-24T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.7706681+00:00",
   "LastChanged": "2023-03-31T05:58:22.7706683+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:28.1436625+00:00",
-  "LastUpdate_Ratings": "2023-06-23T14:00:13.9951903+00:00",
-  "LastUpdate_Achievements": "2023-06-23T14:02:14.7842461+00:00"
+  "LastUpdate_Ratings": "2023-06-23T15:00:16.213489+00:00",
+  "LastUpdate_Achievements": "2023-06-23T15:01:31.2015738+00:00"
 }

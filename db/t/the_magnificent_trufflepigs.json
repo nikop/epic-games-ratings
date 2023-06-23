@@ -2,9 +2,9 @@
   "ID": "4d913aeb07a14a5a9214c6e4f8c5b4ff",
   "Name": "The Magnificent Trufflepigs",
   "ProductSlug": "the-magnificent-trufflepigs",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-26T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.9092357+00:00",
   "LastChanged": "2023-03-31T05:58:24.9092358+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:34.2810112+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:58:06.0163829+00:00",
-  "LastUpdate_Achievements": "2023-06-23T14:02:11.4127227+00:00"
+  "LastUpdate_Ratings": "2023-06-23T14:58:08.6759449+00:00",
+  "LastUpdate_Achievements": "2023-06-23T15:01:27.7408229+00:00"
 }

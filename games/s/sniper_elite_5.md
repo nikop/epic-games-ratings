@@ -13,8 +13,8 @@ Rating: 4.46 (Ranked 604)
 | It's Starting to Crack | 1.00% | ~31 |
 | Change the Channel | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
+| Target America | 1.00% | ~31 |
 | Sharpshooter | 0.90% | ~28 |
-| Target America | 0.90% | ~28 |
 | Just a Flesh Wound | 0.80% | ~25 |
 | Resourceful | 0.80% | ~25 |
 | As Quiet as a Mouse | 0.70% | ~22 |
@@ -33,19 +33,20 @@ Rating: 4.46 (Ranked 604)
 | Snake in the Grass | 0.50% | ~15 |
 | Brains of the Operation | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
+| Enemy at the Gates | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |
 | My Little Friend | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Opposing Force | 0.30% | ~9 |
-| Enemy at the Gates | 0.30% | ~9 |
 | Fields of Glory | 0.30% | ~9 |
+| Strategist | 0.30% | ~9 |
 | Locomotion Commotion | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Herr Today, Gone Tomorrow | 0.30% | ~9 |
 | Operation Foxley | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
-| Strategist | 0.20% | ~6 |
+| Road Rage | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
@@ -64,7 +65,6 @@ Rating: 4.46 (Ranked 604)
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
-| Road Rage | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |

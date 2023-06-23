@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -844,6 +844,11 @@
       "Time": "2023-06-22T16:04:32.489521+00:00",
       "NumProgressed": 313,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T15:04:25.7167134+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -927,7 +932,7 @@
       "Name": "Souvenirs",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "scoreminrankrp1",
@@ -935,7 +940,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "scoreminrankrp2",
@@ -959,7 +964,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "scoreminrankrv2",
@@ -974,7 +979,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 2
     }
   ],
@@ -982,8 +987,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-23T14:04:48.7397975+00:00",
+  "LastChanged_Achievements": "2023-06-23T15:04:25.7167126+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.3345062+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:59:03.0874027+00:00",
-  "LastUpdate_Achievements": "2023-06-23T14:04:48.7398121+00:00"
+  "LastUpdate_Ratings": "2023-06-23T14:59:05.8773976+00:00",
+  "LastUpdate_Achievements": "2023-06-23T15:04:25.7167291+00:00"
 }

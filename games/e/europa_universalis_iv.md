@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,387 |
-| That's a Grand Army | 8.00% | ~4,788 |
-| That is mine! | 8.00% | ~4,788 |
-| Victorious! | 8.00% | ~4,788 |
-| Brothers in Arms | 6.00% | ~3,591 |
-| That's a Grand Navy | 6.00% | ~3,591 |
-| Seriously?! | 6.00% | ~3,591 |
-| For the Glory | 5.00% | ~2,993 |
-| Cold War | 4.00% | ~2,394 |
-| True Catholic | 4.00% | ~2,394 |
+| Until death do us apart | 9.00% | ~5,388 |
+| That's a Grand Army | 8.00% | ~4,790 |
+| That is mine! | 8.00% | ~4,790 |
+| Victorious! | 8.00% | ~4,790 |
+| Brothers in Arms | 6.00% | ~3,592 |
+| That's a Grand Navy | 6.00% | ~3,592 |
+| Seriously?! | 6.00% | ~3,592 |
+| For the Glory | 5.00% | ~2,994 |
+| Cold War | 4.00% | ~2,395 |
+| True Catholic | 4.00% | ~2,395 |
 | Defender of the Faith | 3.00% | ~1,796 |
 | It's all about the money | 3.00% | ~1,796 |
 | Respected | 3.00% | ~1,796 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,851 (Ranked 77)  
+Progressed: 59,872 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,17 +425,17 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
-| 2023-06-23 | 59,851 | 0 |
+| 2023-06-23 | 59,872 | 0 |
 ## Awards
 Max (Educational): 5,439  (Ranked 61)  
-Sum: 44,938 (Ranked 27)  
+Sum: 44,947 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,439 |
-| This game is Highly Recommended | 5,213 |
+| This game is Highly Recommended | 5,218 |
 | This game has Challenging Combat | 5,186 |
-| This game is Extremely Fun | 5,163 |
+| This game is Extremely Fun | 5,167 |
 | This game has Diverse Characters | 5,117 |
 | This game is Relaxing | 5,044 |
 | This game has Competitive Players | 4,891 |
@@ -602,4 +602,4 @@ Diff (max vs sum): 34
 | 2023-06-20 | 4.68 | - | 5,420 | 44,807 |
 | 2023-06-21 | 4.68 | - | 5,430 | 44,886 |
 | 2023-06-22 | 4.68 | - | 5,439 | 44,925 |
-| 2023-06-23 | 4.68 | - | 5,439 | 44,938 |
+| 2023-06-23 | 4.68 | - | 5,439 | 44,947 |

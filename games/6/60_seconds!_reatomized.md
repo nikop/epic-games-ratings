@@ -13,7 +13,7 @@ Rating: 4.62 (Ranked 347)
 | One way ticket | 83.00% | ~3,643 |
 | Last man standing | 77.00% | ~3,380 |
 | Family guy | 75.00% | ~3,292 |
-| Out of the Bag | 72.00% | ~3,160 |
+| Out of the Bag | 73.00% | ~3,204 |
 | The Dark Side | 67.00% | ~2,941 |
 | Duck and cover! | 63.00% | ~2,765 |
 | Souper! | 61.00% | ~2,677 |

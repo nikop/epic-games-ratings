@@ -14,8 +14,8 @@ Rating: 4.34 (Ranked 741)
 | Croaked | 45.00% | ~532 |
 | Limp Richard | 44.00% | ~521 |
 | From Darkness to Light | 44.00% | ~521 |
+| Editor Adept | 43.00% | ~509 |
 | Exorcist | 43.00% | ~509 |
-| Editor Adept | 42.00% | ~497 |
 | Firestarter | 40.00% | ~473 |
 | Giant Killer | 40.00% | ~473 |
 | Sensei | 38.00% | ~450 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 741)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 175)  
+Progressed: 1,183 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

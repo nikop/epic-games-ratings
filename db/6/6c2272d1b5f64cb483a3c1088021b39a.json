@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1739,9 +1739,9 @@
       "ID": "diehard_1",
       "SetID": "53c1p3k",
       "Name": "Diehard 1",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "diehard_2",
@@ -2130,8 +2130,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-23T14:03:13.4751669+00:00",
+  "LastChanged_Achievements": "2023-06-23T15:02:19.1812193+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:57:03.0527861+00:00",
-  "LastUpdate_Achievements": "2023-06-23T14:03:13.4752221+00:00"
+  "LastUpdate_Ratings": "2023-06-23T14:57:06.823076+00:00",
+  "LastUpdate_Achievements": "2023-06-23T15:02:19.1812815+00:00"
 }

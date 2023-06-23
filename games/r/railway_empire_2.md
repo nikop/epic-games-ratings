@@ -17,14 +17,14 @@ Rating: 4.31 (Ranked 766)
 | Mind the Gap | 63.00% | ~840 |
 | All around the World | 61.00% | ~813 |
 | Right through the middle | 56.00% | ~746 |
+| Facility Manager | 53.00% | ~706 |
 | Poor Devil | 53.00% | ~706 |
-| Facility Manager | 52.00% | ~693 |
 | Producer | 49.00% | ~653 |
 | Apprentice | 42.00% | ~560 |
 | Bridge Builder | 41.00% | ~547 |
 | Access granted | 35.00% | ~467 |
 | Going once, going twice, sold | 34.00% | ~453 |
-| Stoker | 32.00% | ~427 |
+| Stoker | 33.00% | ~440 |
 | Full Steam ahead | 31.00% | ~413 |
 | Bull and bear | 31.00% | ~413 |
 | All mine | 28.00% | ~373 |

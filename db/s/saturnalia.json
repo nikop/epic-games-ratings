@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64214,
+  "EOS_Progressed": 64215,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4140,6 +4140,11 @@
       "Time": "2023-06-23T14:03:51.5282195+00:00",
       "NumProgressed": 64214,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-23T15:03:27.1447897+00:00",
+      "NumProgressed": 64215,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4255,7 +4260,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_READCLUES",
@@ -4310,7 +4315,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64214,
+      "Progressed": 64215,
       "Completed": 13
     }
   ],
@@ -4318,8 +4323,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-23T14:03:51.5282191+00:00",
+  "LastChanged_Achievements": "2023-06-23T15:03:27.1447889+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:16.0843197+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:57:39.2629546+00:00",
-  "LastUpdate_Achievements": "2023-06-23T14:03:51.5282493+00:00"
+  "LastUpdate_Ratings": "2023-06-23T14:57:43.2234945+00:00",
+  "LastUpdate_Achievements": "2023-06-23T15:03:27.144844+00:00"
 }

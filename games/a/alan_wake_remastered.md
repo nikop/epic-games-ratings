@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,922 |
-| Let There Be Light | 26.00% | ~14,562 |
+| Follow the Light | 32.00% | ~17,923 |
+| Let There Be Light | 26.00% | ~14,563 |
 | Float Like a Butterfly | 25.00% | ~14,002 |
-| Nordic Walking | 20.00% | ~11,201 |
-| Bright Falls' Finest | 19.00% | ~10,641 |
-| Under a Thin Layer of Skin | 17.00% | ~9,521 |
+| Nordic Walking | 20.00% | ~11,202 |
+| Bright Falls' Finest | 19.00% | ~10,642 |
+| Under a Thin Layer of Skin | 17.00% | ~9,522 |
 | Park Ranger | 14.00% | ~7,841 |
 | Paging Mr. Wake | 14.00% | ~7,841 |
 | Back! Back, I Say! | 13.00% | ~7,281 |
@@ -34,10 +34,10 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 8.00% | ~4,481 |
 | Energized! | 8.00% | ~4,481 |
 | A Friend in Need | 8.00% | ~1,558 |
-| What Light Through Yonder Window | 7.00% | ~3,920 |
-| Right of Way | 7.00% | ~3,920 |
-| Tornado Wrangler | 6.00% | ~3,360 |
-| A Friend Indeed | 6.00% | ~1,168 |
+| What Light Through Yonder Window | 7.00% | ~3,921 |
+| Right of Way | 7.00% | ~3,921 |
+| Tornado Wrangler | 6.00% | ~3,361 |
+| A Friend Indeed | 6.00% | ~1,169 |
 | Departure | 5.00% | ~2,800 |
 | Ding! | 5.00% | ~974 |
 | Children of the Elder God | 4.00% | ~2,240 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,007 (Ranked 79)  
+Progressed: 56,010 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
 | 2023-06-22 | 55,969 | 56 |
-| 2023-06-23 | 56,007 | 56 |
+| 2023-06-23 | 56,010 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

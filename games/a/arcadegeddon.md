@@ -20,8 +20,8 @@ Number of Ratings: 801  (23.09.2022)
 | Meching Enemies | 49.00% | ~3,602 |
 | Ticket Toddler | 45.00% | ~3,308 |
 | Booty Bashing | 43.00% | ~3,161 |
+| Field Medic | 38.00% | ~2,794 |
 | Here Comes a New Challenger | 38.00% | ~2,794 |
-| Field Medic | 37.00% | ~2,720 |
 | Rapid Response | 33.00% | ~2,426 |
 | Guardian Angel | 31.00% | ~2,279 |
 | Surge Ahead | 31.00% | ~2,279 |
