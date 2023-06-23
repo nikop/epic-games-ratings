@@ -23,8 +23,8 @@
 | Spooky | 17.00% | ~9 |
 | Classroom Secret Spot | 15.00% | ~8 |
 | Bathroom Secret Spot | 15.00% | ~8 |
+| At least everyone still had fun | 12.00% | ~6 |
 | Living Room Secret Spot | 10.00% | ~5 |
-| At least everyone still had fun | 10.00% | ~5 |
 | Angry Dad | 8.00% | ~4 |
 | Just how we drew it up | 8.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |

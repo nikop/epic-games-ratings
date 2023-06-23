@@ -29,13 +29,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Sage | 40.00% | ~31,498 |
 | Malice Takes Root | 37.00% | ~29,135 |
 | Path of the Dark Knight | 37.00% | ~29,135 |
+| Path of the Paladin | 37.00% | ~29,135 |
 | Path of the Breaker | 37.00% | ~29,135 |
 | Duty's Course | 36.00% | ~28,348 |
-| Path of the Paladin | 36.00% | ~28,348 |
 | Path of the Liberator | 35.00% | ~27,560 |
+| Path of the Tyrant | 35.00% | ~27,560 |
 | Led by the Nose | 34.00% | ~26,773 |
 | Path of the Void Knight | 34.00% | ~26,773 |
-| Path of the Tyrant | 34.00% | ~26,773 |
 | Path of the Ninja | 33.00% | ~25,986 |
 | Terminus of Fate | 32.00% | ~25,198 |
 | Path of the Assassin | 32.00% | ~25,198 |

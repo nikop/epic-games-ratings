@@ -56,7 +56,7 @@ Rating: 4.31 (Ranked 766)
 | Call of Duty | 3.00% | ~40 |
 | Engineer | 1.00% | ~13 |
 | Accurate | 1.00% | ~13 |
-| Together we stand | 0.40% | ~5 |
+| Together we stand | 0.50% | ~7 |
 | European Union | 0.30% | ~4 |
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |

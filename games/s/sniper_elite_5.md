@@ -37,11 +37,11 @@ Rating: 4.47 (Ranked 592)
 | Shipbreaker | 0.50% | ~15 |
 | Opposing Force | 0.40% | ~12 |
 | Enemy at the Gates | 0.40% | ~12 |
+| Fields of Glory | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Locomotion Commotion | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
-| Fields of Glory | 0.30% | ~9 |
 | Strategist | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Burn after reading | 0.30% | ~9 |
@@ -52,6 +52,7 @@ Rating: 4.47 (Ranked 592)
 | Don't hold your breath | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |
+| Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
@@ -62,7 +63,6 @@ Rating: 4.47 (Ranked 592)
 | Reich To The Point | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
-| Ghost of Falaise | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |

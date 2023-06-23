@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22918,
+  "EOS_Progressed": 22919,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1774,6 +1774,11 @@
       "Time": "2023-06-23T22:05:10.1704936+00:00",
       "NumProgressed": 22918,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-23T23:05:18.9043135+00:00",
+      "NumProgressed": 22919,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1801,7 +1806,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17647
+      "UsersEstimate": 17648
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1825,7 +1830,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6646
+      "UsersEstimate": 6647
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1865,7 +1870,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5501
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1873,7 +1878,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5501
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1889,7 +1894,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19022
+      "UsersEstimate": 19023
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1897,7 +1902,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -1905,7 +1910,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13063
+      "UsersEstimate": 13064
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1953,7 +1958,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -1969,7 +1974,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16730
+      "UsersEstimate": 16731
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2040,22 +2045,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22918,
+      "Progressed": 22919,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 211,
-      "Completed": 211
+      "Progressed": 212,
+      "Completed": 212
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-23T22:05:10.1704931+00:00",
+  "LastChanged_Achievements": "2023-06-23T23:05:18.904313+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:43.3982882+00:00",
-  "LastUpdate_Ratings": "2023-06-23T21:58:24.0216094+00:00",
-  "LastUpdate_Achievements": "2023-06-23T22:05:10.1705246+00:00"
+  "LastUpdate_Ratings": "2023-06-23T22:58:24.3928578+00:00",
+  "LastUpdate_Achievements": "2023-06-23T23:05:18.9043547+00:00"
 }

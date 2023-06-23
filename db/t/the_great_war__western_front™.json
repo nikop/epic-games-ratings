@@ -1197,9 +1197,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-23T22:04:15.4584358+00:00",
+  "LastChanged_Achievements": "2023-06-23T23:04:25.3374112+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:10.7573409+00:00",
-  "LastUpdate_Ratings": "2023-06-23T21:58:52.2545229+00:00",
-  "LastUpdate_Achievements": "2023-06-23T22:04:15.4584495+00:00"
+  "LastUpdate_Ratings": "2023-06-23T22:58:52.3897162+00:00",
+  "LastUpdate_Achievements": "2023-06-23T23:04:25.3374269+00:00"
 }

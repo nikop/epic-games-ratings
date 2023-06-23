@@ -6,12 +6,12 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,652 |
-| Cavalier | 25.00% | ~197,300 |
-| Fatso | 23.00% | ~181,516 |
-| Awakening | 20.00% | ~157,840 |
-| Ranger | 20.00% | ~157,840 |
-| Scrooge | 20.00% | ~157,840 |
+| Blacksmith's Son | 31.00% | ~244,653 |
+| Cavalier | 25.00% | ~197,301 |
+| Fatso | 23.00% | ~181,517 |
+| Awakening | 20.00% | ~157,841 |
+| Ranger | 20.00% | ~157,841 |
+| Scrooge | 20.00% | ~157,841 |
 | Anorectic | 16.00% | ~126,272 |
 | Firestarter | 15.00% | ~118,380 |
 | Bookworm | 14.00% | ~110,488 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~789 |
 | Wingman | 0.10% | ~789 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789,199 (Ranked 15)  
+Progressed: 789,203 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,20 +153,20 @@ Completed: 43 (0.01%) (Ranked 217)
 | 2023-06-20 | 788,765 | 42 |
 | 2023-06-21 | 788,913 | 42 |
 | 2023-06-22 | 789,052 | 43 |
-| 2023-06-23 | 789,199 | 43 |
+| 2023-06-23 | 789,203 | 43 |
 ## Awards
 Max (Character Customization): 7,265  (Ranked 46)  
-Sum: 27,117 (Ranked 43)  
+Sum: 27,119 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,265 |
 | This game has Great Boss Battles | 5,341 |
 | This game has Challenging Combat | 1,702 |
-| This game has Amazing Storytelling | 1,663 |
+| This game has Amazing Storytelling | 1,664 |
 | This game is Extremely Fun | 1,636 |
 | This game has Diverse Characters | 1,634 |
-| This game is Highly Recommended | 1,621 |
+| This game is Highly Recommended | 1,622 |
 | This game has Amazing Characters | 1,614 |
 | This game has Realistic Visuals | 1,599 |
 | This game is Educational | 1,551 |
@@ -324,4 +324,4 @@ Diff (max vs sum): 3
 | 2023-06-20 | 4.71 | - | 7,260 | 27,097 |
 | 2023-06-21 | 4.71 | - | 7,261 | 27,104 |
 | 2023-06-22 | 4.71 | - | 7,262 | 27,108 |
-| 2023-06-23 | 4.71 | - | 7,265 | 27,117 |
+| 2023-06-23 | 4.71 | - | 7,265 | 27,119 |

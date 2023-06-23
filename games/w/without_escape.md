@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Never around when you need them | 44.00% | ~7 |
 | Became the new Maker | 25.00% | ~4 |
+| Where's the air conditioner? | 19.00% | ~3 |
 | Jumped into the void | 13.00% | ~2 |
-| Where's the air conditioner? | 13.00% | ~2 |
 | You got all endings! | 6.00% | ~1 |
 | Did you think you would make it? | 6.00% | ~1 |
 | Stubbornness unleashed! | 6.00% | ~1 |

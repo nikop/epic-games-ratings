@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beach | 91.00% | ~29 |
-| Library | 69.00% | ~22 |
-| Space | 56.00% | ~18 |
-| Haunted Mansion | 53.00% | ~17 |
-| Science Laboratory | 44.00% | ~14 |
-| Ball Disposal Facility | 34.00% | ~11 |
+| Beach | 94.00% | ~30 |
+| Library | 72.00% | ~23 |
+| Space | 59.00% | ~19 |
+| Haunted Mansion | 56.00% | ~18 |
+| Science Laboratory | 47.00% | ~15 |
+| Ball Disposal Facility | 38.00% | ~12 |
 | Mecha Wars | 31.00% | ~10 |
 | Sewer | 31.00% | ~10 |
 | Arcade | 31.00% | ~10 |

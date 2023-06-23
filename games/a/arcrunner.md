@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 1.00% | ~6 |
-| Challenge Accepted | 0.70% | ~4 |
+| Augmented | 2.00% | ~12 |
+| Challenge Accepted | 1.00% | ~6 |
+| Terminated I | 1.00% | ~6 |
+| Nanonic I | 0.90% | ~5 |
+| Unlocked and Loaded | 0.90% | ~5 |
 | Integration | 0.70% | ~4 |
-| Terminated I | 0.70% | ~4 |
 | The City | 0.50% | ~3 |
+| Cybernetic | 0.50% | ~3 |
 | Inner Core | 0.50% | ~3 |
-| Nanonic I | 0.50% | ~3 |
 | Outer Core | 0.50% | ~3 |
-| Unlocked and Loaded | 0.50% | ~3 |
-| Cybernetic | 0.30% | ~2 |
+| Terminated II | 0.50% | ~3 |
+| Challenge Mastered | 0.30% | ~2 |
 | Nanonic III | 0.30% | ~2 |
 | Rookie | 0.30% | ~2 |
 | The Bigger They Are | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
-| Terminated II | 0.20% | ~1 |
 | Terminated III | 0.20% | ~1 |
-| Challenge Mastered | 0.00% | ~0 |
 | Cyborg | 0.00% | ~0 |
 | Destruction | 0.00% | ~0 |
 | Starship Docks | 0.00% | ~0 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 585 (Ranked 206)  
+Progressed: 587 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-20 | 558 | 0 |
 | 2023-06-21 | 569 | 0 |
 | 2023-06-22 | 580 | 0 |
-| 2023-06-23 | 585 | 0 |
+| 2023-06-23 | 587 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

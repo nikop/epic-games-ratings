@@ -50,7 +50,7 @@
 | Silver Moon Wolf King Challenge | 3.00% | ~1 |
 | Giant Lizard Challenge | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 343)  
+Progressed: 36 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |

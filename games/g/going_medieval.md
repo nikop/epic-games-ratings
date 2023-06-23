@@ -6,11 +6,11 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 72.00% | ~2,899 |
+| Get A Room | 73.00% | ~2,939 |
 | Having A Field Day | 71.00% | ~2,858 |
 | Reap What You Sow | 69.00% | ~2,778 |
 | The First Day | 66.00% | ~2,657 |
-| Green Thumb | 64.00% | ~2,577 |
+| Green Thumb | 65.00% | ~2,617 |
 | Novice Researcher | 62.00% | ~2,496 |
 | Putting Food on the Table | 59.00% | ~2,375 |
 | Onward | 54.00% | ~2,174 |
@@ -24,7 +24,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 38.00% | ~1,530 |
 | Fit For A King | 37.00% | ~1,490 |
 | Luminary Researcher | 35.00% | ~1,409 |
-| Heating Up | 26.00% | ~1,047 |
+| Heating Up | 27.00% | ~1,087 |
 | Winter Is Coming | 23.00% | ~926 |
 | Winter Is Here | 20.00% | ~805 |
 | A Party Now | 18.00% | ~725 |

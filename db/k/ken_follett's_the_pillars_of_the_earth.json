@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13455,
+  "EOS_Progressed": 13456,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
@@ -4754,6 +4754,11 @@
       "Time": "2023-06-23T22:06:01.2420991+00:00",
       "NumProgressed": 13455,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-23T23:06:08.1829623+00:00",
+      "NumProgressed": 13456,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4829,7 +4834,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "tpote_achievement_18",
@@ -4845,7 +4850,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "tpote_achievement_2",
@@ -4917,7 +4922,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "tpote_achievement_28",
@@ -5027,9 +5032,9 @@
       "ID": "tpote_achievement_4",
       "SetID": "3jcf6c3",
       "Name": "Tattletale",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5517
     },
     {
       "ID": "tpote_achievement_40",
@@ -5085,22 +5090,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13455,
+      "Progressed": 13456,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-23T22:06:01.2420987+00:00",
+  "LastChanged_Achievements": "2023-06-23T23:06:08.1829618+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-23T22:00:12.1580169+00:00",
-  "LastUpdate_Achievements": "2023-06-23T22:06:01.2421411+00:00"
+  "LastUpdate_Ratings": "2023-06-23T23:00:08.2821442+00:00",
+  "LastUpdate_Achievements": "2023-06-23T23:06:08.1830171+00:00"
 }

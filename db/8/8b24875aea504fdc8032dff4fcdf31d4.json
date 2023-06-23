@@ -104,9 +104,9 @@
       "ID": "ACH_CATCHTHUG2",
       "SetID": "73kff7",
       "Name": "But why are you hiding?",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CEMETERY",
@@ -144,9 +144,9 @@
       "ID": "ACH_ELIZABETHSREST",
       "SetID": "73kff7",
       "Name": "Jumping in line",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EXPLOREMOTHERSHIP",
@@ -216,9 +216,9 @@
       "ID": "ACH_PORT",
       "SetID": "73kff7",
       "Name": "If the sea were ale, Timothy would go out to sail",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REACHMOTHERSHIP",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-23T22:04:57.2479224+00:00",
+  "LastChanged_Achievements": "2023-06-23T23:05:06.4347442+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:17.0816335+00:00",
-  "LastUpdate_Ratings": "2023-06-23T21:57:38.2761306+00:00",
-  "LastUpdate_Achievements": "2023-06-23T22:04:57.2479355+00:00"
+  "LastUpdate_Ratings": "2023-06-23T22:57:40.8041025+00:00",
+  "LastUpdate_Achievements": "2023-06-23T23:05:06.4347609+00:00"
 }
