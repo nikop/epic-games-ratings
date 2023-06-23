@@ -27,9 +27,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 6.00% | ~175 |
 | A Gift Spurned | 5.00% | ~146 |
 | Daemonkeeper | 4.00% | ~117 |
+| Mind Like a Fortress | 4.00% | ~117 |
 | Long Distance Call | 4.00% | ~117 |
 | Corruption Cleanser | 3.00% | ~87 |
-| Mind Like a Fortress | 3.00% | ~87 |
 | Harvest No More | 3.00% | ~87 |
 | Junk Banishment | 3.00% | ~87 |
 | Tactical Flexibility | 3.00% | ~87 |

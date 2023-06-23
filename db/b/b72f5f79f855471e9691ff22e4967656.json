@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -61,9 +61,9 @@
       "ID": "digTreasure1",
       "SetID": "ci65fo0",
       "Name": "The first treasure",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "digTreasure10",
@@ -85,9 +85,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "explodeItem100",
@@ -365,9 +365,9 @@
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questAntiquities",
@@ -437,9 +437,9 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "questDeadArtifact",
@@ -650,8 +650,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-06-23T12:02:43.9076917+00:00",
+  "LastChanged_Achievements": "2023-06-23T13:19:37.7777247+00:00",
   "LastUpdate_AppInfo": "2023-06-21T07:59:14.4735119+00:00",
-  "LastUpdate_Ratings": "2023-06-23T11:57:01.9676967+00:00",
-  "LastUpdate_Achievements": "2023-06-23T12:02:43.9077564+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:13:09.1777242+00:00",
+  "LastUpdate_Achievements": "2023-06-23T13:19:37.7778431+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6780,
+  "EOS_Progressed": 6781,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4719,6 +4719,11 @@
       "Time": "2023-06-23T12:00:19.2535627+00:00",
       "NumProgressed": 6780,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-23T13:18:01.2752506+00:00",
+      "NumProgressed": 6781,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 29,
@@ -4730,7 +4735,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "ACH02",
@@ -4738,7 +4743,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "ACH03",
@@ -4961,7 +4966,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6780,
+      "Progressed": 6781,
       "Completed": 38
     }
   ],
@@ -4969,8 +4974,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-23T12:00:19.2535619+00:00",
+  "LastChanged_Achievements": "2023-06-23T13:18:01.2752498+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.1005389+00:00",
-  "LastUpdate_Ratings": "2023-06-23T11:57:51.2367638+00:00",
-  "LastUpdate_Achievements": "2023-06-23T12:00:19.2536108+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:14:26.2099715+00:00",
+  "LastUpdate_Achievements": "2023-06-23T13:18:01.2753172+00:00"
 }

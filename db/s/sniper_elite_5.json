@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3091,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4206,6 +4206,11 @@
       "Time": "2023-06-23T08:07:48.9445436+00:00",
       "NumProgressed": 3091,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-23T13:23:34.115469+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4215,9 +4220,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -4351,9 +4356,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -4415,9 +4420,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -4551,9 +4556,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4591,9 +4596,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -4784,13 +4789,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3042,
+      "Progressed": 3043,
       "Completed": 4
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3091,
+      "Progressed": 3092,
       "Completed": 2
     }
   ],
@@ -4798,8 +4803,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-22T17:01:36.046167+00:00",
-  "LastChanged_Achievements": "2023-06-23T12:05:53.1567583+00:00",
+  "LastChanged_Achievements": "2023-06-23T13:23:34.1154685+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:01.7278341+00:00",
-  "LastUpdate_Ratings": "2023-06-23T12:00:09.9002424+00:00",
-  "LastUpdate_Achievements": "2023-06-23T12:05:53.1568313+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:17:44.8481854+00:00",
+  "LastUpdate_Achievements": "2023-06-23T13:23:34.1155706+00:00"
 }

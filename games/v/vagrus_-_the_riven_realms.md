@@ -25,6 +25,7 @@
 | Quartermaster | 0.90% | ~1 |
 | Supercargo | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
+| Strategist | 0.90% | ~1 |
 | Xevarian Gambit | 0.90% | ~1 |
 | Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
@@ -42,7 +43,6 @@
 | Carpenter | 0.00% | ~0 |
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
-| Strategist | 0.00% | ~0 |
 | General | 0.00% | ~0 |
 | Potential Unlocked | 0.00% | ~0 |
 | Adept | 0.00% | ~0 |

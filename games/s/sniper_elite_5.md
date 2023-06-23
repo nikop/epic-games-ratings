@@ -7,14 +7,14 @@ Rating: 4.46 (Ranked 604)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~31 |
 | Confirming Suspicions | 1.00% | ~31 |
+| Explosive Efficiency | 1.00% | ~31 |
 | Lord of War | 1.00% | ~31 |
 | The Kraken Wakes | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
+| Change the Channel | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
-| Explosive Efficiency | 0.90% | ~28 |
-| Change the Channel | 0.90% | ~28 |
+| Sharpshooter | 0.90% | ~28 |
 | Target America | 0.90% | ~28 |
-| Sharpshooter | 0.80% | ~25 |
 | Just a Flesh Wound | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
@@ -22,6 +22,7 @@ Rating: 4.46 (Ranked 604)
 | Liberté | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Der Geist | 0.60% | ~19 |
+| Climbing the Ladder | 0.50% | ~15 |
 | No Stone Unturned | 0.50% | ~15 |
 | Organ Grinder | 0.50% | ~15 |
 | Skirmisher | 0.50% | ~15 |
@@ -29,12 +30,11 @@ Rating: 4.46 (Ranked 604)
 | Precision Is Key | 0.50% | ~15 |
 | Close Quarters | 0.50% | ~15 |
 | Snake in the Grass | 0.50% | ~15 |
+| Brains of the Operation | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
-| Climbing the Ladder | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
-| Brains of the Operation | 0.40% | ~12 |
 | Opposing Force | 0.30% | ~9 |
 | Enemy at the Gates | 0.30% | ~9 |
 | My Little Friend | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 604)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,091 (Ranked 144)  
+Progressed: 3,092 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,091 | 2 |
+| 2023-06-23 | 3,092 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,384 |
+| Victor | 94.00% | ~1,385 |
 | World Map | 80.00% | ~1,178 |
-| Temple of Eternals | 57.00% | ~839 |
+| Temple of Eternals | 57.00% | ~840 |
 | Prestigious | 54.00% | ~795 |
 | Fellowship Power | 41.00% | ~604 |
-| Guild Power | 24.00% | ~353 |
+| Guild Power | 24.00% | ~354 |
 | Prestigious x10 | 21.00% | ~309 |
 | The game is on | 19.00% | ~280 |
 | Exotic Merchant | 17.00% | ~250 |
@@ -28,8 +28,8 @@ Rating: 4.07 (Ranked 894)
 | The Unstoppable | 12.00% | ~177 |
 | Milestone collector | 11.00% | ~162 |
 | Scientist | 10.00% | ~147 |
-| Hunter | 9.00% | ~132 |
-| The power of Awakening | 9.00% | ~132 |
+| Hunter | 9.00% | ~133 |
+| The power of Awakening | 9.00% | ~133 |
 | Challenger | 8.00% | ~118 |
 | Daily Quest Completionist | 8.00% | ~118 |
 | Doing My Part | 8.00% | ~118 |
@@ -41,13 +41,13 @@ Rating: 4.07 (Ranked 894)
 | Four Leaf Clover | 7.00% | ~103 |
 | Here We Go Again | 6.00% | ~88 |
 | Master Enchanter | 6.00% | ~88 |
-| The Expeditioner | 6.00% | ~88 |
 | The father of Dragons | 6.00% | ~88 |
 | Trader | 6.00% | ~88 |
 | Ancient Knowledge | 5.00% | ~74 |
 | Enchanting skill | 5.00% | ~74 |
 | How Do You Turn This On? | 5.00% | ~74 |
 | Missions Dedication | 5.00% | ~74 |
+| The Expeditioner | 5.00% | ~74 |
 | Weekly Quest Completionist | 5.00% | ~74 |
 | Background Story | 4.00% | ~59 |
 | Crystal Mining | 4.00% | ~59 |
@@ -65,10 +65,10 @@ Rating: 4.07 (Ranked 894)
 | Mythic Power | 0.80% | ~12 |
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~9 |
+| Pokerface | 0.50% | ~7 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Gear Enchanting | 0.40% | ~6 |
-| Pokerface | 0.40% | ~6 |
 | Angel Power | 0.30% | ~4 |
 | Enchanting skill x5 | 0.30% | ~4 |
 | Guardian Master | 0.30% | ~4 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,472 (Ranked 166)  
+Progressed: 1,473 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-20 | 1,452 | 1 |
 | 2023-06-21 | 1,458 | 1 |
 | 2023-06-22 | 1,469 | 1 |
-| 2023-06-23 | 1,472 | 1 |
+| 2023-06-23 | 1,473 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

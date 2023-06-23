@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,714 (Ranked 151)  
+Progressed: 2,715 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 2,704 | 0 |
 | 2023-06-21 | 2,706 | 0 |
 | 2023-06-22 | 2,711 | 0 |
-| 2023-06-23 | 2,714 | 0 |
+| 2023-06-23 | 2,715 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

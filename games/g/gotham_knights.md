@@ -14,25 +14,25 @@ Rating: 4.17 (Ranked 857)
 | Knighthood | 3.00% | ~1,976 |
 | Whispered Words | 3.00% | ~1,976 |
 | Lock and Key | 3.00% | ~1,976 |
-| End of an Era | 2.00% | ~1,317 |
-| In Your Element | 2.00% | ~1,317 |
-| Protector of Gotham | 2.00% | ~1,317 |
-| Something in the Clay | 2.00% | ~1,317 |
-| The Show Mud Go On | 2.00% | ~1,317 |
-| Rock and a Hard Place | 2.00% | ~1,317 |
-| Not On My Watch | 2.00% | ~1,317 |
-| Shock Til They Drop | 2.00% | ~1,317 |
-| Quartzer Life Crisis | 2.00% | ~1,317 |
-| Snow Problem | 2.00% | ~1,317 |
-| Cooldown | 2.00% | ~1,317 |
-| Working Hard or Harley Working? | 2.00% | ~1,317 |
-| Universal Health Scare | 2.00% | ~1,317 |
-| Unstoppable Force | 2.00% | ~1,317 |
-| Bad Apples in Every Orchard | 2.00% | ~1,317 |
-| From Inside Gotham's Walls | 2.00% | ~1,317 |
-| Voiceless | 2.00% | ~1,317 |
-| Seeking Asylum | 2.00% | ~1,317 |
-| Gotham Knight | 2.00% | ~1,317 |
+| End of an Era | 2.00% | ~1,318 |
+| In Your Element | 2.00% | ~1,318 |
+| Protector of Gotham | 2.00% | ~1,318 |
+| Something in the Clay | 2.00% | ~1,318 |
+| The Show Mud Go On | 2.00% | ~1,318 |
+| Rock and a Hard Place | 2.00% | ~1,318 |
+| Not On My Watch | 2.00% | ~1,318 |
+| Shock Til They Drop | 2.00% | ~1,318 |
+| Quartzer Life Crisis | 2.00% | ~1,318 |
+| Snow Problem | 2.00% | ~1,318 |
+| Cooldown | 2.00% | ~1,318 |
+| Working Hard or Harley Working? | 2.00% | ~1,318 |
+| Universal Health Scare | 2.00% | ~1,318 |
+| Unstoppable Force | 2.00% | ~1,318 |
+| Bad Apples in Every Orchard | 2.00% | ~1,318 |
+| From Inside Gotham's Walls | 2.00% | ~1,318 |
+| Voiceless | 2.00% | ~1,318 |
+| Seeking Asylum | 2.00% | ~1,318 |
+| Gotham Knight | 2.00% | ~1,318 |
 | Bulldozed | 1.00% | ~659 |
 | Out of Their League | 1.00% | ~659 |
 | Drone You Out | 1.00% | ~659 |
@@ -44,7 +44,7 @@ Rating: 4.17 (Ranked 857)
 | A Worthy Successor | 0.70% | ~461 |
 | Dressed to Impress | 0.60% | ~395 |
 | A Momentum Occasion | 0.50% | ~329 |
-| Bat Out of Hell | 0.40% | ~263 |
+| Bat Out of Hell | 0.40% | ~264 |
 | He'd Be So Proud of You | 0.30% | ~198 |
 | Hammer and Icicle | 0.20% | ~72 |
 | Renewable Enemy Source | 0.20% | ~72 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,873 (Ranked 72)  
+Progressed: 65,875 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,14 +131,14 @@ Completed: 96 (0.15%) (Ranked 165)
 | 2023-06-20 | 65,758 | 96 |
 | 2023-06-21 | 65,809 | 96 |
 | 2023-06-22 | 65,855 | 96 |
-| 2023-06-23 | 65,873 | 96 |
+| 2023-06-23 | 65,875 | 96 |
 ## Awards
-Max (Great Boss Battles): 2,362  (Ranked 100)  
-Sum: 3,916 (Ranked 136)  
+Max (Great Boss Battles): 2,372  (Ranked 100)  
+Sum: 3,926 (Ranked 136)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,362 |
+| This game has Great Boss Battles | 2,372 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Extremely Fun | 200 |
 | This game has Amazing Characters | 199 |
@@ -273,4 +273,4 @@ Diff (max vs sum): -36
 | 2023-06-20 | 4.17 | 2,348 | 3,894 |
 | 2023-06-21 | 4.17 | 2,354 | 3,903 |
 | 2023-06-22 | 4.17 | 2,362 | 3,915 |
-| 2023-06-23 | 4.17 | 2,362 | 3,916 |
+| 2023-06-23 | 4.17 | 2,372 | 3,926 |

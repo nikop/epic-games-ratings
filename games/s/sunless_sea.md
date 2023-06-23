@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,512 |
-| Sweet Sorrow | 18.00% | ~5,756 |
-| Rules the Waves | 17.00% | ~5,436 |
+| Sink Beneath the Waves | 36.00% | ~11,514 |
+| Sweet Sorrow | 18.00% | ~5,757 |
+| Rules the Waves | 17.00% | ~5,437 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,797 |
 | Rival | 14.00% | ~4,477 |
-| Correspondent | 12.00% | ~3,837 |
-| Lose Your Mind | 12.00% | ~3,837 |
-| Sound Mind? | 12.00% | ~3,837 |
-| Salt's Curse | 11.00% | ~3,517 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,517 |
-| The Fall of the House | 11.00% | ~3,517 |
-| Shipmate | 11.00% | ~3,517 |
-| One Year at Zee | 8.00% | ~2,558 |
-| Pupil | 7.00% | ~2,238 |
-| Salvager | 7.00% | ~2,238 |
-| Open Your Ears | 7.00% | ~2,238 |
-| The Ascent of Man | 7.00% | ~2,238 |
+| Correspondent | 12.00% | ~3,838 |
+| Lose Your Mind | 12.00% | ~3,838 |
+| Sound Mind? | 12.00% | ~3,838 |
+| Salt's Curse | 11.00% | ~3,518 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,518 |
+| The Fall of the House | 11.00% | ~3,518 |
+| Shipmate | 11.00% | ~3,518 |
+| One Year at Zee | 8.00% | ~2,559 |
+| Pupil | 7.00% | ~2,239 |
+| Salvager | 7.00% | ~2,239 |
+| Open Your Ears | 7.00% | ~2,239 |
+| The Ascent of Man | 7.00% | ~2,239 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,599 |
 | Zee Fever | 5.00% | ~1,599 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,279 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,977 (Ranked 91)  
+Progressed: 31,982 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-20 | 31,826 | 3 |
 | 2023-06-21 | 31,876 | 3 |
 | 2023-06-22 | 31,943 | 3 |
-| 2023-06-23 | 31,977 | 3 |
+| 2023-06-23 | 31,982 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 260)  
 Sum: 278 (Ranked 335)  

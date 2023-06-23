@@ -5,17 +5,17 @@ Rating: 3.85 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 50.00% | ~231 |
+| Bundle of Joy | 50.00% | ~232 |
 | A Friend in Need... | 46.00% | ~213 |
-| Bosom Buddies | 31.00% | ~143 |
+| Bosom Buddies | 31.00% | ~144 |
 | Beat the Heat | 24.00% | ~111 |
 | A Familiar Face | 16.00% | ~74 |
 | Unexpected Consequences | 14.00% | ~65 |
 | Mind the Gap | 13.00% | ~60 |
 | Does Not Compute | 13.00% | ~60 |
-| Identity Theft | 12.00% | ~55 |
-| F is for Feline | 12.00% | ~55 |
-| A Trip to Remember | 12.00% | ~55 |
+| Identity Theft | 12.00% | ~56 |
+| F is for Feline | 12.00% | ~56 |
+| A Trip to Remember | 12.00% | ~56 |
 | U Mad Bro? | 11.00% | ~51 |
 | Short Circuit | 11.00% | ~51 |
 | A Stealthy Outlook | 7.00% | ~32 |
@@ -23,9 +23,9 @@ Rating: 3.85 (Ranked 928)
 | Between the Covers | 5.00% | ~23 |
 | Antisocial Club | 5.00% | ~23 |
 | Den Mother | 5.00% | ~23 |
-| Everything Must Go! | 4.00% | ~18 |
-| You Had One Job... | 4.00% | ~18 |
-| Smart cookie | 4.00% | ~18 |
+| Everything Must Go! | 4.00% | ~19 |
+| You Had One Job... | 4.00% | ~19 |
+| Smart cookie | 4.00% | ~19 |
 | Paparazzi | 3.00% | ~14 |
 | Life of the Party | 3.00% | ~14 |
 | The Butterfly Effect | 2.00% | ~9 |
@@ -35,7 +35,7 @@ Rating: 3.85 (Ranked 928)
 | Marvellous Toys | 2.00% | ~9 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462 (Ranked 212)  
+Progressed: 463 (Ranked 212)  
 Completed: 5 (1.08%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 5 (1.08%) (Ranked 97)
 | 2023-06-15 | 460 | 5 |
 | 2023-06-17 | 461 | 5 |
 | 2023-06-21 | 462 | 5 |
+| 2023-06-23 | 463 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

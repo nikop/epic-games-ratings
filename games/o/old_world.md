@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 17.00% | ~2,080 |
 | Double Victory | 17.00% | ~2,080 |
 | Beloved | 16.00% | ~1,957 |
+| Invincible | 16.00% | ~1,957 |
 | Lion | 16.00% | ~1,957 |
 | Strong Difficulty | 16.00% | ~1,957 |
 | Gnosticism | 16.00% | ~1,957 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 16.00% | ~1,957 |
 | Bad Heir Day | 15.00% | ~1,835 |
 | Capable | 15.00% | ~1,835 |
-| Invincible | 15.00% | ~1,835 |
 | Hunters | 15.00% | ~1,835 |
 | Hittite Paganism | 15.00% | ~1,835 |
 | Industrial Progress | 15.00% | ~1,835 |

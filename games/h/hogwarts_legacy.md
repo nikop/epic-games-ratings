@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,114 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,115 |
 | First Class Student | 9.00% | ~25,303 |
-| A Keen Sense of Spell | 8.00% | ~22,491 |
-| Troll with the Punches | 8.00% | ~22,491 |
-| That's a Keeper | 8.00% | ~22,491 |
+| A Keen Sense of Spell | 8.00% | ~22,492 |
+| Troll with the Punches | 8.00% | ~22,492 |
+| That's a Keeper | 8.00% | ~22,492 |
 | Grappling with a Graphorn | 7.00% | ~19,680 |
 | The One Who Mastered Memories | 7.00% | ~19,680 |
 | The Hallowed Hero | 7.00% | ~19,680 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,143 (Ranked 41)  
+Progressed: 281,148 (Ranked 41)  
 Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,20 +115,20 @@ Completed: 409 (0.15%) (Ranked 165)
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
-| 2023-06-23 | 281,143 | 409 |
+| 2023-06-23 | 281,148 | 409 |
 ## Awards
-Max (Character Customization): 20,270  (Ranked 18)  
-Sum: 37,671 (Ranked 30)  
-Diff (max vs sum): -12  
+Max (Character Customization): 20,298  (Ranked 17)  
+Sum: 37,710 (Ranked 30)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,270 |
+| This game has Inclusive Character Customization | 20,298 |
 | This game has Great Boss Battles | 9,653 |
 | This game is Great for Beginners | 859 |
-| This game is Relaxing | 843 |
+| This game is Relaxing | 847 |
 | This game is Extremely Fun | 841 |
+| This game has Diverse Characters | 830 |
 | This game has Amazing Storytelling | 830 |
-| This game has Diverse Characters | 823 |
 | This game has Amazing Characters | 809 |
 | This game is Highly Recommended | 791 |
 | This game has Quickly Understood Controls | 744 |
@@ -228,4 +228,4 @@ Diff (max vs sum): -12
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
 | 2023-06-22 | 4.77 | 20,270 | 37,641 |
-| 2023-06-23 | 4.77 | 20,270 | 37,671 |
+| 2023-06-23 | 4.77 | 20,298 | 37,710 |

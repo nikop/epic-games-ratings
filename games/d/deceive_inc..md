@@ -6,29 +6,29 @@ Rating: 4.66 (Ranked 273)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,428 |
-| Mainframe Hacker | 47.00% | ~3,251 |
-| Tomorrow Never Dyes | 46.00% | ~3,182 |
-| The Spy who eliminated me | 46.00% | ~3,182 |
-| Never Say Loser Again | 40.00% | ~2,767 |
+| Mainframe Hacker | 47.00% | ~3,252 |
+| Tomorrow Never Dyes | 46.00% | ~3,183 |
+| The Spy who eliminated me | 46.00% | ~3,183 |
+| Never Say Loser Again | 40.00% | ~2,768 |
 | For your Eyes only | 39.00% | ~2,698 |
 | From the Vault with Love | 37.00% | ~2,560 |
 | Tailor-Made | 37.00% | ~2,560 |
-| Fully Decked Out | 35.00% | ~2,421 |
+| Fully Decked Out | 35.00% | ~2,422 |
 | You Only Live Twice | 32.00% | ~2,214 |
 | A view to Win | 27.00% | ~1,868 |
-| Private Collection | 25.00% | ~1,730 |
 | Smells Like Trouble | 25.00% | ~1,730 |
-| Assistant Accountant | 24.00% | ~1,660 |
-| The Living Portrait | 24.00% | ~1,660 |
-| Killer Looks | 24.00% | ~1,660 |
-| Hostile Takeover | 24.00% | ~1,660 |
+| Assistant Accountant | 24.00% | ~1,661 |
+| The Living Portrait | 24.00% | ~1,661 |
+| Private Collection | 24.00% | ~1,661 |
+| Killer Looks | 24.00% | ~1,661 |
+| Hostile Takeover | 24.00% | ~1,661 |
 | Keycards Royale | 23.00% | ~1,591 |
 | Dr. No Kill | 23.00% | ~1,591 |
 | My Motto, My Creed | 23.00% | ~1,591 |
 | In It to Win It | 22.00% | ~1,522 |
 | Security Supervisor | 10.00% | ~692 |
-| License to Thrill | 8.00% | ~553 |
-| Social of Solace | 8.00% | ~553 |
+| License to Thrill | 8.00% | ~554 |
+| Social of Solace | 8.00% | ~554 |
 | Safe Withdrawal | 6.00% | ~415 |
 | Live and let lie | 5.00% | ~346 |
 | Call Me Maybe | 4.00% | ~277 |
@@ -42,7 +42,7 @@ Rating: 4.66 (Ranked 273)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,918 (Ranked 121)  
+Progressed: 6,919 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 6,882 | 0 |
 | 2023-06-21 | 6,897 | 0 |
 | 2023-06-22 | 6,913 | 0 |
-| 2023-06-23 | 6,918 | 0 |
+| 2023-06-23 | 6,919 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Curse of the Dead Gods
 [Store](https://store.epicgames.com/en-US/p/curse-of-the-dead-gods)  
 [View Rawdata](../../db/c/curse_of_the_dead_gods.json)  
-Rating: 4.64 (Ranked 315)  
+Rating: 4.63 (Ranked 330)  
 Number of Ratings: 140  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 114  (Ranked 314)  
@@ -85,3 +85,4 @@ Diff (max vs sum): -84
 | 2023-04-22 | 4.64 | - | 114 | 114 |
 | 2023-04-23 | 4.65 | - | 114 | 114 |
 | 2023-04-27 | 4.64 | - | 114 | 114 |
+| 2023-06-23 | 4.63 | - | 114 | 114 |
