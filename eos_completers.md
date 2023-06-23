@@ -26,7 +26,7 @@
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
 | 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
@@ -84,8 +84,8 @@
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
-| 85 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.50% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 86 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.49% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
@@ -117,10 +117,10 @@
 | 114 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.64% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 117 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
-| 118 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 118 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
-| 120 | [Grindstone](games/g/grindstone.md) | 0.55% |
-| 120 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 119 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 119 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
+| 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 123 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
