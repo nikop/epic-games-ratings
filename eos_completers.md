@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.56% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -16,18 +16,18 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.79% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.76% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 9.68% |
-| 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 20 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 8.57% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.28% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
-| 28 | [Scorn](games/s/scorn.md) | 6.84% |
+| 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Without Escape](games/w/without_escape.md) | 6.67% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -82,9 +82,9 @@
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
-| 83 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.53% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
-| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
+| 84 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.52% |
+| 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
 | 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
