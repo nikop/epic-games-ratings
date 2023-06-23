@@ -35,10 +35,10 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 11.00% | ~183 |
 | There is Hope | 11.00% | ~183 |
 | Loyalty to the Pack | 9.00% | ~150 |
+| Eternity Can Wait | 9.00% | ~150 |
 | Mystery Machine | 9.00% | ~150 |
 | The Philosopher’s Stone | 9.00% | ~150 |
 | Gold Digger | 8.00% | ~133 |
-| Eternity Can Wait | 8.00% | ~133 |
 | Knuckle Sandwich | 8.00% | ~133 |
 | Do Not Pass Go… | 7.00% | ~117 |
 | Getting the Gang Back Together | 7.00% | ~117 |

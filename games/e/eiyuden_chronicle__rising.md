@@ -18,7 +18,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Fishing | 51.00% | ~345 |
 | First Time Hunting | 49.00% | ~331 |
 | Rune Wall Wreckage | 48.00% | ~324 |
-| ...And Your Tax Money | 46.00% | ~311 |
+| ...And Your Tax Money | 47.00% | ~318 |
 | The Lords of the Snowpeak | 40.00% | ~270 |
 | The Go-To Girl | 36.00% | ~243 |
 | Scavenger's Honor | 36.00% | ~243 |

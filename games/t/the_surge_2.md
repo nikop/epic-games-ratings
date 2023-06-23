@@ -51,9 +51,9 @@ Rating: 4.24 (Ranked 807)
 | Juiced Up | 5.00% | ~91 |
 | Hello Darkness My Old Friend | 4.00% | ~72 |
 | Geronimo! | 4.00% | ~72 |
+| Homewrecker | 4.00% | ~72 |
 | Plank of Wood | 4.00% | ~72 |
 | Gotta Craft 'em All | 3.00% | ~54 |
-| Homewrecker | 3.00% | ~54 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~36 |
 | Going Postal | 2.00% | ~36 |
 | Loot, Pillage & Craft | 2.00% | ~36 |

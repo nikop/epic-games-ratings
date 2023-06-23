@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "c504de6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
+  "LastChanged_Achievements": "2023-06-23T10:04:05.7234591+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:27.1373745+00:00",
-  "LastUpdate_Ratings": "2023-06-23T08:59:01.9532577+00:00",
-  "LastUpdate_Achievements": "2023-06-23T09:04:26.2408182+00:00"
+  "LastUpdate_Ratings": "2023-06-23T09:59:08.214369+00:00",
+  "LastUpdate_Achievements": "2023-06-23T10:04:05.7234632+00:00"
 }

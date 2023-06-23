@@ -6,37 +6,37 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,369 |
-| No Escape | 86.00% | ~67,709 |
-| Seeker of Power | 85.00% | ~66,921 |
-| Hopes and Dreams | 82.00% | ~64,559 |
-| Lantern Smasher | 78.00% | ~61,410 |
-| The Pirate's Way | 74.00% | ~58,261 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,899 |
-| The King of the Dark Elves | 68.00% | ~53,537 |
-| Memories of the Distant Past | 66.00% | ~51,962 |
+| Manifestation of the Soul | 97.00% | ~76,370 |
+| No Escape | 86.00% | ~67,710 |
+| Seeker of Power | 85.00% | ~66,922 |
+| Hopes and Dreams | 82.00% | ~64,560 |
+| Lantern Smasher | 78.00% | ~61,411 |
+| The Pirate's Way | 74.00% | ~58,262 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,900 |
+| The King of the Dark Elves | 68.00% | ~53,538 |
+| Memories of the Distant Past | 66.00% | ~51,963 |
 | Distortion's Progeny | 63.00% | ~49,601 |
-| Savant | 62.00% | ~48,813 |
-| A Landscape of Memory | 58.00% | ~45,664 |
+| Savant | 62.00% | ~48,814 |
+| A Landscape of Memory | 58.00% | ~45,665 |
 | The Wind's Light | 54.00% | ~42,515 |
-| Vague Remembrances | 49.00% | ~38,578 |
+| Vague Remembrances | 49.00% | ~38,579 |
 | The Fire's Light | 47.00% | ~37,004 |
 | Phantom Memories | 47.00% | ~37,004 |
-| Imbued Memories | 46.00% | ~36,216 |
+| Imbued Memories | 46.00% | ~36,217 |
 | The Earth's Light | 45.00% | ~35,429 |
 | Shared Recollections | 42.00% | ~33,067 |
-| The Water's Light | 40.00% | ~31,492 |
-| Path of the Sage | 40.00% | ~31,492 |
-| Malice Takes Root | 37.00% | ~29,130 |
-| Path of the Dark Knight | 37.00% | ~29,130 |
-| Path of the Paladin | 37.00% | ~29,130 |
-| Path of the Breaker | 37.00% | ~29,130 |
-| Duty's Course | 36.00% | ~28,343 |
+| The Water's Light | 40.00% | ~31,493 |
+| Path of the Sage | 40.00% | ~31,493 |
+| Malice Takes Root | 37.00% | ~29,131 |
+| Path of the Dark Knight | 37.00% | ~29,131 |
+| Path of the Paladin | 37.00% | ~29,131 |
+| Path of the Breaker | 37.00% | ~29,131 |
+| Duty's Course | 36.00% | ~28,344 |
 | Path of the Liberator | 35.00% | ~27,556 |
 | Path of the Tyrant | 35.00% | ~27,556 |
 | Led by the Nose | 34.00% | ~26,769 |
 | Path of the Void Knight | 34.00% | ~26,769 |
-| Path of the Ninja | 33.00% | ~25,981 |
+| Path of the Ninja | 33.00% | ~25,982 |
 | Terminus of Fate | 32.00% | ~25,194 |
 | Path of the Assassin | 32.00% | ~25,194 |
 | His Name Is Garland | 32.00% | ~25,194 |
@@ -48,12 +48,12 @@ Number of Ratings: 1,919  (23.09.2022)
 | Master's Awakening | 19.00% | ~14,959 |
 | Jack-of-All-Trades | 19.00% | ~14,959 |
 | Cycle of Darkness | 16.00% | ~12,597 |
-| Job Master | 8.00% | ~6,298 |
+| Job Master | 8.00% | ~6,299 |
 | Crest Bearer | 7.00% | ~5,511 |
 | Strangers' Memories | 3.00% | ~2,362 |
 | A Tale of Origins and Endings | 2.00% | ~1,575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,731 (Ranked 66)  
+Progressed: 78,732 (Ranked 66)  
 Completed: 2,143 (2.72%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 2,143 (2.72%) (Ranked 60)
 | 2023-06-20 | 78,712 | 2,141 |
 | 2023-06-21 | 78,719 | 2,143 |
 | 2023-06-22 | 78,727 | 2,143 |
-| 2023-06-23 | 78,731 | 2,143 |
+| 2023-06-23 | 78,732 | 2,143 |
 ## Awards
 Max (Character Customization): 1,024  (Ranked 140)  
-Sum: 2,579 (Ranked 169)  
+Sum: 2,580 (Ranked 169)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -128,7 +128,7 @@ Diff (max vs sum): -29
 | This game has Great Boss Battles | 754 |
 | This game is Highly Recommended | 113 |
 | This game is Extremely Fun | 112 |
-| This game has Diverse Characters | 105 |
+| This game has Diverse Characters | 106 |
 | This game has Amazing Storytelling | 104 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Challenging Combat | 92 |
@@ -226,3 +226,4 @@ Diff (max vs sum): -29
 | 2023-06-09 | 4.50 | - | 754 | 1,555 |
 | 2023-06-20 | 4.51 | - | 754 | 1,555 |
 | 2023-06-22 | 4.51 | - | 1,024 | 2,579 |
+| 2023-06-23 | 4.51 | - | 1,024 | 2,580 |

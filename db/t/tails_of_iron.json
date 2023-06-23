@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -1883,9 +1883,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 481
+      "UsersEstimate": 498
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2018,8 +2018,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-06-23T08:01:59.1521301+00:00",
+  "LastChanged_Achievements": "2023-06-23T10:00:44.233418+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:03.2570669+00:00",
-  "LastUpdate_Ratings": "2023-06-23T08:58:42.0215773+00:00",
-  "LastUpdate_Achievements": "2023-06-23T08:01:59.152177+00:00"
+  "LastUpdate_Ratings": "2023-06-23T09:58:48.20385+00:00",
+  "LastUpdate_Achievements": "2023-06-23T10:00:44.2334621+00:00"
 }

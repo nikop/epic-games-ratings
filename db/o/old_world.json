@@ -4,10 +4,10 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 296,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8342,8 +8342,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-16T17:57:54.9647164+00:00",
-  "LastChanged_Achievements": "2023-06-23T09:06:44.4222012+00:00",
+  "LastChanged_Achievements": "2023-06-23T10:06:25.050223+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:37.7512679+00:00",
-  "LastUpdate_Ratings": "2023-06-23T08:58:17.8088107+00:00",
-  "LastUpdate_Achievements": "2023-06-23T09:06:44.4232534+00:00"
+  "LastUpdate_Ratings": "2023-06-23T09:58:24.1892777+00:00",
+  "LastUpdate_Achievements": "2023-06-23T10:06:25.0511515+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 340,
@@ -760,10 +760,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-06-23T10:00:39.9224137+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 441,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 441,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -819,7 +825,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 26
+      "Count": 49
     }
   ],
   "EOS_Progressed": 0,
@@ -834,8 +840,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-06-23T07:01:40.1023199+00:00",
+  "LastChanged": "2023-06-23T10:00:39.9224134+00:00",
   "LastUpdate_AppInfo": "2023-06-16T23:00:03.3754429+00:00",
-  "LastUpdate_Ratings": "2023-06-23T09:00:30.7602068+00:00",
-  "LastUpdate_Achievements": "2023-06-23T09:06:07.7368609+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:00:39.9224149+00:00",
+  "LastUpdate_Achievements": "2023-06-23T10:05:48.3949748+00:00"
 }

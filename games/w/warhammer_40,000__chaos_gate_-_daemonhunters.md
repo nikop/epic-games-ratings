@@ -128,8 +128,8 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-23 | 2,915 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 259)  
-Sum: 425 (Ranked 301)  
-Diff (max vs sum): -42  
+Sum: 425 (Ranked 302)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 211 |
