@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 9.00% | ~3,024,006 |
-| Snowflake | 8.00% | ~2,688,005 |
-| Fall Throttle | 7.00% | ~2,352,005 |
-| Big Bully | 6.00% | ~2,016,004 |
-| Face First | 6.00% | ~2,016,004 |
-| One to Watch | 5.00% | ~1,680,003 |
-| Fall Bae | 5.00% | ~1,680,003 |
-| Style Points | 5.00% | ~1,680,003 |
-| Troublemaker | 5.00% | ~1,680,003 |
-| Bargain Bucket | 4.00% | ~1,344,003 |
-| Flawless Victory | 4.00% | ~1,344,003 |
-| Ahead of the Pack | 4.00% | ~1,344,003 |
-| Stumble Chums | 4.00% | ~1,344,003 |
-| Victory! | 4.00% | ~1,344,003 |
-| Catwalk Model | 2.00% | ~672,001 |
-| Down to the Wire | 2.00% | ~672,001 |
-| Household Name | 2.00% | ~672,001 |
-| Head Turner | 2.00% | ~672,001 |
-| One giant leap | 2.00% | ~672,001 |
-| Big Air | 1.00% | ~336,001 |
-| Star of the Show | 1.00% | ~336,001 |
-| Quite Dashing | 1.00% | ~336,001 |
-| Shopping Spree | 1.00% | ~336,001 |
-| Squad Goals | 1.00% | ~336,001 |
-| Mad Trendy | 0.90% | ~302,401 |
-| Top Tier | 0.90% | ~302,401 |
-| Low Baller | 0.80% | ~268,801 |
-| Veteran Status | 0.50% | ~168,000 |
-| Show Off | 0.50% | ~168,000 |
-| Golden Guy | 0.40% | ~134,400 |
-| Track Star | 0.30% | ~100,800 |
-| Big Tease | 0.20% | ~67,200 |
-| Fall Guy Fashionista | 0.20% | ~67,200 |
-| Infallible | 0.10% | ~33,600 |
+| One small trip | 9.00% | ~3,024,106 |
+| Snowflake | 8.00% | ~2,688,094 |
+| Fall Throttle | 7.00% | ~2,352,082 |
+| Big Bully | 6.00% | ~2,016,071 |
+| Face First | 6.00% | ~2,016,071 |
+| One to Watch | 5.00% | ~1,680,059 |
+| Fall Bae | 5.00% | ~1,680,059 |
+| Style Points | 5.00% | ~1,680,059 |
+| Troublemaker | 5.00% | ~1,680,059 |
+| Bargain Bucket | 4.00% | ~1,344,047 |
+| Flawless Victory | 4.00% | ~1,344,047 |
+| Ahead of the Pack | 4.00% | ~1,344,047 |
+| Stumble Chums | 4.00% | ~1,344,047 |
+| Victory! | 4.00% | ~1,344,047 |
+| Catwalk Model | 2.00% | ~672,024 |
+| Down to the Wire | 2.00% | ~672,024 |
+| Household Name | 2.00% | ~672,024 |
+| Head Turner | 2.00% | ~672,024 |
+| One giant leap | 2.00% | ~672,024 |
+| Big Air | 1.00% | ~336,012 |
+| Star of the Show | 1.00% | ~336,012 |
+| Quite Dashing | 1.00% | ~336,012 |
+| Shopping Spree | 1.00% | ~336,012 |
+| Squad Goals | 1.00% | ~336,012 |
+| Mad Trendy | 0.90% | ~302,411 |
+| Top Tier | 0.90% | ~302,411 |
+| Low Baller | 0.80% | ~268,809 |
+| Veteran Status | 0.50% | ~168,006 |
+| Show Off | 0.50% | ~168,006 |
+| Golden Guy | 0.40% | ~134,405 |
+| Track Star | 0.30% | ~100,804 |
+| Big Tease | 0.20% | ~67,202 |
+| Fall Guy Fashionista | 0.20% | ~67,202 |
+| Infallible | 0.10% | ~33,601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,600,065 (Ranked 1)  
-Completed: 34,710 (0.10%) (Ranked 174)  
+Progressed: 33,601,177 (Ranked 1)  
+Completed: 34,718 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,10 +105,10 @@ Completed: 34,710 (0.10%) (Ranked 174)
 | 2023-06-20 | 33,542,698 | 34,404 |
 | 2023-06-21 | 33,565,089 | 34,507 |
 | 2023-06-22 | 33,589,545 | 34,655 |
-| 2023-06-23 | 33,600,065 | 34,710 |
+| 2023-06-23 | 33,601,177 | 34,718 |
 ## Awards
 Max (Great for Beginners): 142,432  (Ranked 7)  
-Sum: 1,323,260 (Ranked 5)  
+Sum: 1,323,306 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -120,7 +120,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 122,804 |
 | This game is Extremely Fun | 118,201 |
 | This game is Highly Recommended | 111,687 |
-| This game has Amazing Characters | 108,738 |
+| This game has Amazing Characters | 108,784 |
 | This game has Amazing Storytelling | 103,637 |
 | This game has Playful Visuals | 99,642 |
 ## Ratings History
@@ -275,4 +275,4 @@ Diff (max vs sum): 2
 | 2023-06-20 | 4.53 | - | 142,272 | 1,321,740 |
 | 2023-06-21 | 4.53 | - | 142,272 | 1,322,247 |
 | 2023-06-22 | 4.53 | - | 142,432 | 1,323,012 |
-| 2023-06-23 | 4.53 | - | 142,432 | 1,323,260 |
+| 2023-06-23 | 4.53 | - | 142,432 | 1,323,306 |

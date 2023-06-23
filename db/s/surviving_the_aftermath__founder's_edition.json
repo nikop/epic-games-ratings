@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1077,9 +1077,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6707,
+  "EOS_Progressed": 6709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6347,6 +6347,11 @@
       "Time": "2023-06-23T11:03:30.7529792+00:00",
       "NumProgressed": 6707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T12:03:14.2453781+00:00",
+      "NumProgressed": 6709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6358,7 +6363,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "10",
@@ -6374,7 +6379,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "12",
@@ -6390,7 +6395,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "14",
@@ -6398,7 +6403,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "15",
@@ -6414,7 +6419,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "17",
@@ -6438,7 +6443,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "2",
@@ -6446,7 +6451,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "20",
@@ -6462,7 +6467,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "22",
@@ -6470,7 +6475,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "23",
@@ -6478,7 +6483,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "24",
@@ -6494,7 +6499,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "26",
@@ -6502,7 +6507,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "27",
@@ -6510,7 +6515,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "28",
@@ -6518,7 +6523,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "29",
@@ -6582,7 +6587,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "36",
@@ -6606,7 +6611,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "39",
@@ -6614,7 +6619,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "4",
@@ -6622,7 +6627,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "40",
@@ -6630,7 +6635,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "41",
@@ -6638,7 +6643,7 @@
       "Name": "New Eden",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "42",
@@ -6686,7 +6691,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "48",
@@ -6742,7 +6747,7 @@
       "Name": "Amped Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "54",
@@ -6782,7 +6787,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "59",
@@ -6806,7 +6811,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "8",
@@ -6829,15 +6834,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6707,
+      "Progressed": 6709,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-22T20:59:54.8127001+00:00",
-  "LastChanged_Achievements": "2023-06-23T11:03:30.7529783+00:00",
+  "LastChanged_Achievements": "2023-06-23T12:03:14.2453775+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7217165+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:59:53.8261867+00:00",
-  "LastUpdate_Achievements": "2023-06-23T11:03:30.7530704+00:00"
+  "LastUpdate_Ratings": "2023-06-23T11:59:40.8842435+00:00",
+  "LastUpdate_Achievements": "2023-06-23T12:03:14.2454446+00:00"
 }

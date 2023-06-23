@@ -1,22 +1,22 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~63,986 |
-| Into the Unknown | 10.00% | ~58,169 |
-| First Shot | 10.00% | ~58,169 |
-| Herzlich Wilkommen! | 9.00% | ~52,352 |
-| Good Night & Good Luck | 9.00% | ~52,352 |
-| Sancho Panza | 8.00% | ~46,535 |
-| Under Pressure | 7.00% | ~40,718 |
-| On the Trail of the Enemy | 7.00% | ~40,718 |
-| Flag Burning | 7.00% | ~40,718 |
-| Oh, So This Is How It Works! | 7.00% | ~40,718 |
-| Night Hunter | 7.00% | ~40,718 |
+| You Never Forget Your First... | 11.00% | ~63,987 |
+| Into the Unknown | 10.00% | ~58,170 |
+| First Shot | 10.00% | ~58,170 |
+| Herzlich Wilkommen! | 9.00% | ~52,353 |
+| Good Night & Good Luck | 9.00% | ~52,353 |
+| Sancho Panza | 8.00% | ~46,536 |
+| Under Pressure | 7.00% | ~40,719 |
+| On the Trail of the Enemy | 7.00% | ~40,719 |
+| Flag Burning | 7.00% | ~40,719 |
+| Oh, So This Is How It Works! | 7.00% | ~40,719 |
+| Night Hunter | 7.00% | ~40,719 |
 | Light in the Darkness | 6.00% | ~34,902 |
 | Get Outta My House! | 6.00% | ~34,902 |
 | It Wasn't That Hard, Was It? | 6.00% | ~34,902 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581,692 (Ranked 26)  
+Progressed: 581,703 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-20 | 580,637 | 57 |
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
-| 2023-06-23 | 581,692 | 57 |
+| 2023-06-23 | 581,703 | 57 |
 ## Awards
 Max (Character Customization): 7,963  (Ranked 40)  
-Sum: 18,496 (Ranked 56)  
+Sum: 18,503 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -150,8 +150,8 @@ Diff (max vs sum): -16
 | This game has Amazing Characters | 684 |
 | This game has Diverse Characters | 683 |
 | This game is Extremely Fun | 674 |
-| This game has Quickly Understood Controls | 646 |
-| This game has Amazing Storytelling | 635 |
+| This game has Quickly Understood Controls | 648 |
+| This game has Amazing Storytelling | 640 |
 | This game is Relaxing | 625 |
 | This game has a Creative Community | 515 |
 | This game has Obsessive Gameplay | 230 |
@@ -320,4 +320,4 @@ Diff (max vs sum): -16
 | 2023-06-20 | 4.58 | - | 7,913 | 18,357 |
 | 2023-06-21 | 4.58 | - | 7,931 | 18,419 |
 | 2023-06-22 | 4.58 | - | 7,963 | 18,493 |
-| 2023-06-23 | 4.58 | - | 7,963 | 18,496 |
+| 2023-06-23 | 4.58 | - | 7,963 | 18,503 |

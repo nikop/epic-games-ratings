@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 26,
@@ -6047,10 +6047,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18496,
       "NumberOfAwardsMax": 7963
+    },
+    {
+      "Time": "2023-06-23T11:59:36.2959138+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18503,
+      "NumberOfAwardsMax": 7963
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18496,
+  "NumberOfAwards": 18503,
   "NumberOfAwardsMax": 7963,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6088,7 +6094,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 646
+      "Count": 648
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6106,7 +6112,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 635
+      "Count": 640
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6127,9 +6133,9 @@
       "Count": 515
     }
   ],
-  "EOS_Progressed": 581692,
+  "EOS_Progressed": 581703,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 3711,
+  "EOS_NewPlayers": 3699,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12932,6 +12938,11 @@
       "Time": "2023-06-23T11:06:04.2053839+00:00",
       "NumProgressed": 581692,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-23T12:05:56.8056542+00:00",
+      "NumProgressed": 581703,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 65,
@@ -12943,7 +12954,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58169
+      "UsersEstimate": 58170
     },
     {
       "ID": "achievement_02",
@@ -12951,7 +12962,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58169
+      "UsersEstimate": 58170
     },
     {
       "ID": "achievement_03",
@@ -12959,7 +12970,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52352
+      "UsersEstimate": 52353
     },
     {
       "ID": "achievement_04",
@@ -12967,7 +12978,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "achievement_05",
@@ -12975,7 +12986,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "achievement_06",
@@ -13079,7 +13090,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46535
+      "UsersEstimate": 46536
     },
     {
       "ID": "achievement_19",
@@ -13135,7 +13146,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "achievement_26",
@@ -13151,7 +13162,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63986
+      "UsersEstimate": 63987
     },
     {
       "ID": "achievement_28",
@@ -13159,7 +13170,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "achievement_29",
@@ -13231,7 +13242,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52352
+      "UsersEstimate": 52353
     },
     {
       "ID": "achievement_38",
@@ -13247,7 +13258,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "achievement_40",
@@ -13462,21 +13473,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 581692,
+      "Progressed": 581703,
       "Completed": 57
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 227136,
+      "Progressed": 227147,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-06-23T10:00:05.1332581+00:00",
-  "LastChanged_Achievements": "2023-06-23T11:06:04.2053834+00:00",
+  "LastChanged": "2023-06-23T11:59:36.2959136+00:00",
+  "LastChanged_Achievements": "2023-06-23T12:05:56.8056537+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.7148169+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:59:50.158969+00:00",
-  "LastUpdate_Achievements": "2023-06-23T11:06:04.2055124+00:00"
+  "LastUpdate_Ratings": "2023-06-23T11:59:36.2959142+00:00",
+  "LastUpdate_Achievements": "2023-06-23T12:05:56.8057391+00:00"
 }

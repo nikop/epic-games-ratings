@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2924,9 +2924,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 10030,
+  "EOS_Progressed": 10031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7139,6 +7139,11 @@
       "Time": "2023-06-23T11:06:05.0582064+00:00",
       "NumProgressed": 10030,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T12:05:57.6928398+00:00",
+      "NumProgressed": 10031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7150,7 +7155,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "02_BurningCity",
@@ -8054,7 +8059,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -8077,21 +8082,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8812,
+      "Progressed": 8813,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10030,
+      "Progressed": 10031,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-22T19:58:37.3418076+00:00",
-  "LastChanged_Achievements": "2023-06-23T11:06:05.0582059+00:00",
+  "LastChanged_Achievements": "2023-06-23T12:05:57.6928393+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:58:31.0976794+00:00",
-  "LastUpdate_Achievements": "2023-06-23T11:06:05.0583966+00:00"
+  "LastUpdate_Ratings": "2023-06-23T11:58:15.6750472+00:00",
+  "LastUpdate_Achievements": "2023-06-23T12:05:57.6929926+00:00"
 }

@@ -24,13 +24,13 @@ Number of Ratings: 87  (23.09.2022)
 | Miner | 4.00% | ~3 |
 | Multilevel road | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~3 |
+| Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
 | Upgrade complete | 4.00% | ~30 |
 | Bridgemania | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |
-| Steam Age | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
 | Beginner | 2.00% | ~15 |

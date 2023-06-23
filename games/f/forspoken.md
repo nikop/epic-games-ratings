@@ -33,7 +33,7 @@ Rating: 4.16 (Ranked 861)
 | None the Wiser | 1.00% | ~387 |
 | Shocker | 1.00% | ~387 |
 | Pilgrimage: Novice | 1.00% | ~387 |
-| Forspoken | 0.90% | ~348 |
+| Forspoken | 0.90% | ~349 |
 | Wildfire | 0.70% | ~271 |
 | Awakening | 0.60% | ~232 |
 | Realized Potential | 0.60% | ~232 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 861)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,722 (Ranked 87)  
+Progressed: 38,724 (Ranked 87)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-20 | 38,690 | 3 |
 | 2023-06-21 | 38,702 | 3 |
 | 2023-06-22 | 38,713 | 3 |
-| 2023-06-23 | 38,722 | 3 |
+| 2023-06-23 | 38,724 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

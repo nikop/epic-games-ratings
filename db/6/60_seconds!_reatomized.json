@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -120,9 +120,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4385,
+  "EOS_Progressed": 4386,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2090,6 +2090,11 @@
       "Time": "2023-06-23T08:07:53.1690006+00:00",
       "NumProgressed": 4385,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-23T12:05:56.5593265+00:00",
+      "NumProgressed": 4386,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -2141,7 +2146,7 @@
       "Name": "Atomic drill",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_BAD_ENDING",
@@ -2149,7 +2154,7 @@
       "Name": "This is the end",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_BE_PREPARED",
@@ -2173,7 +2178,7 @@
       "Name": "All thumbs",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -2189,7 +2194,7 @@
       "Name": "Out of the Bag",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "ACH_CATDOM",
@@ -2285,7 +2290,7 @@
       "Name": "Girl Power",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "ACH_EASY",
@@ -2309,7 +2314,7 @@
       "Name": "No stone unturned",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_FAMILY_GUY",
@@ -2317,7 +2322,7 @@
       "Name": "Family guy",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -2397,7 +2402,7 @@
       "Name": "Home, sweet home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "ACH_MADHATTER",
@@ -2469,7 +2474,7 @@
       "Name": "A gift",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -2501,7 +2506,7 @@
       "Name": "The Dark Side",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "ACH_ROGUE",
@@ -2517,7 +2522,7 @@
       "Name": "I will survive!",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -2533,7 +2538,7 @@
       "Name": "Survivalist",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2541,7 +2546,7 @@
       "Name": "Last man standing",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -2549,7 +2554,7 @@
       "Name": "Prepper",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -2580,7 +2585,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 4385,
+      "Progressed": 4386,
       "Completed": 1
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-06-21T21:02:52.0033823+00:00",
-  "LastChanged_Achievements": "2023-06-23T11:06:03.8862716+00:00",
+  "LastChanged_Achievements": "2023-06-23T12:05:56.559326+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:51.6344219+00:00",
-  "LastUpdate_Ratings": "2023-06-23T11:00:14.1187061+00:00",
-  "LastUpdate_Achievements": "2023-06-23T11:06:03.8863488+00:00"
+  "LastUpdate_Ratings": "2023-06-23T12:00:00.3137381+00:00",
+  "LastUpdate_Achievements": "2023-06-23T12:05:56.5593799+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~36,248 |
-| Get Busy Living | 17.00% | ~23,700 |
-| Samuel Norton | 9.00% | ~12,547 |
-| Spare The Rod | 5.00% | ~6,971 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,577 |
-| Don't Put Me In The Dark | 3.00% | ~4,182 |
-| Wait and Hope | 3.00% | ~4,182 |
-| Iron Bars | 3.00% | ~4,182 |
-| Throw The Book At Them | 2.00% | ~2,788 |
+| Stone Walls | 26.00% | ~36,255 |
+| Get Busy Living | 17.00% | ~23,705 |
+| Samuel Norton | 9.00% | ~12,550 |
+| Spare The Rod | 5.00% | ~6,972 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,578 |
+| Don't Put Me In The Dark | 3.00% | ~4,183 |
+| Wait and Hope | 3.00% | ~4,183 |
+| Iron Bars | 3.00% | ~4,183 |
+| Throw The Book At Them | 2.00% | ~2,789 |
 | D.B. Cooper | 1.00% | ~1,394 |
-| Reformation | 0.60% | ~836 |
+| Reformation | 0.60% | ~837 |
 | Crowd Control | 0.50% | ~697 |
 | Freedom | 0.40% | ~558 |
 | Confined | 0.40% | ~558 |
 | It's Not What You Know... | 0.10% | ~139 |
 | ... It's What You Can Prove | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,414 (Ranked 57)  
+Progressed: 139,443 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,10 +87,10 @@ Completed: 5 (0.00%) (Ranked 230)
 | 2023-06-20 | 138,336 | 5 |
 | 2023-06-21 | 138,764 | 5 |
 | 2023-06-22 | 139,231 | 5 |
-| 2023-06-23 | 139,414 | 5 |
+| 2023-06-23 | 139,443 | 5 |
 ## Awards
 Max (Extremely Fun): 441  (Ranked 198)  
-Sum: 3,460 (Ranked 147)  
+Sum: 3,461 (Ranked 147)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -100,7 +100,7 @@ Diff (max vs sum): 51
 | This game has Quickly Understood Controls | 409 |
 | This game is Relaxing | 390 |
 | This game has Diverse Characters | 378 |
-| This game has Amazing Storytelling | 365 |
+| This game has Amazing Storytelling | 366 |
 | This game has Amazing Characters | 352 |
 | This game has a Creative Community | 275 |
 | This game has Obsessive Gameplay | 234 |
@@ -261,4 +261,4 @@ Diff (max vs sum): 51
 | 2023-06-20 | 4.61 | - | 440 | 3,449 |
 | 2023-06-21 | 4.61 | - | 440 | 3,450 |
 | 2023-06-22 | 4.61 | - | 441 | 3,459 |
-| 2023-06-23 | 4.61 | - | 441 | 3,460 |
+| 2023-06-23 | 4.61 | - | 441 | 3,461 |

@@ -20,14 +20,14 @@
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~54 |
 | Meat grinder | 60.00% | ~52 |
 | You're not going to blow me up! | 55.00% | ~48 |
-| Mushroom soup of the day | 51.00% | ~44 |
-| Honk honk! | 49.00% | ~43 |
+| Mushroom soup of the day | 52.00% | ~45 |
+| Honk honk! | 51.00% | ~44 |
 | Butcher | 49.00% | ~43 |
 | Spare Ribs | 49.00% | ~43 |
 | Cockadoodledoo! | 49.00% | ~43 |
 | Thats disgusting! | 47.00% | ~41 |
 | My pants squeak when I walk | 46.00% | ~40 |
-| Surprise!! | 41.00% | ~36 |
+| Surprise!! | 43.00% | ~37 |
 | Self assessed tax return | 40.00% | ~35 |
 | Make America Grate Again | 38.00% | ~33 |
 | Haemochromatosis | 37.00% | ~32 |

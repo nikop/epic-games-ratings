@@ -7,11 +7,11 @@ Rating: 4.46 (Ranked 604)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~31 |
 | Confirming Suspicions | 1.00% | ~31 |
+| Lord of War | 1.00% | ~31 |
 | The Kraken Wakes | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
 | Explosive Efficiency | 0.90% | ~28 |
-| Lord of War | 0.90% | ~28 |
 | Change the Channel | 0.90% | ~28 |
 | Target America | 0.90% | ~28 |
 | Sharpshooter | 0.80% | ~25 |

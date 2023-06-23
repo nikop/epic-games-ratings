@@ -53,8 +53,8 @@ Rating: 4.57 (Ranked 442)
 | Better Him Than Me | 0.60% | ~16 |
 | Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.30% | ~8 |
+| Soylent Green | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~5 |
-| Soylent Green | 0.20% | ~5 |
 | A Junker's Dream | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
