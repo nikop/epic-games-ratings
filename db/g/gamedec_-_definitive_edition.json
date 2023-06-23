@@ -354,9 +354,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 233372,
+  "EOS_Progressed": 233377,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7064,6 +7064,11 @@
       "Time": "2023-06-22T23:07:56.8095141+00:00",
       "NumProgressed": 233372,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-23T00:06:03.7085642+00:00",
+      "NumProgressed": 233377,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -7075,7 +7080,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63010
+      "UsersEstimate": 63012
     },
     {
       "ID": "ACH_AON",
@@ -7123,7 +7128,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -7131,7 +7136,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -7147,7 +7152,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -7155,7 +7160,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21003
+      "UsersEstimate": 21004
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -7203,7 +7208,7 @@
       "Name": "Irondec",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_ISRIFT",
@@ -7211,7 +7216,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_ISTARTED",
@@ -7219,7 +7224,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65344
+      "UsersEstimate": 65346
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -7227,7 +7232,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -7259,7 +7264,7 @@
       "Name": "Un-bear-able",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_LETSANOTHER",
@@ -7275,7 +7280,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -7291,7 +7296,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56009
+      "UsersEstimate": 56010
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -7323,7 +7328,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -7331,7 +7336,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -7355,7 +7360,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14002
+      "UsersEstimate": 14003
     },
     {
       "ID": "ACH_MEMORY5",
@@ -7395,7 +7400,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58343
+      "UsersEstimate": 58344
     },
     {
       "ID": "ACH_SOREAD",
@@ -7451,7 +7456,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -7490,7 +7495,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 233372,
+      "Progressed": 233377,
       "Completed": 7
     }
   ],
@@ -7498,8 +7503,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:07:56.8095135+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:06:03.7085631+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:40.9701615+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:58:51.1973261+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:07:56.8096055+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:58:17.4482455+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:06:03.7087163+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 79,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 55969,
+  "EOS_Progressed": 55970,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5782,6 +5782,11 @@
       "Time": "2023-06-22T23:02:31.4958041+00:00",
       "NumProgressed": 55969,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-23T00:00:43.4301179+00:00",
+      "NumProgressed": 55970,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6328,21 +6333,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 55969,
+      "Progressed": 55970,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19437,
+      "Progressed": 19438,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:02:31.4958032+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:00:43.4301169+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:24.9013525+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:58:32.6077603+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:02:31.4959975+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:58:05.0433643+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:00:43.4302185+00:00"
 }

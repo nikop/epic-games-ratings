@@ -23,7 +23,7 @@
 | This Is My Boomstick | 17.00% | ~14 |
 | Drinking Problem | 16.00% | ~21 |
 | Grave Digger | 16.00% | ~13 |
-| Summers Here | 13.00% | ~11 |
+| Summers Here | 14.00% | ~11 |
 | Carrocketeer | 12.00% | ~16 |
 | Skin Of Your Teeth | 11.00% | ~15 |
 | Pork Chop Express | 11.00% | ~15 |

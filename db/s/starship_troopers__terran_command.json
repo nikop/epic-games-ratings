@@ -2,7 +2,7 @@
   "ID": "ba1596b29e8b4b1199058fad440366a5",
   "Name": "Starship Troopers: Terran Command",
   "ProductSlug": "starship-troopers-terran-command",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 466,
@@ -330,6 +330,6 @@
   "FirstSeen": "2022-07-22T20:30:10.1660332+00:00",
   "LastChanged": "2023-06-17T20:57:33.2692049+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:08.9637829+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:58:09.5709964+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:05:51.9614655+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:57:49.4413813+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:04:37.7221761+00:00"
 }

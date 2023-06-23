@@ -11,25 +11,25 @@
 | Treasure Trove | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
 | Cartographer | 12.00% | ~86 |
+| Time Flies | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
-| The Loose Cannon | 11.00% | ~79 |
-| Time Flies | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
 | The Wicked Twins | 11.00% | ~79 |
 | The Prince in Heels | 11.00% | ~79 |
-| Honest Mistake | 11.00% | ~79 |
 | Golem Chaser | 11.00% | ~79 |
 | Fast Learner | 11.00% | ~79 |
 | Immaculate Aim | 11.00% | ~79 |
 | The Brass Boss | 11.00% | ~79 |
-| Like Clockwork | 10.00% | ~71 |
-| Street Style | 10.00% | ~71 |
-| The Man Who Shattered Time | 10.00% | ~71 |
-| Check Your Pulse | 10.00% | ~71 |
-| The Family Fortune | 10.00% | ~71 |
+| Like Clockwork | 10.00% | ~72 |
+| Street Style | 10.00% | ~72 |
+| The Man Who Shattered Time | 10.00% | ~72 |
+| The Loose Cannon | 10.00% | ~72 |
+| Honest Mistake | 10.00% | ~72 |
+| Check Your Pulse | 10.00% | ~72 |
+| The Family Fortune | 10.00% | ~72 |
 | Right On Time | 9.00% | ~64 |
 | Whiz Kid | 9.00% | ~64 |
 | Chaincrawler Explorer | 7.00% | ~50 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714 (Ranked 195)  
+Progressed: 715 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,3 +93,4 @@ Completed: 4 (0.56%) (Ranked 117)
 | 2023-06-19 | 709 | 4 |
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
+| 2023-06-23 | 715 | 4 |

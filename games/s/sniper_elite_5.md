@@ -23,13 +23,13 @@ Rating: 4.46 (Ranked 603)
 | Organ Grinder | 0.50% | ~15 |
 | Gunslinger | 0.50% | ~15 |
 | Set Europe Ablaze | 0.50% | ~15 |
+| Precision Is Key | 0.50% | ~15 |
 | Der Geist | 0.50% | ~15 |
 | Close Quarters | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Climbing the Ladder | 0.40% | ~12 |
 | No Stone Unturned | 0.40% | ~12 |
 | Skirmisher | 0.40% | ~12 |
-| Precision Is Key | 0.40% | ~12 |
 | Die Nussknacker Sweet! | 0.40% | ~12 |
 | Snake in the Grass | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 603)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,087 (Ranked 144)  
+Progressed: 3,088 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 2 (0.06%) (Ranked 190)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
+| 2023-06-23 | 3,088 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -619,9 +619,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -866,8 +866,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:04:48.8857102+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:03:55.3986279+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:01:59.2709053+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:04:48.8857449+00:00"
+  "LastUpdate_Ratings": "2023-06-23T00:00:21.1850827+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:03:55.3986797+00:00"
 }

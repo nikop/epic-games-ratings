@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 18.00% | ~1,802 |
+| Devoured by Darkness | 18.00% | ~1,803 |
 | A Spark | 13.00% | ~1,302 |
 | Burning City | 12.00% | ~1,202 |
-| Mythic Choices | 10.00% | ~1,001 |
-| Defender's Heart | 10.00% | ~1,001 |
-| Banner over the Citadel | 9.00% | ~901 |
+| Defender's Heart | 11.00% | ~1,102 |
+| Mythic Choices | 10.00% | ~1,002 |
+| Banner over the Citadel | 9.00% | ~902 |
 | Queen's Gratitude | 8.00% | ~801 |
 | Fifth Crusade | 6.00% | ~601 |
 | Embrace of the Abyss | 4.00% | ~401 |
@@ -20,14 +20,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~401 |
 | All Paths Open | 4.00% | ~401 |
 | Demonic and Divine | 4.00% | ~401 |
-| Path of the Azata | 3.00% | ~300 |
-| Transformation | 3.00% | ~300 |
-| The Legacy | 3.00% | ~300 |
-| Divide and Rule | 3.00% | ~300 |
-| Mythic Reinforcements | 3.00% | ~300 |
-| A Flame | 3.00% | ~300 |
-| Next-Door Play | 3.00% | ~300 |
-| Get the Toad | 3.00% | ~300 |
+| Path of the Azata | 3.00% | ~301 |
+| Transformation | 3.00% | ~301 |
+| The Legacy | 3.00% | ~301 |
+| Divide and Rule | 3.00% | ~301 |
+| Mythic Reinforcements | 3.00% | ~301 |
+| A Flame | 3.00% | ~301 |
+| Next-Door Play | 3.00% | ~301 |
+| Get the Toad | 3.00% | ~301 |
 | Heart of the Fallen Land | 2.00% | ~200 |
 | Path of the Trickster | 2.00% | ~200 |
 | Path of the Lich | 2.00% | ~200 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,013 (Ranked 115)  
+Progressed: 10,017 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-20 | 9,991 | 0 |
 | 2023-06-21 | 10,000 | 0 |
 | 2023-06-22 | 10,013 | 0 |
+| 2023-06-23 | 10,017 | 0 |
 ## Awards
 Max (Character Customization): 1,667  (Ranked 114)  
 Sum: 6,772 (Ranked 110)  

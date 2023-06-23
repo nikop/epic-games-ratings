@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,362 |
-| That's a Grand Army | 8.00% | ~4,766 |
-| That is mine! | 8.00% | ~4,766 |
-| Victorious! | 8.00% | ~4,766 |
+| Until death do us apart | 9.00% | ~5,363 |
+| That's a Grand Army | 8.00% | ~4,767 |
+| That is mine! | 8.00% | ~4,767 |
+| Victorious! | 8.00% | ~4,767 |
 | Brothers in Arms | 6.00% | ~3,575 |
 | That's a Grand Navy | 6.00% | ~3,575 |
 | Seriously?! | 6.00% | ~3,575 |
-| For the Glory | 5.00% | ~2,979 |
-| Cold War | 4.00% | ~2,383 |
-| True Catholic | 4.00% | ~2,383 |
-| Defender of the Faith | 3.00% | ~1,787 |
-| It's all about the money | 3.00% | ~1,787 |
-| Respected | 3.00% | ~1,787 |
-| Truly Divine Ruler | 3.00% | ~1,787 |
+| For the Glory | 5.00% | ~2,980 |
+| Cold War | 4.00% | ~2,384 |
+| True Catholic | 4.00% | ~2,384 |
+| Defender of the Faith | 3.00% | ~1,788 |
+| It's all about the money | 3.00% | ~1,788 |
+| Respected | 3.00% | ~1,788 |
+| Truly Divine Ruler | 3.00% | ~1,788 |
 | Agressive Expander | 2.00% | ~1,192 |
 | Blockader | 2.00% | ~1,192 |
 | Combined Arms | 2.00% | ~1,192 |
@@ -45,11 +45,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~477 |
 | Trustworthy | 0.80% | ~477 |
 | Electable! | 0.70% | ~417 |
-| All belongs to Mother Russia | 0.60% | ~357 |
-| At every continent | 0.60% | ~357 |
-| Early-Modern Warfare | 0.60% | ~357 |
-| Populists in Government | 0.60% | ~357 |
-| Time Bandit | 0.60% | ~357 |
+| All belongs to Mother Russia | 0.60% | ~358 |
+| At every continent | 0.60% | ~358 |
+| Early-Modern Warfare | 0.60% | ~358 |
+| Populists in Government | 0.60% | ~358 |
+| Time Bandit | 0.60% | ~358 |
 | One Family to Rule them All | 0.50% | ~298 |
 | Ruina Imperii | 0.50% | ~298 |
 | The pen is mightier than the sword | 0.50% | ~298 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,579 (Ranked 77)  
+Progressed: 59,591 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,6 +425,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
+| 2023-06-23 | 59,591 | 0 |
 ## Awards
 Max (Educational): 5,439  (Ranked 61)  
 Sum: 44,925 (Ranked 27)  

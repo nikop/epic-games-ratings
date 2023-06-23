@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beach | 89.00% | ~25 |
+| Beach | 93.00% | ~26 |
 | Library | 71.00% | ~20 |
 | Space | 57.00% | ~16 |
 | Haunted Mansion | 54.00% | ~15 |

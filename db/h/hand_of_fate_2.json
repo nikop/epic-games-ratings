@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658298,
+  "EOS_Progressed": 658300,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6745,6 +6745,11 @@
       "Time": "2023-06-22T23:07:55.0369085+00:00",
       "NumProgressed": 658298,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-23T00:06:02.4480116+00:00",
+      "NumProgressed": 658300,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6756,7 +6761,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473975
+      "UsersEstimate": 473976
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6764,7 +6769,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381813
+      "UsersEstimate": 381814
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6804,7 +6809,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -7020,7 +7025,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164574
+      "UsersEstimate": 164575
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -7139,15 +7144,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658298,
+      "Progressed": 658300,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:07:55.0369079+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:06:02.4480112+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:22.8524707+00:00",
-  "LastUpdate_Ratings": "2023-06-22T22:58:29.0655121+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:07:55.0369907+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:58:02.8250604+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:06:02.4481065+00:00"
 }

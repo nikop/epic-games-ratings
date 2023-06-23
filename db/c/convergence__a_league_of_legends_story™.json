@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1419,6 +1419,11 @@
       "Time": "2023-06-22T16:05:56.4732911+00:00",
       "NumProgressed": 714,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-23T00:05:45.1879077+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1478,7 +1483,7 @@
       "Name": "Like Clockwork",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ClovemaryGift",
@@ -1502,7 +1507,7 @@
       "Name": "Street Style",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CultivairChests1",
@@ -1566,7 +1571,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GadgetCompletion1",
@@ -1612,9 +1617,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 72
     },
     {
       "ID": "LacunaCompleted",
@@ -1668,9 +1673,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 86
     },
     {
       "ID": "ParryBoss",
@@ -1724,9 +1729,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 72
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1790,7 +1795,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TheaterChests1",
@@ -1846,21 +1851,21 @@
       "Name": "The Family Fortune",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:07:32.1432099+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:05:45.1879066+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:00.1424796+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:00:42.3131344+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:07:32.1432798+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:59:28.2932758+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:05:45.1879626+00:00"
 }

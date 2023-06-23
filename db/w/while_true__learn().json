@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 593515,
+  "EOS_Progressed": 593519,
   "EOS_Completed": 493,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-06-22T23:07:48.8072851+00:00",
       "NumProgressed": 593515,
       "NumCompleted": 493
+    },
+    {
+      "Time": "2023-06-23T00:05:58.0723478+00:00",
+      "NumProgressed": 593519,
+      "NumCompleted": 493
     }
   ],
   "TotalAchievements": 28,
@@ -7193,7 +7198,7 @@
       "Name": "README reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17805
+      "UsersEstimate": 17806
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -7209,7 +7214,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 356109
+      "UsersEstimate": 356111
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -7225,7 +7230,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 261147
+      "UsersEstimate": 261148
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -7257,7 +7262,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 284887
+      "UsersEstimate": 284889
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -7265,7 +7270,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 290822
+      "UsersEstimate": 290824
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -7273,7 +7278,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 551969
+      "UsersEstimate": 551973
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -7281,7 +7286,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142444
+      "UsersEstimate": 142445
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -7289,7 +7294,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17805
+      "UsersEstimate": 17806
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -7305,7 +7310,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 391720
+      "UsersEstimate": 391723
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -7321,7 +7326,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 314563
+      "UsersEstimate": 314565
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -7329,7 +7334,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47481
+      "UsersEstimate": 47482
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -7337,7 +7342,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17805
+      "UsersEstimate": 17806
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -7368,15 +7373,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 593515,
+      "Progressed": 593519,
       "Completed": 493
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-06-10T03:58:36.0147725+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:07:48.8072843+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:05:58.0723472+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:37.3517847+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:00:12.313811+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:07:48.8073897+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:59:09.1487074+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:05:58.0724023+00:00"
 }

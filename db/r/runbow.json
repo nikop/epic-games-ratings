@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245337,
+  "EOS_Progressed": 245340,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6094,6 +6094,11 @@
       "Time": "2023-06-22T23:07:51.4340994+00:00",
       "NumProgressed": 245337,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-23T00:05:59.8423099+00:00",
+      "NumProgressed": 245340,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -6129,7 +6134,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49067
+      "UsersEstimate": 49068
     },
     {
       "ID": "blotbuster",
@@ -6161,7 +6166,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41707
+      "UsersEstimate": 41708
     },
     {
       "ID": "cantBeKeptDown",
@@ -6209,7 +6214,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49067
+      "UsersEstimate": 49068
     },
     {
       "ID": "didYourTime",
@@ -6281,7 +6286,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130029
+      "UsersEstimate": 130030
     },
     {
       "ID": "indegestible",
@@ -6337,7 +6342,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34347
+      "UsersEstimate": 34348
     },
     {
       "ID": "myFirstRunbow",
@@ -6345,7 +6350,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122668
+      "UsersEstimate": 122670
     },
     {
       "ID": "notScared",
@@ -6472,7 +6477,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245337,
+      "Progressed": 245340,
       "Completed": 3
     }
   ],
@@ -6480,8 +6485,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-22T23:07:51.4340987+00:00",
+  "LastChanged_Achievements": "2023-06-23T00:05:59.8423085+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:46.736883+00:00",
-  "LastUpdate_Ratings": "2023-06-22T23:00:24.273255+00:00",
-  "LastUpdate_Achievements": "2023-06-22T23:07:51.4341751+00:00"
+  "LastUpdate_Ratings": "2023-06-22T23:59:16.8949145+00:00",
+  "LastUpdate_Achievements": "2023-06-23T00:05:59.8423902+00:00"
 }
